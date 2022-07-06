@@ -12,7 +12,10 @@ import sys
 Entrez.email = 'theo@theo.io'
 
 handle = open("working/titles.txt", "rt")
-
+all_previous_results = [
+    line.split("\t")[0] for line in open("working/titles_classified.txt")
+]
+all_previous_results = set(all_previous_results)
 
 output = open("working/titles_classified.txt", "a")
 
@@ -20,6 +23,9 @@ for line in tqdm.tqdm(handle):
     try:
         pmid, title = line.strip().split("\t")
     except ValueError:
+        continue
+    if pmid in all_previous_results:
+        print("Already classified", pmid, file=sys.stderr)
         continue
     prompt = title.replace("\n", "").replace("\r", "").replace(
         "\t", "") + "\n\n###\n\n"
@@ -44,5 +50,3 @@ for line in tqdm.tqdm(handle):
     ]
     results = [str(x) for x in results]
     print("\t".join(results), file=output)
-
-

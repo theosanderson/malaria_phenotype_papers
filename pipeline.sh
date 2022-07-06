@@ -1,1 +1,2 @@
-python search.py -m 5000 > working/titles.txt
+python search.py -m 5000
+python title_classification.py
