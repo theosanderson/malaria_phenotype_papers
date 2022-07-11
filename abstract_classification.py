@@ -9,7 +9,7 @@ import gzip
 Entrez.email = 'theo@theo.io'  # provide your email address
 done = set()
 if True:
-    handle = open("working/abstracts_classified.txt", "rt")
+    handle = open("working/abstracts_classified.tsv", "rt")
     
     for line in tqdm.tqdm(handle):
         items = line.strip().split("\t")
@@ -61,7 +61,7 @@ columns = [
     'secondary_result_prob',
 ]
 
-by_title = pd.read_csv("./working/titles_classified.txt",
+by_title = pd.read_csv("./working/titles_classified.tsv",
                        names=columns,
                        sep="\t")
 by_title['raw_prob'] = np.exp(by_title['main_result_prob'])
