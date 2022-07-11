@@ -9,7 +9,7 @@ import gzip
 Entrez.email = 'theo@theo.io'  # provide your email address
 done = set()
 if True:
-    handle = gzip.open("working/abstracts_classified.txt.gz", "rt")
+    handle = open("working/abstracts_classified.txt", "rt")
     
     for line in tqdm.tqdm(handle):
         items = line.strip().split("\t")
@@ -77,7 +77,7 @@ to_consider = phenotype['pmid'].to_list() + uncertain['pmid'].to_list()
 # dedupe
 to_consider = list(set(to_consider))
 
-out_handle = gzip.open("working/abstracts_classified.txt.gz", "a")
+out_handle = open("working/abstracts_classified.txt", "a")
 
 for pmid in tqdm.tqdm(to_consider):
     if str(pmid) in done:
