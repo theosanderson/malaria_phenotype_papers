@@ -61,7 +61,7 @@ columns = [
     'secondary_result_prob',
 ]
 
-by_title = pd.read_csv("./working/titles_classified.txt.gz",
+by_title = pd.read_csv("./working/titles_classified.txt",
                        names=columns,
                        sep="\t")
 by_title['raw_prob'] = np.exp(by_title['main_result_prob'])
