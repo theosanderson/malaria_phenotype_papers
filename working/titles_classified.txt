@@ -9993,3 +9993,120 @@
 32560115	Discovery of Anti-Amoebic Inhibitors from Screening the MMV Pandemic Response Box on Balamuthia mandrillaris, Naegleria fowleri, and Acanthamoeba castellanii.	other	-2.8565719e-05	berg	-0.6607624
 32560085	Taming the Boys for Global Good: Contraceptive Strategy to Stop Malaria Transmission.	other	-1.2828294e-05	other	-0.0591118
 32560073	Mobile Laboratory Reveals the Circulation of Dengue Virus Serotype I of Asian Origin in Medina Gounass (Guediawaye), Senegal.	other	-3.883893e-06	berg	-0.07974785
+35810303	Evaluation of antiplasmodial activity in silico and in vitro of N-acylhydrazone derivatives.	other	-6.635395e-05	hyd	-0.36131218
+35810142	Application of telemedicine in infectious diseases.	other	-7.937927e-06	other	-0.12479241
+35809642	Implications of conformational flexibility, lipid binding, and regulatory domains in cell traversal-protein CelTOS for apicomplexan migration.	other	-0.64215904	berg	-0.77504337
+35809480	Evaluation of G6PD deficiency in malaria patients in the south-east of Iran.	other	-4.361666e-06	g	-0.59818614
+35809349	Antimalarial drugs resistance genes of Plasmodium falciparum: a review.	other	-0.006328282	fal	-0.0020505514
+35807875	Prevalence Rate and Associated Risk Factors of Anaemia among under Five Years Children in Ethiopia.	other	-4.6010214e-06	aged	-1.8716482
+35807422	Fluorescent Nitrogen-Doped Carbon Dots for Label Live Elder Blood-Stage Plasmodium falciparum through New Permeability Pathways.	other	-4.072407e-05	fal	-0.007790292
+35807324	Phytochemical Profiling, Anti-Inflammatory, Anti-Oxidant and In-Silico Approach of Cornus macrophylla Bioss (Bark).	other	-7.698572e-06	berg	-0.23951705
+35806151	Broad Spectrum Functional Activity of Structurally Related Monoanionic Au(III) Bis(Dithiolene) Complexes.	other	-6.253833e-05	ural	-0.47230372
+35805545	Non-Human Primate Malaria Infections: A Review on the Epidemiology in Malaysia.	other	-1.9765537e-06	berg	-0.1153169
+35805519	Factors Associated with Underutilization of Maternity Health Care Cascade in Mozambique: Analysis of the 2015 National Health Survey.	other	-2.2159093e-06	other	-0.5572118
+35804925	3-Bromo-Isoxazoline Derivatives Inhibit GAPDH Enzyme in PDAC Cells Triggering Autophagy and Apoptotic Cell Death.	other	-0.00038781474	berg	-1.063419
+35804461	The resting behavior of malaria vectors in different ecological zones of Ghana and its implications for vector control.	other	-4.2433903e-06	ec	-2.0834274
+35804459	Plasmodium berghei Brca2 is required for normal development and differentiation in mice and mosquitoes.	phenotype	-0.030951811	berg	-2.0575926e-05
+35804441	Morphological identification and genetic characterization of Anopheles stephensi in Somaliland.	other	-1.7119806e-05	berg	-0.4438022
+35804032	A multi-epitope vaccine designed against blood-stage of malaria: an immunoinformatic and structural approach.	other	-7.016862e-05	fal	-0.14848998
+35803536	On the contribution of the rodent model Plasmodium chabaudi for understanding the genetics of drug resistance in malaria.	other	-0.021184789	berg	-0.008584424
+35801470	Global dynamics of SARS-CoV-2/malaria model with antibody immune response.	other	-7.3446927e-06	other	-0.6098354
+35801230	microRNAs: An opportunity to overcome significant challenges in malaria detection and control.	other	-4.716134e-05	berg	-1.8519169
+35800259	Elevated Plasma Soluble ST2 Levels are Associated With Neuronal Injury and Neurocognitive Impairment in Children With Cerebral Malaria.	other	-6.746778e-06	mal	-0.16461675
+35800239	Computational Models-Based Detection of Peripheral Malarial Parasites in Blood Smears.	other	-1.402038e-05	mal	-0.9404521
+35800123	Erratum: Knowledge of Malaria and Its Uncomplicated Treatment with Argemone mexicana L. in Selected Districts of Jimma Zone, Oromia Regional State, Ethiopia: A Community-Based Cross Sectional Survey [Corrigendum].	other	-1.3823812e-06	other	-0.008832983
+35799644	Dynamical Analysis on a Malaria Model with Relapse Preventive Treatment and Saturated Fumigation.	other	-9.370307e-06	mal	-0.60758835
+35799266	Correction: Assessing the impact of a novel house design on the incidence of malaria in children in rural Africa: study protocol for a household-cluster randomized controlled superiority trial.	other	-4.1232483e-06	house	-1.9158218
+35799247	Leveraging geo-referenced malaria information to increase domestic financial support for malaria elimination in Thailand.	other	-3.051303e-06	berg	-2.3996701
+35799172	Comparison of cone bioassay estimates at two laboratories with different Anopheles mosquitoes for quality assurance of pyrethroid insecticide-treated nets.	other	-9.490449e-06	other	-0.36686245
+35799168	Experiences and perceptions of care-seeking for febrile illness among caregivers, pregnant women, and health providers in eight districts of Madagascar.	other	-2.9311614e-06	other	-0.21888651
+35798952	Spatial variation and risk factors of malaria and anaemia among children aged 0 to 59 months: a cross-sectional study of 2010 and 2015 datasets.	other	-2.5744682e-06	years	-2.2174838
+35798930	Larval mosquito management and risk to aquatic ecosystems: A comparative approach including current tactics and gene-drive Anopheles techniques.	other	-2.0218295e-05	berg	-0.6871841
+35798826	The influence of the environment and indoor residual spraying on malaria risk in a cohort of children in Uganda.	other	-2.5744682e-06	on	-1.2060552
+35798366	Optimized pyridazinone nutrient channel inhibitors are potent and specific antimalarial leads.	other	-0.0005872311	channel	-1.7665683
+35798201	Multistage and transmission-blocking tubulin targeting potent antimalarial discovered from the open access MMV Pathogen Box.	other	-0.0023175674	fal	-1.2566544
+35798156	In-utero exposure to DDT and pyrethroids and child behavioral and emotional problems at 2 years of age in the VHEMBE cohort, South Africa.	other	-3.2906587e-06	other	-1.5270079
+35798100	Maternal exposure to DDT, DDE, and pyrethroid insecticides for malaria vector control and hypospadias in the VHEMBE birth cohort study, Limpopo, South Africa.	other	-1.8601542e-06	other	-0.01578394
+35797926	Action mechanisms of metallic compounds on Plasmodium spp.	other	-0.00059557945	berg	-0.4799113
+35797701	Isolation, characterisation and complement fixation activity of acidic polysaccharides from Argemone mexicana used as antimalarials in Mali.	other	-2.0218295e-05	berg	-0.5683039
+35797283	Emerging biology of noncoding RNAs in malaria parasites.	other	-0.0015832342	berg	-1.0091728
+35796955	CRISPR-Mediated Genome Engineering in Aedes aegypti.	other	-0.00035037097	berg	-1.0586034
+35796755	Etiology, Pathophysiology and Mortality of Shock in Children in Low (Middle) Income Countries: A Systematic Review.	other	-1.5006569e-06	shock	-1.8074967
+35796430	The influence of biological, epidemiological, and treatment factors on the establishment and spread of drug-resistant Plasmodium falciparum.	other	-0.00015374424	on	-1.6507282
+35794887	Transcriptional Profiles Analysis of COVID-19 and Malaria Patients Reveals Potential Biomarkers in Children.	other	-5.145473e-05	mal	-0.7996492
+35794597	Establishment and evaluation of glucose-modified nanocomposite liposomes for the treatment of cerebral malaria.	other	-1.3661821e-05	mal	-1.9771936
+35794471	A male steroid controls female sexual behaviour in the malaria mosquito.	other	-0.46504763	berg	-0.13339396
+35793920	Resurgence of blackwater fever among children in sub-Saharan Africa: a scoping review protocol.	other	-1.1430258e-06	berg	-1.4938143
+35793917	Correlates of late initiation and underutilisation of the recommended eight or more antenatal care visits among women of reproductive age: insights from the 2019 Ghana Malaria Indicator Survey.	other	-1.6207987e-06	years	-1.5977329
+35793394	Germinal center activity and B cell maturation are associated with protective antibody responses against Plasmodium pre-erythrocytic infection.	other	-0.00030893143	berg	-0.067771845
+35793345	Hotspots and super-spreaders: Modelling fine-scale malaria parasite transmission using mosquito flight behaviour.	other	-2.6180607e-05	berg	-0.63362366
+35793331	Prevalence of malaria and helminth infections in rural communities in northern Sierra Leone, a baseline study to inform Ebola vaccine study protocols.	other	-1.1430258e-06	berg	-1.4395609
+35792443	Phosphatase inhibitors BVT-948 and alexidine dihydrochloride inhibit sexual development of the malaria parasite Plasmodium berghei.	phenotype	-0.34356818	berg	-2.9399247e-05
+35791014	Co-implementing vitamin A supplementation with seasonal malaria chemoprevention in Sokoto State, Nigeria: a feasibility and acceptability study.	other	-3.051303e-06	v	-2.495752
+35790746	Inferring the epidemiological benefit of indoor vector control interventions against malaria from mosquito data.	other	-3.883893e-06	berg	-1.8812209
+35790256	Hydroxychloroquine Promotes Bcl-xL Inhibition-induced Apoptosis in BxPC-3 Human Pancreatic Cancer Cells.	other	-0.00043975122	ch	-0.96010417
+35789762	Effect of seasonal malaria chemoprevention in children between 5 and 9 years old in Kita and Bafoulabe districts, Mali.	other	-2.2159093e-06	berg	-1.7214625
+35789566	Spatio-temporal monitoring of health facility-level malaria trends in Zambia and adaptive scaling for operational intervention.	other	-4.721163e-06	ch	-1.9782974
+35789228	Assessment of anemia and associated risk factors among children under-five years old in the West Guji Zone, southern Ethiopia: Hospital-based cross-sectional study.	other	-1.6207987e-06	ast	-2.7045903
+35788037	In vitro antiplasmodial activity-directed investigation and UPLC-MS fingerprint of promising extracts and fractions from Terminalia ivorensis A. Chev. and Terminalia brownii Fresen.	other	-1.5448071e-05	berg	-0.58364236
+35787945	A deeper insight into the sialome of male and female Ochlerotatus triseriatus mosquitoes.	other	-0.00026838828	berg	-0.046600807
+35786567	First Total Syntheses of Natural Phenanthrene Alkaloids, Uvariopsamine, Noruvariopsamine, 8-Hydroxystephenanthrine, 8-Methoxyuvariopsine, Thalihazine, and Secophoebine, and Their Potential as Antimalarial Agents.	other	-8.065993e-05	fal	-0.6684736
+35786216	Evaluation of the Prevalence of Malaria and Cutaneous Leishmaniasis in the Pre- and Post-Disaster Years in Iran.	other	-3.4089344e-06	years	-1.31798
+35785795	Interplay between sickle cell anaemia and Plasmodium falciparum malaria.	other	-8.7733215e-06	fal	-0.3430371
+35785794	Sickle cell anaemia and severe Plasmodium falciparum malaria: a secondary analysis of the Transfusion and Treatment of African Children Trial (TRACT).	other	-3.6482897e-06	fal	-0.033653688
+35785235	Resistance intensity status of Anopheles gambiae s.l. species at KOLOKOPE, eastern plateau Togo: A potential site to assess new vector control tools.	other	-2.5744682e-06	berg	-0.104958005
+35784890	Editorial: Pathological Changes in Erythrocytes During Inflammation and Infection.	other	-7.818713e-06	other	-0.061645593
+35784810	A Nanoliposomal Gel Containing Cinnamomum zeylanicum Essential Oil with Effective Repellent against the Main Malaria Vector Anopheles stephensi.	other	-4.2272848e-05	berg	-0.05976263
+35784600	Susceptibility status of major malaria vectors to novaluron, an insect growth regulator South-Eastern Tanzania.	other	-1.9028084e-05	berg	-0.12104964
+35784598	Status of malaria and its implications for elimination in an endemic province of South Africa: retrospective analysis.	other	-1.1430258e-06	berg	-1.1218776
+35784341	Mechanisms for Host Immune Evasion Mediated by Plasmodium falciparum-Infected Erythrocyte Surface Antigens.	other	-0.025384776	fal	-0.0022965376
+35784216	Practice Level and Associated Factors Towards the Preventive Measures of COVID-19 Among the General Population; A Systematic Review and Meta-Analysis.	other	-1.2622395e-06	ch	-1.4724823
+35782946	Nutrient Deficiencies and Potential Alteration in Plasma Levels of Naturally Acquired Malaria-Specific Antibody Responses in Tanzanian Children.	other	-2.2484204e-05	mal	-0.36794928
+35782673	Disulfiram: A Repurposed Drug in Preclinical and Clinical Development for the Treatment of Infectious Diseases.	other	-1.306671e-05	other	-0.042163484
+35782658	Malaria Prevalence and Distribution of Plasmodium Species in Southern Region of Ethiopia.	other	-1.1514188e-05	berg	-0.08940489
+35782338	Mathematics of a single-locus model for assessing the impacts of pyrethroid resistance and temperature on population abundance of malaria mosquitoes.	other	-3.7983213e-05	berg	-0.26451048
+35782151	Gametogenesis in Plasmodium: Delving Deeper to Connect the Dots.	other	-0.26443794	berg	-0.07830884
+35782147	Expanding the Malaria Antibody Toolkit: Development and Characterisation of Plasmodium falciparum RH5, CyRPA, and CSP Recombinant Human Monoclonal Antibodies.	other	-5.7177684e-05	fal	-0.010870337
+35782145	Differential Trafficking and Expression of PIR Proteins in Acute and Chronic Plasmodium Infections.	other	-0.0017285522	berg	-0.15724604
+35781498	[Nucleic Acid-based Immuno-prophylaxis and -therapies against Tropical Diseases].	other	-1.0561456e-05	other	-0.92553174
+35781497	[A Strategic Partnership for Medicine Creation and Access to Medicine for Neglected Tropical Diseases].	other	-1.44972155e-05	other	-0.105901346
+35781496	[Partnership Activity for Neglected Tropical Diseases].	other	-9.966347e-06	other	-0.28591895
+35781495	[Corporate Efforts to Research and Develop Therapeutic Agents for Infectious Diseases That Threaten Human].	other	-9.966347e-06	other	-0.068291314
+35780829	DNA Topoisomerases in the Unicellular Protozoan Parasites: Unwinding the Mystery.	other	-0.0028104533	pro	-0.80848134
+35780153	Evaluation of the residual efficacy and physical durability of five long-lasting insecticidal nets (LLINs) in Senegal.	other	-1.6207987e-06	net	-1.7367209
+35780142	Accelerating malaria elimination in Cambodia: an intensified approach for targeting at-risk populations.	other	-7.937927e-06	c	-2.3308625
+35780113	Expanded geographic distribution and host preference of Anopheles gibbinsi (Anopheles species 6) in northern Zambia.	other	-8.4157e-06	berg	-0.005693321
+35780012	In vitro models for human malaria: targeting the liver stage.	other	-0.009902909	l	-0.5014771
+35779563	Is low-dose tafenoquine combined with dihydroartemisinin-piperaquine a potential risk factor for Plasmodium vivax resistance to 8-aminoquinolines?	other	-3.883893e-06	factors	-0.04547501
+35778766	Subsequent malaria enhances virus-specific T cell immunity in SIV-infected Chinese rhesus macaques.	other	-3.1901687e-05	berg	-1.0047405
+35778744	A closer look at the WHO cone bioassay: video analysis of the hidden effects of a human host on mosquito behaviour and insecticide contact.	other	-7.937927e-06	berg	-1.8830212
+35778540	A Multiscale Mathematical Model of Plasmodium Vivax Transmission.	other	-5.07376e-05	berg	-0.11091585
+35778492	After COVID, African countries vow to take the fight to malaria.	other	-1.688045e-05	elimination	-2.3850844
+35775739	Inner membrane complex proteomics reveals a palmitoylation regulation critical for intraerythrocytic development of malaria parasite.	phenotype	-0.042210363	berg	-0.19054095
+35775282	Identification of a rapidly-spreading triple mutant for high-level metabolic insecticide resistance in Anopheles gambiae provides a real-time molecular diagnostic for anti-malarial intervention deployment.	other	-0.0007784558	berg	-0.10937189
+35775278	Burden of and risk factors for sexual violence among women with and without disabilities in two sub-Saharan African countries.	other	-1.8601542e-06	on	-0.6164446
+35774704	Autoimmune Dysfunction Due to Severe Malaria.	other	-3.5477948e-05	mal	-0.32641116
+35773743	Blackwater fever and acute kidney injury in children hospitalized with an acute febrile illness: pathophysiology and prognostic significance.	other	-9.055464e-07	berg	-0.686733
+35773722	Mass drug administration of antibacterials: weighing the evidence regarding benefits and risks.	other	-5.5556293e-06	to	-1.3622404
+35772825	Exploring the key anthropological drivers of and barriers to zoonotic malaria preventative behaviour in a community exposed to Plasmodium knowlesi infection in Malaysia: protocol for a qualitative study with a participatory research design.	other	-1.8601542e-06	berg	-0.7228811
+35772810	The building blocks of community health systems: a systems framework for the design, implementation and evaluation of iCCM programs and community-based interventions.	other	-2.6893982e-05	other	-0.02745891
+35772735	Malaria Endemicity in the Rural Communities of Ebonyi State, Nigeria.	other	-8.5358415e-06	berg	-1.4061182
+35772362	Dihydroartemisinin alleviates deoxynivalenol induced liver apoptosis and inflammation in piglets.	other	-3.058758e-05	other	-0.049534645
+35772009	Distinct Histone Post-translational Modifications during Plasmodium falciparum Gametocyte Development.	other	-0.39220938	fal	-0.0022635593
+35771829	Novel RNA viruses associated with avian haemosporidian parasites.	other	-0.00015815685	berg	-0.64517367
+35771774	Artificial intelligence in differentiating tropical infections: A step ahead.	other	-1.4377073e-05	infect	-1.9042963
+35771615	Practical checklist for implementation of antifungal stewardship programmes.	other	-4.430127e-05	:	-0.50622004
+35770338	Protection by hydroxychloroquine prevents placental injury in obstetric antiphospholipid syndrome.	other	-0.00010080995	imal	-0.05949672
+35770314	Sociodemographic factors associated with the use of insecticide treated nets among under-fives in Nigeria: Evidence from a national survey.	other	-1.9765537e-06	other	-0.9564712
+35769873	A proposed theoretical framework for retinal biomarkers.	other	-2.6893982e-05	inal	-0.24996503
+35769847	Distribution Expansion of Dengue Vectors and Climate Change in India.	other	-7.3446927e-06	other	-0.22215502
+35769780	The Need for Strengthening Health Information Dissemination Toward Indoor Residual Spraying for Malaria Prevention in Malarious Area of Ethiopia.	other	-4.1232483e-06	other	-0.15147048
+35769665	Antisecretory and Spasmolytic Activities of Aqueous and Ethanolic Stem Bark Extracts of Nauclea diderrichii in Wistar Rats.	other	-1.2708151e-05	berg	-0.7898332
+35769479	Plasmodium vivax Protein PvTRAg23 Triggers Spleen Fibroblasts for Inflammatory Profile and Reduces Type I Collagen Secretion via NF-κBp65 Pathway.	other	-0.0010790813	berg	-0.5252199
+35769109	The impact of COVID-19 on essential health service provision for endemic infectious diseases in the South-East Asia region: A systematic review.	other	-7.8540467e-07	region	-3.2360234
+35768869	Making data map-worthy-enhancing routine malaria data to support surveillance and mapping of Plasmodium falciparum anti-malarial resistance in a pre-elimination sub-Saharan African setting: a molecular and spatiotemporal epidemiology study.	other	-2.0966954e-06	fal	-0.02784243
+35768835	Treatment with specific and pan-plasma membrane calcium ATPase (PMCA) inhibitors reduces malaria parasite growth in vitro and in vivo.	other	-0.02101531	pl	-1.5258881
+35768619	Frequency of gestational malaria and maternal-neonatal outcomes, in Northwestern Colombia 2009-2020.	other	-2.5744682e-06	other	-0.65059686
+35768450	Spatial patterns and climate drivers of malaria in three border areas of Brazil, Venezuela and Guyana, 2016-2018.	other	-1.1430258e-06	border	-0.26217657
+35768411	Host lung microbiota promotes malaria-associated acute respiratory distress syndrome.	other	-4.0963423e-05	l	-1.3238198
+35665597	Mechanisms of 8-aminoquinoline induced haemolytic toxicity in a G6PDd humanized mouse model.	other	-0.0014219402	fal	-2.075457
