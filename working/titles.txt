@@ -1,3 +1,30 @@
+35815526	Key interactions of pyrimethamine derivatives specific to wild-type and mutant P. falciparum dihydrofolate reductase based on 3D-QSAR, MD simulations and quantum chemical calculations.
+35815443	Cerebral malaria - modelling interactions at the blood-brain barrier in vitro.
+35815223	Helminthiasis, eosinophils, COVID-19 and vaccination.
+35815063	Lateral flow assays for viruses diagnosis: Up-to-date technology and future prospects.
+35814662	Babesia microti Infection Inhibits Melanoma Growth by Activating Macrophages in Mice.
+35814548	Deep Learning and Transfer Learning for Malaria Detection.
+35813680	Asymptomatic Malaria in Households and Neighbors of Laboratory Confirmed Cases in Raya Kobo District, Northeast Ethiopia.
+35813509	Under-five mortality in the Democratic Republic of the Congo: secondary analyses of survey and conflict data by province.
+35813273	Palestine 100 years ago, Hans Christian Anderson's tale of 'The Emperor's New Clothes', malaria elimination and today's failure of engagement with the community.
+35813272	Malaria surveillance amongst pregnant women attending antenatal care in private hospitals in Onitsha metropolis, South Eastern Nigeria.
+35813271	Barriers and facilitators to access and uptake of intermittent preventive treatment with sulfadoxine-pyrimethamine among pregnant women in Nigeria: a scoping review.
+35813270	Robert Koch, malaria pioneer.
+35813117	An ON-OFF Magneto-Optical Probe of Anisotropic Biofluid Crystals: A β-Hematin Case Study.
+35812734	Dissecting Generalizability and Actionability of Disease-Associated Genes From 20 Worldwide Ethnolinguistic Cultural Groups.
+35812711	Genetic polymorphism of Plasmodium falciparum msp-1, msp-2 and glurp vaccine candidate genes in pre-artemisinin era clinical isolates from Lakhimpur district in Assam, Northeast India.
+35812708	Dengue and Chikungunya virus circulation in Cameroon and Gabon: molecular evidence among symptomatic individuals.
+35812395	Alternative B Cell Differentiation During Infection and Inflammation.
+35812379	Heterologous Expression and Evaluation of Novel Plasmodium falciparum Transmission Blocking Vaccine Candidates.
+35811813	G6PD and HBB polymorphisms in the Senegalese population: prevalence, correlation with clinical malaria.
+35811680	Plasmodium knowlesi Cytoadhesion Involves SICA Variant Proteins.
+35811679	Rapid Visual Detection of Plasmodium Using Recombinase-Aided Amplification With Lateral Flow Dipstick Assay.
+35811678	Cytokines as Potential Biomarkers for Differential Diagnosis of Sepsis and Other Non-Septic Disease Conditions.
+35811673	Updated List of Transport Proteins in Plasmodium falciparum.
+35811310	Dihydroartemisinin regulates immune cell heterogeneity by triggering a cascade reaction of CDK and MAPK phosphorylation.
+35811308	Diagnostic performance of loop-mediated isothermal amplification and ultra-sensitive rapid diagnostic tests for malaria screening among pregnant women in Kenya.
+35811085	Rift Valley fever seropositivity in humans and domestic ruminants and associated risk factors in Sengerema, Ilala and Rufiji districts, Tanzania.
+35810476	Bagaza virus and Plasmodium spp. coinfection in red-legged partridges (Alectoris rufa), in southern Spain 2019.
 35810303	Evaluation of antiplasmodial activity in silico and in vitro of N-acylhydrazone derivatives.
 35810142	Application of telemedicine in infectious diseases.
 35809642	Implications of conformational flexibility, lipid binding, and regulatory domains in cell traversal-protein CelTOS for apicomplexan migration.
@@ -297,7 +324,7 @@
 35714271	Adenovirus vector-based vaccines as forefront approaches in fighting the battle against flaviviruses.
 35714097	Antibody response to a new member of the DBL family (EBP2) after a brief Plasmodium vivax exposure.
 35713696	The effect of climate change on malaria transmission in the southeast of Iran.
-35712895	Exploring Aspartic Protease Inhibitor Binding to Design-Selective Antimalarials.
+35712895	Exploring Aspartic Protease Inhibitor Binding to Design Selective Antimalarials.
 35712627	Appraising Neonatal Morbidity and Mortality in a Developing Country Categorized by Gestational Age Grouping and Implications for Targeted Interventions.
 35712377	The Prevalence of Transfusion Transmitted Infections among Blood Donors in Pakistan: A Retrospective Study.
 35711667	A Malaria Parasite Cross Reveals Genetic Determinants of Plasmodium falciparum Growth in Different Culture Media.
@@ -9971,30 +9998,3 @@
 32596165	Autoantibodies and Malaria: Where We Stand? Insights Into Pathogenesis and Protection.
 32595751	Antimalarial Activity of Crude Extract and Solvent Fractions of the Leaves of Bersama abyssinica Fresen. (Melianthaceae) against Plasmodium berghei Infection in Swiss Albino Mice.
 32595707	Evaluation of Asymptomatic Malaria Status in Eastern of Afghanistan Using High Resolution Melting Analysis.
-32595637	Editorial: Regulation of Immunity to Parasitic Infections Endemic to Africa.
-32595499	Treatment of Experimental Cerebral Malaria by Slow Release of Artemisone From Injectable Pasty Formulation.
-32594776	Characterization of solid lipid dispersions prepared by hot fusion containing a double-fixed dose combination of artemether and lumefantrine.
-32594154	Steep Rebound of Chloroquine-Sensitive Plasmodium falciparum in Zimbabwe.
-32593550	A computational approach to validate novel drug targets of gentianine from Swertiya chirayita in Plasmodium falciparum.
-32593334	Primaquine for Plasmodium vivax malaria treatment - Authors' reply.
-32593332	Primaquine for Plasmodium vivax malaria treatment.
-32500098	An enhanced toolkit for the generation of knockout and marker-free fluorescent Plasmodium chabaudi.
-34472512	Concomitant falciparum malaria and Hyperreactive Malarial Splenomegaly in an adolescent boy from eastern India: A tale of rare coincidences.
-34472504	Efficacy and safety of fixed dose combination of arterolane maleate and piperaquine phosphate in comparison with chloroquine phosphate in children with acute uncomplicated Plasmodium vivax malaria: A phase III, randomised, multicentric study.
-34472503	Antiplasmodial potential of Thalictrum foliolosum (Ranunculaceae) against lethal murine malaria.
-32591529	Structure and catalytic regulation of Plasmodium falciparum IMP specific nucleotidase.
-32591409	Glycolipid-peptide vaccination induces liver-resident memory CD8+ T cells that protect against rodent malaria.
-32590997	Presence of additional Plasmodium vivax malaria in Duffy negative individuals from Southwestern Nigeria.
-32590996	Anopheles arabiensis and Anopheles funestus biting patterns in Dielmo, an area of low level exposure to malaria vectors.
-32590983	Dynamics of anti-malarial antibodies in non-immune patients during and after a first and unique Plasmodium falciparum malaria episode.
-32590434	Malaria in HIV-infected patients in a nonendemic setting.
-32590098	Global research on artemisinin and its derivatives: Perspectives from patents.
-32590061	Travel preparation and health risks in Dutch and Belgian medical students during an elective in low- or middle-income countries: A prospective self-reporting cohort study.
-32589995	Natural Plasmodium infection in wild macaques of three states in peninsular Malaysia.
-32589757	TRICHOME AND ARTEMISININ REGULATOR 2 positively regulates trichome development and artemisinin biosynthesis in Artemisia annua.
-32589714	Plasmodium falciparum sexual parasites develop in human erythroblasts and affect erythropoiesis.
-32589689	System-wide biochemical analysis reveals ozonide antimalarials initially act by disrupting Plasmodium falciparum haemoglobin digestion.
-32589656	T. brucei infections abrogate diverse plasma cell-mediated effector B cell responses, independently of their specificity, affinity and host genetic background.
-32589637	Predictors of in-hospital mortality among under-five children with severe acute malnutrition in South-Western Uganda.
-32589621	Estimating the malaria transmission over the Indian subcontinent in a warming environment using a dynamical malaria model.
-32589439	Letter to the editor: G6PD deficiency in the Tafenoquine era.

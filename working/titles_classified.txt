@@ -10110,3 +10110,30 @@
 35768450	Spatial patterns and climate drivers of malaria in three border areas of Brazil, Venezuela and Guyana, 2016-2018.	other	-1.1430258e-06	border	-0.26217657
 35768411	Host lung microbiota promotes malaria-associated acute respiratory distress syndrome.	other	-4.0963423e-05	l	-1.3238198
 35665597	Mechanisms of 8-aminoquinoline induced haemolytic toxicity in a G6PDd humanized mouse model.	other	-0.0014219402	fal	-2.075457
+35815526	Key interactions of pyrimethamine derivatives specific to wild-type and mutant P. falciparum dihydrofolate reductase based on 3D-QSAR, MD simulations and quantum chemical calculations.	other	-7.350647e-05	fal	-0.0029068112
+35815443	Cerebral malaria - modelling interactions at the blood-brain barrier in vitro.	other	-1.402038e-05	berg	-2.1915274
+35815223	Helminthiasis, eosinophils, COVID-19 and vaccination.	other	-1.9765537e-06	e	-1.7166182
+35815063	Lateral flow assays for viruses diagnosis: Up-to-date technology and future prospects.	other	-1.6165199e-05	other	-0.5907249
+35814662	Babesia microti Infection Inhibits Melanoma Growth by Activating Macrophages in Mice.	other	-0.0040608444	other	-0.19668701
+35814548	Deep Learning and Transfer Learning for Malaria Detection.	other	-1.4139594e-05	mal	-0.65271896
+35813680	Asymptomatic Malaria in Households and Neighbors of Laboratory Confirmed Cases in Raya Kobo District, Northeast Ethiopia.	other	-1.7400124e-06	other	-0.15644293
+35813509	Under-five mortality in the Democratic Republic of the Congo: secondary analyses of survey and conflict data by province.	other	-1.8601542e-06	d	-2.887731
+35813273	Palestine 100 years ago, Hans Christian Anderson's tale of 'The Emperor's New Clothes', malaria elimination and today's failure of engagement with the community.	other	-5.4364154e-06	other	-0.4187318
+35813272	Malaria surveillance amongst pregnant women attending antenatal care in private hospitals in Onitsha metropolis, South Eastern Nigeria.	other	-3.2906587e-06	n	-1.7667916
+35813271	Barriers and facilitators to access and uptake of intermittent preventive treatment with sulfadoxine-pyrimethamine among pregnant women in Nigeria: a scoping review.	other	-1.5006569e-06	other	-0.4782666
+35813270	Robert Koch, malaria pioneer.	other	-0.0001599459	other	-0.12531798
+35813117	An ON-OFF Magneto-Optical Probe of Anisotropic Biofluid Crystals: A β-Hematin Case Study.	other	-5.0500123e-05	berg	-2.3442967
+35812734	Dissecting Generalizability and Actionability of Disease-Associated Genes From 20 Worldwide Ethnolinguistic Cultural Groups.	other	-3.154219e-05	eth	-0.5991213
+35812711	Genetic polymorphism of Plasmodium falciparum msp-1, msp-2 and glurp vaccine candidate genes in pre-artemisinin era clinical isolates from Lakhimpur district in Assam, Northeast India.	other	-7.818713e-06	fal	-0.0044043656
+35812708	Dengue and Chikungunya virus circulation in Cameroon and Gabon: molecular evidence among symptomatic individuals.	other	-1.6207987e-06	other	-1.2193536
+35812395	Alternative B Cell Differentiation During Infection and Inflammation.	other	-0.00010569845	b	-0.94401455
+35812379	Heterologous Expression and Evaluation of Novel Plasmodium falciparum Transmission Blocking Vaccine Candidates.	other	-0.016804524	fal	-0.0021315438
+35811813	G6PD and HBB polymorphisms in the Senegalese population: prevalence, correlation with clinical malaria.	other	-6.8669196e-06	berg	-0.33446154
+35811680	Plasmodium knowlesi Cytoadhesion Involves SICA Variant Proteins.	other	-0.4661152	fal	-0.024795406
+35811679	Rapid Visual Detection of Plasmodium Using Recombinase-Aided Amplification With Lateral Flow Dipstick Assay.	other	-1.4854846e-05	berg	-0.021587169
+35811678	Cytokines as Potential Biomarkers for Differential Diagnosis of Sepsis and Other Non-Septic Disease Conditions.	other	-4.9586424e-06	other	-0.91015637
+35811673	Updated List of Transport Proteins in Plasmodium falciparum.	other	-0.08969889	fal	-0.002718287
+35811310	Dihydroartemisinin regulates immune cell heterogeneity by triggering a cascade reaction of CDK and MAPK phosphorylation.	other	-0.0004045105	other	-0.0828898
+35811308	Diagnostic performance of loop-mediated isothermal amplification and ultra-sensitive rapid diagnostic tests for malaria screening among pregnant women in Kenya.	other	-1.6207987e-06	other	-0.77751493
+35811085	Rift Valley fever seropositivity in humans and domestic ruminants and associated risk factors in Sengerema, Ilala and Rufiji districts, Tanzania.	other	-3.2906587e-06	factors	-0.1912424
+35810476	Bagaza virus and Plasmodium spp. coinfection in red-legged partridges (Alectoris rufa), in southern Spain 2019.	other	-1.9765537e-06	berg	-0.1993743
