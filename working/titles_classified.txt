@@ -10137,3 +10137,31 @@
 35811308	Diagnostic performance of loop-mediated isothermal amplification and ultra-sensitive rapid diagnostic tests for malaria screening among pregnant women in Kenya.	other	-1.6207987e-06	other	-0.77751493
 35811085	Rift Valley fever seropositivity in humans and domestic ruminants and associated risk factors in Sengerema, Ilala and Rufiji districts, Tanzania.	other	-3.2906587e-06	factors	-0.1912424
 35810476	Bagaza virus and Plasmodium spp. coinfection in red-legged partridges (Alectoris rufa), in southern Spain 2019.	other	-1.9765537e-06	berg	-0.1993743
+35831037	Stopping prereferral rectal artesunate - a grave error.	other	-2.5941252e-05	art	-1.1853064
+35830574	Transition Path Sampling Based Calculations of Free Energies for Enzymatic Reactions: The Case of Human Methionine Adenosyl Transferase and Plasmodium vivax Adenosine Deaminase.	other	-2.7251614e-05	berg	-0.47362006
+35829783	Small-quantity lipid-based nutrient supplements, with or without added zinc, do not cause excessive fat deposition in Burkinabe children: results from a cluster-randomized community trial.	other	-3.7684315e-06	nutrition	-2.0621054
+35828483	Quinine in Malaria, Excluding the Simple Intermittents.	other	-1.2708151e-05	qu	-0.45987275
+35827962	Malaria and Its Toxic Influences-Malarial Hæmaturia.	other	-2.1768952e-05	other	-0.012328462
+35823455	Malaria, with Cases and Remarks on Renal Complication.	other	-6.2699432e-06	of	-1.3552045
+35823323	Malaria and Its Cause and Effect.	other	-7.4639065e-06	mal	-0.5672959
+35823289	Malaria Not the Cause of Fever.	other	-4.2511267e-05	other	-0.020490501
+35823161	Malaria and Scrofula as Respective Causes of Acute and Chronic Skin Diseases.	other	-7.3446927e-06	sc	-1.6455609
+35822871	First report of classical knockdown resistance (kdr) mutation, L1014F, in human head louse Pediculus humanus capitis (Phthiraptera: Anoplura).	other	-0.007722113	ic	-0.033488803
+35822551	Production of a high purity, C-tagged Hepatitis B surface Antigen fusion protein VLP vaccine for malaria expressed in Pichia pastoris under cGMP conditions.	other	-0.0009170917	other	-0.09610711
+35821489	Dual-Luciferase-Based Fast and Sensitive Detection of Malaria Hypnozoites for the Discovery of Anti-relapse Compounds.	other	-5.157113e-05	berg	-0.5607831
+35821487	Imaging Infection by Vector-Borne Protozoan Parasites Using Whole-Mouse Bioluminescence.	other	-1.402038e-05	berg	-0.9349148
+35818023	High burden of childhood tuberculosis in migrants: a retrospective cohort study from the Thailand-Myanmar border.	other	-1.7400124e-06	berg	-1.4888366
+35817892	Rhoptry secretion system structure and priming in Plasmodium falciparum revealed using in situ cryo-electron tomography.	other	-0.0014261173	fal	-0.0012622814
+35821133	Inhibitory effects of anthracyclines on partially purified 5'-3' DNA helicase of Plasmodium falciparum.	other	-0.00030797682	fal	-0.0042872136
+35821013	Malaria parasite heme biosynthesis promotes and griseofulvin protects against cerebral malaria in mice.	other	-0.023248326	mal	-1.5095278
+35820899	To spray or target mosquitoes another way: focused entomological intelligence guides the implementation of indoor residual spraying in southern Mozambique.	other	-1.0920954e-05	way	-2.3841088
+35820892	A systematic review and meta-analysis of blood interleukin-4 levels concerning malaria infection and severity.	other	-7.3446927e-06	associated	-1.0259565
+35820756	Prospective surveillance study to detect antimalarial drug resistance, gene deletions of diagnostic relevance and genetic diversity of Plasmodium falciparum in Mozambique: protocol.	other	-2.28437e-05	fal	-0.004642314
+35819996	Species Diversity of Anopheles Mosquitoes and Plasmodium vivax Infection Rates, Gyeonggi Province, Republic of Korea During 2020.	other	-1.1430258e-06	other	-0.37968397
+35819512	Indispensable role of microbes in anticancer drugs and discovery trends.	other	-0.00016459411	of	-0.65867174
+35818774	The 2021 Zika outbreak in Uttar Pradesh state of India: Tackling the emerging public health threat.	other	-5.3162735e-06	other	-0.63512295
+35818754	Malaria and malnutrition together jeopardizes India's tribal community and disease elimination.	other	-8.5358415e-06	t	-1.6850893
+35818703	Cost-Benefit Analysis of Tafenoquine for Radical Cure of Plasmodium vivax Malaria in Korea.	other	-2.693682e-06	mal	-0.6154773
+35818655	COVID-19 Pandemic-to-Endemic Transition in Indonesia: What Does the Future Hold?	other	-7.4639065e-06	other	-0.013909758
+35818561	Anemia and Associated Factors Among Under Five Year Old Children Who Attended Bule Hora General Hospital in West Guji zone, Southern Ethiopia.	other	-4.361666e-06	berg	-1.5247942
+35818410	From HIV to COVID-19, Molecular mechanisms of pathogens' trade-off and persistence in the community, potential targets for new drug development.	other	-1.8907942e-05	berg	-2.3301866
