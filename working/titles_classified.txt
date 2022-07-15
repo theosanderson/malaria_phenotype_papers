@@ -10165,3 +10165,15 @@
 35818655	COVID-19 Pandemic-to-Endemic Transition in Indonesia: What Does the Future Hold?	other	-7.4639065e-06	other	-0.013909758
 35818561	Anemia and Associated Factors Among Under Five Year Old Children Who Attended Bule Hora General Hospital in West Guji zone, Southern Ethiopia.	other	-4.361666e-06	berg	-1.5247942
 35818410	From HIV to COVID-19, Molecular mechanisms of pathogens' trade-off and persistence in the community, potential targets for new drug development.	other	-1.8907942e-05	berg	-2.3301866
+35835123	A salivary factor binds a cuticular protein and modulates biting by inducing morphological changes in the mosquito labrum.	other	-0.07914227	berg	-0.012968855
+35834514	Biocidal action, characterization, and molecular docking of Mentha piperita (Lamiaceae) leaves extract against Culex quinquefasciatus (Diptera: Culicidae) larvae.	other	-1.2351458e-05	berg	-1.5515919
+35834496	Alpha globin gene copy number and hypertension risk among Black Americans.	other	-2.9159892e-05	associated	-0.42862374
+35834276	Does Fetal Hemoglobin inhibit the malarial parasite Plasmodium falciparum?	other	-0.000887681	fal	-0.005266961
+35834159	Prevalence of Malaria and Covid-19 in Febrile Patients in Lomé, Togo in 2020.	other	-9.055464e-07	l	-2.0949109
+35833562	Modeling malaria transmission in Nepal: impact of imported cases through cross-border mobility.	other	-5.675771e-06	berg	-0.78782046
+35833536	Effect of black seeds (Nigella sativa) on inflammatory and immunomodulatory markers in Plasmodium berghei-infected mice.	other	-5.7770918e-05	other	-0.386041
+35833343	Pyrexia of unknown origin and its aetiology in Pakistan.	other	-3.2906587e-06	other	-1.4139992
+35832334	Attractive Sugar Bait Formulation for Development of Attractive Toxic Sugar Bait for Control of Aedes aegypti (Linnaeus).	other	-2.462996e-05	berg	-1.1112635
+35831720	Synergistic effect of chloroquine and copper to the euryhaline rotifer Proales similis.	other	-0.0017821107	berg	-0.5206748
+35831417	Selective expression of variant surface antigens enables Plasmodium falciparum to evade immune clearance in vivo.	other	-0.33889648	fal	-0.0005802513
+35820687	The Myanmar health crisis engulfing India's under-resourced border state.	other	-9.490449e-06	other	-0.034505546
