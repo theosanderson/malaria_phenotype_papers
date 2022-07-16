@@ -1,3 +1,18 @@
+35839244	Functional changes in hemostasis during asexual and sexual parasitemia in a controlled human malaria infection.
+35839086	Delivery of Small Molecules by Syndiotactic Peptides for Breast Cancer Therapy.
+35838413	Morphological and odorant-binding protein 1 gene intron 1 sequence variations in Anopheles stephensi from Jaffna city in northern Sri Lanka.
+35838346	Analysis of allelic cross-reactivity of monoclonal IgG antibodies by a multiplexed reverse FluoroSpot assay.
+35838092	Cloning, expression and purification of Plasmodium knowlesi circumsporozoite protein and immunoblot analysis with P. knowlesi strain A1H1 protein extract.
+35838087	First detection of Babesia sp. in Bornean sun bear (Helarctos malayanus euryspilus Horsfield) in Sabah, Malaysia.
+35836994	Impact of Urbanization on Health and Well-Being in Ghana. Status of Research, Intervention Strategies and Future Directions: A Rapid Review.
+35836261	Cross-platform mobile app development for disseminating public health information to travelers in Thailand: development and usability.
+35836234	Angiogenic and angiostatic factors present in the saliva of malaria patients.
+35836226	Anti-mosquito properties of Pelargonium roseum (Geraniaceae) and Juniperus virginiana (Cupressaceae) essential oils against dominant malaria vectors in Africa.
+35836179	Feasibility of community at-home dried blood spot collection combined with pooled reverse transcription PCR as a viable and convenient method for malaria epidemiology studies.
+35836171	Heterogeneity in prevalence of subclinical Plasmodium falciparum and Plasmodium vivax infections but no parasite genomic clustering in the Chittagong Hill Tracts, Bangladesh.
+35836156	Application of an innovative grid-based surveillance strategy to ensure elimination and prevent reintroduction of malaria in high-risk border communities in China.
+35835738	Phagocytosis of Plasmodium falciparum ring-stage parasites predicts protection against malaria.
+35835714	Type 2 immunity: a two-edged sword in schistosomiasis immunopathology.
 35835123	A salivary factor binds a cuticular protein and modulates biting by inducing morphological changes in the mosquito labrum.
 35834514	Biocidal action, characterization, and molecular docking of Mentha piperita (Lamiaceae) leaves extract against Culex quinquefasciatus (Diptera: Culicidae) larvae.
 35834496	Alpha globin gene copy number and hypertension risk among Black Americans.
@@ -9983,18 +9998,3 @@
 32614855	Knowledge, attitudes and bite prevention practices and estimation of productivity of vector breeding sites using a Habitat Suitability Score (HSS) among households with confirmed dengue in the 2014 outbreak in Dar es Salaam, Tanzania.
 32614795	Clinical features and treatment outcomes of visceral leishmaniasis patients admitted to three centers in Oromia, Ethiopia.
 32614757	The Comparison of Real-time-PCR-HRM and Microscopy Methods for Detection of Mixed Plasmodium spp. Infections in Laghman Province, Afghanistan.
-32614730	Partnerships and Collaborations: The Right Alliances for Clinical Trials in Africa.
-32614727	Operational Strategies for Clinical Trials in Africa.
-32614047	Genetic Diversity of Anopheles coustani (Diptera: Culicidae) in Malaria Transmission Foci in Southern and Central Africa.
-32612051	[Development of Medicines for Infectious Diseases -Malaria].
-32612002	Flavanones from the Twigs and Barks of Artocarpus lakoocha Having Antiplasmodial and Anti-TB Activities.
-32611432	Distribution and phylogenetic diversity of Anopheles species in malaria endemic areas of Honduras in an elimination setting.
-32611348	Haem oxygenase protects against thrombocytopaenia and malaria-associated lung injury.
-32611302	Combined CADD and Virtual Screening to Identify Novel Nonpeptidic Falcipain-2 Inhibitors.
-32611290	Bioprospecting of Nitrogenous Heterocyclic Scaffolds with Potential Action for Neglected Parasitosis: A Review.
-32610879	Hydroxychloroquine for COVID-19: What is our Current State of Knowledge?
-32610853	Spontaneous Bilateral Subdural Hematoma in a Patient with Falciparum Malaria.
-32610598	Naturally Acquired Humoral Immunity against Malaria Parasites in Non-Human Primates from the Brazilian Amazon, Cerrado and Atlantic Forest.
-32609932	Willingness to use HIV self-test kits and willingness to pay among urban antenatal clients in Cote d'Ivoire and Tanzania: a cross-sectional study.
-32609837	Anaemia in asymptomatic parasite carriers living in urban, rural and peri-urban settings of Gabon.
-32608017	Mechanisms of artemether toxicity on single cardiomyocytes and protective effect of nanoencapsulation.

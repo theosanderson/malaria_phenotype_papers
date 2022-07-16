@@ -10177,3 +10177,18 @@
 35831720	Synergistic effect of chloroquine and copper to the euryhaline rotifer Proales similis.	other	-0.0017821107	berg	-0.5206748
 35831417	Selective expression of variant surface antigens enables Plasmodium falciparum to evade immune clearance in vivo.	other	-0.33889648	fal	-0.0005802513
 35820687	The Myanmar health crisis engulfing India's under-resourced border state.	other	-9.490449e-06	other	-0.034505546
+35839244	Functional changes in hemostasis during asexual and sexual parasitemia in a controlled human malaria infection.	other	-0.056437615	fal	-0.4978076
+35839086	Delivery of Small Molecules by Syndiotactic Peptides for Breast Cancer Therapy.	other	-2.272356e-05	pe	-0.8623505
+35838413	Morphological and odorant-binding protein 1 gene intron 1 sequence variations in Anopheles stephensi from Jaffna city in northern Sri Lanka.	other	-9.72699e-06	berg	-0.66438955
+35838346	Analysis of allelic cross-reactivity of monoclonal IgG antibodies by a multiplexed reverse FluoroSpot assay.	other	-3.058758e-05	other	-1.3421139
+35838092	Cloning, expression and purification of Plasmodium knowlesi circumsporozoite protein and immunoblot analysis with P. knowlesi strain A1H1 protein extract.	other	-0.020854136	fal	-0.33149362
+35838087	First detection of Babesia sp. in Bornean sun bear (Helarctos malayanus euryspilus Horsfield) in Sabah, Malaysia.	other	-4.6010214e-06	other	-0.7937103
+35836994	Impact of Urbanization on Health and Well-Being in Ghana. Status of Research, Intervention Strategies and Future Directions: A Rapid Review.	other	-1.1430258e-06	other	-0.54934025
+35836261	Cross-platform mobile app development for disseminating public health information to travelers in Thailand: development and usability.	other	-2.6419024e-05	berg	-1.5275024
+35836234	Angiogenic and angiostatic factors present in the saliva of malaria patients.	other	-1.9741461e-05	affecting	-1.9205333
+35836226	Anti-mosquito properties of Pelargonium roseum (Geraniaceae) and Juniperus virginiana (Cupressaceae) essential oils against dominant malaria vectors in Africa.	other	-6.6294406e-06	oil	-0.5120166
+35836179	Feasibility of community at-home dried blood spot collection combined with pooled reverse transcription PCR as a viable and convenient method for malaria epidemiology studies.	other	-4.0040345e-06	epidem	-1.5956028
+35836171	Heterogeneity in prevalence of subclinical Plasmodium falciparum and Plasmodium vivax infections but no parasite genomic clustering in the Chittagong Hill Tracts, Bangladesh.	other	-3.2906587e-06	fal	-0.00962315
+35836156	Application of an innovative grid-based surveillance strategy to ensure elimination and prevent reintroduction of malaria in high-risk border communities in China.	other	-6.8669196e-06	other	-0.17748591
+35835738	Phagocytosis of Plasmodium falciparum ring-stage parasites predicts protection against malaria.	other	-0.00014909416	fal	-0.008816449
+35835714	Type 2 immunity: a two-edged sword in schistosomiasis immunopathology.	other	-2.9280032e-05	sch	-1.422997
