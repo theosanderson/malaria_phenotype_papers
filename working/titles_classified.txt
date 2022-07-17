@@ -10192,3 +10192,8 @@
 35836156	Application of an innovative grid-based surveillance strategy to ensure elimination and prevent reintroduction of malaria in high-risk border communities in China.	other	-6.8669196e-06	other	-0.17748591
 35835738	Phagocytosis of Plasmodium falciparum ring-stage parasites predicts protection against malaria.	other	-0.00014909416	fal	-0.008816449
 35835714	Type 2 immunity: a two-edged sword in schistosomiasis immunopathology.	other	-2.9280032e-05	sch	-1.422997
+35841892	A hypometabolic defense strategy against malaria.	other	-0.0041947323	mal	-1.0973271
+35841531	The Global Epidemiological Transition in Cardiovascular Diseases: Unrecognised Impact of Endemic Infections on Peripheral Artery Disease.	other	-2.693682e-06	end	-1.4148042
+35841448	Screening of febrile patients with suspected malaria from the Brazilian Amazon for virus infection.	other	-3.2906587e-06	berg	-1.9608052
+35840923	A framework for evaluating health system surveillance sensitivity to support public health decision-making for malaria elimination: a case study from Indonesia.	other	-1.2622395e-06	berg	-1.5904415
+35840625	Humanized mice for investigating sustained Plasmodium vivax blood-stage infections and transmission.	other	-0.00032192798	berg	-0.40785846

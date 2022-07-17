@@ -1,3 +1,8 @@
+35841892	A hypometabolic defense strategy against malaria.
+35841531	The Global Epidemiological Transition in Cardiovascular Diseases: Unrecognised Impact of Endemic Infections on Peripheral Artery Disease.
+35841448	Screening of febrile patients with suspected malaria from the Brazilian Amazon for virus infection.
+35840923	A framework for evaluating health system surveillance sensitivity to support public health decision-making for malaria elimination: a case study from Indonesia.
+35840625	Humanized mice for investigating sustained Plasmodium vivax blood-stage infections and transmission.
 35839244	Functional changes in hemostasis during asexual and sexual parasitemia in a controlled human malaria infection.
 35839086	Delivery of Small Molecules by Syndiotactic Peptides for Breast Cancer Therapy.
 35838413	Morphological and odorant-binding protein 1 gene intron 1 sequence variations in Anopheles stephensi from Jaffna city in northern Sri Lanka.
@@ -9993,8 +9998,3 @@
 32615884	Communal Innovations: Inspiring Neighborhoods of Hope and Advocacy.
 32615740	Spatiotemporal Trends of Malaria in Relation to Economic Development and Cross-Border Movement along the China-Myanmar Border in Yunnan Province.
 32615359	Targeting histone acetylation/deacetylation in parasites: an update (2017-2020).
-32614925	An urge to fill a knowledge void: Malaria parasites are rarely investigated in threatened species.
-32614914	Anopheles sundaicus  complex and the presence of Anopheles epiroticus in Indonesia.
-32614855	Knowledge, attitudes and bite prevention practices and estimation of productivity of vector breeding sites using a Habitat Suitability Score (HSS) among households with confirmed dengue in the 2014 outbreak in Dar es Salaam, Tanzania.
-32614795	Clinical features and treatment outcomes of visceral leishmaniasis patients admitted to three centers in Oromia, Ethiopia.
-32614757	The Comparison of Real-time-PCR-HRM and Microscopy Methods for Detection of Mixed Plasmodium spp. Infections in Laghman Province, Afghanistan.
