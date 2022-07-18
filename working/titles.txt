@@ -32,18 +32,10 @@
 35831037	Stopping prereferral rectal artesunate - a grave error.
 35830574	Transition Path Sampling Based Calculations of Free Energies for Enzymatic Reactions: The Case of Human Methionine Adenosyl Transferase and Plasmodium vivax Adenosine Deaminase.
 35829783	Small-quantity lipid-based nutrient supplements, with or without added zinc, do not cause excessive fat deposition in Burkinabe children: results from a cluster-randomized community trial.
-35828483	Quinine in Malaria, Excluding the Simple Intermittents.
-35827962	Malaria and Its Toxic Influences-Malarial Hæmaturia.
-35823455	Malaria, with Cases and Remarks on Renal Complication.
-35823323	Malaria and Its Cause and Effect.
-35823289	Malaria Not the Cause of Fever.
-35823161	Malaria and Scrofula as Respective Causes of Acute and Chronic Skin Diseases.
 35822871	First report of classical knockdown resistance (kdr) mutation, L1014F, in human head louse Pediculus humanus capitis (Phthiraptera: Anoplura).
 35822551	Production of a high purity, C-tagged Hepatitis B surface Antigen fusion protein VLP vaccine for malaria expressed in Pichia pastoris under cGMP conditions.
 35821489	Dual-Luciferase-Based Fast and Sensitive Detection of Malaria Hypnozoites for the Discovery of Anti-relapse Compounds.
 35821487	Imaging Infection by Vector-Borne Protozoan Parasites Using Whole-Mouse Bioluminescence.
-35818023	High burden of childhood tuberculosis in migrants: a retrospective cohort study from the Thailand-Myanmar border.
-35817892	Rhoptry secretion system structure and priming in Plasmodium falciparum revealed using in situ cryo-electron tomography.
 35821133	Inhibitory effects of anthracyclines on partially purified 5'-3' DNA helicase of Plasmodium falciparum.
 35821013	Malaria parasite heme biosynthesis promotes and griseofulvin protects against cerebral malaria in mice.
 35820899	To spray or target mosquitoes another way: focused entomological intelligence guides the implementation of indoor residual spraying in southern Mozambique.
@@ -58,6 +50,8 @@
 35818655	COVID-19 Pandemic-to-Endemic Transition in Indonesia: What Does the Future Hold?
 35818561	Anemia and Associated Factors Among Under Five Year Old Children Who Attended Bule Hora General Hospital in West Guji zone, Southern Ethiopia.
 35818410	From HIV to COVID-19, Molecular mechanisms of pathogens' trade-off and persistence in the community, potential targets for new drug development.
+35818023	High burden of childhood tuberculosis in migrants: a retrospective cohort study from the Thailand-Myanmar border.
+35817892	Rhoptry secretion system structure and priming in Plasmodium falciparum revealed using in situ cryo-electron tomography.
 35815526	Key interactions of pyrimethamine derivatives specific to wild-type and mutant P. falciparum dihydrofolate reductase based on 3D-QSAR, MD simulations and quantum chemical calculations.
 35815443	Cerebral malaria - modelling interactions at the blood-brain barrier in vitro.
 35815223	Helminthiasis, eosinophils, COVID-19 and vaccination.
@@ -9998,3 +9992,9 @@
 32615884	Communal Innovations: Inspiring Neighborhoods of Hope and Advocacy.
 32615740	Spatiotemporal Trends of Malaria in Relation to Economic Development and Cross-Border Movement along the China-Myanmar Border in Yunnan Province.
 32615359	Targeting histone acetylation/deacetylation in parasites: an update (2017-2020).
+32614925	An urge to fill a knowledge void: Malaria parasites are rarely investigated in threatened species.
+32614914	Anopheles sundaicus  complex and the presence of Anopheles epiroticus in Indonesia.
+32614855	Knowledge, attitudes and bite prevention practices and estimation of productivity of vector breeding sites using a Habitat Suitability Score (HSS) among households with confirmed dengue in the 2014 outbreak in Dar es Salaam, Tanzania.
+32614795	Clinical features and treatment outcomes of visceral leishmaniasis patients admitted to three centers in Oromia, Ethiopia.
+32614757	The Comparison of Real-time-PCR-HRM and Microscopy Methods for Detection of Mixed Plasmodium spp. Infections in Laghman Province, Afghanistan.
+32614730	Partnerships and Collaborations: The Right Alliances for Clinical Trials in Africa.
