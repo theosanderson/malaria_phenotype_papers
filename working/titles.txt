@@ -1,3 +1,33 @@
+35850780	Infectious disease surveillance system in Pakistan: challenges and way forward.
+35850777	Systematic review of Plasmodium knowlesi in Indonesia: a risk of emergence in the context of capital relocation to Borneo?
+35850687	Assessing Thailand's 1-3-7 surveillance strategy in accelerating malaria elimination.
+35850311	In vitro dual activity of Aloe marlothii roots and its chemical constituents against Plasmodium falciparum asexual and sexual stage parasites.
+35849705	What can twins teach us about malaria epidemiology?
+35849702	Natural history of malaria infections during early childhood in twins.
+35849609	Practices of herbal management of malaria among trading mothers in Shai Osudoku District, Accra.
+35849568	Prevalence of simian malaria among macaques in Malaysia (2000-2021): A systematic review.
+35848796	Geographic accessibility to childhood tuberculosis care in Pakistan.
+35848708	Antimalarial Pyrido[1,2-a]benzimidazoles Exert Strong Parasiticidal Effects by Achieving High Cellular Uptake and Suppressing Heme Detoxification.
+35848628	Motivators and barriers to blood donation among potential donors of African and Caucasian ethnicity.
+35848575	High burden of malaria among Malawian adults on antiretroviral therapy after discontinuing prophylaxis.
+35847777	Moderate Rainfall and High Humidity During the Monsoon Season, Negligence in Using Malaria Protection Methods and High Proportion of Mild Symptomatic Patients Were the Driving Forces for Upsurge of Malaria Cases in 2018 Among Tea Tribe Populations in Endemic Dolonibasti Health Sub-center, Udalguri District, Assam State, North-East India.
+35847561	Synthesis, spectral characterization, crystal structure and computational investigation of 2-formyl-6-methoxy-3-carbethoxy quinoline as potential SARS-CoV inhibitor.
+35847110	Metagenomic Investigation of Ticks From Kenyan Wildlife Reveals Diverse Microbial Pathogens and New Country Pathogen Records.
+35846757	Cytokine Profiles Associated With Acute COVID-19 and Long COVID-19 Syndrome.
+35846744	Streamlined and Robust Stage-Specific Profiling of Gametocytocidal Compounds Against Plasmodium falciparum.
+35846379	Protein-protein conjugation enhances immunogenicity of SARS-CoV-2 Receptor Binding Domain (RBD) vaccines.
+35846163	New weapons to fight malaria transmission: A historical view.
+35846072	Reviewing the Past, Present, and Future Risks of Pathogens in Ghana and What This Means for Rethinking Infectious Disease Surveillance for Sub-Saharan Africa.
+35845951	A Systematic Review on Antimicrobial and Antiparasitic Activity of Eurycoma longifolia Jack (Tongkat Ali).
+35845392	Asexual Blood-Stage Malaria Vaccine Candidate PfRipr5: Enhanced Production in Insect Cells.
+35845109	Microwave synthesis and antimalarial screening of novel 4-amino benzoic acid (PABA)-substituted pyrimidine derivatives as Plasmodium falciparum dihydrofolate reductase inhibitors.
+35844700	Age-specific differences in the magnitude of malaria-related anemia during low and high malaria seasons in rural Zambian children.
+35844531	Immune System Modulation by the Adjuvants Poly (I:C) and Montanide ISA 720.
+35844076	Trust the Process: Prolonged Babesia Parasitemia in an Elderly Man with Asplenia from the American Midwest.
+35843778	Thwarting protein synthesis leads to malaria parasite paralysis.
+35843447	Epidemiological and clinical characteristics of imported malaria in Bulgaria: A retrospective study of а 21-year period.
+35843175	Splenic clearance of rigid erythrocytes as an inherited mechanism for splenomegaly and natural resistance to malaria.
+35843076	A vision transformer based approach for analysis of plasmodium vivax life cycle for malaria prediction using thin blood smear microscopic images.
 35841892	A hypometabolic defense strategy against malaria.
 35841531	The Global Epidemiological Transition in Cardiovascular Diseases: Unrecognised Impact of Endemic Infections on Peripheral Artery Disease.
 35841448	Screening of febrile patients with suspected malaria from the Brazilian Amazon for virus infection.
@@ -403,7 +433,7 @@
 35708401	Multiplex loop mediated isothermal amplification (m-LAMP) as a point of care technique for diagnosis of malaria.
 35708398	An analytical review of vector- and pathogen-based transmission-blocking vaccine for malaria control.
 35708013	Materials-based vaccines for infectious diseases.
-35706363	Comprehensive Metabolite Identification Study of Arterolane using Hydrophilic Interaction Liquid Chromatography with Quadrupole-Time of Flight Mass Spectrometer.
+35706363	Comprehensive metabolite identification study of arterolane using hydrophilic interaction liquid chromatography with quadrupole-time-of-flight mass spectrometry.
 35706053	Prevalence of non-Plasmodium falciparum species in southern districts of Brazzaville in The Republic of the Congo.
 35706028	A reverse vaccinology approach on transmembrane carbonic anhydrases from Plasmodium species as vaccine candidates for malaria prevention.
 35705981	Entomological indicators of malaria transmission prior to a cluster-randomized controlled trial of a 'lethal house lure' intervention in central Côte d'Ivoire.
@@ -9968,33 +9998,3 @@
 32618524	The use of proteomics for the identification of promising vaccine and diagnostic biomarkers in Plasmodium falciparum.
 32618271	Profiling of myristoylation in Toxoplasma gondii reveals an N-myristoylated protein important for host cell penetration.
 32618267	Adherence to Mass Drug Administration with Dihydroartemisinin-Piperaquine and Plasmodium falciparum Clearance in Southern Province, Zambia.
-32618266	Evidence of Microbiome-Drug Interaction between the Antimalarial Lumefantrine and Gut Microbiota in Mice.
-32618265	Moving from Malaria Burden Reduction toward Elimination: An Evaluation of Mass Drug Administration in Southern Province, Zambia.
-32618264	The Role of Mass Drug Administration of Antimalarials.
-32618263	Prevalence of Asymptomatic and/or Low-Density Malaria Infection among High-Risk Groups in Peninsular Malaysia.
-32618256	Seroprevalence of Measles, Rubella, Tetanus, and Diphtheria Antibodies among Children in Haiti, 2017.
-32618255	Evidence for Reduced Malaria Parasite Population after Application of Population-Level Antimalarial Drug Strategies in Southern Province, Zambia.
-32618252	Prevalence of Plasmodium falciparum and Non-falciparum Infections by Photo-Induced Electron Transfer-PCR in a Longitudinal Cohort of Individuals Enrolled in a Mass Drug Administration Trial in Southern Province, Zambia.
-32618251	Treatment Coverage Estimation for Mass Drug Administration for Malaria with Dihydroartemisinin-Piperaquine in Southern Province, Zambia.
-32618250	Recent Travel History and Plasmodium falciparum Malaria Infection in a Region of Heterogenous Transmission in Southern Province, Zambia.
-32618249	Cost-Effectiveness of Focal Mass Drug Administration and Mass Drug Administration with Dihydroartemisinin-Piperaquine for Malaria Prevention in Southern Province, Zambia: Results of a Community-Randomized Controlled Trial.
-32618248	Implications of the MDA Trial in Southern Province, Zambia, for Malaria Control and Elimination.
-32618247	Impact of Four Rounds of Mass Drug Administration with Dihydroartemisinin-Piperaquine Implemented in Southern Province, Zambia.
-32618245	A Longitudinal Cohort to Monitor Malaria Infection Incidence during Mass Drug Administration in Southern Province, Zambia.
-32618244	Pyrethroid and Carbamate Resistance in Anopheles funestus Giles along Lake Kariba in Southern Zambia.
-32618242	Assessment of the Acceptability of Testing and Treatment during a Mass Drug Administration Trial for Malaria in Zambia Using Mixed Methods.
-32617525	Achieving accurate estimates of fetal gestational age and personalised predictions of fetal growth based on data from an international prospective cohort study: a population-based machine learning study.
-32617107	Antimalarial Plants Used across Kenyan Communities.
-32616799	Defining multiplicity of vector uptake in transfected Plasmodium parasites.
-32616767	Estimation of parasite age and synchrony status in Plasmodium falciparum infections.
-32616738	Selective whole genome amplification of Plasmodium malariae DNA from clinical samples reveals insights into population structure.
-32615960	Evaluating fidelity of community health worker roles in malaria prevention and control programs in Livingstone District, Zambia-A bottleneck analysis.
-32615884	Communal Innovations: Inspiring Neighborhoods of Hope and Advocacy.
-32615740	Spatiotemporal Trends of Malaria in Relation to Economic Development and Cross-Border Movement along the China-Myanmar Border in Yunnan Province.
-32615359	Targeting histone acetylation/deacetylation in parasites: an update (2017-2020).
-32614925	An urge to fill a knowledge void: Malaria parasites are rarely investigated in threatened species.
-32614914	Anopheles sundaicus  complex and the presence of Anopheles epiroticus in Indonesia.
-32614855	Knowledge, attitudes and bite prevention practices and estimation of productivity of vector breeding sites using a Habitat Suitability Score (HSS) among households with confirmed dengue in the 2014 outbreak in Dar es Salaam, Tanzania.
-32614795	Clinical features and treatment outcomes of visceral leishmaniasis patients admitted to three centers in Oromia, Ethiopia.
-32614757	The Comparison of Real-time-PCR-HRM and Microscopy Methods for Detection of Mixed Plasmodium spp. Infections in Laghman Province, Afghanistan.
-32614730	Partnerships and Collaborations: The Right Alliances for Clinical Trials in Africa.

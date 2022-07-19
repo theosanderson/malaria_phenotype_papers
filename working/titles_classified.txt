@@ -10197,3 +10197,33 @@
 35841448	Screening of febrile patients with suspected malaria from the Brazilian Amazon for virus infection.	other	-3.2906587e-06	berg	-1.9608052
 35840923	A framework for evaluating health system surveillance sensitivity to support public health decision-making for malaria elimination: a case study from Indonesia.	other	-1.2622395e-06	berg	-1.5904415
 35840625	Humanized mice for investigating sustained Plasmodium vivax blood-stage infections and transmission.	other	-0.00032192798	berg	-0.40785846
+35850780	Infectious disease surveillance system in Pakistan: challenges and way forward.	other	-3.7684315e-06	other	-0.9598534
+35850777	Systematic review of Plasmodium knowlesi in Indonesia: a risk of emergence in the context of capital relocation to Borneo?	other	-1.1278585e-05	berg	-0.36779666
+35850687	Assessing Thailand's 1-3-7 surveillance strategy in accelerating malaria elimination.	other	-4.4818075e-06	:	-1.4417095
+35850311	In vitro dual activity of Aloe marlothii roots and its chemical constituents against Plasmodium falciparum asexual and sexual stage parasites.	other	-6.325358e-05	other	-0.8844619
+35849705	What can twins teach us about malaria epidemiology?	other	-1.3661821e-05	children	-2.9888284
+35849702	Natural history of malaria infections during early childhood in twins.	other	-1.1991961e-05	children	-1.7767887
+35849609	Practices of herbal management of malaria among trading mothers in Shai Osudoku District, Accra.	other	-8.5358415e-06	mal	-2.2463927
+35849568	Prevalence of simian malaria among macaques in Malaysia (2000-2021): A systematic review.	other	-1.022884e-06	berg	-0.42375794
+35848796	Geographic accessibility to childhood tuberculosis care in Pakistan.	other	-1.3823812e-06	other	-0.81305385
+35848708	Antimalarial Pyrido[1,2-a]benzimidazoles Exert Strong Parasiticidal Effects by Achieving High Cellular Uptake and Suppressing Heme Detoxification.	other	-0.0004556153	fal	-1.788544
+35848628	Motivators and barriers to blood donation among potential donors of African and Caucasian ethnicity.	other	-6.2699432e-06	ities	-0.020555783
+35848575	High burden of malaria among Malawian adults on antiretroviral therapy after discontinuing prophylaxis.	other	-1.0204763e-05	mal	-0.3354499
+35847777	Moderate Rainfall and High Humidity During the Monsoon Season, Negligence in Using Malaria Protection Methods and High Proportion of Mild Symptomatic Patients Were the Driving Forces for Upsurge of Malaria Cases in 2018 Among Tea Tribe Populations in Endemic Dolonibasti Health Sub-center, Udalguri District, Assam State, North-East India.	other	-3.529076e-06	d	-2.0822365
+35847561	Synthesis, spectral characterization, crystal structure and computational investigation of 2-formyl-6-methoxy-3-carbethoxy quinoline as potential SARS-CoV inhibitor.	other	-2.6419024e-05	qu	-1.099757
+35847110	Metagenomic Investigation of Ticks From Kenyan Wildlife Reveals Diverse Microbial Pathogens and New Country Pathogen Records.	other	-1.0920954e-05	berg	-0.2595465
+35846757	Cytokine Profiles Associated With Acute COVID-19 and Long COVID-19 Syndrome.	other	-4.721163e-06	other	-0.26896816
+35846744	Streamlined and Robust Stage-Specific Profiling of Gametocytocidal Compounds Against Plasmodium falciparum.	other	-0.00072960096	fal	-0.020082539
+35846379	Protein-protein conjugation enhances immunogenicity of SARS-CoV-2 Receptor Binding Domain (RBD) vaccines.	other	-7.458028e-05	berg	-1.9523467
+35846163	New weapons to fight malaria transmission: A historical view.	other	-1.3900239e-05	mal	-1.0449622
+35846072	Reviewing the Past, Present, and Future Risks of Pathogens in Ghana and What This Means for Rethinking Infectious Disease Surveillance for Sub-Saharan Africa.	other	-7.8540467e-07	other	-1.0701954
+35845951	A Systematic Review on Antimicrobial and Antiparasitic Activity of Eurycoma longifolia Jack (Tongkat Ali).	other	-6.5092986e-06	other	-0.45069274
+35845392	Asexual Blood-Stage Malaria Vaccine Candidate PfRipr5: Enhanced Production in Insect Cells.	other	-0.10741655	mal	-0.78892106
+35845109	Microwave synthesis and antimalarial screening of novel 4-amino benzoic acid (PABA)-substituted pyrimidine derivatives as Plasmodium falciparum dihydrofolate reductase inhibitors.	other	-9.675685e-05	fal	-0.0010209638
+35844700	Age-specific differences in the magnitude of malaria-related anemia during low and high malaria seasons in rural Zambian children.	other	-6.8669196e-06	berg	-1.5734719
+35844531	Immune System Modulation by the Adjuvants Poly (I:C) and Montanide ISA 720.	other	-4.036551e-05	mal	-2.9114676
+35844076	Trust the Process: Prolonged Babesia Parasitemia in an Elderly Man with Asplenia from the American Midwest.	other	-1.1398727e-05	berg	-1.4114529
+35843778	Thwarting protein synthesis leads to malaria parasite paralysis.	phenotype	-0.14239821	berg	-0.46161276
+35843447	Epidemiological and clinical characteristics of imported malaria in Bulgaria: A retrospective study of а 21-year period.	other	-2.9311614e-06	:	-0.80611
+35843175	Splenic clearance of rigid erythrocytes as an inherited mechanism for splenomegaly and natural resistance to malaria.	other	-0.015214407	mechanism	-1.6955326
+35843076	A vision transformer based approach for analysis of plasmodium vivax life cycle for malaria prediction using thin blood smear microscopic images.	other	-3.8217877e-05	berg	-0.54703504
