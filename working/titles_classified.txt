@@ -10227,3 +10227,49 @@
 35843447	Epidemiological and clinical characteristics of imported malaria in Bulgaria: A retrospective study of а 21-year period.	other	-2.9311614e-06	:	-0.80611
 35843175	Splenic clearance of rigid erythrocytes as an inherited mechanism for splenomegaly and natural resistance to malaria.	other	-0.015214407	mechanism	-1.6955326
 35843076	A vision transformer based approach for analysis of plasmodium vivax life cycle for malaria prediction using thin blood smear microscopic images.	other	-3.8217877e-05	berg	-0.54703504
+35862820	Determination of the Stage Composition of Plasmodium Infections from Bulk Gene Expression Data.	other	-0.00014122359	berg	-0.01988686
+35862778	CDC50 Orthologues in Plasmodium falciparum Have Distinct Roles in Merozoite Egress and Trophozoite Maturation.	phenotype	-0.18128918	fal	-0.019543571
+35862752	Evaluation of the Performance of Ortho T. cruzi ELISA Test System for the Detection of Antibodies to Trypanosoma cruzi.	other	-1.3306066e-05	fal	-1.2891582
+35862750	Genetic Diversity of Plasmodium falciparum and Distribution of Antimalarial Drug Resistance Mutations in Symptomatic and Asymptomatic Infections.	other	-0.00013323847	fal	-0.0008271887
+35862743	Piperaquine Pharmacokinetic and Pharmacodynamic Profiles in Healthy Volunteers of Papua New Guinea after Administration of Three-Monthly Doses of Dihydroartemisinin-Piperaquine.	other	-1.1159372e-05	berg	-2.0956519
+35862377	Evaluation of intron-1 of odorant-binding protein-1 of Anopheles stephensi as a marker for the identification of biological forms or putative sibling species.	other	-0.0004049883	berg	-0.028623844
+35861604	Malarial Antibody Detection with an Engineered Yeast Agglutination Assay.	other	-3.1065356e-05	berg	-0.16788456
+35861105	Comprehensive characterization of a transgene insertion in a highly repetitive, centromeric region of Anopheles mosquitoes.	other	-0.14491689	berg	-0.0022173212
+35860811	Malaria serosurvey among acute febrile patients come for health care seeking at the high malaria-endemic setting of North West Ethiopia.	other	-2.4543265e-06	other	-0.019961286
+35859938	Spatial-temporal pattern of malaria in Burkina Faso from 2013 to 2020.	other	-1.8601542e-06	berg	-1.1424716
+35859460	Influence of social disadvantage among children admitted to the pediatric emergency unit of a tertiary Hospital in Nigeria.	other	-4.838501e-06	other	-0.5917582
+35859425	Cost of National Vector Borne Disease Control Programme in North India.	other	-3.2906587e-06	other	-0.8850735
+35854371	Insecticide-treated eave nets and window screens for malaria control in Chalinze district, Tanzania: a study protocol for a household randomised control trial.	other	-1.1430258e-06	other	-0.9521679
+35852520	Updated Malaria Recommendations for Children and Pregnant People.	other	-1.7475562e-05	mal	-0.31447333
+35851758	Clinical and population-based study design considerations to accelerate the investigation of new antiretrovirals during pregnancy.	other	-1.1430258e-06	for	-1.3183488
+35851210	In silico analysis, synthesis and biological evaluation of DHFR inhibitors.	other	-2.8445576e-05	berg	-2.4590585
+35851196	A contemporary chemical entities infiltrating in the antimalarial therapy era: a comprehensive review.	other	-2.0696069e-05	mal	-1.1996653
+35851033	Age-dependent changes in circulating Tfh cells influence development of functional malaria antibodies in children.	other	-0.00013824523	other	-1.219061
+35851027	Active case detection and treatment of malaria in pregnancy using LAMP technology (LAMPREG): a pragmatic randomised diagnostic outcomes trial-study protocol.	other	-1.1430258e-06	other	-1.5225813
+35851014	Identifying biomarkers for epilepsy after cerebral malaria in Zambian children: rationale and design of a prospective observational study.	other	-9.055464e-07	ep	-0.4226524
+35859154	Development of a rapid in vitro pre-screen for distinguishing effective liposome-adjuvant delivery systems.	other	-0.0009954268	berg	-2.135165
+35858978	Comparison of entomological impacts of two methods of intervention designed to control Anopheles gambiae s.l. via swarm killing in Western Burkina Faso.	other	-6.746778e-06	berg	-1.0269203
+35858931	Less is more: repellent-treated fabric strips as a substitute for full screening of open eave gaps for indoor and outdoor protection from malaria mosquito bites.	other	-0.00010688772	berg	-1.8372236
+35858916	Lessons for improved COVID-19 surveillance from the scale-up of malaria testing strategies.	other	-8.5358415e-06	other	-0.92782634
+35858821	A widespread survey of avian haemosporidia in deceased wild birds of Japan: the hidden value of personally collected samples.	other	-2.0575926e-05	berg	-1.1912873
+35858541	Direct type I interferon signaling in hepatocytes controls malaria.	other	-0.4321339	fal	-0.73215705
+35858344	Genetic variation that determines TAPBP expression levels associates with the course of malaria in an HLA allotype-dependent manner.	other	-0.0840546	fal	-0.28631356
+35857970	Suitability of methods for Plasmodium falciparum cultivation in atmospheric air.	other	-2.7133337e-05	fal	-0.18748131
+35857826	Improving the diagnosis of severe malaria in African children using platelet counts and plasma PfHRP2 concentrations.	other	-4.721163e-06	mal	-1.5555496
+35857773	Comparative efficacy and safety of the artemisinin derivatives compared to quinine for treating severe malaria in children and adults: A systematic update of literature and network meta-analysis.	other	-9.055464e-07	other	-0.036680337
+35857670	Higher-Dose Primaquine to Prevent Relapse of Plasmodium vivax Malaria. Reply.	other	-4.1232483e-06	mal	-1.4321128
+35857669	Higher-Dose Primaquine to Prevent Relapse of Plasmodium vivax Malaria.	other	-6.3900848e-06	berg	-1.5289441
+35857668	Higher-Dose Primaquine to Prevent Relapse of Plasmodium vivax Malaria.	other	-6.3900848e-06	berg	-1.5289441
+35857439	Broadly neutralizing antibodies target the coronavirus fusion peptide.	other	-0.00032657993	berg	-0.57981837
+35856666	Repurposing of MitoTam: Novel Anti-Cancer Drug Candidate Exhibits Potent Activity against Major Protozoan and Fungal Pathogens.	other	-3.6311474e-05	anti	-1.4569974
+35856202	[Epidemic situation of malaria and change trend in Belt and Road countries].	other	-1.5006569e-06	in	-0.90872663
+35856198	[Focus on epidemics of infectious diseases, prevention of risk of cross-border transmission].	other	-4.721163e-06	other	-0.6630675
+35856000	Assessment of antimalarial medicinal plants used in Nigerian ethnomedicine reveals antimalarial potential of Cucurbita pepo leaf extract.	other	-2.9311614e-06	berg	-1.1952789
+35855690	[Malarial antigens in the era of mRNA vaccines].	other	-5.6102934e-05	other	-0.6959207
+35855566	Prospective observational study to evaluate the clinical and biological safety profile of pyronaridine-artesunate in a rural health district in Burkina Faso.	other	-9.055464e-07	berg	-0.8834303
+35855424	Erratum: Assessment of electronic surveillance and knowledge, attitudes, and practice (KAP) survey toward imported malaria surveillance system acceptance in France.	other	-1.3823812e-06	other	-0.2233664
+35855049	Cross-sectional study of face mask use during the COVID-19 pandemic-Lusaka and Mansa Districts, Zambia, December 2020.	other	-2.2159093e-06	p	-1.3205631
+35854985	Missed Plasmodium ovale Infections Among Symptomatic Persons in Angola, Mozambique, and Ethiopia.	other	-2.0966954e-06	berg	-0.072692536
+35854826	The characterization of multiple novel paramyxoviruses highlights the diverse nature of the subfamily Orthoparamyxovirinae.	other	-0.0054910877	fal	-0.45391747
+35854731	CycleGAN with Dynamic Criterion for Malaria Blood Cell Image Synthetization.	other	-0.00011475737	other	-0.49702883
+35718220	Investigating the impact of multiple feeding attempts on mosquito dynamics via mathematical models.	other	-4.7279616e-05	berg	-0.6948433
