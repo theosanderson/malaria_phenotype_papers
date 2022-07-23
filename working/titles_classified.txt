@@ -10273,3 +10273,20 @@
 35854826	The characterization of multiple novel paramyxoviruses highlights the diverse nature of the subfamily Orthoparamyxovirinae.	other	-0.0054910877	fal	-0.45391747
 35854731	CycleGAN with Dynamic Criterion for Malaria Blood Cell Image Synthetization.	other	-0.00011475737	other	-0.49702883
 35718220	Investigating the impact of multiple feeding attempts on mosquito dynamics via mathematical models.	other	-4.7279616e-05	berg	-0.6948433
+35867928	[Eficacia de la tafenoquina en la profilaxis y tratamiento de la malaria por Plasmodium vivax, revisión sistemática y metaanálisis].	other	-2.0098154e-05	berg	-1.7425461
+35867920	[La campaña de erradicación de la malaria en Colombia, 1959-1979].	other	-1.771398e-05	other	-0.018969174
+35867918	[Malaria importada en población pediátrica de Alicante, España (1994-2019)].	other	-1.402038e-05	other	-0.053910933
+35867831	Declines in prevalence alter the optimal level of sexual investment for the malaria parasite Plasmodium falciparum.	other	-0.00940965	fal	-0.020344744
+35867757	Genetic and structural basis of the human anti-α-galactosyl antibody response.	other	-0.00015255497	fal	-1.0411707
+35867730	Hypnozoite depletion in successive Plasmodium vivax relapses.	other	-0.00021824928	berg	-0.09607981
+35867395	The Knock-Down of the Chloroquine Resistance Transporter PfCRT Is Linked to Oligopeptide Handling in Plasmodium falciparum.	phenotype	-0.136361	fal	-0.0088682845
+35867157	A rapid method for screening mosquito repellents on Anopheles pseudopunctipennis and Aedes aegypti.	other	-2.987608e-05	berg	-0.004405324
+35867068	Contrasting Effect of Salts on the Binding of Antimalarial Drug Hydroxychloroquine with Different Sequences of Duplex DNA.	other	-0.00016292612	sequ	-3.1462903
+35866869	BIRC6 modifies risk of invasive bacterial infection in Kenyan children.	other	-0.00022611799	berg	-0.7184292
+35866452	Rapid, point-of-care antigen tests for diagnosis of SARS-CoV-2 infection.	other	-5.5556293e-06	other	-0.44942123
+35866115	Prospects of Malaria Elimination Gaps in Iran.	other	-1.1514188e-05	berg	-2.6645167
+35865822	Evaluation of the Effect of Gene Duplication by Genome Editing on Drug Resistance in Plasmodium falciparum.	other	-0.016416427	fal	-0.0015901566
+35864543	Knowledge, attitudes and practices towards malaria diagnostics among healthcare providers and healthcare-seekers in Kondoa district, Tanzania: a multi-methodological situation analysis.	other	-5.460492e-07	method	-1.007334
+35864541	Genetic evidence of tri-genealogy hypothesis on the origin of ethnic minorities in Yunnan.	other	-3.023464e-05	g	-1.4770484
+35864530	Tracking malaria health disbursements by source in Zambia, 2009-2018: an economic modelling study.	other	-2.9311614e-06	ch	-2.3607612
+35864072	Keystone Malaria Symposium 2022: a vibrant discussion of progress made and challenges ahead from drug discovery to treatment.	other	-1.1039229e-05	mal	-0.259728

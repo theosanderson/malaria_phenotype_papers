@@ -1,3 +1,20 @@
+35867928	[Eficacia de la tafenoquina en la profilaxis y tratamiento de la malaria por Plasmodium vivax, revisión sistemática y metaanálisis].
+35867920	[La campaña de erradicación de la malaria en Colombia, 1959-1979].
+35867918	[Malaria importada en población pediátrica de Alicante, España (1994-2019)].
+35867831	Declines in prevalence alter the optimal level of sexual investment for the malaria parasite Plasmodium falciparum.
+35867757	Genetic and structural basis of the human anti-α-galactosyl antibody response.
+35867730	Hypnozoite depletion in successive Plasmodium vivax relapses.
+35867395	The Knock-Down of the Chloroquine Resistance Transporter PfCRT Is Linked to Oligopeptide Handling in Plasmodium falciparum.
+35867157	A rapid method for screening mosquito repellents on Anopheles pseudopunctipennis and Aedes aegypti.
+35867068	Contrasting Effect of Salts on the Binding of Antimalarial Drug Hydroxychloroquine with Different Sequences of Duplex DNA.
+35866869	BIRC6 modifies risk of invasive bacterial infection in Kenyan children.
+35866452	Rapid, point-of-care antigen tests for diagnosis of SARS-CoV-2 infection.
+35866115	Prospects of Malaria Elimination Gaps in Iran.
+35865822	Evaluation of the Effect of Gene Duplication by Genome Editing on Drug Resistance in Plasmodium falciparum.
+35864543	Knowledge, attitudes and practices towards malaria diagnostics among healthcare providers and healthcare-seekers in Kondoa district, Tanzania: a multi-methodological situation analysis.
+35864541	Genetic evidence of tri-genealogy hypothesis on the origin of ethnic minorities in Yunnan.
+35864530	Tracking malaria health disbursements by source in Zambia, 2009-2018: an economic modelling study.
+35864072	Keystone Malaria Symposium 2022: a vibrant discussion of progress made and challenges ahead from drug discovery to treatment.
 35862820	Determination of the Stage Composition of Plasmodium Infections from Bulk Gene Expression Data.
 35862778	CDC50 Orthologues in Plasmodium falciparum Have Distinct Roles in Merozoite Egress and Trophozoite Maturation.
 35862752	Evaluation of the Performance of Ortho T. cruzi ELISA Test System for the Detection of Antibodies to Trypanosoma cruzi.
@@ -108,7 +125,7 @@
 35830574	Transition Path Sampling Based Calculations of Free Energies for Enzymatic Reactions: The Case of Human Methionine Adenosyl Transferase and Plasmodium vivax Adenosine Deaminase.
 35829783	Small-quantity lipid-based nutrient supplements, with or without added zinc, do not cause excessive fat deposition in Burkinabe children: results from a cluster-randomized community trial.
 35822871	First report of classical knockdown resistance (kdr) mutation, L1014F, in human head louse Pediculus humanus capitis (Phthiraptera: Anoplura).
-35822551	Production of a high purity, C-tagged Hepatitis B surface Antigen fusion protein VLP vaccine for malaria expressed in Pichia pastoris under cGMP conditions.
+35822551	Production of a high purity, C-tagged hepatitis B surface antigen fusion protein VLP vaccine for malaria expressed in Pichia pastoris under cGMP conditions.
 35821489	Dual-Luciferase-Based Fast and Sensitive Detection of Malaria Hypnozoites for the Discovery of Anti-relapse Compounds.
 35821487	Imaging Infection by Vector-Borne Protozoan Parasites Using Whole-Mouse Bioluminescence.
 35821133	Inhibitory effects of anthracyclines on partially purified 5'-3' DNA helicase of Plasmodium falciparum.
@@ -152,7 +169,7 @@
 35811673	Updated List of Transport Proteins in Plasmodium falciparum.
 35811310	Dihydroartemisinin regulates immune cell heterogeneity by triggering a cascade reaction of CDK and MAPK phosphorylation.
 35811308	Diagnostic performance of loop-mediated isothermal amplification and ultra-sensitive rapid diagnostic tests for malaria screening among pregnant women in Kenya.
-35811085	Rift Valley fever seropositivity in humans and domestic ruminants and associated risk factors in Sengerema, Ilala and Rufiji districts, Tanzania.
+35811085	Rift Valley fever seropositivity in humans and domestic ruminants and associated risk factors in Sengerema, Ilala, and Rufiji districts, Tanzania.
 35810476	Bagaza virus and Plasmodium spp. coinfection in red-legged partridges (Alectoris rufa), in southern Spain 2019.
 35810303	Evaluation of antiplasmodial activity in silico and in vitro of N-acylhydrazone derivatives.
 35810142	Application of telemedicine in infectious diseases.
@@ -9981,20 +9998,3 @@
 32637318	A rare case of non-traumatic rupture of spleen secondary to Plasmodium ovale malaria.
 32637014	What about the treatment of asymptomatic forms of congenital malaria: case report and review of the literature.
 32636992	Road map for capacity building and development for biomedical sciences in Kenya.
-32636981	Gallbladder schistosomiasis - a rare presentation as gallbladder polyp: a case report.
-32636411	The proofreading activity of Pfprex from Plasmodium falciparum can prevent mutagenesis of the apicoplast genome by oxidized nucleotides.
-32636351	Neurological disorder and psychosocial aspects of cerebral malaria: what is new on its pathogenesis and complications? A minireview.
-32636334	Host and Parasite Transcriptomic Changes upon Successive Plasmodium falciparum Infections in Early Childhood.
-32636315	Enhancing science preparedness for health emergencies in Africa through research capacity building.
-32636148	Drug repurposing applied: Activity of the anti-malarial mefloquine against Echinococcus multilocularis.
-32635637	Role of Curcumin and (-)-Epigallocatechin-3-O-Gallate in Bladder Cancer Treatment: A Review.
-32634740	T Helper Plasticity Is Orchestrated by STAT3, Bcl6, and Blimp-1 Balancing Pathology and Protection in Malaria.
-32634311	Water Bridges Play a Key Role in Affinity and Selectivity for Malarial Protease Falcipain-2.
-32634228	Travel-related fever in the time of COVID-19 travel restrictions.
-32634015	Sensitivity and specificity of malaria rapid diagnostic test (mRDT CareStatTM) compared with microscopy amongst under five children attending a primary care clinic in southern Nigeria.
-32633561	Antimalarial agent artesunate induces G0/G1 cell cycle arrest and apoptosis via increasing intracellular ROS levels in normal liver cells.
-32633413	The antiviral mechanisms, effects, safety and adverse effects of chloroquine.
-32633401	In vitro redox activity of haemozoin and β-haemozoin interacting with the following antimalarials: artemether, lumefantrine and quinine.
-32633202	Lt. Cmdr. Laura M. Cobb (1892-1981): Chief navy nurse who oversaw medical care in WWII civilian concentration camps.
-32633099	The extent of chloroquine underdosing in adult patients with malaria by Plasmodium vivax from an endemic area of the Brazilian Amazon basin.
-32632500	iTRAQ-based quantitative proteomic analysis of peripheral blood serum in piglets infected with Actinobacillus pleuropneumoniae.
