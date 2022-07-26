@@ -10290,3 +10290,33 @@
 35864541	Genetic evidence of tri-genealogy hypothesis on the origin of ethnic minorities in Yunnan.	other	-3.023464e-05	g	-1.4770484
 35864530	Tracking malaria health disbursements by source in Zambia, 2009-2018: an economic modelling study.	other	-2.9311614e-06	ch	-2.3607612
 35864072	Keystone Malaria Symposium 2022: a vibrant discussion of progress made and challenges ahead from drug discovery to treatment.	other	-1.1039229e-05	mal	-0.259728
+35878807	Novel artemisinin derivative FO8643 with anti-angiogenic activity inhibits growth and migration of cancer cells via VEGFR2 signaling.	other	-8.960433e-05	other	-0.31870782
+35878685	Microorganisms in patients with acute respiratory tract infections in Bamako, Mali.	other	-1.3823812e-06	berg	-1.504255
+35878158	Mapping the global landscape of chikungunya rapid diagnostic tests: A scoping review.	other	-1.1430258e-06	ch	-0.50305426
+35878149	Determinants of Patients' Adherence to Malaria Treatment in the Democratic Republic of the Congo.	other	-4.0040345e-06	d	-2.6256719
+35878133	Survey and Analysis of Chemoprophylaxis Policies for Domestic Travel in Malaria-Endemic Countries.	other	-4.6010214e-06	travel	-0.5339173
+35878132	A Cross-Sectional Survey on the Malaria Control and Prevention Knowledge, Attitudes, and Practices of Caregivers of Children Under-5 in the Western Area of Sierra Leone.	other	-4.9586424e-06	other	-0.43463528
+35877905	In Silico Assessment of the Lipid Fingerprint Signature of ATP2, the Essential P4-ATPase of Malaria Parasites.	other	-0.033552784	fal	-1.0616475
+35877761	Prevalence and risk factors of malaria and anaemia and the impact of preventive methods among pregnant women: A case study at the Akatsi South District in Ghana.	other	-3.7684315e-06	berg	-2.4699583
+35877666	Observing the distribution of mosquito bites on humans to inform personal protection measures against malaria and dengue vectors.	other	-1.9765537e-06	other	-0.041527297
+35877154	EVALUATION OF THE INHIBITORY EFFECTS OF SIX NATURAL PRODUCT EXTRACTS AGAINST BABESIA GIBSONI IN VITRO AND IN VIVO.	other	-2.319758e-05	berg	-0.46571127
+35876911	Laboratory evaluation of a new alphacypermethrin long-lasting insecticidal net against Anopheles culicifacies s.l.	other	-9.012677e-06	berg	-0.113121554
+35876259	Trends in Imported Malaria during the COVID-19 pandemic, Spain (+Redivi Collaborative Network).	other	-2.2159093e-06	other	-0.840553
+35876244	Lack of robust evidence for a Wolbachia infection in Anopheles gambiae from Burkina Faso.	other	-8.4157e-06	berg	-0.01920903
+35875474	Quantifying the effect of human population mobility on malaria risk in the Peruvian Amazon.	other	-5.4364154e-06	per	-1.5391685
+35875401	Human trichinellosis in Southeast Asia, 2001-2021.	other	-1.2622395e-06	tr	-0.48380506
+35875001	Governance Quality, Public Health, Education, and Innovation: Study for Novel Implications.	other	-9.130952e-06	other	-0.032207087
+35874786	Increased Expression of Multiple Co-Inhibitory Molecules on Malaria-Induced CD8+ T Cells Are Associated With Increased Function Instead of Exhaustion.	other	-0.02411474	fal	-1.5712672
+35873624	In Vivo Antiplasmodial Potential of the Leaf, Mesocarp, and Epicarp of the Raphia hookeri Plant in Mice Infected with Plasmodium berghei NK65.	other	-1.1514188e-05	berg	-0.0007967051
+35873346	Optimizing the utility of NIMR-MDB Vis a Vis ICMR COVID-19 data portal in containment of malaria.	other	-6.746778e-06	other	-0.21111141
+35873166	Targeting Proteasomes in Cancer and Infectious Disease: A Parallel Strategy to Treat Malignancies and Microbes.	other	-0.00016805116	pro	-0.15780596
+35873153	Advancing Key Gaps in the Knowledge of Plasmodium vivax Cryptic Infections Using Humanized Mouse Models and Organs-on-Chips.	other	-3.941184e-05	berg	-0.15446177
+35872545	Synthesis of antiplasmodial 2-aminothieno[3,2-d]pyrimidin-4(3H)-one analogues using the scaffold hopping strategy.	other	-7.458028e-05	berg	-1.4204333
+35872229	Replenishing the malaria drug discovery pipeline: Screening and hit evaluation of the MMV Hit Generation Library 1 (HGL1) against asexual blood stage Plasmodium falciparum, using a nano luciferase reporter read-out.	other	-0.000470523	fal	-0.0020132815
+35871979	A transcription factor helps Plasmodium falciparum gametocytogenesis take shape.	phenotype	-0.025930997	fal	-0.032032106
+35868886	Gene drive in species complexes: defining target organisms.	other	-0.006531886	berg	-0.5330815
+35870946	Effectiveness of indoor residual spraying on malaria control: a systematic review and meta-analysis.	other	-1.7400124e-06	spr	-1.8134876
+35870909	Operationalizing stakeholder engagement for gene drive research in malaria elimination in Africa-translating guidance into practice.	other	-1.6165199e-05	st	-1.8740332
+35870762	Sequential phase I metabolism of pyrethroids by duplicated CYP6P9 variants results in the loss of the terminal benzene moiety and determines resistance in the malaria mosquito Anopheles funestus.	other	-0.5322568	berg	-0.087110825
+35870645	Stress-responsive AMP Kinase like protein regulates encystation of Entamoeba invadens.	other	-0.596653	berg	-0.25982982
+35870467	Halidou Tinto-leading top-quality research in malaria in Burkina Faso.	other	-7.4639065e-06	other	-1.0860493
