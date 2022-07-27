@@ -10320,3 +10320,66 @@
 35870762	Sequential phase I metabolism of pyrethroids by duplicated CYP6P9 variants results in the loss of the terminal benzene moiety and determines resistance in the malaria mosquito Anopheles funestus.	other	-0.5322568	berg	-0.087110825
 35870645	Stress-responsive AMP Kinase like protein regulates encystation of Entamoeba invadens.	other	-0.596653	berg	-0.25982982
 35870467	Halidou Tinto-leading top-quality research in malaria in Burkina Faso.	other	-7.4639065e-06	other	-1.0860493
+35881658	Fitness cost of target-site and metabolic resistance to pyrethroids drives restoration of susceptibility in a highly resistant Anopheles gambiae population from Uganda.	other	-2.3078366e-05	berg	-0.06758211
+35881389	Histological Identification of Sequestered Parasitized Red Cells.	other	-0.0003022548	other	-0.21121764
+35881388	Investigating Interactions Between Endothelial Cells and Parasitized Red Blood Cells in Skin and Subcutaneous Tissue.	other	-3.5120327e-05	infect	-2.2844899
+35881387	Ocular Pathology of Cerebral Malaria.	other	-1.0444119e-05	other	-0.09241135
+35881386	Measuring the Impact of Malaria on the Living Human Retina.	other	-1.1753544e-05	mal	-1.7381457
+35881385	Whole Blood Dendritic Cell Cytokine Production Assay.	other	-2.1649737e-05	other	-0.13720733
+35881384	Assessment of Plasmodium falciparum Antigen-Specific B Cells.	other	-0.00020203409	fal	-0.031248664
+35881383	Flow Cytometry Assay of Plasmodium Falciparum-Specific B-Cell Proportions.	other	-9.532728e-05	fal	-0.003859418
+35881382	Enzyme-Linked Immunosorbent Assay for Activation of the Classical Complement Pathway by Plasmodium falciparum-Infected Erythrocyte Surface Antigen-Specific Antibodies.	other	-4.7041198e-05	fal	-0.0019890324
+35881381	Assessing PfGARP-Mediated Apoptosis of Blood-Stage Plasmodium falciparum Parasites.	other	-0.0033150618	fal	-0.0022691751
+35881380	Natural Killer Cell Antibody-Dependent Cellular Cytotoxicity (ADCC) Activity Against Plasmodium falciparum-Infected Red Blood Cells.	other	-0.0005024268	fal	-0.0020604045
+35881379	Assaying Interactions Between Neutrophils and Plasmodium falciparum-Infected Red Blood Cells.	other	-1.5687427e-05	fal	-0.007831322
+35881378	Antibody-Dependent THP-1 Cell-Mediated Phagocytosis of Plasmodium falciparum-Infected Erythrocytes.	other	-0.0013584902	fal	-0.003614182
+35881377	Receptor-Functionalized Lipid Membranes as Biomimetic Surfaces for Adhesion of Plasmodium falciparum-Infected Erythrocytes.	other	-0.00069768965	fal	-0.002507029
+35881376	3D Organoid Assay of the Impact of Infected Erythrocyte Adhesion on the Blood-Brain Barrier.	other	-0.00013872207	other	-0.49612558
+35881375	Binding of Plasmodium falciparum-Infected Red Blood Cells to Engineered 3D Microvessels.	other	-0.0014881367	fal	-0.0010983546
+35881374	Chip-Based Assay of Adhesion of Plasmodium falciparum-Infected Erythrocytes to Cells Under Flow.	other	-3.452334e-05	fal	-0.017100306
+35881373	Selecting Plasmodium falciparum-Infected Erythrocytes for Adhesion to Recombinant Receptors Under Flow Conditions.	other	-0.0019520062	fal	-0.0049380567
+35881372	Static Adhesion of Plasmodium falciparum-Infected Erythrocytes to Purified and Recombinant Receptors.	other	-0.0011338572	fal	-0.003918595
+35881371	Assay of Static Adhesion of Plasmodium falciparum-Infected Erythrocytes to Cells, Including Inhibition of the Adhesion.	other	-0.00015553238	fal	-0.008443697
+35881370	Bridging and Clumping: Investigating Platelet Interactions with P. falciparum-Infected Red Blood Cells and Endothelial Cells in Cerebral Malaria.	other	-5.4552278e-05	fal	-0.029406294
+35881369	Measuring Rosetting Inhibition in Plasmodium falciparum Parasites Using a Flow Cytometry-Based Assay.	other	-2.2958224e-05	fal	-0.003506211
+35881368	Analysis of Antibody Inhibition of PfEMP1 Binding by Competition ELISA.	other	-1.6642034e-05	el	-1.3084948
+35881367	Surface Plasmon Resonance Analysis of PfEMP1 Interaction with Receptors.	other	-0.00040391632	berg	-0.9600936
+35881366	Assessing Antigen Presentation on the Surface of Plasmodium falciparum-Infected Erythrocytes by Photoactivated Localization Microscopy (PALM).	other	-7.779892e-05	fal	-0.0026872677
+35881365	An Improved Method for Assessing Antigen Presentation on the Surface of Plasmodium falciparum-Infected Erythrocytes by Immuno-Electron Microscopy.	other	-3.058758e-05	fal	-0.006207483
+35881364	Analysis by Flow Cytometry of α2-Macroglobulin and Nonimmune IgM-Binding to Plasmodium falciparum-Infected Erythrocytes.	other	-3.5717305e-05	other	-0.41709182
+35881363	Visualization of Infected Red Blood Cell Surface Antigens by Fluorescence Microscopy.	other	-0.00028198276	fal	-0.71834654
+35881362	Production of PfEMP1-Specific Human Monoclonal Antibodies from Naturally Immune Individuals.	other	-0.0001296622	human	-2.073347
+35881361	Production of PfEMP1-Specific Mouse Monoclonal Antibodies.	other	-0.00048429958	fal	-2.511059
+35881360	Production of anti-PfEMP1 Polyclonal Antisera in Rats and Mice.	other	-0.00015648511	-	-0.011322604
+35881359	Affinity Purification of PfEMP1-Specific Antibodies from Human Blood.	other	-2.462996e-05	ant	-1.4378141
+35881358	Protocol for Differential Biopanning of P. falciparum Phage Display cDNA Library to Identify Parasite Targets of Protective Antibodies.	other	-0.00055997365	fal	-0.00839465
+35881357	Protein Microarrays as a Tool to Analyze Antibody Responses to Variant Surface Antigens Expressed on the Surface of Plasmodium falciparum-Infected Erythrocytes.	other	-0.00022611799	fal	-0.0018300626
+35881356	High-Throughput BioPlex Assay for the Study of Functionally Active Plasmodium Falciparum Antigens That Are Expressed on the Surface of Infected Erythrocytes.	other	-0.08526833	fal	-0.0025505337
+35881355	Analysis of Antibody Reactivity to Malaria Antigens by Microsphere-Based Multiplex Immunoassay.	other	-1.1398727e-05	mal	-0.1670327
+35881354	Receptor Affinity-Based Purification of PfEMP1 Proteins.	other	-0.00049729616	berg	-0.8174733
+35881353	Expression of Large Full-Length PfEMP1 Proteins in HEK293 Cells.	phenotype	-0.59772235	berg	-0.11125668
+35881352	Expression of Single-Domain Soluble and Disulfide-Folded PfEMP1 Antigens in the Escherichia coli SHuffle Expression System.	other	-0.25389788	berg	-0.5837807
+35881351	Extraction and Immunoprecipitation of VAR2CSA, the PfEMP1 Associated with Placental Malaria.	other	-0.0007160609	fal	-0.5131265
+35881350	CRISPR-Cas9 Editing of the Plasmodium falciparum Genome: Special Applications.	other	-0.05626654	fal	-0.0053178365
+35881349	CRISPR/Cas9 Editing of the Plasmodium falciparum Genome.	other	-0.35242116	fal	-0.002985183
+35881348	Resetting var Gene Transcription in Plasmodium falciparum.	other	-0.11235456	fal	-0.0019396442
+35881347	RNAseq of Infected Erythrocyte Surface Antigen-Encoding Genes.	other	-0.011080232	berg	-1.3008331
+35881346	Analysis of var Gene Transcription Pattern Using DBLα Tags.	other	-0.00023774413	berg	-0.70830333
+35881344	Imaging of Extracellular Vesicles Derived from Plasmodium falciparum-Infected Red Blood Cells Using Atomic Force Microscopy.	other	-1.3422466e-05	fal	-0.0015478921
+35881343	Generation of Plasmodium falciparum Gametocytes In Vitro with Specific Considerations for Field Isolates.	other	-0.012326831	fal	-0.009365248
+35881342	Synchronisation of Plasmodium falciparum and P. knowlesi In Vitro Cultures Using a Highly Specific Protein Kinase Inhibitor.	other	-0.0026610915	fal	-0.00049288356
+35881341	Selecting Plasmodium falciparum Infected Erythrocytes for Adhesion to Cell Lines.	other	-0.0148141	fal	-0.009786675
+35881340	Single-Cell Sorting of Plasmodium falciparum-Infected Erythrocytes Expressing Particular PfEMP1 Variants.	other	-0.0006028587	fal	-0.002055268
+35881339	Immunomagnetic Selection of Plasmodium falciparum-Infected Erythrocytes Expressing Particular PfEMP1 Variants.	other	-0.0018135216	fal	-0.0026948575
+35881338	Genotyping of Plasmodium falciparum to Assess Clone Composition in Parasite Cultures.	other	-0.0012832284	fal	-0.0038634872
+35881337	Establishing and Maintaining In Vitro Cultures of Asexual Blood Stages of Plasmodium falciparum.	other	-0.0007398585	fal	-0.003585109
+35881336	Preservation and Extraction of Malaria Parasite DNA from Dried Blood Spots.	other	-0.00030773747	mal	-0.5067823
+35881335	Preservation of Parasite RNA in the Field.	other	-0.0042341184	berg	-1.0339924
+35881334	Collection and Cryopreservation of Plasmodium falciparum Clinical Isolates in the Field.	other	-2.8326363e-05	fal	-0.0027147003
+35881333	Identification and Enumeration of Plasmodium falciparum Parasites by Light Microscopy.	other	-0.00043641243	fal	-0.0062907347
+35880971	A study of impurities in the repurposed COVID-19 drug hydroxychloroquine sulfate by UHPLC-Q/TOF-MS and LC-SPE-NMR.	other	-7.224551e-06	ur	-0.0013732346
+35880678	STARTER Checklist for Antimalarial Therapeutic Efficacy Reporting.	other	-3.7684315e-06	other	-0.09074456
+35880192	Malaria epidemic and transmission foci in highland of Kisii, western Kenya.	other	-4.361666e-06	lands	-0.54933065
+35880005	Combining school-catchment area models with geostatistical models for analysing school survey data from low-resource settings: Inferential benefits and limitations.	other	-3.4089344e-06	school	-1.2087642
+35879789	Prevalence and risk factors of malaria among first antenatal care attendees in rural Burkina Faso.	other	-1.6207987e-06	berg	-1.3724782
+35879315	Multi-step screening of DNA/lipid nanoparticles and co-delivery with siRNA to enhance and prolong gene expression.	other	-0.00025920733	berg	-1.6994188
