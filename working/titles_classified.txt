@@ -10383,3 +10383,75 @@
 35880005	Combining school-catchment area models with geostatistical models for analysing school survey data from low-resource settings: Inferential benefits and limitations.	other	-3.4089344e-06	school	-1.2087642
 35879789	Prevalence and risk factors of malaria among first antenatal care attendees in rural Burkina Faso.	other	-1.6207987e-06	berg	-1.3724782
 35879315	Multi-step screening of DNA/lipid nanoparticles and co-delivery with siRNA to enhance and prolong gene expression.	other	-0.00025920733	berg	-1.6994188
+35895588	Surveillance as a Core Intervention to Strengthen Malaria Control Programs in Moderate to High Transmission Settings.	other	-5.5556293e-06	other	-0.6653534
+35895587	Routine Healthcare Facility- and Antenatal Care-based Malaria Surveillance: Challenges and Opportunities.	other	-2.693682e-06	mal	-0.23770688
+35895583	Serologic and Cytokine Profiles of Children with Concurrent Cerebral Malaria and Severe Malarial Anemia Are Distinct from Other Subtypes of Severe Malaria.	other	-8.4157e-06	mal	-0.2473725
+35895440	Evidence of likely autochthonous Chagas disease in the southwestern United States: A case series of Trypanosoma cruzi seropositive blood donors.	other	-2.693682e-06	berg	-0.92451817
+35895436	Historical Malaria Epidemics on Previously Non-Endemic Indo-Pacific Islands.	other	-4.0040345e-06	berg	-1.0598881
+35895430	Low Prevalence of Deletions of the pfhrp2 and pfhrp3 Genes in Plasmodium falciparum Parasites in Freetown, Sierra Leone in 2015.	other	-6.325358e-05	fal	-0.00081394624
+35895429	The Unmeasured Burden of Febrile, Respiratory, and Diarrheal Illnesses Identified Through Active Household Surveillance in a Low Malaria Transmission Setting in Southern Zambia.	other	-1.2622395e-06	other	-0.37729734
+35895424	Impact of Agricultural Irrigation on Anemia in Western Kenya.	other	-6.1516675e-06	berg	-2.1991649
+35895423	Developing Molecular Surveillance Capacity for Asymptomatic and Drug-Resistant Malaria in a Resource-Limited Setting-Experiences and Lessons Learned.	other	-3.529076e-06	mal	-0.22736242
+35895418	Performance of SARS-CoV-2 Antigens in a Multiplex Bead Assay for Integrated Serological Surveillance of Neglected Tropical and Other Diseases.	other	-5.4364154e-06	other	-0.09428899
+35895407	Performance of Field's Stain Compared with Conventional Giemsa Stain for the Rapid Detection of Blood Microfilariae in Gabon.	other	-2.0966954e-06	other	-0.04078571
+35895400	Trend Analysis of Travel Medicine Topics Presented at an International Tropical Medicine Conference.	other	-5.197998e-06	travel	-0.23734748
+35895397	Modelling Insecticide Resistance of Malaria Vector Populations in Tanzania.	other	-2.2159093e-06	berg	-0.5750861
+35895392	Efforts to Develop Pfs25 Vaccines.	other	-5.5269407e-05	against	-1.6163023
+35895391	The Virtues and Vices of Pfs230: From Vaccine Concept to Vaccine Candidate.	other	-5.0260765e-05	v	-2.0074592
+35895390	Pfs47 as a Malaria Transmission-Blocking Vaccine Target.	other	-0.014186974	fal	-0.44846186
+35895389	40 Years of Pfs48/45 Research as a Transmission-Blocking Vaccine Target of Plasmodium falciparum Malaria.	other	-0.00027792776	fal	-0.011091927
+35895387	Transmission-Blocking Vaccines: From Conceptualization to Realization.	other	-3.1781543e-05	fal	-1.7533903
+35895377	On Malaria Transmission and Transmission Blocking Immunity.	other	-0.0002860377	mal	-0.28725812
+35895370	Case Report: Cambodian National Malaria Surveillance Program Detection of Plasmodium knowlesi.	other	-1.8668587e-05	other	-0.7397514
+35895359	Insights into Plasmodium vivax Asymptomatic Malaria Infections and Direct Skin-Feeding Assays to Assess Onward Malaria Transmission in the Amazon.	other	-4.0040345e-06	berg	-0.06157935
+35895353	Malaria Burden and Associated Risk Factors in an Area of Pyrethroid-Resistant Vectors in Southern Benin.	other	-3.4089344e-06	ben	-0.47193488
+35895341	Temporal Dynamics of Subclinical Malaria in Different Transmission Zones of Myanmar.	other	-6.746778e-06	other	-0.34107405
+35895250	Characterizations of Larval Gut Bacteria of Anopheles subpictus Grassi (1899) and their Role in Mosquito Development in Hooghly, West Bengal, India.	other	-0.0002502629	berg	-0.00318111
+35895093	Non-Malaria Causes of Fever among under-5 Children with Negative Results for Malaria Rapid Diagnostic Test in South-Western Nigeria.	other	-1.022884e-06	other	-0.30351725
+35894649	Random Forest Model Predictions Afford Dual-Stage Antimalarial Agents.	other	-2.141132e-05	mal	-0.6194684
+35894603	Adaptation to a Multiplex Bead Assay and Seroprevalence to Rift Valley Fever N Protein: Nampula Province, Mozambique, 2013-2014.	other	-2.9311614e-06	other	-0.14100768
+35894055	Reply to Deora et al. Multiplexing for Plasmodium spp.? Think Again! Comment on "Bhowmick et al. Dry Post Wintertime Mass Surveillance Unearths a Huge Burden of P. vivax, and Mixed Infection with P. vivaxP. falciparum, a Threat to Malaria Elimination, in Dhalai, Tripura, India. Pathogens 2021, 10, 1259".	other	-3.6482897e-06	other	-0.010576812
+35894047	Bendiocarb and Malathion Resistance in Two Major Malaria Vector Populations in Cameroon Is Associated with High Frequency of the G119S Mutation (Ace-1) and Overexpression of Detoxification Genes.	other	-0.00112598	berg	-0.07510557
+35893823	An Optimal Control Model to Understand the Potential Impact of the New Vaccine and Transmission-Blocking Drugs for Malaria: A Case Study in Papua and West Papua, Indonesia.	other	-5.912312e-06	berg	-0.3124589
+35893774	Effects of Artemisinin on Escherichia coli-Induced Mastitis in Bovine Mammary Epithelial Cells and Mice.	other	-8.653179e-06	other	-0.088809855
+35893745	Copper (I)-Chloroquine Complexes: Interactions with DNA and Ferriprotoporphyrin, Inhibition of β-Hematin Formation and Relation to Antimalarial Activity.	other	-5.7652644e-05	ch	-1.8613408
+35893657	A PCR-RFLP Technique to Assess the Geographic Origin of Plasmodium falciparum Strains in Central America.	other	-9.72699e-06	fal	-0.010135662
+35893653	Co-Infection with Plasmodium vivax and COVID-19 in Thailand.	other	-7.224551e-06	berg	-0.41237256
+35893610	Alkaloid Composition and Biological Activities of the Amaryllidaceae Species Ismene amancaes (Ker Gawl.) Herb.	other	-9.490449e-06	berg	-0.340805
+35893540	Prevalence of pvmrp1 Polymorphisms and Its Contribution to Antimalarial Response.	other	-7.100402e-05	mal	-1.6470748
+35892964	Targeting the Ubiquinol-Reduction (Qi) Site of the Mitochondrial Cytochrome bc1 Complex for the Development of Next Generation Quinolone Antimalarials.	other	-0.0013907817	fal	-0.60863596
+35892529	Experimental Study on Primary Bird Co-Infection with Two Plasmodium relictum Lineages-pSGS1 and pGRW11.	other	-0.0002206344	berg	-0.048770063
+35892329	Hsp90 and Associated Co-Chaperones of the Malaria Parasite.	other	-0.03629421	fal	-0.20600559
+35891792	Update and elucidation of Plasmodium kinomes: Prioritization of kinases as potential drug targets for malaria.	other	-0.060168058	berg	-0.19970185
+35891332	The Antifungal Itraconazole Is a Potent Inhibitor of Chikungunya Virus Replication.	other	-0.0007211925	fal	-0.63607633
+35891298	Effective Functional Immunogenicity of a DNA Vaccine Combination Delivered via In Vivo Electroporation Targeting Malaria Infection and Transmission.	other	-0.0007877598	fal	-0.7188737
+35891284	Advances in Infectious Disease Vaccine Adjuvants.	other	-1.8788729e-05	inn	-2.9056792
+35890267	The Multistage Antimalarial Compound Calxinin Perturbates P. falciparum Ca2+ Homeostasis by Targeting a Unique Ion Channel.	other	-0.003152111	fal	-0.02724653
+35890216	Characterization of Domiphen Bromide as a New Fast-Acting Antiplasmodial Agent Inhibiting the Apicoplastidic Methyl Erythritol Phosphate Pathway.	other	-0.010498927	berg	-0.2392097
+35890202	Siccanin Is a Dual-Target Inhibitor of Plasmodium falciparum Mitochondrial Complex II and Complex III.	other	-0.0045594987	fal	-0.0019285955
+35890200	Naturally Occurring 8ß,13ß-kaur-15-en-17-al and Anti-Malarial Activity from Podocarpus polystachyus Leaves.	other	-2.4032974e-05	berg	-1.0701299
+35890119	4-Substituted Thieno[3,2-d]pyrimidines as Dual-Stage Antiplasmodial Derivatives.	other	-1.42597355e-05	th	-0.36860046
+35890113	Synthesis, Structure-Activity Relationships, and Parasitological Profiling of Brussonol Derivatives as New Plasmodium&amp;amp;nbsp;falciparum Inhibitors.	other	-0.00012107918	fal	-0.006149308
+35889983	Multiplexing for Plasmodium spp.? Think Again! Comment on Bhowmick et al. Dry Post Wintertime Mass Surveillance Unearths a Huge Burden of P. vivax, and Mixed Infection with P. vivax&amp;amp;nbsp;P. falciparum, a Threat to Malaria Elimination, in Dhalai, Tripura, India. Pathogens 2021, 10, 1259.	other	-3.529076e-06	other	-0.0070375926
+35889975	It Is Time to Strengthen the Malaria Control Policy of the Democratic Republic of Congo and Include Schools and School-Age Children in Malaria Control Measures.	other	-4.838501e-06	other	-0.031729184
+35889972	Prevalence of Transfusion-Transmitted Infections (HCV, HIV, Syphilis and Malaria) in Blood Donors: A Large-Scale Cross-Sectional Study.	other	-9.055464e-07	other	-0.017053014
+35889157	Identification of Exported Plasmodium falciparum Proteins That Bind to the Erythrocyte Cytoskeleton.	phenotype	-0.16624387	fal	-0.018631421
+35889137	Plasmodium falciparum S-Adenosylmethionine Synthetase Is Essential for Parasite Survival through a Complex Interaction Network with Cytoplasmic and Nuclear Proteins.	phenotype	-0.13698065	fal	-0.029919645
+35889089	Role of Host Small GTPases in Apicomplexan Parasite Infection.	other	-0.048294656	zo	-1.4896598
+35889006	Temporal and Wash-Out Studies Identify Medicines for Malaria Venture Pathogen Box Compounds with Fast-Acting Activity against Both Trypanosoma cruzi and Trypanosoma brucei.	other	-2.4510746e-05	berg	-0.84294415
+35888577	Prevalence and Association of Transfusion Transmitted Infections with ABO and Rh Blood Groups among Blood Donors in the Western Region of Saudi Arabia: A 7-Year Retrospective Analysis.	other	-5.460492e-07	reg	-0.6223898
+35888014	Extracellular Vesicles Derived from Early and Late Stage Plasmodium falciparum-Infected Red Blood Cells Contain Invasion-Associated Proteins.	other	-0.008367061	fal	-0.0014464728
+35887122	α/β-Hydrolase D16B Truncation Results in Premature Sperm Capacitation in Cattle.	other	-0.0034639228	berg	-1.622327
+35887084	Trypsin-like Inhibitor Domain (TIL)-Harboring Protein Is Essential for Aedes aegypti Reproduction.	other	-0.42299426	berg	-0.33444488
+35886668	Introduction to the Special Issue of IJERPH Entitled "Prenatal Exposure to Environmental Pollutants and Other Stressors: Impacts on Fetal Development, Birth Outcomes, Children's Health and Beyond".	other	-5.912312e-06	ors	-0.04013408
+35886558	Rationale and Purpose: The FLUTE Study to Evaluate Fluorography Mass Screening for Tuberculosis and Other Diseases, as Conducted in Eastern Europe and Central Asia Countries.	other	-6.3900848e-06	study	-2.2727845
+35886105	Knowledge, Attitudes, and Practices in Relation to Mosquito-Borne Diseases in Bangladesh.	other	-2.5744682e-06	other	-0.49417266
+35886012	Risk Association, Linkage Disequilibrium, and Haplotype Analyses of β-Like Globin Gene Polymorphisms with Malaria Risk in the Sabah Population of Malaysian Borneo.	other	-5.3162735e-06	berg	-0.19453226
+35885989	Molecular Drivers of Multiple and Elevated Resistance to Insecticides in a Population of the Malaria Vector Anopheles gambiae in Agriculture Hotspot of West Cameroon.	other	-7.584048e-06	berg	-0.016195355
+35885932	Genetic Diversity and Population Genetic Analysis of Plasmodium falciparum Thrombospondin Related Anonymous Protein (TRAP) in Clinical Samples from Saudi Arabia.	other	-6.9861335e-06	fal	-0.0031573742
+35885727	Readiness of Mozambique Health Facilities to Address Undernutrition and Diarrhea in Children under Five: Indicators from 2018 and 2021 Survey Data.	other	-5.79217e-06	other	-0.46800736
+35883427	Tertiary and Quaternary Structure Organization in GMP Synthetases: Implications for Catalysis.	other	-7.958892e-05	st	-3.1504223
+35883100	Population replacement gene drive characteristics for malaria elimination in a range of seasonal transmission settings: a modelling study.	other	-9.012677e-06	berg	-1.0884252
+35883089	DNA recovery from used malaria RDT to detect Plasmodium species and to assess Plasmodium falciparum genetic diversity: a pilot study in Madagascar.	other	-4.5967376e-05	fal	-0.022994636
+35883064	Etramp5 as a useful serological marker in children to assess the immediate effects of mass drug campaigns for malaria.	other	-2.3435998e-05	of	-1.4075041
+35882766	In vitro antiviral activity of piperidine alkaloids from Senna spectabilis flowers on Chikungunya virus infection.	other	-8.0580685e-06	used	-1.3858349
