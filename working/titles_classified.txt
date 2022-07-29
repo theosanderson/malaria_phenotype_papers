@@ -10455,3 +10455,18 @@
 35883089	DNA recovery from used malaria RDT to detect Plasmodium species and to assess Plasmodium falciparum genetic diversity: a pilot study in Madagascar.	other	-4.5967376e-05	fal	-0.022994636
 35883064	Etramp5 as a useful serological marker in children to assess the immediate effects of mass drug campaigns for malaria.	other	-2.3435998e-05	of	-1.4075041
 35882766	In vitro antiviral activity of piperidine alkaloids from Senna spectabilis flowers on Chikungunya virus infection.	other	-8.0580685e-06	used	-1.3858349
+35901295	Lessons learnt from UNAIDS virtual technical support to countries applying for funding from the Global Fund COVID-19 Response Mechanism.	other	-5.912312e-06	:	-1.7506827
+35900985	Genome-wide functional analysis reveals key roles for kinesins in the mammalian and mosquito stages of the malaria parasite life cycle.	phenotype	-0.013034736	berg	-0.0039053743
+35900982	Malaria prevalence and risk factors among patients visiting Mizan Tepi University Teaching Hospital, Southwest Ethiopia.	other	-2.693682e-06	other	-0.44784564
+35900455	Caregivers' perception and determinants of delayed presentation of children with severe malaria in an emergency room in Benin City, Nigeria.	other	-1.6207987e-06	other	-0.19302905
+35899811	Malaria Transmission Intensity Likely Modifies RTS, S/AS01 Efficacy Due to a Rebound Effect in Ghana, Malawi, and Gabon.	other	-6.5092986e-06	berg	-1.6410735
+35899047	Plasmodium 6-Cysteine Proteins: Functional Diversity, Transmission-Blocking Antibodies and Structural Scaffolds.	other	-0.019336024	fal	-0.49280766
+35898514	Homeostasis Maintenance in Plasmodium-Infected Placentas: Is There a Role for Placental Autophagy During Malaria in Pregnancy?	other	-0.0021859019	berg	-0.39825633
+35897941	Regioselective Synthesis of 5- and 3-Hydroxy-N-Aryl-1H-Pyrazole-4-Carboxylates and Their Evaluation as Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase.	other	-0.00019964804	fal	-0.0011870298
+35897268	The Seroprevalence and Hidden Burden of Chikungunya Endemicity and Malaria Mono- and Coinfection in Nigeria.	other	-2.693682e-06	other	-0.7859895
+35897226	[Caracteristics Of Severe Malaria In Child From 0 To 5 Years At The Hospital Of Sikasso In Mali].	other	-6.5092986e-06	other	-0.14157735
+35897224	[Prevalence Of Bovine Nematodes In Peri-Urban Area And Bamako District].	other	-7.1062755e-06	berg	-0.5327881
+35897212	[Impact of migraine on life quality in school environment in Bamako, Mali].	other	-7.224551e-06	m	-2.5598648
+35897103	MIS-C and co-infection with P. vivax and P. falciparum in a child: a clinical conundrum.	other	-1.9765537e-06	mal	-1.0271444
+35896992	Retrospective evaluation of referral by community health workers on the uptake of intermittent preventive treatment of Malaria in pregnancy in Ohaukwu, Ebonyi State, Nigeria.	other	-1.7400124e-06	other	-0.3393555
+35881345	Analysis of var Gene Transcript Patterns by Quantitative Real-Time PCR.	other	-2.7371756e-05	other	-0.13178658

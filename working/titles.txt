@@ -1,3 +1,17 @@
+35901295	Lessons learnt from UNAIDS virtual technical support to countries applying for funding from the Global Fund COVID-19 Response Mechanism.
+35900985	Genome-wide functional analysis reveals key roles for kinesins in the mammalian and mosquito stages of the malaria parasite life cycle.
+35900982	Malaria prevalence and risk factors among patients visiting Mizan Tepi University Teaching Hospital, Southwest Ethiopia.
+35900455	Caregivers' perception and determinants of delayed presentation of children with severe malaria in an emergency room in Benin City, Nigeria.
+35899811	Malaria Transmission Intensity Likely Modifies RTS, S/AS01 Efficacy Due to a Rebound Effect in Ghana, Malawi, and Gabon.
+35899047	Plasmodium 6-Cysteine Proteins: Functional Diversity, Transmission-Blocking Antibodies and Structural Scaffolds.
+35898514	Homeostasis Maintenance in Plasmodium-Infected Placentas: Is There a Role for Placental Autophagy During Malaria in Pregnancy?
+35897941	Regioselective Synthesis of 5- and 3-Hydroxy-N-Aryl-1H-Pyrazole-4-Carboxylates and Their Evaluation as Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase.
+35897268	The Seroprevalence and Hidden Burden of Chikungunya Endemicity and Malaria Mono- and Coinfection in Nigeria.
+35897226	[Caracteristics Of Severe Malaria In Child From 0 To 5 Years At The Hospital Of Sikasso In Mali].
+35897224	[Prevalence Of Bovine Nematodes In Peri-Urban Area And Bamako District].
+35897212	[Impact of migraine on life quality in school environment in Bamako, Mali].
+35897103	MIS-C and co-infection with P. vivax and P. falciparum in a child: a clinical conundrum.
+35896992	Retrospective evaluation of referral by community health workers on the uptake of intermittent preventive treatment of Malaria in pregnancy in Ohaukwu, Ebonyi State, Nigeria.
 35895588	Surveillance as a Core Intervention to Strengthen Malaria Control Programs in Moderate to High Transmission Settings.
 35895587	Routine Healthcare Facility- and Antenatal Care-based Malaria Surveillance: Challenges and Opportunities.
 35895583	Serologic and Cytokine Profiles of Children with Concurrent Cerebral Malaria and Severe Malarial Anemia Are Distinct from Other Subtypes of Severe Malaria.
@@ -115,6 +129,7 @@
 35881348	Resetting var Gene Transcription in Plasmodium falciparum.
 35881347	RNAseq of Infected Erythrocyte Surface Antigen-Encoding Genes.
 35881346	Analysis of var Gene Transcription Pattern Using DBLα Tags.
+35881345	Analysis of var Gene Transcript Patterns by Quantitative Real-Time PCR.
 35881344	Imaging of Extracellular Vesicles Derived from Plasmodium falciparum-Infected Red Blood Cells Using Atomic Force Microscopy.
 35881343	Generation of Plasmodium falciparum Gametocytes In Vitro with Specific Considerations for Field Isolates.
 35881342	Synchronisation of Plasmodium falciparum and P. knowlesi In Vitro Cultures Using a Highly Specific Protein Kinase Inhibitor.
@@ -2046,7 +2061,7 @@
 35232621	Corrigendum to article "Clotrimazole nanoemulsion for malaria chemotherapy. Part II: Stability assessment, in vivo pharmacodynamic evaluations and toxicological studies" [Int. J. Pharm. 431(1-2) (2012) 149-160].
 35232492	Reduction in Plasmodium falciparum Pfk13 and pfg377 allele diversity through time in southern Vietnam.
 35232369	Characterization of human-malarial parasite species based on DHFR and GST targets, resulting in changes in anti-malarial drug binding conformations.
-35232355	Pyrazole Based Furanone Hybrids as Novel Antimalarial: A Combined Experimental, Pharmacological and Computational Study.
+35232355	Pyrazole based Furanone Hybrids as Novel Antimalarial: A Combined Experimental, Pharmacological and Computational Study.
 35231438	The many faces of membrane tension: Challenges across systems and scales.
 35230548	Immunochromatographic and microscopic detection of Plasmodium falciparum in recipients of P. falciparum-infected donor blood.
 35230160	CYP2D6 gene resequencing in the Malagasy, a population at the crossroads between Asia and Africa: a pilot study.
@@ -9983,18 +9998,3 @@
 32690061	Identifying the fitness costs of a pyrethroid-resistant genotype in the major arboviral vector Aedes aegypti.
 32690016	The fabric of life: what if mosquito nets were durable and widely available but insecticide-free?
 32690009	Malaria Test, Treat and Track policy implementation in Angola: a retrospective study to assess the progress achieved after 4 years of programme implementation.
-32688571	Effect of cell geometry in the evaluation of erythrocyte viscoelastic properties.
-32687286	
-32688368	Thymus size in children with moderate malnutrition: a cohort study from Burkina Faso.
-32688290	Field testing of a digital health information system for primary health care: A quasi-experimental study from India.
-32688055	ACKR1 Alleles at 5.6 kb in a Well-Characterized Renewable US Food and Drug Administration (FDA) Reference Panel for Standardization of Blood Group Genotyping.
-32687949	Chloroquine and hydroxychloroquine in coronavirus disease 2019 (COVID-19). Facts, fiction and the hype: a critical appraisal.
-32687714	β-Hydroxy- and β-Aminophosphonate Acyclonucleosides as Potent Inhibitors of Plasmodium falciparum Growth.
-32687630	Pharmacokinetics and Pharmacological Properties of Chloroquine and Hydroxychloroquine in the Context of COVID-19 Infection.
-32687542	Platelet disturbances correlate with endothelial cell activation in uncomplicated Plasmodium vivax malaria.
-32687495	Atypical memory B-cells and autoantibodies correlate with anemia during Plasmodium vivax complicated infections.
-32687174	Efficacy and Safety of a Naphthoquine-Azithromycin Coformulation for Malaria Prophylaxis in Southeast Asia: A Phase 3, Double-blind, Randomized, Placebo-controlled Trial.
-32687161	A Phase IIa Controlled Human Malaria Infection and Immunogenicity Study of RTS,S/AS01E and RTS,S/AS01B Delayed Fractional Dose Regimens in Malaria-Naive Adults.
-32687050	Increased Sensitivity of Plasmodium falciparum to Artesunate/Amodiaquine Despite 14 Years as First-Line Malaria Treatment, Zanzibar.
-32687027	Increasing Malaria Parasite Clearance Time after Chloroquine Therapy, South Korea, 2000-2016.
-32687020	Naturally Acquired Human Plasmodium cynomolgi and P. knowlesi Infections, Malaysian Borneo.
