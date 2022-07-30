@@ -10470,3 +10470,11 @@
 35897103	MIS-C and co-infection with P. vivax and P. falciparum in a child: a clinical conundrum.	other	-1.9765537e-06	mal	-1.0271444
 35896992	Retrospective evaluation of referral by community health workers on the uptake of intermittent preventive treatment of Malaria in pregnancy in Ohaukwu, Ebonyi State, Nigeria.	other	-1.7400124e-06	other	-0.3393555
 35881345	Analysis of var Gene Transcript Patterns by Quantitative Real-Time PCR.	other	-2.7371756e-05	other	-0.13178658
+35905779	Monocyte epigenetics and innate immunity to malaria: yet another level of complexity?	other	-2.4032974e-05	mal	-0.46991038
+35905776	Type II DNA Topoisomerases in trypanosomatid and apicomplexan parasites.	other	-0.071654126	berg	-1.0861641
+35904886	The development of peripheral microvasculopathy with chronic metabolic disease in obese Zucker rats: a retrograde emergence?	other	-0.0002853206	other	-1.1055197
+35904274	The Impacts of Donor Transitions on Health Systems in Middle-Income Countries: A Scoping Review.	other	-3.529076e-06	lands	-1.7865233
+35904009	Plasmodium falciparum merozoite invasion ligands, linked antimalarial resistance loci and ex vivo responses to antimalarials in The Gambia.	other	-4.2392992e-05	fal	-0.0013777702
+35903243	Ensemble machine learning modeling for the prediction of artemisinin resistance in malaria.	other	-6.1516675e-06	mal	-0.661168
+35903001	Malaria diagnosis in an emergency department before and after the COVID-19 pandemic: a retrospective study.	other	-6.6619094e-07	other	-1.2484572
+35902825	Spatiotemporal dynamics of malaria in Banmauk Township, Sagaing region of Northern Myanmar: characteristics, trends, and risk factors.	other	-2.0966954e-06	lands	-3.1613097

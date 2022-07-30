@@ -1,3 +1,11 @@
+35905779	Monocyte epigenetics and innate immunity to malaria: yet another level of complexity?
+35905776	Type II DNA Topoisomerases in trypanosomatid and apicomplexan parasites.
+35904886	The development of peripheral microvasculopathy with chronic metabolic disease in obese Zucker rats: a retrograde emergence?
+35904274	The Impacts of Donor Transitions on Health Systems in Middle-Income Countries: A Scoping Review.
+35904009	Plasmodium falciparum merozoite invasion ligands, linked antimalarial resistance loci and ex vivo responses to antimalarials in The Gambia.
+35903243	Ensemble machine learning modeling for the prediction of artemisinin resistance in malaria.
+35903001	Malaria diagnosis in an emergency department before and after the COVID-19 pandemic: a retrospective study.
+35902825	Spatiotemporal dynamics of malaria in Banmauk Township, Sagaing region of Northern Myanmar: characteristics, trends, and risk factors.
 35901295	Lessons learnt from UNAIDS virtual technical support to countries applying for funding from the Global Fund COVID-19 Response Mechanism.
 35900985	Genome-wide functional analysis reveals key roles for kinesins in the mammalian and mosquito stages of the malaria parasite life cycle.
 35900982	Malaria prevalence and risk factors among patients visiting Mizan Tepi University Teaching Hospital, Southwest Ethiopia.
@@ -3009,7 +3017,7 @@
 34912313	Genetic Diversity and Natural Selection of Plasmodium vivax Duffy Binding Protein-II From China-Myanmar Border of Yunnan Province, China.
 34911505	Human-centered design process and solutions to promote malaria testing and treatment seeking behavior in Guyana hinterlands.
 34911501	Trends and predictive factors for treatment failure following artemisinin-based combination therapy among children with uncomplicated malaria in Ghana: 2005-2018.
-34911410	Preparation and Optimization of Peppermint (Mentha Pipertia) Essential Oil Nanoemulsion with Effective Herbal Larvicidal, Pupicidal, and Ovicidal Activity against Anopheles Stephensi.
+34911410	Preparation and Optimization of Peppermint (Mentha pipertia) Essential Oil Nanoemulsion with Effective Herbal Larvicidal, Pupicidal, and Ovicidal Activity against Anopheles stephensi.
 34910951	Contribution of Meliaceous plants in furnishing lead compounds for antiplasmodial and insecticidal drug development.
 34910937	How to train your antibody to fight malaria.
 34910173	Minimally Invasive Tissue Sampling: A Tool to Guide Efforts to Reduce AIDS-Related Mortality in Resource-Limited Settings.
@@ -9990,11 +9998,3 @@
 32693118	Partial impairment of late-stage autophagic flux in murine splenocytes leads to sqstm1/p62 mediated nrf2-keap1 antioxidant pathway activation and induced proteasome-mediated degradation in malaria.
 32692767	Heme oxygenase-1 in protozoan infections: A tale of resistance and disease tolerance.
 32691360	Promising Anti-Protozoan Activities of Propolis (Bee Glue) as Natural Product: A Review.
-32691047	Evaluating the Impact of Programmatic Mass Drug Administration for Malaria in Zambia Using Routine Incidence Data.
-32690423	Role and mechanism of LAIR-1 in the development of autoimmune diseases, tumors, and malaria: A review.
-32690097	Commentary in reply to a publication on Plasmodium falciparum pre-erythrocytic stage vaccine development.
-32690081	Activities of artesunate-based combinations and tafenoquine against Babesia bovis in vitro and Babesia microti in vivo.
-32690063	Adaptive interventions for optimizing malaria control: an implementation study protocol for a block-cluster randomized, sequential multiple assignment trial.
-32690061	Identifying the fitness costs of a pyrethroid-resistant genotype in the major arboviral vector Aedes aegypti.
-32690016	The fabric of life: what if mosquito nets were durable and widely available but insecticide-free?
-32690009	Malaria Test, Treat and Track policy implementation in Angola: a retrospective study to assess the progress achieved after 4 years of programme implementation.
