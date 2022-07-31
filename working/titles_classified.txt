@@ -10478,3 +10478,9 @@
 35903243	Ensemble machine learning modeling for the prediction of artemisinin resistance in malaria.	other	-6.1516675e-06	mal	-0.661168
 35903001	Malaria diagnosis in an emergency department before and after the COVID-19 pandemic: a retrospective study.	other	-6.6619094e-07	other	-1.2484572
 35902825	Spatiotemporal dynamics of malaria in Banmauk Township, Sagaing region of Northern Myanmar: characteristics, trends, and risk factors.	other	-2.0966954e-06	lands	-3.1613097
+35906744	Substrate Peptidomimetic Inhibitors of P. falciparum Plasmepsin X with Potent Antimalarial Activity.	other	-0.00010486492	fal	-0.0020796356
+35906670	Genomic sequence capture of Plasmodium relictum in experimentally infected birds.	other	-0.0032319997	berg	-0.024411222
+35906628	Methodological issues on evaluating agreement between two detection methods by Cohen's kappa analysis.	other	-6.2699432e-06	method	-1.2669648
+35906600	Qualitative study on the use and maintenance of long-lasting insecticidal nets (LLINs) in Bouaké (Côte d'Ivoire), 17 months after the last mass distribution campaign.	other	-2.4543265e-06	berg	-1.7011665
+35906450	ICAM-1-binding Plasmodium falciparum erythrocyte membrane protein 1 variants elicits opsonic-phagocytosis IgG responses in Beninese children.	other	-0.0005985634	fal	-0.0010280656
+35906227	Tryptophan C-mannosylation is critical for Plasmodium falciparum transmission.	phenotype	-0.23377082	fal	-0.021681515

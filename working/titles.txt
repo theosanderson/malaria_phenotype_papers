@@ -1,3 +1,9 @@
+35906744	Substrate Peptidomimetic Inhibitors of P. falciparum Plasmepsin X with Potent Antimalarial Activity.
+35906670	Genomic sequence capture of Plasmodium relictum in experimentally infected birds.
+35906628	Methodological issues on evaluating agreement between two detection methods by Cohen's kappa analysis.
+35906600	Qualitative study on the use and maintenance of long-lasting insecticidal nets (LLINs) in Bouaké (Côte d'Ivoire), 17 months after the last mass distribution campaign.
+35906450	ICAM-1-binding Plasmodium falciparum erythrocyte membrane protein 1 variants elicits opsonic-phagocytosis IgG responses in Beninese children.
+35906227	Tryptophan C-mannosylation is critical for Plasmodium falciparum transmission.
 35905779	Monocyte epigenetics and innate immunity to malaria: yet another level of complexity?
 35905776	Type II DNA Topoisomerases in trypanosomatid and apicomplexan parasites.
 35904886	The development of peripheral microvasculopathy with chronic metabolic disease in obese Zucker rats: a retrograde emergence?
@@ -301,7 +307,7 @@
 35835123	A salivary factor binds a cuticular protein and modulates biting by inducing morphological changes in the mosquito labrum.
 35834514	Biocidal action, characterization, and molecular docking of Mentha piperita (Lamiaceae) leaves extract against Culex quinquefasciatus (Diptera: Culicidae) larvae.
 35834496	Alpha globin gene copy number and hypertension risk among Black Americans.
-35834276	Does Fetal Hemoglobin inhibit the malarial parasite Plasmodium falciparum?
+35834276	Does fetal hemoglobin inhibit the malarial parasite Plasmodium falciparum?
 35834159	Prevalence of Malaria and Covid-19 in Febrile Patients in Lomé, Togo in 2020.
 35833562	Modeling malaria transmission in Nepal: impact of imported cases through cross-border mobility.
 35833536	Effect of black seeds (Nigella sativa) on inflammatory and immunomodulatory markers in Plasmodium berghei-infected mice.
@@ -9992,9 +9998,3 @@
 32697331	The CYB5R3c .350C&gt;G and G6PD A alleles modify severity of anemia in malaria and sickle cell disease.
 32697227	Quinoline-triazole half-sandwich iridium(III) complexes: synthesis, antiplasmodial activity and preliminary transfer hydrogenation studies.
 32696915	Increased platelet distribution width and reduced IL-2 and IL-12 are associated with thrombocytopenia in Plasmodium vivax malaria.
-32696721	Identification of potential modulator of Anopheles gambiae odorant binding protein 1 by hierarchical virtual screening and molecular dynamics.
-32694955	Passive Outdoor Host Seeking Device (POHD): Designing and Evaluation against Outdoor Biting Malaria Vectors.
-32693720	Age influences the thermal suitability of Plasmodium falciparum transmission in the Asian malaria vector Anopheles stephensi.
-32693118	Partial impairment of late-stage autophagic flux in murine splenocytes leads to sqstm1/p62 mediated nrf2-keap1 antioxidant pathway activation and induced proteasome-mediated degradation in malaria.
-32692767	Heme oxygenase-1 in protozoan infections: A tale of resistance and disease tolerance.
-32691360	Promising Anti-Protozoan Activities of Propolis (Bee Glue) as Natural Product: A Review.
