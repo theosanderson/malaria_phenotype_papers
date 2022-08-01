@@ -1,3 +1,5 @@
+35907857	Clinical performance testing of the automated haematology analyzer XN-31 prototype using whole blood samples from patients with imported malaria in Japan.
+35907831	Marked aggravation of pyrethroid resistance in major malaria vectors in Malawi between 2014 and 2021 is partly linked with increased expression of P450 alleles.
 35906744	Substrate Peptidomimetic Inhibitors of P. falciparum Plasmepsin X with Potent Antimalarial Activity.
 35906670	Genomic sequence capture of Plasmodium relictum in experimentally infected birds.
 35906628	Methodological issues on evaluating agreement between two detection methods by Cohen's kappa analysis.
@@ -9,7 +11,6 @@
 35904886	The development of peripheral microvasculopathy with chronic metabolic disease in obese Zucker rats: a retrograde emergence?
 35904274	The Impacts of Donor Transitions on Health Systems in Middle-Income Countries: A Scoping Review.
 35904009	Plasmodium falciparum merozoite invasion ligands, linked antimalarial resistance loci and ex vivo responses to antimalarials in The Gambia.
-35903243	Ensemble machine learning modeling for the prediction of artemisinin resistance in malaria.
 35903001	Malaria diagnosis in an emergency department before and after the COVID-19 pandemic: a retrospective study.
 35902825	Spatiotemporal dynamics of malaria in Banmauk Township, Sagaing region of Northern Myanmar: characteristics, trends, and risk factors.
 35901295	Lessons learnt from UNAIDS virtual technical support to countries applying for funding from the Global Fund COVID-19 Response Mechanism.
@@ -21,9 +22,6 @@
 35898514	Homeostasis Maintenance in Plasmodium-Infected Placentas: Is There a Role for Placental Autophagy During Malaria in Pregnancy?
 35897941	Regioselective Synthesis of 5- and 3-Hydroxy-N-Aryl-1H-Pyrazole-4-Carboxylates and Their Evaluation as Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase.
 35897268	The Seroprevalence and Hidden Burden of Chikungunya Endemicity and Malaria Mono- and Coinfection in Nigeria.
-35897226	[Caracteristics Of Severe Malaria In Child From 0 To 5 Years At The Hospital Of Sikasso In Mali].
-35897224	[Prevalence Of Bovine Nematodes In Peri-Urban Area And Bamako District].
-35897212	[Impact of migraine on life quality in school environment in Bamako, Mali].
 35897103	MIS-C and co-infection with P. vivax and P. falciparum in a child: a clinical conundrum.
 35896992	Retrospective evaluation of referral by community health workers on the uptake of intermittent preventive treatment of Malaria in pregnancy in Ohaukwu, Ebonyi State, Nigeria.
 35895588	Surveillance as a Core Intervention to Strengthen Malaria Control Programs in Moderate to High Transmission Settings.
@@ -186,12 +184,12 @@
 35872545	Synthesis of antiplasmodial 2-aminothieno[3,2-d]pyrimidin-4(3H)-one analogues using the scaffold hopping strategy.
 35872229	Replenishing the malaria drug discovery pipeline: Screening and hit evaluation of the MMV Hit Generation Library 1 (HGL1) against asexual blood stage Plasmodium falciparum, using a nano luciferase reporter read-out.
 35871979	A transcription factor helps Plasmodium falciparum gametocytogenesis take shape.
-35868886	Gene drive in species complexes: defining target organisms.
 35870946	Effectiveness of indoor residual spraying on malaria control: a systematic review and meta-analysis.
 35870909	Operationalizing stakeholder engagement for gene drive research in malaria elimination in Africa-translating guidance into practice.
 35870762	Sequential phase I metabolism of pyrethroids by duplicated CYP6P9 variants results in the loss of the terminal benzene moiety and determines resistance in the malaria mosquito Anopheles funestus.
 35870645	Stress-responsive AMP Kinase like protein regulates encystation of Entamoeba invadens.
 35870467	Halidou Tinto-leading top-quality research in malaria in Burkina Faso.
+35868886	Gene drive in species complexes: defining target organisms.
 35867928	Efficacy of tafenoquine in the prophylaxis and treatment of malaria by Plasmodium vivax, systematic review and meta-analysis
 35867920	The malaria eradication campaign in Colombia, 1959-1979
 35867918	Imported malaria in children in Alicante, Spain (1994-2019)
@@ -221,14 +219,6 @@
 35859938	Spatial-temporal pattern of malaria in Burkina Faso from 2013 to 2020.
 35859460	Influence of social disadvantage among children admitted to the pediatric emergency unit of a tertiary Hospital in Nigeria.
 35859425	Cost of National Vector Borne Disease Control Programme in North India.
-35854371	Insecticide-treated eave nets and window screens for malaria control in Chalinze district, Tanzania: a study protocol for a household randomised control trial.
-35852520	Updated Malaria Recommendations for Children and Pregnant People.
-35851758	Clinical and population-based study design considerations to accelerate the investigation of new antiretrovirals during pregnancy.
-35851210	In silico analysis, synthesis and biological evaluation of DHFR inhibitors.
-35851196	A contemporary chemical entities infiltrating in the antimalarial therapy era: a comprehensive review.
-35851033	Age-dependent changes in circulating Tfh cells influence development of functional malaria antibodies in children.
-35851027	Active case detection and treatment of malaria in pregnancy using LAMP technology (LAMPREG): a pragmatic randomised diagnostic outcomes trial-study protocol.
-35851014	Identifying biomarkers for epilepsy after cerebral malaria in Zambian children: rationale and design of a prospective observational study.
 35859154	Development of a rapid in vitro pre-screen for distinguishing effective liposome-adjuvant delivery systems.
 35858978	Comparison of entomological impacts of two methods of intervention designed to control Anopheles gambiae s.l. via swarm killing in Western Burkina Faso.
 35858931	Less is more: repellent-treated fabric strips as a substitute for full screening of open eave gaps for indoor and outdoor protection from malaria mosquito bites.
@@ -254,6 +244,16 @@
 35854985	Missed Plasmodium ovale Infections Among Symptomatic Persons in Angola, Mozambique, and Ethiopia.
 35854826	The characterization of multiple novel paramyxoviruses highlights the diverse nature of the subfamily Orthoparamyxovirinae.
 35854731	CycleGAN with Dynamic Criterion for Malaria Blood Cell Image Synthetization.
+35854371	Insecticide-treated eave nets and window screens for malaria control in Chalinze district, Tanzania: a study protocol for a household randomised control trial.
+35852854	MOSQUITO AND ARBOVIRUS SURVEILLANCE AT BRADSHAW FIELD TRAINING AREA, NORTHERN TERRITORY, AUSTRALIA.
+35852520	Updated Malaria Recommendations for Children and Pregnant People.
+35851758	Clinical and population-based study design considerations to accelerate the investigation of new antiretrovirals during pregnancy.
+35851600	Understanding spatio-temporal human mobility patterns for malaria control using a multi-agent mobility simulation model.
+35851210	In silico analysis, synthesis and biological evaluation of DHFR inhibitors.
+35851196	A contemporary chemical entities infiltrating in the antimalarial therapy era: a comprehensive review.
+35851033	Age-dependent changes in circulating Tfh cells influence development of functional malaria antibodies in children.
+35851027	Active case detection and treatment of malaria in pregnancy using LAMP technology (LAMPREG): a pragmatic randomised diagnostic outcomes trial-study protocol.
+35851014	Identifying biomarkers for epilepsy after cerebral malaria in Zambian children: rationale and design of a prospective observational study.
 35850780	Infectious disease surveillance system in Pakistan: challenges and way forward.
 35850777	Systematic review of Plasmodium knowlesi in Indonesia: a risk of emergence in the context of capital relocation to Borneo?
 35850687	Assessing Thailand's 1-3-7 surveillance strategy in accelerating malaria elimination.
@@ -364,7 +364,7 @@
 35811310	Dihydroartemisinin regulates immune cell heterogeneity by triggering a cascade reaction of CDK and MAPK phosphorylation.
 35811308	Diagnostic performance of loop-mediated isothermal amplification and ultra-sensitive rapid diagnostic tests for malaria screening among pregnant women in Kenya.
 35811085	Rift Valley fever seropositivity in humans and domestic ruminants and associated risk factors in Sengerema, Ilala, and Rufiji districts, Tanzania.
-35810476	Bagaza virus and Plasmodium spp. coinfection in red-legged partridges (Alectoris rufa), in southern Spain 2019.
+35810476	Bagaza virus and Plasmodium spp. coinfection in red-legged partridges (Alectoris rufa), in Southern Spain 2019.
 35810303	Evaluation of antiplasmodial activity in silico and in vitro of N-acylhydrazone derivatives.
 35810142	Application of telemedicine in infectious diseases.
 35809642	Implications of conformational flexibility, lipid binding, and regulatory domains in cell traversal-protein CelTOS for apicomplexan migration.
@@ -965,7 +965,7 @@
 35624483	Reflections on the 2021 World Malaria Report and the future of malaria control.
 35624125	The erythrocyte membrane properties of beta thalassaemia heterozygotes and their consequences for Plasmodium falciparum invasion.
 35623558	Defining ER-mitochondria contact dynamics in Plasmodium falciparum by targeting component of phospholipid synthesis pathway, phosphatidylserine synthase (PfPSS).
-35623395	Chagas Disease in Oklahoma.
+35623395	Chagas disease in Oklahoma.
 35622897	Target-enrichment sequencing yields valuable genomic data for challenging-to-culture bacteria of public health importance.
 35622837	Food safety practice and associated factors in public food establishments of Ethiopia: A systematic review and meta-analysis.
 35622427	Invasive Salmonella Infections Among Children in Shenzhen, China: A Five-year Retrospective Review.

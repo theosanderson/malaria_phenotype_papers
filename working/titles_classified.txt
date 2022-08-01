@@ -10484,3 +10484,7 @@
 35906600	Qualitative study on the use and maintenance of long-lasting insecticidal nets (LLINs) in Bouaké (Côte d'Ivoire), 17 months after the last mass distribution campaign.	other	-2.4543265e-06	berg	-1.7011665
 35906450	ICAM-1-binding Plasmodium falciparum erythrocyte membrane protein 1 variants elicits opsonic-phagocytosis IgG responses in Beninese children.	other	-0.0005985634	fal	-0.0010280656
 35906227	Tryptophan C-mannosylation is critical for Plasmodium falciparum transmission.	phenotype	-0.23377082	fal	-0.021681515
+35907857	Clinical performance testing of the automated haematology analyzer XN-31 prototype using whole blood samples from patients with imported malaria in Japan.	other	-2.3360508e-06	other	-0.108026065
+35907831	Marked aggravation of pyrethroid resistance in major malaria vectors in Malawi between 2014 and 2021 is partly linked with increased expression of P450 alleles.	other	-0.002402824	berg	-0.21797213
+35852854	MOSQUITO AND ARBOVIRUS SURVEILLANCE AT BRADSHAW FIELD TRAINING AREA, NORTHERN TERRITORY, AUSTRALIA.	other	-3.4089344e-06	berg	-0.8860245
+35851600	Understanding spatio-temporal human mobility patterns for malaria control using a multi-agent mobility simulation model.	other	-1.3542607e-05	m	-2.3966842
