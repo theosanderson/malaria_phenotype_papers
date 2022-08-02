@@ -10488,3 +10488,14 @@
 35907831	Marked aggravation of pyrethroid resistance in major malaria vectors in Malawi between 2014 and 2021 is partly linked with increased expression of P450 alleles.	other	-0.002402824	berg	-0.21797213
 35852854	MOSQUITO AND ARBOVIRUS SURVEILLANCE AT BRADSHAW FIELD TRAINING AREA, NORTHERN TERRITORY, AUSTRALIA.	other	-3.4089344e-06	berg	-0.8860245
 35851600	Understanding spatio-temporal human mobility patterns for malaria control using a multi-agent mobility simulation model.	other	-1.3542607e-05	m	-2.3966842
+35914909	Prenatal malaria exposure and risk of adverse birth outcomes: a prospective cohort study of pregnant women in the Northern Region of Ghana.	other	-1.5006569e-06	associated	-0.48480633
+35914699	On the genetics of malaria parasites, a memoir: Part I, rodent malaria parasites and the first genetic crosses.	other	-0.047044534	berg	-0.08607738
+35914687	Private Sector Contributions to National Malaria Surveillance Systems in Elimination Settings: Lessons Learned from Cambodia, Lao PDR, Myanmar, and Vietnam.	other	-3.529076e-06	other	-0.03050411
+35914564	Delivery and effectiveness of entomopathogenic fungi for mosquito and tick control: current knowledge and research challenges.	other	-2.5744682e-06	other	-0.21906249
+35911674	Placental Malaria is Associated with Higher LILRB2 Expression in Monocyte Subsets and Lower Anti-Malarial IgG Antibodies During Infancy.	other	-1.9143545e-05	berg	-1.7475859
+35910822	Outcome of Adult Malarial Co-infections in Eastern India.	other	-3.170517e-06	other	-0.4605786
+35909975	Plasmodium vivax Duffy Binding Protein-Based Vaccine: a Distant Dream.	other	-1.9741461e-05	v	-1.1205472
+35909971	Editorial: Cellular, molecular and immunological aspects in arboviruses infection.	other	-1.855031e-05	ar	-0.8138561
+35909968	Potential Opportunities and Challenges of Deploying Next Generation Sequencing and CRISPR-Cas Systems to Support Diagnostics and Surveillance Towards Malaria Control and Elimination in Africa.	other	-4.0040345e-06	sequ	-1.9492501
+35909628	MAPPINGS, a tool for network analysis of large phospho-signalling datasets: application to host erythrocyte response to Plasmodium infection.	other	-7.529741e-05	berg	-0.19645092
+35908812	Classification of disease recurrence using transition likelihoods with expectation-maximization algorithm.	other	-1.6642034e-05	berg	-0.17823486

@@ -1,3 +1,14 @@
+35914909	Prenatal malaria exposure and risk of adverse birth outcomes: a prospective cohort study of pregnant women in the Northern Region of Ghana.
+35914699	On the genetics of malaria parasites, a memoir: Part I, rodent malaria parasites and the first genetic crosses.
+35914687	Private Sector Contributions to National Malaria Surveillance Systems in Elimination Settings: Lessons Learned from Cambodia, Lao PDR, Myanmar, and Vietnam.
+35914564	Delivery and effectiveness of entomopathogenic fungi for mosquito and tick control: current knowledge and research challenges.
+35911674	Placental Malaria is Associated with Higher LILRB2 Expression in Monocyte Subsets and Lower Anti-Malarial IgG Antibodies During Infancy.
+35910822	Outcome of Adult Malarial Co-infections in Eastern India.
+35909975	Plasmodium vivax Duffy Binding Protein-Based Vaccine: a Distant Dream.
+35909971	Editorial: Cellular, molecular and immunological aspects in arboviruses infection.
+35909968	Potential Opportunities and Challenges of Deploying Next Generation Sequencing and CRISPR-Cas Systems to Support Diagnostics and Surveillance Towards Malaria Control and Elimination in Africa.
+35909628	MAPPINGS, a tool for network analysis of large phospho-signalling datasets: application to host erythrocyte response to Plasmodium infection.
+35908812	Classification of disease recurrence using transition likelihoods with expectation-maximization algorithm.
 35907857	Clinical performance testing of the automated haematology analyzer XN-31 prototype using whole blood samples from patients with imported malaria in Japan.
 35907831	Marked aggravation of pyrethroid resistance in major malaria vectors in Malawi between 2014 and 2021 is partly linked with increased expression of P450 alleles.
 35906744	Substrate Peptidomimetic Inhibitors of P. falciparum Plasmepsin X with Potent Antimalarial Activity.
@@ -271,7 +282,7 @@
 35847110	Metagenomic Investigation of Ticks From Kenyan Wildlife Reveals Diverse Microbial Pathogens and New Country Pathogen Records.
 35846757	Cytokine Profiles Associated With Acute COVID-19 and Long COVID-19 Syndrome.
 35846744	Streamlined and Robust Stage-Specific Profiling of Gametocytocidal Compounds Against Plasmodium falciparum.
-35846379	Protein-protein conjugation enhances immunogenicity of SARS-CoV-2 Receptor Binding Domain (RBD) vaccines.
+35846379	Protein-protein conjugation enhances the immunogenicity of SARS-CoV-2 receptor-binding domain (RBD) vaccines.
 35846163	New weapons to fight malaria transmission: A historical view.
 35846072	Reviewing the Past, Present, and Future Risks of Pathogens in Ghana and What This Means for Rethinking Infectious Disease Surveillance for Sub-Saharan Africa.
 35845951	A Systematic Review on Antimicrobial and Antiparasitic Activity of Eurycoma longifolia Jack (Tongkat Ali).
@@ -9987,14 +9998,3 @@
 32699237	Efficacy of Royal Guard, a new alpha-cypermethrin and pyriproxyfen treated mosquito net, against pyrethroid-resistant malaria vectors.
 32699046	Long-term risk benefit of the use of preventive antimalarial drugs in modern military populations.
 32698906	Characteristics of imported Plasmodium ovale spp. and Plasmodium malariae in Hubei Province, China, 2014-2018.
-32698879	Characterization of putative drug resistant biomarkers in Plasmodium falciparum isolated from Ghanaian blood donors.
-32698844	High insecticide resistances levels in Anopheles gambiaes s.l. in northern Uganda and its relevance for future malaria control.
-32698842	Quantifying flight aptitude variation in wild Anopheles gambiae in order to identify long-distance migrants.
-32698764	Occurrence of septuple and elevated Pfdhfr-Pfdhps quintuple mutations in a general population threatens the use of sulfadoxine-pyrimethamine for malaria prevention during pregnancy in eastern-coast of Tanzania.
-32698746	Anti-Cancer Stem Cells Potentiality of an Anti-Malarial Agent Quinacrine: An Old Wine in a New Bottle.
-32698190	Chloroquine does not inhibit infection of human lung cells with SARS-CoV-2.
-32697938	Antibody Feedback Limits the Expansion of B Cell Responses to Malaria Vaccination but Drives Diversification of the Humoral Response.
-32697400	Antiparasitic Activity of Bromotyrosine Alkaloids and New Analogues Isolated from the Fijian Marine Sponge Aplysinella rhax.
-32697331	The CYB5R3c .350C&gt;G and G6PD A alleles modify severity of anemia in malaria and sickle cell disease.
-32697227	Quinoline-triazole half-sandwich iridium(III) complexes: synthesis, antiplasmodial activity and preliminary transfer hydrogenation studies.
-32696915	Increased platelet distribution width and reduced IL-2 and IL-12 are associated with thrombocytopenia in Plasmodium vivax malaria.
