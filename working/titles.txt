@@ -1,3 +1,15 @@
+35917611	Malaria quantitative POC testing using magnetic particles, a paper microfluidic device and a hand-held fluorescence reader.
+35916842	Diagnosis, Treatment, and Prevention of Malaria in the US: A Review.
+35916840	Improving disease surveillance data analysis, interpretation, and use at the district level in Tanzania.
+35916532	Pregnancy and malaria: the perfect storm.
+35916146	Outcomes reported in trials of treatments for severe malaria: the need for a core outcome set.
+35915745	Antiplasmodial, Antitrypanosomal, and Cytotoxic Effects of Anthonotha macrophylla, Annickia polycarpa, Tieghemella heckelii, and Antrocaryon micraster Extracts.
+35915503	Malaria elimination does not cost more than malaria control: Sri Lanka a case in point.
+35915484	Malaria-VisAnalytics: a tool for visual exploratory analysis of Brazilian public malaria data.
+35915463	First report of haemosporidia and associated risk factors in red junglefowl (Gallus gallus) in China.
+35915453	Vivax malaria in Duffy-negative patients shows invariably low asexual parasitaemia: implication towards malaria control in Ethiopia.
+35915425	Psychosocial factors associated with malaria care-seeking in rural Ethiopia.
+35915227	Vaccine co-display of CSP and Pfs230 on liposomes targeting two Plasmodium falciparum differentiation stages.
 35914909	Prenatal malaria exposure and risk of adverse birth outcomes: a prospective cohort study of pregnant women in the Northern Region of Ghana.
 35914699	On the genetics of malaria parasites, a memoir: Part I, rodent malaria parasites and the first genetic crosses.
 35914687	Private Sector Contributions to National Malaria Surveillance Systems in Elimination Settings: Lessons Learned from Cambodia, Lao PDR, Myanmar, and Vietnam.
@@ -9986,15 +9998,3 @@
 32703215	Predictors of health workers' knowledge about artesunate-based severe malaria treatment recommendations in government and faith-based hospitals in Kenya.
 32703206	Long-term transmission patterns and public health policies leading to malaria elimination in Panamá.
 32703204	Pathophysiology and neurologic sequelae of cerebral malaria.
-32702775	The Plasmodium falciparum eIK1 kinase (PfeIK1) is central for melatonin synchronization in the human malaria parasite. Melatotosil blocks melatonin action on parasite cell cycle.
-32702756	Glucose-6-phosphate dehydrogenase deficiency.
-32702729	The COVID-19 Gene and Drug Set Library.
-32702521	An analysis of malaria in the Brazilian Legal Amazon using divergent association rules.
-32702040	One-step PCR: A novel protocol for determination of pfhrp2 deletion status in Plasmodium falciparum.
-32700677	Epidemiology of Plasmodium falciparum Malaria and Risk Factors for Severe Disease in Hubei Province, China.
-32700666	Malaria Transmission, Infection, and Disease following Sustained Indoor Residual Spraying of Insecticide in Tororo, Uganda.
-32700661	Interepidemic Detection of Chikungunya Virus Infection and Transmission in Northeastern Thailand.
-32700555	Hydroxychloroquine in COVID-19 Therapy: Protection Versus Proarrhythmia.
-32699237	Efficacy of Royal Guard, a new alpha-cypermethrin and pyriproxyfen treated mosquito net, against pyrethroid-resistant malaria vectors.
-32699046	Long-term risk benefit of the use of preventive antimalarial drugs in modern military populations.
-32698906	Characteristics of imported Plasmodium ovale spp. and Plasmodium malariae in Hubei Province, China, 2014-2018.

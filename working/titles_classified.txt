@@ -10499,3 +10499,15 @@
 35909968	Potential Opportunities and Challenges of Deploying Next Generation Sequencing and CRISPR-Cas Systems to Support Diagnostics and Surveillance Towards Malaria Control and Elimination in Africa.	other	-4.0040345e-06	sequ	-1.9492501
 35909628	MAPPINGS, a tool for network analysis of large phospho-signalling datasets: application to host erythrocyte response to Plasmodium infection.	other	-7.529741e-05	berg	-0.19645092
 35908812	Classification of disease recurrence using transition likelihoods with expectation-maximization algorithm.	other	-1.6642034e-05	berg	-0.17823486
+35917611	Malaria quantitative POC testing using magnetic particles, a paper microfluidic device and a hand-held fluorescence reader.	other	-1.2946569e-05	other	-0.09498089
+35916842	Diagnosis, Treatment, and Prevention of Malaria in the US: A Review.	other	-1.3823812e-06	other	-0.3371666
+35916840	Improving disease surveillance data analysis, interpretation, and use at the district level in Tanzania.	other	-2.3360508e-06	other	-0.048204582
+35916532	Pregnancy and malaria: the perfect storm.	other	-9.012677e-06	than	-2.8992817
+35916146	Outcomes reported in trials of treatments for severe malaria: the need for a core outcome set.	other	-2.3795494e-05	:	-1.1983191
+35915745	Antiplasmodial, Antitrypanosomal, and Cytotoxic Effects of Anthonotha macrophylla, Annickia polycarpa, Tieghemella heckelii, and Antrocaryon micraster Extracts.	other	-1.0084622e-05	anth	-1.1131727
+35915503	Malaria elimination does not cost more than malaria control: Sri Lanka a case in point.	other	-2.0966954e-06	l	-1.8151239
+35915484	Malaria-VisAnalytics: a tool for visual exploratory analysis of Brazilian public malaria data.	other	-3.6482897e-06	other	-0.090835735
+35915463	First report of haemosporidia and associated risk factors in red junglefowl (Gallus gallus) in China.	other	-1.9765537e-06	berg	-0.5883992
+35915453	Vivax malaria in Duffy-negative patients shows invariably low asexual parasitaemia: implication towards malaria control in Ethiopia.	other	-2.9311614e-06	d	-0.66501105
+35915425	Psychosocial factors associated with malaria care-seeking in rural Ethiopia.	other	-3.529076e-06	berg	-1.8125656
+35915227	Vaccine co-display of CSP and Pfs230 on liposomes targeting two Plasmodium falciparum differentiation stages.	other	-0.004580339	fal	-0.002445782
