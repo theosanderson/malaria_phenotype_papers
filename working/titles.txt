@@ -1,3 +1,20 @@
+35921921	On the genetics of malaria parasites, a memoir: Part III, Genetic crossing in human malaria parasites.
+35921912	Effect of ecological factors and breeding habitat types on Culicine larvae occurrence and abundance in residential areas Southern Thailand.
+35921815	Gluconeogenesis: Adding a new piece to the puzzle of malaria parasitism.
+35921477	Altiratinib blocks Toxoplasma gondii and Plasmodium falciparum development by selectively targeting a spliceosome kinase.
+35921457	Monoclonal Antibodies for Malaria.
+35921456	Monoclonal Antibodies - A Different Approach to Combat Malaria.
+35921449	Low-Dose Subcutaneous or Intravenous Monoclonal Antibody to Prevent Malaria.
+35921373	Impact of Epstein-Barr virus co-infection on natural acquired Plasmodium vivax antibody response.
+35921329	Onchocerciasis: Target product profiles of in vitro diagnostics to support onchocerciasis elimination mapping and mass drug administration stopping decisions.
+35920811	Hematopoietic plasticity mapped in Drosophila and other insects.
+35920043	Plasmodium berghei leucine-rich repeat protein 1 downregulates protein phosphatase 1 activity and is required for efficient oocyst development.
+35919478	Evaluation of Malaria Standard Microscopy and Rapid Diagnostic Tests for Screening - Southern Tanzania, 2018-2019.
+35919477	Surveillance and Response to Imported Malaria During the COVID-19 Epidemic - Anhui Province, China, 2019-2021.
+35919476	Plasmodium vivax in the Elimination Phase - China, 2013-2020.
+35919251	[Pcr-rflp genotyping of pfcrt and pfmdr1 in plasmodium falciparum isolates from children in Vatomandry, Madagascar].
+35918640	Prevalence and associated factors of oligohydramnios in pregnancies beyond 36 weeks of gestation at a tertiary hospital in southwestern Uganda.
+35918453	Geometric morphometrics versus DNA barcoding for the identification of malaria vectors Anopheles dirus and An. baimaii in the Thai-Cambodia border.
 35917611	Malaria quantitative POC testing using magnetic particles, a paper microfluidic device and a hand-held fluorescence reader.
 35916842	Diagnosis, Treatment, and Prevention of Malaria in the US: A Review.
 35916840	Improving disease surveillance data analysis, interpretation, and use at the district level in Tanzania.
@@ -503,6 +520,7 @@
 35768835	Treatment with specific and pan-plasma membrane calcium ATPase (PMCA) inhibitors reduces malaria parasite growth in vitro and in vivo.
 35768619	Frequency of gestational malaria and maternal-neonatal outcomes, in Northwestern Colombia 2009-2020.
 35768450	Spatial patterns and climate drivers of malaria in three border areas of Brazil, Venezuela and Guyana, 2016-2018.
+35768413	Contrasting haemoparasite prevalence in larid species with divergent ecological niches and migration patterns.
 35768411	Host lung microbiota promotes malaria-associated acute respiratory distress syndrome.
 35767876	The African origin of Plasmodium vivax.
 35767869	The origin of Plasmodium vivax: science or story telling?
@@ -628,7 +646,7 @@
 35731843	Transmission blocking activity of low dose tafenoquine in healthy volunteers experimentally infected with Plasmodium falciparum.
 35731838	DNA replication dynamics during erythrocytic schizogony in the malaria parasites Plasmodium falciparum and Plasmodium knowlesi.
 35731833	The AMA1-RON complex drives Plasmodium sporozoite invasion in the mosquito and mammalian hosts.
-35731580	Spatial distribution of incident pediatric burkitt lymphoma in central and northern malawi and association with malaria prevalence.
+35731580	Spatial distribution of incident pediatric Burkitt lymphoma in central and northern Malawi and association with malaria prevalence.
 35730803	CCR6 expression reduces mouse survival upon malarial challenge with Plasmodium berghei NK65 strain.
 35729642	Implementation and challenges to preventing the re-establishment of malaria in China in the COVID-19 era.
 35729623	Intensity of insecticide resistance in the major malaria vector Anopheles funestus from Chikwawa, rural Southern Malawi.
@@ -9980,21 +9998,3 @@
 32709117	Can We Harness Immune Responses to Improve Drug Treatment in Leishmaniasis?
 32708582	Blood Meal Sources of Anopheles spp. in Malaria Endemic Areas of Honduras.
 32708370	Generation of a Peptide Vaccine Candidate against Falciparum Placental Malaria Based on a Discontinuous Epitope.
-32708179	Pre-Erythrocytic Vaccines against Malaria.
-32704620	Impact of malaria on haematological parameters of urban, peri-urban and rural residents in the Ashanti region of Ghana: a cross-sectional study.
-32706826	Parasitic infections among pregnant women at first antenatal care visit in northern Ghana: A study of prevalence and associated factors.
-32706743	The Identification of Native Epitopes Eliciting a Protective High-Affinity Immunoglobulin Subclass Response to Blood Stages of Plasmodium falciparum: Protocol for Observational Studies.
-32706373	mRNA localization mediates maturation of cytoplasmic cilia in Drosophila spermatogenesis.
-32706080	Vorinostat as potential antiparasitic drug.
-32706017	Probable vestiges of metabolic diseases in Roman Imperial cremations from Northern Germany.
-32705976	Artemisia Spp. Derivatives for COVID-19 Treatment: Anecdotal Use, Political Hype, Treatment Potential, Challenges, and Road Map to Randomized Clinical Trials.
-32705975	Predicting the Impact of COVID-19 and the Potential Impact of the Public Health Response on Disease Burden in Uganda.
-32705964	Doses of primaquine administered to children with Plasmodium vivax according to an age-based dose regimen.
-32704485	Changing Patterns in Epidemiology of Malaria Between 2006 and 2018 in the South of Fars Province, Southern Iran: The Fall and Rise of Malaria.
-32704386	Erratum: Author Correction: Antibody responses to the RTS,S/AS01E vaccine and Plasmodium falciparum antigens after a booster dose within the phase 3 trial in Mozambique.
-32704164	Progress towards elimination goals for viral hepatitis.
-32703999	Molecular malaria surveillance using a novel protocol for extraction and analysis of nucleic acids retained on used rapid diagnostic tests.
-32703436	Biophysical characterization of polydisperse liposomal adjuvant formulations.
-32703215	Predictors of health workers' knowledge about artesunate-based severe malaria treatment recommendations in government and faith-based hospitals in Kenya.
-32703206	Long-term transmission patterns and public health policies leading to malaria elimination in Panamá.
-32703204	Pathophysiology and neurologic sequelae of cerebral malaria.

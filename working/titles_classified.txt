@@ -10511,3 +10511,21 @@
 35915453	Vivax malaria in Duffy-negative patients shows invariably low asexual parasitaemia: implication towards malaria control in Ethiopia.	other	-2.9311614e-06	d	-0.66501105
 35915425	Psychosocial factors associated with malaria care-seeking in rural Ethiopia.	other	-3.529076e-06	berg	-1.8125656
 35915227	Vaccine co-display of CSP and Pfs230 on liposomes targeting two Plasmodium falciparum differentiation stages.	other	-0.004580339	fal	-0.002445782
+35921921	On the genetics of malaria parasites, a memoir: Part III, Genetic crossing in human malaria parasites.	other	-0.049263917	berg	-1.4959749
+35921912	Effect of ecological factors and breeding habitat types on Culicine larvae occurrence and abundance in residential areas Southern Thailand.	other	-1.37819625e-05	berg	-0.42270032
+35921815	Gluconeogenesis: Adding a new piece to the puzzle of malaria parasitism.	other	-0.035430506	fal	-0.16939983
+35921477	Altiratinib blocks Toxoplasma gondii and Plasmodium falciparum development by selectively targeting a spliceosome kinase.	phenotype	-0.48309404	fal	-0.028459601
+35921457	Monoclonal Antibodies for Malaria.	other	-2.8682118e-05	mal	-0.08897864
+35921456	Monoclonal Antibodies - A Different Approach to Combat Malaria.	other	-2.0815281e-05	mal	-0.2712567
+35921449	Low-Dose Subcutaneous or Intravenous Monoclonal Antibody to Prevent Malaria.	other	-1.8668587e-05	other	-1.2474108
+35921373	Impact of Epstein-Barr virus co-infection on natural acquired Plasmodium vivax antibody response.	other	-4.6010214e-06	-	-0.004253871
+35921329	Onchocerciasis: Target product profiles of in vitro diagnostics to support onchocerciasis elimination mapping and mass drug administration stopping decisions.	other	-5.3162735e-06	vitro	-0.08641817
+35920811	Hematopoietic plasticity mapped in Drosophila and other insects.	other	-0.00026648093	berg	-0.5356947
+35920043	Plasmodium berghei leucine-rich repeat protein 1 downregulates protein phosphatase 1 activity and is required for efficient oocyst development.	phenotype	-0.013987729	berg	-2.3435998e-05
+35919478	Evaluation of Malaria Standard Microscopy and Rapid Diagnostic Tests for Screening - Southern Tanzania, 2018-2019.	other	-1.022884e-06	other	-0.07302852
+35919477	Surveillance and Response to Imported Malaria During the COVID-19 Epidemic - Anhui Province, China, 2019-2021.	other	-1.2622395e-06	other	-0.29885364
+35919476	Plasmodium vivax in the Elimination Phase - China, 2013-2020.	other	-4.721163e-06	berg	-0.70400256
+35919251	[Pcr-rflp genotyping of pfcrt and pfmdr1 in plasmodium falciparum isolates from children in Vatomandry, Madagascar].	other	-9.251094e-06	fal	-0.0052823615
+35918640	Prevalence and associated factors of oligohydramnios in pregnancies beyond 36 weeks of gestation at a tertiary hospital in southwestern Uganda.	other	-2.5744682e-06	other	-1.4911659
+35918453	Geometric morphometrics versus DNA barcoding for the identification of malaria vectors Anopheles dirus and An. baimaii in the Thai-Cambodia border.	other	-2.5744682e-06	other	-0.55635875
+35768413	Contrasting haemoparasite prevalence in larid species with divergent ecological niches and migration patterns.	other	-4.2153635e-05	berg	-0.5527689
