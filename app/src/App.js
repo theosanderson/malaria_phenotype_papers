@@ -48,6 +48,7 @@ const columns = [
       name: 'Phenotype confidence',
       selector: 'pheno_conf',
       sortable: true,
+      cell: row => <>{row.pheno_conf}%</>
   },
     {
         name: 'Organism',
@@ -59,7 +60,8 @@ const columns = [
         name: 'Organism confidence',
         selector: 'org_conf',
         sortable: true,
-        
+        cell: row => <>{row.org_conf}%</>
+
     },
 
 ];

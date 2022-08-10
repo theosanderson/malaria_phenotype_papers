@@ -20,6 +20,7 @@ for line in lines:
 
 file = open("working/abstracts_classified.sorted.tsv", "rt")
 outputs = []
+pmids = set()
 for line in file:
     line = line.strip()
     if line:
@@ -38,9 +39,10 @@ for line in file:
             # convert org log_prob to percentage probability
             org_log_prob = float(org_log_prob)
             org_prob = round(math.exp(org_log_prob) * 100, 2)
-            if pheno_classification == "phenotype":
+            if pheno_classification == "phenotype" and pmid not in pmids:
                 output = {"title": title, "pmid":int(pmid), "pheno_conf": pheno_prob,"organism":org_classification, "org_conf": org_prob}
                 outputs.append(output)
+                pmids.add(pmid)
 file.close()
 
 # write outputs to app/public/output.json
