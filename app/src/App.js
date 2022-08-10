@@ -31,6 +31,7 @@ const columns = [
         // set width to 50%:
         minWidth: "40%",
         sortable: true,
+        filterable: true,
         cell: row => <a href={"https://pubmed.ncbi.nlm.nih.gov/"+row.pmid} style={
           {
             color: 'black',
