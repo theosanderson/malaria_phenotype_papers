@@ -15,7 +15,7 @@ function App() {
       .then(data => data.json())
       .then(data => {
         console.log(data);
-        const data2 = data.sort( (a,b)=>b.pmid > a.pmid).filter(a=>a.pheno_conf > 60);
+        const data2 = data.sort( (a,b)=>b.pmid > a.pmid).filter(a=>a.pheno_conf > 55);
         setData(data2);
         setLoading(false);
       })
