@@ -69,7 +69,7 @@ const columns = [
 ];
 
 // if "phenoplasm" in URL, add column
-if (window.location.href.indexOf("phenoplasm") > -1) {
+if (window.location.href.indexOf("phenoplasm_mode") > -1) {
   columns.push({
     name: 'PhenoPlasm',
     selector: 'in_phenoplasm',
