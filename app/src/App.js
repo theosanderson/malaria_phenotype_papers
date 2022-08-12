@@ -63,9 +63,21 @@ const columns = [
         sortable: true,
         cell: row => <>{row.org_conf}%</>
 
-    },
+    }
+    
 
 ];
+
+// if "phenoplasm" in URL, add column
+if (window.location.href.indexOf("phenoplasm") > -1) {
+  columns.push({
+    name: 'PhenoPlasm',
+    selector: 'in_phenoplasm',
+    filterable: true,
+    
+})
+}
+
 
 
 

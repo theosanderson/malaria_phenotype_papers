@@ -4,6 +4,13 @@ file = open("working/titles.txt", "rt")
 lines = file.readlines()
 file.close()
 
+tsv_file = "http://phenoplasm.org/datadumpcsv.php"
+import pandas as pd
+# open tsv as df
+df = pd.read_csv(tsv_file, sep='\t')
+# Create a set from the "Reference column"
+ref_set = set(df["Reference"])
+
 pmid_title = {}
 for line in lines:
     line = line.strip()
@@ -40,7 +47,8 @@ for line in file:
             org_log_prob = float(org_log_prob)
             org_prob = round(math.exp(org_log_prob) * 100, 2)
             if pheno_classification == "phenotype" and pmid not in pmids:
-                output = {"title": title, "pmid":int(pmid), "pheno_conf": pheno_prob,"organism":org_classification, "org_conf": org_prob}
+                in_pheno_plasm = "yes" if pmid in ref_set else "no"
+                output = {"title": title, "pmid":int(pmid), "pheno_conf": pheno_prob,"organism":org_classification, "org_conf": org_prob, "in_phenoplasm": in_pheno_plasm}
                 outputs.append(output)
                 pmids.add(pmid)
 file.close()
