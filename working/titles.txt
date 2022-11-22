@@ -1,3 +1,8 @@
+36412740	The Impact of Submicroscopic Parasitemia on Malaria Rapid Diagnosis in Northeastern Tanzania, an Area with Diverse Transmission Patterns.
+36412603	Exploring Potential Determinants of Mosquito Net Ownership and Use in Somalia: A Cross-Sectional Study.
+36412595	Chemoprevention for the Populations of Malaria Endemic Africa.
+36412499	A pharmacokinetic-pharmacodynamic model for chemoprotective agents against malaria.
+36412475	Knowledge, attitude, and practice regarding mosquito-borne diseases among migrant laborers from a migrant settlement in Ponekkara, Ernakulam Kerala.
 36411769	Suppressive, Curative, and Prophylactic Effects of Maesa lanceolata Forssk. against Rodent Malaria Parasite Plasmodium berghei.
 36411736	Uncovering the inhibitory potentials of Phyllanthus nivosus leaf and its bioactive compounds against Plasmodium lactate dehydrogenase for malaria therapy.
 36411573	Antimalarials Targeting the Malaria Parasite Cation ATPase P falciparum ATP4 (PfATP4).
@@ -9992,8 +9997,3 @@
 33176783	Trends in health workers' compliance with outpatient malaria case-management guidelines across malaria epidemiological zones in Kenya, 2010-2016.
 33176716	Malaria Screener: a smartphone application for automated malaria screening.
 33176708	Dengue in Western Uganda: a prospective cohort of children presenting with undifferentiated febrile illness.
-35081179	Travel-related infections presenting in Europe: A 20-year analysis of EuroTravNet surveillance data.
-33175844	Increased malaria parasitaemia among adults living with HIV who have discontinued cotrimoxazole prophylaxis in Kitgum district, Uganda.
-33175835	The risk of adverse clinical outcomes following treatment of Plasmodium vivax malaria with and without primaquine in Papua, Indonesia.
-33175213	Exploring public awareness of the current and future malaria risk zones in South Africa under climate change: a pilot study.
-33175129	Association of Reduced Long-Lasting Insecticidal Net Efficacy and Pyrethroid Insecticide Resistance With Overexpression of CYP6P4, CYP6P3, and CYP6Z1 in Populations of Anopheles coluzzii From Southeast Côte d'Ivoire.
