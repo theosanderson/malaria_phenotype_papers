@@ -1,3 +1,4 @@
+36413547	Geographical distribution and genetic characterization of pfhrp2 negative Plasmodium falciparum parasites in the Peruvian Amazon.
 36412740	The Impact of Submicroscopic Parasitemia on Malaria Rapid Diagnosis in Northeastern Tanzania, an Area with Diverse Transmission Patterns.
 36412603	Exploring Potential Determinants of Mosquito Net Ownership and Use in Somalia: A Cross-Sectional Study.
 36412595	Chemoprevention for the Populations of Malaria Endemic Africa.
@@ -9996,4 +9997,3 @@
 33176792	Measuring the contribution of human mobility to malaria persistence.
 33176783	Trends in health workers' compliance with outpatient malaria case-management guidelines across malaria epidemiological zones in Kenya, 2010-2016.
 33176716	Malaria Screener: a smartphone application for automated malaria screening.
-33176708	Dengue in Western Uganda: a prospective cohort of children presenting with undifferentiated febrile illness.
