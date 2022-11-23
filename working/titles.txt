@@ -1,3 +1,10 @@
+36416043	Haemosporidian parasites and incubation period influence plumage coloration in tanagers (Passeriformes: Thraupidae).
+36416015	The EPCR rs867186 gene polymorphism is associated with increased level of soluble EPCR and high risk of severe malaria and fatality in Beninese children.
+36415887	Deciphering antiviral efficacy of malaria box compounds against malaria exacerbating viral pathogens- Epstein Barr virus and SARS-CoV-2, an in silico study.
+36415884	Critical barriers to sustainable capacity strengthening in global health: a systems perspective on development assistance.
+36415655	Profiles of host immune impairment in Plasmodium and SARS-CoV-2 infections.
+36415420	Chloroquine-Induced Psychosis: A Case Report.
+36415138	Dynamics of a multi-strain malaria model with diffusion in a periodic environment.
 36414935	Adherence of healthcare providers to malaria case management guidelines of the formal private sector in north-western Ethiopia: an implication for malaria control and elimination.
 36414797	Structural Profiles of SARS-CoV-2 Variants in India.
 36413975	Inhibition and Mechanism of Plasmodium falciparum Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase.
@@ -2074,6 +2081,7 @@
 35734173	Innate Immune Responses and P. falciparum CS Repeat-Specific Neutralizing Antibodies Following Vaccination by Skin Scarification.
 35734077	LLIN evaluation in Uganda project (LLINEUP): The fabric integrity, chemical content and bioefficacy of long-lasting insecticidal nets treated with and without piperonyl butoxide across two years of operational use in Uganda.
 35733749	Vector-Borne Diseases amidst COVID-19 Pandemic in India - A Mini-Review.
+35733306	Convalescent Plasma The Experience And Journey From Blockbuster To Incognito: A Single Centre Experience.
 35732943	Discovery and Characterization of Oxidative Enzymes Involved in Monoterpenoid Indole Alkaloid Biosynthesis.
 35732703	Estimating female malaria mosquito age by quantifying Y-linked genes in stored male spermatozoa.
 35732377	Cutaneous manifestations of malaria.
@@ -9989,11 +9997,3 @@
 33178450	Factors Associated with Malaria Infection among Head Porters in Agbogbloshie Market in the Greater Accra Region of Ghana.
 33178139	Comparing the Infection Biology of Plasmodiophora brassicae in Clubroot Susceptible and Resistant Hosts and Non-hosts.
 33177908	Plasma Folate Levels in Acutely Ill and Steady State Pediatric Sickle Cell Disease Patients in Ghana.
-33177847	Prevalence and Risk Factors of Asymptomatic Plasmodium Infection in Gondar Zuria District, Northwest Ethiopia.
-33177516	An annotated dataset of bioacoustic sensing and features of mosquitoes.
-33176872	Multiple insecticide resistance target sites in adult field strains of An. gambiae (s.l.) from southeastern Senegal.
-33176862	Seasonal dynamics and molecular differentiation of three natural Anopheles species (Diptera: Culicidae) of the Maculatus group (Neocellia series) in malaria hotspot villages of Thailand.
-33176846	Multi-locus sequence analyses reveal a clonal L. borgpetersenii genotype in a heterogeneous invasive Rattus spp. community across the City of Johannesburg, South Africa.
-33176805	Comparative assessment of insecticide resistance phenotypes in two major malaria vectors, Anopheles funestus and Anopheles arabiensis in south-eastern Tanzania.
-33176799	Rural-urban variation in insecticide-treated net utilization among pregnant women: evidence from 2018 Nigeria Demographic and Health Survey.
-33176793	Association between recent overnight travel and use of long-lasting insecticidal nets in rural Uganda: a prospective cohort study in Tororo.
