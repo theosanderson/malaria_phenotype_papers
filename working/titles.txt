@@ -1,3 +1,14 @@
+36422964	Studying the Rationale of Fire Ant Sting Therapy Usage by the Tribal Natives of Bastar Revealed Ant Venom-Derived Peptides with Promising Anti-Malarial Activity.
+36422942	Malaria Vector Surveillance and Control in an Elimination Setting in South Africa.
+36422923	Field Evaluation of Novel Spatial Repellent Controlled Release Devices (CRDs) against Mosquitoes in an Outdoor Setting in the Northern Peruvian Amazon.
+36422591	Design, Synthesis, and Antiprotozoal Evaluation of New Promising 2,9-Bis[(substituted-aminomethyl)]-4,7-phenyl-1,10-phenanthroline Derivatives, a Potential Alternative Scaffold to Drug Efflux.
+36422580	Quantitative G6PD Deficiency Screening in Routine Malaria Diagnostic Units in the Brazilian Amazon (SAFEPRIM): An Operational Mixed-Methods Study.
+36421973	Anopheles gambiae Trehalase Inhibitors for Malaria Vector Control: A Molecular Docking and Molecular Dynamics Study.
+36421969	Epidemiological, Entomological, and Climatological Investigation of the 2019 Dengue Fever Outbreak in Gewane District, Afar Region, North-East Ethiopia.
+36421726	Biodefensive Based on Piper nigrum Essential Oil for Controlling of Anopheles aquasalis Larvae: Influence of Temperature (35 °C) and Preservatives.
+36421683	Red Blood Cells Oligosaccharides as Targets for Plasmodium Invasion.
+36421302	Bioactive Peptides against Human Apicomplexan Parasites.
+36421275	Metabolomic Profiling, In Vitro Antimalarial Investigation and In Silico Modeling of the Marine Actinobacterium Strain Rhodococcus sp. UR111 Associated with the Soft Coral Nephthea sp.
 36419237	Pathogenicity and virulence of malaria: sticky problems and tricky solutions.
 36419052	Evaluation of malaria surveillance system in Benue State, Nigeria.
 36418231	Quinoline-based heterocyclic hydrazones: Design, synthesis, anti-plasmodial assessment, and mechanistic insights.
@@ -9986,14 +9997,3 @@
 33185055	[Strategies and studies of malaria vector control in Jiangsu Province].
 33184647	Daily consumption of pro-vitamin A biofortified (yellow) cassava improves serum retinol concentrations in preschool children in Nigeria: a randomized controlled trial.
 33184535	Chaperoning of asparagine repeat-containing proteins in Plasmodium falciparum.
-33184408	Identification of a nuclear localization signal in the Plasmodium falciparum CTP: phosphocholine cytidylyltransferase enzyme.
-33183301	Ending malnutrition in all its forms requires scaling up proven nutrition interventions and much more: a 129-country analysis.
-33183296	Analysis of initial laboratory diagnosis of malaria and its accuracy compared with re-testing from 2013 to 2018 in Yunnan Province, China.
-33183292	Sero-epidemiological evaluation of malaria transmission in The Gambia before and after mass drug administration.
-33183252	Period prevalence and identification challenges of viral haemorrhagic fever suspect cases in a tertiary referral hospital in Guinea: a cross-sectional, retrospective study of triage and emergency room patient profiles.
-33181819	When non-Whiteness becomes a condition.
-33180883	Insights into malaria pathogenesis gained from host metabolomics.
-33180822	Identification of tyrosine kinase inhibitors that halt Plasmodium falciparum parasitemia.
-33180784	Performance of molecular and serologic tests for the diagnosis of scrub typhus.
-33180439	Hematological Profiles of Malaria Infected Adult Patients in Raya Alamata Hospital, Northeast Ethiopia.
-33180011	Cytotoxicity, Acute, and Subacute Study of Hydroalcoholic Root Extract of Carissa spinarum L. on Wistar Rats.
