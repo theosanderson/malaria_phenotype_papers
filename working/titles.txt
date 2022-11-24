@@ -1,3 +1,5 @@
+36419237	Pathogenicity and virulence of malaria: sticky problems and tricky solutions.
+36419052	Evaluation of malaria surveillance system in Benue State, Nigeria.
 36418231	Quinoline-based heterocyclic hydrazones: Design, synthesis, anti-plasmodial assessment, and mechanistic insights.
 36417454	Longitudinal IgG antibody responses to Plasmodium vivax blood-stage antigens during and after acute vivax malaria in individuals living in the Brazilian Amazon.
 36417035	Correction: Aetiology and Potential Animal Exposure in Central Nervous System Infections in Vietnam.
@@ -2827,7 +2829,7 @@
 35475784	Molecular genetic diversity and bioinformatic analysis of Leucocytozoon sabrazesi based on the mitochondrial genes cytb, coxI and coxIII and co-infection of Plasmodium spp.
 35475529	Molecular profiling reveals features of clinical immunity and immunosuppression in asymptomatic P. falciparum malaria.
 35474125	Author Correction: Allelic variants of full-length VAR2CSA, the placental malaria vaccine candidate, differ in antigenicity and receptor binding affinity.
-35473532	Formulation development of Azadirachta indica extract as nanosuppositories improves its intrarectal delivery for the treatment of malaria.
+35473532	Formulation Development of Azadirachta indica Extract as Nanosuppository to Improve its Intrarectal Delivery for the Treatment of Malaria.
 35472441	P. falciparum msp1 and msp2 genetic diversity in P. falciparum single and mixed infection with P. malariae among the asymptomatic population in Southern Benin.
 35472079	Correction to: Fine-scale Spatiotemporal Mapping of Asymptomatic and Clinical Plasmodium falciparum Infections: Epidemiological Evidence for Targeted Malaria Elimination Interventions.
 35471177	Evaluation of the effectiveness of the OptiMAL-IT™ rapid test in the follow up of patients diagnosed with malaria in the Peruvian Amazon.
@@ -9995,5 +9997,3 @@
 33180784	Performance of molecular and serologic tests for the diagnosis of scrub typhus.
 33180439	Hematological Profiles of Malaria Infected Adult Patients in Raya Alamata Hospital, Northeast Ethiopia.
 33180011	Cytotoxicity, Acute, and Subacute Study of Hydroalcoholic Root Extract of Carissa spinarum L. on Wistar Rats.
-33179027	Adoption of evidence-based global policies at the national level: intermittent preventive treatment for malaria in pregnancy and first trimester treatment in Kenya, Malawi, Mali and The Gambia.
-33178551	Human microRNAs in host-parasite interaction: a review.
