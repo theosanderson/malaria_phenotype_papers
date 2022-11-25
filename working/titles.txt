@@ -1,3 +1,8 @@
+36424604	Coating formulation change leads to inferior performance of long-lasting insecticidal nets in Papua New Guinea.
+36424398	Rapid diagnosis of malaria by chemometric peak-free LIBS of trace biometals in blood.
+36423944	Case of myocarditis secondary to severe Plasmodium falciparum infection.
+36423890	Oxidative status in relation to blood parasite infections in house sparrows living along an urbanization gradient.
+36423593	CLIPA7 Exhibits Pleiotropic Roles in the Anopheles gambiae Immune Response.
 36422964	Studying the Rationale of Fire Ant Sting Therapy Usage by the Tribal Natives of Bastar Revealed Ant Venom-Derived Peptides with Promising Anti-Malarial Activity.
 36422942	Malaria Vector Surveillance and Control in an Elimination Setting in South Africa.
 36422923	Field Evaluation of Novel Spatial Repellent Controlled Release Devices (CRDs) against Mosquitoes in an Outdoor Setting in the Northern Peruvian Amazon.
@@ -234,7 +239,7 @@
 36351236	Antimalarial and Plasmodium falciparum serpentine receptor 12 targeting effect of FDA approved purinergic receptor antagonist.
 36350894	The in silico and in vitro analysis of donepezil derivatives for Anopheles acetylcholinesterase inhibition.
 36349868	2-hydroxy-1,4-naphthoquinones with 3-alkyldiarylether groups: synthesis and Plasmodium falciparum inhibitory activity.
-36349579	A comprehensive overview of the existing microbial symbionts in mosquito vectors: An important tool for impairing pathogentransmission.
+36349579	A comprehensive overview of the existing microbial symbionts in mosquito vectors: An important tool for impairing pathogen transmission.
 36349448	Allometric scaling relationships in mouse placenta.
 36349187	Malaria Microscopy Competency in the Subnational Verification, China: Implications for Malaria Elimination and the Prevention of Malaria Reestablishment.
 36349140	High Prevalence of Plasmodium Infection in Fighting Cocks in Thailand Determined with a Molecular Method.
@@ -9992,8 +9997,3 @@
 33185667	Three Signatures of Adaptive Polymorphism Exemplified by Malaria-Associated Genes.
 33185255	Current State of Malaria Endemicity in Egor South-South Region, Nigeria.
 33185183	A Suspected Case of Mixed Infection of Plasmodium vivax with Plasmodium falciparum: A Diagnostic Conundrum due to Pre-Analytical Error.
-33185157	Kolaviron: A Biflavonoid with Numerous Health Benefits.
-33185059	[Epidemic situation of malaria in Yunnan Province from 2014 to 2019].
-33185055	[Strategies and studies of malaria vector control in Jiangsu Province].
-33184647	Daily consumption of pro-vitamin A biofortified (yellow) cassava improves serum retinol concentrations in preschool children in Nigeria: a randomized controlled trial.
-33184535	Chaperoning of asparagine repeat-containing proteins in Plasmodium falciparum.
