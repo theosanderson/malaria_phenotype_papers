@@ -1,3 +1,5 @@
+36426002	Data on prevalence and management practices of malaria-typhoid co-infection in Unwana South East Nigeria.
+36425785	Spatial, environmental, and individual associations with Anopheles albimanus salivary antigen IgG in Haitian children.
 36424604	Coating formulation change leads to inferior performance of long-lasting insecticidal nets in Papua New Guinea.
 36424398	Rapid diagnosis of malaria by chemometric peak-free LIBS of trace biometals in blood.
 36423944	Case of myocarditis secondary to severe Plasmodium falciparum infection.
@@ -9995,5 +9997,3 @@
 33187123	Highly Sensitive and Rapid Quantitative Detection of Plasmodium falciparum Using an Image Cytometer.
 33186602	Plasmodium falciparum maturation across the intra-erythrocytic cycle shifts the soft glassy viscoelastic properties of red blood cells from a liquid-like towards a solid-like behavior.
 33185667	Three Signatures of Adaptive Polymorphism Exemplified by Malaria-Associated Genes.
-33185255	Current State of Malaria Endemicity in Egor South-South Region, Nigeria.
-33185183	A Suspected Case of Mixed Infection of Plasmodium vivax with Plasmodium falciparum: A Diagnostic Conundrum due to Pre-Analytical Error.
