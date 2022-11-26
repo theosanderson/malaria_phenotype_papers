@@ -1,3 +1,12 @@
+36432706	Selection of an Aptamer against the Enzyme 1-deoxy-D-xylulose-5-phosphate Reductoisomerase from Plasmodium falciparum.
+36432016	Bridging the Gap in Malaria Parasite Resistance, Current Interventions, and the Way Forward from in Silico Perspective: A Review.
+36431900	Insights into Antimalarial Activity of N-Phenyl-Substituted Cinnamanilides.
+36430912	Inflammation and Infection in Pain and the Role of GPR37.
+36430803	Berbamine Reduces Chloroquine-Induced Itch in Mice through Inhibition of MrgprX1.
+36430384	Conservation of Importin α Function in Apicomplexans: Ivermectin and GW5074 Target Plasmodium falciparum Importin α and Inhibit Parasite Growth in Culture.
+36429536	Burden of Malaria in Sao Tome and Principe, 1990-2019: Findings from the Global Burden of Disease Study 2019.
+36429377	The Spread of and Death from Infectious Diseases in Sub-Saharan Africa: Implications for FDI Attraction.
+36429033	Preclinical Study of Plasmodium Immunotherapy Combined with Radiotherapy for Solid Tumors.
 36427707	Retrospective spatiotemporal analysis of malaria cases reported between 2000 and 2020 in North Carolina, USA.
 36427517	What sounds like Aedes, acts like Aedes, but is not Aedes? Lessons from dengue virus control for the management of invasive Anopheles.
 36426002	Data on prevalence and management practices of malaria-typhoid co-infection in Unwana South East Nigeria.
@@ -9988,12 +9997,3 @@
 33193320	Genome-Wide Analysis of the Malaria Parasite Plasmodium falciparum Isolates From Togo Reveals Selective Signals in Immune Selection-Related Antigen Genes.
 33193291	The Roles of Type I Interferon in Co-infections With Parasites and Viruses, Bacteria, or Other Parasites.
 33191564	Association of TNF (rs1800629) promoter polymorphism and schistosomiasis with sub-microscopic asymptomatic Plasmodium falciparum infections in a schistosomiasis-endemic area in Zimbabwe.
-33191548	Plasmodium sporozoites on the move: Switching from cell traversal to productive invasion of hepatocytes.
-33190491	Application and Comprehensive Analysis of Neighbor Approximated Information Theoretic Configurational Entropy Methods to Protein-Ligand Binding Cases.
-33190407	The necessity of patch testing in determining the causative drug of AGEP.
-33189839	Comparative antimalarial, toxicity and mito-protective effects of Diospyros mespiliformis Hochst. ex A. DC. and Mondia whitei (Hook.f.) Skeels on Plasmodium berghei infection in mice.
-33189139	Relationship between blood Lead status and anemia in Ugandan children with malaria infection.
-33188923	Mutagenesis of the orco odorant receptor co-receptor impairs olfactory function in the malaria vector Anopheles coluzzii.
-33188269	Author Correction: CD8(+) T cell activation by murine erythroblasts infected with malaria parasites.
-33187953	Tracking infectious diseases in a warming world.
-33187123	Highly Sensitive and Rapid Quantitative Detection of Plasmodium falciparum Using an Image Cytometer.
