@@ -1,3 +1,5 @@
+36427707	Retrospective spatiotemporal analysis of malaria cases reported between 2000 and 2020 in North Carolina, USA.
+36427517	What sounds like Aedes, acts like Aedes, but is not Aedes? Lessons from dengue virus control for the management of invasive Anopheles.
 36426002	Data on prevalence and management practices of malaria-typhoid co-infection in Unwana South East Nigeria.
 36425785	Spatial, environmental, and individual associations with Anopheles albimanus salivary antigen IgG in Haitian children.
 36424604	Coating formulation change leads to inferior performance of long-lasting insecticidal nets in Papua New Guinea.
@@ -9995,5 +9997,3 @@
 33188269	Author Correction: CD8(+) T cell activation by murine erythroblasts infected with malaria parasites.
 33187953	Tracking infectious diseases in a warming world.
 33187123	Highly Sensitive and Rapid Quantitative Detection of Plasmodium falciparum Using an Image Cytometer.
-33186602	Plasmodium falciparum maturation across the intra-erythrocytic cycle shifts the soft glassy viscoelastic properties of red blood cells from a liquid-like towards a solid-like behavior.
-33185667	Three Signatures of Adaptive Polymorphism Exemplified by Malaria-Associated Genes.
