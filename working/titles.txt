@@ -1,3 +1,7 @@
+36434632	Social network correlates of free and purchased insecticide-treated bed nets in rural Uganda.
+36434625	Life table analysis of Anopheles balabacensis, the primary vector of Plasmodium knowlesi in Sabah, Malaysia.
+36434611	The imported infections among foreign travelers in China: an observational study.
+36433985	MaHPIC malaria systems biology data from Plasmodium cynomolgi sporozoite longitudinal infections in macaques.
 36432706	Selection of an Aptamer against the Enzyme 1-deoxy-D-xylulose-5-phosphate Reductoisomerase from Plasmodium falciparum.
 36432016	Bridging the Gap in Malaria Parasite Resistance, Current Interventions, and the Way Forward from in Silico Perspective: A Review.
 36431900	Insights into Antimalarial Activity of N-Phenyl-Substituted Cinnamanilides.
@@ -9993,7 +9997,3 @@
 33193977	Zambia field epidemiology training program: strengthening health security through workforce development.
 33193759	Evaluation of Serum Interleukin 6, Tumor Necrosis Factor-Alpha, and Interferon-Gamma Levels in Relation to Body Mass Index and Blood Pressure in HIV Seropositive Pregnant Women Coinfected with Malaria.
 33193447	Naturally Acquired Humoral Immunity Against Plasmodium falciparum Malaria.
-33193361	P. falciparum and P. vivax Orthologous Coiled-Coil Candidates for a Potential Cross-Protective Vaccine.
-33193320	Genome-Wide Analysis of the Malaria Parasite Plasmodium falciparum Isolates From Togo Reveals Selective Signals in Immune Selection-Related Antigen Genes.
-33193291	The Roles of Type I Interferon in Co-infections With Parasites and Viruses, Bacteria, or Other Parasites.
-33191564	Association of TNF (rs1800629) promoter polymorphism and schistosomiasis with sub-microscopic asymptomatic Plasmodium falciparum infections in a schistosomiasis-endemic area in Zimbabwe.
