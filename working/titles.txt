@@ -1,3 +1,6 @@
+36435772	Tetrandrine inhibits RANKL-induced osteoclastogenesis by promoting the degradation of TRAIL.
+36435768	Associations of the COVID-19 pandemic with the reported incidence of important endemic infectious disease agents and syndromes in Pakistan.
+36435688	Measurably recombining malaria parasites.
 36434632	Social network correlates of free and purchased insecticide-treated bed nets in rural Uganda.
 36434625	Life table analysis of Anopheles balabacensis, the primary vector of Plasmodium knowlesi in Sabah, Malaysia.
 36434611	The imported infections among foreign travelers in China: an observational study.
@@ -9994,6 +9997,3 @@
 33195706	Elevated IL-12, TNF-α, and TNF-α/IL-10 Ratios in Stored Plasmodium falciparum-Infected Whole Blood: Implications for Safe Haemotransfusion.
 33194831	Host-Malaria Parasite Interactions and Impacts on Mutual Evolution.
 33194222	Microneedle-based skin patch for blood-free rapid diagnostic testing.
-33193977	Zambia field epidemiology training program: strengthening health security through workforce development.
-33193759	Evaluation of Serum Interleukin 6, Tumor Necrosis Factor-Alpha, and Interferon-Gamma Levels in Relation to Body Mass Index and Blood Pressure in HIV Seropositive Pregnant Women Coinfected with Malaria.
-33193447	Naturally Acquired Humoral Immunity Against Plasmodium falciparum Malaria.
