@@ -1,3 +1,5 @@
+36436166	Community Knowledge, Perceptions and Experiences on Healthcare Services for Malaria Prevention and Treatment in the Okavango Delta, Botswana.
+36436131	Hemophagocytic lymphohistiocytosis and hemozoin deposition in bone marrow macrophages in falciparum malaria.
 36435772	Tetrandrine inhibits RANKL-induced osteoclastogenesis by promoting the degradation of TRAIL.
 36435768	Associations of the COVID-19 pandemic with the reported incidence of important endemic infectious disease agents and syndromes in Pakistan.
 36435688	Measurably recombining malaria parasites.
@@ -9995,5 +9997,3 @@
 33196665	Malaria and curable sexually transmitted infections in pregnant women: A two-years observational study in rural Burkina Faso.
 33196661	Identity-by-descent with uncertainty characterises connectivity of Plasmodium falciparum populations on the Colombian-Pacific coast.
 33195706	Elevated IL-12, TNF-α, and TNF-α/IL-10 Ratios in Stored Plasmodium falciparum-Infected Whole Blood: Implications for Safe Haemotransfusion.
-33194831	Host-Malaria Parasite Interactions and Impacts on Mutual Evolution.
-33194222	Microneedle-based skin patch for blood-free rapid diagnostic testing.
