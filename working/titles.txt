@@ -1,3 +1,10 @@
+36440452	Natural products are the treasure pool for antimalarial agents.
+36440448	Circadian rhythmicity in murine blood: Electrical effects of malaria infection and anemia.
+36439862	Rickettsia parkeri infection modulates the sialome and ovariome of the Gulf coast tick, Amblyomma maculatum.
+36439726	Spatial association of Aedes aegypti with dengue fever hotspots in an endemic region.
+36439402	Host movement, transmission hot spots, and vector-borne disease dynamics on spatial networks.
+36439238	Biochemical characteristics of patients with imported malaria.
+36438171	Prevention of Malaria in Pregnancy: What Do the Pregnant Women of Nigeria Know and Do about It?
 36437462	Molecular markers of dihydroartemisinin-piperaquine resistance in northwestern Thailand.
 36437454	Therapeutic efficacy of dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium vivax malaria in Seacha area, Arbaminch Zuria District, South West Ethiopia.
 36437444	Insecticide resistance intensity and efficacy of synergists with pyrethroids in Anopheles gambiae (Diptera: Culicidae) from Southern Togo.
@@ -9990,10 +9997,3 @@
 33199883	Eliciting B cell immunity against infectious diseases using nanovaccines.
 33199712	Risk of yellow fever virus transmission in the Asia-Pacific region.
 33199389	Defining the Antimalarial Activity of Cipargamin in Healthy Volunteers Experimentally Infected with Blood-Stage Plasmodium falciparum.
-33199367	Salivary complement inhibitors from mosquitoes: Structure and mechanism of action.
-33199351	A Chimeric Plasmodium vivax Merozoite Surface Protein Antibody Recognizes and Blocks Erythrocytic P. cynomolgi Berok Merozoites In Vitro.
-33198811	Molecular identification of native Wolbachia pipientis in Anopheles minimus in a low-malaria transmission area of Umphang Valley along the Thailand-Myanmar border.
-33198754	Study design and operational framework for a community-based Malaria Elimination Demonstration Project (MEDP) in 1233 villages of district Mandla, Madhya Pradesh.
-33198747	Addressing budget reduction and reallocation on health-related resources during COVID-19 pandemic in malaria-endemic countries.
-33198714	Elevated serum matrix metalloprotease (MMP-2) as a candidate biomarker for stable COPD.
-33198217	Recent Advances in the Biological Investigation of Organometallic Platinum-Group Metal (Ir, Ru, Rh, Os, Pd, Pt) Complexes as Antimalarial Agents.
