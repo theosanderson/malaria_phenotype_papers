@@ -1,3 +1,7 @@
+36444414	Golgi-to-endosome Protein Pathway, Monkeypox and Malaria: Correspondence.
+36444406	Allele Specific Polymerase Chain Reaction (AS-PCR) Assay to Detect Knockdown and Acetylcholinesterase Mutations in Anopheles superpictus.
+36443882	Comparison of intermittent screening (using ultra-sensitive malaria rapid diagnostic test) and treatment (using a newly registered antimalarial pyronaridine-artesunate-PYRAMAX®) to standard intermittent preventive treatment with sulfadoxine-pyrimethamine for the prevention of malaria in pregnant women living in endemic areas: ULTRAPYRAPREG.
+36443857	Primary health care situations in remote rural villages of the Savannakhet province, Lao People's Democratic Republic.
 36443817	Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia.
 36443751	Human behaviour directs household-level exposure to malaria vectors in Bandarban, Bangladesh.
 36443434	Population genomics reveal distinct and diverging populations of An. minimus in Cambodia.
@@ -9993,7 +9997,3 @@
 33202970	Resident Memory T Cells and Their Role within the Liver.
 33202937	Validation of PfSNP-LAMP-Lateral Flow Dipstick for Detection of Single Nucleotide Polymorphism Associated with Pyrimethamine Resistance in Plasmodium falciparum.
 33202767	Protective Vaccination Reshapes Hepatic Response to Blood-Stage Malaria of Genes Preferentially Expressed by NK Cells.
-33202000	A proteomic glimpse into the effect of antimalarial drugs on Plasmodium falciparum proteome towards highlighting possible therapeutic targets.
-33201905	A novel deep learning-based point-of-care diagnostic method for detecting Plasmodium falciparum with fluorescence digital microscopy.
-33201450	Antenatal Care Visit Attendance Frequency and Birth Outcomes in Rural Uganda: A Prospective Cohort Study.
-33200996	Availability and Quality of Surveillance and Survey Data on HIV Prevalence Among Sex Workers, Men Who Have Sex With Men, People Who Inject Drugs, and Transgender Women in Low- and Middle-Income Countries: Review of Available Data (2001-2017).
