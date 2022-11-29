@@ -1,3 +1,8 @@
+36443817	Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia.
+36443751	Human behaviour directs household-level exposure to malaria vectors in Bandarban, Bangladesh.
+36443434	Population genomics reveal distinct and diverging populations of An. minimus in Cambodia.
+36442488	Pregnancy outcomes after first-trimester treatment with artemisinin derivatives versus non-artemisinin antimalarials: a systematic review and individual patient data meta-analysis.
+36442486	First-trimester use of ACTs for malaria treatment in pregnancy.
 36441829	High-density binding to Plasmodium falciparum circumsporozoite protein repeats by inhibitory antibody elicited in mouse with human immunoglobulin repertoire.
 36440452	Natural products are the treasure pool for antimalarial agents.
 36440448	Circadian rhythmicity in murine blood: Electrical effects of malaria infection and anemia.
@@ -216,7 +221,7 @@
 36371450	Structure-guided insights into potential function of novel genetic variants in the malaria vaccine candidate PfRh5.
 36371433	The prognostic and diagnostic value of intraleukocytic malaria pigment in patients with severe falciparum malaria.
 36371172	Seroprevalence of SARS-CoV-2 antibodies among children and adolescents recruited in a malariometric survey in north-eastern Tanzania July 2021.
-36370911	Structural characterization of Glutamyl-tRNA synthetase (GluRS) from Plasmodium falciparum.
+36370911	Structural characterization of glutamyl-tRNA synthetase (GluRS) from Plasmodium falciparum.
 36369172	Comparative evaluation of different versions of exposure-free mosquito electrocuting traps and barrier screen trap for monitoring outdoor densities and biting time phenotypes by malaria and filariasis vectors in Tanzania.
 36369086	Impact of aerial humidity on seasonal malaria: an ecological study in Zambia.
 36369045	Malaria attributable fractions with changing transmission intensity: Bayesian latent class vs logistic models.
@@ -9992,8 +9997,3 @@
 33201905	A novel deep learning-based point-of-care diagnostic method for detecting Plasmodium falciparum with fluorescence digital microscopy.
 33201450	Antenatal Care Visit Attendance Frequency and Birth Outcomes in Rural Uganda: A Prospective Cohort Study.
 33200996	Availability and Quality of Surveillance and Survey Data on HIV Prevalence Among Sex Workers, Men Who Have Sex With Men, People Who Inject Drugs, and Transgender Women in Low- and Middle-Income Countries: Review of Available Data (2001-2017).
-33200723	Association of Malnutrition with Subsequent Malaria Parasitemia among Children Younger than Three years in Kenya: A Secondary Data Analysis of the Asembo Bay Cohort Study.
-33200686	Establishment of COVID-19 testing laboratory in resource-limited settings: challenges and prospects reported from Ethiopia.
-33200071	Partnership and Participation-A Social Network Analysis of the 2017 Global Fund Application Process in the Democratic Republic of the Congo and Uganda.
-33199883	Eliciting B cell immunity against infectious diseases using nanovaccines.
-33199712	Risk of yellow fever virus transmission in the Asia-Pacific region.
