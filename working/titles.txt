@@ -1,3 +1,6 @@
+36445694	Phage Therapy for Mosquito Larval Control: a Proof-of-Principle Study.
+36445080	The PTEX Pore Component EXP2 Is Important for Intrahepatic Development during the Plasmodium Liver Stage.
+36445076	Detection of Antimalarial Resistance-Associated Mutations in Plasmodium falciparum via a Platform of Allele-Specific PCR Combined with a Gold Nanoparticle-Based Lateral Flow Assay.
 36444414	Golgi-to-endosome Protein Pathway, Monkeypox and Malaria: Correspondence.
 36444406	Allele Specific Polymerase Chain Reaction (AS-PCR) Assay to Detect Knockdown and Acetylcholinesterase Mutations in Anopheles superpictus.
 36443882	Comparison of intermittent screening (using ultra-sensitive malaria rapid diagnostic test) and treatment (using a newly registered antimalarial pyronaridine-artesunate-PYRAMAX®) to standard intermittent preventive treatment with sulfadoxine-pyrimethamine for the prevention of malaria in pregnant women living in endemic areas: ULTRAPYRAPREG.
@@ -9994,6 +9997,3 @@
 33203751	PfEMP1 A-Type ICAM-1-Binding Domains Are Not Associated with Cerebral Malaria in Beninese Children.
 33203419	A survey of knowledge, attitudes and practices regarding malaria and bed nets on Bubaque Island, Guinea-Bissau.
 33202973	Assessment of a Novel Adult Mass-Rearing Cage for Aedes albopictus (Skuse) and Anopheles arabiensis (Patton).
-33202970	Resident Memory T Cells and Their Role within the Liver.
-33202937	Validation of PfSNP-LAMP-Lateral Flow Dipstick for Detection of Single Nucleotide Polymorphism Associated with Pyrimethamine Resistance in Plasmodium falciparum.
-33202767	Protective Vaccination Reshapes Hepatic Response to Blood-Stage Malaria of Genes Preferentially Expressed by NK Cells.
