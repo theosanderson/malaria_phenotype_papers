@@ -1,3 +1,4 @@
+36441829	High-density binding to Plasmodium falciparum circumsporozoite protein repeats by inhibitory antibody elicited in mouse with human immunoglobulin repertoire.
 36440452	Natural products are the treasure pool for antimalarial agents.
 36440448	Circadian rhythmicity in murine blood: Electrical effects of malaria infection and anemia.
 36439862	Rickettsia parkeri infection modulates the sialome and ovariome of the Gulf coast tick, Amblyomma maculatum.
@@ -1423,7 +1424,7 @@
 35945154	A GPU-accelerated compute framework for pathogen genomic variant identification to aid genomic epidemiology of infectious disease: a malaria case study.
 35944694	Refolding and characterization of a diabody against Pfs25, a vaccine candidate of Plasmodium falciparum.
 35943271	Screening the Pathogen Box for Inhibition of Plasmodium falciparum Sporozoite Motility Reveals a Critical Role for Kinases in Transmission Stages.
-35942812	Intestinal injury in Ugandan children hospitalized with malaria.
+35942812	Intestinal Injury in Ugandan Children Hospitalized With Malaria.
 35942371	In Vivo Anti-Malarial Activity of the Aqueous Root Extract of Euclea divinorum Hiern (Ebenaceae) against Plasmodium berghei ANKA.
 35941867	Biochemical and structural analysis of a cytosolic sulfotransferase of the malaria vector Anopheles gambiae overexpressed in the reproductive tissues.
 35941348	Author Correction: Antibody responses to the RTS,S/AS01(E) vaccine and Plasmodium falciparum antigens after a booster dose within the phase 3 trial in Mozambique.
@@ -9996,4 +9997,3 @@
 33200071	Partnership and Participation-A Social Network Analysis of the 2017 Global Fund Application Process in the Democratic Republic of the Congo and Uganda.
 33199883	Eliciting B cell immunity against infectious diseases using nanovaccines.
 33199712	Risk of yellow fever virus transmission in the Asia-Pacific region.
-33199389	Defining the Antimalarial Activity of Cipargamin in Healthy Volunteers Experimentally Infected with Blood-Stage Plasmodium falciparum.
