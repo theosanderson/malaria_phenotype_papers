@@ -1,3 +1,4 @@
+36448284	Experimental reduction of haemosporidian infection affects maternal reproductive investment, parental behaviour and offspring condition.
 36447323	Finding the missing children for TB care and prevention in Kenya.
 36447234	Gene Coverage Count and Classification (GC(3)): a locus sequence coverage assessment tool using short-read whole genome sequencing data, and its application to identify and classify histidine-rich protein 2 and 3 deletions in Plasmodium falciparum.
 36447220	Gold miners augment malaria transmission in indigenous territories of Roraima state, Brazil.
@@ -9996,4 +9997,3 @@
 33205850	Geometric morphometrics to distinguish the cryptic species Anopheles minimus and An. harrisoni in malaria hot spot villages, western Thailand.
 33205743	Fighting COVID-19 at the Expense of Malaria in Africa: The Consequences and Policy Options.
 33205741	Immunogenicity and Protective Efficacy of Radiation-Attenuated and Chemo-Attenuated PfSPZ Vaccines in Equatoguinean Adults.
-33205014	Sleep Disturbance during Infection Compromises Tfh Differentiation and Impacts Host Immunity.
