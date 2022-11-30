@@ -1,3 +1,13 @@
+36447323	Finding the missing children for TB care and prevention in Kenya.
+36447234	Gene Coverage Count and Classification (GC(3)): a locus sequence coverage assessment tool using short-read whole genome sequencing data, and its application to identify and classify histidine-rich protein 2 and 3 deletions in Plasmodium falciparum.
+36447220	Gold miners augment malaria transmission in indigenous territories of Roraima state, Brazil.
+36447200	Naturally acquired antibodies from Beninese infants promote Plasmodium falciparum merozoite-phagocytosis by human blood leukocytes: implications for control of asymptomatic malaria infections.
+36446923	Natural sugar feeding rates of Anopheles mosquitoes collected by different methods in western Kenya.
+36446720	Synthesis and in vitro antiprotozoal evaluation of novel metronidazole-Schiff base hybrids.
+36446607	Hydroxychloroquine is metabolized by CYP2D6, CYP3A4, and CYP2C8, and inhibits CYP2D6, while its metabolites also inhibit CYP3A in vitro.
+36446533	Physiological and Behavioral Characterization of Larval Olfaction in the Malaria Vector Mosquito Anopheles coluzzii.
+36446531	GCaMP Imaging in Mosquitoes: Central Nervous System.
+36446165	A draft of the genome of the Gulf Coast tick, Amblyomma maculatum.
 36445694	Phage Therapy for Mosquito Larval Control: a Proof-of-Principle Study.
 36445080	The PTEX Pore Component EXP2 Is Important for Intrahepatic Development during the Plasmodium Liver Stage.
 36445076	Detection of Antimalarial Resistance-Associated Mutations in Plasmodium falciparum via a Platform of Allele-Specific PCR Combined with a Gold Nanoparticle-Based Lateral Flow Assay.
@@ -9987,13 +9997,3 @@
 33205743	Fighting COVID-19 at the Expense of Malaria in Africa: The Consequences and Policy Options.
 33205741	Immunogenicity and Protective Efficacy of Radiation-Attenuated and Chemo-Attenuated PfSPZ Vaccines in Equatoguinean Adults.
 33205014	Sleep Disturbance during Infection Compromises Tfh Differentiation and Impacts Host Immunity.
-33204441	The impact of within-vector parasite development on the extrinsic incubation period.
-33204122	Antimalarial Drug Resistance and Novel Targets for Antimalarial Drug Discovery.
-33204072	Compliance with Primary Malaria Chemoprophylaxis: Is Weekly Prophylaxis Better Than Daily Prophylaxis?
-33204071	Indole: The After Next Scaffold of Antiplasmodial Agents?
-33204009	Multiplexed quantitative proteomics provides mechanistic cues for malaria severity and complexity.
-33203956	Spatial and genetic clustering of Plasmodium falciparum and Plasmodium vivax infections in a low-transmission area of Ethiopia.
-33203936	Targeting the CD146/Galectin-9 axis protects the integrity of the blood-brain barrier in experimental cerebral malaria.
-33203917	Ecological drivers of genetic connectivity for African malaria vectors Anopheles gambiae and An. arabiensis.
-33203751	PfEMP1 A-Type ICAM-1-Binding Domains Are Not Associated with Cerebral Malaria in Beninese Children.
-33203419	A survey of knowledge, attitudes and practices regarding malaria and bed nets on Bubaque Island, Guinea-Bissau.
