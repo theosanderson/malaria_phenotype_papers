@@ -3254,6 +3254,7 @@
 35355994	Plasmodium falciparum-Specific Memory B-Cell and Antibody Responses Are Associated With Immunity in Children Living in an Endemic Area of Kenya.
 35355692	Ultrasensitive molecular tests for Plasmodium detection: applicability in control and elimination programs and reference laboratories.
 35355096	Biotransformation of artemisinin to a novel derivative via ring rearrangement by Aspergillus niger.
+36445950	
 35353968	Primaquine and Plasmodium vivax Malaria Recurrence in Brazil.
 35353962	Higher-Dose Primaquine to Prevent Relapse of Plasmodium vivax Malaria.
 35353560	Asynchronous nuclear cycles in multinucleated Plasmodium falciparum facilitate rapid proliferation.
@@ -9996,4 +9997,3 @@
 33203917	Ecological drivers of genetic connectivity for African malaria vectors Anopheles gambiae and An. arabiensis.
 33203751	PfEMP1 A-Type ICAM-1-Binding Domains Are Not Associated with Cerebral Malaria in Beninese Children.
 33203419	A survey of knowledge, attitudes and practices regarding malaria and bed nets on Bubaque Island, Guinea-Bissau.
-33202973	Assessment of a Novel Adult Mass-Rearing Cage for Aedes albopictus (Skuse) and Anopheles arabiensis (Patton).
