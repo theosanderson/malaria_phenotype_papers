@@ -1,3 +1,6 @@
+36449849	Social Reproduction as a methodological perspective for contextualized analysis of living and health conditions.
+36449650	Anti-malarial investigation of Acorus calamus, Dichapetalum gelonioides, and Leucas aspera on Plasmodium falciparum strains.
+36449557	A Chimeric Peptide Inhibits Red Blood Cell Invasion by Plasmodium falciparum with Hundredfold Increased Efficacy.
 36448733	Immune gene expression in the mosquito vector Culex quinquefasciatus during an avian malaria infection.
 36448284	Experimental reduction of haemosporidian infection affects maternal reproductive investment, parental behaviour and offspring condition.
 36447323	Finding the missing children for TB care and prevention in Kenya.
@@ -3013,7 +3016,7 @@
 35439994	Changing transmission dynamics among migrant, indigenous and mining populations in a malaria hotspot in Northern Brazil: 2016 to 2020.
 35439987	Low prevalence of Plasmodium falciparum parasites lacking pfhrp2/3 genes among asymptomatic and symptomatic school-age children in Kinshasa, Democratic Republic of Congo.
 35439524	Foreword - Aquaporins at thirty.
-35439307	Whole blood transfusion for severe malarial anemia in a high Plasmodium falciparum transmission setting.
+35439307	Whole Blood Transfusion for Severe Malarial Anemia in a High Plasmodium falciparum Transmission Setting.
 35439248	A national survey integrating clinical, laboratory, and WASH data to determine the typology of trachoma in Nauru.
 35438281	Predictors of Outcome in Acute Respiratory Distress Syndrome in Acute Febrile Illness in Medical Intensive Care Unit.
 35437908	Design and implementation of multiplexed amplicon sequencing panels to serve genomic epidemiology of infectious disease: A malaria case study.
@@ -9994,6 +9997,3 @@
 33207186	An antibody-free dual-biomarker rapid enrichment workflow (AnDREW) improves the sensitivity of malaria rapid diagnostic tests.
 33207064	Wing size and parity as markers of cohort demography for potential Anopheles (Culicidae: Diptera) malaria vectors in the Republic of Korea.
 33207058	Monitoring insecticide resistance in malaria vectors in Shandong Province: approaching malaria elimination.
-33206933	[Strategies for malaria elimination: an Afro-Colombian perspective].
-33205850	Geometric morphometrics to distinguish the cryptic species Anopheles minimus and An. harrisoni in malaria hot spot villages, western Thailand.
-33205743	Fighting COVID-19 at the Expense of Malaria in Africa: The Consequences and Policy Options.
