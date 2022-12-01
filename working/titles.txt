@@ -1,3 +1,8 @@
+36453182	Synthesis and antimalarial activity of 7-chloroquinoline-tethered sulfonamides and their [1,2,3]-triazole hybrids.
+36452398	Coexistence and correlates of forms of malnutrition among mothers and under-five child pairs in Tanzania.
+36452302	Generation of red blood cells from stem cells: Achievements, opportunities and perspectives for malaria research.
+36451747	Allelic frequencies of mutants of the Plasmodium falciparum, quinoline and folate metabolizing genes in the west region of Cameroon.
+36451216	Therapeutic efficacies of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum and chloroquine and dihydroartemisinin-piperaquine for uncomplicated Plasmodium vivax infection in Ethiopia.
 36451097	A manually curated annotation characterises genomic features of P. falciparum lncRNAs.
 36449849	Social Reproduction as a methodological perspective for contextualized analysis of living and health conditions.
 36449650	Anti-malarial investigation of Acorus calamus, Dichapetalum gelonioides, and Leucas aspera on Plasmodium falciparum strains.
@@ -9992,8 +9997,3 @@
 33209048	Prevalence of CYP2C8*2 and *3 among Eritreans and its Potential Impact on Artesunate/Amodiaquine Treatment.
 33208196	Identification keys to the Anopheles mosquitoes of South America (Diptera: Culicidae). I. Introduction.
 33208177	Identification keys to the Anopheles mosquitoes of South America (Diptera: Culicidae). IV. Adult females.
-33207549	PV1 Protein from Plasmodium falciparum Exhibits Chaperone-Like Functions and Cooperates with Hsp100s.
-33204845	Multiple insecticide resistance and Plasmodium infection in the principal malaria vectors Anopheles funestus and Anopheles gambiae in a forested locality close to the Yaoundé airport, Cameroon.
-33207342	The Route of Infection Influences the Contribution of Key Immunity Genes to Antibacterial Defense in Anopheles gambiae.
-33207186	An antibody-free dual-biomarker rapid enrichment workflow (AnDREW) improves the sensitivity of malaria rapid diagnostic tests.
-33207064	Wing size and parity as markers of cohort demography for potential Anopheles (Culicidae: Diptera) malaria vectors in the Republic of Korea.
