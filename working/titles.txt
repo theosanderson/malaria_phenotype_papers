@@ -1,3 +1,6 @@
+36455209	A systematic review and meta-analysis of the prevalence of caregiver acceptance of malaria vaccine for under-five children in low-income and middle-income countries (LMICs).
+36454893	Malaria prevention knowledge, attitudes, and practices (KAP) among adolescents living in an area of persistent transmission in Senegal: Results from a cross-sectional study.
+36454885	The circadian clock modulates Anopheles gambiae infection with Plasmodium falciparum.
 36453182	Synthesis and antimalarial activity of 7-chloroquinoline-tethered sulfonamides and their [1,2,3]-triazole hybrids.
 36452398	Coexistence and correlates of forms of malnutrition among mothers and under-five child pairs in Tanzania.
 36452302	Generation of red blood cells from stem cells: Achievements, opportunities and perspectives for malaria research.
@@ -9994,6 +9997,3 @@
 33209231	Modelling malaria reduction in a highly endemic country: Evidence from household survey, climate, and program data in Zambia.
 33209191	Targeted Covalent Inhibition of Plasmodium FK506 Binding Protein 35.
 33209130	Efficacy of atovaquone on EpCAM(+)CD44(+) HCT-116 human colon cancer stem cells under hypoxia.
-33209048	Prevalence of CYP2C8*2 and *3 among Eritreans and its Potential Impact on Artesunate/Amodiaquine Treatment.
-33208196	Identification keys to the Anopheles mosquitoes of South America (Diptera: Culicidae). I. Introduction.
-33208177	Identification keys to the Anopheles mosquitoes of South America (Diptera: Culicidae). IV. Adult females.
