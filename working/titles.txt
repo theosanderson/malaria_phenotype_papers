@@ -1,3 +1,7 @@
+36458901	Functional conservation of Anopheline linalool receptors through 100 million years of evolution.
+36458798	Causes of mortality of kiwi (Apteryx spp.) in New Zealand: a retrospective analysis of post-mortem records, 2010-2020.
+36458722	[Malaria and Gut Microbiota: Microbial Interactions in the Host].
+36458720	[A Case of Plasmodium vivax Complicated with Reactive Hemophagocytic Syndrome].
 36458185	Advances and challenges in automated malaria diagnosis using digital microscopy imaging with artificial intelligence tools: A review.
 36457779	Elucidating the status of malaria in Andaman and Nicobar Islands post-millennium 2000.
 36457766	CRISPR-Cas9: Taming protozoan parasites with bacterial scissor.
@@ -9993,7 +9997,3 @@
 33213479	Molecular forms of Anopheles subpictus and Anopheles sundaicus in the Indian subcontinent.
 33213477	Evaluation of in vivo anti-malarial potential of omidun obtained from fermented maize in Ibadan, Nigeria.
 33213471	Forest malaria in Cambodia: the occupational and spatial clustering of Plasmodium vivax and Plasmodium falciparum infection risk in a cross-sectional survey in Mondulkiri province, Cambodia.
-33213469	Changing malaria fever test positivity among paediatric admissions to Tororo district hospital, Uganda 2012-2019.
-33213466	Spatial Anopheles arabiensis (Diptera: Culicidae) insecticide resistance patterns across malaria-endemic regions of Botswana.
-33213420	Factors associated with malaria infection in Mudzi District, Mashonaland East Zimbabwe, 2019: a case-control study.
-33213392	Micronutrient levels and their effects on the prognosis of visceral leishmaniasis treatment, a prospective cohort study.
