@@ -1,3 +1,12 @@
+36458185	Advances and challenges in automated malaria diagnosis using digital microscopy imaging with artificial intelligence tools: A review.
+36457779	Elucidating the status of malaria in Andaman and Nicobar Islands post-millennium 2000.
+36457766	CRISPR-Cas9: Taming protozoan parasites with bacterial scissor.
+36457706	Global perspectives on CYP2D6 associations with primaquine metabolism and Plasmodium vivax radical cure.
+36457327	Perceived performances of peer learning and education approach on malaria prevention through primary schools communities in rural Ethiopia: Peer educators' perspectives.
+36457087	Performance of antigen detection for HRP2-based malaria rapid diagnostic tests in community surveys: Tanzania, July-November 2017.
+36457085	Behavioural determinants of malaria risk, prevention, and care-seeking behaviours among forest-goers in Cambodia.
+36457056	Acquisition of antibodies to Plasmodium falciparum and Plasmodium vivax antigens in pregnant women living in a low malaria transmission area of Brazil.
+36457004	Vectorial capacity and TEP1 genotypes of Anopheles gambiae sensu lato mosquitoes on the Kenyan coast.
 36456563	mRNA-LNP expressing PfCSP and Pfs25 vaccine candidates targeting infection and transmission of Plasmodium falciparum.
 36455989	Long-lasting insecticidal nets provide protection against malaria for only a single year in Burundi, an African highland setting with marked malaria seasonality.
 36455706	In vitro and in silico analysis of the Anopheles anticholinesterase activity of terpenoids.
@@ -9988,12 +9997,3 @@
 33213466	Spatial Anopheles arabiensis (Diptera: Culicidae) insecticide resistance patterns across malaria-endemic regions of Botswana.
 33213420	Factors associated with malaria infection in Mudzi District, Mashonaland East Zimbabwe, 2019: a case-control study.
 33213392	Micronutrient levels and their effects on the prognosis of visceral leishmaniasis treatment, a prospective cohort study.
-33213087	A Comprehensive Review of Aminochalcones.
-33212370	Design, implementation, and monitoring of HIV service packages for people who inject drugs: An assessment of programs supported by the Global Fund in 46 countries.
-33212262	First confirmed case of infant botulism in Africa, caused by a dual-toxin-producing Clostridium botulinum strain.
-33211744	The impact of pulse oximetry and Integrated Management of Childhood Illness (IMCI) training on antibiotic prescribing practices in rural Malawi: A mixed-methods study.
-33211712	The risk of Plasmodium vivax parasitaemia after P. falciparum malaria: An individual patient data meta-analysis from the WorldWide Antimalarial Resistance Network.
-33211022	Mass Drug Administration With High-Dose Ivermectin and Dihydroartemisinin-Piperaquine for Malaria Elimination in an Area of Low Transmission With High Coverage of Malaria Control Interventions: Protocol for the MASSIV Cluster Randomized Clinical Trial.
-33210338	Hydroxychloroquine Controversies: Clinical Trials, Epistemology, and the Democratization of Science.
-33209581	Detection of haemosporidian parasites in wild and domestic birds in northern and central provinces of Iran: Introduction of new lineages and hosts.
-33209305	Effect of drug dose and timing of treatment on the emergence of drug resistance in vivo in a malaria model.
