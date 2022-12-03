@@ -1,3 +1,15 @@
+36461074	Synthesis, antimalarial, antileishmanial evaluation, and molecular docking study of some 3-aryl-2-styryl substituted-4(3H)-quinazolinone derivatives.
+36461066	Residual efficacy of SumiShield™ 50WG for indoor residual spraying in Ethiopia.
+36461059	Factors influencing consistent use of bed nets for the control of malaria among children under 5 years in Soroti District, North Eastern Uganda.
+36461058	Relationships between biological age, distance from aquatic habitats and pyrethroid resistance status of Anopheles funestus mosquitoes in south-eastern Tanzania.
+36461005	Multi-country review of ITN routine distribution data: are ANC and EPI channels achieving their potential?
+36460990	Non-falciparum species and submicroscopic infections in three epidemiological malaria facets in Cameroon.
+36460878	Left ventricular function by strain in uncomplicated malaria: a prospective study from the Brazilian Amazon.
+36460447	Spatial analysis of climatic factors and plasmodium falciparum malaria prevalence among children in Ghana.
+36460364	Editorial: Molecular Approaches to Malaria 2020.
+36460324	Estimating Chinese bilateral aid for health: an analysis of AidData's Global Chinese Official Finance Dataset Version 2.0.
+36460204	Flavonoids from Scutellaria likiangensis Diels and their antimalarial activities.
+36460094	Optimisation of laboratory-rearing parameters for Anopheles funestus larvae and adults.
 36458901	Functional conservation of Anopheline linalool receptors through 100 million years of evolution.
 36458798	Causes of mortality of kiwi (Apteryx spp.) in New Zealand: a retrospective analysis of post-mortem records, 2010-2020.
 36458722	[Malaria and Gut Microbiota: Microbial Interactions in the Host].
@@ -9985,15 +9997,3 @@
 33220009	A retrospective analysis of mortality in captive Magellanic penguins (Spheniscus magellanicus) in the United States, 2008-2018.
 33219324	Human Aurora kinase inhibitor Hesperadin reveals epistatic interaction between Plasmodium falciparum PfArk1 and PfNek1 kinases.
 33218346	Reduced human-biting preferences of the African malaria vectors Anopheles arabiensis and Anopheles gambiae in an urban context: controlled, competitive host-preference experiments in Tanzania.
-33217265	Cerebral Malaria in a Patient with Recent Travel to the Congo Presenting with Delirium: A Case Report.
-33217195	4,9-Diaminoacridines and 4-Aminoacridines as Dual-Stage Antiplasmodial Hits.
-33216816	Are papers addressing certain diseases perceived where these diseases are prevalent? The proposal to use Twitter data as social-spatial sensors.
-33216528	Heterologous Expression of the Biosynthetic Gene Cluster for Verticilactam and Identification of Analogues.
-33214970	Study of Glucose-6-Phosphate Dehydrogenase (G6PD) Deficiency and Genotype Polymorphism of G6PD B and G6PD (A+/A-) in Patients Treated for Plasmodium vivax Malaria in a Tertiary Care Hospital in North East India.
-33214643	Disrupting Plasmodium UIS3-host LC3 interaction with a small molecule causes parasite elimination from host cells.
-33214620	Characterization of Plasmodium falciparum NEDD8 and identification of cullins as its substrates.
-33214174	Plasmodium falciparum resistance to sulfadoxine-pyrimethamine in Africa: a systematic analysis of national trends.
-33213516	From control to elimination: a spatial-temporal analysis of malaria along the China-Myanmar border.
-33213479	Molecular forms of Anopheles subpictus and Anopheles sundaicus in the Indian subcontinent.
-33213477	Evaluation of in vivo anti-malarial potential of omidun obtained from fermented maize in Ibadan, Nigeria.
-33213471	Forest malaria in Cambodia: the occupational and spatial clustering of Plasmodium vivax and Plasmodium falciparum infection risk in a cross-sectional survey in Mondulkiri province, Cambodia.
