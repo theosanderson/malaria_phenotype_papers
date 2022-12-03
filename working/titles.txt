@@ -1,3 +1,5 @@
+36461661	Habitat fragmentation matters more than habitat loss: the case of host-parasite interactions.
+36461598	Chloroquine treatment influences immunologicalmemory through the PD-1/PD-L1 pathway during the initiation of Plasmodium chabaudi infection.
 36461074	Synthesis, antimalarial, antileishmanial evaluation, and molecular docking study of some 3-aryl-2-styryl substituted-4(3H)-quinazolinone derivatives.
 36461066	Residual efficacy of SumiShield™ 50WG for indoor residual spraying in Ethiopia.
 36461059	Factors influencing consistent use of bed nets for the control of malaria among children under 5 years in Soroti District, North Eastern Uganda.
@@ -9995,5 +9997,3 @@
 33220216	Cost-effectiveness of intermittent preventive treatment with dihydroartemisinin-piperaquine versus single screening and treatment for the control of malaria in pregnancy in Papua, Indonesia: a provider perspective analysis from a cluster-randomised trial.
 33220086	Usability and acceptability of a multimodal respiratory rate and pulse oximeter device in case management of children with symptoms of pneumonia: A cross-sectional study in Ethiopia.
 33220009	A retrospective analysis of mortality in captive Magellanic penguins (Spheniscus magellanicus) in the United States, 2008-2018.
-33219324	Human Aurora kinase inhibitor Hesperadin reveals epistatic interaction between Plasmodium falciparum PfArk1 and PfNek1 kinases.
-33218346	Reduced human-biting preferences of the African malaria vectors Anopheles arabiensis and Anopheles gambiae in an urban context: controlled, competitive host-preference experiments in Tanzania.
