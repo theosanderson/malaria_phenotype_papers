@@ -1,3 +1,6 @@
+36469233	Achievements of the national malaria control and elimination program in the People's Republic of China: the Atlas of Malaria Transmission in China.
+36469197	Lymphotoxin-α Orchestrate Hypoxia and Immune factors to Induce Experimental Cerebral Malaria: Inhibition Mitigates Pathogenesis, Neurodegeneration, and Increase Survival.
+36468829	Molecular Dynamics and Structural Studies of Zinc Chloroquine Complexes.
 36467715	Plasmodium falciparum Merozoite Surface Proteins Polymorphisms and Treatment Outcomes among Patients with Uncomplicated Malaria in Mwanza, Tanzania.
 36467561	Digital microscopy and artificial intelligence could profoundly contribute to malaria diagnosis in elimination settings.
 36467507	Knowledge, attitudes, and practices regarding malaria control among communities living in the south Cameroon forest region.
@@ -9994,6 +9997,3 @@
 33228585	Mapping of anaemia prevalence among pregnant women in Kenya (2016-2019).
 33228527	Mixed logistic regression in genome-wide association studies.
 33228352	Ultrasensitive and Robust Point-of-Care Immunoassay for the Detection of Plasmodium falciparum Malaria.
-33228195	Aerobic Cytotoxicity of Aromatic N-Oxides: The Role of NAD(P)H:Quinone Oxidoreductase (NQO1).
-33228194	Development of an Organ-on-a-Chip-Device for Study of Placental Pathologies.
-33227516	A critical assessment of proposed outbreaks of plague and other epidemic diseases in Ancient Egypt.
