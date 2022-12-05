@@ -1,3 +1,13 @@
+36467715	Plasmodium falciparum Merozoite Surface Proteins Polymorphisms and Treatment Outcomes among Patients with Uncomplicated Malaria in Mwanza, Tanzania.
+36467561	Digital microscopy and artificial intelligence could profoundly contribute to malaria diagnosis in elimination settings.
+36467507	Knowledge, attitudes, and practices regarding malaria control among communities living in the south Cameroon forest region.
+36466999	Deferiprone-Resveratrol Hybrid, an Iron-Chelating Compound, Acts as an Antimalarial and Hepatoprotective Agent in Plasmodium berghei-Infected Mice.
+36466767	Malaria Elimination: What Can Africa Learn from China?
+36466721	Chloroquine Chaos and COVID-19: Smart delivery perspectives through pH sensitive polymers/ micelles and ZnO nanoparticles.
+36466214	High anti-SARS-CoV-2 seroprevalence among unvaccinated mother-child pairs from a rural setting of north-eastern Tanzania during the second wave of COVID-19.
+36466021	Misdiagnosis of Plasmodium vivax in a Case of Mixed Malaria, Lead to Wrong Anti-Cancer Chemotherapy, Splenectomy, and Partial Hepatectomy Due to Relapse: A Case Report.
+36466013	Cytotoxicity and Anti-Plasmodium berghei Activity of Emodin Loaded Nanoemulsion.
+36465806	Plasmodium falciparum Malaria Susceptibility and Severity: Influence of MyD88-Adaptor-Like Gene (rs8177374) Polymorphism.
 36464748	Repurposing artemisinins as neuroprotective agents: a focus on the PI3k/Akt signalling pathway.
 36464736	Impact evaluation of long-lasting insecticidal nets distribution campaign on malaria cases reported at outpatient departments across all the regions in Ghana.
 36464718	Knowledge, attitude, and practices of the community toward dengue fever in Shabwah Governorate, Yemen: a descriptive study.
@@ -9987,13 +9997,3 @@
 33228195	Aerobic Cytotoxicity of Aromatic N-Oxides: The Role of NAD(P)H:Quinone Oxidoreductase (NQO1).
 33228194	Development of an Organ-on-a-Chip-Device for Study of Placental Pathologies.
 33227516	A critical assessment of proposed outbreaks of plague and other epidemic diseases in Ancient Egypt.
-33227500	Efficacy and safety of tafenoquine for malaria chemoprophylaxis (1998-2020): A systematic review and meta-analysis.
-33227414	Structure guided development of potent piperazine-derived hydroxamic acid inhibitors targeting falcilysin.
-33227343	Genomic surveillance of SARS-CoV-2 in Thailand reveals mixed imported populations, a local lineage expansion and a virus with truncated ORF7a.
-33227254	Cost-effectiveness of dual maternal HIV and syphilis testing strategies in high and low HIV prevalence countries: a modelling study.
-33227181	A small window into the status of malaria in North Korea: estimation of imported malaria incidence among visitors from South Korea.
-33227017	Molecular detection and species identification of Plasmodium spp. infection in adults in the Democratic Republic of Congo: A population-based study.
-33225957	Histone modifications associated with gene expression and genome accessibility are dynamically enriched at Plasmodium falciparum regulatory sequences.
-33225304	Rescue Treatment With High-Dose Gaseous Nitric Oxide in Spontaneously Breathing Patients With Severe Coronavirus Disease 2019.
-33225226	Potential impact of eradicating malaria on gender inequality within agricultural households in sub-Saharan Africa.
-33225134	Enantioselective Synthesis of γ-Phenyl-γ-amino Vinyl Phosphonates and Sulfones and Their Application to the Synthesis of Novel Highly Potent Antimalarials.
