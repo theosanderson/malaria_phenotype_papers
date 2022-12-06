@@ -1,4 +1,6 @@
-36472067	The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: an individual patient data meta-analysis.
+36472528	Spatiotemporal analysis of malaria incidence in Côte d'Ivoire from 2015 to 2019.
+36472340	TNF-α promoter variant (G-308A) is associated with susceptibility to P. falciparum infection and severe malaria: a meta-analysis and trial sequential analysis.
+36472067	The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis.
 36472022	[Research progress in chemical constituents, pharmacological activity, and quality markers of Bruceae Fructus].
 36471489	Non-targeted Metabolomics Intergrated with (1) H NMR and LC-Q-TOF-MS/MS Methods to Depict a More Comprehensive Metabolic Profile in Response to Chrysosplenetin and Artemisinin Co-Treatment against Artemisinin-Sensitive and -Resistant Plasmodium berghei K173.
 36471426	Protocols for Plasmodium gametocyte production in vitro: an integrative review and analysis.
@@ -393,6 +395,7 @@
 36346714	Ribonucleotide Misincorporation and Reverse Transcriptase Activities of Plasmodium falciparum Apicoplast DNA Polymerase.
 36346219	Fermenting molasses and a synthetic odour blend to attract blood-fed Anopheles coluzzii.
 36345921	The effect of an integrated electronic medical record system on malaria out-patient case management in a Ugandan health facility.
+36345570	Haemosporidian parasites in the ash-breasted Sierra finch (Geospizopsis plebejus): insights from an Andean dry forest population.
 36345433	Outdoor and early hour human biting activities of malaria mosquitoes and the suitability of clay pot for outdoor resting mosquito collection in malaria endemic villages of southern Rift Valley, Ethiopia.
 36345262	There is a lack of quality clinical and laboratory data on co-infections among malaria patients despite several published systematic reviews of the literature.
 36345260	Acute liver failure in tropical infections- thinking beyond viral hepatitis!
@@ -9994,6 +9997,3 @@
 33230302	Manipulating niche composition limits damage to haematopoietic stem cells during Plasmodium infection.
 33229461	ClpX Is Essential and Activated by Single-Strand DNA Binding Protein in Mycobacteria.
 33228775	Malaria elimination in Malaysia and the rising threat of Plasmodium knowlesi.
-33228734	Definition of constitutive and stage-enriched promoters in the rodent malaria parasite, Plasmodium yoelii.
-33228732	Effect of bed net colour and shape preferences on bed net usage: a secondary data analysis of the 2017 Malawi Malaria Indicator Survey.
-33228725	Capacity of National Malaria Control Programmes to implement vector surveillance: a global analysis.
