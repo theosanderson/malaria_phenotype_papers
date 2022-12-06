@@ -1,3 +1,5 @@
+36472067	The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: an individual patient data meta-analysis.
+36472022	[Research progress in chemical constituents, pharmacological activity, and quality markers of Bruceae Fructus].
 36471489	Non-targeted Metabolomics Intergrated with (1) H NMR and LC-Q-TOF-MS/MS Methods to Depict a More Comprehensive Metabolic Profile in Response to Chrysosplenetin and Artemisinin Co-Treatment against Artemisinin-Sensitive and -Resistant Plasmodium berghei K173.
 36471426	Protocols for Plasmodium gametocyte production in vitro: an integrative review and analysis.
 36471389	A mass rearing cost calculator for the control of Culex quinquefasciatus in Hawai'i using the incompatible insect technique.
@@ -9995,5 +9997,3 @@
 33228734	Definition of constitutive and stage-enriched promoters in the rodent malaria parasite, Plasmodium yoelii.
 33228732	Effect of bed net colour and shape preferences on bed net usage: a secondary data analysis of the 2017 Malawi Malaria Indicator Survey.
 33228725	Capacity of National Malaria Control Programmes to implement vector surveillance: a global analysis.
-33228693	Identification of main malaria vectors and their insecticide resistance profile in internally displaced and indigenous communities in Eastern Democratic Republic of the Congo (DRC).
-33228684	Prevalence, characteristics and risk factors of imported and local malaria cases in North-Western Province, Zambia: a cross-sectional study.
