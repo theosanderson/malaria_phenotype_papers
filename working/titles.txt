@@ -1,3 +1,6 @@
+36475314	Quinolinyl β-enaminone derivatives exhibit leishmanicidal activity against Leishmania donovani by impairing the mitochondrial electron transport chain complex and inducing ROS-mediated programmed cell death.
+36475018	The Relationship Between Ferritin and BMI is Mediated by Inflammation Among Women in Higher-Income Countries, But Not in Most Lower-Income Countries Nor Among Young Children: A Multi-Country Analysis.
+36474426	Effects of β-eudesmol and atractylodin on target genes and hormone related to cardiotoxicity, hepatotoxicity, and endocrine disruption in developing zebrafish embryos.
 36474274	Persistence of Plasmodium falciparum HRP-2 antigenaemia after artemisinin combination therapy is not associated with gametocytes.
 36474264	Analysis of attitudes and practices influencing adherence to seasonal malaria chemoprevention in children under 5 years of age in the Dosso Region of Niger.
 36474243	A systematic review of asymptomatic Plasmodium knowlesi infection: an emerging challenge involving an emerging infectious disease.
@@ -9994,6 +9997,3 @@
 33233769	Neurological Findings in Children without Congenital Microcephaly Exposed to Zika Virus in Utero: A Case Series Study.
 33232892	EEG markers predictive of epilepsy risk in pediatric cerebral malaria - A feasibility study.
 33232753	A role for the succinate dehydrogenase in the mode of action of the redox-active antimalarial drug, plasmodione.
-33232166	Citronamine A, an Antiplasmodial Isoquinoline Alkaloid from the Australian Marine Sponge Citronia astra.
-33231906	Nontoxic Cobalt(III) Schiff Base Complexes with Broad-Spectrum Antifungal Activity.
-33231829	Genotyping of the Echinococcus granulosus in Paraffin-Embedded Human Tissue Samples from Iran.
