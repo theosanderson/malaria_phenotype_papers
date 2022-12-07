@@ -1,3 +1,5 @@
+36473013	Identification of a rickettsial endosymbiont in a soft tick Ornithodoros turicata americanus.
+36472963	Epidemiological characteristics of imported acute infectious diseases in Guangzhou, China, 2005-2019.
 36472528	Spatiotemporal analysis of malaria incidence in Côte d'Ivoire from 2015 to 2019.
 36472340	TNF-α promoter variant (G-308A) is associated with susceptibility to P. falciparum infection and severe malaria: a meta-analysis and trial sequential analysis.
 36472067	The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis.
@@ -9995,5 +9997,3 @@
 33230401	Inclusive Biomedical Innovation during the COVID-19 Pandemic.
 33230342	Malaria parasites hide in plain sight in the dry season.
 33230302	Manipulating niche composition limits damage to haematopoietic stem cells during Plasmodium infection.
-33229461	ClpX Is Essential and Activated by Single-Strand DNA Binding Protein in Mycobacteria.
-33228775	Malaria elimination in Malaysia and the rising threat of Plasmodium knowlesi.
