@@ -1,3 +1,10 @@
+36477538	A transcriptional switch controls sex determination in Plasmodium falciparum.
+36477528	In vitro production of infectious Plasmodium falciparum sporozoites.
+36477327	Plasmodium vivax cerebral malaria with pancytopenia in the peruvian amazon: case report.
+36477089	A microfluidic finger-actuated blood lysate preparation device enabled by rapid acoustofluidic mixing.
+36476815	Geographical classification of malaria parasites through applying machine learning to whole genome sequence data.
+36476767	How a malaria parasite becomes a male.
+36475905	A randomized controlled trial showing safety and efficacy of a whole sporozoite vaccine against endemic malaria.
 36475314	Quinolinyl β-enaminone derivatives exhibit leishmanicidal activity against Leishmania donovani by impairing the mitochondrial electron transport chain complex and inducing ROS-mediated programmed cell death.
 36475018	The Relationship Between Ferritin and BMI is Mediated by Inflammation Among Women in Higher-Income Countries, But Not in Most Lower-Income Countries Nor Among Young Children: A Multi-Country Analysis.
 36474426	Effects of β-eudesmol and atractylodin on target genes and hormone related to cardiotoxicity, hepatotoxicity, and endocrine disruption in developing zebrafish embryos.
@@ -344,7 +351,7 @@
 36369045	Malaria attributable fractions with changing transmission intensity: Bayesian latent class vs logistic models.
 36369036	Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.
 36369006	VECTRON™ T500, a new broflanilide insecticide for indoor residual spraying, provides prolonged control of pyrethroid-resistant malaria vectors.
-36368726	Artesunate, a new antimalarial clinical drug, exhibits potent anti-AML activity by targeting the ROS/Bim and TFRC/Fe(2+) pathways.
+36368726	Artesunate, a new antimalarial clinical drug, exhibits potent anti-AML activity by targeting the ROS/Bim and TFRC/Fe(2+) pathways.
 36367878	Perceptions and priorities for the development of multiplex rapid diagnostic tests for acute non-malarial fever in rural South and Southeast Asia: An international modified e-Delphi survey.
 36367853	Assessment of factors related to individuals who were never treated during mass drug administration for lymphatic filariasis in Ambon City, Indonesia.
 36367556	Climate and vector-borne diseases in Indonesia: a systematic literature review and critical appraisal of evidence.
@@ -9990,10 +9997,3 @@
 33236377	Linking nutrient sensing and gene expression in Plasmodium falciparum blood-stage parasites.
 33236291	Exported plasmodial J domain protein, PFE0055c, and PfHsp70-x form a specific co-chaperone-chaperone partnership.
 33235410	'The Fever': Questioning Malaria Management as a Colonial Legacy.
-33235398	Evaluation of the malaria elimination policy in Brazil: a systematic review and epidemiological analysis study.
-33234076	Last-come, best served? Mosquito biting order and Plasmodium transmission.
-33233978	Maternal infection and stillbirth: a review.
-33233871	Proposed Integrated Control of Zoonotic Plasmodium knowlesi in Southeast Asia Using Themes of One Health.
-33233769	Neurological Findings in Children without Congenital Microcephaly Exposed to Zika Virus in Utero: A Case Series Study.
-33232892	EEG markers predictive of epilepsy risk in pediatric cerebral malaria - A feasibility study.
-33232753	A role for the succinate dehydrogenase in the mode of action of the redox-active antimalarial drug, plasmodione.
