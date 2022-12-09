@@ -1,3 +1,13 @@
+36480787	Corrigendum: Drug-Derived Surface-Active Ionic Liquids: A Cost-Effective Way To Expressively Increase the Blood-Stage Antimalarial Activity of Primaquine.
+36480615	New books for young scientistsFox: A Circle of Life Story, Isabel Thomas, Illustrated by Daniel Egnéus, Bloomsbury Children's Books, 2021, 48 pp.Good Eating: The Short Life of Krill, Matt Lilley, Illustrated by Dan Tavis, Tilbury House Publishers, 2022, 36 pp.HeroRat!: Magawa, a Lifesaving Rodent, Jodie Parachini, Illustrated by Keiron Ward and Jason Dewhirst, Albert Whitman & Company, 2022, 32 pp.Tu Youyou's Discovery: Finding a Cure for Malaria, Songju Ma Daemicke, Illustrated by Lin, Albert Whitman & Company, 2021, 32 pp.It Takes Guts: How Your Body Turns Food into Fuel (and Poop), Jennifer Gardy, Illustrated by Belle Wuthrich, Greystone Kids, 2021, 152 pp.Snoozefest: The Surprising Science of Sleep, Tanya Lloyd Kyi, Illustrated by Valéry Goulet, Kids Can Press, 2021, 80 pp.Stolen Science: Thirteen Untold Stories of Scientists and Inventors Almost Written out of History, Ella Schwartz, Illustrated by Gaby D'Alessandro, Bloomsbury Children's Books, 2021, 128 pp.How to Build a Human: In Seven Evolutionary Steps, Pamela S. Turner, Illustrated by John Gurche, Charlesbridge, 2022, 176 pp.Forensics for Kids: The Science and History of Crime Solving, With 21 Activities, Melissa Ross, Chicago Review Press, 2022, 144 pp.Physics for Kids: Science Experiments and Activities Inspired by Awesome Physicists, Past and Present, Liz Lee Heinecke, Illustrated by Kelly Anne Dalton, Quarry Books, 2022, 128 pp.The Science Spell Book: Magical Experiments for Kids, Cara Florance, Sourcebooks eXplore, 2022, 224 pp.Funky Fungi: 30 Activities for Exploring Molds, Mushrooms, Lichens, and More, Alisha Gabriel and Sue Heavenrich, Chicago Review Press, 2022, 128 pp.The Complete Guide to Absolutely Everything (Abridged): Adventures in Math and Science, Adam Rutherford and Hannah Fry, W. W. Norton, 2022, 304 pp.Sticky: The Secret Science of Surfaces, Laurie Winkless, Bloomsbury Sigma, 2022, 336 pp.Astroquizzical: Solving the Cosmic Puzzles of our Planets, Stars, and Galaxies (The Illustrated Edition), Jillian Scudder, Icon Books, 2021, 224 pp.The Last Days of the Dinosaurs: An Asteroid, Extinction, and the Beginning of Our World, Riley Black, St. Martin's Press, 2022, 304 pp.
+36479121	Hijacking the human complement inhibitor C4b-binding protein by the sporozoite stage of the Plasmodium falciparum parasite.
+36478812	Multispectral imaging for MicroChip electrophoresis enables point-of-care newborn hemoglobin variant screening.
+36478712	Seroprevalence of visceral leishmaniasis and its associated factors among asymptomatic pastoral community of Dire District, Borena zone, Oromia Region, Ethiopia.
+36478252	Integrative genetic manipulation of Plasmodium cynomolgi reveals MultiDrug Resistance-1 Y976F associated with increased in vitro susceptibility to mefloquine.
+36478167	Hematological profiles of malaria-infected patients in an endemic area of Peru.
+36478163	Systematic review of the diagnostic accuracy of thick smear compared to polymerase chain reaction for pregnancy-associated malaria, 2010-2022.
+36478038	A Breakthrough: Defining Plasmodium vivax Drug Resistance Genes.
+36477687	Assessment of the performance and challenges in the implementation of the test, treat and track (T3) strategy for malaria control among children under-five years in Ghana.
 36477538	A transcriptional switch controls sex determination in Plasmodium falciparum.
 36477528	In vitro production of infectious Plasmodium falciparum sporozoites.
 36477327	Plasmodium vivax cerebral malaria with pancytopenia in the peruvian amazon: case report.
@@ -9987,13 +9997,3 @@
 33238987	Molecular surveillance of anti-malarial resistance Pfdhfr and Pfdhps polymorphisms in African and Southeast Asia Plasmodium falciparum imported parasites to Wuhan, China.
 33238928	Association between haematological parameters and sickle cell genotypes in children with Plasmodium falciparum malaria resident in Kisumu County in Western Kenya.
 33238901	Determinants of uptake of first dose of intermittent preventive treatment among pregnant women in a secondary health Centre in Maiduguri, Nigeria.
-33238298	Household Prevalence of Plasmodium falciparum, Plasmodium vivax, and Plasmodium ovale in the Democratic Republic of the Congo, 2013-2014.
-33237945	Human mobility and urban malaria risk in the main transmission hotspot of Amazonian Brazil.
-33236840	Risk of malaria in young children after periconceptional iron supplementation.
-33236715	Sustained Malaria Transmission despite Reactive Screen-and-Treat in a Low-Transmission Area of Southern Zambia.
-33236704	Providing Ancillary Care in Clinical Research: A Case of Diffuse Large B-Cell Lymphoma during a Malaria Vaccine Trial in Equatorial Guinea.
-33236701	Case Report: Could Artemisinin-Based Combination Therapy Prevent Occupational Malaria following Blood Exposure?
-33236597	[Effects of Artemisinin and Its Derivatives on Oral Microbes].
-33236377	Linking nutrient sensing and gene expression in Plasmodium falciparum blood-stage parasites.
-33236291	Exported plasmodial J domain protein, PFE0055c, and PfHsp70-x form a specific co-chaperone-chaperone partnership.
-33235410	'The Fever': Questioning Malaria Management as a Colonial Legacy.
