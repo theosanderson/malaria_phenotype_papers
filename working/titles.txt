@@ -1,3 +1,6 @@
+36494724	Which trap is best? Alternatives to outdoor human landing catches for malaria vector surveillance: a meta-analysis.
+36494664	Screening eaves of houses reduces indoor mosquito density in rural, western Kenya.
+36494575	Author Correction: Increased interferon-γ levels and risk of severe malaria: a meta-analysis.
 36490289	Optical Spectrophotometry as a Promising Method for Quantification and Stage Differentiation of Plasmodium falciparum Parasites.
 36483989	Malaria Elimination in China and Sustainability Concerns in the Post-elimination Stage.
 36483471	Smart triage: Development of a rapid pediatric triage algorithm for use in low-and-middle income countries.
@@ -9994,6 +9997,3 @@
 33239619	Diversity, dynamics, direction, and magnitude of high-altitude migrating insects in the Sahel.
 33239435	Subdominance in Antibody Responses: Implications for Vaccine Development.
 33239419	IL-4 Treatment Mitigates Experimental Cerebral Malaria by Reducing Parasitemia, Dampening Inflammation, and Lessening the Cytotoxicity of T Cells.
-33239381	Evaluating 10 Commercially Available SARS-CoV-2 Rapid Serological Tests by Use of the STARD (Standards for Reporting of Diagnostic Accuracy Studies) Method.
-33239368	Elucidation of DNA Repair Function of PfBlm and Potentiation of Artemisinin Action by a Small-Molecule Inhibitor of RecQ Helicase.
-33239360	A second mechanism employed by artemisinins to suppress Plasmodium falciparum hinges on inhibition of hematin crystallization.
