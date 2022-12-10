@@ -1,3 +1,4 @@
+36494802	Inequalities in the use of insecticide-treated nets by pregnant women in Ghana, 2011 and 2017.
 36494724	Which trap is best? Alternatives to outdoor human landing catches for malaria vector surveillance: a meta-analysis.
 36494664	Screening eaves of houses reduces indoor mosquito density in rural, western Kenya.
 36494575	Author Correction: Increased interferon-γ levels and risk of severe malaria: a meta-analysis.
@@ -9996,4 +9997,3 @@
 33239768	How a cell scientist in São Paulo is battling malaria.
 33239619	Diversity, dynamics, direction, and magnitude of high-altitude migrating insects in the Sahel.
 33239435	Subdominance in Antibody Responses: Implications for Vaccine Development.
-33239419	IL-4 Treatment Mitigates Experimental Cerebral Malaria by Reducing Parasitemia, Dampening Inflammation, and Lessening the Cytotoxicity of T Cells.
