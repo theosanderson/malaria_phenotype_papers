@@ -22,6 +22,7 @@
 36483989	Malaria Elimination in China and Sustainability Concerns in the Post-elimination Stage.
 36483471	Smart triage: Development of a rapid pediatric triage algorithm for use in low-and-middle income countries.
 36483323	Malaria an opportunistic infection in HIV/AIDS patients? - A Nigerian experience.
+36482971	Plasma after both SARS-CoV-2 boosted vaccination and COVID-19 potently neutralizes BQ.1.1 and XBB.1.
 36482962	The history of Gin and Tonic; the infectious disease specialist long drink. When gin and tonic was not ordered but prescribed.
 36482473	Profiling genome-wide recombination in Epstein Barr virus reveals type-specific patterns and associations with endemic-Burkitt lymphoma.
 36480787	Corrigendum: Drug-Derived Surface-Active Ionic Liquids: A Cost-Effective Way To Expressively Increase the Blood-Stage Antimalarial Activity of Primaquine.
@@ -9996,4 +9997,3 @@
 33245636	Guided filter based image enhancement for focal error compensation in low cost automated histopathology microscopic system.
 33245546	Human Angiotensin-Converting Enzyme may be under malaria selection pressure: a need to explore.
 33245109	Breast Milk-Derived Retinol Is a Potential Surrogate for Serum in the 13C-Retinol Isotope Dilution Test in Zambian Lactating Women with Vitamin A Deficient and Adequate Status.
-33244440	Assessing trends in vaccine efficacy by pathogen genetic distance.
