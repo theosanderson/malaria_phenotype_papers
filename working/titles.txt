@@ -644,6 +644,7 @@
 36274749	Trends of Malaria Prevalence in Selected Districts of Kaffa Zone, Southwest Ethiopia.
 36274692	Assessment of antibiotic treatment on Anopheles darlingi survival and susceptibility to Plasmodium vivax.
 36274138	Temporal trends in the burden of non-communicable diseases in countries with the highest malaria burden, 1990-2019: Evaluating the double burden of non-communicable and communicable diseases in epidemiological transition.
+29262067	Dapsone.
 36273584	Analysis of Plasmodium falciparum myosin B ATPase activity and structure in complex with the calmodulin-like domain of its light chain MLC-B.
 36273490	Safety and immunogenicity of an Ad26.ZEBOV booster dose in children previously vaccinated with the two-dose heterologous Ad26.ZEBOV and MVA-BN-Filo Ebola vaccine regimen: an open-label, non-randomised, phase 2 trial.
 36273150	Linear and conformational determinants of visceral leishmaniasis diagnostic antigens rK28 and rK39.
@@ -1008,7 +1009,6 @@
 36154837	Dual role of azo compounds in inhibiting Plasmodium falciparum adenosine deaminase and hemozoin biocrystallization.
 36154815	Assessing the impact of insecticide-treated nets in the face of insecticide resistance on malaria control.
 36154191	Plasmodium falciparum CRK5 Is Critical for Male Gametogenesis and Infection of the Mosquito.
-29262067	Dapsone.
 36153616	Factors influencing health workers' compliance with the WHO intermittent preventive treatment for malaria in pregnancy recommendations in the Northern Region, Ghana.
 36153552	Asymptomatic and submicroscopic Plasmodium infections in an area before and during integrated vector control in Homa Bay, western Kenya.
 36153501	Reducing malaria transmission in forest-going mobile and migrant populations in Lao PDR and Cambodia: protocol for stepped-wedge cluster-randomised controlled trial.
