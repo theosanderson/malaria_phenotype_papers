@@ -1,3 +1,20 @@
+36507890	Novel 3-Trifluoromethyl-1,2,4-oxadiazole Analogues of Astemizole with Multi-stage Antiplasmodium Activity and In Vivo Efficacy in a Plasmodium berghei Mouse Malaria Infection Model.
+36506558	Nitidine chloride, a benzophenanthridine alkaloid from Zanthoxylum nitidum (Roxb.) DC., exerts multiple beneficial properties, especially in tumors and inflammation-related diseases.
+36506377	Insecticide resistance status of malaria vectors in the malaria endemic states of India: implications and way forward for malaria elimination.
+36506308	Network pharmacology- and molecular docking-based approaches to unveil the pharmacological mechanisms of dihydroartemisinin against esophageal carcinoma.
+36506024	PfHMGB2 has a role in malaria parasite mosquito infection.
+36506016	Initiation of anti-retroviral/Trimethoprim-Sulfamethoxazole therapy in a longitudinal cohort of HIV-1 positive individuals in Western Kenya rapidly decreases asymptomatic malarial parasitemia.
+36505610	Occurrence and clinical features of HIV and malaria in co-infected individuals in Osun State, Nigeria.
+36505586	Economic burden estimation associated with dengue and chikungunya in Gujarat, India.
+36505432	HIV-1 infected humanized DRAGA mice develop HIV-specific antibodies despite lack of canonical germinal centers in secondary lymphoid tissues.
+36505414	Dynamics and immunomodulation of cognitive deficits and behavioral changes in non-severe experimental malaria.
+36504931	The PADRE merits of developing and implementing context-specific national action plans for health security in Central Africa: Case study of Cameroon.
+36504817	Vesicular stomatitis virus-based vaccine targeting plasmodium blood-stage antigens elicits immune response and protects against malaria with protein booster strategy.
+36504775	Protozoan co-infections and parasite influence on the efficacy of vaccines against bacterial and viral pathogens.
+36504597	High prevalence of asymptomatic Plasmodium falciparum malaria in Makenene, a locality in the forest-savannah transition zone, Centre Region of Cameroon.
+36503858	Evaluation of transmission-blocking potential of Pv22 using clinical Plasmodium vivax infections and transgenic Plasmodium berghei.
+36503827	Towards digital diagnosis of malaria: How far have we reached?
+36503390	Superoxide Dismutase Inhibitors Against Malaria, Leishmaniasis, and Chagas Disease: Systematic Review.
 36502443	Lessons from Nigeria's Adaptation of Global Health Initiatives during the COVID-19 Pandemic.
 36500473	Bioassay-Guided Fractionation with Antimalarial and Antimicrobial Activities of Paeonia officinalis.
 36500362	Phytoconstituents Assisted Biofabrication of Copper Oxide Nanoparticles and Their Antiplasmodial, and Antilarval Efficacy: A Novel Approach for the Control of Parasites.
@@ -2937,7 +2954,7 @@
 35526068	Comparative efficacy of BG-Sentinel 2 and CDC-like mosquito traps for monitoring potential malaria vectors in Europe.
 35526046	The European & Developing Countries Clinical Trials Partnership (EDCTP) Knowledge Hub: developing an open platform for facilitating high-quality clinical research.
 35525530	Network pharmacology and experimental validation-based approach to understand the effect and mechanism of Taohong Siwu Decoction against ischemic stroke.
-35524663	Natural antioxidants as additional weapons in fight against malarial parasite.
+35524663	Natural Antioxidants as Additional Weapons in the Fight against Malarial Parasite.
 35524310	Assessing the effect of seasonal malaria chemoprevention on malaria burden among children under 5 years in Burkina Faso.
 35524255	Case series of three malaria patients from Thailand infected with the simian parasite, Plasmodium cynomolgi.
 35524154	Functional characterization of α-Gal producing lactic acid bacteria with potential probiotic properties.
@@ -3328,7 +3345,7 @@
 35382896	Reaching the malaria elimination goal in Brazil: a spatial analysis and time-series study.
 35382858	Evaluation of the protective efficacy of a spatial repellent to reduce malaria incidence in children in western Kenya compared to placebo: study protocol for a cluster-randomized double-blinded control trial (the AEGIS program).
 35382856	Evaluation of the protective efficacy of a spatial repellent to reduce malaria incidence in children in Mali compared to placebo: study protocol for a cluster-randomized double-blinded control trial (the AEGIS program).
-35382719	Exploring the role of antioxidants to combat oxidative stress in malaria parasites.
+35382719	Exploring the Role of Antioxidants to Combat Oxidative Stress in Malaria Parasites.
 35382261	Imported malaria in adults: about a case of cerebral malaria.
 35381830	Co-distribution of dengue and Chikungunya viruses in Aedes mosquitoes of Delhi, India.
 35381828	Insecticide susceptibility status of malaria vectors, Anopheles culicifacies, Anopheles fluviatilis and Anopheles minimus in the tribal districts of Jharkhand state of India.
@@ -7535,6 +7552,7 @@
 34024763	Iran COVID-19 Epidemiology Committee: A Review of Missions, Structures, Achievements, and Challenges.
 34024562	Discontinuation of healthcare and factors associated to mortality among severe acute malnourished children under five years in healthcare and nutritional care settings.
 33145479	Limitations to current methods to estimate cause of death: a validation study of a verbal autopsy model.
+36504592	Foldscope: Diagnostic Accuracy and Feasibility of its Use in National Malaria Control Program.
 34023985	Iso-mukaadial acetate and ursolic acid acetate inhibit the chaperone activity of Plasmodium falciparum heat shock protein 70-1.
 34023977	In Vitro Potently Active Anti-Plasmodium and Anti-Toxoplasma Mongolian Plant Extracts.
 34023365	Gene regulation of the avian malaria parasite Plasmodium relictum, during the different stages within the mosquito vector.
@@ -9979,21 +9997,3 @@
 33252550	Global Volunteering in Orthopaedics: Availability and Implementation Considerations.
 33252148	Effect of substituents in the A and B rings of chalcones on antiparasite activity.
 33251321	Trends of neglected Plasmodium species infection in humans over the past century in India.
-33251021	Towards the elimination of viral hepatitis in Thailand by the year 2030.
-33250441	A New Test of a Theory about Old Mosquitoes.
-33250058	Machine learning approaches classify clinical malaria outcomes based on haematological parameters.
-33250057	Anaemia prevalence and determinants in under 5 years children: findings of a cross-sectional population-based study in Sudan.
-33250013	Monitoring the status of selected health related sustainable development goals: methods and projections to 2030.
-33249494	Malaria Is Associated With Kaposi Sarcoma-Associated Herpesvirus Seroconversion in a Cohort of Western Kenyan Children.
-33249301	Gestational Age-Specific Distribution of the Hammersmith Neonatal Neurological Examination Scores Among Low-Risk Neonates in Ghana.
-33249286	Significant symptoms and nonsymptom-related factors for malaria diagnosis in endemic regions of Indonesia.
-33248366	Age-related changes in PD-1 expression coincide with increased cytotoxic potential in Vδ2 T cells during infancy.
-33248036	Genetically modified mosquitoes.
-33247637	Prevalence and Clinical Presentation of COVID-19 among Healthcare Workers at a Dedicated Hospital in India.
-33247522	Artificial Intelligence Applied to the Rapid Identification of New Antimalarial Candidates with Dual-Stage Activity.
-33247297	Utility of Point of Care and Rapid Diagnostics in Humanitarian Emergencies.
-33246736	Antibody-guided structure-based vaccines.
-33246470	Population genetic analysis of the Plasmodium falciparum circumsporozoite protein in two distinct ecological regions in Ghana.
-33246126	Ethnomedicinal uses, phytochemistry, and pharmacology of the genus Vepris (Rutaceae): A review.
-33246123	Bioassay-guided isolation of antiplasmodial and antimicrobial constituents from the roots of Terminalia albida.
-33245636	Guided filter based image enhancement for focal error compensation in low cost automated histopathology microscopic system.
