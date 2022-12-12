@@ -180,6 +180,7 @@
 36436281	Safety and immunogenicity of AGS-v PLUS, a mosquito saliva peptide vaccine against arboviral diseases: A randomized, double-blind, placebo-controlled Phase 1 trial.
 36436166	Community Knowledge, Perceptions and Experiences on Healthcare Services for Malaria Prevention and Treatment in the Okavango Delta, Botswana.
 36436131	Hemophagocytic lymphohistiocytosis and hemozoin deposition in bone marrow macrophages in falciparum malaria.
+32644745	Cinchonism.
 36435772	Tetrandrine inhibits RANKL-induced osteoclastogenesis by promoting the degradation of TRAIL.
 36435768	Associations of the COVID-19 pandemic with the reported incidence of important endemic infectious disease agents and syndromes in Pakistan.
 36435688	Measurably recombining malaria parasites.
@@ -9996,4 +9997,3 @@
 33246126	Ethnomedicinal uses, phytochemistry, and pharmacology of the genus Vepris (Rutaceae): A review.
 33246123	Bioassay-guided isolation of antiplasmodial and antimicrobial constituents from the roots of Terminalia albida.
 33245636	Guided filter based image enhancement for focal error compensation in low cost automated histopathology microscopic system.
-33245546	Human Angiotensin-Converting Enzyme may be under malaria selection pressure: a need to explore.
