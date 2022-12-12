@@ -1,3 +1,4 @@
+36502443	Lessons from Nigeria's Adaptation of Global Health Initiatives during the COVID-19 Pandemic.
 36500473	Bioassay-Guided Fractionation with Antimalarial and Antimicrobial Activities of Paeonia officinalis.
 36500362	Phytoconstituents Assisted Biofabrication of Copper Oxide Nanoparticles and Their Antiplasmodial, and Antilarval Efficacy: A Novel Approach for the Control of Parasites.
 36500278	Quantification of Tafenoquine and 5,6-Orthoquinone Tafenoquine by UHPLC-MS/MS in Blood, Plasma, and Urine, and Application to a Pharmacokinetic Study.
@@ -9996,4 +9997,3 @@
 33246123	Bioassay-guided isolation of antiplasmodial and antimicrobial constituents from the roots of Terminalia albida.
 33245636	Guided filter based image enhancement for focal error compensation in low cost automated histopathology microscopic system.
 33245546	Human Angiotensin-Converting Enzyme may be under malaria selection pressure: a need to explore.
-33245109	Breast Milk-Derived Retinol Is a Potential Surrogate for Serum in the 13C-Retinol Isotope Dilution Test in Zambian Lactating Women with Vitamin A Deficient and Adequate Status.
