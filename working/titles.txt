@@ -1,3 +1,15 @@
+36510333	Capsaicin decreases fecundity in the Asian malaria vector Anopheles stephensi by inhibiting the target of rapamycin signaling pathway.
+36510199	Antimalarial and immunomodulatory potential of chalcone derivatives in experimental model of malaria.
+36510009	High prevalence of persistent residual parasitemia on days 3 and 14 after artemether-lumefantrine or pyronaridine-artesunate treatment of uncomplicated Plasmodium falciparum malaria in Nigeria.
+36509797	Natural plant diet impacts phenotypic expression of pyrethroid resistance in Anopheles mosquitoes.
+36509228	Characteristics of γδTCR on myeloid cells from C57BL/6 mice with Plasmodium yoelii nigeriensis infection.
+36509129	Contribution of the TIM-3/Gal-9 immune checkpoint to tropical parasitic diseases.
+36509063	Efficacy, Safety, Tolerability, and Pharmacokinetics of MMV390048 in Acute Uncomplicated Malaria.
+36509060	A Pilot Comparison of Fixatives for Hookworm Real-time Polymerase Chain Reaction.
+36509057	The Value Added of Incorporating Qualitative Approaches into Malaria Surveillance, Monitoring, and Evaluation.
+36509055	Using Malarial Retinopathy to Improve the Diagnosis of Pediatric Cerebral Malaria.
+36509054	Primaquine-induced Severe Hemolysis in the Absence of Concomitant Malaria: Effects on G6PD Activity and Renal Function.
+36509046	The Impact of Emerging Plasmodium knowlesi on Accurate Diagnosis by Light Microscopy: A Systematic Review and Modeling Analysis.
 36508454	Cytochrome P450 2D6 (CYP2D6) and glucose-6-phosphate dehydrogenase (G6PD) genetic variations in Thai vivax malaria patients: Implications for 8-aminoquinoline radical cure.
 36508338	Prevalence and characterization of piperaquine, mefloquine and artemisinin derivatives triple-resistant Plasmodium falciparum in Cambodia.
 36507890	Novel 3-Trifluoromethyl-1,2,4-oxadiazole Analogues of Astemizole with Multi-stage Antiplasmodium Activity and In Vivo Efficacy in a Plasmodium berghei Mouse Malaria Infection Model.
@@ -9985,15 +9997,3 @@
 33256744	Characterisation of plasmodial transketolases and identification of potential inhibitors: an in silico study.
 33256743	Defining malaria risks among forest workers in Aceh, Indonesia: a formative assessment.
 33256739	Plasmodium falciparum multidrug resistance gene-1 polymorphisms in Northern Nigeria: implications for the continued use of artemether-lumefantrine in the region.
-33256629	Aetiology of acute febrile illness among children attending a tertiary hospital in southern Ethiopia.
-33256565	Individual and community socioeconomic factors related to the quality of antenatal care: a multilevel analysis of West and Central Africa.
-33255805	Insecticide Resistance Profiling of Anopheles coluzzii and Anopheles gambiae Populations in the Southern Senegal: Role of Target Sites and Metabolic Resistance Mechanisms.
-33255333	Aquatic Exposure to Abscisic Acid Transstadially Enhances Anopheles stephensi Resistance to Malaria Parasite Infection.
-33254577	Biophysical mechanism for zinc as an anticancer agent.
-33253481	A population genomic unveiling of a new cryptic mosquito taxon within the malaria-transmitting Anopheles gambiae complex.
-33253211	Estimated impact of RTS,S/AS01 malaria vaccine allocation strategies in sub-Saharan Africa: A modelling study.
-33253198	Red blood cell homeostasis in children and adults with and without asymptomatic malaria infection in Burkina Faso.
-33253172	Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis.
-33253113	Structural ordering of the Plasmodium berghei circumsporozoite protein repeats by inhibitory antibody 3D11.
-33252651	AcanR3990 qPCR: A Novel, Highly Sensitive, Bioinformatically-Informed Assay to Detect Angiostrongylus cantonensis Infections.
-33252550	Global Volunteering in Orthopaedics: Availability and Implementation Considerations.
