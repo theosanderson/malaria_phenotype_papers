@@ -182,6 +182,7 @@
 36443817	Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia.
 36443751	Human behaviour directs household-level exposure to malaria vectors in Bandarban, Bangladesh.
 33760465	Sickle Cell Anemia (Nursing).
+30000209	Hydroxychloroquine.
 36443434	Population genomics reveal distinct and diverging populations of An. minimus in Cambodia.
 36442488	Pregnancy outcomes after first-trimester treatment with artemisinin derivatives versus non-artemisinin antimalarials: a systematic review and individual patient data meta-analysis.
 36442486	First-trimester use of ACTs for malaria treatment in pregnancy.
@@ -7165,7 +7166,6 @@
 34147682	PSOP1, putative secreted ookinete protein 1, is localized to the micronemes of Plasmodium yoelii and P. berghei ookinetes.
 34147154	Mass drug administration for the acceleration of malaria elimination in a region of Myanmar with artemisinin-resistant falciparum malaria: a cluster-randomised trial.
 34147153	Bold measures to accelerate malaria elimination.
-30000209	Hydroxychloroquine.
 34146993	A review of the frequencies of Plasmodium falciparum Kelch 13 artemisinin resistance mutations in Africa.
 34146914	New antiparasitic flexible triaryl diamidines, their prodrugs and aza analogues: Synthesis, in vitro and in vivo biological evaluation, and molecular modelling studies.
 34146685	Assessment of the burden of malaria and bacteraemia by retrospective molecular diagnosis in febrile illnesses and first-line anti-infectives in Côte d'Ivoire.
