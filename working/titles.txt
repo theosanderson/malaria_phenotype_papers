@@ -1,3 +1,11 @@
+36511045	High vectorial transmission of malaria in urban and rural settings in the northern, western and eastern regions of Côte d'Ivoire.
+36511043	Changing pattern of severe manifestations of Plasmodium falciparum and Plasmodium vivax malaria: A retrospective study from Bikaner, India.
+36511042	A note on the insecticide susceptibility status of secondary malaria vector An. annularis in Jharkhand state of India.
+36511041	Field evaluation of biosurfactants, surfactin and di-rhamnolipid produced by Bacillus subtilis subsp. subtilis (VCRC B471) and Pseudomonas fluorescens (VCRC B426) against immature stages of the urban malaria vector Anopheles stephensi.
+36511039	Insecticide susceptibility status of malaria vectors in Himachal Pradesh, India.
+36511037	Mosquito larvicidal potential of Solanum xanthocarpum leaf extract derived silver nanoparticles and its bio-toxicity on non-target aquatic organism.
+36511036	Salivary AsHPX12 influences pre-blood meal associated behavioral properties in Anopheles stephensi.
+36511034	Linkages between blood groups and malaria susceptibility.
 36510333	Capsaicin decreases fecundity in the Asian malaria vector Anopheles stephensi by inhibiting the target of rapamycin signaling pathway.
 36510199	Antimalarial and immunomodulatory potential of chalcone derivatives in experimental model of malaria.
 36510009	High prevalence of persistent residual parasitemia on days 3 and 14 after artemether-lumefantrine or pyronaridine-artesunate treatment of uncomplicated Plasmodium falciparum malaria in Nigeria.
@@ -18,6 +26,7 @@
 36506308	Network pharmacology- and molecular docking-based approaches to unveil the pharmacological mechanisms of dihydroartemisinin against esophageal carcinoma.
 36506024	PfHMGB2 has a role in malaria parasite mosquito infection.
 36506016	Initiation of anti-retroviral/Trimethoprim-Sulfamethoxazole therapy in a longitudinal cohort of HIV-1 positive individuals in Western Kenya rapidly decreases asymptomatic malarial parasitemia.
+36506011	Epitope profiling of monoclonal antibodies to the immunodominant antigen BmGPI12 of the human pathogen Babesia microti.
 36505610	Occurrence and clinical features of HIV and malaria in co-infected individuals in Osun State, Nigeria.
 36505586	Economic burden estimation associated with dengue and chikungunya in Gujarat, India.
 36505432	HIV-1 infected humanized DRAGA mice develop HIV-specific antibodies despite lack of canonical germinal centers in secondary lymphoid tissues.
@@ -9988,12 +9997,3 @@
 33257453	Activities of Quinoxaline, Nitroquinoxaline, and [1,2,4]Triazolo[4,3-a]quinoxaline Analogs of MMV007204 against Schistosoma mansoni.
 33257443	In Vivo Efficacy and Metabolism of the Antimalarial Cycleanine and Improved In Vitro Antiplasmodial Activity of Semisynthetic Analogues.
 33257270	Hypnozoites in Plasmodium: Do Parasites Parallel Plants?
-33257061	Effects of nanocapsules of poly-ε-caprolactone containing artemisinin on zebrafish early-life stages and adults.
-33256862	Molecular characterization of Polychromophilus parasites of Scotophilus kuhlii bats in Thailand.
-33256842	Seventy years' achievements of international cooperation by the National Institute of Parasitic Diseases at the Chinese Center for Disease Control and Prevention.
-33256758	Evaluation of a single screen and treat strategy to detect asymptomatic malaria among pregnant women from selected health facilities in Lindi region, Tanzania.
-33256751	Correction to: Mass testing and treatment for malaria followed by weekly fever screening, testing and treatment in Northern Senegal: feasibility, cost and impact.
-33256745	Cryptic Plasmodium chronic infections: was Maurizio Ascoli right?
-33256744	Characterisation of plasmodial transketolases and identification of potential inhibitors: an in silico study.
-33256743	Defining malaria risks among forest workers in Aceh, Indonesia: a formative assessment.
-33256739	Plasmodium falciparum multidrug resistance gene-1 polymorphisms in Northern Nigeria: implications for the continued use of artemether-lumefantrine in the region.
