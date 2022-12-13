@@ -1,3 +1,5 @@
+36508454	Cytochrome P450 2D6 (CYP2D6) and glucose-6-phosphate dehydrogenase (G6PD) genetic variations in Thai vivax malaria patients: Implications for 8-aminoquinoline radical cure.
+36508338	Prevalence and characterization of piperaquine, mefloquine and artemisinin derivatives triple-resistant Plasmodium falciparum in Cambodia.
 36507890	Novel 3-Trifluoromethyl-1,2,4-oxadiazole Analogues of Astemizole with Multi-stage Antiplasmodium Activity and In Vivo Efficacy in a Plasmodium berghei Mouse Malaria Infection Model.
 36506558	Nitidine chloride, a benzophenanthridine alkaloid from Zanthoxylum nitidum (Roxb.) DC., exerts multiple beneficial properties, especially in tumors and inflammation-related diseases.
 36506377	Insecticide resistance status of malaria vectors in the malaria endemic states of India: implications and way forward for malaria elimination.
@@ -179,6 +181,7 @@
 36443857	Primary health care situations in remote rural villages of the Savannakhet province, Lao People's Democratic Republic.
 36443817	Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia.
 36443751	Human behaviour directs household-level exposure to malaria vectors in Bandarban, Bangladesh.
+33760465	Sickle Cell Anemia (Nursing).
 36443434	Population genomics reveal distinct and diverging populations of An. minimus in Cambodia.
 36442488	Pregnancy outcomes after first-trimester treatment with artemisinin derivatives versus non-artemisinin antimalarials: a systematic review and individual patient data meta-analysis.
 36442486	First-trimester use of ACTs for malaria treatment in pregnancy.
@@ -2893,7 +2896,6 @@
 35550076	Rice agroecosystem and malaria risk in India.
 35549710	Willingness to accept malaria vaccine among caregivers of under-5 children in Southwest Ethiopia: a community based cross-sectional study.
 35546741	Multi-omics analysis identifies a CYP9K1 haplotype conferring pyrethroid resistance in the malaria vector Anopheles funestus in East Africa.
-33760465	Sickle Cell Anemia (Nursing).
 35545692	Lessons learned from the introduction of genetically engineered crops: relevance to gene drive deployment in Africa.
 35545288	Knowledge translation and evidence generation to increase the impact of vector control in Burkina Faso, Cameroon and Malawi.
 35544478	A handmade trap for malaria mosquito surveillance by citizens in Rwanda.
@@ -9995,5 +9997,3 @@
 33253113	Structural ordering of the Plasmodium berghei circumsporozoite protein repeats by inhibitory antibody 3D11.
 33252651	AcanR3990 qPCR: A Novel, Highly Sensitive, Bioinformatically-Informed Assay to Detect Angiostrongylus cantonensis Infections.
 33252550	Global Volunteering in Orthopaedics: Availability and Implementation Considerations.
-33252148	Effect of substituents in the A and B rings of chalcones on antiparasite activity.
-33251321	Trends of neglected Plasmodium species infection in humans over the past century in India.
