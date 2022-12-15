@@ -1,3 +1,33 @@
+36520108	Nanobodies against Pfs230 block Plasmodium falciparum transmission.
+36519341	The impact of sequestration on artemisinin-induced parasite clearance in Plasmodium falciparum malaria in Africa.
+36518747	Neuroinvasive Onchocerca lupi Infection in a Ten-Year-Old Girl.
+36518638	Isolation, Purification, and Characterization of Homogenous Novel Bioactive Protein from Datura stramonium Stem Exhibited Larvicidal Activity against Anopheles stephensi.
+36518384	Hexane fraction of Globimetula braunii induces mitochondria-mediated apoptosis in Plasmodium berghei-infected mice.
+36517905	Choice of health providers and health-seeking behaviour among forest goer population in Myanmar: findings from a cross-sectional household survey.
+36517492	A Mycobacterium tuberculosis fingerprint in human breath allows tuberculosis detection.
+36517330	Plasmodium malariae: the persisting mysteries of a persistent parasite.
+36517112	Promising practices for the collaborative planning of integrated health campaigns from a synthesis of case studies.
+36517064	Prevalence of transfusion-transmitted infections in Saudi Arabia blood donors: A nationwide, cross-sectional study.
+36516945	Formulation and evaluation of the antimalarial N-89 as a transdermal drug candidate.
+36516858	Single-Chain Polymer Nanoparticles Targeting the Ookinete Stage of Malaria Parasites.
+36515978	A coordinated transcriptional switching network mediates antigenic variation of human malaria parasites.
+36515553	Patterns of Heterochromatin Transitions Linked to Changes in the Expression of Plasmodium falciparum Clonally Variant Genes.
+36515128	Development of Mitochondria Targeting AIE-Active Cyclometalated Iridium Complexes as Potent Antimalarial Agents.
+36514171	Using social media for health education and promotion: a pilot of WeChat-based prize quizzes on China national malaria day.
+36514125	Molecular characterization and genetic authentication assay for Anopheles 'hemocyte-like' cell lines 4a-3A and 4a-3B.
+36513700	Overexpression of hepatocyte EphA2 enhances liver-stage infection by Plasmodium vivax.
+36513317	Knowledge, attitudes, and practices about malaria in travelers to risk areas in Peru.
+36512904	Proteomic characterization of Toxoplasma gondii ME49 derived strains resistant to the artemisinin derivatives artemiside and artemisone implies potential mode of action independent of ROS formation.
+36512705	Cytoscape stringApp 2.0: Analysis and Visualization of Heterogeneous Biological Networks.
+36512590	Expression of Concern: Malaria in Dielmo, a Senegal village: Is its elimination possible after seven years of implementation of long-lasting insecticide-treated nets?
+36512509	Dactylosporolides: Glycosylated Macrolides from Dactylosporangium fulvum.
+36512492	Repurposed dihydroorotate dehydrogenase inhibitors with efficacy against drug-resistant Acinetobacter baumannii.
+36512028	A robust fluorescence-based assay for human erythrocyte Ca(++) efflux suitable for high-throughput inhibitor screens.
+36512011	[Which are somatic diseases of migrant children ?].
+36511996	[Travel in tropical countries for adults and children: advice before departure, pathologies on return: fever, diarrhea, skin manifestations. - Part 1 / In adults].
+36511667	[Análisis de interacciones de actores de la red de gestión del conocimiento en malaria de Colombia].
+36511651	A Plasmodium falciparumubiquitin-specific protease (PfUSP) is essential for parasite survival and its disruption enhances artemisinin efficacy.
+36511329	Clearing of hemozoin crystals in malaria parasites enables whole cell STED microscopy.
 36511045	High vectorial transmission of malaria in urban and rural settings in the northern, western and eastern regions of Côte d'Ivoire.
 36511043	Changing pattern of severe manifestations of Plasmodium falciparum and Plasmodium vivax malaria: A retrospective study from Bikaner, India.
 36511042	A note on the insecticide susceptibility status of secondary malaria vector An. annularis in Jharkhand state of India.
@@ -119,7 +149,7 @@
 36467507	Knowledge, attitudes, and practices regarding malaria control among communities living in the south Cameroon forest region.
 36466999	Deferiprone-Resveratrol Hybrid, an Iron-Chelating Compound, Acts as an Antimalarial and Hepatoprotective Agent in Plasmodium berghei-Infected Mice.
 36466767	Malaria Elimination: What Can Africa Learn from China?
-36466721	Chloroquine Chaos and COVID-19: Smart delivery perspectives through pH sensitive polymers/ micelles and ZnO nanoparticles.
+36466721	Chloroquine chaos and COVID-19: Smart delivery perspectives through pH sensitive polymers/micelles and ZnO nanoparticles.
 36466214	High anti-SARS-CoV-2 seroprevalence among unvaccinated mother-child pairs from a rural setting of north-eastern Tanzania during the second wave of COVID-19.
 36466021	Misdiagnosis of Plasmodium vivax in a Case of Mixed Malaria, Lead to Wrong Anti-Cancer Chemotherapy, Splenectomy, and Partial Hepatectomy Due to Relapse: A Case Report.
 36466013	Cytotoxicity and Anti-Plasmodium berghei Activity of Emodin Loaded Nanoemulsion.
@@ -988,7 +1018,7 @@
 36180075	Replenishing the Global Fund to Fight AIDS, Tuberculosis, and Malaria.
 36179736	Safety and efficacy of oral fexinidazole in children with gambiense human African trypanosomiasis: a multicentre, single-arm, open-label, phase 2-3 trial.
 36179538	Preeclampsia prediction with blood pressure measurements: A global external validation of the ALSPAC models.
-36179241	Plasma amino acid concentrations in children with severe malaria are associated with mortality and worse long-term kidney and cognitive outcomes.
+36179241	Plasma Amino Acid Concentrations in Children With Severe Malaria Are Associated With Mortality and Worse Long-term Kidney and Cognitive Outcomes.
 36178979	IL-4, IL-10, CCL2 and TGF-β as potential biomarkers for severity in Plasmodium vivax malaria.
 36178964	Prevalence and distribution pattern of malaria and soil-transmitted helminth co-endemicity in sub-Saharan Africa, 2000-2018: A geospatial analysis.
 36178962	Intermittent preventive treatment with Sulphadoxine-Pyrimethamine (IPTp-SP) is associated with protection against sub-microscopic P. falciparum infection in pregnant women during the low transmission dry season in southwestern Cameroon: A Semi - longitudinal study.
@@ -9967,33 +9997,3 @@
 33270743	Non-adherence to long-lasting insecticide treated bednet use following successful malaria control in Tororo, Uganda.
 33269910	Could Artesunate Have a Positive Effect on the Neurological Complications Related to Infection When It Is Used in the Treatment of COVID-19?
 33269565	In vitro Cultivation of Plasmodium falciparum.
-33269558	Molecular Characterisation of Cytochrome Oxidase I and Internal Transcribed Spacer 2 Fragments of Culiseta longiareolata.
-33269163	Prevalence of Glucose-6-Phosphate Dehydrogenase Deficiency Among Children in Eastern Saudi Arabia.
-33268876	Malaria cases are falling worldwide.
-33268801	The transcriptome of circulating sexually committed Plasmodium falciparum ring stage parasites forecasts malaria transmission potential.
-33268334	African malaria deaths set to dwarf covid-19 fatalities as pandemic hits control efforts, WHO warns.
-33268332	Chorismate synthase mediates cerebral malaria pathogenesis by eliciting salicylic acid-dependent autophagy response in parasite.
-33267886	Estimating malaria incidence from routine health facility-based surveillance data in Uganda.
-33267885	The Gini coefficient as a useful measure of malaria inequality among populations.
-33267870	A study of malaria vector surveillance as part of the Malaria Elimination Demonstration Project in Mandla, Madhya Pradesh.
-33267841	Increased prevalence of pfdhfr and pfdhps mutations associated with sulfadoxine-pyrimethamine resistance in Plasmodium falciparum isolates from Jazan Region, Southwestern Saudi Arabia: important implications for malaria treatment policy.
-33267828	Splenic infarction and infectious diseases in Korea.
-33264546	Malaria Chemoprevention in the Postdischarge Management of Severe Anemia.
-33262483	Plasmodium falciparum sexual parasites regulate infected erythrocyte permeability.
-33262482	Genomic surveillance of Plasmodium falciparum and Plasmodium vivax cases at the University Hospital in Tegucigalpa, Honduras.
-33262332	Ultrasensitive antibody-aptamer plasmonic biosensor for malaria biomarker detection in whole blood.
-33262284	Radiation with reticulation marks the origin of a major malaria vector.
-33262257	Expansion of a Specific Plasmodium falciparum PfMDR1 Haplotype in Southeast Asia with Increased Substrate Transport.
-33262065	New viral vectors for infectious diseases and cancer.
-33262008	Digital Health Care Services to Control and Eliminate Malaria in India.
-33261905	Syndemic anemia in British Malaya: An early global health encounter with hookworm and malaria co-infections in plantation workers.
-33261717	Limited Specificity of Serologic Tests for SARS-CoV-2 Antibody Detection, Benin.
-33261264	Bilateral THA in the same sitting for avascular necrosis of the head of the femur in sickle cell patient: our African experience.
-33261096	Adequacy of Severe Malaria Markers and Prognostic Scores in an Intensive Care Unit in Luanda, Angola: A Clinical Study.
-33260784	Zika Virus Infection in a Cohort of Pregnant Women with Exanthematic Disease in Manaus, Brazilian Amazon.
-33260605	Plasmodium falciparum Genetic Diversity in Panamá Based on glurp, msp-1 and msp-2 Genes: Implications for Malaria Elimination in Mesoamerica.
-33257570	Structure of the Plasmodium-interspersed repeat proteins of the malaria parasite.
-33257519	Infectious diseases in German military personnel after predominantly tropical deployments: a retrospective assessment over 13 years.
-33257453	Activities of Quinoxaline, Nitroquinoxaline, and [1,2,4]Triazolo[4,3-a]quinoxaline Analogs of MMV007204 against Schistosoma mansoni.
-33257443	In Vivo Efficacy and Metabolism of the Antimalarial Cycleanine and Improved In Vitro Antiplasmodial Activity of Semisynthetic Analogues.
-33257270	Hypnozoites in Plasmodium: Do Parasites Parallel Plants?
