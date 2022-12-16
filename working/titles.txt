@@ -41,7 +41,7 @@
 36512028	A robust fluorescence-based assay for human erythrocyte Ca(++) efflux suitable for high-throughput inhibitor screens.
 36512011	[Which are somatic diseases of migrant children ?].
 36511996	[Travel in tropical countries for adults and children: advice before departure, pathologies on return: fever, diarrhea, skin manifestations. - Part 1 / In adults].
-36511667	[Análisis de interacciones de actores de la red de gestión del conocimiento en malaria de Colombia].
+36511667	Analysis of interactions of actors of the knowledge network on malaria in Colombia.
 36511651	A Plasmodium falciparumubiquitin-specific protease (PfUSP) is essential for parasite survival and its disruption enhances artemisinin efficacy.
 36511329	Clearing of hemozoin crystals in malaria parasites enables whole cell STED microscopy.
 36511045	High vectorial transmission of malaria in urban and rural settings in the northern, western and eastern regions of Côte d'Ivoire.
