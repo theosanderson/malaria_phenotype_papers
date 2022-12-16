@@ -1,3 +1,6 @@
+36520849	Factors influencing intermittent preventive treatment for malaria prevention among pregnant women accessing antenatal care in selected primary health care facilities of Bwari Area Council, Abuja Nigeria.
+36520830	Internal and external microbiota of home-caught Anopheles coluzzii (Diptera: Culicidae) from Côte d'Ivoire, Africa: Mosquitoes are filthy.
+36520682	Molecular mechanisms of insect immune memory and pathogen transmission.
 36520108	Nanobodies against Pfs230 block Plasmodium falciparum transmission.
 36519341	The impact of sequestration on artemisinin-induced parasite clearance in Plasmodium falciparum malaria in Africa.
 36518747	Neuroinvasive Onchocerca lupi Infection in a Ten-Year-Old Girl.
@@ -9994,6 +9997,3 @@
 33271627	Cyclic nucleotide selectivity of protein kinase G isozymes.
 33271256	Antiplasmodial and antileishmanial flavonoids from Mundulea sericea.
 33271239	In vitro reduction of Plasmodium falciparum gametocytes: Artemisia spp. tea infusions vs. artemisinin.
-33270743	Non-adherence to long-lasting insecticide treated bednet use following successful malaria control in Tororo, Uganda.
-33269910	Could Artesunate Have a Positive Effect on the Neurological Complications Related to Infection When It Is Used in the Treatment of COVID-19?
-33269565	In vitro Cultivation of Plasmodium falciparum.
