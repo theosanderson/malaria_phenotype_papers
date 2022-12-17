@@ -1,3 +1,6 @@
+36525464	Long read single cell RNA sequencing reveals the isoform diversity of Plasmodium vivax transcripts.
+36525438	The public health response to an outbreak of border-spill malaria along China-Myanmar border.
+36525403	Ten-year persistence and evolution of Plasmodium falciparum antifolate and anti-sulfonamide resistance markers pfdhfr and pfdhps in three Asian countries.
 36524413	Dysregulated haemostasis in thrombo-inflammatory disease.
 36524053	Microbial (E)-4-hydroxy-3-methylbut-2-enyl pyrophosphate reductase (IspH) and its biotechnological potential: A mini review.
 36523346	Shifts in the clinical epidemiology of severe malaria after scaling up control strategies in Mali.
@@ -9994,6 +9997,3 @@
 33276756	Socioeconomic inequality in intermittent preventive treatment using Sulphadoxine pyrimethamine among pregnant women in Nigeria.
 33275767	Glucose-6-phosphate dehydrogenase deficiency and susceptibility to childhood diseases in Kilifi, Kenya.
 33275684	Preventing infections in children and adults with asplenia.
-33275613	A comparison of non-magnetic and magnetic beads for measuring IgG antibodies against Plasmodium vivax antigens in a multiplexed bead-based assay using Luminex technology (Bio-Plex 200 or MAGPIX).
-33274627	[Tropical malaria with a fatal outcome].
-33274075	In Vivo Antiplasmodial Activity of Entandrophragma cylindricum (Sprague) Sprague Ethyl Acetate Extract in Plasmodium berghei-Infected Mice.
