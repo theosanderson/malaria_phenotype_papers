@@ -1,3 +1,12 @@
+36527272	Millions of excess cases and thousands of excess deaths of malaria occurred globally in 2020 during the COVID-19 pandemic.
+36527116	The use of drones for mosquito surveillance and control.
+36527077	Genetic diversity of transmission-blocking vaccine candidate antigens Pvs25 and Pvs28 in Plasmodium vivax isolates from China.
+36527072	Manure and mosquitoes: life history traits of two malaria vector species enhanced by larval exposure to cow dung, whilst chicken dung has a strong negative effect.
+36526627	A genetically modified Plasmodium berghei parasite as a surrogate for whole-sporozoite vaccination against P. vivax malaria.
+36526359	Erratum to 'In vitro activity of eravacycline, a novel synthetic halogenated tetracycline, against the malaria parasite Plasmodium falciparum' [Journal of Global Antimicrobial Resistance 24 (2021) 93-97].
+36526310	Distribution, frequency and clinical presentation of leptospirosis and coinfections: a systematic review protocol.
+36526126	On the potential for discontinuing atovaquone-proguanil (AP) ad-hoc post-exposure and other abbreviated AP-regimens: Pharmacology, pharmacokinetics and perspectives.
+36526072	Infection and disruption of placental multidrug resistance (MDR) transporters: Implications for fetal drug exposure.
 36525464	Long read single cell RNA sequencing reveals the isoform diversity of Plasmodium vivax transcripts.
 36525438	The public health response to an outbreak of border-spill malaria along China-Myanmar border.
 36525403	Ten-year persistence and evolution of Plasmodium falciparum antifolate and anti-sulfonamide resistance markers pfdhfr and pfdhps in three Asian countries.
@@ -9988,12 +9997,3 @@
 33280083	Pyronaridine: An update of its pharmacological activities and mechanisms of action.
 33280051	Back to Basics in Paediatric Pneumonia-Defining a Breath and Setting Reference Standards to Innovate Respiratory Rate Counting.
 33279862	An ELISA method to assess HDAC inhibitor-induced alterations to P. falciparum histone lysine acetylation.
-33279509	Physiological responses to cryoprotectant treatment in an early larval stage of the malaria mosquito, Anopheles gambiae.
-33278938	Certifying Guinea worm eradication: current challenges.
-33278936	Effectiveness of seasonal malaria chemoprevention at scale in west and central Africa: an observational study.
-33278921	Seasonal malaria chemoprevention: closing the know-do gap.
-33278372	Arboviral diseases: the emergence of a major yet ignored public health threat in Africa.
-33276776	Molecular surveillance of the Plasmodium vivax multidrug resistance 1 gene in Peru between 2006 and 2015.
-33276756	Socioeconomic inequality in intermittent preventive treatment using Sulphadoxine pyrimethamine among pregnant women in Nigeria.
-33275767	Glucose-6-phosphate dehydrogenase deficiency and susceptibility to childhood diseases in Kilifi, Kenya.
-33275684	Preventing infections in children and adults with asplenia.
