@@ -1,3 +1,13 @@
+36533299	Severe malaria-related disability in African children: a scoping review.
+36532481	Prevalence of malaria resistance-associated mutations in Plasmodium falciparum circulating in 2017-2018, Bo, Sierra Leone.
+36532436	Comparing the infection biology and gene expression differences of Plasmodiophora brassicae primary and secondary zoospores.
+36532031	Impact of exposure to malaria and nutritional status on responses to the experimental malaria vaccine ChAd63 MVA ME-TRAP in 5-17 month-old children in Burkina Faso.
+36531990	High-dimensional intravital microscopy reveals major changes in splenic immune system during postnatal development.
+36531969	Antimicrobial Agents Based on Metal Complexes: Present Situation and Future Prospects.
+36531309	Isoprenoid alcohols utilization by malaria parasites.
+36530433	Blood-stage antiplasmodial activity and oocyst formation-blockage of metallo copper-cinchonine complex.
+36530423	PfATP4 inhibitors in the Medicines for Malaria Venture Malaria Box and Pathogen Box block the schizont-to-ring transition by inhibiting egress rather than invasion.
+36530422	Targeting malaria parasites with novel derivatives of azithromycin.
 36529768	Mapping age- and sex-specific HIV prevalence in adults in sub-Saharan Africa, 2000-2018.
 36529451	Sex-biased, but not plumage color-based, prevalence of haemosporidian parasites in free-range chickens.
 36528584	Dinuclear and mononuclear metal(II) polypyridyl complexes against drug-sensitive and drug-resistant Plasmodium falciparum and their mode of action.
@@ -185,7 +195,7 @@
 36466999	Deferiprone-Resveratrol Hybrid, an Iron-Chelating Compound, Acts as an Antimalarial and Hepatoprotective Agent in Plasmodium berghei-Infected Mice.
 36466767	Malaria Elimination: What Can Africa Learn from China?
 36466721	Chloroquine chaos and COVID-19: Smart delivery perspectives through pH sensitive polymers/micelles and ZnO nanoparticles.
-36466214	High anti-SARS-CoV-2 seroprevalence among unvaccinated mother-child pairs from a rural setting of north-eastern Tanzania during the second wave of COVID-19.
+36466214	High anti-SARS-CoV-2 seroprevalence among unvaccinated mother-child pairs from a rural setting in north-eastern Tanzania during the second wave of COVID-19.
 36466021	Misdiagnosis of Plasmodium vivax in a Case of Mixed Malaria, Lead to Wrong Anti-Cancer Chemotherapy, Splenectomy, and Partial Hepatectomy Due to Relapse: A Case Report.
 36466013	Cytotoxicity and Anti-Plasmodium berghei Activity of Emodin Loaded Nanoemulsion.
 36465806	Plasmodium falciparum Malaria Susceptibility and Severity: Influence of MyD88-Adaptor-Like Gene (rs8177374) Polymorphism.
@@ -9987,13 +9997,3 @@
 33287434	MRE11 Is Crucial for Malaria Parasite Transmission and Its Absence Affects Expression of Interconnected Networks of Key Genes Essential for Life.
 33286803	Fever Time Series Analysis Using Slope Entropy. Application to Early Unobtrusive Differential Diagnosis.
 33286429	A Deep Learning Approach for Segmentation of Red Blood Cell Images and Malaria Detection.
-33285829	Stochastic SIS Modelling: Coinfection of Two Pathogens in Two-Host Communities.
-33285591	Antiprotozoal activities of Triterpenic Acids and Ester Derivatives Isolated from the Leaves of Vitellaria paradoxa.
-33285288	Systematics and geographical distribution of Galba species, a group of cryptic and worldwide freshwater snails.
-33285201	Sugarcane cystatins: From discovery to biotechnological applications.
-33284800	Assessment of antimalarial drug resistant markers in asymptomatic Plasmodium falciparum infections after 4 years of indoor residual spraying in Northern Ghana.
-33283238	Epidemiology of imported infectious diseases, China, 2014-18.
-33283225	Malaria Screening Using Front-Line Loop-Mediated Isothermal Amplification.
-33283029	Determinants of Anemia Among Children Aged 6 to 59 Months in Dilla Town, Southern Ethiopia: A Facility Based Case Control Study.
-33282291	A population of CD4(hi)CD38(hi) T cells correlates with disease severity in patients with acute malaria.
-33281811	Polymorphisms in Fc Gamma Receptors and Susceptibility to Malaria in an Endemic Population.
