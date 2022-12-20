@@ -800,6 +800,7 @@
 36264996	G6PD testing and radical cure for Plasmodium vivax in Cambodia: A mixed methods implementation study.
 36264930	Factors associated with catastrophic health expenditure in sub-Saharan Africa: A systematic review.
 36264525	An Overview on the Impact of Microbiota on Malaria Transmission and Severity: Plasmodium-Vector-Host Axis.
+36264096	The Consortium on Newborn Screening in Africa for sickle cell disease: study rationale and methodology.
 36263862	False-positive fourth-generation HIV test result in a woman with Plasmodium malariae malaria.
 36263093	Parasite clearance dynamics in children hospitalised with severe malaria in the Ho Teaching Hospital, Volta Region, Ghana.
 36262953	Awareness of the Malaria Vaccine in India.
@@ -2664,7 +2665,7 @@
 35667524	Safety of treating malaria with artemisinin-based combination therapy in the first trimester of pregnancy.
 35665720	Updates in central nervous system malaria: literature review and considerations.
 35665597	Mechanisms of 8-aminoquinoline induced haemolytic toxicity in a G6PDd humanized mouse model.
-35665014	Effective antiviral regimens to reduce COVID-19 hospitalizations: a systematic comparison of randomized controlled trials.
+35665014	Outpatient regimens to reduce COVID-19 hospitalizations: a systematic review and meta-analysis of randomized controlled trials.
 35664997	Impact of a blood-stage vaccine on Plasmodium vivax malaria.
 35663999	Machine Learning-Assisted Screening of Herbal Medicine Extracts as Vaccine Adjuvants.
 35663028	Neuregulin-1/ErbB4 signaling modulates Plasmodium falciparum HRP2-induced damage to brain cortical organoids.
@@ -9996,4 +9997,3 @@
 33292761	Determinants of HIV-malaria co-infection among people living with HIV on anti-retroviral therapy in Northeast Ethiopia: unmatched case control study.
 33292357	Malaria during pregnancy and transplacental transfer of Kaposi sarcoma-associated herpesvirus (KSHV) antibodies: a cohort study of Kenyan mother and child pairs.
 33292107	Metabolism and Interactions of Chloroquine and Hydroxychloroquine with Human Cytochrome P450 Enzymes and Drug Transporters.
-33292080	Cyclic peptide engineered from phytocystatin inhibitory hairpin loop as an effective modulator of falcipains and potent antimalarial.
