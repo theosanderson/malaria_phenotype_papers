@@ -1,3 +1,5 @@
+36534897	1,2,4-Triazole and benzimidazole fused dihydropyrimidine derivatives: Design, green synthesis, antibacterial, antitubercular, and antimalarial activities.
+36534705	Population heterogeneity in Plasmodium vivax relapse risk.
 36533747	The last battle of Alessandro Farnese (1545-1592).
 36533299	Severe malaria-related disability in African children: a scoping review.
 36532481	Prevalence of malaria resistance-associated mutations in Plasmodium falciparum circulating in 2017-2018, Bo, Sierra Leone.
@@ -9995,5 +9997,3 @@
 33287822	Field performance of ultrasensitive and conventional malaria rapid diagnostic tests in southern Mozambique.
 33287809	Prevention of re-establishment of malaria: historical perspective and future prospects.
 33287766	Coverage outcomes (effects), costs, cost-effectiveness, and equity of two combinations of long-lasting insecticidal net (LLIN) distribution channels in Kenya: a two-arm study under operational conditions.
-33287434	MRE11 Is Crucial for Malaria Parasite Transmission and Its Absence Affects Expression of Interconnected Networks of Key Genes Essential for Life.
-33286803	Fever Time Series Analysis Using Slope Entropy. Application to Early Unobtrusive Differential Diagnosis.
