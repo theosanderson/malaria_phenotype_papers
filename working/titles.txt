@@ -1,3 +1,5 @@
+36536766	Sickle Cell Disease in Early Infancy: A Case Report.
+36536718	The floods of 2022: Economic and health crisis hits Pakistan.
 36536491	Do good carefully: The long-term effects of low-dose DDT exposure in early childhood on education, marriage and employment.
 36536444	WHO cone bioassay boards with or without holes: relevance for bioassay outcomes in long-lasting insecticidal net studies.
 36536428	Impact of different mosquito collection methods on indicators of Anopheles malaria vectors in Uganda.
@@ -9995,5 +9997,3 @@
 33292357	Malaria during pregnancy and transplacental transfer of Kaposi sarcoma-associated herpesvirus (KSHV) antibodies: a cohort study of Kenyan mother and child pairs.
 33292107	Metabolism and Interactions of Chloroquine and Hydroxychloroquine with Human Cytochrome P450 Enzymes and Drug Transporters.
 33292080	Cyclic peptide engineered from phytocystatin inhibitory hairpin loop as an effective modulator of falcipains and potent antimalarial.
-33291447	Potential for Bacillus thuringiensis and Other Bacterial Toxins as Biological Control Agents to Combat Dipteran Pests of Medical and Agronomic Importance.
-33290932	Machine learning model for predicting malaria using clinical information.
