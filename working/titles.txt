@@ -1,3 +1,4 @@
+36539955	Pomegranate Resembling Design of Starch Sago Beads Encapsulates Nanopyriproxyfen, Enabling Slow Release and Improved Bioactivity.
 36539892	Seasonal variation in abundance and blood meal sources of primary and secondary malaria vectors within Kilombero Valley, Southern Tanzania.
 36539851	Discovery of novel natural products for mosquito control.
 36538859	A comprehensive overview of Artemisinin and its derivatives as anticancer agents.
@@ -9996,4 +9997,3 @@
 33294102	Malaria and COVID-19: commonalities, intersections and implications for sustaining malaria control.
 33294019	Incorporating genetic selection into individual-based models of malaria and other infectious diseases.
 33293574	Malaria hotspots explained from the perspective of ecological theory underlying insect foraging.
-33293381	The Key Glycolytic Enzyme Phosphofructokinase Is Involved in Resistance to Antiplasmodial Glycosides.
