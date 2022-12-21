@@ -1,3 +1,6 @@
+36542002	Clinically silent Plasmodium vivax infections in native Amazonians of northwestern Brazil: acquired immunity or low parasite virulence?
+36541793	Regulation of Mitochondrial Energy Metabolism by Glutaredoxin 5 in the Apicomplexan Parasite Neospora caninum.
+36541739	A high performance cell-phone based polarized microscope for malaria diagnosis.
 36539955	Pomegranate Resembling Design of Starch Sago Beads Encapsulates Nanopyriproxyfen, Enabling Slow Release and Improved Bioactivity.
 36539892	Seasonal variation in abundance and blood meal sources of primary and secondary malaria vectors within Kilombero Valley, Southern Tanzania.
 36539851	Discovery of novel natural products for mosquito control.
@@ -9994,6 +9997,3 @@
 33294488	One step forward, two steps back: Tensions between malaria elimination and improved malaria surveillance in the Solomon Islands.
 33294217	The Effectiveness of Varying Combination Ratios of A. cordifolia and M. indica against Field and Laboratory Strains of P. falciparum In Vitro.
 33294103	Social approaches to COVID-19 pandemic response: effectiveness and practicality in sub-Saharan Africa.
-33294102	Malaria and COVID-19: commonalities, intersections and implications for sustaining malaria control.
-33294019	Incorporating genetic selection into individual-based models of malaria and other infectious diseases.
-33293574	Malaria hotspots explained from the perspective of ecological theory underlying insect foraging.
