@@ -1,3 +1,6 @@
+36547621	Lysinibacilli: A Biological Factories Intended for Bio-Insecticidal, Bio-Control, and Bioremediation Activities.
+36547202	No Roots, No Fruits: Marcel Tanner's Scholarly Contribution, Achievements in Capacity Building, and Impact in Global Health.
+36546908	Identification of Potential Antimalarial Drug Candidates Targeting Falcipain-2 Protein of Malaria Parasite-A Computational Strategy.
 36545719	Medicinal Chemistry and Target Identification of Synthetic Clinical and Advanced Preclinical Antimalarial Candidates (2000 - 2022).
 36545713	A glimpse at the Quinoline-hybridization approach for the development of new antimalarials.
 36544789	Drawings as tools to (re)imagine space in interdisciplinary global health research.
@@ -781,7 +784,7 @@
 36281461	A Comparative Study of Asymptomatic Malaria in a Forest Rural and Depleted Forest Urban Setting during a Low Malaria Transmission and COVID-19 Pandemic Period.
 36280882	Malnutrition, anaemia and anisocytosis as public health problems among children ≤ 5 years living in malaria perennial transmission areas of Mount Cameroon: a cross sectional study.
 36280646	Efficacy of Mesenchymal Stem Cells Therapy in Parasitic Infections: Are Anti-parasitic Drugs Combined with MSCs More Effective?
-36278864	CD169+ macrophages orchestrate plasmacytoid dendritic cell arrest and retention for optimal priming in the bone marrow of malaria-infected mice.
+36278864	CD169(+) macrophages orchestrate plasmacytoid dendritic cell arrest and retention for optimal priming in the bone marrow of malaria-infected mice.
 36277884	Computational Clues of Immunogenic Hotspots in Plasmodium falciparum Erythrocytic Stage Vaccine Candidate Antigens: In Silico Approach.
 36277452	Neuroanatomical basis of sexual dimorphism in the mosquito brain.
 36277353	Unveiling a family of spiro-β-lactams with anti-HIV and antiplasmodial activity via phosphine-catalyzed [3+2] annulation of 6-alkylidene-penicillanates and allenoates.
@@ -9994,6 +9997,3 @@
 33298071	Susceptibility of Anopheles gambiae from Côte d'Ivoire to insecticides used on insecticide-treated nets: evaluating the additional entomological impact of piperonyl butoxide and chlorfenapyr.
 33298011	Management of uncomplicated malaria among children under five years at public and private sector facilities in Mali.
 33297661	[Progress in research of burden of disease attributed to population ageing].
-33297567	Structural and Biochemical Features of Eimeria tenella Dihydroorotate Dehydrogenase, a Potential Drug Target.
-33296939	A Review of the Phytochemistry, Traditional Uses and Biological Activities of the Essential Oils of Genus Teucrium.
-33296723	Proteome size reduction in Apicomplexans is linked with loss of DNA repair and host redundant pathways.
