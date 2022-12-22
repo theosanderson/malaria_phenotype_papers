@@ -1,3 +1,12 @@
+36545719	Medicinal Chemistry and Target Identification of Synthetic Clinical and Advanced Preclinical Antimalarial Candidates (2000 - 2022).
+36545713	A glimpse at the Quinoline-hybridization approach for the development of new antimalarials.
+36544789	Drawings as tools to (re)imagine space in interdisciplinary global health research.
+36544758	COVID-19 vaccinology landscape in Africa.
+36544194	Malaria transmission in Nepal under climate change: anticipated shifts in extent and season, and comparison with risk definitions for intervention.
+36544088	Diversity of bacterial communities in the plasmodia of myxomycetes.
+36543288	The antimalarial artemisinin is a non-electrophilic agonist of the transient receptor potential ankyrin type 1 receptor-channel.
+36542922	Ratiometric fluorescence detection of artemisinin based on photoluminescent Zn-MOF combined with hemin as catalyst.
+36542676	Resolving drug selection and migration in an inbred South American Plasmodium falciparum population with identity-by-descent analysis.
 36542002	Clinically silent Plasmodium vivax infections in native Amazonians of northwestern Brazil: acquired immunity or low parasite virulence?
 36541793	Regulation of Mitochondrial Energy Metabolism by Glutaredoxin 5 in the Apicomplexan Parasite Neospora caninum.
 36541739	A high performance cell-phone based polarized microscope for malaria diagnosis.
@@ -9988,12 +9997,3 @@
 33297567	Structural and Biochemical Features of Eimeria tenella Dihydroorotate Dehydrogenase, a Potential Drug Target.
 33296939	A Review of the Phytochemistry, Traditional Uses and Biological Activities of the Essential Oils of Genus Teucrium.
 33296723	Proteome size reduction in Apicomplexans is linked with loss of DNA repair and host redundant pathways.
-33296386	Structures of three MORN repeat proteins and a re-evaluation of the proposed lipid-binding properties of MORN repeats.
-33296348	Epidemiological trends of malaria in the Western regions of Saudi Arabia: a cross sectional study.
-33296347	Oral melatonin improves the detection of parasitemia in malaria.
-33295837	Antiplasmodial activity of sulfonylhydrazones: in vitro and in silico approaches.
-33295621	Artemisinin resistance surveillance in African Plasmodium falciparum isolates from imported malaria cases to Italy.
-33294789	Elimination of Hepatic Rodent Plasmodium Parasites by Amino Acid Supplementation.
-33294488	One step forward, two steps back: Tensions between malaria elimination and improved malaria surveillance in the Solomon Islands.
-33294217	The Effectiveness of Varying Combination Ratios of A. cordifolia and M. indica against Field and Laboratory Strains of P. falciparum In Vitro.
-33294103	Social approaches to COVID-19 pandemic response: effectiveness and practicality in sub-Saharan Africa.
