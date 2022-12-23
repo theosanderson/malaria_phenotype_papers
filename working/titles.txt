@@ -1,3 +1,40 @@
+36562161	In vitro assessment of antiprotozoal and antimicrobial activities of fractions and isolated compounds from Pallenis hierochuntica.
+36561861	The effect of malaria on childhood anemia in a quasi-experimental study of 7,384 twins from 23 Sub-Saharan African countries.
+36561539	Malaria, HIV and Malnutrition among Internally Displaced People in Mozambique During COVID-19 Pandemic: Results from a Community-Based Intervention.
+36561069	Preparation, biological evaluation and QSAR analysis of urea substituted 2,4-diamino-pyrimidine anti-malarials.
+36560893	The approval of the first malaria vaccine: The beginning of the end of the malaria epidemic.
+36560856	Cyclospora cayetanensis comprises at least three species that cause human cyclosporiasis.
+36560662	Would Zika virus Infection in Pregnancy Be a Sentence of Poor Neurological Prognosis for Exposed Children? Neurodevelopmental Outcomes in a Cohort from Brazilian Amazon.
+36560564	Transmission Dynamics of Monkeypox Virus in Nigeria during the Current COVID-19 Pandemic and Estimation of Effective Reproduction Number.
+36559869	Polyester Nanocapsules for Intravenous Delivery of Artemether: Formulation Development, Antimalarial Efficacy, and Cardioprotective Effects In Vivo.
+36559304	Preliminary Assessment of Intramuscular Depot of Lipid-Based Decoquinate Formulation for Long-Term Chemoprophylaxis of Malaria.
+36559287	Rapid and Specific Action of Methylene Blue against Plasmodium Transmission Stages.
+36559044	Biologic Functions of Hydroxychloroquine in Disease: From COVID-19 to Cancer.
+36559004	Over 40 Years of Fosmidomycin Drug Research: A Comprehensive Review and Future Opportunities.
+36558954	New Derivatives of the Multi-Stage Active Malaria Box Compound MMV030666 and Their Antiplasmodial Potencies.
+36558863	Rational-Based Discovery of Novel β-Carboline Derivatives as Potential Antimalarials: From In Silico Identification of Novel Targets to Inhibition of Experimental Cerebral Malaria.
+36558821	Cryopreservation of Plasmodium Sporozoites.
+36558747	Detection of Schistosoma mekongi DNA in Human Stool and Intermediate Host Snail Neotricula aperta via Loop-Mediated Isothermal Amplification Assay in Lao PDR.
+36558462	Potential Benefits of Lycopene Consumption: Rationale for Using It as an Adjuvant Treatment for Malaria Patients and in Several Diseases.
+36557812	Polylactide Nanoparticles as a Biodegradable Vaccine Adjuvant: A Study on Safety, Protective Immunity and Efficacy against Human Leishmaniasis Caused by Leishmania Major.
+36557675	Protozoa-Derived Extracellular Vesicles on Intercellular Communication with Special Emphasis on Giardia lamblia.
+36557610	CD36-A Host Receptor Necessary for Malaria Parasites to Establish and Maintain Infection.
+36557262	Urinary Metabolic Profiling in Volunteers Undergoing Malaria Challenge in Gabon.
+36555254	A Deeper Insight into the Tick Salivary Protein Families under the Light of Alphafold2 and Dali: Introducing the TickSialoFam 2.0 Database.
+36555188	Host Cell Binding Mediated by Leptospira interrogans Adhesins.
+36555074	Marked Effects of Larval Salt Exposure on the Life History and Gut Microbiota of the Malaria Vector Anopheles merus (Diptera: Culicidae).
+36555042	Insecticide Resistance Profile and Mechanisms in An. gambiae s.l. from Ebolowa, South Cameroon.
+36555000	High Levels of Admixture in Anopheles gambiae Populations from Côte d'Ivoire Revealed by Multilocus Genotyping.
+36554987	Study of the Repellent Activity of 60 Essential Oils and Their Main Constituents against Aedes albopictus, and Nano-Formulation Development.
+36554986	Mosquitoes and Mosquito-Borne Diseases in Vietnam.
+36554752	Traditional Beliefs, Practices, and Migration: A Risk to Malaria Transmission in Rural Nepal.
+36553032	Molecular Method Is Essential to Identify Asymptomatic Malaria Reservoirs: A Successful Experience in the Malaria Elimination Program in Iran.
+36552996	Urine and Saliva: Relevant Specimens for Malaria Diagnosis?
+36552002	Multiplex Assay for Rapid Detection and Analysis of Nucleic Acid Using Barcode Receptor Encoded Particle (BREP).
+36551429	Cell-Penetrating Antimicrobial Peptides with Anti-Infective Activity against Intracellular Pathogens.
+36551176	Zinc in Human Health and Infectious Diseases.
+36551112	Current Status and Future Perspectives of Lactate Dehydrogenase Detection and Medical Implications: A Review.
+36550922	Analysis of epidemiological changes and elimination effects for malaria in Handan city, the north China.
 36550586	Profile and determinants of delayed care-seeking and diagnosis among patients with imported malaria: a retrospective study in China, 2014-2021.
 36550507	Loop-mediated isothermal amplification (LAMP) test in the detection of uncomplicated malaria in pregnancy: a meta-analysis of diagnostic accuracy.
 36550492	Asymptomatic malaria infection, associated factors and accuracy of diagnostic tests in a historically high transmission setting in Northern Uganda.
@@ -9960,40 +9997,3 @@
 33314493	Applicability of attractive toxic sugar baits as a mosquito vector control tool in the context of India: a review.
 33314227	Theileria secretes proteins to subvert its host leukocyte.
 33313516	Evaluating Potential Mosquito Breeding Sites on a University Campus.
-33313391	Integrating Biomaterials and Immunology to Improve Vaccines Against Infectious Diseases.
-33313015	A Patient with Severe Malaria and COVID-19: How Do You Tell the Difference between These Infections?
-33312963	The Central Role of Salivary Metalloproteases in Host Acquired Resistance to Tick Feeding.
-33312804	Plasmodium vivax Mimicking Morphologic Features of Plasmodium falciparum.
-33312768	A diverse global fungal library for drug discovery.
-33312725	Five-Year Trend Analysis of Malaria Prevalence in Dembecha Health Center, West Gojjam Zone, Northwest Ethiopia: A Retrospective Study.
-33312207	Comorbidities and Factors Associated with Mortality among Children under Five Years Admitted with Severe Acute Malnutrition in the Nutritional Unit of Jinja Regional Referral Hospital, Eastern Uganda.
-33312190	A Near-Chromosome Level Genome Assembly of Anopheles stephensi.
-33311528	Misidentification of Plasmodium ovale as Plasmodium vivax malaria by a microscopic method: a meta-analysis of confirmed P. ovale cases.
-33311461	A novel multistage antiplasmodial inhibitor targeting Plasmodium falciparum histone deacetylase 1.
-33310285	Synergistic effects of curcumin and its analogs with other bioactive compounds: A comprehensive review.
-33310105	Pharmacogenetic considerations in the treatment of co-infections with HIV/AIDS, tuberculosis and malaria in Congolese populations of Central Africa.
-33310077	Green-synthesized metal nanoparticles for mosquito control: A systematic review about their toxicity on non-target organisms.
-33309558	Merozoite surface protein 2 adsorbed onto acetalated dextran microparticles for malaria vaccination.
-33307443	Responsible modelling: Unit testing for infectious disease epidemiology.
-33307212	Metacytofilin has potent anti-malarial activity.
-33307135	Generation of Plasmodium yoelii malaria parasite for conditional degradation of proteins.
-33307050	The genus Nepeta: Traditional uses, phytochemicals and pharmacological properties.
-33306921	Tafenoquine: a toxicity overview.
-33306727	Decreasing trend of imported malaria cases but increasing influx of mixed P. falciparum and P. vivax infections in malaria-free Kuwait.
-33306671	Mapping the breeding sites of Anopheles gambiae s. l. in areas of residual malaria transmission in central western Senegal.
-33306620	Red Blood Cells Elicit Platelet-Dependent Neutrophil Recruitment Into Lung Airspaces.
-33306604	Dengue and Plasmodium falciparum Coinfection With Secondary Hemophagocytic Lymphohistiocytosis in a 3-Year-old Boy: A Clinical Conundrum.
-33306099	The Effects of A Mosquito Salivary Protein on Sporozoite Traversal of Host Cells.
-33306024	Host conservation through their parasites: molecular surveillance of vector-borne microorganisms in bats using ectoparasitic bat flies.
-33305876	Diverse cellular morphologies during lumen maturation in Anopheles gambiae larval salivary glands.
-33305021	Harnessing the energy of the corporate sector to end TB: BE health.
-33304583	Human-engineered Treg-like cells suppress FOXP3-deficient T cells but preserve adaptive immune responses in vivo.
-33304138	Identification of potential drug target in malarial disease using molecular docking analysis.
-33303633	Active site metals mediate an oligomeric equilibrium in Plasmodium M17 aminopeptidases.
-33303239	Non-hydroxamate inhibitors of 1-deoxy-d-xylulose 5-phosphate reductoisomerase (DXR): A critical review and future perspective.
-33303025	Relative contributions of various endogenous and exogenous factors to the mosquito microbiota.
-33302700	In Vitro and In Vivo Antimalarial Activities and Toxicological Assessment of Pogostemon Cablin (Blanco) Benth.
-33302479	Spontaneous Pathologic Splenic Rupture in a Patient with Plasmodium falciparum Infection, First Case Reported in Israel.
-33301999	In vitro activity of eravacycline, a novel synthetic halogenated tetracycline, against the malaria parasite Plasmodium falciparum.
-33301919	The genus Schefflera: A review of traditional uses, phytochemistry and pharmacology.
-33301916	Specialized antiplasmodial secondary metabolites from Aspergillus niger 58, an endophytic fungus from Terminalia catappa.
