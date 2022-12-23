@@ -1,3 +1,14 @@
+36548842	Effect of Breeding Season on Haemosporidian Infections in Domestic Chickens.
+36548697	Different In Vitro Drug Susceptibility Profile of Plasmodium falciparum Isolates from Two Adjacent Areas of Northeast Myanmar and Molecular Markers for Drug Resistance.
+36548695	Diagnostic Performance of Plasmodium falciparum Histidine-Rich Protein-2 Antigen-Specific Rapid Diagnostic Test in Children at the Peripheral Health Care Level in Nanoro (Burkina Faso).
+36548677	Systematic Review of Mixed Studies on Malaria in Pregnancy: Individual, Cultural and Socioeconomic Determinants of Its Treatment and Prevention.
+36548672	Antiplasmodial Properties of Aqueous and Ethanolic Extracts of Ten Herbal Traditional Recipes Used in Thailand against Plasmodium falciparum.
+36548671	Evaluation of Chiral Organosulfur Compounds on Their Activity against the Malaria Parasite Plasmodium falciparum.
+36548667	Genetic Diversity, Haplotype Relationships, and kdr Mutation of Malaria Anopheles Vectors in the Most Plasmodium knowlesi-Endemic Area of Thailand.
+36548661	Disseminated Human Subarachnoid Coenurosis.
+36548653	A Systematic Review of Applications of Machine Learning and Other Soft Computing Techniques for the Diagnosis of Tropical Diseases.
+36548650	Phytochemical, Antimalarial, and Acute Oral Toxicity Properties of Selected Crude Extracts of Prabchompoothaweep Remedy in Plasmodium berghei-Infected Mice.
+36548245	Epitranscriptomics in parasitic protists: Role of RNA chemical modifications in posttranscriptional gene regulation.
 36547621	Lysinibacilli: A Biological Factories Intended for Bio-Insecticidal, Bio-Control, and Bioremediation Activities.
 36547202	No Roots, No Fruits: Marcel Tanner's Scholarly Contribution, Achievements in Capacity Building, and Impact in Global Health.
 36546908	Identification of Potential Antimalarial Drug Candidates Targeting Falcipain-2 Protein of Malaria Parasite-A Computational Strategy.
@@ -9986,14 +9997,3 @@
 33301474	The transcriptomic profiling of SARS-CoV-2 compared to SARS, MERS, EBOV, and H1N1.
 33299990	Repurposing the Ebola and Marburg Virus Inhibitors Tilorone, Quinacrine and Pyronaridine: In vitro Activity Against SARS-CoV-2 and Potential Mechanisms.
 33299771	Cardiovascular Findings in Severe Malaria: A Review.
-33299426	The Effectiveness of the Revised Intermittent Preventive Treatment with Sulphadoxine Pyrimethamine (IPTp-SP) in the Prevention of Malaria among Pregnant Women in Northern Ghana.
-33299425	Optimizing the Intensive Care Treatment of Severe and Complicated Plasmodium falciparum Malaria in Nonimmune Patients.
-33298984	Enhancing malaria control using Lagenaria siceraria and its mediated zinc oxide nanoparticles against the vector Anopheles stephensi and its parasite Plasmodium falciparum.
-33298967	Malaria vaccine research & innovation: the intersection of IA2030 and zero malaria.
-33298881	Mesenchymal stem cells protect against malaria pathogenesis by reprogramming erythropoiesis in the bone marrow.
-33298524	Volatile allosteric antagonists of mosquito odorant receptors inhibit human-host attraction.
-33298142	Disruption of Plasmodium falciparum histidine-rich protein 2 may affect haem metabolism in the blood stage.
-33298080	Asymptomatic recrudescence after artemether-lumefantrine treatment for uncomplicated falciparum malaria: a systematic review and meta-analysis.
-33298071	Susceptibility of Anopheles gambiae from Côte d'Ivoire to insecticides used on insecticide-treated nets: evaluating the additional entomological impact of piperonyl butoxide and chlorfenapyr.
-33298011	Management of uncomplicated malaria among children under five years at public and private sector facilities in Mali.
-33297661	[Progress in research of burden of disease attributed to population ageing].
