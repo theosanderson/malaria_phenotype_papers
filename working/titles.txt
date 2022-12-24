@@ -1,3 +1,4 @@
+36563075	[Discovering uncommon nephropathies: a case of acute kidney damage from malaria].
 36562445	When Knowledge Is Not Enough: Applying a Behavioral Design Approach to Improve Fever Case Management in Nigeria.
 36562161	In vitro assessment of antiprotozoal and antimicrobial activities of fractions and isolated compounds from Pallenis hierochuntica.
 36561861	The effect of malaria on childhood anemia in a quasi-experimental study of 7,384 twins from 23 Sub-Saharan African countries.
@@ -9996,4 +9997,3 @@
 33316200	A Review on Emerging Infectious Diseases Prioritized Under the 2018 WHO Research and Development Blueprint: Lessons from the Indian Context.
 33315861	Population genomics of Plasmodium vivax in Panama to assess the risk of case importation on malaria elimination.
 33314493	Applicability of attractive toxic sugar baits as a mosquito vector control tool in the context of India: a review.
-33314227	Theileria secretes proteins to subvert its host leukocyte.
