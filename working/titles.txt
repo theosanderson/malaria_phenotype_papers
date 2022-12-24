@@ -1,3 +1,9 @@
+36564750	Transcriptional profiling of hepatocytes infected with the replicative form of the malaria parasite Plasmodium cynomolgi.
+36564617	A molecular barcode and web-based data analysis tool to identify imported Plasmodium vivax malaria.
+36564249	Finding optimal drug target sites in parasite pathogens.
+36563914	Pyrazole and pyrazoline derivatives as antimalarial agents: A key review.
+36563699	Cost-effectiveness of voluntary medical male circumcision for HIV prevention across sub-Saharan Africa: results from five independent models.
+36563485	New insights into apicoplast metabolism in blood-stage malaria parasites.
 36563075	[Discovering uncommon nephropathies: a case of acute kidney damage from malaria].
 36562445	When Knowledge Is Not Enough: Applying a Behavioral Design Approach to Improve Fever Case Management in Nigeria.
 36562161	In vitro assessment of antiprotozoal and antimicrobial activities of fractions and isolated compounds from Pallenis hierochuntica.
@@ -9991,9 +9997,3 @@
 33317454	Asymptomatic malaria and hepatitis B do not influence cytokine responses of persons involved in chronic sedentary activities.
 33316929	BCG Provides Short-Term Protection from Experimental Cerebral Malaria in Mice.
 35211191	Can we use local climate zones for predicting malaria prevalence across sub-Saharan African cities?
-33316545	Revisiting the mode of action of the antimalarial proguanil using the yeast model.
-33316544	The molecular basis for peptide-based antimalarial vaccine development targeting erythrocyte invasion by P. falciparum.
-33316430	Association of variants in IL1B, TLR9, TREM1, IL10RA, and CD3G and Native American ancestry on malaria susceptibility in Colombian populations.
-33316200	A Review on Emerging Infectious Diseases Prioritized Under the 2018 WHO Research and Development Blueprint: Lessons from the Indian Context.
-33315861	Population genomics of Plasmodium vivax in Panama to assess the risk of case importation on malaria elimination.
-33314493	Applicability of attractive toxic sugar baits as a mosquito vector control tool in the context of India: a review.
