@@ -1,3 +1,4 @@
+36564967	AaMYB108 is the core factor integrating light and jasmonic acid signaling to regulate artemisinin biosynthesis in Artemisia annua.
 36564750	Transcriptional profiling of hepatocytes infected with the replicative form of the malaria parasite Plasmodium cynomolgi.
 36564617	A molecular barcode and web-based data analysis tool to identify imported Plasmodium vivax malaria.
 36564249	Finding optimal drug target sites in parasite pathogens.
@@ -9996,4 +9997,3 @@
 33317487	Spatial-temporal patterns of malaria incidence in Uganda using HMIS data from 2015 to 2019.
 33317454	Asymptomatic malaria and hepatitis B do not influence cytokine responses of persons involved in chronic sedentary activities.
 33316929	BCG Provides Short-Term Protection from Experimental Cerebral Malaria in Mice.
-35211191	Can we use local climate zones for predicting malaria prevalence across sub-Saharan African cities?
