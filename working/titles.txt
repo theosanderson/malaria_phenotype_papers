@@ -1,3 +1,10 @@
+36570405	The RTS,S malaria vaccine: Journey from conception to recommendation.
+36570225	Selective Partition of Lipopeptides from Fermentation Broth: A Green and Sustainable Approach.
+36569929	Parasite infections, neuroinflammation, and potential contributions of gut microbiota.
+36569519	Genetic Diversity of Merozoite Surface Protein-1 and -2 Genes in Plasmodium falciparum Isolates among Asymptomatic Population in Boset and Badewacho Districts, Southern Ethiopia.
+36569122	Pregnancy outcomes in a malaria-exposed Malian cohort of women of child-bearing age.
+36567946	The malaria parasite chaperonin containing TCP-1 (CCT) complex: Data integration with other CCT proteomes.
+36567678	ROENet: A ResNet-Based Output Ensemble for Malaria Parasite Classification.
 36567357	Effects of computerized decision support on maternal and neonatal health-worker performance in the context of combined implementation with performance-based incentivisation in Upper East Region, Ghana: a qualitative study of professional perspectives.
 36567188	Delineating Plasmodium liver infection across space and time.
 36566237	Chronic Toxoplasma gondii infection contributes to perineuronal nets impairment in the primary somatosensory cortex.
@@ -57,6 +64,7 @@
 36550492	Asymptomatic malaria infection, associated factors and accuracy of diagnostic tests in a historically high transmission setting in Northern Uganda.
 36550362	Plasmodium infection is associated with cross-reactive antibodies to carbohydrate epitopes on the SARS-CoV-2 Spike protein.
 36550139	Laboratory and semi-field efficacy evaluation of permethrin-piperonyl butoxide treated blankets against pyrethroid-resistant malaria vectors.
+36549323	WHO antimalarial strategy for Africa.
 36549312	The wrongful indictment of pre-referral rectal artesunate further delays the roll-out of this lifesaving drug.
 36549311	Pre-referral rectal artesunate: no cure for unhealthy systems.
 36548842	Effect of Breeding Season on Haemosporidian Infections in Domestic Chickens.
@@ -6383,6 +6391,7 @@
 34466115	Association of blood groups with hepatitis C viremia.
 34465566	Malaria: Combining vaccine with prophylaxis cuts child deaths by 73%, study finds.
 34465327	Effect of a single dose of oral azithromycin on malaria parasitaemia in children: a randomized controlled trial.
+36570383	The COVID-19 crisis and Amazonia's indigenous people: Implications for conservation and global health.
 34464757	Imported malaria in metropolitan France, from recommendations to clinical practice - proposal for improvement.
 34464699	Methanol extract from the seeds of Persea americana displays antibacterial and wound healing activities in rat model.
 34464588	A brief history of selected malaria vaccine and medical interventions pursued by the Swiss Tropical and Public Health Institute and partners, 1943-2021.
@@ -9988,12 +9997,3 @@
 33320907	Emergence of artemisinin-resistant Plasmodium falciparum with kelch13 C580Y mutations on the island of New Guinea.
 33320458	Practical Guide for the Prescription of Malaria Chemoprophylaxis for the Primary Care Physician.
 33319990	New Amidated 3,6-Diphenylated Imidazopyridazines with Potent Antiplasmodium Activity Are Dual Inhibitors of Plasmodium Phosphatidylinositol-4-kinase and cGMP-Dependent Protein Kinase.
-33319823	Mating-regulated atrial proteases control reinsemination rates in Anopheles gambiae females.
-33319732	Erythrocyte Binding Activity of PkDBPαII of Plasmodium knowlesi Isolated from High and Low Parasitemia Cases.
-33319728	Case Report: The First Case of Genotypically Confirmed Plasmodium falciparum Kelch 13 Propeller Mutation in Sri Lanka and Its Implications on the Elimination Status of Malaria.
-33319726	Diarrhea in Children with Plasmodium falciparum Malaria: A Case-Control Study on the Prevalence and Response to Antimalarial Treatment.
-33319670	Current Pharmaceutical Aspects of Synthetic Quinoline Derivatives.
-33319225	Competing interests, clashing ideas and institutionalizing influence: insights into the political economy of malaria control from seven African countries.
-33319211	Development and validation of antisnake venom knowledge assessment tool (AKAT) for healthcare practitioners.
-33318979	Data on antiplasmodial and stage-specific inhibitory effects of Aromatic (Ar)-Turmerone against Plasmodium falciparum 3D7.
-33318901	Injuries and their related household costs in a tertiary hospital in Ghana.
