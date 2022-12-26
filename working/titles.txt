@@ -1,3 +1,5 @@
+36567357	Effects of computerized decision support on maternal and neonatal health-worker performance in the context of combined implementation with performance-based incentivisation in Upper East Region, Ghana: a qualitative study of professional perspectives.
+36567188	Delineating Plasmodium liver infection across space and time.
 36566237	Chronic Toxoplasma gondii infection contributes to perineuronal nets impairment in the primary somatosensory cortex.
 36566182	Molecular surveillance of anti-malarial drug resistance genes in Plasmodium falciparum isolates in Odisha, India.
 36565705	Health system readiness and the implementation of rectal artesunate for severe malaria in sub-Saharan Africa: an analysis of real-world costs and constraints.
@@ -9995,5 +9997,3 @@
 33319211	Development and validation of antisnake venom knowledge assessment tool (AKAT) for healthcare practitioners.
 33318979	Data on antiplasmodial and stage-specific inhibitory effects of Aromatic (Ar)-Turmerone against Plasmodium falciparum 3D7.
 33318901	Injuries and their related household costs in a tertiary hospital in Ghana.
-33318019	Screening and Identification of Metacaspase Inhibitors: Evaluation of Inhibition Mechanism and Trypanocidal Activity.
-33317640	COVID-19 knowledge, beliefs, prevention behaviours and misinformation in the context of an adapted seasonal malaria chemoprevention campaign in six northern Nigerian States.
