@@ -1,3 +1,6 @@
+36572943	Behavioral interactions of bed bugs with long-lasting pyrethroid-treated bed nets: challenges for vector control.
+36572746	Multi-centre discriminating concentration determination of broflanilide and potential for cross-resistance to other public health insecticides in Anopheles vector populations.
+36572055	Detection of positive selection acting on protein surfaces at the whole-genome scale in the human malaria parasite Plasmodium falciparum.
 36570405	The RTS,S malaria vaccine: Journey from conception to recommendation.
 36570225	Selective Partition of Lipopeptides from Fermentation Broth: A Green and Sustainable Approach.
 36569929	Parasite infections, neuroinflammation, and potential contributions of gut microbiota.
@@ -9994,6 +9997,3 @@
 33321516	Brain Magnetic Resonance Imaging Reveals Different Courses of Disease in Pediatric and Adult Cerebral Malaria.
 33321515	Adults Are Not Big Children: What Brain Magnetic Resonance Imaging Findings Tell Us About Differences in Pediatric and Adult Cerebral Malaria.
 33321150	Eugenol disrupts Plasmodium falciparum intracellular development during the erythrocytic cycle and protects against cerebral malaria.
-33320907	Emergence of artemisinin-resistant Plasmodium falciparum with kelch13 C580Y mutations on the island of New Guinea.
-33320458	Practical Guide for the Prescription of Malaria Chemoprophylaxis for the Primary Care Physician.
-33319990	New Amidated 3,6-Diphenylated Imidazopyridazines with Potent Antiplasmodium Activity Are Dual Inhibitors of Plasmodium Phosphatidylinositol-4-kinase and cGMP-Dependent Protein Kinase.
