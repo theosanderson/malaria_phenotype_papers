@@ -1,3 +1,6 @@
+36573693	Repurposing antimalarial artesunate for the prophylactic treatment of depression: Evidence from preclinical research.
+36573593	Plasmodium falciparum pfhrp2 and pfhrp3 Gene Deletions in Malaria-Hyperendemic Region, South Sudan.
+36573521	Molecular Tools for Early Detection of Invasive Malaria Vector Anopheles stephensi Mosquitoes.
 36572943	Behavioral interactions of bed bugs with long-lasting pyrethroid-treated bed nets: challenges for vector control.
 36572746	Multi-centre discriminating concentration determination of broflanilide and potential for cross-resistance to other public health insecticides in Anopheles vector populations.
 36572055	Detection of positive selection acting on protein surfaces at the whole-genome scale in the human malaria parasite Plasmodium falciparum.
@@ -9994,6 +9997,3 @@
 33322524	Influence of a Major Mountainous Landscape Barrier (Mount Cameroon) on the Spread of Metabolic (GSTe2) and Target-Site (Rdl) Resistance Alleles in the African Malaria Vector Anopheles funestus.
 33322414	Spatial and Temporal Analysis of Plasmodium knowlesi Infection in Peninsular Malaysia, 2011 to 2018.
 33321891	Effect of Lambdacyhalothrin on Locomotor Activity, Memory, Selected Biochemical Parameters, Tumor Necrosis Factor α, and Interleukin 1ß in a Mouse Model.
-33321516	Brain Magnetic Resonance Imaging Reveals Different Courses of Disease in Pediatric and Adult Cerebral Malaria.
-33321515	Adults Are Not Big Children: What Brain Magnetic Resonance Imaging Findings Tell Us About Differences in Pediatric and Adult Cerebral Malaria.
-33321150	Eugenol disrupts Plasmodium falciparum intracellular development during the erythrocytic cycle and protects against cerebral malaria.
