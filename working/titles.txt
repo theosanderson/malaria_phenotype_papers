@@ -1,3 +1,4 @@
+36575544	Mass screening and treatment (MSaT) for identifying and treating asymptomatic cases of malaria-malaria elimination demonstration project (MEDP), Mandla, Madhya Pradesh.
 36573693	Repurposing antimalarial artesunate for the prophylactic treatment of depression: Evidence from preclinical research.
 36573593	Plasmodium falciparum pfhrp2 and pfhrp3 Gene Deletions in Malaria-Hyperendemic Region, South Sudan.
 36573521	Molecular Tools for Early Detection of Invasive Malaria Vector Anopheles stephensi Mosquitoes.
@@ -9996,4 +9997,3 @@
 33323652	Comparison of the levels of some hemostatic and inflammatory markers between tuberculosis patients with and without malaria at pretreatment, intensive, and continuation phase treatment.
 33322524	Influence of a Major Mountainous Landscape Barrier (Mount Cameroon) on the Spread of Metabolic (GSTe2) and Target-Site (Rdl) Resistance Alleles in the African Malaria Vector Anopheles funestus.
 33322414	Spatial and Temporal Analysis of Plasmodium knowlesi Infection in Peninsular Malaysia, 2011 to 2018.
-33321891	Effect of Lambdacyhalothrin on Locomotor Activity, Memory, Selected Biochemical Parameters, Tumor Necrosis Factor α, and Interleukin 1ß in a Mouse Model.
