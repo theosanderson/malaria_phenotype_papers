@@ -129,6 +129,7 @@
 36530422	Targeting malaria parasites with novel derivatives of azithromycin.
 36529768	Mapping age- and sex-specific HIV prevalence in adults in sub-Saharan Africa, 2000-2018.
 36529451	Sex-biased, but not plumage color-based, prevalence of haemosporidian parasites in free-range chickens.
+30000209	Hydroxychloroquine.
 36528584	Dinuclear and mononuclear metal(II) polypyridyl complexes against drug-sensitive and drug-resistant Plasmodium falciparum and their mode of action.
 36528569	Ideational factors and their association with insecticide treated net use in Magoe District, Mozambique.
 36528397	Engineering yeast for industrial-level production of the antimalarial drug artemisinin.
@@ -397,7 +398,6 @@
 36443817	Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia.
 36443751	Human behaviour directs household-level exposure to malaria vectors in Bandarban, Bangladesh.
 33760465	Sickle Cell Anemia (Nursing).
-30000209	Hydroxychloroquine.
 36443434	Population genomics reveal distinct and diverging populations of An. minimus in Cambodia.
 36442488	Pregnancy outcomes after first-trimester treatment with artemisinin derivatives versus non-artemisinin antimalarials: a systematic review and individual patient data meta-analysis.
 36442486	First-trimester use of ACTs for malaria treatment in pregnancy.
