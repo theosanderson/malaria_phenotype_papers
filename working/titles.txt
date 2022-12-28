@@ -1,3 +1,4 @@
+36575768	Optimal control of a two-group malaria transmission model with vaccination.
 36575544	Mass screening and treatment (MSaT) for identifying and treating asymptomatic cases of malaria-malaria elimination demonstration project (MEDP), Mandla, Madhya Pradesh.
 36573693	Repurposing antimalarial artesunate for the prophylactic treatment of depression: Evidence from preclinical research.
 36573593	Plasmodium falciparum pfhrp2 and pfhrp3 Gene Deletions in Malaria-Hyperendemic Region, South Sudan.
@@ -259,7 +260,6 @@
 36483989	Malaria Elimination in China and Sustainability Concerns in the Post-elimination Stage.
 36483471	Smart triage: Development of a rapid pediatric triage algorithm for use in low-and-middle income countries.
 36483323	Malaria an opportunistic infection in HIV/AIDS patients? - A Nigerian experience.
-36482971	Plasma after both SARS-CoV-2 boosted vaccination and COVID-19 potently neutralizes BQ.1.1 and XBB.1.
 36482962	The history of Gin and Tonic; the infectious disease specialist long drink. When gin and tonic was not ordered but prescribed.
 36482473	Profiling genome-wide recombination in Epstein Barr virus reveals type-specific patterns and associations with endemic-Burkitt lymphoma.
 36480787	Corrigendum: Drug-Derived Surface-Active Ionic Liquids: A Cost-Effective Way To Expressively Increase the Blood-Stage Antimalarial Activity of Primaquine.
