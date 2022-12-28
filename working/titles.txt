@@ -1,3 +1,5 @@
+36576255	A choline-releasing glycerophosphodiesterase essential for phosphatidylcholine biosynthesis and blood stage development in the malaria parasite.
+36576067	Antiplasmodial and antimicrobial activities of ent-abietane diterpenoids from the roots of Suregada zanzibariensis.
 36575768	Optimal control of a two-group malaria transmission model with vaccination.
 36575544	Mass screening and treatment (MSaT) for identifying and treating asymptomatic cases of malaria-malaria elimination demonstration project (MEDP), Mandla, Madhya Pradesh.
 36573693	Repurposing antimalarial artesunate for the prophylactic treatment of depression: Evidence from preclinical research.
@@ -33,6 +35,7 @@
 36562161	In vitro assessment of antiprotozoal and antimicrobial activities of fractions and isolated compounds from Pallenis hierochuntica.
 36561861	The effect of malaria on childhood anemia in a quasi-experimental study of 7,384 twins from 23 Sub-Saharan African countries.
 36561539	Malaria, HIV and Malnutrition among Internally Displaced People in Mozambique During COVID-19 Pandemic: Results from a Community-Based Intervention.
+36561181	COVID-19 Convalescent Plasma Outpatient Therapy to Prevent Outpatient Hospitalization: A Meta-analysis of Individual Participant Data From Five Randomized Trials.
 36561069	Preparation, biological evaluation and QSAR analysis of urea substituted 2,4-diamino-pyrimidine anti-malarials.
 36560893	The approval of the first malaria vaccine: The beginning of the end of the malaria epidemic.
 36560856	Cyclospora cayetanensis comprises at least three species that cause human cyclosporiasis.
@@ -1552,7 +1555,7 @@
 36041654	Non-covalent acetylcholinesterase inhibitors: In vitro screening and molecular modeling for novel selective insecticides.
 36041492	Comparative Assessment of Diagnostic Performance of Cytochrome Oxidase Multiplex PCR and 18S rRNA Nested PCR.
 36041490	An Evaluation of a New Quantitative Point-of Care Diagnostic to Measure Glucose-6-phosphate Dehydrogenase Activity.
-36041049	Balamuthia mandrillaris granulomatous amoebic encephalitis: The first African experience.
+36041049	Balamuthia mandrillaris Granulomatous Amoebic Encephalitis: The First African Experience.
 36040906	The impact of COVID-19 pandemic on invasive fungal infections in Africa: What have we learned?
 36040476	Tumor Distribution by Quantitative Mass Spectrometry Imaging of the Inhibitor of Apoptosis Protein Antagonist Xevinapant in Patients with Resectable Squamous Cell Carcinoma of the Head and Neck (EudraCT Number: 2014-004655-31).
 36040283	What were the historical reasons for the resistance to recognizing airborne transmission during the COVID-19 pandemic?
@@ -9994,6 +9997,3 @@
 33324683	Controlled Human Malaria Infection Induces Long-Term Functional Changes in Monocytes.
 33324580	Plasmodium falciparum DHFR and DHPS Mutations Are Associated With HIV-1 Co-Infection and a Novel DHPS Mutation I504T Is Identified in Western Kenya.
 33324077	Trends of Malaria Morbidity and Mortality from 2010 to 2017 in Bale Zone, Ethiopia: Analysis of Surveillance Data.
-33323652	Comparison of the levels of some hemostatic and inflammatory markers between tuberculosis patients with and without malaria at pretreatment, intensive, and continuation phase treatment.
-33322524	Influence of a Major Mountainous Landscape Barrier (Mount Cameroon) on the Spread of Metabolic (GSTe2) and Target-Site (Rdl) Resistance Alleles in the African Malaria Vector Anopheles funestus.
-33322414	Spatial and Temporal Analysis of Plasmodium knowlesi Infection in Peninsular Malaysia, 2011 to 2018.
