@@ -1,3 +1,8 @@
+36578071	Factors associated with prolonged hospitalization of patients with corona virus disease (COVID-19) in Uganda: a retrospective cohort study.
+36577996	Malaria in Angola: recent progress, challenges and future opportunities using parasite demography studies.
+36577975	Education and Socio-economic status are key factors influencing use of insecticides and malaria knowledge in rural farmers in Southern Côte d'Ivoire.
+36577968	Impact of Malakit intervention on perceptions, knowledge, attitudes, and practices related to malaria among workers in clandestine gold mines in French Guiana: results of multicentric cross-sectional surveys over time.
+36577674	Impact d’une consultation de médecine des voyages sur les attitudes et les pratiques des voyageurs.
 36577076	The direct binding of Plasmodium vivax AMA1 to erythrocytes defines a RON2-independent invasion pathway.
 36576255	A choline-releasing glycerophosphodiesterase essential for phosphatidylcholine biosynthesis and blood stage development in the malaria parasite.
 36576067	Antiplasmodial and antimicrobial activities of ent-abietane diterpenoids from the roots of Suregada zanzibariensis.
@@ -9992,8 +9997,3 @@
 33325203	[Epidemic situation of malaria in Lishui City from 2013 to 2018].
 33325200	[Re-examination of malaria diagnosis in Hubei Provincial Malaria Diagnostic Reference Laboratory from 2017 to 2019].
 33325199	[Quality of malaria blood smears from fever patients in Zibo City, Shandong Province from 2011 to 2018].
-33325196	[Analysis of drug - resistant gene polymorphisms in Plasmodium falciparum imported from Equatorial Guinea to Shandong Province in 2015 and 2016].
-33325190	[Immune characteristics of Plasmodium reinfections in mice following chloroquine cure of primary Plasmodium infections].
-33325045	Investigation of dengue-malaria coinfection among febrile patients consulting at Ngaoundere Regional Hospital, Cameroon.
-33324683	Controlled Human Malaria Infection Induces Long-Term Functional Changes in Monocytes.
-33324580	Plasmodium falciparum DHFR and DHPS Mutations Are Associated With HIV-1 Co-Infection and a Novel DHPS Mutation I504T Is Identified in Western Kenya.
