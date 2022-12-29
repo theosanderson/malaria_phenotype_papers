@@ -1,3 +1,4 @@
+36577076	The direct binding of Plasmodium vivax AMA1 to erythrocytes defines a RON2-independent invasion pathway.
 36576255	A choline-releasing glycerophosphodiesterase essential for phosphatidylcholine biosynthesis and blood stage development in the malaria parasite.
 36576067	Antiplasmodial and antimicrobial activities of ent-abietane diterpenoids from the roots of Suregada zanzibariensis.
 36575768	Optimal control of a two-group malaria transmission model with vaccination.
@@ -9996,4 +9997,3 @@
 33325045	Investigation of dengue-malaria coinfection among febrile patients consulting at Ngaoundere Regional Hospital, Cameroon.
 33324683	Controlled Human Malaria Infection Induces Long-Term Functional Changes in Monocytes.
 33324580	Plasmodium falciparum DHFR and DHPS Mutations Are Associated With HIV-1 Co-Infection and a Novel DHPS Mutation I504T Is Identified in Western Kenya.
-33324077	Trends of Malaria Morbidity and Mortality from 2010 to 2017 in Bale Zone, Ethiopia: Analysis of Surveillance Data.
