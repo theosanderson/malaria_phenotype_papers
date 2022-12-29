@@ -1,3 +1,13 @@
+36579677	Effects of HIV infection and/or malaria on maternal and neonatal health in a high-prevalence setting.
+36579417	Assembling a global database of child pneumonia studies to inform WHO pneumonia management algorithm: Methodology and applications.
+36579244	Zebras in the Era of COVID.
+36579133	Ring-stage growth arrest: Metabolic basis of artemisinin tolerance in Plasmodium falciparum.
+36579069	Prevalence of SARS-CoV-2 and co-infection with malaria during the first wave of the pandemic (the Burkina Faso case).
+36578806	Understanding the role of serological and clinical data on assessing the dynamic of malaria transmission: a case study of Bagamoyo district, Tanzania.
+36578717	Reticulated Erythema and Urticaria: Rare Cutaneous Manifestations During Malaria.
+36578426	Malaria vector feeding, peak biting time and resting place preference behaviors in line with Indoor based intervention tools and its implication: scenario from selected sentinel sites of Ethiopia.
+36578416	Antimalarial activity of the hydroalcoholic crude extract and solvent fractions of Commelina latifolia Hochst. ex C.B.Clarke (Commelinaceae) leaves against Plasmodium berghei in mice.
+36578237	[A CASE OF MALARIA IN A CHILD RETURNING FROM ETHIOPIA].
 36578071	Factors associated with prolonged hospitalization of patients with corona virus disease (COVID-19) in Uganda: a retrospective cohort study.
 36577996	Malaria in Angola: recent progress, challenges and future opportunities using parasite demography studies.
 36577975	Education and Socio-economic status are key factors influencing use of insecticides and malaria knowledge in rural farmers in Southern Côte d'Ivoire.
@@ -6003,6 +6013,10 @@
 34589185	CDPKs: The critical decoders of calcium signal at various stages of malaria parasite development.
 34588369	Genetic Diversity of Plasmodium vivax Merozoite Surface Protein-3 Alpha and Beta from Diverse Geographic Areas of Thailand.
 34587958	The efficacy of insecticide-treated window screens and eaves against Anopheles mosquitoes: a scoping review.
+36579001	Preparation of a Nanoemulsion of Essential Oil of Acroptilon repens Plant and Evaluation of Its Larvicidal Activity agianst Malaria Vector, Anopheles stephensi.
+36578997	Predicting the Potential Distribution of Major Malaria Vectors Based on Climate Changes in Sistan and Baluchistan Province, Southeastern Iran.
+36578996	Insecticide Resistance Status of Malaria Vectors in a Malarious Area, Southeast of Iran.
+36578994	A Comprehensive Database and Geographical Distribution Model of Vectors and Vector Borne Diseases in Ardabil Province, Borderline of Iran and Azerbaijan Republic 2001-2018.
 34587315	Impact of hookworm infection and preventive chemotherapy on haemoglobin in non-pregnant populations.
 34587292	Proximity-dependent biotinylation approaches to study apicomplexan biology.
 34587210	What do malaria program officers want to learn? A survey of perspectives on a proposed malaria short course in Nigeria.
@@ -9983,17 +9997,3 @@
 33329568	A Conserved TCRβ Signature Dominates a Highly Polyclonal T-Cell Expansion During the Acute Phase of a Murine Malaria Infection.
 33329563	Hepatic Inflammation Confers Protective Immunity Against Liver Stages of Malaria Parasite.
 33329025	Molecular and Functional Characterization of Trehalase in the Mosquito Anopheles stephensi.
-33328606	Characterization of the erythrocyte GTPase Rac1 in relation to Plasmodium falciparum invasion.
-33327914	Dihydroartemisinin Ameliorates Decreased Neuroplasticity-Associated Proteins and Excessive Neuronal Apoptosis in APP/PS1 Mice.
-33327013	[Behavioural Changes Caused by Parasites: The Parasite Manipulation Hypothesis].
-33326872	Diversity and expression of Plasmodium falciparum var gene in severe and mild malaria cases from Central India.
-33326820	Current investigations on clinical pharmacology and therapeutics of Glucose-6-phosphate dehydrogenase deficiency.
-33326773	Gut Microbiota Composition Modulates the Magnitude and Quality of Germinal Centers during Plasmodium Infections.
-33326705	Retrospective Analysis Using Pharmacokinetic/Pharmacodynamic Modeling and Simulation Offers Improvements in Efficiency of the Design of Volunteer Infection Studies for Antimalarial Drug Development.
-33326439	Multi-locus genotyping reveals established endemicity of a geographically distinct Plasmodium vivax population in Mauritania, West Africa.
-33325748	High-throughput genotyping assays for identification of glycophorin B deletion variants in population studies.
-33325564	Mycobacterial and Plasmodium ovale-associated destruction of the jaw bones.
-33325206	[Progress of researches on the interaction between parasitic infections and host cell autophagy].
-33325203	[Epidemic situation of malaria in Lishui City from 2013 to 2018].
-33325200	[Re-examination of malaria diagnosis in Hubei Provincial Malaria Diagnostic Reference Laboratory from 2017 to 2019].
-33325199	[Quality of malaria blood smears from fever patients in Zibo City, Shandong Province from 2011 to 2018].
