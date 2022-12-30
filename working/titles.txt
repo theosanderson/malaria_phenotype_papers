@@ -1,3 +1,9 @@
+36583107	Genomic characterization of Plasmodium falciparum genes associated with anti-folate drug resistance and treatment outcomes in eastern India: A molecular surveillance study from 2008 to 2017.
+36582746	The malaria transmission in Anhui province China.
+36582528	Viral delivery of a peptide-based immunomodulator enhances T cell priming during vaccination.
+36582240	Application of B cell immortalization for the isolation of antibodies and B cell clones from vaccine and infection settings.
+36582189	Combining IP(3) affinity chromatography and bioinformatics reveals a novel protein-IP(3) binding site on Plasmodium falciparum MDR1 transporter.
+36582061	The Role of Flavanones as Scaffolds for the Development of New Treatments against Malaria and African and American Trypanosomiases.
 36581863	Determinants of utilization of malaria preventive measures during pregnancy among women aged 15 to 49 years in Kenya: an analysis of the Malaria Indicator Survey 2020.
 36579677	Effects of HIV infection and/or malaria on maternal and neonatal health in a high-prevalence setting.
 36579417	Assembling a global database of child pneumonia studies to inform WHO pneumonia management algorithm: Methodology and applications.
@@ -9991,9 +9997,3 @@
 33332459	Acquisition and decay of IgM and IgG responses to merozoite antigens after Plasmodium falciparum malaria in Ghanaian children.
 33332415	Delimiting cryptic morphological variation among human malaria vector species using convolutional neural networks.
 33332286	Enhancing durability of CIS43 monoclonal antibody by Fc mutation or AAV delivery for malaria prevention.
-33331519	The hidden Plasmodium malariae in blood donors: a risk coming from areas of low transmission of malaria.
-33331506	Assessment of compliance with malaria treatment monitoring and cure verification activities.
-33330947	The immunomodulatory potential of the arylmethylaminosteroid sc1o.
-33330549	Does Malaria Cause Diarrhoea? A Systematic Review.
-33329868	A Case of Severe Falciparum Malaria in a Returned Traveler.
-33329568	A Conserved TCRβ Signature Dominates a Highly Polyclonal T-Cell Expansion During the Acute Phase of a Murine Malaria Infection.
