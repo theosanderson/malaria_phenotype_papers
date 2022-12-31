@@ -1,3 +1,5 @@
+36584334	Molecular Detection and Phylogenetic Analysis of Avian Haemosporidian Parasites in House Sparrows (Passer domesticus) of Western Iran.
+36584122	Measures of malaria transmission, infection, and disease in an area bordering two districts with and without sustained indoor residual spraying of insecticide in Uganda.
 36583107	Genomic characterization of Plasmodium falciparum genes associated with anti-folate drug resistance and treatment outcomes in eastern India: A molecular surveillance study from 2008 to 2017.
 36582746	The malaria transmission in Anhui province China.
 36582528	Viral delivery of a peptide-based immunomodulator enhances T cell priming during vaccination.
@@ -323,7 +325,7 @@
 36472340	TNF-α promoter variant (G-308A) is associated with susceptibility to P. falciparum infection and severe malaria: a meta-analysis and trial sequential analysis.
 36472067	The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis.
 36472022	[Research progress in chemical constituents, pharmacological activity, and quality markers of Bruceae Fructus].
-36471489	Non-targeted Metabolomics Intergrated with (1) H NMR and LC-Q-TOF-MS/MS Methods to Depict a More Comprehensive Metabolic Profile in Response to Chrysosplenetin and Artemisinin Co-Treatment against Artemisinin-Sensitive and -Resistant Plasmodium berghei K173.
+36471489	Nontargeted metabolomics integrated with (1) H NMR and LC-Q-TOF-MS/MS methods to depict a more comprehensive metabolic profile in response to chrysosplenetin and artemisinin co-treatment against artemisinin-sensitive and -resistant Plasmodium berghei K173.
 36471426	Protocols for Plasmodium gametocyte production in vitro: an integrative review and analysis.
 36471389	A mass rearing cost calculator for the control of Culex quinquefasciatus in Hawai'i using the incompatible insect technique.
 36471315	Surveillance of pfhrp2 and pfhrp3 gene deletions among symptomatic Plasmodium falciparum malaria patients in Central Vietnam.
@@ -9995,5 +9997,3 @@
 33333397	Antimalarial application of quinones: A recent update.
 33333213	Incidence of leptospirosis in the French armed forces from 2004 to 2018: Retrospective analysis.
 33332673	In silico study, synthesis, and evaluation of the antimalarial activity of hybrid dimethoxy pyrazole 1,3,5-triazine derivatives.
-33332459	Acquisition and decay of IgM and IgG responses to merozoite antigens after Plasmodium falciparum malaria in Ghanaian children.
-33332415	Delimiting cryptic morphological variation among human malaria vector species using convolutional neural networks.
