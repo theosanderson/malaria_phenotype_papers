@@ -1,3 +1,4 @@
+36587274	Editorial: Current Status of Two Adjuvanted Malaria Vaccines and the World Health Organization (WHO) Strategy to Eradicate Malaria by 2030.
 36587210	Efficacy and safety of pyronaridine-artesunate (Pyramax(®)) for the treatment of uncomplicated Plasmodium vivax malaria in Northwest Ethiopia.
 36587191	Effectiveness of seasonal malaria chemoprevention in three regions of Togo: a population-based longitudinal study from 2013 to 2020.
 36585709	Who is protected? Determinants of hepatitis B infant vaccination completion among a prospective cohort of migrant workers in Thailand during the COVID-19 pandemic.
@@ -9996,4 +9997,3 @@
 33334674	Travel medicine facilities: The first nationwide cross-sectional questionnaire survey in Japan.
 33334460	Diagnostic Challenges of Acute Kidney Injury in Asia.
 33334459	Community-Acquired AKI in Asia: An Update.
-33334370	Cross-border COVID-19 spread amidst malaria re-emergence in Venezuela: a human rights analysis.
