@@ -1,3 +1,17 @@
+36591298	Exploring in vitro expression and immune potency in mice using mRNA encoding the Plasmodium falciparum malaria antigen, CelTOS.
+36591224	Longitudinal immune profiling after radiation-attenuated sporozoite vaccination reveals coordinated immune processes correlated with malaria protection.
+36590995	Distinct pattern and prevalence of Plasmodium falciparum dihydropteroate synthase gene mutations in children with sickle cell anaemia and haemoglobin AA in Benin City, Nigeria: the impact of HbAA.
+36590593	African-specific polymorphisms in Plasmodium falciparum serine repeat antigen 5 in Uganda and Burkina Faso clinical samples do not interfere with antibody response to BK-SE36 vaccination.
+36590578	Erratum: Macrophage migration inhibitor factor contributes to immunopathogenesis during Plasmodium yoelii 17XL infection.
+36590346	Characterizing pyrethroid resistance and mechanisms in Anopheles gambiae (s.s.) and Anopheles arabiensis from 11 districts in Uganda.
+36590345	Spatial repellents: The current roadmap to global recommendation of spatial repellents for public health use.
+36589868	Larval flushing alters malaria endemicity patterns in regions with similar habitat abundance.
+36589765	A case report of late treatment failure in Plasmodium falciparum malaria in a traveler from the Democratic Republic of the Congo to India.
+36589270	The impact of COVID-19 followed by extreme flooding on vector borne diseases in Pakistan: A mini narrative review.
+36588956	Limitations of current chemotherapy and future of nanoformulation-based AmB delivery for visceral leishmaniasis-An updated review.
+36588779	Anemia, Thrombocytopenia, and Changes in Biochemical Parameters Occurring in Patients with Uncomplicated Plasmodium falciparum Malaria: Data Analysis from Antimalarial Efficacy-Randomized Trials in Dakar and Kaolack Regions, Senegal.
+36588416	In Vitro Evaluation of Two Novel Antimalarial Derivatives of SKM13: SKM13-MeO and SKM13-F.
+36588415	Genetic Diversity and Clustering of the Rhoptry Associated Protein-1 of Plasmodium knowlesi from Peninsular Malaysia and Malaysian Borneo.
 36587808	An insight into the female and male Sabethes cyaneus mosquito salivary glands transcriptome.
 36587777	Aptamer-based nanotrains and nanoflowers as quinine delivery systems.
 36587755	Guidelines to prevent malarial transmission among interprovincial travelers to malaria endemic regions.
@@ -9983,17 +9997,3 @@
 33340524	Epidemiology of malaria among HIV/AIDS patients in sub-Saharan Africa: A systematic review and meta-analysis of observational studies.
 33340385	PfGBP2 is a novel G-quadruplex binding protein in Plasmodium falciparum.
 33339669	IMXQB-80: A Quillaja brasiliensis saponin-based nanoadjuvant enhances Zika virus specific immune responses in mice.
-33339096	Bioactivity Potential of Marine Natural Products from Scleractinia-Associated Microbes and In Silico Anti-SARS-COV-2 Evaluation.
-33338467	Differential expression of Acanthamoeba castellanii proteins during amoebic keratitis in rats.
-33338179	History of the E.I. Martsinovsky Institute of Medical Parasitology and Tropical Medicine: research on malaria and leishmaniasis.
-33338063	Clinical characteristics of COVID-19 patients hospitalized at Clinique Ngaliema, a public hospital in Kinshasa, in the Democratic Republic of Congo: A retrospective cohort study.
-33336890	Pentafluoro-3-hydroxy-pent-2-en-1-ones Potently Inhibit FNT-Type Lactate Transporters from all Five Human-Pathogenic Plasmodium Species.
-33336827	Antenatal interventions for preventing stillbirth, fetal loss and perinatal death: an overview of Cochrane systematic reviews.
-33336800	Parasitised red blood cells misclassified as giant platelets by an automated digital morphology analyser (Sysmex DI-60/CellaVision): a case report and a retrospective EQA analysis.
-33336419	Global fund: Analyzing 10 Years of bridging health inequalities.
-33336246	Liquid Chromatographic Methods for COVID-19 Drugs, Hydroxychloroquine and Chloroquine.
-33336164	Target Identification of an Antimalarial Oxaborole Identifies AN13762 as an Alternative Chemotype for Targeting CPSF3 in Apicomplexan Parasites.
-33335678	Amide Tethered 4-Aminoquinoline-naphthalimide Hybrids: A New Class of Possible Dual Function Antiplasmodials.
-33335673	Escaping from Flatland: Antimalarial Activity of sp(3)-Rich Bridged Pyrrolidine Derivatives.
-33335517	Metabolic Contributions of an Alphaproteobacterial Endosymbiont in the Apicomplexan Cardiosporidium cionae.
-33334765	Delayed haemolysis following artesunate in a child with profound anaemia and Coca-Cola-coloured urine.
