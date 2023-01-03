@@ -1,3 +1,6 @@
+36594846	The ultimate trade-off: How red cell adaptations to malaria may alter the host response during critical illness.
+36594472	Type I regulatory T cells in malaria: of mice and men.
+36594463	Human IL-10-producing Th1 cells exhibit a molecular signature distinct from Tr1 cells in malaria.
 36594318	Glasgow Coma Score Predicting the Poor Outcome of the Patients Presenting Fever with Altered Sensorium.
 36594042	Main modulators of COVID-19 epidemic in sub-Saharan Africa.
 36593995	Antibody-dependent immune responses elicited by blood stage-malaria infection contribute to protective immunity to the pre-erythrocytic stages.
@@ -9994,6 +9997,3 @@
 33343172	Co-infection with Malaria and Coronavirus Disease-2019.
 33342411	S-adenosyl-L-homocysteine Hydrolase: Its Inhibitory Activity Against Plasmodium falciparum and Development of Malaria Drugs.
 33341821	A Case of Plasmodium falciparum Malaria Treated with Artesunate in a 55-Year-Old Woman on Return to Florida from a Visit to Ghana.
-33341666	Unique polyacetylenic ester-neolignan derivatives from Mitrephora tomentosa and their antimalarial activities.
-33341139	Triple artemisinin-based combination therapies for malaria: proceed with caution - Authors' reply.
-33341138	Triple artemisinin-based combination therapies for malaria: proceed with caution.
