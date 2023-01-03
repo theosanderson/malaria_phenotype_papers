@@ -1,3 +1,7 @@
+36594318	Glasgow Coma Score Predicting the Poor Outcome of the Patients Presenting Fever with Altered Sensorium.
+36594042	Main modulators of COVID-19 epidemic in sub-Saharan Africa.
+36593995	Antibody-dependent immune responses elicited by blood stage-malaria infection contribute to protective immunity to the pre-erythrocytic stages.
+36593876	Application of a universal parasite diagnostic test to biological specimens collected from animals.
 36593519	PpSP32, the Phlebotomus papatasi immunodominant salivary protein, exerts immunomodulatory effects on human monocytes, macrophages, and lymphocytes.
 36593465	Confirmation of the presence of Anopheles stephensi among internally displaced people's camps and host communities in Aden city, Yemen.
 36591298	Exploring in vitro expression and immune potency in mice using mRNA encoding the Plasmodium falciparum malaria antigen, CelTOS.
@@ -9993,7 +9997,3 @@
 33341666	Unique polyacetylenic ester-neolignan derivatives from Mitrephora tomentosa and their antimalarial activities.
 33341139	Triple artemisinin-based combination therapies for malaria: proceed with caution - Authors' reply.
 33341138	Triple artemisinin-based combination therapies for malaria: proceed with caution.
-33341032	Methylene blue in covid-19.
-33340850	Free-living amoebae and other neglected protistan pathogens: Health emergency signals?
-33340802	Diversification of quinoline-triazole scaffolds with CORMs: Synthesis, in vitro and in silico biological evaluation against Plasmodium falciparum.
-33340524	Epidemiology of malaria among HIV/AIDS patients in sub-Saharan Africa: A systematic review and meta-analysis of observational studies.
