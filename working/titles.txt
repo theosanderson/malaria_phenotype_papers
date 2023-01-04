@@ -1,3 +1,7 @@
+36597115	Testing the effects of mass drug administration of azithromycin on mortality and other outcomes among 1-11-month-old infants in Mali (LAKANA): study protocol for a cluster-randomized, placebo-controlled, double-blinded, parallel-group, three-arm clinical trial.
+36597076	Randomized, open-label, phase 2a study to evaluate the contribution of artefenomel to the clinical and parasiticidal activity of artefenomel plus ferroquine in African patients with uncomplicated Plasmodium falciparum malaria.
+36596851	Author Correction: Characterization of the dynamics of Plasmodium falciparum deoxynucleotide-triphosphate pool in a stage-specific manner.
+36596362	Exploration of aminoacyl-tRNA synthetases from eukaryotic parasites for drug development.
 36595704	AIM2 sensors mediate immunity to Plasmodium infection in hepatocytes.
 36595685	Mapping the number of female sex workers in countries across sub-Saharan Africa.
 36595676	Burkitt lymphoma risk shows geographic and temporal associations with Plasmodium falciparum infections in Uganda, Tanzania, and Kenya.
@@ -9993,7 +9997,3 @@
 33345450	High variability in the measurement of HIV primary prevention activities and outcomes.
 33344893	Modulation of Triple Artemisinin-Based Combination Therapy Pharmacodynamics by Plasmodium falciparum Genotype.
 33344788	The use of antimalarial plants as traditional treatment in Papua Island, Indonesia.
-33344264	Type I Interferons and Malaria: A Double-Edge Sword Against a Complex Parasitic Disease.
-33343669	Assessing the Correlation between Malaria Case Mortality Rates and Access to Health Facilities in the Malaria Region of Vhembe District, South Africa.
-33343369	Evaluation of the Anticancer Activity of a Bile Acid-Dihydroartemisinin Hybrid Ursodeoxycholic-Dihydroartemisinin in Hepatocellular Carcinoma Cells.
-33343367	Safety and Efficacy of Adjunctive Therapy With Artesunate in the Treatment of Severe Malaria: A Systematic Review and Meta-Analysis.
