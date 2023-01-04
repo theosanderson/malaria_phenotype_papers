@@ -1,3 +1,7 @@
+36595704	AIM2 sensors mediate immunity to Plasmodium infection in hepatocytes.
+36595685	Mapping the number of female sex workers in countries across sub-Saharan Africa.
+36595676	Burkitt lymphoma risk shows geographic and temporal associations with Plasmodium falciparum infections in Uganda, Tanzania, and Kenya.
+36595546	Neutral vs. non-neutral genetic footprints of Plasmodium falciparum multiclonal infections.
 36594846	The ultimate trade-off: How red cell adaptations to malaria may alter the host response during critical illness.
 36594472	Type I regulatory T cells in malaria: of mice and men.
 36594463	Human IL-10-producing Th1 cells exhibit a molecular signature distinct from Tr1 cells in malaria.
@@ -9993,7 +9997,3 @@
 33343669	Assessing the Correlation between Malaria Case Mortality Rates and Access to Health Facilities in the Malaria Region of Vhembe District, South Africa.
 33343369	Evaluation of the Anticancer Activity of a Bile Acid-Dihydroartemisinin Hybrid Ursodeoxycholic-Dihydroartemisinin in Hepatocellular Carcinoma Cells.
 33343367	Safety and Efficacy of Adjunctive Therapy With Artesunate in the Treatment of Severe Malaria: A Systematic Review and Meta-Analysis.
-33343202	Anti-Oxidant Potential and Antimalarial Effects of Acanthus polystachyus Delile (Acanthaceae) Against Plasmodium berghei: Evidence for in vivo Antimalarial Activity.
-33343172	Co-infection with Malaria and Coronavirus Disease-2019.
-33342411	S-adenosyl-L-homocysteine Hydrolase: Its Inhibitory Activity Against Plasmodium falciparum and Development of Malaria Drugs.
-33341821	A Case of Plasmodium falciparum Malaria Treated with Artesunate in a 55-Year-Old Woman on Return to Florida from a Visit to Ghana.
