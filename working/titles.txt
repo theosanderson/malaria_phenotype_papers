@@ -1,3 +1,4 @@
+36598908	Clinical and laboratory presentation of first-time antenatal care visits of pregnant women in Ghana, a hospital-based study.
 36598082	Molecular characterization of anopheline mosquitoes from the goat malaria-endemic areas of Thailand.
 36597608	New Strategies in the Treatment of Plasmodium Berghei Based on Nanoparticles: A Systematic Review.
 36597115	Testing the effects of mass drug administration of azithromycin on mortality and other outcomes among 1-11-month-old infants in Mali (LAKANA): study protocol for a cluster-randomized, placebo-controlled, double-blinded, parallel-group, three-arm clinical trial.
@@ -9996,4 +9997,3 @@
 33346166	An insight on drug resistance in Plasmodium vivax, a still neglected human malaria parasite.
 33346039	Plasmodium's journey through the Anopheles mosquito: A comprehensive review.
 33345565	Anemia at Intensive Care Unit Admission and Hospital Mortality Among Patients at a Referral Hospital in Malawi.
-33345450	High variability in the measurement of HIV primary prevention activities and outcomes.
