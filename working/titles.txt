@@ -1,3 +1,9 @@
+36602586	Altered gastrointestinal tract structure and microbiome following cerebral malaria infection.
+36602348	Erratum for Banda et al., "Impact of Dolutegravir-Based Antiretroviral Therapy on Piperaquine Exposure following Dihydroartemisinin-Piperaquine Intermittent Preventive Treatment of Malaria in Pregnant Women Living with HIV".
+36602337	PfSET2 Is Involved in Genome Organization of Var Gene Family in Plasmodium falciparum.
+36602218	Unusual co-infection of severe malaria by Plasmodium vivax and dengue virus in Mexico.
+36602215	Steroids from Diplazium esculentum: Antiplasmodial activity and molecular docking studies to investigate their binding modes.
+36602208	Genetic diversity of secreted protein with an altered thrombospondin repeat (SPATR) of Plasmodium knowlesi clinical isolates from Malaysia.
 36601618	Does the trained immune system play an important role in the extreme longevity that is seen in the Sardinian blue zone?
 36601587	Microsecond-long simulation reveals the molecular mechanism for the dual inhibition of falcipain-2 and falcipain-3 by antimalarial lead compounds.
 36601303	Editorial: Rising stars in parasite and host 2022.
@@ -9991,9 +9997,3 @@
 33350374	Application of the Relationship-Based Model to Engagement for Field Trials of Genetically Engineered Malaria Vectors.
 33350371	A Systematic Literature Review of Microscopy Methods Reported in Malaria Clinical Trials.
 33350366	Cost-Effectiveness of PBO versus Conventional Long-Lasting Insecticidal Bed Nets in Preventing Symptomatic Malaria in Nigeria: Results of a Pragmatic Randomized Trial.
-33350199	[Research progress on energy metabolism of Plasmodium at erythrocytic stage].
-33349880	The role of non-governmental development organizations in the implementation of lymphatic filariasis programmes.
-33349875	African regional progress and status of the programme to eliminate lymphatic filariasis: 2000-2020.
-33349871	Coverage of intermittent preventive treatment of malaria in pregnancy in four sub-Saharan countries: findings from household surveys.
-33349215	Recent Advances in the Development of Chemotherapeutic Agents for Malaria.
-33348771	Disparities in Risks of Malaria Associated with Climatic Variability among Women, Children and Elderly in the Chittagong Hill Tracts of Bangladesh.
