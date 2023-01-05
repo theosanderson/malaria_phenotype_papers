@@ -1,3 +1,8 @@
+36601618	Does the trained immune system play an important role in the extreme longevity that is seen in the Sardinian blue zone?
+36601587	Microsecond-long simulation reveals the molecular mechanism for the dual inhibition of falcipain-2 and falcipain-3 by antimalarial lead compounds.
+36601303	Editorial: Rising stars in parasite and host 2022.
+36600836	Effects of Malaria and HIV Infection on Anemia and T-cells Levels in Children in Douala City, Cameroon.
+36600766	Children hydrocephalus in Togo: etiologies, treatment, and outcomes.
 36600353	How do malaria testing and treatment subsidies affect drug shop client expenditures? A cross-sectional analysis in Western Kenya.
 36599883	High throughput sequencing revealed enhanced cell cycle signaling in SLE patients.
 36599869	Myzomyia and Pyretophorus series of Anopheles mosquitoes acting as probable vectors of the goat malaria parasite Plasmodium caprae in Thailand.
@@ -9992,8 +9997,3 @@
 33349871	Coverage of intermittent preventive treatment of malaria in pregnancy in four sub-Saharan countries: findings from household surveys.
 33349215	Recent Advances in the Development of Chemotherapeutic Agents for Malaria.
 33348771	Disparities in Risks of Malaria Associated with Climatic Variability among Women, Children and Elderly in the Chittagong Hill Tracts of Bangladesh.
-33348551	Eukaryotic and Prokaryotic Microbiota Interactions.
-33347893	Gliding motility protein LIMP promotes optimal mosquito midgut traversal and infection by Plasmodium berghei.
-33347520	Lateral flow immunochromatographic assay on a single piece of paper.
-33347501	A mating-induced reproductive gene promotes Anopheles tolerance to Plasmodium falciparum infection.
-33346239	Analysis of Epidemiological Changes and Prevention Effects for Malaria in Weifang, Shandong Province, China from 1957 to 2017.
