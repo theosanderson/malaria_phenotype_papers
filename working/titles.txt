@@ -1,3 +1,5 @@
+36605129	RH5.1-CyRPA-Ripr antigen combination vaccine shows little improvement over RH5.1 in a preclinical setting.
+36604804	Opportunity in nanomedicine to counter the challenges of current drug delivery approaches used for the treatment of malaria; a review.
 36604693	Estimating population ITN access at council level in Tanzania.
 36604663	Malaria among children under 10 years in 4 endemic health areas in Kisantu Health Zone: epidemiology and transmission.
 36604655	Genetic variations in human ATP2B4 gene alter Plasmodium falciparum in vitro growth in RBCs from Gambian adults.
@@ -6086,6 +6088,7 @@
 34589185	CDPKs: The critical decoders of calcium signal at various stages of malaria parasite development.
 34588369	Genetic Diversity of Plasmodium vivax Merozoite Surface Protein-3 Alpha and Beta from Diverse Geographic Areas of Thailand.
 34587958	The efficacy of insecticide-treated window screens and eaves against Anopheles mosquitoes: a scoping review.
+36606151	Design, molecular docking, drug-likeness, and molecular dynamics studies of 1,2,4-trioxane derivatives as novel Plasmodium falciparum falcipain-2 (FP-2) inhibitors.
 36579001	Preparation of a Nanoemulsion of Essential Oil of Acroptilon repens Plant and Evaluation of Its Larvicidal Activity agianst Malaria Vector, Anopheles stephensi.
 36578997	Predicting the Potential Distribution of Major Malaria Vectors Based on Climate Changes in Sistan and Baluchistan Province, Southeastern Iran.
 36578996	Insecticide Resistance Status of Malaria Vectors in a Malarious Area, Southeast of Iran.
@@ -9994,6 +9997,3 @@
 33354370	The Role of Sex in Malaria-COVID19 Coinfection and Some Associated Factors in Rivers State, Nigeria.
 33352887	Evidence for Divergent Selection on Immune Genes between the African Malaria Vectors, Anopheles coluzzii and A. gambiae.
 35423017	One-step enzyme-free dual electrochemical immunosensor for histidine-rich protein 2 determination.
-33352447	Lipid-based nanocarriers co-loaded with artemether and triglycerides of docosahexaenoic acid: Effects on human breast cancer cells.
-33352050	1-Methyl-1H-pyrazole-5-carboxamide Derivatives Exhibit Unexpected Acute Mammalian Toxicity.
-33350925	Increase in Kelch 13 Polymorphisms in Plasmodium falciparum, Southern Rwanda.
