@@ -1,3 +1,4 @@
+36606712	Solution x-ray scattering highlights discrepancies in Plasmodium multi-aminoacyl-tRNA synthetase complexes.
 36605129	RH5.1-CyRPA-Ripr antigen combination vaccine shows little improvement over RH5.1 in a preclinical setting.
 36604804	Opportunity in nanomedicine to counter the challenges of current drug delivery approaches used for the treatment of malaria; a review.
 36604693	Estimating population ITN access at council level in Tanzania.
@@ -285,7 +286,7 @@
 36512011	[Which are somatic diseases of migrant children ?].
 36511996	[Travel in tropical countries for adults and children: advice before departure, pathologies on return: fever, diarrhea, skin manifestations. - Part 1 / In adults].
 36511667	Analysis of interactions of actors of the knowledge network on malaria in Colombia.
-36511651	A Plasmodium falciparumubiquitin-specific protease (PfUSP) is essential for parasite survival and its disruption enhances artemisinin efficacy.
+36511651	A Plasmodium falciparum ubiquitin-specific protease (PfUSP) is essential for parasite survival and its disruption enhances artemisinin efficacy.
 36511329	Clearing of hemozoin crystals in malaria parasites enables whole cell STED microscopy.
 36511045	High vectorial transmission of malaria in urban and rural settings in the northern, western and eastern regions of Côte d'Ivoire.
 36511043	Changing pattern of severe manifestations of Plasmodium falciparum and Plasmodium vivax malaria: A retrospective study from Bikaner, India.
@@ -9996,4 +9997,3 @@
 33354529	COVID-19 during malaria transmission season in Africa and why we should be prepared: An example from Senegal.
 33354370	The Role of Sex in Malaria-COVID19 Coinfection and Some Associated Factors in Rivers State, Nigeria.
 33352887	Evidence for Divergent Selection on Immune Genes between the African Malaria Vectors, Anopheles coluzzii and A. gambiae.
-35423017	One-step enzyme-free dual electrochemical immunosensor for histidine-rich protein 2 determination.
