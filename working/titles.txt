@@ -1,3 +1,35 @@
+36621136	Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents.
+36620533	Babesia duncani in Culture and in Mouse (ICIM) Model for the Advancement of Babesia Biology, Pathogenesis, and Therapy.
+36620305	Environmental Management and Sanitation as a Malaria Vector Control Strategy: A Qualitative Cross-Sectional Study Among Stakeholders, Sunyani Municipality, Ghana.
+36620228	Trends in unsuitability for blood donation in the Brazilian Amazon.
+36619756	Editorial: New strategies and technologies enabling point of care diagnosis of neglected or tropical diseases.
+36619752	Editorial: Regulation of the host's immune system by parasitic infections and its implications.
+36619004	Low Density Plasmodium Infections and G6PD Deficiency Among Malaria Suspected Febrile Individuals in Ethiopia.
+36618927	Editorial: Antimalarial chemotherapy in the XXIst century.
+36618915	Assessment of toxicity and anti-plasmodial activities of chloroform fractions of Carapa procera and Alchornea cordifolia in murine models.
+36618355	MiR-451a and let-7i-5p loaded extracellular vesicles attenuate heme-induced inflammation in hiPSC-derived endothelial cells.
+36617811	Gymnema inodorum Leaf Extract Improves Cardiac Function in Experimental Mice Infected with Plasmodium Berghei.
+36617500	Development of Potent and Highly Selective Epoxyketone-based Plasmodium Proteasome Inhibitors.
+36617302	Epidemiologic utility of a framework for partition number selection when dissecting hierarchically clustered genetic data evaluated on the intestinal parasite Cyclospora cayetanensis.
+36615504	Synthesis and Antiprotozoal Activity of Azabicyclo-Nonane Pyrimidine Hybrids.
+36615340	Global Analysis of Plasmodium falciparum Dihydropteroate Synthase Variants Associated with Sulfadoxine Resistance Reveals Variant Distribution and Mechanisms of Resistance: A Computational-Based Study.
+36614934	Aero-Medical Evacuation during SARS-CoV-2 Pandemic: Extraordinary Measure or Emerging Treatment Option?
+36613941	Investigation of Plasma-Derived Lipidome Profiles in Experimental Cerebral Malaria in a Mouse Model Study.
+36611259	Effect of sulfadoxine-pyrimethamine chemoprophylaxis in pregnant women on selection of the new P. falciparum dhps quintuple mutant carrying the I431V mutation.
+36611189	Plasmodium vivax and SARS-CoV-2 co-infection in Venezuelan pregnant women: a case series.
+36611186	Insecticide-treated bed net use and associated factors among households having under-five children in East Africa: a multilevel binary logistic regression analysis.
+36611179	Safety and therapeutic efficacy of artemether-lumefantrine in the treatment of uncomplicated Plasmodium falciparum malaria at Shecha health centre, Arba Minch, Ethiopia.
+36611010	Post-treatment haemolysis is common following oral artemisinin combination therapy of uncomplicated malaria in travellers.
+36610734	Reconstruction of plastid proteomes of apicomplexans and close relatives reveals the major evolutionary outcomes of cryptic plastids.
+36609676	Antiplasmodial activity, structure-activity relationship and studies on the action of novel benzimidazole derivatives.
+36609584	National-scale simulation of human movement in a spatially coupled individual-based model of malaria in Burkina Faso.
+36609299	Hospital-based surveillance of severe paediatric malaria in two malaria transmission ecological zones of Burkina Faso.
+36609279	Implementation research of a cluster randomized trial evaluating the implementation and effectiveness of intermittent preventive treatment for malaria using dihydroartemisinin-piperaquine on reducing malaria burden in school-aged children in Tanzania: methodology, challenges, and mitigation.
+36609275	Distance from human dwellings differentially affects the efficacy of a synthetic cattle urine odour lure to trap malaria vectors.
+36609153	Chemical pulldown combined with mass spectrometry to identify the molecular targets of antimalarials in cell-free lysates.
+36608749	Malaria-derived exosomes exacerbate liver injury during blood stage of Plasmodium berghei infection.
+36607997	Caregivers' use of insecticide-treated nets is associated with the use of ITNs by children under the age of five in Ghana.
+36607981	Entomological parameters and population structure at a microgeographic scale of the main Colombian malaria vectors Anopheles albimanus and Anopheles nuneztovari.
 36606712	Solution x-ray scattering highlights discrepancies in Plasmodium multi-aminoacyl-tRNA synthetase complexes.
 36605129	RH5.1-CyRPA-Ripr antigen combination vaccine shows little improvement over RH5.1 in a preclinical setting.
 36604804	Opportunity in nanomedicine to counter the challenges of current drug delivery approaches used for the treatment of malaria; a review.
@@ -287,7 +319,7 @@
 36511996	[Travel in tropical countries for adults and children: advice before departure, pathologies on return: fever, diarrhea, skin manifestations. - Part 1 / In adults].
 36511667	Analysis of interactions of actors of the knowledge network on malaria in Colombia.
 36511651	A Plasmodium falciparum ubiquitin-specific protease (PfUSP) is essential for parasite survival and its disruption enhances artemisinin efficacy.
-36511329	Clearing of hemozoin crystals in malaria parasites enables whole cell STED microscopy.
+36511329	Clearing of hemozoin crystals in malaria parasites enables whole-cell STED microscopy.
 36511045	High vectorial transmission of malaria in urban and rural settings in the northern, western and eastern regions of Côte d'Ivoire.
 36511043	Changing pattern of severe manifestations of Plasmodium falciparum and Plasmodium vivax malaria: A retrospective study from Bikaner, India.
 36511042	A note on the insecticide susceptibility status of secondary malaria vector An. annularis in Jharkhand state of India.
@@ -9965,35 +9997,3 @@
 33360528	Polyoxygenated germacranes from Daucus carota and their antimalarial transmission blocking activity.
 33360321	A systematic review of the infectious complications of colchicine and the use of colchicine to treat infections.
 33360105	Monitoring Plasmodium vivax resistance to antimalarials: Persisting challenges and future directions.
-33359948	Is the source of domestic water associated with the risk of malaria infection? Spatial variability and a mixed-effects multilevel analysis.
-33359921	Should obstetricians working in non-endemic countries care about emerging tropical diseases?
-33359209	Mathematical assessment of the impact of human-antibodies on sporogony during the within-mosquito dynamics of Plasmodium falciparum parasites.
-33359205	Polymorphisms in Plasmodium falciparum chloroquine resistance transporter (Pfcrt) and multidrug-resistant gene 1 (Pfmdr-1) in Nigerian children 10 years post-adoption of artemisinin-based combination treatments.
-33358735	Molecular species delimitation reveals high diversity in the mosquito Anopheles tessellatus Theobald, 1901 (Diptera, Culicidae) across its range.
-33358704	RTS,S/AS01(E) malaria vaccine induces IgA responses against CSP and vaccine-unrelated antigens in African children in the phase 3 trial.
-33358658	Manikya Bhasma is a nanomedicine to affect cancer cell viability through induction of apoptosis.
-33357539	The first implementation of allele-specific primers for detecting the knockdown and acetylcholinesterase target site mutations in malaria vector, Anopheles sacharovi.
-33357508	Effectiveness of rotavirus vaccine in preventing transmission of rotavirus from children to household contacts in Malawi.
-33357474	Time-to-death is a potential confounder in observational studies of blood transfusion in severe malaria.
-33357473	Time-to-death is a potential confounder in observational studies of blood transfusion in severe malaria - Authors' reply.
-33357386	Tuberculosis and malaria in the age of COVID-19.
-33357220	Malaria and COVID-19: unmasking their ties.
-33357062	Veterinary endectocides for malaria control and elimination: prospects and challenges.
-33357061	Differential attraction in mosquito-human interactions and implications for disease control.
-33357060	Control of malaria-transmitting mosquitoes using gene drives.
-33357059	Recommendations for building out mosquito-transmitted diseases in sub-Saharan Africa: the DELIVER mnemonic.
-33357058	Making gene drive biodegradable.
-33357056	Novel control strategies for mosquito-borne diseases.
-33357055	The use of islands and cluster-randomized trials to investigate vector control interventions: a case study on the Bijagós archipelago, Guinea-Bissau.
-33357051	Assessing the impact of low-technology emanators alongside long-lasting insecticidal nets to control malaria.
-33356918	Malaria among migrants in a university hospital in Colombia during 2018: A case series.
-33356651	Recent advances in quantitative structure-activity relationship models of antimalarial drugs.
-33356641	Drug development post COVID-19 pandemic: toward a better system to meet current and future global health challenges.
-33356111	Enhanced Antimalarial Efficacy Obtained by Targeted Delivery of Artemisinin in Heparin-Coated Magnetic Hollow Mesoporous Nanoparticles.
-35979067	Role of cats in human toxocarosis.
-33355336	Epstein-Barr virus infection modulates blood-brain barrier cells and its co-infection with Plasmodium falciparum induces RBC adhesion.
-33355263	Embedded research to advance primary health care.
-33355259	Analysis of clinical knowledge, absenteeism and availability of resources for maternal and child health: a cross-sectional quality of care study in 10 African countries.
-33354529	COVID-19 during malaria transmission season in Africa and why we should be prepared: An example from Senegal.
-33354370	The Role of Sex in Malaria-COVID19 Coinfection and Some Associated Factors in Rivers State, Nigeria.
-33352887	Evidence for Divergent Selection on Immune Genes between the African Malaria Vectors, Anopheles coluzzii and A. gambiae.
