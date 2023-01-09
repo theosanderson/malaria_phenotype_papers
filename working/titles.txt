@@ -1,3 +1,8 @@
+36622669	Hitting drug-resistant malaria infection with triazole-linked flavonoid-chloroquine hybrid compounds.
+36622482	In silico investigation of falcipain-2 inhibition by hybrid benzimidazole-thiosemicarbazone antiplasmodial agents: A molecular docking, molecular dynamics simulation, and kinetics study.
+36622216	Plasmodium berghei Purified Hemozoin Associated with DNA Strongly Inhibits P. berghei Liver-Stage Development in BALB/c Mice after Intravenous Inoculation.
+36622147	IMC29 Plays an Important Role in Toxoplasma Endodyogeny and Reveals New Components of the Daughter-Enriched IMC Proteome.
+36622145	Targetome Analysis of Malaria Sporozoite Transcription Factor AP2-Sp Reveals Its Role as a Master Regulator.
 36621136	Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents.
 36620533	Babesia duncani in Culture and in Mouse (ICIM) Model for the Advancement of Babesia Biology, Pathogenesis, and Therapy.
 36620305	Environmental Management and Sanitation as a Malaria Vector Control Strategy: A Qualitative Cross-Sectional Study Among Stakeholders, Sunyani Municipality, Ghana.
@@ -9992,8 +9997,3 @@
 33361302	Multiple Single-Nucleotide Polymorphism Detection for Antimalarial Pyrimethamine Resistance via Allele-Specific PCR Coupled with Gold Nanoparticle-Based Lateral Flow Biosensor.
 33361164	Implementation of C-reactive protein point of care testing to improve antibiotic targeting in respiratory illness in Vietnamese primary care (ICAT): a study protocol for a cluster randomised controlled trial.
 33361125	CRISPR/Cas9-Based Knockout of GNAQ Reveals Differences in Host Cell Signaling Necessary for Egress of Apicomplexan Parasites.
-33360801	Investigation of the in vitro and in vivo efficacy of peptoid-based HDAC inhibitors with dual-stage antiplasmodial activity.
-33360595	Exploring the external exposome using wearable passive samplers - The China BAPE study.
-33360528	Polyoxygenated germacranes from Daucus carota and their antimalarial transmission blocking activity.
-33360321	A systematic review of the infectious complications of colchicine and the use of colchicine to treat infections.
-33360105	Monitoring Plasmodium vivax resistance to antimalarials: Persisting challenges and future directions.
