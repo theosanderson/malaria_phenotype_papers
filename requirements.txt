@@ -2,3 +2,4 @@ biopython
 xmltodict
 tqdm
 openai
+pandas
