@@ -1,3 +1,5 @@
+36628555	A comprehensive review of the phytochemical and pharmacological potential of an evergreen plant Garcinia cowa.
+36627806	First Report of Yellow Rot Caused by Physarum galbeum in Grifola frondosa in China.
 36627715	Correction: Life table analysis of Anopheles balabacensis, the primary vector of Plasmodium knowlesi in Sabah, Malaysia.
 36626386	Population-specific positive selection on low CR1 expression in malaria-endemic regions.
 36626059	Residual efficacy of selected larvicides against Culex pipiens pipiens (Diptera: Culicidae) under laboratory and semi-field conditions.
@@ -2012,7 +2014,7 @@
 35932052	The effect of health financing reforms on incidence and management of childhood infections in Ghana: a matching difference in differences impact evaluation.
 35932025	Population knowledge, attitudes and practices towards malaria prevention in the locality of Makenene, Centre-Cameroon.
 35931841	Organochlorine pesticide contamination in sediments from Richards Bay, South Africa: spatial trends and ecotoxicological risks.
-35931322	Assessment and optimization of explainable machine learning models applied to transcriptomic data.
+35931322	Assessment and Optimization of Explainable Machine Learning Models Applied to Transcriptomic Data.
 35931099	Pre-existing partner-drug resistance to artemisinin combination therapies facilitates the emergence and spread of artemisinin resistance: a consensus modelling study.
 35930605	Deletion of the Plasmodium falciparum exported protein PTP7 leads to Maurer's clefts vesiculation, host cell remodeling defects, and loss of surface presentation of EMP1.
 35930522	Correction: A revised mechanism for how Plasmodium falciparum recruits and exports proteins into its erythrocytic host cell.
@@ -9995,5 +9997,3 @@
 33365346	Assessment the Changing Trend of Susceptibility to Two Insecticides among Field-Population Culex quinquefasciatus Compared with the Same Population Undergoing to Multiple Colonization.
 33365343	Environmental Factors Associated with Larval Habitats of Anopheline Mosquitoes (Diptera: Culicidae) in Metema District, Northwestern Ethiopia.
 33365050	Chromatin Structure and Function in Mosquitoes.
-33364965	Hydroxychloroquine in COVID-19 Patients: Pros and Cons.
-33364532	Malaria Exposure in Ann Township, Myanmar, as a Function of Land Cover and Land Use: Combining Satellite Earth Observations and Field Surveys.
