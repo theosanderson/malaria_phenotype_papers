@@ -1,3 +1,10 @@
+36626386	Population-specific positive selection on low CR1 expression in malaria-endemic regions.
+36626059	Residual efficacy of selected larvicides against Culex pipiens pipiens (Diptera: Culicidae) under laboratory and semi-field conditions.
+36625824	Whole-Sporozoite Malaria Vaccine Candidate Shows Real-world Promise.
+36625671	The mRNA Vaccine Technology Era and the Future Control of Parasitic Infections.
+36625655	A Microtubule-Associated Protein Is Essential for Malaria Parasite Transmission.
+36625582	Structure-Function Relationship for a Divergent Atg8 Protein Required for a Nonautophagic Function in Apicomplexan Parasites.
+36625569	A Plasmodium falciparum RING Finger E3 Ubiquitin Ligase Modifies the Roles of PfMDR1 and PfCRT in Parasite Drug Responses.
 36624480	Effect of Ivermectin(®) on survivorship and fertility of Anopheles arabiensis in Ethiopia: an in vitro study.
 36624386	Using transfer learning and dimensionality reduction techniques to improve generalisability of machine-learning predictions of mosquito ages from mid-infrared spectra.
 36624300	Protein KIC5 is a novel regulator of artemisinin stress response in the malaria parasite Plasmodium falciparum.
@@ -9990,10 +9997,3 @@
 33364965	Hydroxychloroquine in COVID-19 Patients: Pros and Cons.
 33364532	Malaria Exposure in Ann Township, Myanmar, as a Function of Land Cover and Land Use: Combining Satellite Earth Observations and Field Surveys.
 33364508	Ethnobotanical study of plants used by the traditional healers to treat malaria in Mogovolas district, northern Mozambique.
-33364273	Data on selected antimalarial drug resistance markers in Zambia.
-33363416	An Up-to-Date Overview of Therapeutic Agents for the Treatment of COVID-19 Disease.
-33363057	Accelerator or Brake: Immune Regulators in Malaria.
-33363053	Midgut Mitochondrial Function as a Gatekeeper for Malaria Parasite Infection and Development in the Mosquito Host.
-33361769	Author Correction: Investigating the drivers of the spatio-temporal patterns of genetic differences between Plasmodium falciparum malaria infections in Kilifi County, Kenya.
-33361312	Atypical Molecular Basis for Drug Resistance to Mitochondrial Function Inhibitors in Plasmodium falciparum.
-33361308	Selection of Cytochrome b Mutants Is Rare among Plasmodium falciparum Patients Failing Treatment with Atovaquone-Proguanil in Cambodia.
