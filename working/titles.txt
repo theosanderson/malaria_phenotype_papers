@@ -1,3 +1,4 @@
+36629183	Characterization of the anopheline vector breeding habitats: Implications for elimination of malaria in tribal inhabited Car Nicobar Island.
 36628555	A comprehensive review of the phytochemical and pharmacological potential of an evergreen plant Garcinia cowa.
 36627806	First Report of Yellow Rot Caused by Physarum galbeum in Grifola frondosa in China.
 36627715	Correction: Life table analysis of Anopheles balabacensis, the primary vector of Plasmodium knowlesi in Sabah, Malaysia.
@@ -9996,4 +9997,3 @@
 33365386	Is COVID-19 Fatality Rate Associated with Malaria Endemicity?
 33365346	Assessment the Changing Trend of Susceptibility to Two Insecticides among Field-Population Culex quinquefasciatus Compared with the Same Population Undergoing to Multiple Colonization.
 33365343	Environmental Factors Associated with Larval Habitats of Anopheline Mosquitoes (Diptera: Culicidae) in Metema District, Northwestern Ethiopia.
-33365050	Chromatin Structure and Function in Mosquitoes.
