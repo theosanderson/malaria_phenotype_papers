@@ -1,3 +1,4 @@
+36630286	Structure-Activity Relationship Studies of Antimalarial Plasmodium Proteasome Inhibitors─Part II.
 36629183	Characterization of the anopheline vector breeding habitats: Implications for elimination of malaria in tribal inhabited Car Nicobar Island.
 36628555	A comprehensive review of the phytochemical and pharmacological potential of an evergreen plant Garcinia cowa.
 36627806	First Report of Yellow Rot Caused by Physarum galbeum in Grifola frondosa in China.
@@ -608,7 +609,7 @@
 36417454	Longitudinal IgG antibody responses to Plasmodium vivax blood-stage antigens during and after acute vivax malaria in individuals living in the Brazilian Amazon.
 36417035	Correction: Aetiology and Potential Animal Exposure in Central Nervous System Infections in Vietnam.
 36416043	Haemosporidian parasites and incubation period influence plumage coloration in tanagers (Passeriformes: Thraupidae).
-36416015	The EPCR rs867186 gene polymorphism is associated with increased level of soluble EPCR and high risk of severe malaria and fatality in Beninese children.
+36416015	Association of Endothelial Protein C Receptor (EPCR) rs867186 Gene Polymorphism With Increased Levels of Soluble EPCR and High Risk of Severe Malaria and Fatality in Beninese Children.
 36415887	Deciphering antiviral efficacy of malaria box compounds against malaria exacerbating viral pathogens- Epstein Barr virus and SARS-CoV-2, an in silico study.
 36415884	Critical barriers to sustainable capacity strengthening in global health: a systems perspective on development assistance.
 36415655	Profiles of host immune impairment in Plasmodium and SARS-CoV-2 infections.
@@ -2348,8 +2349,8 @@
 35850777	Systematic review of Plasmodium knowlesi in Indonesia: a risk of emergence in the context of capital relocation to Borneo?
 35850687	Assessing Thailand's 1-3-7 surveillance strategy in accelerating malaria elimination.
 35850311	In vitro dual activity of Aloe marlothii roots and its chemical constituents against Plasmodium falciparum asexual and sexual stage parasites.
-35849705	What can twins teach us about malaria epidemiology?
-35849702	Natural history of malaria infections during early childhood in twins.
+35849705	What Can Twins Teach Us About Malaria Epidemiology?
+35849702	Natural History of Malaria Infections During Early Childhood in Twins.
 35849609	Practices of herbal management of malaria among trading mothers in Shai Osudoku District, Accra.
 35849568	Prevalence of simian malaria among macaques in Malaysia (2000-2021): A systematic review.
 35848796	Geographic accessibility to childhood tuberculosis care in Pakistan.
@@ -9996,4 +9997,3 @@
 33367733	Is malaria parasite ex-vivo viability reduction really "superior" to observed parasite clearance rate?
 33365386	Is COVID-19 Fatality Rate Associated with Malaria Endemicity?
 33365346	Assessment the Changing Trend of Susceptibility to Two Insecticides among Field-Population Culex quinquefasciatus Compared with the Same Population Undergoing to Multiple Colonization.
-33365343	Environmental Factors Associated with Larval Habitats of Anopheline Mosquitoes (Diptera: Culicidae) in Metema District, Northwestern Ethiopia.
