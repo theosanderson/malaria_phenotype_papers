@@ -1,3 +1,4 @@
+36631913	Genetic diversity of Plasmodium vivax populations from the China-Myanmar border identified by genotyping merozoite surface protein markers.
 36630286	Structure-Activity Relationship Studies of Antimalarial Plasmodium Proteasome Inhibitors─Part II.
 36629183	Characterization of the anopheline vector breeding habitats: Implications for elimination of malaria in tribal inhabited Car Nicobar Island.
 36628555	A comprehensive review of the phytochemical and pharmacological potential of an evergreen plant Garcinia cowa.
@@ -9996,4 +9997,3 @@
 33367880	Treatment of COVID-19 with Chloroquine: Implication for Malaria Chemotherapy Using ACTs in Disease Endemic Countries.
 33367733	Is malaria parasite ex-vivo viability reduction really "superior" to observed parasite clearance rate?
 33365386	Is COVID-19 Fatality Rate Associated with Malaria Endemicity?
-33365346	Assessment the Changing Trend of Susceptibility to Two Insecticides among Field-Population Culex quinquefasciatus Compared with the Same Population Undergoing to Multiple Colonization.
