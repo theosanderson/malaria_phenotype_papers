@@ -1,3 +1,5 @@
+36632823	Research progress on chemical components and pharmacological action of Solanum lyratum Thunb.
+36632535	Gaucher Disease: One of the Few Causes of Massive Splenomegaly.
 36631913	Genetic diversity of Plasmodium vivax populations from the China-Myanmar border identified by genotyping merozoite surface protein markers.
 36630286	Structure-Activity Relationship Studies of Antimalarial Plasmodium Proteasome Inhibitors─Part II.
 36629183	Characterization of the anopheline vector breeding habitats: Implications for elimination of malaria in tribal inhabited Car Nicobar Island.
@@ -183,7 +185,7 @@
 36561181	COVID-19 Convalescent Plasma Outpatient Therapy to Prevent Outpatient Hospitalization: A Meta-analysis of Individual Participant Data From Five Randomized Trials.
 36561069	Preparation, biological evaluation and QSAR analysis of urea substituted 2,4-diamino-pyrimidine anti-malarials.
 36560893	The approval of the first malaria vaccine: The beginning of the end of the malaria epidemic.
-36560856	Cyclospora cayetanensis comprises at least three species that cause human cyclosporiasis.
+36560856	Cyclospora cayetanensis comprises at least 3 species that cause human cyclosporiasis.
 36560662	Would Zika virus Infection in Pregnancy Be a Sentence of Poor Neurological Prognosis for Exposed Children? Neurodevelopmental Outcomes in a Cohort from Brazilian Amazon.
 36560564	Transmission Dynamics of Monkeypox Virus in Nigeria during the Current COVID-19 Pandemic and Estimation of Effective Reproduction Number.
 36559869	Polyester Nanocapsules for Intravenous Delivery of Artemether: Formulation Development, Antimalarial Efficacy, and Cardioprotective Effects In Vivo.
@@ -9995,5 +9997,3 @@
 33368727	Biogenesis and discharge of the rhoptries: Key organelles for entry and hijack of host cells by the Apicomplexa.
 33368412	Co-infection of malaria and early clearance of SARS-CoV-2 in healthcare workers.
 33367880	Treatment of COVID-19 with Chloroquine: Implication for Malaria Chemotherapy Using ACTs in Disease Endemic Countries.
-33367733	Is malaria parasite ex-vivo viability reduction really "superior" to observed parasite clearance rate?
-33365386	Is COVID-19 Fatality Rate Associated with Malaria Endemicity?
