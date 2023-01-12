@@ -1,3 +1,5 @@
+36633608	The Potential of a New Beauveria bassiana Isolate for Mosquito Larval Control.
+36633492	Cluster-randomized controlled trial of intermittent preventive treatment in infancy using sulfadoxine-pyrimethamine (SP-IPTi): a pilot study in Nigeria.
 36632823	Research progress on chemical components and pharmacological action of Solanum lyratum Thunb.
 36632535	Gaucher Disease: One of the Few Causes of Massive Splenomegaly.
 36631913	Genetic diversity of Plasmodium vivax populations from the China-Myanmar border identified by genotyping merozoite surface protein markers.
@@ -1005,7 +1007,7 @@
 36288040	Transforming Growth Factor-β Concerning Malarial Infection and Severity: A Systematic Review and Meta-Analysis.
 36288006	Factors Affecting the Performance of HRP2-Based Malaria Rapid Diagnostic Tests.
 36288004	Assessing the Impact of Relapse, Reinfection and Recrudescence on Malaria Eradication Policy: A Bifurcation and Optimal Control Analysis.
-36287642	The Effect of Plasmodium falciparum (Welch) (Haemospororida: Plasmodiidae) Infection on the Susceptibility of Anopheles gambiae s.l. and Anopheles funestus (Diptera: Culicidae) to Pyrethroid Insecticides in the North-western and South-eastern, Tanzania.
+36287642	The Effect of Plasmodium falciparum (Welch) (Haemospororida: Plasmodiidae) Infection on the Susceptibility of Anopheles gambiae s.l. and Anopheles funestus (Diptera: Culicidae) to Pyrethroid Insecticides in the North-Western and South-Eastern, Tanzania.
 36287509	Malaria in indigenous and non-indigenous patients aged under 15 years between 2007-2018, Amazonas state, Brazil.
 36287479	Phylogenetic relationships of the supercontig of sodium channel subunit I (NaV) in 17 species of Anopheles (Diptera: Culicidae).
 36287259	Spatial patterns of malaria case burden and seasonal precipitation in India during 1995-2013.
@@ -9995,5 +9997,3 @@
 33369387	Fast Aptamer Generation Method Based on the Electrodynamic Microfluidic Channel and Evaluation of Aptamer Sensor Performance.
 33368818	The PfAP2-G2 transcription factor is a critical regulator of gametocyte maturation.
 33368727	Biogenesis and discharge of the rhoptries: Key organelles for entry and hijack of host cells by the Apicomplexa.
-33368412	Co-infection of malaria and early clearance of SARS-CoV-2 in healthcare workers.
-33367880	Treatment of COVID-19 with Chloroquine: Implication for Malaria Chemotherapy Using ACTs in Disease Endemic Countries.
