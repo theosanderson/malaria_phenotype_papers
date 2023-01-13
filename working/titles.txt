@@ -1,3 +1,6 @@
+36634046	Therapeutic efficacy of Chloroquine for the treatment of uncomplicated Plasmodium vivax infection in Shewa Robit, Northeast Ethiopia.
+36634044	Individual variation in Plasmodium vivax malaria risk: Are repeatedly infected people just unlucky?
+36634043	The United States Food and Drug Administration (FDA) regulatory response to combat neglected tropical diseases (NTDs): A review.
 36633608	The Potential of a New Beauveria bassiana Isolate for Mosquito Larval Control.
 36633492	Cluster-randomized controlled trial of intermittent preventive treatment in infancy using sulfadoxine-pyrimethamine (SP-IPTi): a pilot study in Nigeria.
 36632823	Research progress on chemical components and pharmacological action of Solanum lyratum Thunb.
@@ -747,7 +750,7 @@
 36379256	RNA-seq analysis of differentially expressed LncRNAs from leishmaniasis patients compared to uninfected humans.
 36378465	Plasmodium vivax in Children: Hidden Burden and Conspicuous Challenges, a Narrative Review.
 36378331	Genetic polymorphism of the thrombospondin-related apical merozoite protein (TRAMP) of Plasmodium knowlesi in Malaysia.
-36377778	Novel Genome Sequences and Evolutionary Dynamics of the North American Anopheline Species Anopheles freeborni, crucians, quadrimaculatus, and albimanus.
+36377778	Novel genome sequences and evolutionary dynamics of the North American anopheline species Anopheles freeborni, Anopheles crucians, Anopheles quadrimaculatus, and Anopheles albimanus.
 36376985	Determinants of self-reported hypertension among women in South Africa: evidence from the population-based survey.
 36376966	The need for larval source management accompanying urban development projects in malaria endemic areas: a case study on Bioko Island.
 36376961	Challenges with adherence to the 'test, treat, and track' malaria case management guideline among prescribers in Ghana.
@@ -9994,6 +9997,3 @@
 33370279	Genetic background and PfKelch13 affect artemisinin susceptibility of PfCoronin mutants in Plasmodium falciparum.
 33370264	Potential strategies for strengthening surveillance of lymphatic filariasis in American Samoa after mass drug administration: Reducing 'number needed to test' by targeting older age groups, hotspots, and household members of infected persons.
 33369420	Isolation, Structure Determination, and Total Synthesis of Hoshinoamide C, an Antiparasitic Lipopeptide from the Marine Cyanobacterium Caldora penicillata.
-33369387	Fast Aptamer Generation Method Based on the Electrodynamic Microfluidic Channel and Evaluation of Aptamer Sensor Performance.
-33368818	The PfAP2-G2 transcription factor is a critical regulator of gametocyte maturation.
-33368727	Biogenesis and discharge of the rhoptries: Key organelles for entry and hijack of host cells by the Apicomplexa.
