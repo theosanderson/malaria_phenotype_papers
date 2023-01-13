@@ -1,3 +1,5 @@
+36636815	Synergistic interaction of two bHLH transcription factors positively regulates artemisinin biosynthetic pathway in Artemisia annua L.
+36636240	Detection of Malaria Parasites and Other Haemosporidia in Migratory and Native Birds in Mazandaran and Golestan Provinces, Iran.
 36635720	Entomological monitoring data driving decision-making for appropriate and sustainable malaria vector control in Côte d'Ivoire.
 36635665	Optimizing the role of 'lead mothers' in seasonal malaria chemoprevention (SMC) campaigns: formative research in Kano State, northern Nigeria.
 36635660	Durable wall lining for malaria control in Liberia: results of a cluster randomized trial.
@@ -9995,5 +9997,3 @@
 33373718	Conus venom fractions inhibit the adhesion of Plasmodium falciparum erythrocyte membrane protein 1 domains to the host vascular receptors.
 33373422	Behavioral response of insecticide-resistant mosquitoes against spatial repellent: A modified self-propelled particle model simulation.
 33373407	Malaria prevention and care seeking among gold miners in Guyana.
-33373366	Excessive premature mortality among children with cerebral palsy in rural Uganda: A longitudinal, population-based study.
-33372863	ATP2, The essential P4-ATPase of malaria parasites, catalyzes lipid-stimulated ATP hydrolysis in complex with a Cdc50 β-subunit.
