@@ -1,3 +1,6 @@
+36637429	Health care seeking during travel: an analysis by the GeoSentinel surveillance network of travel medicine providers.
+36637101	Comparative analysis of glass and Hemotek membrane feeding systems for malaria transmission research.
+36637052	Enzyme-substrate interactions in orotate-mimetic OPRT inhibitor complexes: a QM/MM analysis.
 36636815	Synergistic interaction of two bHLH transcription factors positively regulates artemisinin biosynthetic pathway in Artemisia annua L.
 36636240	Detection of Malaria Parasites and Other Haemosporidia in Migratory and Native Birds in Mazandaran and Golestan Provinces, Iran.
 36635720	Entomological monitoring data driving decision-making for appropriate and sustainable malaria vector control in Côte d'Ivoire.
@@ -9994,6 +9997,3 @@
 33374444	Antimalarials and Phytotoxins from Botryosphaeria dothidea Identified from a Seed of Diseased Torreya taxifolia.
 33374228	Targeting Malaria Hotspots to Reduce Transmission Incidence in Senegal.
 33373719	Evidence of chikungunya virus infection among febrile patients in northwest Ethiopia.
-33373718	Conus venom fractions inhibit the adhesion of Plasmodium falciparum erythrocyte membrane protein 1 domains to the host vascular receptors.
-33373422	Behavioral response of insecticide-resistant mosquitoes against spatial repellent: A modified self-propelled particle model simulation.
-33373407	Malaria prevention and care seeking among gold miners in Guyana.
