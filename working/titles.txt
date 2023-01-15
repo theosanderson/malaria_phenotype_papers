@@ -1,3 +1,4 @@
+36640315	Malaria parasites harness Rho GTPase signaling and host cell membrane ruffling for productive invasion of hepatocytes.
 36639818	Insecticide susceptibility status of Anopheles gambiae (s.l.) in and surrounding areas of Lake Tana, northwest Ethiopia.
 36639683	High-throughput analysis of the transcriptional patterns of sexual genes in malaria.
 36639160	Spatiotemporal dynamics of malaria in Zanzibar, 2015-2020.
@@ -9996,4 +9997,3 @@
 33375379	Evaluation of Histidine-Rich Proteins 2 and 3 Gene Deletions in Plasmodium falciparum in Endemic Areas of the Brazilian Amazon.
 33375214	Clinical Features and Mortality Associated with Severe Malaria in Adults in Southern Mauritania.
 33375073	Insights into the Membranolytic Activity of Antimalarial Drug-Cell Penetrating Peptide Conjugates.
-33374950	Respiratory Epithelial Cells Respond to Lactobacillus plantarum but Provide No Cross-Protection against Virus-Induced Inflammation.
