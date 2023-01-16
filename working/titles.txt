@@ -1,3 +1,5 @@
+36645283	Oral Microbiota Alteration and Roles in Epstein-Barr Virus Reactivation in Nasopharyngeal Carcinoma.
+36645165	Implementing landscape genetics in molecular epidemiology to determine drivers of vector-borne disease: A malaria case study.
 36644573	Prevalence of Asymptomatic Malaria Parasitemia among Blood Donors in Cape Coast, Ghana: A Cross-Sectional Study.
 36643988	In vitro antiplasmodial activity of selected plants from the Colombian North Coast with low cytotoxicity.
 36643985	Triple Infection with Dengue, Chikungunya and Malaria.
@@ -9995,5 +9997,3 @@
 33382697	Plasmodium knowlesi infecting humans in Southeast Asia: What's next?
 33382691	Genetic diversity of the Plasmodium falciparum GTP-cyclohydrolase 1, dihydrofolate reductase and dihydropteroate synthetase genes reveals new insights into sulfadoxine-pyrimethamine antimalarial drug resistance.
 33382690	Diagnostic accuracy of direct agglutination test, rK39 ELISA and six rapid diagnostic tests among visceral leishmaniasis patients with and without HIV coinfection in Ethiopia.
-33382580	Modeling-Guided Design of Paper Microfluidic Networks: A Case Study of Sequential Fluid Delivery.
-33381802	Infections and systemic inflammation are associated with lower plasma concentration of insulin-like growth factor I among Malawian children.
