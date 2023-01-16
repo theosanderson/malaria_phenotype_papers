@@ -1,3 +1,9 @@
+36644573	Prevalence of Asymptomatic Malaria Parasitemia among Blood Donors in Cape Coast, Ghana: A Cross-Sectional Study.
+36643988	In vitro antiplasmodial activity of selected plants from the Colombian North Coast with low cytotoxicity.
+36643985	Triple Infection with Dengue, Chikungunya and Malaria.
+36643715	Prevalence of Malaria and COVID-19 Infection in Akure North Local Government Area of Ondo State, Nigeria.
+36643690	Therapeutics through glycobiology: an approach for targeted elimination of malaria.
+36642907	[Bibliometric analysis of publications pertaining to artemisinin resistance in Plasmodium falciparum based on Web of Science from 2011 to 2022].
 36642689	Lipid peroxidation and its repair in malaria parasites.
 36642628	Immunodominant T cell peptides from four candidate malarial antigens as biomarkers of protective immunity against malaria.
 36642385	The Microbiota, The Malarial Parasite, and The Mosquito [MMM] - A three-sided relationship.
@@ -4997,6 +5003,8 @@
 34969681	Eliminating malaria in conflict zones: public health strategies developed in the Sri Lanka Civil War.
 34969544	Towards large-scale identification of HLA-restricted T cell epitopes from four vaccine candidate antigens in a malaria endemic community in Ghana.
 34969401	Clinical recovery of Macaca fascicularis infected with Plasmodium knowlesi.
+36644305	Evaluation of Nanoemulsion of Eucalyptus globulus Oil as Potent Botanical Larvicide against Malaria Vector, Anopheles stephensi and West Nile Vector, Culex pipiens Under Laboratory and Semi-Field Conditions.
+36644301	Insecticide Resistance in the West Nile Encephalitis, Japanese Encephalitis, Avian Malaria and Lymphatic Elephantiasis Vector, Culex pipiens complex (Diptera: Culicidae) in Iran.
 34969107	Breath Metabolites to Diagnose Infection.
 34969102	Evolving Applications of Artificial Intelligence and Machine Learning in Infectious Diseases Testing.
 34969059	Pantothenate and CoA biosynthesis in Apicomplexa and their promise as antiparasitic drug targets.
@@ -9989,11 +9997,3 @@
 33382690	Diagnostic accuracy of direct agglutination test, rK39 ELISA and six rapid diagnostic tests among visceral leishmaniasis patients with and without HIV coinfection in Ethiopia.
 33382580	Modeling-Guided Design of Paper Microfluidic Networks: A Case Study of Sequential Fluid Delivery.
 33381802	Infections and systemic inflammation are associated with lower plasma concentration of insulin-like growth factor I among Malawian children.
-33380414	For malaria elimination India needs a platform for data integration.
-33380264	Formulation development and characterization of lumefantrine nanosuspension for enhanced antimalarial activity.
-33379267	Plasmodium vivax Cysteine-Rich Protective Antigen Polymorphism at Exon-1 Shows Recombination and Signatures of Balancing Selection.
-33378956	Unveiling six potent and highly selective antileishmanial agents via the open source compound collection 'Pathogen Box' against antimony-sensitive and -resistant Leishmania braziliensis.
-33378692	Liver-targeted polymeric prodrugs of 8-aminoquinolines for malaria radical cure.
-33378063	Perspective of Covid-19 pandemic in South Asian countries.
-33377745	Non-nutritional anemia: Malaria, thalassemia, G6PD deficiency and tuberculosis in Indonesia.
-33377448	Mice Pups Breastfed by Foster Mothers Whose Breast Milk Contains Plasmodium falciparum Recombinant SE36 Antigen Develop Specific Antibodies.
