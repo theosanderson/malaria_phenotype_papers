@@ -1,3 +1,5 @@
+36649040	An Overview of Malaria Transmission Mechanisms, Control, and Modeling.
+36648839	Assessment of the Antimalarial Treatment Failure in Ebonyi State, Southeast Nigeria.
 36647056	Erythrocyte membrane with CLIPPKF as biomimetic nanodecoy traps merozoites and attaches to infected red blood cells to prevent Plasmodium infection.
 36646927	Dihydroartemisinin imposes positive and negative regulation on Treg and plasma cells via direct interaction and activation of c-Fos.
 36645283	Oral Microbiota Alteration and Roles in Epstein-Barr Virus Reactivation in Nasopharyngeal Carcinoma.
@@ -1179,7 +1181,6 @@
 36232861	Gene Signatures Associated with Temporal Rhythm as Diagnostic Markers of Major Depressive Disorder and Their Role in Immune Infiltration.
 36232449	Metagenomic Sequencing for the Diagnosis of Plasmodium spp. with Different Levels of Parasitemia in EDTA Blood of Malaria Patients-A Proof-of-Principle Assessment.
 36232166	Were Women Staying on Track with Intermittent Preventive Treatment for Malaria in Antenatal Care Settings? A Cross-Sectional Study in Senegal.
-36232014	Sexual and Reproductive Health Service Needs Associated with Underage Initiation of Selling Sex among Adult Female Sex Workers in Guinea-Bissau.
 36231573	Forecasting Malaria Morbidity to 2036 Based on Geo-Climatic Factors in the Democratic Republic of Congo.
 36231519	Global Cross-Border Malaria Control Collaborative Initiatives: A Scoping Review.
 36231374	Incidence and Risk Factors for Low Birthweight and Preterm Birth in Post-Conflict Northern Uganda: A Community-Based Cohort Study.
@@ -9996,4 +9997,3 @@
 33382824	Multiple blood feeding in mosquitoes shortens the Plasmodium falciparum incubation period and increases malaria transmission potential.
 33382787	Limitations of rapid diagnostic tests in malaria surveys in areas with varied transmission intensity in Uganda 2017-2019: Implications for selection and use of HRP2 RDTs.
 33382730	Preliminary validation of the use of IgG antibody response to Anopheles gSG6-p1 salivary peptide to assess human exposure to malaria vector bites in two endemic areas of Cameroon in Central Africa.
-33382697	Plasmodium knowlesi infecting humans in Southeast Asia: What's next?
