@@ -1,3 +1,5 @@
+36647056	Erythrocyte membrane with CLIPPKF as biomimetic nanodecoy traps merozoites and attaches to infected red blood cells to prevent Plasmodium infection.
+36646927	Dihydroartemisinin imposes positive and negative regulation on Treg and plasma cells via direct interaction and activation of c-Fos.
 36645283	Oral Microbiota Alteration and Roles in Epstein-Barr Virus Reactivation in Nasopharyngeal Carcinoma.
 36645165	Implementing landscape genetics in molecular epidemiology to determine drivers of vector-borne disease: A malaria case study.
 36644573	Prevalence of Asymptomatic Malaria Parasitemia among Blood Donors in Cape Coast, Ghana: A Cross-Sectional Study.
@@ -9995,5 +9997,3 @@
 33382787	Limitations of rapid diagnostic tests in malaria surveys in areas with varied transmission intensity in Uganda 2017-2019: Implications for selection and use of HRP2 RDTs.
 33382730	Preliminary validation of the use of IgG antibody response to Anopheles gSG6-p1 salivary peptide to assess human exposure to malaria vector bites in two endemic areas of Cameroon in Central Africa.
 33382697	Plasmodium knowlesi infecting humans in Southeast Asia: What's next?
-33382691	Genetic diversity of the Plasmodium falciparum GTP-cyclohydrolase 1, dihydrofolate reductase and dihydropteroate synthetase genes reveals new insights into sulfadoxine-pyrimethamine antimalarial drug resistance.
-33382690	Diagnostic accuracy of direct agglutination test, rK39 ELISA and six rapid diagnostic tests among visceral leishmaniasis patients with and without HIV coinfection in Ethiopia.
