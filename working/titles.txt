@@ -1,3 +1,15 @@
+36655234	Did malaria elimination begin to lose its way in 1925? "If you think education is expensive, try ignorance.".
+36655187	The Epidemiology and Clinical Features of Non-Keratitis Acanthamoeba Infections in the United States, 1956-2020.
+36654909	International Neurosurgery: The Role for Collaboration.
+36654730	Pastoral Community Malaria Prevention Practice and Associated Factors Among Households in Three Districts of the Borena Zone, Southern Ethiopia.
+36654682	Genomic epidemiology of SARS-CoV-2 in Cambodia, January 2020 to February 2021.
+36654597	Lessons Learned From a Case of Behcet's Disease Presenting With Fever and Life-Threatening Venous Thromboembolism.
+36654493	'A prospective case control study to evaluate shock index for identifying patients at risk of clinically important malaria in refugee settings'.
+36653791	Antimalarial efficacy and toxicological assessment of medicinal plant ingredients of Prabchompoothaweep remedy as a candidate for antimalarial drug development.
+36653779	Machine learning based efficient prediction of positive cases of waterborne diseases.
+36653766	Causes and trends of adult mortality in southern Ethiopia: an eight-year follow up database study.
+36653222	A single dose of genetically-attenuated malaria blood-stage parasites protects against two Plasmodium species infections.
+36653068	Linkages between malaria and malnutrition in co-endemic regions of India.
 36651464	A severe case of Plasmodium falciparum malaria imported by a French traveler from Cameroon to French Guiana despite regular intake of Artemisia annua herbal tea.
 36650533	Changing epidemiology of Plasmodium vivax malaria in Nouakchott, Mauritania: a six-year (2015-2020) prospective study.
 36650503	Impact of insecticide resistance on malaria vector competence: a literature review.
@@ -9985,15 +9997,3 @@
 33390562	Clinical spectrum and predictors of severe Plasmodium vivax infections at a tertiary care center in North India.
 33390425	Artesunate Provides Neuroprotection against Cerebral Ischemia-Reperfusion Injury via the TLR-4/NF-κB Pathway in Rats.
 33390153	Determinants of uptake of malaria preventive interventions among pregnant women in eastern Uganda.
-33388088	Sensitive universal detection of blood parasites by selective pathogen-DNA enrichment and deep amplicon sequencing.
-33388082	Insights into factors sustaining persistence of high malaria transmission in forested areas of sub-Saharan Africa: the case of Mvoua, South Cameroon.
-33387082	Antibody Dynamics for Plasmodium vivax Malaria: A Mathematical Model.
-33386079	In vivo anti-malarial activity of the hydroalcoholic extract of rhizomes of Kniphofia foliosa and its constituents.
-33386076	Deletions of pfhrp2 and pfhrp3 genes were uncommon in rapid diagnostic test-negative Plasmodium falciparum isolates from Uganda.
-33386073	Assessment of novel Lehmann's funnel entry trap prototypes performance to control malaria mosquito populations.
-33386070	Evidence that seasonal malaria chemoprevention with SPAQ influences blood and pre-erythrocytic stage antibody responses of Plasmodium falciparum infections in Niger.
-33385575	Pharmacoinformatics based elucidation and designing of potential inhibitors against Plasmodium falciparum to target importin α/β mediated nuclear importation.
-33384107	Polyoxometalates as catalysts for fluorescence amplification in rapid and sensitive detection of artemisinin.
-33384023	Molecular surveillance and temporal monitoring of malaria parasites in focal Vietnamese provinces.
-33383906	Synthesis and Antiplasmodial Activity of Novel Bioinspired Imidazolidinedione Derivatives.
-35983564	Multiple Novel Clades of Anopheline Mosquitoes Caught Outdoors in Northern Zambia.
