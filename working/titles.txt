@@ -1,3 +1,5 @@
+36661017	Introduction of the first antimalarial vaccine: A step towards Malaria eradication?
+36660834	[Infectious disease: what's new in 2022].
 36658587	Prevalence of malaria and associated clinical manifestations and myeloperoxidase amongst populations living in different altitudes of Mezam division, North West Region, Cameroon.
 36658583	Transmission efficiency of Plasmodium vivax at low parasitaemia.
 36658578	Implementing a novel capture and ligation probe-PCR method in mass screen and treatment to support malaria elimination efforts in the China-Myanmar border region.
@@ -150,6 +152,7 @@
 36598908	Clinical and laboratory presentation of first-time antenatal care visits of pregnant women in Ghana, a hospital-based study.
 36598082	Molecular characterization of anopheline mosquitoes from the goat malaria-endemic areas of Thailand.
 36597608	New Strategies in the Treatment of Plasmodium Berghei Based on Nanoparticles: A Systematic Review.
+36597267	A Drug Repurposing Approach to Identify Therapeutics by Screening Pathogen Box Exploiting SARS-CoV-2 Main Protease.
 36597115	Testing the effects of mass drug administration of azithromycin on mortality and other outcomes among 1-11-month-old infants in Mali (LAKANA): study protocol for a cluster-randomized, placebo-controlled, double-blinded, parallel-group, three-arm clinical trial.
 36597076	Randomized, open-label, phase 2a study to evaluate the contribution of artefenomel to the clinical and parasiticidal activity of artefenomel plus ferroquine in African patients with uncomplicated Plasmodium falciparum malaria.
 36596851	Author Correction: Characterization of the dynamics of Plasmodium falciparum deoxynucleotide-triphosphate pool in a stage-specific manner.
@@ -9994,6 +9997,3 @@
 33395253	Spiro-β-lactam BSS-730A Displays Potent Activity against HIV and Plasmodium.
 33394450	Effect of temperature and its interactions with relative humidity and rainfall on malaria in a temperate city Suzhou, China.
 33393463	Malaria parasites use a soluble RhopH complex for erythrocyte invasion and an integral form for nutrient uptake.
-33393457	Rapid adaptation to malaria facilitated by admixture in the human population of Cabo Verde.
-33392261	Identification of Potential Inhibitors of 3CL Protease of SARS-CoV-2 From ZINC Database by Molecular Docking-Based Virtual Screening.
-33392152	Insights Into the Binding Mechanism of GC7 to Deoxyhypusine Synthase in Sulfolobus solfataricus: A Thermophilic Model for the Design of New Hypusination Inhibitors.
