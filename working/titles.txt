@@ -1,3 +1,6 @@
+36661980	Entomological Characteristics of Malaria Transmission across Benin: An Essential Element for Improved Deployment of Vector Control Interventions.
+36661943	Population Genetics of Anopheles pretoriensis in Grande Comore Island.
+36661364	New Iron Twist to Chloroquine─Upgrading Antimalarials with Immunomodulatory and Antimicrobial Features.
 36661017	Introduction of the first antimalarial vaccine: A step towards Malaria eradication?
 36660834	[Infectious disease: what's new in 2022].
 36658587	Prevalence of malaria and associated clinical manifestations and myeloperoxidase amongst populations living in different altitudes of Mezam division, North West Region, Cameroon.
@@ -163,7 +166,7 @@
 36595546	Neutral vs. non-neutral genetic footprints of Plasmodium falciparum multiclonal infections.
 36594846	The ultimate trade-off: How red cell adaptations to malaria may alter the host response during critical illness.
 36594472	Type I regulatory T cells in malaria: of mice and men.
-36594463	Human IL-10-producing Th1 cells exhibit a molecular signature distinct from Tr1 cells in malaria.
+36594463	IL-10-producing Th1 cells possess a distinct molecular signature in malaria.
 36594318	Glasgow Coma Score Predicting the Poor Outcome of the Patients Presenting Fever with Altered Sensorium.
 36594042	Main modulators of COVID-19 epidemic in sub-Saharan Africa.
 36593995	Antibody-dependent immune responses elicited by blood stage-malaria infection contribute to protective immunity to the pre-erythrocytic stages.
@@ -9994,6 +9997,3 @@
 33396538	Diagnostic Practices and Treatment for P. vivax in the InterEthnic Therapeutic Encounter of South-Central Vietnam: A Mixed-Methods Study.
 33395459	Accurate Malaria Diagnosis: Not Only Essential for Malaria Case Management, But Prerequisite for Managing Febrile Disease in the Tropics.
 33395287	Antitubercular 2-Pyrazolylpyrimidinones: Structure-Activity Relationship and Mode-of-Action Studies.
-33395253	Spiro-β-lactam BSS-730A Displays Potent Activity against HIV and Plasmodium.
-33394450	Effect of temperature and its interactions with relative humidity and rainfall on malaria in a temperate city Suzhou, China.
-33393463	Malaria parasites use a soluble RhopH complex for erythrocyte invasion and an integral form for nutrient uptake.
