@@ -1,3 +1,10 @@
+36669055	A Four-Year Survey of Hemoparasites from Nocturnal Raptors (Strigiformes) Confirms a Relation between Leucocytozoon and Low Hematocrit and Body Condition Scores of Parasitized Birds.
+36668974	Impact of the COVID-19 Pandemic on Malaria Control in Africa: A Preliminary Analysis.
+36668963	The Impact of Geographical Variation in Plasmodium knowlesi Apical Membrane Protein 1 (PkAMA-1) on Invasion Dynamics of P. knowlesi.
+36668956	Post-Artesunate Delayed Hemolysis: A Review of Current Evidence.
+36668952	Mono-Parasitic and Poly-Parasitic Intestinal Infections among Children Aged 36-45 Months in East Nusa Tenggara, Indonesia.
+36668942	Relation between Increased IL-10 Levels and Malaria Severity: A Systematic Review and Meta-Analysis.
+36668917	A Use of 56-kDa Recombinant Protein of Orientia tsutsugamushi Karp Serotype in Serodiagnosis of Scrub Typhus by Enzyme-Linked Immunosorbent Assay in Thais.
 36661980	Entomological Characteristics of Malaria Transmission across Benin: An Essential Element for Improved Deployment of Vector Control Interventions.
 36661943	Population Genetics of Anopheles pretoriensis in Grande Comore Island.
 36661364	New Iron Twist to Chloroquine─Upgrading Antimalarials with Immunomodulatory and Antimicrobial Features.
@@ -9990,10 +9997,3 @@
 33398458	Development of sustainable research excellence with a global perspective on infectious diseases: Centre de Recherches Médicales de Lambaréné (CERMEL), Gabon.
 33397841	A Southeast Asian Perspective on the COVID-19 Pandemic: Hemoglobin E (HbE)-Trait Confers Resistance Against COVID-19.
 33397548	Efficacy of artemisinin-lumefantrine for treatment of uncomplicated malaria after more than a decade of its use in Kenya.
-33397448	Plant nutrient quality impacts survival and reproductive fitness of the dengue vector Aedes aegypti.
-33397388	Public-private partnerships in primary health care: a scoping review.
-33397251	Malaria-induced Alterations of Drug Kinetics and Metabolism in Rodents and Humans.
-33396824	An Ultra-Sensitive Technique: Using Pv-mtCOX1 qPCR to Detect Early Recurrences of Plasmodium vivax in Patients in the Brazilian Amazon.
-33396538	Diagnostic Practices and Treatment for P. vivax in the InterEthnic Therapeutic Encounter of South-Central Vietnam: A Mixed-Methods Study.
-33395459	Accurate Malaria Diagnosis: Not Only Essential for Malaria Case Management, But Prerequisite for Managing Febrile Disease in the Tropics.
-33395287	Antitubercular 2-Pyrazolylpyrimidinones: Structure-Activity Relationship and Mode-of-Action Studies.
