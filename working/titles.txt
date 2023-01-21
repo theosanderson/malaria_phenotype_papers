@@ -1,3 +1,27 @@
+36680454	Baseline prevalence of molecular marker of sulfadoxine/pyrimethamine resistance in Ebonyi and Osun states, Nigeria: amplicon deep sequencing of dhps-540.
+36680436	Emerging integrase strand transfer inhibitor drug resistance mutations among children and adults on ART in Tanzania: findings from a national representative HIV drug resistance survey.
+36680348	George Stephen Penny (1885-1964): his life and medical encounters before, during and after admission to Broadmoor Criminal Lunatic Asylum.
+36680167	Development and Validation of a Rapid Screening Test for HTLV-I IgG Antibodies.
+36679099	Chemical Profile, Antioxidant and Anti-Inflammatory Potency of Extracts of Vitex madiensis Oliv. and Crossopteryx febrifuga (Afzel ex G. Don).
+36677853	An Attention towards the Prophylactic and Therapeutic Options of Phytochemicals for SARS-CoV-2: A Molecular Insight.
+36677018	Identification of Potential Leishmania N-Myristoyltransferase Inhibitors from Withania somnifera (L.) Dunal: A Molecular Docking and Molecular Dynamics Investigation.
+36676159	Informative Censoring-A Cause of Bias in Estimating COVID-19 Mortality Using Hospital Data.
+36674863	2,3-Diphosphoglycerate and the Protective Effect of Pyruvate Kinase Deficiency against Malaria Infection-Exploring the Role of the Red Blood Cell Membrane.
+36674135	Risk Factors Associated with Multimorbidity among Children Aged Under-Five Years in Sub-Saharan African Countries: A Scoping Review.
+36673849	Economic Burdens of Uncomplicated Malaria in Primary Health Care (PHC) Facilities of Plateau State, Nigeria: Patients' Perspectives.
+36673610	Healthcare Waste-A Serious Problem for Global Health.
+36673570	Outcomes and Challenges in Noncommunicable Disease Care Provision in Health Facilities Supported by Primary Health Care System Strengthening Project in Sri Lanka: A Mixed-Methods Study.
+36672793	Genetic Diversity of Cytochrome P450s CYP6M2 and CYP6P4 Associated with Pyrethroid Resistance in the Major Malaria Vectors Anopheles coluzzii and Anopheles gambiae from Yaoundé, Cameroon.
+36671732	An Overview of D7 Protein Structure and Physiological Roles in Blood-Feeding Nematocera.
+36671401	Use of Insect Promoters in Genetic Engineering to Control Mosquito-Borne Diseases.
+36671393	Sex-Specific Differences in Cytokine Induction by the Glycolipid Adjuvant 7DW8-5 in Mice.
+36671310	Antiparasitic Activities of Compounds Isolated from Aspergillus fumigatus Strain Discovered in Northcentral Nigeria.
+36670482	Measuring entomological parameters before implementing a study on asymptomatic carriers of Plasmodium falciparum in the Zè District in southern Benin.
+36670470	A new WHO bottle bioassay method to assess the susceptibility of mosquito vectors to public health insecticides: results from a WHO-coordinated multi-centre study.
+36670398	Unmanned aerial vehicles for surveillance and control of vectors of malaria and other vector-borne diseases.
+36669861	Determination of Mosquito Probing and Feeding Time to Evaluate Mosquito Blood Feeding.
+36669857	Quantifying Aedes aegypti Host Odor Preference Using a Two-Port Olfactometer.
+36669649	Fatal Systemic Haemosporidiosis in a Free-ranging Greater Sage-grouse (Centrocercus urophasianus).
 36669055	A Four-Year Survey of Hemoparasites from Nocturnal Raptors (Strigiformes) Confirms a Relation between Leucocytozoon and Low Hematocrit and Body Condition Scores of Parasitized Birds.
 36668974	Impact of the COVID-19 Pandemic on Malaria Control in Africa: A Preliminary Analysis.
 36668963	The Impact of Geographical Variation in Plasmodium knowlesi Apical Membrane Protein 1 (PkAMA-1) on Invasion Dynamics of P. knowlesi.
@@ -9973,27 +9997,3 @@
 33404643	High Prevalence of Molecular Markers of Plasmodium falciparum Resistance to Sulphadoxine-Pyrimethamine in Parts of Ghana: A Threat to ITPTp-SP?
 33404075	Differential expression of Triggering Receptor Expressed on Myeloid cells 2 (Trem2) in tissue eosinophils.
 33403998	Maintaining focus on administering effective malaria treatment during the COVID-19 pandemic.
-33403980	Implementing malaria control in South Africa, Eswatini and southern Mozambique during the COVID-19 pandemic.
-33402997	Household and individual risk factors of anaemia among under-5 children in Lesotho.
-33402949	Contributions of malaria, helminths, HIV and iron deficiency to anaemia in pregnant women attending ante-natal clinic in SouthWest Nigeria.
-33402908	Prevalence of plasmodium, leptospira and rickettsia species in Northern Tanzania: a community based survey.
-33402698	ATP synthase hexamer assemblies shape cristae of Toxoplasma mitochondria.
-33402433	Orthosteric-allosteric dual inhibitors of PfHT1 as selective antimalarial agents.
-33402186	Socio-economic determinants of malaria in tribal dominated Mandla district enrolled in Malaria Elimination Demonstration Project in Madhya Pradesh.
-33402172	A cost analysis to address issues of budget constraints on the implementation of the indoor residual spray programme in two districts of Maputo Province, Mozambique.
-33402160	Constructing a malaria-related health service readiness index and assessing its association with child malaria mortality: an analysis of the Burkina Faso 2014 SARA data.
-33402144	A timed tally counter for microscopic examination of thick blood smears in malaria studies.
-33401073	Locust epidemic in Africa raises environmental concerns.
-33401017	Elastase inhibitor agaphelin protects from acute ischemic stroke in mice by reducing thrombosis, blood-brain barrier damage, and inflammation.
-33400915	Performance of pirimiphos-methyl based Indoor Residual Spraying on entomological parameters of malaria transmission in the pyrethroid resistance region of Koulikoro, Mali.
-33400705	Cohort profile: Study on Zika virus infection in Brazil (ZIKABRA study).
-33400499	Mammalian Deubiquitinating Enzyme Inhibitors Display in Vitro and in Vivo Activity against Malaria Parasites and Potentiate Artemisinin Action.
-33399640	Congenital malaria by Plasmodium falciparum.
-33399047	The Effect of Ebola Virus Disease on Maternal and Child Health Services and Child Mortality in Sierra Leone, 2014-2015: Implications for COVID-19.
-33399043	Population Attributable Fraction of Anemia Associated with Plasmodium falciparum Infection in Children in Southern Malawi.
-33399042	Prevalence of Glucose-6-Phosphate Dehydrogenase Deficiency and Gametocytemia in a Pre-Elimination, Low Malaria Transmission Setting in Southern Zambia.
-33399040	Seroprevalence of Viral Hepatitis B and C and Knowledge of the Hepatitis B Virus among Pregnant Women Attending Prenatal Care in the Democratic Republic of Congo.
-33398890	Efficacy and safety of malarial prophylaxis with mefloquine during pregnancy in Kisangani, Democratic Republic of Congo: A randomized clinical trial.
-33398458	Development of sustainable research excellence with a global perspective on infectious diseases: Centre de Recherches Médicales de Lambaréné (CERMEL), Gabon.
-33397841	A Southeast Asian Perspective on the COVID-19 Pandemic: Hemoglobin E (HbE)-Trait Confers Resistance Against COVID-19.
-33397548	Efficacy of artemisinin-lumefantrine for treatment of uncomplicated malaria after more than a decade of its use in Kenya.
