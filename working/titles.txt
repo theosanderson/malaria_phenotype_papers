@@ -1,3 +1,6 @@
+36682939	A complex equation - adding to Plasmodium falciparum invasion.
+36682648	In vitro evaluation of alkaline lignins as antiparasitic agents and their use as an excipient in the release of benznidazole.
+36682368	Tackling post-discharge mortality in children living in LMICs to reduce child deaths.
 36681898	Bivalent intra-spike binding provides durability against emergent Omicron lineages: Results from a global consortium.
 36680984	New antiplasmodial 4-amino-thieno[3,2-d]pyrimidines with improved intestinal permeability and microsomal stability.
 36680454	Baseline prevalence of molecular marker of sulfadoxine/pyrimethamine resistance in Ebonyi and Osun states, Nigeria: amplicon deep sequencing of dhps-540.
@@ -9994,6 +9997,3 @@
 33407284	Intersection of HIV and Anemia in women of reproductive age: a 10-year analysis of three Zimbabwe demographic health surveys, 2005-2015.
 33406727	Polymorphism Analysis of pfmdr1 and pfcrt from Plasmodium falciparum Isolates in Northwestern Nigeria Revealed the Major Markers Associated with Antimalarial Resistance.
 33406601	Health Perceptions in Relation to Child Health and Mortality in a Rural Context, Sierra Leone: A Mixed Method Study.
-33406444	Phylogenetic analysis suggests single and multiple origins of dihydrofolate reductase mutations in Plasmodium vivax.
-33406148	Correction: Antimalarial drug resistance molecular markers of Plasmodium falciparum isolates from Sudan during 2015-2017.
-33404643	High Prevalence of Molecular Markers of Plasmodium falciparum Resistance to Sulphadoxine-Pyrimethamine in Parts of Ghana: A Threat to ITPTp-SP?
