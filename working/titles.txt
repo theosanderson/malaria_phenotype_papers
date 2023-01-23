@@ -1,3 +1,16 @@
+36688330	Dynamic response of red blood cells in health and disease.
+36688077	Avian haemosporidian parasites in captive and free-ranging, wild birds from zoological institutions in Switzerland: Molecular characterization and clinical importance.
+36687781	Anti-Plasmodial Effects of Different Ecotypes of Glycyrrhiza glabra Traditionally Used for Malaria in Iran.
+36687533	Sickle cells are not necessarily protective against falciparum- A case report.
+36686062	Heparin-Coated Dendronized Hyperbranched Polymers for Antimalarial Targeted Delivery.
+36685738	Quercetin nano phytosome: as a novel anti-leishmania and anti-malarial natural product.
+36685736	Automated malarial retinopathy detection using transfer learning and multi-camera retinal images.
+36685709	Free radical induced degradation and computational studies of hydroxychloroquine in aqueous solution.
+36685697	Licensed liposomal vaccines and adjuvants in the antigen delivery system.
+36685595	Host-parasite interactions during Plasmodium infection: Implications for immunotherapies.
+36685545	The challenges of Plasmodium vivax human malaria infection models for vaccine development.
+36683700	Therapeutic efficacy of dihydroartemisinin-piperaquine combination for the treatment of uncomplicated malaria in Ghana.
+36683611	Comparison of one single-antigen assay and three multi-antigen SARS-CoV-2 IgG assays in Nigeria.
 36682939	A complex equation - adding to Plasmodium falciparum invasion.
 36682648	In vitro evaluation of alkaline lignins as antiparasitic agents and their use as an excipient in the release of benznidazole.
 36682368	Tackling post-discharge mortality in children living in LMICs to reduce child deaths.
@@ -9984,16 +9997,3 @@
 33407529	KASP: a genotyping method to rapid identification of resistance in Plasmodium falciparum.
 33407512	Transition of radical, preventive and presumptive treatment regimens for malaria in China: a systematic review.
 33407511	Aedes aegypti SGS1 is critical for Plasmodium gallinaceum infection of both the mosquito midgut and salivary glands.
-33407502	Dendritic cell responses to Plasmodium falciparum in a malaria-endemic setting.
-33407496	Single blinded semi-field evaluation of MAÏA(®) topical repellent ointment compared to unformulated 20% DEET against Anopheles gambiae, Anopheles arabiensis and Aedes aegypti in Tanzania.
-33407493	Plasma angiopoietin-2 is associated with age-related deficits in cognitive sub-scales in Ugandan children following severe malaria.
-33407489	Community demand for comprehensive primary health care from malaria volunteers in South-East Myanmar: a qualitative study.
-33407488	Detecting Plasmodium falciparum in community surveys: a comparison of Paracheck Pf® Test and ICT Malaria Pf® Cassette Test to polymerase chain reaction in Mutasa District, Zimbabwe.
-33407474	Should we care about Plasmodium vivax and HIV co-infection? A systematic review and a cases series from the Brazilian Amazon.
-33407471	Has COVID19 derailed Bhutan's national malaria elimination goal? A commentary.
-33407463	Epidemiological profile of Plasmodium ovale spp. imported from Africa to Anhui Province, China, 2012-2019.
-33407454	Pharmacokinetic profile of amodiaquine and its active metabolite desethylamodiaquine in Ghanaian patients with uncomplicated falciparum malaria.
-33407438	Mapping evidence of mobile health technologies for disease diagnosis and treatment support by health workers in sub-Saharan Africa: a scoping review.
-33407284	Intersection of HIV and Anemia in women of reproductive age: a 10-year analysis of three Zimbabwe demographic health surveys, 2005-2015.
-33406727	Polymorphism Analysis of pfmdr1 and pfcrt from Plasmodium falciparum Isolates in Northwestern Nigeria Revealed the Major Markers Associated with Antimalarial Resistance.
-33406601	Health Perceptions in Relation to Child Health and Mortality in a Rural Context, Sierra Leone: A Mixed Method Study.
