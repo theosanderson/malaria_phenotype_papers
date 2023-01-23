@@ -1,3 +1,4 @@
+36681898	Bivalent intra-spike binding provides durability against emergent Omicron lineages: Results from a global consortium.
 36680984	New antiplasmodial 4-amino-thieno[3,2-d]pyrimidines with improved intestinal permeability and microsomal stability.
 36680454	Baseline prevalence of molecular marker of sulfadoxine/pyrimethamine resistance in Ebonyi and Osun states, Nigeria: amplicon deep sequencing of dhps-540.
 36680436	Emerging integrase strand transfer inhibitor drug resistance mutations among children and adults on ART in Tanzania: findings from a national representative HIV drug resistance survey.
@@ -9996,4 +9997,3 @@
 33406444	Phylogenetic analysis suggests single and multiple origins of dihydrofolate reductase mutations in Plasmodium vivax.
 33406148	Correction: Antimalarial drug resistance molecular markers of Plasmodium falciparum isolates from Sudan during 2015-2017.
 33404643	High Prevalence of Molecular Markers of Plasmodium falciparum Resistance to Sulphadoxine-Pyrimethamine in Parts of Ghana: A Threat to ITPTp-SP?
-33404075	Differential expression of Triggering Receptor Expressed on Myeloid cells 2 (Trem2) in tissue eosinophils.
