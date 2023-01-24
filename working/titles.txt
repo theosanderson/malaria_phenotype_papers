@@ -1,3 +1,8 @@
+36689665	Retention and Predictors of Attrition Among HIV-infected Children on Antiretroviral Therapy in Côte d'Ivoire Between 2012 and 2016.
+36689648	Role of Pfs47 in the dispersal of ancestral Plasmodium falciparum malaria through adaptation to different anopheline vectors.
+36689494	Euclasta condylotricha flowers essential oils: A new source of juvenile hormones and its larvicidal activity against Anopheles gambiae s.s. (Diptera: Culicidae).
+36689465	Cutaneous leishmaniasis treatment and therapeutic outcomes in special populations: A collaborative retrospective study.
+36689438	Chemokine modulation in microscopic and submicroscopic Plasmodium falciparum malaria infection in women at delivery in Yaoundé, Cameroon.
 36688330	Dynamic response of red blood cells in health and disease.
 36688077	Avian haemosporidian parasites in captive and free-ranging, wild birds from zoological institutions in Switzerland: Molecular characterization and clinical importance.
 36687781	Anti-Plasmodial Effects of Different Ecotypes of Glycyrrhiza glabra Traditionally Used for Malaria in Iran.
@@ -9992,8 +9997,3 @@
 33409412	Fight against COVID-19 but avoid disruption of services for other communicable diseases (CDs) and noncommunicable diseases (NCDs).
 33408232	Structure-Guided Design of a Synthetic Mimic of an Endothelial Protein C Receptor-Binding PfEMP1 Protein.
 33408226	Dichloroacetate and Pyruvate Metabolism: Pyruvate Dehydrogenase Kinases as Targets Worth Investigating for Effective Therapy of Toxoplasmosis.
-33407825	High concentrations of membrane-fed ivermectin are required for substantial lethal and sublethal impacts on Aedes aegypti.
-33407790	Laboratory and microcosm experiments reveal contrasted adaptive responses to ammonia and water mineralisation in aquatic stages of the sibling species Anopheles gambiae (sensu stricto) and Anopheles coluzzii.
-33407529	KASP: a genotyping method to rapid identification of resistance in Plasmodium falciparum.
-33407512	Transition of radical, preventive and presumptive treatment regimens for malaria in China: a systematic review.
-33407511	Aedes aegypti SGS1 is critical for Plasmodium gallinaceum infection of both the mosquito midgut and salivary glands.
