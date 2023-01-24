@@ -1,3 +1,8 @@
+36692923	The Effects of HIV Infection on the Immune Response to Malaria Among Pregnant Women in Kumba, Southwest Cameroon: Protocol for a Cross-sectional Study.
+36692507	Environmental exposures are important for type 2 diabetes pathophysiology in sub-Saharan African populations. Reply to Christensen D, Hjort L, Mpagama S et al [letter].
+36692468	Recent approaches in the drug research and development of novel antimalarial drugs with new targets.
+36692265	[Viruses to rescue health: Vaccination].
+36692019	Delayed boosting improves human antigen-specific Ig and B cell responses to the RH5.1/AS01B malaria vaccine.
 36691627	ABO blood group antigens and differential glycan expression: Perspective on the evolution of common human enzyme deficiencies.
 36691108	Local resource mobilization for malaria vector control among Rwandan rice farmers: a pilot study into the role of community ownership.
 36690988	Synergistic antimalarial treatment of Plasmodium berghei infection in mice with dihydroartemisinin and Gymnema inodorum leaf extract.
@@ -9992,8 +9997,3 @@
 33413379	Severe orthostatic hypotension in otherwise uncomplicated Plasmodium vivax infection.
 33413378	Molecular characterization of G6PD mutations reveals the high frequency of G6PD Aures in the Lao Theung population.
 33413370	A minimal 3D model of mosquito flight behaviour around the human baited bed net.
-33413206	How do private practitioners in Pakistan manage children suspected having tuberculosis? A cross sectional study.
-33413069	Repurposing Chloroquine Analogs as an Adjuvant Cancer Therapy.
-33412775	Infection Status of Gnathostoma spinigerum Larvae in Asian Swamp Eels, Monopterus albus, Purchased from Local Markets in Cambodia.
-33412765	Morphological and Molecular Diagnosis of Necator americanus and Ancylostoma ceylanicum Recovered from Villagers in Northern Cambodia.
-33412764	Surveillance on the Vivax Malaria in Endemic Areas in the Republic of Korea Based on Molecular and Serological Analyses.
