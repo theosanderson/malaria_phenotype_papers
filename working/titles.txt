@@ -1,3 +1,4 @@
+36691627	ABO blood group antigens and differential glycan expression: Perspective on the evolution of common human enzyme deficiencies.
 36691108	Local resource mobilization for malaria vector control among Rwandan rice farmers: a pilot study into the role of community ownership.
 36690988	Synergistic antimalarial treatment of Plasmodium berghei infection in mice with dihydroartemisinin and Gymnema inodorum leaf extract.
 36690390	Evaluation of Aedes aegypti Penetration, Probing, and Feeding Times on Mice.
@@ -32,6 +33,7 @@
 36680167	Development and Validation of a Rapid Screening Test for HTLV-I IgG Antibodies.
 36679099	Chemical Profile, Antioxidant and Anti-Inflammatory Potency of Extracts of Vitex madiensis Oliv. and Crossopteryx febrifuga (Afzel ex G. Don).
 36677853	An Attention towards the Prophylactic and Therapeutic Options of Phytochemicals for SARS-CoV-2: A Molecular Insight.
+36677674	First Phytochemical Profiling and In-Vitro Antiprotozoal Activity of Essential Oil and Extract of Plagiochila porelloides.
 36677018	Identification of Potential Leishmania N-Myristoyltransferase Inhibitors from Withania somnifera (L.) Dunal: A Molecular Docking and Molecular Dynamics Investigation.
 36676159	Informative Censoring-A Cause of Bias in Estimating COVID-19 Mortality Using Hospital Data.
 36674863	2,3-Diphosphoglycerate and the Protective Effect of Pyruvate Kinase Deficiency against Malaria Infection-Exploring the Role of the Red Blood Cell Membrane.
@@ -9995,5 +9997,3 @@
 33412775	Infection Status of Gnathostoma spinigerum Larvae in Asian Swamp Eels, Monopterus albus, Purchased from Local Markets in Cambodia.
 33412765	Morphological and Molecular Diagnosis of Necator americanus and Ancylostoma ceylanicum Recovered from Villagers in Northern Cambodia.
 33412764	Surveillance on the Vivax Malaria in Endemic Areas in the Republic of Korea Based on Molecular and Serological Analyses.
-33411818	Etiology of lactic acidosis in malaria.
-33411795	Exploring the influence of deforestation on dengue fever incidence in the Brazilian Amazonas state.
