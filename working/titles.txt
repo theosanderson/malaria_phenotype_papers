@@ -1,3 +1,4 @@
+36693048	Etiology and clinical characteristics of pediatric acute fever among hospitalized children in an endemic malaria transmission area of Cameroon in Central Africa.
 36692923	The Effects of HIV Infection on the Immune Response to Malaria Among Pregnant Women in Kumba, Southwest Cameroon: Protocol for a Cross-sectional Study.
 36692507	Environmental exposures are important for type 2 diabetes pathophysiology in sub-Saharan African populations. Reply to Christensen D, Hjort L, Mpagama S et al [letter].
 36692468	Recent approaches in the drug research and development of novel antimalarial drugs with new targets.
@@ -9996,4 +9997,3 @@
 33413383	Correlation of textile 'resistance to damage' scores with actual physical survival of long-lasting insecticidal nets in the field.
 33413379	Severe orthostatic hypotension in otherwise uncomplicated Plasmodium vivax infection.
 33413378	Molecular characterization of G6PD mutations reveals the high frequency of G6PD Aures in the Lao Theung population.
-33413370	A minimal 3D model of mosquito flight behaviour around the human baited bed net.
