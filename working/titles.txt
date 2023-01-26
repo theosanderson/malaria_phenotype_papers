@@ -1,3 +1,9 @@
+36696650	A rising tide of parasite transcriptomics propels pathogen biology.
+36696483	Malaria-driven expansion of adaptive-like functional CD56-negative NK cells correlates with clinical immunity to malaria.
+36696460	Handheld Purification-Free Nucleic Acid Testing Device for Point-of-Need Detection of Malaria from Whole Blood.
+36696458	Short tandem repeat polymorphism in the promoter region of cyclophilin 19B drives its transcriptional upregulation and contributes to drug resistance in the malaria parasite Plasmodium falciparum.
+36696438	Malian children infected with Plasmodium ovale and Plasmodium falciparum display very similar gene expression profiles.
+36696414	The impact of ABO and RhD blood types on Babesia microti infection.
 36695302	RNA-Seq-Pop: Exploiting the sequence in RNA-Seq - a Snakemake workflow reveals patterns of insecticide resistance in the malaria vector Anopheles gambiae.
 36695215	Prospective study of pyrexia with pregnancy.
 36694975	Unusual blood smear with multiple stages of plasmodium falciparum infection and intraleukocytic malaria pigments in an expatriate with severe malaria and delayed clearance of parasites.
@@ -9991,9 +9997,3 @@
 33415404	Dihydroartemisinin, an active metabolite of artemisinin, interferes with Leishmania braziliensis mitochondrial bioenergetics and survival.
 33415388	Mining increases the prevalence of avian haemosporidian parasites in Northeast Amazonia.
 33415064	A Case Report of Babesiosis Seen Outside of its Endemic Area and Incubation Period.
-33414935	Acute Kidney Injuries in Children with Severe Malaria: A comparative study of diagnostic criteria based on serum cystatin C and creatinine levels.
-33413683	Plasmodium-a brief introduction to the parasites causing human malaria and their basic biology.
-33413680	Accessing the syndemic of COVID-19 and malaria intervention in Africa.
-33413417	Effect of 4 years of seasonal malaria chemoprevention on the acquisition of antibodies to Plasmodium falciparum antigens in Ouelessebougou, Mali.
-33413408	Significance of training, monitoring and assessment of malaria workers in achieving malaria elimination goal of Malaria Elimination Demonstration Project.
-33413402	Knowledge and practices regarding malaria and the National Treatment Guidelines among public health workers in Equatorial Guinea.
