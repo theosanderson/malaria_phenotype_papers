@@ -1,3 +1,5 @@
+36699053	Activity of the genus Zanthoxylum against diseases caused by protozoa: A systematic review.
+36698775	Platelet Parameters and Their Correlation with Parasitemia Levels Among Malaria Infected Adult Patients at Jinella Health Center, Harar, Eastern Ethiopia: Comparative Cross-Sectional Study.
 36698187	FT-GPI, a highly sensitive and accurate predictor of GPI-anchored proteins, reveals the composition and evolution of the GPI proteome in Plasmodium species.
 36698185	Prevalence of asymptomatic malaria and associated factors among pregnant women at Boset District in East Shoa Zone, Oromia Region, Ethiopia: a cross-sectional study.
 36698147	Entomological Surveillance Planning Tool (ESPT)-generated actionable evidence on human and vector behaviours optimizes present interventions and reduces exposure to Anopheles vectors in two communities of Guna Yala, Panamá.
@@ -9995,5 +9997,3 @@
 33419670	A Network Perspective on the Vectoring of Human Disease.
 33418115	Overexpression of glucose 6 phosphate dehydrogenase preserves mouse pancreatic beta cells function until late in life.
 33417880	femaleless Controls Sex Determination and Dosage Compensation Pathways in Females of Anopheles Mosquitoes.
-33417683	The Duration of Protection from Azithromycin Against Malaria, Acute Respiratory, Gastrointestinal, and Skin Infections When Given Alongside Seasonal Malaria Chemoprevention: Secondary Analyses of Data from a Clinical Trial in Houndé, Burkina Faso, and Bougouni, Mali.
-33417600	Randomized trials of housing interventions to prevent malaria and Aedes-transmitted diseases: A systematic review and meta-analysis.
