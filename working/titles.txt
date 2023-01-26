@@ -1,3 +1,9 @@
+36698187	FT-GPI, a highly sensitive and accurate predictor of GPI-anchored proteins, reveals the composition and evolution of the GPI proteome in Plasmodium species.
+36698185	Prevalence of asymptomatic malaria and associated factors among pregnant women at Boset District in East Shoa Zone, Oromia Region, Ethiopia: a cross-sectional study.
+36698147	Entomological Surveillance Planning Tool (ESPT)-generated actionable evidence on human and vector behaviours optimizes present interventions and reduces exposure to Anopheles vectors in two communities of Guna Yala, Panamá.
+36698132	Plasmodium malariae contributes to high levels of malaria transmission in a forest-savannah transition area in Cameroon.
+36698124	"A comparative analysis of risk factors of malaria" case study Gisagara and Bugesera District of Rwanda. RDHS 2014/2015. A retrospective study.
+36697413	Projected health impact of post-discharge malaria chemoprevention among children with severe malarial anaemia in Africa.
 36696650	A rising tide of parasite transcriptomics propels pathogen biology.
 36696483	Malaria-driven expansion of adaptive-like functional CD56-negative NK cells correlates with clinical immunity to malaria.
 36696460	Handheld Purification-Free Nucleic Acid Testing Device for Point-of-Need Detection of Malaria from Whole Blood.
@@ -6617,6 +6623,7 @@
 34496850	Improving the quality of malaria diagnosis in southern Africa through the development of a regional malaria slide bank.
 34496833	Anti-dengue activity of super critical extract and isolated oleanolic acid of Leucas cephalotes using in vitro and in silico approach.
 34496566	Development of a Fast Chemiluminescent Magneto-Immunoassay for Sensitive Plasmodium falciparum Detection in Whole Blood.
+36697584	Comparing infrared spectroscopic methods for the characterization of Plasmodium falciparum-infected human erythrocytes.
 34495988	A three-antigen Plasmodium falciparum DNA prime-Adenovirus boost malaria vaccine regimen is superior to a two-antigen regimen and protects against controlled human malaria infection in healthy malaria-naïve adults.
 34495978	Effectiveness of seasonal malaria chemoprevention (SMC) treatments when SMC is implemented at scale: Case-control studies in 5 countries.
 34495956	Dynamics of G6PD activity in patients receiving weekly primaquine for therapy of Plasmodium vivax malaria.
@@ -9990,10 +9997,3 @@
 33417880	femaleless Controls Sex Determination and Dosage Compensation Pathways in Females of Anopheles Mosquitoes.
 33417683	The Duration of Protection from Azithromycin Against Malaria, Acute Respiratory, Gastrointestinal, and Skin Infections When Given Alongside Seasonal Malaria Chemoprevention: Secondary Analyses of Data from a Clinical Trial in Houndé, Burkina Faso, and Bougouni, Mali.
 33417600	Randomized trials of housing interventions to prevent malaria and Aedes-transmitted diseases: A systematic review and meta-analysis.
-33417508	Implications of Insecticide-Treated Mosquito Net Fishing in Lower Income Countries.
-33416507	Impact Evaluation of the Kenya Frontline Field Epidemiology Training Program: Repeated-Measures Study.
-33416018	Highly potent anti-malarial activity of benzopyrano(4,3-b)benzopyran derivatives and in silico interaction analysis with putative target Plasmodium falciparum lactate dehydrogenase.
-33415795	Febrile seizures in an urban Tanzanian population: lessons learned from a community-based random cluster survey.
-33415404	Dihydroartemisinin, an active metabolite of artemisinin, interferes with Leishmania braziliensis mitochondrial bioenergetics and survival.
-33415388	Mining increases the prevalence of avian haemosporidian parasites in Northeast Amazonia.
-33415064	A Case Report of Babesiosis Seen Outside of its Endemic Area and Incubation Period.
