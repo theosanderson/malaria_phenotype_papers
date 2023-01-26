@@ -1,3 +1,5 @@
+36701108	Neurobehavioral and biochemical responses to artemisinin-based drug and aflatoxin B(1) co-exposure in rats.
+36700582	Intravenous whole blood transfusion results in faster recovery of vascular integrity and increased survival in experimental cerebral malaria.
 36699053	Activity of the genus Zanthoxylum against diseases caused by protozoa: A systematic review.
 36698775	Platelet Parameters and Their Correlation with Parasitemia Levels Among Malaria Infected Adult Patients at Jinella Health Center, Harar, Eastern Ethiopia: Comparative Cross-Sectional Study.
 36698187	FT-GPI, a highly sensitive and accurate predictor of GPI-anchored proteins, reveals the composition and evolution of the GPI proteome in Plasmodium species.
@@ -9995,5 +9997,3 @@
 33420104	Exposure to pesticides in utero impacts the fetal immune system and response to vaccination in infancy.
 33419671	Essential Genes of the Parasitic Apicomplexa.
 33419670	A Network Perspective on the Vectoring of Human Disease.
-33418115	Overexpression of glucose 6 phosphate dehydrogenase preserves mouse pancreatic beta cells function until late in life.
-33417880	femaleless Controls Sex Determination and Dosage Compensation Pathways in Females of Anopheles Mosquitoes.
