@@ -1,3 +1,5 @@
+36867378	A novel pharmacological mechanism of anti-cancer drugs that induce pyroptosis.
+36867305	Ancestry, diversity, and genetics of health-related traits in African-derived communities (quilombos) from Brazil.
 36865611	Severe Malaria in an Adult Patient from Low-Endemic Area in Flores Island, East Nusa Tenggara.
 36865392	Concurrent Dengue-Malaria Infection: The Importance of Acute Febrile Illness in Endemic Zones.
 36865135	Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar.
@@ -9995,5 +9997,3 @@
 33564677	Human ABO Blood Groups and Their Associations with Different Diseases.
 33564468	Analysis of Five-Year Trend of Malaria at Bichena Primary Hospital, Amhara Region, Ethiopia.
 33563839	Hemozoin Promotes Lung Inflammation via Host Epithelial Activation.
-33563273	A comparative analysis of the outcome of malaria case surveillance strategies in Sri Lanka in the prevention of re-establishment phase.
-33563234	Outcomes for 298 breastfed neonates whose mothers received ketamine and diazepam for postpartum tubal ligation in a resource-limited setting.
