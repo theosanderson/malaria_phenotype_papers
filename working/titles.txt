@@ -1,3 +1,10 @@
+36865611	Severe Malaria in an Adult Patient from Low-Endemic Area in Flores Island, East Nusa Tenggara.
+36865392	Concurrent Dengue-Malaria Infection: The Importance of Acute Febrile Illness in Endemic Zones.
+36865135	Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar.
+36865132	Detecting temporal and spatial malaria patterns from first antenatal care visits.
+36864926	Pf7: an open dataset of Plasmodium falciparum genome variation in 20,000 worldwide samples.
+36864915	Socioepidemiological macro-determinants associated with the cumulative incidence of bacterial meningitis: A focus on the African Meningitis Belt.
+36864888	Pattern of admissions and outcome in the children emergency department of a tertiary health institution in Southwestern Nigeria: A four-year review.
 36864514	Sub-microscopic Plasmodium falciparum parasitaemia, dihydropteroate synthase (dhps) resistance mutations to sulfadoxine-pyrimethamine, transmission intensity and risk of malaria infection in pregnancy in Mount Cameroon Region.
 36864430	Larval habitat stability and productivity in two sites in Southern Ghana.
 36862755	The salivary protein Saglin facilitates efficient midgut colonization of Anopheles mosquitoes by malaria parasites.
@@ -9990,10 +9997,3 @@
 33563839	Hemozoin Promotes Lung Inflammation via Host Epithelial Activation.
 33563273	A comparative analysis of the outcome of malaria case surveillance strategies in Sri Lanka in the prevention of re-establishment phase.
 33563234	Outcomes for 298 breastfed neonates whose mothers received ketamine and diazepam for postpartum tubal ligation in a resource-limited setting.
-33563191	A Review on Development and Characterization of a Cost-effective Targeted Quality-driven Antimalarial Product with an Emphasis on Phytosomes.
-33562771	Phytochemical Investigation and Biological Activities of Lantana rhodesiensis.
-33562650	Two 20-Residue-Long Peptides Derived from Plasmodium vivax Merozoite Surface Protein 10 EGF-Like Domains Are Involved in Binding to Human Reticulocytes.
-33562617	Transdermal Immunization of Elastic Liposome-Laden Recombinant Chimeric Fusion Protein of P. falciparum (PfMSP-Fu(24)) Mounts Protective Immune Response.
-33562440	The Role of the ATP-Binding Cassette A1 (ABCA1) in Human Disease.
-33562248	Tedaniophorbasins A and B-Novel Fluorescent Pteridine Alkaloids Incorporating a Thiomorpholine from the Sponge Tedaniophorbas ceratosis.
-33561686	Impact on cholinesterase-inhibition and in silico investigations of sesquiterpenoids from Amazonian Siparuna guianensis Aubl.
