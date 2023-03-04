@@ -1,3 +1,4 @@
+36867578	Revisiting the morphology of Lamproderma reveals incongruities among the taxonomic characteristics of higher classifications of Myxomycetes.
 36867378	A novel pharmacological mechanism of anti-cancer drugs that induce pyroptosis.
 36867305	Ancestry, diversity, and genetics of health-related traits in African-derived communities (quilombos) from Brazil.
 36865611	Severe Malaria in an Adult Patient from Low-Endemic Area in Flores Island, East Nusa Tenggara.
@@ -9996,4 +9997,3 @@
 33565123	Integrated community case management of childhood illness in low- and middle-income countries.
 33564677	Human ABO Blood Groups and Their Associations with Different Diseases.
 33564468	Analysis of Five-Year Trend of Malaria at Bichena Primary Hospital, Amhara Region, Ethiopia.
-33563839	Hemozoin Promotes Lung Inflammation via Host Epithelial Activation.
