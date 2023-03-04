@@ -1,3 +1,7 @@
+36869137	Rickettsia felis DNA recovered from a child who lived in southern Africa 2000 years ago.
+36869034	Variable microtubule architecture in the malaria parasite.
+36868319	The decrease in plasma cholesterol during Plasmodium falciparum infections is not caused by cholesterol utilization by the parasites but by an infection-induced acute-phase response.
+36868216	Public Health Challenges in the Context of the Global Spread of Mpox Infections.
 36867578	Revisiting the morphology of Lamproderma reveals incongruities among the taxonomic characteristics of higher classifications of Myxomycetes.
 36867378	A novel pharmacological mechanism of anti-cancer drugs that induce pyroptosis.
 36867305	Ancestry, diversity, and genetics of health-related traits in African-derived communities (quilombos) from Brazil.
@@ -9993,7 +9997,3 @@
 33566952	Transmission-blocking compound candidates against Plasmodium vivax using P. berghei as an initial screening.
 33566850	Community health worker knowledge, attitudes and practices towards COVID-19: Learnings from an online cross-sectional survey using a digital health platform, UpSCALE, in Mozambique.
 33566096	Phylogenomics Identifies a New Major Subgroup of Apicomplexans, Marosporida class nov., with Extreme Apicoplast Genome Reduction.
-33565879	Leveraging Peptaibol Biosynthetic Promiscuity for Next-Generation Antiplasmodial Therapeutics.
-33565123	Integrated community case management of childhood illness in low- and middle-income countries.
-33564677	Human ABO Blood Groups and Their Associations with Different Diseases.
-33564468	Analysis of Five-Year Trend of Malaria at Bichena Primary Hospital, Amhara Region, Ethiopia.
