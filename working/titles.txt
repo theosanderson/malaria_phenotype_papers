@@ -1,3 +1,4 @@
+36869438	Biological functions and structural biology of Plasmodium falciparum autophagy-related proteins: the under-explored options for novel antimalarial drug design.
 36869137	Rickettsia felis DNA recovered from a child who lived in southern Africa 2000 years ago.
 36869034	Variable microtubule architecture in the malaria parasite.
 36868319	The decrease in plasma cholesterol during Plasmodium falciparum infections is not caused by cholesterol utilization by the parasites but by an infection-induced acute-phase response.
@@ -9996,4 +9997,3 @@
 33567273	Atypical B cells are part of an alternative lineage of B cells that participates in responses to vaccination and infection in humans.
 33566952	Transmission-blocking compound candidates against Plasmodium vivax using P. berghei as an initial screening.
 33566850	Community health worker knowledge, attitudes and practices towards COVID-19: Learnings from an online cross-sectional survey using a digital health platform, UpSCALE, in Mozambique.
-33566096	Phylogenomics Identifies a New Major Subgroup of Apicomplexans, Marosporida class nov., with Extreme Apicoplast Genome Reduction.
