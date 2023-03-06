@@ -1,3 +1,11 @@
+36876062	Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches.
+36875524	Rosette formation by Plasmodium vivax gametocytes favors the infection in Anopheles aquasalis.
+36875425	Malaria knowledge, attitude, and practice among communities involved in a seasonal malaria chemoprevention study in Nanyumbu and Masasi districts, Tanzania.
+36875126	A tool for evaluating heterogeneity in avidity of polyclonal antibodies.
+36874585	Risk factor-based screening compared to universal screening for gestational diabetes mellitus in marginalized Burman and Karen populations on the Thailand-Myanmar border: An observational cohort.
+36874567	The genome sequence of the malaria mosquito, Anopheles funestus, Giles, 1900.
+36874000	Therapeutic potential of artemisinin and its derivatives in managing kidney diseases.
+36873877	Editorial: Current research on serological analyses of infectious diseases.
 36872344	Association of G6PD status and haemolytic anaemia in patients receiving anti-malarial agents: a systematic review and meta-analysis.
 36872343	Effects of the COVID-19 pandemic on general health and malaria control in Ghana: a qualitative study with mothers and health care professionals.
 36871259	Assessing trainee critical thinking skills using a novel interactive online learning tool.
@@ -9989,11 +9997,3 @@
 33571202	Social and environmental risk factors for dengue in Delhi city: A retrospective study.
 33571161	Malaria in an asylum seeker paediatric liver transplant recipient: diagnostic challenges for migrant population.
 33571160	Malaria epidemic in humanitarian crisis settings the case of South Kordofan state, Sudan.
-33570245	Chemical Biology Tools To Investigate Malaria Parasites.
-33568678	Genotyping cognate Plasmodium falciparum in humans and mosquitoes to estimate onward transmission of asymptomatic infections.
-33568524	Erratum for the Research Article: "Antimalarial pantothenamide metabolites target acetyl-coenzyme A biosynthesis in Plasmodium falciparum" by J. Schalkwijk, E. L. Allman, P. A. M. Jansen, L. E. de Vries, J. M. J. Verhoef, S. Jackowski, P. N. M. Botman, C. A. Beuckens-Schortinghuis, K. M. J. Koolen, J. M. Bolscher, M. W. Vos, K. Miller, S. A. Reeves, H. Pett, G. Trevitt, S. Wittlin, C. Scheurer, S. Sax, C. Fischli, I. Angulo-Barturen, M. B. Jimenez-Diaz, G. Josling, T. W. A. Kooij, R. Bonnert, B. Campo, R. H. Blaauw, F. P. J. T. Rutjes, R. W. Sauerwein, M. Llinas, P. H. H. Hermkens, K. J. Dechering.
-33568467	Antibody Responses to Two Recombinant Treponemal Antigens (rp17 and TmpA) before and after Azithromycin Treatment for Yaws in Ghana and Papua New Guinea.
-33568162	Experimental study of newly described avian malaria parasite Plasmodium (Novyella) collidatum n. sp., genetic lineage pFANTAIL01 obtained from South Asian migrant bird.
-33568145	Hidden genomic features of an invasive malaria vector, Anopheles stephensi, revealed by a chromosome-level genome assembly.
-33568138	Phagocytosis and activation of bone marrow-derived macrophages by Plasmodium falciparum gametocytes.
-33568137	Incremental impact on malaria incidence following indoor residual spraying in a highly endemic area with high standard ITN access in Mozambique: results from a cluster-randomized study.
