@@ -1,3 +1,4 @@
+36871259	Assessing trainee critical thinking skills using a novel interactive online learning tool.
 36870976	The spatial signature of Plasmodium vivax and Plasmodium falciparum infections: quantifying the clustering of infections in cross-sectional surveys and cohort studies.
 36870966	Accuracy of diagnosis among clinical malaria patients: comparing microscopy, RDT and a highly sensitive quantitative PCR looking at the implications for submicroscopic infections.
 36870358	Hydroxyurea with dose escalation for primary stroke risk reduction in children with sickle cell anaemia in Tanzania (SPHERE): an open-label, phase 2 trial.
@@ -9996,4 +9997,3 @@
 33568137	Incremental impact on malaria incidence following indoor residual spraying in a highly endemic area with high standard ITN access in Mozambique: results from a cluster-randomized study.
 33568131	Correction to: Culturable bacteria associated with Anopheles darlingi and their paratransgenesis potential.
 33568125	"An epoch-making and blessed moment in the history of medicine" -thoughts on international health equity and the Nobel prize in medicine.
-33568076	Knowledge about cataract and associated factors among adults in Yirgalem town, Sidama National Regional State, southern Ethiopia, 2020: a community based cross sectional study design.
