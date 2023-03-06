@@ -1,3 +1,5 @@
+36872344	Association of G6PD status and haemolytic anaemia in patients receiving anti-malarial agents: a systematic review and meta-analysis.
+36872343	Effects of the COVID-19 pandemic on general health and malaria control in Ghana: a qualitative study with mothers and health care professionals.
 36871259	Assessing trainee critical thinking skills using a novel interactive online learning tool.
 36870976	The spatial signature of Plasmodium vivax and Plasmodium falciparum infections: quantifying the clustering of infections in cross-sectional surveys and cohort studies.
 36870966	Accuracy of diagnosis among clinical malaria patients: comparing microscopy, RDT and a highly sensitive quantitative PCR looking at the implications for submicroscopic infections.
@@ -184,7 +186,7 @@
 36805693	How Zambia reduced inequalities in under-five mortality rates over the last two decades: a mixed-methods study.
 36805673	PCR-RFLP assays for the identification of Anopheles (Diptera: Culicidae) species circulating in Honduras.
 36805620	Development and comparative evaluation of SARS-CoV-2 S-RBD and N based ELISA tests in various African endemic settings.
-36805325	In-Hospital Mortality Risk Stratification in Children Under 5 Years Old with Pneumonia with or without Pulse Oximetry: A Secondary Analysis of the Pneumonia REsearch Partnership to Assess WHO REcommendations (PREPARE) Dataset.
+36805325	In-hospital mortality risk stratification in children aged under 5 years with pneumonia with or without pulse oximetry: A secondary analysis of the Pneumonia REsearch Partnership to Assess WHO REcommendations (PREPARE) dataset.
 36804959	Interplay between liver and blood stages of Plasmodium infection dictates malaria severity via γδ T cells and IL-17-promoted stress erythropoiesis.
 36804382	Genomic framework for malaria parasites: challenging but necessary.
 36803987	Status of malaria in pregnancy services in Madagascar 2010-2021: a scoping review.
@@ -198,7 +200,7 @@
 36802523	Pyrido-Dibemequine Metabolites Exhibit Improved Druglike Features, Inhibit Hemozoin Formation in Plasmodium falciparum, and Synergize with Clinical Antimalarials.
 36802396	Adherence to the test, treat and track strategy for malaria control among prescribers, Mfantseman Municipality, Central Region, Ghana.
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
-36801374	The effect of IL-6 signalling on severe malaria: A Mendelian randomisation analysis.
+36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
 36800986	Malaria amongst children under five in sub-Saharan Africa: a scoping review of prevalence, risk factors and preventive interventions.
 36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
 36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
@@ -9995,5 +9997,3 @@
 33568145	Hidden genomic features of an invasive malaria vector, Anopheles stephensi, revealed by a chromosome-level genome assembly.
 33568138	Phagocytosis and activation of bone marrow-derived macrophages by Plasmodium falciparum gametocytes.
 33568137	Incremental impact on malaria incidence following indoor residual spraying in a highly endemic area with high standard ITN access in Mozambique: results from a cluster-randomized study.
-33568131	Correction to: Culturable bacteria associated with Anopheles darlingi and their paratransgenesis potential.
-33568125	"An epoch-making and blessed moment in the history of medicine" -thoughts on international health equity and the Nobel prize in medicine.
