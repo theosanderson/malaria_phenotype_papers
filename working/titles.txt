@@ -1,3 +1,11 @@
+36877890	Dehydration and self-cell cleaning by a single cell drives the formation of fruiting body of Lamproderma columbinum (Myxomycetes).
+36877835	Modeling malaria elimination with changing landscapes, climate, and potentially invasive vectors.
+36877739	Structure and function of Plasmodium actin II in the parasite mosquito stages.
+36877726	Health itinerary-related survival of children under-five with severe malaria or bloodstream infection, DR Congo.
+36877567	Updating the Data on Malaria Vectors in Malaysia: Protocol for a Scoping Review.
+36877173	Structure-Based Design of Bisubstrate Tetracycline Destructase Inhibitors That Block Flavin Redox Cycling.
+36877065	The Use of the Antigenically Variable Major Surface Protein 2 in the Establishment of Superinfection during Natural Tick Transmission of Anaplasma marginale in Southern Ghana.
+36876838	Metallopeptidases as Key Virulence Attributes of Clinically Relevant Protozoa: New Discoveries, Perspectives, and Frontiers of Knowledge.
 36876062	Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches.
 36875524	Rosette formation by Plasmodium vivax gametocytes favors the infection in Anopheles aquasalis.
 36875425	Malaria knowledge, attitude, and practice among communities involved in a seasonal malaria chemoprevention study in Nanyumbu and Masasi districts, Tanzania.
@@ -368,7 +376,7 @@
 36744922	Host-Erythrocytic Sphingosine-1-Phosphate Regulates Plasmodium Histone Deacetylase Activity and Exhibits Epigenetic Control over Cell Death and Differentiation.
 36744465	Antiplasmodial activity of coumarins isolated from Polygala boliviensis: in vitro and in silico studies.
 36744427	Unsupervised machine learning, QSAR modelling and web tool development for streamlining the lead identification process of antimalarial flavonoids.
-36744402	An essential ER-resident N-acetyltransferase ortholog in Plasmodium falciparum.
+36744402	An essential endoplasmic reticulum-resident N-acetyltransferase ortholog in Plasmodium falciparum.
 36743738	Climate Drivers of Malaria Transmission Seasonality and Their Relative Importance in Sub-Saharan Africa.
 36743532	Towards greenhouse cultivation of Artemisia annua: The application of LEDs in regulating plant growth and secondary metabolism.
 36742687	Ototoxicity of Artemisinin-Based Combination Therapy: A Case Presentation.
@@ -2806,7 +2814,7 @@
 35890202	Siccanin Is a Dual-Target Inhibitor of Plasmodium falciparum Mitochondrial Complex II and Complex III.
 35890200	Naturally Occurring 8ß,13ß-kaur-15-en-17-al and Anti-Malarial Activity from Podocarpus polystachyus Leaves.
 35890119	4-Substituted Thieno[3,2-d]pyrimidines as Dual-Stage Antiplasmodial Derivatives.
-35890113	Synthesis, Structure-Activity Relationships, and Parasitological Profiling of Brussonol Derivatives as New Plasmodium&amp;nbsp;falciparum Inhibitors.
+35890113	Synthesis, Structure−Activity Relationships, and Parasitological Profiling of Brussonol Derivatives as New Plasmodium falciparum Inhibitors.
 35889983	Multiplexing for Plasmodium spp.? Think Again! Comment on Bhowmick et al. Dry Post Wintertime Mass Surveillance Unearths a Huge Burden of P. vivax, and Mixed Infection with P. vivax&amp;nbsp;P. falciparum, a Threat to Malaria Elimination, in Dhalai, Tripura, India. Pathogens 2021, 10, 1259.
 35889975	It Is Time to Strengthen the Malaria Control Policy of the Democratic Republic of Congo and Include Schools and School-Age Children in Malaria Control Measures.
 35889972	Prevalence of Transfusion-Transmitted Infections (HCV, HIV, Syphilis and Malaria) in Blood Donors: A Large-Scale Cross-Sectional Study.
@@ -9989,11 +9997,3 @@
 33574457	IgG acquisition against PfEMP1 PF11_0521 domain cassette DC13, DBLβ3_D4 domain, and peptides located within these constructs in children with cerebral malaria.
 33573529	Protection against severe infectious disease in the past.
 33573376	Identification and Profiling of a Novel Diazaspiro[3.4]octane Chemical Series Active against Multiple Stages of the Human Malaria Parasite Plasmodium falciparum and Optimization Efforts.
-33573227	Melt-Spun Poly(D,L-lactic acid) Monofilaments Containing N,N-Diethyl-3-methylbenzamide as Mosquito Repellent.
-33572803	Orientation of Antigen Display on Self-Assembling Protein Nanoparticles Influences Immunogenicity.
-33572240	An Evaluation of Antibiotic Prescribing Practices in a Rural Refugee Settlement District in Uganda.
-33572053	Current Status and the Epidemiology of Malaria in the Middle East Region and Beyond.
-33571267	Impact of iron fortification on anaemia and iron deficiency among pre-school children living in Rural Ghana.
-33571202	Social and environmental risk factors for dengue in Delhi city: A retrospective study.
-33571161	Malaria in an asylum seeker paediatric liver transplant recipient: diagnostic challenges for migrant population.
-33571160	Malaria epidemic in humanitarian crisis settings the case of South Kordofan state, Sudan.
