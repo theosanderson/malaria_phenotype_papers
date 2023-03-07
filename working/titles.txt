@@ -1,3 +1,4 @@
+36880049	A novel nano-iron supplement versus standard treatment for iron deficiency anaemia in children 6-35 months (IHAT-GUT trial): a double-blind, randomised, placebo-controlled non-inferiority phase II trial in The Gambia.
 36879291	Medicinal plant-derived mtDNA via nanovesicles induces the cGAS-STING pathway to remold tumor-associated macrophages for tumor regression.
 36879278	Predictors of optimal uptake of intermittent preventive treatment of malaria in pregnancy using sulfadoxine-pyrimethamine and outcome of pregnancy in selected health facilities: a cross-sectional study in Northern Ghana.
 36879244	Senna occidentalis (L.) Link root extract inhibits Plasmodium growth in vitro and in mice.
@@ -690,7 +691,7 @@
 36618915	Assessment of toxicity and anti-plasmodial activities of chloroform fractions of Carapa procera and Alchornea cordifolia in murine models.
 36618355	MiR-451a and let-7i-5p loaded extracellular vesicles attenuate heme-induced inflammation in hiPSC-derived endothelial cells.
 36617811	Gymnema inodorum Leaf Extract Improves Cardiac Function in Experimental Mice Infected with Plasmodium Berghei.
-36617500	Development of Potent and Highly Selective Epoxyketone-based Plasmodium Proteasome Inhibitors.
+36617500	Development of Potent and Highly Selective Epoxyketone-Based Plasmodium Proteasome Inhibitors.
 36617302	Epidemiologic utility of a framework for partition number selection when dissecting hierarchically clustered genetic data evaluated on the intestinal parasite Cyclospora cayetanensis.
 36615504	Synthesis and Antiprotozoal Activity of Azabicyclo-Nonane Pyrimidine Hybrids.
 36615340	Global Analysis of Plasmodium falciparum Dihydropteroate Synthase Variants Associated with Sulfadoxine Resistance Reveals Variant Distribution and Mechanisms of Resistance: A Computational-Based Study.
@@ -9996,4 +9997,3 @@
 33579285	Plasmodium falciparum outbreak in native communities of Condorcanqui, Amazonas, Perú.
 33579265	A randomized placebo-controlled phase I clinical trial to evaluate the immunomodulatory activities of Atractylodes lancea (Thunb) DC. in healthy Thai subjects.
 33579205	Impact of delays to incubation and storage temperature on blood culture results: a multi-centre study.
-33577781	Strengthening measurement and performance of HIV prevention programmes.
