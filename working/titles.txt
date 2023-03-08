@@ -1,3 +1,4 @@
+36881629	Standing genetic variation and chromosome differences drove rapid ecotype formation in a major malaria mosquito.
 36881034	Effect of Intrapartum Azithromycin vs Placebo on Neonatal Sepsis and Death: A Randomized Clinical Trial.
 36880488	Accelerating the prevention, control and elimination of communicable diseases through integration and optimization of the support from Gavi and Global Fund: A vision for the Eastern Mediterranean Region.
 36880049	A novel nano-iron supplement versus standard treatment for iron deficiency anaemia in children 6-35 months (IHAT-GUT trial): a double-blind, randomised, placebo-controlled non-inferiority phase II trial in The Gambia.
@@ -9996,4 +9997,3 @@
 33579294	Estimating the local spatio-temporal distribution of malaria from routine health information systems in areas of low health care access and reporting.
 33579293	Genetic polymorphisms of Plasmodium falciparum isolates from Melka-Werer, North East Ethiopia based on the merozoite surface protein-2 (msp-2) gene as a molecular marker.
 33579292	Natural infections with different Plasmodium species induce antibodies reactive to a chimeric Plasmodium vivax recombinant protein.
-33579285	Plasmodium falciparum outbreak in native communities of Condorcanqui, Amazonas, Perú.
