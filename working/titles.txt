@@ -1,3 +1,4 @@
+36882935	Incorporation of Trifluoromethyltriazoline in the Side Chain of 4-Aminoquinolines: Synthesis and Evaluation as Antiplasmodial Agents.
 36882806	Cattle feeding tendency of Anopheles mosquitoes and their infection rates in Aradum village, North Wollo, Ethiopia: an implication for animal-based malaria control strategies.
 36882754	Asymptomatic Plasmodium falciparum carriage and clinical disease: a 5-year community-based longitudinal study in The Gambia.
 36882230	Acceptability and usability of a paediatric HIV screening tool in high-volume outpatient settings in Malawi, perspectives from caregivers and healthcare workers.
@@ -9996,4 +9997,3 @@
 33580962	Asymptomatic low-density Plasmodium infection during non-transmission season: a community-based cross-sectional study in two districts of North Eastern Region, India.
 33580256	The Critical Need for Pooled Data on Coronavirus Disease 2019 in African Children: An AFREhealth Call for Action Through Multicountry Research Collaboration.
 33579923	Magneto-optical diagnosis of symptomatic malaria in Papua New Guinea.
-33579298	The top 1%: quantifying the unequal distribution of malaria in Brazil.
