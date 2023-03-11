@@ -1,3 +1,20 @@
+36904003	Phenanthroindolizidine Alkaloids Secondary Metabolites Diversity in Medicinally Viable Plants of the Genus Tylophora.
+36903635	Bioactive Molecules Derived from Plants in Managing Dengue Vector Aedes aegypti (Linn.).
+36902324	Status Quo and Future Perspectives of Molecular and Genomic Studies on the Genus Biomphalaria-The Intermediate Snail Host of Schistosoma mansoni.
+36902060	Isocorydine Ameliorates IL-6 Expression in Bone Marrow-Derived Macrophages and Acute Lung Injury Induced by Lipopolysaccharide.
+36901291	Spatio-Temporal Bayesian Models for Malaria Risk Using Survey and Health Facility Routine Data in Rwanda.
+36901269	Resistance to Pyrethroids in the Malaria Vector Anopheles albimanus in Two Important Villages in the Soconusco Region of Chiapas, Mexico, 2022.
+36899977	Polyclonal Antibody Generation against PvTRAg for the Development of a Diagnostic Assay for Plasmodium vivax.
+36899594	A study on anti-malaria drugs using degree-based topological indices through QSPR analysis.
+36899431	Distribution of Anopheles gambiae thioester-containing protein 1 alleles along malaria transmission gradients in The Gambia.
+36899429	Laboratory evaluation of the efficacy of deltamethrin-laced attractive toxic sugar bait formulation on Anopheles stephensi.
+36899381	Two decades of capacity building to support global malaria control and elimination: retrospective and prospective international trainings in Jiangsu Institute of Parasitic Diseases, China, 2002-2021.
+36899358	Gaps in research and capacity development for malaria surveillance and response in the Asia-Pacific: meeting report.
+36899155	Evolutionary honing in and mutational replacement: how long-term directed mutational responses to specific environmental pressures are possible.
+36899110	Hyperreflective spots in cerebral malaria.
+36898988	The Skp1-Cullin1-FBXO1 complex is a pleiotropic regulator required for the formation of gametes and motile forms in Plasmodium berghei.
+36898744	International modified Delphi study on malaria preventive behaviour: new themes, contexts and framework for future research on Plasmodium knowlesi malaria.
+36898498	The insecticidal activity of essential oil constituents against pyrethroid-resistant Anopheles funestus (Diptera: Culicidae).
 36896967	Effectiveness of intermittent screening and treatment of malaria in pregnancy on maternal and birth outcomes in selected districts in Rwanda: A cluster randomized controlled trial.
 36896902	DihydrofolateReductase (DHFR) Inhibitors: A Comprehensive Review.
 36895880	Elevation of artemisinin content by co-transformation of artemisinin biosynthetic pathway genes and trichome-specific transcription factors in Artemisia annua.
@@ -9980,20 +9997,3 @@
 33593767	Population differences in vaccine responses (POPVAC): scientific rationale and cross-cutting analyses for three linked, randomised controlled trials assessing the role, reversibility and mediators of immunomodulation by chronic infections in the tropics.
 33593755	Modelling the impact of rapid diagnostic tests on Plasmodium vivax malaria in South Korea: a cost-benefit analysis.
 33593681	Parasite and Host Erythrocyte Kinomics of Plasmodium Infection.
-33593385	Malaria in migrant agricultural workers in western Ethiopia: entomological assessment of malaria transmission risk.
-33593383	Reduced circulating dendritic cells in acute Plasmodium knowlesi and Plasmodium falciparum malaria despite elevated plasma Flt3 ligand levels.
-33593382	Parasite genetic diversity reflects continued residual malaria transmission in Vhembe District, a hotspot in the Limpopo Province of South Africa.
-33593375	Development and evaluation of a new Plasmodium falciparum 3D7 blood stage malaria cell bank for use in malaria volunteer infection studies.
-33593368	A model for malaria elimination based on learnings from the Malaria Elimination Demonstration Project, Mandla district, Madhya Pradesh.
-33593359	A comprehensive mobile application tool for disease surveillance, workforce management and supply chain management for Malaria Elimination Demonstration Project.
-33593344	Genetic variation in the immune system and malaria susceptibility in infants: a nested case-control study in Nanoro, Burkina Faso.
-33593329	Development of a new barcode-based, multiplex-PCR, next-generation-sequencing assay and data processing and analytical pipeline for multiplicity of infection detection of Plasmodium falciparum.
-33593094	Antimalarial Activity of Seed Extracts of Schinus molle Against Plasmodium berghei in Mice.
-33591994	A mathematical model for zoonotic transmission of malaria in the Atlantic Forest: Exploring the effects of variations in vector abundance and acrodendrophily.
-33591976	Heterogeneity in response to serological exposure markers of recent Plasmodium vivax infections in contrasting epidemiological contexts.
-33591963	Estimating the extrinsic incubation period of malaria using a mechanistic model of sporogony.
-33590926	The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors Anopheles gambiae and Anopheles coluzzii.
-33590753	Plasmodium Kinases as Potential Drug Targets for Malaria: Challenges and Opportunities.
-33590743	Priority Setting in HIV, Tuberculosis, and Malaria - New Cost-Effectiveness Results From WHO-CHOICE.
-33590707	Novel genotyping approaches to easily detect genomic admixture between the major Afrotropical malaria vector species, Anopheles coluzzii and An. gambiae.
-33589693	Total Ortholog Median Matrix as an alternative unsupervised approach for phylogenomics based on evolutionary distance between protein coding genes.
