@@ -1,3 +1,5 @@
+36907541	Synthesis, characterization, antioxidant and antiparasitic activities new naphthyl-thiazole derivatives.
+36907290	Identification of three members of the multidomain adhesion CCp family in Babesia gibsoni.
 36906823	Hydroxyurea for Children with Sickle Cell Disease in sub-Saharan Africa: A Summary of the Evidence, Opportunities, and Challenges.
 36906144	Structures of calmodulin-melittin complexes show multiple binding modes lacking classical anchoring interactions.
 36906121	Ultra-short course, high-dose primaquine to prevent Plasmodium vivax infection following uncomplicated paediatric malaria: a randomised, open-label, non-inferiority trial of early versus delayed treatment.
@@ -9995,5 +9997,3 @@
 33595402	Spatiotemporal distributed lag modelling of multiple Plasmodium species in a malaria elimination setting.
 33594960	Management of sickle cell disease: current practices and challenges in a northeastern region of the Democratic Republic of the Congo.
 33594523	Randomly positioned gold nanoparticles as fluorescence enhancers in apta-immunosensor for malaria test.
-33594063	Author Correction: Adaptation of Plasmodium falciparum to humans involved the loss of an ape-specific erythrocyte invasion ligand.
-33594061	Structural and biophysical correlation of anti-NANP antibodies with in vivo protection against P. falciparum.
