@@ -1,3 +1,14 @@
+36912026	Malaria vaccines.
+36910690	Malaria Control by Mass Drug Administration With Artemisinin Plus Piperaquine on Grande Comore Island, Union of Comoros.
+36910464	The anti-inflammatory activity of the compounds isolated from Dichroa febrifuga leaves.
+36910375	Frequency of transfusion transmissible infections among blood donors of Rawalpindi District, Pakistan.
+36910314	Entomological survey of malaria vectors in Dashtestan County, South of Iran.
+36910309	Expression of the Fab enzymes (Fab I and Fab Z) from Plasmodium falciparum after exposure to Artemisia afra plant extracts and drugs screening.
+36910307	P fmdr 1 and kelch 13 genes distribution among children that are 5 years and below in Akure, Nigeria.
+36909626	Comparison of Epstein-Barr virus and Kaposi's sarcoma-associated herpesvirus viral load in peripheral blood mononuclear cells and oral fluids of HIV-negative individuals aged 3 to 89 years from Uganda.
+36909484	Babesia divergens egress from host cells is orchestrated by essential and druggable kinases and proteases.
+36908639	Molecular Surveillance of Malaria Using the PF AmpliSeq Custom Assay for Plasmodium falciparum Parasites from Dried Blood Spot DNA Isolates from Peru.
+36908393	Impact of helminthiasis on gestational anemia in low- and middle-income countries: a systematic review and meta-analysis of more than 19,000 women.
 36907541	Synthesis, characterization, antioxidant and antiparasitic activities new naphthyl-thiazole derivatives.
 36907290	Identification of three members of the multidomain adhesion CCp family in Babesia gibsoni.
 36906823	Hydroxyurea for Children with Sickle Cell Disease in sub-Saharan Africa: A Summary of the Evidence, Opportunities, and Challenges.
@@ -9986,14 +9997,3 @@
 33597073	Medical Advice for Travelers.
 33597042	Polyparasitism with Schistosoma haematobium, Plasmodium and soil-transmitted helminths in school-aged children in Muyuka-Cameroon following implementation of control measures: a cross sectional study.
 33596950	Diversity-oriented synthesis derived indole based spiro and fused small molecules kills artemisinin-resistant Plasmodium falciparum.
-33596926	High frequency of the Duffy-negative genotype and absence of Plasmodium vivax infections in Ghana.
-33596876	Geostatistical modeling of malaria prevalence among under-five children in Rwanda.
-35586643	[External Quality Assessment of Thick and Thin Blood Smear Slides for the Diagnosis of Malaria in the Lomé and Gulf Health Districts of Togo].
-33596516	Internet of medical things (IoMT)-integrated biosensors for point-of-care testing of infectious diseases.
-33596489	In vitro and in vivo antiplasmodial activity of novel quinoline derivative compounds by molecular hybridization.
-33596478	Towards one standard treatment for uncomplicated Plasmodium falciparum and Plasmodium vivax malaria: Perspectives from and for the Peruvian Amazon.
-33596221	Evidence-based interventions implemented in low-and middle-income countries for sickle cell disease management: A systematic review of randomized controlled trials.
-33595407	Biological strategies and political hurdles in developing malaria vaccines.
-33595402	Spatiotemporal distributed lag modelling of multiple Plasmodium species in a malaria elimination setting.
-33594960	Management of sickle cell disease: current practices and challenges in a northeastern region of the Democratic Republic of the Congo.
-33594523	Randomly positioned gold nanoparticles as fluorescence enhancers in apta-immunosensor for malaria test.
