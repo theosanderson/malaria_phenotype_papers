@@ -1,3 +1,4 @@
+36912708	Climate change and the displaced person: how vectors and climate are changing the landscape of infectious diseases among displaced and migrant populations.
 36912026	Malaria vaccines.
 36910690	Malaria Control by Mass Drug Administration With Artemisinin Plus Piperaquine on Grande Comore Island, Union of Comoros.
 36910464	The anti-inflammatory activity of the compounds isolated from Dichroa febrifuga leaves.
@@ -9996,4 +9997,3 @@
 33597278	Short maternal stature and gestational weight gain among refugee and migrant women birthing appropriate for gestational age term newborns: a retrospective cohort on the Myanmar-Thailand border, 2004-2016.
 33597073	Medical Advice for Travelers.
 33597042	Polyparasitism with Schistosoma haematobium, Plasmodium and soil-transmitted helminths in school-aged children in Muyuka-Cameroon following implementation of control measures: a cross sectional study.
-33596950	Diversity-oriented synthesis derived indole based spiro and fused small molecules kills artemisinin-resistant Plasmodium falciparum.
