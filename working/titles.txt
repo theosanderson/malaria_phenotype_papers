@@ -1,3 +1,10 @@
+36916164	Plasmodium falciparum adapts its investment into replication versus transmission according to the host environment.
+36915558	Spatio-temporal analysis of environmental and climatic factors impacts on malaria morbidity in Ondo State, Nigeria.
+36915368	Sodium Glucose Cotransporter 2 (SGLT2) Inhibitors and CKD: Are You a #Flozinator?
+36915177	China's innovation and research contribution to combating neglected diseases: a secondary analysis of China's public research data.
+36915131	Fine-scale spatial distribution of deltamethrin resistance and population structure of Anopheles funestus and Anopheles arabiensis populations in Southern Mozambique.
+36915098	Species composition and insecticide resistance in malaria vectors in Ellibou, southern Côte d'Ivoire and first finding of Anopheles arabiensis in Côte d'Ivoire.
+36914649	Non-falciparum malaria infection and IgG seroprevalence among children under 15 years in Nigeria, 2018.
 36914064	Differentiation between Bulinus truncatus and Bulinus hexaploidus by morphological characters, chromosomal study and compatibility with Schistosoma haematobium.
 36913960	Can we reduce malaria in pregnancy and improve birth outcomes?
 36913959	Effect of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine with and without azithromycin versus monthly sulfadoxine-pyrimethamine on adverse pregnancy outcomes in Africa: a double-blind randomised, partly placebo-controlled trial.
@@ -38,6 +45,7 @@
 36898988	The Skp1-Cullin1-FBXO1 complex is a pleiotropic regulator required for the formation of gametes and motile forms in Plasmodium berghei.
 36898744	International modified Delphi study on malaria preventive behaviour: new themes, contexts and framework for future research on Plasmodium knowlesi malaria.
 36898498	The insecticidal activity of essential oil constituents against pyrethroid-resistant Anopheles funestus (Diptera: Culicidae).
+36897874	Combined effect of physico-chemical and microbial quality of breeding habitat water on oviposition of malarial vector Anopheles subpictus.
 36896967	Effectiveness of intermittent screening and treatment of malaria in pregnancy on maternal and birth outcomes in selected districts in Rwanda: A cluster randomized controlled trial.
 36896902	DihydrofolateReductase (DHFR) Inhibitors: A Comprehensive Review.
 36895880	Elevation of artemisinin content by co-transformation of artemisinin biosynthetic pathway genes and trichome-specific transcription factors in Artemisia annua.
@@ -9989,11 +9997,3 @@
 33604307	Rab5b-Associated Arf1 GTPase Regulates Export of N-Myristoylated Adenylate Kinase 2 From the Endoplasmic Reticulum in Plasmodium falciparum.
 33602987	Antibody mediated activation of natural killer cells in malaria exposed pregnant women.
 33602297	Assessing cross-resistance within the pyrethroids in terms of their interactions with key cytochrome P450 enzymes and resistance in vector populations.
-33602242	Needs assessment of community health workers to enhance efficient delivery of their services for community case management of malaria in Kenya.
-33602216	Improvement of Indoor Residual Spraying and Long-Lasting Insecticidal Net services through structured monitoring and supervision as part of the Malaria Elimination Demonstration Project in Mandla, Madhya Pradesh.
-33601312	Synthesis and biological evaluation of benzhydryl-based antiplasmodial agents possessing Plasmodium falciparum chloroquine resistance transporter (PfCRT) inhibitory activity.
-33600838	Transcriptome analysis uncover differential regulation in cell cycle, immunity, and metabolism in Anopheles albimanus during immune priming with Plasmodium berghei.
-33600495	Breakdown in membrane asymmetry regulation leads to monocyte recognition of P. falciparum-infected red blood cells.
-33600494	Malaria and helminth co-infections in children living in endemic countries: A systematic review with meta-analysis.
-33600446	Analysis of D-A locus of tRNA-linked short tandem repeats reveals transmission of Entamoeba histolytica and E. dispar among students in the Thai-Myanmar border region of northwest Thailand.
-33600048	Fluorescent tagging of Plasmodium circumsporozoite protein allows imaging of sporozoite formation but blocks egress from oocysts.
