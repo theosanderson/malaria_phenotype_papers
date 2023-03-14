@@ -1,3 +1,8 @@
+36914064	Differentiation between Bulinus truncatus and Bulinus hexaploidus by morphological characters, chromosomal study and compatibility with Schistosoma haematobium.
+36913960	Can we reduce malaria in pregnancy and improve birth outcomes?
+36913959	Effect of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine with and without azithromycin versus monthly sulfadoxine-pyrimethamine on adverse pregnancy outcomes in Africa: a double-blind randomised, partly placebo-controlled trial.
+36913922	Quantitative Polymerase Chain Reaction from Malaria Rapid Diagnostic Tests to Detect Borrelia crocidurae, the Agent of Tick-Borne Relapsing Fever, in Febrile Patients in Senegal.
+36913921	Lateral Flow Recombinase Polymerase Amplification Assays for the Detection of Human Plasmodium Species.
 36912708	Climate change and the displaced person: how vectors and climate are changing the landscape of infectious diseases among displaced and migrant populations.
 36912026	Malaria vaccines.
 36910690	Malaria Control by Mass Drug Administration With Artemisinin Plus Piperaquine on Grande Comore Island, Union of Comoros.
@@ -9992,8 +9997,3 @@
 33600494	Malaria and helminth co-infections in children living in endemic countries: A systematic review with meta-analysis.
 33600446	Analysis of D-A locus of tRNA-linked short tandem repeats reveals transmission of Entamoeba histolytica and E. dispar among students in the Thai-Myanmar border region of northwest Thailand.
 33600048	Fluorescent tagging of Plasmodium circumsporozoite protein allows imaging of sporozoite formation but blocks egress from oocysts.
-33599488	Activity Comparison of Epigenetic Modulators against the Hemoprotozoan Parasites Babesia divergens and Plasmodium falciparum.
-33599314	The Yin and Yang of traditional Chinese and Western medicine.
-33597278	Short maternal stature and gestational weight gain among refugee and migrant women birthing appropriate for gestational age term newborns: a retrospective cohort on the Myanmar-Thailand border, 2004-2016.
-33597073	Medical Advice for Travelers.
-33597042	Polyparasitism with Schistosoma haematobium, Plasmodium and soil-transmitted helminths in school-aged children in Muyuka-Cameroon following implementation of control measures: a cross sectional study.
