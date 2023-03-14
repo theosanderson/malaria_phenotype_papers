@@ -1,3 +1,5 @@
+36916944	Efavirenz-Based Antiretroviral Therapy but Not Pregnancy Increased Unbound Piperaquine Exposure in Women during Malaria Chemoprevention.
+36916920	Molecular Markers of Sulfadoxine-Pyrimethamine Resistance in Samples from Children with Uncomplicated Plasmodium falciparum at Three Sites in Angola in 2019.
 36916164	Plasmodium falciparum adapts its investment into replication versus transmission according to the host environment.
 36915558	Spatio-temporal analysis of environmental and climatic factors impacts on malaria morbidity in Ondo State, Nigeria.
 36915368	Sodium Glucose Cotransporter 2 (SGLT2) Inhibitors and CKD: Are You a #Flozinator?
@@ -9995,5 +9997,3 @@
 33605379	Electrocardiographic effect of artemisinin-piperaquine, dihydroartemisinin-piperaquine, and artemether-lumefantrine treatment in falciparum malaria patients.
 33605251	Care of Non COVID Patients in COVID-19 Era.
 33604307	Rab5b-Associated Arf1 GTPase Regulates Export of N-Myristoylated Adenylate Kinase 2 From the Endoplasmic Reticulum in Plasmodium falciparum.
-33602987	Antibody mediated activation of natural killer cells in malaria exposed pregnant women.
-33602297	Assessing cross-resistance within the pyrethroids in terms of their interactions with key cytochrome P450 enzymes and resistance in vector populations.
