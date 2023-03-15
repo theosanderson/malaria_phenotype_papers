@@ -1,3 +1,5 @@
+36920200	Effects of Low-Level Persistent Infection on Maintenance of Immunity by CD4 T Cell Subsets and Th1 Cytokines.
+36919909	Human Polo-like Kinase Inhibitors as Antiplasmodials.
 36919344	Recent Advances in the Discovery of Antiparasitic Drugs for Chagas Disease and Malaria.
 36919202	Interplay among malnutrition, chemoprevention, and the risk of malaria in young Ugandan children: Longitudinal pharmacodynamic and growth analysis.
 36919074	Exploring the Immunodominant Epitopes of SARS-CoV-2 Nucleocapsid Protein as Exposure Biomarker.
@@ -9995,5 +9997,3 @@
 33607030	Social group and health-care provider interventions to increase the demand for malaria rapid diagnostic tests among community members in Ebonyi state, Nigeria: a cluster-randomised controlled trial.
 33607022	The need for social group interventions to increase malaria rapid diagnostic test uptake in Nigeria.
 33606984	"Iron"ing out hemophagocytosis through PIEZO1.
-33606775	Assessment of perinatal outcomes of pregnant women with severe versus simple malaria.
-33606756	Prevalence of malaria and associated factors among under-five children in Sherkole refugee camp, Benishangul-Gumuz region, Ethiopia. A cross-sectional study.
