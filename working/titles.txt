@@ -1,3 +1,9 @@
+36925177	The impact of community delivery of intermittent preventive treatment of malaria in pregnancy on its coverage in four sub-Saharan African countries (Democratic Republic of the Congo, Madagascar, Mozambique, and Nigeria): a quasi-experimental multicentre evaluation.
+36925175	The impact of alternative delivery strategies for novel tuberculosis vaccines in low-income and middle-income countries: a modelling study.
+36925174	Vector control for malaria prevention during humanitarian emergencies: a systematic review and meta-analysis.
+36925162	Community delivery of malaria chemoprevention in pregnancy.
+36925159	Vector control and malaria in humanitarian emergencies: the limitations and the needs.
+36924862	Antiplasmodial activity of the bulbs of Fritillaria cirrhosa D.Don (Syn: Fritillaria roylei Hook.): UPLC-IM-Q-TOF-MS/MS-based biochemometric approach for the identification of marker compounds.
 36923862	Senna singueana (Delile) lock: Ethnomedicinal uses and medicinal properties.
 36923394	Fostering research integrity in sub-Saharan Africa: challenges, opportunities, and recommendations.
 36923173	The Clinical and Laboratory Profiles of Immunocompetent Patients With Short-Duration Fever With Neutropenia in a Tertiary Care Hospital in Pune, India.
@@ -9991,9 +9997,3 @@
 33610028	Structure activity refinement of phenylsulfonyl piperazines as antimalarials that block erythrocytic invasion.
 33609655	Design, synthesis and biological evaluation of mono- and bisquinoline methanamine derivatives as potential antiplasmodial agents.
 33609273	Artesunate inhibits melanoma progression in vitro via suppressing STAT3 signaling pathway.
-33608536	Characterisation of the T-cell response to Ebola virus glycoprotein amongst survivors of the 2013-16 West Africa epidemic.
-33608523	20S proteasomes secreted by the malaria parasite promote its growth.
-33608024	Evaluation of the durability and use of long-lasting insecticidal nets in Nicaragua.
-33608015	Selecting an anti-malarial clinical candidate from two potent dihydroisoquinolones.
-33608011	Ecology of asynchronous asexual replication: the intraerythrocytic development cycle of Plasmodium berghei is resistant to host rhythms.
-33608006	Genomic investigation of atypical malaria cases in Kanel, northern Senegal.
