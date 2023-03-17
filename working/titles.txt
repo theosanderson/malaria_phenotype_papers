@@ -1,3 +1,11 @@
+36928885	Development of an ectopic huLiver model for Plasmodium liver stage infection.
+36928838	Repellent Screening of Selected Plant Essential Oils Against Dengue Fever Mosquitoes Using Behavior Bioassays.
+36928796	Evolution of research funding for neglected tropical diseases in Brazil, 2004-2020.
+36928686	The claudin-like apicomplexan microneme protein is required for gliding motility and infectivity of Plasmodium sporozoites.
+36927839	Potent acyl-CoA synthetase 10 inhibitors kill Plasmodium falciparum by disrupting triglyceride formation.
+36927770	In silico analysis to identify miR-1271-5p/PLCB4 (phospholipase C Beta 4) axis mediated oxaliplatin resistance in metastatic colorectal cancer.
+36927440	Effectiveness of community case management of malaria on severe malaria and inpatient malaria deaths in Zambia: a dose-response study using routine health information system data.
+36927373	Anopheles rufipes implicated in malaria transmission both indoors and outdoors alongside Anopheles funestus and Anopheles arabiensis in rural south-east Zambia.
 36926684	Phytofabrication and characterization of Alchornea cordifolia silver nanoparticles and evaluation of antiplasmodial, hemocompatibility and larvicidal potential.
 36925177	The impact of community delivery of intermittent preventive treatment of malaria in pregnancy on its coverage in four sub-Saharan African countries (Democratic Republic of the Congo, Madagascar, Mozambique, and Nigeria): a quasi-experimental multicentre evaluation.
 36925175	The impact of alternative delivery strategies for novel tuberculosis vaccines in low-income and middle-income countries: a modelling study.
@@ -9989,11 +9997,3 @@
 33612762	GSK3β: A plausible molecular target in the cytokinemodulating effect of exogenous insulin in a murine model of malarial infection.
 33612757	Evaluation of anti-histidine-rich protein 2 monoclonal antibodies, developed by using poly (N-isopropylacrylamide) as an adjuvant for malarial diagnostic application.
 33612745	Purification of Plasmodium and Babesia- infected erythrocytes using a non-woven fabric filter.
-33612737	Hemoprotozoa and Anaplasma spp. in rodents and shrews of Bangladesh.
-33612716	Progression of malaria induced pathogenicity during chloroquine therapy.
-33612713	Sub-lethal concentrations of artemisinin alter pH of the digestive vacuole of the malaria parasite, Plasmodium falciparum.
-33612044	Plant-made vaccines against parasites: bioinspired perspectives to fight against Chagas disease.
-33610534	Hemozoin is a potential threat in cerebral malaria pathology through the induction of RBC-EC cytoadherence.
-33610524	The repertoire of serine rhomboid proteases of piroplasmids of importance to animal and human health.
-33610028	Structure activity refinement of phenylsulfonyl piperazines as antimalarials that block erythrocytic invasion.
-33609655	Design, synthesis and biological evaluation of mono- and bisquinoline methanamine derivatives as potential antiplasmodial agents.
