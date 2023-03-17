@@ -1,3 +1,4 @@
+36926684	Phytofabrication and characterization of Alchornea cordifolia silver nanoparticles and evaluation of antiplasmodial, hemocompatibility and larvicidal potential.
 36925177	The impact of community delivery of intermittent preventive treatment of malaria in pregnancy on its coverage in four sub-Saharan African countries (Democratic Republic of the Congo, Madagascar, Mozambique, and Nigeria): a quasi-experimental multicentre evaluation.
 36925175	The impact of alternative delivery strategies for novel tuberculosis vaccines in low-income and middle-income countries: a modelling study.
 36925174	Vector control for malaria prevention during humanitarian emergencies: a systematic review and meta-analysis.
@@ -9996,4 +9997,3 @@
 33610524	The repertoire of serine rhomboid proteases of piroplasmids of importance to animal and human health.
 33610028	Structure activity refinement of phenylsulfonyl piperazines as antimalarials that block erythrocytic invasion.
 33609655	Design, synthesis and biological evaluation of mono- and bisquinoline methanamine derivatives as potential antiplasmodial agents.
-33609273	Artesunate inhibits melanoma progression in vitro via suppressing STAT3 signaling pathway.
