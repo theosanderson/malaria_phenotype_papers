@@ -214,7 +214,7 @@
 36844403	Diagnosis of cerebral malaria: Tools to reduce Plasmodium falciparum associated mortality.
 36844021	Genetic diversity of Plasmodium vivax isolates from pregnant women in the Western Brazilian Amazon: a prospective cohort study.
 36844012	Novel Plasmodium vivax genomes from Brazil identify targets for studies on drug resistance, transmission networks, and parasite evolution.
-36844008	Population-based genomic study of Plasmod ium vivax malaria in seven Brazilian states and across South America.
+36844008	Population-based genomic study of Plasmodium vivax malaria in seven Brazilian states and across South America.
 36843374	A short review of antimalarial compounds with sulfonamide moiety.
 36842543	CRISPR/Cas advancements for genome editing, diagnosis, therapeutics, and vaccine development for Plasmodium parasites, and genetic engineering of Anopheles mosquito vector.
 36842196	Malarial and intestinal parasitic co-infections in indigenous populations of the Brazilian Amazon rainforest.
