@@ -1,3 +1,19 @@
+36932813	Malaria prevention using antibodies: A promising approach to passive protection.
+36932704	Residual malaria transmission and the role of Anopheles arabiensis and Anopheles melas in central Senegal.
+36932676	Red blood cell lingering modulates hematocrit distribution in the microcirculation.
+36932435	Effects of maternal antenatal treatment with two doses of azithromycin added to monthly sulfadoxine-pyrimethamine for the prevention of low birth weight in Burkina Faso: an open-label randomized controlled trial.
+36932400	Trends of insecticide resistance monitoring in mainland Tanzania, 2004-2020.
+36932389	A review of efficacy and safety of Ugandan anti-malarial plants with application of RITAM score.
+36932384	Using antenatal care as a platform for malaria surveillance data collection: study protocol.
+36932372	Laboratory evaluation of the miniature direct-on-blood PCR nucleic acid lateral flow immunoassay (mini-dbPCR-NALFIA), a simplified molecular diagnostic test for Plasmodium.
+36932347	Accounting for complex intracluster correlations in longitudinal cluster randomized trials: a case study in malaria vector control.
+36932278	Epidemiology and clinical presentation of community-acquired Staphylococcus aureus bacteraemia in children under 5 years of age admitted to the Manhiça District Hospital, Mozambique, 2001-2019.
+36931922	Actin subversion for productive Plasmodium hepatocyte invasion.
+36931665	Analysis of national and subnational prevalence of adolescent pregnancy and changes in the associated sexual behaviours and sociodemographic determinants across three decades in Ghana, 1988-2019.
+36931472	Mechanistic insights into immunopathogenesis of murine cerebral malaria: Cues from "young" C57BL/6J and BALB/c mice.
+36931276	Cryo-EM structures of anti-malarial antibody L9 with circumsporozoite protein reveal trimeric L9 association and complete 27-residue epitope.
+36931118	Current development of β-carboline derived potential antimalarial scaffolds.
+36930997	Developing an archaeology of malaria. A critical review of current approaches and a discussion on ways forward.
 36930554	Guidelines on epidemics in Mexico. Historical perspective.
 36928885	Development of an ectopic huLiver model for Plasmodium liver stage infection.
 36928838	Repellent Screening of Selected Plant Essential Oils Against Dengue Fever Mosquitoes Using Behavior Bioassays.
@@ -9981,19 +9997,3 @@
 33616392	Design of Dissolvable Microneedles for Delivery of a Pfs47-Based Malaria Transmission-Blocking Vaccine.
 33616090	Site-Directed φC31-Mediated Integration and Cassette Exchange in Anopheles Vectors of Malaria.
 33615000	Liver and kidney dysfunction, hypoglycemia, and thrombocytopenia in Plasmodium vivax malaria patients at a Colombian Northwest region.
-33614904	Drivers of autochthonous and imported malaria in Spain and their relationship with meteorological variables.
-33614885	The SARS-CoV-2 pandemic: A syndemic perspective.
-33614756	Silver Nanoparticles Biosynthesized With Salvia officinalis Leaf Exert Protective Effect on Hepatic Tissue Injury Induced by Plasmodium chabaudi.
-33614694	Dietary Diversity and Its Contribution in the Etiology of Maternal Anemia in Conflict Hit Mount Cameroon Area: A Cross-Sectional Study.
-33614525	HIV-1 Infection Is Associated With Increased Prevalence and Abundance of Plasmodium falciparum Gametocyte-Specific Transcripts in Asymptomatic Adults in Western Kenya.
-33614035	Deficiency of antioxidants and increased oxidative stress in COVID-19 patients: A cross-sectional comparative study in Jigawa, Northwestern Nigeria.
-33613463	Plasmodium falciparum cGMP-Dependent Protein Kinase - A Novel Chemotherapeutic Target.
-33613116	Dihydroartemisinin: A Potential Natural Anticancer Drug.
-33613066	Botanical candidates from Saudi Arabian flora as potential therapeutics for Plasmodium infection.
-33612810	Clinical features and management of COVID-19: A systematic review.
-33612809	The effect of Plasmodium vivax infection on SOCS gene expression in Anopheles dirus (Diptera: Culicidae).
-33612795	Plasmodium falciparum protein kinase as a potential therapeutic target for antimalarial drugs development.
-33612778	Dynamics of malaria vector indices in two vegetation zones within North Eastern Adamawa State, Nigeria.
-33612764	Elimination of contamination in loop-mediated isothermal amplification assay for detection of human malaria.
-33612762	GSK3β: A plausible molecular target in the cytokinemodulating effect of exogenous insulin in a murine model of malarial infection.
-33612757	Evaluation of anti-histidine-rich protein 2 monoclonal antibodies, developed by using poly (N-isopropylacrylamide) as an adjuvant for malarial diagnostic application.
