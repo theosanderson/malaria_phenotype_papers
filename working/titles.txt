@@ -1,3 +1,4 @@
+36930554	Guidelines on epidemics in Mexico. Historical perspective.
 36928885	Development of an ectopic huLiver model for Plasmodium liver stage infection.
 36928838	Repellent Screening of Selected Plant Essential Oils Against Dengue Fever Mosquitoes Using Behavior Bioassays.
 36928796	Evolution of research funding for neglected tropical diseases in Brazil, 2004-2020.
@@ -40,6 +41,7 @@
 36915131	Fine-scale spatial distribution of deltamethrin resistance and population structure of Anopheles funestus and Anopheles arabiensis populations in Southern Mozambique.
 36915098	Species composition and insecticide resistance in malaria vectors in Ellibou, southern Côte d'Ivoire and first finding of Anopheles arabiensis in Côte d'Ivoire.
 36914649	Non-falciparum malaria infection and IgG seroprevalence among children under 15 years in Nigeria, 2018.
+30000209	Hydroxychloroquine.
 36914064	Differentiation between Bulinus truncatus and Bulinus hexaploidus by morphological characters, chromosomal study and compatibility with Schistosoma haematobium.
 36913960	Can we reduce malaria in pregnancy and improve birth outcomes?
 36913959	Effect of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine with and without azithromycin versus monthly sulfadoxine-pyrimethamine on adverse pregnancy outcomes in Africa: a double-blind randomised, partly placebo-controlled trial.
@@ -1053,7 +1055,6 @@
 36530422	Targeting malaria parasites with novel derivatives of azithromycin.
 36529768	Mapping age- and sex-specific HIV prevalence in adults in sub-Saharan Africa, 2000-2018.
 36529451	Sex-biased, but not plumage color-based, prevalence of haemosporidian parasites in free-range chickens.
-30000209	Hydroxychloroquine.
 36528584	Dinuclear and mononuclear metal(II) polypyridyl complexes against drug-sensitive and drug-resistant Plasmodium falciparum and their mode of action.
 36528569	Ideational factors and their association with insecticide treated net use in Magoe District, Mozambique.
 36528397	Engineering yeast for industrial-level production of the antimalarial drug artemisinin.
@@ -9996,4 +9997,3 @@
 33612764	Elimination of contamination in loop-mediated isothermal amplification assay for detection of human malaria.
 33612762	GSK3β: A plausible molecular target in the cytokinemodulating effect of exogenous insulin in a murine model of malarial infection.
 33612757	Evaluation of anti-histidine-rich protein 2 monoclonal antibodies, developed by using poly (N-isopropylacrylamide) as an adjuvant for malarial diagnostic application.
-33612745	Purification of Plasmodium and Babesia- infected erythrocytes using a non-woven fabric filter.
