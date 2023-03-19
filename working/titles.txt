@@ -1,3 +1,4 @@
+36933966	India-EMBO Lecture Course: understanding malaria from molecular epidemiology, population genetics, and evolutionary perspectives.
 36932813	Malaria prevention using antibodies: A promising approach to passive protection.
 36932704	Residual malaria transmission and the role of Anopheles arabiensis and Anopheles melas in central Senegal.
 36932676	Red blood cell lingering modulates hematocrit distribution in the microcirculation.
@@ -9996,4 +9997,3 @@
 33617048	B cell analysis in SARS-CoV-2 versus malaria: Increased frequencies of plasmablasts and atypical memory B cells in COVID-19.
 33616392	Design of Dissolvable Microneedles for Delivery of a Pfs47-Based Malaria Transmission-Blocking Vaccine.
 33616090	Site-Directed φC31-Mediated Integration and Cassette Exchange in Anopheles Vectors of Malaria.
-33615000	Liver and kidney dysfunction, hypoglycemia, and thrombocytopenia in Plasmodium vivax malaria patients at a Colombian Northwest region.
