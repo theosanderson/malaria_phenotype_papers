@@ -1,3 +1,7 @@
+36939832	Repeat Ivermectin Mass Drug Administrations for Malaria Control II: Protocol for a Double-blind, Cluster-Randomized, Placebo-Controlled Trial for the Integrated Control of Malaria.
+36939394	CD4 T Cell-Dependent and -Independent Roles for IFN-γ in Blood-Stage Malaria.
+36939048	Trophic preferences of Anopheles coluzzii (Diptera: Culicidae): what implications for malaria vector control in Benin?
+36939023	A censored quantile regression approach for relative survival analysis: Relative survival quantile regression.
 36938853	Antimalarial activity and sensitization of chrysosplenetin against artemisinin-resistant genotype Plasmodium berghei K173 potentially via dual-mechanism of maintaining host P-glycoprotein homeostasis mediated by NF-κB p52 or PXR/CAR signaling pathways and regulating heme/haemozoin metabolism.
 36937606	Open Clinical Trial of Sambiloto (Andrographis paniculata) Ethanolic Extract Capsules in Treatment of Malaria Patients in Batubara District, Indonesia.
 36937314	Crude extract of Ficus deltoidea Jack (FD) as a natural biological therapy.
@@ -49,7 +53,6 @@
 36922855	The interplay between malaria vectors and human activity accounts for high residual malaria transmission in a Burkina Faso village with universal ITN coverage.
 36874585	Risk factor-based screening compared to universal screening for gestational diabetes mellitus in marginalized Burman and Karen populations on the Thailand-Myanmar border: An observational cohort.
 36920996	Exploring the structural basis to develop efficient multi-epitope vaccines displaying interaction with HLA and TAP and TLR3 molecules to prevent NIPAH infection, a global threat to human health.
-36920809	Pneumococcal Vaccine, Polymyalgia Rheumatica, Giant Cell Arteritis, Concussion, Malaria.
 36920721	Regulatory and policy considerations for the implementation of gene drive-modified mosquitoes to prevent malaria transmission.
 36920711	The use of Traditional Medicines for Sexual Enhancement in Northern Nigeria.
 36920200	Effects of Low-Level Persistent Infection on Maintenance of Immunity by CD4 T Cell Subsets and Th1 Cytokines.
@@ -9994,6 +9997,3 @@
 33619041	Relapses of Plasmodium vivax malaria threaten disease elimination: time to deploy tafenoquine in India?
 33618946	Liposome engraftment and antigen combination potentiate the immune response towards conserved epitopes of the malaria vaccine candidate MSP2.
 33618772	MAIP: a web service for predicting blood-stage malaria inhibitors.
-33618718	Eliminating Plasmodium falciparum malaria: results from tailoring active case detection approaches to remote populations in forested border areas in north-eastern Cambodia.
-33618698	Tenofovir disoproxil fumarate in pregnancy for prevention of mother to child transmission of hepatitis B in a rural setting on the Thailand-Myanmar border: a cost-effectiveness analysis.
-35423398	Improved herbicide discovery using physico-chemical rules refined by antimalarial library screening.
