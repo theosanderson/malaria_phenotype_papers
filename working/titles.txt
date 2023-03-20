@@ -1,3 +1,6 @@
+36935339	Liver-stage Plasmodium infection tunes clinical outcomes.
+36935212	Suspected Mefloquine Toxicity in a Colony of Humboldt Penguins (Spheniscus humboldti).
+36935051	Environmental and socio-economic determinants of the occurrence of malaria clusters in Colombia.
 36934179	Bio-efficacy of insecticidal molecule emodin against dengue, filariasis, and malaria vectors.
 36934088	SARS-CoV-2 spike-ferritin-nanoparticle adjuvanted with ALFQ induces long-lived plasma cells and cross-neutralizing antibodies.
 36933966	India-EMBO Lecture Course: understanding malaria from molecular epidemiology, population genetics, and evolutionary perspectives.
@@ -9994,6 +9997,3 @@
 33617528	Immune response dynamics and Lutzomyia longipalpis exposure characterize a biosignature of visceral leishmaniasis susceptibility in a canine cohort.
 33617476	No Evidence of O'nyong-nyong Viremia among Children with Febrile Illness in Kenya (2015-2018).
 33617473	Correlates of Variation in Guinea Worm Burden among Infected Domestic Dogs.
-33617406	End-user perspectives on preventive antimalarials: A review of qualitative research.
-33617262	Inhibition Mechanism of Antimalarial Drugs Targeting the Cytochrome bc(1) Complex.
-33617048	B cell analysis in SARS-CoV-2 versus malaria: Increased frequencies of plasmablasts and atypical memory B cells in COVID-19.
