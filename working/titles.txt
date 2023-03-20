@@ -1,3 +1,10 @@
+36938853	Antimalarial activity and sensitization of chrysosplenetin against artemisinin-resistant genotype Plasmodium berghei K173 potentially via dual-mechanism of maintaining host P-glycoprotein homeostasis mediated by NF-κB p52 or PXR/CAR signaling pathways and regulating heme/haemozoin metabolism.
+36937606	Open Clinical Trial of Sambiloto (Andrographis paniculata) Ethanolic Extract Capsules in Treatment of Malaria Patients in Batubara District, Indonesia.
+36937314	Crude extract of Ficus deltoidea Jack (FD) as a natural biological therapy.
+36936758	An image-based high-content screening for compounds targeting Toxoplasma gondii repurposed inhibitors effective against the malaria parasite Plasmodium falciparum.
+36935730	Digitizing tuberculosis treatment monitoring in Wuhan city, China, 2020-2021: Impact on medication adherence.
+36935683	Prevalence of malaria-helminth co-infections among children living in a setting of high coverage of standard interventions for malaria and helminths: Two population-based studies in Senegal.
+36935657	Evolution of anti-malaria policies and measures in P.R. China for achieving and sustaining malaria-free.
 36935339	Liver-stage Plasmodium infection tunes clinical outcomes.
 36935212	Suspected Mefloquine Toxicity in a Colony of Humboldt Penguins (Spheniscus humboldti).
 36935051	Environmental and socio-economic determinants of the occurrence of malaria clusters in Colombia.
@@ -9990,10 +9997,3 @@
 33618718	Eliminating Plasmodium falciparum malaria: results from tailoring active case detection approaches to remote populations in forested border areas in north-eastern Cambodia.
 33618698	Tenofovir disoproxil fumarate in pregnancy for prevention of mother to child transmission of hepatitis B in a rural setting on the Thailand-Myanmar border: a cost-effectiveness analysis.
 35423398	Improved herbicide discovery using physico-chemical rules refined by antimalarial library screening.
-33618251	Synthesis and antiplasmodial evaluation of 1H-1,2,3-triazole grafted 4-aminoquinoline-benzoxaborole hybrids and benzoxaborole analogues.
-33617646	Cerebrospinal Fluid Pterins, Pterin-Dependent Neurotransmitters, and Mortality in Pediatric Cerebral Malaria.
-33617634	Case Report - A Case Report of Avian Malaria (Plasmodium spp.) in Pen-Reared Pigeons (Columbia livia).
-33617536	The fungus Leptosphaerulina persists in Anopheles gambiae and induces melanization.
-33617528	Immune response dynamics and Lutzomyia longipalpis exposure characterize a biosignature of visceral leishmaniasis susceptibility in a canine cohort.
-33617476	No Evidence of O'nyong-nyong Viremia among Children with Febrile Illness in Kenya (2015-2018).
-33617473	Correlates of Variation in Guinea Worm Burden among Infected Domestic Dogs.
