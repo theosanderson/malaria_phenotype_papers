@@ -727,6 +727,8 @@
 36671732	An Overview of D7 Protein Structure and Physiological Roles in Blood-Feeding Nematocera.
 36671393	Sex-Specific Differences in Cytokine Induction by the Glycolipid Adjuvant 7DW8-5 in Mice.
 36671310	Antiparasitic Activities of Compounds Isolated from Aspergillus fumigatus Strain Discovered in Northcentral Nigeria.
+31869175	Malaria.
+30085563	Plasmodium Ovale Malaria.
 36670482	Measuring entomological parameters before implementing a study on asymptomatic carriers of Plasmodium falciparum in the Zè District in southern Benin.
 36670470	A new WHO bottle bioassay method to assess the susceptibility of mosquito vectors to public health insecticides: results from a WHO-coordinated multi-centre study.
 36670398	Unmanned aerial vehicles for surveillance and control of vectors of malaria and other vector-borne diseases.
@@ -2017,7 +2019,6 @@
 36219093	Common infectious and parasitic diseases as a cause of seizures: geographic distribution and contribution to the burden of epilepsy.
 36218381	Sex in protists: A new perspective on the reproduction mechanisms of trypanosomatids.
 36218071	Screening of potential antiplasmodial agents targeting cysteine protease-Falcipain 2: a computational pipeline.
-31869175	Malaria.
 36217188	Sex of household head and other household determinants of childhood anaemia among households in Ghana: regression analysis of the 2019 Malaria Indicator Survey.
 36217159	Effectiveness of rectal artesunate as pre-referral treatment for severe malaria in children under 5 years of age: a multi-country observational study.
 36217154	Association between CYP2D6 phenotype and recurrence of Plasmodium vivax infection in south Korean patients.
@@ -2682,7 +2683,6 @@
 35988900	Detection of histidine-rich protein 2- and/or 3-deleted Plasmodium falciparum using the automated hematology analyzer XN-31: A proof-of-concept study.
 35988665	Apramycin susceptibility of multidrug-resistant Gram-negative blood culture isolates in five countries in Southeast Asia.
 35988664	Artemisinin-piperaquine versus artemether-lumefantrine for treatment of uncomplicated Plasmodium falciparum malaria in Grande Comore island: an open-label, non-randomised controlled trial.
-30085563	Plasmodium Ovale Malaria.
 35987665	Spatial analysis to evaluate risk of malaria in Northern Sumatera, Indonesia.
 35987650	An experimental hut study evaluating the impact of pyrethroid-only and PBO nets alone and in combination with pirimiphos-methyl-based IRS in Ethiopia.
 35987649	Household costs associated with seeking malaria treatment during pregnancy: evidence from Burkina Faso and The Gambia.
