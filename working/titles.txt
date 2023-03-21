@@ -1,3 +1,5 @@
+36941226	[Contribution of hematology analyzers (Sysmex XN-Series) in the rapid diagnosis of malaria: case reports].
+36940579	Effect of liquiritigenin on chloroquine accumulation in digestive vacuole leading to apoptosis-like death of chloroquine-resistant P. falciparum.
 36939832	Repeat Ivermectin Mass Drug Administrations for Malaria Control II: Protocol for a Double-blind, Cluster-Randomized, Placebo-Controlled Trial for the Integrated Control of Malaria.
 36939394	CD4 T Cell-Dependent and -Independent Roles for IFN-γ in Blood-Stage Malaria.
 36939048	Trophic preferences of Anopheles coluzzii (Diptera: Culicidae): what implications for malaria vector control in Benin?
@@ -147,6 +149,7 @@
 36881034	Effect of Intrapartum Azithromycin vs Placebo on Neonatal Sepsis and Death: A Randomized Clinical Trial.
 36880488	Accelerating the prevention, control and elimination of communicable diseases through integration and optimization of the support from Gavi and Global Fund: A vision for the Eastern Mediterranean Region.
 36880049	A novel nano-iron supplement versus standard treatment for iron deficiency anaemia in children 6-35 months (IHAT-GUT trial): a double-blind, randomised, placebo-controlled non-inferiority phase II trial in The Gambia.
+29262067	Dapsone.
 36879291	Medicinal plant-derived mtDNA via nanovesicles induces the cGAS-STING pathway to remold tumor-associated macrophages for tumor regression.
 36879278	Predictors of optimal uptake of intermittent preventive treatment of malaria in pregnancy using sulfadoxine-pyrimethamine and outcome of pregnancy in selected health facilities: a cross-sectional study in Northern Ghana.
 36879244	Senna occidentalis (L.) Link root extract inhibits Plasmodium growth in vitro and in mice.
@@ -1023,6 +1026,7 @@
 36551176	Zinc in Human Health and Infectious Diseases.
 36551112	Current Status and Future Perspectives of Lactate Dehydrogenase Detection and Medical Implications: A Review.
 36550922	Analysis of epidemiological changes and elimination effects for malaria in Handan city, the north China.
+29261925	Antimalarial Medications.
 36550586	Profile and determinants of delayed care-seeking and diagnosis among patients with imported malaria: a retrospective study in China, 2014-2021.
 36550507	Loop-mediated isothermal amplification (LAMP) test in the detection of uncomplicated malaria in pregnancy: a meta-analysis of diagnostic accuracy.
 36550492	Asymptomatic malaria infection, associated factors and accuracy of diagnostic tests in a historically high transmission setting in Northern Uganda.
@@ -1837,7 +1841,6 @@
 36274749	Trends of Malaria Prevalence in Selected Districts of Kaffa Zone, Southwest Ethiopia.
 36274692	Assessment of antibiotic treatment on Anopheles darlingi survival and susceptibility to Plasmodium vivax.
 36274138	Temporal trends in the burden of non-communicable diseases in countries with the highest malaria burden, 1990-2019: Evaluating the double burden of non-communicable and communicable diseases in epidemiological transition.
-29262067	Dapsone.
 36273584	Analysis of Plasmodium falciparum myosin B ATPase activity and structure in complex with the calmodulin-like domain of its light chain MLC-B.
 36273490	Safety and immunogenicity of an Ad26.ZEBOV booster dose in children previously vaccinated with the two-dose heterologous Ad26.ZEBOV and MVA-BN-Filo Ebola vaccine regimen: an open-label, non-randomised, phase 2 trial.
 36273150	Linear and conformational determinants of visceral leishmaniasis diagnostic antigens rK28 and rK39.
@@ -2725,7 +2728,6 @@
 35967182	Malaria Falciparum: Relapse After a Decade.
 35966861	Evolution of red blood cell membrane complement regulatory proteins and rheology in septic patients: An exploratory study.
 35964382	Surveillance of Zika and Dengue viruses in field-collected Aedes aegypti mosquitoes from different states of India.
-29261925	Antimalarial Medications.
 35963590	Evaluation of various distance computation methods for construction of haplotype-based phylogenies from large MLST datasets.
 35963275	Safety, tolerability, and Plasmodium falciparum transmission-reducing activity of monoclonal antibody TB31F: a single-centre, open-label, first-in-human, dose-escalation, phase 1 trial in healthy malaria-naive adults.
 35963273	Monoclonal antibodies for reducing malaria transmission.
@@ -9995,5 +9997,3 @@
 33619371	Malaria is a cause of iron deficiency in African children.
 33619283	Single-cell RNA sequencing reveals developmental heterogeneity among Plasmodium berghei sporozoites.
 33619041	Relapses of Plasmodium vivax malaria threaten disease elimination: time to deploy tafenoquine in India?
-33618946	Liposome engraftment and antigen combination potentiate the immune response towards conserved epitopes of the malaria vaccine candidate MSP2.
-33618772	MAIP: a web service for predicting blood-stage malaria inhibitors.
