@@ -1,3 +1,4 @@
+36942761	Insecticide resistance compromises the control of Aedes aegypti in Bangladesh.
 36942408	Parasite and host kinases as targets for antimalarials.
 36941908	Systematic Review of Safety of RTS,S with AS01 and AS02 Adjuvant Systems Using Data from Randomized Controlled Trials in Infants, Children, and Adults.
 36941701	Insights into the elimination of vivax malaria in China.
@@ -9996,4 +9997,3 @@
 33623718	Antimalarial Activity of Nigella sativa L. Seed Extracts and Selection of Resistance in Plasmodium berghei ANKA in a Mouse Model.
 33623716	Ownership and Utilisation of Long-Lasting Insecticidal Nets in Tiko Health District, Southwest Region, Cameroon: A Cross-Sectional Study.
 33622944	Closing the loop in child TB contact management: completion of TB preventive therapy outcomes in western Kenya.
-33622309	Detection of high prevalence of Plasmodium falciparum histidine-rich protein 2/3 gene deletions in Assosa zone, Ethiopia: implication for malaria diagnosis.
