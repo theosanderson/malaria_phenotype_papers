@@ -1,3 +1,11 @@
+36942408	Parasite and host kinases as targets for antimalarials.
+36941908	Systematic Review of Safety of RTS,S with AS01 and AS02 Adjuvant Systems Using Data from Randomized Controlled Trials in Infants, Children, and Adults.
+36941701	Insights into the elimination of vivax malaria in China.
+36941616	Anti-malarial drug use, appropriateness and associated factors among children under-five with febrile illnesses presenting to a tertiary health facility: a cross sectional study.
+36941587	The diversity of Plasmodium falciparum isolates from asymptomatic and symptomatic school-age children in Kinshasa Province, Democratic Republic of Congo.
+36941562	A deeper insight into the sialome of male and female Culex quinquefasciatus mosquitoes.
+36941394	Erythrocyte miRNA-92a-3p interactions with PfEMP1 as determinants of clinical malaria.
+36941291	Malaria hotspots and climate change trends in the hyper-endemic malaria settings of Mizoram along the India-Bangladesh borders.
 36941226	[Contribution of hematology analyzers (Sysmex XN-Series) in the rapid diagnosis of malaria: case reports].
 36940579	Effect of liquiritigenin on chloroquine accumulation in digestive vacuole leading to apoptosis-like death of chloroquine-resistant P. falciparum.
 36939832	Repeat Ivermectin Mass Drug Administrations for Malaria Control II: Protocol for a Double-blind, Cluster-Randomized, Placebo-Controlled Trial for the Integrated Control of Malaria.
@@ -341,6 +349,7 @@
 36814437	Individual and Contextual Factors Associated With Malaria Among Children 6-59 Months in Burkina Faso.
 36814301	A non-randomized controlled trial to assess the protective effect of SMC in the context of high parasite resistance in Uganda.
 36814250	International border malaria transmission in the Ethiopian district of Lare, Gambella region: implications for malaria spread into South Sudan.
+32491454	Cooley Anemia.
 36812625	The use of video job-aids to improve the quality of seasonal malaria chemoprevention delivery.
 36812544	The potential of digital molecular diagnostics for infectious diseases in sub-Saharan Africa.
 36812503	Real-time, spatial decision support to optimize malaria vector control: The case of indoor residual spraying on Bioko Island, Equatorial Guinea.
@@ -379,6 +388,7 @@
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
 36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
 36800986	Malaria amongst children under five in sub-Saharan Africa: a scoping review of prevalence, risk factors and preventive interventions.
+32644745	Cinchonism.
 36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
 36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
 36799808	What is the role of autoantibodies in post-artesunate delayed hemolysis?
@@ -1376,7 +1386,6 @@
 36436281	Safety and immunogenicity of AGS-v PLUS, a mosquito saliva peptide vaccine against arboviral diseases: A randomized, double-blind, placebo-controlled Phase 1 trial.
 36436166	Community Knowledge, Perceptions and Experiences on Healthcare Services for Malaria Prevention and Treatment in the Okavango Delta, Botswana.
 36436131	Hemophagocytic lymphohistiocytosis and hemozoin deposition in bone marrow macrophages in falciparum malaria.
-32644745	Cinchonism.
 36435772	Tetrandrine inhibits RANKL-induced osteoclastogenesis by promoting the degradation of TRAIL.
 36435768	Associations of the COVID-19 pandemic with the reported incidence of important endemic infectious disease agents and syndromes in Pakistan.
 36435688	Measurably recombining malaria parasites.
@@ -3676,7 +3685,6 @@
 35682283	Community-Based Control of Malaria Vectors Using Bacillus thuringiensis var. Israelensis (Bti) in Rwanda.
 35681493	Bidirectional Microbiome-Gut-Brain-Axis Communication Influences Metabolic Switch-Associated Responses in the Mosquito Anopheles culicifacies.
 35680915	Malaria oocysts require circumsporozoite protein to evade mosquito immunity.
-32491454	Cooley Anemia.
 35680541	The assessment of antimalarial drug efficacy in vivo.
 35679241	Inference and dynamic simulation of malaria using a simple climate-driven entomological model of malaria transmission.
 35679181	Monkeypox Outbreak - Nine States, May 2022.
@@ -9989,11 +9997,3 @@
 33623716	Ownership and Utilisation of Long-Lasting Insecticidal Nets in Tiko Health District, Southwest Region, Cameroon: A Cross-Sectional Study.
 33622944	Closing the loop in child TB contact management: completion of TB preventive therapy outcomes in western Kenya.
 33622309	Detection of high prevalence of Plasmodium falciparum histidine-rich protein 2/3 gene deletions in Assosa zone, Ethiopia: implication for malaria diagnosis.
-33622289	Evaluation of health surveillance system attributes: the case of neglected tropical diseases in Kenya.
-33621245	Access to malaria prevention and control interventions among seasonal migrant workers: A multi-region formative assessment in Ethiopia.
-33620333	Progress in the Study of Epidemiologic Characteristics and Influencing Factors of Asymptomatic Malaria Infection in Africa.
-33620219	Novel Antimalarial Tetrazoles and Amides Active against the Hemoglobin Degradation Pathway in Plasmodium falciparum.
-33620150	Applying the CiPA approach to evaluate cardiac proarrhythmia risk of some antimalarials used off-label in the first wave of COVID-19.
-33619371	Malaria is a cause of iron deficiency in African children.
-33619283	Single-cell RNA sequencing reveals developmental heterogeneity among Plasmodium berghei sporozoites.
-33619041	Relapses of Plasmodium vivax malaria threaten disease elimination: time to deploy tafenoquine in India?
