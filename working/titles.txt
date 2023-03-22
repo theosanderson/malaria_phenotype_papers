@@ -1,3 +1,7 @@
+36945444	Naturally-acquired and Vaccine-induced Human Monoclonal Antibodies to Plasmodium vivax Duffy Binding Protein Inhibit Invasion of Plasmodium knowlesi (PvDBPOR) Transgenic Parasites.
+36945434	Functional profiling of the Toxoplasma genome during acute mouse infection.
+36945313	[Progressive myoclonic epilepsy in the department of neurology of the University Teaching hospital Point "G"].
+36945014	Mapping current and future thermal limits to suitability for malaria transmission by the invasive mosquito Anopheles stephensi.
 36943870	Design of a stabilized RBD enables potently neutralizing SARS-CoV-2 single-component nanoparticle vaccines.
 36943831	Demand creation for HIV testing services: A systematic review and meta-analysis.
 36942761	Insecticide resistance compromises the control of Aedes aegypti in Bangladesh.
@@ -9993,7 +9997,3 @@
 33627361	COVID-19: lessons and experiences from South Africa's first surge.
 33627192	Malawian children with fast-breathing pneumonia with and without comorbidities.
 33627180	Whole blood and blood components from vertebrates differentially affect egg formation in three species of anautogenous mosquitoes.
-33626094	Rapamycin inhibits pathogen transmission in mosquitoes by promoting immune activation.
-33626047	New sulphonamide pyrolidine carboxamide derivatives: Synthesis, molecular docking, antiplasmodial and antioxidant activities.
-33623975	QTc-interval prolongation and increased risk of sudden cardiac death associated with hydroxychloroquine.
-33623718	Antimalarial Activity of Nigella sativa L. Seed Extracts and Selection of Resistance in Plasmodium berghei ANKA in a Mouse Model.
