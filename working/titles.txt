@@ -1,3 +1,5 @@
+36943870	Design of a stabilized RBD enables potently neutralizing SARS-CoV-2 single-component nanoparticle vaccines.
+36943831	Demand creation for HIV testing services: A systematic review and meta-analysis.
 36942761	Insecticide resistance compromises the control of Aedes aegypti in Bangladesh.
 36942408	Parasite and host kinases as targets for antimalarials.
 36941908	Systematic Review of Safety of RTS,S with AS01 and AS02 Adjuvant Systems Using Data from Randomized Controlled Trials in Infants, Children, and Adults.
@@ -389,6 +391,7 @@
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
 36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
 36800986	Malaria amongst children under five in sub-Saharan Africa: a scoping review of prevalence, risk factors and preventive interventions.
+35593798	Duffy Blood Group System.
 32644745	Cinchonism.
 36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
 36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
@@ -2689,7 +2692,6 @@
 35987649	Household costs associated with seeking malaria treatment during pregnancy: evidence from Burkina Faso and The Gambia.
 35987638	Assessing the relationship between gravidity and placental malaria among pregnant women in a high transmission area in Ghana.
 35987625	Costs of treating childhood malaria, diarrhoea and pneumonia in rural Mozambique and Uganda.
-35593798	Duffy Blood Group System.
 35986064	Influence of various temperatures, seed priming treatments and durations on germination and growth of the medicinal plant Aspilia africana.
 35985797	The Basophil IL-18 Receptor Precisely Regulates the Host Immune Response and Malaria-Induced Intestinal Permeability and Alters Parasite Transmission to Mosquitoes without Effect on Gametocytemia.
 35985533	Prevalence, anti-malarial chemoprophylaxis and causes of deaths for severe imported malaria: A systematic review and meta-analysis.
@@ -9995,5 +9997,3 @@
 33626047	New sulphonamide pyrolidine carboxamide derivatives: Synthesis, molecular docking, antiplasmodial and antioxidant activities.
 33623975	QTc-interval prolongation and increased risk of sudden cardiac death associated with hydroxychloroquine.
 33623718	Antimalarial Activity of Nigella sativa L. Seed Extracts and Selection of Resistance in Plasmodium berghei ANKA in a Mouse Model.
-33623716	Ownership and Utilisation of Long-Lasting Insecticidal Nets in Tiko Health District, Southwest Region, Cameroon: A Cross-Sectional Study.
-33622944	Closing the loop in child TB contact management: completion of TB preventive therapy outcomes in western Kenya.
