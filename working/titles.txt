@@ -1,3 +1,9 @@
+36950502	Biology and epidemiology of Plasmodium falciparum and Plasmodium vivax gametocyte carriage: Implication for malaria control and elimination.
+36950143	A highly contiguous, scaffold-level nuclear genome assembly for the fever tree (Cinchona pubescens Vahl) as a novel resource for Rubiaceae research.
+36949425	Multilevel proportional odds modeling of anaemia prevalence among under five years old children in Ethiopia.
+36949382	Tile-based microscopic image processing for malaria screening using a deep learning approach.
+36949289	Impact of MiraNet® long-lasting insecticidal net against Anopheles arabiensis wild population of Northern Tanzania.
+36949175	Parasites as potential targets for cancer immunotherapy.
 36948531	Effect of community health worker home visits on antenatal care and institutional delivery: an analysis of secondary outcomes from a cluster randomised trial in Mali.
 36948209	Accelerating Cryptic Pocket Discovery Using AlphaFold.
 36948075	Identification and characterisation of the tegument-expressed aldehyde dehydrogenase SmALDH_312 of Schistosoma mansoni, a target of disulfiram.
@@ -159,7 +165,7 @@
 36890544	Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.
 36890523	Geographical origin of Plasmodium vivax in the Hainan Island, China: insights from mitochondrial genome.
 36890296	Toxicity of insecticidal plant oils on the larval and adult stages of a major malaria vector (Anopheles gambiae Giles 1920).
-36890112	Bioguided fractionation and isolation of an antiplasmodial saponin from the roots of Nauclea xanthoxylon (A.Chev.) Aubrév.
+36890112	Bioguided Fractionation and Isolation of an Antiplasmodial Saponin from the Roots of Nauclea xanthoxylon (A.Chev.) Aubrév. (Rubiaceae).
 36889222	Impact of a free care policy on routine health service volumes during a protracted Ebola virus disease outbreak in the Democratic Republic of Congo.
 36888809	Malaria in the eco-epidemiological region of the Colombian Caribbean, 1960-2019.
 36888782	Study of karyotype and constitutive heterochromatin of Mansonia spp. (Diptera: Culicidae) in the area surrounding the Jirau Hydroelectric Dam, Rondônia, Brazil.
@@ -9991,9 +9997,3 @@
 33632091	Notifiable diseases after implementation of COVID-19 public health prevention measures in Central Queensland, Australia.
 35423367	Effect of morphology on larvicidal activity of chemically synthesized zinc oxide nanoparticles against mosquito vectors.
 33631785	Biophysical and rheological biomarkers of red blood cell physiology and pathophysiology.
-33631784	Erythroid cells and malaria parasites: it's a match!
-33631268	Identification of Plasmodium falciparum-specific protein PIESP2 as a novel virulence factor related to cerebral malaria.
-33631263	Rational engineering of the Plasmodium falciparuml-lactate dehydrogenase loop involved in catalytic proton transfer to improve chiral 2-hydroxybutyric acid production.
-33631219	Protection against COVID-19 in African population: Immunology, genetics, and malaria clues for therapeutic targets.
-33630881	Order within chaos: Harnessing Plasmodium falciparum var gene extreme polymorphism for malaria epidemiology.
-33630855	Evolutionary analyses of the major variant surface antigen-encoding genes reveal population structure of Plasmodium falciparum within and between continents.
