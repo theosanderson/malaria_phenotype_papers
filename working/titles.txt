@@ -1,3 +1,6 @@
+36948531	Effect of community health worker home visits on antenatal care and institutional delivery: an analysis of secondary outcomes from a cluster randomised trial in Mali.
+36948209	Accelerating Cryptic Pocket Discovery Using AlphaFold.
+36948075	Identification and characterisation of the tegument-expressed aldehyde dehydrogenase SmALDH_312 of Schistosoma mansoni, a target of disulfiram.
 36947859	A bispecific inhibitor of complement and coagulation blocks activation in complementopathy models via a novel mechanism.
 36947546	Nuclease activity of Plasmodium falciparum Alba family protein PfAlba3.
 36946739	Additive Therapy of Plasmodium berghei-Induced Experimental Cerebral Malaria via Dihydroartemisinin Combined with Rapamycin and Atorvastatin.
@@ -9994,6 +9997,3 @@
 33631219	Protection against COVID-19 in African population: Immunology, genetics, and malaria clues for therapeutic targets.
 33630881	Order within chaos: Harnessing Plasmodium falciparum var gene extreme polymorphism for malaria epidemiology.
 33630855	Evolutionary analyses of the major variant surface antigen-encoding genes reveal population structure of Plasmodium falciparum within and between continents.
-33630852	Fully automated point-of-care differential diagnosis of acute febrile illness.
-33630838	Designing gene drives to limit spillover to non-target populations.
-33628976	Epidemiological characterization of pityriasis versicolor and distribution of Malassezia species among students in Hai Phong city, Vietnam.
