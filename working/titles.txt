@@ -1,3 +1,5 @@
+36947859	A bispecific inhibitor of complement and coagulation blocks activation in complementopathy models via a novel mechanism.
+36947546	Nuclease activity of Plasmodium falciparum Alba family protein PfAlba3.
 36946739	Additive Therapy of Plasmodium berghei-Induced Experimental Cerebral Malaria via Dihydroartemisinin Combined with Rapamycin and Atorvastatin.
 36946497	Plant pollen as a resource affecting the development and survival of the mosquitoes Anopheles quadrimaculatus and Culex quinquefasciatus (Diptera: Culicidae).
 36946433	Antimalarial Imidazopyridines Incorporating an Intramolecular Hydrogen Bonding Motif: Medicinal Chemistry and Mechanistic Studies.
@@ -9995,5 +9997,3 @@
 33630852	Fully automated point-of-care differential diagnosis of acute febrile illness.
 33630838	Designing gene drives to limit spillover to non-target populations.
 33628976	Epidemiological characterization of pityriasis versicolor and distribution of Malassezia species among students in Hai Phong city, Vietnam.
-33628701	Thinking Outside Malaria: A Rare Case of Disseminated Cysticercosis With Cardiopulmonary Involvement From Urban Tanzania.
-33627410	Profile of Nora J. Besansky.
