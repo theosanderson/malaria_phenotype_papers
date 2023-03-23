@@ -1,3 +1,4 @@
+36951885	HU for SCA in Africa: associated malaria benefit.
 36950502	Biology and epidemiology of Plasmodium falciparum and Plasmodium vivax gametocyte carriage: Implication for malaria control and elimination.
 36950143	A highly contiguous, scaffold-level nuclear genome assembly for the fever tree (Cinchona pubescens Vahl) as a novel resource for Rubiaceae research.
 36949425	Multilevel proportional odds modeling of anaemia prevalence among under five years old children in Ethiopia.
@@ -9996,4 +9997,3 @@
 33632193	Antibiotic practices among household members and their domestic animals within rural communities in Cumilla district, Bangladesh: a cross-sectional survey.
 33632091	Notifiable diseases after implementation of COVID-19 public health prevention measures in Central Queensland, Australia.
 35423367	Effect of morphology on larvicidal activity of chemically synthesized zinc oxide nanoparticles against mosquito vectors.
-33631785	Biophysical and rheological biomarkers of red blood cell physiology and pathophysiology.
