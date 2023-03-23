@@ -1601,7 +1601,7 @@
 36375338	Anti-malarial activity of HCl salt of SKM13 (SKM13-2HCl).
 36375251	Nmnat3 deficiency in hemolytic anemia exacerbates malaria infection.
 36375234	Killing in self-defense: proapoptotic drugs to eliminate intracellular pathogens.
-36375125	Hydroxyurea is associated with lower malaria incidence in children with sickle cell anemia in sub-Saharan Africa.
+36375125	Hydroxyurea treatment is associated with lower malaria incidence in children with sickle cell anemia in sub-Saharan Africa.
 36374864	Atractylodes lancea for cholangiocarcinoma: Modulatory effects on CYP1A2 and CYP3A1 and pharmacokinetics in rats and biodistribution in mice.
 36374859	Human behavior determinants of exposure to Anopheles vectors of malaria in Sumba, Indonesia.
 36374724	Application of a low-cost, specific, and sensitive loop-mediated isothermal amplification (LAMP) assay to detect Plasmodium falciparum imported from Africa.
