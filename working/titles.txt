@@ -1,3 +1,6 @@
+36958824	Characterisation of the OTU domain deubiquitinase complement of Toxoplasma gondii.
+36958024	Blackwater Fever Treated with Steroids in Nonimmune Patient, Italy.
+36958020	Chikungunya Outbreak in Country with Multiple Vectorborne Diseases, Djibouti, 2019-2020.
 36958009	Effects of Seasonal Conditions on Abundance of Malaria Vector Anopheles stephensi Mosquitoes, Djibouti, 2018-2021.
 36952515	Investigating discriminating concentrations for monitoring susceptibility to broflanilide and cross resistance to other insecticide classes in Anopheles gambiae sensu lato, using the new WHO bottle bioassay method.
 36952482	Investment case for primary health care in low- and middle-income countries: A case study of Kenya.
@@ -9994,6 +9997,3 @@
 33632279	Assessment of corn starch as substitute for agarose in DNA gel electrophoresis.
 33632242	Surveillance of Plasmodium falciparum pfcrt haplotypes in southwestern uganda by high-resolution melt analysis.
 33632233	Xylopic acid-amodiaquine and xylopic acid-artesunate combinations are effective in managing malaria in Plasmodium berghei-infected mice.
-33632228	Diversity of KIR genes and their HLA-C ligands in Ugandan populations with historically varied malaria transmission intensity.
-33632222	Performance of a fully-automated system on a WHO malaria microscopy evaluation slide set.
-33632220	Genetic characterization of Plasmodium vivax isolates from Pakistan using circumsporozoite protein (pvcsp) and merozoite surface protein-1 (pvmsp-1) genes as genetic markers.
