@@ -1,3 +1,56 @@
+36964548	The effect of the COVID-19 lockdown on malaria transmission in South Africa.
+36964494	Season, storage and extraction method impact on the phytochemical profile of Terminalia ivorensis.
+36964136	Exploring alternative insecticide delivery options in a "lethal house lure" for malaria vector control.
+36964076	The retinal contribution to the kidney-brain axis in severe malaria.
+36964075	Sideways: road to gene-by-gene functional screening in malaria parasites.
+36964020	Malaria: influence of Anopheles mosquito saliva on Plasmodium infection.
+36963931	Resilience of transfluthrin to oxidative attack by duplicated CYP6P9 variants known to confer pyrethroid resistance in the major malaria mosquito Anopheles funestus.
+36963785	What does equitable global health research and delivery look like? Tackling Infections to Benefit Africa (TIBA) partnership as a case study.
+36963402	Mitigating the risk of antimalarial resistance via covalent dual-subunit inhibition of the Plasmodium proteasome.
+36963101	The impact of hydropower dam construction on malaria incidence: Space-time analysis in the Brazilian Amazon.
+36963091	Climatic, land-use and socio-economic factors can predict malaria dynamics at fine spatial scales relevant to local health actors: Evidence from rural Madagascar.
+36963061	Leveraging the HIV response to strengthen pandemic preparedness.
+36963060	What influences slum residents' choices of healthcare providers for common illnesses? Findings of a Discrete Choice Experiment in Ibadan, Nigeria.
+36963058	Geographic clustering of travel-acquired infections in Ontario, Canada, 2008-2020.
+36963012	Factors affecting trust in clinical trials conduct: Views of stakeholders from a qualitative study in Ghana.
+36962984	Knowledge, attitude and practices of community health workers on managing and preventing childhood malaria and diarrhea in Fako Division, South West Region, Cameroon; A mixed method study.
+36962968	Long-lasting insecticidal nets (LLINs) use among household members for protection against mosquito bite in Mogadishu districts.
+36962957	Assessing the knowledge and practices of primary healthcare workers on malaria diagnosis and related challenges in view of COVID-19 outbreak in a Nigerian Southwestern metropolis.
+36962895	Antenatal screenings and maternal diagnosis among pregnant women in Sao Tome & Principe-Missed opportunities to improve neonatal health: A hospital-based study.
+36962890	Tracking district-level performance in the context of achieving zero indigenous case status by 2027.
+36962876	Conflict, healthcare and professional perseverance: A qualitative study in a remote hospital in an Anglophone Region of Cameroon.
+36962857	Reactive focal drug administration associated with decreased malaria transmission in an elimination setting: Serological evidence from the cluster-randomized CoRE study.
+36962844	"Testing for malaria does not cure any pain" A qualitative study exploring low use of malaria rapid diagnostic tests at drug shops in rural Uganda.
+36962812	Assessing nursing mothers' knowledge, perceptions and uptake of Sulphadoxine Pyrimethamine (IPTp-SP) during pregnancy in the Ho Teaching Hospital of the Volta Region of Ghana.
+36962810	Colonialism, malaria, and the decolonization of global health.
+36962806	First cases of SARS-CoV-2 infection and secondary transmission in Kisumu, Kenya.
+36962798	Rare disease patients in India are rarely involved in international orphan drug trials.
+36962778	Factors associated with the uptake of Intermittent Preventive Treatment (IPTp-SP) for malaria in pregnancy: Further analysis of the 2018 Nigeria Demographic and Health Survey.
+36962736	Resurgence of malaria in Uganda despite sustained indoor residual spraying and repeated long lasting insecticidal net distributions.
+36962734	Asymptomatic malaria and nurturing factors in lowlands of Ethiopia: A community based cross-sectional study.
+36962718	Assessing the effectiveness of malaria interventions at the regional level in Ghana using a mathematical modelling application.
+36962713	Knowledge, attitudes, and practices of Anopheles mosquito control through insecticide treated nets and community-based health programs to prevent malaria in East Sumba Island, Indonesia.
+36962711	Malaria outbreak facilitated by engagement in activities near swamps following increased rainfall and limited preventive measures: Oyam District, Uganda.
+36962710	Acceptability and associated factors of indoor residual spraying for malaria control by households in Luangwa district of Zambia: A multilevel analysis.
+36962706	Community access to rectal artesunate for malaria (CARAMAL): A large-scale observational implementation study in the Democratic Republic of the Congo, Nigeria and Uganda.
+36962689	Management of febrile illness in rural Guinea over a seven-year period: A retrospective study.
+36962688	Predictors of iron deficiency anaemia among children aged 6-59 months in Tanzania: Evidence from the 2015-16 TDHS-MIS cross-sectional household survey.
+36962655	Accuracy of computer-aided chest X-ray in community-based tuberculosis screening: Lessons from the 2016 Kenya National Tuberculosis Prevalence Survey.
+36962612	Global estimates of pregnancies at risk of Plasmodium falciparum and Plasmodium vivax infection in 2020 and changes in risk patterns since 2000.
+36962609	Rethinking malaria: Governance lessons from other disease programs.
+36962596	Approaches to quantify the contribution of multiple anemia risk factors in children and women from cross-sectional national surveys.
+36962591	Improving the efficiency of scale-up and deployment of community health workers in Mali: A geospatial analysis.
+36962582	Stratification of malaria incidence in Papua New Guinea (2011-2019): Contribution towards a sub-national control policy.
+36962553	Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.
+36962517	Protective efficacy of holed and aging PBO-pyrethroid synergist-treated nets on malaria infection prevalence in north-western Tanzania.
+36962505	Evaluating the impact of COVID-19 pandemic on complicated malaria admissions and outcomes in the paediatric Ho Teaching Hospital of the Volta Region of Ghana.
+36962502	India may need an additional metric to assess the endemicity of malaria in low surveillance districts.
+36962481	Rethinking district-level governance of malaria in Ghana: A narrative review.
+36962472	Financing malaria.
+36962465	Impact of the Liberian National Community Health Assistant Program on childhood illness care in Grand Bassa County, Liberia.
+36962454	Community-based house improvement for malaria control in southern Malawi: Stakeholder perceptions, experiences, and acceptability.
+36962431	qPCR in a suitcase for rapid Plasmodium falciparum and Plasmodium vivax surveillance in Ethiopia.
+36962426	Performance of highly sensitive and conventional rapid diagnostic tests for clinical and subclinical Plasmodium falciparum infections, and hrp2/3 deletion status in Burundi.
 36962413	Contribution of genetic factors to high rates of neonatal hyperbilirubinaemia on the Thailand-Myanmar border.
 36962405	Rethinking integrated service delivery for malaria.
 36962392	Caregivers' perception of risk for malaria, helminth infection and malaria-helminth co-infection among children living in urban and rural settings of Senegal: A qualitative study.
@@ -9944,56 +9997,3 @@
 33656424	TB management in the European Union/European Economic Area: a multi-centre survey.
 33656148	Malaria mortality in Colombia from 2009 to 2018: a descriptive study.
 33655352	Prevalence and association of malaria with ABO blood group and hemoglobin level in individuals visiting Mekaneeyesus Primary Hospital, Estie District, northwest Ethiopia: a cross-sectional study.
-33654746	CRISPR-Cas9 Genome Editing of Plasmodium knowlesi.
-33654448	Duration of Storage Reduced Erythrocytes Profiles and Plasmodium Viability in Donor Blood.
-33653959	Transcriptional heterogeneity and tightly regulated changes in gene expression during Plasmodium berghei sporozoite development.
-33653384	Impact of Babesia microti infection on the initiation and course of pregnancy in BALB/c mice.
-33653360	Genetic diversity and natural selection on the thrombospondin-related adhesive protein (TRAP) gene of Plasmodium falciparum on Bioko Island, Equatorial Guinea and global comparative analysis.
-33653356	Diagnostic performance of an ultrasensitive HRP2-based malaria rapid diagnostic test kit used in surveys of afebrile people living in Southern Ghana.
-33653355	Addressing key gaps in implementation of mosquito larviciding to accelerate malaria vector control in southern Tanzania: results of a stakeholder engagement process in local district councils.
-33653103	[CME Sonography 96/Answers: Spleen Changes].
-33651845	In vitro analyses of Artemisia extracts on Plasmodium falciparum suggest a complex antimalarial effect.
-33651838	Complexome profile of Toxoplasma gondii mitochondria identifies divergent subunits of respiratory chain complexes including new subunits of cytochrome bc1 complex.
-33651792	Intestinal helminths as predictors of some malaria clinical outcomes and IL-1β levels in outpatients attending two public hospitals in Bamenda, North West Cameroon.
-33650468	Molecular docking and molecular dynamics simulation identify a novel Radicicol derivative that predicts exclusive binding to Plasmodium falciparum Topoisomerase VIB.
-33650125	Long-term tolerability of phosphodiesterase-5 inhibitors in pulmonary hypertension of sickle cell disease.
-33649976	Analysis of a two-strain malaria transmission model with spatial heterogeneity and vector-bias.
-33649410	Comparative performance of PCR using DNA extracted from dried blood spots and whole blood samples for malaria diagnosis: a meta-analysis.
-33649109	Perillyl alcohol reduces parasite sequestration and cerebrovascular dysfunction during experimental cerebral malaria.
-33649030	What obstetricians should be aware of: serious side effects of antibiotic toxoplasmosis treatment in pregnancy.
-33648890	MalDA, Accelerating Malaria Drug Discovery.
-33648654	Detection of Plasmodium falciparum malaria in 1 h using a simplified enzyme-linked immunosorbent assay.
-33648633	Mapping immune variation and var gene switching in naive hosts infected with Plasmodium falciparum.
-33648499	Beyond national indicators: adapting the Demographic and Health Surveys' sampling strategies and questions to better inform subnational malaria intervention policy.
-33648317	Immune-Based Interventions Against Infectious Disease - Impact of a Phase I Center for Biomedical Research Excellence in Translational Infectious Diseases Immunology.
-33647792	Plasmodium falciparum RIFIN is a novel ligand for inhibitory immune receptor LILRB2.
-33647122	Field Effectiveness of a Metofluthrin Fan-Based Emanator and Deet as Repellents Against Aedes vigilax in Southeast Queensland, Australia1.
-33647061	Burden of soil-transmitted helminth infection in pregnant refugees and migrants on the Thailand-Myanmar border: Results from a retrospective cohort.
-33647049	Insecticide resistance status of indoor and outdoor resting malaria vectors in a highland and lowland site in Western Kenya.
-33647029	Modelling of malaria risk, rates, and trends: A spatiotemporal approach for identifying and targeting sub-national areas of high and low burden.
-33647019	Reference intervals of common clinical biochemistry analytes in young Nigerian adults.
-33647009	Infection Manager System (IMS) as a new hemocytometry-based bacteremia detection tool: A diagnostic accuracy study in a malaria-endemic area of Burkina Faso.
-33646974	A Decline and Age Shift in Malaria Incidence in Rural Mali following Implementation of Seasonal Malaria Chemoprevention and Indoor Residual Spraying.
-33646854	Choline and PEG dually modified artemether nano delivery system targeting intra-erythrocytic Plasmodium and its pharmacodynamics in vivo.
-33646288	Association Between Preterm-Birth Phenotypes and Differential Morbidity, Growth, and Neurodevelopment at Age 2 Years: Results From the INTERBIO-21st Newborn Study.
-33644814	Value of C-reactive protein in differentiating viral from bacterial aetiologies in patients with non-malaria acute undifferentiated fever in tropical areas: a meta-analysis and individual patient data study.
-33644714	Telomere length dynamics in response to DNA damage in malaria parasites.
-33644236	First Report of Target Site Insensitivity in Pyrethroid Resistant Anopheles gambiae from Southern Guinea Savanna, Northern-Nigeria.
-33644004	Application of a Highly Selective Cathepsin S Two-step Activity-Based Probe in Multicolor Bio-Orthogonal Correlative Light-Electron Microscopy.
-33643963	Management of Malaria in Children Younger Than 5 Years Old During Coronavirus Disease 2019 Pandemic in Sierra Leone: A Lesson Learned?
-33643174	Transcranial Doppler Ultrasonographic Evaluation of Cerebrovascular Abnormalities in Children With Acute Bacterial Meningitis.
-33643034	Development of a Physiologically Based Pharmacokinetic Model for Hydroxychloroquine and Its Application in Dose Optimization in Specific COVID-19 Patients.
-33640673	Antimicrobial drugs bearing guanidine moieties: A review.
-33640269	Promises and Pitfalls of Parasite Patch-clamp.
-33640068	Effectiveness and cost-effectiveness of reactive, targeted indoor residual spraying for malaria control in low-transmission settings: a cluster-randomised, non-inferiority trial in South Africa.
-33640067	Impact and cost-effectiveness of a lethal house lure against malaria transmission in central Côte d'Ivoire: a two-arm, cluster-randomised controlled trial.
-33640060	Certifying Guinea worm eradication in humans and animals.
-33640048	The Lancet Pathfinder Commission: pathways to a healthy, zero-carbon future-a call for evidence.
-33640045	Mini-outbreak response for malaria using indoor residual spraying.
-33640044	Averting malaria transmission with lethal house lure intervention.
-33639951	A foci cohort analysis to monitor successful and persistent foci under Thailand's Malaria Elimination Strategy.
-33639949	A powerful qPCR-high resolution melting assay with taqman probe in plasmodium species differentiation.
-33639946	Deploying triple artemisinin-based combination therapy (TACT) for malaria treatment in Africa: ethical and practical considerations.
-33639932	Malaria rapid diagnostic test (HRP2/pLDH) positivity, incidence, care accessibility and impact of community WASH Action programme in DR Congo: mixed method study involving 625 households.
-33639924	Measurement of gene amplifications related to drug resistance in Plasmodium falciparum using droplet digital PCR.
-33639399	Corrigendum to 'A novel multiplex qPCR assay for detection of Plasmodium falciparum with histidine-rich protein 2 and 3 (pfhrp2 and pfhrp3) deletions in polyclonal infections'.
