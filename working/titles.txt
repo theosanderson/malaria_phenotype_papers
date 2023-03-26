@@ -1,3 +1,4 @@
+36966369	[POST-ARTEMISININ DELAYED HEMOLYSIS AFTER TREATMENT OF MALARIA].
 36966327	The five continuum of care criteria that should accompany rectal artesunate interventions: lessons learned from an implementation study in Malawi.
 36966272	Modelling to inform next-generation medical interventions for malaria prevention and treatment.
 36965546	Neuroprotection by Alstonia boonei De Wild., Anacardium occidentale L., Azadirachta indica A.Juss. and Mangifera indica L.
@@ -9996,4 +9997,3 @@
 33658571	A suitable RNA preparation methodology for whole transcriptome shotgun sequencing harvested from Plasmodium vivax-infected patients.
 33658054	Women's empowerment, intrahousehold influences, and health system design on modern contraceptive use in rural Mali: a multilevel analysis of cross-sectional survey data.
 33657429	Antiplasmodial and antileishmanial inhibitory activity of triterpenes and steroidal alkaloid from the leaves of Funtumia elastica (Preuss) Stapf (Apocynaceae).
-33657179	Efficacy of indoor residual spraying with broflanilide (TENEBENAL), a novel meta-diamide insecticide, against pyrethroid-resistant anopheline vectors in northern Tanzania: An experimental hut trial.
