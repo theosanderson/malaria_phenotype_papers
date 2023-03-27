@@ -1,3 +1,11 @@
+36971069	Electrochemical Determination of Chloroquine Phosphate in Real Samples Using a Diresorcinate-1,10-phenanthrolinecobalt(II)-Modified Glassy Carbon Electrode.
+36970842	Identification of new oxospiro chromane quinoline-carboxylate antimalarials that arrest parasite growth at ring stage.
+36970494	The impact of sustained malaria control in the Loreto region of Peru: a retrospective, observational, spatially-varying interrupted time series analysis of the PAMAFRO program.
+36970448	Widespread occurrence of copy number variants and fixation of pyrethroid target site resistance in Anopheles gambiae (s.l.) from southern Côte d'Ivoire.
+36969319	Pakistan's healthcare preparedness after the NIH warned of a new diphtheria strain and Covid-19 variation.
+36968961	Absence of Malaria-Associated Coagulopathy in Asymptomatic Plasmodium falciparum Infection: Results From a Cross-sectional Study in the Ashanti Region, Ghana.
+36968287	Antibody seropositivity and endemicity of chikungunya and Zika viruses in Nigeria.
+36968112	Serological surveillance on potential Plasmodium vivax exposure risk in a post-elimination setting.
 36967389	Durability of long-lasting insecticidal nets (LLINs) in Ethiopia.
 36967019	Preliminary insight into the potential antiplasmodial activity and cytotoxicity of Bufo bufo and Incilius alvarius poison.
 36966369	[POST-ARTEMISININ DELAYED HEMOLYSIS AFTER TREATMENT OF MALARIA].
@@ -9989,11 +9997,3 @@
 33661047	Giovanni Maria Lancisi (1654-1720) and the modern cardiovascular physiology.
 33660476	[Epidemiological characteristics of malaria in Henan Province from 1950 to 2019].
 33660467	[Challenges and countermeasures in prevention of re - establishment of imported malaria in China].
-33660349	Synthesis and antimalarial and anticancer evaluation of 7-chlorquinoline-4-thiazoleacetic derivatives containing aryl hydrazide moieties.
-33659403	Multiplication and Growth Inhibition Activity Assays for the Zoonotic Malaria Parasite, Plasmodium knowlesi.
-33659394	An in vitro DNA Sensor-based Assay to Measure Receptor-specific Adhesion Forces of Eukaryotic Cells and Pathogens.
-33659384	In vitro Cultivation and Visualization of Malaria Liver Stages in Primary Simian Hepatocytes.
-33659335	Microscopy-based Methods for Rosetting Assay in Malaria Research.
-33659316	Differential Fractionation of Erythrocytes Infected by Plasmodium berghei.
-33659096	Malaria, Helminth Infections and Clinical Status Among HIV-Infected Pregnant Women.
-33658571	A suitable RNA preparation methodology for whole transcriptome shotgun sequencing harvested from Plasmodium vivax-infected patients.
