@@ -1,3 +1,5 @@
+36967389	Durability of long-lasting insecticidal nets (LLINs) in Ethiopia.
+36967019	Preliminary insight into the potential antiplasmodial activity and cytotoxicity of Bufo bufo and Incilius alvarius poison.
 36966369	[POST-ARTEMISININ DELAYED HEMOLYSIS AFTER TREATMENT OF MALARIA].
 36966327	The five continuum of care criteria that should accompany rectal artesunate interventions: lessons learned from an implementation study in Malawi.
 36966272	Modelling to inform next-generation medical interventions for malaria prevention and treatment.
@@ -214,7 +216,7 @@
 36908393	Impact of helminthiasis on gestational anemia in low- and middle-income countries: a systematic review and meta-analysis of more than 19,000 women.
 36907541	Synthesis, characterization, antioxidant and antiparasitic activities new naphthyl-thiazole derivatives.
 36907290	Identification of three members of the multidomain adhesion CCp family in Babesia gibsoni.
-36906823	Hydroxyurea for Children with Sickle Cell Disease in sub-Saharan Africa: A Summary of the Evidence, Opportunities, and Challenges.
+36906823	Hydroxyurea for children with sickle cell disease in sub-Saharan Africa: A summary of the evidence, opportunities, and challenges.
 36906144	Structures of calmodulin-melittin complexes show multiple binding modes lacking classical anchoring interactions.
 36906121	Ultra-short course, high-dose primaquine to prevent Plasmodium vivax infection following uncomplicated paediatric malaria: a randomised, open-label, non-inferiority trial of early versus delayed treatment.
 36905751	Childhood Nephrotic Syndrome in Africa: Epidemiology, Treatment Trends, and Outcomes.
@@ -421,7 +423,7 @@
 36833109	Empanelment of the Population to the Primary Medical Care Institution of Sri Lanka: A Mixed-Methods Study on Outcomes and Challenges.
 36832247	Prevalence of Schistosoma haematobium and Intestinal Helminth Infections among Nigerian School Children.
 36830571	The Immunogenicity of a VLP-based Malaria Vaccine Targeting CSP in Pregnant and Neonatal Mice.
-36829293	γδ T cell-mediated immune responses to malaria.
+36829293	γδ T-cell-mediated immune responses to malaria.
 36829231	Correction: Anti-malaria drug artesunate prevents development of amyloid-β pathology in mice by upregulating PICALM at the blood-brain barrier.
 36829200	Women attending antenatal care as a sentinel surveillance population for malaria in Geita region, Tanzania: feasibility and acceptability to women and providers.
 36828985	Pathogens, reservoirs, and vectors involved in the transmission of vector-borne and zoonotic diseases in a Colombian region.
@@ -9995,5 +9997,3 @@
 33659316	Differential Fractionation of Erythrocytes Infected by Plasmodium berghei.
 33659096	Malaria, Helminth Infections and Clinical Status Among HIV-Infected Pregnant Women.
 33658571	A suitable RNA preparation methodology for whole transcriptome shotgun sequencing harvested from Plasmodium vivax-infected patients.
-33658054	Women's empowerment, intrahousehold influences, and health system design on modern contraceptive use in rural Mali: a multilevel analysis of cross-sectional survey data.
-33657429	Antiplasmodial and antileishmanial inhibitory activity of triterpenes and steroidal alkaloid from the leaves of Funtumia elastica (Preuss) Stapf (Apocynaceae).
