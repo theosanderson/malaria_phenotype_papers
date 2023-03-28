@@ -1,3 +1,5 @@
+36972302	The duplicated P450s CYP6P9a/b drive carbamates and pyrethroids cross-resistance in the major African malaria vector Anopheles funestus.
+36972236	An evaluation of LLIN ownership, access, and use during the Magude project in southern Mozambique.
 36971069	Electrochemical Determination of Chloroquine Phosphate in Real Samples Using a Diresorcinate-1,10-phenanthrolinecobalt(II)-Modified Glassy Carbon Electrode.
 36970842	Identification of new oxospiro chromane quinoline-carboxylate antimalarials that arrest parasite growth at ring stage.
 36970494	The impact of sustained malaria control in the Loreto region of Peru: a retrospective, observational, spatially-varying interrupted time series analysis of the PAMAFRO program.
@@ -9995,5 +9997,3 @@
 33661303	Plasmodium falciparum-specific IgM B cells dominate in children, expand with malaria, and produce functional IgM.
 33661302	Multimeric antibodies from antigen-specific human IgM+ memory B cells restrict Plasmodium parasites.
 33661047	Giovanni Maria Lancisi (1654-1720) and the modern cardiovascular physiology.
-33660476	[Epidemiological characteristics of malaria in Henan Province from 1950 to 2019].
-33660467	[Challenges and countermeasures in prevention of re - establishment of imported malaria in China].
