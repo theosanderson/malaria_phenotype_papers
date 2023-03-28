@@ -1,3 +1,10 @@
+36976115	Autokeras Approach: A Robust Automated Deep Learning Network for Diagnosis Disease Cases in Medical Images.
+36976018	Significance of Plasmodium berghei Amino Acid Transporter 1 in Food Vacuole Functionality and Its Association with Cerebral Pathogenesis.
+36975958	Genetic Diversity and Population Structure of Anopheles funestus in Western Kenya Based on Mitochondrial DNA Marker COII.
+36975916	Evidence of Transmission of Plasmodium vivax 210 and Plasmodium vivax 247 by Anopheles gambiae and An. coluzzii, Major Malaria Vectors in Benin/West Africa.
+36975906	Mosquito-Borne Diseases and Their Control Strategies: An Overview Focused on Green Synthesized Plant-Based Metallic Nanoparticles.
+36975584	Effective Coverage in Health Systems: Evolution of a Concept.
+36974933	In silico modeling revealed phytomolecules derived from Cymbopogon citratus (DC.) leaf extract as promising candidates for malaria therapy.
 36974526	Molecular Targets and Signaling Pathways in Cholangiocarcinoma: A Systematic Review.
 36974127	The ability of Anopheles funestus and A. arabiensis to penetrate LLINs and its effect on their mortality.
 36974014	[Malaria control knowledge and behaviors and their influencing factors among residents in Banlao Township, Cangyuan County, Yunnan Province].
@@ -9990,10 +9997,3 @@
 33663515	Indoor and outdoor malaria transmission in two ecological settings in rural Mali: implications for vector control.
 33663492	Genomic analysis reveals independent evolution of Plasmodium falciparum populations in Ethiopia.
 33663488	Cost-effectiveness of district-wide seasonal malaria chemoprevention when implemented through routine malaria control programme in Kita, Mali using fixed point distribution.
-33663484	What is the yield of malaria reactive case detection in the Greater Mekong Sub-region? A review of published data and meta-analysis.
-33663349	Phenothiazine as novel human superoxide dismutase modulators: discovery, optimization, and biological evaluation.
-33655197	Safe and effective delivery of supplemental iron to healthy older adults: The double-blind, randomized, placebo-controlled trial protocol of the Safe Iron Study.
-33662994	In Vitro Assessment of Cytoprotective Effects of CANOVA against Cell Death Induced by the Anti-malarial Artesunate - A Preliminary Experiment.
-33662102	Effect of Ivermectin on Time to Resolution of Symptoms Among Adults With Mild COVID-19: A Randomized Clinical Trial.
-33662005	Real-time dispersal of malaria vectors in rural Africa monitored with lidar.
-33661970	Clinical and microbiological characterization of sepsis and evaluation of sepsis scores.
