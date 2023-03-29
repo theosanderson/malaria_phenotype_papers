@@ -1,3 +1,4 @@
+36988415	Clinical evaluation of BioFire® multiplex-PCR panel for acute undifferentiated febrile illnesses in travellers: a prospective multicenter study.
 36987993	Accelerating action to reduce anemia: Review of causes and risk factors and related data needs.
 36986868	Derivatives of Amaryllidaceae Alkaloid Ambelline as Selective Inhibitors of Hepatic Stage of Plasmodium berghei Infection In Vitro.
 36986583	Vitamin E TPGS-Based Nanomedicine, Nanotheranostics, and Targeted Drug Delivery: Past, Present, and Future.
@@ -1825,7 +1826,6 @@
 36349448	Allometric scaling relationships in mouse placenta.
 36349187	Malaria Microscopy Competency in the Subnational Verification, China: Implications for Malaria Elimination and the Prevention of Malaria Reestablishment.
 36349140	High Prevalence of Plasmodium Infection in Fighting Cocks in Thailand Determined with a Molecular Method.
-36348586	Characterization of the anopheline vector breeding habitats: Implications for elimination of malaria in tribal inhabited Car Nicobar Island.
 36348409	Improvements in malaria surveillance through the electronic Integrated Disease Surveillance and Response (eIDSR) system in mainland Tanzania, 2013-2021.
 36348381	Dietary diversity in primary schoolchildren of south-central Côte d'Ivoire and risk factors for non-communicable diseases.
 36347257	Rare, convergent antibodies targeting the stem helix broadly neutralize diverse betacoronaviruses.
