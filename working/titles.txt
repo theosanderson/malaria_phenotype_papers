@@ -1,3 +1,11 @@
+36977181	Reactive Case Detection Strategy for Malaria Control and Elimination: A 12 Year Systematic Review and Meta-Analysis from 25 Malaria-Endemic Countries.
+36977180	Environmental Factors Linked to Reporting of Active Malaria Foci in Thailand.
+36977172	Zika, Flavivirus and Malaria Antibody Cocirculation in Nigeria.
+36977163	Modeling Sustained Transmission of Wolbachia among Anopheles Mosquitoes: Implications for Malaria Control in Haiti.
+36977150	Effects of Age, Gender and Soil-Transmitted Helminth Infection on Prevalence of Plasmodium Infection among Population Living in Bata District, Equatorial Guinea.
+36977133	Nucleic Acid Prevalence of Zoonotic Babesia in Humans, Animals and Questing Ticks, a Systematic Review and Meta-Analysis.
+36977132	Surveillance and Control of Malaria Vectors in Hainan Province, China from 1950 to 2021: A Retrospective Review.
+36976731	Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance.
 36976115	Autokeras Approach: A Robust Automated Deep Learning Network for Diagnosis Disease Cases in Medical Images.
 36976018	Significance of Plasmodium berghei Amino Acid Transporter 1 in Food Vacuole Functionality and Its Association with Cerebral Pathogenesis.
 36975958	Genetic Diversity and Population Structure of Anopheles funestus in Western Kenya Based on Mitochondrial DNA Marker COII.
@@ -238,6 +246,7 @@
 36909484	Babesia divergens egress from host cells is orchestrated by essential and druggable kinases and proteases.
 36908639	Molecular Surveillance of Malaria Using the PF AmpliSeq Custom Assay for Plasmodium falciparum Parasites from Dried Blood Spot DNA Isolates from Peru.
 36908393	Impact of helminthiasis on gestational anemia in low- and middle-income countries: a systematic review and meta-analysis of more than 19,000 women.
+36580567	
 36907541	Synthesis, characterization, antioxidant and antiparasitic activities new naphthyl-thiazole derivatives.
 36907290	Identification of three members of the multidomain adhesion CCp family in Babesia gibsoni.
 36906823	Hydroxyurea for children with sickle cell disease in sub-Saharan Africa: A summary of the evidence, opportunities, and challenges.
@@ -1546,7 +1555,6 @@
 36427517	What sounds like Aedes, acts like Aedes, but is not Aedes? Lessons from dengue virus control for the management of invasive Anopheles.
 36426002	Data on prevalence and management practices of malaria-typhoid co-infection in Unwana South East Nigeria.
 36425785	Spatial, environmental, and individual associations with Anopheles albimanus salivary antigen IgG in Haitian children.
-36580567	
 36424604	Coating formulation change leads to inferior performance of long-lasting insecticidal nets in Papua New Guinea.
 36424398	Rapid diagnosis of malaria by chemometric peak-free LIBS of trace biometals in blood.
 36423944	Case of myocarditis secondary to severe Plasmodium falciparum infection.
@@ -9989,11 +9997,3 @@
 33665437	Performance assessment of a widely used rapid diagnostic test CareStart™ compared to microscopy for the detection of Plasmodium in asymptomatic patients in the Western region of Cameroon.
 33665380	Efficient refolding and functional characterization of PfAMA1(DI+DII) expressed in E. coli.
 33664739	CCR2 Is Dispensable for Disease Resolution but Required for the Restoration of Leukocyte Homeostasis Upon Experimental Malaria-Associated Acute Respiratory Distress Syndrome.
-33664722	Novel Asaia bogorensis Signal Sequences for Plasmodium Inhibition in Anopheles stephensi.
-33664389	Performance of the hematology analyzer XN-31 prototype in the detection of Plasmodium infections in an endemic region of Colombia.
-33663534	Molecular and morphological identification of suspected Plasmodium vivax vectors in Central and Eastern Sudan.
-33663524	Haematological profile of children with malaria in Sorong, West Papua, Indonesia.
-33663516	Insecticide-treated net utilization and associated factors among pregnant women and under-five children in East Belessa District, Northwest Ethiopia: using the Health Belief model.
-33663515	Indoor and outdoor malaria transmission in two ecological settings in rural Mali: implications for vector control.
-33663492	Genomic analysis reveals independent evolution of Plasmodium falciparum populations in Ethiopia.
-33663488	Cost-effectiveness of district-wide seasonal malaria chemoprevention when implemented through routine malaria control programme in Kita, Mali using fixed point distribution.
