@@ -1,3 +1,6 @@
+36978056	PET-PCR reveals low parasitaemia and submicroscopic malarial infections in Honduran Moskitia.
+36977719	Structural basis of the substrate recognition and inhibition mechanism of Plasmodium falciparum nucleoside transporter PfENT1.
+36977632	Different TLR signaling pathways drive pathology in experimental cerebral malaria vs. malaria-driven liver and lung pathology.
 36977181	Reactive Case Detection Strategy for Malaria Control and Elimination: A 12 Year Systematic Review and Meta-Analysis from 25 Malaria-Endemic Countries.
 36977180	Environmental Factors Linked to Reporting of Active Malaria Foci in Thailand.
 36977172	Zika, Flavivirus and Malaria Antibody Cocirculation in Nigeria.
@@ -9994,6 +9997,3 @@
 33666415	3-Hydroxy-propanamidines, a New Class of Orally Active Antimalarials Targeting Plasmodium falciparum.
 33666362	Malaria parasites differentially sense environmental elasticity during transmission.
 33665945	Plasmodium transcription repressor AP2-O3 regulates sex-specific identity of gene expression in female gametocytes.
-33665437	Performance assessment of a widely used rapid diagnostic test CareStart™ compared to microscopy for the detection of Plasmodium in asymptomatic patients in the Western region of Cameroon.
-33665380	Efficient refolding and functional characterization of PfAMA1(DI+DII) expressed in E. coli.
-33664739	CCR2 Is Dispensable for Disease Resolution but Required for the Restoration of Leukocyte Homeostasis Upon Experimental Malaria-Associated Acute Respiratory Distress Syndrome.
