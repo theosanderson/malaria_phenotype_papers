@@ -1,3 +1,28 @@
+36987993	Accelerating action to reduce anemia: Review of causes and risk factors and related data needs.
+36986868	Derivatives of Amaryllidaceae Alkaloid Ambelline as Selective Inhibitors of Hepatic Stage of Plasmodium berghei Infection In Vitro.
+36986583	Vitamin E TPGS-Based Nanomedicine, Nanotheranostics, and Targeted Drug Delivery: Past, Present, and Future.
+36986434	Recent Advances in the Development of Adenovirus-Vectored Vaccines for Parasitic Infections.
+36986377	Low Prevalence of Plasmodium falciparum Histidine-Rich Protein 2 and 3 Gene Deletions-A Multiregional Study in Central and West Africa.
+36986323	Glucose-6-Phosphate Dehydrogenase (G6PD) Measurement Using Biosensors by Community-Based Village Malaria Workers and Hospital Laboratory Staff in Cambodia: A Quantitative Study.
+36986320	Pioneer Use of Antimalarial Transdermal Combination Therapy in Rodent Malaria Model.
+36986296	Analysis of Fifty Years of Severe Malaria Worldwide Research.
+36985700	Antileishmanial and Antiplasmodial Activities of Secondary Metabolites from the Root of Antrocaryon klaineanum Pierre (Anacardiaceae).
+36985570	Cripowellins Pause Plasmodium falciparum Intraerythrocytic Development at the Ring Stage.
+36985500	Natural Plasmodium falciparum Infection Stimulates Human Antibodies to MSP1 Epitopes Identified in Mice Infection Models upon Non-Natural Modified Peptidomimetic Vaccination.
+36985278	The Tubulin Superfamily in Apicomplexan Parasites.
+36985270	Prioritization of Microorganisms Isolated from the Indian Ocean Sponge Scopalina hapalia Based on Metabolomic Diversity and Biological Activity for the Discovery of Natural Products.
+36985217	Contrasting Patterns of Asaia Association with Pyrethroid Resistance Escalation between the Malaria Vectors Anopheles funestus and Anopheles gambiae.
+36985137	Avian Malaria Parasites Modulate Gut Microbiome Assembly in Canaries.
+36984883	Phytochemicals Identification and Bioactive Compounds Estimation of Artemisia Species Grown in Saudia Arabia.
+36983859	Plasmodium vivax MSP1-42 kD Variant Proteins Detected Naturally Induced IgG Antibodies in Patients Regardless of the Infecting Parasite Phenotype in Mesoamerica.
+36983251	Ogilvie Syndrome and Acute Kidney Injury: A Rare Complication of Cesarean Section and Preeclampsia.
+36981465	Exploring Knowledge about Fang Traditional Medicine: An Informal Health Seeking Behaviour for Medical or Cultural Afflictions in Equatorial Guinea.
+36980901	Genetic Diversity in the mtDNA of Physarum polycephalum.
+36979396	Compounds Inhibiting Noppera-bo, a Glutathione S-transferase Involved in Insect Ecdysteroid Biosynthesis: Novel Insect Growth Regulators.
+36979393	Cysteine Residues in Region 6 of the Plasmodium yoelii Erythrocyte-Binding-like Ligand That Are Related to Its Localization and the Course of Infection.
+36978912	Antioxidant, Anti-Inflammatory and Anti-Diabetic Activities of Tectona grandis Methanolic Extracts, Fractions, and Isolated Compounds.
+36974127	The ability of Anopheles funestus and A. arabiensis to penetrate LLINs and its effect on their mortality.
+36874567	The genome sequence of the malaria mosquito, Anopheles funestus, Giles, 1900.
 36978056	PET-PCR reveals low parasitaemia and submicroscopic malarial infections in Honduran Moskitia.
 36977719	Structural basis of the substrate recognition and inhibition mechanism of Plasmodium falciparum nucleoside transporter PfENT1.
 36977632	Different TLR signaling pathways drive pathology in experimental cerebral malaria vs. malaria-driven liver and lung pathology.
@@ -17,7 +42,6 @@
 36975584	Effective Coverage in Health Systems: Evolution of a Concept.
 36974933	In silico modeling revealed phytomolecules derived from Cymbopogon citratus (DC.) leaf extract as promising candidates for malaria therapy.
 36974526	Molecular Targets and Signaling Pathways in Cholangiocarcinoma: A Systematic Review.
-36974127	The ability of Anopheles funestus and A. arabiensis to penetrate LLINs and its effect on their mortality.
 36974014	[Malaria control knowledge and behaviors and their influencing factors among residents in Banlao Township, Cangyuan County, Yunnan Province].
 36974013	[Establishment and preliminary evaluation of a fluorescent recombinase-aided amplification/CRISPR-Cas12a system for rapid detection of Plasmodium falciparum].
 36974009	[Temporal trends in disease burden of major human parasitic diseases in China from 1990 to 2019].
@@ -327,7 +351,6 @@
 36875524	Rosette formation by Plasmodium vivax gametocytes favors the infection in Anopheles aquasalis.
 36875425	Malaria knowledge, attitude, and practice among communities involved in a seasonal malaria chemoprevention study in Nanyumbu and Masasi districts, Tanzania.
 36875126	A tool for evaluating heterogeneity in avidity of polyclonal antibodies.
-36874567	The genome sequence of the malaria mosquito, Anopheles funestus, Giles, 1900.
 36874000	Therapeutic potential of artemisinin and its derivatives in managing kidney diseases.
 36873877	Editorial: Current research on serological analyses of infectious diseases.
 36872344	Association of G6PD status and haemolytic anaemia in patients receiving anti-malarial agents: a systematic review and meta-analysis.
@@ -9974,26 +9997,3 @@
 33673562	Synthesis, Biological Activity and In Silico Pharmacokinetic Prediction of a New 2-Thioxo-Imidazoldidin-4-One of Primaquine.
 33673350	Biological Profiling of Semisynthetic C19-Functionalized Ferruginol and Sugiol Analogues.
 33673292	Bio-Control of Anopheles Mosquito Larvae Using Invertebrate Predators to Support Human Health Programs in Ethiopia.
-33673007	Nopol-Based Quinoline Derivatives as Antiplasmodial Agents.
-33672753	Easy-To-Access Quinolone Derivatives Exhibiting Antibacterial and Anti-Parasitic Activities.
-33672387	Mutation of GGMP Repeat Segments of Plasmodium falciparum Hsp70-1 Compromises Chaperone Function and Hop Co-Chaperone Binding.
-33672278	Unraveling Cell Death Pathways during Malaria Infection: What Do We Know So Far?
-33671870	Physical Mapping of the Anopheles (Nyssorhynchus) darlingi Genomic Scaffolds.
-33671594	A Scoping Review of Selected Studies on Predictor Variables Associated with the Malaria Status among Children under Five Years in Sub-Saharan Africa.
-33671430	Developing a Vaccine to Block West Nile Virus Transmission: In Silico Studies, Molecular Characterization, Expression, and Blocking Activity of Culex pipiens mosGCTL-1.
-33671255	Multivalent Display of SARS-CoV-2 Spike (RBD Domain) of COVID-19 to Nanomaterial, Protein Ferritin Nanocages.
-33670878	Metabolites from Marine Sponges and Their Potential to Treat Malarial Protozoan Parasites Infection: A Systematic Review.
-33670731	Antimicrobial Prescription Pattern in Ho Teaching Hospital, Ghana: Seasonal Determination Using a Point Prevalence Survey.
-33670618	Performance and Application of Commercially Available Loop-Mediated Isothermal Amplification (LAMP) Kits in Malaria Endemic and Non-Endemic Settings.
-33670471	Malaria in Cambodia: A Retrospective Analysis of a Changing Epidemiology 2006-2019.
-33670016	Decoding the Molecular Effects of Atovaquone Linked Resistant Mutations on Plasmodium falciparum Cytb-ISP Complex in the Phospholipid Bilayer Membrane.
-33669761	Nosocomial Infections: Do Not Forget the Parasites!
-33668472	Towards a Semi-Automatic Early Warning System for Vector-Borne Diseases.
-35586642	[Lessons from the Malaria Vector Control Program Based on Indoors Residual Spraying with DDT or Dieldrin in the Pilot Zone of Bobo-Dioulasso: Failure or Success?].
-33667975	Computational prediction of the effects of non-synonymous single nucleotide polymorphisms on the GPI-anchor transamidase subunit GPI8p of Plasmodium falciparum.
-33667710	Glyoxalase pathway is required for normal liver-stage proliferation of Plasmodium berghei.
-33667089	Antiplasmodial Oleanane Triterpenoids from Terminalia albida Root Bark.
-33666572	McWilson Warren, PhD (1929-2021), Scientist, Malaria Researcher, and ASTMH Editor.
-33666415	3-Hydroxy-propanamidines, a New Class of Orally Active Antimalarials Targeting Plasmodium falciparum.
-33666362	Malaria parasites differentially sense environmental elasticity during transmission.
-33665945	Plasmodium transcription repressor AP2-O3 regulates sex-specific identity of gene expression in female gametocytes.
