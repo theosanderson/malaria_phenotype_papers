@@ -1,3 +1,12 @@
+36991487	The CARAMAL study could not assess the effectiveness of rectal artesunate in treating suspected severe malaria.
+36991438	Diagnostic performance of NxTek(™) Eliminate Malaria-Pf test for the detection of Plasmodium falciparum in school children with asymptomatic malaria.
+36991411	Perception and awareness towards malaria vaccine policy implementation in Nigeria by health policy actors.
+36991404	Pre-referral rectal artesunate is no "magic bullet" in weak health systems.
+36991403	Improving social justice in observational studies: protocol for the development of a global and Indigenous STROBE-equity reporting guideline.
+36991394	Post introduction evaluation of the malaria vaccine implementation programme in Ghana, 2021.
+36991340	Spatiotemporal overlapping of dengue, chikungunya, and malaria infections in children in Kenya.
+36990624	Endemic or regionally limited parasitic and fungal infections in haematopoietic stem-cell transplantation recipients: a Worldwide Network for Blood and Marrow Transplantation (WBMT) Review.
+36990255	Plasmodium Iron-Sulfur [Fe-S] cluster assembly protein Dre2 as a plausible target of Artemisinin: mechanistic insights derived in a prokaryotic heterologous system.
 36989322	Serum anti-erythropoietin antibodies among pregnant women with Plasmodium falciparum malaria and anaemia: A case-control study in northern Ghana.
 36988415	Clinical evaluation of BioFire® multiplex-PCR panel for acute undifferentiated febrile illnesses in travellers: a prospective multicenter study.
 36987993	Accelerating action to reduce anemia: Review of causes and risk factors and related data needs.
@@ -9988,12 +9997,3 @@
 33676491	A participatory approach to address within-country cross-border malaria: the case of Menoreh Hills in Java, Indonesia.
 33676307	Plasmodium infection inhibits triple negative 4T1 breast cancer potentially through induction of CD8(+) T cell-mediated antitumor responses in mice.
 33676034	DeepAlign, a 3D alignment method based on regionalized deep learning for Cryo-EM.
-33676011	First evidence of local circulation of Plasmodium ovale curtisi and reliability of a malaria rapid diagnostic test among symptomatic outpatients in Douala, Cameroon.
-33675647	Travel-associated multidrug-resistant organism acquisition and risk factors among US military personnel.
-33674699	In vitro and in vivo inhibition of malaria parasite infection by monoclonal antibodies against Plasmodium falciparum circumsporozoite protein (CSP).
-33674488	Combined liver-cytokine humanization comes to the rescue of circulating human red blood cells.
-33673871	Experimental and computational studies of an antiplasmodial derivative of allantoin; antimycobacterial essential oil from Cordia batesii WERNHAM (Boraginaceae).
-33673735	Benzimidazole Derivatives Are Potent against Multiple Life Cycle Stages of Plasmodium falciparum Malaria Parasites.
-33673608	Vector-Borne Blood Parasites of the Great-Tailed Grackle (Quiscalus mexicanus) in East-Central Texas, USA.
-33673562	Synthesis, Biological Activity and In Silico Pharmacokinetic Prediction of a New 2-Thioxo-Imidazoldidin-4-One of Primaquine.
-33673350	Biological Profiling of Semisynthetic C19-Functionalized Ferruginol and Sugiol Analogues.
