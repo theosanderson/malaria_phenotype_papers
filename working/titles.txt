@@ -1,3 +1,4 @@
+36989322	Serum anti-erythropoietin antibodies among pregnant women with Plasmodium falciparum malaria and anaemia: A case-control study in northern Ghana.
 36988415	Clinical evaluation of BioFire® multiplex-PCR panel for acute undifferentiated febrile illnesses in travellers: a prospective multicenter study.
 36987993	Accelerating action to reduce anemia: Review of causes and risk factors and related data needs.
 36986868	Derivatives of Amaryllidaceae Alkaloid Ambelline as Selective Inhibitors of Hepatic Stage of Plasmodium berghei Infection In Vitro.
@@ -9996,4 +9997,3 @@
 33673608	Vector-Borne Blood Parasites of the Great-Tailed Grackle (Quiscalus mexicanus) in East-Central Texas, USA.
 33673562	Synthesis, Biological Activity and In Silico Pharmacokinetic Prediction of a New 2-Thioxo-Imidazoldidin-4-One of Primaquine.
 33673350	Biological Profiling of Semisynthetic C19-Functionalized Ferruginol and Sugiol Analogues.
-33673292	Bio-Control of Anopheles Mosquito Larvae Using Invertebrate Predators to Support Human Health Programs in Ethiopia.
