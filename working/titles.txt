@@ -1,3 +1,18 @@
+36993981	Plasmodium falciparum infection coinciding with the malaria vaccine candidate BK-SE36 administration interferes with the immune responses in Burkinabe children.
+36993979	Exploring SARS-CoV-2 and Plasmodium falciparum coinfection in human erythrocytes.
+36993973	Brain endothelial cells exposure to malaria parasites links type I interferon signalling to antigen presentation, immunoproteasome activation, endothelium disruption, and cellular metabolism.
+36993971	P2RX7 signaling drives the differentiation of Th1 cells through metabolic reprogramming for aerobic glycolysis.
+36993678	Frequency-dependent ecological interactions increase the prevalence and shape the distribution of pre-existing drug resistance.
+36993606	Atlas of Plasmodium falciparum intraerythrocytic development using expansion microscopy.
+36993272	Development of a Plasmodium vivax biobank for functional ex vivo assays.
+36993196	Asymptomatic and submicroscopic malaria infections in sugar cane and rice development areas of Ethiopia.
+36993192	Lineage-informative microhaplotypes for spatio-temporal surveillance of Plasmodium vivax malaria parasites.
+36993116	Epidemiology of malaria from a low-prevalence Indian state: A single-center study.
+36993083	Assessment of frontline health workers in providing services for malaria elimination in the tribal district of Mandla, Madhya Pradesh.
+36993017	Etiology of new-onset seizures in adult patients of different age groups presenting to the emergency department in North India and their outcomes.
+36992881	Editorial: Novel strategies for controlling mosquito-borne diseases.
+36992298	Determinants of Chikungunya and O'nyong-Nyong Virus Specificity for Infection of Aedes and Anopheles Mosquito Vectors.
+36992247	Tetanus and Diphtheria Seroprotection among Children Younger Than 15 Years in Nigeria, 2018: Who Are the Unprotected Children?
 36991487	The CARAMAL study could not assess the effectiveness of rectal artesunate in treating suspected severe malaria.
 36991438	Diagnostic performance of NxTek(™) Eliminate Malaria-Pf test for the detection of Plasmodium falciparum in school children with asymptomatic malaria.
 36991411	Perception and awareness towards malaria vaccine policy implementation in Nigeria by health policy actors.
@@ -9982,18 +9997,3 @@
 33679905	Epidemiological trends in community acquired acute Kidney Injury in Pakistan: 25 years Experience from a Tertiary Care Renal Unit.
 33679787	Malaria and Early Life Immunity: Competence in Context.
 33679730	Less Severe Cases of COVID-19 in Sub-Saharan Africa: Could Co-infection or a Recent History of Plasmodium falciparum Infection Be Protective?
-33679707	Memory B-Cell Responses Against Merozoite Antigens After Acute Plasmodium falciparum Malaria, Assessed Over One Year Using a Novel Multiplexed FluoroSpot Assay.
-33678392	Molecular and serological detection of arthropod-borne pathogens in carnivorous birds from Brazil.
-33678383	First case of Plasmodium relictum lineage pGRW11 infection in a captive-bred common eider (Somateria Mollissima) in Europe.
-33678376	Molecular detection and phylogenetic relationship of Haemosporida parasites in free-ranging wild raptors from Brazil.
-33678166	Impact of seasonality and malaria control interventions on Anopheles density and species composition from three areas of Uganda with differing malaria endemicity.
-33677477	Fine-scale Spatiotemporal Mapping of Asymptomatic and Clinical Plasmodium falciparum Infections: Epidemiological Evidence for Targeted Malaria Elimination Interventions.
-33676598	Global health security requires endemic disease eradication.
-33676562	Survivorship of Anopheles gambiae sensu lato in irrigated sugarcane plantation scheme in Ethiopia.
-33676522	Cross-border malaria in Northern Brazil.
-33676517	Vector incrimination and transmission of avian malaria at an aquarium in Japan: mismatch in parasite composition between mosquitoes and penguins.
-33676502	Comparison of capillary and venous blood for malaria detection using two PCR-based assays in febrile patients in Sierra Leone.
-33676493	Hybrid mosquitoes? Evidence from rural Tanzania on how local communities conceptualize and respond to modified mosquitoes as a tool for malaria control.
-33676491	A participatory approach to address within-country cross-border malaria: the case of Menoreh Hills in Java, Indonesia.
-33676307	Plasmodium infection inhibits triple negative 4T1 breast cancer potentially through induction of CD8(+) T cell-mediated antitumor responses in mice.
-33676034	DeepAlign, a 3D alignment method based on regionalized deep learning for Cryo-EM.
