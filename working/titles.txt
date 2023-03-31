@@ -1,3 +1,6 @@
+36999404	A Water-Soluble Polymer-Lumefantrine Conjugate for the Intravenous Treatment of Severe Malaria.
+36999258	Plasmodium Ovale Malaria: Endemic Areas in Indonesia.
+36998616	Artesunate inhibits airway remodeling in asthma via the MAPK signaling pathway.
 36997953	Investigating rapid diagnostic testing in Kenya's health system, 2018-2020: validating non-reporting in routine data using a health facility service assessment survey.
 36997790	The synergistic effect of climatic factors on malaria transmission: a predictive approach for northeastern states of India.
 36997768	Therapeutic perspective for children and young adults living with thalassemia and sickle cell disease.
@@ -5973,6 +5976,7 @@
 34973474	Comparative performance of WANTAI ELISA for total immunoglobulin to receptor binding protein and an ELISA for IgG to spike protein in detecting SARS-CoV-2 antibodies in Kenyan populations.
 34973453	Imported malaria in Switzerland, (1990-2019): A retrospective analysis.
 34973333	Enzymatic and structural characterization of HAD5, an essential phosphomannomutase of malaria-causing parasites.
+36998722	Unravelling var complexity: Relationship between DBLα types and var genes in Plasmodium falciparum.
 36260729	Killing mosquitoes: Think before you swat.
 36260728	The mosquito and malaria: Would mosquito control alone eliminate the disease?
 36260727	Domesticated Mosquitoes: Colonization and the growth of mosquito habitats in North America.
@@ -9993,7 +9997,3 @@
 33684519	Anti-malarial humoral immunity: the long and short of it.
 33684211	Reduced Birth Weight Caused by Sextuple Drug-Resistant Plasmodium falciparum Infection in Early Second Trimester.
 33684147	First investigation of pathogenic bacteria, protozoa and viruses in rodents and shrews in context of forest-savannah-urban areas interface in the city of Franceville (Gabon).
-33684042	A Molecular Communication Detection Method for the Deformability of Erythrocyte Membrane in Blood Vessels.
-33683655	Malaria link of hypertension: a hidden syndicate of angiotensin II, bradykinin and sphingosine 1-phosphate.
-33681989	'Run them dry': a retrospective experience with a restrictive fluid management strategy in severe imported falciparum malaria from a tertiary care university hospital in Berlin, Germany.
-33681986	Observational study of adult respiratory infections in primary care clinics in Myanmar: understanding the burden of melioidosis, tuberculosis and other infections not covered by empirical treatment regimes.
