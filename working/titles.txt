@@ -1,3 +1,10 @@
+36997953	Investigating rapid diagnostic testing in Kenya's health system, 2018-2020: validating non-reporting in routine data using a health facility service assessment survey.
+36997790	The synergistic effect of climatic factors on malaria transmission: a predictive approach for northeastern states of India.
+36997768	Therapeutic perspective for children and young adults living with thalassemia and sickle cell disease.
+36997532	Cryo-tomography reveals rigid-body motion and organization of apicomplexan invasion machinery.
+36997087	Maturation of the Malarial Phosphatidylserine Decarboxylase is Mediated by High Affinity Binding to Anionic Phospholipids.
+36997012	Residual Malaria Transmission: magnitude and drivers of persistent Plasmodium infections despite high coverage of control interventions in Burkina Faso, West Africa.
+36996716	Falcipains: Biochemistry, target validation and structure-activity relationship studies of inhibitors as antimalarials.
 36996035	Same, same but different: Exploring Plasmodium cell division during liver stage development.
 36994923	Zinc supplementation for preventing mortality, morbidity, and growth failure in children aged 6 months to 12 years.
 36993981	Plasmodium falciparum infection coinciding with the malaria vaccine candidate BK-SE36 administration interferes with the immune responses in Burkinabe children.
@@ -911,7 +918,6 @@
 36681898	Bivalent intra-spike binding provides durability against emergent Omicron lineages: Results from a global consortium.
 36680984	New antiplasmodial 4-amino-thieno[3,2-d]pyrimidines with improved intestinal permeability and microsomal stability.
 36680454	Baseline prevalence of molecular marker of sulfadoxine/pyrimethamine resistance in Ebonyi and Osun states, Nigeria: amplicon deep sequencing of dhps-540.
-36680436	Emerging integrase strand transfer inhibitor drug resistance mutations among children and adults on ART in Tanzania: findings from a national representative HIV drug resistance survey.
 36680348	George Stephen Penny (1885-1964): his life and medical encounters before, during and after admission to Broadmoor Criminal Lunatic Asylum.
 36680167	Development and Validation of a Rapid Screening Test for HTLV-I IgG Antibodies.
 36679099	Chemical Profile, Antioxidant and Anti-Inflammatory Potency of Extracts of Vitex madiensis Oliv. and Crossopteryx febrifuga (Afzel ex G. Don).
@@ -9991,9 +9997,3 @@
 33683655	Malaria link of hypertension: a hidden syndicate of angiotensin II, bradykinin and sphingosine 1-phosphate.
 33681989	'Run them dry': a retrospective experience with a restrictive fluid management strategy in severe imported falciparum malaria from a tertiary care university hospital in Berlin, Germany.
 33681986	Observational study of adult respiratory infections in primary care clinics in Myanmar: understanding the burden of melioidosis, tuberculosis and other infections not covered by empirical treatment regimes.
-33681531	Malaria-induced ptosis.
-33681487	An investigation of Human Clonorchiasis prevalence in an Endemic County in Guangxi Zhuang Autonomous Region, China, 2016.
-33681356	Ethnobotanical Study of Plants Used for Human Ailments in Yilmana Densa and Quarit Districts of West Gojjam Zone, Amhara Region, Ethiopia.
-33680982	Parasite-Host Interaction and Pathophysiology Studies of the Human Relapsing Malarias Plasmodium vivax and Plasmodium ovale Infections in Non-Human Primates.
-33680485	Mobile health approaches to disease surveillance in Africa; Wellvis COVID triage tool.
-33679905	Epidemiological trends in community acquired acute Kidney Injury in Pakistan: 25 years Experience from a Tertiary Care Renal Unit.
