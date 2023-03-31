@@ -1,3 +1,4 @@
+36999849	Influence of mosquito-borne biological agents on health risks among soldiers and military personnel.
 36999404	A Water-Soluble Polymer-Lumefantrine Conjugate for the Intravenous Treatment of Severe Malaria.
 36999258	Plasmodium Ovale Malaria: Endemic Areas in Indonesia.
 36998616	Artesunate inhibits airway remodeling in asthma via the MAPK signaling pathway.
@@ -9996,4 +9997,3 @@
 33684983	A LAMP-SNP Assay Detecting C580Y Mutation in Pfkelch13 Gene from Clinically Dried Blood Spot Samples.
 33684519	Anti-malarial humoral immunity: the long and short of it.
 33684211	Reduced Birth Weight Caused by Sextuple Drug-Resistant Plasmodium falciparum Infection in Early Second Trimester.
-33684147	First investigation of pathogenic bacteria, protozoa and viruses in rodents and shrews in context of forest-savannah-urban areas interface in the city of Franceville (Gabon).
