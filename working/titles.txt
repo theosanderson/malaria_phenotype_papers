@@ -1,3 +1,6 @@
+37001025	Synthesis and Characterization of Phenylalanine Amides Active against Mycobacterium abscessus and Other Mycobacteria.
+37000891	Formation of ER-lumenal intermediates during export of Plasmodium proteins containing transmembrane-like hydrophobic sequences.
+37000890	Acceptability and perceived barriers to reactive focal mass drug administration in the context of a malaria elimination program in Magude district, Southern Mozambique: A qualitative study.
 36999849	Influence of mosquito-borne biological agents on health risks among soldiers and military personnel.
 36999404	A Water-Soluble Polymer-Lumefantrine Conjugate for the Intravenous Treatment of Severe Malaria.
 36999258	Plasmodium Ovale Malaria: Endemic Areas in Indonesia.
@@ -9994,6 +9997,3 @@
 33685401	Malaria parasite detection in thick blood smear microscopic images using modified YOLOV3 and YOLOV4 models.
 33684990	Clinical Usefulness of LabChip Real-time PCR using Lab-On-a-Chip Technology for Diagnosing Malaria.
 33684986	Echinostoma mekongi: Discovery of Its Metacercarial Stage in Snails, Filopaludina martensi cambodjensis, in Pursat Province, Cambodia.
-33684983	A LAMP-SNP Assay Detecting C580Y Mutation in Pfkelch13 Gene from Clinically Dried Blood Spot Samples.
-33684519	Anti-malarial humoral immunity: the long and short of it.
-33684211	Reduced Birth Weight Caused by Sextuple Drug-Resistant Plasmodium falciparum Infection in Early Second Trimester.
