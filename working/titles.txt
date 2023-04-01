@@ -1,3 +1,5 @@
+37002357	Congenital Chagas Disease.
+37001539	Getting health back on the highest political agenda-the UN High-level Meetings on health in 2023.
 37001025	Synthesis and Characterization of Phenylalanine Amides Active against Mycobacterium abscessus and Other Mycobacteria.
 37000891	Formation of ER-lumenal intermediates during export of Plasmodium proteins containing transmembrane-like hydrophobic sequences.
 37000890	Acceptability and perceived barriers to reactive focal mass drug administration in the context of a malaria elimination program in Magude district, Southern Mozambique: A qualitative study.
@@ -1005,6 +1007,7 @@
 36642689	Lipid peroxidation and its repair in malaria parasites.
 36642628	Immunodominant T cell peptides from four candidate malarial antigens as biomarkers of protective immunity against malaria.
 36642385	The microbiota, the malarial parasite, and the mosquito [MMM] - A three-sided relationship.
+36642087	Predicted effects of the introduction of long-acting injectable cabotegravir pre-exposure prophylaxis in sub-Saharan Africa: a modelling study.
 36640797	Pragmatic trials to inform policy decisions and planning.
 36640768	Humidity sensors that alert mosquitoes to nearby hosts and egg-laying sites.
 36640315	Malaria parasites harness Rho GTPase signaling and host cell membrane ruffling for productive invasion of hepatocytes.
@@ -9994,6 +9997,3 @@
 33685479	Sex and nest type influence avian blood parasite prevalence in a high-elevation bird community.
 33685454	Digitized smart surveillance and micromanagement using information technology for malaria elimination in Mangaluru, India: an analysis of five-year post-digitization data.
 33685448	Seeking research questions from implementers: considerations for leveraging ground actors research needs in the fight against malaria in West Africa.
-33685401	Malaria parasite detection in thick blood smear microscopic images using modified YOLOV3 and YOLOV4 models.
-33684990	Clinical Usefulness of LabChip Real-time PCR using Lab-On-a-Chip Technology for Diagnosing Malaria.
-33684986	Echinostoma mekongi: Discovery of Its Metacercarial Stage in Snails, Filopaludina martensi cambodjensis, in Pursat Province, Cambodia.
