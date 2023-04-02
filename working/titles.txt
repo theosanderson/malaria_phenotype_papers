@@ -322,7 +322,7 @@
 36907290	Identification of three members of the multidomain adhesion CCp family in Babesia gibsoni.
 36906823	Hydroxyurea for children with sickle cell disease in sub-Saharan Africa: A summary of the evidence, opportunities, and challenges.
 36906144	Structures of calmodulin-melittin complexes show multiple binding modes lacking classical anchoring interactions.
-36906121	Ultra-short course, high-dose primaquine to prevent Plasmodium vivax infection following uncomplicated paediatric malaria: a randomised, open-label, non-inferiority trial of early versus delayed treatment.
+36906121	Ultra-short course, high-dose primaquine to prevent Plasmodium vivax infection following uncomplicated pediatric malaria: A randomized, open-label, non-inferiority trial of early versus delayed treatment.
 36905751	Childhood Nephrotic Syndrome in Africa: Epidemiology, Treatment Trends, and Outcomes.
 36904003	Phenanthroindolizidine Alkaloids Secondary Metabolites Diversity in Medicinally Viable Plants of the Genus Tylophora.
 36903635	Bioactive Molecules Derived from Plants in Managing Dengue Vector Aedes aegypti (Linn.).
