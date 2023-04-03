@@ -1,3 +1,7 @@
+37010597	Epidemiological and clinical characteristics of imported falciparum malaria in the Republic of North Macedonia : A 13-year experience.
+37010410	Integrating Pharmacokinetic-Pharmacodynamic Modeling and Physiologically Based Pharmacokinetic Modeling to Optimize Human Dose Predictions for Plasmodium falciparum Malaria: a Chloroquine Case Study.
+37009914	Paleoepidemiology of cribra orbitalia: Insights from early seventh millennium BP Con Co Ngua, Vietnam.
+37009873	Fine-scale mapping of urban malaria exposure under data scarcity: an approach centred on vector ecology.
 37009844	The Parasite Reduction Ratio (PRR) Assay Version 2: Standardized Assessment of Plasmodium falciparum Viability after Antimalarial Treatment In Vitro.
 37009496	Targeting plasmodium α-tubulin-1 to block malaria transmission to mosquitoes.
 37009056	The next generation of malaria treatments: the great expectations.
@@ -9993,7 +9997,3 @@
 33689302	A Homogeneous Multicomponent Nucleic Acid Enzyme Assay for Universal Nucleic Acid Detection by Single-Particle Inductively Coupled Plasma Mass Spectrometry.
 33689276	Violacein-Induced Chaperone System Collapse Underlies Multistage Antiplasmodial Activity.
 33688269	Drug-Resistant Tuberculosis Presenting as a Testicular Mass: A Case Report.
-33688214	Efficacy Study of Chloroquine to Plasmodium vivax Malaria in Darimu and Bure Districts, Southwest Ethiopia.
-33688018	Direct Nanopore Sequencing of mRNA Reveals Landscape of Transcript Isoforms in Apicomplexan Parasites.
-33688001	Malaria Parasite Schizont Egress Antigen-1 Plays an Essential Role in Nuclear Segregation during Schizogony.
-33686939	Spatio-temporal associations between deforestation and malaria incidence in Lao PDR.
