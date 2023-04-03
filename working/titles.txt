@@ -1,3 +1,7 @@
+37004637	Large DNA fragment knock-in and sequential gene editing in Plasmodium falciparum: a preliminary study using suicide-rescue-based CRISPR/Cas9 system.
+37004584	Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
+37004489	Transcriptomic analysis of albendazole resistance in human diarrheal parasite Giardia duodenalis.
+37004429	Malaria temporal dynamic clustering for surveillance and intervention planning.
 37002357	Congenital Chagas Disease.
 37001539	Getting health back on the highest political agenda-the UN High-level Meetings on health in 2023.
 37001025	Synthesis and Characterization of Phenylalanine Amides Active against Mycobacterium abscessus and Other Mycobacteria.
@@ -39,7 +43,7 @@
 36991394	Post introduction evaluation of the malaria vaccine implementation programme in Ghana, 2021.
 36991340	Spatiotemporal overlapping of dengue, chikungunya, and malaria infections in children in Kenya.
 36990624	Endemic or regionally limited parasitic and fungal infections in haematopoietic stem-cell transplantation recipients: a Worldwide Network for Blood and Marrow Transplantation (WBMT) Review.
-36990255	Plasmodium Iron-Sulfur [Fe-S] cluster assembly protein Dre2 as a plausible target of Artemisinin: mechanistic insights derived in a prokaryotic heterologous system.
+36990255	Plasmodium Iron-Sulfur [Fe-S] cluster assembly protein Dre2 as a plausible target of Artemisinin: Mechanistic insights derived in a prokaryotic heterologous system.
 36989322	Serum anti-erythropoietin antibodies among pregnant women with Plasmodium falciparum malaria and anaemia: A case-control study in northern Ghana.
 36988415	Clinical evaluation of BioFire® multiplex-PCR panel for acute undifferentiated febrile illnesses in travellers: a prospective multicenter study.
 36987993	Accelerating action to reduce anemia: Review of causes and risk factors and related data needs.
@@ -9993,7 +9997,3 @@
 33686010	Malaria parasite egress at a glance.
 33685925	A vaccine against malaria: five minutes with . . . Richard Bucala.
 33685900	In Vitro Susceptibility of Plasmodium falciparum Isolates from the China-Myanmar Border Area to Piperaquine and Association with Candidate Markers.
-33685888	Development and Validation of an In Silico Decision Tool To Guide Optimization of Intravenous Artesunate Dosing Regimens for Severe Falciparum Malaria Patients.
-33685479	Sex and nest type influence avian blood parasite prevalence in a high-elevation bird community.
-33685454	Digitized smart surveillance and micromanagement using information technology for malaria elimination in Mangaluru, India: an analysis of five-year post-digitization data.
-33685448	Seeking research questions from implementers: considerations for leveraging ground actors research needs in the fight against malaria in West Africa.
