@@ -1,3 +1,8 @@
+37013559	Toxic effects of 70% ethanol extract of Moringa stenopetala leaf (Baker f.) Cufod. (Moringaceae) on fetus and placenta of pregnant Wistar rats.
+37013531	Plasmodium falciparum gametocytes display global chromatin remodelling during sexual differentiation.
+37013335	Will the malaria vaccine be accepted in Pakistan after the COVID-19 experience?
+37013168	A Response to the Article "A Retrospective Study on the Burden of Malaria in Northeastern Ethiopia from 2015 to 2020: Implications for Pandemic Preparedness" [Letter].
+37013163	Evaluation of the Anti-Malarial Activity of the Crude Root Extract and Solvent Fraction of Sesamum indicum (Fabaceae).
 37011804	Evaluation of the mosquito larvicidal potential and comparative assessment of the juice of Lantana camara Linn and Ocimum gratissimum Linn.
 37011087	Challenges of acute febrile illness diagnosis in a national infectious diseases center in Rio de Janeiro: 16-year experience of syndromic surveillance.
 37010597	Epidemiological and clinical characteristics of imported falciparum malaria in the Republic of North Macedonia : A 13-year experience.
@@ -9992,8 +9997,3 @@
 33691706	Cost and cost-effectiveness of indoor residual spraying with pirimiphos-methyl in a high malaria transmission district of Mozambique with high access to standard insecticide-treated nets.
 33691704	Trends in access to anti-malarial treatment in the formal private sector in Uganda: an assessment of availability and affordability of first-line anti-malarials and diagnostics between 2007 and 2018.
 33691700	The new Internal Transcribed Spacer 2 diagnostic tool clarifies the taxonomic position and geographic distribution of the North American malaria vector Anopheles punctipennis.
-33691690	The effects of clinical decision support system for prescribing medication on patient outcomes and physician practice performance: a systematic review and meta-analysis.
-33691083	Effective interventions to address maternal and child malnutrition: an update of the evidence.
-33690638	In vitro growth competition experiments that suggest consequences of the substandard artemisinin epidemic that may be accelerating drug resistance in P. falciparum malaria.
-33689728	Sex Determination and Dosage Compensation: femaleless Is the Link in Anopheles Mosquitoes.
-33689302	A Homogeneous Multicomponent Nucleic Acid Enzyme Assay for Universal Nucleic Acid Detection by Single-Particle Inductively Coupled Plasma Mass Spectrometry.
