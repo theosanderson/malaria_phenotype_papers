@@ -1,3 +1,4 @@
+37014087	Memory CD8+ T cell-mediated protection against liver-stage malaria.
 37013559	Toxic effects of 70% ethanol extract of Moringa stenopetala leaf (Baker f.) Cufod. (Moringaceae) on fetus and placenta of pregnant Wistar rats.
 37013531	Plasmodium falciparum gametocytes display global chromatin remodelling during sexual differentiation.
 37013335	Will the malaria vaccine be accepted in Pakistan after the COVID-19 experience?
@@ -9996,4 +9997,3 @@
 33691742	Personal protection with PBO-pyrethroid synergist-treated nets after 2 years of household use against pyrethroid-resistant Anopheles in Tanzania.
 33691706	Cost and cost-effectiveness of indoor residual spraying with pirimiphos-methyl in a high malaria transmission district of Mozambique with high access to standard insecticide-treated nets.
 33691704	Trends in access to anti-malarial treatment in the formal private sector in Uganda: an assessment of availability and affordability of first-line anti-malarials and diagnostics between 2007 and 2018.
-33691700	The new Internal Transcribed Spacer 2 diagnostic tool clarifies the taxonomic position and geographic distribution of the North American malaria vector Anopheles punctipennis.
