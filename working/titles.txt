@@ -1,3 +1,4 @@
+37017102	Trained immunity from the perspective of Plasmodium Infection.
 37016392	Dihydroartemisinin-piperaquine or sulphadoxine-pyrimethamine for the chemoprevention of malaria in children with sickle cell anaemia in eastern and southern Africa (CHEMCHA): a protocol for a multi-centre, two-arm, double-blind, randomised, placebo-controlled superiority trial.
 37015266	Effect of passive and active ventilation on malaria mosquito house entry and human comfort: an experimental study in rural Gambia.
 37015228	A Plasmodium falciparum lysophospholipase regulates host fatty acid flux via parasite lipid storage to enable controlled asexual schizogony.
@@ -11,6 +12,7 @@
 37013335	Will the malaria vaccine be accepted in Pakistan after the COVID-19 experience?
 37013168	A Response to the Article "A Retrospective Study on the Burden of Malaria in Northeastern Ethiopia from 2015 to 2020: Implications for Pandemic Preparedness" [Letter].
 37013163	Evaluation of the Anti-Malarial Activity of the Crude Root Extract and Solvent Fraction of Sesamum indicum (Fabaceae).
+37012669	Modelling the impact and cost-effectiveness of non-governmental organizations on HIV and HCV transmission among people who inject drugs in Ukraine.
 37011804	Evaluation of the mosquito larvicidal potential and comparative assessment of the juice of Lantana camara Linn and Ocimum gratissimum Linn.
 37011087	Challenges of acute febrile illness diagnosis in a national infectious diseases center in Rio de Janeiro: 16-year experience of syndromic surveillance.
 37010597	Epidemiological and clinical characteristics of imported falciparum malaria in the Republic of North Macedonia : A 13-year experience.
@@ -9995,5 +9997,3 @@
 33705377	Expansion microscopy provides new insights into the cytoskeleton of malaria parasites including the conservation of a conoid.
 33705348	Awake Proning as an Adjunctive Therapy for Refractory Hypoxemia in Non-Intubated Patients with COVID-19 Acute Respiratory Failure: Guidance from an International Group of Healthcare Workers.
 33705347	Transmission-Blocking Preventive Measures for Infectious Diseases: Altruism, Solidarity, and the Common Good.
-33704463	Diversity of Culturable Bacteria Isolated From the Feces of Wild Anopheles darlingi (Diptera: Culicidae) Mosquitoes From the Brazilian Amazon.
-33703954	3-aryl-indolinones derivatives as antiplasmodial agents: synthesis, biological activity and computational analysis.
