@@ -1,3 +1,7 @@
+37016392	Dihydroartemisinin-piperaquine or sulphadoxine-pyrimethamine for the chemoprevention of malaria in children with sickle cell anaemia in eastern and southern Africa (CHEMCHA): a protocol for a multi-centre, two-arm, double-blind, randomised, placebo-controlled superiority trial.
+37015266	Effect of passive and active ventilation on malaria mosquito house entry and human comfort: an experimental study in rural Gambia.
+37015228	A Plasmodium falciparum lysophospholipase regulates host fatty acid flux via parasite lipid storage to enable controlled asexual schizogony.
+37015200	Factors Associated with Mortality and Long-Term Outcomes of Pediatric Acute Kidney Injury in a Resource Limited Setting.
 37015081	Analyzing Spatial and Temporal Patterns of Designated Malaria Risk Areas in Nepal from 2018 to 2021.
 37014920	Conditional permeabilization of the P. falciparum plasma membrane in infected cells links cation influx to reduced membrane integrity.
 37014773	Imported malaria and its implication to achievement of malaria-free Bhutan.
@@ -9993,7 +9997,3 @@
 33705347	Transmission-Blocking Preventive Measures for Infectious Diseases: Altruism, Solidarity, and the Common Good.
 33704463	Diversity of Culturable Bacteria Isolated From the Feces of Wild Anopheles darlingi (Diptera: Culicidae) Mosquitoes From the Brazilian Amazon.
 33703954	3-aryl-indolinones derivatives as antiplasmodial agents: synthesis, biological activity and computational analysis.
-33693917	Non-human primate and human malaria: past, present and future.
-33693719	The Role of Ultrasensitive Molecular Methods for Detecting Malaria-The Broader Perspective.
-33692404	Effectiveness of Nutrition and WASH/malaria educational community-based interventions in reducing anemia in children from Angola.
-33692343	Malaria trends in Ethiopian highlands track the 2000 'slowdown' in global warming.
