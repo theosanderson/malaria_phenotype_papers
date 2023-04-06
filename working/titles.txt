@@ -1,3 +1,5 @@
+37018842	Targeting Aminoacyl tRNA Synthetases for Antimalarial Drug Development.
+37018283	High prevalence of malaria in pregnancy among women attending antenatal care at a large referral hospital in northwestern Uganda: A cross-sectional study.
 37017600	SID: a new carbohydrate blood group system based on a well-characterized but still mysterious antigen of great pathophysiologic interest.
 37017525	Chromobacterium Biopesticide Exposure Does Not Select for Resistance in Aedes Mosquitoes.
 37017236	Abnormalities of Kidney Function in Acute Malarial and non-Malarial Infections.
@@ -9995,5 +9997,3 @@
 33706773	Assessment of Plasmodium falciparum anti-malarial drug resistance markers in pfk13-propeller, pfcrt and pfmdr1 genes in isolates from treatment failure patients in Democratic Republic of Congo, 2018-2019.
 33706731	Agent-based modeling of malaria control through mosquito aquatic habitats management in a traditional sub-Sahara grouping.
 33706207	Characterization of neutralizing versus binding antibodies and memory B cells in COVID-19 recovered individuals from India.
-33705897	A novel class of selective non-nucleoside inhibitors of human DNA methyltransferase 3A.
-33705472	Malaria risk stratification in Colombia 2010 to 2019.
