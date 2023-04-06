@@ -1,3 +1,9 @@
+37020052	Identification of Potential Drug Targets in Erythrocyte Invasion Pathway of Plasmodium falciparum.
+37020042	Wakodecaline C, new tetrahydrofuran-fused decalin metabolite isolated from fungus Pyrenochaetopsis sp. RK10-F058.
+37019918	Identification of two insecticide resistance markers in Ethiopian Anopheles stephensi mosquitoes using a multiplex amplicon sequencing assay.
+37019801	Statin and aspirin use in parasitic infections as a potential therapeutic strategy: A narrative review.
+37019632	Antenatal care and adherence to intermittent preventive treatment for malaria during pregnancy with sulfadoxine-pyrimethamine in Gambia: an examination of Demographic and Health Survey data 2019-2020.
+37019435	Evaluation of Antimalarial Activity of Ethanolic Extract of Annona muricata L.: An in vivo and an in silico Approach.
 37018842	Targeting Aminoacyl tRNA Synthetases for Antimalarial Drug Development.
 37018283	High prevalence of malaria in pregnancy among women attending antenatal care at a large referral hospital in northwestern Uganda: A cross-sectional study.
 37017600	SID: a new carbohydrate blood group system based on a well-characterized but still mysterious antigen of great pathophysiologic interest.
@@ -9991,9 +9997,3 @@
 33709938	Home-Based Intervention for the Prevention and Treatment of Malaria Among Children Younger Than 5 Years in the West Region of Cameroon: Protocol for a Randomized Controlled Trial.
 33709544	Low immunogenicity of malaria pre-erythrocytic stages can be overcome by vaccination.
 33709194	Magnetic Resonance Imaging of Cerebral Malaria.
-33708645	Full-Length Transcriptome Analysis of Plasmodium falciparum by Single-Molecule Long-Read Sequencing.
-33707498	Forager and farmer evolutionary adaptations to malaria evidenced by 7000 years of thalassemia in Southeast Asia.
-33707386	Diagnosis & management of imported malaria in pregnant women in non-endemic countries.
-33706773	Assessment of Plasmodium falciparum anti-malarial drug resistance markers in pfk13-propeller, pfcrt and pfmdr1 genes in isolates from treatment failure patients in Democratic Republic of Congo, 2018-2019.
-33706731	Agent-based modeling of malaria control through mosquito aquatic habitats management in a traditional sub-Sahara grouping.
-33706207	Characterization of neutralizing versus binding antibodies and memory B cells in COVID-19 recovered individuals from India.
