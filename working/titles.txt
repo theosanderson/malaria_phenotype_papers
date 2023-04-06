@@ -1,3 +1,6 @@
+37021639	Future antimalarials from Artemisia? A rationale for natural product mining against drug-refractory Plasmodium stages.
+37021322	The relative effect of climate variability on malaria incidence after scale-up of interventions in western Kenya: A time-series analysis of monthly incidence data from 2008 to 2019.
+37020422	Malaria, a laboratory view.
 37020052	Identification of Potential Drug Targets in Erythrocyte Invasion Pathway of Plasmodium falciparum.
 37020042	Wakodecaline C, new tetrahydrofuran-fused decalin metabolite isolated from fungus Pyrenochaetopsis sp. RK10-F058.
 37019918	Identification of two insecticide resistance markers in Ethiopian Anopheles stephensi mosquitoes using a multiplex amplicon sequencing assay.
@@ -9994,6 +9997,3 @@
 33710479	Molecular Identification and Characterization of Plasmodium ovale curtisi in Field Isolates from Symptomatic Children in North-Central Nigeria.
 33710316	Morphological Characterization of the Antennal Sensilla of the Afrotropical Sand Fly, Phlebotomus duboscqi (Diptera: Psychodidae).
 33709976	Vector-borne protozoal infections of the CNS: cerebral malaria, sleeping sickness and Chagas disease.
-33709938	Home-Based Intervention for the Prevention and Treatment of Malaria Among Children Younger Than 5 Years in the West Region of Cameroon: Protocol for a Randomized Controlled Trial.
-33709544	Low immunogenicity of malaria pre-erythrocytic stages can be overcome by vaccination.
-33709194	Magnetic Resonance Imaging of Cerebral Malaria.
