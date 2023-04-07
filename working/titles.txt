@@ -1,3 +1,5 @@
+37023172	Circulation of West Nile virus in mosquitoes approximate to the migratory bird stopover in West Coast Malaysia.
+37023013	Spatial analysis of malaria hotspots in Dilla sub-watershed: Western Ethiopia.
 37022501	Effect of ultraviolet LED and trap height on catches of host-seeking anopheline mosquitoes by using a low-cost passive light trap in northeast Brazil.
 37022426	CMOS spectrophotometric microsystem for malaria detection.
 37021639	Future antimalarials from Artemisia? A rationale for natural product mining against drug-refractory Plasmodium stages.
@@ -9995,5 +9997,3 @@
 33711786	Mitochondrial apurinic/apyrimidinic endonuclease Apn1 is not critical for the completion of the Plasmodium berghei life cycle.
 33711024	Association between a complex community intervention and quality of health extension workers' performance to correctly classify common childhood illnesses in four regions of Ethiopia.
 33710656	Synthesis of 2-(N-cyclicamino)quinoline combined with methyl (E)-3-(2/3/4-aminophenyl)acrylates as potential antiparasitic agents.
-33710650	Case series of SARS-COV-2 infection in pregnant African women: focus on biological features.
-33710479	Molecular Identification and Characterization of Plasmodium ovale curtisi in Field Isolates from Symptomatic Children in North-Central Nigeria.
