@@ -1,3 +1,12 @@
+37026483	Characterization of the dual role of Plasmodium falciparum DNA methyltransferase in regulating transcription and translation.
+37026304	Ocular conjunctival microbiome profiling in dry eye disease: A case control pilot study.
+37026228	A rare case of complicated malaria presenting as warm autoimmune hemolytic anemia.
+37026218	Socioeconomic determinants of malaria prevalence among under five children in Uganda: Evidence from 2018-19 Uganda Malaria Indicator Survey.
+37026216	Chemical constituents and strong larvicidal activity of Solanum xanthocarpum among selected plants extracts against the malaria, filaria, and dengue vectors.
+37026215	Dried blood spots: a robust tool for malaria surveillance in countries targeting elimination.
+37026104	Malaria among the elderly in five communities of Osun East district, Southwest Nigeria: Prevalence and association with non-communicable diseases.
+37025605	Antiplasmodial, Antioxidant and Cytotoxicity Activity of Ethanol and Aqueous Extracts of Khaya grandifoliola Stem Bark.
+37025316	Accounting for Potential Unmeasured Confounding in the Association between Influenza vaccination and COVID-19 Hospitalization: Sensitivity Analysis Using E-value Method.
 37024969	How socioeconomic status affected the access to health facilities and malaria diagnosis in children under five years: findings from 19 sub-Saharan African countries.
 37024950	Digitally managed larviciding as a cost-effective intervention for urban malaria: operational lessons from a pilot in São Tomé and Príncipe guided by the Zzapp system.
 37024868	Whole sporozoite immunization with Plasmodium falciparum strain NF135 in a randomized trial.
@@ -9988,12 +9997,3 @@
 33716093	Effects of the antimalarial lumefantrine on Lemna minor, Raphidocelis subcapitata and Chlorella vulgaris.
 33716085	Artemisia annua L. extracts inhibit the in vitro replication of SARS-CoV-2 and two of its variants.
 33715941	Genomic and Genetic Approaches to Studying Antimalarial Drug Resistance and Plasmodium Biology.
-33715347	PfMFR3: A Multidrug-Resistant Modulator in Plasmodium falciparum.
-33714436	Diagnosis and Treatment of Plasmodium Infection in Captive Black and White Tegus.
-33734654	Protozoa and Endocrine Dysfunction.
-33713652	Plasmodium falciparum LipB mutants display altered redox and carbon metabolism in asexual stages and cannot complete sporogony in Anopheles mosquitoes.
-33713651	Transgenic pyrimethamine-resistant plasmodium falciparum reveals transmission-blocking potency of P218, a novel antifolate candidate drug.
-33713432	Pregnancy and COVID-19: Do not overlook malaria.
-33713154	Of membranes and malaria: phospholipid asymmetry in Plasmodium falciparum-infected red blood cells.
-33712726	The catalytic subunit of Plasmodium falciparum casein kinase 2 is essential for gametocytogenesis.
-33712609	Plasmodium vivax infection compromises reticulocyte stability.
