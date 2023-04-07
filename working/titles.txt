@@ -1,3 +1,11 @@
+37024969	How socioeconomic status affected the access to health facilities and malaria diagnosis in children under five years: findings from 19 sub-Saharan African countries.
+37024950	Digitally managed larviciding as a cost-effective intervention for urban malaria: operational lessons from a pilot in São Tomé and Príncipe guided by the Zzapp system.
+37024868	Whole sporozoite immunization with Plasmodium falciparum strain NF135 in a randomized trial.
+37024834	Severe malaria in children and adolescents in Southeast Gabon.
+37024317	The brain-kidney-retinal axis in severe falciparum malaria.
+37024242	Automated Long-Term Monitoring of the Heat-Seeking Behavior of Mosquitoes.
+37024241	Key Features and Considerations for Using Automated Long-Term Monitoring of Heat-Seeking Behavior of Mosquitoes.
+37024154	Trends in Reported Babesiosis Cases - United States, 2011-2019.
 37023172	Circulation of West Nile virus in mosquitoes approximate to the migratory bird stopover in West Coast Malaysia.
 37023013	Spatial analysis of malaria hotspots in Dilla sub-watershed: Western Ethiopia.
 37022501	Effect of ultraviolet LED and trap height on catches of host-seeking anopheline mosquitoes by using a low-cost passive light trap in northeast Brazil.
@@ -9989,11 +9997,3 @@
 33713154	Of membranes and malaria: phospholipid asymmetry in Plasmodium falciparum-infected red blood cells.
 33712726	The catalytic subunit of Plasmodium falciparum casein kinase 2 is essential for gametocytogenesis.
 33712609	Plasmodium vivax infection compromises reticulocyte stability.
-33712019	Performance of a sensitive haemozoin-based malaria diagnostic test validated for vivax malaria diagnosis in Brazilian Amazon.
-33712017	Rapid diagnostic test negative Plasmodium falciparum malaria in a traveller returning from Ethiopia.
-33712003	Fitness characteristics of the malaria vector Anopheles funestus during an attempted laboratory colonization.
-33711990	Seven decades towards malaria elimination in Yunnan, China.
-33711940	Preliminary review on the prevalence, proportion, geographical distribution, and characteristics of naturally acquired Plasmodium cynomolgi infection in mosquitoes, macaques, and humans: a systematic review and meta-analysis.
-33711786	Mitochondrial apurinic/apyrimidinic endonuclease Apn1 is not critical for the completion of the Plasmodium berghei life cycle.
-33711024	Association between a complex community intervention and quality of health extension workers' performance to correctly classify common childhood illnesses in four regions of Ethiopia.
-33710656	Synthesis of 2-(N-cyclicamino)quinoline combined with methyl (E)-3-(2/3/4-aminophenyl)acrylates as potential antiparasitic agents.
