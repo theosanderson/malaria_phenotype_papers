@@ -1,3 +1,5 @@
+37027391	Immunological characterization of a VIR protein family member (VIR-14) in Plasmodium vivax-infected subjects from different epidemiological regions in Africa and South America.
+37027349	Vaccination coverage and breakthrough infections of COVID-19 during the second wave among staff of selected medical institutions in India.
 37026483	Characterization of the dual role of Plasmodium falciparum DNA methyltransferase in regulating transcription and translation.
 37026304	Ocular conjunctival microbiome profiling in dry eye disease: A case control pilot study.
 37026228	A rare case of complicated malaria presenting as warm autoimmune hemolytic anemia.
@@ -9995,5 +9997,3 @@
 33717094	The Development, Fine Specificity, and Importance of High-Avidity Antibodies to VAR2CSA in Pregnant Cameroonian Women Living in Yaoundé, an Urban City.
 33716195	Global Tuberculosis Report 2020 - Reflections on the Global TB burden, treatment and prevention efforts.
 33716093	Effects of the antimalarial lumefantrine on Lemna minor, Raphidocelis subcapitata and Chlorella vulgaris.
-33716085	Artemisia annua L. extracts inhibit the in vitro replication of SARS-CoV-2 and two of its variants.
-33715941	Genomic and Genetic Approaches to Studying Antimalarial Drug Resistance and Plasmodium Biology.
