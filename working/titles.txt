@@ -1,3 +1,11 @@
+37029625	Antiplasmodial and anticancer activities of xanthones isolated from Garcinia bancana Miq.
+37029480	Antiprotozoal drugs: challenges and opportunities.
+37029433	Genotyping of Anopheles mosquito blood meals reveals nonrandom human host selection: implications for human-to-mosquito Plasmodium falciparum transmission.
+37029411	Malaria transmission pattern across the Sahelian, humid savanna, highland and forest eco-epidemiological settings in Cameroon.
+37029370	Malaria control and elimination in Kenya: economy-wide benefits and regional disparities.
+37029167	Glycosylated nanoparticle-based PfCSP vaccine confers long-lasting antibody responses and sterile protection in mouse malaria model.
+37029122	Safe drugs with high potential to block malaria transmission revealed by a spleen-mimetic screening.
+37028468	Evolution of Plasmodium falciparum antimalarial drug resistance markers post-adoption of artemisinin-based combination therapies in Yaounde, Cameroon.
 37027391	Immunological characterization of a VIR protein family member (VIR-14) in Plasmodium vivax-infected subjects from different epidemiological regions in Africa and South America.
 37027349	Vaccination coverage and breakthrough infections of COVID-19 during the second wave among staff of selected medical institutions in India.
 37026483	Characterization of the dual role of Plasmodium falciparum DNA methyltransferase in regulating transcription and translation.
@@ -9989,11 +9997,3 @@
 30000533	Artesunate.
 33720947	A socio-ecological approach to understanding the factors influencing the uptake of intermittent preventive treatment of malaria in pregnancy (IPTp) in South-Western Nigeria.
 33720609	[Epidemiological and clinical aspects of diagnosis, treatment and prophylaxis of imported malaria cases in Russian Federation].
-33718948	Chromosome-level genome assemblies of the malaria vectors Anopheles coluzzii and Anopheles arabiensis.
-33718317	Complexities in Defining the Unit of Intervention for Reactive Community-Based Malaria Treatment in the Gambia.
-33718278	Genome-Wide Scans for Ghanaian Plasmodium falciparum Genes Under Selection From Local and Chinese Host Populations.
-33717752	A Rare Case of Spontaneous Splenic Rupture Secondary to Tularemia Following a Cat Bite.
-33717176	Progress and Insights Toward an Effective Placental Malaria Vaccine.
-33717094	The Development, Fine Specificity, and Importance of High-Avidity Antibodies to VAR2CSA in Pregnant Cameroonian Women Living in Yaoundé, an Urban City.
-33716195	Global Tuberculosis Report 2020 - Reflections on the Global TB burden, treatment and prevention efforts.
-33716093	Effects of the antimalarial lumefantrine on Lemna minor, Raphidocelis subcapitata and Chlorella vulgaris.
