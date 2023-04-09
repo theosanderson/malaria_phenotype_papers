@@ -1,3 +1,4 @@
+37030000	Population genomic evidence of adaptive response during the invasion history of Plasmodium falciparum in the Americas.
 37029625	Antiplasmodial and anticancer activities of xanthones isolated from Garcinia bancana Miq.
 37029480	Antiprotozoal drugs: challenges and opportunities.
 37029433	Genotyping of Anopheles mosquito blood meals reveals nonrandom human host selection: implications for human-to-mosquito Plasmodium falciparum transmission.
@@ -9996,4 +9997,3 @@
 30000538	Atovaquone and Proguanil.
 30000533	Artesunate.
 33720947	A socio-ecological approach to understanding the factors influencing the uptake of intermittent preventive treatment of malaria in pregnancy (IPTp) in South-Western Nigeria.
-33720609	[Epidemiological and clinical aspects of diagnosis, treatment and prophylaxis of imported malaria cases in Russian Federation].
