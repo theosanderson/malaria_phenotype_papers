@@ -1,3 +1,9 @@
+37035974	Association of smoking and alcohol use with rifampin-resistant TB treatment outcomes.
+37035014	A Systematic Review of Ethnobotanical, Phytochemical, and Ethnopharmacological Studies of Urtica simensis (Stinging Nettle).
+37034766	Real-time PCR detection of mixed Plasmodium ovale curtisi and wallikeri species infections in human and mosquito hosts.
+37034306	Digital dashboards with paradata can improve data quality where disease surveillance relies on real-time data collection.
+37033548	National Malaria Control Program in Bangladesh: 2007-2010.
+36974127	The ability of Anopheles funestus and A. arabiensis to penetrate LLINs and its effect on their mortality.
 37032389	Phylogenomics revealed migration routes and adaptive radiation timing of Holarctic malaria mosquito species of the Maculipennis Group.
 37032366	Determinants of malaria infections among children in refugee settlements in Uganda during 2018-2019.
 37032336	Development of insecticide-impregnated polyester/cotton blend fabric and assessment of their repellent characteristics against Cimex lectularius and dengue vectors Aedes albopictus and Aedes aegypti.
@@ -152,7 +158,6 @@
 36979396	Compounds Inhibiting Noppera-bo, a Glutathione S-transferase Involved in Insect Ecdysteroid Biosynthesis: Novel Insect Growth Regulators.
 36979393	Cysteine Residues in Region 6 of the Plasmodium yoelii Erythrocyte-Binding-like Ligand That Are Related to Its Localization and the Course of Infection.
 36978912	Antioxidant, Anti-Inflammatory and Anti-Diabetic Activities of Tectona grandis Methanolic Extracts, Fractions, and Isolated Compounds.
-36974127	The ability of Anopheles funestus and A. arabiensis to penetrate LLINs and its effect on their mortality.
 36874567	The genome sequence of the malaria mosquito, Anopheles funestus, Giles, 1900.
 36978056	PET-PCR reveals low parasitaemia and submicroscopic malarial infections in Honduran Moskitia.
 36977719	Structural basis of the substrate recognition and inhibition mechanism of Plasmodium falciparum nucleoside transporter PfENT1.
@@ -9992,8 +9997,3 @@
 33726771	Correction to: Incentivizing appropriate malaria case management in the private sector: a study protocol for two linked cluster randomized controlled trials to evaluate provider- and client-focused interventions in western Kenya and Lagos, Nigeria.
 33726763	Ugandan stakeholder hopes and concerns about gene drive mosquitoes for malaria control: new directions for gene drive risk governance.
 33724926	Prevalence of Cardiovascular Complications in Malaria: A Systematic Review and Meta-Analysis.
-33724925	Variation in Calculating and Reporting Antimalarial Efficacy against Plasmodium falciparum in Sub-Saharan Africa: A Systematic Review of Published Reports.
-33724773	Robenidine Analogues Are Potent Antimalarials in Drug-Resistant Plasmodium falciparum.
-33724378	Machine learning and applications in microbiology.
-33724123	Does hydroxychloroquine still have any role in the COVID-19 pandemic?
-33723998	Acridones Are Highly Potent Inhibitors of Toxoplasma gondii Tachyzoites.
