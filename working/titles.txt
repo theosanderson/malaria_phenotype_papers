@@ -1,3 +1,6 @@
+37039225	Trend of malaria incidences and its association with rainfall in Kalahandi District of Odisha, India.
+37039188	Malaria hemozoin: A target for point-of-care diagnosis.
+37039163	Looking back to move forward: A travel rule underlined by the current pandemic.
 37039024	Systems biology of disease tolerance to malaria.
 37038945	Atovaquone-proguanil for treating uncomplicated Plasmodium falciparum malaria.
 37038942	Factors associated with malaria and arboviral disease in patients with imported febrile syndrome: a retrospective cohort study.
@@ -9994,6 +9997,3 @@
 33731432	Structure-switching aptamer sensors for the specific detection of piperaquine and mefloquine.
 33731294	Benzimidazole based hybrids against complex diseases: A catalogue of the SAR profile.
 33731146	Household knowledge, perceptions and practices of mosquito larval source management for malaria prevention and control in Mwanza district, Malawi: a cross-sectional study.
-33731134	Temporal evolution of sulfadoxine-pyrimethamine resistance genotypes and genetic diversity in response to a decade of increased interventions against Plasmodium falciparum in northern Ghana.
-33731116	Community and healthcare providers' perceptions of quality of private sector outpatient malaria care in North-western Ethiopia: a qualitative study.
-33731115	Anopheles arabiensis hotspots along intermittent rivers drive malaria dynamics in semi-arid areas of Central Ethiopia.
