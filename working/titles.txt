@@ -1,3 +1,8 @@
+37039024	Systems biology of disease tolerance to malaria.
+37038945	Atovaquone-proguanil for treating uncomplicated Plasmodium falciparum malaria.
+37038942	Factors associated with malaria and arboviral disease in patients with imported febrile syndrome: a retrospective cohort study.
+37038509	Bionomics of Anopheles culicifacies Sensu Lato in two Malaria Endemic Districts of Central Gujarat, India.
+37038505	Phytochemical Composition and Bioassay on Iranian Teucrium Polium Extracts against Anopheles Stephensi (Diptera: Culicidae).
 37038199	Neglected tropical diseases risk correlates with poverty and early ecosystem destruction.
 37038195	Seroprevalence of viral and bacterial pathogens among malaria patients in an endemic area of southern Venezuela.
 37038187	Genome-wide association testing in malaria studies in the presence of overdominance.
@@ -9992,8 +9997,3 @@
 33731134	Temporal evolution of sulfadoxine-pyrimethamine resistance genotypes and genetic diversity in response to a decade of increased interventions against Plasmodium falciparum in northern Ghana.
 33731116	Community and healthcare providers' perceptions of quality of private sector outpatient malaria care in North-western Ethiopia: a qualitative study.
 33731115	Anopheles arabiensis hotspots along intermittent rivers drive malaria dynamics in semi-arid areas of Central Ethiopia.
-33731111	Estimating the potential impact of Attractive Targeted Sugar Baits (ATSBs) as a new vector control tool for Plasmodium falciparum malaria.
-33730159	Ultra-conserved sequences in the genomes of highly diverse Anopheles mosquitoes, with implications for malaria vector control.
-33730100	The pharmacokinetics and drug-drug interactions of ivermectin in Aedes aegypti mosquitoes.
-33730099	A systematic review and an individual patient data meta-analysis of ivermectin use in children weighing less than fifteen kilograms: Is it time to reconsider the current contraindication?
-33730048	Diagnostic test accuracy for detecting Schistosoma japonicum and S. mekongi in humans: A systematic review and meta-analysis.
