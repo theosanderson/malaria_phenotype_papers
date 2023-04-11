@@ -1,3 +1,4 @@
+37036890	Overestimation of school-based deworming coverage resulting from school-based reporting.
 37036365	Plasmodium Parasite Malate-Quinone Oxidoreductase Functionally Complements a Yeast Deletion Mutant of Mitochondrial Malate Dehydrogenase.
 37036362	Activation of the Plasmodium Egress Effector Subtilisin-Like Protease 1 Is Mediated by Plasmepsin X Destruction of the Prodomain.
 37035974	Association of smoking and alcohol use with rifampin-resistant TB treatment outcomes.
@@ -9996,4 +9997,3 @@
 33727732	[Fever in pediatric returning travellers].
 33727324	Measuring Knowledge of Community Health Workers at the Last Mile in Liberia: Feasibility and Results of Clinical Vignette Assessments.
 33727323	Evaluating Vertical Malaria Community Health Worker Programs as Malaria Declines: Learning From Program Evaluations in Honduras and Lao PDR.
-33726771	Correction to: Incentivizing appropriate malaria case management in the private sector: a study protocol for two linked cluster randomized controlled trials to evaluate provider- and client-focused interventions in western Kenya and Lagos, Nigeria.
