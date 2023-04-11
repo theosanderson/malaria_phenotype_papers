@@ -1,3 +1,10 @@
+37038199	Neglected tropical diseases risk correlates with poverty and early ecosystem destruction.
+37038195	Seroprevalence of viral and bacterial pathogens among malaria patients in an endemic area of southern Venezuela.
+37038187	Genome-wide association testing in malaria studies in the presence of overdominance.
+37038137	Molecular epidemiology of potential candidate markers for chloroquine resistance in imported Plasmodium vivax malaria cases in Iran.
+37037444	Treponemal Antibody Seroprevalence Using a Multiplex Bead Assay from Samples Collected during the 2018 Nigeria HIV/AIDS Indicator and Impact Survey: Searching for Yaws in Nigeria.
+37037443	Serological Markers of Exposure to Plasmodium falciparum and Plasmodium vivax Infection in Southwestern Ethiopia.
+37037442	Countrywide Mortality Surveillance for Action in Mozambique: Results from a National Sample-Based Vital Statistics System for Mortality and Cause of Death.
 37036890	Overestimation of school-based deworming coverage resulting from school-based reporting.
 37036365	Plasmodium Parasite Malate-Quinone Oxidoreductase Functionally Complements a Yeast Deletion Mutant of Mitochondrial Malate Dehydrogenase.
 37036362	Activation of the Plasmodium Egress Effector Subtilisin-Like Protease 1 Is Mediated by Plasmepsin X Destruction of the Prodomain.
@@ -9990,10 +9997,3 @@
 33730100	The pharmacokinetics and drug-drug interactions of ivermectin in Aedes aegypti mosquitoes.
 33730099	A systematic review and an individual patient data meta-analysis of ivermectin use in children weighing less than fifteen kilograms: Is it time to reconsider the current contraindication?
 33730048	Diagnostic test accuracy for detecting Schistosoma japonicum and S. mekongi in humans: A systematic review and meta-analysis.
-33730016	Clinical laboratory hematology reference values among infants aged 1month to 17 months in Kombewa Sub-County, Kisumu: A cross sectional study of rural population in Western Kenya.
-33729397	Flight tone characterisation of the South American malaria vector Anopheles darlingi (Diptera: Culicidae).
-33728383	The role of optic nerve sheath diameter ultrasound in brain infection.
-33727937	Dynamics of the Composition of Plasmodium Species Contained within Asymptomatic Malaria Infections in the Central Region of Ghana.
-33727732	[Fever in pediatric returning travellers].
-33727324	Measuring Knowledge of Community Health Workers at the Last Mile in Liberia: Feasibility and Results of Clinical Vignette Assessments.
-33727323	Evaluating Vertical Malaria Community Health Worker Programs as Malaria Declines: Learning From Program Evaluations in Honduras and Lao PDR.
