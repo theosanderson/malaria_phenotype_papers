@@ -1,3 +1,5 @@
+37040366	Receiving antenatal care components and associated factors in Northwestern Tanzania.
+37040223	Quality assurance of malaria rapid diagnostic tests: An aid in malaria elimination.
 37039225	Trend of malaria incidences and its association with rainfall in Kalahandi District of Odisha, India.
 37039188	Malaria hemozoin: A target for point-of-care diagnosis.
 37039163	Looking back to move forward: A travel rule underlined by the current pandemic.
@@ -9995,5 +9997,3 @@
 33731471	mSphere of Influence: Courage and Resilience in Life and Science.
 33731440	Patterns and trends in causes of child and adolescent mortality 2000-2016: setting the scene for child health redesign.
 33731432	Structure-switching aptamer sensors for the specific detection of piperaquine and mefloquine.
-33731294	Benzimidazole based hybrids against complex diseases: A catalogue of the SAR profile.
-33731146	Household knowledge, perceptions and practices of mosquito larval source management for malaria prevention and control in Mwanza district, Malawi: a cross-sectional study.
