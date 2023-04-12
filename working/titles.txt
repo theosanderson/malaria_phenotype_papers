@@ -1,3 +1,6 @@
+37042251	Profiling the imported human malaria in Sarawak, Malaysia in 2011-2019.
+37041799	Elevated Levels of Procoagulant Microvesicles and Tissue-Factor Bearing Microvesicles in Malaria Patients.
+37041693	Malarial retinopathy in a preschool child: A case report with long-term paediatric and ophthamological follow-up.
 37041533	Correction: Therapeutic efficacies of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum and chloroquine and dihydroartemisinin-piperaquine for uncomplicated Plasmodium vivax infection in Ethiopia.
 37041516	Facilitators and barriers to seasonal malaria chemoprevention (SMC) uptake in Nigeria: a qualitative approach.
 37041454	Ultrasensitive Reverse Transcriptase Loop-Mediated Isothermal Amplification (US-LAMP)-Based Detection of Malaria Infection from Dried Blood Spots.
@@ -1408,6 +1411,7 @@
 36542002	Clinically silent Plasmodium vivax infections in native Amazonians of northwestern Brazil: acquired immunity or low parasite virulence?
 36541793	Regulation of Mitochondrial Energy Metabolism by Glutaredoxin 5 in the Apicomplexan Parasite Neospora caninum.
 36541739	A high-performance cell-phone based polarized microscope for malaria diagnosis.
+36541419	Design and development of novel N-(4-aminobenzoyl)- l-glutamic acid conjugated 1,3,5-triazine derivatives as Pf-DHFR inhibitor: An in-silico and in-vitro study.
 36539955	Pomegranate Resembling Design of Starch Sago Beads Encapsulates Nanopyriproxyfen, Enabling Slow Release and Improved Bioactivity.
 36539892	Seasonal variation in abundance and blood meal sources of primary and secondary malaria vectors within Kilombero Valley, Southern Tanzania.
 36539851	Discovery of novel natural products for mosquito control.
@@ -9993,7 +9997,3 @@
 33734023	Fifty years after the eradication of Malaria in Italy. The long pathway toward this great goal and the current health risks of imported malaria.
 33733649	Spatial patterns of Plasmodium vivax transmission explored by multivariate auto-regressive state-space modelling - A case study in Baoshan Prefecture in southern China.
 33732682	Evaluation of Annona muricata Acetogenins as Potential Anti-SARS-CoV-2 Agents Through Computational Approaches.
-33732658	Using scRNA-seq to Identify Transcriptional Variation in the Malaria Parasite Ookinete Stage.
-33732657	Multiparameter Flow Cytometry Analysis of the Human Spleen Applied to Studies of Plasma-Derived EVs From Plasmodium vivax Patients.
-33732548	Exposure-related, global alterations in innate and adaptive immunity; a consideration for re-use of non-human primates in research.
-33732074	Information theoretic perspective on genome clustering.
