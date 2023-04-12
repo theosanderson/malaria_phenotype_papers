@@ -1,3 +1,6 @@
+37042866	Epilepsy in Niger: an overview of the current situation.
+37042534	Building Integrated Testing Programs for Infectious Diseases.
+37042518	Modelling the impact of a highly potent Plasmodium falciparum transmission-blocking monoclonal antibody in areas of seasonal malaria transmission.
 37042251	Profiling the imported human malaria in Sarawak, Malaysia in 2011-2019.
 37041799	Elevated Levels of Procoagulant Microvesicles and Tissue-Factor Bearing Microvesicles in Malaria Patients.
 37041693	Malarial retinopathy in a preschool child: A case report with long-term paediatric and ophthamological follow-up.
@@ -9994,6 +9997,3 @@
 33735242	Community-based Guinea worm surveillance in Chad: Evaluating a system at the intersection of human and animal disease.
 33735241	Sub-lethal aquatic doses of pyriproxyfen may increase pyrethroid resistance in malaria mosquitoes.
 33735166	Malaria Surveillance - United States, 2017.
-33734023	Fifty years after the eradication of Malaria in Italy. The long pathway toward this great goal and the current health risks of imported malaria.
-33733649	Spatial patterns of Plasmodium vivax transmission explored by multivariate auto-regressive state-space modelling - A case study in Baoshan Prefecture in southern China.
-33732682	Evaluation of Annona muricata Acetogenins as Potential Anti-SARS-CoV-2 Agents Through Computational Approaches.
