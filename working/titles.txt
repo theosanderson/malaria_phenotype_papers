@@ -1,3 +1,7 @@
+37046281	Community knowledge, attitude and practices regarding zoonotic viral haemorrhagic fevers in five geo-ecological zones in Tanzania.
+37046220	Correction: Anti-inflammatory effect of naringin and sericin combination on human peripheral blood mononuclear cells (hPBMCs) from patient with psoriasis.
+37045885	Chemical composition and repellent activity of essential oils of Tithonia diversifolia (Asteraceae) leaves against the bites of Anopheles coluzzii.
+37045879	Factors hindering coverage of targeted mass treatment with primaquine in a malarious township of northern Myanmar in 2019-2020.
 37043542	Genomic analysis of two phlebotomine sand fly vectors of leishmania from the new and old World.
 37042866	Epilepsy in Niger: an overview of the current situation.
 37042534	Building Integrated Testing Programs for Infectious Diseases.
@@ -9993,7 +9997,3 @@
 33737138	Human infection with an unknown species of Dracunculus in Vietnam.
 33737113	Long-term acrylamide exposure exacerbates brain and lung pathology in a mouse malaria model.
 33736972	Phytol suppresses parasitemia and ameliorates anaemia and oxidative brain damage in mice infected with Plasmodium berghei.
-33736891	[Abnormal urine color assessment: The urine wheel].
-33736629	A feasibility study using time-driven activity-based costing as a management tool for provider cost estimation: lessons from the national TB control program in Zimbabwe in 2018.
-33735242	Community-based Guinea worm surveillance in Chad: Evaluating a system at the intersection of human and animal disease.
-33735241	Sub-lethal aquatic doses of pyriproxyfen may increase pyrethroid resistance in malaria mosquitoes.
