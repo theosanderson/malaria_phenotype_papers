@@ -1,3 +1,8 @@
+37051778	Vegetative cell fusion and a new stage in the life cycle of the Aphelida (Opisthosporidia).
+37049935	Role of Stereochemistry on the Biological Activity of Nature-Inspired 3-Br-Acivicin Isomers and Derivatives.
+37049902	Modulatory Effects of Atractylodin and β-Eudesmol on Human Cytochrome P450 Enzymes: Potential Drug-Drug Interactions.
+37048057	Cerebral Malaria Model Applying Human Brain Organoids.
+37047683	Distinctive Kaposi Sarcoma-Associated Herpesvirus Serological Profile during Acute Plasmodium falciparum Malaria Episodes.
 37046281	Community knowledge, attitude and practices regarding zoonotic viral haemorrhagic fevers in five geo-ecological zones in Tanzania.
 37046220	Correction: Anti-inflammatory effect of naringin and sericin combination on human peripheral blood mononuclear cells (hPBMCs) from patient with psoriasis.
 37045885	Chemical composition and repellent activity of essential oils of Tithonia diversifolia (Asteraceae) leaves against the bites of Anopheles coluzzii.
@@ -9992,8 +9997,3 @@
 33738266	Plasmodium knowlesi - Clinical Isolate Genome Sequencing to Inform Translational Same-Species Model System for Severe Malaria.
 33737926	Framework for Characterizing Longitudinal Antibody Response in Children After Plasmodium falciparum Infection.
 33737885	Non-immune Traits Triggered by Blood Intake Impact Vectorial Competence.
-33737844	Towards Eradication of Malaria: Is the WHO's RTS,S/AS01 Vaccination Effective Enough?
-33737749	Fetal cranial growth trajectories are associated with growth and neurodevelopment at 2 years of age: INTERBIO-21st Fetal Study.
-33737138	Human infection with an unknown species of Dracunculus in Vietnam.
-33737113	Long-term acrylamide exposure exacerbates brain and lung pathology in a mouse malaria model.
-33736972	Phytol suppresses parasitemia and ameliorates anaemia and oxidative brain damage in mice infected with Plasmodium berghei.
