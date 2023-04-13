@@ -1,3 +1,4 @@
+37043542	Genomic analysis of two phlebotomine sand fly vectors of leishmania from the new and old World.
 37042866	Epilepsy in Niger: an overview of the current situation.
 37042534	Building Integrated Testing Programs for Infectious Diseases.
 37042518	Modelling the impact of a highly potent Plasmodium falciparum transmission-blocking monoclonal antibody in areas of seasonal malaria transmission.
@@ -9996,4 +9997,3 @@
 33736629	A feasibility study using time-driven activity-based costing as a management tool for provider cost estimation: lessons from the national TB control program in Zimbabwe in 2018.
 33735242	Community-based Guinea worm surveillance in Chad: Evaluating a system at the intersection of human and animal disease.
 33735241	Sub-lethal aquatic doses of pyriproxyfen may increase pyrethroid resistance in malaria mosquitoes.
-33735166	Malaria Surveillance - United States, 2017.
