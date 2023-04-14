@@ -1,3 +1,4 @@
+37057821	Malarial Pigment Hemozoin within Neutrophils - A Manifestation of Severe Malaria.
 37056783	Induction of antigen specific intrahepatic CD8+ T cell responses by a secreted heat shock protein based gp96-Ig-PfCA malaria vaccine.
 37056663	Private sector antimalarial sales a decade after "test and treat": A cross-sectional study of drug shop clients in rural Uganda.
 37056033	Plasmodium falciparum-Induced Autoimmune Hemolytic Anemia in a Pregnant Patient with Sickle Cell Disease.
@@ -9996,4 +9997,3 @@
 33742015	Comparison of Plasmodium ovale curtisi and Plasmodium ovale wallikeri infections by a meta-analysis approach.
 33741975	Mechanisms and targets of Fcγ-receptor mediated immunity to malaria sporozoites.
 33741942	A human monoclonal antibody blocks malaria transmission and defines a highly conserved neutralizing epitope on gametes.
-33741926	Red blood cell mannoses as phagocytic ligands mediating both sickle cell anaemia and malaria resistance.
