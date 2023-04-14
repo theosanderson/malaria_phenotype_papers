@@ -1,3 +1,6 @@
+37056783	Induction of antigen specific intrahepatic CD8+ T cell responses by a secreted heat shock protein based gp96-Ig-PfCA malaria vaccine.
+37056663	Private sector antimalarial sales a decade after "test and treat": A cross-sectional study of drug shop clients in rural Uganda.
+37056033	Plasmodium falciparum-Induced Autoimmune Hemolytic Anemia in a Pregnant Patient with Sickle Cell Disease.
 37055836	High vector diversity and malaria transmission dynamics in five sentinel sites in Cameroon.
 37055834	Infection of the malaria vector Anopheles coluzzii with the entomopathogenic bacteria Chromobacterium anophelis sp. nov. IRSSSOUMB001 reduces larval survival and adult reproductive potential.
 37055809	User fee exemption and malaria treatment-seeking for children under five in a Cameroonian health district: a cross-sectional study.
@@ -12,6 +15,7 @@
 37051778	Vegetative cell fusion and a new stage in the life cycle of the Aphelida (Opisthosporidia).
 37049935	Role of Stereochemistry on the Biological Activity of Nature-Inspired 3-Br-Acivicin Isomers and Derivatives.
 37049902	Modulatory Effects of Atractylodin and β-Eudesmol on Human Cytochrome P450 Enzymes: Potential Drug-Drug Interactions.
+37049762	Rational Design and Lead Optimisation of Potent Antimalarial Quinazolinediones and Their Cytotoxicity against MCF-7.
 37048057	Cerebral Malaria Model Applying Human Brain Organoids.
 37047683	Distinctive Kaposi Sarcoma-Associated Herpesvirus Serological Profile during Acute Plasmodium falciparum Malaria Episodes.
 37046281	Community knowledge, attitude and practices regarding zoonotic viral haemorrhagic fevers in five geo-ecological zones in Tanzania.
@@ -9993,7 +9997,3 @@
 33741975	Mechanisms and targets of Fcγ-receptor mediated immunity to malaria sporozoites.
 33741942	A human monoclonal antibody blocks malaria transmission and defines a highly conserved neutralizing epitope on gametes.
 33741926	Red blood cell mannoses as phagocytic ligands mediating both sickle cell anaemia and malaria resistance.
-33741688	Noncanonical Roles of Caspase-4 and Caspase-5 in Heme-Driven IL-1β Release and Cell Death.
-33741370	Characterisation of a unique linker segment of the Plasmodium falciparum cytosol localised Hsp110 chaperone.
-33741078	Bloodmeal sources and feeding behavior of anopheline mosquitoes in Bure district, northwestern Ethiopia.
-33741053	Antioxidant and antimalarial properties of Sophora exigua Craib. root extract in Plasmodium berghei-infected mice.
