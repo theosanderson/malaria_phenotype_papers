@@ -1,3 +1,6 @@
+37053493	Optimal control and cost-effectiveness analysis of age-structured malaria model with asymptomatic carrier and temperature variability.
+37053271	Sulfonylpiperazine compounds prevent Plasmodium falciparum invasion of red blood cells through interference with actin-1/profilin dynamics.
+37053161	Ribosome heterogeneity and specialization of Plasmodium parasites.
 37051778	Vegetative cell fusion and a new stage in the life cycle of the Aphelida (Opisthosporidia).
 37049935	Role of Stereochemistry on the Biological Activity of Nature-Inspired 3-Br-Acivicin Isomers and Derivatives.
 37049902	Modulatory Effects of Atractylodin and β-Eudesmol on Human Cytochrome P450 Enzymes: Potential Drug-Drug Interactions.
@@ -9994,6 +9997,3 @@
 33738722	HPLC methods for choloroquine determination in biological samples and pharmaceutical products.
 33738587	Understanding the effect of climate change in the distribution and intensity of malaria transmission over India using a dynamical malaria model.
 33738485	Age-Related Changes in Malaria Clinical Phenotypes During Infancy Are Modified by Sickle Cell Trait.
-33738266	Plasmodium knowlesi - Clinical Isolate Genome Sequencing to Inform Translational Same-Species Model System for Severe Malaria.
-33737926	Framework for Characterizing Longitudinal Antibody Response in Children After Plasmodium falciparum Infection.
-33737885	Non-immune Traits Triggered by Blood Intake Impact Vectorial Competence.
