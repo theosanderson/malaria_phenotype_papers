@@ -1,3 +1,11 @@
+37055836	High vector diversity and malaria transmission dynamics in five sentinel sites in Cameroon.
+37055834	Infection of the malaria vector Anopheles coluzzii with the entomopathogenic bacteria Chromobacterium anophelis sp. nov. IRSSSOUMB001 reduces larval survival and adult reproductive potential.
+37055809	User fee exemption and malaria treatment-seeking for children under five in a Cameroonian health district: a cross-sectional study.
+37055610	Babesia duncani multi-omics identifies virulence factors and drug targets.
+37055132	Genetic studies of heat stress regulation in goat during hot climatic condition.
+37054839	Metagenomic analysis reveals indole signaling effect on microbial community in sequencing batch reactors: Quorum sensing inhibition and antibiotic resistance enrichment.
+37054677	Natural killer cells: Warriors against malaria.
+37054559	Design, synthesis and evaluation of novel pyrrole-hydroxybutenolide hybrids as promising antiplasmodial and anti-inflammatory agents.
 37053493	Optimal control and cost-effectiveness analysis of age-structured malaria model with asymptomatic carrier and temperature variability.
 37053271	Sulfonylpiperazine compounds prevent Plasmodium falciparum invasion of red blood cells through interference with actin-1/profilin dynamics.
 37053161	Ribosome heterogeneity and specialization of Plasmodium parasites.
@@ -150,7 +158,7 @@
 36997768	Therapeutic perspective for children and young adults living with thalassemia and sickle cell disease.
 36997532	Cryo-tomography reveals rigid-body motion and organization of apicomplexan invasion machinery.
 36997087	Maturation of the Malarial Phosphatidylserine Decarboxylase is Mediated by High Affinity Binding to Anionic Phospholipids.
-36997012	Residual Malaria Transmission: magnitude and drivers of persistent Plasmodium infections despite high coverage of control interventions in Burkina Faso, West Africa.
+36997012	Residual malaria transmission: Magnitude and drivers of persistent Plasmodium infections despite high coverage of control interventions in Burkina Faso, West Africa.
 36996716	Falcipains: Biochemistry, target validation and structure-activity relationship studies of inhibitors as antimalarials.
 36996035	Same, same but different: Exploring Plasmodium cell division during liver stage development.
 36994923	Zinc supplementation for preventing mortality, morbidity, and growth failure in children aged 6 months to 12 years.
@@ -9989,11 +9997,3 @@
 33741370	Characterisation of a unique linker segment of the Plasmodium falciparum cytosol localised Hsp110 chaperone.
 33741078	Bloodmeal sources and feeding behavior of anopheline mosquitoes in Bure district, northwestern Ethiopia.
 33741053	Antioxidant and antimalarial properties of Sophora exigua Craib. root extract in Plasmodium berghei-infected mice.
-33740983	Strengthening community and stakeholder participation in the implementation of integrated vector management for malaria control in western Kenya: a case study.
-33740967	Correction to: Pharmacokinetic profile of amodiaquine and its active metabolite desethylamodiaquine in Ghanaian patients with uncomplicated falciparum malaria.
-33740450	The ethical scientist in a time of uncertainty.
-33740021	A systematic review on improving implementation of the revitalised integrated disease surveillance and response system in the African region: A health workers' perspective.
-33739991	Soil-transmitted helminth infection in pregnancy and long-term child neurocognitive and behavioral development: A prospective mother-child cohort in Benin.
-33738722	HPLC methods for choloroquine determination in biological samples and pharmaceutical products.
-33738587	Understanding the effect of climate change in the distribution and intensity of malaria transmission over India using a dynamical malaria model.
-33738485	Age-Related Changes in Malaria Clinical Phenotypes During Infancy Are Modified by Sickle Cell Trait.
