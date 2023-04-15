@@ -1,3 +1,10 @@
+37060070	Characterizing the Wolbachia infection in field-collected Culicidae mosquitoes from Hainan Province, China.
+37060041	The ability of Interleukin-10 to negate haemozoin-related pro-inflammatory effects has the potential to restore impaired macrophage function associated with malaria infection.
+37060004	Malaria therapeutics: are we close enough?
+37059998	Developing African arbovirus networks and capacity strengthening in arbovirus surveillance and response: findings from a virtual workshop.
+37059457	Ghana approves Oxford's malaria vaccine for children aged 5 to 36 months.
+37059244	Towards a better understanding of commonly used medicinal plants from Turkiye: Detailed phytochemical screening and biological activity studies of two Teucrium L. species with in vitro and in silico approach.
+37058963	Increased neutrophil derived chemokines (CXCL10 and CCL2) in human trichinellosis as possible serological markers of the polarization of the immune response against the parasite.
 37057821	Malarial Pigment Hemozoin within Neutrophils - A Manifestation of Severe Malaria.
 37056783	Induction of antigen specific intrahepatic CD8+ T cell responses by a secreted heat shock protein based gp96-Ig-PfCA malaria vaccine.
 37056663	Private sector antimalarial sales a decade after "test and treat": A cross-sectional study of drug shop clients in rural Uganda.
@@ -9990,10 +9997,3 @@
 33743294	Accuracy of rapid diagnostic test to diagnose malaria in children under 5 years of age, a meta-analysis.
 33742415	Formulation and evaluation of transdermal nanogel for delivery of artemether.
 33742208	A longitudinal impact evaluation of a comprehensive nutrition program for reducing stunting among children aged 6-23 months in rural Malawi.
-33742128	The structure of a major surface antigen SAG19 from Eimeria tenella unifies the Eimeria SAG family.
-33742030	Anopheles ecology, genetics and malaria transmission in northern Cambodia.
-33742028	Malaria transmission in landscapes with varying deforestation levels and timelines in the Amazon: a longitudinal spatiotemporal study.
-33742019	Mosquitoes of the Maculipennis complex in Northern Italy.
-33742015	Comparison of Plasmodium ovale curtisi and Plasmodium ovale wallikeri infections by a meta-analysis approach.
-33741975	Mechanisms and targets of Fcγ-receptor mediated immunity to malaria sporozoites.
-33741942	A human monoclonal antibody blocks malaria transmission and defines a highly conserved neutralizing epitope on gametes.
