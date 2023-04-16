@@ -1,3 +1,8 @@
+37061695	Mosquito bites and stage-specific antibody responses against Plasmodium falciparum in southern Ghana.
+37061668	Outcomes of childhood severe malaria: a comparative of study pre-COVID-19 and COVID-19 periods.
+37061547	Structural and immunological differences in Plasmodium falciparum sexual stage transmission-blocking vaccines comprised of Pfs25-EPA nanoparticles.
+37061442	The nutrient games - Plasmodium metabolism during hepatic development.
+37061211	Therapeutic response to artemisinin combination therapies among individuals with Plasmodium falciparum single infection versus mixed Plasmodium species infections: A retrospective post-hoc analysis in Kisumu County, western Kenya.
 37060305	Antimalarial drugs: what's new in the patents?
 37060070	Characterizing the Wolbachia infection in field-collected Culicidae mosquitoes from Hainan Province, China.
 37060041	The ability of Interleukin-10 to negate haemozoin-related pro-inflammatory effects has the potential to restore impaired macrophage function associated with malaria infection.
@@ -73,7 +78,7 @@
 37032389	Phylogenomics revealed migration routes and adaptive radiation timing of Holarctic malaria mosquito species of the Maculipennis Group.
 37032366	Determinants of malaria infections among children in refugee settlements in Uganda during 2018-2019.
 37032336	Development of insecticide-impregnated polyester/cotton blend fabric and assessment of their repellent characteristics against Cimex lectularius and dengue vectors Aedes albopictus and Aedes aegypti.
-37031729	Novel Inhibitors of Rickettsia prowazekii Methionine Aminopeptidase from the Malaria Box.
+37031729	Novel inhibitors of Rickettsia prowazekii methionine aminopeptidase from the Malaria Box.
 37031071	How can the complex epidemiology of malaria in India impact its elimination?
 37030471	Antimalarials and amphotericin B interact synergistically and are new options to treat cryptococcosis.
 37030438	Formulation and Scale-up of Fast-Dissolving Lumefantrine Nanoparticles for Oral Malaria Therapy.
@@ -9992,8 +9997,3 @@
 33743731	Anti-malarial drug effects on parasite dynamics in vivax malaria.
 33743727	Malaria in Eswatini, 2012-2019: a case study of the elimination effort.
 33743716	Diversity, distribution, and drivers of Polychromophilus infection in Malagasy bats.
-33743712	Research supporting malaria control and elimination in China over four decades: a bibliometric analysis of academic articles published in chinese from 1980 to 2019.
-33743705	The association of CYP2D6 gene polymorphisms in the full-length coding region with higher recurrence rate of vivax malaria in Yunnan Province, China.
-33743509	Plasmodium Ape1 is a multifunctional enzyme in mitochondrial base excision repair and is required for efficient transition from liver to blood stage infection.
-33743294	Accuracy of rapid diagnostic test to diagnose malaria in children under 5 years of age, a meta-analysis.
-33742415	Formulation and evaluation of transdermal nanogel for delivery of artemether.
