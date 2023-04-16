@@ -1,3 +1,4 @@
+37060305	Antimalarial drugs: what's new in the patents?
 37060070	Characterizing the Wolbachia infection in field-collected Culicidae mosquitoes from Hainan Province, China.
 37060041	The ability of Interleukin-10 to negate haemozoin-related pro-inflammatory effects has the potential to restore impaired macrophage function associated with malaria infection.
 37060004	Malaria therapeutics: are we close enough?
@@ -9996,4 +9997,3 @@
 33743509	Plasmodium Ape1 is a multifunctional enzyme in mitochondrial base excision repair and is required for efficient transition from liver to blood stage infection.
 33743294	Accuracy of rapid diagnostic test to diagnose malaria in children under 5 years of age, a meta-analysis.
 33742415	Formulation and evaluation of transdermal nanogel for delivery of artemether.
-33742208	A longitudinal impact evaluation of a comprehensive nutrition program for reducing stunting among children aged 6-23 months in rural Malawi.
