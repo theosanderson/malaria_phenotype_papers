@@ -1,3 +1,7 @@
+37068249	The human malaria parasite Plasmodium falciparum can sense environmental changes and respond by antigenic switching.
+37068227	The mitochondrion of Plasmodium falciparum is required for cellular acetyl-CoA metabolism and protein acetylation.
+37068085	Predicting adherence to postdischarge malaria chemoprevention in Malawian pre-school children: A prognostic multivariable analysis.
+37068071	Altitude, not potential larval habitat availability, explains pronounced variation in Plasmodium falciparum infection prevalence in the western Kenya highlands.
 37067430	Chemogenomic Profiling of a Plasmodium falciparum Transposon Mutant Library Reveals Shared Effects of Dihydroartemisinin and Bortezomib on Lipid Metabolism and Exported Proteins.
 37067421	Comprehensive framework for integrated action on the prevention, diagnosis, and management of anemia: An introduction.
 37067216	[Outbreaks Due to Parasites: Examples from the World and Türkiye].
@@ -9993,7 +9997,3 @@
 33746641	A Mosquito Pick-and-Place System for PfSPZ-based Malaria Vaccine Production.
 33746510	Plasmodium falciparum Malaria Parasites in Ghana Show Signatures of Balancing Selection at Artemisinin Resistance Predisposing Background Genes.
 33746399	Varying levels of protection against Plasmodium falciparium infection were conferred on non-users of long lasting insecticidal nets (LLINS) sleeping in rooms where different number of LLINS were hung in hyper endemic state of West Africa.
-33746396	Effect of sodium acetate on serum activity of glucose-6-phosphate dehydrogenase in Plasmodium berghei-infected mice.
-33746393	Solid-lipid nanoparticles (SLN)s containing Zataria multiflora essential oil with no-cytotoxicity and potent repellent activity against Anopheles stephensi.
-33746096	Plasmodium vivax infection with exflagellated microgametes in peripheral blood smears.
-33746094	World Tuberculosis Day 2021 Theme - 'The Clock is Ticking' - and the world is running out of time to deliver the United Nations General Assembly commitments to End TB due to the COVID-19 pandemic.
