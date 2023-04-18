@@ -1,3 +1,10 @@
+37069405	Malaria in Austria : A retrospective analysis of malaria cases diagnosed at a reference center in 2010-2020.
+37068901	Clinical features, immunological interactions and household determinants of visceral leishmaniasis and malaria coinfections in West Pokot, Kenya: protocol for an observational study.
+37068848	Cost of introducing and delivering malaria vaccine (RTS,S/AS01(E)) in areas of seasonal malaria transmission, Mali and Burkina Faso.
+37068755	Opportunities for Improving Outcomes in Severe Malaria: the Role of Blood Glucose Monitoring.
+37068754	Drug Use Practices and Self-treatment for Suspected Malaria in Ibadan, Nigeria.
+37068752	Pernicious Plasmodium vivax as a Historical Cause of Malarial Cachexia?
+37068750	Temporal Trends of Blood Glucose in Children with Cerebral Malaria.
 37068249	The human malaria parasite Plasmodium falciparum can sense environmental changes and respond by antigenic switching.
 37068227	The mitochondrion of Plasmodium falciparum is required for cellular acetyl-CoA metabolism and protein acetylation.
 37068085	Predicting adherence to postdischarge malaria chemoprevention in Malawian pre-school children: A prognostic multivariable analysis.
@@ -9990,10 +9997,3 @@
 33747876	Risk factors for placental malaria and associated low birth weight in a rural high malaria transmission setting of Cote d'Ivoire.
 33747875	Thrombocytopenia in malaria patients from an arid region of Western Rajasthan (India).
 33747874	A study on multi-organ dysfunction syndrome in malaria using sequential organ failure assessment score.
-33747865	Expression of Two Key Enzymes of Artemisinin Biosynthesis FPS and ADS genes in Saccharomyces cerevisiae.
-33747712	Antimalarial Drug Resistance and Implications for the WHO Global Technical Strategy.
-33747096	Prevalence of Malaria among Adults in Ethiopia: A Systematic Review and Meta-Analysis.
-33746958	Reduced Placental Transfer of Antibodies Against a Wide Range of Microbial and Vaccine Antigens in HIV-Infected Women in Mozambique.
-33746641	A Mosquito Pick-and-Place System for PfSPZ-based Malaria Vaccine Production.
-33746510	Plasmodium falciparum Malaria Parasites in Ghana Show Signatures of Balancing Selection at Artemisinin Resistance Predisposing Background Genes.
-33746399	Varying levels of protection against Plasmodium falciparium infection were conferred on non-users of long lasting insecticidal nets (LLINS) sleeping in rooms where different number of LLINS were hung in hyper endemic state of West Africa.
