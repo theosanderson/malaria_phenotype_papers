@@ -1,3 +1,7 @@
+37070464	A diagnostic accuracy study to evaluate standard rapid diagnostic test (RDT) alone to safely rule out imported malaria in children presenting to UK emergency departments.
+37069854	Malaria parasite prevalence in Sub-Saharan African migrants screened in Sweden: a cross-sectional study.
+37069625	Artemisinin derivatives induce oxidative stress leading to DNA damage and caspase-mediated apoptosis in Theileria annulata-transformed cells.
+37069603	Vector competence of Anopheles stephensi for O'nyong-nyong virus: a risk for global virus spread.
 37069405	Malaria in Austria : A retrospective analysis of malaria cases diagnosed at a reference center in 2010-2020.
 37068901	Clinical features, immunological interactions and household determinants of visceral leishmaniasis and malaria coinfections in West Pokot, Kenya: protocol for an observational study.
 37068848	Cost of introducing and delivering malaria vaccine (RTS,S/AS01(E)) in areas of seasonal malaria transmission, Mali and Burkina Faso.
@@ -9993,7 +9997,3 @@
 33750026	Comparative intravital imaging of human and rodent malaria sporozoites reveals the skin is not a species-specific barrier.
 33747983	Vaginal Microbiota and Cytokine Levels Predict Preterm Delivery in Asian Women.
 33747980	Pleiotropic Roles for the Plasmodium berghei RNA Binding Protein UIS12 in Transmission and Oocyst Maturation.
-33747877	Coexistent malaria and filaria among the febrile patients attending for malaria diagnosis: A clinic-based study.
-33747876	Risk factors for placental malaria and associated low birth weight in a rural high malaria transmission setting of Cote d'Ivoire.
-33747875	Thrombocytopenia in malaria patients from an arid region of Western Rajasthan (India).
-33747874	A study on multi-organ dysfunction syndrome in malaria using sequential organ failure assessment score.
