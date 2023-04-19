@@ -1,9 +1,14 @@
+37072430	Plasmepsin X activates the PCRCR complex of Plasmodium falciparum by processing PfRh5 for erythrocyte invasion.
 37071590	Prevalence of pretreatment drug resistance in persons initiating and reinitiating antiretroviral therapy in Sri Lanka: results from a national representative survey.
 37071200	Pharmacological activation of PIEZO1 in human red blood cells prevents Plasmodium falciparum invasion.
 37070464	A diagnostic accuracy study to evaluate standard rapid diagnostic test (RDT) alone to safely rule out imported malaria in children presenting to UK emergency departments.
 37069854	Malaria parasite prevalence in Sub-Saharan African migrants screened in Sweden: a cross-sectional study.
 37069625	Artemisinin derivatives induce oxidative stress leading to DNA damage and caspase-mediated apoptosis in Theileria annulata-transformed cells.
 37069603	Vector competence of Anopheles stephensi for O'nyong-nyong virus: a risk for global virus spread.
+37072800	Cross-sectional survey in Central African Republic finds mortality 4-times higher than UN statistics: how can we not know the Central African Republic is in such an acute humanitarian crisis?
+37072795	Keeping the momentum: suggestions for treatment policy updates in the final push to eliminate malaria in India.
+37072759	Availability of malaria diagnostic tests, anti-malarial drugs, and the correctness of treatment: a systematic review and meta-analysis.
+37072433	Population dynamics and drug resistance mutations in Plasmodium falciparum on the Bijagós Archipelago, Guinea-Bissau.
 37069405	Malaria in Austria : A retrospective analysis of malaria cases diagnosed at a reference center in 2010-2020.
 37068901	Clinical features, immunological interactions and household determinants of visceral leishmaniasis and malaria coinfections in West Pokot, Kenya: protocol for an observational study.
 37068848	Cost of introducing and delivering malaria vaccine (RTS,S/AS01(E)) in areas of seasonal malaria transmission, Mali and Burkina Faso.
@@ -9992,8 +9997,3 @@
 33752799	Inducible mechanisms of disease tolerance provide an alternative strategy of acquired immunity to malaria.
 33752733	A PCR-RFLP method for genotyping of inversion 2Rc in Anopheles coluzzii.
 33752673	Community acceptance of reactive focal mass drug administration and reactive focal vector control using indoor residual spraying, a mixed-methods study in Zambezi region, Namibia.
-33751620	Sample size and power considerations for cluster randomized trials with count outcomes subject to right truncation.
-33750786	Naturally acquired blocking human monoclonal antibodies to Plasmodium vivax reticulocyte binding protein 2b.
-33750380	The genome of the stable fly, Stomoxys calcitrans, reveals potential mechanisms underlying reproduction, host interactions, and novel targets for pest control.
-33750364	Distance to primary care facilities and healthcare utilization for preschool children in rural northwestern Burkina Faso: results from a surveillance cohort.
-33750026	Comparative intravital imaging of human and rodent malaria sporozoites reveals the skin is not a species-specific barrier.
