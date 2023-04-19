@@ -1,3 +1,7 @@
+37072800	Cross-sectional survey in Central African Republic finds mortality 4-times higher than UN statistics: how can we not know the Central African Republic is in such an acute humanitarian crisis?
+37072795	Keeping the momentum: suggestions for treatment policy updates in the final push to eliminate malaria in India.
+37072759	Availability of malaria diagnostic tests, anti-malarial drugs, and the correctness of treatment: a systematic review and meta-analysis.
+37072433	Population dynamics and drug resistance mutations in Plasmodium falciparum on the Bijagós Archipelago, Guinea-Bissau.
 37072430	Plasmepsin X activates the PCRCR complex of Plasmodium falciparum by processing PfRh5 for erythrocyte invasion.
 37071590	Prevalence of pretreatment drug resistance in persons initiating and reinitiating antiretroviral therapy in Sri Lanka: results from a national representative survey.
 37071200	Pharmacological activation of PIEZO1 in human red blood cells prevents Plasmodium falciparum invasion.
@@ -5,10 +9,6 @@
 37069854	Malaria parasite prevalence in Sub-Saharan African migrants screened in Sweden: a cross-sectional study.
 37069625	Artemisinin derivatives induce oxidative stress leading to DNA damage and caspase-mediated apoptosis in Theileria annulata-transformed cells.
 37069603	Vector competence of Anopheles stephensi for O'nyong-nyong virus: a risk for global virus spread.
-37072800	Cross-sectional survey in Central African Republic finds mortality 4-times higher than UN statistics: how can we not know the Central African Republic is in such an acute humanitarian crisis?
-37072795	Keeping the momentum: suggestions for treatment policy updates in the final push to eliminate malaria in India.
-37072759	Availability of malaria diagnostic tests, anti-malarial drugs, and the correctness of treatment: a systematic review and meta-analysis.
-37072433	Population dynamics and drug resistance mutations in Plasmodium falciparum on the Bijagós Archipelago, Guinea-Bissau.
 37069405	Malaria in Austria : A retrospective analysis of malaria cases diagnosed at a reference center in 2010-2020.
 37068901	Clinical features, immunological interactions and household determinants of visceral leishmaniasis and malaria coinfections in West Pokot, Kenya: protocol for an observational study.
 37068848	Cost of introducing and delivering malaria vaccine (RTS,S/AS01(E)) in areas of seasonal malaria transmission, Mali and Burkina Faso.
