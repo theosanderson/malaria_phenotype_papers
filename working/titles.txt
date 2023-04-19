@@ -1,3 +1,9 @@
+37074313	Dengue and zika seropositivity, burden, endemicity, and cocirculation antibodies in Nigeria.
+37074531	Human granzyme B binds Plasmodium falciparum Hsp70-x and mediates antiplasmodial activity in vitro.
+37074472	Cuscuta reflexa Possess Potent Inhibitory Activity Against Human Malaria Parasite: An In Vitro and In Vivo Study.
+37074181	Development of a Novel Enzyme-Linked Immunosorbent Assay and Lateral Flow Test System for Improved Serodiagnosis of Visceral Leishmaniasis in Different Areas of Endemicity.
+37073654	Advances in Drug Discovery Based on Genomics, Proteomics and Bioinformatics in Malaria.
+37073152	Role of Nanomedicines in Controlling Malaria: A review.
 37072800	Cross-sectional survey in Central African Republic finds mortality 4-times higher than UN statistics: how can we not know the Central African Republic is in such an acute humanitarian crisis?
 37072795	Keeping the momentum: suggestions for treatment policy updates in the final push to eliminate malaria in India.
 37072759	Availability of malaria diagnostic tests, anti-malarial drugs, and the correctness of treatment: a systematic review and meta-analysis.
@@ -9,7 +15,6 @@
 37069854	Malaria parasite prevalence in Sub-Saharan African migrants screened in Sweden: a cross-sectional study.
 37069625	Artemisinin derivatives induce oxidative stress leading to DNA damage and caspase-mediated apoptosis in Theileria annulata-transformed cells.
 37069603	Vector competence of Anopheles stephensi for O'nyong-nyong virus: a risk for global virus spread.
-37073654	Advances in Drug Discovery Based on Genomics, Proteomics and Bioinformatics in Malaria.
 37069405	Malaria in Austria : A retrospective analysis of malaria cases diagnosed at a reference center in 2010-2020.
 37068901	Clinical features, immunological interactions and household determinants of visceral leishmaniasis and malaria coinfections in West Pokot, Kenya: protocol for an observational study.
 37068848	Cost of introducing and delivering malaria vaccine (RTS,S/AS01(E)) in areas of seasonal malaria transmission, Mali and Burkina Faso.
@@ -31,7 +36,6 @@
 37065111	Transcriptome profile of halofuginone resistant and sensitive strains of Eimeria tenella.
 37064813	Autophagy in protists and their hosts: When, how and why?
 37063994	Changes of Cinchona distribution over the past two centuries in the northern Andes.
-37073152	Role of Nanomedicines in Controlling Malaria: A review.
 37061695	Mosquito bites and stage-specific antibody responses against Plasmodium falciparum in southern Ghana.
 37061668	Outcomes of childhood severe malaria: a comparative of study pre-COVID-19 and COVID-19 periods.
 37061547	Structural and immunological differences in Plasmodium falciparum sexual stage transmission-blocking vaccines comprised of Pfs25-EPA nanoparticles.
@@ -5797,7 +5801,6 @@
 35101123	Characteristics and potential quality indicators for evaluating pre-travel consultations in Japan hospitals: the Japan Pretravel consultation registry (J-PRECOR).
 35101106	Baseline susceptibility of a wild strain of main vectors of leishmaniasis to WHO-recommended insecticides in southeastern Iran.
 35101036	Malaria care-seeking and treatment ideation among gold miners in Guyana.
-37073350	Structure modification, antialgal, antiplasmodial, and toxic evaluations of a series of new marine-derived 14-membered resorcylic acid lactone derivatives.
 35100562	Evaluation of Multiplex/Nested Polymerase Chain Reaction and Loop-Mediated Isothermal Amplification for Malaria Diagnosis in Southeastern Iran.
 35100277	Characterising co-infections with Plasmodium spp., Mansonella perstans or Loa loa in asymptomatic children, adults and elderly people living on Bioko Island using nucleic acids extracted from malaria rapid diagnostic tests.
 35099976	Total Synthesis of (±)-Spiroaxillarone A via a Reversible Sulfa-Michael Addition.
@@ -8688,6 +8691,7 @@
 34178724	Targeting SUMOylation in Plasmodium as a Potential Target for Malaria Therapy.
 34177883	Altered Ex-Vivo Cytokine Responses in Children With Asymptomatic Plasmodium falciparum Infection in Burkina Faso: An Additional Argument to Treat Asymptomatic Malaria?
 34176411	Improved biopharmaceutical attributes of lumefantrine using choline mimicking drug delivery system: preclinical investigation on NK-65 P.berghei murine model.
+37073350	Structure modification, antialgal, antiplasmodial, and toxic evaluations of a series of new marine-derived 14-membered resorcylic acid lactone derivatives.
 34175441	Role of human group IIA secreted phospholipase A2 in malaria pathophysiology: Insights from a transgenic mouse model.
 34175127	Extended follow-up of children in a phase2b trial of the GMZ2 malaria vaccine.
 34174956	Aedes species (Diptera: Culicidae) ecological and host feeding patterns in the north-eastern parts of South Africa, 2014-2018.
@@ -9993,7 +9997,3 @@
 33754933	Targeting Fc effector function in vaccine design.
 33753915	Nanotechnology approaches for global infectious diseases.
 33753817	Analysis of false-negative rapid diagnostic tests for symptomatic malaria in the Democratic Republic of the Congo.
-33753339	Continued Low Efficacy of Artemether-Lumefantrine in Angola?
-33753331	Reply to Rasmussen and Ringwald, "Continued Low Efficacy of Artemether-Lumefantrine in Angola?".
-33753144	The ethnobotany, phytochemistry and biological properties of genus Ferulago - A review.
-33753141	Morinda lucida Benth (Rubiaceae): A review of its ethnomedicine, phytochemistry and pharmacology.
