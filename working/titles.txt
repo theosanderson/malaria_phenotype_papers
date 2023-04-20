@@ -1,6 +1,8 @@
 37076932	Identification of gametocyte-associated pir genes in the rodent malaria parasite, Plasmodium chabaudi chabaudi AS.
 37076896	Burden of mosquito-borne diseases across rural versus urban areas in Cameroon between 2002 and 2021: prospective for community-oriented vector management approaches.
 37076740	Optimal Interruption of P. vivax Malaria Transmission Using Mass Drug Administration.
+37076197	Improving coverage of antenatal iron and folic acid supplementation and malaria prophylaxis through targeted information and home deliveries in Côte d'Ivoire: a cluster randomised controlled trial.
+37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the Controlled Human Malaria Infection model.
 37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
 37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
 37074847	Infections and mental diseases: from tuberculosis to COVID-19.
@@ -42,7 +44,6 @@
 37065111	Transcriptome profile of halofuginone resistant and sensitive strains of Eimeria tenella.
 37064813	Autophagy in protists and their hosts: When, how and why?
 37063994	Changes of Cinchona distribution over the past two centuries in the northern Andes.
-37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the Controlled Human Malaria Infection model.
 37061695	Mosquito bites and stage-specific antibody responses against Plasmodium falciparum in southern Ghana.
 37061668	Outcomes of childhood severe malaria: a comparative of study pre-COVID-19 and COVID-19 periods.
 37061547	Structural and immunological differences in Plasmodium falciparum sexual stage transmission-blocking vaccines comprised of Pfs25-EPA nanoparticles.
@@ -207,7 +208,6 @@
 37004584	Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
 37004489	Transcriptomic analysis of albendazole resistance in human diarrheal parasite Giardia duodenalis.
 37004429	Malaria temporal dynamic clustering for surveillance and intervention planning.
-37076197	Improving coverage of antenatal iron and folic acid supplementation and malaria prophylaxis through targeted information and home deliveries in Côte d'Ivoire: a cluster randomised controlled trial.
 37002357	Congenital Chagas Disease.
 37001539	Getting health back on the highest political agenda-the UN High-level Meetings on health in 2023.
 37001025	Synthesis and Characterization of Phenylalanine Amides Active against Mycobacterium abscessus and Other Mycobacteria.
