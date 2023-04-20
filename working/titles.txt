@@ -1,9 +1,11 @@
+37077252	Humoral Immune Responses to P. falciparum Circumsporozoite Protein (Pfcsp) Induced by the RTS, S Vaccine - Current Update.
+37077247	Editorial: Frontiers in malaria research.
+37076936	Not recommended fixed-dose antibiotic combinations in low- and middle-income countries - the example of Tanzania.
 37076932	Identification of gametocyte-associated pir genes in the rodent malaria parasite, Plasmodium chabaudi chabaudi AS.
 37076896	Burden of mosquito-borne diseases across rural versus urban areas in Cameroon between 2002 and 2021: prospective for community-oriented vector management approaches.
 37076740	Optimal Interruption of P. vivax Malaria Transmission Using Mass Drug Administration.
 37076197	Improving coverage of antenatal iron and folic acid supplementation and malaria prophylaxis through targeted information and home deliveries in Côte d'Ivoire: a cluster randomised controlled trial.
 37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the Controlled Human Malaria Infection model.
-37076936	Not recommended fixed-dose antibiotic combinations in low- and middle-income countries - the example of Tanzania.
 37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
 37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
 37074847	Infections and mental diseases: from tuberculosis to COVID-19.
@@ -90,7 +92,6 @@
 37042251	Profiling the imported human malaria in Sarawak, Malaysia in 2011-2019.
 37041799	Elevated Levels of Procoagulant Microvesicles and Tissue-Factor Bearing Microvesicles in Malaria Patients.
 37041693	Malarial retinopathy in a preschool child: A case report with long-term paediatric and ophthamological follow-up.
-37077252	Humoral Immune Responses to P. falciparum Circumsporozoite Protein (Pfcsp) Induced by the RTS, S Vaccine - Current Update.
 37041533	Correction: Therapeutic efficacies of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum and chloroquine and dihydroartemisinin-piperaquine for uncomplicated Plasmodium vivax infection in Ethiopia.
 37041516	Facilitators and barriers to seasonal malaria chemoprevention (SMC) uptake in Nigeria: a qualitative approach.
 37041454	Ultrasensitive Reverse Transcriptase Loop-Mediated Isothermal Amplification (US-LAMP)-Based Detection of Malaria Infection from Dried Blood Spots.
@@ -206,7 +207,6 @@
 37007492	Corrigendum: Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches.
 37007221	Utilization of Insecticide-Treated Nets in Households for Under-5 Children and Associated Factors in East Mesekan District, Gurage Zone, Southern Ethiopia.
 37006809	Bifidobacterium longum Administration Diminishes Parasitemia and Inflammation During Plasmodium berghei Infection in Mice.
-37077247	Editorial: Frontiers in malaria research.
 37004637	Large DNA fragment knock-in and sequential gene editing in Plasmodium falciparum: a preliminary study using suicide-rescue-based CRISPR/Cas9 system.
 37004584	Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
 37004489	Transcriptomic analysis of albendazole resistance in human diarrheal parasite Giardia duodenalis.
