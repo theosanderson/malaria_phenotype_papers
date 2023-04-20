@@ -1,3 +1,5 @@
+37079382	Mycobacterium tuberculosis gene expression associated with fluoroquinolone resistance and efflux pump inhibition.
+37078740	'Eradication was a dirty word': Anti-gambiae campaign, between cooperation and rivalry (1938-1940).
 37077252	Humoral Immune Responses to P. falciparum Circumsporozoite Protein (Pfcsp) Induced by the RTS, S Vaccine - Current Update.
 37077247	Editorial: Frontiers in malaria research.
 37076936	Not recommended fixed-dose antibiotic combinations in low- and middle-income countries - the example of Tanzania.
@@ -9995,5 +9997,3 @@
 33758014	Employing learning health system principles to advance research on severe neonatal and paediatric illness in Kenya.
 33757758	Differential diagnosis of Plasmodium falciparum and Plasmodium vivax in mixed infection by colorimetric nanogold probes.
 33757538	Rolling out the radical cure for vivax malaria in Asia: a qualitative study among policy makers and stakeholders.
-33757533	A retail audit of mosquito control products in Busia County, western Kenya.
-33757197	Staged progression epidemic models for the transmission of invasive nontyphoidal Salmonella (iNTS) with treatment.
