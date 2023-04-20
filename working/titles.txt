@@ -53,6 +53,8 @@
 37056783	Induction of antigen specific intrahepatic CD8+ T cell responses by a secreted heat shock protein based gp96-Ig-PfCA malaria vaccine.
 37056663	Private sector antimalarial sales a decade after "test and treat": A cross-sectional study of drug shop clients in rural Uganda.
 37056033	Plasmodium falciparum-Induced Autoimmune Hemolytic Anemia in a Pregnant Patient with Sickle Cell Disease.
+37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
+37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
 37055836	High vector diversity and malaria transmission dynamics in five sentinel sites in Cameroon.
 37055834	Infection of the malaria vector Anopheles coluzzii with the entomopathogenic bacteria Chromobacterium anophelis sp. nov. IRSSSOUMB001 reduces larval survival and adult reproductive potential.
 37055809	User fee exemption and malaria treatment-seeking for children under five in a Cameroonian health district: a cross-sectional study.
@@ -2179,6 +2181,7 @@
 36310863	Editorial: Disruptive technologies for the study of host-pathogen interactions.
 36310859	Kinetics of monocyte subpopulations during experimental cerebral malaria and its resolution in a model of late chloroquine treatment.
 36310166	Population genetic analyses inferred a limited genetic diversity across the pvama-1 DI domain among Plasmodium vivax isolates from Khyber Pakhtunkhwa regions of Pakistan.
+37074847	Infections and mental diseases: from tuberculosis to COVID-19.
 36310100	Elucidation of the anti-plasmodial activity of novel imidazole and oxazole compounds through computational and in vivo experimental approaches.
 36309932	Strengthening the capacity of healthcare providers to administer intermittent preventive therapy for malaria in pregnancy in Nigeria using a quality improvement strategy.
 36309676	Elevation of serum interleukin-1β levels as a potential indicator for malarial infection and severe malaria: a meta-analysis.
@@ -9994,6 +9997,3 @@
 33755585	Spatial and Temporal Patterns of Plasmodium knowlesi Malaria in Sarawak from 2008 to 2017.
 33755360	[Impacts of COVID-19 pandemic on the control of other diseases in Africa : After the waves, the tsunami].
 33755189	Xpert MTB/RIF and Xpert Ultra assays for screening for pulmonary tuberculosis and rifampicin resistance in adults, irrespective of signs or symptoms.
-33754933	Targeting Fc effector function in vaccine design.
-33753915	Nanotechnology approaches for global infectious diseases.
-33753817	Analysis of false-negative rapid diagnostic tests for symptomatic malaria in the Democratic Republic of the Congo.
