@@ -1,3 +1,5 @@
+37082835	A sting in the tail-are antibodies against the C-terminus of Plasmodium falciparum circumsporozoite protein protective?
+37082831	Molecular and functional properties of human Plasmodium falciparum CSP C-terminus antibodies.
 37081532	Overcoming insecticide resistance in Anopheles mosquitoes by using faster-acting solid forms of deltamethrin.
 37081458	Prevalence of haemosporidia in Asian Glossy Starling with discovery of misbinding of Haemoproteus-specific primer to Plasmodium genera in Sarawak, Malaysian Borneo.
 37080831	Modelling the relative cost-effectiveness of the RTS,S/AS01 malaria vaccine compared to investment in vector control or chemoprophylaxis.
@@ -96,12 +98,13 @@
 37045885	Chemical composition and repellent activity of essential oils of Tithonia diversifolia (Asteraceae) leaves against the bites of Anopheles coluzzii.
 37045879	Factors hindering coverage of targeted mass treatment with primaquine in a malarious township of northern Myanmar in 2019-2020.
 37043542	Genomic analysis of two phlebotomine sand fly vectors of leishmania from the new and old World.
-37042866	Epilepsy in Niger: an overview of the current situation.
+37042866	Epilepsy in Niger: An overview of the current situation.
 37042534	Building Integrated Testing Programs for Infectious Diseases.
 37042518	Modelling the impact of a highly potent Plasmodium falciparum transmission-blocking monoclonal antibody in areas of seasonal malaria transmission.
 37042251	Profiling the imported human malaria in Sarawak, Malaysia in 2011-2019.
 37041799	Elevated Levels of Procoagulant Microvesicles and Tissue-Factor Bearing Microvesicles in Malaria Patients.
 37041693	Malarial retinopathy in a preschool child: A case report with long-term paediatric and ophthamological follow-up.
+37082139	Escape from oncogene-induced senescence is controlled by POU2F2 and memorized by chromatin scars.
 37041533	Correction: Therapeutic efficacies of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum and chloroquine and dihydroartemisinin-piperaquine for uncomplicated Plasmodium vivax infection in Ethiopia.
 37041516	Facilitators and barriers to seasonal malaria chemoprevention (SMC) uptake in Nigeria: a qualitative approach.
 37041454	Ultrasensitive Reverse Transcriptase Loop-Mediated Isothermal Amplification (US-LAMP)-Based Detection of Malaria Infection from Dried Blood Spots.
@@ -118,6 +121,7 @@
 37038942	Factors associated with malaria and arboviral disease in patients with imported febrile syndrome: a retrospective cohort study.
 37038509	Bionomics of Anopheles culicifacies Sensu Lato in two Malaria Endemic Districts of Central Gujarat, India.
 37038505	Phytochemical Composition and Bioassay on Iranian Teucrium Polium Extracts against Anopheles Stephensi (Diptera: Culicidae).
+37082191	Antiplasmodial, Antioxidant, and Cytotoxic Activity of Bridelia micrantha a Cameroonian Medicinal Plant Used for the Treatment of Malaria.
 37038199	Neglected tropical diseases risk correlates with poverty and early ecosystem destruction.
 37038195	Seroprevalence of viral and bacterial pathogens among malaria patients in an endemic area of southern Venezuela.
 37038187	Genome-wide association testing in malaria studies in the presence of overdominance.
@@ -205,6 +209,10 @@
 37013168	A Response to the Article "A Retrospective Study on the Burden of Malaria in Northeastern Ethiopia from 2015 to 2020: Implications for Pandemic Preparedness" [Letter].
 37013163	Evaluation of the Anti-Malarial Activity of the Crude Root Extract and Solvent Fraction of Sesamum indicum (Fabaceae).
 37012669	Modelling the impact and cost-effectiveness of non-governmental organizations on HIV and HCV transmission among people who inject drugs in Ukraine.
+37082717	How the corona pandemic affects the global fight against tuberculosis and how to react.
+37082177	Culture and transfection: Two major bottlenecks in understanding Plasmodium vivax biology.
+37081955	Corrigendum: Digitizing tuberculosis treatment monitoring in Wuhan city, China, 2020-2021: Impact on medication adherence.
+37081851	Anti-schistosomal immunity to core xylose/fucose in N-glycans.
 37011804	Evaluation of the mosquito larvicidal potential and comparative assessment of the juice of Lantana camara Linn and Ocimum gratissimum Linn.
 37011087	Challenges of acute febrile illness diagnosis in a national infectious diseases center in Rio de Janeiro: 16-year experience of syndromic surveillance.
 37010597	Epidemiological and clinical characteristics of imported falciparum malaria in the Republic of North Macedonia : A 13-year experience.
@@ -1375,6 +1383,7 @@
 36587808	An insight into the female and male Sabethes cyaneus mosquito salivary glands transcriptome.
 36587755	Guidelines to prevent malarial transmission among interprovincial travelers to malaria endemic regions.
 36587274	Editorial: Current Status of Two Adjuvanted Malaria Vaccines and the World Health Organization (WHO) Strategy to Eradicate Malaria by 2030.
+37082350	Global Stability of a Time-delayed Malaria Model with Standard Incidence Rate.
 36587210	Efficacy and safety of pyronaridine-artesunate (Pyramax(®)) for the treatment of uncomplicated Plasmodium vivax malaria in Northwest Ethiopia.
 36587191	Effectiveness of seasonal malaria chemoprevention in three regions of Togo: a population-based longitudinal study from 2013 to 2020.
 36585709	Who is protected? Determinants of hepatitis B infant vaccination completion among a prospective cohort of migrant workers in Thailand during the COVID-19 pandemic.
@@ -9988,12 +9997,3 @@
 33763653	Protein/AS01(B) vaccination elicits stronger, more Th2-skewed antigen-specific human T follicular helper cell responses than heterologous viral vectors.
 33763480	Assessment of Developmental and Reproductive Fitness of Dengue-Resistant Transgenic Aedes aegypti and Improvement of Fitness Using Antibiotics.
 33763229	Memory CD8(+) T cell compartment associated with delayed onset of Plasmodium falciparum infection and better parasite control in sickle-cell trait children.
-33763144	Traditional Medicinal Uses, Phytoconstituents, Bioactivities, and Toxicities of Erythrina abyssinica Lam. ex DC. (Fabaceae): A Systematic Review.
-33762657	Identifying the major lactate transporter of Toxoplasma gondii tachyzoites.
-33762599	Forecasting influenza-like illness trends in Cameroon using Google Search Data.
-33762339	Ca(2+) signals critical for egress and gametogenesis in malaria parasites depend on a multipass membrane protein that interacts with PKG.
-33762334	Adipose tissue parasite sequestration drives leptin production in mice and correlates with human cerebral malaria.
-33761967	Mosquito-repellent controlled-release formulations for fighting infectious diseases.
-33761961	A novel fungal metabolite inhibits Plasmodium falciparum transmission and infection.
-33761948	Adherence to standard treatment guidelines among prescribers in primary healthcare facilities in the Dodoma region of Tanzania.
-33760236	Rapid, point-of-care antigen and molecular-based tests for diagnosis of SARS-CoV-2 infection.
