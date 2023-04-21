@@ -1,3 +1,5 @@
+37079901	Design, Rationalization, and Automation of a Catalytic Sensing Mechanism for Homogeneous SERS Biosensors.
+37079536	Predicting microbe organisms using data of living micro forms of life and hybrid microbes classifier.
 37079382	Mycobacterium tuberculosis gene expression associated with fluoroquinolone resistance and efflux pump inhibition.
 37078740	'Eradication was a dirty word': Anti-gambiae campaign, between cooperation and rivalry (1938-1940).
 37077252	Humoral Immune Responses to P. falciparum Circumsporozoite Protein (Pfcsp) Induced by the RTS, S Vaccine - Current Update.
@@ -9995,5 +9997,3 @@
 33758702	Clinicobiochemical Parameters and Predictors of Liver Disease in Hospitalized Asian Indian Pregnant Women in a Tertiary Care Center in Northern India.
 33758520	Willingness to Pay for Childhood Malaria Vaccine Among Caregivers of Under-Five Children in Northwest Ethiopia.
 33758014	Employing learning health system principles to advance research on severe neonatal and paediatric illness in Kenya.
-33757758	Differential diagnosis of Plasmodium falciparum and Plasmodium vivax in mixed infection by colorimetric nanogold probes.
-33757538	Rolling out the radical cure for vivax malaria in Asia: a qualitative study among policy makers and stakeholders.
