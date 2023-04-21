@@ -1,3 +1,8 @@
+37080740	Artificial Intelligence in Point-of-Care Testing.
+37080596	Effects of a Small-Molecule Perforin Inhibitor in a Mouse Model of CD8 T Cell-Mediated Neuroinflammation.
+37081532	Overcoming insecticide resistance in Anopheles mosquitoes by using faster-acting solid forms of deltamethrin.
+37081458	Prevalence of haemosporidia in Asian Glossy Starling with discovery of misbinding of Haemoproteus-specific primer to Plasmodium genera in Sarawak, Malaysian Borneo.
+37080622	SARS-CoV-2 seroprevalence and living conditions in Bamako (Mali): a cross-sectional multistage household survey after the first epidemic wave, 2020.
 37079901	Design, Rationalization, and Automation of a Catalytic Sensing Mechanism for Homogeneous SERS Biosensors.
 37079536	Predicting microbe organisms using data of living micro forms of life and hybrid microbes classifier.
 37079382	Mycobacterium tuberculosis gene expression associated with fluoroquinolone resistance and efflux pump inhibition.
@@ -30,6 +35,7 @@
 37069854	Malaria parasite prevalence in Sub-Saharan African migrants screened in Sweden: a cross-sectional study.
 37069625	Artemisinin derivatives induce oxidative stress leading to DNA damage and caspase-mediated apoptosis in Theileria annulata-transformed cells.
 37069603	Vector competence of Anopheles stephensi for O'nyong-nyong virus: a risk for global virus spread.
+37080831	Modelling the relative cost-effectiveness of the RTS,S/AS01 malaria vaccine compared to investment in vector control or chemoprophylaxis.
 37069405	Malaria in Austria : A retrospective analysis of malaria cases diagnosed at a reference center in 2010-2020.
 37068901	Clinical features, immunological interactions and household determinants of visceral leishmaniasis and malaria coinfections in West Pokot, Kenya: protocol for an observational study.
 37068848	Cost of introducing and delivering malaria vaccine (RTS,S/AS01(E)) in areas of seasonal malaria transmission, Mali and Burkina Faso.
@@ -9991,9 +9997,3 @@
 33761961	A novel fungal metabolite inhibits Plasmodium falciparum transmission and infection.
 33761948	Adherence to standard treatment guidelines among prescribers in primary healthcare facilities in the Dodoma region of Tanzania.
 33760236	Rapid, point-of-care antigen and molecular-based tests for diagnosis of SARS-CoV-2 infection.
-33759519	Discovery of Potent and Fast-Acting Antimalarial Bis-1,2,4-triazines.
-33759513	A Near-Infrared "Matchbox Size" Spectrometer to Detect and Quantify Malaria Parasitemia.
-33758947	Recrudescence of Plasmodium falciparum malaria in a migrant treated by tocilizumab.
-33758702	Clinicobiochemical Parameters and Predictors of Liver Disease in Hospitalized Asian Indian Pregnant Women in a Tertiary Care Center in Northern India.
-33758520	Willingness to Pay for Childhood Malaria Vaccine Among Caregivers of Under-Five Children in Northwest Ethiopia.
-33758014	Employing learning health system principles to advance research on severe neonatal and paediatric illness in Kenya.
