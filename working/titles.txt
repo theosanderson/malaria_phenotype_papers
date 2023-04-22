@@ -1,3 +1,5 @@
+37085893	Socio-demographic and economic inequity in the use of insecticide-treated bed nets during pregnancy: a survey-based case study of four sub-Saharan African countries with a high burden of malaria.
+37085872	Cardiotoxicity of chloroquine and hydroxychloroquine through mitochondrial pathway.
 37084013	Impact of high human genetic diversity in Africa on immunogenicity and efficacy of RTS,S/AS01 vaccine.
 37083479	Analysis of genome instability and implications for the consequent phenotype in Plasmodium falciparum containing mutated MSH2-1 (P513T).
 37083317	Effects of proactive vs fixed community health care delivery on child health and access to care: a cluster randomised trial secondary endpoint analysis.
@@ -28,6 +30,7 @@
 37076740	Optimal Interruption of P. vivax Malaria Transmission Using Mass Drug Administration.
 37076197	Improving coverage of antenatal iron and folic acid supplementation and malaria prophylaxis through targeted information and home deliveries in Côte d'Ivoire: a cluster randomised controlled trial.
 37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the Controlled Human Malaria Infection model.
+37084957	Designing a multi-epitope chimeric protein from different potential targets: A potential vaccine candidate against Plasmodium.
 37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
 37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
 37074847	Infections and mental diseases: from tuberculosis to COVID-19.
@@ -233,6 +236,7 @@
 37004584	Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
 37004489	Transcriptomic analysis of albendazole resistance in human diarrheal parasite Giardia duodenalis.
 37004429	Malaria temporal dynamic clustering for surveillance and intervention planning.
+37085271	The WHO's 75th anniversary: WHO at a pivotal moment in history.
 37002357	Congenital Chagas Disease.
 37001539	Getting health back on the highest political agenda-the UN High-level Meetings on health in 2023.
 37001025	Synthesis and Characterization of Phenylalanine Amides Active against Mycobacterium abscessus and Other Mycobacteria.
@@ -1049,6 +1053,7 @@
 36415884	Critical barriers to sustainable capacity strengthening in global health: a systems perspective on development assistance.
 36720981	Author Correction: Events associated with susceptibility to invasive Salmonella enterica serovar Typhi in BALB/c mice previously infected with Plasmodium berghei ANKA.
 36720922	Machine learning assisted hepta band THz metamaterial absorber for biomedical applications.
+36719458	Individualised dosing of antibiotics in ICU patients: timing, target and model selection matter.
 36718673	Costs of malaria treatment in the United States.
 36718519	SARS-CoV-2 and Plasmodium falciparum coinfection: a case report.
 36718363	Hemisynthetic alkaloids derived from trilobine are antimalarials with sustained activity in multidrug-resistant Plasmodium falciparum.
@@ -1329,6 +1334,7 @@
 36607981	Entomological parameters and population structure at a microgeographic scale of the main Colombian malaria vectors Anopheles albimanus and Anopheles nuneztovari.
 36606712	Solution X-ray scattering highlights discrepancies in Plasmodium multi-aminoacyl-tRNA synthetase complexes.
 36605129	RH5.1-CyRPA-Ripr antigen combination vaccine shows little improvement over RH5.1 in a preclinical setting.
+36604837	Sickle red blood cell-derived extracellular vesicles activate endothelial cells and enhance sickle red cell adhesion mediated by von Willebrand factor.
 36604804	Opportunity in nanomedicine to counter the challenges of current drug delivery approaches used for the treatment of malaria: a review.
 36604693	Estimating population ITN access at council level in Tanzania.
 36604663	Malaria among children under 10 years in 4 endemic health areas in Kisantu Health Zone: epidemiology and transmission.
@@ -9991,9 +9997,3 @@
 33766038	Validation of SYBR green I based closed-tube loop-mediated isothermal amplification (LAMP) assay for diagnosis of knowlesi malaria.
 33765761	Predictors of Bacterial Co-Infection and Outcome in Children with Severe Malaria in Ilorin, Nigeria.
 35586639	[Monitoring the Efficacy of Artemether-Lumefantrine in the Treatment of Uncomplicated Plasmodium Falciparum Malaria by Kelch 13 Gene Mutations in Bangui, Central African Republic].
-33765271	Genome-Wide Ribosome Profiling of the Plasmodium falciparum Intraerythrocytic Developmental Cycle.
-33765017	Asymptomatic Plasmodium infection and associated factors among pregnant women in the Merti district, Oromia, Ethiopia.
-33764971	Novel anti-malarial drug strategies to prevent artemisinin partner drug resistance: A model-based analysis.
-33764679	A false-negative rapid diagnostic malaria test and white blood cell inclusions in a patient with severe Plasmodium falciparum infection.
-33763871	Malaria PK/PD and the Role Pharmacometrics Can Play in the Global Health Arena: Malaria Treatment Regimens for Vulnerable Populations.
-33763689	Trends of the global, regional and national incidence of malaria in 204 countries from 1990 to 2019 and implications for malaria prevention.
