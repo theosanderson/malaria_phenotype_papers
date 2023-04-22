@@ -1,3 +1,4 @@
+37084013	Impact of high human genetic diversity in Africa on immunogenicity and efficacy of RTS,S/AS01 vaccine.
 37083317	Effects of proactive vs fixed community health care delivery on child health and access to care: a cluster randomised trial secondary endpoint analysis.
 37082835	A sting in the tail-are antibodies against the C-terminus of Plasmodium falciparum circumsporozoite protein protective?
 37082831	Molecular and functional properties of human Plasmodium falciparum CSP C-terminus antibodies.
@@ -231,6 +232,7 @@
 37004584	Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
 37004489	Transcriptomic analysis of albendazole resistance in human diarrheal parasite Giardia duodenalis.
 37004429	Malaria temporal dynamic clustering for surveillance and intervention planning.
+37083479	Analysis of genome instability and implications for the consequent phenotype in Plasmodium falciparum containing mutated MSH2-1 (P513T).
 37002357	Congenital Chagas Disease.
 37001539	Getting health back on the highest political agenda-the UN High-level Meetings on health in 2023.
 37001025	Synthesis and Characterization of Phenylalanine Amides Active against Mycobacterium abscessus and Other Mycobacteria.
@@ -9995,5 +9997,3 @@
 33764679	A false-negative rapid diagnostic malaria test and white blood cell inclusions in a patient with severe Plasmodium falciparum infection.
 33763871	Malaria PK/PD and the Role Pharmacometrics Can Play in the Global Health Arena: Malaria Treatment Regimens for Vulnerable Populations.
 33763689	Trends of the global, regional and national incidence of malaria in 204 countries from 1990 to 2019 and implications for malaria prevention.
-33763653	Protein/AS01(B) vaccination elicits stronger, more Th2-skewed antigen-specific human T follicular helper cell responses than heterologous viral vectors.
-33763480	Assessment of Developmental and Reproductive Fitness of Dengue-Resistant Transgenic Aedes aegypti and Improvement of Fitness Using Antibiotics.
