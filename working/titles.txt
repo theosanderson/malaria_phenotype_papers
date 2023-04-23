@@ -1,6 +1,9 @@
-37086730	A new Director for the Global Malaria Programme.
 37087510	Prevalence, trends and associated factors of malaria in the Shai-Osudoku District Hospital, Ghana.
 37087435	PCR-confirmed malaria among children presenting with a decreased level of consciousness in Angola: a prospective, observational study.
+37086937	Upregulation of IL-33, CCL2, and CXCL16 levels in Brazilian pregnant women infected by Toxoplasma gondii.
+37086747	RTS,S/AS01 malaria vaccine-proven safe and effective?
+37086737	Tracking antimalarial drug resistance using mosquito blood meals: a cross-sectional study.
+37086730	A new Director for the Global Malaria Programme.
 37085893	Socio-demographic and economic inequity in the use of insecticide-treated bed nets during pregnancy: a survey-based case study of four sub-Saharan African countries with a high burden of malaria.
 37085872	Cardiotoxicity of chloroquine and hydroxychloroquine through mitochondrial pathway.
 37085271	The WHO's 75th anniversary: WHO at a pivotal moment in history.
@@ -23,7 +26,6 @@
 37080740	Artificial Intelligence in Point-of-Care Testing.
 37080622	SARS-CoV-2 seroprevalence and living conditions in Bamako (Mali): a cross-sectional multistage household survey after the first epidemic wave, 2020.
 37080596	Effects of a Small-Molecule Perforin Inhibitor in a Mouse Model of CD8 T Cell-Mediated Neuroinflammation.
-37086937	Upregulation of IL-33, CCL2, and CXCL16 levels in Brazilian pregnant women infected by Toxoplasma gondii.
 37079901	Design, Rationalization, and Automation of a Catalytic Sensing Mechanism for Homogeneous SERS Biosensors.
 37079536	Predicting microbe organisms using data of living micro forms of life and hybrid microbes classifier.
 37079382	Mycobacterium tuberculosis gene expression associated with fluoroquinolone resistance and efflux pump inhibition.
@@ -36,8 +38,6 @@
 37076740	Optimal Interruption of P. vivax Malaria Transmission Using Mass Drug Administration.
 37076197	Improving coverage of antenatal iron and folic acid supplementation and malaria prophylaxis through targeted information and home deliveries in Côte d'Ivoire: a cluster randomised controlled trial.
 37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the Controlled Human Malaria Infection model.
-37086747	RTS,S/AS01 malaria vaccine-proven safe and effective?
-37086737	Tracking antimalarial drug resistance using mosquito blood meals: a cross-sectional study.
 37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
 37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
 37074847	Infections and mental diseases: from tuberculosis to COVID-19.
