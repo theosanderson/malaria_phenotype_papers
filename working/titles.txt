@@ -1,6 +1,18 @@
-37089824	Comparative assessment of hepatoprotective properties of Artesunate and flavonoids from Artemisia annua on acetaminophen and carbon tetrachloride-induced cytotoxicity in primary mice hepatocytes.
-37091061	Co-infection of COVID-19 and parasitic diseases: A systematic review.
+37093647	Simultaneous adjunctive treatment of malaria and its coevolved genetic disorder sickle cell anemia.
+37093000	Comparative Susceptibility of Plasmodium ovale and Plasmodium falciparum Field Isolates to Reference and Lead Candidate Antimalarial Drugs in Ghana.
 37092310	Plasmodium infection and dysbiosis: A new paradigm in the host-parasite interaction.
+37092107	A world free of malaria: It is time for Africa to actively champion and take leadership of elimination and eradication strategies.
+37091858	Asymptomatic Plasmodium Infection and Associated Factors in Selected Districts of the Kaffa Zone, Southwest Ethiopia: A Cross-Sectional Study.
+37091678	Anti-phosphatidylserine antibody levels are low in multigravid pregnant women in a malaria-endemic area in Nigeria, and do not correlate with anti-VAR2CSA antibodies.
+37091061	Co-infection of COVID-19 and parasitic diseases: A systematic review.
+37090679	Synthetic lethality of Mycobacterium tuberculosis NADH dehydrogenases is due to impaired NADH oxidation.
+37090677	High-throughput phenogenotyping of Mycobacteria tuberculosis clinical strains reveals bacterial determinants of treatment outcomes.
+37090581	Plasmodium falciparum exploits CD44 as a co-receptor for erythrocyte invasion.
+37090522	Current observations on shifts in malaria vector biting behavior and changing vulnerability to malaria transmission in contrasting ecosystems in Western Kenya.
+37090061	Perceptions of sulphadoxine-pyrimethamine use among pregnant women in sub-Saharan Africa: a scoping review.
+37089824	Comparative assessment of hepatoprotective properties of Artesunate and flavonoids from Artemisia annua on acetaminophen and carbon tetrachloride-induced cytotoxicity in primary mice hepatocytes.
+37089787	Effects of public health emergencies of international concern on disease control: a systematic review.
+37089331	Seasonal and spatial variations of malaria transmissions in northwest Ethiopia: Evaluating climate and environmental effects using generalized additive model.
 37088828	Impacts of dual active-ingredient bed nets on the behavioural responses of pyrethroid resistant Anopheles gambiae determined by room-scale infrared video tracking.
 37088361	First molecular documented case of a rarely reported parasite: Plasmodium knowlesi infection in Denmark in a traveller returning from Malaysian Borneo.
 37088154	Characterization of Plasmodium falciparum prohibitins as novel targets to block infection in humans by impairing the growth and transmission of the parasite.
@@ -16,7 +28,6 @@
 37085872	Cardiotoxicity of chloroquine and hydroxychloroquine through mitochondrial pathway.
 37085271	The WHO's 75th anniversary: WHO at a pivotal moment in history.
 37084957	Designing a multi-epitope chimeric protein from different potential targets: A potential vaccine candidate against Plasmodium.
-37089787	Effects of public health emergencies of international concern on disease control: a systematic review.
 37084013	Impact of high human genetic diversity in Africa on immunogenicity and efficacy of RTS,S/AS01 vaccine.
 37083479	Analysis of genome instability and implications for the consequent phenotype in Plasmodium falciparum containing mutated MSH2-1 (P513T).
 37083317	Effects of proactive vs fixed community health care delivery on child health and access to care: a cluster randomised trial secondary endpoint analysis.
@@ -122,7 +133,6 @@
 37049762	Rational Design and Lead Optimisation of Potent Antimalarial Quinazolinediones and Their Cytotoxicity against MCF-7.
 37048057	Cerebral Malaria Model Applying Human Brain Organoids.
 37047683	Distinctive Kaposi Sarcoma-Associated Herpesvirus Serological Profile during Acute Plasmodium falciparum Malaria Episodes.
-37091858	Asymptomatic Plasmodium Infection and Associated Factors in Selected Districts of the Kaffa Zone, Southwest Ethiopia: A Cross-Sectional Study.
 37046281	Community knowledge, attitude and practices regarding zoonotic viral haemorrhagic fevers in five geo-ecological zones in Tanzania.
 37046220	Correction: Anti-inflammatory effect of naringin and sericin combination on human peripheral blood mononuclear cells (hPBMCs) from patient with psoriasis.
 37045885	Chemical composition and repellent activity of essential oils of Tithonia diversifolia (Asteraceae) leaves against the bites of Anopheles coluzzii.
@@ -134,7 +144,6 @@
 37042251	Profiling the imported human malaria in Sarawak, Malaysia in 2011-2019.
 37041799	Elevated Levels of Procoagulant Microvesicles and Tissue-Factor Bearing Microvesicles in Malaria Patients.
 37041693	Malarial retinopathy in a preschool child: A case report with long-term paediatric and ophthamological follow-up.
-37090581	Plasmodium falciparum exploits CD44 as a co-receptor for erythrocyte invasion.
 37041533	Correction: Therapeutic efficacies of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum and chloroquine and dihydroartemisinin-piperaquine for uncomplicated Plasmodium vivax infection in Ethiopia.
 37041516	Facilitators and barriers to seasonal malaria chemoprevention (SMC) uptake in Nigeria: a qualitative approach.
 37041454	Ultrasensitive Reverse Transcriptase Loop-Mediated Isothermal Amplification (US-LAMP)-Based Detection of Malaria Infection from Dried Blood Spots.
@@ -167,9 +176,6 @@
 37034306	Digital dashboards with paradata can improve data quality where disease surveillance relies on real-time data collection.
 37033548	National Malaria Control Program in Bangladesh: 2007-2010.
 36974127	The ability of Anopheles funestus and A. arabiensis to penetrate LLINs and its effect on their mortality.
-37090679	Synthetic lethality of Mycobacterium tuberculosis NADH dehydrogenases is due to impaired NADH oxidation.
-37090677	High-throughput phenogenotyping of Mycobacteria tuberculosis clinical strains reveals bacterial determinants of treatment outcomes.
-37090522	Current observations on shifts in malaria vector biting behavior and changing vulnerability to malaria transmission in contrasting ecosystems in Western Kenya.
 37032389	Phylogenomics revealed migration routes and adaptive radiation timing of Holarctic malaria mosquito species of the Maculipennis Group.
 37032366	Determinants of malaria infections among children in refugee settlements in Uganda during 2018-2019.
 37032336	Development of insecticide-impregnated polyester/cotton blend fabric and assessment of their repellent characteristics against Cimex lectularius and dengue vectors Aedes albopictus and Aedes aegypti.
@@ -214,7 +220,6 @@
 37021639	Future antimalarials from Artemisia? A rationale for natural product mining against drug-refractory Plasmodium stages.
 37021322	The relative effect of climate variability on malaria incidence after scale-up of interventions in western Kenya: A time-series analysis of monthly incidence data from 2008 to 2019.
 37020422	Malaria, a laboratory view.
-37090061	Perceptions of sulphadoxine-pyrimethamine use among pregnant women in sub-Saharan Africa: a scoping review.
 37020052	Identification of Potential Drug Targets in Erythrocyte Invasion Pathway of Plasmodium falciparum.
 37020042	Wakodecaline C, new tetrahydrofuran-fused decalin metabolite isolated from fungus Pyrenochaetopsis sp. RK10-F058.
 37019918	Identification of two insecticide resistance markers in Ethiopian Anopheles stephensi mosquitoes using a multiplex amplicon sequencing assay.
@@ -228,7 +233,6 @@
 37017236	Abnormalities of Kidney Function in Acute Malarial and non-Malarial Infections.
 37017234	Confidence in COVID-19 vaccine effectiveness and safety and its effect on vaccine uptake in Tanzania: A community-based cross-sectional study.
 37017102	Trained immunity from the perspective of Plasmodium Infection.
-37089331	Seasonal and spatial variations of malaria transmissions in northwest Ethiopia: Evaluating climate and environmental effects using generalized additive model.
 37016392	Dihydroartemisinin-piperaquine or sulphadoxine-pyrimethamine for the chemoprevention of malaria in children with sickle cell anaemia in eastern and southern Africa (CHEMCHA): a protocol for a multi-centre, two-arm, double-blind, randomised, placebo-controlled superiority trial.
 37015266	Effect of passive and active ventilation on malaria mosquito house entry and human comfort: an experimental study in rural Gambia.
 37015228	A Plasmodium falciparum lysophospholipase regulates host fatty acid flux via parasite lipid storage to enable controlled asexual schizogony.
@@ -349,7 +353,6 @@
 36974014	[Malaria control knowledge and behaviors and their influencing factors among residents in Banlao Township, Cangyuan County, Yunnan Province].
 36974013	[Establishment and preliminary evaluation of a fluorescent recombinase-aided amplification/CRISPR-Cas12a system for rapid detection of Plasmodium falciparum].
 36974009	[Temporal trends in disease burden of major human parasitic diseases in China from 1990 to 2019].
-37091678	Anti-phosphatidylserine antibody levels are low in multigravid pregnant women in a malaria-endemic area in Nigeria, and do not correlate with anti-VAR2CSA antibodies.
 36973412	Malaria is increasing in Indigenous and artisanal mining areas in the Brazilian Amazon.
 36972695	Case Report: Severe Optic Neuritis after Multiple Episodes of Malaria in a Traveler to Africa.
 36972302	The duplicated P450s CYP6P9a/b drive carbamates and pyrethroids cross-resistance in the major African malaria vector Anopheles funestus.
@@ -1826,7 +1829,6 @@
 36452302	Generation of red blood cells from stem cells: Achievements, opportunities and perspectives for malaria research.
 36451747	Allelic frequencies of mutants of the Plasmodium falciparum, quinoline and folate metabolizing genes in the west region of Cameroon.
 36451216	Therapeutic efficacies of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum and chloroquine and dihydroartemisinin-piperaquine for uncomplicated Plasmodium vivax infection in Ethiopia.
-37092107	A world free of malaria: It is time for Africa to actively champion and take leadership of elimination and eradication strategies.
 36451097	A manually curated annotation characterises genomic features of P. falciparum lncRNAs.
 36449849	Social Reproduction as a methodological perspective for contextualized analysis of living and health conditions.
 36449650	Anti-malarial investigation of Acorus calamus, Dichapetalum gelonioides, and Leucas aspera on Plasmodium falciparum strains.
@@ -9995,5 +9997,3 @@
 33772946	Assessing temperature-dependent competition between two invasive mosquito species.
 33772798	Preventing transfusion-transmitted malaria in France.
 33772349	Diagnostic performance of rapid diagnostic test, light microscopy and polymerase chain reaction during mass survey conducted in low and high malaria-endemic areas from two North-Eastern states of India.
-33771680	Plasmodium UIS3 avoids host cell-autonomous exclusion that requires GABARAPs but not LC3 and autophagy.
-33771262	Detection of kdr and ace-1 mutations in wild populations of Anopheles arabiensis and An. melas in a residual malaria transmission area of Senegal.
