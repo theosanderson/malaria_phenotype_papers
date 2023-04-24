@@ -1,3 +1,4 @@
+37088828	Impacts of dual active-ingredient bed nets on the behavioural responses of pyrethroid resistant Anopheles gambiae determined by room-scale infrared video tracking.
 37087726	Identification of starvation-mimetic bioactive phytocomponent from Withania somnifera using in-silico molecular modelling and flow cytometry-based analysis for the management of malaria.
 37087510	Prevalence, trends and associated factors of malaria in the Shai-Osudoku District Hospital, Ghana.
 37087435	PCR-confirmed malaria among children presenting with a decreased level of consciousness in Angola: a prospective, observational study.
@@ -9,6 +10,8 @@
 37085872	Cardiotoxicity of chloroquine and hydroxychloroquine through mitochondrial pathway.
 37085271	The WHO's 75th anniversary: WHO at a pivotal moment in history.
 37084957	Designing a multi-epitope chimeric protein from different potential targets: A potential vaccine candidate against Plasmodium.
+37088361	First molecular documented case of a rarely reported parasite: Plasmodium knowlesi infection in Denmark in a traveller returning from Malaysian Borneo.
+37088154	Characterization of Plasmodium falciparum prohibitins as novel targets to block infection in humans by impairing the growth and transmission of the parasite.
 37084013	Impact of high human genetic diversity in Africa on immunogenicity and efficacy of RTS,S/AS01 vaccine.
 37083479	Analysis of genome instability and implications for the consequent phenotype in Plasmodium falciparum containing mutated MSH2-1 (P513T).
 37083317	Effects of proactive vs fixed community health care delivery on child health and access to care: a cluster randomised trial secondary endpoint analysis.
@@ -27,6 +30,7 @@
 37080740	Artificial Intelligence in Point-of-Care Testing.
 37080622	SARS-CoV-2 seroprevalence and living conditions in Bamako (Mali): a cross-sectional multistage household survey after the first epidemic wave, 2020.
 37080596	Effects of a Small-Molecule Perforin Inhibitor in a Mouse Model of CD8 T Cell-Mediated Neuroinflammation.
+37088092	Ferric carboxymaltose versus standard-of-care oral iron to treat second-trimester anaemia in Malawian pregnant women: a randomised controlled trial.
 37079901	Design, Rationalization, and Automation of a Catalytic Sensing Mechanism for Homogeneous SERS Biosensors.
 37079536	Predicting microbe organisms using data of living micro forms of life and hybrid microbes classifier.
 37079382	Mycobacterium tuberculosis gene expression associated with fluoroquinolone resistance and efflux pump inhibition.
@@ -9993,7 +9997,3 @@
 33769122	Health and Demographic Surveillance System: A Potential Tool for Solving Challenges Associated with Epidemic Surveillance and Social Protection Scheme for COVID-19 Pandemic Response in Nigeria.
 33768013	Towards a Sustainable Vector-Control Strategy in the Post Kala-Azar Elimination Era.
 33768012	Characterization of Plasmodium falciparum Pantothenate Kinase and Identification of Its Inhibitors From Natural Products.
-33767449	Reducing the price tag on malaria vector control.
-33767384	School-based screening and treatment may reduce P. falciparum transmission.
-33767260	Studies on the mitochondrial, immunological and inflammatory effects of solvent fractions of Diospyros mespiliformis Hochst in Plasmodium berghei-infected mice.
-33767187	The actomyosin interface contains an evolutionary conserved core and an ancillary interface involved in specificity.
