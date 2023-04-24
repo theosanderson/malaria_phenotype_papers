@@ -1,3 +1,4 @@
+37087726	Identification of starvation-mimetic bioactive phytocomponent from Withania somnifera using in-silico molecular modelling and flow cytometry-based analysis for the management of malaria.
 37087510	Prevalence, trends and associated factors of malaria in the Shai-Osudoku District Hospital, Ghana.
 37087435	PCR-confirmed malaria among children presenting with a decreased level of consciousness in Angola: a prospective, observational study.
 37086937	Upregulation of IL-33, CCL2, and CXCL16 levels in Brazilian pregnant women infected by Toxoplasma gondii.
@@ -9996,4 +9997,3 @@
 33767384	School-based screening and treatment may reduce P. falciparum transmission.
 33767260	Studies on the mitochondrial, immunological and inflammatory effects of solvent fractions of Diospyros mespiliformis Hochst in Plasmodium berghei-infected mice.
 33767187	The actomyosin interface contains an evolutionary conserved core and an ancillary interface involved in specificity.
-33766844	Community delivery of malaria intermittent preventive treatment in pregnancy: protocol of a quasi-experimental evaluation through multistage cluster sampling household surveys in four sub-Saharan African countries.
