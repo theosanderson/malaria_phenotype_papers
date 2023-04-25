@@ -1,3 +1,7 @@
+37095480	Perennial malaria chemoprevention with and without malaria vaccination to reduce malaria burden in young children: a modelling analysis.
+37094808	Wind-assisted high-altitude dispersal of mosquitoes and other insects in East Africa.
+37094786	Design, Implementation, and Coordination of Malaria Therapeutic Efficacy Studies in Nigeria in 2018.
+37094783	Association between Livestock Ownership and Malaria Incidence in South-central Ethiopia: A Cohort Study.
 37094110	Structure-Activity Relationships Reveal Beneficial Selectivity Profiles of Inhibitors Targeting Acetylcholinesterase of Disease-Transmitting Mosquitoes.
 37093800	Transport of antibody into the skin is only partially dependent upon the neonatal Fc-receptor.
 37093779	Monoclonal antibody: future of malaria control and prevention.
@@ -9993,7 +9997,3 @@
 33775096	Antimalarial Quinacrine and Chloroquine Lose Their Activity by Decreasing Cationic Amphiphilic Structure with a Slight Decrease in pH.
 33774944	Malaria Endemicity Effect On Covid-19 Pathophysiology: An In-Silico Protein-Protein Interaction Analysis.
 33774908	Characterisation of complexes formed by parasite proteins exported into the host cell compartment of Plasmodium falciparum infected red blood cells.
-33774217	High prevalence of genotypes associated with sulfadoxine/pyrimethamine resistance in the rural area of Fougamou, Gabon.
-33773923	Vaccines - safety in pregnancy.
-33773912	Quality Control of Long-Lasting Insecticidal Nets: Are We Neglecting It?
-33773557	The Proteomics and Metabolomics Analysis for Screening the Molecular Targets of Action of β-Eudesmol in Cholangiocarcinoma.
