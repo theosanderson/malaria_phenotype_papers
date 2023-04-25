@@ -1,7 +1,9 @@
+37095766	Incidence, causes, and risk factors of stillbirth in an Amazonian context: Saint Laurent du Maroni maternity ward 2016-2021.
 37095480	Perennial malaria chemoprevention with and without malaria vaccination to reduce malaria burden in young children: a modelling analysis.
 37094808	Wind-assisted high-altitude dispersal of mosquitoes and other insects in East Africa.
 37094786	Design, Implementation, and Coordination of Malaria Therapeutic Efficacy Studies in Nigeria in 2018.
 37094783	Association between Livestock Ownership and Malaria Incidence in South-central Ethiopia: A Cohort Study.
+37096453	Geospatial modelling of lymphatic filariasis and malaria co-endemicity in Nigeria.
 37094110	Structure-Activity Relationships Reveal Beneficial Selectivity Profiles of Inhibitors Targeting Acetylcholinesterase of Disease-Transmitting Mosquitoes.
 37093800	Transport of antibody into the skin is only partially dependent upon the neonatal Fc-receptor.
 37093779	Monoclonal antibody: future of malaria control and prevention.
@@ -27,6 +29,7 @@
 37087726	Identification of starvation-mimetic bioactive phytocomponent from Withania somnifera using in-silico molecular modelling and flow cytometry-based analysis for the management of malaria.
 37087510	Prevalence, trends and associated factors of malaria in the Shai-Osudoku District Hospital, Ghana.
 37087435	PCR-confirmed malaria among children presenting with a decreased level of consciousness in Angola: a prospective, observational study.
+37087160	Artesunate versus quinine: the controlled trials watershed.
 37086937	Upregulation of IL-33, CCL2, and CXCL16 levels in Brazilian pregnant women infected by Toxoplasma gondii.
 37086747	RTS,S/AS01 malaria vaccine-proven safe and effective?
 37086737	Tracking antimalarial drug resistance using mosquito blood meals: a cross-sectional study.
@@ -270,6 +273,7 @@
 37004584	Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
 37004489	Transcriptomic analysis of albendazole resistance in human diarrheal parasite Giardia duodenalis.
 37004429	Malaria temporal dynamic clustering for surveillance and intervention planning.
+37096145	Examining the Early Distribution of the Artemisinin-Resistant Plasmodium falciparum kelch13 R561H Mutation in Areas of Higher Transmission in Rwanda.
 37002357	Congenital Chagas Disease.
 37001539	Getting health back on the highest political agenda-the UN High-level Meetings on health in 2023.
 37001025	Synthesis and Characterization of Phenylalanine Amides Active against Mycobacterium abscessus and Other Mycobacteria.
@@ -9993,7 +9997,3 @@
 33776664	Mosquito Host Seeking in 3D Using a Versatile Climate-Controlled Wind Tunnel System.
 33775773	Activation of anti-oxidant Keap1/Nrf2 pathway modulates efficacy of dihydroartemisinin-based monotherapy and combinatory therapy with ionizing radiation.
 33775670	Geographical spread and structural basis of sulfadoxine-pyrimethamine drug-resistant malaria parasites.
-33775559	Satellite Observations and Malaria: New Opportunities for Research and Applications.
-33775096	Antimalarial Quinacrine and Chloroquine Lose Their Activity by Decreasing Cationic Amphiphilic Structure with a Slight Decrease in pH.
-33774944	Malaria Endemicity Effect On Covid-19 Pathophysiology: An In-Silico Protein-Protein Interaction Analysis.
-33774908	Characterisation of complexes formed by parasite proteins exported into the host cell compartment of Plasmodium falciparum infected red blood cells.
