@@ -1,3 +1,6 @@
+37094110	Structure-Activity Relationships Reveal Beneficial Selectivity Profiles of Inhibitors Targeting Acetylcholinesterase of Disease-Transmitting Mosquitoes.
+37093800	Transport of antibody into the skin is only partially dependent upon the neonatal Fc-receptor.
+37093779	Monoclonal antibody: future of malaria control and prevention.
 37093647	Simultaneous adjunctive treatment of malaria and its coevolved genetic disorder sickle cell anemia.
 37093000	Comparative Susceptibility of Plasmodium ovale and Plasmodium falciparum Field Isolates to Reference and Lead Candidate Antimalarial Drugs in Ghana.
 37092310	Plasmodium infection and dysbiosis: A new paradigm in the host-parasite interaction.
@@ -9994,6 +9997,3 @@
 33773923	Vaccines - safety in pregnancy.
 33773912	Quality Control of Long-Lasting Insecticidal Nets: Are We Neglecting It?
 33773557	The Proteomics and Metabolomics Analysis for Screening the Molecular Targets of Action of β-Eudesmol in Cholangiocarcinoma.
-33772946	Assessing temperature-dependent competition between two invasive mosquito species.
-33772798	Preventing transfusion-transmitted malaria in France.
-33772349	Diagnostic performance of rapid diagnostic test, light microscopy and polymerase chain reaction during mass survey conducted in low and high malaria-endemic areas from two North-Eastern states of India.
