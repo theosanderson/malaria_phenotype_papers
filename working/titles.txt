@@ -1,3 +1,6 @@
+37099129	Curcumin attenuates hydroxychloroquine-mediated apoptosis and oxidative stress via the inhibition of TRPM2 channel signalling pathways in a retinal pigment epithelium cell line.
+37099049	First evidence for development of Plasmodium relictum (Grassi and Feletti, 1891) sporozoites in the salivary glands of Culex modestus Ficalbi, 1889.
+37098950	Modified Plasmodium falciparum Ring-Stage Survival Assay with ML10 Kinase Inhibitor.
 37098566	Associations between the use of insecticide-treated nets in early childhood and educational outcomes, marriage and child-bearing in early adulthood: evidence from a 22-year prospective cohort study in Tanzania.
 37098534	Differential transmissibility to Anopheles arabiensis of Plasmodium vivax gametocytes in patients with diverse Duffy blood group genotypes.
 37098510	Treatment of uncomplicated Plasmodium vivax with chloroquine plus radical cure with primaquine without G6PDd testing is safe in Arba Minch, Ethiopia: assessment of clinical and parasitological response.
@@ -9994,6 +9997,3 @@
 33781183	Overview of Natural Antiplasmodials from the Last Decade to Inspire Medicinal Chemistry.
 33781073	Tracing Ocular Conditions in 15,921 Interwar Refugees, Veria, Greece (1926-1940).
 33780902	Chloroquine and hydroxychloroquine ototoxicity; potential implications for SARS-CoV-2 treatment. A brief review of the literature.
-33780700	Dissection of haplotype-specific drug response phenotypes in multiclonal malaria isolates.
-33780462	Attendee's awareness about preventive chemotherapy neglected tropical diseases (PC-NTD) control during the first world neglected tropical diseases day in Ekiti State, Nigeria.
-33780144	Perceptions and beliefs about anaemia: A qualitative study in three agroecological regions of Ghana.
