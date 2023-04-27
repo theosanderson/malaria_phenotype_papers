@@ -1,3 +1,8 @@
+37101295	Retinal imaging technologies in cerebral malaria: a systematic review.
+37101269	An archetypes approach to malaria intervention impact mapping: a new framework and example application.
+37101146	Application of mathematical modelling to inform national malaria intervention planning in Nigeria.
+37100721	Extending the range of Plasmodium falciparum transmission blocking antibodies.
+37100163	Imported malaria from land bordering countries in China: A challenge in preventing the reestablishment of malaria transmission.
 37099752	Correction: Health worker compliance with severe malaria treatment guidelines in the context of implementing pre-referral rectal artesunate in the Democratic Republic of the Congo, Nigeria, and Uganda: An operational study.
 37099129	Curcumin attenuates hydroxychloroquine-mediated apoptosis and oxidative stress via the inhibition of TRPM2 channel signalling pathways in a retinal pigment epithelium cell line.
 37099049	First evidence for development of Plasmodium relictum (Grassi and Feletti, 1891) sporozoites in the salivary glands of Culex modestus Ficalbi, 1889.
@@ -9992,8 +9997,3 @@
 33782208	A Bead-Based Assay for the Detection of Antibodies against Trichinella spp. Infection in Humans.
 33782151	Combination Adjuvants Affect the Magnitude of Effector-Like Memory CD8 T Cells and Protection against Listeriosis.
 33781967	Human leukocyte antigen (HLA)-F and -G gene polymorphisms and haplotypes are associated with malaria susceptibility in the Beninese Toffin children.
-33781904	COVID-19 and syndemic challenges in 'Battling the Big Three': HIV, TB and malaria.
-33781261	The consequences of declining population access to insecticide-treated nets (ITNs) on net use patterns and physical degradation of nets after 22 months of ownership.
-33781254	Systematic identification of plausible pathways to potential harm via problem formulation for investigational releases of a population suppression gene drive to control the human malaria vector Anopheles gambiae in West Africa.
-33781183	Overview of Natural Antiplasmodials from the Last Decade to Inspire Medicinal Chemistry.
-33781073	Tracing Ocular Conditions in 15,921 Interwar Refugees, Veria, Greece (1926-1940).
