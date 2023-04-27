@@ -1,3 +1,7 @@
+37104019	Serological Cross-Reaction between Six Thiadiazine by Indirect ELISA Test and Their Antimicrobial Activity.
+37103994	Spatiotemporal and Seasonal Trends of Class A and B Notifiable Infectious Diseases in China: Retrospective Analysis.
+37103365	Marine-Derived Lead Fascaplysin: Pharmacological Activity, Total Synthesis, and Structural Modification.
+37102486	A Quinquennial Review on Recent Advancements and Developments in Search of Anti- malarial Agents.
 37102339	Knockdown of Anopheles dirus far upstream element-binding protein gene lower oocyst numbers of Plasmodium vivax.
 37101295	Retinal imaging technologies in cerebral malaria: a systematic review.
 37101269	An archetypes approach to malaria intervention impact mapping: a new framework and example application.
@@ -9993,7 +9997,3 @@
 33785632	Phylogenomics Reveals that Asaia Symbionts from Insects Underwent Convergent Genome Reduction, Preserving an Insecticide-Degrading Gene.
 33783842	Assessment of immunity against Yellow Fever virus infections in northeastern Nigeria using three serological assays.
 33782439	Blood donor variability is a modulatory factor for P. falciparum invasion phenotyping assays.
-33782210	Atovaquone/Proguanil Resistance in an Imported Malaria Case in Chile.
-33782209	The Epidemiology of Plasmodium falciparum Malaria in the Bijagos Islands of Guinea-Bissau.
-33782208	A Bead-Based Assay for the Detection of Antibodies against Trichinella spp. Infection in Humans.
-33782151	Combination Adjuvants Affect the Magnitude of Effector-Like Memory CD8 T Cells and Protection against Listeriosis.
