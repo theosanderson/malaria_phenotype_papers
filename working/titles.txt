@@ -1,3 +1,15 @@
+37104477	Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia.
+37104473	Urban malaria may be spreading via the wind-here's why that's important.
+37104360	Synthesis of Qualitative Evidence on Malaria in Pregnancy, 2005-2022: A Systematic Review.
+37104342	Evaluating COVID-19-Related Disruptions to Effective Malaria Case Management in 2020-2021 and Its Potential Effects on Malaria Burden in Sub-Saharan Africa.
+37104341	A Multi-Species Simulation of Mosquito Disease Vector Development in Temperate Australian Tidal Wetlands Using Publicly Available Data.
+37104336	Genetic Diversity of Plasmodium vivax Field Isolates from the Thai-Myanmar Border during the Period of 2006-2016.
+37104327	The Promise and Challenge of Genetic Biocontrol Approaches for Malaria Elimination.
+37104326	Point-of-Care Diagnosis of Malaria Using a Simple, Purification-Free DNA Extraction Method Coupled with Loop-Mediated Isothermal Amplification-Lateral Flow.
+37104321	Feasibility and Acceptability of a Strategy Deploying Multiple First-Line Artemisinin-Based Combination Therapies for Uncomplicated Malaria in the Health District of Kaya, Burkina Faso.
+37104316	Association between Rhesus Blood Groups and Malaria Infection: A Systematic Review and Meta-Analysis.
+37104310	Drug Resistance Molecular Markers of Plasmodium falciparum and Severity of Malaria in Febrile Children in the Sentinel Site for Malaria Surveillance of Melen in Gabon: Additional Data from the Plasmodium Diversity Network African Network.
+37104305	Permethrin-treated baby wraps for the prevention of malaria in children: Protocol for a double-blind, randomized placebo-controlled controlled trial in western Uganda.
 37104019	Serological Cross-Reaction between Six Thiadiazine by Indirect ELISA Test and Their Antimicrobial Activity.
 37103994	Spatiotemporal and Seasonal Trends of Class A and B Notifiable Infectious Diseases in China: Retrospective Analysis.
 37103365	Marine-Derived Lead Fascaplysin: Pharmacological Activity, Total Synthesis, and Structural Modification.
@@ -171,7 +183,7 @@
 37046220	Correction: Anti-inflammatory effect of naringin and sericin combination on human peripheral blood mononuclear cells (hPBMCs) from patient with psoriasis.
 37045885	Chemical composition and repellent activity of essential oils of Tithonia diversifolia (Asteraceae) leaves against the bites of Anopheles coluzzii.
 37045879	Factors hindering coverage of targeted mass treatment with primaquine in a malarious township of northern Myanmar in 2019-2020.
-37043542	Genomic analysis of two phlebotomine sand fly vectors of leishmania from the new and old World.
+37043542	Genomic analysis of two phlebotomine sand fly vectors of Leishmania from the New and Old World.
 37042866	Epilepsy in Niger: An overview of the current situation.
 37042534	Building Integrated Testing Programs for Infectious Diseases.
 37042518	Modelling the impact of a highly potent Plasmodium falciparum transmission-blocking monoclonal antibody in areas of seasonal malaria transmission.
@@ -9985,15 +9997,3 @@
 33790370	Comparison of platforms for testing antibodies to Chlamydia trachomatis antigens in the Democratic Republic of the Congo and Togo.
 33790018	Direct single-molecule imaging for diagnostic and blood screening assays.
 33789984	Inclusion of an Optimized Plasmodium falciparum Merozoite Surface Protein 2-Based Antigen in a Trivalent, Multistage Malaria Vaccine.
-33789941	Additional Feeding Reveals Differences in Immune Recognition and Growth of Plasmodium Parasites in the Mosquito Host.
-33789866	The role of governance in implementing sustainable global health interventions: review of health system integration for integrated community case management (iCCM) of childhood illnesses.
-33789694	Private health care market shaping and changes in inequities in childhood diarrhoea treatment coverage: evidence from the analysis of baseline and endline surveys of an ORS and zinc scale-up program in Nigeria.
-33789667	Drug resistance profile and clonality of Plasmodium falciparum parasites in Cape Verde: the 2017 malaria outbreak.
-33789139	Evaluation of ethnopharmacologically selected Vitex negundo L. for In vitro antimalarial activity and secondary metabolite profiling.
-33787719	Atovaquone, chloroquine, primaquine, quinine and tetracycline: antiproliferative effects of relevant antimalarials on Neospora caninum.
-33787077	Motile mosquito stage malaria parasites: ready for their close-up.
-33787064	Optimizing HIV retesting during pregnancy and postpartum in four countries: a cost-effectiveness analysis.
-33786046	Activities of Andrographis paniculata (AS201-01) Tablet on Cox-2 and Prostaglandin Expression of Placental of Plasmodium berghei Infected Mice.
-33785632	Phylogenomics Reveals that Asaia Symbionts from Insects Underwent Convergent Genome Reduction, Preserving an Insecticide-Degrading Gene.
-33783842	Assessment of immunity against Yellow Fever virus infections in northeastern Nigeria using three serological assays.
-33782439	Blood donor variability is a modulatory factor for P. falciparum invasion phenotyping assays.
