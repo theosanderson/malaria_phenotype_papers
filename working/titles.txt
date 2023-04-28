@@ -1,5 +1,25 @@
-37105620	Recombinant expression and characterization of GSTd3 from a resistant population of Anopheles arabiensis and comparison of DDTase activity with GSTe2.
+37112979	Virulence Profiles of Wild-Type, P.1 and Delta SARS-CoV-2 Variants in K18-hACE2 Transgenic Mice.
+37112878	Antibody Response to the SARS-CoV-2 Spike and Nucleocapsid Proteins in Patients with Different COVID-19 Clinical Profiles.
+37112866	Thrombophilia and Immune-Related Genetic Markers in Long COVID.
+37112704	A Critical Review on Human Malaria and Schistosomiasis Vaccines: Current State, Recent Advancements, and Developments.
+37111735	Predicting Hydroxychloroquine Clearance in Healthy and Diseased Populations Using a Physiologically Based Pharmacokinetic Approach.
+37111706	Establishment of an Antiplasmodial Vaccine Based on PfRH5-Encoding RNA Replicons Stabilized by Cationic Liposomes.
+37111647	Antiplasmodial Activity of Hydroalcoholic Extract from Jucá (Libidibia ferrea) Pods.
+37111562	Estimation of Pediatric Dosage of Antimalarial Drugs, Using Pharmacokinetic and Physiological Approach.
+37111431	Novel Experimental Mouse Model to Study Malaria-Associated Acute Kidney Injury.
+37111408	Pathogenesis of Cerebral Malaria: New Trends and Insights for Developing Adjunctive Therapies.
+37111366	Curcumin and Its Derivatives as Potential Antimalarial and Anti-Inflammatory Agents: A Review on Structure-Activity Relationship and Mechanism of Action.
+37111135	Correlation of Cytokines with Parasitic Infections, Undernutrition and Micronutrient Deficiency among Schoolchildren in Rural Tanzania: A Cross-Sectional Study.
+37110591	Computational Exploration of Licorice for Lead Compounds against Plasmodium vivax Duffy Binding Protein Utilizing Molecular Docking and Molecular Dynamic Simulation.
+37110346	Pediatric Malaria with Respiratory Distress: Prognostic Significance of Point-of-Care Lactate.
+37110135	In Vitro Evaluation Reveals Effect and Mechanism of Artemether against Toxoplasma gondii.
+37108709	Sickle Cell Hemoglobin Genotypes Affect Malaria Parasite Growth and Correlate with Exosomal miR-451a and let-7i-5p Levels.
+37108438	Changes in K(+) Concentration as a Signaling Mechanism in the Apicomplexa Parasites Plasmodium and Toxoplasma.
+37108334	Prenyl Transferases Regulate Secretory Protein Sorting and Parasite Morphology in Toxoplasma gondii.
+37108083	Structure-Based Design and Pharmacophore-Based Virtual Screening of Combinatorial Library of Triclosan Analogues Active against Enoyl-Acyl Carrier Protein Reductase of Plasmodium falciparum with Favourable ADME Profiles.
+37108071	Microvascular Environment Influences Brain Microvascular Heterogeneity: Relative Roles of Astrocytes and Oligodendrocytes for the EPCR Expression in the Brain Endothelium.
 37106350	Reactive surveillance and response strategies for malaria elimination in Myanmar: a literature review.
+37105620	Recombinant expression and characterization of GSTd3 from a resistant population of Anopheles arabiensis and comparison of DDTase activity with GSTe2.
 37104477	Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia.
 37104473	Urban malaria may be spreading via the wind-here's why that's important.
 37104360	Synthesis of Qualitative Evidence on Malaria in Pregnancy, 2005-2022: A Systematic Review.
@@ -9977,23 +9997,3 @@
 33794272	Artemether and lumefantrine dissolving microneedle patches with improved pharmacokinetic performance and antimalarial efficacy in mice infected with Plasmodium yoelii.
 33793667	Transport mechanisms at the malaria parasite-host cell interface.
 33793652	HIV epidemic in fishing communities in Uganda: A scoping review.
-33793584	A systematic review and meta-analysis of asymptomatic malaria infection in pregnant women in Sub-Saharan Africa: A challenge for malaria elimination efforts.
-33793565	Localized skin inflammation during cutaneous leishmaniasis drives a chronic, systemic IFN-γ signature.
-33793564	Using Hawkes Processes to model imported and local malaria cases in near-elimination settings.
-33792339	Exploring Heteroaromatic Rings as a Replacement for the Labile Amide of Antiplasmodial Pantothenamides.
-33792134	Alarming rates of virological failure and HIV-1 drug resistance amongst adolescents living with perinatal HIV in both urban and rural settings: evidence from the EDCTP READY-study in Cameroon.
-33791994	Functional Food for the Stimulation of the Immune System Against Malaria.
-33791321	Assessment of Malaria Microscopy Competency at Primary Health Institutions in the Chongqing Municipality.
-33791240	Identification of Three Novel Plasmodium Factors Involved in Ookinete to Oocyst Developmental Transition.
-33791239	The Interface Between Inflammatory Mediators and MicroRNAs in Plasmodium vivax Severe Thrombocytopenia.
-33791230	Chloroquine, an Anti-Malaria Drug as Effective Prevention for Hantavirus Infections.
-33791218	The Protozoan Inhibitor Atovaquone Affects Mitochondrial Respiration and Shows In Vitro Efficacy Against Glucocorticoid-Resistant Cells in Childhood B-Cell Acute Lymphoblastic Leukaemia.
-33791148	Artesunate induces ER-derived-ROS-mediated cell death by disrupting labile iron pool and iron redistribution in hepatocellular carcinoma cells.
-33791095	Malawian children with chest-indrawing pneumonia with and without comorbidities or danger signs.
-33791093	Does integrated community case management (iCCM) target health inequities and treatment delays? Evidence from an analysis of Demographic and Health Surveys data from 21 countries in the period 2010 to 2018.
-33790894	Poor Birth Outcomes in Malaria in Pregnancy: Recent Insights Into Mechanisms and Prevention Approaches.
-33790879	The Knockout for G Protein-Coupled Receptor-Like PfSR25 Increases the Susceptibility of Malaria Parasites to the Antimalarials Lumefantrine and Piperaquine but Not to Medicine for Malaria Venture Compounds.
-33790795	G6PD Variants and Haemolytic Sensitivity to Primaquine and Other Drugs.
-33790659	Prevalence and Socioeconomic Inequalities in Eight or More Antenatal Care Contacts in Ghana: Findings from 2019 Population-Based Data.
-33790470	Structural basis of malaria RIFIN binding by LILRB1-containing antibodies.
-33790370	Comparison of platforms for testing antibodies to Chlamydia trachomatis antigens in the Democratic Republic of the Congo and Togo.
