@@ -1,3 +1,5 @@
+37106350	Reactive surveillance and response strategies for malaria elimination in Myanmar: a literature review.
+37105620	Recombinant expression and characterization of GSTd3 from a resistant population of Anopheles arabiensis and comparison of DDTase activity with GSTe2.
 37104477	Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia.
 37104473	Urban malaria may be spreading via the wind-here's why that's important.
 37104360	Synthesis of Qualitative Evidence on Malaria in Pregnancy, 2005-2022: A Systematic Review.
@@ -9995,5 +9997,3 @@
 33790659	Prevalence and Socioeconomic Inequalities in Eight or More Antenatal Care Contacts in Ghana: Findings from 2019 Population-Based Data.
 33790470	Structural basis of malaria RIFIN binding by LILRB1-containing antibodies.
 33790370	Comparison of platforms for testing antibodies to Chlamydia trachomatis antigens in the Democratic Republic of the Congo and Togo.
-33790018	Direct single-molecule imaging for diagnostic and blood screening assays.
-33789984	Inclusion of an Optimized Plasmodium falciparum Merozoite Surface Protein 2-Based Antigen in a Trivalent, Multistage Malaria Vaccine.
