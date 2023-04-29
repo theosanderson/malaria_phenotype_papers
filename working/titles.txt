@@ -1,3 +1,7 @@
+37118364	RNA sequencing in Artemisia annua L explored the genetic and metabolic responses to hardly soluble aluminum phosphate treatment.
+37117399	pWCP is a widely distributed and highly conserved Wolbachia plasmid in Culex pipiens and Culex quinquefasciatus mosquitoes worldwide.
+37117261	Ancient DNA suggests anaemia and low bone mineral density as the cause for porotic hyperostosis in ancient individuals.
+37116732	Molecular and cellular effects of in vivo chronic intravascular hemolysis and anti-inflammatory therapeutic approaches.
 37116195	Antimalarial potential, LC-MS secondary metabolite profiling and computational studies of Zingiber officinale.
 37115773	Mathematical modeling of the performance of wild and transgenic mosquitoes in malaria transmission.
 37112979	Virulence Profiles of Wild-Type, P.1 and Delta SARS-CoV-2 Variants in K18-hACE2 Transgenic Mice.
@@ -9993,7 +9997,3 @@
 33795465	Preparing Children for International Travel.
 33794978	H3K36 methylation reprograms gene expression to drive early gametocyte development in Plasmodium falciparum.
 33794965	Evaluation of Mosquito Magnet and other collection tools for Anopheles mosquito vectors of simian malaria.
-33794897	Efficacy and safety of dihydroartemisinin-piperaquine versus artemether-lumefantrine for treatment of uncomplicated Plasmodium falciparum malaria in Ugandan children: a systematic review and meta-analysis of randomized control trials.
-33794895	Improvement of SCD morbimortality in children: experience in a remote area of an African country.
-33794892	Retrospective evaluation of the effectiveness of indoor residual spray with pirimiphos-methyl (Actellic) on malaria transmission in Zambia.
-33794272	Artemether and lumefantrine dissolving microneedle patches with improved pharmacokinetic performance and antimalarial efficacy in mice infected with Plasmodium yoelii.
