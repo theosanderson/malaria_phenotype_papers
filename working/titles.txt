@@ -1,3 +1,5 @@
+37116195	Antimalarial potential, LC-MS secondary metabolite profiling and computational studies of Zingiber officinale.
+37115773	Mathematical modeling of the performance of wild and transgenic mosquitoes in malaria transmission.
 37112979	Virulence Profiles of Wild-Type, P.1 and Delta SARS-CoV-2 Variants in K18-hACE2 Transgenic Mice.
 37112878	Antibody Response to the SARS-CoV-2 Spike and Nucleocapsid Proteins in Patients with Different COVID-19 Clinical Profiles.
 37112866	Thrombophilia and Immune-Related Genetic Markers in Long COVID.
@@ -9995,5 +9997,3 @@
 33794895	Improvement of SCD morbimortality in children: experience in a remote area of an African country.
 33794892	Retrospective evaluation of the effectiveness of indoor residual spray with pirimiphos-methyl (Actellic) on malaria transmission in Zambia.
 33794272	Artemether and lumefantrine dissolving microneedle patches with improved pharmacokinetic performance and antimalarial efficacy in mice infected with Plasmodium yoelii.
-33793667	Transport mechanisms at the malaria parasite-host cell interface.
-33793652	HIV epidemic in fishing communities in Uganda: A scoping review.
