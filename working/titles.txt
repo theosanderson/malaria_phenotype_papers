@@ -1,3 +1,6 @@
+37119244	Evaluation of quantitative point-of-care test for measurement of glucose-6-phosphate dehydrogenase enzyme activity in Malaysia.
+37118968	A linked physiologically based pharmacokinetic model for hydroxychloroquine and metabolite desethylhydroxychloroquine in SARS-CoV-2(-)/(+) populations.
+37118819	Bispecific T cell-engager targeting oncofetal chondroitin sulfate induces complete tumor regression and protective immune memory in mice.
 37118364	RNA sequencing in Artemisia annua L explored the genetic and metabolic responses to hardly soluble aluminum phosphate treatment.
 37117399	pWCP is a widely distributed and highly conserved Wolbachia plasmid in Culex pipiens and Culex quinquefasciatus mosquitoes worldwide.
 37117261	Ancient DNA suggests anaemia and low bone mineral density as the cause for porotic hyperostosis in ancient individuals.
@@ -9994,6 +9997,3 @@
 33796178	[Malaria infection during pregnancy in Niamey, Niger].
 33795798	Multimodal synergisms in host stimuli drive landing response in malaria mosquitoes.
 33795695	A VLP for validation of the Plasmodium falciparum circumsporozoite protein junctional epitope for vaccine development.
-33795465	Preparing Children for International Travel.
-33794978	H3K36 methylation reprograms gene expression to drive early gametocyte development in Plasmodium falciparum.
-33794965	Evaluation of Mosquito Magnet and other collection tools for Anopheles mosquito vectors of simian malaria.
