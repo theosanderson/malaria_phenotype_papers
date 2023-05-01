@@ -1,3 +1,17 @@
+37125449	Status of blood levels of superoxide dismutase in patients with malaria: A systematic review and meta-analysis.
+37124936	Perceived Health System Challenges of Implementing Cross-Border Malaria Preventive Measures at Ports of Entry in KwaZulu-Natal.
+37124906	Applying Intervention-Mapping Approach to Develop a Health-Related Intervention and Malaria Prevention for International Students.
+37124770	Born too soon in a resource-limited setting: A 10-year mixed methods review of a special care baby unit for refugees and migrants on the Myanmar-Thailand border.
+37124090	Population structure and invasion history of Aedes aegypti (Diptera: Culicidae) in Southeast Asia and Australasia.
+37124088	Insecticide resistance management strategies for public health control of mosquitoes exhibiting polygenic resistance: A comparison of sequences, rotations, and mixtures.
+37124034	Characterization of anti-erythrocyte and anti-platelet antibodies in hemolytic anemia and thrombocytopenia induced by Plasmodium spp. and Babesiaspp. infection in mice.
+37123939	Malaria prevalence in Pakistan: A systematic review and meta-analysis (2006-2021).
+37123576	Pelvic Ultrasound Imaging-Based Prevalence of Gynecological Morbidity in a Population of Asymptomatic Reproductive-Age Women Attending a Healthcare Outreach Program in the Andaman and Nicobar Islands of India.
+37122755	Editorial: Interactions between COVID-19 and malaria.
+37122742	The influence of high glucose conditions on macrophages and its effect on the autophagy pathway.
+37122725	Characterization of a novel Plasmodium falciparum merozoite surface antigen and potential vaccine target.
+37122550	Dimeric polyphenols to pave the way for new antimalarial drugs.
+37122241	Effect of α(+) Thalassemia on the Severity of Plasmodium falciparum Malaria in Different Sickle Cell Genotypes in Indian Adults: A Hospital-Based Study.
 37121914	Association between vitamin D status and eryptosis-results from the German National Cohort Study.
 37121862	The role of long noncoding RNAs in malaria parasites.
 37121409	New antiprotozoal sesquiterpene derivatives from Dorema glabrum Fisch & C.A.Mey.
@@ -9983,17 +9997,3 @@
 33801005	Prevalence of Anemia, Iron-Deficiency Anemia, and Associated Factors among Children Aged 1-5 Years in the Rural, Malaria-Endemic Setting of Popokabaka, Democratic Republic of Congo: A Cross-Sectional Study.
 33800295	Compensatory Base Changes Reveal Sexual Incompatibility among Members of the Anopheles subpictus Sensu Lato (Diptera: Culicidae) Species Complex in Sri Lanka.
 33800005	Temperate Zone Plant Natural Products-A Novel Resource for Activity against Tropical Parasitic Diseases.
-33799921	Impact of Annual Albendazole versus Four-Monthly Test-and-Treat Approach of Intestinal Parasites on Children Growth-A Longitudinal Four-Arm Randomized Parallel Trial during Two Years of a Community Follow-Up in Bengo, Angola.
-33799736	Plasmodium chabaudi Infection Alters Intestinal Morphology and Mucosal Innate Immunity in Moderately Malnourished Mice.
-33798757	Genotyping of Entamoeba nuttalli strains from the wild rhesus macaques of Myanmar and comparison with those from the wild rhesus macaques of Nepal and China.
-33798560	A review of combination adjuvants for malaria vaccines: a promising approach for vaccine development.
-33798555	IL-4Rα signaling by CD8α(+) dendritic cells contributes to cerebral malaria by enhancing inflammatory, Th1, and cytotoxic CD8(+) T cell responses.
-33798247	The ESCRT-III machinery participates in the production of extracellular vesicles and protein export during Plasmodium falciparum infection.
-33797643	Recent Advances in the Chemistry and Pharmacology of Cryptolepine.
-33797613	Erythrocyte membrane proteins involved in the immune response to Plasmodium falciparum and Plasmodium vivax infection.
-33797609	Prevalence and molecular identification of Leucocytozoon spp. in fighting cocks (Gallus gallus) in Thailand.
-33797545	Inhibition of Activin A suppressed tumor necrosis factor-α secretion and improved histopathological conditions in malarial mice.
-33797521	Complications of Sub-microscopic Plasmodium vivax Malaria among Orang Asli in Pos Lenjang, Kuala Lipis.
-33797518	Epidemiology of falciparum malaria among residents of some rural and periurban communities in Ekiti State, Southwestern Nigeria.
-33796578	Plasmodium matutinum Transmitted by Culex pipiens as a Cause of Avian Malaria in Captive African Penguins (Spheniscus demersus) in Italy.
-33796476	Antibodies Against the Plasmodium vivax Apical Membrane Antigen 1 From the Belem Strain Share Common Epitopes Among Other Worldwide Variants.
