@@ -1,3 +1,6 @@
+37121914	Association between vitamin D status and eryptosis-results from the German National Cohort Study.
+37121862	The role of long noncoding RNAs in malaria parasites.
+37121409	New antiprotozoal sesquiterpene derivatives from Dorema glabrum Fisch & C.A.Mey.
 37120518	CDC light traps underestimate the protective efficacy of an indoor spatial repellent against bites from wild Anopheles arabiensis mosquitoes in Tanzania.
 37119859	Bioactivity assays and phytochemical analysis upon Alcea glabrata; focusing on xanthine oxidase inhibitory and antimalarial properties.
 37119244	Evaluation of quantitative point-of-care test for measurement of glucose-6-phosphate dehydrogenase enzyme activity in Malaysia.
@@ -355,7 +358,7 @@
 36997790	The synergistic effect of climatic factors on malaria transmission: a predictive approach for northeastern states of India.
 36997768	Therapeutic perspective for children and young adults living with thalassemia and sickle cell disease.
 36997532	Cryo-tomography reveals rigid-body motion and organization of apicomplexan invasion machinery.
-36997087	Maturation of the Malarial Phosphatidylserine Decarboxylase is Mediated by High Affinity Binding to Anionic Phospholipids.
+36997087	Maturation of the malarial phosphatidylserine decarboxylase is mediated by high affinity binding to anionic phospholipids.
 36997012	Residual malaria transmission: Magnitude and drivers of persistent Plasmodium infections despite high coverage of control interventions in Burkina Faso, West Africa.
 36996716	Falcipains: Biochemistry, target validation and structure-activity relationship studies of inhibitors as antimalarials.
 36996035	Same, same but different: Exploring Plasmodium cell division during liver stage development.
@@ -9994,6 +9997,3 @@
 33797518	Epidemiology of falciparum malaria among residents of some rural and periurban communities in Ekiti State, Southwestern Nigeria.
 33796578	Plasmodium matutinum Transmitted by Culex pipiens as a Cause of Avian Malaria in Captive African Penguins (Spheniscus demersus) in Italy.
 33796476	Antibodies Against the Plasmodium vivax Apical Membrane Antigen 1 From the Belem Strain Share Common Epitopes Among Other Worldwide Variants.
-33796340	The Burden of Drug Abuse in Nigeria: A Scoping Review of Epidemiological Studies and Drug Laws.
-33796319	Microbial biodiversity of natural toothbrushes in Mali.
-33796178	[Malaria infection during pregnancy in Niamey, Niger].
