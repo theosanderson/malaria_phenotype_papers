@@ -1,3 +1,4 @@
+37129519	Impact, health care utilization, and costs of travel-associated mosquito-borne diseases in international travellers: a prospective study.
 37128324	Transcranial doppler velocities in a large healthy population of African children.
 37128161	Intergenerational sex and early sexual debut are associated with HIV infection among transgender women in Paraguay.
 37127689	Altering of the sprayed wall after indoor residual spraying and associated factors among households in Boricha district, Sidama regional state, Ethiopia, 2019: community-based cross-sectional study.
@@ -9996,4 +9997,3 @@
 33806071	Population Dynamics and Insecticide Susceptibility of Anopheles culicifacies in Malaria Endemic Districts of Chhattisgarh, India.
 33806066	Field Performances of Rapid Diagnostic Tests Detecting Human Plasmodium Species: A Systematic Review and Meta-Analysis in India, 1990-2020.
 33805935	Antiplasmodial Compounds from Deep-Water Marine Invertebrates.
-33805223	QSAR and Pharmacophore Modeling of Nitrogen Heterocycles as Potent Human N-Myristoyltransferase (Hs-NMT) Inhibitors.
