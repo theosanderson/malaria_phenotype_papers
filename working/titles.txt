@@ -1,3 +1,5 @@
+37128324	Transcranial doppler velocities in a large healthy population of African children.
+37128161	Intergenerational sex and early sexual debut are associated with HIV infection among transgender women in Paraguay.
 37127689	Altering of the sprayed wall after indoor residual spraying and associated factors among households in Boricha district, Sidama regional state, Ethiopia, 2019: community-based cross-sectional study.
 37127688	Plasmodium falciparum gametocyte carriage in longitudinally monitored incident infections is associated with duration of infection and human host factors.
 37127669	Plasmodium falciparum kelch13 polymorphisms identified after treatment failure with artemisinin-based combination therapy in Niger.
@@ -9995,5 +9997,3 @@
 33806066	Field Performances of Rapid Diagnostic Tests Detecting Human Plasmodium Species: A Systematic Review and Meta-Analysis in India, 1990-2020.
 33805935	Antiplasmodial Compounds from Deep-Water Marine Invertebrates.
 33805223	QSAR and Pharmacophore Modeling of Nitrogen Heterocycles as Potent Human N-Myristoyltransferase (Hs-NMT) Inhibitors.
-33804179	Improvement of Obesity and Dyslipidemic Activity of Amomum tsao-ko in C57BL/6 Mice Fed a High-Carbohydrate Diet.
-33804076	Blood Levels of Galectin-9, an Immuno-Regulating Molecule, Reflect the Severity for the Acute and Chronic Infectious Diseases.
