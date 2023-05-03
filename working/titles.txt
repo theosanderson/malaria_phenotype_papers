@@ -1,3 +1,6 @@
+37131226	Malaria prevalence in Mauritania: a systematic review and meta-analysis.
+37131225	Molecular investigation of malaria-infected patients in Djibouti city (2018-2021).
+37130502	Heat-shock responses: systemic and essential ways of malaria parasite survival.
 37130472	Biological activity of 1,2,3-triazole-2-amino-1,4-naphthoquinone derivatives and their evaluation as therapeutic strategy for malaria control.
 37130129	An Sfi1-like centrin-interacting centriolar plaque protein affects nuclear microtubule homeostasis.
 37130061	An Analysis of the Inclusion of Ear and Hearing Care in National Health Policies, Strategies, and Plans.
@@ -9994,6 +9997,3 @@
 33810085	Low Adenovirus Vaccine Doses Administered to Skin Using Microneedle Patches Induce Better Functional Antibody Immunogenicity as Compared to Systemic Injection.
 33809642	An Automated Microscopic Malaria Parasite Detection System Using Digital Image Analysis.
 33809512	Pipecolisporin, a Novel Cyclic Peptide with Antimalarial and Antitrypanosome Activities from a Wheat Endophytic Nigrospora oryzae.
-33809464	Targeting Gametocytes of the Malaria Parasite Plasmodium falciparum in a Functional Genomics Era: Next Steps.
-33808643	QSAR-Based Virtual Screening of Natural Products Database for Identification of Potent Antimalarial Hits.
-33807616	Mapping Risk of Malaria as a Function of Anthropic and Environmental Conditions in Sussundenga Village, Mozambique.
