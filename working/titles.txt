@@ -1,3 +1,7 @@
+37133893	The boundary problem: Defining and delineating the community in field trials with gene drive organisms.
+37133382	Predicting Optimal Antimalarial Drug Combinations from a Standardized Plasmodium falciparum Humanized Mouse Model.
+37132780	3D reconstruction of unstained weakly scattering cells from a single defocused hologram.
+37132734	Dirofilaria immitis is endemic in rural areas of the Brazilian Amazonas state capital, Manaus.
 37132169	Robust rank-based meta-analyses for two-sample designs with application to platelet counts of malaria infection data.
 37131988	Antagonistic antimalarial properties of a methoxyamino chalcone derivative and 3-hydroxypyridinones in combination with dihydroartemisinin against Plasmodium falciparum.
 37131941	Collaborations between product development partnerships and the World Health Organization.
@@ -9993,7 +9997,3 @@
 33816430	A Household-Based Cross-Sectional Survey of Knowledge, Awareness and Practice Regarding Malaria in Western Area Rural District, Sierra Leone.
 33815410	HLA Alleles B(*)53:01 and C(*)06:02 Are Associated With Higher Risk of P. falciparum Parasitemia in a Cohort in Uganda.
 33815393	Novel Virus-Like Particle Vaccine Encoding the Circumsporozoite Protein of Plasmodium falciparum Is Immunogenic and Induces Functional Antibody Responses in Mice.
-33815377	Expansion of Functional Myeloid-Derived Suppressor Cells in Controlled Human Malaria Infection.
-33815126	Repurposing Anti-Malaria Phytomedicine Artemisinin as a COVID-19 Drug.
-33814617	Antimalarial and anticancer properties of artesunate and other artemisinins: current development.
-33814517	Gentisyl alcohol and homogentisic acid: Plasmodium falciparum dihydroorotate dehydrogenase inhibitors isolated from fungi.
