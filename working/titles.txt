@@ -1,3 +1,12 @@
+37132169	Robust rank-based meta-analyses for two-sample designs with application to platelet counts of malaria infection data.
+37131988	Antagonistic antimalarial properties of a methoxyamino chalcone derivative and 3-hydroxypyridinones in combination with dihydroartemisinin against Plasmodium falciparum.
+37131941	Collaborations between product development partnerships and the World Health Organization.
+37131838	Malaria surveillance reveals parasite relatedness, signatures of selection, and correlates of transmission across Senegal.
+37131813	Structure guided mimicry of an essential P. falciparum receptor-ligand complex enhances cross neutralizing antibodies.
+37131712	Metabolism of host lysophosphatidylcholine in Plasmodium falciparum -infected erythrocytes.
+37131679	Chronic exposure of mosquito larvae to pesticide residues endangers a new generation of agrochemicals repurposed for malaria prevention.
+37131663	Enhancing the efficacy of neonicotinoids against mosquitoes and overcoming resistance issues.
+37131488	Epididymal bilharzia simulating a testicular tumor: A case report.
 37131226	Malaria prevalence in Mauritania: a systematic review and meta-analysis.
 37131225	Molecular investigation of malaria-infected patients in Djibouti city (2018-2021).
 37130502	Heat-shock responses: systemic and essential ways of malaria parasite survival.
@@ -350,7 +359,7 @@
 37017525	Chromobacterium Biopesticide Exposure Does Not Select for Resistance in Aedes Mosquitoes.
 37017236	Abnormalities of Kidney Function in Acute Malarial and non-Malarial Infections.
 37017234	Confidence in COVID-19 vaccine effectiveness and safety and its effect on vaccine uptake in Tanzania: A community-based cross-sectional study.
-37017102	Trained immunity from the perspective of Plasmodium Infection.
+37017102	Trained immunity from the perspective of Plasmodium infection.
 37016392	Dihydroartemisinin-piperaquine or sulphadoxine-pyrimethamine for the chemoprevention of malaria in children with sickle cell anaemia in eastern and southern Africa (CHEMCHA): a protocol for a multi-centre, two-arm, double-blind, randomised, placebo-controlled superiority trial.
 37015266	Effect of passive and active ventilation on malaria mosquito house entry and human comfort: an experimental study in rural Gambia.
 37015228	A Plasmodium falciparum lysophospholipase regulates host fatty acid flux via parasite lipid storage to enable controlled asexual schizogony.
@@ -9988,12 +9997,3 @@
 33815126	Repurposing Anti-Malaria Phytomedicine Artemisinin as a COVID-19 Drug.
 33814617	Antimalarial and anticancer properties of artesunate and other artemisinins: current development.
 33814517	Gentisyl alcohol and homogentisic acid: Plasmodium falciparum dihydroorotate dehydrogenase inhibitors isolated from fungi.
-33813981	Novel flavonol-3-O-methylethers from Zanthoxylum pistaciifolium Griseb. (Rutaceae).
-33813310	Exploration of benzofuran-based compounds as potent and selective Plasmodium falciparum glycogen synthase kinase-3 (PfGSK-3) inhibitors.
-33812358	Postulated Process of Axoneme Organization in the Male Gametogenesis of Malaria Parasite Plasmodium berghei.
-33811811	Drug repurposing screens reveal cell-type-specific entry pathways and FDA-approved drugs active against SARS-Cov-2.
-33810597	Malaria in the Time of COVID-19: Do Not Miss the Real Cause of Illness.
-33810537	Unravelling the Perspectives of Day and Night Traders in Selected Markets within a Sub-Saharan African City with a Malaria Knowledge, Attitude and Practice Survey.
-33810085	Low Adenovirus Vaccine Doses Administered to Skin Using Microneedle Patches Induce Better Functional Antibody Immunogenicity as Compared to Systemic Injection.
-33809642	An Automated Microscopic Malaria Parasite Detection System Using Digital Image Analysis.
-33809512	Pipecolisporin, a Novel Cyclic Peptide with Antimalarial and Antitrypanosome Activities from a Wheat Endophytic Nigrospora oryzae.
