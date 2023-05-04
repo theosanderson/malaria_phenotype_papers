@@ -1,3 +1,8 @@
+37136535	Malaria in Russia.
+37134562	Sulphur and Malaria (Extract).
+37134352	Dropsey from Malaria: A Case in Practice.
+37134097	Apolipoprotein E genetic variation, atherogenic index and cardiovascular disease risk assessment in an African population: An analysis of HIV and malaria patients in Ghana.
+37134083	Metagenomic next-generation sequencing to characterize potential etiologies of non-malarial fever in a cohort living in a high malaria burden area of Uganda.
 37133893	The boundary problem: Defining and delineating the community in field trials with gene drive organisms.
 37133382	Predicting Optimal Antimalarial Drug Combinations from a Standardized Plasmodium falciparum Humanized Mouse Model.
 37132780	3D reconstruction of unstained weakly scattering cells from a single defocused hologram.
@@ -1752,7 +1757,7 @@
 36520830	Internal and external microbiota of home-caught Anopheles coluzzii (Diptera: Culicidae) from Côte d'Ivoire, Africa: Mosquitoes are filthy.
 36520682	Molecular mechanisms of insect immune memory and pathogen transmission.
 36520108	Nanobodies against Pfs230 block Plasmodium falciparum transmission.
-36519341	The impact of sequestration on artemisinin-induced parasite clearance in Plasmodium falciparum malaria in Africa.
+36519341	The Impact of Sequestration on Artemisinin-Induced Parasite Clearance in Plasmodium falciparum Malaria in Africa.
 36518747	Neuroinvasive Onchocerca lupi Infection in a Ten-Year-Old Girl.
 36518638	Isolation, Purification, and Characterization of Homogenous Novel Bioactive Protein from Datura stramonium Stem Exhibited Larvicidal Activity against Anopheles stephensi.
 36518384	Hexane fraction of Globimetula braunii induces mitochondria-mediated apoptosis in Plasmodium berghei-infected mice.
@@ -9992,8 +9997,3 @@
 33819175	Nonparametric Binary Classification to Distinguish Closely Related versus Unrelated Plasmodium falciparum Parasites.
 33819169	Mosquito Net Ownership, Utilization, and Preferences among Mobile and Migrant Populations Sleeping in Forests and Farms in Central Vietnam: A Cross-Sectional Study.
 33818874	The impact of sublethal permethrin exposure on susceptible and resistant genotypes of the urban disease vector Aedes aegypti.
-33818725	Carrageenan oligomers and salicylic acid act in tandem to escalate artemisinin production by suppressing arsenic uptake and oxidative stress in Artemisia annua (sweet wormwood) cultivated in high arsenic soil.
-33816592	Neuropathogenesis caused by Trypanosoma brucei, still an enigma to be unveiled.
-33816430	A Household-Based Cross-Sectional Survey of Knowledge, Awareness and Practice Regarding Malaria in Western Area Rural District, Sierra Leone.
-33815410	HLA Alleles B(*)53:01 and C(*)06:02 Are Associated With Higher Risk of P. falciparum Parasitemia in a Cohort in Uganda.
-33815393	Novel Virus-Like Particle Vaccine Encoding the Circumsporozoite Protein of Plasmodium falciparum Is Immunogenic and Induces Functional Antibody Responses in Mice.
