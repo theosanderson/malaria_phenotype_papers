@@ -1,3 +1,5 @@
+37140630	[Infectious diseases in migrants].
+37139879	[Rising temperatures and the threat of malaria in Europe: an unwelcome return?].
 37139385	Early effects of COVID-19 on maternal and child health service disruption in Mozambique.
 37138871	Polymorphisms in the MBL2 gene are associated with the plasma levels of MBL and the cytokines IL-6 and TNF-α in severe COVID-19.
 37138837	Antibacterial Activity Against Multidrug-Resistant Clinical Isolates of Nine Plants from Chencha, Southern Ethiopia.
@@ -9995,5 +9997,3 @@
 33822116	Species Composition, Parous Rate, and Infection Rate of Anopheles Mosquitoes (Diptera: Culicidae) in Bahir Dar City Administration, Northwest Ethiopia.
 33822011	Pathogens That Cause Acute Febrile Illness Among Children and Adolescents in Burkina Faso, Madagascar, and Sudan.
 33821799	What happens when forests fall?
-33821563	Non-canonical metabolic pathways in the malaria parasite detected by isotope-tracing metabolomics.
-33821267	Ultrapotent bispecific antibodies neutralize emerging SARS-CoV-2 variants.
