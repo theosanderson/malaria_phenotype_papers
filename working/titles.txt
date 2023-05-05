@@ -1,3 +1,6 @@
+37141324	Plasmodium falciparum-infected erythrocyte co-culture with the monocyte cell line THP-1 does not trigger production of soluble factors reducing brain microvascular barrier function.
+37141207	Culturally responsive research ethics: How the socio-ethical norms of Arr-nar/Kreng-jai inform research participation at the Thai-Myanmar border.
+37141178	Investigations on the Novel Antimalarial Ferroquine in Biomimetic Solutions Using Deep UV Resonance Raman Spectroscopy and Density Functional Theory.
 37140630	[Infectious diseases in migrants].
 37139879	[Rising temperatures and the threat of malaria in Europe: an unwelcome return?].
 37139385	Early effects of COVID-19 on maternal and child health service disruption in Mozambique.
@@ -9994,6 +9997,3 @@
 33822577	Opportunities and Challenges in Developing a Cryptosporidium Controlled Human Infection Model for Testing Antiparasitic Agents.
 33822287	Two new bisindole alkaloids from Tabernaemontana macrocarpa Jack.
 33822129	The Effect of the Hypertrophy Virus (MdSGHV) on the Ultrastructure of the Salivary Glands of Musca domestica (Diptera: Muscidae).
-33822116	Species Composition, Parous Rate, and Infection Rate of Anopheles Mosquitoes (Diptera: Culicidae) in Bahir Dar City Administration, Northwest Ethiopia.
-33822011	Pathogens That Cause Acute Febrile Illness Among Children and Adolescents in Burkina Faso, Madagascar, and Sudan.
-33821799	What happens when forests fall?
