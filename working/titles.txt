@@ -1,3 +1,10 @@
+37143050	Housing modification for malaria control: impact of a "lethal house lure" intervention on malaria infection prevalence in a cluster randomised control trial in Côte d'Ivoire.
+37143036	Preclinical evaluation of antimalarial activity of CPF-1 formulation as an alternative choice for the treatment of malaria.
+37143024	Sustainability of community health programme using community-based organizations: a challenge for stakeholders.
+37142948	Using Andersen's behavioral model of health care use for intermittent preventive treatment of malaria in pregnancy in Nigeria.
+37142924	Quantifying pH in Malaria Using pHluorin and Flow Cytometry.
+37142607	Validation of immunoassays for the Chlamydia trachomatis antigen Pgp3 using a chimeric monoclonal antibody.
+37142319	Patient adherence to tuberculosis treatment in the Indian subcontinent: systematic review and meta-synthesis of qualitative research.
 37141324	Plasmodium falciparum-infected erythrocyte co-culture with the monocyte cell line THP-1 does not trigger production of soluble factors reducing brain microvascular barrier function.
 37141207	Culturally responsive research ethics: How the socio-ethical norms of Arr-nar/Kreng-jai inform research participation at the Thai-Myanmar border.
 37141178	Investigations on the Novel Antimalarial Ferroquine in Biomimetic Solutions Using Deep UV Resonance Raman Spectroscopy and Density Functional Theory.
@@ -9990,10 +9997,3 @@
 33823558	Antimalarial drug resistance markers in human immunodeficiency virus (HIV)-positive and HIV-negative adults with asymptomatic malaria infections in Port Harcourt, Nigeria.
 33823394	An insight in anti-malarial potential of indole scaffold: A review.
 33823306	Conserved Plasmodium Protein (PF3D7_0406000) of Unknown Function: In-silico Analysis and Cellular Localization.
-33823288	Malaria in urban Kuala Lumpur, Malaysia from 2005 to 2017.
-33823023	Malaria elimination in India requires additional surveillance mechanisms.
-33822828	Plasmodium falciparum malaria drives epigenetic reprogramming of human monocytes toward a regulatory phenotype.
-33822797	Prevalence and factors which influence early antenatal booking among women of reproductive age in Tanzania: An analysis of data from the 2015-16 Tanzania Demographic Health Survey and Malaria Indicators Survey.
-33822577	Opportunities and Challenges in Developing a Cryptosporidium Controlled Human Infection Model for Testing Antiparasitic Agents.
-33822287	Two new bisindole alkaloids from Tabernaemontana macrocarpa Jack.
-33822129	The Effect of the Hypertrophy Virus (MdSGHV) on the Ultrastructure of the Salivary Glands of Musca domestica (Diptera: Muscidae).
