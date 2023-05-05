@@ -1,3 +1,7 @@
+37145336	Pentobarbital intoxication as a potential underlying cause for electrocution in a bearded vulture.
+37145306	Effects of the free healthcare policy on maternal and child health in Burkina Faso: a nationwide evaluation using interrupted time-series analysis.
+37145288	National Evaluation of HIV Service Resource Allocation in Tanzania.
+37144664	Differential differentiation of B cell lymphopoiesis in lethal and non-lethal murine malaria models.
 37144342	Severe falciparum and vivax malaria on the Thailand-Myanmar border: A review of 1503 cases.
 37143740	The activity of methylene blue against asexual and sexual stages of Plasmodium vivax.
 37143657	Plasmodium-encoded murine IL-6 impairs liver stage infection and elicits long-lasting sterilizing immunity.
@@ -9993,7 +9997,3 @@
 33827163	PHARMACOKINETICS OF PRIMAQUINE PHOSPHATE AFTER A SINGLE ORAL ADMINISTRATION TO AFRICAN PENGUINS (SPHENISCUS DEMERSUS).
 33826972	Bioactive half-sandwich Rh and Ir bipyridyl complexes containing artemisinin.
 33825474	Targeted Isolation of Hemitheion from Mostuea brunonis, a Proposed Biosynthetic Intermediate of Theionbrunonines.
-33824336	Immunofocusing humoral immunity potentiates the functional efficacy of the AnAPN1 malaria transmission-blocking vaccine antigen.
-33824272	Development of a bispecific immune engager using a recombinant malaria protein.
-33823594	Morphology and Composition of Immunodiffusion Precipitin Complexes Evaluated via Microscopy and Proteomics.
-33823558	Antimalarial drug resistance markers in human immunodeficiency virus (HIV)-positive and HIV-negative adults with asymptomatic malaria infections in Port Harcourt, Nigeria.
