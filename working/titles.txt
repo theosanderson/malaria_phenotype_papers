@@ -1,3 +1,6 @@
+37144342	Severe falciparum and vivax malaria on the Thailand-Myanmar border: A review of 1503 cases.
+37143740	The activity of methylene blue against asexual and sexual stages of Plasmodium vivax.
+37143657	Plasmodium-encoded murine IL-6 impairs liver stage infection and elicits long-lasting sterilizing immunity.
 37143050	Housing modification for malaria control: impact of a "lethal house lure" intervention on malaria infection prevalence in a cluster randomised control trial in Côte d'Ivoire.
 37143036	Preclinical evaluation of antimalarial activity of CPF-1 formulation as an alternative choice for the treatment of malaria.
 37143024	Sustainability of community health programme using community-based organizations: a challenge for stakeholders.
@@ -1490,7 +1493,6 @@
 36618355	MiR-451a and let-7i-5p loaded extracellular vesicles attenuate heme-induced inflammation in hiPSC-derived endothelial cells.
 36617811	Gymnema inodorum Leaf Extract Improves Cardiac Function in Experimental Mice Infected with Plasmodium Berghei.
 36617500	Development of Potent and Highly Selective Epoxyketone-Based Plasmodium Proteasome Inhibitors.
-36617302	Epidemiologic utility of a framework for partition number selection when dissecting hierarchically clustered genetic data evaluated on the intestinal parasite Cyclospora cayetanensis.
 36615504	Synthesis and Antiprotozoal Activity of Azabicyclo-Nonane Pyrimidine Hybrids.
 36615340	Global Analysis of Plasmodium falciparum Dihydropteroate Synthase Variants Associated with Sulfadoxine Resistance Reveals Variant Distribution and Mechanisms of Resistance: A Computational-Based Study.
 36614934	Aero-Medical Evacuation during SARS-CoV-2 Pandemic: Extraordinary Measure or Emerging Treatment Option?
@@ -9995,5 +9997,3 @@
 33824272	Development of a bispecific immune engager using a recombinant malaria protein.
 33823594	Morphology and Composition of Immunodiffusion Precipitin Complexes Evaluated via Microscopy and Proteomics.
 33823558	Antimalarial drug resistance markers in human immunodeficiency virus (HIV)-positive and HIV-negative adults with asymptomatic malaria infections in Port Harcourt, Nigeria.
-33823394	An insight in anti-malarial potential of indole scaffold: A review.
-33823306	Conserved Plasmodium Protein (PF3D7_0406000) of Unknown Function: In-silico Analysis and Cellular Localization.
