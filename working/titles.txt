@@ -1,3 +1,9 @@
+37148042	Neuropsychiatric Aspects of Parasitic Infections-A Review.
+37147685	Predictors of caregiver adherence to administration of amodiaquine during delivery of seasonal malaria chemoprevention in Nigeria, Burkina Faso, Chad, and Togo.
+37147455	Correction to: Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
+37147351	Deletion of MIF gene from live attenuated LdCen(-/-) parasites enhances protective CD4(+) T cell immunity.
+37147317	Malaria, climate variability, and interventions: modelling transmission dynamics.
+37147016	Delivery strategies for malaria vaccination in areas with seasonal malaria transmission.
 37145336	Pentobarbital intoxication as a potential underlying cause for electrocution in a bearded vulture.
 37145306	Effects of the free healthcare policy on maternal and child health in Burkina Faso: a nationwide evaluation using interrupted time-series analysis.
 37145288	National Evaluation of HIV Service Resource Allocation in Tanzania.
@@ -9991,9 +9997,3 @@
 33827667	Larval habitat diversity and Anopheles mosquito species distribution in different ecological zones in Ghana.
 33827658	An evaluation of repellency and feeding inhibition of ethno-medicinal plants against major malaria vectors in southern Ethiopia.
 33827592	Molecular surveillance of drug resistance: Plasmodium falciparum artemisinin resistance single nucleotide polymorphisms in Kelch protein propeller (K13) domain from Southern Pakistan.
-33827587	Historical trends and new surveillance of Plasmodium falciparum drug resistance markers in Angola.
-33827455	Haematological abnormalities in children with sickle cell disease and non-severe malaria infection in western Kenya.
-33827422	Efficacy and safety of artemisinin-based combination therapies for the treatment of uncomplicated malaria in pediatrics: a systematic review and meta-analysis.
-33827163	PHARMACOKINETICS OF PRIMAQUINE PHOSPHATE AFTER A SINGLE ORAL ADMINISTRATION TO AFRICAN PENGUINS (SPHENISCUS DEMERSUS).
-33826972	Bioactive half-sandwich Rh and Ir bipyridyl complexes containing artemisinin.
-33825474	Targeted Isolation of Hemitheion from Mostuea brunonis, a Proposed Biosynthetic Intermediate of Theionbrunonines.
