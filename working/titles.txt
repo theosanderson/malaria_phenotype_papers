@@ -344,7 +344,7 @@
 37030438	Formulation and Scale-Up of Fast-Dissolving Lumefantrine Nanoparticles for Oral Malaria Therapy.
 37030087	Tropical infections as occupational diseases among young volunteers in social projects.
 37030083	Plasmodium falciparum rhoptry neck protein 4 has conserved regions mediating interactions with receptors on human erythrocytes and hepatocyte membrane.
-37030000	Population genomic evidence of adaptive response during the invasion history of Plasmodium falciparum in the Americas.
+37030000	Population Genomic Evidence of Adaptive Response during the Invasion History of Plasmodium falciparum in the Americas.
 37029625	Antiplasmodial and anticancer activities of xanthones isolated from Garcinia bancana Miq.
 37029480	Antiprotozoal drugs: challenges and opportunities.
 37029433	Genotyping of Anopheles mosquito blood meals reveals nonrandom human host selection: implications for human-to-mosquito Plasmodium falciparum transmission.
