@@ -1,3 +1,7 @@
+37149600	Spatio-temporal analysis of malaria incidence and its risk factors in North Namibia.
+37149066	Antiparasitic properties of 4-nerolidylcatechol from Pothomorphe umbellata (L.) Miq. (Piperaceae) in vitro and in mice models with either prepatent or patent Schistosoma mansoni infections.
+37148884	Dual-pharmacophore artezomibs hijack the Plasmodium ubiquitin-proteasome system to kill malaria parasites while overcoming drug resistance.
+37148699	Phytochemical profiling of Symplocos tanakana Nakai and S. sawafutagi Nagam. leaf and identification of their antioxidant and anti-diabetic potential.
 37148042	Neuropsychiatric Aspects of Parasitic Infections-A Review.
 37147685	Predictors of caregiver adherence to administration of amodiaquine during delivery of seasonal malaria chemoprevention in Nigeria, Burkina Faso, Chad, and Togo.
 37147455	Correction to: Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
@@ -9993,7 +9997,3 @@
 33828843	Tracking global development assistance for trauma care: A call for advocacy and action.
 33828428	High Prevalence of Low-Level Parasitemia With Plasmodium vivax in Makira-Ulawa Province Presents a Challenge for the Diagnosis and Eradication of Malaria in Solomon Islands.
 33827910	Clustering and Erratic Movement Patterns of Syringe-Injected versus Mosquito-Inoculated Malaria Sporozoites Underlie Decreased Infectivity.
-33827683	Detection of malaria parasites in samples from returning US travelers using the Alethia® Malaria Plus LAMP assay.
-33827667	Larval habitat diversity and Anopheles mosquito species distribution in different ecological zones in Ghana.
-33827658	An evaluation of repellency and feeding inhibition of ethno-medicinal plants against major malaria vectors in southern Ethiopia.
-33827592	Molecular surveillance of drug resistance: Plasmodium falciparum artemisinin resistance single nucleotide polymorphisms in Kelch protein propeller (K13) domain from Southern Pakistan.
