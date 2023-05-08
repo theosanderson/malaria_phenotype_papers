@@ -1,3 +1,7 @@
+37150376	Unlocking the potential of snake venom-based molecules against the malaria, Chagas disease, and leishmaniasis triad.
+37150188	Gavi unveils malaria vaccine plans.
+37150086	Network pharmacology and molecular docking combined with widely targeted metabolomics to elucidate the potential compounds and targets of Euphorbia helioscopia seeds for the treatment of pulmonary fibrosis.
+37149980	Exploring the potential of antimalarial nanocarriers as a novel therapeutic approach.
 37149600	Spatio-temporal analysis of malaria incidence and its risk factors in North Namibia.
 37149066	Antiparasitic properties of 4-nerolidylcatechol from Pothomorphe umbellata (L.) Miq. (Piperaceae) in vitro and in mice models with either prepatent or patent Schistosoma mansoni infections.
 37148884	Dual-pharmacophore artezomibs hijack the Plasmodium ubiquitin-proteasome system to kill malaria parasites while overcoming drug resistance.
@@ -9993,7 +9997,3 @@
 33829915	Predictors of Resilience Among Adolescent Girls and Young Women Who Have Experienced Intimate Partner Violence and Sexual Violence in South Africa.
 33829247	Iron supplementation in anemic Zanzibari toddlers is associated with greater loss in erythrocyte iron isotope enrichment.
 33828969	Prognostic Implication of the Expression Level of PECAM-1 in Non-small Cell Lung Cancer.
-33828951	Development of an Interactive Global Surgery Course for Interdisciplinary Learners.
-33828843	Tracking global development assistance for trauma care: A call for advocacy and action.
-33828428	High Prevalence of Low-Level Parasitemia With Plasmodium vivax in Makira-Ulawa Province Presents a Challenge for the Diagnosis and Eradication of Malaria in Solomon Islands.
-33827910	Clustering and Erratic Movement Patterns of Syringe-Injected versus Mosquito-Inoculated Malaria Sporozoites Underlie Decreased Infectivity.
