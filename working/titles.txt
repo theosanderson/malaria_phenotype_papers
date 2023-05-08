@@ -1,3 +1,14 @@
+37153774	Ethnobotanical uses, phytochemistry and biological activity of the genus Euclea: A review.
+37153566	Single-sex schistosomiasis: a mini review.
+37153544	Endothelial ACKR1 is induced by neutrophil contact and down-regulated by secretion in extracellular vesicles.
+37153452	Effectiveness of seasonal malaria chemoprevention administered in a mass campaign in the Kedougou region of Senegal in 2016: a case-control study.
+37153159	A pro-oxidant property of vitamin C to overcome the burden of latent Mycobacterium tuberculosis infection: A cross-talk review with Fenton reaction.
+37153157	An in vivo humanized model to study homing and sequestration of Plasmodium falciparum transmission stages in the bone marrow.
+37153151	Naturally acquired antibody response to Plasmodium falciparum and Plasmodium vivax among indigenous Orang Asli communities in Peninsular Malaysia.
+37151707	Antimicrobial activity in Asterceae: The selected genera characterization and against multidrug resistance bacteria.
+37151678	In vivo antimalarial activity of the 80% methanolic crude fruit extract of Lagenaria siceraria (Molina) Standl. against Plasmodium berghei infected mice.
+37151169	Mechanistic role of Tempol: Synthesis, Catalysed reactions and therapeutic potential.
+37150885	Accumulation of Neutrophil Phagocytic Antibody Features Tracks With Naturally Acquired Immunity Against Malaria in Children.
 37150376	Unlocking the potential of snake venom-based molecules against the malaria, Chagas disease, and leishmaniasis triad.
 37150188	Gavi unveils malaria vaccine plans.
 37150086	Network pharmacology and molecular docking combined with widely targeted metabolomics to elucidate the potential compounds and targets of Euphorbia helioscopia seeds for the treatment of pulmonary fibrosis.
@@ -9986,14 +9997,3 @@
 33832450	Effect of hookworm infection and anthelmintic treatment on naturally acquired antibody responses against the GMZ2 malaria vaccine candidate and constituent antigens.
 33831945	Prevalence of low serum zinc concentrations in Indian children and adolescents: findings from the Comprehensive National Nutrition Survey 2016-18.
 33831542	First report of N1575Y mutation in Anopheles gambiae in Sierra Leone.
-33831465	Andrographis paniculata (Burm.f.) Nees: Traditional uses, phytochemistry, pharmacological properties and quality control/quality assurance.
-33831459	Epidemiology and clinical outcomes of severe Plasmodium vivax malaria in India.
-33831434	Living with predators at the larval stage has differential long-lasting effects on adult life history and physiological traits in two anopheline mosquito species.
-33831059	Evaluation of the performance of health extension workers on malaria rapid diagnostic tests and predictor factors in Bahir Dar Zuria district, northwest Ethiopia: A cross-sectional study.
-33831004	Ecology and larval population dynamics of the primary malaria vector Nyssorhynchus darlingi in a high transmission setting dominated by fish farming in western Amazonian Brazil.
-33830607	Identification of novel inner membrane complex and apical annuli proteins of the malaria parasite Plasmodium falciparum.
-33830353	Stochastic models of infectious diseases in a periodic environment with application to cholera epidemics.
-33830176	Hemolysis-associated phosphatidylserine exposure promotes polyclonal plasmablast differentiation.
-33829915	Predictors of Resilience Among Adolescent Girls and Young Women Who Have Experienced Intimate Partner Violence and Sexual Violence in South Africa.
-33829247	Iron supplementation in anemic Zanzibari toddlers is associated with greater loss in erythrocyte iron isotope enrichment.
-33828969	Prognostic Implication of the Expression Level of PECAM-1 in Non-small Cell Lung Cancer.
