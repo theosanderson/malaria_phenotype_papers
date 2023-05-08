@@ -1,3 +1,6 @@
+37154745	Amplicon Deep Sequencing Reveals Multiple Genetic Events Lead to Treatment Failure with Atovaquone-Proguanil in Plasmodium falciparum.
+37154740	Molecular docking and antimalarial evaluation of hybrid para-aminobenzoic acid 1,3,5 triazine derivatives via inhibition of Pf-DHFR.
+37154686	Phenotypic Screens Identify Genetic Factors Associated with Gametocyte Development in the Human Malaria Parasite Plasmodium falciparum.
 37153774	Ethnobotanical uses, phytochemistry and biological activity of the genus Euclea: A review.
 37153566	Single-sex schistosomiasis: a mini review.
 37153544	Endothelial ACKR1 is induced by neutrophil contact and down-regulated by secretion in extracellular vesicles.
@@ -9994,6 +9997,3 @@
 33833368	Identification of chlorophyll a-b binding protein AB96 as a novel TGFβ1 neutralizing agent.
 33833272	New vectors that are early feeders for Plasmodium knowlesi and other simian malaria parasites in Sarawak, Malaysian Borneo.
 33832827	Safety of treatment with chloroquine and hydroxychloroquine: A ten-year systematic review and meta-analysis.
-33832450	Effect of hookworm infection and anthelmintic treatment on naturally acquired antibody responses against the GMZ2 malaria vaccine candidate and constituent antigens.
-33831945	Prevalence of low serum zinc concentrations in Indian children and adolescents: findings from the Comprehensive National Nutrition Survey 2016-18.
-33831542	First report of N1575Y mutation in Anopheles gambiae in Sierra Leone.
