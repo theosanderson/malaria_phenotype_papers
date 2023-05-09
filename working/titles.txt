@@ -1,3 +1,4 @@
+37157838	Haematological factors and anaemia in acute malaria: A prospective hospital-based cross-sectional observational study.
 37156765	Plasmodium falciparum has evolved multiple mechanisms to hijack human immunoglobulin M.
 37155862	Differentiation of Plasmodium male gametocytes is initiated by the recruitment of a chromatin remodeler to a male-specific cis-element.
 37155823	From the Spectroscopic Reassessment of Authentic Alkaloid Samples to the Molecular Networking-Guided Discovery of Criophylline-Related Analogues from Callichilia inaequalis.
@@ -9996,4 +9997,3 @@
 33834208	Efficacy of a 3-day pretravel schedule of tafenoquine for malaria chemoprophylaxis: a network meta-analysis.
 33834142	Prevalence, species distribution, and risk factors of fungal colonization and infection in patients at a burn intensive care unit in Vietnam.
 33833812	Relationship between the Usage of Long-Lasting Insecticide-Treated Bed Nets (LLITNs) and Malaria Prevalence among School-Age Children in Southwestern Nigeria.
-33833760	Modification of EBV Associated Lymphomagenesis and Its Immune Control by Co-Infections and Genetics in Humanized Mice.
