@@ -1,3 +1,6 @@
+37155862	Differentiation of Plasmodium male gametocytes is initiated by the recruitment of a chromatin remodeler to a male-specific cis-element.
+37155823	From the Spectroscopic Reassessment of Authentic Alkaloid Samples to the Molecular Networking-Guided Discovery of Criophylline-Related Analogues from Callichilia inaequalis.
+37155680	Modeling the impact of xenointoxication in dogs to halt Trypanosoma cruzi transmission.
 37154745	Amplicon Deep Sequencing Reveals Multiple Genetic Events Lead to Treatment Failure with Atovaquone-Proguanil in Plasmodium falciparum.
 37154740	Molecular docking and antimalarial evaluation of hybrid para-aminobenzoic acid 1,3,5 triazine derivatives via inhibition of Pf-DHFR.
 37154686	Phenotypic Screens Identify Genetic Factors Associated with Gametocyte Development in the Human Malaria Parasite Plasmodium falciparum.
@@ -9994,6 +9997,3 @@
 33833812	Relationship between the Usage of Long-Lasting Insecticide-Treated Bed Nets (LLITNs) and Malaria Prevalence among School-Age Children in Southwestern Nigeria.
 33833760	Modification of EBV Associated Lymphomagenesis and Its Immune Control by Co-Infections and Genetics in Humanized Mice.
 33833443	Advances and opportunities in malaria population genomics.
-33833368	Identification of chlorophyll a-b binding protein AB96 as a novel TGFβ1 neutralizing agent.
-33833272	New vectors that are early feeders for Plasmodium knowlesi and other simian malaria parasites in Sarawak, Malaysian Borneo.
-33832827	Safety of treatment with chloroquine and hydroxychloroquine: A ten-year systematic review and meta-analysis.
