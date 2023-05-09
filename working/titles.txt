@@ -1,3 +1,9 @@
+37158866	What can be learned from the residual efficacy of three formulations of insecticides (pirimiphos-methyl, clothianidin and deltamethrin mixture, and clothianidin alone) in large-scale in community trial in North Benin, West Africa?
+37158864	Community engagement processes in low- and middle-income countries health research settings: a systematic review of the literature.
+37158750	Sensitive Detection of Asymptomatic and Symptomatic Malaria with Seven Novel Parasite-Specific LAMP Assays and Translation for Use at Point-of-Care.
+37158739	Susceptibility of Ugandan Plasmodium falciparum Isolates to the Antimalarial Drug Pipeline.
+37158666	Cladosporin, A Highly Potent Antimalaria Drug?
+37158217	Mobilizing resources with an investment case to mitigate cross-border malaria transmission and achieve malaria elimination in South Africa.
 37157838	Haematological factors and anaemia in acute malaria: A prospective hospital-based cross-sectional observational study.
 37156765	Plasmodium falciparum has evolved multiple mechanisms to hijack human immunoglobulin M.
 37155862	Differentiation of Plasmodium male gametocytes is initiated by the recruitment of a chromatin remodeler to a male-specific cis-element.
@@ -9991,9 +9997,3 @@
 33836772	Gametocyte carriage of Plasmodium falciparum (pfs25) and Plasmodium vivax (pvs25) during mass screening and treatment in West Timor, Indonesia: a longitudinal prospective study.
 33836769	Quality of care for adult in-patients with malaria in a tertiary hospital in Uganda.
 33836556	CD47 blockade reduces the pathologic features of experimental cerebral malaria and promotes survival of hosts with Plasmodium infection.
-36845571	T-follicular helper cells in malaria infection and roles in antibody induction.
-33835037	Epidemiology of Malaria in East Nusa Tenggara Province in Indonesia: Protocol for a Cross-sectional Study.
-33834220	Exploring Strategies for Investigating the Mechanisms Linking Climate and Individual-Level Child Health Outcomes: An Analysis of Birth Weight in Mali.
-33834208	Efficacy of a 3-day pretravel schedule of tafenoquine for malaria chemoprophylaxis: a network meta-analysis.
-33834142	Prevalence, species distribution, and risk factors of fungal colonization and infection in patients at a burn intensive care unit in Vietnam.
-33833812	Relationship between the Usage of Long-Lasting Insecticide-Treated Bed Nets (LLITNs) and Malaria Prevalence among School-Age Children in Southwestern Nigeria.
