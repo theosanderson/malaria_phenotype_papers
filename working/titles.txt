@@ -1,3 +1,14 @@
+37160333	Anopheles Adult Anesthesia, Feeding, and Sex Separation.
+37160332	Anopheles Larval Rearing.
+37160331	Considerations for Rearing and Maintaining Anopheles in the Laboratory.
+37160330	Anopheles Egg Collection, Disinfection, and Hatching.
+37160329	Anopheles Pupa Collection and Sex Identification.
+37160282	Acceptability, Feasibility, Drug Safety, and Effectiveness of a Pilot Mass Drug Administration with a Single Round of Sulfadoxine-Pyrimethamine Plus Primaquine and Indoor Residual Spraying in Communities with Malaria Transmission in Haiti, 2018.
+37160281	Safety and Immunogenicity of Radiation-Attenuated PfSPZ Vaccine in Equatoguinean Infants, Children, and Adults.
+37160273	Test-Treat-Track-Test-Treat Strategy for Control of Schistosomiasis in Two Low-Prevalence Villages in Northwestern Tanzania.
+37160247	Long-acting Parenteral Drug Delivery Systems for the Treatment of Chronic Diseases.
+37160237	Susceptibility of Southeast Asian Plasmodium falciparum isolates to P218.
+37160134	Plasmodium vivax infection changes the peripheral immunoregulatory network: CD4 T follicular cells and B cells.
 37159899	Prevalence of amoebiasis and associated risk factors among population in Duhok city, Kurdistan Region, Iraq.
 37159600	Biodiversity and Spatial Distribution of Mosquitoes (Diptera: Culicidae) in Kurdistan Province, Western Iran.
 37159582	Spatial modelling of malaria prevalence associated with geographical factors in Houet province of Burkina Faso, West Africa.
@@ -9986,14 +9997,3 @@
 33842474	How Malaria Parasites Acquire Nutrients From Their Host.
 33842387	Sickle Cell Trait Modulates the Proteome and Phosphoproteome of Plasmodium falciparum-Infected Erythrocytes.
 33841336	17β-Estradiol Is Involved in the Sexual Dimorphism of the Immune Response to Malaria.
-33840564	Variable immunogenicity of a vivax malaria blood-stage vaccine candidate.
-33840563	Non-specific effects of maternal and offspring rabies vaccination on mortality and antibiotic use in a Danish pig herd: A randomized trial.
-33840381	Impact of environmental temperature and relative humidity on spread of COVID-19 infection in India: a cross-sectional time-series analysis.
-33840058	Assessment of Microscopic Detection of Malaria with Nested Polymerase Chain Reaction in War-Torn Federally Administered Tribal Areas of Pakistan.
-33839526	Experimenting with co-development: A qualitative study of gene drive research for malaria control in Mali.
-33839154	Dynamic association of the H3K64 trimethylation mark with genes encoding exported proteins in Plasmodium falciparum.
-33838737	Improved housing versus usual practice for additional protection against clinical malaria in The Gambia (RooPfs): a household-randomised controlled trial.
-33838672	Analytical validation of a real-time hydrolysis probe PCR assay for quantifying Plasmodium falciparum parasites in experimentally infected human adults.
-33838029	A spatiotemporal recommendation engine for malaria control.
-33836778	Efficacy of interceptor® G2, a long-lasting insecticide mixture net treated with chlorfenapyr and alpha-cypermethrin against Anopheles funestus: experimental hut trials in north-eastern Tanzania.
-33836773	Quantification of the misidentification of Plasmodium knowlesi as Plasmodium malariae by microscopy: an analysis of 1569 P. knowlesi cases.
