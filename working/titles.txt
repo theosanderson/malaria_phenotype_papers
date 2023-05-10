@@ -1,3 +1,7 @@
+37163114	Two decades of molecular surveillance in Senegal reveal changes in known drug resistance mutations associated with historical drug use and seasonal malaria chemoprevention.
+37162984	Social network and household exposure explain the use of malaria prevention measures in rural communities of Meghalaya, India.
+37162697	Antimalarial ceramicines Q-T from Chisocheton ceramicus.
+37162063	A short history of innate immunity.
 37161537	Use of rapid diagnostic tests for the detection of ancient malaria infections in dental pulp from the sixth century in Versailles, France.
 37161379	1-3-7 surveillance and response approach in malaria elimination: China's practice and global adaptions.
 37160333	Anopheles Adult Anesthesia, Feeding, and Sex Separation.
@@ -9993,7 +9997,3 @@
 33844521	Antimalarial Benzimidazole Derivatives Incorporating Phenolic Mannich Base Side Chains Inhibit Microtubule and Hemozoin Formation: Structure-Activity Relationship and In Vivo Oral Efficacy Studies.
 33844432	Search for the Active Ingredients from a 2-Aminothiazole DMSO Stock Solution with Antimalarial Activity.
 33843972	Plasmodium falciparum Atg18 localizes to the food vacuole via interaction with the multi-drug resistance protein 1 and phosphatidylinositol 3-phosphate.
-33843523	A unified and flexible modelling framework for the analysis of malaria serology data.
-33843232	Spirombandakamine A(3) and Cyclombandakamines A(8) and A(9), Polycyclic Naphthylisoquinoline Dimers, with Antiprotozoal Activity, from a Congolese Ancistrocladus Plant.
-33843204	Design, Synthesis, and Structural Analysis of Cladosporin-Based Inhibitors of Malaria Parasites.
-33842474	How Malaria Parasites Acquire Nutrients From Their Host.
