@@ -1,3 +1,6 @@
+37159899	Prevalence of amoebiasis and associated risk factors among population in Duhok city, Kurdistan Region, Iraq.
+37159600	Biodiversity and Spatial Distribution of Mosquitoes (Diptera: Culicidae) in Kurdistan Province, Western Iran.
+37159582	Spatial modelling of malaria prevalence associated with geographical factors in Houet province of Burkina Faso, West Africa.
 37158866	What can be learned from the residual efficacy of three formulations of insecticides (pirimiphos-methyl, clothianidin and deltamethrin mixture, and clothianidin alone) in large-scale in community trial in North Benin, West Africa?
 37158864	Community engagement processes in low- and middle-income countries health research settings: a systematic review of the literature.
 37158750	Sensitive Detection of Asymptomatic and Symptomatic Malaria with Seven Novel Parasite-Specific LAMP Assays and Translation for Use at Point-of-Care.
@@ -6,6 +9,7 @@
 37158217	Mobilizing resources with an investment case to mitigate cross-border malaria transmission and achieve malaria elimination in South Africa.
 37157838	Haematological factors and anaemia in acute malaria: A prospective hospital-based cross-sectional observational study.
 37156765	Plasmodium falciparum has evolved multiple mechanisms to hijack human immunoglobulin M.
+37153452	Effectiveness of seasonal malaria chemoprevention administered in a mass campaign in the Kedougou region of Senegal in 2016: a case-control study.
 37155862	Differentiation of Plasmodium male gametocytes is initiated by the recruitment of a chromatin remodeler to a male-specific cis-element.
 37155823	From the Spectroscopic Reassessment of Authentic Alkaloid Samples to the Molecular Networking-Guided Discovery of Criophylline-Related Analogues from Callichilia inaequalis.
 37155680	Modeling the impact of xenointoxication in dogs to halt Trypanosoma cruzi transmission.
@@ -15,7 +19,6 @@
 37153774	Ethnobotanical uses, phytochemistry and biological activity of the genus Euclea: A review.
 37153566	Single-sex schistosomiasis: a mini review.
 37153544	Endothelial ACKR1 is induced by neutrophil contact and down-regulated by secretion in extracellular vesicles.
-37153452	Effectiveness of seasonal malaria chemoprevention administered in a mass campaign in the Kedougou region of Senegal in 2016: a case-control study.
 37153159	A pro-oxidant property of vitamin C to overcome the burden of latent Mycobacterium tuberculosis infection: A cross-talk review with Fenton reaction.
 37153157	An in vivo humanized model to study homing and sequestration of Plasmodium falciparum transmission stages in the bone marrow.
 37153151	Naturally acquired antibody response to Plasmodium falciparum and Plasmodium vivax among indigenous Orang Asli communities in Peninsular Malaysia.
@@ -183,7 +186,7 @@
 37098163	Symptoms of illness during travel and risk factors for non-adherence to malaria prophylaxis-a cross-sectional study in travellers from Germany.
 37098050	All hands on deck: Malaria control urgently needs workable public-private-philanthropic partnerships (PPPP).
 37098016	Increased malaria incidence following irrigation practices in the Endorheic Rift Valley Basin of Sidama Region, Ethiopia.
-37097895	Fixing molecular complexes in BioPAX standards to enrich interactions and detect redundancies using Semantic Web Technologies.
+37097895	Fixing molecular complexes in BioPAX standards to enrich interactions and detect redundancies using semantic web technologies.
 37097173	Nutrient Limitation Mimics Artemisinin Tolerance in Malaria.
 37096453	Geospatial modelling of lymphatic filariasis and malaria co-endemicity in Nigeria.
 37096145	Examining the Early Distribution of the Artemisinin-Resistant Plasmodium falciparum kelch13 R561H Mutation in Areas of Higher Transmission in Rwanda.
@@ -9994,6 +9997,3 @@
 33838029	A spatiotemporal recommendation engine for malaria control.
 33836778	Efficacy of interceptor® G2, a long-lasting insecticide mixture net treated with chlorfenapyr and alpha-cypermethrin against Anopheles funestus: experimental hut trials in north-eastern Tanzania.
 33836773	Quantification of the misidentification of Plasmodium knowlesi as Plasmodium malariae by microscopy: an analysis of 1569 P. knowlesi cases.
-33836772	Gametocyte carriage of Plasmodium falciparum (pfs25) and Plasmodium vivax (pvs25) during mass screening and treatment in West Timor, Indonesia: a longitudinal prospective study.
-33836769	Quality of care for adult in-patients with malaria in a tertiary hospital in Uganda.
-33836556	CD47 blockade reduces the pathologic features of experimental cerebral malaria and promotes survival of hosts with Plasmodium infection.
