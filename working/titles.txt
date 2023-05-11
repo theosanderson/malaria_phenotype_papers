@@ -1,3 +1,4 @@
+37166116	The Plasmodium falciparum apicoplast cysteine desulfurase provides sulfur for both iron sulfur cluster assembly and tRNA modification.
 37165325	Influence of the sickle cell trait on Plasmodium falciparum infectivity from naturally infected gametocyte carriers.
 37164513	Differential impact of dual-active ingredient long-lasting insecticidal nets on primary malaria vectors: a secondary analysis of a 3-year, single-blind, cluster-randomised controlled trial in rural Tanzania.
 37164365	Association between inequalities in human resources for health and all cause and cause specific mortality in 172 countries and territories, 1990-2019: observational study.
@@ -9996,4 +9997,3 @@
 33846719	Malaria Infection Is Common and Associated With Perinatal Mortality and Preterm Delivery Despite Widespread Use of Chemoprevention in Mali: An Observational Study 2010 to 2014.
 33846394	Efficacy of broflanilide (VECTRON T500), a new meta-diamide insecticide, for indoor residual spraying against pyrethroid-resistant malaria vectors.
 33845943	Converting endogenous genes of the malaria mosquito into simple non-autonomous gene drives for population replacement.
-33842833	Impact of 1.5 (o)C and 2 (o)C global warming scenarios on malaria transmission in East Africa.
