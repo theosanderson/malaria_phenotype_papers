@@ -1,3 +1,9 @@
+37165325	Influence of the sickle cell trait on Plasmodium falciparum infectivity from naturally infected gametocyte carriers.
+37164513	Differential impact of dual-active ingredient long-lasting insecticidal nets on primary malaria vectors: a secondary analysis of a 3-year, single-blind, cluster-randomised controlled trial in rural Tanzania.
+37164365	Association between inequalities in human resources for health and all cause and cause specific mortality in 172 countries and territories, 1990-2019: observational study.
+37164364	Australian Defence Force Global Health Engagement through malaria and other vectorborne disease programmes in the Pacific and Southeast Asia.
+37163950	Recent developments in antimalarial activities of 4-aminoquinoline derivatives.
+37163812	Influence of amino acid size at the P3 position of N-Cbz-tripeptide Michael acceptors targeting falcipain-2 and rhodesain for the treatment of malaria and human african trypanosomiasis.
 37163114	Two decades of molecular surveillance in Senegal reveal changes in known drug resistance mutations associated with historical drug use and seasonal malaria chemoprevention.
 37162984	Social network and household exposure explain the use of malaria prevention measures in rural communities of Meghalaya, India.
 37162697	Antimalarial ceramicines Q-T from Chisocheton ceramicus.
@@ -1015,7 +1021,7 @@
 36828535	Diagnostic Accuracy of a Thick Blood Smear Compared to qPCR for Malaria Associated with Pregnancy in Colombia.
 36828512	Civil Engineering and Malaria Risk: A Descriptive Study in a Rural Area of Cubal, Angola.
 36828459	Antimicrobial Compounds from Skin Secretions of Species That Belong to the Bufonidae Family.
-36828342	Viral, bacterial, metabolic, and autoimmune causes of severe acute encephalopathy in sub-Saharan Africa: a multicenter cohort study.
+36828342	Viral, Bacterial, Metabolic, and Autoimmune Causes of Severe Acute Encephalopathy in Sub-Saharan Africa: A Multicenter Cohort Study.
 36827904	The economic impacts of house screening against malaria transmission: Experimental evidence from eastern Zambia.
 36827423	Tribal Malaria in India: An Analysis of Malaria Incidence and Mortality over 20-Year Period (2000-2020).
 36827266	Optimizing hierarchical tree dissection parameters using historic epidemiologic data as 'ground truth'.
@@ -9991,9 +9997,3 @@
 33846394	Efficacy of broflanilide (VECTRON T500), a new meta-diamide insecticide, for indoor residual spraying against pyrethroid-resistant malaria vectors.
 33845943	Converting endogenous genes of the malaria mosquito into simple non-autonomous gene drives for population replacement.
 33842833	Impact of 1.5 (o)C and 2 (o)C global warming scenarios on malaria transmission in East Africa.
-33845156	Neurobehavioral, neurochemical and synaptic plasticity perturbations during postnatal life of rats exposed to chloroquine in-utero.
-33844839	THE EFFICACY OF MARINE NATURAL PRODUCTS AGAINST PLASMODIUM FALCIPARUM.
-33844650	House Structure Is Associated with Malaria among Febrile Patients in a High-Transmission Region of Zambia.
-33844521	Antimalarial Benzimidazole Derivatives Incorporating Phenolic Mannich Base Side Chains Inhibit Microtubule and Hemozoin Formation: Structure-Activity Relationship and In Vivo Oral Efficacy Studies.
-33844432	Search for the Active Ingredients from a 2-Aminothiazole DMSO Stock Solution with Antimalarial Activity.
-33843972	Plasmodium falciparum Atg18 localizes to the food vacuole via interaction with the multi-drug resistance protein 1 and phosphatidylinositol 3-phosphate.
