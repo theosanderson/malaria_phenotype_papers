@@ -1,3 +1,12 @@
+37170269	In vitro anti-plasmodial activity of three selected medicinal plants that are used in local traditional medicine in Amhara region of Ethiopia.
+37170228	Clinicians' satisfaction with laboratory services and associated factors at public health facilities in Northeast Ethiopia.
+37170175	Imported severe Plasmodium falciparum infection in the first trimester of pregnancy complicated by post-artemisinin delayed hemolysis and intrauterine fetal death, a case report.
+37169919	Chloroquine resistance evolution in Plasmodium falciparum is mediated by the putative amino acid transporter AAT1.
+37168860	mRNA vaccines: a new opportunity for malaria, tuberculosis and HIV.
+37168772	An automated neural network-based stage-specific malaria detection software using dimension reduction: The malaria microscopy classifier.
+37168098	Wing morphology variations in Culicoides circumscriptus from France.
+37167988	Evidence-based antenatal interventions to reduce the incidence of small vulnerable newborns and their associated poor outcomes.
+37170335	Spatially different annual cycles but similar haemosporidian infections in distant populations of collared sand martins.
 37167551	Spatial repellency and attractancy responses of some chemical lures against Aedes albopictus (Diptera: Culicidae) and Anopheles minimus (Diptera: Culicidae) using the high-throughput screening system.
 37167335	Semi-field evaluation of a volatile transfluthrin-based intervention reveals efficacy as a spatial repellent and evidence of other modes of action.
 37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
@@ -9988,12 +9997,3 @@
 33852995	Influence of malaria endemicity and tuberculosis prevalence on COVID-19 mortality.
 33852850	Avid binding by B cells to the Plasmodium circumsporozoite protein repeat suppresses responses to protective subdominant epitopes.
 33852304	Bioactive Dimeric Tetrahydroxanthones with 2,2'- and 4,4'-Axial Linkages from the Entomopathogenic Fungus Aschersonia confluens.
-33851670	Comparative evaluation of three histidine-rich Protein-2 based rapid diagnostic tests, microscopy and PCR for guiding malaria treatment in Ibadan, Southwest Nigeria.
-33851452	The emerging paradigm of calcium homeostasis as a new therapeutic target for protozoan parasites.
-33850988	Data on the physical function of children with cerebral malaria.
-33850301	IFN-λ4 is associated with increased risk and earlier occurrence of several common infections in African children.
-33849863	Severe stridor and profound weakness after cerebral malaria.
-33849572	Are malaria transmission-blocking vaccines acceptable to high burden communities? Results from a mixed methods study in Bo, Sierra Leone.
-33849556	Allelic diversity of merozoite surface protein genes (msp1 and msp2) and clinical manifestations of Plasmodium falciparum malaria cases in Aceh, Indonesia.
-31643549	Chloroquine.
-33848498	Migratory birds have higher prevalence and richness of avian haemosporidian parasites than residents.
