@@ -286,7 +286,7 @@
 37076896	Burden of mosquito-borne diseases across rural versus urban areas in Cameroon between 2002 and 2021: prospective for community-oriented vector management approaches.
 37076740	Optimal Interruption of P. vivax Malaria Transmission Using Mass Drug Administration.
 37076197	Improving coverage of antenatal iron and folic acid supplementation and malaria prophylaxis through targeted information and home deliveries in Côte d'Ivoire: a cluster randomised controlled trial.
-37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the Controlled Human Malaria Infection model.
+37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the controlled human malaria infection model.
 37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
 37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
 37074847	Infections and mental diseases: from tuberculosis to COVID-19.
@@ -1951,7 +1951,7 @@
 36479121	Hijacking the human complement inhibitor C4b-binding protein by the sporozoite stage of the Plasmodium falciparum parasite.
 36478812	Multispectral imaging for MicroChip electrophoresis enables point-of-care newborn hemoglobin variant screening.
 36478712	Seroprevalence of visceral leishmaniasis and its associated factors among asymptomatic pastoral community of Dire District, Borena zone, Oromia Region, Ethiopia.
-36478252	Integrative genetic manipulation of Plasmodium cynomolgi reveals MultiDrug Resistance-1 Y976F associated with increased in vitro susceptibility to mefloquine.
+36478252	Integrative Genetic Manipulation of Plasmodium cynomolgi Reveals Multidrug Resistance-1 Y976F Associated With Increased In Vitro Susceptibility to Mefloquine.
 36478167	Hematological profiles of malaria-infected patients in an endemic area of Peru.
 36478163	Systematic review of the diagnostic accuracy of thick smear compared to polymerase chain reaction for pregnancy-associated malaria, 2010-2022.
 36478038	A Breakthrough: Defining Plasmodium vivax Drug Resistance Genes.
