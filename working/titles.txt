@@ -1,3 +1,4 @@
+37171174	NMR Fingerprints of Formyl Phloroglucinol Meroterpenoids and Their Application to the Investigation of Eucalyptus gittinsii subsp. gittinsii.
 37170560	Rare presentation of gallbladder schistosomiasis: a case report.
 37170467	Monitoring antimalarial drug-resistance markers in Somalia.
 37170462	Antimalarial effect of synthetic endoperoxide on synchronized Plasmodium chabaudi infected mice.
@@ -9996,4 +9997,3 @@
 33853839	Cross-Reactivity of Two SARS-CoV-2 Serological Assays in a Setting Where Malaria Is Endemic.
 33853655	Intensity and mechanisms of deltamethrin and permethrin resistance in Anopheles gambiae s.l. populations in southern Benin.
 33853632	Testing configurations of attractive toxic sugar bait (ATSB) stations in Mali, West Africa, for improving the control of malaria parasite transmission by vector mosquitoes and minimizing their effect on non-target insects.
-33853336	Preventive measures, risk behaviour and the most common health problems in Czech travellers: a prospective questionnaire study in post-travel clinic outpatients.
