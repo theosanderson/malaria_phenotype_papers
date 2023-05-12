@@ -1,3 +1,7 @@
+37167551	Spatial repellency and attractancy responses of some chemical lures against Aedes albopictus (Diptera: Culicidae) and Anopheles minimus (Diptera: Culicidae) using the high-throughput screening system.
+37167335	Semi-field evaluation of a volatile transfluthrin-based intervention reveals efficacy as a spatial repellent and evidence of other modes of action.
+37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
+37167211	Investigating insecticide susceptibility status of adult mosquitoes against some class of insecticides in Osogbo metropolis, Osun State, Nigeria.
 37166116	The Plasmodium falciparum apicoplast cysteine desulfurase provides sulfur for both iron sulfur cluster assembly and tRNA modification.
 37165325	Influence of the sickle cell trait on Plasmodium falciparum infectivity from naturally infected gametocyte carriers.
 37164513	Differential impact of dual-active ingredient long-lasting insecticidal nets on primary malaria vectors: a secondary analysis of a 3-year, single-blind, cluster-randomised controlled trial in rural Tanzania.
@@ -955,7 +959,7 @@
 36849605	Author Correction: Mechanochemical tuning of a kinesin motor essential for malaria parasite transmission.
 36849589	Publisher Correction: Population size estimation of seasonal forest-going populations in southern Lao PDR.
 36849407	Afebrile Plasmodium Knowlesi Severe Malaria With A Fatal Outcome.
-36849257	In vitro testing of Trichomonas vaginalis drug susceptibility: evaluation of minimal lethal concentrations for metronidazole and tinidazole that correspond with treatment failure.
+36849257	In Vitro Testing of Trichomonas vaginalis Drug Susceptibility: Evaluation of Minimal Lethal Concentrations for Metronidazole and Tinidazole That Correspond With Treatment Failure.
 36849091	Insight into molecular diagnosis for antimalarial drug resistance of Plasmodium falciparum parasites: A review.
 36848976	Seaweed Sargassum wightii mediated preparation of TiO(2) nanoparticles, larvicidal activity against malaria and filariasis vectors, and its effect on non-target organisms.
 36848892	Results from a Knowledge, Attitudes, and Practices Survey in Two Malaria Transmission Foci of Santo Domingo, Dominican Republic.
@@ -9993,7 +9997,3 @@
 33849556	Allelic diversity of merozoite surface protein genes (msp1 and msp2) and clinical manifestations of Plasmodium falciparum malaria cases in Aceh, Indonesia.
 31643549	Chloroquine.
 33848498	Migratory birds have higher prevalence and richness of avian haemosporidian parasites than residents.
-33846776	Plasmodium infection prevents recurrence and metastasis of hepatocellular carcinoma possibly via inhibition of the epithelial‑mesenchymal transition.
-33846719	Malaria Infection Is Common and Associated With Perinatal Mortality and Preterm Delivery Despite Widespread Use of Chemoprevention in Mali: An Observational Study 2010 to 2014.
-33846394	Efficacy of broflanilide (VECTRON T500), a new meta-diamide insecticide, for indoor residual spraying against pyrethroid-resistant malaria vectors.
-33845943	Converting endogenous genes of the malaria mosquito into simple non-autonomous gene drives for population replacement.
