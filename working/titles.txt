@@ -1,3 +1,7 @@
+37170560	Rare presentation of gallbladder schistosomiasis: a case report.
+37170467	Monitoring antimalarial drug-resistance markers in Somalia.
+37170462	Antimalarial effect of synthetic endoperoxide on synchronized Plasmodium chabaudi infected mice.
+37170461	Genetic diversity of Plasmodium falciparum erythrocyte membrane protein 1 in field isolates from central Myanmar.
 37170269	In vitro anti-plasmodial activity of three selected medicinal plants that are used in local traditional medicine in Amhara region of Ethiopia.
 37170228	Clinicians' satisfaction with laboratory services and associated factors at public health facilities in Northeast Ethiopia.
 37170175	Imported severe Plasmodium falciparum infection in the first trimester of pregnancy complicated by post-artemisinin delayed hemolysis and intrauterine fetal death, a case report.
@@ -6,7 +10,6 @@
 37168772	An automated neural network-based stage-specific malaria detection software using dimension reduction: The malaria microscopy classifier.
 37168098	Wing morphology variations in Culicoides circumscriptus from France.
 37167988	Evidence-based antenatal interventions to reduce the incidence of small vulnerable newborns and their associated poor outcomes.
-37170335	Spatially different annual cycles but similar haemosporidian infections in distant populations of collared sand martins.
 37167551	Spatial repellency and attractancy responses of some chemical lures against Aedes albopictus (Diptera: Culicidae) and Anopheles minimus (Diptera: Culicidae) using the high-throughput screening system.
 37167335	Semi-field evaluation of a volatile transfluthrin-based intervention reveals efficacy as a spatial repellent and evidence of other modes of action.
 37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
@@ -9937,6 +9940,7 @@
 33875017	From 30 million to zero malaria cases in China: lessons learned for China-Africa collaboration in malaria elimination.
 33874984	Estimates of the population size and dispersal range of Anopheles arabiensis in Northern KwaZulu-Natal, South Africa: implications for a planned pilot programme to release sterile male mosquitoes.
 33874852	Blood transfusion and mortality in children with severe anaemia in a malaria-endemic region.
+37170335	Spatially different annual cycles but similar haemosporidian infections in distant populations of collared sand martins.
 33873132	Residents perceptions of the alcohol environment: A participatory photovoice project in two districts with different socio-economic status in a large city.
 33872659	The sexual side of parasitic protists.
 33872466	3D human liver spheroids for translational pharmacology and toxicology.
@@ -9993,7 +9997,3 @@
 33853655	Intensity and mechanisms of deltamethrin and permethrin resistance in Anopheles gambiae s.l. populations in southern Benin.
 33853632	Testing configurations of attractive toxic sugar bait (ATSB) stations in Mali, West Africa, for improving the control of malaria parasite transmission by vector mosquitoes and minimizing their effect on non-target insects.
 33853336	Preventive measures, risk behaviour and the most common health problems in Czech travellers: a prospective questionnaire study in post-travel clinic outpatients.
-33853225	[Current status of medical care of emerging infectious diseases at hospital emergency services in Spain].
-33852995	Influence of malaria endemicity and tuberculosis prevalence on COVID-19 mortality.
-33852850	Avid binding by B cells to the Plasmodium circumsporozoite protein repeat suppresses responses to protective subdominant epitopes.
-33852304	Bioactive Dimeric Tetrahydroxanthones with 2,2'- and 4,4'-Axial Linkages from the Entomopathogenic Fungus Aschersonia confluens.
