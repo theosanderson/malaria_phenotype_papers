@@ -1,3 +1,17 @@
+37176870	Potential Plant-Based New Antiplasmodial Agent Used in Papua Island, Indonesia.
+37175612	Molecular Research on Vector-Borne Diseases of Medical Interest: From Bench to Application 2.0.
+37175551	Anti-Cancer Effects of Artesunate in Human 3D Tumor Models of Different Complexity.
+37174948	Endometrial Staining of CD56 (Uterine Natural Killer), BCL-6, and CD138 (Plasma Cells) Improve Diagnosis and Clinical Pregnancy Outcomes in Unexplained Infertility and Recurrent IVF Failures: Standardization of Diagnosis with Digital Pathology.
+37173754	Evaluation of Long-lasting insecticidal nets (LLINs) for malaria control in an endemic area in Brazil.
+37173726	Post-malarial neurological syndrome in a Gambian adult residing in the Gambia: a case report and a review of literature.
+37173361	Characterization of Duffy Binding Protein II-specific CD4(+)T cell responses in Plasmodium vivax patients.
+37173329	Cytoprotective autophagy as a pro-survival strategy in ART-resistant malaria parasites.
+37173317	Modelling the impact of interventions on imported, introduced and indigenous malaria infections in Zanzibar, Tanzania.
+37173105	Cross-sectional health centre and community-based evaluation of the impact of pneumococcal and malaria vaccination on antibiotic prescription and usage, febrile illness and antimicrobial resistance in young children in Malawi: the IVAR study protocol.
+37172785	Reduced plasma cholesterol in Plasmodium falciparum infection: A meta-analysis.
+37172709	The most prominent modulated annexins during parasitic infections.
+37172603	The shared ethical framework to allocate scarce medical resources: a lesson from COVID-19.
+37172592	Human nuclear hormone receptor activity contributes to malaria parasite liver stage development.
 37171174	NMR Fingerprints of Formyl Phloroglucinol Meroterpenoids and Their Application to the Investigation of Eucalyptus gittinsii subsp. gittinsii.
 37170560	Rare presentation of gallbladder schistosomiasis: a case report.
 37170467	Monitoring antimalarial drug-resistance markers in Somalia.
@@ -9983,17 +9997,3 @@
 33858708	Application of telemedicine in infectious diseases.
 33858446	Malaria in pregnancy complications in Southern Venezuela.
 33858434	Do clinicians in areas of declining malaria transmission adhere to malaria diagnosis guidelines? A cross-sectional study from Kampala, Uganda.
-33858432	Agent-based modelling of complex factors impacting malaria prevalence.
-33857432	Stable high-density and maternally inherited Wolbachia infections in Anopheles moucheti and Anopheles demeilloni mosquitoes.
-33857426	Partial protection against P. vivax infection diminishes hypnozoite burden and blood-stage relapses.
-33856187	Plasmodium chabaudi Affects Mast Cell Degranulation as Measured by Carbon-Fiber Microelectrode Amperometry.
-33855964	[HIV and AIDS: a philatelic medical review].
-33855850	Plasmodium falciparum Ferredoxin-NADP(+) Reductase-Catalyzed Redox Cycling of Plasmodione Generates Both Predicted Key Drug Metabolites: Implication for Antimalarial Drug Development.
-33854824	The Relationship Between Market Environment Dimensions and Availability of Malaria Pills in Uganda.
-33854773	Perivascular macrophages create an intravascular niche for CD8(+) T cell localisation prior to the onset of fatal experimental cerebral malaria.
-33854532	Exploring the adjustment to parasite pressure hypothesis: differences in uropygial gland volume and haemosporidian infection in palearctic and neotropical birds.
-33854065	Accelerated phase Ia/b evaluation of the malaria vaccine candidate PfAMA1 DiCo demonstrates broadening of humoral immune responses.
-33853872	mSphere of Influence: an Army Marching on Its Stomach-Malaria Parasites Sense and Subvert Host Nutrition.
-33853839	Cross-Reactivity of Two SARS-CoV-2 Serological Assays in a Setting Where Malaria Is Endemic.
-33853655	Intensity and mechanisms of deltamethrin and permethrin resistance in Anopheles gambiae s.l. populations in southern Benin.
-33853632	Testing configurations of attractive toxic sugar bait (ATSB) stations in Mali, West Africa, for improving the control of malaria parasite transmission by vector mosquitoes and minimizing their effect on non-target insects.
