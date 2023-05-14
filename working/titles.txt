@@ -1,3 +1,5 @@
+37180169	TLR7 modulates extramedullary splenic erythropoiesis in P. yoelii NSM-infected mice through the regulation of iron metabolism of macrophages with IFN-γ.
+37179741	Severe Malaria with a Rare Tetrad of Blackwater Fever, Acute Renal Failure, Disseminated Intravascular Coagulopathy, and Acute Acalculous Cholecystitis.
 37179447	Blood-feeding adaptations and virome assessment of the poultry red mite Dermanyssus gallinae guided by RNA-seq.
 37179429	Projecting malaria elimination in Thailand using Bayesian hierarchical spatiotemporal models.
 37179349	Efficacy and safety of pyronaridine-artesunate versus artemether-lumefantrine in the treatment of acute uncomplicated malaria in children in South-West Nigeria: an open-labelled randomized controlled trial.
@@ -9995,5 +9997,3 @@
 33861744	New traps for the capture of Aedes aegypti (Linnaeus) and Aedes albopictus (Skuse) (Diptera: Culicidae) eggs and adults.
 33860724	Docking and molecular dynamics studies of potential new leads against DBL3x derived from chondroitin sulfate A (CSA): a new approach for the treatment of malaria.
 33860600	Association of low birth weight and polyparasitic infection during pregnancy in Lambaréné, Gabon.
-33860593	Implicating extracellular vesicles in Plasmodium falciparum artemisinin resistance development.
-33859783	Reconstruction of Plasmodium vivax outbreaks in a low malaria endemic setting utilizing conventional restriction fragment length polymorphism.
