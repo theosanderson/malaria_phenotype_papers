@@ -1,3 +1,10 @@
+37179447	Blood-feeding adaptations and virome assessment of the poultry red mite Dermanyssus gallinae guided by RNA-seq.
+37179429	Projecting malaria elimination in Thailand using Bayesian hierarchical spatiotemporal models.
+37179349	Efficacy and safety of pyronaridine-artesunate versus artemether-lumefantrine in the treatment of acute uncomplicated malaria in children in South-West Nigeria: an open-labelled randomized controlled trial.
+37179329	The oral microbiota is a reservoir for antimicrobial resistance: resistome and phenotypic resistance characteristics of oral biofilm in health, caries, and periodontitis.
+37179012	Clinical evaluation of commercial SARS-CoV-2 serological assays in a malaria endemic setting.
+37178744	A Modern Look at the Development of Intrauterine Pneumonia in Premature Newborns: Literature Review.
+37178448	Therapeutical Utilization and Repurposing of Artemisinin and Its Derivatives: A Narrative Review.
 37176870	Potential Plant-Based New Antiplasmodial Agent Used in Papua Island, Indonesia.
 37175612	Molecular Research on Vector-Borne Diseases of Medical Interest: From Bench to Application 2.0.
 37175551	Anti-Cancer Effects of Artesunate in Human 3D Tumor Models of Different Complexity.
@@ -9990,10 +9997,3 @@
 33860600	Association of low birth weight and polyparasitic infection during pregnancy in Lambaréné, Gabon.
 33860593	Implicating extracellular vesicles in Plasmodium falciparum artemisinin resistance development.
 33859783	Reconstruction of Plasmodium vivax outbreaks in a low malaria endemic setting utilizing conventional restriction fragment length polymorphism.
-33859703	In Vitro Antiplasmodial, Heme Polymerization, and Cytotoxicity of Hydroxyxanthone Derivatives.
-33859410	Open letter to international funders of science and development in Africa.
-33859236	A previously unknown way of heme detoxification in the digestive tract of cats.
-33858833	Subnational estimates of factors associated with under-five mortality in Kenya: a spatio-temporal analysis, 1993-2014.
-33858708	Application of telemedicine in infectious diseases.
-33858446	Malaria in pregnancy complications in Southern Venezuela.
-33858434	Do clinicians in areas of declining malaria transmission adhere to malaria diagnosis guidelines? A cross-sectional study from Kampala, Uganda.
