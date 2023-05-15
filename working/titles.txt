@@ -1,3 +1,6 @@
+37182106	Neurogenetic identification of mosquito sensory neurons.
+37181692	Knowledge, attitude, and adherence to malaria control guidelines and the prevalence of Plasmodium species infection in localities across transmission and ecological zones in Cameroon.
+37180246	Neonatal infection in Sub-Saharan Africa: a cross-sectional pilot study on bacterial pathogens and maternal risk factors.
 37180169	TLR7 modulates extramedullary splenic erythropoiesis in P. yoelii NSM-infected mice through the regulation of iron metabolism of macrophages with IFN-γ.
 37179741	Severe Malaria with a Rare Tetrad of Blackwater Fever, Acute Renal Failure, Disseminated Intravascular Coagulopathy, and Acute Acalculous Cholecystitis.
 37179447	Blood-feeding adaptations and virome assessment of the poultry red mite Dermanyssus gallinae guided by RNA-seq.
@@ -9994,6 +9997,3 @@
 33861784	Access to HIV-prevention in female sex workers in Ukraine between 2009 and 2017: Coverage, barriers and facilitators.
 33861755	Identification of long regulatory elements in the genome of Plasmodium falciparum and other eukaryotes.
 33861747	Enhanced passive surveillance dengue infection among febrile children: Prevalence, co-infections and associated factors in Cameroon.
-33861744	New traps for the capture of Aedes aegypti (Linnaeus) and Aedes albopictus (Skuse) (Diptera: Culicidae) eggs and adults.
-33860724	Docking and molecular dynamics studies of potential new leads against DBL3x derived from chondroitin sulfate A (CSA): a new approach for the treatment of malaria.
-33860600	Association of low birth weight and polyparasitic infection during pregnancy in Lambaréné, Gabon.
