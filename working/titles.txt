@@ -1,3 +1,5 @@
+37186359	Immunisation used for offensive and defensive purposes during the Second World War.
+37186167	Impact of the microbiome on mosquito-borne diseases.
 37184269	Cerebral Malaria and Cytotoxic Lesions of the Corpus Callosum.
 37182583	The Landscape of Parasitic Infections in the United States.
 37182516	Medicinal and mechanistic overview of artemisinin in the treatment of human diseases.
@@ -155,6 +157,7 @@
 37131226	Malaria prevalence in Mauritania: a systematic review and meta-analysis.
 37131225	Molecular investigation of malaria-infected patients in Djibouti city (2018-2021).
 37130502	Heat-shock responses: systemic and essential ways of malaria parasite survival.
+37184194	Hydroxychloroquine Therapy and G6PD Genotype.
 37130472	Biological activity of 1,2,3-triazole-2-amino-1,4-naphthoquinone derivatives and their evaluation as therapeutic strategy for malaria control.
 37130129	An Sfi1-like centrin-interacting centriolar plaque protein affects nuclear microtubule homeostasis.
 37130061	An Analysis of the Inclusion of Ear and Hearing Care in National Health Policies, Strategies, and Plans.
@@ -265,7 +268,7 @@
 37095480	Perennial malaria chemoprevention with and without malaria vaccination to reduce malaria burden in young children: a modelling analysis.
 37094808	Wind-assisted high-altitude dispersal of mosquitoes and other insects in East Africa.
 37094786	Design, Implementation, and Coordination of Malaria Therapeutic Efficacy Studies in Nigeria in 2018.
-37094783	Association between Livestock Ownership and Malaria Incidence in South-central Ethiopia: A Cohort Study.
+37094783	Association between Livestock Ownership and Malaria Incidence in South-Central Ethiopia: A Cohort Study.
 37094110	Structure-Activity Relationships Reveal Beneficial Selectivity Profiles of Inhibitors Targeting Acetylcholinesterase of Disease-Transmitting Mosquitoes.
 37093800	Transport of antibody into the skin is only partially dependent upon the neonatal Fc-receptor.
 37093779	Monoclonal antibody: future of malaria control and prevention.
@@ -9994,6 +9997,3 @@
 33864815	Anti-inflammatory effects of FS48, the first potassium channel inhibitor from the salivary glands of the flea Xenopsylla cheopis.
 33864801	Association of Plasmodium falciparum kelch13 R561H genotypes with delayed parasite clearance in Rwanda: an open-label, single-arm, multicentre, therapeutic efficacy study.
 33863572	A place for neutrophils in the beneficial pathogen-agnostic effects of the BCG vaccine.
-33863338	Gregarine single-cell transcriptomics reveals differential mitochondrial remodeling and adaptation in apicomplexans.
-33862049	Relationships between avian malaria resilience and corticosterone, testosterone and prolactin in a Hawaiian songbird.
-33861798	Results from a malaria indicator survey highlight the importance of routine data capture in high-risk forest and farm transmission sites in Vietnam to tailor location-specific malaria elimination interventions.
