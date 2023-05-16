@@ -1,3 +1,9 @@
+37189177	Household living conditions and individual behaviours associated with malaria risk: a community-based survey in the Limpopo River Valley, 2020, South Africa.
+37189116	Knowledge, attitudes, and practices of mothers regarding childhood malaria in southeastern Gabon.
+37189054	Frequency of pleural effusion in dengue patients by severity, age and imaging modality: a systematic review and meta-analysis.
+37187685	Malaria as Potential Aetiology and Treatment Complicating Factor in DLBCL Patient: A Case Report.
+37187601	Socio-economic predictors of uptake of malaria interventions among pregnant women and mothers of under 5 children in Oyo State, Nigeria: a cross-sectional study.
+37187502	Thrombocytopenia a predictor of malaria: how far?
 37186359	Immunisation used for offensive and defensive purposes during the Second World War.
 37186167	Impact of the microbiome on mosquito-borne diseases.
 37184269	Cerebral Malaria and Cytotoxic Lesions of the Corpus Callosum.
@@ -9991,9 +9997,3 @@
 33866636	Identification of new Anopheles gambiae transcriptional enhancers using a cross-species prediction approach.
 33865712	Anopheles stephensi (Asian Malaria Mosquito).
 33865468	Malaria in Venezuela: Gabaldón's legacy scattered to the winds.
-33865394	Community knowledge, attitudes and practices towards malaria in Ha-Lambani, Limpopo Province, South Africa: a cross-sectional household survey.
-33865392	The assembly effect: the connectedness between populations is a double-edged sword for public health interventions.
-33865383	Climate-proofing a malaria eradication strategy.
-33864815	Anti-inflammatory effects of FS48, the first potassium channel inhibitor from the salivary glands of the flea Xenopsylla cheopis.
-33864801	Association of Plasmodium falciparum kelch13 R561H genotypes with delayed parasite clearance in Rwanda: an open-label, single-arm, multicentre, therapeutic efficacy study.
-33863572	A place for neutrophils in the beneficial pathogen-agnostic effects of the BCG vaccine.
