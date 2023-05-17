@@ -1,3 +1,10 @@
+37193494	Performance of PfHRP2-RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
+37193492	Correction: Performance of PfHRP2‑RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
+37193450	Morbidity Pattern Among Adult Patients at the National Health Insurance Scheme Clinic of a Tertiary Hospital, Southwest Nigeria.
+37193245	Isolation and identification of microbiota of Culex quinquefasciatus for their application as paratransgenic tools in vector control.
+37193108	Two cases of COVID-19 presenting with severe malaria: a clinical challenge (case report).
+37192974	Targeting an essential Plasmodium cold shock protein to block growth and transmission of malaria parasite.
+37192683	Artesunate inhibits PDE4 leading to intracellular cAMP accumulation, reduced ERK/MAPK signaling, and blockade of influenza A virus vRNP nuclear export.
 37192562	Labeling strategies to track protozoan parasite proteome dynamics.
 37192151	Retention in care among people living with HIV in the national antiretroviral therapy programme in Guinea: A retrospective cohort analysis.
 37191558	Plasmodium falciparum Gametes and Sporozoites Hijack Plasmin and Factor H To Evade Host Complement Killing.
@@ -9990,10 +9997,3 @@
 33871981	Early Stages of Drug Discovery in an Academic Institution and Involvement of Pharma for Advancing Promising Leads.
 33871252	Selenium Derivatives as Promising Therapy for Chagas Disease: In Vitro and In Vivo Studies.
 33870856	In silico validation of novel inhibitors of malarial aspartyl protease, plasmepsin V and antimalarial efficacy prediction.
-33870697	Hydrogel-Based Stamping Technology for Solution-Free Blood Cell Staining.
-33870436	Plasmodium simium: Population Genomics Reveals the Origin of a Reverse Zoonosis.
-33868697	Evidence for natural hybridization and novel Wolbachia strain superinfections in the Anopheles gambiae complex from Guinea.
-33867989	Treatment Outcomes of Extensively Drug-Resistant Tuberculosis in Pakistan: A Countrywide Retrospective Record Review.
-33866961	The effectiveness of malaria camps as part of the Durgama Anchalare Malaria Nirakaran (DAMaN) program in Odisha, India: study protocol for a cluster-assigned quasi-experimental study.
-33866656	Relationship between symptoms, barriers to care and healthcare utilisation among children under five in rural Mali.
-33866636	Identification of new Anopheles gambiae transcriptional enhancers using a cross-species prediction approach.
