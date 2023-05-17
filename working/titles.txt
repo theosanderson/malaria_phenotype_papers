@@ -1,3 +1,5 @@
+37194608	Integrating and coordinating programs for the management of anemia across the life course.
+37194452	Oplodiol and nitidine as potential inhibitors of Plasmodium falciparum dihydrofolate reductase: insights from a computational study.
 37193494	Performance of PfHRP2-RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
 37193492	Correction: Performance of PfHRP2‑RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
 37193450	Morbidity Pattern Among Adult Patients at the National Health Insurance Scheme Clinic of a Tertiary Hospital, Southwest Nigeria.
@@ -990,6 +992,7 @@
 36860220	Deltamethrin Poisoning Mimicking Organophosphate Poisoning: A Case Report.
 36860205	Genetic characterization of Strongyloides fuelleborni infecting free-roaming African vervets (Chlorocebus aethiops sabaeus) on the Caribbean island of St. Kitts.
 36859621	Antimalarial activity assay of artesunate-3-chloro-4(4-chlorophenoxy) aniline in vitro and in mice models.
+36859408	Neurologic Care of Forcibly Displaced Persons: Emerging Issues in Neurology.
 36859263	Identifying individual, household and environmental risk factors for malaria infection on Bioko Island to inform interventions.
 36859238	A snapshot of the prevalence of dihydropteroate synthase-431V mutation and other sulfadoxine-pyrimethamine resistance markers in Plasmodium falciparum isolates in Nigeria.
 36858568	Evaluation of Malarial Var2CSA-Displaying Baculovirus Vector in Transduction Efficiency in Human Cancer Cells.
@@ -9994,6 +9997,3 @@
 33872466	3D human liver spheroids for translational pharmacology and toxicology.
 33872212	Development of rSs-NIE-1 and rSs-IR Recombinant Antigen-Based Immunoblot for Detection of Antibody to Strongyloides stercoralis.
 33872208	Detecting Malaria Hotspots in Haiti, a Low-Transmission Setting.
-33871981	Early Stages of Drug Discovery in an Academic Institution and Involvement of Pharma for Advancing Promising Leads.
-33871252	Selenium Derivatives as Promising Therapy for Chagas Disease: In Vitro and In Vivo Studies.
-33870856	In silico validation of novel inhibitors of malarial aspartyl protease, plasmepsin V and antimalarial efficacy prediction.
