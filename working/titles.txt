@@ -1,3 +1,5 @@
+37192562	Labeling strategies to track protozoan parasite proteome dynamics.
+37192151	Retention in care among people living with HIV in the national antiretroviral therapy programme in Guinea: A retrospective cohort analysis.
 37191558	Plasmodium falciparum Gametes and Sporozoites Hijack Plasmin and Factor H To Evade Host Complement Killing.
 37189177	Household living conditions and individual behaviours associated with malaria risk: a community-based survey in the Limpopo River Valley, 2020, South Africa.
 37189116	Knowledge, attitudes, and practices of mothers regarding childhood malaria in southeastern Gabon.
@@ -9995,5 +9997,3 @@
 33866961	The effectiveness of malaria camps as part of the Durgama Anchalare Malaria Nirakaran (DAMaN) program in Odisha, India: study protocol for a cluster-assigned quasi-experimental study.
 33866656	Relationship between symptoms, barriers to care and healthcare utilisation among children under five in rural Mali.
 33866636	Identification of new Anopheles gambiae transcriptional enhancers using a cross-species prediction approach.
-33865712	Anopheles stephensi (Asian Malaria Mosquito).
-33865468	Malaria in Venezuela: Gabaldón's legacy scattered to the winds.
