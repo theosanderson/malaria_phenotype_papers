@@ -1,3 +1,4 @@
+37199084	Radial spoke protein 9 is necessary for axoneme assembly in Plasmodium but not in trypanosomatid parasites.
 37198702	Malaria vaccines: the 60-year journey of hope and final success-lessons learned and future prospects.
 37198392	Detection of dengue virus infection in children presenting with fever in Hawassa, southern Ethiopia.
 37198165	Structural basis of epitope selectivity and potent protection from malaria by PfCSP antibody L9.
@@ -22,6 +23,7 @@
 37193108	Two cases of COVID-19 presenting with severe malaria: a clinical challenge (case report).
 37192974	Targeting an essential Plasmodium cold shock protein to block growth and transmission of malaria parasite.
 37192683	Artesunate inhibits PDE4 leading to intracellular cAMP accumulation, reduced ERK/MAPK signaling, and blockade of influenza A virus vRNP nuclear export.
+37196138	Chloroquine Therapy and G6PD Genotype.
 37192562	Labeling strategies to track protozoan parasite proteome dynamics.
 37192151	Retention in care among people living with HIV in the national antiretroviral therapy programme in Guinea: A retrospective cohort analysis.
 37191558	Plasmodium falciparum Gametes and Sporozoites Hijack Plasmin and Factor H To Evade Host Complement Killing.
@@ -4966,7 +4968,7 @@
 35508558	Diagnostic performance of a 5-plex malaria immunoassay in regions co-endemic for Plasmodium falciparum, P. vivax, P. knowlesi, P. malariae and P. ovale.
 35507937	Efficacy of Plasmodium falciparum histidine-rich protein 2 ( Pfhrp 2) rapid diagnostic test (RDT) and microscopy in the detection of falciparum malaria among symptomatic patients in Akure, Nigeria.
 35507927	Genetic diversity of Duffy binding protein 2 region II ofPlasmodium cynomolgi from wild macaques in Peninsular Malaysia.
-35507781	Design and Molecular Docking Studies of N-Mannich Base Derivatives of Primaquine Bearing Isatin on the Targets involved in the pathophysiology of Cerebral Malaria.
+35507781	Design and Molecular Docking Studies of N-Mannich Base Derivatives of Primaquine Bearing Isatin on the Targets involved in the Pathophysiology of Cerebral Malaria.
 35507574	Malaria transmission in Africa: Its relationship with yellow fever and measles.
 35507548	Mechanistic basis for multidrug resistance and collateral drug sensitivity conferred to the malaria parasite by polymorphisms in PfMDR1 and PfCRT.
 35506504	The Impact of Activity-Based Protein Profiling in Malaria Drug Discovery.
@@ -9995,5 +9997,3 @@
 33879186	A systematic review of factors influencing participation in two types of malaria prevention intervention in Southeast Asia.
 33879164	Ten years of monitoring malaria trend and factors associated with malaria test positivity rates in Lower Moshi.
 33879163	Maintaining Plasmodium falciparum gametocyte infectivity during blood collection and transport for mosquito feeding assays in the field.
-33879159	Costing electronic private sector malaria surveillance in the Greater Mekong Subregion.
-33879156	Glucose-6-phosphate dehydrogenase mutations in malaria endemic area of Thailand by multiplexed high-resolution melting curve analysis.
