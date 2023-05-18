@@ -1,3 +1,6 @@
+37199766	Molecular detection and species identification of Plasmodium spp. infection among imported cases in Eastern China, 2012-2018.
+37199750	Approaches for in vitro propagation and production of plumbagin in Plumbago spp.
+37199265	Chemical library design, QSAR modeling and molecular dynamics simulations of naturally occurring coumarins as dual inhibitors of MAO-B and AChE.
 37199084	Radial spoke protein 9 is necessary for axoneme assembly in Plasmodium but not in trypanosomatid parasites.
 37198702	Malaria vaccines: the 60-year journey of hope and final success-lessons learned and future prospects.
 37198392	Detection of dengue virus infection in children presenting with fever in Hawassa, southern Ethiopia.
@@ -9994,6 +9997,3 @@
 33879245	Assessment of Babesia bovis 6cys A and 6cys B as components of transmission blocking vaccines for babesiosis.
 33879244	Insecticide resistance status in Anopheles gambiae (s.l.) in coastal Kenya.
 33879232	Impacts of ivermectin mass drug administration for onchocerciasis on mosquito populations of Ogun state, Nigeria.
-33879186	A systematic review of factors influencing participation in two types of malaria prevention intervention in Southeast Asia.
-33879164	Ten years of monitoring malaria trend and factors associated with malaria test positivity rates in Lower Moshi.
-33879163	Maintaining Plasmodium falciparum gametocyte infectivity during blood collection and transport for mosquito feeding assays in the field.
