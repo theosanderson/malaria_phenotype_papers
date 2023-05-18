@@ -1,3 +1,8 @@
+37196007	Prevalence, intensity and associated risk factors of soil-transmitted helminth infections among individuals living in Bata district, Equatorial Guinea.
+37195999	Distinct immune responses associated with vaccination status and protection outcomes after malaria challenge.
+37195995	Reconsideration of importance of the point mutation L982W in the voltage-sensitive sodium channel of the pyrethroid resistant Aedes aegypti (L.)(Diptera: Culicidae) in Vietnam.
+37195979	Spatial variation and attributable risk factors of anaemia among young children in Uganda: Evidence from a nationally representative survey.
+37195964	Intervention reducing malaria parasite load in vector mosquitoes: No impact on Plasmodium falciparum extrinsic incubation period and the survival of Anopheles gambiae.
 37194608	Integrating and coordinating programs for the management of anemia across the life course.
 37194452	Oplodiol and nitidine as potential inhibitors of Plasmodium falciparum dihydrofolate reductase: insights from a computational study.
 37193494	Performance of PfHRP2-RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
@@ -9992,8 +9997,3 @@
 33874984	Estimates of the population size and dispersal range of Anopheles arabiensis in Northern KwaZulu-Natal, South Africa: implications for a planned pilot programme to release sterile male mosquitoes.
 33874852	Blood transfusion and mortality in children with severe anaemia in a malaria-endemic region.
 37170335	Spatially different annual cycles but similar haemosporidian infections in distant populations of collared sand martins.
-33873132	Residents perceptions of the alcohol environment: A participatory photovoice project in two districts with different socio-economic status in a large city.
-33872659	The sexual side of parasitic protists.
-33872466	3D human liver spheroids for translational pharmacology and toxicology.
-33872212	Development of rSs-NIE-1 and rSs-IR Recombinant Antigen-Based Immunoblot for Detection of Antibody to Strongyloides stercoralis.
-33872208	Detecting Malaria Hotspots in Haiti, a Low-Transmission Setting.
