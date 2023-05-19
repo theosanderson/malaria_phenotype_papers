@@ -1,3 +1,7 @@
+37202807	Cost of inappropriate prescriptions for uncomplicated malaria in Ghana.
+37202779	Prevalence of mutations in the cysteine desulfurase IscS (Pfnfs1) gene in recurrent Plasmodium falciparum infections following artemether-lumefantrine (AL) and dihydroartemisinin-piperaquine (DP) treatment in Matayos, Western Kenya.
+37202254	Origin and diversity of malaria parasites and other Haemosporida.
+37202137	Evaluation of emergency care education and triage implementation: an observational study at a hospital in rural Liberia.
 37201124	Fractions 14 and 36K of Metabolite Extract Streptomyces hygroscopicus subsp. Hygroscopicus Have Antimalarial Activities Against Plasmodium berghei in vitro.
 37200952	Cerebrospinal fluid biomarkers provide evidence for kidney-brain axis involvement in cerebral malaria pathogenesis.
 37200871	Prevalence of malaria infection and the impact of mosquito bed net distribution among children aged 6-59 months in Ghana: Evidence from the Ghana demographic health and malarial indicator surveys.
@@ -9993,7 +9997,3 @@
 33882912	IFN-λ4 genetic variants influence clinical malaria episodes in a cohort of Kenyan children.
 33882855	Changes in health-related quality of life and the associated factors among Myanmar migrants with tuberculosis: a cohort study.
 36003598	Prediction of neuropeptide precursors and differential expression of adipokinetic hormone/corazonin-related peptide, hugin and corazonin in the brain of malaria vector Nyssorhynchus albimanus during a Plasmodium berghei infection.
-33882310	Glucose-mediated proliferation of a gut commensal bacterium promotes Plasmodium infection by increasing mosquito midgut pH.
-33882131	High prevalence of opisthorchiasis in rural populations from Khammouane Province, central Lao PDR: serological screening using total IgG- and IgG4-based ELISA.
-33882067	Correction: An antigenic diversification threshold for falciparum malaria transmission at high endemicity.
-33881041	Emerging point-of-care technologies for anemia detection.
