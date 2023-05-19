@@ -1,3 +1,4 @@
+37204422	Genomic variation during culture adaptation of genetically complex Plasmodium falciparum clinical isolates.
 37203321	Identification of Glucose-6 Phosphate Dehydrogenase Deficient Patients Using Attenuated Total Reflection Fourier Transform Infrared Spectroscopy Using Partial Least Squares Discriminant Analysis in Aqueous Blood Samples.
 37202934	Burden of tuberculosis & malaria among tribal populations & implications for disease elimination in India.
 37202807	Cost of inappropriate prescriptions for uncomplicated malaria in Ghana.
@@ -9996,4 +9997,3 @@
 33884010	Situation of Asymptomatic Malaria among Iranian Native and Afghan and Pakistani Immigrants in a Malarious Area under the National Malaria Elimination Program of Iran.
 33883843	Evaluation of Acute and Sub-Acute Toxicity of Aqueous Extracts of Artemisia afra Leaves on Brain, Heart and Suprarenal Glands in Swiss Albino Mice.
 33883760	Effect of health seeking behaviour of caregivers on severe malaria outcome in under-fives seen in a tertiary health institution in Nigeria.
-33882912	IFN-λ4 genetic variants influence clinical malaria episodes in a cohort of Kenyan children.
