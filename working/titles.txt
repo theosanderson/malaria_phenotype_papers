@@ -1,8 +1,6 @@
 37201124	Fractions 14 and 36K of Metabolite Extract Streptomyces hygroscopicus subsp. Hygroscopicus Have Antimalarial Activities Against Plasmodium berghei in vitro.
 37200952	Cerebrospinal fluid biomarkers provide evidence for kidney-brain axis involvement in cerebral malaria pathogenesis.
 37200871	Prevalence of malaria infection and the impact of mosquito bed net distribution among children aged 6-59 months in Ghana: Evidence from the Ghana demographic health and malarial indicator surveys.
-37200864	Decrypting the complexity of the human malaria parasite biology through systems biology approaches.
-37200690	Addressing the Challenges of Chagas Disease: An Emerging Health Concern in the United States.
 37200515	One Step Closer to Ending AIDS in Children.
 37200250	Long lasting anti-IgG chikungunya seropositivity in the Mayotte population will not be enough to prevent future outbreaks: A seroprevalence study, 2019.
 37199766	Molecular detection and species identification of Plasmodium spp. infection among imported cases in Eastern China, 2012-2018.
@@ -6568,6 +6566,7 @@
 34973474	Comparative performance of WANTAI ELISA for total immunoglobulin to receptor binding protein and an ELISA for IgG to spike protein in detecting SARS-CoV-2 antibodies in Kenyan populations.
 34973453	Imported malaria in Switzerland, (1990-2019): A retrospective analysis.
 34973333	Enzymatic and structural characterization of HAD5, an essential phosphomannomutase of malaria-causing parasites.
+37200864	Decrypting the complexity of the human malaria parasite biology through systems biology approaches.
 37017189	Challenges in diagnosing fever in traveler returning from tropical ares - is it dengue or chikungunya? Case report.
 36998722	Unravelling var complexity: Relationship between DBLα types and var genes in Plasmodium falciparum.
 36260729	Killing mosquitoes: Think before you swat.
@@ -9997,3 +9996,4 @@
 33882310	Glucose-mediated proliferation of a gut commensal bacterium promotes Plasmodium infection by increasing mosquito midgut pH.
 33882131	High prevalence of opisthorchiasis in rural populations from Khammouane Province, central Lao PDR: serological screening using total IgG- and IgG4-based ELISA.
 33882067	Correction: An antigenic diversification threshold for falciparum malaria transmission at high endemicity.
+33881041	Emerging point-of-care technologies for anemia detection.
