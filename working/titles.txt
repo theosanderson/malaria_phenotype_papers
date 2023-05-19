@@ -1,3 +1,10 @@
+37201124	Fractions 14 and 36K of Metabolite Extract Streptomyces hygroscopicus subsp. Hygroscopicus Have Antimalarial Activities Against Plasmodium berghei in vitro.
+37200952	Cerebrospinal fluid biomarkers provide evidence for kidney-brain axis involvement in cerebral malaria pathogenesis.
+37200871	Prevalence of malaria infection and the impact of mosquito bed net distribution among children aged 6-59 months in Ghana: Evidence from the Ghana demographic health and malarial indicator surveys.
+37200864	Decrypting the complexity of the human malaria parasite biology through systems biology approaches.
+37200690	Addressing the Challenges of Chagas Disease: An Emerging Health Concern in the United States.
+37200515	One Step Closer to Ending AIDS in Children.
+37200250	Long lasting anti-IgG chikungunya seropositivity in the Mayotte population will not be enough to prevent future outbreaks: A seroprevalence study, 2019.
 37199766	Molecular detection and species identification of Plasmodium spp. infection among imported cases in Eastern China, 2012-2018.
 37199750	Approaches for in vitro propagation and production of plumbagin in Plumbago spp.
 37199265	Chemical library design, QSAR modeling and molecular dynamics simulations of naturally occurring coumarins as dual inhibitors of MAO-B and AChE.
@@ -9990,10 +9997,3 @@
 33882310	Glucose-mediated proliferation of a gut commensal bacterium promotes Plasmodium infection by increasing mosquito midgut pH.
 33882131	High prevalence of opisthorchiasis in rural populations from Khammouane Province, central Lao PDR: serological screening using total IgG- and IgG4-based ELISA.
 33882067	Correction: An antigenic diversification threshold for falciparum malaria transmission at high endemicity.
-33881041	Emerging point-of-care technologies for anemia detection.
-33879496	Dual RNA Sequencing Meta-analysis in Plasmodium Infection Identifies Host-Parasite Interactions.
-33879250	Additional evidence on the efficacy of different Akirin vaccines assessed on Anopheles arabiensis (Diptera: Culicidae).
-33879247	Co-infection of hepatitis E virus and Plasmodium falciparum malaria: A genuine risk in sub-Saharan Africa.
-33879245	Assessment of Babesia bovis 6cys A and 6cys B as components of transmission blocking vaccines for babesiosis.
-33879244	Insecticide resistance status in Anopheles gambiae (s.l.) in coastal Kenya.
-33879232	Impacts of ivermectin mass drug administration for onchocerciasis on mosquito populations of Ogun state, Nigeria.
