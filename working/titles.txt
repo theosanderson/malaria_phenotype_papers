@@ -1,3 +1,11 @@
+37206586	The role of monocytes in malaria infection.
+37206261	Red blood cell alloantibodies in paediatric transfusion in sub-Saharan Africa: A new cohort and literature review.
+37205968	Safety, Tolerability, and Pharmacokinetics of Oral Ferric Maltol in Children With Iron Deficiency: Phase 1 Study.
+37205786	Optical Coherence Tomography and Optical Coherence Tomography Angiography in Neglected Diseases.
+37205645	Community-level impacts of the coronavirus pandemic on malaria prevention and health-seeking behaviours in rural Benin: A mixed methods study.
+37205446	Boosting Live Malaria Vaccine with Cytomegalovirus Vector Can Prolong Immunity through Innate and Adaptive Mechanisms.
+37205382	Applying the COM-B behavior model to inform the delivery of spatial repellents and insecticide-treated clothing among forest exposed populations in Mondulkiri Province, Cambodia.
+37204994	Pseudo-Romaña Sign Due to Botfly Infestation.
 37204422	Genomic variation during culture adaptation of genetically complex Plasmodium falciparum clinical isolates.
 37203321	Identification of Glucose-6 Phosphate Dehydrogenase Deficient Patients Using Attenuated Total Reflection Fourier Transform Infrared Spectroscopy Using Partial Least Squares Discriminant Analysis in Aqueous Blood Samples.
 37202934	Burden of tuberculosis & malaria among tribal populations & implications for disease elimination in India.
@@ -631,7 +639,7 @@
 36990624	Endemic or regionally limited parasitic and fungal infections in haematopoietic stem-cell transplantation recipients: a Worldwide Network for Blood and Marrow Transplantation (WBMT) Review.
 36990255	Plasmodium Iron-Sulfur [Fe-S] cluster assembly protein Dre2 as a plausible target of Artemisinin: Mechanistic insights derived in a prokaryotic heterologous system.
 36989322	Serum anti-erythropoietin antibodies among pregnant women with Plasmodium falciparum malaria and anaemia: A case-control study in northern Ghana.
-36988415	Clinical evaluation of BioFire® multiplex-PCR panel for acute undifferentiated febrile illnesses in travellers: a prospective multicenter study.
+36988415	Clinical evaluation of BioFire® multiplex-PCR panel for acute undifferentiated febrile illnesses in travellers: a prospective multicentre study.
 36987993	Accelerating action to reduce anemia: Review of causes and risk factors and related data needs.
 36986868	Derivatives of Amaryllidaceae Alkaloid Ambelline as Selective Inhibitors of Hepatic Stage of Plasmodium berghei Infection In Vitro.
 36986583	Vitamin E TPGS-Based Nanomedicine, Nanotheranostics, and Targeted Drug Delivery: Past, Present, and Future.
@@ -1476,7 +1484,7 @@
 36696414	The impact of ABO and RhD blood types on Babesia microti infection.
 36695302	RNA-Seq-Pop: Exploiting the sequence in RNA sequencing-A Snakemake workflow reveals patterns of insecticide resistance in the malaria vector Anopheles gambiae.
 36695215	Prospective study of pyrexia with pregnancy.
-36694975	Unusual blood smear with multiple stages of plasmodium falciparum infection and intraleukocytic malaria pigments in an expatriate with severe malaria and delayed clearance of parasites.
+36694975	Unusual blood smear with multiple stages of Plasmodium falciparum infection and intraleukocytic malaria pigments in an expatriate with severe malaria and delayed clearance of parasites.
 36694567	Potential of RH5 Antisense on Plasmodium falciparum Proliferation Abatement.
 36694313	Multi-target Polypharmacology of 4-aminoquinoline Compounds against Malaria, Tuberculosis and Cancer.
 36694092	In vitro model of brain endothelial cell barrier reveals alterations induced by Plasmodium blood stage factors.
@@ -1605,7 +1613,7 @@
 36639683	High-throughput analysis of the transcriptional patterns of sexual genes in malaria.
 36639160	Spatiotemporal dynamics of malaria in Zanzibar, 2015-2020.
 36639159	Financing global health security: estimating the costs of pandemic preparedness in Global Fund eligible countries.
-36637429	Health care seeking during travel: an analysis by the GeoSentinel surveillance network of travel medicine providers.
+36637429	Healthcare seeking during travel: an analysis by the GeoSentinel surveillance network of travel medicine providers.
 36637101	Comparative analysis of glass and Hemotek membrane feeding systems for malaria transmission research.
 36637052	Enzyme-substrate interactions in orotate-mimetic OPRT inhibitor complexes: a QM/MM analysis.
 36636815	Synergistic interaction of two bHLH transcription factors positively regulates artemisinin biosynthetic pathway in Artemisia annua L.
@@ -3555,7 +3563,7 @@
 35961349	The COVID-19 pandemic and disruptions to essential health services in Kenya: a retrospective time-series analysis.
 35961343	Simple and structured model to build sequencing capacity in west Africa.
 35961203	Plasmodium falciparum sexual conversion rates can be affected by artemisinin-based treatment in naturally infected malaria patients.
-35960997	The first case of artemisinin treatment failure of plasmodium falciparum imported to Oman from Tanzania.
+35960997	The first case of artemisinin treatment failure of Plasmodium falciparum imported to Oman from Tanzania.
 35960629	A Simple Method for Immunohistochemistry and Imaging of Mosquito Salivary Glands.
 35960626	Visualization of the Linear and Spatial Organization of Chromosomes in Mosquitoes.
 35960615	Performing Immunohistochemistry in Mosquito Salivary Glands.
@@ -9989,11 +9997,3 @@
 33886685	Some conditions apply: Systems for studying Plasmodium falciparum protein function.
 33886601	Suitability of IgG responses to multiple Plasmodium falciparum antigens as markers of transmission intensity and pattern.
 33886571	Tick-borne relapsing fever Borreliosis, a major public health problem overlooked in Senegal.
-33886567	The application of spectroscopy techniques for diagnosis of malaria parasites and arboviruses and surveillance of mosquito vectors: A systematic review and critical appraisal of evidence.
-33885818	Atractylodin inhibited the migration and induced autophagy in cholangiocarcinoma cells via PI3K/AKT/mTOR and p38MAPK signalling pathways.
-33885760	Olfaction in Anopheles mosquitoes.
-33884347	IN VITRO ANTIMALARIAL ACTIVITY AND TOXICITY STUDIES OF JOHAR (CASSIA SIAMEA) LEAVES FROM THREE DIFFERENT LOCATIONS.
-33884171	A target safety assessment of the potential toxicological risks of targeting plasmepsin IX/X for the treatment of malaria.
-33884010	Situation of Asymptomatic Malaria among Iranian Native and Afghan and Pakistani Immigrants in a Malarious Area under the National Malaria Elimination Program of Iran.
-33883843	Evaluation of Acute and Sub-Acute Toxicity of Aqueous Extracts of Artemisia afra Leaves on Brain, Heart and Suprarenal Glands in Swiss Albino Mice.
-33883760	Effect of health seeking behaviour of caregivers on severe malaria outcome in under-fives seen in a tertiary health institution in Nigeria.
