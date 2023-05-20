@@ -1,4 +1,3 @@
-37206586	The role of monocytes in malaria infection.
 37206261	Red blood cell alloantibodies in paediatric transfusion in sub-Saharan Africa: A new cohort and literature review.
 37205786	Optical Coherence Tomography and Optical Coherence Tomography Angiography in Neglected Diseases.
 37205645	Community-level impacts of the coronavirus pandemic on malaria prevention and health-seeking behaviours in rural Benin: A mixed methods study.
@@ -9997,3 +9996,4 @@
 33886601	Suitability of IgG responses to multiple Plasmodium falciparum antigens as markers of transmission intensity and pattern.
 33886571	Tick-borne relapsing fever Borreliosis, a major public health problem overlooked in Senegal.
 33886567	The application of spectroscopy techniques for diagnosis of malaria parasites and arboviruses and surveillance of mosquito vectors: A systematic review and critical appraisal of evidence.
+33885818	Atractylodin inhibited the migration and induced autophagy in cholangiocarcinoma cells via PI3K/AKT/mTOR and p38MAPK signalling pathways.
