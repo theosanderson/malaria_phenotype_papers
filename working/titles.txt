@@ -1,3 +1,11 @@
+37208735	Isoliensinine from Cissampelos pariera rhizomes exhibits potential gametocytocidal and anti-malarial activities against Plasmodium falciparum clinical isolates.
+37208733	Assessment of precision in growth inhibition assay (GIA) using human anti-PfRH5 antibodies.
+37208708	Anti-malarial resistance in Mozambique: Absence of Plasmodium falciparum Kelch 13 (K13) propeller domain polymorphisms associated with resistance to artemisinins.
+37208382	Ivermectin metabolites reduce Anopheles survival.
+37208365	EB1 decoration of microtubule lattice facilitates spindle-kinetochore lateral attachment in Plasmodium male gametogenesis.
+37208148	Mosquito Larvae and Pupae Transport from the Field.
+37208120	Mapping malaria incidence using routine health facility surveillance data in Uganda.
+37207628	Proteasome inhibitors: The next generation of antimalarial drugs?
 37206261	Red blood cell alloantibodies in paediatric transfusion in sub-Saharan Africa: A new cohort and literature review.
 37205786	Optical Coherence Tomography and Optical Coherence Tomography Angiography in Neglected Diseases.
 37205645	Community-level impacts of the coronavirus pandemic on malaria prevention and health-seeking behaviours in rural Benin: A mixed methods study.
@@ -9989,11 +9997,3 @@
 33888092	Plasmodium vinckei genomes provide insights into the pan-genome and evolution of rodent malaria parasites.
 33887682	Nucleotide analogues containing a pyrrolidine, piperidine or piperazine ring: Synthesis and evaluation of inhibition of plasmodial and human 6-oxopurine phosphoribosyltransferases and in vitro antimalarial activity.
 33887681	Synthesis and structure-activity relationships of new chiral spiro-β-lactams highly active against HIV-1 and Plasmodium.
-33887278	Advanced Lyophilised Loop Mediated Isothermal Amplification (L-LAMP) based point of care technique for the detection of dengue virus.
-33886696	Actives from MMV Open Access Boxes? A suggested way forward.
-33886689	Correction: Costs of continuing RTS,S/ASO1E malaria vaccination in the three malaria vaccine pilot implementation countries.
-33886685	Some conditions apply: Systems for studying Plasmodium falciparum protein function.
-33886601	Suitability of IgG responses to multiple Plasmodium falciparum antigens as markers of transmission intensity and pattern.
-33886571	Tick-borne relapsing fever Borreliosis, a major public health problem overlooked in Senegal.
-33886567	The application of spectroscopy techniques for diagnosis of malaria parasites and arboviruses and surveillance of mosquito vectors: A systematic review and critical appraisal of evidence.
-33885818	Atractylodin inhibited the migration and induced autophagy in cholangiocarcinoma cells via PI3K/AKT/mTOR and p38MAPK signalling pathways.
