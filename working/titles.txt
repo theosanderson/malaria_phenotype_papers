@@ -1,11 +1,9 @@
 37206586	The role of monocytes in malaria infection.
 37206261	Red blood cell alloantibodies in paediatric transfusion in sub-Saharan Africa: A new cohort and literature review.
-37205968	Safety, Tolerability, and Pharmacokinetics of Oral Ferric Maltol in Children With Iron Deficiency: Phase 1 Study.
 37205786	Optical Coherence Tomography and Optical Coherence Tomography Angiography in Neglected Diseases.
 37205645	Community-level impacts of the coronavirus pandemic on malaria prevention and health-seeking behaviours in rural Benin: A mixed methods study.
 37205446	Boosting Live Malaria Vaccine with Cytomegalovirus Vector Can Prolong Immunity through Innate and Adaptive Mechanisms.
 37205382	Applying the COM-B behavior model to inform the delivery of spatial repellents and insecticide-treated clothing among forest exposed populations in Mondulkiri Province, Cambodia.
-37204994	Pseudo-Romaña Sign Due to Botfly Infestation.
 37204422	Genomic variation during culture adaptation of genetically complex Plasmodium falciparum clinical isolates.
 37203321	Identification of Glucose-6 Phosphate Dehydrogenase Deficient Patients Using Attenuated Total Reflection Fourier Transform Infrared Spectroscopy Using Partial Least Squares Discriminant Analysis in Aqueous Blood Samples.
 37202934	Burden of tuberculosis & malaria among tribal populations & implications for disease elimination in India.
@@ -9245,6 +9243,7 @@
 34127020	A cross-country comparison of malaria policy as a premise for contextualized appropriation of foreign aid in global health.
 34126997	Using deep learning to identify recent positive selection in malaria parasite sequence data.
 34126991	Post-mortem diagnosis of imported malaria in France: a case report.
+37205968	Safety, Tolerability, and Pharmacokinetics of Oral Ferric Maltol in Children With Iron Deficiency: Phase 1 Study.
 34126212	Ethno medical knowledge and traditional use of Aristolochia bracteolata Lam. for malaria among local communities in Jubek State of South Sudan: A cross-sectional survey.
 34125861	Intragenomic sequence variations in the second internal transcribed spacer (ITS2) ribosomal DNA of the malaria vector Anopheles stephensi.
 34125702	Quantification of the Proportion of Unfavorable Clinical Outcomes among Imported Malaria Patients According to the Degree of Semi-Immunity on Population Level: An Ecological Study.
@@ -9997,3 +9996,4 @@
 33886685	Some conditions apply: Systems for studying Plasmodium falciparum protein function.
 33886601	Suitability of IgG responses to multiple Plasmodium falciparum antigens as markers of transmission intensity and pattern.
 33886571	Tick-borne relapsing fever Borreliosis, a major public health problem overlooked in Senegal.
+33886567	The application of spectroscopy techniques for diagnosis of malaria parasites and arboviruses and surveillance of mosquito vectors: A systematic review and critical appraisal of evidence.
