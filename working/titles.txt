@@ -1,3 +1,9 @@
+37210535	The first year of the COVID-19 pandemic in humanitarian settings: epidemiology, health service utilization, and health care seeking behavior in Bangui and surrounding areas, Central African Republic.
+37210520	Adherence to 14-day radical cure for Plasmodium vivax malaria in Papua, Indonesia: a mixed-methods study.
+37209974	Hair concentrations of anti-malarials in returned travellers-the HAIR study: Proof of principle analysis.
+37209696	Microscopic Evidence of Malaria Infection in Visceral Tissue from Medici Family, Italy.
+37209680	Human scent guides mosquito thermotaxis and host selection under naturalistic conditions.
+37209670	Similar Prevalence of Plasmodium falciparum and Non-P. falciparum Malaria Infections among Schoolchildren, Tanzania(1).
 37209378	The Determinants of Utilisation of Herbal Medicine Among Pregnant Women in the Asante Akim North District, Ghana.
 37208735	Isoliensinine from Cissampelos pariera rhizomes exhibits potential gametocytocidal and anti-malarial activities against Plasmodium falciparum clinical isolates.
 37208733	Assessment of precision in growth inhibition assay (GIA) using human anti-PfRH5 antibodies.
@@ -9991,9 +9997,3 @@
 33890844	Anti-plasmodial activity of aqueous neem leaf extract mediated green synthesis-based silver nitrate nanoparticles.
 33889137	Mosquito Trilogy: Microbiota, Immunity and Pathogens, and Their Implications for the Control of Disease Transmission.
 33889007	Acute Phase Responses Vary Between Children of HbAS and HbAA Genotypes During Plasmodium falciparum Infection.
-33888955	COVID-19 Blind Spots: A Consensus Statement on the Importance of Competent Political Leadership and the Need for Public Health Cognizance.
-33888898	Systems analysis and controlled malaria infection in Europeans and Africans elucidate naturally acquired immunity.
-33888897	Experience counts in the malaria response.
-33888590	A Look Inside: Oral Sampling for Detection of Non-oral Infectious Diseases.
-33888109	A cornucopia of research resources for the fourth rodent malaria parasite species.
-33888092	Plasmodium vinckei genomes provide insights into the pan-genome and evolution of rodent malaria parasites.
