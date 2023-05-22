@@ -1,3 +1,5 @@
+37210961	Developing population identification tool based on polymorphism of rDNA for traditional Chinese medicine: Artemisia annua L.
+37210920	Vanadium compounds as antiparasitic agents: An approach to their mechanisms of action.
 37210535	The first year of the COVID-19 pandemic in humanitarian settings: epidemiology, health service utilization, and health care seeking behavior in Bangui and surrounding areas, Central African Republic.
 37210520	Adherence to 14-day radical cure for Plasmodium vivax malaria in Papua, Indonesia: a mixed-methods study.
 37209974	Hair concentrations of anti-malarials in returned travellers-the HAIR study: Proof of principle analysis.
@@ -9995,5 +9997,3 @@
 33891580	The changing epidemiology of Plasmodium vivax: Insights from conventional and novel surveillance tools.
 33891560	World Malaria Day 2021: Commemorating 15 Years of Contribution by the United States President's Malaria Initiative.
 33890844	Anti-plasmodial activity of aqueous neem leaf extract mediated green synthesis-based silver nitrate nanoparticles.
-33889137	Mosquito Trilogy: Microbiota, Immunity and Pathogens, and Their Implications for the Control of Disease Transmission.
-33889007	Acute Phase Responses Vary Between Children of HbAS and HbAA Genotypes During Plasmodium falciparum Infection.
