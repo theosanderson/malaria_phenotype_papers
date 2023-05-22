@@ -1,3 +1,8 @@
+37213951	A Surge in Malaria Cases in the Eastern Health Region of Saudi Arabia During the COVID-19 Pandemic.
+37213267	Identifying and Managing Vector-Borne Diseases in Migrants and Recent Travelers in the Emergency Department.
+37213266	Recent Advances in Imported Malaria Pathogenesis, Diagnosis, and Management.
+37212694	Plasmodium Topoisomerase VIB and Spo11 Constitute Functional Type IIB Topoisomerase in Malaria Parasite: Its Possible Role in Mitochondrial DNA Segregation.
+37212590	Generating Genetically Modified Plasmodium berghei Sporozoites.
 37210961	Developing population identification tool based on polymorphism of rDNA for traditional Chinese medicine: Artemisia annua L.
 37210920	Vanadium compounds as antiparasitic agents: An approach to their mechanisms of action.
 37210535	The first year of the COVID-19 pandemic in humanitarian settings: epidemiology, health service utilization, and health care seeking behavior in Bangui and surrounding areas, Central African Republic.
@@ -9992,8 +9997,3 @@
 33891589	Towards the elimination of Plasmodium vivax malaria: Implementing the radical cure.
 33891587	The prevention and treatment of Plasmodium vivax malaria.
 33891584	Taking on Plasmodium vivax malaria: A timely and important challenge.
-33891582	Estimated impact of tafenoquine for Plasmodium vivax control and elimination in Brazil: A modelling study.
-33891581	Glucose-6-phosphate dehydrogenase activity in individuals with and without malaria: Analysis of clinical trial, cross-sectional and case-control data from Bangladesh.
-33891580	The changing epidemiology of Plasmodium vivax: Insights from conventional and novel surveillance tools.
-33891560	World Malaria Day 2021: Commemorating 15 Years of Contribution by the United States President's Malaria Initiative.
-33890844	Anti-plasmodial activity of aqueous neem leaf extract mediated green synthesis-based silver nitrate nanoparticles.
