@@ -1189,7 +1189,7 @@
 36810194	BOHEMIA: Broad One Health Endectocide-based Malaria Intervention in Africa-a phase III cluster-randomized, open-label, clinical trial to study the safety and efficacy of ivermectin mass drug administration to reduce malaria transmission in two African settings.
 36810077	A comparative assessment of the community frontline health workers for their knowledge and practices of malaria diagnosis and treatment in three contiguous districts Mandla, Balaghat, and Dindori of Madhya Pradesh, India.
 36810015	Reported reasons for non-use of insecticide-treated nets in large national household surveys, 2009-2021.
-36809956	Naturally Occurring xanthones; Biological Activities, Chemical Profiles and In silico Drug Discovery.
+36809956	Naturally Occurring Xanthones; Biological Activities, Chemical Profiles and In Silico Drug Discovery.
 36809247	Health worker compliance with severe malaria treatment guidelines in the context of implementing pre-referral rectal artesunate in the Democratic Republic of the Congo, Nigeria, and Uganda: An operational study.
 36809084	Medical Parasitology Taxonomy Update, June 2020-June 2022.
 36808528	A genome-wide map of DNA replication at single-molecule resolution in the malaria parasite Plasmodium falciparum.
