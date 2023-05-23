@@ -1,3 +1,11 @@
+37216290	Plasmodium falciparum Eukaryotic Translation Initiation Factor 3 is Stabilized by Quinazoline-Quinoline Bisubstrate Inhibitors.
+37216080	Delayed Hemolysis With Parenteral Artesunate.
+37215882	Correlates of haemoglobin level in mothers of children under two years in Nanton district: A cross-sectional study from Ghana.
+37215766	Mosquito repellent fabric: Development and characterization of peppermint and garlic mixture finish on knitted fabric to examine mosquito repellency.
+37215099	Is TNF alpha a mediator in the co-existence of malaria and type 2 diabetes in a malaria endemic population?
+37214835	Malaria, gastrointestinal parasite infection and nutritional status among febrile children in Accra, Ghana.
+37214770	Migrants in transit across Central America and the potential spread of chloroquine resistant malaria-a call for action.
+37214733	Chemical Composition and Antiplasmodial Activity of the Essential Oil of Rhododendron subarcticum Leaves from Nunavik, Québec, Canada.
 37213951	A Surge in Malaria Cases in the Eastern Health Region of Saudi Arabia During the COVID-19 Pandemic.
 37213267	Identifying and Managing Vector-Borne Diseases in Migrants and Recent Travelers in the Emergency Department.
 37213266	Recent Advances in Imported Malaria Pathogenesis, Diagnosis, and Management.
@@ -3345,6 +3353,7 @@
 36046524	Agrimonia pilosa Ledeb.: A review of its traditional uses, botany, phytochemistry, pharmacology, and toxicology.
 36045832	Spontaneous bilateral subdural hematoma in a patient with a prosthetic valve and association with plasmodium vivax malaria: A rare case report.
 36045616	Antimalarial and Anticancer Activity Evaluation of Bridged Ozonides, Aminoperoxides, and Tetraoxanes.
+36045000	Preventive small-quantity lipid-based nutrient supplements reduce severe wasting and severe stunting among young children: an individual participant data meta-analysis of randomized controlled trials.
 36044540	Dynamic Palmitoylation of Red Cell Membrane Proteins Governs Susceptibility to Invasion by the Malaria Parasite, Plasmodium falciparum.
 36043956	The prevalence of sickling abnormality in Oman: A review of relevant publications.
 36043709	An Insight to Heat Shock Protein 90: A Remedy for Multiple Problems.
@@ -9988,12 +9997,3 @@
 33894412	Epitope-specific IgG pools identify PfCRT monomer and homodimer polypeptides that are differentially phosphorylated at Ser(411) in Plasmodium falciparum.
 33894303	Intranasal artesunate-loaded nanostructured lipid carriers: A convenient alternative to parenteral formulations for the treatment of severe and cerebral malaria.
 33893998	Phytochemistry and pharmacological activity of the genus artemisia.
-33893464	Sell yourself and your science in a compelling personal statement.
-33893146	Malaria vaccine becomes first to achieve 75% efficacy goal in trial of children.
-33893037	Future vaccines in pregnancy.
-33892706	Association between intimate partner violence and the use of maternal health care services among married Malawian women.
-33892107	Unintentional artenimol/piperaquine overdose in two children occurring without evidence of subsequent cardiotoxicity.
-33891721	Effectiveness of Intermittent Preventive Treatment With Dihydroartemisinin-Piperaqunine Against Malaria in Pregnancy in Tanzania: A Randomized Controlled Trial.
-33891589	Towards the elimination of Plasmodium vivax malaria: Implementing the radical cure.
-33891587	The prevention and treatment of Plasmodium vivax malaria.
-33891584	Taking on Plasmodium vivax malaria: A timely and important challenge.
