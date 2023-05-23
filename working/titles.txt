@@ -1,3 +1,8 @@
+37219776	Simulation of the potential impact of climate change on malaria incidence using artificial neural networks (ANNs).
+37219610	Escaping the enemy's bullets: an update on how malaria parasites evade host immune response.
+37219373	A novel Modulator of Ring Stage Translation (MRST) gene alters artemisinin sensitivity in Plasmodium falciparum.
+37219047	Integration and application of new approach methodologies in assessing the developmental hazards: Case study with an antimalarial drug.
+37219006	OMIP-93: A 41-color high parameter panel to characterize various co-inhibitory molecules and their ligands in the lymphoid and myeloid compartment in mice.
 37218195	Therapeutic Application of Pineapple: A Review.
 37217984	Performance of the procedure for ultra-rapid extraction and loop-mediated isothermal amplification (PURE-LAMP) method to detect malaria in Haiti.
 37217235	A shared agenda for gender and COVID-19 research: priorities based on broadening engagement in science.
@@ -9992,8 +9997,3 @@
 33897210	Factors Influencing Compliance with The Utilization of Effective Malaria Treatment and Preventive Measures in Wulu, South Sudan.
 33884362	Proceedings of an expert workshop on community agreement for gene drive research in Africa - Co-organised by KEMRI, PAMCA and Target Malaria.
 36483328	Deep Learning-Based Cell Detection and Extraction in Thin Blood Smears for Malaria Diagnosis.
-33895706	A trio of quinoline-isoniazid-phthalimide with promising antiplasmodial potential: Synthesis, in-vitro evaluation and heme-polymerization inhibition studies.
-33895575	Air pollution and DNA methylation in adults: A systematic review and meta-analysis of observational studies.
-33895413	Diagnosis of childhood tuberculosis in Pakistan: Are national guidelines used by private healthcare providers?
-33895406	Dynamics of maternally transferred antibodies against measles, mumps, and rubella in infants in Sri Lanka.
-33894842	1st Women in Malaria conference.
