@@ -1,3 +1,4 @@
+37218195	Therapeutic Application of Pineapple: A Review.
 37217984	Performance of the procedure for ultra-rapid extraction and loop-mediated isothermal amplification (PURE-LAMP) method to detect malaria in Haiti.
 37217235	A shared agenda for gender and COVID-19 research: priorities based on broadening engagement in science.
 37217004	A pitfall of cognitive bias during the pandemic: Two cases of Plasmodium falciparum malaria coinfected or misdiagnosed with COVID-19.
@@ -9996,4 +9997,3 @@
 33895413	Diagnosis of childhood tuberculosis in Pakistan: Are national guidelines used by private healthcare providers?
 33895406	Dynamics of maternally transferred antibodies against measles, mumps, and rubella in infants in Sri Lanka.
 33894842	1st Women in Malaria conference.
-33894823	Faith Osier: inspirational immunologist.
