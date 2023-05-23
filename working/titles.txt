@@ -1,3 +1,7 @@
+37217984	Performance of the procedure for ultra-rapid extraction and loop-mediated isothermal amplification (PURE-LAMP) method to detect malaria in Haiti.
+37217235	A shared agenda for gender and COVID-19 research: priorities based on broadening engagement in science.
+37217004	A pitfall of cognitive bias during the pandemic: Two cases of Plasmodium falciparum malaria coinfected or misdiagnosed with COVID-19.
+37216996	The glycobiology of plasmodium falciparum: New approaches and recent advances.
 37216290	Plasmodium falciparum Eukaryotic Translation Initiation Factor 3 is Stabilized by Quinazoline-Quinoline Bisubstrate Inhibitors.
 37216080	Delayed Hemolysis With Parenteral Artesunate.
 37215882	Correlates of haemoglobin level in mothers of children under two years in Nanton district: A cross-sectional study from Ghana.
@@ -9993,7 +9997,3 @@
 33895406	Dynamics of maternally transferred antibodies against measles, mumps, and rubella in infants in Sri Lanka.
 33894842	1st Women in Malaria conference.
 33894823	Faith Osier: inspirational immunologist.
-33894764	Comparing malaria early detection methods in a declining transmission setting in northwestern Ethiopia.
-33894412	Epitope-specific IgG pools identify PfCRT monomer and homodimer polypeptides that are differentially phosphorylated at Ser(411) in Plasmodium falciparum.
-33894303	Intranasal artesunate-loaded nanostructured lipid carriers: A convenient alternative to parenteral formulations for the treatment of severe and cerebral malaria.
-33893998	Phytochemistry and pharmacological activity of the genus artemisia.
