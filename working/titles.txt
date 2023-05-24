@@ -1,3 +1,12 @@
+37223898	Analysis of Postdischarge Interventions for Children Treated for Moderate or Severe Wasting, Growth Faltering or Failure, or Edema: A Systematic Review.
+37223876	An old foe on peculiar paths: severe falciparum malaria in a Syrian refugee, possibly infected during migrant smuggling from Türkiye to Germany.
+37223718	The Influence of Cytochrome P450 Polymorphisms on Pharmacokinetic Profiles and Treatment Outcomes Among Malaria Patients in Sub-Saharan Africa: A Systematic Review.
+37223113	Corrigendum to "Persistently high proportions of plasmodium-infected Anopheles funestus mosquitoes in two villages in the Kilombero valley, South-Eastern Tanzania" [Parasite Epidemiology and Control 18 (2022) e00264].
+37223061	A case of atypical vivax malaria with a global review of reports on myriads of morpho-variations in parasitized red blood cells.
+37222623	Nonbacterial Microflora in Wastewater Treatment Plants: an Underappreciated Potential Source of Pathogens.
+37222435	An overview on the antimalarial activity of 1,2,4-trioxanes, 1,2,4-trioxolanes and 1,2,4,5-tetraoxanes.
+37222353	Acceptability of short message service (SMS) as a tool for malaria treatment adherence in the Brazilian Amazon: a qualitative study.
+37222351	Malaria and COVID-19 coinfection in a non-malaria-endemic area in Brazil.
 37221466	Phase 1 trial to model primary, secondary, and tertiary dengue using a monovalent vaccine.
 37221182	Plasmodium sporozoite search strategy to locate hotspots of blood vessel invasion.
 37221018	Seasonal malaria chemoprevention drug levels and drug resistance markers in children with or without malaria in Burkina Faso: a case control study.
@@ -9988,12 +9997,3 @@
 33901169	Controlled human malaria infection-Maker and breaker of dogma.
 33901003	Ivermectin Treatment for Cattle Reduced the Survival of Two Malaria Vectors, Anopheles dirus and Anopheles epiroticus, Under Laboratory Conditions in Central Vietnam.
 33901002	Post-Malaria Anemia Is Rare in Malawian Children with Cerebral Malaria.
-33900010	Treatment with chloroquine is retinotoxic in captive African penguins (Speniscus demersus). Attenuation and recovery of electroretinographic responses.
-33899033	Asymptomatic and symptomatic SARS-CoV-2 infections elicit polyfunctional antibodies.
-33898400	CRISPR/Cas9 Ribonucleoprotein-Based Genome Editing Methodology in the Marine Protozoan Parasite Perkinsus marinus.
-33898332	Plasmodium Reproduction, Cell Size, and Transcription: How to Cope With Increasing DNA Content?
-33898230	Experimental manipulation of cavity temperature produces differential effects on parasite abundances in blue tit nests at two different latitudes.
-33898211	Qualitative needs assessment for paediatric emergency care in Kampala, Uganda.
-33897764	G6PD Polymorphisms and Hemolysis After Antimalarial Treatment With Low Single-Dose Primaquine: A Pooled Analysis of Six African Clinical Trials.
-33897745	An R2R3-MYB Transcription Factor Positively Regulates the Glandular Secretory Trichome Initiation in Artemisia annua L.
-33897254	Evaluating the impact of COVID-19 pandemic lockdown on education in Nigeria: Insights from teachers and students on virtual/online learning.
