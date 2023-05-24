@@ -1,3 +1,5 @@
+37220241	Gas-Phase Studies of Hypoxanthine-Guanine-(Xanthine) Phosphoribosyltransferase (HG(X)PRT) Substrates.
+37220111	Effect of milk protein and whey permeate in large quantity lipid-based nutrient supplement on linear growth and body composition among stunted children: A randomized 2 × 2 factorial trial in Uganda.
 37219776	Simulation of the potential impact of climate change on malaria incidence using artificial neural networks (ANNs).
 37219610	Escaping the enemy's bullets: an update on how malaria parasites evade host immune response.
 37219373	A novel Modulator of Ring Stage Translation (MRST) gene alters artemisinin sensitivity in Plasmodium falciparum.
@@ -9995,5 +9997,3 @@
 33897221	Feasibility of Malaria Elimination in Ethiopia.
 33897211	Sequence Analysis of Pvama-1 among Plasmodium Vivax Isolates in Sistan-Baluchistan.
 33897210	Factors Influencing Compliance with The Utilization of Effective Malaria Treatment and Preventive Measures in Wulu, South Sudan.
-33884362	Proceedings of an expert workshop on community agreement for gene drive research in Africa - Co-organised by KEMRI, PAMCA and Target Malaria.
-36483328	Deep Learning-Based Cell Detection and Extraction in Thin Blood Smears for Malaria Diagnosis.
