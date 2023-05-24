@@ -1,3 +1,6 @@
+37221466	Phase 1 trial to model primary, secondary, and tertiary dengue using a monovalent vaccine.
+37221182	Plasmodium sporozoite search strategy to locate hotspots of blood vessel invasion.
+37221018	Seasonal malaria chemoprevention drug levels and drug resistance markers in children with or without malaria in Burkina Faso: a case control study.
 37220241	Gas-Phase Studies of Hypoxanthine-Guanine-(Xanthine) Phosphoribosyltransferase (HG(X)PRT) Substrates.
 37220111	Effect of milk protein and whey permeate in large quantity lipid-based nutrient supplement on linear growth and body composition among stunted children: A randomized 2 × 2 factorial trial in Uganda.
 37219776	Simulation of the potential impact of climate change on malaria incidence using artificial neural networks (ANNs).
@@ -9994,6 +9997,3 @@
 33897764	G6PD Polymorphisms and Hemolysis After Antimalarial Treatment With Low Single-Dose Primaquine: A Pooled Analysis of Six African Clinical Trials.
 33897745	An R2R3-MYB Transcription Factor Positively Regulates the Glandular Secretory Trichome Initiation in Artemisia annua L.
 33897254	Evaluating the impact of COVID-19 pandemic lockdown on education in Nigeria: Insights from teachers and students on virtual/online learning.
-33897221	Feasibility of Malaria Elimination in Ethiopia.
-33897211	Sequence Analysis of Pvama-1 among Plasmodium Vivax Isolates in Sistan-Baluchistan.
-33897210	Factors Influencing Compliance with The Utilization of Effective Malaria Treatment and Preventive Measures in Wulu, South Sudan.
