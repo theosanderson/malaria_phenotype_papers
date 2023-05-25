@@ -1,3 +1,5 @@
+37227504	Mosquito gene targeted RNAi studies for vector control.
+37227253	Fostering Innovation to solve the biomechanics of Microbe-Host Interactions: Focus on the adhesive forces underlying Apicomplexa parasite biology.
 37226561	Importance of Balanced Attention Toward Coronavirus Disease 2019 and Neglected Tropical Diseases.
 37226272	Poor performance of malaria rapid diagnostic tests for the detection of Plasmodium malariae among returned international travellers in China.
 37226196	Molecular drivers of insecticide resistance in the Sahelo-Sudanian populations of a major malaria vector Anopheles coluzzii.
@@ -9995,5 +9997,3 @@
 33902599	Baseline incidence of meningitis, malaria, mortality and other health outcomes in infants and young sub-Saharan African children prior to the introduction of the RTS,S/AS01(E) malaria vaccine.
 33902567	Falciparum but not vivax malaria increases the risk of hypertensive disorders of pregnancy in women followed prospectively from the first trimester.
 33902452	Genome sequence, transcriptome, and annotation of rodent malaria parasite Plasmodium yoelii nigeriensis N67.
-33901900	Combating multi-drug resistant malaria parasite by inhibiting falcipain-2 and heme-polymerization: Artemisinin-peptidyl vinyl phosphonate hybrid molecules as new antimalarials.
-33901899	Fused-azepinones: Emerging scaffolds of medicinal importance.
