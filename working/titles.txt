@@ -1,3 +1,4 @@
+37224167	A qualitative study of health workers' perspectives on malaria case identification and management among pregnant women in Savelugu Municipality, Ghana.
 37223898	Analysis of Postdischarge Interventions for Children Treated for Moderate or Severe Wasting, Growth Faltering or Failure, or Edema: A Systematic Review.
 37223876	An old foe on peculiar paths: severe falciparum malaria in a Syrian refugee, possibly infected during migrant smuggling from Türkiye to Germany.
 37223718	The Influence of Cytochrome P450 Polymorphisms on Pharmacokinetic Profiles and Treatment Outcomes Among Malaria Patients in Sub-Saharan Africa: A Systematic Review.
@@ -9996,4 +9997,3 @@
 33901172	Potential for community based surveillance of febrile diseases: Feasibility of self-administered rapid diagnostic tests in Iquitos, Peru and Phnom Penh, Cambodia.
 33901169	Controlled human malaria infection-Maker and breaker of dogma.
 33901003	Ivermectin Treatment for Cattle Reduced the Survival of Two Malaria Vectors, Anopheles dirus and Anopheles epiroticus, Under Laboratory Conditions in Central Vietnam.
-33901002	Post-Malaria Anemia Is Rare in Malawian Children with Cerebral Malaria.
