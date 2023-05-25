@@ -1,3 +1,4 @@
+37226561	Importance of Balanced Attention Toward Coronavirus Disease 2019 and Neglected Tropical Diseases.
 37226272	Poor performance of malaria rapid diagnostic tests for the detection of Plasmodium malariae among returned international travellers in China.
 37226196	Molecular drivers of insecticide resistance in the Sahelo-Sudanian populations of a major malaria vector Anopheles coluzzii.
 37225557	Regulatory T cells in parasite infections: susceptibility, specificity and specialisation.
@@ -9996,4 +9997,3 @@
 33902452	Genome sequence, transcriptome, and annotation of rodent malaria parasite Plasmodium yoelii nigeriensis N67.
 33901900	Combating multi-drug resistant malaria parasite by inhibiting falcipain-2 and heme-polymerization: Artemisinin-peptidyl vinyl phosphonate hybrid molecules as new antimalarials.
 33901899	Fused-azepinones: Emerging scaffolds of medicinal importance.
-33901679	Plasmodium falciparum SURFIN(4.1) forms an intermediate complex with PTEX components and Pf113 during export to the red blood cell.
