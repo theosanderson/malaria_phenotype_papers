@@ -1789,7 +1789,7 @@
 36599869	Myzomyia and Pyretophorus series of Anopheles mosquitoes acting as probable vectors of the goat malaria parasite Plasmodium caprae in Thailand.
 36598908	Clinical and laboratory presentation of first-time antenatal care visits of pregnant women in Ghana, a hospital-based study.
 36598082	Molecular characterization of anopheline mosquitoes from the goat malaria-endemic areas of Thailand.
-36597608	New Strategies in the Treatment of Plasmodium Berghei Based on Nanoparticles: A Systematic Review.
+36597608	New Strategies in the Treatment of Plasmodium berghei Based on Nanoparticles: A Systematic Review.
 36597267	A Drug Repurposing Approach to Identify Therapeutics by Screening Pathogen Box Exploiting SARS-CoV-2 Main Protease.
 36597115	Testing the effects of mass drug administration of azithromycin on mortality and other outcomes among 1-11-month-old infants in Mali (LAKANA): study protocol for a cluster-randomized, placebo-controlled, double-blinded, parallel-group, three-arm clinical trial.
 36597076	Randomized, open-label, phase 2a study to evaluate the contribution of artefenomel to the clinical and parasiticidal activity of artefenomel plus ferroquine in African patients with uncomplicated Plasmodium falciparum malaria.
