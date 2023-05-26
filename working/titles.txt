@@ -178,7 +178,7 @@
 37167335	Semi-field evaluation of a volatile transfluthrin-based intervention reveals efficacy as a spatial repellent and evidence of other modes of action.
 37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
 37167211	Investigating insecticide susceptibility status of adult mosquitoes against some class of insecticides in Osogbo metropolis, Osun State, Nigeria.
-37166116	The Plasmodium falciparum apicoplast cysteine desulfurase provides sulfur for both iron sulfur cluster assembly and tRNA modification.
+37166116	The Plasmodium falciparum apicoplast cysteine desulfurase provides sulfur for both iron-sulfur cluster assembly and tRNA modification.
 37165325	Influence of the sickle cell trait on Plasmodium falciparum infectivity from naturally infected gametocyte carriers.
 37164513	Differential impact of dual-active ingredient long-lasting insecticidal nets on primary malaria vectors: a secondary analysis of a 3-year, single-blind, cluster-randomised controlled trial in rural Tanzania.
 37164365	Association between inequalities in human resources for health and all cause and cause specific mortality in 172 countries and territories, 1990-2019: observational study.
