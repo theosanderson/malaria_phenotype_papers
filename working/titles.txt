@@ -1,3 +1,8 @@
+37231516	Correction: Genetic variations in human ATP2B4 gene alter Plasmodium falciparum in vitro growth in RBCs from Gambian adults.
+37231429	Evaluation of the protective efficacy of Olyset®Plus ceiling net on reducing malaria prevalence in children in Lake Victoria Basin, Kenya: study protocol for a cluster-randomized controlled trial.
+37231336	Use of artesunate in the treatment of severe imported malaria in France: review of the effectiveness and real-life safety in two French university hospitals.
+37231184	Holobiont perspectives on tripartite interactions among microbiota, mosquitoes, and pathogens.
+37230159	Characterisation of Anopheles species composition and genetic diversity in Meghalaya, northeast India, using molecular identification tools.
 37229438	Decrease on malaria clinical cases from 2017 to 2019 in Franceville, Southeast Gabon, Central Africa.
 37229304	In vivo antiplasmodial activities of stem bark extracts of Avicennia marina in Plasmodium berghei-infected mice.
 37228733	Making districts functional for universal health coverage attainment: lessons from Ghana.
@@ -9992,8 +9997,3 @@
 33906095	Development and application of a novel multiplex PCR assay for the differentiation of four haemosporidian parasites in the chicken Gallus gallus domesticus.
 33905890	Immunoinformatics approach for multi-epitope vaccine design against P. falciparum malaria.
 33905815	Creative interior design by Plasmodium falciparum: Lipid metabolism and the parasite's secret chamber.
-33905433	Factors associated with iron deficiency anaemia among pregnant teenagers in Ashanti Region, Ghana: A hospital-based prospective cohort study.
-33905310	Review of the mechanism underlying mefloquine-induced neurotoxicity.
-33904986	[Travelling with children and adolescents with rheumatic diseases].
-33904907	Exposure to Diverse Plasmodium falciparum Genotypes Shapes the Risk of Symptomatic Malaria in Incident and Persistent Infections: A Longitudinal Molecular Epidemiologic Study in Kenya.
-33903754	Malaria vaccine shows promise - now come tougher trials.
