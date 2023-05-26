@@ -1,3 +1,12 @@
+37234089	A cell transmembrane peptide chimeric M(27-39)-HTPP targeted therapy for hepatocellular carcinoma.
+37233815	Molecular investigation on infection by haemosporidians in three Western Palearctic species of swift (Apodidae) and their ectoparasitic louse flies.
+37233654	Secondary Metabolites Isolated from Artemisia afra and Artemisia annua and Their Anti-Malarial, Anti-Inflammatory and Immunomodulating Properties-Pharmacokinetics and Pharmacodynamics: A Review.
+37233511	Synthesis and Antimalarial Evaluation of Halogenated Analogues of Thiaplakortone A.
+37233473	Marine Invertebrates: A Promissory Still Unexplored Source of Inhibitors of Biomedically Relevant Metallo Aminopeptidases Belonging to the M1 and M17 Families.
+37233085	Integrated Plan of Insecticide Resistance Surveillance in Mosquito Vectors in France.
+37233033	Mosquito Blood Feeding Prevention Using an Extra-Low DC Voltage Charged Cloth.
+37232495	Chemo-proteomics in antimalarial target identification and engagement.
+37232456	Development of Antiplasmodial Peptide-Drug Conjugates Using a Human Protein-Derived Cell-Penetrating Peptide with Selectivity for Infected Cells.
 37231516	Correction: Genetic variations in human ATP2B4 gene alter Plasmodium falciparum in vitro growth in RBCs from Gambian adults.
 37231429	Evaluation of the protective efficacy of Olyset®Plus ceiling net on reducing malaria prevalence in children in Lake Victoria Basin, Kenya: study protocol for a cluster-randomized controlled trial.
 37231336	Use of artesunate in the treatment of severe imported malaria in France: review of the effectiveness and real-life safety in two French university hospitals.
@@ -9988,12 +9997,3 @@
 33906225	Integrating Parasitological and Entomological Observations to Understand Malaria Transmission in Riverine Villages in the Peruvian Amazon.
 33906224	Human Behavior, Livelihood, and Malaria Transmission in Two Sites of Papua New Guinea.
 33906223	Multiple Resistance Mechanisms to Pyrethroids Insecticides in Anopheles gambiae sensu lato Population From Mali, West Africa.
-33906222	Residual Malaria Transmission in Select Countries of Asia-Pacific Region: Old Wine in a New Barrel.
-33906221	Review of Issues on Residual Malaria Transmission.
-33906220	Residual Malaria: Limitations of Current Vector Control Strategies to Eliminate Transmission in Residual Foci.
-33906219	Special Programme for Research and Training in Tropical Diseases-coordinated Multicountry Study to Determine the Burden and Causes of Residual Malaria Across Different Regions.
-33906218	Key Characteristics of Residual Malaria Transmission in Two Districts in South-Eastern Tanzania-Implications for Improved Control.
-33906217	Entomological and Anthropological Factors Contributing to Persistent Malaria Transmission in Kenya, Ethiopia, and Cameroon.
-33906095	Development and application of a novel multiplex PCR assay for the differentiation of four haemosporidian parasites in the chicken Gallus gallus domesticus.
-33905890	Immunoinformatics approach for multi-epitope vaccine design against P. falciparum malaria.
-33905815	Creative interior design by Plasmodium falciparum: Lipid metabolism and the parasite's secret chamber.
