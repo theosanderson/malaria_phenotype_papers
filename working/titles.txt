@@ -1,3 +1,9 @@
+37235333	Inter-Population Genetic Diversity and Clustering of Merozoite Surface Protein-1 (pkmsp-1) of Plasmodium knowlesi Isolates from Malaysia and Thailand.
+37235326	Putative Contribution of 8-Aminoquinolines to Preventing Recrudescence of Malaria.
+37235292	Anopheles funestus Populations across Africa Are Broadly Susceptible to Neonicotinoids but with Signals of Possible Cross-Resistance from the GSTe2 Gene.
+37234785	Editorial: Broadening our understanding of the impact of infections on the developing central nervous system - from basic to clinical sciences.
+37234473	The economic costs of malaria in pregnancy: evidence from four sub-Saharan countries.
+37234466	Efficiency of malaria service delivery in selected district-level hospitals in Ghana.
 37234089	A cell transmembrane peptide chimeric M(27-39)-HTPP targeted therapy for hepatocellular carcinoma.
 37233815	Molecular investigation on infection by haemosporidians in three Western Palearctic species of swift (Apodidae) and their ectoparasitic louse flies.
 37233654	Secondary Metabolites Isolated from Artemisia afra and Artemisia annua and Their Anti-Malarial, Anti-Inflammatory and Immunomodulating Properties-Pharmacokinetics and Pharmacodynamics: A Review.
@@ -1408,7 +1414,6 @@
 36751769	The case report of a non-resident Indian with Plasmodium ovale curtisi from Kerala, India.
 36751768	Dispersion routes of the main vectors of human malaria in the Americas: Genetic evidence from the mitochondrial COI gene.
 36751765	An investigation of the efficacy of different statistical models in malaria forecasting in the semi-arid regions of Gujarat, India.
-36751753	Burden of tuberculosis & malaria among tribal populations & implications for disease elimination in India.
 36751738	Eliminating malaria, tuberculosis & HIV/AIDS in South-East Asia: Why cross-border is so critical.
 36751683	Placental Parasitic Infections and Pregnancy Outcomes Among Women Delivering at a Tertiary Hospital in Northern Tanzania.
 36751682	Characterisation of Malaria Diagnosis Data in High and Low Endemic Areas of Tanzania.
@@ -9992,8 +9997,3 @@
 33906650	Leveraging phone-based mobile technology to improve data quality at health facilities in rural Malawi: a best practice project.
 33906648	Implementation and success factors from Thailand's 1-3-7 surveillance strategy for malaria elimination.
 33906645	Perceptions and prevention practices on malaria among the indigenous Orang Asli community in Kelantan, Peninsular Malaysia.
-33906642	Factors associated with use of insecticide-treated net for malaria prevention in Manica District, Mozambique: a community-based cross-sectional survey.
-33906391	Challenges in forming inferences from limited data: a case study of malaria parasite maturation.
-33906225	Integrating Parasitological and Entomological Observations to Understand Malaria Transmission in Riverine Villages in the Peruvian Amazon.
-33906224	Human Behavior, Livelihood, and Malaria Transmission in Two Sites of Papua New Guinea.
-33906223	Multiple Resistance Mechanisms to Pyrethroids Insecticides in Anopheles gambiae sensu lato Population From Mali, West Africa.
