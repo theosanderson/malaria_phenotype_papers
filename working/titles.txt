@@ -1,3 +1,28 @@
+37243282	Association of Polymorphisms of IL-6 Pathway Genes (IL6, IL6R and IL6ST) with COVID-19 Severity in an Amazonian Population.
+37243117	Vaccines against Tuberculosis: Where Are We Now?
+37243095	IgG4 Antibodies Induced by Repeated Vaccination May Generate Immune Tolerance to the SARS-CoV-2 Spike Protein.
+37242558	The Genus Dacryodes Vahl.: Ethnobotany, Phytochemistry and Biological Activities.
+37242412	Comparative study of Plasmodium falciparum msp-1 and msp-2 Genetic Diversity in Isolates from Rural and Urban Areas in the South of Brazzaville, Republic of Congo.
+37242401	Plasmodium falciparum Chloroquine-pfcrt Resistant Haplotypes in Brazilian Endemic Areas Four Decades after CQ Withdrawn.
+37242399	Role of the European Pharmacist in the Implementation of the Latest WHO Guidelines for Malaria.
+37242362	Identification of Trichomonas vaginalis 5-Nitroimidazole Resistance Targets.
+37242359	Assessing the Operational Feasibility of Integrating Point-of-Care G6PD Testing into Plasmodium vivax Malaria Management in Vietnam.
+37242320	A Review of the Current Status of G6PD Deficiency Testing to Guide Radical Cure Treatment for Vivax Malaria.
+37242305	Mechanism of Immune Evasion in Mosquito-Borne Diseases.
+37240201	Enhanced Mouse Susceptibility to Endotoxin Shock after Plasmodium yoelii Infection Is Correlated with Increased Serum Levels of Lipopolysaccharide Soluble Receptors.
+37239962	Structure of Leishmania donovani 6-Phosphogluconate Dehydrogenase and Inhibition by Phosphine Gold(I) Complexes: A Potential Approach to Leishmaniasis Treatment.
+37238706	Favorable Preclinical Pharmacological Profile of a Novel Antimalarial Pyrrolizidinylmethyl Derivative of 4-amino-7-chloroquinoline with Potent In Vitro and In Vivo Activities.
+37238673	The Role of Spermidine and Its Key Metabolites in Important, Pathogenic Human Viruses and in Parasitic Infections Caused by Plasmodium falciparum and Trypanosoma brucei.
+37237418	Seeing malaria through the eyes of affected communities: using photovoice to document local knowledge on zoonotic malaria causation and prevention practices among rural communities exposed to Plasmodium knowlesi malaria in Northern Borneo Island.
+37237307	Ex vivo RSA and pfkelch13 targeted-amplicon deep sequencing reveal parasites susceptibility to artemisinin in Senegal, 2017.
+37237283	Pharmacopeial quality of artemether-lumefantrine anti-malarial agents in Uganda.
+37237022	Mapping digital health ecosystems in Africa in the context of endemic infectious and non-communicable diseases.
+37236665	Uptake of four or more doses of sulfadoxine pyrimethamine for intermittent preventive treatment of malaria during pregnancy in Zambia: findings from the 2018 malaria in pregnancy survey.
+37236355	Structure of Complex III with Bound Antimalarial Agent CK-2-68 Provides Insights into Selective Inhibition of Plasmodium Cytochrome bc(1) Complexes.
+37236222	Tafenoquine and artemisinin-based combination therapy for vivax malaria: end of the road or just the beginning?
+37236221	Tafenoquine co-administered with dihydroartemisinin-piperaquine for the radical cure of Plasmodium vivax malaria (INSPECTOR): a randomised, placebo-controlled, efficacy and safety study.
+37236024	Regulation of protein prenylation.
+37236020	Recent developments in antimalarial drug discovery.
 37235333	Inter-Population Genetic Diversity and Clustering of Merozoite Surface Protein-1 (pkmsp-1) of Plasmodium knowlesi Isolates from Malaysia and Thailand.
 37235326	Putative Contribution of 8-Aminoquinolines to Preventing Recrudescence of Malaria.
 37235292	Anopheles funestus Populations across Africa Are Broadly Susceptible to Neonicotinoids but with Signals of Possible Cross-Resistance from the GSTe2 Gene.
@@ -9972,28 +9997,3 @@
 33918663	Synthesis of Poly(Malic Acid) Derivatives End-Functionalized with Peptides and Preparation of Biocompatible Nanoparticles to Target Hepatoma Cells.
 33918470	Assessment of Mixed Plasmodium falciparum sera5 Infection in Endemic Burkitt Lymphoma: A Case-Control Study in Malawi.
 33917370	GSK-3β Can Regulate the Sensitivity of MIA-PaCa-2 Pancreatic and MCF-7 Breast Cancer Cells to Chemotherapeutic Drugs, Targeted Therapeutics and Nutraceuticals.
-33916455	Trafficking and Association of Plasmodium falciparum MC-2TM with the Maurer's Clefts.
-33916448	The New Zoonotic Malaria: Plasmodium cynomolgi.
-33915866	Pyrethroid Resistance Aggravation in Ugandan Malaria Vectors Is Reducing Bednet Efficacy.
-33915339	Antiplasmodial activity of the natural product compounds alstonine and himbeline.
-33914894	CD49d marks Th1 and Tfh-like antigen-specific CD4+ T cells during Plasmodium chabaudi infection.
-33914739	Adverse pregnancy outcomes are associated with Plasmodium vivax malaria in a prospective cohort of women from the Brazilian Amazon.
-33912718	Relationship between Wolbachia infection in Culex quinquefasciatus and its resistance to insecticide.
-33912477	HIV-1 Impact on Malaria Transmission: A Complex and Relevant Global Health Concern.
-33912381	Management of acute fever in children: Consensus recommendations for community and primary healthcare providers in sub-Saharan Africa.
-33912289	[Organization of a free mass distribution campaign of long-lasting insecticidal mosquito nets in the context of COVID-19 in Niger].
-33912030	Repurposing Chloroquine Against Multiple Diseases With Special Attention to SARS-CoV-2 and Associated Toxicity.
-33911243	What fruit flies could teach scientists about brain imaging.
-33910900	Population genomic evidence of Plasmodium vivax Southeast Asian origin.
-33910575	"Maskandi experience": exploring the use of a cultural song for community engagement in preparation for a pilot Sterile Insect Technique release programme for malaria vector control in KwaZulu-Natal Province, South Africa 2019.
-33910128	Natural products for treatment of Plasmodium falciparum malaria: An integrated computational approach.
-33909070	Scaling-Down Mass Ivermectin Treatment for Onchocerciasis Elimination: Modeling the Impact of the Geographical Unit for Decision Making.
-33908865	Common virulence gene expression in adult first-time infected malaria patients and severe cases.
-33907302	From "learning from the field" to jointly driving change.
-33907226	Antibodies against apoB100 peptide 210 inhibit atherosclerosis in apoE(-/-) mice.
-33906999	Outbreak prone communicable diseases of public health importance in the northern districts of West Bengal - Current status & the way forward.
-33906926	Functional Characterization of the m(6)A-Dependent Translational Modulator PfYTH.2 in the Human Malaria Parasite.
-33906919	The Architectural Factor HMGB1 Is Involved in Genome Organization in the Human Malaria Parasite Plasmodium falciparum.
-33906650	Leveraging phone-based mobile technology to improve data quality at health facilities in rural Malawi: a best practice project.
-33906648	Implementation and success factors from Thailand's 1-3-7 surveillance strategy for malaria elimination.
-33906645	Perceptions and prevention practices on malaria among the indigenous Orang Asli community in Kelantan, Peninsular Malaysia.
