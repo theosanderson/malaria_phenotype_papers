@@ -1,3 +1,6 @@
+37244997	Sociodemographic factors associated with anemia among reproductive age women in Mali; evidenced by Mali malaria indicator survey 2021: spatial and multilevel mixed effect model analysis.
+37244916	Generation of a mutator parasite to drive resistome discovery in Plasmodium falciparum.
+37244404	The influence of manure-based organic fertilisers on the oviposition behaviour of Anopheles arabiensis.
 37243282	Association of Polymorphisms of IL-6 Pathway Genes (IL6, IL6R and IL6ST) with COVID-19 Severity in an Amazonian Population.
 37243117	Vaccines against Tuberculosis: Where Are We Now?
 37243095	IgG4 Antibodies Induced by Repeated Vaccination May Generate Immune Tolerance to the SARS-CoV-2 Spike Protein.
@@ -186,6 +189,7 @@
 37179012	Clinical evaluation of commercial SARS-CoV-2 serological assays in a malaria endemic setting.
 37178744	A modern look at the development of intrauterine pneumonia in premature newborns: Literature review.
 37178448	Therapeutical Utilization and Repurposing of Artemisinin and Its Derivatives: A Narrative Review.
+37177783	Catch bonds in sickle cell disease: Shear-enhanced adhesion of red blood cells to laminin.
 37176870	Potential Plant-Based New Antiplasmodial Agent Used in Papua Island, Indonesia.
 37175612	Molecular Research on Vector-Borne Diseases of Medical Interest: From Bench to Application 2.0.
 37175551	Anti-Cancer Effects of Artesunate in Human 3D Tumor Models of Different Complexity.
@@ -9993,7 +9997,3 @@
 33919319	Synthesis of New Triazolopyrazine Antimalarial Compounds.
 33919020	An Optimized Real-Time qPCR Method for the Effective Detection of Human Malaria Infections.
 33918981	Absence of Association between Methylene Blue Reduced Susceptibility and Polymorphisms in 12 Genes Involved in Antimalarial Drug Resistance in African Plasmodium falciparum.
-33918893	Molecular Characterisation of Cryptosporidium spp. in Mozambican Children Younger than 5 Years Enrolled in a Matched Case-Control Study on the Aetiology of Diarrhoeal Disease.
-33918663	Synthesis of Poly(Malic Acid) Derivatives End-Functionalized with Peptides and Preparation of Biocompatible Nanoparticles to Target Hepatoma Cells.
-33918470	Assessment of Mixed Plasmodium falciparum sera5 Infection in Endemic Burkitt Lymphoma: A Case-Control Study in Malawi.
-33917370	GSK-3β Can Regulate the Sensitivity of MIA-PaCa-2 Pancreatic and MCF-7 Breast Cancer Cells to Chemotherapeutic Drugs, Targeted Therapeutics and Nutraceuticals.
