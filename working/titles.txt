@@ -1,3 +1,4 @@
+37245219	Knowledge and Compliance with Malaria National Treatment Guidelines among Primary Health Care Workers in a Rural Area in Northern Nigeria.
 37244997	Sociodemographic factors associated with anemia among reproductive age women in Mali; evidenced by Mali malaria indicator survey 2021: spatial and multilevel mixed effect model analysis.
 37244916	Generation of a mutator parasite to drive resistome discovery in Plasmodium falciparum.
 37244404	The influence of manure-based organic fertilisers on the oviposition behaviour of Anopheles arabiensis.
@@ -9996,4 +9997,3 @@
 33920029	KEAP1 Is Required for Artesunate Anticancer Activity in Non-Small-Cell Lung Cancer.
 33919319	Synthesis of New Triazolopyrazine Antimalarial Compounds.
 33919020	An Optimized Real-Time qPCR Method for the Effective Detection of Human Malaria Infections.
-33918981	Absence of Association between Methylene Blue Reduced Susceptibility and Polymorphisms in 12 Genes Involved in Antimalarial Drug Resistance in African Plasmodium falciparum.
