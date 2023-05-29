@@ -1,7 +1,10 @@
+37246535	Understanding the spatial non-stationarity in the relationships between malaria incidence and environmental risk factors using Geographically Weighted Random Forest: A case study in Rwanda.
+37246323	Green Synthesis of Molecules for the Treatment of Neglected Diseases.
 37245219	Knowledge and Compliance with Malaria National Treatment Guidelines among Primary Health Care Workers in a Rural Area in Northern Nigeria.
 37244997	Sociodemographic factors associated with anemia among reproductive age women in Mali; evidenced by Mali malaria indicator survey 2021: spatial and multilevel mixed effect model analysis.
 37244916	Generation of a mutator parasite to drive resistome discovery in Plasmodium falciparum.
 37244404	The influence of manure-based organic fertilisers on the oviposition behaviour of Anopheles arabiensis.
+37244277	The threat of the Anti-Homsexuality Act in Uganda.
 37243282	Association of Polymorphisms of IL-6 Pathway Genes (IL6, IL6R and IL6ST) with COVID-19 Severity in an Amazonian Population.
 37243117	Vaccines against Tuberculosis: Where Are We Now?
 37243095	IgG4 Antibodies Induced by Repeated Vaccination May Generate Immune Tolerance to the SARS-CoV-2 Spike Protein.
@@ -9994,6 +9997,3 @@
 33921746	Pathomechanisms in the Kidneys in Selected Protozoan Parasitic Infections.
 33921170	Drug Repurposing: A Review of Old and New Antibiotics for the Treatment of Malaria: Identifying Antibiotics with a Fast Onset of Antiplasmodial Action.
 33921041	Improved Detection of Intestinal Helminth Infections with a Formalin Ethyl-Acetate-Based Concentration Technique Compared to a Crude Formalin Concentration Technique.
-33920029	KEAP1 Is Required for Artesunate Anticancer Activity in Non-Small-Cell Lung Cancer.
-33919319	Synthesis of New Triazolopyrazine Antimalarial Compounds.
-33919020	An Optimized Real-Time qPCR Method for the Effective Detection of Human Malaria Infections.
