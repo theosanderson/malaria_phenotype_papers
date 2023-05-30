@@ -1,3 +1,9 @@
+37252557	Clinico-Serological Profile of Infective Causes of Acute Hepatitis in Children Admitted to a Tertiary Care Centre.
+37250706	minSNPs: an R package for the derivation of resolution-optimised SNP sets from microbial genomic data.
+37250687	Accelerating towards P. vivax elimination with a novel serological test-and-treat strategy: a modelling case study in Brazil.
+37250680	The SPIN framework to control and prevent the Marburg virus disease outbreak in Equatorial Guinea.
+37249423	Plasmodium falciparum GAP40 Plays an Essential Role in Merozoite Invasion and Gametocytogenesis.
+37249408	A Chemical Proteomic Strategy Reveals Inhibitors of Lipoate Salvage in Bacteria and Parasites.
 37248616	The new malaria vaccine: A complementary approach, not a replacement for existing measures.
 37248260	Perceptions and acceptability of the controlled human malaria infection (CHMI) model in The Gambia: a qualitative study.
 37247760	Long-Read Genome Assembly and Gene Model Annotations for the Rodent Malaria Parasite Plasmodium yoelii 17XNL.
@@ -9991,9 +9997,3 @@
 33925823	Methods for Identifying Microbial Natural Product Compounds that Target Kinetoplastid RNA Structural Motifs by Homology and De Novo Modeled 18S rRNA.
 33925804	Blood Platelets as an Important but Underrated Circulating Source of TGFβ.
 33925701	Bioengineered Liver Cell Models of Hepatotropic Infections.
-33925485	New Acyl Derivatives of 3-Aminofurazanes and Their Antiplasmodial Activities.
-33925018	Antimalarial Effect of the Total Glycosides of the Medicinal Plant, Ranunculus japonicus.
-33924587	Synthesis and Antibody Binding Studies of Schistosome-Derived Oligo-α-(1-2)-l-Fucosides.
-33924421	Genome-Wide Transcriptional Analysis and Functional Validation Linked a Cluster of Epsilon Glutathione S-Transferases with Insecticide Resistance in the Major Malaria Vector Anopheles funestus across Africa.
-33922917	Malaria Rapid Diagnostic Tests: Literary Review and Recommendation for a Quality Assurance, Quality Control Algorithm.
-33922578	Why Did ZIKV Perinatal Outcomes Differ in Distinct Regions of Brazil? An Exploratory Study of Two Cohorts.
