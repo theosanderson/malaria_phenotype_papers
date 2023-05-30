@@ -1,3 +1,4 @@
+37248616	The new malaria vaccine: A complementary approach, not a replacement for existing measures.
 37248260	Perceptions and acceptability of the controlled human malaria infection (CHMI) model in The Gambia: a qualitative study.
 37247760	Long-Read Genome Assembly and Gene Model Annotations for the Rodent Malaria Parasite Plasmodium yoelii 17XNL.
 37247702	Distinct biogeographic processes and areas of endemism contributed differentially to Plasmodium and Parahaemoproteus community assembly on Marajó Island.
@@ -9996,4 +9997,3 @@
 33924421	Genome-Wide Transcriptional Analysis and Functional Validation Linked a Cluster of Epsilon Glutathione S-Transferases with Insecticide Resistance in the Major Malaria Vector Anopheles funestus across Africa.
 33922917	Malaria Rapid Diagnostic Tests: Literary Review and Recommendation for a Quality Assurance, Quality Control Algorithm.
 33922578	Why Did ZIKV Perinatal Outcomes Differ in Distinct Regions of Brazil? An Exploratory Study of Two Cohorts.
-33922294	Enantioselective Interactions of Anti-Infective 8-Aminoquinoline Therapeutics with Human Monoamine Oxidases A and B.
