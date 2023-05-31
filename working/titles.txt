@@ -1,3 +1,12 @@
+37254163	Correction: Molecular investigation of malaria-infected patients in Djibouti city (2018-2021).
+37254141	Socioeconomic and geographical inequalities in health care coverage in Mozambique: a repeated cross-sectional study of the 2015 and 2018 national surveys.
+37254079	Routine health check-ups for adolescents in Mwanza City, Tanzania: stakeholders' recommendations on its content, venue, and mode of delivery.
+37253833	Molecular identification of Phlebotomus kandelakii apyrase and assessment of the immunogenicity of its recombinant protein in BALB/c mice.
+37253765	Characterization of lab-based swarms of Anopheles gambiae mosquitoes using 3D-video tracking.
+37253570	[Progress of researches on antimalarial peptides].
+37253559	[The role of the Global Fund to Fight AIDS, Tuberculosis and Malaria in the development of global health and its collaboration with China].
+37253558	[Regular assessment is an effective approach to maintaining the capacity of prevention of re-establishment from imported malaria in China].
+37253396	Pharmacokinetic and metabolite profile of orally administered anemoside B4 in rats with an improved exposure in formulations of rectal suppository.
 37252557	Clinico-Serological Profile of Infective Causes of Acute Hepatitis in Children Admitted to a Tertiary Care Centre.
 37250706	minSNPs: an R package for the derivation of resolution-optimised SNP sets from microbial genomic data.
 37250687	Accelerating towards P. vivax elimination with a novel serological test-and-treat strategy: a modelling case study in Brazil.
@@ -9988,12 +9997,3 @@
 33927330	Author Correction: IgG acquisition against PfEMP1 PF11_0521 domain cassette DC13, DBLβ3_D4 domain, and peptides located within these constructs in children with cerebral malaria.
 33927245	A non-destructive sugar-feeding assay for parasite detection and estimating the extrinsic incubation period of Plasmodium falciparum in individual mosquito vectors.
 33926962	Comparing metapopulation dynamics of infectious diseases under different models of human movement.
-33926933	Malaria vaccine achieves striking early success.
-33926479	Predictors of treatment failures of plasmodium falciparum malaria in Vietnam: a 4-year single-centre retrospective study.
-33926477	HRP2 and HRP3 cross-reactivity and implications for HRP2-based RDT use in regions with Plasmodium falciparum hrp2 gene deletions.
-33926462	Systematic analysis of direct antiglobulin test results in post-artesunate delayed haemolysis.
-33926399	Estimating the programmatic cost of targeted mass drug administration for malaria in Myanmar.
-33925870	Natural Products That Changed Society.
-33925823	Methods for Identifying Microbial Natural Product Compounds that Target Kinetoplastid RNA Structural Motifs by Homology and De Novo Modeled 18S rRNA.
-33925804	Blood Platelets as an Important but Underrated Circulating Source of TGFβ.
-33925701	Bioengineered Liver Cell Models of Hepatotropic Infections.
