@@ -1,3 +1,6 @@
+37254540	Biomimetic Nanovaccines: a Novel Approach in Immunization.
+37254528	Recent Advances in Drug Discovery for Parasitic Diseases.
+37254297	The optimal strategy of incompatible insect technique (IIT) using Wolbachia and the application to malaria control.
 37254163	Correction: Molecular investigation of malaria-infected patients in Djibouti city (2018-2021).
 37254141	Socioeconomic and geographical inequalities in health care coverage in Mozambique: a repeated cross-sectional study of the 2015 and 2018 national surveys.
 37254079	Routine health check-ups for adolescents in Mwanza City, Tanzania: stakeholders' recommendations on its content, venue, and mode of delivery.
@@ -439,7 +442,7 @@
 37104019	Serological Cross-Reaction between Six Thiadiazine by Indirect ELISA Test and Their Antimicrobial Activity.
 37103994	Spatiotemporal and Seasonal Trends of Class A and B Notifiable Infectious Diseases in China: Retrospective Analysis.
 37103365	Marine-Derived Lead Fascaplysin: Pharmacological Activity, Total Synthesis, and Structural Modification.
-37102486	A Quinquennial Review on Recent Advancements and Developments in Search of Anti- malarial Agents.
+37102486	A Quinquennial Review on Recent Advancements and Developments in Search of Anti-malarial Agents.
 37102339	Knockdown of Anopheles dirus far upstream element-binding protein gene lower oocyst numbers of Plasmodium vivax.
 37101295	Retinal imaging technologies in cerebral malaria: a systematic review.
 37101269	An archetypes approach to malaria intervention impact mapping: a new framework and example application.
@@ -537,7 +540,7 @@
 37074472	Cuscuta reflexa Possess Potent Inhibitory Activity Against Human Malaria Parasite: An In Vitro and In Vivo Study.
 37074313	Dengue and zika seropositivity, burden, endemicity, and cocirculation antibodies in Nigeria.
 37074181	Development of a Novel Enzyme-Linked Immunosorbent Assay and Lateral Flow Test System for Improved Serodiagnosis of Visceral Leishmaniasis in Different Areas of Endemicity.
-37073654	Advances in Drug Discovery Based on Genomics, Proteomics and Bioinformatics in Malaria.
+37073654	Advances in Drug Discovery based on Genomics, Proteomics and Bioinformatics in Malaria.
 37073152	Role of Nanomedicines in Controlling Malaria: A review.
 37072800	Cross-sectional survey in Central African Republic finds mortality 4-times higher than UN statistics: how can we not know the Central African Republic is in such an acute humanitarian crisis?
 37072795	Keeping the momentum: suggestions for treatment policy updates in the final push to eliminate malaria in India.
@@ -1387,8 +1390,8 @@
 36787308	Cytokine response in asymptomatic and symptomatic Plasmodium falciparum infections in children in a rural area of south-eastern Gabon.
 36787259	IL-10-producing Th1 cells possess a distinct molecular signature in malaria.
 36786651	Global Metabolomic Profiling of Host Red Blood Cells Infected with Babesia divergens Reveals Novel Antiparasitic Target Pathways.
-36786146	Retrospective Review of Chromane Analogues as Anti-Protozoal Leads: A Decade's Worth of Evolution.
-36786139	Thioredoxin Interacting Protein Inhibitors In Diabetes Mellitus: A Critical Review.
+36786146	Retrospective Review of Chromane Analogues as Anti-protozoal Leads: A Decade's Worth of Evolution.
+36786139	Thioredoxin Interacting Protein Inhibitors in Diabetes Mellitus: A Critical Review.
 36785639	Hesitancy for Adult Vaccines Among Healthcare Providers and their Family Members in Delhi, India: A Cross-Sectional Study.
 36782344	Identifying effective diagnostic biomarkers for childhood cerebral malaria in Africa integrating coexpression analysis with machine learning algorithm.
 36782234	Livelihood activities, human mobility, and risk of malaria infection in elimination settings: a case-control study.
@@ -1601,7 +1604,7 @@
 36704725	In silico Structure Prediction, Molecular Docking, and Dynamic Simulation of Plasmodium falciparum AP2-I Transcription Factor.
 36704359	Simultaneous detection of G6PD mutations using SNPscan in a multiethnic minority area of Southwestern China.
 36704118	Effect of a fifth round of seasonal malaria chemoprevention in children aged 5-14 years in Dangassa, an area of long transmission in Mali.
-36703585	Steroid and triterpenoid compounds with antiparasitic properties.
+36703585	Steroid and Triterpenoid Compounds with Antiparasitic Properties.
 36703147	Factors associated with the ownership and use of insecticide-treated nets in Guinea: an analysis of the 2018 Demographic and Health Survey.
 36702699	The troubled puberty of malaria parasites.
 36701108	Neurobehavioral and biochemical responses to artemisinin-based drug and aflatoxin B(1) co-exposure in rats.
@@ -2639,7 +2642,7 @@
 36338192	Malaria and COVID-19 prevalence in a population of febrile children and adolescents living in Libreville.
 36338149	Nuclear Interactions: A Spotlight on Nuclear Mitochondrial Membrane Contact Sites.
 36336811	Current Status on 1,4-Dihydropyridine Derivatives against Human Pathogenic Parasites.
-36336808	Bacteriophages concept and applications: A review on phage therapy.
+36336808	Bacteriophages Concept and Applications: A Review on Phage Therapy.
 36336700	Novel application of one-step pooled molecular testing and maximum likelihood approaches to estimate the prevalence of malaria parasitaemia among rapid diagnostic test negative samples in western Kenya.
 36336245	Effects of ivermectin mass drug administration for malaria vector control on ectoparasites and soil-transmitted helminths: a cluster randomized trial.
 36335363	Participatory development of practical, affordable, insecticide-treated mosquito proofing for a range of housing designs in rural southern Tanzania.
@@ -3038,7 +3041,7 @@
 36200781	Assessment of expertise in morphological identification of mosquito species (Diptera, Culicidae) using photomicrographs.
 36200610	House modifications for preventing malaria.
 36200511	Evolutionary consequences of vector-borne transmission: how using vectors shapes host, vector and pathogen evolution.
-36200257	Outlining the molecules tested in vivo for Chagas disease, Malaria, and Schistosomiasis over the last six years - a literature review focused on new synthetic drug identities and repurposing strategies.
+36200257	Outlining the Molecules Tested In Vivo for Chagas Disease, Malaria, and Schistosomiasis Over the Last Six Years - A Literature Review Focused on New Synthetic Drug Identities and Repurposing Strategies.
 36199433	CRISPR-Based Programmable Nucleic Acid-Binding Protein Technology Can Specifically Detect Fatal Tropical Disease-Causing Pathogens.
 36199201	A pharmacometrics approach to assess the feasibility of capillary microsampling to replace venous sampling in clinical studies: Tafenoquine case study.
 36199078	The economic burden of malaria: a systematic review.
@@ -9994,6 +9997,3 @@
 33929335	Collect Once, Use Many Times: Attaining Unified Metrics for Tuberculosis Preventive Treatment for People Living With HIV.
 33927968	Exploring combined herbal extract-loaded phytoniosomes for antimalarial and antibacterial activity against methicillin-resistant Staphylococcus aureus.
 33927900	Microcytic and Malarial Anaemia Prevalence in Urban Children ≤15 Years in the Mount Cameroon Area: A Cross-Sectional Study on Risk Factors.
-33927330	Author Correction: IgG acquisition against PfEMP1 PF11_0521 domain cassette DC13, DBLβ3_D4 domain, and peptides located within these constructs in children with cerebral malaria.
-33927245	A non-destructive sugar-feeding assay for parasite detection and estimating the extrinsic incubation period of Plasmodium falciparum in individual mosquito vectors.
-33926962	Comparing metapopulation dynamics of infectious diseases under different models of human movement.
