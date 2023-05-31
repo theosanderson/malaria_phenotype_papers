@@ -549,7 +549,7 @@
 37072430	Plasmepsin X activates the PCRCR complex of Plasmodium falciparum by processing PfRh5 for erythrocyte invasion.
 37071590	Prevalence of pretreatment drug resistance in persons initiating and reinitiating antiretroviral therapy in Sri Lanka: results from a national representative survey.
 37071200	Pharmacological activation of PIEZO1 in human red blood cells prevents Plasmodium falciparum invasion.
-37070464	A diagnostic accuracy study to evaluate standard rapid diagnostic test (RDT) alone to safely rule out imported malaria in children presenting to UK emergency departments.
+37070464	A Diagnostic Accuracy Study to Evaluate Standard Rapid Diagnostic Test (RDT) Alone to Safely Rule Out Imported Malaria in Children Presenting to UK Emergency Departments.
 37069854	Malaria parasite prevalence in Sub-Saharan African migrants screened in Sweden: a cross-sectional study.
 37069625	Artemisinin derivatives induce oxidative stress leading to DNA damage and caspase-mediated apoptosis in Theileria annulata-transformed cells.
 37069603	Vector competence of Anopheles stephensi for O'nyong-nyong virus: a risk for global virus spread.
@@ -816,7 +816,7 @@
 36977150	Effects of Age, Gender and Soil-Transmitted Helminth Infection on Prevalence of Plasmodium Infection among Population Living in Bata District, Equatorial Guinea.
 36977133	Nucleic Acid Prevalence of Zoonotic Babesia in Humans, Animals and Questing Ticks, a Systematic Review and Meta-Analysis.
 36977132	Surveillance and Control of Malaria Vectors in Hainan Province, China from 1950 to 2021: A Retrospective Review.
-36976731	Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance.
+36976731	Sensitivity and Uncertainty Analysis for Two-stream Capture-Recapture Methods in Disease Surveillance.
 36976115	Autokeras Approach: A Robust Automated Deep Learning Network for Diagnosis Disease Cases in Medical Images.
 36976018	Significance of Plasmodium berghei Amino Acid Transporter 1 in Food Vacuole Functionality and Its Association with Cerebral Pathogenesis.
 36975958	Genetic Diversity and Population Structure of Anopheles funestus in Western Kenya Based on Mitochondrial DNA Marker COII.
