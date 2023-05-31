@@ -1,3 +1,4 @@
+37256314	Vitamin C-rich juice co-administration with artemether-lumefantrine ameliorates oxido-inflammatory responses in Plasmodium berghei-infected mice.
 37254540	Biomimetic Nanovaccines: a Novel Approach in Immunization.
 37254528	Recent Advances in Drug Discovery for Parasitic Diseases.
 37254297	The optimal strategy of incompatible insect technique (IIT) using Wolbachia and the application to malaria control.
@@ -9996,4 +9997,3 @@
 33929476	Brightfield and fluorescence in-channel staining of thin blood smears generated in a pumpless microfluidic.
 33929335	Collect Once, Use Many Times: Attaining Unified Metrics for Tuberculosis Preventive Treatment for People Living With HIV.
 33927968	Exploring combined herbal extract-loaded phytoniosomes for antimalarial and antibacterial activity against methicillin-resistant Staphylococcus aureus.
-33927900	Microcytic and Malarial Anaemia Prevalence in Urban Children ≤15 Years in the Mount Cameroon Area: A Cross-Sectional Study on Risk Factors.
