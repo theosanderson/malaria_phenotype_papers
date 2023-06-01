@@ -1,3 +1,5 @@
+37259506	Synthesis, biological evaluation, and computational investigation of ethyl 2,4,6-trisubstituted-1,4-dihydropyrimidine-5-carboxylates as potential larvicidal agents against Anopheles arabiensis.
+37259413	Nornidulin, A New Inhibitor of Plasmodium falciparum Malate: Quinone Oxidoreductase (PfMQO) from Indonesian Aspergillus sp. BioMCC f.T.8501.
 37259110	Unusual clinical spectra of childhood severe malaria during malaria epidemic in eastern Uganda: a prospective study.
 37258746	Integrating nutrition assessments and seasonal malaria chemoprevention: Results from a mixed-methods feasibility study in Guinea.
 37258262	Prevalence and molecular analysis of glucose-6-phosphate dehydrogenase deficiency in Chin State, Myanmar.
@@ -9995,5 +9997,3 @@
 33932049	Autocatalytic activation of a malarial egress protease is druggable and requires a protein cofactor.
 33931947	Repurposing Anticancer Drugs To Tackle Malaria.
 33931251	Meeting report: WHO consultation on malaria vaccine development, Geneva, 15-16 July 2019.
-33931091	Performance of passive case detection for malaria surveillance: results from nine countries in Mesoamerica and the Dominican Republic.
-33930033	Management of insecticides for use in disease vector control: Lessons from six countries in Asia and the Middle East.
