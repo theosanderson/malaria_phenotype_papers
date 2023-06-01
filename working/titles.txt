@@ -1,3 +1,8 @@
+37259110	Unusual clinical spectra of childhood severe malaria during malaria epidemic in eastern Uganda: a prospective study.
+37258746	Integrating nutrition assessments and seasonal malaria chemoprevention: Results from a mixed-methods feasibility study in Guinea.
+37258262	Prevalence and molecular analysis of glucose-6-phosphate dehydrogenase deficiency in Chin State, Myanmar.
+37258261	Determinant of parasite clearance and density on uncomplicated falciparum malaria infections in malaria-endemic area of Lampung Province, Indonesia.
+37257960	An impedance based microfluidic sensor for evaluation of individual red blood cell solute permeability.
 37257055	Plasmodium-Resistant Indole Diterpenoid Biosynthesis Gene Cluster Derived from Aspergillus oryzae Was Activated by Exogenous P450 Gene Ast B.
 37256889	Pooled prevalence and risk factors of malaria among children aged 6-59 months in 13 sub-Saharan African countries: A multilevel analysis using recent malaria indicator surveys.
 37256314	Vitamin C-rich juice co-administration with artemether-lumefantrine ameliorates oxido-inflammatory responses in Plasmodium berghei-infected mice.
@@ -9992,8 +9997,3 @@
 33931251	Meeting report: WHO consultation on malaria vaccine development, Geneva, 15-16 July 2019.
 33931091	Performance of passive case detection for malaria surveillance: results from nine countries in Mesoamerica and the Dominican Republic.
 33930033	Management of insecticides for use in disease vector control: Lessons from six countries in Asia and the Middle East.
-33930028	"Kankasha" in Kassala: A prospective observational cohort study of the clinical characteristics, epidemiology, genetic origin, and chronic impact of the 2018 epidemic of Chikungunya virus infection in Kassala, Sudan.
-33930023	"Satanism is witchcraft's younger sibling": Changing perceptions of natural and supernatural anaemia causality in Malawian children.
-33930021	Novel insights from the Plasmodium falciparum sporozoite-specific proteome by probabilistic integration of 26 studies.
-33929818	Repositioning and Characterization of 1-(Pyridin-4-yl)pyrrolidin-2-one Derivatives as Plasmodium Cytoplasmic Prolyl-tRNA Synthetase Inhibitors.
-33929476	Brightfield and fluorescence in-channel staining of thin blood smears generated in a pumpless microfluidic.
