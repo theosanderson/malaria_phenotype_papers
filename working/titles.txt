@@ -1,3 +1,5 @@
+37257055	Plasmodium-Resistant Indole Diterpenoid Biosynthesis Gene Cluster Derived from Aspergillus oryzae Was Activated by Exogenous P450 Gene Ast B.
+37256889	Pooled prevalence and risk factors of malaria among children aged 6-59 months in 13 sub-Saharan African countries: A multilevel analysis using recent malaria indicator surveys.
 37256314	Vitamin C-rich juice co-administration with artemether-lumefantrine ameliorates oxido-inflammatory responses in Plasmodium berghei-infected mice.
 37254540	Biomimetic Nanovaccines: a Novel Approach in Immunization.
 37254528	Recent Advances in Drug Discovery for Parasitic Diseases.
@@ -9995,5 +9997,3 @@
 33930021	Novel insights from the Plasmodium falciparum sporozoite-specific proteome by probabilistic integration of 26 studies.
 33929818	Repositioning and Characterization of 1-(Pyridin-4-yl)pyrrolidin-2-one Derivatives as Plasmodium Cytoplasmic Prolyl-tRNA Synthetase Inhibitors.
 33929476	Brightfield and fluorescence in-channel staining of thin blood smears generated in a pumpless microfluidic.
-33929335	Collect Once, Use Many Times: Attaining Unified Metrics for Tuberculosis Preventive Treatment for People Living With HIV.
-33927968	Exploring combined herbal extract-loaded phytoniosomes for antimalarial and antibacterial activity against methicillin-resistant Staphylococcus aureus.
