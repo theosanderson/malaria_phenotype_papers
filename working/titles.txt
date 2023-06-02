@@ -1,3 +1,4 @@
+37262609	On the Source and Influence of Malaria in the South-west.
 37260388	A Candidate Bacterial-Type Amino Acid Decarboxylase Is Essential for Male Gamete Exflagellation and Mosquito Transmission of the Malaria Parasite.
 37260274	A case of fever in a returning traveler.
 37260234	Temporal Analysis of Malaria Cases in the Brazilian Yanomami Pediatric Population: A Retrospective Ecologic Study From 2003 to 2022.
@@ -9996,4 +9997,3 @@
 33933085	The spatiotemporal distribution of historical malaria cases in Sweden: a climatic perspective.
 33933072	Asymptomatic malaria and anaemia among pregnant women during high and low malaria transmission seasons in Burkina Faso: household-based cross-sectional surveys in Burkina Faso, 2013 and 2017.
 33932614	The apicoplast of Haemoproteus columbae: A comparative study of this organelle genome in Haemosporida.
-33932365	Prevalence and spatial distribution of heterophyidiasis in Southern Philippines.
