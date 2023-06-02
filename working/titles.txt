@@ -1,3 +1,10 @@
+37266836	Automatic Classification of Antimalarial Herbal Drugs Exposed to Ultraviolet Radiation from Unexposed Ones Using Laser-Induced Autofluorescence with Chemometric Techniques.
+37266647	Knowledge, attitudes, and practices (KAP) during the malaria elimination phase: A household-based cross-sectional survey.
+37266375	Antimalarial potential of Moringa oleifera Lam. (Moringaceae): A review of the ethnomedicinal, pharmacological, toxicological, and phytochemical evidence.
+37265679	Rectal artesunate for severe malaria, implementation research, Zambia.
+37265674	Supply-chain factors and antimicrobial stewardship.
+37265668	Plasmodium 18S Ribosomal RNA Biomarker Clearance After Food and Drug Administration-Approved Antimalarial Treatment in Controlled Human Malaria Infection Trials.
+37264975	N2' -Branched Acyclic Nucleoside Phosphonates Containing 9-Deazahypoxanthine as Inhibitors of Plasmodium falciparum 6-Oxopurine Phosphoribosyltransferase.
 37264462	Residual insecticide surface treatment for preventing malaria: a systematic review protocol.
 37264067	Natural vectors of Plasmodium knowlesi and other primate, avian and ungulate malaria parasites in Narathiwat Province, Southern Thailand.
 37263994	No evidence of sustained nonzoonotic Plasmodium knowlesi transmission in Malaysia from modelling malaria case data.
@@ -9990,10 +9997,3 @@
 33934957	Women in Malaria 2021: A Conference Premier.
 33934837	CRISPRing protozoan parasites to better understand the biology of diseases.
 33934569	A Plasmodium falciparum protein tyrosine phosphatase inhibitor identified from the ChEMBL-NTD database blocks parasite growth.
-33934433	Plasmodium chitinases: revisiting a target of transmission-blockade against malaria.
-33933849	Artesunate-induced ATG5-related autophagy enhances the cytotoxicity of NK92 cells on endometrial cancer cells via interactions between CD155 and CD226/TIGIT.
-33933652	Interorganellar communication and membrane contact sites in protozoan parasites.
-33933651	The roles of parasite-derived extracellular vesicles in disease and host-parasite communication.
-33933561	Ammonium transporter AcAmt mutagenesis uncovers reproductive and physiological defects without impacting olfactory responses to ammonia in the malaria vector mosquito Anopheles coluzzii.
-33933099	Molecular surveillance of anti-malarial resistance pfcrt, pfmdr1, and pfk13 polymorphisms in African Plasmodium falciparum imported parasites to Wuhan, China.
-33933096	Application of verbal autopsy in routine civil registration in Lusaka District of Zambia.
