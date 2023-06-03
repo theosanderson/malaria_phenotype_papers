@@ -1,3 +1,9 @@
+37268984	Detection of Plasmodium simium gametocytes in non-human primates from the Brazilian Atlantic Forest.
+37268968	Insecticide resistance of Anopheles sinensis after elimination of malaria in Henan Province, China.
+37268775	Natural killer cells and antibodies versus malaria.
+37268224	Mechanistic investigation of direct photodegradation of chloroquine phosphate under simulated sunlight.
+37268002	Epigenetic Regulation and Chromatin Remodeling in Malaria Parasites.
+37267860	Epitope specific antibodies to N- and C cytoplasmic domains of the Plasmodium falciparum chloroquine resistance transporter (PfCRT) differentiate native and post-translationally modified variant.
 37267284	Effects of bacterial composition and aquatic habitat metabolites on malaria vector larval availability in irrigated and non-irrigated sites of Homa Bay county, western Kenya.
 37266836	Automatic Classification of Antimalarial Herbal Drugs Exposed to Ultraviolet Radiation from Unexposed Ones Using Laser-Induced Autofluorescence with Chemometric Techniques.
 37266647	Knowledge, attitudes, and practices (KAP) during the malaria elimination phase: A household-based cross-sectional survey.
@@ -9991,9 +9997,3 @@
 33937099	Plasmodium yoelii Erythrocyte Binding Like Protein Interacts With Basigin, an Erythrocyte Surface Protein.
 33936944	Characterization of the Plasmodium and Haemoproteus parasite community in temperate-tropical birds during spring migration.
 33936856	A programme to treat chronic hepatitis B in Kiribati: progress and challenges.
-33936806	The Prevalence of Malaria among Children in Ethiopia: A Systematic Review and Meta-Analysis.
-33936805	Treatment Outcome of Severe Malaria and Associated Factors among Adults Admitted in Arba Minch General Hospital, Southern Nation Nationality and People's Region, Ethiopia.
-33936217	Fisherfolk's Perception of and Attitude to Solid Waste Disposal: Implications for Health, Aquatic Resources, and Sustainable Development.
-33936215	Thrombocytopenia as a Diagnostic Marker for Malaria in Patients with Acute Febrile Illness.
-33934957	Women in Malaria 2021: A Conference Premier.
-33934837	CRISPRing protozoan parasites to better understand the biology of diseases.
