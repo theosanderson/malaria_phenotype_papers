@@ -1,3 +1,4 @@
+37267284	Effects of bacterial composition and aquatic habitat metabolites on malaria vector larval availability in irrigated and non-irrigated sites of Homa Bay county, western Kenya.
 37266836	Automatic Classification of Antimalarial Herbal Drugs Exposed to Ultraviolet Radiation from Unexposed Ones Using Laser-Induced Autofluorescence with Chemometric Techniques.
 37266647	Knowledge, attitudes, and practices (KAP) during the malaria elimination phase: A household-based cross-sectional survey.
 37266375	Antimalarial potential of Moringa oleifera Lam. (Moringaceae): A review of the ethnomedicinal, pharmacological, toxicological, and phytochemical evidence.
@@ -9996,4 +9997,3 @@
 33936215	Thrombocytopenia as a Diagnostic Marker for Malaria in Patients with Acute Febrile Illness.
 33934957	Women in Malaria 2021: A Conference Premier.
 33934837	CRISPRing protozoan parasites to better understand the biology of diseases.
-33934569	A Plasmodium falciparum protein tyrosine phosphatase inhibitor identified from the ChEMBL-NTD database blocks parasite growth.
