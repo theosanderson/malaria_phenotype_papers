@@ -1,3 +1,11 @@
+37270589	Clinical isolates of uncomplicated falciparum malaria from high and low malaria transmission areas show distinct pfcrt and pfmdr1 polymorphisms in western Ethiopia.
+37270545	Area-specific covid-19 effects on health services utilization in the Democratic Republic of the Congo using routine health information system data.
+37269964	Molecular insights into artemisinin resistance in Plasmodium falciparum: An updated review.
+37269963	Combined polymorphisms involving the IgG heavy chain and fc gamma receptors among Fulani and non-Fulani in Benin: Implications for the natural protection of young Fulani against plasmodium. Falciparum malaria infections.
+37269941	Short-course, high-dose primaquine regimens for treatment of liver-stage vivax malaria in children.
+37269868	Association between domesticated animal ownership and Plasmodium falciparum parasite prevalence in the Democratic Republic of the Congo: a national cross-sectional study.
+37269671	Tetrahydrobenzo[h]quinoline derivatives as a novel chemotype for dual antileishmanial-antimalarial activity graced with antitubercular activity: Design, synthesis and biological evaluation.
+37269630	Genomic analysis of Indian isolates of Plasmodium falciparum: Implications for drug resistance and virulence factors.
 37268984	Detection of Plasmodium simium gametocytes in non-human primates from the Brazilian Atlantic Forest.
 37268968	Insecticide resistance of Anopheles sinensis after elimination of malaria in Henan Province, China.
 37268775	Natural killer cells and antibodies versus malaria.
@@ -9989,11 +9997,3 @@
 33939644	Association between ABCB1 Polymorphisms and Artesunate-Mefloquine Treatment Responses of Patients with Falciparum Malaria on the Thailand-Myanmar Border.
 33939635	Recent Molecular Assessment of Plasmodium vivax and Plasmodium falciparum Asymptomatic Infections in Botswana.
 33939630	No Serological Evidence of Trachoma or Yaws Among Residents of Registered Camps and Makeshift Settlements in Cox's Bazar, Bangladesh.
-33939628	Overdiagnosis of Malaria Illness in an Endemic Setting: A Facility-Based Surveillance Study in Malawi.
-33938894	Using the GAL4-UAS System for Functional Genetics in Anopheles gambiae.
-33938275	Perinatal depression in migrant and refugee women on the Thai-Myanmar border: does social support matter?
-33937177	A PCR-Based Technique to Track the Geographic Origin of Plasmodium falciparum With 23-SNP Barcode Analysis.
-33937107	Editorial: Molecular Basis of Stage Conversion in Apicomplexan Parasites.
-33937099	Plasmodium yoelii Erythrocyte Binding Like Protein Interacts With Basigin, an Erythrocyte Surface Protein.
-33936944	Characterization of the Plasmodium and Haemoproteus parasite community in temperate-tropical birds during spring migration.
-33936856	A programme to treat chronic hepatitis B in Kiribati: progress and challenges.
