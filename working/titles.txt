@@ -1,3 +1,4 @@
+37270766	KNOWLEDGE, ATTITUDES, AND PRACTICES TOWARD MALARIA AND ANTIMALARIAL MASS DRUG ADMINISTRATION AMONG HEADS OF HOUSEHOLDS IN VILLAGES ON GRANDE COMORE ISLAND, THE COMOROS.
 37270589	Clinical isolates of uncomplicated falciparum malaria from high and low malaria transmission areas show distinct pfcrt and pfmdr1 polymorphisms in western Ethiopia.
 37270545	Area-specific covid-19 effects on health services utilization in the Democratic Republic of the Congo using routine health information system data.
 37269964	Molecular insights into artemisinin resistance in Plasmodium falciparum: An updated review.
@@ -9996,4 +9997,3 @@
 33939707	Natural malaria infection in anophelines vectors and their incrimination in local malaria transmission in Darién, Panama.
 33939644	Association between ABCB1 Polymorphisms and Artesunate-Mefloquine Treatment Responses of Patients with Falciparum Malaria on the Thailand-Myanmar Border.
 33939635	Recent Molecular Assessment of Plasmodium vivax and Plasmodium falciparum Asymptomatic Infections in Botswana.
-33939630	No Serological Evidence of Trachoma or Yaws Among Residents of Registered Camps and Makeshift Settlements in Cox's Bazar, Bangladesh.
