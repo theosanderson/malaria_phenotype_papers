@@ -1,3 +1,10 @@
+37274532	Using Typhoid Conjugate Vaccines to Prevent Disease, Promote Health Equity, and Counter Drug-Resistant Typhoid Fever.
+37274361	Malaria: An Overview.
+37273838	Assessment of the Knowledge, Prevalence, and Control Strategies of Malaria Among Households in Sunyani Municipality, Bono Region, Ghana.
+37273537	Time series analysis of survival and oviposition cycle duration of Anopheles funestus (Giles) in Mozambique.
+37272999	The larval midgut of Anopheles, Aedes, and Toxorhynchites mosquitoes (Diptera, Culicidae): a comparative approach in morphophysiology and evolution.
+37272775	Copper-Catalyzed Synthesis of Pyrrolo[1,2-c]quinazolines and Pyrrolo[2,1-a]isoquinolines and Antiplasmodial Evaluation.
+37272704	Rhoptry neck protein 4 plays important roles during Plasmodium sporozoite infection of the mammalian liver.
 37272224	A meta-analysis reveals that dragonflies and damselflies can provide effective biological control of mosquitoes.
 37272217	Functions of double-negative B cells in autoimmune diseases, infections, and cancers.
 37271818	BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators.
@@ -349,6 +356,7 @@
 37150188	Gavi unveils malaria vaccine plans.
 37150086	Network pharmacology and molecular docking combined with widely targeted metabolomics to elucidate the potential compounds and targets of Euphorbia helioscopia seeds for the treatment of pulmonary fibrosis.
 37149980	Exploring the potential of antimalarial nanocarriers as a novel therapeutic approach.
+35593798	Duffy Blood Group System.
 37149600	Spatio-temporal analysis of malaria incidence and its risk factors in North Namibia.
 37149066	Antiparasitic properties of 4-nerolidylcatechol from Pothomorphe umbellata (L.) Miq. (Piperaceae) in vitro and in mice models with either prepatent or patent Schistosoma mansoni infections.
 37148884	Dual-pharmacophore artezomibs hijack the Plasmodium ubiquitin-proteasome system to kill malaria parasites while overcoming drug resistance.
@@ -1392,7 +1400,6 @@
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
 36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
 36800986	Malaria amongst children under five in sub-Saharan Africa: a scoping review of prevalence, risk factors and preventive interventions.
-35593798	Duffy Blood Group System.
 32644745	Cinchonism.
 36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
 36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
@@ -9990,10 +9997,3 @@
 33942771	Evaluation of pharmacokinetics of single-dose primaquine in undernourished versus normally nourished children diagnosed with Plasmodium vivax malaria in Mumbai.
 33941516	Tafenoquine Is a Promising Drug Candidate for the Treatment of Babesiosis.
 33941493	Crystalloids: Fascinating Parasite Organelles Essential for Malaria Transmission.
-33941492	The Ins and Outs of Plasmodium Rhoptries, Focusing on the Cytosolic Side.
-33941185	The impact of child health interventions and risk factors on child survival in Kenya, 1993-2014: a Bayesian spatio-temporal analysis with counterfactual scenarios.
-33941178	Implementation research approaches to promoting universal health coverage in Africa: a scoping review.
-33941135	Integrity, use and care of long-lasting insecticidal nets in Kirinyaga County, Kenya.
-33940529	Structural and immunogenicity analysis of reconstructed ancestral and consensus P48/45 for cross-species anti malaria transmission-blocking vaccine.
-33940437	A social network analysis of the organizations focusing on tuberculosis, malaria and pneumonia.
-33940188	Targeted deep amplicon sequencing of antimalarial resistance markers in Plasmodium falciparum isolates from Cameroon.
