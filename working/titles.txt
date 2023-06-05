@@ -1,3 +1,5 @@
+37272224	A meta-analysis reveals that dragonflies and damselflies can provide effective biological control of mosquitoes.
+37272217	Functions of double-negative B cells in autoimmune diseases, infections, and cancers.
 37271818	BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators.
 37271388	A rapid systematic scoping review of research on the impacts of water contaminated by chemicals on very young children.
 37270766	KNOWLEDGE, ATTITUDES, AND PRACTICES TOWARD MALARIA AND ANTIMALARIAL MASS DRUG ADMINISTRATION AMONG HEADS OF HOUSEHOLDS IN VILLAGES ON GRANDE COMORE ISLAND, THE COMOROS.
@@ -618,6 +620,7 @@
 37065111	Transcriptome profile of halofuginone resistant and sensitive strains of Eimeria tenella.
 37064813	Autophagy in protists and their hosts: When, how and why?
 37063994	Changes of Cinchona distribution over the past two centuries in the northern Andes.
+30725771	Chloroquine and Hydroxychloroquine Toxicity.
 37061695	Mosquito bites and stage-specific antibody responses against Plasmodium falciparum in southern Ghana.
 37061668	Outcomes of childhood severe malaria: a comparative of study pre-COVID-19 and COVID-19 periods.
 37061547	Structural and immunological differences in Plasmodium falciparum sexual stage transmission-blocking vaccines comprised of Pfs25-EPA nanoparticles.
@@ -753,6 +756,7 @@
 37017236	Abnormalities of Kidney Function in Acute Malarial and non-Malarial Infections.
 37017234	Confidence in COVID-19 vaccine effectiveness and safety and its effect on vaccine uptake in Tanzania: A community-based cross-sectional study.
 37017102	Trained immunity from the perspective of Plasmodium infection.
+32491525	Methylene Blue.
 37016392	Dihydroartemisinin-piperaquine or sulphadoxine-pyrimethamine for the chemoprevention of malaria in children with sickle cell anaemia in eastern and southern Africa (CHEMCHA): a protocol for a multi-centre, two-arm, double-blind, randomised, placebo-controlled superiority trial.
 37015266	Effect of passive and active ventilation on malaria mosquito house entry and human comfort: an experimental study in rural Gambia.
 37015228	A Plasmodium falciparum lysophospholipase regulates host fatty acid flux via parasite lipid storage to enable controlled asexual schizogony.
@@ -1423,7 +1427,7 @@
 36789530	Rapid range shifts in African Anopheles mosquitoes over the last century.
 36789389	In silico anti-SARS-CoV-2, antiplasmodial, antioxidant, and antimicrobial activities of crude extracts and homopterocarpin from heartwood of Pterocarpus macrocarpus Kurz.
 36789332	Parasite detection and quantification in avian blood is dependent on storage medium and duration.
-36788700	The prevalence of blood borne diseases in blood donors of Peshawar, Khyber Pakhtunkhwa, Pakistan.
+36788700	The Prevalence of Blood Borne Diseases in Blood Donors of Peshawar, Khyber Pakhtunkhwa, Pakistan.
 36788608	Proof-of-concept study for a long-acting formulation of ivermectin injected in cattle as a complementary malaria vector control tool.
 36788578	Metabolic responses in blood-stage malaria parasites associated with increased and decreased sensitivity to PfATP4 inhibitors.
 36788545	In vitro and in vivo antiplasmodial activities of leaf extracts from Sonchus arvensis L.
@@ -1728,7 +1732,7 @@
 36671393	Sex-Specific Differences in Cytokine Induction by the Glycolipid Adjuvant 7DW8-5 in Mice.
 36671310	Antiparasitic Activities of Compounds Isolated from Aspergillus fumigatus Strain Discovered in Northcentral Nigeria.
 31869175	Malaria.
-30085563	Plasmodium Ovale Malaria.
+30085563	Plasmodium ovale Malaria.
 36670482	Measuring entomological parameters before implementing a study on asymptomatic carriers of Plasmodium falciparum in the Zè District in southern Benin.
 36670470	A new WHO bottle bioassay method to assess the susceptibility of mosquito vectors to public health insecticides: results from a WHO-coordinated multi-centre study.
 36670398	Unmanned aerial vehicles for surveillance and control of vectors of malaria and other vector-borne diseases.
@@ -3224,7 +3228,6 @@
 36153000	How do the mutations in PfK13 protein promote anti-malarial drug resistance?
 36152269	Use of Azithromycin in Pregnancy: More Doubts than Certainties.
 36152079	Plasmodium knowlesi Duffy binding protein alpha region II (PkDBPαII) in clinical isolates from Peninsular Malaysia and Malaysian Borneo exhibit different immune responses in animal models.
-30725771	Chloroquine And Hydroxychloroquine Toxicity.
 36151537	Implementation of a malaria prevention education intervention in Southern Ethiopia: a qualitative evaluation.
 36151088	Reply to: Relationship of circulating Plasmodium falciparum lifecycle stage to circulating parasitemia and total parasite biomass.
 36151085	Relationship of circulating Plasmodium falciparum lifecycle stage to circulating parasitemia and total parasite biomass.
@@ -3283,7 +3286,6 @@
 36124331	RDT- AND MICROSCOPIC-BASED TRENDS OF MALARIA AMONG LOCAL AND MIGRANT POPULATIONS IN THE PROVINCE OF CENTRAL KALIMANTAN, INDONESIA DURING 2017-2020.
 36124325	ANTIPLASMODIAL ACTIVITIES OF THE STEM BARK EXTRACT OF ARTOCARPUS ALTILIS FORSBERG.
 36124060	Differences between gridded population data impact measures of geographic access to healthcare in sub-Saharan Africa.
-32491525	Methylene Blue.
 36123731	Keys to the avian Haemoproteus parasites (Haemosporida, Haemoproteidae).
 36123705	Repurposing of the Malaria Box for Babesia microti in mice identifies novel active scaffolds against piroplasmosis.
 36122687	A song for the unsung: The relevance of Plasmodium vinckei as a laboratory rodent malaria system.
@@ -4511,7 +4513,7 @@
 35734173	Innate Immune Responses and P. falciparum CS Repeat-Specific Neutralizing Antibodies Following Vaccination by Skin Scarification.
 35734077	LLIN evaluation in Uganda project (LLINEUP): The fabric integrity, chemical content and bioefficacy of long-lasting insecticidal nets treated with and without piperonyl butoxide across two years of operational use in Uganda.
 35733749	Vector-Borne Diseases amidst COVID-19 Pandemic in India - A Mini-Review.
-35733306	Convalescent Plasma The Experience And Journey From Blockbuster To Incognito: A Single Centre Experience.
+35733306	Convalescent Plasma the Experience and Journey from Blockbuster to Incognito: A Single Centre Experience.
 35732943	Discovery and Characterization of Oxidative Enzymes Involved in Monoterpenoid Indole Alkaloid Biosynthesis.
 35732703	Estimating female malaria mosquito age by quantifying Y-linked genes in stored male spermatozoa.
 35732377	Cutaneous manifestations of malaria.
@@ -9995,5 +9997,3 @@
 33940529	Structural and immunogenicity analysis of reconstructed ancestral and consensus P48/45 for cross-species anti malaria transmission-blocking vaccine.
 33940437	A social network analysis of the organizations focusing on tuberculosis, malaria and pneumonia.
 33940188	Targeted deep amplicon sequencing of antimalarial resistance markers in Plasmodium falciparum isolates from Cameroon.
-33939717	Prevalence of clinical malaria and household characteristics of patients in tribal districts of Pakistan.
-33939707	Natural malaria infection in anophelines vectors and their incrimination in local malaria transmission in Darién, Panama.
