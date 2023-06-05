@@ -63,6 +63,7 @@
 37247702	Distinct biogeographic processes and areas of endemism contributed differentially to Plasmodium and Parahaemoproteus community assembly on Marajó Island.
 37246535	Understanding the spatial non-stationarity in the relationships between malaria incidence and environmental risk factors using Geographically Weighted Random Forest: A case study in Rwanda.
 37246323	Green Synthesis of Molecules for the Treatment of Neglected Diseases.
+31334971	Antiparasitic Drugs.
 37245219	Knowledge and Compliance with Malaria National Treatment Guidelines among Primary Health Care Workers in a Rural Area in Northern Nigeria.
 37244997	Sociodemographic factors associated with anemia among reproductive age women in Mali; evidenced by Mali malaria indicator survey 2021: spatial and multilevel mixed effect model analysis.
 37244916	Generation of a mutator parasite to drive resistome discovery in Plasmodium falciparum.
@@ -979,6 +980,7 @@
 36949382	Tile-based microscopic image processing for malaria screening using a deep learning approach.
 36949289	Impact of MiraNet® long-lasting insecticidal net against Anopheles arabiensis wild population of Northern Tanzania.
 36949175	Parasites as potential targets for cancer immunotherapy.
+29262067	Dapsone.
 36948531	Effect of community health worker home visits on antenatal care and institutional delivery: an analysis of secondary outcomes from a cluster randomised trial in Mali.
 36948209	Accelerating Cryptic Pocket Discovery Using AlphaFold.
 36948075	Identification and characterisation of the tegument-expressed aldehyde dehydrogenase SmALDH_312 of Schistosoma mansoni, a target of disulfiram.
@@ -1154,7 +1156,6 @@
 36881034	Effect of Intrapartum Azithromycin vs Placebo on Neonatal Sepsis and Death: A Randomized Clinical Trial.
 36880488	Accelerating the prevention, control and elimination of communicable diseases through integration and optimization of the support from Gavi and Global Fund: A vision for the Eastern Mediterranean Region.
 36880049	A novel nano-iron supplement versus standard treatment for iron deficiency anaemia in children 6-35 months (IHAT-GUT trial): a double-blind, randomised, placebo-controlled non-inferiority phase II trial in The Gambia.
-29262067	Dapsone.
 36879291	Medicinal plant-derived mtDNA via nanovesicles induces the cGAS-STING pathway to remold tumor-associated macrophages for tumor regression.
 36879278	Predictors of optimal uptake of intermittent preventive treatment of malaria in pregnancy using sulfadoxine-pyrimethamine and outcome of pregnancy in selected health facilities: a cross-sectional study in Northern Ghana.
 36879244	Senna occidentalis (L.) Link root extract inhibits Plasmodium growth in vitro and in mice.
@@ -4185,7 +4186,7 @@
 35844700	Age-specific differences in the magnitude of malaria-related anemia during low and high malaria seasons in rural Zambian children.
 35844531	Immune System Modulation by the Adjuvants Poly (I:C) and Montanide ISA 720.
 35844076	Trust the Process: Prolonged Babesia Parasitemia in an Elderly Man with Asplenia from the American Midwest.
-30855917	Plasmodium Vivax Malaria.
+30855917	Plasmodium vivax Malaria.
 35843778	Thwarting protein synthesis leads to malaria parasite paralysis.
 35843447	Epidemiological and clinical characteristics of imported malaria in Bulgaria: A retrospective study of а 21-year period.
 35843175	Splenic clearance of rigid erythrocytes as an inherited mechanism for splenomegaly and natural resistance to malaria.
@@ -4820,7 +4821,6 @@
 35642404	Comparative in vitro activity of selected antibacterial agents against Escherichia coli isolated from hospitalized patients suffering UTI.
 35641976	Malaria time series in the extra-Amazon region of Brazil: epidemiological scenario and a two-year prediction model.
 35641958	Anopheles stephensi in Africa requires a more integrated response.
-31334971	Antiparasitic Drugs.
 35641827	The role of research in China's successful elimination of malaria.
 35641592	HIV infection increases the risk of acquiring Plasmodium vivax malaria: a 4-year cohort study in the Brazilian Amazon HIV and risk of vivax malaria.
 35641573	Potential future malaria transmission in Odisha due to climate change.
