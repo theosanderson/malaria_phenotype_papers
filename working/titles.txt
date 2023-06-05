@@ -1,3 +1,5 @@
+37271818	BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators.
+37271388	A rapid systematic scoping review of research on the impacts of water contaminated by chemicals on very young children.
 37270766	KNOWLEDGE, ATTITUDES, AND PRACTICES TOWARD MALARIA AND ANTIMALARIAL MASS DRUG ADMINISTRATION AMONG HEADS OF HOUSEHOLDS IN VILLAGES ON GRANDE COMORE ISLAND, THE COMOROS.
 37270589	Clinical isolates of uncomplicated falciparum malaria from high and low malaria transmission areas show distinct pfcrt and pfmdr1 polymorphisms in western Ethiopia.
 37270545	Area-specific covid-19 effects on health services utilization in the Democratic Republic of the Congo using routine health information system data.
@@ -697,6 +699,7 @@
 37032366	Determinants of malaria infections among children in refugee settlements in Uganda during 2018-2019.
 37032336	Development of insecticide-impregnated polyester/cotton blend fabric and assessment of their repellent characteristics against Cimex lectularius and dengue vectors Aedes albopictus and Aedes aegypti.
 37031729	Novel inhibitors of Rickettsia prowazekii methionine aminopeptidase from the Malaria Box.
+34033323	OSHA Bloodborne Pathogen Standards.
 37031071	How can the complex epidemiology of malaria in India impact its elimination?
 37030471	Antimalarials and amphotericin B interact synergistically and are new options to treat cryptococcosis.
 37030438	Formulation and Scale-Up of Fast-Dissolving Lumefantrine Nanoparticles for Oral Malaria Therapy.
@@ -3820,7 +3823,7 @@
 35934309	Misleading eosinophil counts in migration-associated malaria: do not miss hidden helminthic co-infections.
 35934300	An assay procedure to investigate the transformation of toxic heme into inert hemozoin via plasmodial heme detoxification protein.
 35934190	Artemisia extracts differ from artemisinin effects on human hepatic CYP450s 2B6 and 3A4 in vitro.
-32310422	Plasmodium Falciparum Malaria.
+32310422	Plasmodium falciparum Malaria.
 30844175	Burkitt Lymphoma.
 35933389	Prevalence of Plasmodium spp. in Anopheles mosquitoes in Thailand: a systematic review and meta-analysis.
 35933384	Effects of sample preservation methods and duration of storage on the performance of mid-infrared spectroscopy for predicting the age of malaria vectors.
@@ -5431,7 +5434,6 @@
 35413904	Field evaluation of the diagnostic performance of EasyScan GO: a digital malaria microscopy device based on machine-learning.
 35413881	Reimagining zoonotic malaria control in communities exposed to Plasmodium knowlesi infection.
 35413832	Impact of insecticide-treated nets and indoor residual spraying on self-reported malaria prevalence among women of reproductive age in Ghana: implication for malaria control and elimination.
-34033323	OSHA Bloodborne Pathogen Standards.
 35413688	Cooperation in Countering Artemisinin Resistance in Africa: Learning from COVID-19.
 35413687	Malaria in 2022: Challenges and Progress.
 35412359	Transcending Dimensions in Apicomplexan Research: from Two-Dimensional to Three-Dimensional In Vitro Cultures.
@@ -9995,5 +9997,3 @@
 33940188	Targeted deep amplicon sequencing of antimalarial resistance markers in Plasmodium falciparum isolates from Cameroon.
 33939717	Prevalence of clinical malaria and household characteristics of patients in tribal districts of Pakistan.
 33939707	Natural malaria infection in anophelines vectors and their incrimination in local malaria transmission in Darién, Panama.
-33939644	Association between ABCB1 Polymorphisms and Artesunate-Mefloquine Treatment Responses of Patients with Falciparum Malaria on the Thailand-Myanmar Border.
-33939635	Recent Molecular Assessment of Plasmodium vivax and Plasmodium falciparum Asymptomatic Infections in Botswana.
