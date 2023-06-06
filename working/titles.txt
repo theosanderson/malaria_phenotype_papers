@@ -1,3 +1,6 @@
+37276438	Appraisal of Fungus-Derived Xanthoquinodins as Broad-Spectrum Anti-Infectives Targeting Phylogenetically Diverse Human Pathogens.
+37275290	A cross-sectional study on factors associated with health care seeking for acute respiratory infection and fever in children under-five in Zambia.
+37275182	Evidence for "Whole Family Approach" in accelerating uptake of COVID-19 and routine immunizations among integrated primary health services in Nigeria.
 37274532	Using Typhoid Conjugate Vaccines to Prevent Disease, Promote Health Equity, and Counter Drug-Resistant Typhoid Fever.
 37274361	Malaria: An Overview.
 37273838	Assessment of the Knowledge, Prevalence, and Control Strategies of Malaria Among Households in Sunyani Municipality, Bono Region, Ghana.
@@ -9994,6 +9997,3 @@
 33944705	Undernutrition and malaria among under-five children: findings from the 2018 Nigeria demographic and health survey.
 33942992	Genomic analysis of host gene responses to cerebral Plasmodium falciparum malaria.
 33942866	Trophic Behavior and Species Diversity of the Anopheles barbirostris Complex (Diptera: Culicidae) in Thailand.
-33942771	Evaluation of pharmacokinetics of single-dose primaquine in undernourished versus normally nourished children diagnosed with Plasmodium vivax malaria in Mumbai.
-33941516	Tafenoquine Is a Promising Drug Candidate for the Treatment of Babesiosis.
-33941493	Crystalloids: Fascinating Parasite Organelles Essential for Malaria Transmission.
