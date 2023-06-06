@@ -1,3 +1,13 @@
+37277818	Does vitamin D reduce the mortality rate of Plasmodium infection?: a systematic review and meta-analysis.
+37277533	Sexual differentiation in human malaria parasites is regulated by competition between phospholipid metabolism and histone methylation.
+37277359	The relationships between microbiome diversity and epidemiology in domestic species of malaria-mediated mosquitoes of Korea.
+37277341	Monitoring transmission intensity of trachoma with serology.
+37277334	Author Correction: Glycosylated nanoparticle-based PfCSP vaccine confers long-lasting antibody responses and sterile protection in mouse malaria model.
+37277110	Role of Human Twin Studies to Identify Genetic Linkage of Malaria Pathogenesis and Outcomes.
+37277107	The Threat of Vector-Borne Diseases in Sierra Leone.
+37277106	Spatial Clustering and Risk Factors for Malaria Infections and Marker of Recent Exposure to Plasmodium falciparum from a Household Survey in Artibonite, Haiti.
+37276879	The silent threat of submicroscopic Plasmodium infections during pregnancy.
+37276878	Prevalence of and risk factors for microscopic and submicroscopic malaria infections in pregnancy: a systematic review and meta-analysis.
 37276438	Appraisal of Fungus-Derived Xanthoquinodins as Broad-Spectrum Anti-Infectives Targeting Phylogenetically Diverse Human Pathogens.
 37275290	A cross-sectional study on factors associated with health care seeking for acute respiratory infection and fever in children under-five in Zambia.
 37275182	Evidence for "Whole Family Approach" in accelerating uptake of COVID-19 and routine immunizations among integrated primary health services in Nigeria.
@@ -9987,13 +9997,3 @@
 33951667	Neurovascular Interactions in Malaria.
 33951205	DNA identification of species of the Anopheles maculipennis complex and first record of An. daciae in Belgium.
 33950129	Cerebral malaria: A life-threatening complication.
-33948607	Rapidly increasing SARS-CoV-2 seroprevalence and limited clinical disease in three Malian communities: a prospective cohort study.
-33948432	Host specificity of Hepatocystis infection in short-nosed fruit bats (Cynopterus brachyotis) in Singapore.
-33947856	Heterologous protection against malaria by a simple chemoattenuated PfSPZ vaccine regimen in a randomized trial.
-33947708	Effectiveness of a national mass distribution campaign of long-lasting insecticide-treated nets and indoor residual spraying on clinical malaria in Malawi, 2018-2020.
-33947449	Single-cell sequencing of the small and AT-skewed genome of malaria parasites.
-33944775	Piper aduncum essential oil: a promising insecticide, acaricide and antiparasitic. A review.
-33944774	A novel loop-mediated isothermal amplification-lateral-flow-dipstick (LAMP-LFD) device for rapid detection of Toxoplasma gondii in the blood of stray cats and dogs.
-33944705	Undernutrition and malaria among under-five children: findings from the 2018 Nigeria demographic and health survey.
-33942992	Genomic analysis of host gene responses to cerebral Plasmodium falciparum malaria.
-33942866	Trophic Behavior and Species Diversity of the Anopheles barbirostris Complex (Diptera: Culicidae) in Thailand.
