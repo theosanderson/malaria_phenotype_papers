@@ -1,3 +1,7 @@
+37280686	Variability in white blood cell count during uncomplicated malaria and implications for parasite density estimation: a WorldWide Antimalarial Resistance Network individual patient data meta-analysis.
+37280626	Predicting the risk of malaria re-introduction in countries certified malaria-free: a systematic review.
+37280591	Composition of Anopheles species and bionomic characteristics over the peak malaria transmission season in Bandarban, Bangladesh.
+37280560	Mosquito bed net use and associated factors among pregnant women in Rwanda: a nationwide survey.
 37279432	Effectiveness of dihydroartemisinin-piperaquine after 10 years as treatment for vivax malaria in Indonesia.
 37279422	Artemisinin-based combination therapy successfully treated two hyperparasitaemic Plasmodium falciparum cases.
 37279274	The parasite intraerythrocytic cycle and human circadian cycle are coupled during malaria infection.
@@ -9993,7 +9997,3 @@
 33954209	Application of High-Resolution Melting (HRM) Technique towards the Detection of Asymptomatic Malaria in a Malaria Endemic Area of Southeastern Iran under Elimination Program.
 33954207	Ecology of Malaria Vectors in an Endemic Area, Southeast of Iran.
 33954122	The Ringleaders: Understanding the Apicomplexan Basal Complex Through Comparison to Established Contractile Ring Systems.
-33953445	Improving care of migrants is key for viral hepatitis elimination in Europe.
-33951995	Bioassay-guided isolation of vilasinin-type limonoids and phenyl alkene from the leaves of Trichilia gilgiana and their antiplasmodial activities.
-33951775	Occurrence of a Hybrid Between Taenia saginata and Taenia asiatica Tapeworms in Cambodia.
-33951766	Performance Evaluation of Biozentech Malaria Scanner in Plasmodium knowlesi and P. falciparum as a New Diagnostic Tool.
