@@ -1,3 +1,8 @@
+37284905	Toxoplasma Gondii Importin α Shows Weak Auto-Inhibition.
+37284173	Optimal Combinations of Control Strategies and Cost-Effectiveness Analysis of Dynamics of Endemic Malaria Transmission Model.
+37284030	Bioassay-Guided Isolation of Antiplasmodial Compounds from Hypericum lanceolatum Lam. (Hypericaceae) and Their Cytotoxicity and Molecular Docking.
+37284013	mHealth in Sub-Saharan Africa and Europe: Context of current health, healthcare status, and demographic structure.
+37283226	Chronic pain is no more prevalent in people living with HIV than in their uninfected counterparts in South Africa.
 37282915	[Properties of new exotic traditional Chinese medicinal Vernonia amygdalina leaves:a literature research].
 37282392	Toll-like receptor 2-mediated downstream cytokine levels as determinant of malaria pathogenesis.
 37280686	Variability in white blood cell count during uncomplicated malaria and implications for parasite density estimation: a WorldWide Antimalarial Resistance Network individual patient data meta-analysis.
@@ -9992,8 +9997,3 @@
 36101614	Coverage enhancement and community empowerment via commercial availability of the long-lasting nets for malaria in India.
 33957488	The molecular basis of antimalarial drug resistance in Plasmodium vivax.
 33957296	Molecular surveillance of malaria in the Central Highlands, Vietnam.
-33957208	Anti-inflammatory effects of three withanolides isolated from Physalis angulata L. in LPS-activated RAW 264.7 cells through blocking NF-κB signaling pathway.
-33956848	Profiling malaria infection among under-five children in the Democratic Republic of Congo.
-33956823	African based researchers' output on models for the transmission dynamics of infectious diseases and public health interventions: A scoping review.
-33955552	Transfusion management of severe anaemia in African children: a consensus algorithm.
-33954209	Application of High-Resolution Melting (HRM) Technique towards the Detection of Asymptomatic Malaria in a Malaria Endemic Area of Southeastern Iran under Elimination Program.
