@@ -1,3 +1,5 @@
+37282915	[Properties of new exotic traditional Chinese medicinal Vernonia amygdalina leaves:a literature research].
+37282392	Toll-like receptor 2-mediated downstream cytokine levels as determinant of malaria pathogenesis.
 37280686	Variability in white blood cell count during uncomplicated malaria and implications for parasite density estimation: a WorldWide Antimalarial Resistance Network individual patient data meta-analysis.
 37280626	Predicting the risk of malaria re-introduction in countries certified malaria-free: a systematic review.
 37280591	Composition of Anopheles species and bionomic characteristics over the peak malaria transmission season in Bandarban, Bangladesh.
@@ -9995,5 +9997,3 @@
 33956823	African based researchers' output on models for the transmission dynamics of infectious diseases and public health interventions: A scoping review.
 33955552	Transfusion management of severe anaemia in African children: a consensus algorithm.
 33954209	Application of High-Resolution Melting (HRM) Technique towards the Detection of Asymptomatic Malaria in a Malaria Endemic Area of Southeastern Iran under Elimination Program.
-33954207	Ecology of Malaria Vectors in an Endemic Area, Southeast of Iran.
-33954122	The Ringleaders: Understanding the Apicomplexan Basal Complex Through Comparison to Established Contractile Ring Systems.
