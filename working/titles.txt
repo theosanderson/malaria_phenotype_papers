@@ -1,3 +1,4 @@
+37285379	PfCRT mutations conferring piperaquine resistance in falciparum malaria shape the kinetics of quinoline drug binding and transport.
 37284905	Toxoplasma Gondii Importin α Shows Weak Auto-Inhibition.
 37284173	Optimal Combinations of Control Strategies and Cost-Effectiveness Analysis of Dynamics of Endemic Malaria Transmission Model.
 37284030	Bioassay-Guided Isolation of Antiplasmodial Compounds from Hypericum lanceolatum Lam. (Hypericaceae) and Their Cytotoxicity and Molecular Docking.
@@ -9996,4 +9997,3 @@
 33957925	Efficacy and safety of artemether-lumefantrine for treatment of uncomplicated Plasmodium falciparum malaria in Ethiopia: a systematic review and meta-analysis.
 36101614	Coverage enhancement and community empowerment via commercial availability of the long-lasting nets for malaria in India.
 33957488	The molecular basis of antimalarial drug resistance in Plasmodium vivax.
-33957296	Molecular surveillance of malaria in the Central Highlands, Vietnam.
