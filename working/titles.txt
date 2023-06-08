@@ -1,3 +1,9 @@
+37289500	Imported cases of malaria in Brazil from south American countries: a retrospective ecological study from 2009 to 2022.
+37289129	[Resistance of Plasmodium falciparum to antimalarial drugs].
+37289128	[Malaria].
+37288779	Molecular modelling, docking and network analysis of phytochemicals from Haritaki churna: role of protein cross-talks for their action.
+37288763	Artesunate does not affect oocyte maturation and early embryo development of bovine.
+37288670	Radial spoke protein 9 is necessary for axoneme assembly in Plasmodium but not in trypanosomatid parasites.
 37287037	Genetic variants of TLR4, including the novel variant, rs5030719, and related genes are associated with susceptibility to clinical malaria in African children.
 37287012	Preclinical studies of toxicity and anti-cholangiocarcinoma activity of the standardized capsule formulation of Atractylodes lancea (Thunb.) DC.
 37286568	A mosquito AgTRIO mRNA vaccine contributes to immunity against malaria.
@@ -9991,9 +9997,3 @@
 33961995	Suppressive, curative, and prophylactic potentials of an antimalarial polyherbal mixture and its individual components in Plasmodium berghei-Infected mice.
 33961918	Vesicle dynamics during the egress of malaria gametocytes from the red blood cell.
 33961128	FMRF-related peptides in Aedes aegypti midgut: neuromuscular connections and enteric nervous system.
-33960872	The RNA structurome in the asexual blood stages of malaria pathogen plasmodium falciparum.
-33960271	Tuberculosis vaccine BCG: the magical effect of the old vaccine in the fight against the COVID-19 pandemic.
-33959614	Theileria's Strategies and Effector Mechanisms for Host Cell Transformation: From Invasion to Immortalization.
-33959472	In silico and in vitro screening of licensed antimalarial drugs for repurposing as inhibitors of hepatitis E virus.
-33959322	Quantifying the risk of vector-borne disease transmission attributable to genetically modified vectors.
-33959131	Intravacuolar Pathogens Hijack Host Extracellular Vesicle Biogenesis to Secrete Virulence Factors.
