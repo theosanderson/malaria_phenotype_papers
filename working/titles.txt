@@ -1,3 +1,9 @@
+37287037	Genetic variants of TLR4, including the novel variant, rs5030719, and related genes are associated with susceptibility to clinical malaria in African children.
+37287012	Preclinical studies of toxicity and anti-cholangiocarcinoma activity of the standardized capsule formulation of Atractylodes lancea (Thunb.) DC.
+37286568	A mosquito AgTRIO mRNA vaccine contributes to immunity against malaria.
+37286249	The current landscape of software tools for the climate-sensitive infectious disease modelling community.
+37286245	The effect of extreme temperature and precipitation on cause-specific deaths in rural Burkina Faso: a longitudinal study.
+37286021	Identification of a long noncoding RNA required for temperature induced expression of stage-specific rRNA in malaria parasites.
 37285379	PfCRT mutations conferring piperaquine resistance in falciparum malaria shape the kinetics of quinoline drug binding and transport.
 37284905	Toxoplasma Gondii Importin α Shows Weak Auto-Inhibition.
 37284173	Optimal Combinations of Control Strategies and Cost-Effectiveness Analysis of Dynamics of Endemic Malaria Transmission Model.
@@ -9991,9 +9997,3 @@
 33959472	In silico and in vitro screening of licensed antimalarial drugs for repurposing as inhibitors of hepatitis E virus.
 33959322	Quantifying the risk of vector-borne disease transmission attributable to genetically modified vectors.
 33959131	Intravacuolar Pathogens Hijack Host Extracellular Vesicle Biogenesis to Secrete Virulence Factors.
-33959023	CYP2D6 Genetic Variation and Its Implication for Vivax Malaria Treatment in Madagascar.
-33958765	A natural symbiotic bacterium drives mosquito refractoriness to Plasmodium infection via secretion of an antimalarial lipase.
-33957959	Vector role and human biting activity of Anophelinae mosquitoes in different landscapes in the Brazilian Amazon.
-33957925	Efficacy and safety of artemether-lumefantrine for treatment of uncomplicated Plasmodium falciparum malaria in Ethiopia: a systematic review and meta-analysis.
-36101614	Coverage enhancement and community empowerment via commercial availability of the long-lasting nets for malaria in India.
-33957488	The molecular basis of antimalarial drug resistance in Plasmodium vivax.
