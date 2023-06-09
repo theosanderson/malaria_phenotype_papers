@@ -1,3 +1,12 @@
+37291700	Plasmodium falciparum COQ2 gene encodes a functional 4-hydroxybenzoate polyprenyltransferase.
+37291664	What are the pathways between poverty and malaria in sub-Saharan Africa? A systematic review of mediation studies.
+37291657	Why is Babesia not killed by artemisinin like Plasmodium?
+37291620	Finding the fragments: community-based epidemic surveillance in Sudan.
+37291584	Correction: 1-3-7 surveillance and response approach in malaria elimination: China's practice and global adaptions.
+37291578	Community engagement among forest goers in a malaria prophylaxis trial: implementation challenges and implications.
+37291561	A mixed methods study assessing the adoption potential of a saliva-based malaria rapid test in the Democratic Republic of Congo.
+37291425	Targeted and whole-genome sequencing reveal a north-south divide in P. falciparum drug resistance markers and genetic structure in Mozambique.
+37291191	Broad anti-pathogen potential of DEAD box RNA helicase eIF4A-targeting rocaglates.
 37289832	Polyketide- and Terpenoid-Derived Metabolites Produced by a Marine-Derived Fungus, Peroneutypa sp.
 37289500	Imported cases of malaria in Brazil from south American countries: a retrospective ecological study from 2009 to 2022.
 37289129	[Resistance of Plasmodium falciparum to antimalarial drugs].
@@ -9988,12 +9997,3 @@
 33964974	Epidemiological and entomological studies of malaria transmission in Tibati, Adamawa region of Cameroon 6 years following the introduction of long-lasting insecticide nets.
 33964945	Longitudinal study based on a safety registry for malaria patients treated with artenimol-piperaquine in six European countries.
 33964224	R21/Matrix-M: a second malaria vaccine?
-33964223	Efficacy of a low-dose candidate malaria vaccine, R21 in adjuvant Matrix-M, with seasonal administration to children in Burkina Faso: a randomised controlled trial.
-33963730	Correlates of serum IGF-1 in young children with moderate acute malnutrition: a cross-sectional study in Burkina Faso.
-33963210	Endothelial glycocalyx degradation and disease severity in Plasmodium vivax and Plasmodium knowlesi malaria.
-33962671	Evaluation of two sexual-stage antigens as bivalent transmission-blocking vaccines in rodent malaria.
-33962647	Migration-associated malaria from Africa in southern Spain.
-33962491	The Ok blood group system: an update.
-33962170	Immunogenicity and structural efficacy of P41 of Plasmodium sp. as potential cross-species blood-stage malaria vaccine.
-33962039	A comparative study of Plasmodium falciparum histidine-rich protein 2 (PfHRP2) blood levels and peripheral blood parasitemia as parameters of disease severity in individuals with imported falciparum malaria.
-33961995	Suppressive, curative, and prophylactic potentials of an antimalarial polyherbal mixture and its individual components in Plasmodium berghei-Infected mice.
