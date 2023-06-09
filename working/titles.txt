@@ -1,3 +1,4 @@
+37289832	Polyketide- and Terpenoid-Derived Metabolites Produced by a Marine-Derived Fungus, Peroneutypa sp.
 37289500	Imported cases of malaria in Brazil from south American countries: a retrospective ecological study from 2009 to 2022.
 37289129	[Resistance of Plasmodium falciparum to antimalarial drugs].
 37289128	[Malaria].
@@ -1454,8 +1455,8 @@
 36795547	Malaria in Children: Updates on Management and Prevention.
 36795503	Arthropod-borne diseases among travellers arriving in Europe from Africa, 2015 to 2019.
 36795314	Thrombotic microangiopathy after kidney transplantation: lessons from a transplant tourist.
-36795050	Characterizing the blood stage antimalarial activity of tafenoquine in healthy volunteers experimentally infected with Plasmodium falciparum.
-36794679	The antimalarial activity of tafenoquine in falciparum malaria.
+36795050	Characterizing the Blood-Stage Antimalarial Activity of Tafenoquine in Healthy Volunteers Experimentally Infected With Plasmodium falciparum.
+36794679	The Antimalarial Activity of Tafenoquine in Falciparum Malaria.
 36793714	Editorial: Puzzle pieces from malaria vaccine clinical trials.
 36793432	Squaramide Tethered Clindamycin, Chloroquine, and Mortiamide Hybrids: Design, Synthesis, and Antimalarial Activity.
 36793009	Cytotoxicity of the methanol extracts and compounds of Brucea antidysenterica (Simaroubaceae) towards multifactorial drug-resistant human cancer cell lines.
@@ -1607,6 +1608,7 @@
 36742111	Bio-products from Serratia marcescens isolated from Ghanaian Anopheles gambiae reduce Plasmodium falciparum burden in vector mosquitoes.
 36740714	Correction: G6PD deficiency among malaria-infected national groups at the western part of Myanmar with implications for primaquine use in malaria elimination.
 36740657	Vaccine Inequities and the Legacies of Colonialism: Speculative Fiction's Challenge to Medicine.
+36740590	Guidance on the Use of Convalescent Plasma to Treat Immunocompromised Patients With Coronavirus Disease 2019.
 36740589	The rapid and spontaneous post-partum clearance of Plasmodium falciparum is related to expulsion of the placenta.
 36740087	Sharp decrease in malaria incidence among the French armed forces in French Guiana.
 36739928	Verbenalin attenuates hepatic damage and mitochondrial dysfunction in alcohol-associated steatohepatitis by regulating MDMX/PPARα-mediated ferroptosis.
@@ -9995,5 +9997,3 @@
 33962170	Immunogenicity and structural efficacy of P41 of Plasmodium sp. as potential cross-species blood-stage malaria vaccine.
 33962039	A comparative study of Plasmodium falciparum histidine-rich protein 2 (PfHRP2) blood levels and peripheral blood parasitemia as parameters of disease severity in individuals with imported falciparum malaria.
 33961995	Suppressive, curative, and prophylactic potentials of an antimalarial polyherbal mixture and its individual components in Plasmodium berghei-Infected mice.
-33961918	Vesicle dynamics during the egress of malaria gametocytes from the red blood cell.
-33961128	FMRF-related peptides in Aedes aegypti midgut: neuromuscular connections and enteric nervous system.
