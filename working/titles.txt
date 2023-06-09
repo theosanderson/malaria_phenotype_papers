@@ -1,3 +1,12 @@
+37293453	One hundred years after the death of the writer and novelist Giovanni Verga (1922) and his relationship with public health: a glimpse of the past in the era of the SARS-CoV-2 (COVID-19) pandemic.
+37293082	PfAP2-MRP DNA-binding protein is a master regulator of parasite pathogenesis during malaria parasite blood stages.
+37292908	Measuring changes in Plasmodium falciparum var census population size and structure in response to sequential malaria control interventions.
+37292739	Accelerated prime-and-trap vaccine regimen in mice using repRNA-based CSP malaria vaccine.
+37292711	Malaria Transmission Intensity and Parasitemia during the Three-Dose RTS,S/AS01 Vaccination Series do not Reduce Magnitude of Antibody Response nor Efficacy Against the First Case of Malaria.
+37292709	Parasite proteostasis and artemisinin resistance.
+37292635	Amino acid supplementation confers protection to red blood cells prior to Plasmodium falciparum bystander stress.
+37292610	Anopheles salivary apyrase regulates blood meal hemostasis and drives malaria parasite transmission.
+37292018	Co-trimoxazole prophylaxis for children who are HIV-exposed and uninfected: a systematic review.
 37291700	Plasmodium falciparum COQ2 gene encodes a functional 4-hydroxybenzoate polyprenyltransferase.
 37291664	What are the pathways between poverty and malaria in sub-Saharan Africa? A systematic review of mediation studies.
 37291657	Why is Babesia not killed by artemisinin like Plasmodium?
@@ -9988,12 +9997,3 @@
 33969285	Insights into Plasmodium and SARS-CoV-2 co-infection driven neurological manifestations.
 33968801	Surveillance of Antimalarial Drug-Resistance Genes in Imported Plasmodium falciparum Isolates From Nigeria in Henan, China, 2012-2019.
 33968402	Localised release of matrix metallopeptidase 8 in fatal cerebral malaria.
-33968051	Immunopathology of Acute Kidney Injury in Severe Malaria.
-33968015	Plasmodium falciparum VAR2CSA-Specific IgG Subclass Responses Reflect Protection Against Low Birth Weight and Pregnancy-Associated Malaria.
-33966940	Molecular diagnosis and therapy for Plasmodium ovale infection of a returned traveler from East Africa.
-33959684	Prevalence of asymptomatic P. falciparum gametocyte carriage among school children in Mbita, Western Kenya and assessment of the association between gametocyte density, multiplicity of infection and mosquito infection prevalence.
-33965539	Genus Triplaris (Polygonaceae): A review on traditional medicinal use, phytochemistry and biological activities.
-33965210	Co-infection of severe imported malaria and HIV in a hospital in the south of Madrid.
-33964974	Epidemiological and entomological studies of malaria transmission in Tibati, Adamawa region of Cameroon 6 years following the introduction of long-lasting insecticide nets.
-33964945	Longitudinal study based on a safety registry for malaria patients treated with artenimol-piperaquine in six European countries.
-33964224	R21/Matrix-M: a second malaria vaccine?
