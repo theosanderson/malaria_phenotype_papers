@@ -1,3 +1,4 @@
+37294835	coiaf: Directly estimating complexity of infection with allele frequencies.
 37293453	One hundred years after the death of the writer and novelist Giovanni Verga (1922) and his relationship with public health: a glimpse of the past in the era of the SARS-CoV-2 (COVID-19) pandemic.
 37293082	PfAP2-MRP DNA-binding protein is a master regulator of parasite pathogenesis during malaria parasite blood stages.
 37292908	Measuring changes in Plasmodium falciparum var census population size and structure in response to sequential malaria control interventions.
@@ -9996,4 +9997,3 @@
 33969584	Inhibition of Plasmodium falciparum Lysyl-tRNA Synthetase via a Piperidine-Ring Scaffold Inspired Cladosporin Analogues.
 33969285	Insights into Plasmodium and SARS-CoV-2 co-infection driven neurological manifestations.
 33968801	Surveillance of Antimalarial Drug-Resistance Genes in Imported Plasmodium falciparum Isolates From Nigeria in Henan, China, 2012-2019.
-33968402	Localised release of matrix metallopeptidase 8 in fatal cerebral malaria.
