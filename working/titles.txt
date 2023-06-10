@@ -1,3 +1,6 @@
+37298992	Targeting Myeloperoxidase Activity and Neutrophil ROS Production to Modulate Redox Process: Effect of Ellagic Acid and Analogues.
+37298256	Roles of Virtual Screening and Molecular Dynamics Simulations in Discovering and Understanding Antimalarial Drugs.
+37296286	Unraveling anticancer potential of a novel serine protease inhibitor from marine yeast Candida parapsilosis ABS1 against colorectal and breast cancer cells.
 37294835	coiaf: Directly estimating complexity of infection with allele frequencies.
 37293453	One hundred years after the death of the writer and novelist Giovanni Verga (1922) and his relationship with public health: a glimpse of the past in the era of the SARS-CoV-2 (COVID-19) pandemic.
 37293082	PfAP2-MRP DNA-binding protein is a master regulator of parasite pathogenesis during malaria parasite blood stages.
@@ -74,7 +77,7 @@
 37270589	Clinical isolates of uncomplicated falciparum malaria from high and low malaria transmission areas show distinct pfcrt and pfmdr1 polymorphisms in western Ethiopia.
 37270545	Area-specific covid-19 effects on health services utilization in the Democratic Republic of the Congo using routine health information system data.
 37269964	Molecular insights into artemisinin resistance in Plasmodium falciparum: An updated review.
-37269963	Combined polymorphisms involving the IgG heavy chain and fc gamma receptors among Fulani and non-Fulani in Benin: Implications for the natural protection of young Fulani against plasmodium. Falciparum malaria infections.
+37269963	Combined polymorphisms involving the IgG heavy chain and Fc gamma receptors among Fulani and non-Fulani in Benin: implications for the natural protection of young Fulani against Plasmodium falciparum malaria infections.
 37269941	Short-course, high-dose primaquine regimens for treatment of liver-stage vivax malaria in children.
 37269868	Association between domesticated animal ownership and Plasmodium falciparum parasite prevalence in the Democratic Republic of the Congo: a national cross-sectional study.
 37269671	Tetrahydrobenzo[h]quinoline derivatives as a novel chemotype for dual antileishmanial-antimalarial activity graced with antitubercular activity: Design, synthesis and biological evaluation.
@@ -280,7 +283,7 @@
 37198702	Malaria vaccines: the 60-year journey of hope and final success-lessons learned and future prospects.
 37198392	Detection of dengue virus infection in children presenting with fever in Hawassa, southern Ethiopia.
 37198165	Structural basis of epitope selectivity and potent protection from malaria by PfCSP antibody L9.
-37197802	Advances in Malaria Pharmacology and the online Guide to MALARIA PHARMACOLOGY: IUPHAR Review X.
+37197802	Advances in malaria pharmacology and the online guide to MALARIA PHARMACOLOGY: IUPHAR review 38.
 37197657	High opsonic phagocytosis activity and growth inhibition of merozoites are associated with RON4 antibody levels and protect against febrile malaria in Ghanaian children.
 37197459	Inhibition of Thiamine Diphosphate-Dependent Enzymes by Triazole-Based Thiamine Analogues.
 37197082	Low Allelic Variation of Plasmodium falciparum msp-1 and msp-2 among Gold Miners in Central Kalimantan Province, Indonesia.
@@ -9994,6 +9997,3 @@
 33970705	The issue is not 'compliance': exploring exposure to malaria vector bites through social dynamics in Burkina Faso.
 33970496	Targeted elimination of species-rich larval habitats can rapidly collapse arbovirus vector mosquito populations at hotel compounds in Zanzibar.
 33970189	Uncovering a novel role of PLCβ4 in selectively mediating TCR signaling in CD8+ but not CD4+ T cells.
-33969584	Inhibition of Plasmodium falciparum Lysyl-tRNA Synthetase via a Piperidine-Ring Scaffold Inspired Cladosporin Analogues.
-33969285	Insights into Plasmodium and SARS-CoV-2 co-infection driven neurological manifestations.
-33968801	Surveillance of Antimalarial Drug-Resistance Genes in Imported Plasmodium falciparum Isolates From Nigeria in Henan, China, 2012-2019.
