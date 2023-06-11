@@ -1,3 +1,4 @@
+37300587	High burden of asymptomatic malaria and anaemia despite high adherence to malaria control measures: a cross-sectional study among pregnant women across two seasons in a malaria-endemic setting in Ghana.
 37298992	Targeting Myeloperoxidase Activity and Neutrophil ROS Production to Modulate Redox Process: Effect of Ellagic Acid and Analogues.
 37298256	Roles of Virtual Screening and Molecular Dynamics Simulations in Discovering and Understanding Antimalarial Drugs.
 37296286	Unraveling anticancer potential of a novel serine protease inhibitor from marine yeast Candida parapsilosis ABS1 against colorectal and breast cancer cells.
@@ -9996,4 +9997,3 @@
 33971090	Diaryl Ureas as an Antiprotozoal Chemotype.
 33970705	The issue is not 'compliance': exploring exposure to malaria vector bites through social dynamics in Burkina Faso.
 33970496	Targeted elimination of species-rich larval habitats can rapidly collapse arbovirus vector mosquito populations at hotel compounds in Zanzibar.
-33970189	Uncovering a novel role of PLCβ4 in selectively mediating TCR signaling in CD8+ but not CD4+ T cells.
