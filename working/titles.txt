@@ -1,3 +1,6 @@
+37303066	Medicinal plants used for treatment of malaria by indigenous communities of Tororo District, Eastern Uganda.
+37303047	Characteristics of molecular markers associated with chloroquine resistance in Plasmodium vivax strains from vivax malaria cases in Yunnan Province, China.
+37302957	Protein disulfide isomerases - a way to tackle malaria.
 37301591	Spatio-temporal patterns of malaria in Nepal from 2005 to 2018: A country progressing towards malaria elimination.
 37300587	High burden of asymptomatic malaria and anaemia despite high adherence to malaria control measures: a cross-sectional study among pregnant women across two seasons in a malaria-endemic setting in Ghana.
 37298992	Targeting Myeloperoxidase Activity and Neutrophil ROS Production to Modulate Redox Process: Effect of Ellagic Acid and Analogues.
@@ -9994,6 +9997,3 @@
 33971867	Correction to: Climate-proofing a malaria eradication strategy.
 33971865	Retraction Note: Antimalarial efficacy of Pongamia pinnata (L) Pierre against Plasmodium falciparum (3D7 strain) and Plasmodium berghei (ANKA).
 33971808	Transcriptomic analysis reveals pronounced changes in gene expression due to sub-lethal pyrethroid exposure and ageing in insecticide resistance Anopheles coluzzii.
-33971094	A Proteasome Mutation Sensitizes P. falciparum Cam3.II K13(C580Y) Parasites to DHA and OZ439.
-33971090	Diaryl Ureas as an Antiprotozoal Chemotype.
-33970705	The issue is not 'compliance': exploring exposure to malaria vector bites through social dynamics in Burkina Faso.
