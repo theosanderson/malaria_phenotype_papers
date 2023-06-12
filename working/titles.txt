@@ -1,3 +1,11 @@
+37306042	Conformational change of Plasmodium TRAP is essential for sporozoite migration and transmission.
+37305421	Novel systems to study vector-pathogen interactions in malaria.
+37305154	Prevalence of malaria parasitaemia among pregnant women at booking in Nigeria.
+37305151	Symptomatic and asymptomatic malaria prevalence and its determinant factors in pastoral communities of Waghemira Zone, Northeast Ethiopia: A community-based cross-sectional study.
+37304721	Machine learning enhances prediction of plants as potential sources of antimalarials.
+37304490	Blood Donation Screening of Transfusion-Transmissible Viral Infection Using Two Different Nucleic Acid Testing (NAT) Platforms: A Single Tertiary Care Oncology Centre Experience.
+37304125	Universal coverage and utilization of free long-lasting insecticidal nets for malaria prevention in Ghana: a cross-sectional study.
+37303154	Severe malaria-related disability in Ethiopian children from the perspectives of caregivers: an interpretive description study.
 37303066	Medicinal plants used for treatment of malaria by indigenous communities of Tororo District, Eastern Uganda.
 37303047	Characteristics of molecular markers associated with chloroquine resistance in Plasmodium vivax strains from vivax malaria cases in Yunnan Province, China.
 37302957	Protein disulfide isomerases - a way to tackle malaria.
@@ -9989,11 +9997,3 @@
 33974939	Identification and characterisation of a phospholipid scramblase in the malaria parasite Plasmodium falciparum.
 33974849	Parallel functional reduction in the mitochondria of apicomplexan parasites.
 33973849	HIV and AIDS: a philatelic medical review.
-33973571	The acetone crude extract of Quercus infectoria (Olivier) galls alters pH of the digestive vacuole of the malaria parasite, Plasmodium falciparum.
-33973448	[Application of SPR protein chip in screening for imported malaria].
-33973259	AaWRKY9 contributes to light- and jasmonate-mediated to regulate the biosynthesis of artemisinin in Artemisia annua.
-33972842	Comparison of the temporal efficacy of Aquatain surface films for the control of Anopheles arabiensis and Ochlerotatus caspius larvae from Sudan.
-33971991	Differential drivers of intraspecific and interspecific competition during malaria-helminth co-infection.
-33971867	Correction to: Climate-proofing a malaria eradication strategy.
-33971865	Retraction Note: Antimalarial efficacy of Pongamia pinnata (L) Pierre against Plasmodium falciparum (3D7 strain) and Plasmodium berghei (ANKA).
-33971808	Transcriptomic analysis reveals pronounced changes in gene expression due to sub-lethal pyrethroid exposure and ageing in insecticide resistance Anopheles coluzzii.
