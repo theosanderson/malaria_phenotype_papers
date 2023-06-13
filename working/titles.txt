@@ -1,3 +1,8 @@
+37309000	Increased peripartum mortality associated with maternal subclinical malaria in Mozambique.
+37308594	Two transporters enable chloroquine resistance in malaria.
+37308503	Genome-wide genetic variation and molecular surveillance of drug resistance in Plasmodium falciparum isolates from asymptomatic individuals in Ouélessébougou, Mali.
+37308472	Mechanism of small molecule inhibition of Plasmodium falciparum myosin A informs antimalarial drug design.
+37308102	Capacity Building in Pediatric Critical Care-Global Health Research and Education: The Blantyre Experience.
 37307522	Improving outcomes for children with malaria, diarrhoea and pneumonia in Mozambique: A cluster randomised controlled trial of the inSCALE technology innovation.
 37307519	Improving community health worker treatment for malaria, diarrhoea, and pneumonia in Uganda through inSCALE community and mHealth innovations: A cluster randomised controlled trial.
 37307435	Histidine-rich protein II nanoparticle delivery of heme iron load drives endothelial inflammation in cerebral malaria.
@@ -9992,8 +9997,3 @@
 33978096	Erratum: The hidden Plasmodium malariae in blood donors: a risk coming from areas of low transmission of malaria.
 33977166	Effectiveness of peer-supervision on pediatric fever illness treatment among registered private drug sellers in East-Central Uganda: An interrupted time series analysis.
 33976860	Transcriptome assembly and differential gene expression of the invasive avian malaria parasite Plasmodium relictum in Hawai'i.
-33976436	Epidemiology of COVID-19 outbreak in Ghana, 2020.
-33976269	Artemisinin combination therapy fails even in the absence of Plasmodium falciparum kelch13 gene polymorphism in Central India.
-33976227	Molecular evolution and the decline of purifying selection with age.
-33976132	The impact of stopping and starting indoor residual spraying on malaria burden in Uganda.
-33975947	Peptidic boronic acids are potent cell-permeable inhibitors of the malaria parasite egress serine protease SUB1.
