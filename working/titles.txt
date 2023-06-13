@@ -1,3 +1,8 @@
+37307522	Improving outcomes for children with malaria, diarrhoea and pneumonia in Mozambique: A cluster randomised controlled trial of the inSCALE technology innovation.
+37307519	Improving community health worker treatment for malaria, diarrhoea, and pneumonia in Uganda through inSCALE community and mHealth innovations: A cluster randomised controlled trial.
+37307435	Histidine-rich protein II nanoparticle delivery of heme iron load drives endothelial inflammation in cerebral malaria.
+37307293	Symptomatic malaria enhances protection from reinfection with homologous Plasmodium falciparum parasites.
+37307282	Spatial dynamics of malaria transmission.
 37306942	Chemical characterization of different extracts from Artemisia annua and their antioxidant, enzyme inhibitory and anti-inflammatory properties.
 37306461	Whole-Mount Fluorescence In Situ Hybridization to Study Spermatogenesis in the Anopheles Mosquito.
 37306242	Association between interleukin-27 gene polymorphisms and Plasmodium falciparum Malaria.
@@ -681,7 +686,6 @@
 37072759	Availability of malaria diagnostic tests, anti-malarial drugs, and the correctness of treatment: a systematic review and meta-analysis.
 37072433	Population dynamics and drug resistance mutations in Plasmodium falciparum on the Bijagós Archipelago, Guinea-Bissau.
 37072430	Plasmepsin X activates the PCRCR complex of Plasmodium falciparum by processing PfRh5 for erythrocyte invasion.
-37071590	Prevalence of pretreatment drug resistance in persons initiating and reinitiating antiretroviral therapy in Sri Lanka: results from a national representative survey.
 37071200	Pharmacological activation of PIEZO1 in human red blood cells prevents Plasmodium falciparum invasion.
 37070464	A Diagnostic Accuracy Study to Evaluate Standard Rapid Diagnostic Test (RDT) Alone to Safely Rule Out Imported Malaria in Children Presenting to UK Emergency Departments.
 37069854	Malaria parasite prevalence in Sub-Saharan African migrants screened in Sweden: a cross-sectional study.
@@ -9993,7 +9997,3 @@
 33976227	Molecular evolution and the decline of purifying selection with age.
 33976132	The impact of stopping and starting indoor residual spraying on malaria burden in Uganda.
 33975947	Peptidic boronic acids are potent cell-permeable inhibitors of the malaria parasite egress serine protease SUB1.
-33975626	Chronic political instability and HIV/AIDS response in Guinea-Bissau: a qualitative study.
-33975624	Setting-up a cross-border action-research project to control malaria in remote areas of the Amazon: describing the birth and milestones of a complex international project (Malakit).
-33975463	Impact of increased ventilation on indoor temperature and malaria mosquito density: an experimental study in The Gambia.
-33975022	Variation in selective constraints along the Plasmodium life cycle.
