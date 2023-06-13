@@ -1,3 +1,5 @@
+37310511	Towards malaria elimination: analysis of travel history and case forecasting using the SARIMA model in Limpopo Province.
+37310126	Clinical characteristics of platelet-mediated killing circulating parasite of major human malaria.
 37309000	Increased peripartum mortality associated with maternal subclinical malaria in Mozambique.
 37308594	Two transporters enable chloroquine resistance in malaria.
 37308503	Genome-wide genetic variation and molecular surveillance of drug resistance in Plasmodium falciparum isolates from asymptomatic individuals in Ouélessébougou, Mali.
@@ -9995,5 +9997,3 @@
 33979168	Semisynthesis, Antiplasmodial Activity, and Mechanism of Action Studies of Isocoumarin Derivatives.
 33979164	Aminoalkoxycarbonyloxymethyl Ether Prodrugs with a pH-Triggered Release Mechanism: A Case Study Improving the Solubility, Bioavailability, and Efficacy of Antimalarial 4(1H)-Quinolones with Single Dose Cures.
 33978096	Erratum: The hidden Plasmodium malariae in blood donors: a risk coming from areas of low transmission of malaria.
-33977166	Effectiveness of peer-supervision on pediatric fever illness treatment among registered private drug sellers in East-Central Uganda: An interrupted time series analysis.
-33976860	Transcriptome assembly and differential gene expression of the invasive avian malaria parasite Plasmodium relictum in Hawai'i.
