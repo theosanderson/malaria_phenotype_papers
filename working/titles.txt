@@ -1,3 +1,6 @@
+37314602	Identification and validation of the first EST-SSR markers based on transcriptome of Anopheles darlingi, the primary transmitter of malaria in Brazil.
+37314349	Antiplasmodial Activity Evaluation of a Bestatin-Related Aminopeptidase Inhibitor, Phebestin.
+37314336	No Association between the Plasmodium vivax crt-o MS334 or In9pvcrt Polymorphisms and Chloroquine Failure in a Pre-Elimination Clinical Cohort from Malaysia with a Large Clonal Expansion.
 37313769	Plasmodium structure of Intoshia linei (Orthonectida).
 37312932	The αTSR Domain of Plasmodium Circumsporozoite Protein Bound Heparan Sulfates and Elicited High Titers of Sporozoite Binding Antibody After Displayed by Nanoparticles.
 37312220	Assessment of genetic polymorphisms associated with malaria antifolate resistance among the population of Libreville, Gabon.
@@ -9994,6 +9997,3 @@
 33981467	International Society of Nephrology Global Kidney Health Atlas: structures, organization, and services for the management of kidney failure in Africa.
 33981089	Malaria vaccine shows phase II promise, advances into phase III.
 33980945	Predicting distribution of malaria vector larval habitats in Ethiopia by integrating distributed hydrologic modeling with remotely sensed data.
-33980273	Secondary malaria vectors in western Kenya include novel species with unexpectedly high densities and parasite infection rates.
-33980257	Implementing radical cure diagnostics for malaria: user perspectives on G6PD testing in Bangladesh.
-33980241	High prevalence of asymptomatic Plasmodium infection in Bandafassi, South-East Senegal.
