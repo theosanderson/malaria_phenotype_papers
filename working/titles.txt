@@ -1,3 +1,6 @@
+37310935	Testing for SARS-CoV-2 in resource-limited settings: A cost analysis study of diagnostic tests using different Ag-RDTs and RT-PCR technologies in Mozambique.
+37310872	The Dantu blood group prevents parasite growth in vivo: Evidence from a controlled human malaria infection study.
+37310810	MEPicides: α,β-unsaturated Fosmidomycin N-Acyl Analogs as Efficient Inhibitors of Plasmodium falciparum 1-Deoxy-d-xylulose-5-phosphate reductoisomerase.
 37310511	Towards malaria elimination: analysis of travel history and case forecasting using the SARIMA model in Limpopo Province.
 37310126	Clinical characteristics of platelet-mediated killing circulating parasite of major human malaria.
 37309000	Increased peripartum mortality associated with maternal subclinical malaria in Mozambique.
@@ -9994,6 +9997,3 @@
 33979614	Dynamic modulation of spleen germinal center reactions by gut bacteria during Plasmodium infection.
 33979568	A Difficult Diagnosis of Plasmodium ovale Malaria.
 33979323	Glyphosate inhibits melanization and increases susceptibility to infection in insects.
-33979168	Semisynthesis, Antiplasmodial Activity, and Mechanism of Action Studies of Isocoumarin Derivatives.
-33979164	Aminoalkoxycarbonyloxymethyl Ether Prodrugs with a pH-Triggered Release Mechanism: A Case Study Improving the Solubility, Bioavailability, and Efficacy of Antimalarial 4(1H)-Quinolones with Single Dose Cures.
-33978096	Erratum: The hidden Plasmodium malariae in blood donors: a risk coming from areas of low transmission of malaria.
