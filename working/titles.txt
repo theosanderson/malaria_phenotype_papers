@@ -1,3 +1,5 @@
+37313769	Plasmodium structure of Intoshia linei (Orthonectida).
+37312932	The αTSR Domain of Plasmodium Circumsporozoite Protein Bound Heparan Sulfates and Elicited High Titers of Sporozoite Binding Antibody After Displayed by Nanoparticles.
 37312220	Assessment of genetic polymorphisms associated with malaria antifolate resistance among the population of Libreville, Gabon.
 37312125	The association of intimate Partner violence and decision making power on nutritional status of married women in Ethiopia: a multilevel mixed-effect analysis.
 37312065	Ethiopian Plasmodium vivax hypnozoites formation dynamics and their susceptibility to reference antimalarial drugs.
@@ -9995,5 +9997,3 @@
 33980273	Secondary malaria vectors in western Kenya include novel species with unexpectedly high densities and parasite infection rates.
 33980257	Implementing radical cure diagnostics for malaria: user perspectives on G6PD testing in Bangladesh.
 33980241	High prevalence of asymptomatic Plasmodium infection in Bandafassi, South-East Senegal.
-33979909	Bioaccumulation of DDT and other organochlorine pesticides in amphibians from two conservation areas within malaria risk regions of South Africa.
-33979637	Development of a novel multiplex PCR assay for the detection and differentiation of Plasmodium caprae from Theileria luwenshuni and Babesia spp. in goats.
