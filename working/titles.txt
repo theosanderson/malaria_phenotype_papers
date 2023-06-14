@@ -1,3 +1,6 @@
+37312220	Assessment of genetic polymorphisms associated with malaria antifolate resistance among the population of Libreville, Gabon.
+37312125	The association of intimate Partner violence and decision making power on nutritional status of married women in Ethiopia: a multilevel mixed-effect analysis.
+37312065	Ethiopian Plasmodium vivax hypnozoites formation dynamics and their susceptibility to reference antimalarial drugs.
 37310935	Testing for SARS-CoV-2 in resource-limited settings: A cost analysis study of diagnostic tests using different Ag-RDTs and RT-PCR technologies in Mozambique.
 37310872	The Dantu blood group prevents parasite growth in vivo: Evidence from a controlled human malaria infection study.
 37310810	MEPicides: α,β-unsaturated Fosmidomycin N-Acyl Analogs as Efficient Inhibitors of Plasmodium falciparum 1-Deoxy-d-xylulose-5-phosphate reductoisomerase.
@@ -9994,6 +9997,3 @@
 33980241	High prevalence of asymptomatic Plasmodium infection in Bandafassi, South-East Senegal.
 33979909	Bioaccumulation of DDT and other organochlorine pesticides in amphibians from two conservation areas within malaria risk regions of South Africa.
 33979637	Development of a novel multiplex PCR assay for the detection and differentiation of Plasmodium caprae from Theileria luwenshuni and Babesia spp. in goats.
-33979614	Dynamic modulation of spleen germinal center reactions by gut bacteria during Plasmodium infection.
-33979568	A Difficult Diagnosis of Plasmodium ovale Malaria.
-33979323	Glyphosate inhibits melanization and increases susceptibility to infection in insects.
