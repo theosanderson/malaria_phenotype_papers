@@ -1,3 +1,6 @@
+37317948	The feasibility of novel point-of-care diagnostics for febrile illnesses at health centres in Southeast Asia: a mixed-methods study.
+37317169	Arsinothricin Inhibits Plasmodium falciparum Proliferation in Blood and Blocks Parasite Transmission to Mosquitoes.
+37317119	Bacterial Microbiota from Lab-Reared and Field-Captured Anopheles darlingi Midgut and Salivary Gland.
 37316814	Comparison of Epstein-Barr virus and Kaposi's sarcoma-associated herpesvirus viral load in peripheral blood mononuclear cells and oral fluids of HIV-negative individuals aged 3-89 years from Uganda.
 37316679	High endemicity of Opisthorchis viverrini infection among people in northern Cambodia confirmed by adult worm expulsion.
 37315826	Update on the susceptibility to chloroquine of Plasmodium falciparum in Honduras.
@@ -1445,6 +1448,7 @@
 36827107	Salt-Tolerant Plants as Sources of Antiparasitic Agents for Human Use: A Comprehensive Review.
 36825701	Parasite metalo-aminopeptidases as targets in human infectious diseases.
 36825129	The impact of faith-based organizations on maternal and child health care outcomes in Africa: taking stock of research evidence.
+36824972	Monitoring transmission intensity of trachoma with serology.
 36824880	An Optimized GATK4 Pipeline for Plasmodium falciparum Whole Genome Sequencing Variant Calling and Analysis.
 36824860	Early Treatment, Inflammation and Post-COVID Conditions.
 36824754	Comparative transcriptomics reveal differential gene expression in Plasmodium vivax geographical isolates and implications on erythrocyte invasion mechanisms.
@@ -9993,7 +9997,3 @@
 33985447	Population structure and diversity of Plasmodium falciparum in children with asymptomatic malaria living in different ecological zones of Ghana.
 33985434	Malaria intermittent preventive treatment in Nigeria: a qualitative study to explore barriers.
 33984022	Malaria prevention practices and associated factors among households of Hawassa City Administration, Southern Ethiopia, 2020.
-33983454	Melittin as a promising anti-protozoan peptide: current knowledge and future prospects.
-33983371	Efficacy, Safety and Tolerability of Pyronaridine-artesunate in Asymptomatic Malaria-infected Individuals: a Randomized Controlled Trial.
-33982570	Heme Detoxification in the Malaria Parasite: A Target for Antimalarial Drug Development.
-33981888	Optimal control problem and backward bifurcation on malaria transmission with vector bias.
