@@ -1,3 +1,5 @@
+37314965	Plasmodium GPI-anchored micronemal antigen is essential for parasite transmission through the mosquito host.
+37314903	Multi-Disease Detection Using a Prism-Based Surface Plasmon Resonance Sensor: A TMM and FEM Approach.
 37314602	Identification and validation of the first EST-SSR markers based on transcriptome of Anopheles darlingi, the primary transmitter of malaria in Brazil.
 37314349	Antiplasmodial Activity Evaluation of a Bestatin-Related Aminopeptidase Inhibitor, Phebestin.
 37314336	No Association between the Plasmodium vivax crt-o MS334 or In9pvcrt Polymorphisms and Chloroquine Failure in a Pre-Elimination Clinical Cohort from Malaysia with a Large Clonal Expansion.
@@ -9995,5 +9997,3 @@
 33981864	Plasmodium falciparum DDX17 is an RNA helicase crucial for parasite development.
 33981715	How Genetics Might Explain the Unusual Link Between Malaria and COVID-19.
 33981467	International Society of Nephrology Global Kidney Health Atlas: structures, organization, and services for the management of kidney failure in Africa.
-33981089	Malaria vaccine shows phase II promise, advances into phase III.
-33980945	Predicting distribution of malaria vector larval habitats in Ethiopia by integrating distributed hydrologic modeling with remotely sensed data.
