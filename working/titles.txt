@@ -1,3 +1,10 @@
+37325319	Climate variability, socio-economic conditions and vulnerability to malaria infections in Mozambique 2016-2018: a spatial temporal analysis.
+37324796	Mapping Malaria Vector Habitats in West Africa: Drone Imagery and Deep Learning Analysis for Targeted Vector Surveillance.
+37324161	Magnitude and patterns of severe Plasmodium vivax monoinfection in Vietnam: a 4-year single-center retrospective study.
+37323745	Time Trend and Prevalence Analysis of Transfusion Transmitted Infections among Blood Donors: A Retrospective Study from 2001 to 2016.
+37323727	Trends and Pattern of Diseases Under Integrated Disease Surveillance Project in Jodhpur, Rajasthan: A Retrospective Observational Study.
+37323661	Performance of SNP barcodes to determine genetic diversity and population structure of Plasmodium falciparum in Africa.
+37323401	A Liquid Chromatography High-Resolution Tandem Mass Spectrometry Method to Quantify QS-21 Adjuvant and Its Degradation Products in Liposomal Drug Formulations.
 37322481	Histone modification analysis reveals common regulators of gene expression in liver and blood stage merozoites of Plasmodium parasites.
 37322097	Effect of COVID-19 pandemic on inpatient service utilization and patient outcomes in Uganda.
 37321567	Dihydroartemisinin Disrupts Zinc Homeostasis in Plasmodium falciparum To Potentiate Its Antimalarial Action via Pyknosis.
@@ -1450,7 +1457,7 @@
 36827158	Phytochemical Investigation of Three Cystoseira Species and Their Larvicidal Activity Supported with In Silico Studies.
 36827135	Isolation and Characterization of NpCI, a New Metallocarboxypeptidase Inhibitor from the Marine Snail Nerita peloronta with Anti-Plasmodium falciparum Activity.
 36827107	Salt-Tolerant Plants as Sources of Antiparasitic Agents for Human Use: A Comprehensive Review.
-36825701	Parasite metalo-aminopeptidases as targets in human infectious diseases.
+36825701	Parasite Metalo-aminopeptidases as Targets in Human Infectious Diseases.
 36825129	The impact of faith-based organizations on maternal and child health care outcomes in Africa: taking stock of research evidence.
 36824972	Monitoring transmission intensity of trachoma with serology.
 36824880	An Optimized GATK4 Pipeline for Plasmodium falciparum Whole Genome Sequencing Variant Calling and Analysis.
@@ -9990,10 +9997,3 @@
 33987889	Platelets inhibit erythrocyte invasion by Plasmodium falciparum at physiological platelet:erythrocyte ratios.
 33987782	Differences in Access to HIV Services and Risky Sexual Behaviors Among Malawian Women at Social Venues Who Do and Do Not Engage in Sex Work.
 33987626	The Story of a Ship Journey, Malaria, and the HBB Gene IVS-II-745 Mutation: Circassian Immigration to Cyprus.
-33987532	The regulatory genome of the malaria vector Anopheles gambiae: integrating chromatin accessibility and gene expression.
-33987159	Regional Distribution of Causes of Death for Small Areas in Brazil, 1998-2017.
-33986798	A 90-Day Oral Toxicity of Hydroethanolic Root Extract of Carissa spinarum in Wistar Rats.
-33986416	Detection of Plasmodium falciparum in laboratory-reared and naturally infected wild mosquitoes using near-infrared spectroscopy.
-33986287	Protein-based antigen presentation platforms for nanoparticle vaccines.
-33986184	Regulatory Role of Zinc in Immune Cell Signaling.
-33985912	Defining the Essential Exportome of the Malaria Parasite.
