@@ -1,6 +1,7 @@
-37319758	Malaria, and Its Connection with the Existence and Character of Disease.
-37319670	Modifying Influence of Malaria upon Diseases of the South and West.
-37319522	Remarks upon Puerperal Fever Complicated with Malaria: Read before the Kosciusko County Medical Society.
+37322481	Histone modification analysis reveals common regulators of gene expression in liver and blood stage merozoites of Plasmodium parasites.
+37322097	Effect of COVID-19 pandemic on inpatient service utilization and patient outcomes in Uganda.
+37321567	Dihydroartemisinin Disrupts Zinc Homeostasis in Plasmodium falciparum To Potentiate Its Antimalarial Action via Pyknosis.
+37321109	Development of diphenylmethylpiperazine hybrids of chloroquinoline and triazolopyrimidine using Petasis reaction as new cysteine proteases inhibitors for malaria therapeutics.
 37317948	The feasibility of novel point-of-care diagnostics for febrile illnesses at health centres in Southeast Asia: a mixed-methods study.
 37317169	Arsinothricin Inhibits Plasmodium falciparum Proliferation in Blood and Blocks Parasite Transmission to Mosquitoes.
 37317119	Bacterial Microbiota from Lab-Reared and Field-Captured Anopheles darlingi Midgut and Salivary Gland.
@@ -9996,4 +9997,3 @@
 33986287	Protein-based antigen presentation platforms for nanoparticle vaccines.
 33986184	Regulatory Role of Zinc in Immune Cell Signaling.
 33985912	Defining the Essential Exportome of the Malaria Parasite.
-33985540	Malaria and Cancer: a critical review on the established associations and new perspectives.
