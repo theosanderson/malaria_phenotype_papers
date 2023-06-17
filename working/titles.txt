@@ -1,3 +1,11 @@
+37328856	Utilization of insecticide-treated nets and associated factors among childbearing women in Northern Nigeria.
+37328849	World Hepatitis day 2021 -screening and vaccination against Hepatitis B virus in Accra, Ghana.
+37328808	Investigating the etiology of acute febrile illness: a prospective clinic-based study in Uganda.
+37328419	Utilisation des médicaments traditionnels chez les praticiens de la médecine conventionnelle au Burkina Faso.
+37327857	Pre-pandemic cross-reactive humoral immunity to SARS-CoV-2 in Africa: systematic review and meta-analysis.
+37327810	Ganaplacide plus lumefantrine solid dispersion formulation: considerations for development and rollout.
+37327809	Ganaplacide (KAF156) plus lumefantrine solid dispersion formulation combination for uncomplicated Plasmodium falciparum malaria: an open-label, multicentre, parallel-group, randomised, controlled, phase 2 trial.
+37327738	A comparison of Illumina and PacBio methods to build tick salivary gland transcriptomes confirms large expression of lipocalins and other salivary protein families that are not represented in available tick genomes.
 37327530	A systematic review and meta-analysis of changes in interleukin-8 levels in malaria infection.
 37327529	Influence of trem-1 gene polymorphisms on cytokine levels during malaria by Plasmodium vivax in a frontier area of the Brazilian Amazon.
 37327340	A Plasmodium membrane receptor platform integrates cues for egress and invasion in blood forms and activation of transmission stages.
@@ -9989,11 +9997,3 @@
 33993649	A guide to investigating immune responses elicited by whole-sporozoite pre-erythrocytic vaccines against malaria.
 33993492	Point-of-care haemoglobin testing in African hospitals: a neglected essential diagnostic test.
 33993313	Association of undernutrition with dengue, malaria and acute diarrhea among children in a Thai-Myanmar border.
-33993294	The Immediate Effects of a Combined Mass Drug Administration and Indoor Residual Spraying Campaign to Accelerate Progress Toward Malaria Elimination in Grande-Anse, Haiti.
-33992538	A novel nano-anti-malarial induces redox damage and elicits cytokine response to the parasite.
-30000766	Primaquine.
-33991680	Contrasting epidemiology and genetic variation of Plasmodium vivax infecting Duffy-negative individuals across Africa.
-33991679	Failure of rapid diagnostic tests in Plasmodium falciparum malaria cases among travelers to the UK and Ireland: Identification and characterisation of the parasites.
-33991531	Immunoinformatics and Pepscan strategies on the path of a peptide-based serological diagnosis of COVID19.
-33990358	Forest malaria: the prevailing obstacle for malaria control and elimination in India.
-33990197	Evaluation of the durability of long-lasting insecticidal nets in Guatemala.
