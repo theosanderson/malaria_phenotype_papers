@@ -1,3 +1,8 @@
+37327530	A systematic review and meta-analysis of changes in interleukin-8 levels in malaria infection.
+37327529	Influence of trem-1 gene polymorphisms on cytokine levels during malaria by Plasmodium vivax in a frontier area of the Brazilian Amazon.
+37327340	A Plasmodium membrane receptor platform integrates cues for egress and invasion in blood forms and activation of transmission stages.
+37327217	Correction: Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi.
+37327209	Transmission-blocking activity of antimalarials for Plasmodium vivax malaria in Anopheles darlingi.
 37326808	The "parasite detoxification hypothesis": lead exposure potentially changes the ecological interaction from parasitism to mutualism.
 37325319	Climate variability, socio-economic conditions and vulnerability to malaria infections in Mozambique 2016-2018: a spatial temporal analysis.
 37324796	Mapping Malaria Vector Habitats in West Africa: Drone Imagery and Deep Learning Analysis for Targeted Vector Surveillance.
@@ -554,7 +559,7 @@
 37126705	Direct tests of cytochrome c and c(1) functions in the electron transport chain of malaria parasites.
 37126484	Impact of COVID-19 pandemic and anti-pandemic measures on tuberculosis, viral hepatitis, HIV/AIDS and malaria-A systematic review.
 37126065	The Critical Role of Disease and Non-Battle Injuries in Soldiers Isolated on Pacific Islands During the Second World War.
-37125449	Status of blood levels of superoxide dismutase in patients with malaria: A systematic review and meta-analysis.
+37125449	Status of Blood Levels of Superoxide Dismutase in Patients with Malaria: A Systematic Review and Meta-Analysis.
 37124936	Perceived Health System Challenges of Implementing Cross-Border Malaria Preventive Measures at Ports of Entry in KwaZulu-Natal.
 37124906	Applying Intervention-Mapping Approach to Develop a Health-Related Intervention and Malaria Prevention for International Students.
 37124770	Born too soon in a resource-limited setting: A 10-year mixed methods review of a special care baby unit for refugees and migrants on the Myanmar-Thailand border.
@@ -9992,8 +9997,3 @@
 33991531	Immunoinformatics and Pepscan strategies on the path of a peptide-based serological diagnosis of COVID19.
 33990358	Forest malaria: the prevailing obstacle for malaria control and elimination in India.
 33990197	Evaluation of the durability of long-lasting insecticidal nets in Guatemala.
-33989978	Cysteine proteases: Battling pathogenic parasitic protozoans with omnipresent enzymes.
-33989911	Advancement of chimeric hybrid drugs to cure malaria infection: An overview with special emphasis on endoperoxide pharmacophores.
-33989171	Navigating the COVID-19 Crisis to Sustain Community-Based Malaria Interventions in Cambodia.
-33987899	Nutmegs and wild nutmegs: An update on ethnomedicines, phytochemicals, pharmacology, and toxicity of the Myristicaceae species.
-33987889	Platelets inhibit erythrocyte invasion by Plasmodium falciparum at physiological platelet:erythrocyte ratios.
