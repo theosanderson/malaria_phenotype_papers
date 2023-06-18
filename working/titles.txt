@@ -1,3 +1,13 @@
+37330477	A systematic review of mixed studies on malaria in Colombia 1980-2022: what the "bifocal vision" discovers.
+37330475	Therapeutic efficacy of pyronaridine-artesunate (Pyramax(®)) against uncomplicated Plasmodium falciparum infection at Hamusit Health Centre, Northwest Ethiopia.
+37330469	A framework for stakeholder engagement in the adoption of new anti-malarial treatments in Africa: a case study of Nigeria.
+37330107	Bioactivity of select essential oil constituents against life stages of Anopheles arabiensis (Diptera: Culicidae).
+37330106	Crude saliva of Amblyomma cajennense sensu stricto (Acari: Ixodidae) reduces locomotor activity and increases the hemocyte number in the females of Aedes aegypti (Diptera: Culicidae).
+37330040	Diversity of trypanosome species in small ruminants, dogs and pigs from three sleeping sickness foci of the south of Chad.
+37330027	Genetic diversity and molecular evolution of Plasmodium vivax Duffy Binding Protein and merozoite surface protein-1 in northwestern Thailand.
+37329986	Therapeutic activity of eugenol towards mitigation of anaemia and oxidative organ damage caused by Plasmodium berghei.
+37329897	Temporal trends in, and risk factors for, HIV seroconversion among female sex workers accessing Zimbabwe's national sex worker programme, 2009-19: a retrospective cohort analysis of routinely collected HIV testing data.
+37329848	Stepwise in vitro screening of MMV pathogen box compounds against Plasmodium falciparum to identify potent antimalarial candidates.
 37329228	Genetic profiling of Plasmodium ovale wallikeri relapses with microsatellite markers and whole-genome sequencing.
 37328856	Utilization of insecticide-treated nets and associated factors among childbearing women in Northern Nigeria.
 37328849	World Hepatitis day 2021 -screening and vaccination against Hepatitis B virus in Accra, Ghana.
@@ -9987,13 +9997,3 @@
 33998049	An integrated virtual screening and drug repurposing strategy for the discovery of new antimalarial drugs against Plasmodium falciparum phosphatidylinositol 3-kinase.
 33997736	Malaria: (still) a global health priority.
 33997710	The ApiAP2 factor PfAP2-HC is an integral component of heterochromatin in the malaria parasite Plasmodium falciparum.
-33997355	Temporal trends of gestational malaria in the United States.
-33996135	Cardiac TdP risk stratification modelling of anti-infective compounds including chloroquine and hydroxychloroquine.
-33995550	Evaluation of Antimalarial Potential of Aqueous Crude Gymnema Inodorum Leaf Extract against Plasmodium berghei Infection in Mice.
-33995532	Comparative Study of Chikungunya Only and Chikungunya-Scrub Typhus Coinfection in Children: Findings from a Hospital-Based Observational Study from Central Nepal.
-33995500	Genome-Wide Analysis Reveals Selection Signatures Involved in Meat Traits and Local Adaptation in Semi-Feral Maremmana Cattle.
-33995348	Fetal Cytokine Balance, Erythropoietin and Thalassemia but Not Placental Malaria Contribute to Fetal Anemia Risk in Tanzania.
-33995336	Whole-Killed Blood-Stage Vaccine: Is It Worthwhile to Further Develop It to Control Malaria?
-33995308	Mefloquine, a Potent Anti-severe Acute Respiratory Syndrome-Related Coronavirus 2 (SARS-CoV-2) Drug as an Entry Inhibitor in vitro.
-33993649	A guide to investigating immune responses elicited by whole-sporozoite pre-erythrocytic vaccines against malaria.
-33993492	Point-of-care haemoglobin testing in African hospitals: a neglected essential diagnostic test.
