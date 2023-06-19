@@ -1,9 +1,9 @@
+37335076	Synthesis and evaluation of an agrocin 84 toxic moiety (TM84) analogue as a malarial threonyl tRNA synthetase inhibitor.
 37334767	The association of intraleucocytic malaria pigment and disease severity in Papua New Guinean children with severe P. falciparum malaria.
 37334041	Quality of life burden on United States infants and caregivers due to lower respiratory tract infection and adjusting for selective testing: Pilot prospective observational study.
 37333558	Community engagement: health research through informing, consultation, involving and empowerment in Ingwavuma community.
 37333553	Skeletal muscle fibre type and enzymatic activity in adult offspring following placental and peripheral malaria exposure in foetal life.
 37332721	The use of chitosan oligosaccharide to improve artemisinin yield in well-watered and drought-stressed plants.
-37332492	Anti-malarial plants in Ethiopia and their activities on drug-resistant malaria.
 37331883	Ifakara MasterClasses: lessons from leading experts on the battle against malaria.
 37331795	Epidemiologic trends and distributions of imported infectious diseases among travelers to Japan before and during the COVID-19 pandemic, 2016 to 2021: a descriptive study.
 37331759	Antenatal interventions to reduce risk of low birth weight related to maternal infections during pregnancy.
@@ -2275,6 +2275,7 @@
 36530422	Targeting malaria parasites with novel derivatives of azithromycin.
 36529768	Mapping age- and sex-specific HIV prevalence in adults in sub-Saharan Africa, 2000-2018.
 36529451	Sex-biased, but not plumage color-based, prevalence of haemosporidian parasites in free-range chickens.
+36528727	Tobacco-Based Vaccines, Hopes, and Concerns: A Systematic Review.
 36528584	Dinuclear and mononuclear metal(II) polypyridyl complexes against drug-sensitive and drug-resistant Plasmodium falciparum and their mode of action.
 36528569	Ideational factors and their association with insecticide treated net use in Magoe District, Mozambique.
 36528397	Engineering yeast for industrial-level production of the antimalarial drug artemisinin.
@@ -6798,6 +6799,7 @@
 35016657	Euterpe oleracea fruit (Açai)-enriched diet suppresses the development of experimental cerebral malaria induced by Plasmodium berghei (ANKA) infection.
 35016656	Village health workers as health diplomats: negotiating health and study participation in a malaria elimination trial in The Gambia.
 35016599	Promising New Antimalarial Combination Drugs: Garlic and Arteether in Pregnant Mice Infected with Plasmodium berghei.
+37332492	Anti-malarial plants in Ethiopia and their activities on drug-resistant malaria.
 35015299	Effect of larval density and additional anchoring surface on the life-history traits of a laboratory colonized Anopheles funestus strain.
 35013403	Blood meal analysis of Anopheles vectors of simian malaria based on laboratory and field studies.
 35012976	Heterologous vaccination interventions to reduce pandemic morbidity and mortality: Modeling the US winter 2020 COVID-19 wave.
@@ -9995,5 +9997,3 @@
 34003847	Trends in malaria prevalence and risk factors associated with the disease in Nkongho-mbeng; a typical rural setting in the equatorial rainforest of the South West Region of Cameroon.
 34003840	Real-life implementation of a G6PD deficiency screening qualitative test into routine vivax malaria diagnostic units in the Brazilian Amazon (SAFEPRIM study).
 34001512	Piperidine-4-Carboxamides Target DNA Gyrase in Mycobacterium abscessus.
-34001441	Assessing risks of Plasmodium falciparum resistance to select next-generation antimalarials.
-34001104	Factors associated with the use of insecticide-treated nets: analysis of the 2018 Burkina Faso Malaria Indicator Survey.
