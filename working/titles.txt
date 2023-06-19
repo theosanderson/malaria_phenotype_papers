@@ -161,7 +161,7 @@
 37270545	Area-specific covid-19 effects on health services utilization in the Democratic Republic of the Congo using routine health information system data.
 37269964	Molecular insights into artemisinin resistance in Plasmodium falciparum: An updated review.
 37269963	Combined polymorphisms involving the IgG heavy chain and Fc gamma receptors among Fulani and non-Fulani in Benin: implications for the natural protection of young Fulani against Plasmodium falciparum malaria infections.
-37269941	Short-course, high-dose primaquine regimens for treatment of liver-stage vivax malaria in children.
+37269941	Short-course, high-dose primaquine regimens for the treatment of liver-stage vivax malaria in children.
 37269868	Association between domesticated animal ownership and Plasmodium falciparum parasite prevalence in the Democratic Republic of the Congo: a national cross-sectional study.
 37269671	Tetrahydrobenzo[h]quinoline derivatives as a novel chemotype for dual antileishmanial-antimalarial activity graced with antitubercular activity: Design, synthesis and biological evaluation.
 37269630	Genomic analysis of Indian isolates of Plasmodium falciparum: Implications for drug resistance and virulence factors.
