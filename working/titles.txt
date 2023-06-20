@@ -197,7 +197,7 @@
 37265679	Rectal artesunate for severe malaria, implementation research, Zambia.
 37265674	Supply-chain factors and antimicrobial stewardship.
 37265668	Plasmodium 18S Ribosomal RNA Biomarker Clearance After Food and Drug Administration-Approved Antimalarial Treatment in Controlled Human Malaria Infection Trials.
-37264975	N2' -Branched Acyclic Nucleoside Phosphonates Containing 9-Deazahypoxanthine as Inhibitors of Plasmodium falciparum 6-Oxopurine Phosphoribosyltransferase.
+37264975	N2'-Branched Acyclic Nucleoside Phosphonates Containing 9-Deazahypoxanthine as Inhibitors of Plasmodium falciparum 6-Oxopurine Phosphoribosyltransferase.
 37264462	Residual insecticide surface treatment for preventing malaria: a systematic review protocol.
 37264067	Natural vectors of Plasmodium knowlesi and other primate, avian and ungulate malaria parasites in Narathiwat Province, Southern Thailand.
 37263994	No evidence of sustained nonzoonotic Plasmodium knowlesi transmission in Malaysia from modelling malaria case data.
