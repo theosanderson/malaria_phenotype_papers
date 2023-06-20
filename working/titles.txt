@@ -1,3 +1,10 @@
+37337263	Bridging the gap in knowledge and use of antibiotics among pediatric caregivers: comparing two educational interventions.
+37337221	Estimating malaria transmission risk through surveillance of human-vector interactions in northern Ghana.
+37337209	Public health impact of the spread of Anopheles stephensi in the WHO Eastern Mediterranean Region countries in Horn of Africa and Yemen: need for integrated vector surveillance and control.
+37336906	Malaria surveillance, outbreak investigation, response and its determinant factors in Waghemra Zone, Northeast Ethiopia: unmatched case-control study.
+37336887	Structural basis for DARC binding in reticulocyte invasion by Plasmodium vivax.
+37336700	Extraordinary parasite multiplication rates in human malaria infections.
+37336067	Exploring N-myristoyltransferase as a promising drug target against parasitic neglected tropical diseases.
 37335076	Synthesis and evaluation of an agrocin 84 toxic moiety (TM84) analogue as a malarial threonyl tRNA synthetase inhibitor.
 37334767	The association of intraleucocytic malaria pigment and disease severity in Papua New Guinean children with severe P. falciparum malaria.
 37334041	Quality of life burden on United States infants and caregivers due to lower respiratory tract infection and adjusting for selective testing: Pilot prospective observational study.
@@ -9990,10 +9997,3 @@
 34007238	COVID-19 Associated Imported Plasmodium vivax Malaria Relapse: First Reported Case and Literature Review.
 34006598	How does the effectiveness of strategies to improve healthcare provider practices in low-income and middle-income countries change after implementation? Secondary analysis of a systematic review.
 34006297	Optimization of Plasmodium vivax sporozoite production from Anopheles stephensi in South West India.
-34006257	Antimalarial properties and molecular docking analysis of compounds from Dioscorea bulbifera L. as new antimalarial agent candidates.
-34006037	Protocol for a four parallel-arm, single-blind, cluster-randomised trial to assess the effectiveness of three types of dual active ingredient treated nets compared to pyrethroid-only long-lasting insecticidal nets to prevent malaria transmitted by pyrethroid insecticide-resistant vector mosquitoes in Tanzania.
-34004452	Kenyan school book knowledge for water, sanitation, hygiene and health education interventions: Disconnect, integration or opportunities?
-34004361	Ecology, evolution, and epidemiology of zoonotic and vector-borne infectious diseases in French Guiana: Transdisciplinarity does matter to tackle new emerging threats.
-34003847	Trends in malaria prevalence and risk factors associated with the disease in Nkongho-mbeng; a typical rural setting in the equatorial rainforest of the South West Region of Cameroon.
-34003840	Real-life implementation of a G6PD deficiency screening qualitative test into routine vivax malaria diagnostic units in the Brazilian Amazon (SAFEPRIM study).
-34001512	Piperidine-4-Carboxamides Target DNA Gyrase in Mycobacterium abscessus.
