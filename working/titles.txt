@@ -1,3 +1,6 @@
+37337909	Screening the medicine for malaria venture's Pandemic Response Box to identify novel inhibitors of Candida albicans and Candida auris biofilm formation.
+37337774	Artemannuols A-C, novel sesquiterpenoid-flavonol hybrids with antihepatoma activity from Artemisia annua.
+37337659	Malaria is associated with diminished levels of ascorbic acid: A systematic review and meta-analysis.
 37337263	Bridging the gap in knowledge and use of antibiotics among pediatric caregivers: comparing two educational interventions.
 37337221	Estimating malaria transmission risk through surveillance of human-vector interactions in northern Ghana.
 37337209	Public health impact of the spread of Anopheles stephensi in the WHO Eastern Mediterranean Region countries in Horn of Africa and Yemen: need for integrated vector surveillance and control.
@@ -9994,6 +9997,3 @@
 34008345	Synthesis, and antimalarial and antibacterial activities of marine alkaloids.
 34007424	Continuous Cultures of Plasmodium Falciparum Established in Tanzania from Patients with Acute Malaria.
 34007417	Prevalence and Molecular Characterization of Glucose-6-Phosphate Dehydrogenase (G6PD) Deficiency in Females from Previously Malaria Endemic Regions in Northeastern Thailand and Identification of a Novel G6PD Variant.
-34007238	COVID-19 Associated Imported Plasmodium vivax Malaria Relapse: First Reported Case and Literature Review.
-34006598	How does the effectiveness of strategies to improve healthcare provider practices in low-income and middle-income countries change after implementation? Secondary analysis of a systematic review.
-34006297	Optimization of Plasmodium vivax sporozoite production from Anopheles stephensi in South West India.
