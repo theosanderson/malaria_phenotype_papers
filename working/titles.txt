@@ -1,3 +1,4 @@
+37339122	Selection for insecticide resistance can promote Plasmodium falciparum infection in Anopheles.
 37338381	Activity of Ivermectin and Its Metabolites against Asexual Blood Stage Plasmodium falciparum and Its Interactions with Antimalarial Drugs.
 37338318	Is the presence of mosquitoes an indicator of poor environmental sanitation?
 37337909	Screening the medicine for malaria venture's Pandemic Response Box to identify novel inhibitors of Candida albicans and Candida auris biofilm formation.
@@ -383,7 +384,6 @@
 37199766	Molecular detection and species identification of Plasmodium spp. infection among imported cases in Eastern China, 2012-2018.
 37199750	Approaches for in vitro propagation and production of plumbagin in Plumbago spp.
 37199265	Chemical library design, QSAR modeling and molecular dynamics simulations of naturally occurring coumarins as dual inhibitors of MAO-B and AChE.
-37199084	Radial spoke protein 9 is necessary for axoneme assembly in Plasmodium but not in trypanosomatid parasites.
 37198702	Malaria vaccines: the 60-year journey of hope and final success-lessons learned and future prospects.
 37198392	Detection of dengue virus infection in children presenting with fever in Hawassa, southern Ethiopia.
 37198165	Structural basis of epitope selectivity and potent protection from malaria by PfCSP antibody L9.
