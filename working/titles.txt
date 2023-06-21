@@ -1,3 +1,12 @@
+37340440	Course of Plasmodium infection studied using 2D-COS on human erythrocytes.
+37340364	Hemoglobinopathies, merozoite surface protein-2 gene polymorphisms, and acquisition of Epstein Barr virus among infants in Western Kenya.
+37340324	Real-life effectiveness of anti-malarial treatment regimens: what are we aiming for?
+37339835	Coinfections of malaria and sexually transmitted and reproductive tract infections in pregnancy in sub-Saharan Africa: a systematic review and individual participant data meta-analysis protocol.
+37339765	Case Report: Severe Plasmodium vivax Malaria after Splenectomy.
+37339764	Mortality by Admission Diagnosis in Children 1-60 Months of Age Admitted to a Tertiary Care Government Hospital in Malawi.
+37339762	Health, Economic, and Social Impacts of Substandard and Falsified Medicines in Low- and Middle-Income Countries: A Systematic Review of Methodological Approaches.
+37339759	Plasmodium falciparum with pfhrp2/3 Deletion Not Detected in a 2018-2021 Malaria Longitudinal Cohort Study in Kinshasa Province, Democratic Republic of the Congo.
+37339597	Mosquito biology: Scents and selectability.
 37339122	Selection for insecticide resistance can promote Plasmodium falciparum infection in Anopheles.
 37338381	Activity of Ivermectin and Its Metabolites against Asexual Blood Stage Plasmodium falciparum and Its Interactions with Antimalarial Drugs.
 37338318	Is the presence of mosquitoes an indicator of poor environmental sanitation?
@@ -9988,12 +9997,3 @@
 34011616	Correction for Cutts et al., "Inactivating Zaire Ebolavirus in Whole-Blood Thin Smears Used for Malaria Diagnosis".
 34011615	Closing the Brief Case: Disseminated Microsporidiosis with Intestinal Cryptosporidium Coinfection in a Patient with Kaposi's Sarcoma and Castleman Disease Presenting with Acute Kidney Injury.
 34011614	The Brief Case: Disseminated Microsporidiosis with Intestinal Cryptosporidium Coinfection in a Patient with Kaposi's Sarcoma and Castleman Disease Presenting with Acute Kidney Injury.
-34011502	Novel vaccine safety issues and areas that would benefit from further research.
-34011373	Multicopy targets for Plasmodium vivax and Plasmodium falciparum detection by colorimetric LAMP.
-34011371	Participatory research for the development of information, education and communication tools to promote intermittent preventive treatment of malaria in pregnancy in the Democratic Republic of the Congo, Nigeria and Mozambique.
-34011358	A randomized, double-blind, phase 2b study to investigate the efficacy, safety, tolerability and pharmacokinetics of a single-dose regimen of ferroquine with artefenomel in adults and children with uncomplicated Plasmodium falciparum malaria.
-34011347	Malaria prevention and treatment in migrant agricultural workers in Dangur district, Benishangul-Gumuz, Ethiopia: social and behavioural aspects.
-34011341	Prevalence and predictors of vitamin D deficiency in young African children.
-34010401	Peripheral Plasmodium falciparum Infection in Early Pregnancy Is Associated With Increased Maternal Microchimerism in the Offspring.
-34008362	[Study on the hospitalization cost and its influencing factors of imported malaria patients in Guangxi Zhuang Autonomous Region and Yunnan Province].
-34008345	Synthesis, and antimalarial and antibacterial activities of marine alkaloids.
