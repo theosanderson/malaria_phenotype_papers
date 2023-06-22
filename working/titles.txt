@@ -1,3 +1,5 @@
+37344867	Effects of vegetation densities on the performance of attractive targeted sugar baits (ATSBs) for malaria vector control: a semi-field study.
+37344580	Pyrethroid-treated bed nets impair blood feeding performance in insecticide resistant mosquitoes.
 37343009	National and subnational burden of under-5, infant, and neonatal mortality in Ethiopia, 1990-2019: Findings from the Global Burden of Disease Study 2019.
 37341543	Antibody to Plasmodium falciparum variant surface antigens, var gene transcription and ABO blood group in children with severe or uncomplicated malaria.
 37340440	Course of Plasmodium infection studied using 2D-COS on human erythrocytes.
@@ -9995,5 +9997,3 @@
 34013301	Plasmodium infection induces cross-reactive antibodies to carbohydrate epitopes on the SARS-CoV-2 Spike protein.
 34012524	Benchmarking Datasets from Malaria Cytotoxic T-cell Epitopes Using Machine Learning Approach.
 34011972	Cryo-EM reveals the architecture of placental malaria VAR2CSA and provides molecular insight into chondroitin sulfate binding.
-34011691	A 39-Amino-Acid C-Terminal Truncation of GDV1 Disrupts Sexual Commitment in Plasmodium falciparum.
-34011616	Correction for Cutts et al., "Inactivating Zaire Ebolavirus in Whole-Blood Thin Smears Used for Malaria Diagnosis".
