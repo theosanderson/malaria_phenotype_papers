@@ -1,3 +1,6 @@
+37347274	The environmental impact of the sugar industry waste in Sudan.
+37346807	The devastating impact of illegal mining on indigenous health: a focus on malaria in the Brazilian Amazon.
+37345936	Plasmodium falciparum CRK4 links early mitotic events to the onset of S-phase during schizogony.
 37344867	Effects of vegetation densities on the performance of attractive targeted sugar baits (ATSBs) for malaria vector control: a semi-field study.
 37344580	Pyrethroid-treated bed nets impair blood feeding performance in insecticide resistant mosquitoes.
 37343009	National and subnational burden of under-5, infant, and neonatal mortality in Ethiopia, 1990-2019: Findings from the Global Burden of Disease Study 2019.
@@ -9994,6 +9997,3 @@
 34013490	Dihydroartemisinin alleviates skin fibrosis and endothelial dysfunction in bleomycin-induced skin fibrosis models.
 34013443	Adverse reaction to Coartem (artemether/lumefantrine) resulting in oculogyric crisis.
 34013349	Baseline Asymptomatic Malaria Infection and Immunogenicity of Recombinant Vesicular Stomatitis Virus-Zaire Ebola Virus Envelope Glycoprotein.
-34013301	Plasmodium infection induces cross-reactive antibodies to carbohydrate epitopes on the SARS-CoV-2 Spike protein.
-34012524	Benchmarking Datasets from Malaria Cytotoxic T-cell Epitopes Using Machine Learning Approach.
-34011972	Cryo-EM reveals the architecture of placental malaria VAR2CSA and provides molecular insight into chondroitin sulfate binding.
