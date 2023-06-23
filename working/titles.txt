@@ -1,3 +1,4 @@
+37347767	Singapore's 5 decades of dengue prevention and control-Implications for global dengue control.
 37347274	The environmental impact of the sugar industry waste in Sudan.
 37346807	The devastating impact of illegal mining on indigenous health: a focus on malaria in the Brazilian Amazon.
 37345936	Plasmodium falciparum CRK4 links early mitotic events to the onset of S-phase during schizogony.
@@ -9996,4 +9997,3 @@
 34013630	On the use of electronegativity and electron affinity based pseudo-molecular field descriptors in developing correlations for quantitative structure-activity relationship modeling of drug activities.
 34013490	Dihydroartemisinin alleviates skin fibrosis and endothelial dysfunction in bleomycin-induced skin fibrosis models.
 34013443	Adverse reaction to Coartem (artemether/lumefantrine) resulting in oculogyric crisis.
-34013349	Baseline Asymptomatic Malaria Infection and Immunogenicity of Recombinant Vesicular Stomatitis Virus-Zaire Ebola Virus Envelope Glycoprotein.
