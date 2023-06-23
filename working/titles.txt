@@ -1,3 +1,15 @@
+37349819	Anopheles vector distribution and malaria transmission dynamics in Gbêkê region, central Côte d'Ivoire.
+37349789	Performance of a novel melting curve-based qPCR assay for malaria parasites in routine clinical practice in non-endemic setting.
+37349771	Incidence and mortality trends of neglected tropical diseases and malaria in China and ASEAN countries from 1990 to 2019 and its association with the socio-demographic index.
+37349497	A type II protein arginine methyltransferase regulates merozoite invasion in Plasmodium falciparum.
+37349311	Multiplexed ddPCR-amplicon sequencing reveals isolated Plasmodium falciparum populations amenable to local elimination in Zanzibar, Tanzania.
+37348949	Expanding the Role of Women in Vector Control: Case Studies From Madagascar, Rwanda, and Zambia.
+37348801	Polymorphism analysis of drug resistance markers in Plasmodium falciparum isolates from Benin.
+37348666	Host biomarkers for early identification of severe imported Plasmodium falciparum malaria.
+37348640	Expression and copper binding studies of a Plasmodium falciparum protein with Cox19 copper binding motifs.
+37348620	Quantification of Plasmodium falciparum HPR-2 as an alternative method to [(3)H]hypoxanthine incorporation to measure the parasite reduction ratio in vitro.
+37348521	Independent SARS-CoV-2 staff testing protected academic and health-care institutions in northwest London.
+37348379	A model for malaria treatment evaluation in the presence of multiple species.
 37347767	Singapore's 5 decades of dengue prevention and control-Implications for global dengue control.
 37347274	The environmental impact of the sugar industry waste in Sudan.
 37346807	The devastating impact of illegal mining on indigenous health: a focus on malaria in the Brazilian Amazon.
@@ -9985,15 +9997,3 @@
 34016685	Chromosome-Level Genome Sequence of Leishmania (Leishmania) tropica Strain CDC216-162, Isolated from an Afghanistan Clinical Case.
 34016175	Improvement of water quality for mass anopheline rearing: evaluation of the impact of ammonia-capturing zeolite on larval development and adult phenotypic quality.
 34016159	Blood-feeding ecology of mosquitoes in two zoological gardens in the United Kingdom.
-34016100	Spatial-temporal clustering of malaria using routinely collected health facility data on the Kenyan Coast.
-34016099	Laboratory and field evaluation of MAÏA(®), an ointment containing N,N-diethyl-3-methylbenzamide (DEET) against mosquitoes in Burkina Faso.
-34015060	Anopheles coluzzii stearoyl-CoA desaturase is essential for adult female survival and reproduction upon blood feeding.
-34015028	India can consider integration of three eliminable disease control programmes on malaria, lymphatic filariasis, and visceral leishmaniasis.
-34014982	Pre-intervention characteristics of the mosquito species in Benin in preparation for a randomized controlled trial assessing the efficacy of dual active-ingredient long-lasting insecticidal nets for controlling insecticide-resistant malaria vectors.
-34014839	Multiple-ancestry genome-wide association study identifies 27 loci associated with measures of hemolysis following blood storage.
-34014283	Neural networks and robotic microneedles enable autonomous extraction of plant metabolites.
-34013963	Hijacking of the host cell Golgi by Plasmodium berghei liver stage parasites.
-34013869	Role of Anopheles stephensi Mosquitoes in Malaria Outbreak, Djibouti, 2019.
-34013630	On the use of electronegativity and electron affinity based pseudo-molecular field descriptors in developing correlations for quantitative structure-activity relationship modeling of drug activities.
-34013490	Dihydroartemisinin alleviates skin fibrosis and endothelial dysfunction in bleomycin-induced skin fibrosis models.
-34013443	Adverse reaction to Coartem (artemether/lumefantrine) resulting in oculogyric crisis.
