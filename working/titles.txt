@@ -286,7 +286,7 @@
 37237283	Pharmacopeial quality of artemether-lumefantrine anti-malarial agents in Uganda.
 37237022	Mapping digital health ecosystems in Africa in the context of endemic infectious and non-communicable diseases.
 37236665	Uptake of four or more doses of sulfadoxine pyrimethamine for intermittent preventive treatment of malaria during pregnancy in Zambia: findings from the 2018 malaria in pregnancy survey.
-37236355	Structure of Complex III with Bound Antimalarial Agent CK-2-68 Provides Insights into Selective Inhibition of Plasmodium Cytochrome bc(1) Complexes.
+37236355	Structure of complex III with bound antimalarial agent CK-2-68 provides insights into selective inhibition of Plasmodium cytochrome bc(1) complexes.
 37236222	Tafenoquine and artemisinin-based combination therapy for vivax malaria: end of the road or just the beginning?
 37236221	Tafenoquine co-administered with dihydroartemisinin-piperaquine for the radical cure of Plasmodium vivax malaria (INSPECTOR): a randomised, placebo-controlled, efficacy and safety study.
 37236024	Regulation of protein prenylation.
