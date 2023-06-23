@@ -1,3 +1,5 @@
+37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
+37350735	Studying the health benefits of improved housing in rural Tanzania: challenges and progress.
 37349819	Anopheles vector distribution and malaria transmission dynamics in Gbêkê region, central Côte d'Ivoire.
 37349789	Performance of a novel melting curve-based qPCR assay for malaria parasites in routine clinical practice in non-endemic setting.
 37349771	Incidence and mortality trends of neglected tropical diseases and malaria in China and ASEAN countries from 1990 to 2019 and its association with the socio-demographic index.
@@ -9995,5 +9997,3 @@
 34017052	Structural analysis of the SRP Alu domain from Plasmodium falciparum reveals a non-canonical open conformation.
 34017003	Optimized CRISPR tools and site-directed transgenesis towards gene drive development in Culex quinquefasciatus mosquitoes.
 34016685	Chromosome-Level Genome Sequence of Leishmania (Leishmania) tropica Strain CDC216-162, Isolated from an Afghanistan Clinical Case.
-34016175	Improvement of water quality for mass anopheline rearing: evaluation of the impact of ammonia-capturing zeolite on larval development and adult phenotypic quality.
-34016159	Blood-feeding ecology of mosquitoes in two zoological gardens in the United Kingdom.
