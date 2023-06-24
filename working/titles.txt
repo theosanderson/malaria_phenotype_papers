@@ -1,3 +1,8 @@
+37353790	An active and targeted survey reveals asymptomatic malaria infections among high-risk populations in Mondulkiri, Cambodia.
+37353572	GATS tag system is compatible with biotin labelling methods for protein analysis.
+37353536	The potential of phenothiazinium dyes as cytotoxicity markers in cisplatin-treated cells.
+37352998	Ivermectin as a Novel Malaria Control Tool: Getting Ahead of the Resistance Curse.
+37352945	Marmesin isolated from Celtis durandii Engl. root bioactive fraction inhibits β-hematin formation and contributes to antiplasmodial activity.
 37352369	A malaria parasite phospholipase facilitates efficient asexual blood stage egress.
 37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
 37350735	Studying the health benefits of improved housing in rural Tanzania: challenges and progress.
@@ -9992,8 +9997,3 @@
 34019833	Clarification on social group interventions and malaria rapid diagnostic test uptake in Nigeria.
 34019706	Avian malaria affecting penguins in zoological gardens, aquariums and wildlife parks in the UK.
 34019158	'The King of Diseases': An Essay on the Special Attention Paid to Cancer Patients and How It Came About.
-34018548	Malaria-Resistant Mosquitoes (Diptera: Culicidae); The Principle is Proven, But Will the Effectors Be Effective?
-34018004	Indication for Antibiotic Prescription Among Children Attending Primary Healthcare Services in Rural Burkina Faso.
-34017751	Can Sever Acute Malnourished children be effectively rehabilitated physically, biochemically and developmentally at nutritional rehabilitation centers: A follow up study from Ujjain.
-34017052	Structural analysis of the SRP Alu domain from Plasmodium falciparum reveals a non-canonical open conformation.
-34017003	Optimized CRISPR tools and site-directed transgenesis towards gene drive development in Culex quinquefasciatus mosquitoes.
