@@ -1,3 +1,4 @@
+37352369	A malaria parasite phospholipase facilitates efficient asexual blood stage egress.
 37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
 37350735	Studying the health benefits of improved housing in rural Tanzania: challenges and progress.
 37349819	Anopheles vector distribution and malaria transmission dynamics in Gbêkê region, central Côte d'Ivoire.
@@ -9996,4 +9997,3 @@
 34017751	Can Sever Acute Malnourished children be effectively rehabilitated physically, biochemically and developmentally at nutritional rehabilitation centers: A follow up study from Ujjain.
 34017052	Structural analysis of the SRP Alu domain from Plasmodium falciparum reveals a non-canonical open conformation.
 34017003	Optimized CRISPR tools and site-directed transgenesis towards gene drive development in Culex quinquefasciatus mosquitoes.
-34016685	Chromosome-Level Genome Sequence of Leishmania (Leishmania) tropica Strain CDC216-162, Isolated from an Afghanistan Clinical Case.
