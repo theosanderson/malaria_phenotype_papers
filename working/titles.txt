@@ -1,3 +1,5 @@
+37355627	El Niño and other climatic drivers of epidemic malaria in Ethiopia: new tools for national health adaptation plans.
+37355605	Pharmacokinetics of ivermectin metabolites and their activity against Anopheles stephensi mosquitoes.
 37354510	Spectrum of Disorders associated with Tetany.
 37353790	An active and targeted survey reveals asymptomatic malaria infections among high-risk populations in Mondulkiri, Cambodia.
 37353572	GATS tag system is compatible with biotin labelling methods for protein analysis.
@@ -9995,5 +9997,3 @@
 34020114	Leveling the Playing Field: Combining Pediatric Neurology and Global Health.
 34019936	Shifts in gene expression variability in the blood-stage of Plasmodium relictum.
 34019890	Urbanization effects on temporal variations of avian haemosporidian infections.
-34019833	Clarification on social group interventions and malaria rapid diagnostic test uptake in Nigeria.
-34019706	Avian malaria affecting penguins in zoological gardens, aquariums and wildlife parks in the UK.
