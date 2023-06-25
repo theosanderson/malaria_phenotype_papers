@@ -1,3 +1,4 @@
+37355866	Clinicopathological Study of Chronic Kidney Disease of Unknown Etiology in Odisha.
 37355627	El Niño and other climatic drivers of epidemic malaria in Ethiopia: new tools for national health adaptation plans.
 37355605	Pharmacokinetics of ivermectin metabolites and their activity against Anopheles stephensi mosquitoes.
 37354510	Spectrum of Disorders associated with Tetany.
@@ -9996,4 +9997,3 @@
 34020231	Individual, household and neighborhood risk factors for malaria in the Democratic Republic of the Congo support new approaches to programmatic intervention.
 34020114	Leveling the Playing Field: Combining Pediatric Neurology and Global Health.
 34019936	Shifts in gene expression variability in the blood-stage of Plasmodium relictum.
-34019890	Urbanization effects on temporal variations of avian haemosporidian infections.
