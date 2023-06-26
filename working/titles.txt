@@ -1,3 +1,4 @@
+37358202	Splenic Small Cell Lymphoma with Presumed Secondary Immune-Mediated Hemolytic Anemia in an African Penguin (Spheniscus demersus).
 37356628	Asymptomatic Plasmodium falciparum infection evades triggering a host transcriptomic response.
 37356261	Polymorphisms in Toll-Like receptors genes and their associations with immunological parameters in Plasmodium vivax malaria in the Brazil-French Guiana Border.
 37356002	Plasmodium knowlesi circumsporozoite protein: genetic characterisation and predicted antigenicity of the central repeat region.
@@ -9996,4 +9997,3 @@
 34022424	Sex differences in concentrations of HMGB1 and numbers of pigmented monocytes in infants and young children with malaria.
 34021751	Plasmodium malariae and Plasmodium falciparum comparative susceptibility to antimalarial drugs in Mali.
 34020656	Methodological approaches for analysing data from therapeutic efficacy studies.
-34020652	Therapeutic efficacy of artemether-lumefantrine for the treatment of uncomplicated Plasmodium falciparum malaria in four malaria endemic states of India.
