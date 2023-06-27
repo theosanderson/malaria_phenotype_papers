@@ -1,3 +1,7 @@
+37367368	Ovary Dissection Is a Sensitive Measure of Sterility in Anopheles gambiae Exposed to the Insect Growth Regulator Pyriproxyfen.
+37367359	Effects of Temperature and Nutrition during the Larval Period on Life History Traits in an Invasive Malaria Vector Anopheles stephensi.
+37366629	Nonsense-mediated decay machinery in Plasmodium falciparum is inefficient and non-essential.
+37366613	SHIP1 modulates antimalarial immunity by bridging the crosstalk between type I IFN signaling and autophagy.
 37365785	﻿Virtual screening of flavonoids against Plasmodium vivax Duffy binding protein utilizing molecular docking and molecular dynamic simulation.
 37365602	Predictors of mosquito bed net use among children under-fives in Ghana: a multilevel analysis of the 2019 malaria indicator survey.
 37365595	Comparing field-collected versus remotely-sensed variables to model malaria risk in the highlands of western Uganda.
@@ -9993,7 +9997,3 @@
 34029654	Antiplasmodial activities of indole alkaloids from Tabernaemontana penduliflora K. Schum (Apocynaceae).
 34029639	Plants used traditionally as antimalarials in Latin America: Mining the tree of life for potential new medicines.
 34029352	The impact of malaria coinfection on Ebola virus disease outcomes: A systematic review and meta-analysis.
-34029325	Geographical distribution of Burkholderia pseudomallei in soil in Myanmar.
-34029207	Surveillance of Human Guinea Worm in Chad, 2010-2018.
-34028724	Fluorescence Lifetime Imaging as a Noninvasive Tool to Study Plasmodium Falciparum Metabolism.
-34028351	Erythrocyte CD55 mediates the internalization of Plasmodium falciparum parasites.
