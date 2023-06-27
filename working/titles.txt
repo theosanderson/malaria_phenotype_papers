@@ -1,3 +1,4 @@
+37365785	﻿Virtual screening of flavonoids against Plasmodium vivax Duffy binding protein utilizing molecular docking and molecular dynamic simulation.
 37365602	Predictors of mosquito bed net use among children under-fives in Ghana: a multilevel analysis of the 2019 malaria indicator survey.
 37365595	Comparing field-collected versus remotely-sensed variables to model malaria risk in the highlands of western Uganda.
 37365258	Fetal sex and risk of pregnancy-associated malaria in Plasmodium falciparum-endemic regions: a meta-analysis.
@@ -268,6 +269,7 @@
 37265679	Rectal artesunate for severe malaria, implementation research, Zambia.
 37265674	Supply-chain factors and antimicrobial stewardship.
 37265668	Plasmodium 18S Ribosomal RNA Biomarker Clearance After Food and Drug Administration-Approved Antimalarial Treatment in Controlled Human Malaria Infection Trials.
+37265396	A dual paper-based nucleic acid extraction method from blood in under ten minutes for point-of-care diagnostics.
 37264975	N2'-Branched Acyclic Nucleoside Phosphonates Containing 9-Deazahypoxanthine as Inhibitors of Plasmodium falciparum 6-Oxopurine Phosphoribosyltransferase.
 37264462	Residual insecticide surface treatment for preventing malaria: a systematic review protocol.
 37264067	Natural vectors of Plasmodium knowlesi and other primate, avian and ungulate malaria parasites in Narathiwat Province, Southern Thailand.
@@ -9995,5 +9997,3 @@
 34029207	Surveillance of Human Guinea Worm in Chad, 2010-2018.
 34028724	Fluorescence Lifetime Imaging as a Noninvasive Tool to Study Plasmodium Falciparum Metabolism.
 34028351	Erythrocyte CD55 mediates the internalization of Plasmodium falciparum parasites.
-34027998	Piperonyl butoxide (PBO) combined with pyrethroids in insecticide-treated nets to prevent malaria in Africa.
-34027201	Expression of Concern: "Discovery of small molecules through pharmacophore modeling, docking and molecular dynamics simulation against Plasmodium vivax Vivapain-3 (VP-3)" [Heliyon 4 (5) (May 2018) Article e00612].
