@@ -1,3 +1,17 @@
+37364179	A synthetic lure for Anopheles gambiae (Diptera: Culicidae) based on the attractive plant Parthenium hysterophorus.
+37363899	Common predators and factors influencing their abundance in Anopheles funestus aquatic habitats in rural south-eastern Tanzania.
+37363896	Baseline malarial and nutritional profile of children under seasonal malaria chemoprevention coverage in the health district of Nanoro, Burkina Faso.
+37363565	Dreadful infectious disease outbreaks threaten flood-ravaged pakistan: short communication.
+37363251	The pathology of co-infection with Usutu virus and Plasmodium spp. in naturally infected Eurasian blackbirds (Turdus merula).
+37363222	Impact of precipitation on the prevalence of schistosomiasis mekongi in Lao PDR: Structural equation modelling using Earth observation satellite data.
+37362277	Early infectious diseases identification based on complex probabilistic hesitant fuzzy N-soft information.
+37362219	Requirements for market entry of gene drive-modified mosquitoes for control of vector-borne diseases: analogies to other biologic and biotechnology products.
+37361719	A fractional-order mathematical model for malaria and COVID-19 co-infection dynamics.
+37361492	Updates on Malaria Epidemiology and Prevention Strategies.
+37361409	Simulation of optimal dose regimens of photoactivated curcumin for antimicrobial resistance pneumonia in COVID-19 patients: A modeling approach.
+37360388	Antileishmanial evaluation of triazole-butenolide conjugates: design, synthesis, in vitro screening, SAR and in silico ADME predictions.
+37359709	Garcinia kola: a critical review on chemistry and pharmacology of an important West African medicinal plant.
+37359425	Engineering Innovative Interfaces for Point-of-Care Diagnostics.
 37358202	Splenic Small Cell Lymphoma with Presumed Secondary Immune-Mediated Hemolytic Anemia in an African Penguin (Spheniscus demersus).
 37356628	Asymptomatic Plasmodium falciparum infection evades triggering a host transcriptomic response.
 37356261	Polymorphisms in Toll-Like receptors genes and their associations with immunological parameters in Plasmodium vivax malaria in the Brazil-French Guiana Border.
@@ -9983,17 +9997,3 @@
 33145479	Limitations to current methods to estimate cause of death: a validation study of a verbal autopsy model.
 36504592	Foldscope: Diagnostic Accuracy and Feasibility of its Use in National Malaria Control Program.
 34023985	Iso-mukaadial acetate and ursolic acid acetate inhibit the chaperone activity of Plasmodium falciparum heat shock protein 70-1.
-34023977	In Vitro Potently Active Anti-Plasmodium and Anti-Toxoplasma Mongolian Plant Extracts.
-34023365	Gene regulation of the avian malaria parasite Plasmodium relictum, during the different stages within the mosquito vector.
-34023299	The private life of malaria parasites: Strategies for sexual reproduction.
-34023274	The mechanism and improvements to the isothermal amplification of nucleic acids, at a glance.
-34022958	Comparison of conventional and non-invasive diagnostic tools for detecting Plasmodium falciparum infection in southwestern Cameroon: a cross-sectional study.
-34022919	Human biting rhythm of Anopheles gambiae Giles, 1902 (Diptera: Culicidae) and sleeping behaviour of pregnant women in a lagoon area in Southern Benin.
-34022912	The effect of community-driven larval source management and house improvement on malaria transmission when added to the standard malaria control strategies in Malawi: a cluster-randomized controlled trial.
-34022901	Determinants of intermittent preventive treatment with sulfadoxine-pyrimethamine in pregnant women (IPTp-SP) in Mali, a household survey.
-34022891	Microbiota identified from preserved Anopheles.
-34022856	Patient volume and quality of primary care in Ethiopia: findings from the routine health information system and the 2014 Service Provision Assessment survey.
-34022438	Plasmodium vivax vaccine candidate MSP1 displays conserved B-cell epitope despite high genetic diversity.
-34022424	Sex differences in concentrations of HMGB1 and numbers of pigmented monocytes in infants and young children with malaria.
-34021751	Plasmodium malariae and Plasmodium falciparum comparative susceptibility to antimalarial drugs in Mali.
-34020656	Methodological approaches for analysing data from therapeutic efficacy studies.
