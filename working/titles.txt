@@ -1,3 +1,8 @@
+37370169	The MTego trap: a potential tool for monitoring malaria and arbovirus vectors.
+37370073	Promptness in seeking treatment from Village Health workers for children under five years with malaria, diarrhoea and pneumonia in rural southwestern Uganda.
+37370061	In vitro antiplasmodial activity and toxicological profile of extracts, fractions and chemical constituents of leaves and stem bark from Dacryodes edulis (Burseraceae).
+37369862	Prevalence and proportion estimate of asymptomatic Plasmodium infection in Asia: a systematic review and meta-analysis.
+37369403	Supply-side and demand-side factors influencing uptake of malaria testing services in the community: lessons for scale-up from a post-hoc analysis of a cluster randomised, community-based trial in western Kenya.
 37368820	Travel-Related Diagnoses Among U.S. Nonmigrant Travelers or Migrants Presenting to U.S. GeoSentinel Sites - GeoSentinel Network, 2012-2021.
 37368728	Bias-Corrected CMIP5 Projections for Climate Change and Assessments of Impact on Malaria in Senegal under the VECTRI Model.
 37368714	Evaluation of an Innovative Point-of-Care Rapid Diagnostic Test for the Identification of Imported Malaria Parasites in China.
@@ -9992,8 +9997,3 @@
 34033864	Genetic diversity and distribution patterns of PfEMP1 in Plasmodium falciparum isolates along the Thai-Myanmar border.
 34033654	Whole-genome analysis of Malawian Plasmodium falciparum isolates identifies possible targets of allele-specific immunity to clinical malaria.
 34033646	Associations between infection intensity categories and morbidity prevalence in school-age children are much stronger for Schistosoma haematobium than for S. mansoni.
-34032321	[Fe-S] biogenesis and unusual assembly of the ISC scaffold complex in the Plasmodium falciparum mitochondrion.
-34031901	Dephospho-CoA kinase, a nuclear-encoded apicoplast protein, remains active and essential after Plasmodium falciparum apicoplast disruption.
-34031479	Ultra-low dose immunization and multi-component vaccination strategies enhance protection against malaria in mice.
-34031050	High Proportion of Genome-Wide Homology and Increased Pretreatment pvcrt Levels in Plasmodium vivax Late Recurrences: a Chloroquine Therapeutic Efficacy Study.
-34030817	Chagas Disease: Implementation of Screening to Benefit Mother and Infant.
