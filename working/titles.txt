@@ -1,3 +1,22 @@
+37376890	Analysis of Medication Rules of Traditional Chinese Medicine for Malaria Treatment Based on Data Mining.
+37376689	Two Decades of Wildlife Pathogen Surveillance: Case Study of Choclo orthohantavirus and Its Wild Reservoir Oligoryzomys costaricensis.
+37376655	Detection of Zika Virus in Aedes aegypti and Aedes albopictus Mosquitoes Collected in Urban Forest Fragments in the Brazilian Amazon.
+37376086	Plant Extracts as a Source of Natural Products with Potential Antimalarial Effects: An Update from 2018 to 2022.
+37375730	Antiplasmodial, Trypanocidal, and Genotoxicity In Vitro Assessment of New Hybrid α,α-Difluorophenylacetamide-statin Derivatives.
+37375534	Effectiveness of Intermittent Preventive Treatment with Sulfadoxine-Pyrimethamine in Pregnancy: Low Coverage and High Prevalence of Plasmodium falciparum dhfr-dhps Quintuple Mutants as Major Challenges in Douala, an Urban Setting in Cameroon.
+37375506	Nondestructive Methods of Pathogen Detection: Importance of Mosquito Integrity in Studies of Disease Transmission and Control.
+37375493	Babesia divergens Shows Equal Predilection for Human ABO Blood Types in an In Vitro Erythrocyte Preference Assay.
+37375481	Using Serological Markers for the Surveillance of Plasmodium vivax Malaria: A Scoping Review.
+37375252	Two New Cytotoxic Sesquiterpene-Amino Acid Conjugates and a Coumarin-Glucoside from Crossostephium chinense.
+37375100	Regulatory Functions of Hypoxia in Host-Parasite Interactions: A Focus on Enteric, Tissue, and Blood Protozoa.
+37375081	Respiratory Distress Complicating Falciparum Malaria Imported to Berlin, Germany: Incidence, Burden, and Risk Factors.
+37375033	Molecular Investigation Confirms Myotis Genus Bats as Common Hosts of Polychromophilus in Brazil.
+37374974	Visiting Molecular Mimicry Once More: Pathogenicity, Virulence, and Autoimmunity.
+37373481	Toward Overcoming Pyrethroid Resistance in Mosquito Control: The Role of Sodium Channel Blocker Insecticides.
+37373382	Posttranslational Modification of Human Cytochrome CYP4F11 by 4-Hydroxynonenal Impairs ω-Hydroxylation in Malaria Pigment Hemozoin-Fed Monocytes: The Role in Malaria Immunosuppression.
+37372897	Applying Machine Learning to Healthcare Operations Management: CNN-Based Model for Malaria Diagnosis.
+37371556	Potent GST Ketosteroid Isomerase Activity Relevant to Ecdysteroidogenesis in the Malaria Vector Anopheles gambiae.
+37370516	Haemosporidian Parasites of White-Breasted Waterhens (Amaurornis phoenicurus), with a Report and Molecular Characterization of Haemoproteus gallinulae in Thailand.
 37370169	The MTego trap: a potential tool for monitoring malaria and arbovirus vectors.
 37370073	Promptness in seeking treatment from Village Health workers for children under five years with malaria, diarrhoea and pneumonia in rural southwestern Uganda.
 37370061	In vitro antiplasmodial activity and toxicological profile of extracts, fractions and chemical constituents of leaves and stem bark from Dacryodes edulis (Burseraceae).
@@ -9978,22 +9997,3 @@
 34039364	Genetic diversity and population structure of Plasmodium falciparum in Nigeria: insights from microsatellite loci analysis.
 34039358	mHAT app for automated malaria rapid test result analysis and aggregation: a pilot study.
 34039355	No evidence of false-negative Plasmodium falciparum rapid diagnostic results in Monrovia, Liberia.
-34039288	Predictors of placental malaria in Upper West Regional Hospital-Ghana.
-34038421	Positron emission tomography and magnetic resonance imaging in experimental human malaria to identify organ-specific changes in morphology and glucose metabolism: A prospective cohort study.
-34038413	Evaluation of splenic accumulation and colocalization of immature reticulocytes and Plasmodium vivax in asymptomatic malaria: A prospective human splenectomy study.
-34038246	Reckoning γ-Glutamyl-S-allylcysteine as a potential main protease (m(pro)) inhibitor of novel SARS-CoV-2 virus identified using docking and molecular dynamics simulation.
-34038097	Platelet Membrane-Coated and VAR2CSA Malaria Protein-Functionalized Nanoparticles for Targeted Treatment of Primary and Metastatic Cancer.
-34037841	Biotechnological interventions and genetic diversity assessment in Swertia sp.: a myriad source of valuable secondary metabolites.
-34037787	Does Malaria Co-Infection Alter the Clinical Course in Children Infected with Dengue? Analysis from 623 Indian Children Admitted with Dengue Infection.
-34035796	Vector saliva controlled inflammatory response of the host may represent the Achilles heel during pathogen transmission.
-34035208	Cytotoxicity and Antiplasmodial Properties of Different Hylocereus polyrhizus Peel Extracts.
-34035177	Complement C1s cleaves PfEMP1 at interdomain conserved sites inhibiting Plasmodium falciparum cytoadherence.
-34034827	Prevalence of Plasmodium falciparum isolates lacking the histidine rich protein 2 gene among symptomatic malaria patients in Kwilu Province of the Democratic Republic of Congo.
-34034802	The high risk of malarial recurrence in patients with Plasmodium-mixed infection after treatment with antimalarial drugs: a systematic review and meta-analysis.
-34034756	Genetic variation at the Cyp6m2 putative insecticide resistance locus in Anopheles gambiae and Anopheles coluzzii.
-34034754	Therapeutic efficacy of artemether-lumefantrine and artesunate-amodiaquine for the treatment of uncomplicated Plasmodium falciparum malaria in Mali, 2015-2016.
-34034666	Confounding influences of malnutrition and Plasmodium falciparum and Schistosoma haematobium infections on haematological parameters in school children in Muyuka, Cameroon.
-34034532	The relationship between house height and mosquito house entry: an experimental study in rural Gambia.
-34033864	Genetic diversity and distribution patterns of PfEMP1 in Plasmodium falciparum isolates along the Thai-Myanmar border.
-34033654	Whole-genome analysis of Malawian Plasmodium falciparum isolates identifies possible targets of allele-specific immunity to clinical malaria.
-34033646	Associations between infection intensity categories and morbidity prevalence in school-age children are much stronger for Schistosoma haematobium than for S. mansoni.
