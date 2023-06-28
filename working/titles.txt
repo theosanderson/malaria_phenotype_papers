@@ -1,3 +1,10 @@
+37368820	Travel-Related Diagnoses Among U.S. Nonmigrant Travelers or Migrants Presenting to U.S. GeoSentinel Sites - GeoSentinel Network, 2012-2021.
+37368728	Bias-Corrected CMIP5 Projections for Climate Change and Assessments of Impact on Malaria in Senegal under the VECTRI Model.
+37368714	Evaluation of an Innovative Point-of-Care Rapid Diagnostic Test for the Identification of Imported Malaria Parasites in China.
+37368710	Clinical and Parasitological Profiles of Gestational, Placental and Congenital Malaria in Northwestern Colombia.
+37368707	A Systematic Review and Meta-Analysis of the Proportion Estimates of Disseminated Intravascular Coagulation (DIC) in Malaria.
+37368676	Toxins from Animal Venoms as a Potential Source of Antimalarials: A Comprehensive Review.
+37368617	Novel Essential Oils Blend as a Repellent and Toxic Agent against Disease-Transmitting Mosquitoes.
 37367368	Ovary Dissection Is a Sensitive Measure of Sterility in Anopheles gambiae Exposed to the Insect Growth Regulator Pyriproxyfen.
 37367359	Effects of Temperature and Nutrition during the Larval Period on Life History Traits in an Invasive Malaria Vector Anopheles stephensi.
 37366629	Nonsense-mediated decay machinery in Plasmodium falciparum is inefficient and non-essential.
@@ -9990,10 +9997,3 @@
 34031479	Ultra-low dose immunization and multi-component vaccination strategies enhance protection against malaria in mice.
 34031050	High Proportion of Genome-Wide Homology and Increased Pretreatment pvcrt Levels in Plasmodium vivax Late Recurrences: a Chloroquine Therapeutic Efficacy Study.
 34030817	Chagas Disease: Implementation of Screening to Benefit Mother and Infant.
-34030725	Loop-mediated isothermal amplification (LAMP) assays targeting 18S ribosomal RNA genes for identifying P. vivax and P. ovale species and mitochondrial DNA for detecting the genus Plasmodium.
-34030711	Malaria incidence and mortality in Zimbabwe during the COVID-19 pandemic: analysis of routine surveillance data.
-34030705	Assessment of a combined strategy of seasonal malaria chemoprevention and supplementation with vitamin A, zinc and Plumpy'Doz™ to prevent malaria and malnutrition in children under 5 years old in Burkina Faso: a randomized open-label trial (SMC-NUT).
-34030696	Data utilisation and factors influencing the performance of the health management information system in Tanzania.
-34029654	Antiplasmodial activities of indole alkaloids from Tabernaemontana penduliflora K. Schum (Apocynaceae).
-34029639	Plants used traditionally as antimalarials in Latin America: Mining the tree of life for potential new medicines.
-34029352	The impact of malaria coinfection on Ebola virus disease outcomes: A systematic review and meta-analysis.
