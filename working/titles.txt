@@ -1,3 +1,4 @@
+37377253	Insecticide resistance levels and associated mechanisms in three Aedes aegypti populations from Venezuela.
 37376890	Analysis of Medication Rules of Traditional Chinese Medicine for Malaria Treatment Based on Data Mining.
 37376689	Two Decades of Wildlife Pathogen Surveillance: Case Study of Choclo orthohantavirus and Its Wild Reservoir Oligoryzomys costaricensis.
 37376655	Detection of Zika Virus in Aedes aegypti and Aedes albopictus Mosquitoes Collected in Urban Forest Fragments in the Brazilian Amazon.
@@ -9996,4 +9997,3 @@
 34039430	Eave and swarm collections prove effective for biased captures of male Anopheles gambiae mosquitoes in Uganda.
 34039364	Genetic diversity and population structure of Plasmodium falciparum in Nigeria: insights from microsatellite loci analysis.
 34039358	mHAT app for automated malaria rapid test result analysis and aggregation: a pilot study.
-34039355	No evidence of false-negative Plasmodium falciparum rapid diagnostic results in Monrovia, Liberia.
