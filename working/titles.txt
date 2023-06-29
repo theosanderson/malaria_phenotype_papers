@@ -142,7 +142,7 @@
 37328849	World Hepatitis day 2021 -screening and vaccination against Hepatitis B virus in Accra, Ghana.
 37328808	Investigating the etiology of acute febrile illness: a prospective clinic-based study in Uganda.
 37328419	[Use of traditional medicines among conventional medicine practitioners in Burkina Faso].
-37327857	Pre-pandemic cross-reactive humoral immunity to SARS-CoV-2 in Africa: systematic review and meta-analysis.
+37327857	Prepandemic cross-reactive humoral immunity to SARS-CoV-2 in Africa: Systematic review and meta-analysis.
 37327810	Ganaplacide plus lumefantrine solid dispersion formulation: considerations for development and rollout.
 37327809	Ganaplacide (KAF156) plus lumefantrine solid dispersion formulation combination for uncomplicated Plasmodium falciparum malaria: an open-label, multicentre, parallel-group, randomised, controlled, phase 2 trial.
 37327738	A comparison of Illumina and PacBio methods to build tick salivary gland transcriptomes confirms large expression of lipocalins and other salivary protein families that are not represented in available tick genomes.
