@@ -1,3 +1,5 @@
+37379340	Climate zones are a key component of the heterogeneous presentation of malaria and should be added as a malariometric for the planning of malaria elimination.
+37379293	Chinese health funding in Africa: The untold story.
 37377253	Insecticide resistance levels and associated mechanisms in three Aedes aegypti populations from Venezuela.
 37376890	Analysis of Medication Rules of Traditional Chinese Medicine for Malaria Treatment Based on Data Mining.
 37376689	Two Decades of Wildlife Pathogen Surveillance: Case Study of Choclo orthohantavirus and Its Wild Reservoir Oligoryzomys costaricensis.
@@ -9995,5 +9997,3 @@
 34039976	Distinctive genetic structure and selection patterns in Plasmodium vivax from South Asia and East Africa.
 34039612	Shared transcriptional profiles of atypical B cells suggest common drivers of expansion and function in malaria, HIV, and autoimmunity.
 34039430	Eave and swarm collections prove effective for biased captures of male Anopheles gambiae mosquitoes in Uganda.
-34039364	Genetic diversity and population structure of Plasmodium falciparum in Nigeria: insights from microsatellite loci analysis.
-34039358	mHAT app for automated malaria rapid test result analysis and aggregation: a pilot study.
