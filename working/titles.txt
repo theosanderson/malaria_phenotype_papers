@@ -1,3 +1,21 @@
+37384220	Immunomodulatory effects of testosterone and letrozole during Plasmodium berghei ANKA infection.
+37383669	India could harness public-private partnerships to achieve malaria elimination.
+37383667	Quantifying spatial heterogeneity of malaria in the endemic Papua region of Indonesia: Analysis of epidemiological surveillance data.
+37383666	Moving beyond dashboards to generate data for public good-Authors' reply.
+37383665	Strengthening malaria microscopy using artificial intelligence-based approaches in India.
+37383664	Artificial intelligence for malaria: Bridging the gap for real world usage.
+37383661	Truenat® for Plasmodium sub-microscopic infections: Miles to go….
+37383659	Truenat: An affordable and user-friendly option for screening of sub-microscopic Plasmodium infections in low resource countries.
+37383658	National Institute of Malaria Research-Malaria Dashboard (NIMR-MDB): A digital platform for analysis and visualization of epidemiological data.
+37383573	Exploring the strategies for upgrading the rural unqualified health practitioners in West Bengal, India: A knowledge, attitude and practices assessment-based approach.
+37383572	Effect of public health expenditure on health outcomes in Nigeria and Ghana.
+37383547	Supervised administration of primaquine may enhance adherence to radical cure for P. vivax malaria in India.
+37383527	Magnitude of Malaria-Typhoid Fever Coinfection in Febrile Patients at Arba Minch General Hospital in Southern Ethiopia.
+37383291	2030 - Countdown to malaria elimination in India and southeast Asia.
+37383038	Village malaria workers for the community-based management of vivax malaria.
+37382765	Current advances in nanodrug delivery systems for malaria prevention and treatment.
+37382681	Could Mathematics be the Key to Unlocking the Mysteries of Multiple Sclerosis?
+37382251	Acceptance, availability, and feasibility of RTS, S/AS01 malaria vaccine: A review.
 37381847	Why did foraging, horticulture and pastoralism persist after the Neolithic transition? The oasis theory of agricultural intensification.
 37381013	Evaluation of a multiphasic parasite clearance profile after treatment of experimental human infection with the investigational anti-malarial M5717 using segmented mixed effect models.
 37381000	The oral repellent - science fiction or common sense? Insects, vector-borne diseases, failing strategies, and a bold proposition.
@@ -5181,6 +5199,8 @@
 35625454	Stimuli Followed by Avian Malaria Vectors in Host-Seeking Behaviour.
 35625397	IL-10 Producing Regulatory B Cells Mediated Protection against Murine Malaria Pathogenesis.
 35624864	Thioredoxin Reductase-Type Ferredoxin: NADP(+) Oxidoreductase of Rhodopseudomonas palustris: Potentiometric Characteristics and Reactions with Nonphysiological Oxidants.
+37383297	Malaria control initiatives that have the potential to be gamechangers in India's quest for malaria elimination.
+37383294	A systematic review and meta-analysis on sub-microscopic Plasmodium infections in India: Different perspectives and global challenges.
 35624483	Reflections on the 2021 World Malaria Report and the future of malaria control.
 35624125	The erythrocyte membrane properties of beta thalassaemia heterozygotes and their consequences for Plasmodium falciparum invasion.
 35623558	Defining ER-mitochondria contact dynamics in Plasmodium falciparum by targeting component of phospholipid synthesis pathway, phosphatidylserine synthase (PfPSS).
@@ -9977,23 +9997,3 @@
 34049246	Letter to the editor RE: Reuling et al., 2018 'liver injury in uncomplicated malaria is an overlooked phenomenon: An observational study'.
 34049244	In response to the letter to the editor by Dondorp et al. RE: Reuling et al., 2018 'liver injury in uncomplicated malaria is an overlooked phenomenon: An observational study'.
 34048504	PfSPZ-CVac efficacy against malaria increases from 0% to 75% when administered in the absence of erythrocyte stage parasitemia: A randomized, placebo-controlled trial with controlled human malaria infection.
-34047650	mSphere of Influence: Structural Insights into the Molecular Mechanism Underlying Placental Malaria.
-34046602	Identification of P218 as a potent inhibitor of Mycobacterium ulcerans DHFR.
-34046596	Medicinal chemistry updates on quinoline- and endoperoxide-based hybrids with potent antimalarial activity.
-34046404	Vitamin C Inhibits Blood-Stage Plasmodium Parasites via Oxidative Stress.
-34046385	Modeling the Potential Distribution of the Malaria Vector Anopheles (Ano.) pseudopunctipennis Theobald (Diptera: Culicidae) in Arid Regions of Northern Chile.
-34046238	Intensified research on tuberculosis in the Western Pacific Region: a bibliometric analysis, 2000-2019.
-34046041	Vectored Immunotherapeutics for Infectious Diseases: Can rAAVs Be The Game Changers for Fighting Transmissible Pathogens?
-34045739	Author Correction: Emergence and clonal expansion of in vitro artemisinin-resistant Plasmodium falciparum kelch13 R561H mutant parasites in Rwanda.
-34045618	Dietary and Plasmodium challenge effects on the cuticular hydrocarbon profile of Anopheles albimanus.
-34045457	A single-cell atlas of Plasmodium falciparum transmission through the mosquito.
-34045387	Malaria case detection in Chhattisgarh, 2015-2019: Comparison of cases reported by the National Vector Borne Disease Control Programme and community health workers.
-34045149	Unraveling the Elusive Rhoptry Exocytic Mechanism of Apicomplexa.
-34045125	[Acute kidney injury and severe malaria in adults: A monocentric descriptive study in Madagascar using KDIGO criteria].
-34044837	Genetic diversity of Plasmodium falciparum populations in three malaria transmission settings in Madagascar.
-34044836	Community-based molecular and serological surveillance of subclinical malaria in Myanmar.
-34044591	Restructured Mitochondrial-Nuclear Interaction in Plasmodium falciparum Dormancy and Persister Survival after Artemisinin Exposure.
-34044540	High Throughput Screening to Identify Selective and Nonpeptidomimetic Proteasome Inhibitors As Antimalarials.
-34041367	Theory of change: Drama and arts-based community engagement for malaria research and elimination in Cambodia.
-34044183	Monocyte Locomotion Inhibitory Factor confers neuroprotection and prevents the development of murine cerebral malaria.
-34044142	First report of epidemic dengue fever and malaria co-infections among internally displaced persons in humanitarian camps of North Darfur, Sudan.
