@@ -1,3 +1,17 @@
+37381013	Evaluation of a multiphasic parasite clearance profile after treatment of experimental human infection with the investigational anti-malarial M5717 using segmented mixed effect models.
+37381000	The oral repellent - science fiction or common sense? Insects, vector-borne diseases, failing strategies, and a bold proposition.
+37380835	Battling a health crisis in the Amazon.
+37380683	In search of a vaccine for Plasmodium vivax malaria.
+37380682	Malaria: highlights from research.
+37380681	The challenges facing scientists in the elimination of malaria.
+37380680	Can malaria researchers slow the spread of drug resistance?
+37380679	Monoclonal antibodies show promise for malaria prevention.
+37380678	The next frontier for malaria vaccination.
+37380677	How genetically modified mosquitoes could eradicate malaria.
+37380676	Malaria's modelling problem.
+37380653	Development of a human malaria-on-a-chip disease model for drug efficacy and off-target toxicity evaluation.
+37380189	CDC reports locally acquired malaria in two US states.
+37380180	Stalled global progress on preventable maternal deaths needs renewed focus and action.
 37379340	Climate zones are a key component of the heterogeneous presentation of malaria and should be added as a malariometric for the planning of malaria elimination.
 37379293	Chinese health funding in Africa: The untold story.
 37377253	Insecticide resistance levels and associated mechanisms in three Aedes aegypti populations from Venezuela.
@@ -9983,17 +9997,3 @@
 34044183	Monocyte Locomotion Inhibitory Factor confers neuroprotection and prevents the development of murine cerebral malaria.
 34044142	First report of epidemic dengue fever and malaria co-infections among internally displaced persons in humanitarian camps of North Darfur, Sudan.
 34044139	Comparative analysis of four malaria diagnostic tools and implications for malaria treatment in southwestern Nigeria.
-34044005	Specialist versus generalist parasites: the interactions between host diversity, environment and geographic barriers in avian malaria.
-34043961	Toxoplasma gondii serine hydrolases regulate parasite lipid mobilization during growth and replication within the host.
-34043621	Serological biomarker for assessing human exposure to Aedes mosquito bites during a randomized vector control intervention trial in northeastern Thailand.
-34043447	Laboratory Detection of Malaria Antigens: a Strong Tool for Malaria Research, Diagnosis, and Epidemiology.
-34042781	On the Efficiency of Machine Learning Models in Malaria Prediction.
-34042394	Hidden Biomass of Intact Malaria Parasites in the Human Spleen.
-34042179	Impact of CYP2D6 Genetic Variation on Radical Cure of Plasmodium vivax Malaria.
-34041972	Plasmodium vivax and Neisseria meningitidis co-infection in a newborn.
-34040878	Mind the gap: scaling up the utilization of insecticide treated mosquito nets using a knowledge translation model in Isingiro district, rural south western Uganda.
-34040469	Care-Seeking for Fever for Children Under the Age of Five Before and After the Free Healthcare Initiative in Burkina Faso: Evidence from Three Population-Based Surveys.
-34040154	The origin of island populations of the African malaria mosquito, Anopheles coluzzii.
-34039976	Distinctive genetic structure and selection patterns in Plasmodium vivax from South Asia and East Africa.
-34039612	Shared transcriptional profiles of atypical B cells suggest common drivers of expansion and function in malaria, HIV, and autoimmunity.
-34039430	Eave and swarm collections prove effective for biased captures of male Anopheles gambiae mosquitoes in Uganda.
