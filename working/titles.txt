@@ -1,3 +1,6 @@
+37384799	The exception that proves the rule: Virulence gene expression at the onset of Plasmodium falciparum blood stage infections.
+37384790	High transmission efficiency of the simian malaria vectors and population expansion of their parasites Plasmodium cynomolgi and Plasmodium inui.
+37384559	Malaria: Burden and Challenges of Eradication.
 37384220	Immunomodulatory effects of testosterone and letrozole during Plasmodium berghei ANKA infection.
 37383669	India could harness public-private partnerships to achieve malaria elimination.
 37383667	Quantifying spatial heterogeneity of malaria in the endemic Papua region of Indonesia: Analysis of epidemiological surveillance data.
@@ -8,7 +11,6 @@
 37383659	Truenat: An affordable and user-friendly option for screening of sub-microscopic Plasmodium infections in low resource countries.
 37383658	National Institute of Malaria Research-Malaria Dashboard (NIMR-MDB): A digital platform for analysis and visualization of epidemiological data.
 37383573	Exploring the strategies for upgrading the rural unqualified health practitioners in West Bengal, India: A knowledge, attitude and practices assessment-based approach.
-37383572	Effect of public health expenditure on health outcomes in Nigeria and Ghana.
 37383547	Supervised administration of primaquine may enhance adherence to radical cure for P. vivax malaria in India.
 37383527	Magnitude of Malaria-Typhoid Fever Coinfection in Febrile Patients at Arba Minch General Hospital in Southern Ethiopia.
 37383291	2030 - Countdown to malaria elimination in India and southeast Asia.
@@ -3139,7 +3141,7 @@
 36289250	Imported malaria definition and minimum data for surveillance.
 36289202	Decreased susceptibility of Plasmodium falciparum to both dihydroartemisinin and lumefantrine in northern Uganda.
 36288839	Vulnerability of populations to malaria after indoor residual spraying is withdrawn from areas where its use has previously been sustained: a protocol for a systematic review.
-36288232	Ultrathin, Ultra narrow band DMMA for biosensing applications.
+36288232	Ultrathin, Ultra Narrow Band DMMA for Biosensing Applications.
 36288057	Evaluation of the Efficacy of Fludora(®) Fusion WP-SB 56.25 (Mixture of Clothianidin and Deltamethrin) against Anopheles coluzzii Laboratory and An. arabiensis Wild Colonies.
 36288055	Proteomic Analysis of Urine from Patients with Plasmodium vivax Malaria Unravels a Unique Plasmodium vivax Protein That Is Absent from Plasmodium falciparum.
 36288050	Detection of Tropical Diseases Caused by Mosquitoes Using CRISPR-Based Biosensors.
@@ -5716,6 +5718,7 @@
 35431554	Equity in the Perceived Quality of Care Received by Malaria Patients Under National Health Insurance Scheme in Ghana.
 35431552	Assessment of Indoor Levels of Carbon Monoxide Emission from Smoldering Mosquito Coils Used in Nigeria.
 35431419	Exogenous Strigolactone (GR24) Positively Regulates Growth, Photosynthesis, and Improves Glandular Trichome Attributes for Enhanced Artemisinin Production in Artemisia annua.
+37383572	Effect of public health expenditure on health outcomes in Nigeria and Ghana.
 35430265	Text mining in mosquito-borne disease: A systematic review.
 35430064	Pyrethroid resistance in the New World malaria vector Anopheles albimanus is mediated by cytochrome P450 CYP6P5.
 35429452	Measuring and monitoring child health and wellbeing: recommendations for tracking progress with a core set of indicators in the Sustainable Development Goals era.
@@ -9994,6 +9997,3 @@
 34050229	Aging affects artemisinin synthesis in Artemisia annua.
 34050141	A sand fly salivary protein acts as a neutrophil chemoattractant.
 34050017	Analysis of off-target effects in CRISPR-based gene drives in the human malaria mosquito.
-34049246	Letter to the editor RE: Reuling et al., 2018 'liver injury in uncomplicated malaria is an overlooked phenomenon: An observational study'.
-34049244	In response to the letter to the editor by Dondorp et al. RE: Reuling et al., 2018 'liver injury in uncomplicated malaria is an overlooked phenomenon: An observational study'.
-34048504	PfSPZ-CVac efficacy against malaria increases from 0% to 75% when administered in the absence of erythrocyte stage parasitemia: A randomized, placebo-controlled trial with controlled human malaria infection.
