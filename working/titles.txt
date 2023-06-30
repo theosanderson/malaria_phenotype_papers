@@ -1,3 +1,4 @@
+37387133	PlasmoFAB: a benchmark to foster machine learning for Plasmodium falciparum protein antigen candidate prediction.
 37385921	Developing kinase inhibitors for malaria: an opportunity or liability?
 37385350	Coenzyme Q10 exhibits anti-inflammatory and immune-modulatory thereby decelerating the occurrence of experimental cerebral malaria.
 37385251	Controlling genetic heterogeneity in gene-edited hematopoietic stem cells by single-cell expansion.
@@ -388,6 +389,7 @@
 37248260	Perceptions and acceptability of the controlled human malaria infection (CHMI) model in The Gambia: a qualitative study.
 37247760	Long-read genome assembly and gene model annotations for the rodent malaria parasite Plasmodium yoelii 17XNL.
 37247702	Distinct biogeographic processes and areas of endemism contributed differentially to Plasmodium and Parahaemoproteus community assembly on Marajó Island.
+37246557	Host phylogeny and seasonality shapes avian haemosporidian prevalence in a Brazilian biodiverse and dry forest: the Caatinga.
 37246535	Understanding the spatial non-stationarity in the relationships between malaria incidence and environmental risk factors using Geographically Weighted Random Forest: A case study in Rwanda.
 37246323	Green Synthesis of Molecules for the Treatment of Neglected Diseases.
 31334971	Antiparasitic Drugs.
@@ -9995,5 +9997,3 @@
 34051335	In-vivo anti-plasmodial activity of phosphate buffer extract of Calotropis procera latex in mice infected with Plasmodium berghei.
 34051180	Delivery channels and socioeconomic inequalities in coverage of reproductive, maternal, newborn, and child health interventions: analysis of 36 cross-sectional surveys in low-income and middle-income countries.
 34051141	Time for malaria control in school-age children.
-34051071	Ultrasonographic Hepatosplenic Parenchymal and Blood Flow Changes in Children with Acute Falciparum Malaria.
-34050737	High Plasmid Gene Protein 3 (Pgp3) Chlamydia trachomatis Seropositivity, Pelvic Inflammatory Disease, and Infertility Among Women, National Health and Nutrition Examination Survey, United States, 2013-2016.
