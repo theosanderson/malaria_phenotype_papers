@@ -1,3 +1,9 @@
+37389381	[Overview of infectious and non-infectious diseases in French Guiana in 2022].
+37389378	[Reflections on the tribune "Mayotte, a malaria-free island at last?" by J.-F. Lepère, L. Collet, et al.].
+37389376	[Mayotte, a malaria-free island at last?].
+37388931	Population screening for glucose-6-phosphate dehydrogenase deficiency using quantitative point-of-care tests: a systematic review.
+37388365	Bioprospection of Selected Plant Secondary Metabolites as Modulators of the Proteolytic Activity of Plasmodium falciparum Plasmepsin V.
+37387598	Acute necrotizing pancreatitis in a patient with severe falciaparum malaria and SARS-CoV-2 co-infection.
 37387133	PlasmoFAB: a benchmark to foster machine learning for Plasmodium falciparum protein antigen candidate prediction.
 37385921	Developing kinase inhibitors for malaria: an opportunity or liability?
 37385350	Coenzyme Q10 exhibits anti-inflammatory and immune-modulatory thereby decelerating the occurrence of experimental cerebral malaria.
@@ -9991,9 +9997,3 @@
 34053461	Assessing public perception of a sand fly biting study on the pathway to a controlled human infection model for cutaneous leishmaniasis.
 34053186	A targeted amplicon sequencing panel to simultaneously identify mosquito species and Plasmodium presence across the entire Anopheles genus.
 34051831	Report of the 2018 annual meeting of the Asia Pacific Malaria Elimination Network Vector Control Working Group: harnessing skills and knowledge for malaria elimination across the Asia Pacific.
-34051822	Determinants of the varied profiles of Plasmodium falciparum infections among infants living in Kintampo, Ghana.
-34051817	Associating the scale-up of insecticide-treated nets and use with the decline in all-cause child mortality in the Democratic Republic of Congo from 2005 to 2014.
-34051786	Fine-scale variation in malaria prevalence across ecological regions in Madagascar: a cross-sectional study.
-34051335	In-vivo anti-plasmodial activity of phosphate buffer extract of Calotropis procera latex in mice infected with Plasmodium berghei.
-34051180	Delivery channels and socioeconomic inequalities in coverage of reproductive, maternal, newborn, and child health interventions: analysis of 36 cross-sectional surveys in low-income and middle-income countries.
-34051141	Time for malaria control in school-age children.
