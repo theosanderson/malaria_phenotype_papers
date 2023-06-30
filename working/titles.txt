@@ -1,3 +1,7 @@
+37385921	Developing kinase inhibitors for malaria: an opportunity or liability?
+37385350	Coenzyme Q10 exhibits anti-inflammatory and immune-modulatory thereby decelerating the occurrence of experimental cerebral malaria.
+37385251	Controlling genetic heterogeneity in gene-edited hematopoietic stem cells by single-cell expansion.
+37385107	Multi-omics dissection of stage-specific artemisinin tolerance mechanisms in Kelch13-mutant Plasmodium falciparum.
 37384799	The exception that proves the rule: Virulence gene expression at the onset of Plasmodium falciparum blood stage infections.
 37384790	High transmission efficiency of the simian malaria vectors and population expansion of their parasites Plasmodium cynomolgi and Plasmodium inui.
 37384559	Malaria: Burden and Challenges of Eradication.
@@ -9993,7 +9997,3 @@
 34051141	Time for malaria control in school-age children.
 34051071	Ultrasonographic Hepatosplenic Parenchymal and Blood Flow Changes in Children with Acute Falciparum Malaria.
 34050737	High Plasmid Gene Protein 3 (Pgp3) Chlamydia trachomatis Seropositivity, Pelvic Inflammatory Disease, and Infertility Among Women, National Health and Nutrition Examination Survey, United States, 2013-2016.
-34050367	Single loading-dose tafenoquine for malaria chemoprophylaxis during brief travel?
-34050229	Aging affects artemisinin synthesis in Artemisia annua.
-34050141	A sand fly salivary protein acts as a neutrophil chemoattractant.
-34050017	Analysis of off-target effects in CRISPR-based gene drives in the human malaria mosquito.
