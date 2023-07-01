@@ -1,3 +1,5 @@
+37390511	New 4-(N-cinnamoylbutyl)aminoacridines as potential multi-stage antiplasmodial leads.
+37389992	Cytotoxicity of human antibodies targeting the circumsporozoite protein is amplified by 3D substrate and correlates with protection.
 37389381	[Overview of infectious and non-infectious diseases in French Guiana in 2022].
 37389378	[Reflections on the tribune "Mayotte, a malaria-free island at last?" by J.-F. Lepère, L. Collet, et al.].
 37389376	[Mayotte, a malaria-free island at last?].
@@ -9995,5 +9997,3 @@
 34054746	Comprehensive Ecological and Geographic Characterization of Eukaryotic and Prokaryotic Microbiomes in African Anopheles.
 34053784	PD-L1 expression and its clinicopathologic and genomic correlation in the non-small cell lung carcinoma patients: An Indian perspective.
 34053461	Assessing public perception of a sand fly biting study on the pathway to a controlled human infection model for cutaneous leishmaniasis.
-34053186	A targeted amplicon sequencing panel to simultaneously identify mosquito species and Plasmodium presence across the entire Anopheles genus.
-34051831	Report of the 2018 annual meeting of the Asia Pacific Malaria Elimination Network Vector Control Working Group: harnessing skills and knowledge for malaria elimination across the Asia Pacific.
