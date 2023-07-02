@@ -1,3 +1,13 @@
+37392389	Epigenetically regulated RNA-binding proteins signify malaria hypnozoite dormancy.
+37392377	Facile access to structurally diverse antimalarial indoles using a one-pot A3 coupling and domino cyclization approach.
+37392364	Identification of Commercial Antimalarial Herbal Drugs Using Laser-Induced Autofluorescence Technique and Multivariate Algorithms.
+37392071	Swarming and mate selection in Anopheles gambiae mosquitoes (Diptera: Culicidae).
+37392010	Contraception and intersection with HIV services in 11 high HIV burden sub-Saharan African countries: Results from the population-based HIV Impact Assessment cross-sectional studies conducted from 2015 to 2018.
+37391770	Malaria rapid diagnostic tests reliably detect asymptomatic Plasmodium falciparum infections in school-aged children that are infectious to mosquitoes.
+37391703	How many mosquito nets are needed to maintain universal coverage: an update.
+37391644	Prevalence and genetic diversity of avian haemosporidian parasites in islands within a mega hydroelectric dam in the Brazilian Amazon.
+37391538	Spatio-temporal modelling of routine health facility data for malaria risk micro-stratification in mainland Tanzania.
+37391476	Automatic identification of medically important mosquitoes using embedded learning approach-based image-retrieval system.
 37390511	New 4-(N-cinnamoylbutyl)aminoacridines as potential multi-stage antiplasmodial leads.
 37389992	Cytotoxicity of human antibodies targeting the circumsporozoite protein is amplified by 3D substrate and correlates with protection.
 37389381	[Overview of infectious and non-infectious diseases in French Guiana in 2022].
@@ -9987,13 +9997,3 @@
 34058708	Discovery and development of 2-aminobenzimidazoles as potent antimalarials.
 34058123	Mapping the endemicity and seasonality of clinical malaria for intervention targeting in Haiti using routine case data.
 34057943	Seroprevalence of Hepatitis B, Hepatitis C, Human Immunodeficiency Virus, syphilis, and malaria among blood donors at tertiary care hospital blood bank.
-34057797	Transmission of malaria from donors to solid organ transplant recipients: A case report and literature review.
-34056636	A Class of Valuable (Pro-)Activity-Based Protein Profiling Probes: Application to the Redox-Active Antiplasmodial Agent, Plasmodione.
-34056449	Synthesis and Antimalarial Activity of 4-Methylaminoquinoline Compounds against Drug-Resistant Parasite.
-34055672	Profiling Humoral Immune Response Against Pre-Erythrocytic and Erythrocytic Antigens of Malaria Parasites Among Neotropical Primates in the Brazilian Atlantic Forest.
-34055670	Home Sweet Home: Plasmodium vivax-Infected Reticulocytes-The Younger the Better?
-34055364	Cerebral malaria with extensive subcortical microhemorrhages.
-34055206	Novel Hexahydropyrimidine Compounds for Treating Malaria.
-34054746	Comprehensive Ecological and Geographic Characterization of Eukaryotic and Prokaryotic Microbiomes in African Anopheles.
-34053784	PD-L1 expression and its clinicopathologic and genomic correlation in the non-small cell lung carcinoma patients: An Indian perspective.
-34053461	Assessing public perception of a sand fly biting study on the pathway to a controlled human infection model for cutaneous leishmaniasis.
