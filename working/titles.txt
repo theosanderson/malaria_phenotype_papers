@@ -191,7 +191,7 @@
 37330107	Bioactivity of select essential oil constituents against life stages of Anopheles arabiensis (Diptera: Culicidae).
 37330106	Crude saliva of Amblyomma cajennense sensu stricto (Acari: Ixodidae) reduces locomotor activity and increases the hemocyte number in the females of Aedes aegypti (Diptera: Culicidae).
 37330040	Diversity of trypanosome species in small ruminants, dogs and pigs from three sleeping sickness foci of the south of Chad.
-37330027	Genetic diversity and molecular evolution of Plasmodium vivax Duffy Binding Protein and merozoite surface protein-1 in northwestern Thailand.
+37330027	Genetic diversity and molecular evolution of Plasmodium vivax Duffy Binding Protein and Merozoite Surface Protein-1 in northwestern Thailand.
 37329986	Therapeutic activity of eugenol towards mitigation of anaemia and oxidative organ damage caused by Plasmodium berghei.
 37329897	Temporal trends in, and risk factors for, HIV seroconversion among female sex workers accessing Zimbabwe's national sex worker programme, 2009-19: a retrospective cohort analysis of routinely collected HIV testing data.
 37329848	Stepwise in vitro screening of MMV pathogen box compounds against Plasmodium falciparum to identify potent antimalarial candidates.
