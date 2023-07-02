@@ -1,3 +1,5 @@
+37393257	Significant number of Plasmodium vivax mono-infections by PCR misidentified as mixed infections (P. vivax/P. falciparum) by microscopy and rapid diagnostic tests: malaria diagnostic challenges in Ethiopia.
+37392730	Identifying sensitive windows of prenatal household air pollution on birth weight and infant pneumonia risk to inform future interventions.
 37392389	Epigenetically regulated RNA-binding proteins signify malaria hypnozoite dormancy.
 37392377	Facile access to structurally diverse antimalarial indoles using a one-pot A3 coupling and domino cyclization approach.
 37392364	Identification of Commercial Antimalarial Herbal Drugs Using Laser-Induced Autofluorescence Technique and Multivariate Algorithms.
@@ -9995,5 +9997,3 @@
 34058927	A case of splenomegaly with RK-39 positivity: A diagnostic pitfall.
 34058709	Structure activity relationship in β-carboline derived anti-malarial agents.
 34058708	Discovery and development of 2-aminobenzimidazoles as potent antimalarials.
-34058123	Mapping the endemicity and seasonality of clinical malaria for intervention targeting in Haiti using routine case data.
-34057943	Seroprevalence of Hepatitis B, Hepatitis C, Human Immunodeficiency Virus, syphilis, and malaria among blood donors at tertiary care hospital blood bank.
