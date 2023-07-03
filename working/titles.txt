@@ -1,3 +1,17 @@
+37398749	Unusual Presentation and Difficult to Diagnose: A Case of Malaria With Negative Thick and Thin Giemsa Stain Smear Tests.
+37398288	Mapping the genomic landscape of multidrug resistance in Plasmodium falciparum and its impact on parasite fitness.
+37398131	CRISPR-mediated germline mutagenesis for genetic sterilization of Anopheles gambiae males.
+37398112	First report of Anopheles stephensi in Southern Ethiopia.
+37398106	Comparative chemical genomics in Babesia species identifies the alkaline phosphatase phoD as a novel determinant of resistance.
+37398027	Plasmodium falciparum infection of human erythroblasts induces transcriptional changes associated with dyserythropoiesis.
+37398018	Interplay between nutrient transporters ensures fertility in the malaria mosquito Anopheles gambiae.
+37397989	Wolbachia -induced inhibition of O'nyong nyong virus in Anopheles mosquitoes is mediated by Toll signaling and modulated by cholesterol.
+37396933	Trends of the Global, Regional and National Incidence, Mortality, and Disability-Adjusted Life Years of Malaria, 1990-2019: An Analysis of the Global Burden of Disease Study 2019.
+37396392	Tripartite interactions comprising yeast-endobacteria systems in the gut of vector mosquitoes.
+37396335	Chronic infection by atypical Toxoplasma gondii strain induces disturbance in microglia population and altered behaviour in mice.
+37396303	A conserved epitope in VAR2CSA is targeted by a cross-reactive antibody originating from Plasmodium vivax Duffy binding protein.
+37396200	Phenotypic resistance to pyrethroid associated to metabolic mechanism in Vgsc-L995F-resistant Anopheles gambiae malaria mosquitoes.
+37396152	Diabetes mellitus: Preventive and curative therapies with aqueous extract of Rytigynia senegalensis Blume (Rubiaceae) in Wistar rats.
 37394159	Curcumin or quercetin loaded nutriosomes as oral adjuvants for malaria infections.
 37393924	The unfinished agenda of communicable diseases among children and adolescents before the COVID-19 pandemic, 1990-2019: a systematic analysis of the Global Burden of Disease Study 2019.
 37393257	Significant number of Plasmodium vivax mono-infections by PCR misidentified as mixed infections (P. vivax/P. falciparum) by microscopy and rapid diagnostic tests: malaria diagnostic challenges in Ethiopia.
@@ -5088,7 +5102,6 @@
 35667524	Safety of treating malaria with artemisinin-based combination therapy in the first trimester of pregnancy.
 35665720	Updates in central nervous system malaria: literature review and considerations.
 35665597	Mechanisms of 8-aminoquinoline induced haemolytic toxicity in a G6PDd humanized mouse model.
-35665014	Outpatient regimens to reduce COVID-19 hospitalisations: a systematic review and meta-analysis of randomized controlled trials.
 35664997	Impact of a blood-stage vaccine on Plasmodium vivax malaria.
 35663999	Machine Learning-Assisted Screening of Herbal Medicine Extracts as Vaccine Adjuvants.
 35663028	Neuregulin-1/ErbB4 signaling modulates Plasmodium falciparum HRP2-induced damage to brain cortical organoids.
@@ -9984,16 +9997,3 @@
 34061843	Global economic costs due to vivax malaria and the potential impact of its radical cure: A modelling study.
 34061838	Exploratory analysis of the effect of helminth infection on the immunogenicity and efficacy of the asexual blood-stage malaria vaccine candidate GMZ2.
 34061749	CRCF: A Method of Identifying Secretory Proteins of Malaria Parasites.
-34061587	TLR4-Endothelin Axis Controls Syncytiotrophoblast Motility and Confers Fetal Protection in Placental Malaria.
-34060901	Persistent Submicroscopic Plasmodium falciparum Parasitemia 72 Hours after Treatment with Artemether-Lumefantrine Predicts 42-Day Treatment Failure in Mali and Burkina Faso.
-34060634	DrugComb update: a more comprehensive drug sensitivity data repository and analysis portal.
-34060489	CCL17-producing cDC2s are essential in end-stage lupus nephritis and averted by a parasitic infection.
-34060020	Influence of Malnutrition on the Pharmacokinetics of Drugs Used in the Treatment of Poverty-Related Diseases: A Systematic Review.
-34059753	Association of killer cell immunoglobulin-like receptors with endemic Burkitt lymphoma in Kenyan children.
-34059712	Platelet derived growth factor receptor β (PDGFRβ) is a host receptor for the human malaria parasite adhesin TRAP.
-34059495	The governance of personal data for COVID-19 response: perspective from the Access to COVID-19 Tools Accelerator.
-34059072	Prevention of re-establishment of malaria.
-34059053	The application of drones for mosquito larval habitat identification in rural environments: a practical approach for malaria control?
-34059047	Genetic diversity and genetic relatedness in Plasmodium falciparum parasite population in individuals with uncomplicated malaria based on microsatellite typing in Eastern and Western regions of Uganda, 2019-2020.
-34059017	Hematological indices and abnormalities among patients with uncomplicated falciparum malaria in Kosti city of the White Nile state, Sudan: a comparative study.
-34058927	A case of splenomegaly with RK-39 positivity: A diagnostic pitfall.
