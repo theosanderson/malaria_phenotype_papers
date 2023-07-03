@@ -1,3 +1,5 @@
+37394159	Curcumin or quercetin loaded nutriosomes as oral adjuvants for malaria infections.
+37393924	The unfinished agenda of communicable diseases among children and adolescents before the COVID-19 pandemic, 1990-2019: a systematic analysis of the Global Burden of Disease Study 2019.
 37393257	Significant number of Plasmodium vivax mono-infections by PCR misidentified as mixed infections (P. vivax/P. falciparum) by microscopy and rapid diagnostic tests: malaria diagnostic challenges in Ethiopia.
 37392730	Identifying sensitive windows of prenatal household air pollution on birth weight and infant pneumonia risk to inform future interventions.
 37392389	Epigenetically regulated RNA-binding proteins signify malaria hypnozoite dormancy.
@@ -9995,5 +9997,3 @@
 34059047	Genetic diversity and genetic relatedness in Plasmodium falciparum parasite population in individuals with uncomplicated malaria based on microsatellite typing in Eastern and Western regions of Uganda, 2019-2020.
 34059017	Hematological indices and abnormalities among patients with uncomplicated falciparum malaria in Kosti city of the White Nile state, Sudan: a comparative study.
 34058927	A case of splenomegaly with RK-39 positivity: A diagnostic pitfall.
-34058709	Structure activity relationship in β-carboline derived anti-malarial agents.
-34058708	Discovery and development of 2-aminobenzimidazoles as potent antimalarials.
