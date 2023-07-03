@@ -5088,7 +5088,7 @@
 35667524	Safety of treating malaria with artemisinin-based combination therapy in the first trimester of pregnancy.
 35665720	Updates in central nervous system malaria: literature review and considerations.
 35665597	Mechanisms of 8-aminoquinoline induced haemolytic toxicity in a G6PDd humanized mouse model.
-35665014	Outpatient regimens to reduce COVID-19 hospitalizations: a systematic review and meta-analysis of randomized controlled trials.
+35665014	Outpatient regimens to reduce COVID-19 hospitalisations: a systematic review and meta-analysis of randomized controlled trials.
 35664997	Impact of a blood-stage vaccine on Plasmodium vivax malaria.
 35663999	Machine Learning-Assisted Screening of Herbal Medicine Extracts as Vaccine Adjuvants.
 35663028	Neuregulin-1/ErbB4 signaling modulates Plasmodium falciparum HRP2-induced damage to brain cortical organoids.
