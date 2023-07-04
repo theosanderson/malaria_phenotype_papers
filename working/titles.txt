@@ -1,3 +1,4 @@
+37399221	Potential hidden Plasmodium vivax malaria reservoirs from low parasitemia Duffy-negative Ethiopians: Molecular evidence.
 37398749	Unusual Presentation and Difficult to Diagnose: A Case of Malaria With Negative Thick and Thin Giemsa Stain Smear Tests.
 37398288	Mapping the genomic landscape of multidrug resistance in Plasmodium falciparum and its impact on parasite fitness.
 37398131	CRISPR-mediated germline mutagenesis for genetic sterilization of Anopheles gambiae males.
@@ -9996,4 +9997,3 @@
 34062097	Epidemiological profiles and associated risk factors of SARS-CoV-2 positive patients based on a high-throughput testing facility in India.
 34061843	Global economic costs due to vivax malaria and the potential impact of its radical cure: A modelling study.
 34061838	Exploratory analysis of the effect of helminth infection on the immunogenicity and efficacy of the asexual blood-stage malaria vaccine candidate GMZ2.
-34061749	CRCF: A Method of Identifying Secretory Proteins of Malaria Parasites.
