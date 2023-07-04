@@ -1,3 +1,4 @@
+37401589	[Advances in abscisic acid biosynthesis].
 37400831	A semi-field evaluation in Thailand of the use of human landing catches (HLC) versus human-baited double net trap (HDN) for assessing the impact of a volatile pyrethroid spatial repellent and pyrethroid-treated clothing on Anopheles minimus landing.
 37400805	Evaluation of community-based vector surveillance system for routine entomological monitoring under low malaria vector densities and high bed net coverage in western Kenya.
 37400569	Correction: Hyperreflective spots in cerebral malaria.
@@ -9996,4 +9997,3 @@
 34064620	Perception of Malaria Chemoprevention Interventions in Infants and Children in Eight Sub-Saharan African Countries: An End User Perspective Study.
 34064534	Emergent Drug and Nutrition Interactions in COVID-19: A Comprehensive Narrative Review.
 34063994	Entamoeba histolytica: Proteomics Bioinformatics Reveal Predictive Functions and Protein-Protein Interactions of Differentially Abundant Membrane and Cytosolic Proteins.
-34063671	Population Pharmacokinetics of Primaquine in the Korean Population.
