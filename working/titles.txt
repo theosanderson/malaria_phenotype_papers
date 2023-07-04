@@ -495,7 +495,7 @@
 37228010	Malaria and typhoid fever among patients presenting with febrile illnesses in Ga West Municipality, Ghana.
 37228009	A conformational epitope in placental malaria vaccine antigen VAR2CSA: What does it teach us?
 37227504	Mosquito gene targeted RNAi studies for vector control.
-37227253	Fostering Innovation to solve the biomechanics of Microbe-Host Interactions: Focus on the adhesive forces underlying Apicomplexa parasite biology.
+37227253	Fostering innovation to solve the biomechanics of microbe-host interactions: Focus on the adhesive forces underlying Apicomplexa parasite biology.
 37226561	Importance of Balanced Attention Toward Coronavirus Disease 2019 and Neglected Tropical Diseases.
 37226272	Poor performance of malaria rapid diagnostic tests for the detection of Plasmodium malariae among returned international travellers in China.
 37226196	Molecular drivers of insecticide resistance in the Sahelo-Sudanian populations of a major malaria vector Anopheles coluzzii.
