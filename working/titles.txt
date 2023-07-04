@@ -1,3 +1,8 @@
+37400831	A semi-field evaluation in Thailand of the use of human landing catches (HLC) versus human-baited double net trap (HDN) for assessing the impact of a volatile pyrethroid spatial repellent and pyrethroid-treated clothing on Anopheles minimus landing.
+37400805	Evaluation of community-based vector surveillance system for routine entomological monitoring under low malaria vector densities and high bed net coverage in western Kenya.
+37400569	Correction: Hyperreflective spots in cerebral malaria.
+37400439	A PPP-type pseudophosphatase is required for the maintenance of basal complex integrity in Plasmodium falciparum.
+37399772	Carbohydrate derivatives fight against malaria parasite as anti-plasmodial agents.
 37399221	Potential hidden Plasmodium vivax malaria reservoirs from low parasitemia Duffy-negative Ethiopians: Molecular evidence.
 37398749	Unusual Presentation and Difficult to Diagnose: A Case of Malaria With Negative Thick and Thin Giemsa Stain Smear Tests.
 37398288	Mapping the genomic landscape of multidrug resistance in Plasmodium falciparum and its impact on parasite fitness.
@@ -9992,8 +9997,3 @@
 34064534	Emergent Drug and Nutrition Interactions in COVID-19: A Comprehensive Narrative Review.
 34063994	Entamoeba histolytica: Proteomics Bioinformatics Reveal Predictive Functions and Protein-Protein Interactions of Differentially Abundant Membrane and Cytosolic Proteins.
 34063671	Population Pharmacokinetics of Primaquine in the Korean Population.
-34062177	Plasmodium falciparum goes bananas for sex.
-34062104	Model building and assessment of the impact of covariates for disease prevalence mapping in low-resource settings: to explain and to predict.
-34062097	Epidemiological profiles and associated risk factors of SARS-CoV-2 positive patients based on a high-throughput testing facility in India.
-34061843	Global economic costs due to vivax malaria and the potential impact of its radical cure: A modelling study.
-34061838	Exploratory analysis of the effect of helminth infection on the immunogenicity and efficacy of the asexual blood-stage malaria vaccine candidate GMZ2.
