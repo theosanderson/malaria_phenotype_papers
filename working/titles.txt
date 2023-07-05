@@ -1501,7 +1501,7 @@
 36898744	International modified Delphi study on malaria preventive behaviour: new themes, contexts and framework for future research on Plasmodium knowlesi malaria.
 36898498	The insecticidal activity of essential oil constituents against pyrethroid-resistant Anopheles funestus (Diptera: Culicidae).
 36897874	Combined effect of physico-chemical and microbial quality of breeding habitat water on oviposition of malarial vector Anopheles subpictus.
-36896967	Effectiveness of intermittent screening and treatment of malaria in pregnancy on maternal and birth outcomes in selected districts in Rwanda: A cluster randomized controlled trial.
+36896967	Effectiveness of Intermittent Screening and Treatment of Malaria in Pregnancy on Maternal and Birth Outcomes in Selected Districts in Rwanda: A Cluster Randomized Controlled Trial.
 36896902	DihydrofolateReductase (DHFR) Inhibitors: A Comprehensive Review.
 36895880	Elevation of artemisinin content by co-transformation of artemisinin biosynthetic pathway genes and trichome-specific transcription factors in Artemisia annua.
 36895563	Malaria and leishmaniasis: Updates on co-infection.
