@@ -1,3 +1,6 @@
+37403183	Seasonal malaria chemoprevention in Africa and China's upgraded role as a contributor: a scoping review.
+37403099	Seasonal variations of intensity of avian malaria infection in the Thousand Island Lake System, China.
+37402342	Purine containing carbonucleoside phosphonate analogues as novel chemotype for Plasmodium falciparum Inhibition.
 37401589	[Advances in abscisic acid biosynthesis].
 37400831	A semi-field evaluation in Thailand of the use of human landing catches (HLC) versus human-baited double net trap (HDN) for assessing the impact of a volatile pyrethroid spatial repellent and pyrethroid-treated clothing on Anopheles minimus landing.
 37400805	Evaluation of community-based vector surveillance system for routine entomological monitoring under low malaria vector densities and high bed net coverage in western Kenya.
@@ -9994,6 +9997,3 @@
 34066964	Computational Design of Novel Allosteric Inhibitors for Plasmodium falciparum DegP.
 34064869	Histamine Ingestion by Anopheles stephensi Alters Important Vector Transmission Behaviors and Infection Success with Diverse Plasmodium Species.
 34064738	Short-Time Recurrences of Plasmodium vivax Malaria as a Public Health Proxy for Chloroquine-Resistance Surveillance: A Spatio-Temporal Study in the Brazilian Amazon.
-34064620	Perception of Malaria Chemoprevention Interventions in Infants and Children in Eight Sub-Saharan African Countries: An End User Perspective Study.
-34064534	Emergent Drug and Nutrition Interactions in COVID-19: A Comprehensive Narrative Review.
-34063994	Entamoeba histolytica: Proteomics Bioinformatics Reveal Predictive Functions and Protein-Protein Interactions of Differentially Abundant Membrane and Cytosolic Proteins.
