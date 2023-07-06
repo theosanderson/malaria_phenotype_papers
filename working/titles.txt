@@ -1,3 +1,11 @@
+37408058	Baseline characterization of entomological drivers of malaria transmission in Namibia: a targeted operational entomological surveillance strategy.
+37408026	Anopheles diversity, biting behaviour and transmission potential in forest and farm environments of Gia Lai province, Vietnam.
+37407994	Retraction Note: Molecular detection and quantification of Plasmodium falciparum gametocytes carriage in used RDTs in malaria elimination settings in northern Senegal.
+37407966	A multilevel Bayesian Markov Chain Monte Carlo Poisson modelling of factors associated with components of antenatal care offered to pregnant women in Nigeria.
+37407962	Prevalence and risk factors determinants of the non-use of insecticide-treated nets in an endemic area for malaria: analysis of data from Cameroon.
+37407494	Formation of free oocysts in Anopheles mosquitoesinjected with Plasmodium ookinetes.
+37406792	In vitro and in vivo antimalarial activity of green synthesized silver nanoparticles using Sargassum tenerrimum - a marine seaweed.
+37406519	Recent developments in the synthesis of hybrid antimalarial drug discovery.
 37406344	Unique Properties of Apicomplexan Mitochondria.
 37406192	From contigs towards chromosomes: automatic improvement of long read assemblies (ILRA).
 37406181	Imported Malaria in Children: A Study Over an 11-year Period in Brussels.
@@ -9989,11 +9997,3 @@
 34074332	Operational research capacity building through the Structured Operational Research Training Initiative (SORT-IT) in China: implementation, outcomes and challenges.
 34074308	Coagulopathy and its associated factors among patients with a bleeding diathesis at the University of Gondar Specialized Referral Hospital, Northwest Ethiopia.
 34073419	Small Molecule Compounds Identified from Mixture-Based Library Inhibit Binding between Plasmodium falciparum Infected Erythrocytes and Endothelial Receptor ICAM-1.
-34073319	Malaria Temporal Variation and Modelling Using Time-Series in Sussundenga District, Mozambique.
-34073006	A Screening of the MMV Pandemic Response Box Reveals Epetraborole as a New Potent Inhibitor against Mycobacterium abscessus.
-34072937	Organoboron Compounds: Effective Antibacterial and Antiparasitic Agents.
-34072373	Activation of Anopheles stephensi Pantothenate Kinase and Coenzyme A Biosynthesis Reduces Infection with Diverse Plasmodium Species in the Mosquito Host.
-34071992	Applying Machine Learning to Predict the Exportome of Bovine and Canine Babesia Species That Cause Babesiosis.
-34071885	Next-Generation Human Liver Models for Antimalarial Drug Assays.
-34071206	Protease Inhibition-An Established Strategy to Combat Infectious Diseases.
-34071073	Prevalence and Genetic Diversity of Avian Haemosporidian Parasites in Southern Iran.
