@@ -1,3 +1,5 @@
+37409812	Point-of-care Ultrasound to Assess Hemodynamic Contributors to Acute Kidney Injury in Pediatric Patients With Cerebral Malaria: A Pilot Study.
+37409745	Contributions of Declining Mortality, Overall and from HIV, TB, and Malaria, to Reduced Health Inequality and Inequity Across Countries.
 37408730	Anopheles sampling collections in the health districts of Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) between 2016 and 2018.
 37408058	Baseline characterization of entomological drivers of malaria transmission in Namibia: a targeted operational entomological surveillance strategy.
 37408026	Anopheles diversity, biting behaviour and transmission potential in forest and farm environments of Gia Lai province, Vietnam.
@@ -9995,5 +9997,3 @@
 34076074	Plasmodium vivax metacaspase 1 (PvMCA1) catalytic domain is conserved in field isolates from Brazilian Amazon.
 34075612	Concentration-QT modelling of the novel DHFR inhibitor P218 in healthy male volunteers.
 34075157	Fine scale analysis of malaria incidence in under-5: hierarchical Bayesian spatio-temporal modelling of routinely collected malaria data between 2012-2018 in Cameroon.
-34074332	Operational research capacity building through the Structured Operational Research Training Initiative (SORT-IT) in China: implementation, outcomes and challenges.
-34074308	Coagulopathy and its associated factors among patients with a bleeding diathesis at the University of Gondar Specialized Referral Hospital, Northwest Ethiopia.
