@@ -1,3 +1,4 @@
+37408730	Anopheles sampling collections in the health districts of Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) between 2016 and 2018.
 37408058	Baseline characterization of entomological drivers of malaria transmission in Namibia: a targeted operational entomological surveillance strategy.
 37408026	Anopheles diversity, biting behaviour and transmission potential in forest and farm environments of Gia Lai province, Vietnam.
 37407994	Retraction Note: Molecular detection and quantification of Plasmodium falciparum gametocytes carriage in used RDTs in malaria elimination settings in northern Senegal.
@@ -9996,4 +9997,3 @@
 34075157	Fine scale analysis of malaria incidence in under-5: hierarchical Bayesian spatio-temporal modelling of routinely collected malaria data between 2012-2018 in Cameroon.
 34074332	Operational research capacity building through the Structured Operational Research Training Initiative (SORT-IT) in China: implementation, outcomes and challenges.
 34074308	Coagulopathy and its associated factors among patients with a bleeding diathesis at the University of Gondar Specialized Referral Hospital, Northwest Ethiopia.
-34073419	Small Molecule Compounds Identified from Mixture-Based Library Inhibit Binding between Plasmodium falciparum Infected Erythrocytes and Endothelial Receptor ICAM-1.
