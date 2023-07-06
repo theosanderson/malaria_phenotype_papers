@@ -1,3 +1,10 @@
+37406344	Unique Properties of Apicomplexan Mitochondria.
+37406192	From contigs towards chromosomes: automatic improvement of long read assemblies (ILRA).
+37406181	Imported Malaria in Children: A Study Over an 11-year Period in Brussels.
+37406109	A confinable female-lethal population suppression system in the malaria vector, Anopheles gambiae.
+37406097	Coordination of apicoplast transcription in a malaria parasite by internal and host cues.
+37405994	Combining isothermal recombinase polymerase amplification with lateral flow assay for diagnosis of P. cynomolgi malaria infection.
+37405978	Starting at the community: Treatment-seeking pathways of children with suspected severe malaria in Uganda.
 37405848	The LW blood group system: not just "tagging along" with D.
 37405832	Determinants of sugar-induced influx in the mammalian fructose transporter GLUT5.
 37405803	First US Malaria Cases in 20 Years Prompt CDC Advisory.
@@ -9990,10 +9997,3 @@
 34071885	Next-Generation Human Liver Models for Antimalarial Drug Assays.
 34071206	Protease Inhibition-An Established Strategy to Combat Infectious Diseases.
 34071073	Prevalence and Genetic Diversity of Avian Haemosporidian Parasites in Southern Iran.
-34070881	Malaria Infection and Risk for Endemic Burkitt Lymphoma: A Systematic Review and Meta-Analysis.
-34070798	Synthesis and Evaluation of the Tetracyclic Ring-System of Isocryptolepine and Regioiso-Mers for Antimalarial, Antiproliferative and Antimicrobial Activities.
-34070769	Malaria in the 'Omics Era'.
-34069368	Supply-Side Barriers to the Use of Public Healthcare Facilities for Childhood Illness Care in Rural Zambia: A Cross-Sectional Study Linking Data from a Healthcare Facility Census to a Household Survey.
-34068609	Biological Activity of Selected Natural and Synthetic Terpenoid Lactones.
-34068598	Roles of Lytic Viral Replication and Co-Infections in the Oncogenesis and Immune Control of the Epstein-Barr Virus.
-34068519	In Vitro Antiplasmodial and Cytotoxic Activities of Compounds from the Roots of Eriosema montanum Baker f. (Fabaceae).
