@@ -1,3 +1,5 @@
+37411970	On the Pathogenetic Effects of Malaria.
+37410764	Patterns and trends of in-hospital mortality due to non-communicable diseases and injuries in Tanzania, 2006-2015.
 37409812	Point-of-care Ultrasound to Assess Hemodynamic Contributors to Acute Kidney Injury in Pediatric Patients With Cerebral Malaria: A Pilot Study.
 37409745	Contributions of Declining Mortality, Overall and from HIV, TB, and Malaria, to Reduced Health Inequality and Inequity Across Countries.
 37408730	Anopheles sampling collections in the health districts of Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) between 2016 and 2018.
@@ -9995,5 +9997,3 @@
 34078606	Structure of the merozoite surface protein 1 from Plasmodium falciparum.
 34078333	Long lasting insecticidal mosquito nets (LLINs) ownership, use and coverage following mass distribution campaign in Lake Victoria basin, Western Kenya.
 34076074	Plasmodium vivax metacaspase 1 (PvMCA1) catalytic domain is conserved in field isolates from Brazilian Amazon.
-34075612	Concentration-QT modelling of the novel DHFR inhibitor P218 in healthy male volunteers.
-34075157	Fine scale analysis of malaria incidence in under-5: hierarchical Bayesian spatio-temporal modelling of routinely collected malaria data between 2012-2018 in Cameroon.
