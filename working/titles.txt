@@ -1,3 +1,19 @@
+37417315	Vaccination during pregnancy: A golden opportunity to embrace.
+37417172	Early virus clearance of SARS-CoV-2 among co-infection with malaria.
+37417171	Impact of COVID-19 lockdown during 2020 on the occurrence of vector-borne diseases in India.
+37417170	Design and validation of multiplex polymerase chain reaction as a diagnostic tool for Plasmodium species.
+37417168	Studies on the breeding potential and entomological indices of dengue vector Aedes aegypti and Aedes albopictus in the district Ghaziabad of Uttar Pradesh, India.
+37417164	Malaria vector sibling species distribution in different endemic districts of Punjab, India.
+37417163	Assessment of knowledge about malaria and LLIN ownership and its use in Bankura, West Bengal, India.
+37417162	Particulate and non-particle adjuvants in Leishmaniasis vaccine designs: A review.
+37417034	The paucity of pediatric emergency medicine fellowship training programs in Africa.
+37416864	What are the challenges and the possible solutions to fight Malaria in the Democratic Republic of Congo?
+37415760	Clinical characteristics of malaria in COVID-19: A systematic review of case reports.
+37415756	Prevalence of malaria: A 7-year trend analysis from a tertiary care center, Puducherry.
+37415751	Prevalence of histidine-rich protein 2 deletion among the Plasmodium falciparum isolates from Kolkata.
+37415677	Magnitude and factors influencing pastoralist women's maternity waiting home utilization in Teltelle district, Ethiopia: A cross-sectional study.
+37415348	Malaria diagnosis using a combined system of a simple and fast extraction method with a lyophilised Dual-LAMP assay in a non-endemic setting.
+37415281	Genetic variants causing G6PD deficiency: Clinical and biochemical data support new WHO classification.
 37415250	Development of microsatellite markers for the invasive mosquito Aedes koreicus.
 37415179	Effectiveness of the Gratuité user fee exemption policy on utilization and outcomes of maternal, newborn and child health services in conflict-affected districts of Burkina Faso from 2013 to 2018: a pre-post analysis.
 37414792	Detecting temporal and spatial malaria patterns from first antenatal care visits.
@@ -9981,19 +9997,3 @@
 34086817	Validation of a novel FRET real-time PCR assay for simultaneous quantitative detection and discrimination of human Plasmodium parasites.
 34086196	Providers preferences towards greater patient health benefit is associated with higher quality of care.
 34084665	Rising Pediatric Morbidity and Mortality in the Developing World.
-34084490	Friedreich ataxia in a family from Mali, West Africa/Friedreich ataxia in a Malian family.
-34083937	Incidence of avian malaria in hummingbirds in humid premontane forests of Pichincha Province, Ecuador: A pilot study.
-34083794	Scientists on a RAMPAGE to find apicomplexan transcription start sites.
-34083582	Environmental and spatial risk factors for the larval habitats of Plasmodium knowlesi vectors in Sabah, Malaysian Borneo.
-34083374	Ship-board malaria epidemics during war.
-34083241	Accuracy of verbal autopsy, clinical data and minimally invasive autopsy in the evaluation of malaria-specific mortality: an observational study.
-34082791	Global trend of Plasmodium malariae and Plasmodium ovale spp. malaria infections in the last two decades (2000-2020): a systematic review and meta-analysis.
-34082778	Clinical features of bacterial meningitis among hospitalised children in Kenya.
-34082776	Assessing field performance of ultrasensitive rapid diagnostic tests for malaria: a systematic review and meta-analysis.
-34082763	Naturally induced humoral response against Plasmodium vivax reticulocyte binding protein 2P1.
-34082143	Heat-enhancing aggregation of gold nanoparticles combined with loop-mediated isothermal amplification (HAG-LAMP) for Plasmodium falciparum detection.
-34081747	Serological profiles of pan-coronavirus-specific responses in COVID-19 patients using a multiplexed electro-chemiluminescence-based testing platform.
-34081725	High incidence of asymptomatic cases during an outbreak of Plasmodium malariae in a remote village of Malaysian Borneo.
-34081710	Automated phenotyping of mosquito larvae enables high-throughput screening for novel larvicides and offers potential for smartphone-based detection of larval insecticide resistance.
-34081700	The human immune response to saliva of Phlebotomus alexandri, the vector of visceral leishmaniasis in Iraq, and its relationship to sand fly exposure and infection.
-34081396	Antiplasmodial and Cytotoxic Activities of Extract and Compounds from Ozoroa obovata (Oliv.) R. & A. Fern. var. obovata.
