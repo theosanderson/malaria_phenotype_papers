@@ -1,4 +1,13 @@
-37411970	On the Pathogenetic Effects of Malaria.
+37415250	Development of microsatellite markers for the invasive mosquito Aedes koreicus.
+37415179	Effectiveness of the Gratuité user fee exemption policy on utilization and outcomes of maternal, newborn and child health services in conflict-affected districts of Burkina Faso from 2013 to 2018: a pre-post analysis.
+37414792	Detecting temporal and spatial malaria patterns from first antenatal care visits.
+37414210	Prostration and the Prognosis of Death in African Children with Severe Malaria.
+37414209	RNA aptamers developed against tRip: A preliminary approach targeting tRNA entry in Plasmodium.
+37414067	Moving seasonal malaria chemoprevention out of its geographical isolation.
+37414066	Causal chemoprophylactic activity of cabamiquine against Plasmodium falciparum in a controlled human malaria infection: a randomised, double-blind, placebo-controlled study in the Netherlands.
+37414059	Bioassay-Guided Isolation and Identification of Antiplasmodial Compounds from the Stem Bark of Clausena excavata.
+37413986	Quantifying differences in iron deficiency-attributable anemia during pregnancy and postpartum.
+37413887	Asymptomatic but infectious - The silent driver of pathogen transmission. A pragmatic review.
 37410764	Patterns and trends of in-hospital mortality due to non-communicable diseases and injuries in Tanzania, 2006-2015.
 37409812	Point-of-care Ultrasound to Assess Hemodynamic Contributors to Acute Kidney Injury in Pediatric Patients With Cerebral Malaria: A Pilot Study.
 37409745	Contributions of Declining Mortality, Overall and from HIV, TB, and Malaria, to Reduced Health Inequality and Inequity Across Countries.
@@ -9988,12 +9997,3 @@
 34081710	Automated phenotyping of mosquito larvae enables high-throughput screening for novel larvicides and offers potential for smartphone-based detection of larval insecticide resistance.
 34081700	The human immune response to saliva of Phlebotomus alexandri, the vector of visceral leishmaniasis in Iraq, and its relationship to sand fly exposure and infection.
 34081396	Antiplasmodial and Cytotoxic Activities of Extract and Compounds from Ozoroa obovata (Oliv.) R. & A. Fern. var. obovata.
-34079769	In Vivo and In Vitro Genome-Wide Profiling of RNA Secondary Structures Reveals Key Regulatory Features in Plasmodium falciparum.
-34079425	Malaria Infection is High at Transit and Destination Phases Among Seasonal Migrant Workers in Development Corridors of Northwest Ethiopia: A Repeated Cross-Sectional Study.
-34079424	An Overview of the Management of Mansonellosis.
-34079061	Compensatory mechanisms in resistant Anopheles gambiae AcerKis and KdrKis neurons modulate insecticide-based mosquito control.
-34078803	Discoveries and Syntheses of Highly Potent Antimalarial Troponoids.
-34078631	Accuracy of malaria diagnostic tests performed on non-invasively collected samples: a systematic review and meta-analysis.
-34078606	Structure of the merozoite surface protein 1 from Plasmodium falciparum.
-34078333	Long lasting insecticidal mosquito nets (LLINs) ownership, use and coverage following mass distribution campaign in Lake Victoria basin, Western Kenya.
-34076074	Plasmodium vivax metacaspase 1 (PvMCA1) catalytic domain is conserved in field isolates from Brazilian Amazon.
