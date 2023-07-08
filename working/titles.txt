@@ -1,3 +1,8 @@
+37420265	Temporal and spatial analysis of Plasmodium falciparum genomics reveals patterns of parasite connectivity in a low-transmission district in Southern Province, Zambia.
+37420214	An optimized GATK4 pipeline for Plasmodium falciparum whole genome sequencing variant calling and analysis.
+37420038	Nanoliposomes containing three essential oils from the Artemisia genus as effective larvicides against Aedes aegypti and Anopheles stephensi.
+37419642	Efficacy of antimalarial herbal medicines used by communities in malaria affected regions globally: a protocol for systematic review and evidence and gap map.
+37419638	Protocol for a cluster randomised placebo-controlled trial of adjunctive ivermectin mass drug administration for malaria control on the Bijagós Archipelago of Guinea-Bissau: the MATAMAL trial.
 37418497	Repurposing the Medicines for Malaria Venture's COVID Box to discover potent inhibitors of Toxoplasma gondii, and in vivo efficacy evaluation of almitrine bismesylate (MMV1804175) in chronically infected mice.
 37418335	Malaria among members of the U.S. Armed Forces, 2013-2022.
 37417368	Relative expression of key genes involved in nucleic acids methylation in Anopheles gambiae sensu stricto.
@@ -9992,8 +9997,3 @@
 34090420	Analysis of spleen histopathology, splenocyte composition and haematological parameters in four strains of mice infected with Plasmodium berghei K173.
 34090419	Assessment of the accuracy of malaria microscopy in private health facilities in Entebbe Municipality, Uganda: a cross-sectional study.
 34090402	Determinants of treatment-seeking behavior during self-reported febrile illness episodes using the socio-ecological model in Kilombero District, Tanzania.
-34090380	Geographical distribution of risk factors for invasive non-typhoidal Salmonella at the subnational boundary level in sub-Saharan Africa.
-34090067	Plasmodium falciparum resistance to ACTs: Emergence, mechanisms, and outlook.
-34089893	The main post-translational modifications and related regulatory pathways in the malaria parasite Plasmodium falciparum: An update.
-34089555	Anopheles dirus yellow-g mediates Plasmodium vivax infection.
-34087264	Diversity and natural selection of Merozoite surface Protein-1 in three species of human malaria parasites: Contribution from South-East Asian isolates.
