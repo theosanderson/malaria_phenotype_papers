@@ -745,7 +745,7 @@
 37160273	Test-Treat-Track-Test-Treat Strategy for Control of Schistosomiasis in Two Low-Prevalence Villages in Northwestern Tanzania.
 37160247	Long-acting parenteral drug delivery systems for the treatment of chronic diseases.
 37160237	Susceptibility of Southeast Asian Plasmodium falciparum isolates to P218.
-37160134	Plasmodium vivax infection changes the peripheral immunoregulatory network: CD4 T follicular cells and B cells.
+37160134	Plasmodium vivax infection alters the peripheral immunoregulatory network of CD4 T follicular cells and B cells.
 37159899	Prevalence of amoebiasis and associated risk factors among population in Duhok city, Kurdistan Region, Iraq.
 37159600	Biodiversity and Spatial Distribution of Mosquitoes (Diptera: Culicidae) in Kurdistan Province, Western Iran.
 37159582	Spatial modelling of malaria prevalence associated with geographical factors in Houet province of Burkina Faso, West Africa.
