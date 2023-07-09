@@ -1,3 +1,7 @@
+37422504	Geo-epidemiology of malaria incidence in the Vhembe District to guide targeted elimination strategies, South-Africa, 2015-2018: a local resurgence.
+37422502	Estimating vaccine coverage in conflict settings using geospatial methods: a case study in Borno state, Nigeria.
+37422086	Locally acquired malaria: An impending crisis for the United States blood supply?
+37421981	AaWRKY6 contributes to artemisinin accumulation during growth in Artemisia annua.
 37420265	Temporal and spatial analysis of Plasmodium falciparum genomics reveals patterns of parasite connectivity in a low-transmission district in Southern Province, Zambia.
 37420214	An optimized GATK4 pipeline for Plasmodium falciparum whole genome sequencing variant calling and analysis.
 37420038	Nanoliposomes containing three essential oils from the Artemisia genus as effective larvicides against Aedes aegypti and Anopheles stephensi.
@@ -9993,7 +9997,3 @@
 34091216	Synthesis, in vitro antiprotozoal activity, molecular docking and molecular dynamics studies of some new monocationic guanidinobenzimidazoles.
 34090497	Mosquito vector proteins homologous to α1-3 galactosyl transferases of tick vectors in the context of protective immunity against malaria and hypersensitivity to vector bites.
 34090438	Activity of Plasmodium vivax promoter elements in Plasmodium knowlesi, and a centromere-containing plasmid that expresses NanoLuc throughout the parasite life cycle.
-34090430	Getting to zero: micro-foci of malaria in the Solomon Islands requires stratified control.
-34090420	Analysis of spleen histopathology, splenocyte composition and haematological parameters in four strains of mice infected with Plasmodium berghei K173.
-34090419	Assessment of the accuracy of malaria microscopy in private health facilities in Entebbe Municipality, Uganda: a cross-sectional study.
-34090402	Determinants of treatment-seeking behavior during self-reported febrile illness episodes using the socio-ecological model in Kilombero District, Tanzania.
