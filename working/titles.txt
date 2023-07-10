@@ -1,3 +1,12 @@
+37427562	A proposed method of grading malaria chemoprevention efficacy.
+37426806	Antiprotozoal activity of natural products from Nigerien plants used in folk medicine.
+37426306	Status of the Multidrug Resistance-1 Gene of Plasmodium falciparum in Four Malaria Epidemiological Strata, Two Decades after the Abolition of Chloroquine as First-Line Treatment for Uncomplicated Malaria in Cameroon.
+37425729	MGSurvE: A framework to optimize trap placement for genetic surveillance of mosquito population.
+37425547	Plasmodium vivax Presenting With Septic Shock and Disseminated Intravascular Coagulation (DIC): A Case Report.
+37424773	A chromosomal reference genome sequence for the malaria mosquito, Anopheles gambiae, Giles, 1902, Ifakara strain.
+37424519	Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.
+37424150	Search for novel Plasmodium falciparum PfATP4 inhibitors from the MMV Pandemic Response Box through a virtual screening approach.
+37424116	Effects of exogenous indole-3-acetic acid on the density of trichomes, expression of artemisinin biosynthetic genes, and artemisinin biosynthesis in Artemisia annua.
 37423162	Atypical network topologies enhance the reductive capacity of pathogen thiol antioxidant defense networks.
 37422504	Geo-epidemiology of malaria incidence in the Vhembe District to guide targeted elimination strategies, South-Africa, 2015-2018: a local resurgence.
 37422502	Estimating vaccine coverage in conflict settings using geospatial methods: a case study in Borno state, Nigeria.
@@ -9988,12 +9997,3 @@
 34097595	Novel Dipeptides Bearing Sulfonamide as Antimalarial and Antitrypanosomal Agents: Synthesis and Molecular Docking.
 34097485	Synergistic Action between PfHsp90 Inhibitor and PfRad51 Inhibitor Induces Elevated DNA Damage Sensitivity in the Malaria Parasite.
 34096642	Information and cooperation in preventive health behavior: The case of bed net use in rural Kenya.
-34096621	Optical mesoscopy, machine learning, and computational microscopy enable high information content diagnostic imaging of blood films.
-34095565	The use of minimal topological differences to inspire the design of novel tetrahydroisoquinoline analogues with antimalarial activity.
-34095039	Predictors of Health Seeking Behaviours for Common Childhood Illnesses in Poor Resource Settings in Zambia, A Community Cross Sectional Study.
-34093532	A Profound Membrane Reorganization Defines Susceptibility of Plasmodium falciparum Infected Red Blood Cells to Lysis by Granulysin and Perforin.
-34093512	Corrigendum: Asymptomatic Malaria Infection Is Maintained by a Balanced Pro- and Anti-inflammatory Response.
-34092853	A Retrospective Analysis of Outcome in Malaria Patients Admitted into a Multidisciplinary Intensive Care Unit of a Tertiary Care Teaching Hospital.
-34092235	Older children are at increased risk of Plasmodium vivax in south-central Ethiopia: a cohort study.
-34091216	Synthesis, in vitro antiprotozoal activity, molecular docking and molecular dynamics studies of some new monocationic guanidinobenzimidazoles.
-34090497	Mosquito vector proteins homologous to α1-3 galactosyl transferases of tick vectors in the context of protective immunity against malaria and hypersensitivity to vector bites.
