@@ -1,3 +1,5 @@
+37428074	The Plasmodium Lactate/H(+) Transporter PfFNT Is Essential and Druggable In Vivo.
+37427863	Antimalarial Agents Derived from Metal-Amodiaquine Complexes with Activity in Multiple Stages of the Plasmodium Life Cycle†.
 37427562	A proposed method of grading malaria chemoprevention efficacy.
 37426806	Antiprotozoal activity of natural products from Nigerien plants used in folk medicine.
 37426306	Status of the Multidrug Resistance-1 Gene of Plasmodium falciparum in Four Malaria Epidemiological Strata, Two Decades after the Abolition of Chloroquine as First-Line Treatment for Uncomplicated Malaria in Cameroon.
@@ -9995,5 +9997,3 @@
 34098495	Siderophores: Importance in bacterial pathogenesis and applications in medicine and industry.
 34097645	Asymptomatic falciparum and Non-falciparum Malarial Parasitemia in Adult Volunteers with and without HIV-1 Coinfection in a Cohort Study in Western Kenya.
 34097595	Novel Dipeptides Bearing Sulfonamide as Antimalarial and Antitrypanosomal Agents: Synthesis and Molecular Docking.
-34097485	Synergistic Action between PfHsp90 Inhibitor and PfRad51 Inhibitor Induces Elevated DNA Damage Sensitivity in the Malaria Parasite.
-34096642	Information and cooperation in preventive health behavior: The case of bed net use in rural Kenya.
