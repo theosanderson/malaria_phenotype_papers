@@ -1,3 +1,4 @@
+37423162	Atypical network topologies enhance the reductive capacity of pathogen thiol antioxidant defense networks.
 37422504	Geo-epidemiology of malaria incidence in the Vhembe District to guide targeted elimination strategies, South-Africa, 2015-2018: a local resurgence.
 37422502	Estimating vaccine coverage in conflict settings using geospatial methods: a case study in Borno state, Nigeria.
 37422086	Locally acquired malaria: An impending crisis for the United States blood supply?
@@ -9996,4 +9997,3 @@
 34092235	Older children are at increased risk of Plasmodium vivax in south-central Ethiopia: a cohort study.
 34091216	Synthesis, in vitro antiprotozoal activity, molecular docking and molecular dynamics studies of some new monocationic guanidinobenzimidazoles.
 34090497	Mosquito vector proteins homologous to α1-3 galactosyl transferases of tick vectors in the context of protective immunity against malaria and hypersensitivity to vector bites.
-34090438	Activity of Plasmodium vivax promoter elements in Plasmodium knowlesi, and a centromere-containing plasmid that expresses NanoLuc throughout the parasite life cycle.
