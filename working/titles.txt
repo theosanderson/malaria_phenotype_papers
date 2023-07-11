@@ -1,3 +1,7 @@
+37430371	Liver in infections: a single-cell and spatial transcriptomics perspective.
+37430336	Sero-prevalence of visceral leishmaniasis and its associated factors among asymptomatic individuals visiting Denan health center, southeastern Ethiopia.
+37430300	Exploring barriers to and facilitators of malaria prevention practices: a photovoice study with rural communities at risk to Plasmodium knowlesi malaria in Sabah, Malaysia.
+37429304	Universal health coverage is a matter of equity, rights, and justice.
 37428915	Dual effector population modification gene-drive strains of the African malaria mosquitoes, Anopheles gambiae and Anopheles coluzzii.
 37428845	3D structures of the Plasmodium vivax subtilisin-like drug target SUB1 reveal conformational changes to accommodate a substrate-derived α-ketoamide inhibitor.
 37428720	Diagnostic performance of PfHRP2/pLDH malaria rapid diagnostic tests in elimination setting, northwest Ethiopia.
@@ -9993,7 +9997,3 @@
 34099482	Optimising geographical accessibility to primary health care: a geospatial analysis of community health posts and community health workers in Niger.
 34099078	The role of upstream open reading frames in translation regulation in the apicomplexan parasites Plasmodium falciparum and Toxoplasma gondii.
 34099070	Plasmodium ouropretensis, n. sp., a new case of non-erythrocytic species within lizard malaria parasites.
-34099001	Inverse association of falciparum positivity with endemic Burkitt lymphoma is robust in analyses adjusting for pre-enrollment malaria in the EMBLEM case-control study.
-34098989	Correction to: Baseline incidence of meningitis, malaria, mortality and other health outcomes in infants and young sub-Saharan African children prior to the introduction of the RTS,S/AS01(E) malaria vaccine.
-34098984	Reactive, self-administered malaria treatment against asymptomatic malaria infection: results of a cluster randomized controlled trial in The Gambia.
-34098817	A travel-related infection case associated with triple vector-associated infections: Malaria-Dengue-Zika virus.
