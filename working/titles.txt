@@ -1,3 +1,5 @@
+37431601	Role of artesunate in autoimmune diseases and signaling pathways.
+37431492	Antimalarial Drug Resistance: A Brief History of Its Spread in Indonesia.
 37430371	Liver in infections: a single-cell and spatial transcriptomics perspective.
 37430336	Sero-prevalence of visceral leishmaniasis and its associated factors among asymptomatic individuals visiting Denan health center, southeastern Ethiopia.
 37430300	Exploring barriers to and facilitators of malaria prevention practices: a photovoice study with rural communities at risk to Plasmodium knowlesi malaria in Sabah, Malaysia.
@@ -9995,5 +9997,3 @@
 34100305	Insect vectors' saliva and gut microbiota as a blessing in disguise: probability versus possibility.
 34099773	The epidemiological landscape of anemia in women of reproductive age in sub-Saharan Africa.
 34099482	Optimising geographical accessibility to primary health care: a geospatial analysis of community health posts and community health workers in Niger.
-34099078	The role of upstream open reading frames in translation regulation in the apicomplexan parasites Plasmodium falciparum and Toxoplasma gondii.
-34099070	Plasmodium ouropretensis, n. sp., a new case of non-erythrocytic species within lizard malaria parasites.
