@@ -1,3 +1,6 @@
+37428915	Dual effector population modification gene-drive strains of the African malaria mosquitoes, Anopheles gambiae and Anopheles coluzzii.
+37428845	3D structures of the Plasmodium vivax subtilisin-like drug target SUB1 reveal conformational changes to accommodate a substrate-derived α-ketoamide inhibitor.
+37428720	Diagnostic performance of PfHRP2/pLDH malaria rapid diagnostic tests in elimination setting, northwest Ethiopia.
 37428074	The Plasmodium Lactate/H(+) Transporter PfFNT Is Essential and Druggable In Vivo.
 37427863	Antimalarial Agents Derived from Metal-Amodiaquine Complexes with Activity in Multiple Stages of the Plasmodium Life Cycle†.
 37427562	A proposed method of grading malaria chemoprevention efficacy.
@@ -48,6 +51,7 @@
 37414059	Bioassay-Guided Isolation and Identification of Antiplasmodial Compounds from the Stem Bark of Clausena excavata.
 37413986	Quantifying differences in iron deficiency-attributable anemia during pregnancy and postpartum.
 37413887	Asymptomatic but infectious - The silent driver of pathogen transmission. A pragmatic review.
+37428853	Primaquine Therapy and G6PD and CYP2D6 Genotype.
 37410764	Patterns and trends of in-hospital mortality due to non-communicable diseases and injuries in Tanzania, 2006-2015.
 37409812	Point-of-care Ultrasound to Assess Hemodynamic Contributors to Acute Kidney Injury in Pediatric Patients With Cerebral Malaria: A Pilot Study.
 37409745	Contributions of Declining Mortality, Overall and from HIV, TB, and Malaria, to Reduced Health Inequality and Inequity Across Countries.
@@ -9993,7 +9997,3 @@
 34098989	Correction to: Baseline incidence of meningitis, malaria, mortality and other health outcomes in infants and young sub-Saharan African children prior to the introduction of the RTS,S/AS01(E) malaria vaccine.
 34098984	Reactive, self-administered malaria treatment against asymptomatic malaria infection: results of a cluster randomized controlled trial in The Gambia.
 34098817	A travel-related infection case associated with triple vector-associated infections: Malaria-Dengue-Zika virus.
-34098626	Modeling the relationship between malaria prevalence and insecticide-treated bed net coverage in Nigeria using a Bayesian spatial generalized linear mixed model with a Leroux prior.
-34098495	Siderophores: Importance in bacterial pathogenesis and applications in medicine and industry.
-34097645	Asymptomatic falciparum and Non-falciparum Malarial Parasitemia in Adult Volunteers with and without HIV-1 Coinfection in a Cohort Study in Western Kenya.
-34097595	Novel Dipeptides Bearing Sulfonamide as Antimalarial and Antitrypanosomal Agents: Synthesis and Molecular Docking.
