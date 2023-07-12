@@ -1,3 +1,7 @@
+37434112	Public health priorities for Sino-Africa cooperation in Eastern Africa in context of flooding and malaria burden in Children: a tridecadal retrospective analysis.
+37434033	Setting Dengue Fever Epidemic Thresholds Between 2016 and 2021 in the Central Health Region, Burkina Faso: An Ecological Study.
+37433881	A randomized, double-blind placebo-control study assessing the protective efficacy of an odour-based 'push-pull' malaria vector control strategy in reducing human-vector contact.
+37433331	Evolution and assembly of Anopheles aquasalis's immune genes: primary malaria vector of coastal Central and South America and the Caribbean Islands.
 37433031	Effect of Malaria Infection on Epstein-Barr Virus Persistence in Kenyan Children.
 37431601	Role of artesunate in autoimmune diseases and signaling pathways.
 37431492	Antimalarial Drug Resistance: A Brief History of Its Spread in Indonesia.
@@ -9993,7 +9997,3 @@
 34102588	Integration of population and functional genomics to understand mechanisms of artemisinin resistance in Plasmodium falciparum.
 34102257	Anti-parasitic drugs modulate the non-selective channels formed by connexins or pannexins.
 34102127	Vector control: Discovery of Wolbachia in malaria vectors.
-34101429	Cytochrome P450-Mediated Metabolism and CYP Inhibition for the Synthetic Peroxide Antimalarial OZ439.
-34100426	New perspectives for mesenchymal stromal cells as an adjuvant therapy for infectious disease-associated encephalopathies.
-34100305	Insect vectors' saliva and gut microbiota as a blessing in disguise: probability versus possibility.
-34099773	The epidemiological landscape of anemia in women of reproductive age in sub-Saharan Africa.
