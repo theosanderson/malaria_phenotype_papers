@@ -1,3 +1,4 @@
+37435530	Antimalarial and Antioxidant Activities of Ethanolic Stem Bark Extract of Terminalia macroptera in Swiss Albino Mice Infected with Plasmodium berghei.
 37434112	Public health priorities for Sino-Africa cooperation in Eastern Africa in context of flooding and malaria burden in Children: a tridecadal retrospective analysis.
 37434033	Setting Dengue Fever Epidemic Thresholds Between 2016 and 2021 in the Central Health Region, Burkina Faso: An Ecological Study.
 37433881	A randomized, double-blind placebo-control study assessing the protective efficacy of an odour-based 'push-pull' malaria vector control strategy in reducing human-vector contact.
@@ -9996,4 +9997,3 @@
 34102929	Suspected Plasmodium falciparum resistance to artesunate in Cameroon: A case report.
 34102588	Integration of population and functional genomics to understand mechanisms of artemisinin resistance in Plasmodium falciparum.
 34102257	Anti-parasitic drugs modulate the non-selective channels formed by connexins or pannexins.
-34102127	Vector control: Discovery of Wolbachia in malaria vectors.
