@@ -1,3 +1,8 @@
+37436531	Can insecticide resistance increase malaria transmission? A genetics-epidemiology mathematical modeling approach.
+37436274	Molecular diversity of genes related to biological rhythms (period and timeless) and insecticide resistance (Na V and ace-1) in Anopheles darlingi.
+37436219	Incidence of malaria among indigenous people associated with the presence of artisanal mining.
+37436090	Transition Metal Complexes as Antimalarial Agents: A Review.
+37435892	Malaria Biomimetic for Tumor Targeted Drug Delivery.
 37435530	Antimalarial and Antioxidant Activities of Ethanolic Stem Bark Extract of Terminalia macroptera in Swiss Albino Mice Infected with Plasmodium berghei.
 37434112	Public health priorities for Sino-Africa cooperation in Eastern Africa in context of flooding and malaria burden in Children: a tridecadal retrospective analysis.
 37434033	Setting Dengue Fever Epidemic Thresholds Between 2016 and 2021 in the Central Health Region, Burkina Faso: An Ecological Study.
@@ -9992,8 +9997,3 @@
 34103094	Fine-scale estimation of key life-history parameters of malaria vectors: implications for next-generation vector control technologies.
 34103068	Impact of malaria diagnostic refresher training programme on competencies and skills in malaria diagnosis among medical laboratory professionals: evidence from Ghana 2015-2019.
 34103047	Acceptability of single screening and treatment policy for the control of malaria in pregnancy: perceptions of providers and pregnant women from selected health facilities in Lindi region, Tanzania.
-34103036	Plasmodium in the bone marrow: case series from a hospital in Pakistan, 2007-2015.
-34103015	Unravelling population structure heterogeneity within the genome of the malaria vector Anopheles gambiae.
-34102929	Suspected Plasmodium falciparum resistance to artesunate in Cameroon: A case report.
-34102588	Integration of population and functional genomics to understand mechanisms of artemisinin resistance in Plasmodium falciparum.
-34102257	Anti-parasitic drugs modulate the non-selective channels formed by connexins or pannexins.
