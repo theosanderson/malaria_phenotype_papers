@@ -1,3 +1,4 @@
+37439063	Implementation and resource needs for long-acting PrEP in low- and middle-income countries: a scoping review.
 37438859	The burden of malaria in sub-Saharan Africa and its association with development assistance for health and governance: An exploration of the GBD 2019 study.
 37438774	Assessing the acceptability and feasibility of reactive drug administration for malaria elimination in a Plasmodium vivax predominant setting: a qualitative study in two provinces in Thailand.
 37438491	A versatile Plasmodium falciparum reporter line expressing NanoLuc enables highly sensitive multi-stage drug assays.
@@ -765,6 +766,7 @@
 37167335	Semi-field evaluation of a volatile transfluthrin-based intervention reveals efficacy as a spatial repellent and evidence of other modes of action.
 37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
 37167211	Investigating insecticide susceptibility status of adult mosquitoes against some class of insecticides in Osogbo metropolis, Osun State, Nigeria.
+37167085	Plasma after both SARS-CoV-2 boosted vaccination and COVID-19 potently neutralizes BQ.1.1 and XBB.1.
 37166116	The Plasmodium falciparum apicoplast cysteine desulfurase provides sulfur for both iron-sulfur cluster assembly and tRNA modification.
 37165325	Influence of the sickle cell trait on Plasmodium falciparum infectivity from naturally infected gametocyte carriers.
 37164513	Differential impact of dual-active ingredient long-lasting insecticidal nets on primary malaria vectors: a secondary analysis of a 3-year, single-blind, cluster-randomised controlled trial in rural Tanzania.
@@ -9995,5 +9997,3 @@
 34104962	Forced Egg Laying Method to Establish F1 Progeny from Field Populations and Laboratory Strains of Anopheles Mosquitoes (Diptera: Culicidae) in Thailand.
 34104949	Evaluation of the Residual Efficacy of Actellic300 CS in Simple Huts in Central Ethiopia.
 34104307	Pathogens associated with acute diarrhea, and comorbidity with malaria among children under five years old in rural Burkina Faso.
-34104302	Challenges for malaria surveillance during the COVID-19 emergency response in Nampula, Mozambique, January - May 2020.
-34103669	Multiparametric biophysical profiling of red blood cells in malaria infection.
