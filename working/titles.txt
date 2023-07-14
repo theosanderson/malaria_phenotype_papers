@@ -1,3 +1,19 @@
+37450301	Evaluation and Forecasting Analysis of the Association of Conditional Cash Transfer With Child Mortality in Latin America, 2000-2030.
+37449844	Systemic host inflammation induces stage-specific transcriptomic modification and slower maturation in malaria parasites.
+37449257	Effectiveness of seasonal malaria chemoprevention in reducing under-five malaria morbidity and mortality in the Savannah Region, Ghana.
+37448654	Increasing incidence of Plasmodium ovale and persistent reporting of Plasmodium vivax in imported malaria cases: an analysis of 9-year surveillance data in four areas of China.
+37448326	Reduced incidence of respiratory, gastrointestinal and malaria infections among children during the COVID-19 pandemic in Western Kenya: An analysis of facility-based and weekly diaries data.
+37447182	Effects of Daily Zinc Alone or in Combination with Other Nutrient Supplements on the Risk of Malaria Parasitaemia: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
+37446870	Synthesis and Characterization of Dimeric Artesunate Glycerol Monocaprylate Conjugate and Formulation of Nanoemulsion Preconcentrate.
+37446846	Design, Synthesis and Evaluation of Praziquantel Analogues and New Molecular Hybrids as Potential Antimalarial and Anti-Schistosomal Agents.
+37446602	Structural Optimization of BIPPO Analogs as Potent Antimalarials.
+37446261	Expression, Purification, and Characterization of Plasmodium vivax Lactate Dehydrogenase from Bacteria without Codon Optimization.
+37444730	Anomaly Detection in Endemic Disease Surveillance Data Using Machine Learning Techniques.
+37444156	Knowledge about Asymptomatic Malaria and Acceptability of Using Artemisia afra Tea among Health Care Workers (HCWs) in Yaoundé, Cameroon: A Cross-Sectional Survey.
+37444150	Generalized Linear Models to Forecast Malaria Incidence in Three Endemic Regions of Senegal.
+37443329	Efficacy of partial spraying of SumiShield, Fludora Fusion and Actellic against wild populations of Anopheles gambiae s.l. in experimental huts in Tiassalé, Côte d'Ivoire.
+37443274	A longitudinal transcriptomic analysis from unfed to post-engorgement midguts of adult female Ixodes scapularis.
+37443070	Analysis of the relapse of imported Plasmodium vivax and Plasmodium ovale in five provinces of China.
 37441813	Artesunate alleviates intestinal ischemia/reperfusion induced acute lung injury via up-regulating AKT and HO-1 signal pathway in mice.
 37441673	The Progress Towards National Malaria Elimination: The Experience of Oman.
 37441658	Hypoglycaemia in non-diabetic pregnancy.
@@ -257,6 +273,7 @@
 37359709	Garcinia kola: a critical review on chemistry and pharmacology of an important West African medicinal plant.
 37359425	Engineering Innovative Interfaces for Point-of-Care Diagnostics.
 37358202	Splenic Small Cell Lymphoma with Presumed Secondary Immune-Mediated Hemolytic Anemia in an African Penguin (Spheniscus demersus).
+37357390	Basic Nitrogen (BaN) Is a Key Property of Antimalarial Chemical Space.
 37356628	Asymptomatic Plasmodium falciparum infection evades triggering a host transcriptomic response.
 37356261	Polymorphisms in Toll-Like receptors genes and their associations with immunological parameters in Plasmodium vivax malaria in the Brazil-French Guiana Border.
 37356002	Plasmodium knowlesi circumsporozoite protein: genetic characterisation and predicted antigenicity of the central repeat region.
@@ -9980,20 +9997,3 @@
 34110741	Characteristics and Population Size Estimation of Female Sex Workers in Bhutan.
 34110570	Point-of-care ultrasound to assess volume status and pulmonary oedema in malaria patients.
 34109597	Infectious agents including COVID-19 and the involvement of blood coagulation and fibrinolysis. A narrative review.
-34109175	The Road Less Traveled? Unconventional Protein Secretion at Parasite-Host Interfaces.
-34108954	cAMP-Dependent Signaling Pathways as Potential Targets for Inhibition of Plasmodium falciparum Blood Stages.
-34108534	Publisher Correction: Anopheles ecology, genetics and malaria transmission in northern Cambodia.
-34108248	Plasmodium falciparum Pf77 and male development gene 1 as vaccine antigens that induce potent transmission-reducing antibodies.
-34108246	Designing antimalarials that break into cells to lock down parasites.
-34108171	Health extension workers' perceived health system context and health post preparedness to provide services: a cross-sectional study in four Ethiopian regions.
-34108049	G6PD deficiency among malaria-infected national groups at the western part of Myanmar with implications for primaquine use in malaria elimination.
-34107963	A randomized controlled trial of dihydroartemisinin-piperaquine, artesunate-mefloquine and extended artemether-lumefantrine treatments for malaria in pregnancy on the Thailand-Myanmar border.
-34107960	Care-seeking behaviour and socio-economic burden associated with uncomplicated malaria in the Democratic Republic of Congo.
-34107955	Progress and challenges of integrated drug efficacy surveillance for uncomplicated malaria in Thailand.
-34107954	Correction to: Addressing key gaps in implementation of mosquito larviciding to accelerate malaria vector control in southern Tanzania: results of a stakeholder engagement process in local district councils.
-34107949	Insecticide resistance exerts significant fitness costs in immature stages of Anopheles gambiae in western Kenya.
-34107948	Correction to: Hybrid mosquitoes? Evidence from rural Tanzania on how local communities conceptualize and respond to modified mosquitoes as a tool for malaria control.
-34107946	Development of a chimeric odour blend for attracting gravid malaria vectors.
-34107943	An update on the distribution, bionomics, and insecticide susceptibility of Anopheles stephensi in Ethiopia, 2018-2020.
-34107048	Infectivity of patent Plasmodium falciparum gametocyte carriers to mosquitoes: establishing capacity to investigate the infectious reservoir of malaria in a low-transmission setting in The Gambia.
-34106995	Prevalence and seroprevalence of Plasmodium infection in Myanmar reveals highly heterogeneous transmission and a large hidden reservoir of infection.
