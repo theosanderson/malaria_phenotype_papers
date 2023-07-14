@@ -1,3 +1,10 @@
+37441813	Artesunate alleviates intestinal ischemia/reperfusion induced acute lung injury via up-regulating AKT and HO-1 signal pathway in mice.
+37441673	The Progress Towards National Malaria Elimination: The Experience of Oman.
+37441658	Hypoglycaemia in non-diabetic pregnancy.
+37441122	Determination of knowledge, attitude, and practice of Chinese and local people toward malaria prevention in Kano State, Nigeria.
+37440995	Current and future opportunities of autodissemination of pyriproxyfen approach for malaria vector control in urban and rural Africa.
+37440491	A systematic review on maternal-to-infant transfer of drugs through breast milk during the treatment of malaria, tuberculosis, and neglected tropical diseases.
+37440412	Macrophages drive KSHV B cell latency.
 37439063	Implementation and resource needs for long-acting PrEP in low- and middle-income countries: a scoping review.
 37438859	The burden of malaria in sub-Saharan Africa and its association with development assistance for health and governance: An exploration of the GBD 2019 study.
 37438774	Assessing the acceptability and feasibility of reactive drug administration for malaria elimination in a Plasmodium vivax predominant setting: a qualitative study in two provinces in Thailand.
@@ -9990,10 +9997,3 @@
 34107943	An update on the distribution, bionomics, and insecticide susceptibility of Anopheles stephensi in Ethiopia, 2018-2020.
 34107048	Infectivity of patent Plasmodium falciparum gametocyte carriers to mosquitoes: establishing capacity to investigate the infectious reservoir of malaria in a low-transmission setting in The Gambia.
 34106995	Prevalence and seroprevalence of Plasmodium infection in Myanmar reveals highly heterogeneous transmission and a large hidden reservoir of infection.
-34106884	Co-infection of COVID-19 and recurrent malaria.
-34106252	Molecular Monitoring of Knockdown Resistance in Head Louse (Phthiraptera: Pediculidae) Populations in Iran.
-34105200	The short-term impact of a malaria elimination initiative in Southern Mozambique: Application of the synthetic control method to routine surveillance data.
-34104968	Treatment of relapsing Plasmodium vivax malaria during pregnancy.
-34104962	Forced Egg Laying Method to Establish F1 Progeny from Field Populations and Laboratory Strains of Anopheles Mosquitoes (Diptera: Culicidae) in Thailand.
-34104949	Evaluation of the Residual Efficacy of Actellic300 CS in Simple Huts in Central Ethiopia.
-34104307	Pathogens associated with acute diarrhea, and comorbidity with malaria among children under five years old in rural Burkina Faso.
