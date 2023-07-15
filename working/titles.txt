@@ -1,3 +1,8 @@
+37452392	Anopheles mosquito diversity, entomological indicators of malaria transmission and challenges of morphological identification in southwestern Ethiopia.
+37452123	Molecular detection of human Plasmodium species using a multiplex real time PCR.
+37452073	Drug resistance profiling of asymptomatic and low-density Plasmodium falciparum malaria infections on Ngodhe island, Kenya, using custom dual-indexing next-generation sequencing.
+37452051	Distinct evolution of type I glutamine synthetase in Plasmodium and its species-specific requirement.
+37451760	Avian Malaria in wild birds from a wildlife rehabilitation center in Central Portugal.
 37450497	Malaria infection and its association with socio-demographics, long lasting insecticide nets usage and hematological parameters among adolescent patients in rural Southwestern Nigeria.
 37450491	Differing taxonomic responses of mosquito vectors to anthropogenic land-use change in Latin America and the Caribbean.
 37450301	Evaluation and Forecasting Analysis of the Association of Conditional Cash Transfer With Child Mortality in Latin America, 2000-2030.
@@ -9992,8 +9997,3 @@
 34111412	Arterolane-piperaquine-mefloquine versus arterolane-piperaquine and artemether-lumefantrine in the treatment of uncomplicated Plasmodium falciparum malaria in Kenyan children: a single-centre, open-label, randomised, non-inferiority trial.
 34111411	Arterolane-based combinations for the treatment of uncomplicated falciparum malaria in Kenyan children.
 34111350	Total Synthesis and Antimalarial Activity of 2-(p-Hydroxybenzyl)-prodigiosins, Isoheptylprodigiosin, and Geometric Isomers of Tambjamine MYP1 Isolated from Marine Bacteria.
-34111345	Malaria in populations with mining occupation, Colombia, 2012-2018.
-34111343	Characterization of an outbreak of malaria in a non-endemic zone on the coastal region of Ecuador.
-34111228	Frequency matters: How successive feeding episodes by blood-feeding insect vectors influences disease transmission.
-34111135	Factors associated with enrollment for community-based health insurance scheme in Western Ethiopia: Case-control study.
-34110741	Characteristics and Population Size Estimation of Female Sex Workers in Bhutan.
