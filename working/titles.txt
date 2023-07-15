@@ -1,6 +1,7 @@
+37450497	Malaria infection and its association with socio-demographics, long lasting insecticide nets usage and hematological parameters among adolescent patients in rural Southwestern Nigeria.
+37450491	Differing taxonomic responses of mosquito vectors to anthropogenic land-use change in Latin America and the Caribbean.
 37450301	Evaluation and Forecasting Analysis of the Association of Conditional Cash Transfer With Child Mortality in Latin America, 2000-2030.
 37449844	Systemic host inflammation induces stage-specific transcriptomic modification and slower maturation in malaria parasites.
-37449257	Effectiveness of seasonal malaria chemoprevention in reducing under-five malaria morbidity and mortality in the Savannah Region, Ghana.
 37448654	Increasing incidence of Plasmodium ovale and persistent reporting of Plasmodium vivax in imported malaria cases: an analysis of 9-year surveillance data in four areas of China.
 37448326	Reduced incidence of respiratory, gastrointestinal and malaria infections among children during the COVID-19 pandemic in Western Kenya: An analysis of facility-based and weekly diaries data.
 37447182	Effects of Daily Zinc Alone or in Combination with Other Nutrient Supplements on the Risk of Malaria Parasitaemia: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
@@ -5325,6 +5326,7 @@
 35642404	Comparative in vitro activity of selected antibacterial agents against Escherichia coli isolated from hospitalized patients suffering UTI.
 35641976	Malaria time series in the extra-Amazon region of Brazil: epidemiological scenario and a two-year prediction model.
 35641958	Anopheles stephensi in Africa requires a more integrated response.
+37449257	Effectiveness of seasonal malaria chemoprevention in reducing under-five malaria morbidity and mortality in the Savannah Region, Ghana.
 35641827	The role of research in China's successful elimination of malaria.
 35641592	HIV infection increases the risk of acquiring Plasmodium vivax malaria: a 4-year cohort study in the Brazilian Amazon HIV and risk of vivax malaria.
 35641573	Potential future malaria transmission in Odisha due to climate change.
@@ -9995,5 +9997,3 @@
 34111228	Frequency matters: How successive feeding episodes by blood-feeding insect vectors influences disease transmission.
 34111135	Factors associated with enrollment for community-based health insurance scheme in Western Ethiopia: Case-control study.
 34110741	Characteristics and Population Size Estimation of Female Sex Workers in Bhutan.
-34110570	Point-of-care ultrasound to assess volume status and pulmonary oedema in malaria patients.
-34109597	Infectious agents including COVID-19 and the involvement of blood coagulation and fibrinolysis. A narrative review.
