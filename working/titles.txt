@@ -1,3 +1,6 @@
+37454212	Validation of a method for the dry preservation and rehydration of Anopheles gambiae sensu lato for parity analysis to assess the impact of vector control measures in the field.
+37454145	The malaria blood stage antigen PfCyRPA formulated with the TLR-4 agonist adjuvant GLA-SE elicits parasite growth inhibitory antibodies in experimental animals.
+37454114	pH-dependence of the Plasmodium falciparum chloroquine resistance transporter is linked to the transport cycle.
 37452392	Anopheles mosquito diversity, entomological indicators of malaria transmission and challenges of morphological identification in southwestern Ethiopia.
 37452123	Molecular detection of human Plasmodium species using a multiplex real time PCR.
 37452073	Drug resistance profiling of asymptomatic and low-density Plasmodium falciparum malaria infections on Ngodhe island, Kenya, using custom dual-indexing next-generation sequencing.
@@ -9994,6 +9997,3 @@
 34112997	Adaptive adversarial neural networks for the analysis of lossy and domain-shifted datasets of medical images.
 34112249	Prevalence, knowledge and perception of self-medication practice among undergraduate healthcare students.
 34112193	The relative importance and stability of disease burden causes over time: summarizing regional trends on disease burden for 290 causes over 28 years.
-34111412	Arterolane-piperaquine-mefloquine versus arterolane-piperaquine and artemether-lumefantrine in the treatment of uncomplicated Plasmodium falciparum malaria in Kenyan children: a single-centre, open-label, randomised, non-inferiority trial.
-34111411	Arterolane-based combinations for the treatment of uncomplicated falciparum malaria in Kenyan children.
-34111350	Total Synthesis and Antimalarial Activity of 2-(p-Hydroxybenzyl)-prodigiosins, Isoheptylprodigiosin, and Geometric Isomers of Tambjamine MYP1 Isolated from Marine Bacteria.
