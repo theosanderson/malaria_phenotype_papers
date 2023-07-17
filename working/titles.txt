@@ -1,3 +1,14 @@
+37458074	Conjugated carbon monoxide-releasing molecules have broad-spectrum antimicrobial activity.
+37458002	Glutaraldehyde modified red blood cells delivering artesunate to the liver as a dual therapeutic and prophylactic antimalaria strategy.
+37457963	Roles of the RON3 C-terminal fragment in erythrocyte invasion and blood-stage parasite proliferation in Plasmodium falciparum.
+37457953	The delayed bloodstream clearance of Plasmodium falciparum parasites after M5717 treatment is attributable to the inability to modify their red blood cell hosts.
+37457831	The Plasmodium falciparum exported J domain proteins fine-tune human and malarial Hsp70s: pathological exploitation of proteostasis machinery.
+37457573	An intelligent detection method for plasmodium based on self-supervised learning and attention mechanism.
+37456919	Characterizing antibody responses to mosquito salivary antigens of the Southeast Asian vectors of malaria and dengue with a human challenge model of controlled exposure: a protocol.
+37456906	Targeted amplicon deep sequencing of ama1 and mdr1 to track within-host P. falciparum diversity throughout treatment in a clinical drug trial.
+37456750	Editorial: Antimalarial chemotherapy in the XXIst century, volume II.
+37456558	Characterising the intensity of insecticide resistance: A novel framework for analysis of intensity bioassay data.
+37456151	Factors Associated with Acute Kidney Injury among Children with Severe Malaria at Kiryandongo General Hospital, Uganda.
 37455103	[Epidemiological characteristics of imported malaria cases after malaria elimination in Yixing City of Jiangsu Province].
 37455092	[Risk predictive models of healthcare-seeking delay among imported malaria patients in Jiangsu Province based on the machine learning].
 37454671	Simian malaria: a narrative review on emergence, epidemiology and threat to global malaria elimination.
@@ -420,7 +431,7 @@
 37307435	Histidine-rich protein II nanoparticle delivery of heme iron load drives endothelial inflammation in cerebral malaria.
 37307293	Symptomatic malaria enhances protection from reinfection with homologous Plasmodium falciparum parasites.
 37307282	Spatial dynamics of malaria transmission.
-37306942	Chemical characterization of different extracts from Artemisia annua and their antioxidant, enzyme inhibitory and anti-inflammatory properties.
+37306942	Chemical Characterization of Different Extracts from Artemisia annua and Their Antioxidant, Enzyme Inhibitory and Anti-Inflammatory Properties.
 37306461	Whole-Mount Fluorescence In Situ Hybridization to Study Spermatogenesis in the Anopheles Mosquito.
 37306242	Association between interleukin-27 gene polymorphisms and Plasmodium falciparum Malaria.
 37306042	Conformational change of Plasmodium TRAP is essential for sporozoite migration and transmission.
@@ -9986,14 +9997,3 @@
 34117240	Maps and metrics of insecticide-treated net access, use, and nets-per-capita in Africa from 2000-2020.
 34117222	Author Correction: Global consumption and international trade in deforestation-associated commodities could influence malaria risk.
 34116933	Taking therapeutic apheresis services to patients in South Africa: An eight year review of SANBS mobile therapeutic apheresis service, 2013-2020.
-34116665	2D-quantitative structure-activity relationships model using PLS method for anti-malarial activities of anti-haemozoin compounds.
-34116478	Transdermal delivery of artemisinins for treatment of pre-clinical cerebral malaria.
-34116241	Travel-related infection in Guangzhou, China,2009-2019.
-34116159	Anti-protozoal and anti-fungal evaluation of 3,5-disubstituted 1,2-dioxolanes.
-34115805	Sickle-trait hemoglobin reduces adhesion to both CD36 and EPCR by Plasmodium falciparum-infected erythrocytes.
-34115783	Systematic review of Plasmodium falciparum and Plasmodium vivax polyclonal infections: Impact of prevalence, study population characteristics, and laboratory procedures.
-34115760	Urogenital schistosomiasis infection prevalence targets to determine elimination as a public health problem based on microhematuria prevalence in school-age children.
-34115498	Dynamical Basis of Allosteric Activation for the Plasmodium falciparum Protein Kinase G.
-34115357	Protein Arrays for the Identification of Seroreactive Protein Markers for Infectious Diseases.
-34114017	Effect of Different Wall Surface Coverage With Deltamethrin-Treated Netting on the Reduction of Indoor-Biting Anopheles Mosquitoes (Diptera: Culicidae).
-34113020	Malaria thriving on steroids.
