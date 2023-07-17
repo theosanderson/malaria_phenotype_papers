@@ -1,3 +1,7 @@
+37455103	[Epidemiological characteristics of imported malaria cases after malaria elimination in Yixing City of Jiangsu Province].
+37455092	[Risk predictive models of healthcare-seeking delay among imported malaria patients in Jiangsu Province based on the machine learning].
+37454671	Simian malaria: a narrative review on emergence, epidemiology and threat to global malaria elimination.
+37454658	12 countries to get first doses of malaria vaccine.
 37454212	Validation of a method for the dry preservation and rehydration of Anopheles gambiae sensu lato for parity analysis to assess the impact of vector control measures in the field.
 37454145	The malaria blood stage antigen PfCyRPA formulated with the TLR-4 agonist adjuvant GLA-SE elicits parasite growth inhibitory antibodies in experimental animals.
 37454114	pH-dependence of the Plasmodium falciparum chloroquine resistance transporter is linked to the transport cycle.
@@ -9993,7 +9997,3 @@
 34115357	Protein Arrays for the Identification of Seroreactive Protein Markers for Infectious Diseases.
 34114017	Effect of Different Wall Surface Coverage With Deltamethrin-Treated Netting on the Reduction of Indoor-Biting Anopheles Mosquitoes (Diptera: Culicidae).
 34113020	Malaria thriving on steroids.
-34113019	Metabolome modulation of the host adaptive immunity in human malaria.
-34112997	Adaptive adversarial neural networks for the analysis of lossy and domain-shifted datasets of medical images.
-34112249	Prevalence, knowledge and perception of self-medication practice among undergraduate healthcare students.
-34112193	The relative importance and stability of disease burden causes over time: summarizing regional trends on disease burden for 290 causes over 28 years.
