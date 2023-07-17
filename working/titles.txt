@@ -1,3 +1,7 @@
+37459017	Do climatic and socioeconomic factors explain population vulnerability to malaria? Evidence from a national survey, India.
+37458601	Engineered Gut Symbiotic Bacterium-Mediated RNAi for Effective Control of Anopheles Mosquito Larvae.
+37458412	Inhibition of Cysteine Proteases via Thiol-Michael Addition Explains the Anti-SARS-CoV-2 and Bioactive Properties of Arteannuin B.
+37458405	First report of Culicoides caucoliberensis in Spain: Exploring molecular phylogeny, host-feeding behaviour and avian haemosporidian parasites.
 37458074	Conjugated carbon monoxide-releasing molecules have broad-spectrum antimicrobial activity.
 37458002	Glutaraldehyde modified red blood cells delivering artesunate to the liver as a dual therapeutic and prophylactic antimalaria strategy.
 37457963	Roles of the RON3 C-terminal fragment in erythrocyte invasion and blood-stage parasite proliferation in Plasmodium falciparum.
@@ -1025,7 +1029,7 @@
 37098566	Associations between the use of insecticide-treated nets in early childhood and educational outcomes, marriage and child-bearing in early adulthood: evidence from a 22-year prospective cohort study in Tanzania.
 37098534	Differential transmissibility to Anopheles arabiensis of Plasmodium vivax gametocytes in patients with diverse Duffy blood group genotypes.
 37098510	Treatment of uncomplicated Plasmodium vivax with chloroquine plus radical cure with primaquine without G6PDd testing is safe in Arba Minch, Ethiopia: assessment of clinical and parasitological response.
-37098222	JA-regulated AaGSW1-AaYABBY5/AaWRKY9 complex regulates artemisinin biosynthesis in Artemisia annua.
+37098222	JA-Regulated AaGSW1-AaYABBY5/AaWRKY9 Complex Regulates Artemisinin Biosynthesis in Artemisia annua.
 37098163	Symptoms of illness during travel and risk factors for non-adherence to malaria prophylaxis-a cross-sectional study in travellers from Germany.
 37098050	All hands on deck: Malaria control urgently needs workable public-private-philanthropic partnerships (PPPP).
 37098016	Increased malaria incidence following irrigation practices in the Endorheic Rift Valley Basin of Sidama Region, Ethiopia.
@@ -9993,7 +9997,3 @@
 34118591	Health of African Refugee Children Outside Africa: A Scoping Review.
 34118207	Association between ocular toxoplasmosis and APEX1 and MYD88 polymorphism.
 34118027	Species Distribution and Antifungal Susceptibility Pattern of Candida Recovered from Intensive Care Unit Patients, Vietnam National Hospital of Burn (2017-2019).
-34117997	Mesenchymal Stem Cells: A Novel Therapeutic Approach to Enhance Protective Immunomodulation and Erythropoietic Recovery in Malaria.
-34117240	Maps and metrics of insecticide-treated net access, use, and nets-per-capita in Africa from 2000-2020.
-34117222	Author Correction: Global consumption and international trade in deforestation-associated commodities could influence malaria risk.
-34116933	Taking therapeutic apheresis services to patients in South Africa: An eight year review of SANBS mobile therapeutic apheresis service, 2013-2020.
