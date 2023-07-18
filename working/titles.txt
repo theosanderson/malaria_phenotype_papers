@@ -1,3 +1,7 @@
+37461113	Heterogeneity in health funding and disparities in health outcome: a comparison between high focus and non-high focus states in India.
+37461081	Reduced polymorphism of Plasmodium vivax early transcribed membrane protein (PvETRAMP) 11.2.
+37460787	Determinants of splenic preservation among patients with sickle cell disease in North-Eastern Nigeria.
+37460245	Embedding Aboriginal cultural governance, capacity, perspectives and leadership into a local Public Health Unit Incident Command System during COVID-19 in New South Wales, Australia.
 37459385	A comprehensive approach to optimizing malaria prevention in pregnant women: evaluating the efficacy, cost-effectiveness, and resistance of IPTp-SP and IPTp-DP.
 37459017	Do climatic and socioeconomic factors explain population vulnerability to malaria? Evidence from a national survey, India.
 37458601	Engineered Gut Symbiotic Bacterium-Mediated RNAi for Effective Control of Anopheles Mosquito Larvae.
@@ -9993,7 +9997,3 @@
 34119461	Anopheles (Nyssorhynchus) tadei: A new species of the Oswaldoi-konderi complex (Diptera, Anophelinae) and its morphological and molecular distinctions from An. konderi sensu stricto.
 34119440	Deconstructing the parasite multiplication rate of Plasmodium falciparum.
 34118973	Comparison of four outdoor mosquito trapping methods as potential replacements for human landing catches in western Kenya.
-34118950	Low MSP-1 haplotype diversity in the West Palearctic population of the avian malaria parasite Plasmodium relictum.
-34118739	SARS-CoV-2 and Plasmodium falciparum are probably adopting Analogous strategy to invade erythrocytes.
-34118591	Health of African Refugee Children Outside Africa: A Scoping Review.
-34118207	Association between ocular toxoplasmosis and APEX1 and MYD88 polymorphism.
