@@ -1,3 +1,10 @@
+37461621	Accelerated prime-and-trap vaccine regimen in mice using repRNA-based CSP malaria vaccine.
+37461595	Single-cell quantitative bioimaging of P. berghei liver stage translation.
+37461578	Clinical and Immunological Outcomes of HIV-Exposed Uninfected and HIV-Unexposed Uninfected Children in the First 24 Months of Life in Western Kenya.
+37461554	CLIPB4 is a central node in the protease network that regulates humoral immunity in Anopheles gambiae mosquitoes.
+37461533	Complexity of Plasmodium falciparum infection and genetic variations associated with differences in parasite clearance time in two Malian villages.
+37461346	Potential drugs in COVID-19 management.
+37461279	An ordinary malaria? Intermittent fever in Denmark, 1826-1886.
 37461113	Heterogeneity in health funding and disparities in health outcome: a comparison between high focus and non-high focus states in India.
 37461081	Reduced polymorphism of Plasmodium vivax early transcribed membrane protein (PvETRAMP) 11.2.
 37460787	Determinants of splenic preservation among patients with sickle cell disease in North-Eastern Nigeria.
@@ -9990,10 +9997,3 @@
 34120980	Malaria Diagnosis by U.S. Providers on Short-term Medical Mission Trips to Uganda.
 34120622	Evaluation of the effect of supervised anti-malarial treatment on recurrences of Plasmodium vivax malaria.
 34120616	Use of the creating opportunities for parent empowerment programme to decrease mental health problems in Ugandan children surviving severe malaria: a randomized controlled trial.
-34120608	Cost of community-led larval source management and house improvement for malaria control: a cost analysis within a cluster-randomized trial in a rural district in Malawi.
-34120604	Spatial prediction of malaria prevalence in Papua New Guinea: a comparison of Bayesian decision network and multivariate regression modelling approaches for improved accuracy in prevalence prediction.
-34120599	Remote sensing of environmental risk factors for malaria in different geographic contexts.
-34119684	Mechanisms of triggering malaria gametocytogenesis by AP2-G.
-34119461	Anopheles (Nyssorhynchus) tadei: A new species of the Oswaldoi-konderi complex (Diptera, Anophelinae) and its morphological and molecular distinctions from An. konderi sensu stricto.
-34119440	Deconstructing the parasite multiplication rate of Plasmodium falciparum.
-34118973	Comparison of four outdoor mosquito trapping methods as potential replacements for human landing catches in western Kenya.
