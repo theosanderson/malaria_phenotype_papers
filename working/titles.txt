@@ -1,3 +1,4 @@
+37459385	A comprehensive approach to optimizing malaria prevention in pregnant women: evaluating the efficacy, cost-effectiveness, and resistance of IPTp-SP and IPTp-DP.
 37459017	Do climatic and socioeconomic factors explain population vulnerability to malaria? Evidence from a national survey, India.
 37458601	Engineered Gut Symbiotic Bacterium-Mediated RNAi for Effective Control of Anopheles Mosquito Larvae.
 37458412	Inhibition of Cysteine Proteases via Thiol-Michael Addition Explains the Anti-SARS-CoV-2 and Bioactive Properties of Arteannuin B.
@@ -119,7 +120,7 @@
 37415250	Development of microsatellite markers for the invasive mosquito Aedes koreicus.
 37415179	Effectiveness of the Gratuité user fee exemption policy on utilization and outcomes of maternal, newborn and child health services in conflict-affected districts of Burkina Faso from 2013 to 2018: a pre-post analysis.
 37414792	Detecting temporal and spatial malaria patterns from first antenatal care visits.
-37414210	Prostration and the Prognosis of Death in African Children with Severe Malaria.
+37414210	Prostration and the prognosis of death in African children with severe malaria.
 37414209	RNA aptamers developed against tRip: A preliminary approach targeting tRNA entry in Plasmodium.
 37414067	Moving seasonal malaria chemoprevention out of its geographical isolation.
 37414066	Causal chemoprophylactic activity of cabamiquine against Plasmodium falciparum in a controlled human malaria infection: a randomised, double-blind, placebo-controlled study in the Netherlands.
@@ -326,7 +327,7 @@
 37348801	Polymorphism analysis of drug resistance markers in Plasmodium falciparum isolates from Benin.
 37348666	Host biomarkers for early identification of severe imported Plasmodium falciparum malaria.
 37348640	Expression and copper binding studies of a Plasmodium falciparum protein with Cox19 copper binding motifs.
-37348620	Quantification of Plasmodium falciparum HPR-2 as an alternative method to [(3)H]hypoxanthine incorporation to measure the parasite reduction ratio in vitro.
+37348620	Quantification of Plasmodium falciparum HRP-2 as an alternative method to [(3)H]hypoxanthine incorporation to measure the parasite reduction ratio in vitro.
 37348521	Independent SARS-CoV-2 staff testing protected academic and health-care institutions in northwest London.
 37348379	A model for malaria treatment evaluation in the presence of multiple species.
 37347767	Singapore's 5 decades of dengue prevention and control-Implications for global dengue control.
@@ -9996,4 +9997,3 @@
 34118739	SARS-CoV-2 and Plasmodium falciparum are probably adopting Analogous strategy to invade erythrocytes.
 34118591	Health of African Refugee Children Outside Africa: A Scoping Review.
 34118207	Association between ocular toxoplasmosis and APEX1 and MYD88 polymorphism.
-34118027	Species Distribution and Antifungal Susceptibility Pattern of Candida Recovered from Intensive Care Unit Patients, Vietnam National Hospital of Burn (2017-2019).
