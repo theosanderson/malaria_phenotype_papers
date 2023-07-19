@@ -1,3 +1,5 @@
+37463201	The role of Plasmodium V-ATPase in vacuolar physiology and antimalarial drug uptake.
+37463164	Usability of pulse oximeters used by community health and primary care workers as screening tools for severe illness in children under five in low resource settings: A cross-sectional study in Cambodia, Ethiopia, South Sudan, and Uganda.
 37462313	[A Marginal Case of Malaria: An Interesting Malaria Story of Cameroon Origin].
 37461621	Accelerated prime-and-trap vaccine regimen in mice using repRNA-based CSP malaria vaccine.
 37461595	Single-cell quantitative bioimaging of P. berghei liver stage translation.
@@ -1278,7 +1280,7 @@
 37023172	Circulation of West Nile virus in mosquitoes approximate to the migratory bird stopover in West Coast Malaysia.
 37023013	Spatial analysis of malaria hotspots in Dilla sub-watershed: Western Ethiopia.
 37022501	Effect of ultraviolet LED and trap height on catches of host-seeking anopheline mosquitoes by using a low-cost passive light trap in northeast Brazil.
-37022426	CMOS spectrophotometric microsystem for malaria detection.
+37022426	CMOS Spectrophotometric Microsystem for Malaria Detection.
 37021639	Future antimalarials from Artemisia? A rationale for natural product mining against drug-refractory Plasmodium stages.
 37021322	The relative effect of climate variability on malaria incidence after scale-up of interventions in western Kenya: A time-series analysis of monthly incidence data from 2008 to 2019.
 37020422	Malaria, a laboratory view.
@@ -9995,5 +9997,3 @@
 34122419	Immunometabolism: Towards a Better Understanding the Mechanism of Parasitic Infection and Immunity.
 34121536	Schottiin, a new prenylated isoflavones from Psorothamnus schottii and antibacterial synergism studies between methicillin and fremontone against methicillin-resistant Staphylococcus aureus ATCC 1708.
 34121522	Chemical constituents of two Cameroonian medicinal plants: Sida rhombifolia L. and Sida acuta Burm. f. (Malvaceae) and their antiplasmodial activity.
-34120980	Malaria Diagnosis by U.S. Providers on Short-term Medical Mission Trips to Uganda.
-34120622	Evaluation of the effect of supervised anti-malarial treatment on recurrences of Plasmodium vivax malaria.
