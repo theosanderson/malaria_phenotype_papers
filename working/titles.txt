@@ -1,3 +1,7 @@
+37465789	Self-Medication Practices During the COVID-19 Pandemic Among the Adult Population in the Eastern Region of the Kingdom of Saudi Arabia.
+37465667	Immunogenomic profile at baseline predicts host susceptibility to clinical malaria.
+37465315	Anti-infectives Developed as Racemic Drugs in the 21st Century: Norm or Exception?
+37465183	Malaria Risk Perception and Preventive Behaviors Among Elementary School Students, Southwest Ethiopia. Generalized Structural Equation Model.
 37464429	An evaluation of truncated birth histories for the rapid measurement of fertility and child survival.
 37463969	Human blood neutrophils generate ROS through FcγR-signaling to mediate protection against febrile P. falciparum malaria.
 37463914	Author Correction: A mosquito lipoxin/lipocalin complex mediates innate immune priming in Anopheles gambiae.
@@ -9993,7 +9997,3 @@
 34125696	Stratifying Sepsis in Uganda Using Rapid Pathogen Diagnostics and Clinical Data: A Prospective Cohort Study.
 34124905	Novel Antiplasmodial Compounds Leveraged with Multistage Potency against the Parasite Plasmodium falciparum: In Vitro and In Vivo Evaluations and Pharmacokinetic Studies.
 34124867	Policy Challenges Facing the Scale Up of Integrated Community Case Management (iCCM) in Uganda.
-34124753	Evaluating the Interrater Agreement and Acceptability of a New Reference Tool for Assessing Respiratory Rate in Children under Five with Cough and/or Difficulty Breathing.
-34124306	Isolation of GFP-expressing Malarial Hypnozoites by Flow Cytometry Cell Sorting.
-34124303	Click Chemistry for Imaging in-situ Protein Palmitoylation during the Asexual Stages of Plasmodium falciparum.
-34124142	Conserved RNA Binding Activity of Phosphatidyl Inositol 5-Phosphate 4-Kinase (PIP4K2A).
