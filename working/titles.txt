@@ -1,3 +1,7 @@
+37464429	An evaluation of truncated birth histories for the rapid measurement of fertility and child survival.
+37463969	Human blood neutrophils generate ROS through FcγR-signaling to mediate protection against febrile P. falciparum malaria.
+37463914	Author Correction: A mosquito lipoxin/lipocalin complex mediates innate immune priming in Anopheles gambiae.
+37463785	Using routine health data to evaluate the impact of indoor residual spraying on malaria transmission in Madagascar.
 37463201	The role of Plasmodium V-ATPase in vacuolar physiology and antimalarial drug uptake.
 37463164	Usability of pulse oximeters used by community health and primary care workers as screening tools for severe illness in children under five in low resource settings: A cross-sectional study in Cambodia, Ethiopia, South Sudan, and Uganda.
 37462313	[A Marginal Case of Malaria: An Interesting Malaria Story of Cameroon Origin].
@@ -9993,7 +9997,3 @@
 34124306	Isolation of GFP-expressing Malarial Hypnozoites by Flow Cytometry Cell Sorting.
 34124303	Click Chemistry for Imaging in-situ Protein Palmitoylation during the Asexual Stages of Plasmodium falciparum.
 34124142	Conserved RNA Binding Activity of Phosphatidyl Inositol 5-Phosphate 4-Kinase (PIP4K2A).
-34122704	Eosinophilia in school-going children with Plasmodium falciparum and helminth infections in the Volta Region of Ghana.
-34122419	Immunometabolism: Towards a Better Understanding the Mechanism of Parasitic Infection and Immunity.
-34121536	Schottiin, a new prenylated isoflavones from Psorothamnus schottii and antibacterial synergism studies between methicillin and fremontone against methicillin-resistant Staphylococcus aureus ATCC 1708.
-34121522	Chemical constituents of two Cameroonian medicinal plants: Sida rhombifolia L. and Sida acuta Burm. f. (Malvaceae) and their antiplasmodial activity.
