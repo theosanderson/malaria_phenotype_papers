@@ -1,3 +1,4 @@
+37467002	First Ever Malaria Vaccine to Be Distributed in Africa.
 37465789	Self-Medication Practices During the COVID-19 Pandemic Among the Adult Population in the Eastern Region of the Kingdom of Saudi Arabia.
 37465667	Immunogenomic profile at baseline predicts host susceptibility to clinical malaria.
 37465315	Anti-infectives Developed as Racemic Drugs in the 21st Century: Norm or Exception?
@@ -1753,6 +1754,7 @@
 36867305	Ancestry, diversity, and genetics of health-related traits in African-derived communities (quilombos) from Brazil.
 36865611	Severe Malaria in an Adult Patient from Low-Endemic Area in Flores Island, East Nusa Tenggara.
 36865392	Concurrent Dengue-Malaria Infection: The Importance of Acute Febrile Illness in Endemic Zones.
+36865172	New tuberculosis vaccines in India: Modelling the potential health and economic impacts of adolescent/adult vaccination with M72/AS01 (E) and BCG-revaccination.
 36865135	Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar.
 36865132	Detecting temporal and spatial malaria patterns from first antenatal care visits.
 36864926	Pf7: an open dataset of Plasmodium falciparum genome variation in 20,000 worldwide samples.
@@ -9995,5 +9997,3 @@
 34125702	Quantification of the Proportion of Unfavorable Clinical Outcomes among Imported Malaria Patients According to the Degree of Semi-Immunity on Population Level: An Ecological Study.
 34125699	Long-Lasting Insecticidal Nets Incorporating Piperonyl Butoxide Reduce the Risk of Malaria in Children in Western Kenya: A Cluster Randomized Controlled Trial.
 34125696	Stratifying Sepsis in Uganda Using Rapid Pathogen Diagnostics and Clinical Data: A Prospective Cohort Study.
-34124905	Novel Antiplasmodial Compounds Leveraged with Multistage Potency against the Parasite Plasmodium falciparum: In Vitro and In Vivo Evaluations and Pharmacokinetic Studies.
-34124867	Policy Challenges Facing the Scale Up of Integrated Community Case Management (iCCM) in Uganda.
