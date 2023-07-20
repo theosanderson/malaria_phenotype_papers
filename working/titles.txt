@@ -1,3 +1,10 @@
+37468917	Molecular epidemiology of non-falciparum Plasmodium infections in three different areas of the Ivory Coast.
+37468559	Bird community effects on avian malaria infections.
+37468470	Hearing of malaria mosquitoes is modulated by a beta-adrenergic-like octopamine receptor which serves as insecticide target.
+37468046	Artificial Intelligence, Machine Learning and Deep Learning: Potential Resources for the Infection Clinician.
+37467874	Bird species with wider geographical ranges have higher blood parasite diversity but not prevalence across the African-Eurasian flyway.
+37467691	The immunity modulation of transforming growth factor-β in malaria and other pathological process.
+37467665	Inflammatory profiles in febrile children with moderate and severe malnutrition presenting at-hospital in Uganda are associated with increased mortality.
 37467182	Assessing afebrile malaria and bed-net use in a high-burden region of India: Findings from multiple rounds of mass screening.
 37467002	First Ever Malaria Vaccine to Be Distributed in Africa.
 37465789	Self-Medication Practices During the COVID-19 Pandemic Among the Adult Population in the Eastern Region of the Kingdom of Saudi Arabia.
@@ -9990,10 +9997,3 @@
 34127785	The power and promise of genetic mapping from Plasmodium falciparum crosses utilizing human liver-chimeric mice.
 34127730	Interactions of primaquine and chloroquine with PEGylated﻿ phosphatidylcholine liposomes.
 34127020	A cross-country comparison of malaria policy as a premise for contextualized appropriation of foreign aid in global health.
-34126997	Using deep learning to identify recent positive selection in malaria parasite sequence data.
-34126991	Post-mortem diagnosis of imported malaria in France: a case report.
-37205968	Safety, Tolerability, and Pharmacokinetics of Oral Ferric Maltol in Children With Iron Deficiency: Phase 1 Study.
-34126212	Ethno medical knowledge and traditional use of Aristolochia bracteolata Lam. for malaria among local communities in Jubek State of South Sudan: A cross-sectional survey.
-34125861	Intragenomic sequence variations in the second internal transcribed spacer (ITS2) ribosomal DNA of the malaria vector Anopheles stephensi.
-34125702	Quantification of the Proportion of Unfavorable Clinical Outcomes among Imported Malaria Patients According to the Degree of Semi-Immunity on Population Level: An Ecological Study.
-34125699	Long-Lasting Insecticidal Nets Incorporating Piperonyl Butoxide Reduce the Risk of Malaria in Children in Western Kenya: A Cluster Randomized Controlled Trial.
