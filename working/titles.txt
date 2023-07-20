@@ -1,3 +1,4 @@
+37467182	Assessing afebrile malaria and bed-net use in a high-burden region of India: Findings from multiple rounds of mass screening.
 37467002	First Ever Malaria Vaccine to Be Distributed in Africa.
 37465789	Self-Medication Practices During the COVID-19 Pandemic Among the Adult Population in the Eastern Region of the Kingdom of Saudi Arabia.
 37465667	Immunogenomic profile at baseline predicts host susceptibility to clinical malaria.
@@ -9996,4 +9997,3 @@
 34125861	Intragenomic sequence variations in the second internal transcribed spacer (ITS2) ribosomal DNA of the malaria vector Anopheles stephensi.
 34125702	Quantification of the Proportion of Unfavorable Clinical Outcomes among Imported Malaria Patients According to the Degree of Semi-Immunity on Population Level: An Ecological Study.
 34125699	Long-Lasting Insecticidal Nets Incorporating Piperonyl Butoxide Reduce the Risk of Malaria in Children in Western Kenya: A Cluster Randomized Controlled Trial.
-34125696	Stratifying Sepsis in Uganda Using Rapid Pathogen Diagnostics and Clinical Data: A Prospective Cohort Study.
