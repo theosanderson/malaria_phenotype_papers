@@ -1,3 +1,7 @@
+37470040	Impact of Plasmodium falciparum infection on DNA methylation of circulating immune cells.
+37469921	An Evaluation of Malaria Surveillance System in Punjab, India, 2020.
+37469527	Sibling Species Composition and Susceptibility Status of Anopheles gambiae s.l. to Insecticides Used for Indoor Residual Spraying in Eastern Uganda.
+37469515	Guianensin, a Simulium guianense salivary protein, has broad anti-hemostatic and anti-inflammatory properties.
 37468917	Molecular epidemiology of non-falciparum Plasmodium infections in three different areas of the Ivory Coast.
 37468559	Bird community effects on avian malaria infections.
 37468470	Hearing of malaria mosquitoes is modulated by a beta-adrenergic-like octopamine receptor which serves as insecticide target.
@@ -9993,7 +9997,3 @@
 34129392	Diversity of Anopheles Gambiae s.l., Giles (Diptera: Culicidae) Larval Habitats in Urban Areas and Malaria Transmission in Bouaké, Côte d'Ivoire.
 34128992	Drug-Resistant Malaria Detected in Africa Will Require Monitoring.
 34128836	High-dimensional mass cytometry identifies T cell and B cell signatures predicting reduced risk of Plasmodium vivax malaria.
-34128693	Antibody Levels to Plasmodium falciparum Erythrocyte Membrane Protein 1-DBLγ11 and DBLδ-1 Predict Reduction in Parasite Density.
-34127785	The power and promise of genetic mapping from Plasmodium falciparum crosses utilizing human liver-chimeric mice.
-34127730	Interactions of primaquine and chloroquine with PEGylated﻿ phosphatidylcholine liposomes.
-34127020	A cross-country comparison of malaria policy as a premise for contextualized appropriation of foreign aid in global health.
