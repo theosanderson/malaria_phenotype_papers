@@ -1,3 +1,4 @@
+37471056	In Vitro Investigation Unveiling New Insights into the Antimalarial Mechanism of Chloroquine: Role in Perturbing Nucleation Events during Heme to β-Hematin Transformation.
 37470040	Impact of Plasmodium falciparum infection on DNA methylation of circulating immune cells.
 37469921	An Evaluation of Malaria Surveillance System in Punjab, India, 2020.
 37469527	Sibling Species Composition and Susceptibility Status of Anopheles gambiae s.l. to Insecticides Used for Indoor Residual Spraying in Eastern Uganda.
@@ -9996,4 +9997,3 @@
 34129601	Pyronaridine-artesunate real-world safety, tolerability, and effectiveness in malaria patients in 5 African countries: A single-arm, open-label, cohort event monitoring study.
 34129392	Diversity of Anopheles Gambiae s.l., Giles (Diptera: Culicidae) Larval Habitats in Urban Areas and Malaria Transmission in Bouaké, Côte d'Ivoire.
 34128992	Drug-Resistant Malaria Detected in Africa Will Require Monitoring.
-34128836	High-dimensional mass cytometry identifies T cell and B cell signatures predicting reduced risk of Plasmodium vivax malaria.
