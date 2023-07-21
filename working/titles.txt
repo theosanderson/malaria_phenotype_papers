@@ -1,3 +1,8 @@
+37473441	An artesunate pharmacometric model to explain therapeutic responses in falciparum malaria.
+37472432	Influence of Quinine and Malaria over Pregnancy.
+37471441	A screen of drug-like molecules identifies chemically diverse electron transport chain inhibitors in apicomplexan parasites.
+37471337	Prevalence and distribution of Plasmodium vivax Duffy Binding Protein gene duplications in Sudan.
+37471336	Malaria diagnosis in rural healthcare facilities and treatment-seeking behavior in malaria endemic settings in western Kenya.
 37471056	In Vitro Investigation Unveiling New Insights into the Antimalarial Mechanism of Chloroquine: Role in Perturbing Nucleation Events during Heme to β-Hematin Transformation.
 37470040	Impact of Plasmodium falciparum infection on DNA methylation of circulating immune cells.
 37469921	An Evaluation of Malaria Surveillance System in Punjab, India, 2020.
@@ -218,7 +223,7 @@
 37393257	Significant number of Plasmodium vivax mono-infections by PCR misidentified as mixed infections (P. vivax/P. falciparum) by microscopy and rapid diagnostic tests: malaria diagnostic challenges in Ethiopia.
 37392730	Identifying sensitive windows of prenatal household air pollution on birth weight and infant pneumonia risk to inform future interventions.
 37392389	Epigenetically regulated RNA-binding proteins signify malaria hypnozoite dormancy.
-37392377	Facile access to structurally diverse antimalarial indoles using a one-pot A3 coupling and domino cyclization approach.
+37392377	Facile Access to Structurally Diverse Antimalarial Indoles Using a One-Pot A(3) Coupling and Domino Cyclization Approach.
 37392364	Identification of Commercial Antimalarial Herbal Drugs Using Laser-Induced Autofluorescence Technique and Multivariate Algorithms.
 37392071	Swarming and mate selection in Anopheles gambiae mosquitoes (Diptera: Culicidae).
 37392010	Contraception and intersection with HIV services in 11 high HIV burden sub-Saharan African countries: Results from the population-based HIV Impact Assessment cross-sectional studies conducted from 2015 to 2018.
@@ -9992,8 +9997,3 @@
 34130649	Comparison of capillary, venous and buffy coat blood samples in detecting Plasmodium species among malaria suspected patients attending at Hamusite health center. A cross-sectional study.
 34130253	Reactivation of latent infections in solid organ transplant recipients from sub-Saharan Africa: What should be remembered?
 34129960	Ototoxic hearing loss from antimalarials: A systematic narrative review.
-34129882	Preclinical evidence of synergism between atovaquone and chemotherapy by AMPK-dependent mitochondrial dysfunction.
-34129805	Structure- and ligand-based drug design methods for the modeling of antimalarial agents: a review of updates from 2012 onwards.
-34129601	Pyronaridine-artesunate real-world safety, tolerability, and effectiveness in malaria patients in 5 African countries: A single-arm, open-label, cohort event monitoring study.
-34129392	Diversity of Anopheles Gambiae s.l., Giles (Diptera: Culicidae) Larval Habitats in Urban Areas and Malaria Transmission in Bouaké, Côte d'Ivoire.
-34128992	Drug-Resistant Malaria Detected in Africa Will Require Monitoring.
