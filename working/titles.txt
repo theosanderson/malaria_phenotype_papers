@@ -1,5 +1,13 @@
+37475067	[Medicinal evolution and modern research progress on Mume Fructus].
+37474966	Plasmodium falciparum drug resistance-associated mutations in isolates from children living in endemic areas of Burkina Faso.
+37474956	Correction: The ability of Interleukin-10 to negate haemozoin-related pro-inflammatory effects has the potential to restore impaired macrophage function associated with malaria infection.
+37474930	Effect of malaria prevention education on bed net utilization, incidence of malaria and treatment seeking among school-aged children in Southern Ethiopia; cluster randomized controlled trial.
+37474844	Antimalarial Activities of a Therapeutic Combination of Azadirachta indica, Mangifera indica and Morinda lucida Leaves: A Molecular View of its Activity on Plasmodium falciparum Proteins.
+37474653	mRNA vaccine against malaria tailored for liver-resident memory T cells.
+37474234	Effectiveness and safety of intermittent preventive treatment with dihydroartemisinin-piperaquine or artesunate-amodiaquine for reducing malaria and related morbidities in schoolchildren in Tanzania: a randomised controlled trial.
+37474216	Targeting malaria control to schoolchildren.
+37473798	Antiplasmodial and interferon-gamma-modulating activities of the aqueous extract of stone breaker (Phyllanthus niruri Linn.) in malaria infection.
 37473441	An artesunate pharmacometric model to explain therapeutic responses in falciparum malaria.
-37472432	Influence of Quinine and Malaria over Pregnancy.
 37471441	A screen of drug-like molecules identifies chemically diverse electron transport chain inhibitors in apicomplexan parasites.
 37471337	Prevalence and distribution of Plasmodium vivax Duffy Binding Protein gene duplications in Sudan.
 37471336	Malaria diagnosis in rural healthcare facilities and treatment-seeking behavior in malaria endemic settings in western Kenya.
@@ -9989,11 +9997,3 @@
 34133721	GlmS mediated knock-down of a phospholipase expedite alternate pathway to generate phosphocholine required for phosphatidylcholine synthesis in Plasmodium falciparum.
 34133560	PCR-RFLP Based genetic diversity of Plasmodium vivax genotypes in district Mardan, Pakistan.
 34132583	RPAcan3990: an Ultrasensitive Recombinase Polymerase Assay To Detect Angiostrongylus cantonensis DNA.
-34131851	The Kringle of Life.
-34131671	The mystery of 'saturation gap' and falsely normal G6PD: a case of primaquine-induced haemolysis in Plasmodium vivax malaria infection.
-34131563	COVID-19: Where is the treatment?
-34131147	4D analysis of malaria parasite invasion offers insights into erythrocyte membrane remodeling and parasitophorous vacuole formation.
-34130734	Prediction of gene expression regulation by human microRNAs in Plasmodium falciparum.
-34130649	Comparison of capillary, venous and buffy coat blood samples in detecting Plasmodium species among malaria suspected patients attending at Hamusite health center. A cross-sectional study.
-34130253	Reactivation of latent infections in solid organ transplant recipients from sub-Saharan Africa: What should be remembered?
-34129960	Ototoxic hearing loss from antimalarials: A systematic narrative review.
