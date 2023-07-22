@@ -1,3 +1,8 @@
+37480030	Can the performance of pyrethroid-chlorfenapyr nets be reduced when combined with pyrethroid-piperonyl butoxide (PBO) nets?
+37479899	Growth bound and threshold dynamic for nonautonomous nondensely defined evolution problems.
+37479499	War-related sexual and gender-based violence in Tigray, Northern Ethiopia: a community-based study.
+37479498	Cost-effectiveness of community-based distribution of intermittent preventive treatment of malaria in pregnancy in Madagascar, Mozambique, Nigeria, and the Democratic Republic of Congo.
+37478957	Synthesis and Activity of β-Carboline Antimalarials Targeting the Plasmodium falciparum Heat Shock 90 Protein.
 37478413	Methanol and acetone extracts from the leaves of selected aromatic plants affect survival of field collected Anopheles arabiensis (Diptera: Culicidae) from Kisumu, Kenya.
 37478118	Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital.
 37476548	Plasmodium falciparum FIKK 9.1 kinase modeling to screen and identify potent antimalarial agents from chemical library.
@@ -9992,8 +9997,3 @@
 34138918	Updating the bionomy and geographical distribution of Anopheles (Nyssorhynchus) albitarsis F: A vector of malaria parasites in northern South America.
 34138868	Enhanced virulence of Plasmodium falciparum in blood of diabetic patients.
 34138756	Hematologic and systemic metabolic alterations due to Mediterranean class II G6PD deficiency in mice.
-34137821	Multi-stage malaria parasite recognition by deep learning.
-34137627	Groove Switching of Hydroxychloroquine Modulates the Efficacy of Binding and Induced Stability to DNA.
-34137611	Synthesis of [15,15,15-(2)H(3)]-Dihydroartemisinic Acid and Isotope Studies Support a Mixed Mechanism in the Endoperoxide Formation to Artemisinin.
-34135878	Endoplasmic Reticulum Stress, a Target for Drug Design and Drug Resistance in Parasitosis.
-34135444	Seasonality modulates the direct and indirect influences of forest cover on larval anopheline assemblages in western Amazônia.
