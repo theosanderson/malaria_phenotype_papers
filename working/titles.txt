@@ -1,3 +1,5 @@
+37478413	Methanol and acetone extracts from the leaves of selected aromatic plants affect survival of field collected Anopheles arabiensis (Diptera: Culicidae) from Kisumu, Kenya.
+37478118	Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital.
 37476548	Plasmodium falciparum FIKK 9.1 kinase modeling to screen and identify potent antimalarial agents from chemical library.
 37476140	Optic Disc Elevation Secondary to Cerebral Malaria Resolves Completely With Mannitol Administration and Corresponds to Clinical Improvement.
 37476056	A multivalent Plasmodium falciparum circumsporozoite protein-based nanoparticle malaria vaccine elicits a robust and durable antibody response against the junctional epitope and the major repeats.
@@ -9995,5 +9997,3 @@
 34137611	Synthesis of [15,15,15-(2)H(3)]-Dihydroartemisinic Acid and Isotope Studies Support a Mixed Mechanism in the Endoperoxide Formation to Artemisinin.
 34135878	Endoplasmic Reticulum Stress, a Target for Drug Design and Drug Resistance in Parasitosis.
 34135444	Seasonality modulates the direct and indirect influences of forest cover on larval anopheline assemblages in western Amazônia.
-34135099	Dissection-independent production of Plasmodium sporozoites from whole mosquitoes.
-34134728	Malaria epidemiology and anti-malarial drug efficacy in Guinea: a review of clinical and molecular studies.
