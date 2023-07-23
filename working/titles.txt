@@ -1,3 +1,6 @@
+37481347	Designing an effective malaria vaccine targeting Plasmodium vivax Duffy-binding protein.
+37481258	Unusually divergent ubiquitin genes and proteins in Plasmodium species.
+37480777	Smartphone-integrated colorimetric and microfluidic paper-based analytical devices for the trace-level detection of permethrin.
 37480030	Can the performance of pyrethroid-chlorfenapyr nets be reduced when combined with pyrethroid-piperonyl butoxide (PBO) nets?
 37479899	Growth bound and threshold dynamic for nonautonomous nondensely defined evolution problems.
 37479499	War-related sexual and gender-based violence in Tigray, Northern Ethiopia: a community-based study.
@@ -9994,6 +9997,3 @@
 34139755	Cytochrome b Drug Resistance Mutation Decreases Babesia Fitness in the Tick Stages But Not the Mammalian Erythrocytic Cycle.
 34139502	Exploring rural hospital admissions for diarrhoeal disease, malaria, pneumonia, and asthma in relation to temperature, rainfall and air pollution using wavelet transform analysis.
 34139428	A novel CRISPR-based malaria diagnostic capable of Plasmodium detection, species differentiation, and drug-resistance genotyping.
-34138918	Updating the bionomy and geographical distribution of Anopheles (Nyssorhynchus) albitarsis F: A vector of malaria parasites in northern South America.
-34138868	Enhanced virulence of Plasmodium falciparum in blood of diabetic patients.
-34138756	Hematologic and systemic metabolic alterations due to Mediterranean class II G6PD deficiency in mice.
