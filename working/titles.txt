@@ -1,3 +1,11 @@
+37485444	Association between hemoglobin variants and laboratory outcomes in patients infected with P. falciparum from South West Uganda.
+37485364	Preclinical evaluations of Pfs25-EPA and Pfs230D1-EPA in AS01 for a vaccine to reduce malaria transmission.
+37484730	Modeling the Effect of Climate Change on the Distribution of Main Malaria Vectors in an Endemic Area, Southeastern Iran.
+37484599	A roadmap for the digital management of long-lasting insecticide-treated mosquito nets (LLINs) distribution campaigns in the Democratic Republic of Congo.
+37484595	Prevalence of tuberculosis/COVID-19 co-infection and factors associated with SARS-CoV-2 infection in pulmonary tuberculosis patients at a respiratory diseases center: a cross-sectional study.
+37484560	Is structural hybridization invoking new dimensions for antimalarial drug discovery research?
+37484481	Characterisation of human exposure to nocturnal biting by malaria and arbovirus vectors in a rural community in Chókwè district, southern Mozambique.
+37483711	Biological activities of 4H-thiochromen-4-one 1,1-dioxide derivatives against tropical disease parasites: A target-based drug design approach.
 37482133	Genome-wide binding sites of Plasmodium falciparum mini chromosome maintenance protein MCM6 show new insights into parasite DNA replication.
 37482049	A systematic review and meta-analysis of inflammatory biomarkers associated with malaria infection and disease severity.
 37481347	Designing an effective malaria vaccine targeting Plasmodium vivax Duffy-binding protein.
@@ -9989,11 +9997,3 @@
 34143807	Association between biological sex and insecticide-treated net use among household members in ethnic minority and internally displaced populations in eastern Myanmar.
 34143538	The impact of indoor residual spraying on Plasmodium falciparum microsatellite variation in an area of high seasonal malaria transmission in Ghana, West Africa.
 34142223	Identification of a protein unique to the genus Plasmodium that contains a WD40 repeat domain and extensive low-complexity sequence.
-34141839	Supporting data on characterisation of linker switch mutants of Plasmodium falciparum heat shock protein 110 and canonical Hsp70.
-34141630	Viability and Infectivity of Plasmodium vivax Gametocytes in Short-Term Culture.
-34141566	Neglected parasite reservoirs in wetlands: Prevalence and diversity of avian haemosporidians in waterbird communities in Northeast China.
-34141185	Scent of a killer: How could killer yeast boost its dispersal?
-34140870	Recombinant DBL2β-PfEMP1 of the Indonesian Plasmodium falciparum induces immune responses in Wistar rats.
-34140472	Tick extracellular vesicles enable arthropod feeding and promote distinct outcomes of bacterial infection.
-34139785	Bioengineered Liver Models for Investigating Disease Pathogenesis and Regenerative Medicine.
-34139755	Cytochrome b Drug Resistance Mutation Decreases Babesia Fitness in the Tick Stages But Not the Mammalian Erythrocytic Cycle.
