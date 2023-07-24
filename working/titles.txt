@@ -1,3 +1,5 @@
+37482133	Genome-wide binding sites of Plasmodium falciparum mini chromosome maintenance protein MCM6 show new insights into parasite DNA replication.
+37482049	A systematic review and meta-analysis of inflammatory biomarkers associated with malaria infection and disease severity.
 37481347	Designing an effective malaria vaccine targeting Plasmodium vivax Duffy-binding protein.
 37481258	Unusually divergent ubiquitin genes and proteins in Plasmodium species.
 37480777	Smartphone-integrated colorimetric and microfluidic paper-based analytical devices for the trace-level detection of permethrin.
@@ -9995,5 +9997,3 @@
 34140472	Tick extracellular vesicles enable arthropod feeding and promote distinct outcomes of bacterial infection.
 34139785	Bioengineered Liver Models for Investigating Disease Pathogenesis and Regenerative Medicine.
 34139755	Cytochrome b Drug Resistance Mutation Decreases Babesia Fitness in the Tick Stages But Not the Mammalian Erythrocytic Cycle.
-34139502	Exploring rural hospital admissions for diarrhoeal disease, malaria, pneumonia, and asthma in relation to temperature, rainfall and air pollution using wavelet transform analysis.
-34139428	A novel CRISPR-based malaria diagnostic capable of Plasmodium detection, species differentiation, and drug-resistance genotyping.
