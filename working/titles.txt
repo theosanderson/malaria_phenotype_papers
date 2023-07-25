@@ -1,3 +1,6 @@
+37489446	Serum Metabolome Signatures Characterizing Co-Infection of Plasmodium falciparum and HBV in Pregnant Women.
+37489384	Identifying Health-Related Conditions Associated with Tinnitus in Young Adults.
+37489265	Multifaceted Spindle Cell/Sclerosing Rhabdomyosarcoma With Role of Immunohistochemistry in Avoiding Misdiagnosis: A Multi-Institutional Study of 45 Distinct Tumors.
 37487563	Case Report: A Case of Bone Marrow Necrosis and Hyperinflammation in a 10-Year-Old Boy after Plasmodium falciparum Infection.
 37487212	A Zebra Among the Horses: Clinical Implications of Malaria in the United States.
 37486920	Alignment of multiple metabolomics LC-MS datasets from disparate diseases to reveal fever-associated metabolites.
@@ -9994,6 +9997,3 @@
 34144692	Perceived sustainability of the school-based social and behavior change communication (SBCC) approach on malaria prevention in rural Ethiopia: stakeholders' perspectives.
 34144599	Mosquitoes (Diptera: Culicidae) from Villages and Forest Areas of Rural Communes in Khanh Hoa and Binh Phuoc Provinces, Vietnam.
 34144195	Developmental stages influence in vivo antimalarial activity of aerial part extracts of Schkuhria pinnata.
-34144137	Heparin-decorated nanostructured lipid carriers of artemether-protoporphyrin IX-transferrin combination for therapy of malaria.
-34143998	Oral fexinidazole for stage 1 or early stage 2 African Trypanosoma brucei gambiense trypanosomiasis: a prospective, multicentre, open-label, cohort study.
-34143831	Is biological larviciding against malaria a starting point for integrated multi-disease control? Observations from a cluster randomized trial in rural Burkina Faso.
