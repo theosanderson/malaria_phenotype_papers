@@ -1,3 +1,4 @@
+37489900	Global analysis of putative phospholipases in Plasmodium falciparum reveals an essential role of the phosphoinositide-specific phospholipase C in parasite maturation.
 37489446	Serum Metabolome Signatures Characterizing Co-Infection of Plasmodium falciparum and HBV in Pregnant Women.
 37489384	Identifying Health-Related Conditions Associated with Tinnitus in Young Adults.
 37489265	Multifaceted Spindle Cell/Sclerosing Rhabdomyosarcoma With Role of Immunohistochemistry in Avoiding Misdiagnosis: A Multi-Institutional Study of 45 Distinct Tumors.
@@ -9996,4 +9997,3 @@
 34145005	Prevalence and fluid management of dehydration in children without diarrhoea admitted to Kenyan hospitals: a multisite observational study.
 34144692	Perceived sustainability of the school-based social and behavior change communication (SBCC) approach on malaria prevention in rural Ethiopia: stakeholders' perspectives.
 34144599	Mosquitoes (Diptera: Culicidae) from Villages and Forest Areas of Rural Communes in Khanh Hoa and Binh Phuoc Provinces, Vietnam.
-34144195	Developmental stages influence in vivo antimalarial activity of aerial part extracts of Schkuhria pinnata.
