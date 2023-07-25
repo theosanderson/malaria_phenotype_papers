@@ -1,3 +1,6 @@
+37487212	A Zebra Among the Horses: Clinical Implications of Malaria in the United States.
+37486920	Alignment of multiple metabolomics LC-MS datasets from disparate diseases to reveal fever-associated metabolites.
+37486913	Enhancement of VGG16 model with multi-view and spatial dropout for classification of mosquito vectors.
 37485444	Association between hemoglobin variants and laboratory outcomes in patients infected with P. falciparum from South West Uganda.
 37485364	Preclinical evaluations of Pfs25-EPA and Pfs230D1-EPA in AS01 for a vaccine to reduce malaria transmission.
 37484730	Modeling the Effect of Climate Change on the Distribution of Main Malaria Vectors in an Endemic Area, Southeastern Iran.
@@ -9994,6 +9997,3 @@
 34143998	Oral fexinidazole for stage 1 or early stage 2 African Trypanosoma brucei gambiense trypanosomiasis: a prospective, multicentre, open-label, cohort study.
 34143831	Is biological larviciding against malaria a starting point for integrated multi-disease control? Observations from a cluster randomized trial in rural Burkina Faso.
 34143829	Predicting malaria epidemics in Burkina Faso with machine learning.
-34143807	Association between biological sex and insecticide-treated net use among household members in ethnic minority and internally displaced populations in eastern Myanmar.
-34143538	The impact of indoor residual spraying on Plasmodium falciparum microsatellite variation in an area of high seasonal malaria transmission in Ghana, West Africa.
-34142223	Identification of a protein unique to the genus Plasmodium that contains a WD40 repeat domain and extensive low-complexity sequence.
