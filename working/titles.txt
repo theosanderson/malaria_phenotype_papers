@@ -1,3 +1,4 @@
+37487563	Case Report: A Case of Bone Marrow Necrosis and Hyperinflammation in a 10-Year-Old Boy after Plasmodium falciparum Infection.
 37487212	A Zebra Among the Horses: Clinical Implications of Malaria in the United States.
 37486920	Alignment of multiple metabolomics LC-MS datasets from disparate diseases to reveal fever-associated metabolites.
 37486913	Enhancement of VGG16 model with multi-view and spatial dropout for classification of mosquito vectors.
@@ -9996,4 +9997,3 @@
 34144137	Heparin-decorated nanostructured lipid carriers of artemether-protoporphyrin IX-transferrin combination for therapy of malaria.
 34143998	Oral fexinidazole for stage 1 or early stage 2 African Trypanosoma brucei gambiense trypanosomiasis: a prospective, multicentre, open-label, cohort study.
 34143831	Is biological larviciding against malaria a starting point for integrated multi-disease control? Observations from a cluster randomized trial in rural Burkina Faso.
-34143829	Predicting malaria epidemics in Burkina Faso with machine learning.
