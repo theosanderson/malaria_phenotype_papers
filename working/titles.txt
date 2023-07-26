@@ -1,3 +1,8 @@
+37492994	Comparative proteomics of vesicles essential for the egress of Plasmodium falciparum gametocytes from red blood cells.
+37492570	Glucocorticoid dysfunction in children with severe malaria.
+37492543	In silico study of phytochemicals contained in Brucea javanica in inhibiting the InhA enzyme as antituberculosis.
+37492527	Babesia microti alleviates disease manifestations caused by Plasmodium berghei ANKA in murine co-infection model of complicated malaria.
+37492413	The case for levetiracetam to be included in essential medicine lists.
 37491541	Defining the role of host biomarkers in the diagnosis and prognosis of the severity of childhood pneumonia: a prospective cohort study.
 37491295	Prescription patterns and compliance with World Health Organization recommendations for the management of uncomplicated and severe malaria: A prospective, real-world study in sub-Saharan Africa.
 37490746	Impact of the Introduction of a Package of Diagnostic Tools, Diagnostic Algorithm, and Training and Communication on Outpatient Acute Fever Case Management at 3 Diverse Sites in Uganda: Results of a Randomized Controlled Trial.
@@ -9992,8 +9997,3 @@
 34147957	Neurocysticercosis. A frequent cause of seizures, epilepsy, and other neurological morbidity in most of the world.
 34147682	PSOP1, putative secreted ookinete protein 1, is localized to the micronemes of Plasmodium yoelii and P. berghei ookinetes.
 34147154	Mass drug administration for the acceleration of malaria elimination in a region of Myanmar with artemisinin-resistant falciparum malaria: a cluster-randomised trial.
-34147153	Bold measures to accelerate malaria elimination.
-34146993	A review of the frequencies of Plasmodium falciparum Kelch 13 artemisinin resistance mutations in Africa.
-34146914	New antiparasitic flexible triaryl diamidines, their prodrugs and aza analogues: Synthesis, in vitro and in vivo biological evaluation, and molecular modelling studies.
-34146685	Assessment of the burden of malaria and bacteraemia by retrospective molecular diagnosis in febrile illnesses and first-line anti-infectives in Côte d'Ivoire.
-34146538	Peptides of H. sapiens and P. falciparum that are predicted to bind strongly to HLA-A*24:02 and homologous to a SARS-CoV-2 peptide.
