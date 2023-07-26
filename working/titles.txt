@@ -1,3 +1,7 @@
+37494044	Causes of Death Among Infants and Children in the Child Health and Mortality Prevention Surveillance (CHAMPS) Network.
+37493969	Plasmodium falciparum infection of human erythroblasts induces transcriptional changes associated with dyserythropoiesis.
+37493514	Rapid and Ultrasensitive Detection of Plasmodium spp. Parasites via the RPA-CRISPR/Cas12a Platform.
+37493512	Malaria vaccines to moderate the impact of antibiotic resistance in endemic countries.
 37492994	Comparative proteomics of vesicles essential for the egress of Plasmodium falciparum gametocytes from red blood cells.
 37492570	Glucocorticoid dysfunction in children with severe malaria.
 37492543	In silico study of phytochemicals contained in Brucea javanica in inhibiting the InhA enzyme as antituberculosis.
@@ -9993,7 +9997,3 @@
 34150290	Preparation of nanoemulsion of Cinnamomum zeylanicum oil and evaluation of its larvicidal activity against a main malaria vector Anopheles stephensi.
 34149953	The elusive parasite: comparing macroscopic, immunological, and genomic approaches to identifying malaria in human skeletal remains from Sayala, Egypt (third to sixth centuries AD).
 34149629	Quinoline Antimalarials Increase the Antibacterial Activity of Ampicillin.
-34148028	Drug Shop Intervention to Enhance Knowledge, Attitude, and Practices of Patent Medicine Vendors for the Control of COVID-19 In Southeastern Nigeria.
-34147957	Neurocysticercosis. A frequent cause of seizures, epilepsy, and other neurological morbidity in most of the world.
-34147682	PSOP1, putative secreted ookinete protein 1, is localized to the micronemes of Plasmodium yoelii and P. berghei ookinetes.
-34147154	Mass drug administration for the acceleration of malaria elimination in a region of Myanmar with artemisinin-resistant falciparum malaria: a cluster-randomised trial.
