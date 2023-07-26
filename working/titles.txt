@@ -1,3 +1,9 @@
+37490746	Impact of the Introduction of a Package of Diagnostic Tools, Diagnostic Algorithm, and Training and Communication on Outpatient Acute Fever Case Management at 3 Diverse Sites in Uganda: Results of a Randomized Controlled Trial.
+37490744	Advancing Access to Diagnostic Tools Essential for Universal Health Coverage and Antimicrobial Resistance Prevention: An Overview of Trials in Sub-Saharan Africa.
+37490743	Synthesis and Meta-analysis of 3 Randomized Trials Conducted in Burkina Faso, Ghana, and Uganda Comparing the Effects of Point-of-Care Tests and Diagnostic Algorithms Versus Routine Care on Antibiotic Prescriptions and Clinical Outcomes in Ambulatory Patients <18 Years of Age With Acute Febrile Illness.
+37490742	A Randomized Trial to Assess the Impact of a Package of Diagnostic Tools and Diagnostic Algorithm on Antibiotic Prescriptions for the Management of Febrile Illnesses Among Children and Adolescents in Primary Health Facilities in Burkina Faso.
+37490741	A Qualitative Assessment of a Training and Communication Intervention on Antibiotic Prescription Practices Among Health Workers and Outpatients at Public Health Facilities in Uganda.
+37490738	Viewpoint: Antimicrobial Resistance Diagnostics Use Accelerator: Qualitative Research on Adherence to Prescriptions.
 37489900	Global analysis of putative phospholipases in Plasmodium falciparum reveals an essential role of the phosphoinositide-specific phospholipase C in parasite maturation.
 37489446	Serum Metabolome Signatures Characterizing Co-Infection of Plasmodium falciparum and HBV in Pregnant Women.
 37489384	Identifying Health-Related Conditions Associated with Tinnitus in Young Adults.
@@ -9991,9 +9997,3 @@
 34146538	Peptides of H. sapiens and P. falciparum that are predicted to bind strongly to HLA-A*24:02 and homologous to a SARS-CoV-2 peptide.
 34146476	Sources of persistent malaria transmission in a setting with effective malaria control in eastern Uganda: a longitudinal, observational cohort study.
 34146475	Sizing the reservoirs of malaria transmission: the contribution of school-aged children.
-34145386	Protein phosphatase 1 regulates atypical mitotic and meiotic division in Plasmodium sexual stages.
-34145286	Messenger RNA expressing PfCSP induces functional, protective immune responses against malaria in mice.
-34145231	Inadequate methods undermine a study of malaria, deforestation and trade.
-34145005	Prevalence and fluid management of dehydration in children without diarrhoea admitted to Kenyan hospitals: a multisite observational study.
-34144692	Perceived sustainability of the school-based social and behavior change communication (SBCC) approach on malaria prevention in rural Ethiopia: stakeholders' perspectives.
-34144599	Mosquitoes (Diptera: Culicidae) from Villages and Forest Areas of Rural Communes in Khanh Hoa and Binh Phuoc Provinces, Vietnam.
