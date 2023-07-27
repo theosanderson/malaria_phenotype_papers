@@ -1,3 +1,6 @@
+37497486	Fourier ptychographic microscopy image enhancement with bi-modal deep learning.
+37496995	Interplay Between the Immune and Nervous Cognitive Systems in Homeostasis and in Malaria.
+37496339	Malaria as a Papal Disease.
 37496064	A conceptual framework on the role of backward integration in sustainable access to malaria intervention commodities in Nigeria.
 37496052	Plasmodium falciparum infection and disease in infancy associated with increased risk of malaria and anaemia in childhood.
 37495620	High throughput human genotyping for variants associated with malarial disease outcomes using custom targeted amplicon sequencing.
@@ -9994,6 +9997,3 @@
 34157290	Larval habitat selection by females of two malaria vectors in response to predation risk.
 34157032	Field validation of a magneto-optical detection device (Gazelle) for portable point-of-care Plasmodium vivax diagnosis.
 34156694	Medicine in a forgotten corner of Africa: how EMR can benefit the developing world - The FIMRC and EMR4DW experience.
-34156069	High-throughput detection of eukaryotic parasites and arboviruses in mosquitoes.
-34155201	Composition and stage dynamics of mitochondrial complexes in Plasmodium falciparum.
-34154578	Key informant perspectives on the challenges and opportunities for using routine health data for decision-making in Senegal.
