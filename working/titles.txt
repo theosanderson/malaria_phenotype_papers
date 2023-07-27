@@ -1,3 +1,7 @@
+37496064	A conceptual framework on the role of backward integration in sustainable access to malaria intervention commodities in Nigeria.
+37496052	Plasmodium falciparum infection and disease in infancy associated with increased risk of malaria and anaemia in childhood.
+37495620	High throughput human genotyping for variants associated with malarial disease outcomes using custom targeted amplicon sequencing.
+37494839	Administration of soluble gp130Fc disrupts M-1 macrophage polarization, dendritic cell activation, MDSC expansion and Th-17 induction during experimental cerebral malaria.
 37494413	Assessment of the transmission blocking activity of antimalarial compounds by membrane feeding assays using natural Plasmodium falciparum gametocyte isolates from West-Africa.
 37494408	Caregivers' perception and acceptance of malaria vaccine for Children.
 37494377	The role of perceived threat and self-efficacy in the use of Insecticide Treated Bednets (ITNs) to prevent malaria among pregnant women in Tororo District, Uganda.
@@ -9993,7 +9997,3 @@
 34156069	High-throughput detection of eukaryotic parasites and arboviruses in mosquitoes.
 34155201	Composition and stage dynamics of mitochondrial complexes in Plasmodium falciparum.
 34154578	Key informant perspectives on the challenges and opportunities for using routine health data for decision-making in Senegal.
-34153106	Tracking immunization coverage, dropout and equity gaps among children ages 12-23 months in Malawi - bottleneck analysis of the Malawi Demographic and Health Survey.
-34152946	Plasmodium falciparum kelch 13 Mutations, 9 Countries in Africa, 2014-2018.
-34152830	Strategic Variants of CSP Delivered as SynDNA Vaccines Demonstrate Heterogeneity of Immunogenicity and Protection from Plasmodium Infection in a Murine Model.
-34152821	Effective Therapy Targeting Cytochrome bc(1) Prevents Babesia Erythrocytic Development and Protects from Lethal Infection.
