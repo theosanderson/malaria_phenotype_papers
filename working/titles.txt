@@ -1,3 +1,9 @@
+37505668	Low Prevalence of Schistosoma mekongi Infection and High Prevalence of Other Helminth Infections among Domestic Animals in Southern Lao People's Democratic Republic.
+37505661	Chikungunya Virus Diagnosis: A Review of Current Antigen Detection Methods.
+37505649	Knobs, Adhesion, and Severe Falciparum Malaria.
+37505648	Modelling Differential Diagnosis of Febrile Diseases with Fuzzy Cognitive Map.
+37505188	Macrocyclic Peptidomimetic Plasmepsin X Inhibitors with Potent In Vitro and In Vivo Antimalarial Activity.
+37504591	Maximizing the Potential of Attractive Targeted Sugar Baits (ATSBs) for Integrated Vector Management.
 37503640	Clinical and Laboratory Predictors of Mortality in Severe COVID-19 Pneumonia: A Retrospective Study from India.
 37503245	PEXEL is a proteolytic maturation site for both exported and non-exported Plasmodium proteins.
 37503196	Evaluating evidence for co-geography in the Anopheles Plasmodium host-parasite system.
@@ -9991,9 +9997,3 @@
 34166376	Influence of insecticide resistance on the biting and resting preferences of malaria vectors in the Gambia.
 34163063	Steroid response to malaria.
 34163024	Zealpeptaibolin, an 11-mer cytotoxic peptaibol group with 3 Aib-Pro motifs isolated from Trichoderma sp. RK10-F026.
-34162751	Functional human IgA targets a conserved site on malaria sporozoites.
-34162389	Health inequities and clustering of fever, acute respiratory infection, diarrhoea and wasting in children under five in low- and middle-income countries: a Demographic and Health Surveys analysis.
-34162384	Community-based delivery of intermittent preventive treatment of malaria in pregnancy in Burkina Faso: a qualitative study.
-34162381	Improved Plasmodium falciparum dilution cloning through efficient quantification of parasite numbers and c-SNARF detection.
-34162366	The Plasmodium falciparum Rh5 invasion protein complex reveals an excess of rare variant mutations.
-34161579	Safety and Tolerability of Mosquito Bite-Induced Controlled Human Infection with Plasmodium vivax in Malaria-Naive Study Participants-Clinical Profile and Utility of Molecular Diagnostic Methods.
