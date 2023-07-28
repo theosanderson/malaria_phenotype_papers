@@ -1,10 +1,19 @@
+37503640	Clinical and Laboratory Predictors of Mortality in Severe COVID-19 Pneumonia: A Retrospective Study from India.
+37503245	PEXEL is a proteolytic maturation site for both exported and non-exported Plasmodium proteins.
+37503196	Evaluating evidence for co-geography in the Anopheles Plasmodium host-parasite system.
+37503146	Eliminating Malaria Vectors with Precision Guided Sterile Males.
+37503117	Insight into the structural hierarchy of the protease cascade that regulates the mosquito melanization response.
+37503086	Entire Expressed Peripheral Blood Transcriptome in Pediatric Severe Malarial Anemia.
+37502843	Strong Positive Selection Biases Identity-By-Descent-Based Inferences of Recent Demography and Population Structure in Plasmodium falciparum.
+37501921	Plasmodium falciparum infection and naturally acquired immunity to malaria antigens among Ghanaian children in northern Ghana.
+37501425	Controlling malaria in a population accessing counterfeit antimalarial drugs.
 37501142	Resistance of Anopheles stephensi to selected insecticides used for indoor residual spraying and long-lasting insecticidal nets in Ethiopia.
 37500754	Nonclassical mechanisms to irreversibly suppress β-hematin crystal growth.
+37500682	A recombinant Aspergillus oryzae fungus transmitted from larvae to adults of Anopheles stephensi mosquitoes inhibits malaria parasite oocyst development.
 37500334	Bangladesh in the era of malaria elimination.
 37500332	Malaria high-content imaging, where to next?
 37499679	Malaria transmission-blocking vaccines Pfs230D1-EPA and Pfs25-EPA in Alhydrogel in healthy Malian adults; a phase 1, randomised, controlled trial.
 37499677	A step forward for Plasmodium falciparum malaria transmission-blocking vaccines.
-37500682	A recombinant Aspergillus oryzae fungus transmitted from larvae to adults of Anopheles stephensi mosquitoes inhibits malaria parasite oocyst development.
 37498944	Genetic differentiation among Aedes aegypti populations from different eco-geographical zones of India.
 37498338	Artesunate alleviates 5-fluorouracil-induced intestinal damage by suppressing cellular senescence and enhances its antitumor activity.
 37497800	Biocontrol effect of entomopathogenic fungi Metarhizium anisopliae ethyl acetate-derived chemical molecules: An eco-friendly anti-malarial drug and insecticide.
@@ -9988,12 +9997,3 @@
 34162381	Improved Plasmodium falciparum dilution cloning through efficient quantification of parasite numbers and c-SNARF detection.
 34162366	The Plasmodium falciparum Rh5 invasion protein complex reveals an excess of rare variant mutations.
 34161579	Safety and Tolerability of Mosquito Bite-Induced Controlled Human Infection with Plasmodium vivax in Malaria-Naive Study Participants-Clinical Profile and Utility of Molecular Diagnostic Methods.
-34161394	A field test of the dilution effect hypothesis in four avian multi-host pathogens.
-34161342	Ameliorative effects of Schisandrin B on Schistosoma mansoni-induced hepatic fibrosis in vivo.
-34161336	Mosquito metallomics reveal copper and iron as critical factors for Plasmodium infection.
-34159216	IgG Antibody Responses Are Preferential Compared With IgM for Use as Serological Markers for Detecting Recent Exposure to Plasmodium vivax Infection.
-34159136	Expanded dengue syndrome with small-medium-vessel vasculitis: A case report.
-34159059	Adapting active case-finding for TB during the COVID-19 pandemic in Yogyakarta, Indonesia.
-34158776	Abundance and Distribution of Malaria Vectors in Various Aquatic Habitats and Land Use Types in Kakamega County, Highlands of Western Kenya.
-34158750	Maternal Death Review at a Tertiary Hospital in Ethiopia.
-34158136	Enhanced melioidosis surveillance in patients attending four tertiary hospitals in Yangon, Myanmar.
