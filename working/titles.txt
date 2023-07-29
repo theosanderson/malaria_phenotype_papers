@@ -1,6 +1,26 @@
+37515332	[The number of TIGIT(+)CD8(+) T cells increases but their cytokine secretion decreases in the lungs of Plasmodium yoelii infected mice].
+37514992	Epitopes and Mimotopes Identification Using Phage Display for Vaccine Development against Infectious Pathogens.
+37514065	Responsive Sensory Evaluation to Develop Flexible Taste-Masked Paediatric Primaquine Tablets against Malaria for Low-Resource Settings.
+37513987	Novel Therapeutics for Malaria.
+37513939	Covalent Inhibitors for Neglected Diseases: An Exploration of Novel Therapeutic Options.
+37513792	Occurrence, Prevalence, and Distribution of Haemoparasites of Poultry in Sub-Saharan Africa: A Scoping Review.
+37513789	Diversity of the Bacterial and Viral Communities in the Tropical Horse Tick, Dermacentor nitens, in Colombia.
+37513747	Cultivation of Asexual Intraerythrocytic Stages of Plasmodium falciparum.
+37513742	Association of CYP2C19, CYP2D6 and CYP3A4 Genetic Variants on Primaquine Hemolysis in G6PD-Deficient Patients.
+37513441	Synthesis of Benzocycloalkanone-Based Michael Acceptors and Biological Activities as Antimalarial and Antitrypanosomal Agents.
+37513429	Participation of Oxidative Stress in the Activity of Compounds Isolated from Eleutherine plicata Herb.
+37513343	In Vitro Effect on Plasmodium falciparum and In Vivo Effect on Plasmodium berghei of Annomaal, an Oily Fraction Obtained from the Seeds of Annona squamosa.
+37511544	A New Tool to Study the Binding Behavior of Intrinsically Disordered Proteins.
+37511330	Construction, Expression, and Evaluation of the Naturally Acquired Humoral Immune Response against Plasmodium vivax RMC-1, a Multistage Chimeric Protein.
+37511092	Increased Neutrophil Percentage and Neutrophil-T Cell Ratio Precedes Clinical Onset of Experimental Cerebral Malaria.
+37510357	Phylogenetic Analysis of Some Species of the Anopheles hyrcanus Group (Diptera: Culicidae) in China Based on Complete Mitochondrial Genomes.
+37510274	Cryptic Diversity and Demographic Expansion of Plasmodium knowlesi Malaria Vectors in Malaysia.
+37509168	A Molecular Analysis of the Aminopeptidase P-Related Domain of PID-5 from Caenorhabditis elegans.
+37508006	Micromolar Dihydroartemisinin Concentrations Elicit Lipoperoxidation in Plasmodium falciparum-Infected Erythrocytes.
+37507911	Roles of Oxidative Stress and Nrf2 Signaling in Pathogenic and Non-Pathogenic Cells: A Possible General Mechanism of Resistance to Therapy.
 37507749	Quality of vital event data for infant mortality estimation in prospective, population-based studies: an analysis of secondary data from Asia, Africa, and Latin America.
-37507740	Anaemia, iron deficiency and inflammation prevalence in children in the Mount Cameroon area and the contribution of inflammatory cytokines on haemoglobin and ferritin concentrations: a cross sectional study.
 37507591	Tautomeric equilibrium and spectroscopic properties of 8-azaguanine revealed by quantum chemistry methods.
+37507740	Anaemia, iron deficiency and inflammation prevalence in children in the Mount Cameroon area and the contribution of inflammatory cytokines on haemoglobin and ferritin concentrations: a cross sectional study.
 37507541	Malaria positivity rate trend analysis at water resources development project of Wonji Sugar Estate Oromia, Ethiopia.
 37507429	In vitro and in vivo antiplasmodial evaluation of sugar-modified nucleoside analogues.
 37507423	PermaNet Dual, a new deltamethrin-chlorfenapyr mixture net, shows improved efficacy against pyrethroid-resistant Anopheles gambiae sensu lato in southern Benin.
@@ -9977,23 +9997,3 @@
 34172729	Impact of an accelerated melting of Greenland on malaria distribution over Africa.
 34172712	An adjuvant effect of Metformin as an anti-fibrotic agent when administered with the anti-schistosomal Praziquantel in Schistosoma mansoni infected mice.
 34172707	PesTrapp mobile app: A trap setting application for real-time entomological field and laboratory study.
-34172705	Genetic diversity of the full length apical membrane antigen-1 of Plasmodium knowlesi clinical isolates from Peninsular Malaysia.
-34172703	Experimental Study on Plasmodium knowlesi Normocyte Binding Protein Xa Region II (PkNBPXaII) for Erythrocyte Binding.
-34172399	Single-cell genome sequencing of protozoan parasites.
-34172046	Identifying prognostic factors of severe metabolic acidosis and uraemia in African children with severe falciparum malaria: a secondary analysis of a randomized trial.
-34171456	Tadalafil impacts the mechanical properties of Plasmodium falciparum gametocyte-infected erythrocytes.
-34170955	Malaria and dengue in Hodeidah city, Yemen: High proportion of febrile outpatients with dengue or malaria, but low proportion co-infected.
-34170917	Malaria risk factors in northern Namibia: The importance of occupation, age and mobility in characterizing high-risk populations.
-34170846	COVID-19 Transmission among Healthcare Workers at a Quarantine Facility in Thailand: Genomic and Outbreak Investigations.
-34170192	Monoclonal Antibody for Recombinant Histidine Rich Protein 3 (HRP 3) of Plasmodium falciparam.
-34170120	Identification of the Glycan Binding Profile of Human and Rodent Plasmodium Sporozoites.
-34168948	Structure based design, stability study and synthesis of the dinitrophenylhydrazone derivative of the oxidation product of lanosterol as a potential P. falciparum transketolase inhibitor and in-vivo antimalarial study.
-34168657	Bridging Computational Vaccinology and Vaccine Development Through Systematic Identification, Characterization, and Downselection of Conserved and Variable Circumsporozoite Protein CD4 T Cell Epitopes From Diverse Plasmodium falciparum Strains.
-34168652	Beyond Binding: The Outcomes of Antibody-Dependent Complement Activation in Human Malaria.
-34168490	Screening and Identification of Key Genes, Pathways, and Drugs Associated with Neuropathic Pain in Dorsal Horn: Evidence from Bioinformatic Analysis.
-34168264	Considerations for quality assurance of multiplex malaria antigen detection assays with large sample sets.
-34168204	Determining the burden of fungal infections in Zimbabwe.
-34168029	Evaluation of Artesunate-mefloquine as a Novel Alternative Treatment for Schistosomiasis in African Children (SchistoSAM): protocol of a proof-of-concept, open-label, two-arm, individually-randomised controlled trial.
-34167536	SERCAP: is the perfect the enemy of the good?
-34167535	Effect of α-tocopheryloxy acetic acid, a vitamin E derivative mitocan, on the experimental infection of mice with Plasmodium yoelii.
-34167104	3C-GAN: class-consistent CycleGAN for malaria domain adaptation model.
