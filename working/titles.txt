@@ -19,8 +19,8 @@
 37508006	Micromolar Dihydroartemisinin Concentrations Elicit Lipoperoxidation in Plasmodium falciparum-Infected Erythrocytes.
 37507911	Roles of Oxidative Stress and Nrf2 Signaling in Pathogenic and Non-Pathogenic Cells: A Possible General Mechanism of Resistance to Therapy.
 37507749	Quality of vital event data for infant mortality estimation in prospective, population-based studies: an analysis of secondary data from Asia, Africa, and Latin America.
-37507591	Tautomeric equilibrium and spectroscopic properties of 8-azaguanine revealed by quantum chemistry methods.
 37507740	Anaemia, iron deficiency and inflammation prevalence in children in the Mount Cameroon area and the contribution of inflammatory cytokines on haemoglobin and ferritin concentrations: a cross sectional study.
+37507591	Tautomeric equilibrium and spectroscopic properties of 8-azaguanine revealed by quantum chemistry methods.
 37507541	Malaria positivity rate trend analysis at water resources development project of Wonji Sugar Estate Oromia, Ethiopia.
 37507429	In vitro and in vivo antiplasmodial evaluation of sugar-modified nucleoside analogues.
 37507423	PermaNet Dual, a new deltamethrin-chlorfenapyr mixture net, shows improved efficacy against pyrethroid-resistant Anopheles gambiae sensu lato in southern Benin.
