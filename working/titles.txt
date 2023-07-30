@@ -1,3 +1,4 @@
+37515483	A comprehensive framework for detecting copy number variants from single nucleotide polymorphism data: 'rCNV', a versatile r package for paralogue and CNV detection.
 37515332	[The number of TIGIT(+)CD8(+) T cells increases but their cytokine secretion decreases in the lungs of Plasmodium yoelii infected mice].
 37514992	Epitopes and Mimotopes Identification Using Phage Display for Vaccine Development against Infectious Pathogens.
 37514065	Responsive Sensory Evaluation to Develop Flexible Taste-Masked Paediatric Primaquine Tablets against Malaria for Low-Resource Settings.
@@ -135,7 +136,7 @@
 37468917	Molecular epidemiology of non-falciparum Plasmodium infections in three different areas of the Ivory Coast.
 37468559	Bird community effects on avian malaria infections.
 37468470	Hearing of malaria mosquitoes is modulated by a beta-adrenergic-like octopamine receptor which serves as insecticide target.
-37468046	Artificial Intelligence, Machine Learning and Deep Learning: Potential Resources for the Infection Clinician.
+37468046	Artificial intelligence, machine learning and deep learning: Potential resources for the infection clinician.
 37467874	Bird species with wider geographical ranges have higher blood parasite diversity but not prevalence across the African-Eurasian flyway.
 37467691	The immunity modulation of transforming growth factor-β in malaria and other pathological process.
 37467665	Inflammatory profiles in febrile children with moderate and severe malnutrition presenting at-hospital in Uganda are associated with increased mortality.
@@ -9996,4 +9997,3 @@
 34172748	A genetically encoded anti-CRISPR protein constrains gene drive spread and prevents population suppression.
 34172729	Impact of an accelerated melting of Greenland on malaria distribution over Africa.
 34172712	An adjuvant effect of Metformin as an anti-fibrotic agent when administered with the anti-schistosomal Praziquantel in Schistosoma mansoni infected mice.
-34172707	PesTrapp mobile app: A trap setting application for real-time entomological field and laboratory study.
