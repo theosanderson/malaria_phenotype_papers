@@ -1,3 +1,8 @@
+37516425	Fetal growth and birth weight are independently reduced by malaria infection and curable sexually transmitted and reproductive tract infections in Kenya, Tanzania, and Malawi: A pregnancy cohort study.
+37516752	Preventing antimalarial drug resistance with triple artemisinin-based combination therapies.
+37516734	The deubiquitinating enzyme OTUD7b protects dendritic cells from TNF-induced apoptosis by stabilizing the E3 ligase TRAF2.
+37516289	Distinct dynamical features of plasmodial and human HSP70-HSP110 highlight the divergence in their chaperone-assisted protein folding.
+37515848	Are high avidity antibodies to Plasmodium falciparum antigens preferentially transferred across the placenta of premature and term babies?
 37515483	A comprehensive framework for detecting copy number variants from single nucleotide polymorphism data: 'rCNV', a versatile r package for paralogue and CNV detection.
 37515332	[The number of TIGIT(+)CD8(+) T cells increases but their cytokine secretion decreases in the lungs of Plasmodium yoelii infected mice].
 37514992	Epitopes and Mimotopes Identification Using Phage Display for Vaccine Development against Infectious Pathogens.
@@ -9992,8 +9997,3 @@
 34174198	Utilization of a local 'Malaria Post' indicates that carers from a village in Mozambique respond appropriately to malaria attacks.
 34173960	A Prospective Study of Etiological Agents Among Febrile Patients in Sierra Leone.
 34173684	Extrachromosomal DNA amplicons in antimalarial-resistant Plasmodium falciparum.
-34173181	CD36 Ectodomain Detects Apoptosis in Mammalian Cells.
-34172779	The impact of large and small dams on malaria transmission in four basins in Africa.
-34172748	A genetically encoded anti-CRISPR protein constrains gene drive spread and prevents population suppression.
-34172729	Impact of an accelerated melting of Greenland on malaria distribution over Africa.
-34172712	An adjuvant effect of Metformin as an anti-fibrotic agent when administered with the anti-schistosomal Praziquantel in Schistosoma mansoni infected mice.
