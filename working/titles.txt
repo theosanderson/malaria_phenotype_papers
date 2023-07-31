@@ -1,3 +1,9 @@
+37518819	Novel secretory organelles of parasite origin - at the center of host-parasite interaction.
+37517990	Defining operational research priorities to improve malaria control and elimination in sub-Saharan Africa: results from a country-driven research prioritization setting process.
+37517694	A detailed kinetic model of glycolysis in P. falciparum-infected red blood cells for antimalarial drug target identification.
+37517615	An updated review on distribution, biosynthesis and pharmacological effects of artemisinin: A wonder drug.
+37517558	30-norfriedelanes and other compounds from the stem bark and fruits of Caloncoba glauca (Achariaceae), their antiplasmodial activity, structure-activity relationship and computational validation.
+37517424	Climate change and malaria: predictions becoming reality.
 37516752	Preventing antimalarial drug resistance with triple artemisinin-based combination therapies.
 37516734	The deubiquitinating enzyme OTUD7b protects dendritic cells from TNF-induced apoptosis by stabilizing the E3 ligase TRAF2.
 37516425	Fetal growth and birth weight are independently reduced by malaria infection and curable sexually transmitted and reproductive tract infections in Kenya, Tanzania, and Malawi: A pregnancy cohort study.
@@ -9991,9 +9997,3 @@
 34174892	Challenges and opportunities for use of long-lasting insecticidal nets to prevent malaria during overnight travel in Uganda: a qualitative study.
 34174891	The malaria burden of Amerindian groups of three Venezuelan states: a descriptive study based on programmatic data.
 34174880	Perceptions about malaria among Brazilian gold miners in an Amazonian border area: perspectives for malaria elimination strategies.
-34174879	Transient knockdown of Anopheles stephensi LRIM1 using RNAi increases Plasmodium falciparum sporozoite salivary gland infections.
-34174598	The adverse health effects associated with drought in Africa.
-34174430	Diagnosis of Chikungunya Virus in Febrile Patients From a Malaria Holoendemic Area.
-34174198	Utilization of a local 'Malaria Post' indicates that carers from a village in Mozambique respond appropriately to malaria attacks.
-34173960	A Prospective Study of Etiological Agents Among Febrile Patients in Sierra Leone.
-34173684	Extrachromosomal DNA amplicons in antimalarial-resistant Plasmodium falciparum.
