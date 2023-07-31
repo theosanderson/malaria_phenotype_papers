@@ -1,4 +1,3 @@
-37521844	Virtual screening and molecular dynamic simulations of the antimalarial derivatives of 2-anilino 4-amino substituted quinazolines docked against a Pf-DHODH protein target.
 37521536	Malaria parasite carriage before and two years after the implementation of seasonal malaria chemoprevention: a case study of the Saraya health district, southern Senegal.
 37521482	Editorial: Global excellence in pharmacology of infectious diseases: Australia and Asia.
 37521242	Malaria and an Amoebic Abscess in a Returning Traveler from Liberia.
@@ -7492,6 +7491,7 @@
 34973474	Comparative performance of WANTAI ELISA for total immunoglobulin to receptor binding protein and an ELISA for IgG to spike protein in detecting SARS-CoV-2 antibodies in Kenyan populations.
 34973453	Imported malaria in Switzerland, (1990-2019): A retrospective analysis.
 34973333	Enzymatic and structural characterization of HAD5, an essential phosphomannomutase of malaria-causing parasites.
+37521844	Virtual screening and molecular dynamic simulations of the antimalarial derivatives of 2-anilino 4-amino substituted quinazolines docked against a Pf-DHODH protein target.
 37200864	Decrypting the complexity of the human malaria parasite biology through systems biology approaches.
 37017189	Challenges in diagnosing fever in traveler returning from tropical ares - is it dengue or chikungunya? Case report.
 36998722	Unravelling var complexity: Relationship between DBLα types and var genes in Plasmodium falciparum.
