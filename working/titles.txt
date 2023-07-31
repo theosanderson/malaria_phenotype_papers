@@ -1,7 +1,7 @@
-37518819	Novel secretory organelles of parasite origin - at the center of host-parasite interaction.
 37517990	Defining operational research priorities to improve malaria control and elimination in sub-Saharan Africa: results from a country-driven research prioritization setting process.
-37517694	A detailed kinetic model of glycolysis in P. falciparum-infected red blood cells for antimalarial drug target identification.
 37517615	An updated review on distribution, biosynthesis and pharmacological effects of artemisinin: A wonder drug.
+37518819	Novel secretory organelles of parasite origin - at the center of host-parasite interaction.
+37517694	A detailed kinetic model of glycolysis in P. falciparum-infected red blood cells for antimalarial drug target identification.
 37517558	30-norfriedelanes and other compounds from the stem bark and fruits of Caloncoba glauca (Achariaceae), their antiplasmodial activity, structure-activity relationship and computational validation.
 37517424	Climate change and malaria: predictions becoming reality.
 37516752	Preventing antimalarial drug resistance with triple artemisinin-based combination therapies.
