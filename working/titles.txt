@@ -1,7 +1,18 @@
-37517990	Defining operational research priorities to improve malaria control and elimination in sub-Saharan Africa: results from a country-driven research prioritization setting process.
-37517615	An updated review on distribution, biosynthesis and pharmacological effects of artemisinin: A wonder drug.
+37521844	Virtual screening and molecular dynamic simulations of the antimalarial derivatives of 2-anilino 4-amino substituted quinazolines docked against a Pf-DHODH protein target.
+37521536	Malaria parasite carriage before and two years after the implementation of seasonal malaria chemoprevention: a case study of the Saraya health district, southern Senegal.
+37521482	Editorial: Global excellence in pharmacology of infectious diseases: Australia and Asia.
+37521242	Malaria and an Amoebic Abscess in a Returning Traveler from Liberia.
+37520991	Etiologies and factors associated with mortality in patients with non-traumatic coma in a tertiary hospital in Bukavu, eastern Democratic Republic of the Congo.
+37520900	A single Haemoproteus plataleae haplotype is widespread in white ibis (Eudocimus albus) from urban and rural sites in southern Florida.
+37520543	Editorial: Global excellence in molecular immunology and therapeutics: Africa 2021.
+37520418	Differential Effects of Antimalarial Drugs on Parasite Clearance Rates Are Reflected by Plasmodium falciparum Ring Ratio.
+37520211	Climate parameter and malaria association in north-east India.
+37519433	Retention and Predictors of Attrition Among People Living With HIV on Antiretroviral Therapy in Guinea: A 13-Year Historical Cohort Study in Nine Large-Volume Sites.
+37519413	Pharmacokinetics and pharmacodynamics of azithromycin in severe malaria bacterial co-infection in African children (TABS-PKPD): a protocol for a Phase II randomised controlled trial.
 37518819	Novel secretory organelles of parasite origin - at the center of host-parasite interaction.
+37517990	Defining operational research priorities to improve malaria control and elimination in sub-Saharan Africa: results from a country-driven research prioritization setting process.
 37517694	A detailed kinetic model of glycolysis in P. falciparum-infected red blood cells for antimalarial drug target identification.
+37517615	An updated review on distribution, biosynthesis and pharmacological effects of artemisinin: A wonder drug.
 37517558	30-norfriedelanes and other compounds from the stem bark and fruits of Caloncoba glauca (Achariaceae), their antiplasmodial activity, structure-activity relationship and computational validation.
 37517424	Climate change and malaria: predictions becoming reality.
 37516752	Preventing antimalarial drug resistance with triple artemisinin-based combination therapies.
@@ -9986,14 +9997,3 @@
 34179977	Seeking an optimal dosing regimen for OZ439/DSM265 combination therapy for treating uncomplicated falciparum malaria.
 34178768	Biochemical Mechanism of Insecticide Resistance in Malaria Vector, Anopheles gambiae s.l in Nigeria.
 34178727	Re-Envisioning Anti-Apicomplexan Parasite Drug Discovery Approaches.
-34178724	Targeting SUMOylation in Plasmodium as a Potential Target for Malaria Therapy.
-34177883	Altered Ex-Vivo Cytokine Responses in Children With Asymptomatic Plasmodium falciparum Infection in Burkina Faso: An Additional Argument to Treat Asymptomatic Malaria?
-34176411	Improved biopharmaceutical attributes of lumefantrine using choline mimicking drug delivery system: preclinical investigation on NK-65 P.berghei murine model.
-37073350	Structure modification, antialgal, antiplasmodial, and toxic evaluations of a series of new marine-derived 14-membered resorcylic acid lactone derivatives.
-34175441	Role of human group IIA secreted phospholipase A2 in malaria pathophysiology: Insights from a transgenic mouse model.
-34175127	Extended follow-up of children in a phase2b trial of the GMZ2 malaria vaccine.
-34174956	Aedes species (Diptera: Culicidae) ecological and host feeding patterns in the north-eastern parts of South Africa, 2014-2018.
-34174946	Insecticide resistance status of Anopheles arabiensis in irrigated and non-irrigated areas in western Kenya.
-34174892	Challenges and opportunities for use of long-lasting insecticidal nets to prevent malaria during overnight travel in Uganda: a qualitative study.
-34174891	The malaria burden of Amerindian groups of three Venezuelan states: a descriptive study based on programmatic data.
-34174880	Perceptions about malaria among Brazilian gold miners in an Amazonian border area: perspectives for malaria elimination strategies.
