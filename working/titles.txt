@@ -1,3 +1,10 @@
+37525227	Inflammatory cytokines as potential biomarkers for early diagnosis of severe malaria in children in Ghana.
+37525192	Economic analysis of a new four-panel rapid screening test in antenatal care in Kenya, Rwanda, and Uganda.
+37525093	Fever and health-seeking behaviour among migrants living along the Thai-Myanmar border: a mixed-methods study.
+37524800	NF-κB subunits direct kinetically distinct transcriptional cascades in antigen receptor-activated B cells.
+37524606	The Characteristic of Recurrent Malaria Episode: An Observational Study in Timika Papua.
+37524553	PARIST study protocol: a phase I/II randomised, controlled clinical trial to assess the feasibility, safety and effectiveness of paracetamol in resolving acute kidney injury in children with severe malaria.
+37524976	Decoding the impact of nuclear organization on antigenic variation in parasites.
 37523515	Codetection of Plasmodium falciparum in Children Hospitalized With Dengue Fever in the Dominican Republic.
 37523402	Epidemiology of malaria, schistosomiasis, and geohelminthiasis amongst children 3-15 years of age during the dry season in Northern Cameroon.
 37523385	PTEX helps efficiently traffic haemoglobinases to the food vacuole in Plasmodium falciparum.
@@ -9990,10 +9997,3 @@
 34183015	Humoral and cellular immune response to Plasmodium vivax VIR recombinant and synthetic antigens in individuals naturally exposed to P. vivax in the Republic of Korea.
 34183006	Multiplex PCR assay for the identification of eight Anopheles species belonging to the Hyrcanus, Barbirostris and Lindesayi groups.
 34182772	Protein Prenylation and Hsp40 in Thermotolerance of Plasmodium falciparum Malaria Parasites.
-34182573	The effect of anticoagulants in blood collection tubes on Plasmodium falciparum transmission in direct membrane feeding assays.
-34181958	Cissus quadrangularis L: A comprehensive multidisciplinary review.
-34181872	Developing a multivariate prediction model of antibody features associated with protection of malaria-infected pregnant women from placental malaria.
-34181795	Associations between Afrotropical bats, eukaryotic parasites, and microbial symbionts.
-34181704	The COVID-19 pandemic: an increased risk of rheumatoid arthritis.
-34181665	Determining seropositivity-A review of approaches to define population seroprevalence when using multiplex bead assays to assess burden of tropical diseases.
-34181578	Intermittent Preventive Treatment of Malaria in Pregnancy Coverage Estimates from Population-based Surveys: Reliability of Women's Recall Among Women with ANC Cards.
