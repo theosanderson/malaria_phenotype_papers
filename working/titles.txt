@@ -566,7 +566,7 @@
 37338318	Is the presence of mosquitoes an indicator of poor environmental sanitation?
 37337909	Screening the medicine for malaria venture's Pandemic Response Box to identify novel inhibitors of Candida albicans and Candida auris biofilm formation.
 37337774	Artemannuols A-C, novel sesquiterpenoid-flavonol hybrids with antihepatoma activity from Artemisia annua.
-37337659	Malaria is associated with diminished levels of ascorbic acid: A systematic review and meta-analysis.
+37337659	Malaria Is Associated with Diminished Levels of Ascorbic Acid: A Systematic Review and Meta-Analysis.
 37337263	Bridging the gap in knowledge and use of antibiotics among pediatric caregivers: comparing two educational interventions.
 37337221	Estimating malaria transmission risk through surveillance of human-vector interactions in northern Ghana.
 37337209	Public health impact of the spread of Anopheles stephensi in the WHO Eastern Mediterranean Region countries in Horn of Africa and Yemen: need for integrated vector surveillance and control.
