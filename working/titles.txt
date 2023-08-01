@@ -1,10 +1,25 @@
+37525906	Hydroxychloroquine Toxicity in the Vital Organs of the Body: In Vivo Study.
+37525775	Hemophagocytic Lymphohistiocytosis Associated With Polyserositis and Salmonella typhi Infection.
+37525687	[Vaccination against malaria].
+37525683	[Elucidating and characterizing the dynamic biological processes that account for the sustainability of Leishmania populations].
+37525678	[Second Soguipit Congress "emerging and re-emerging infectious diseases in Africa: governance, challenges and prospects". 13 - 14 October 2022, Conakry, Guinea].
+37525676	[Malaria today].
+37525673	[Influence of white blood cells count on parasite density in Malaria in children aged 6 to 59 months in Benin].
+37525672	[In the wake of Alphonse Laveran].
+37525671	[Malaria in 2022: clinical and therapeutic aspects].
+37525644	[Laveran, the Pasteurian researcher].
+37525643	[Laveran and the French Academy of Medicine].
+37525641	[Epidemiology of malaria in the French Armed Forces].
+37525640	[Laveran, the military doctor].
+37525639	[Laveran and the eradication of malaria in Corsica].
+37525638	[Understanding the mode of transmission of malaria agents: an astonishing series of hypotheses, observations, research and controversy].
 37525227	Inflammatory cytokines as potential biomarkers for early diagnosis of severe malaria in children in Ghana.
 37525192	Economic analysis of a new four-panel rapid screening test in antenatal care in Kenya, Rwanda, and Uganda.
 37525093	Fever and health-seeking behaviour among migrants living along the Thai-Myanmar border: a mixed-methods study.
+37524976	Decoding the impact of nuclear organization on antigenic variation in parasites.
 37524800	NF-κB subunits direct kinetically distinct transcriptional cascades in antigen receptor-activated B cells.
 37524606	The Characteristic of Recurrent Malaria Episode: An Observational Study in Timika Papua.
 37524553	PARIST study protocol: a phase I/II randomised, controlled clinical trial to assess the feasibility, safety and effectiveness of paracetamol in resolving acute kidney injury in children with severe malaria.
-37524976	Decoding the impact of nuclear organization on antigenic variation in parasites.
 37523515	Codetection of Plasmodium falciparum in Children Hospitalized With Dengue Fever in the Dominican Republic.
 37523402	Epidemiology of malaria, schistosomiasis, and geohelminthiasis amongst children 3-15 years of age during the dry season in Northern Cameroon.
 37523385	PTEX helps efficiently traffic haemoglobinases to the food vacuole in Plasmodium falciparum.
@@ -9982,18 +9997,3 @@
 34187546	Data-driven and interpretable machine-learning modeling to explore the fine-scale environmental determinants of malaria vectors biting rates in rural Burkina Faso.
 34187489	Effectiveness of in-service training plus the collaborative improvement strategy on the quality of routine malaria surveillance data: results of a pilot study in Kayunga District, Uganda.
 34187481	Opening the 'black box' of collaborative improvement: a qualitative evaluation of a pilot intervention to improve quality of malaria surveillance data in public health centres in Uganda.
-34187458	Healthcare provider and pregnant women's perspectives on the implementation of intermittent screening and treatment with dihydroartemisinin-piperaquine for malaria in pregnancy in western Kenya: a qualitative study.
-34187456	Identification of 3,3'-O-dimethylellagic acid and apigenin as the main antiplasmodial constituents of Endodesmia calophylloides Benth and Hymenostegia afzelii (Oliver.) Harms.
-34187454	The association between a conditional cash transfer programme and malaria incidence: a longitudinal ecological study in the Brazilian Amazon between 2004 and 2015.
-34187248	Two new farnesyl hydroquinones from Pestalotiopsis diploclisia (BCC 35283), the fungus associated with algae.
-34185847	Rapidly Increasing Severe Acute Respiratory Syndrome Coronavirus 2 Seroprevalence and Limited Clinical Disease in 3 Malian Communities: A Prospective Cohort Study.
-34185525	Procainamide-SAHA Fused Inhibitors of hHDAC6 Tackle Multidrug-Resistant Malaria Parasites.
-34185402	Plasma levels of hsa-miR-3158-3p microRNA on admission correlate with MRI findings and predict outcome in cerebral malaria.
-34184983	The role of lipid droplets in microbial pathogenesis.
-34184757	Ivermectin treatment in humans for reducing malaria transmission.
-34184352	Structural analyses of the malaria parasite aminoacyl-tRNA synthetases provide new avenues for antimalarial drug discovery.
-34184087	PI3K/AKT phosphorylation activates ERRα by upregulating PGC‑1α and PGC‑1β in gallbladder cancer.
-34183715	Plasmodium falciparum phenotypic and genotypic resistance profile during the emergence of Piperaquine resistance in Northeastern Thailand.
-34183015	Humoral and cellular immune response to Plasmodium vivax VIR recombinant and synthetic antigens in individuals naturally exposed to P. vivax in the Republic of Korea.
-34183006	Multiplex PCR assay for the identification of eight Anopheles species belonging to the Hyrcanus, Barbirostris and Lindesayi groups.
-34182772	Protein Prenylation and Hsp40 in Thermotolerance of Plasmodium falciparum Malaria Parasites.
