@@ -1,3 +1,8 @@
+37523515	Codetection of Plasmodium falciparum in Children Hospitalized With Dengue Fever in the Dominican Republic.
+37523402	Epidemiology of malaria, schistosomiasis, and geohelminthiasis amongst children 3-15 years of age during the dry season in Northern Cameroon.
+37523385	PTEX helps efficiently traffic haemoglobinases to the food vacuole in Plasmodium falciparum.
+37523376	Can women's reports in client exit interviews be used to measure and track progress of antenatal care services quality? Evidence from a facility assessment census in Malawi.
+37523349	Rethinking communications for governance of malaria programs.
 37521536	Malaria parasite carriage before and two years after the implementation of seasonal malaria chemoprevention: a case study of the Saraya health district, southern Senegal.
 37521482	Editorial: Global excellence in pharmacology of infectious diseases: Australia and Asia.
 37521242	Malaria and an Amoebic Abscess in a Returning Traveler from Liberia.
@@ -9992,8 +9997,3 @@
 34181704	The COVID-19 pandemic: an increased risk of rheumatoid arthritis.
 34181665	Determining seropositivity-A review of approaches to define population seroprevalence when using multiplex bead assays to assess burden of tropical diseases.
 34181578	Intermittent Preventive Treatment of Malaria in Pregnancy Coverage Estimates from Population-based Surveys: Reliability of Women's Recall Among Women with ANC Cards.
-34181575	Free Market Availability of Rapid Diagnostics Will Empower Communities To Control Malaria in India.
-34181571	Are Dawn Collections of Anopheles stephensi a Better Method To Estimate the Resting Vector Density? A Study from Chennai, India.
-34179977	Seeking an optimal dosing regimen for OZ439/DSM265 combination therapy for treating uncomplicated falciparum malaria.
-34178768	Biochemical Mechanism of Insecticide Resistance in Malaria Vector, Anopheles gambiae s.l in Nigeria.
-34178727	Re-Envisioning Anti-Apicomplexan Parasite Drug Discovery Approaches.
