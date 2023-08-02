@@ -1,3 +1,7 @@
+37529888	A simple polystyrene microfluidic device for sensitive and accurate SERS-based detection of infection by malaria parasites.
+37529501	Assessment of Safe Motherhood Health Service Coverage, Birth Defects Detection and Child Disability Prevention Using Lot Quality Assurance Sampling in Central Uganda.
+37528867	Late dihydroartemisinin-piperaquine treatment failure of P. falciparum malaria attack related to insufficient dosing in an obese patient.
+37528665	Structure-based virtual screening approach reveals natural multi-target compounds for the development of antimalarial drugs to combat drug resistance.
 37528368	Diversity of Anopheles species and zoonotic malaria vector of the Buton Utara Wildlife Sanctuary, Southeast Sulawesi, Indonesia.
 37528099	Sequential roles for red blood cell binding proteins enable phased commitment to invasion for malaria parasites.
 37527341	The structure of Plasmodium falciparum multidrug resistance protein 1 reveals an N-terminal regulatory domain.
@@ -9993,7 +9997,3 @@
 34189847	A decade and beyond: learnings from HIV programming with underserved and marginalized key populations in Kenya.
 34189715	Phenylpropanoid conjugated iridoids with anti-malarial activity from the leaves of Morinda morindoides.
 34189318	Typical and atypical cutaneous leishmaniasis in Himachal Pradesh (India).
-34188875	Prevalence and intensity of avian malaria in a quail hybrid zone.
-34188457	Prediction of Human-Plasmodium vivax Protein Associations From Heterogeneous Network Structures Based on Machine-Learning Approach.
-34188090	An increasing role of pyrethroid-resistant Anopheles funestus in malaria transmission in the Lake Zone, Tanzania.
-34187826	How do participatory methods shape policy? Applying a realist approach to the formulation of a new tuberculosis policy in Georgia.
