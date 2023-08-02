@@ -1,3 +1,4 @@
+37527341	The structure of Plasmodium falciparum multidrug resistance protein 1 reveals an N-terminal regulatory domain.
 37525906	Hydroxychloroquine Toxicity in the Vital Organs of the Body: In Vivo Study.
 37525775	Hemophagocytic Lymphohistiocytosis Associated With Polyserositis and Salmonella typhi Infection.
 37525687	[Vaccination against malaria].
@@ -9996,4 +9997,3 @@
 34187826	How do participatory methods shape policy? Applying a realist approach to the formulation of a new tuberculosis policy in Georgia.
 34187546	Data-driven and interpretable machine-learning modeling to explore the fine-scale environmental determinants of malaria vectors biting rates in rural Burkina Faso.
 34187489	Effectiveness of in-service training plus the collaborative improvement strategy on the quality of routine malaria surveillance data: results of a pilot study in Kayunga District, Uganda.
-34187481	Opening the 'black box' of collaborative improvement: a qualitative evaluation of a pilot intervention to improve quality of malaria surveillance data in public health centres in Uganda.
