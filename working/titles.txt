@@ -1,8 +1,15 @@
-37533029	Insecticide-treated bed net utilization and associated factors among pregnant women in Ethiopia: a systematic review and meta-analysis.
-37532005	Tarsal exposure to atovaquone inhibits chikungunya virus transmission by Aedes aegypti mosquitoes, but not the transmission of Zika virus.
+37534175	Plasmodium falciparum infection reshapes the human microRNA profiles of red blood cells and their extracellular vesicles.
+37533979	Assessment of the impact of the biological larvicide VectoMax G: Combination of Bacillus thuringiensis and Lysinibacillus sphaericus on non-target aquatic organisms in Yaoundé-Cameroon.
+37533823	Anopheline mosquito saliva contains bacteria that are transferred to a mammalian host through blood feeding.
+37533635	High-content imaging as a tool to quantify and characterize malaria parasites.
+37533623	Image-Based Communication for Strengthening Patient Health Education in Rural and Underserved Settings.
+37533552	Comparison of deforestation and forest land use factors for malaria elimination in Myanmar.
+37533140	Differences in the Circulating Proteome in Individuals with versus without Sickle Cell Trait.
 37533064	Measuring quality of facility-based ITN distribution in Ghana.
+37533029	Insecticide-treated bed net utilization and associated factors among pregnant women in Ethiopia: a systematic review and meta-analysis.
 37533014	Successful implementation of ITN distribution through health facilities in Ghana.
 37532704	Development of Plasmodium falciparum liver-stages in hepatocytes derived from human fetal liver organoid cultures.
+37532005	Tarsal exposure to atovaquone inhibits chikungunya virus transmission by Aedes aegypti mosquitoes, but not the transmission of Zika virus.
 37531372	Mask use in public places in Maputo City, Mozambique: Cross-sectional survey.
 37531325	Novel bioinformatic methods and machine learning approaches reveal candidate biomarkers of the intensity and timing of past exposure to Plasmodium falciparum.
 37529888	A simple polystyrene microfluidic device for sensitive and accurate SERS-based detection of infection by malaria parasites.
@@ -946,6 +953,7 @@
 37206261	Red blood cell alloantibodies in paediatric transfusion in sub-Saharan Africa: A new cohort and literature review.
 37205786	Optical Coherence Tomography and Optical Coherence Tomography Angiography in Neglected Diseases.
 37205645	Community-level impacts of the coronavirus pandemic on malaria prevention and health-seeking behaviours in rural Benin: A mixed methods study.
+37205465	Diversity of the bacterial and viral communities in the tropical horse tick, Dermacentor nitens in Colombia.
 37205446	Boosting Live Malaria Vaccine with Cytomegalovirus Vector Can Prolong Immunity through Innate and Adaptive Mechanisms.
 37205382	Applying the COM-B behavior model to inform the delivery of spatial repellents and insecticide-treated clothing among forest exposed populations in Mondulkiri Province, Cambodia.
 37204422	Genomic variation during culture adaptation of genetically complex Plasmodium falciparum clinical isolates.
@@ -9989,11 +9997,3 @@
 34194041	Two chemoattenuated PfSPZ malaria vaccines induce sterile hepatic immunity.
 34194001	Vaccine made of live malaria parasites shows early success.
 34193990	Malaria vaccine gets a parasite boost in the liver.
-34193475	Effectiveness and safety of reactive focal mass drug administration (rfMDA) using dihydroartemisinin-piperaquine to reduce malaria transmission in the very low-endemic setting of Eswatini: a pragmatic cluster randomised controlled trial.
-34193410	Malaria parasite infection compromises colonization resistance to an enteric pathogen by reducing gastric acidity.
-34193398	Longitudinal ex vivo and molecular trends of chloroquine and piperaquine activity against Plasmodium falciparum and P. vivax before and after introduction of artemisinin-based combination therapy in Papua, Indonesia.
-34193269	Evaluation of the effect of probiotic as add-on therapy with conventional therapy and alone in malaria induced mice.
-34193238	Mortality beyond emergency threshold in a silent crisis- results from a population-based mortality survey in Ouaka prefecture, Central African Republic, 2020.
-34193175	Characterization of the substrate binding site of an iron detoxifying membrane transporter from Plasmodium falciparum.
-34193167	Analysing human population movement data for malaria control and elimination.
-34193162	Malaria prevention knowledge, attitudes, and practices in Zambezia Province, Mozambique.
