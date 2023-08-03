@@ -1,3 +1,5 @@
+37531372	Mask use in public places in Maputo City, Mozambique: Cross-sectional survey.
+37531325	Novel bioinformatic methods and machine learning approaches reveal candidate biomarkers of the intensity and timing of past exposure to Plasmodium falciparum.
 37529888	A simple polystyrene microfluidic device for sensitive and accurate SERS-based detection of infection by malaria parasites.
 37529501	Assessment of Safe Motherhood Health Service Coverage, Birth Defects Detection and Child Disability Prevention Using Lot Quality Assurance Sampling in Central Uganda.
 37528867	Late dihydroartemisinin-piperaquine treatment failure of P. falciparum malaria attack related to insufficient dosing in an obese patient.
@@ -9995,5 +9997,3 @@
 34190000	Recent advances in targeting malaria with nanotechnology-based drug carriers.
 34189957	Parasitic sirtuin 2 as an opportunity in drug discovery.
 34189847	A decade and beyond: learnings from HIV programming with underserved and marginalized key populations in Kenya.
-34189715	Phenylpropanoid conjugated iridoids with anti-malarial activity from the leaves of Morinda morindoides.
-34189318	Typical and atypical cutaneous leishmaniasis in Himachal Pradesh (India).
