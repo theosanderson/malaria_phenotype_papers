@@ -1,3 +1,5 @@
+37535401	Plasmodium microtubule-binding protein EB1 is critical for partitioning of nuclei in male gametogenesis.
+37534813	Knowledge and perception of asymptomatic malaria in the Volta region of Ghana.
 37534175	Plasmodium falciparum infection reshapes the human microRNA profiles of red blood cells and their extracellular vesicles.
 37533979	Assessment of the impact of the biological larvicide VectoMax G: Combination of Bacillus thuringiensis and Lysinibacillus sphaericus on non-target aquatic organisms in Yaoundé-Cameroon.
 37533823	Anopheline mosquito saliva contains bacteria that are transferred to a mammalian host through blood feeding.
@@ -9995,5 +9997,3 @@
 34194510	Chemical Composition and In Vitro Evaluation of the Mosquito (Anopheles) Repellent Property of Neem (Azadirachta indica) Seed Oil.
 34194288	Assessment of the Diversity of Medico-Magic Knowledge on Four Herbaceous Species in Benin.
 34194041	Two chemoattenuated PfSPZ malaria vaccines induce sterile hepatic immunity.
-34194001	Vaccine made of live malaria parasites shows early success.
-34193990	Malaria vaccine gets a parasite boost in the liver.
