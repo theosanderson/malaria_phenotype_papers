@@ -1,3 +1,8 @@
+37533029	Insecticide-treated bed net utilization and associated factors among pregnant women in Ethiopia: a systematic review and meta-analysis.
+37532005	Tarsal exposure to atovaquone inhibits chikungunya virus transmission by Aedes aegypti mosquitoes, but not the transmission of Zika virus.
+37533064	Measuring quality of facility-based ITN distribution in Ghana.
+37533014	Successful implementation of ITN distribution through health facilities in Ghana.
+37532704	Development of Plasmodium falciparum liver-stages in hepatocytes derived from human fetal liver organoid cultures.
 37531372	Mask use in public places in Maputo City, Mozambique: Cross-sectional survey.
 37531325	Novel bioinformatic methods and machine learning approaches reveal candidate biomarkers of the intensity and timing of past exposure to Plasmodium falciparum.
 37529888	A simple polystyrene microfluidic device for sensitive and accurate SERS-based detection of infection by malaria parasites.
@@ -9992,8 +9997,3 @@
 34193175	Characterization of the substrate binding site of an iron detoxifying membrane transporter from Plasmodium falciparum.
 34193167	Analysing human population movement data for malaria control and elimination.
 34193162	Malaria prevention knowledge, attitudes, and practices in Zambezia Province, Mozambique.
-34193148	Balanced impacts of fitness and drug pressure on the evolution of PfMDR1 polymorphisms in Plasmodium falciparum.
-34193087	Factors associated with blood pressure check-up during pregnancy among women of reproductive age in Tanzania: an analysis of data from 2015-16 Tanzania Demographic and Health Survey and Malaria Indicators Survey.
-34190000	Recent advances in targeting malaria with nanotechnology-based drug carriers.
-34189957	Parasitic sirtuin 2 as an opportunity in drug discovery.
-34189847	A decade and beyond: learnings from HIV programming with underserved and marginalized key populations in Kenya.
