@@ -1,3 +1,8 @@
+37537570	Interleukin-5 levels in relation to malaria severity: a systematic review.
+37537555	Association of severe malaria with cognitive and behavioural outcomes in low- and middle-income countries: a meta-analysis and systematic review.
+37536670	Plasmodium falciparum malaria is associated with increased KSHV seropositivity and higher KSHV antibody breadth and magnitude: results of a case-control study from rural Uganda.
+37536370	Effects of maternal HIV infection on early Kaposi's sarcoma-associated herpesvirus (KSHV) seroconversion in a Kenyan mother-infant cohort.
+37537581	Genetic diversity and natural selection of Plasmodium vivax reticulocyte invasion genes in Ecuador.
 37535741	Delftia tsuruhatensis TC1 symbiont suppresses malaria transmission by anopheline mosquitoes.
 37535583	Environmental determinants and risk behaviour in the case of indigenous malaria in Muara Enim Regency, Indonesia: A case-control design.
 37535512	The community acceptance of COVID-19 vaccines in Rakhine State: A cross-sectional study in Myanmar.
@@ -9992,8 +9997,3 @@
 34195058	In vitro antiplasmodial activity of Phyllanthus amarus against Plasmodium falciparum and evaluation of its acute toxicity effect in mouse model.
 34195057	Clinical profile of malaria at a tertiary care teaching hospital in North India.
 34195056	L-cysteine whether a nutritional booster or a radical scavenger for Plasmodium.
-34195055	The forgotten malariologist: Giovanni Battista Grassi (1854-1925).
-34195053	Molecular diagnosis of infectious parasites in the post-COVID-19 era.
-34195052	The persistent challenges of malaria.
-34195029	Phase I clinical trial to evaluate the safety and pharmacokinetics of capsule formulation of the standardized extract of Atractylodes lancea.
-34195025	Antiplasmodial, antinociceptive and antipyretic potential of the stem bark extract of Burkea africana and identification of its antiplasmodial-active fraction.
