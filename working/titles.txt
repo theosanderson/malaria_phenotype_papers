@@ -1,3 +1,6 @@
+37535741	Delftia tsuruhatensis TC1 symbiont suppresses malaria transmission by anopheline mosquitoes.
+37535583	Environmental determinants and risk behaviour in the case of indigenous malaria in Muara Enim Regency, Indonesia: A case-control design.
+37535512	The community acceptance of COVID-19 vaccines in Rakhine State: A cross-sectional study in Myanmar.
 37535401	Plasmodium microtubule-binding protein EB1 is critical for partitioning of nuclei in male gametogenesis.
 37534813	Knowledge and perception of asymptomatic malaria in the Volta region of Ghana.
 37534175	Plasmodium falciparum infection reshapes the human microRNA profiles of red blood cells and their extracellular vesicles.
@@ -9994,6 +9997,3 @@
 34195052	The persistent challenges of malaria.
 34195029	Phase I clinical trial to evaluate the safety and pharmacokinetics of capsule formulation of the standardized extract of Atractylodes lancea.
 34195025	Antiplasmodial, antinociceptive and antipyretic potential of the stem bark extract of Burkea africana and identification of its antiplasmodial-active fraction.
-34194510	Chemical Composition and In Vitro Evaluation of the Mosquito (Anopheles) Repellent Property of Neem (Azadirachta indica) Seed Oil.
-34194288	Assessment of the Diversity of Medico-Magic Knowledge on Four Herbaceous Species in Benin.
-34194041	Two chemoattenuated PfSPZ malaria vaccines induce sterile hepatic immunity.
