@@ -1,3 +1,8 @@
+37542265	Genetic profiles of Schistosoma haematobium parasites from Malian transmission hotspot areas.
+37542257	Attitudes and prevention towards malaria in the context of COVID-19 pandemic in urban community in Benin, West Africa.
+37542029	A human antibody epitope map of the malaria vaccine antigen Pfs25.
+37541845	Admission Clinical and EEG Features Associated With Mortality and Long-term Neurologic and Cognitive Outcomes in Pediatric Cerebral Malaria.
+37541799	Meiosis in Plasmodium: how does it work?
 37539049	Plasmodium curtails autoimmune nephritis via lasting bone marrow alterations, independent of hemozoin accumulation.
 37538937	Perceptions on use of insecticide-treated bed nets to prevent malaria: a qualitative assessment in two rural districts of Zambézia province in Mozambique.
 37538395	Human footprint is associated with shifts in the assemblages of major vector-borne diseases.
@@ -9992,8 +9997,3 @@
 34200116	Strategies to Improve Antimicrobial Utilization with a Special Focus on Developing Countries.
 34199996	A Bayesian Spatio-Temporal Analysis of Malaria in the Greater Accra Region of Ghana from 2015 to 2019.
 34199560	Sialic Acids as Receptors for Pathogens.
-34199336	Antiprotozoal and Antibacterial Activity of Ravenelin, a Xanthone Isolated from the Endophytic Fungus Exserohilum rostratum.
-34199088	Mesocosm Experiments to Quantify Predation of Mosquito Larvae by Aquatic Predators to Determine Potential of Ecological Control of Malaria Vectors in Ethiopia.
-34197567	Using Plasmodium knowlesi as a model for screening Plasmodium vivax blood-stage malaria vaccine targets reveals new candidates.
-34197083	Host-targeted Interventions as an Exciting Opportunity to Combat Malaria.
-34196569	Plasmodium vivax Latent Liver Stage Infection and Relapse: Biological Insights and New Experimental Tools.
