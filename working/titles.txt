@@ -1,3 +1,8 @@
+37543672	Plasmodium berghei oocysts possess fatty acid synthesis and scavenging routes.
+37543353	Mangiferin is a new potential antimalarial and anticancer drug for targeting serine hydroxymethyltransferase.
+37542987	Current development of 1,2,3-triazole derived potential antimalarial scaffolds: Structure- activity relationship (SAR) and bioactive compounds.
+37542718	MtrA modulates Mycobacterium tuberculosis cell division in host microenvironments to mediate intrinsic resistance and drug tolerance.
+37542319	New tuberculosis vaccines in India: modelling the potential health and economic impacts of adolescent/adult vaccination with M72/AS01(E) and BCG-revaccination.
 37542265	Genetic profiles of Schistosoma haematobium parasites from Malian transmission hotspot areas.
 37542257	Attitudes and prevention towards malaria in the context of COVID-19 pandemic in urban community in Benin, West Africa.
 37542029	A human antibody epitope map of the malaria vaccine antigen Pfs25.
@@ -9992,8 +9997,3 @@
 34201448	Plasmodium matutinum Causing Avian Malaria in Lovebirds (Agapornis roseicollis) Hosted in an Italian Zoo.
 34200806	2La Paracentric Chromosomal Inversion and Overexpressed Metabolic Genes Enhance Thermotolerance and Pyrethroid Resistance in the Major Malaria Vector Anopheles gambiae.
 34200688	Antiprotozoal Nor-Triterpene Alkaloids from Buxus sempervirens L.
-34200516	First Molecular Detection of Polychromophilus Parasites in Brazilian Bat Species.
-34200502	The New Status of Parasitic Diseases in the COVID-19 Pandemic-Risk Factors or Protective Agents?
-34200116	Strategies to Improve Antimicrobial Utilization with a Special Focus on Developing Countries.
-34199996	A Bayesian Spatio-Temporal Analysis of Malaria in the Greater Accra Region of Ghana from 2015 to 2019.
-34199560	Sialic Acids as Receptors for Pathogens.
