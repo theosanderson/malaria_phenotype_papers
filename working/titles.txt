@@ -1,3 +1,4 @@
+37548452	Functional screening reveals Toxoplasma prenylated proteins required for endocytic trafficking and rhoptry protein sorting.
 37546892	Reaction hijacking inhibition of Plasmodium falciparum asparagine tRNA synthetase.
 37546891	SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections.
 37546169	Single nucleotide polymorphism (SNP) in the doublesex ( dsx) gene splice sites and relevance for its alternative splicing in the malaria vector Anopheles gambiae.
@@ -9996,4 +9997,3 @@
 34205932	Predictive Markers of Immunogenicity and Efficacy for Human Vaccines.
 34205228	Selection of pfcrt K76 and pfmdr1 N86 Coding Alleles after Uncomplicated Malaria Treatment by Artemether-Lumefantrine in Mali.
 34205123	Dual-Specificity, Tyrosine Phosphorylation-Regulated Kinases (DYRKs) and cdc2-Like Kinases (CLKs) in Human Disease, an Overview.
-34204848	Systematic Review and Meta-Analysis of the Diagnostic Accuracy of Mobile-Linked Point-of-Care Diagnostics in Sub-Saharan Africa.
