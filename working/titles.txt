@@ -1,3 +1,5 @@
+37545009	Performance and feasibility of reactive surveillance and response strategies for malaria elimination in Vietnam: a mixed-methods study.
+37544396	Application of loop-mediated isothermal amplification combined with lateral flow assay visualization of Plasmodium falciparum kelch 13 C580Y mutation for artemisinin resistance detection in clinical samples.
 37543672	Plasmodium berghei oocysts possess fatty acid synthesis and scavenging routes.
 37543353	Mangiferin is a new potential antimalarial and anticancer drug for targeting serine hydroxymethyltransferase.
 37542987	Current development of 1,2,3-triazole derived potential antimalarial scaffolds: Structure- activity relationship (SAR) and bioactive compounds.
@@ -9995,5 +9997,3 @@
 34201912	Antiplasmodial and Cytotoxic Flavonoids from Pappea capensis (Eckl. & Zeyh.) Leaves.
 34201673	Ecological Effects on the Dynamics of West Nile Virus and Avian Plasmodium: The Importance of Mosquito Communities and Landscape.
 34201448	Plasmodium matutinum Causing Avian Malaria in Lovebirds (Agapornis roseicollis) Hosted in an Italian Zoo.
-34200806	2La Paracentric Chromosomal Inversion and Overexpressed Metabolic Genes Enhance Thermotolerance and Pyrethroid Resistance in the Major Malaria Vector Anopheles gambiae.
-34200688	Antiprotozoal Nor-Triterpene Alkaloids from Buxus sempervirens L.
