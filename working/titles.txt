@@ -1,3 +1,12 @@
+37546892	Reaction hijacking inhibition of Plasmodium falciparum asparagine tRNA synthetase.
+37546891	SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections.
+37546169	Single nucleotide polymorphism (SNP) in the doublesex ( dsx) gene splice sites and relevance for its alternative splicing in the malaria vector Anopheles gambiae.
+37545974	Comparative cardiac effects of antimalarial drug halofantrine with or without concomitant administration of kolanut or fluconazole in healthy volunteers.
+37545953	Genetic diversity of Plasmodium falciparum among asymptomatic pregnant women on intermittent preventive treatment with sulfadoxine-pyrimethamine in Nigeria.
+37545951	Community knowledge and practice of malaria prevention in Ghindae, Eritrea, a Cross-sectional study.
+37545927	Low frequency of knockdown resistance mutation (L1014F) and the efficacy of PBO synergist in multiple insecticide-resistant populations of Anopheles gambiae in Ikorodu, Lagos State, Nigeria.
+37545855	A rare sugar, allose, inhibits the development of Plasmodium parasites in the Anopheles mosquito independently of midgut microbiota.
+37545509	Adenosine pathway regulates inflammation during Plasmodium vivax infection.
 37545009	Performance and feasibility of reactive surveillance and response strategies for malaria elimination in Vietnam: a mixed-methods study.
 37544396	Application of loop-mediated isothermal amplification combined with lateral flow assay visualization of Plasmodium falciparum kelch 13 C580Y mutation for artemisinin resistance detection in clinical samples.
 37543672	Plasmodium berghei oocysts possess fatty acid synthesis and scavenging routes.
@@ -9988,12 +9997,3 @@
 34205228	Selection of pfcrt K76 and pfmdr1 N86 Coding Alleles after Uncomplicated Malaria Treatment by Artemether-Lumefantrine in Mali.
 34205123	Dual-Specificity, Tyrosine Phosphorylation-Regulated Kinases (DYRKs) and cdc2-Like Kinases (CLKs) in Human Disease, an Overview.
 34204848	Systematic Review and Meta-Analysis of the Diagnostic Accuracy of Mobile-Linked Point-of-Care Diagnostics in Sub-Saharan Africa.
-34204678	Tamoxifen Suppresses the Immune Response to Plasmodium berghei ANKA and Exacerbates Symptomatology.
-34204476	Larvicidal Activities against Aedes aegypti of Supernatant and Pellet Fractions from Cultured Bacillus spp. Isolated from Amazonian Microenvironments.
-34204285	Manipulation of Host Cell Organelles by Intracellular Pathogens.
-34202391	Evaluation of the Clinical Use of Ceftriaxone among In-Patients in Selected Health Facilities in Uganda.
-34202195	COVID-19 Antibody Detecting Rapid Diagnostic Tests Show High Cross-Reactivity When Challenged with Pre-Pandemic Malaria, Schistosomiasis and Dengue Samples.
-34202178	Conserved Influenza Hemagglutinin, Neuraminidase and Matrix Peptides Adjuvanted with ALFQ Induce Broadly Neutralizing Antibodies.
-34201912	Antiplasmodial and Cytotoxic Flavonoids from Pappea capensis (Eckl. & Zeyh.) Leaves.
-34201673	Ecological Effects on the Dynamics of West Nile Virus and Avian Plasmodium: The Importance of Mosquito Communities and Landscape.
-34201448	Plasmodium matutinum Causing Avian Malaria in Lovebirds (Agapornis roseicollis) Hosted in an Italian Zoo.
