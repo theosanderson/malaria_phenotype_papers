@@ -1,3 +1,4 @@
+37549331	An Estimate Of The Return On Investment Of A Malaria Vaccine In 20 Sub-Saharan African Countries, 2021-30.
 37548452	Functional screening reveals Toxoplasma prenylated proteins required for endocytic trafficking and rhoptry protein sorting.
 37546892	Reaction hijacking inhibition of Plasmodium falciparum asparagine tRNA synthetase.
 37546891	SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections.
@@ -9996,4 +9997,3 @@
 34206700	Molecular Identification of Plasmodium falciparum from Captive Non-Human Primates in the Western Amazon Ecuador.
 34205932	Predictive Markers of Immunogenicity and Efficacy for Human Vaccines.
 34205228	Selection of pfcrt K76 and pfmdr1 N86 Coding Alleles after Uncomplicated Malaria Treatment by Artemether-Lumefantrine in Mali.
-34205123	Dual-Specificity, Tyrosine Phosphorylation-Regulated Kinases (DYRKs) and cdc2-Like Kinases (CLKs) in Human Disease, an Overview.
