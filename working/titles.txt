@@ -1,3 +1,8 @@
+37545953	Genetic diversity of Plasmodium falciparum among asymptomatic pregnant women on intermittent preventive treatment with sulfadoxine-pyrimethamine in Nigeria.
+37545951	Community knowledge and practice of malaria prevention in Ghindae, Eritrea, a Cross-sectional study.
+37545855	A rare sugar, allose, inhibits the development of Plasmodium parasites in the Anopheles mosquito independently of midgut microbiota.
+37545509	Adenosine pathway regulates inflammation during Plasmodium vivax infection.
+37545009	Performance and feasibility of reactive surveillance and response strategies for malaria elimination in Vietnam: a mixed-methods study.
 37543672	Plasmodium berghei oocysts possess fatty acid synthesis and scavenging routes.
 37542257	Attitudes and prevention towards malaria in the context of COVID-19 pandemic in urban community in Benin, West Africa.
 37539049	Plasmodium curtails autoimmune nephritis via lasting bone marrow alterations, independent of hemozoin accumulation.
@@ -9992,8 +9997,3 @@
 31623623	Mosquitoes as a feasible sentinel group for anti-malarial resistance surveillance by Next Generation Sequencing of Plasmodium falciparum.
 31622632	Safety and effectiveness of apheresis in the treatment of infectious diseases: A systematic review.
 31622398	Health workers' perception of malaria rapid diagnostic test and factors influencing compliance with test results in Ebonyi state, Nigeria.
-31622078	Ozonide Antimalarials Alkylate Heme in the Malaria Parasite Plasmodium falciparum.
-31621832	Chemoprophylaxis Vaccination: Phase I Study to Explore Stage-specific Immunity to Plasmodium falciparum in US Adults.
-31620136	Antibody Responses Against Plasmodium vivax TRAP Recombinant and Synthetic Antigens in Naturally Exposed Individuals From the Brazilian Amazon.
-31620120	Plasma Eicosanoid Profile in Plasmodium vivax Malaria: Clinical Analysis and Impacts of Self-Medication.
-31619757	High-resolution transcriptional profiling of Anopheles gambiae spermatogenesis reveals mechanisms of sex chromosome regulation.
