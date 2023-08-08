@@ -1,3 +1,11 @@
+37550766	Transcriptional variation in Babesia gibsoni (Wuhan isolate) between in vivo and in vitro cultures in blood stage.
+37550692	The potential for zoonotic malaria transmission in five areas of Indonesia inhabited by non-human primates.
+37549902	Resurgence of Malaria Transmission and Incidence after Withdrawal of Indoor Residual Spraying in the District of Koulikoro, Mali.
+37549894	Plasmodium vivax Malaria in Duffy-Positive Patients in Rwanda.
+37549893	Post-Discharge Risk of Mortality in Children under 5 Years of Age in Western Kenya: A Retrospective Cohort Study.
+37549860	Ex vivo and in vitro antiplasmodial activity and toxicity of Caesalpinia decapetala (Roth) alston (Fabaceae).
+37549841	Effects of the suspension of mass drug administration during the COVID-19 pandemic on onchocerciasis prevalence in the Bandjoun and Massangam health districts, West Region of Cameroon.
+37549500	Application of medical information system to identify dengue outbreak factors: Insights from a hyperendemic city in Malaysia.
 37549331	An Estimate Of The Return On Investment Of A Malaria Vaccine In 20 Sub-Saharan African Countries, 2021-30.
 37548452	Functional screening reveals Toxoplasma prenylated proteins required for endocytic trafficking and rhoptry protein sorting.
 37546892	Reaction hijacking inhibition of Plasmodium falciparum asparagine tRNA synthetase.
@@ -9989,11 +9997,3 @@
 34210332	Concomitant experimental coinfection by Plasmodium berghei NK65-NY and Ascaris suum downregulates the Ascaris-specific immune response and potentiates Ascaris-associated lung pathology.
 34209434	Prevalence of Malaria and Chikungunya Co-Infection in Febrile Patients: A Systematic Review and Meta-Analysis.
 34209186	Apicortin, a Constituent of Apicomplexan Conoid/Apical Complex and Its Tentative Role in Pathogen-Host Interaction.
-34208911	Characterization of Anopheles stephensi Odorant Receptor 8, an Abundant Component of the Mouthpart Chemosensory Transcriptome.
-34208832	5-Phenoxy Primaquine Analogs and the Tetraoxane Hybrid as Antimalarial Agents.
-34208759	In Vitro Evaluation of the Potential Pharmacological Activity and Molecular Targets of New Benzimidazole-Based Schiff Base Metal Complexes.
-34208620	Impact of COVID-19 Mitigation Measures on Mosquito-Borne Diseases in 2020 in Queensland, Australia.
-34207156	Phytosterols and Novel Triterpenes Recovered from Industrial Fermentation Coproducts Exert In Vitro Anti-Inflammatory Activity in Macrophages.
-34206700	Molecular Identification of Plasmodium falciparum from Captive Non-Human Primates in the Western Amazon Ecuador.
-34205932	Predictive Markers of Immunogenicity and Efficacy for Human Vaccines.
-34205228	Selection of pfcrt K76 and pfmdr1 N86 Coding Alleles after Uncomplicated Malaria Treatment by Artemether-Lumefantrine in Mali.
