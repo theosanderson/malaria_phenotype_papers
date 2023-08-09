@@ -1,3 +1,8 @@
+37553665	Advances in the genetic characterization of the malaria vector, Anopheles funestus, and implications for improved surveillance and control.
+37553646	Evolution of genetic markers for drug resistance after the introduction of dihydroartemisinin-piperaquine as first-line anti-malarial treatment for uncomplicated falciparum malaria in Indonesia.
+37553591	Elicitation of T-cell-derived IFN-γ-dependent immunity by highly conserved Plasmodium ovale curtisi Duffy binding protein domain region II (PocDBP-RII).
+37553236	Exosome-derived long noncoding RNAs: Mediators of host-Plasmodium parasite communication.
+37553694	Health needs of migrant female head porters in Ghana: evidence from the Greater Accra and Greater Kumasi Metropolitan areas.
 37552754	Knock-sideways by inducible ER retrieval enables a unique approach for studying Plasmodium-secreted proteins.
 37552639	Facilitated Drug Repurposing with Artemisinin-Derived PROTACs: Unveiling PCLAF as a Therapeutic Target.
 37551689	Medicinal chemistry approaches for the discovery of Plasmodium falciparum dihydroorotate dehydrogenase inhibitors as antimalarial agents.
@@ -9992,8 +9997,3 @@
 34214334	Cratoxylum sumatranum stem bark exhibited antimalarial activity by Lactate Dehydrogenase (LDH) assay.
 34214326	Artocarpus sericicarpus stem bark contains antimalarial substances against Plasmodium falciparum.
 34214314	In vitro antimalarial activity of Garcinia parvifolia Miq. Stem extracts and fractions on Plasmodium falciparum lactate dehydrogenase (LDH) assay.
-34214261	Leptospirosis and rickettsiosis, a diagnostic challenge for febrile syndrome in endemic areas.
-34212134	Comprehensive Data Integration Approach to Assess Immune Responses and Correlates of RTS,S/AS01-Mediated Protection From Malaria Infection in Controlled Human Malaria Infection Trials.
-34212042	From the Urinary Catheter to the Prevalence of Three Classes of Integrons, β-Lactamase Genes, and Differences in Antimicrobial Susceptibility of Proteus mirabilis and Clonal Relatedness with Rep-PCR.
-34211355	An Ecologically Framed Comparison of The Potential for Zoonotic Transmission of Non-Human and Human-Infecting Species of Malaria Parasite.
-34211354	Ending the Neglect of Treatable Bacterial Zoonoses Responsible for Non-Malaria Fevers.
