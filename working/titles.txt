@@ -1,3 +1,5 @@
+37552754	Knock-sideways by inducible ER retrieval enables a unique approach for studying Plasmodium-secreted proteins.
+37552639	Facilitated Drug Repurposing with Artemisinin-Derived PROTACs: Unveiling PCLAF as a Therapeutic Target.
 37551689	Medicinal chemistry approaches for the discovery of Plasmodium falciparum dihydroorotate dehydrogenase inhibitors as antimalarial agents.
 37551613	Pharmacogenomic variation in the Malagasy population: implications for the antimalarial drug primaquine metabolism.
 37551236	Study of the Aetiology and Clinical Manifestations of Thrombocytopenia in a Tertiary Care Centre.
@@ -9995,5 +9997,3 @@
 34212042	From the Urinary Catheter to the Prevalence of Three Classes of Integrons, β-Lactamase Genes, and Differences in Antimicrobial Susceptibility of Proteus mirabilis and Clonal Relatedness with Rep-PCR.
 34211355	An Ecologically Framed Comparison of The Potential for Zoonotic Transmission of Non-Human and Human-Infecting Species of Malaria Parasite.
 34211354	Ending the Neglect of Treatable Bacterial Zoonoses Responsible for Non-Malaria Fevers.
-34211348	A Severe Case of Falciparum Malaria, 10 Years After Malaria Eradication: A Case Report.
-34211188	Meta-analysis defines principles for the design and analysis of co-fractionation mass spectrometry experiments.
