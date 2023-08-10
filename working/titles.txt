@@ -1,3 +1,8 @@
+37559080	Relationship between insecticide resistance profiles in Anopheles gambiae sensu lato and agricultural practices in Côte d'Ivoire.
+37558673	Multifunctional IgG/IgM antibodies and cellular cytotoxicity are elicited by the full-length MSP1 SumayaVac-1 malaria vaccine.
+37558351	Non-target effects of chemical malaria vector control on other biological and mechanical infectious disease vectors.
+37558348	Effects of next-generation, dual-active-ingredient, long-lasting insecticidal net deployment on insecticide resistance in malaria vectors in Tanzania: an analysis of a 3-year, cluster-randomised controlled trial.
+37556947	Triazole hybrid compounds: A new frontier in malaria treatment.
 37556486	Inducing indigestion in malaria parasites: Genetic manipulations of a proton pump.
 37555735	The role of P450 enzymes in malaria and other vector-borne infectious diseases.
 37555366	Intravascular hemolysis triggers NAFLD characterized by a deregulation of lipid metabolism and lipophagy blockade.
@@ -9992,8 +9997,3 @@
 34216565	Threats to the effectiveness of insecticide-treated bednets for malaria control: thinking beyond insecticide resistance.
 34216470	High Prevalence of Plasmodium falciparum K13 Mutations in Rwanda Is Associated With Slow Parasite Clearance After Treatment With Artemether-Lumefantrine.
 34216464	Relapse of Plasmodium vivax and Plasmodium ovale Malaria With and Without Primaquine Treatment in a Nonendemic Area.
-34216212	The Effect of Intermittent Preventive Treatment of Malaria During Pregnancy and Placental Malaria on Infant Risk of Malaria.
-34216061	Economic burden on people living with HIV who attend self-help groups in Yangon, Myanmar.
-34215476	Evaluation of nested PCR and loop mediated isothermal amplification assay (LAMP) targeting 47 ​kDa gene of Orientia tsutsugamushi for diagnosis of scrub typhus.
-34215396	Emerging and Re-emerging Infections in Children: COVID/ MIS-C, Zika, Ebola, Measles, Varicella, Pertussis ... Immunizations.
-34215295	The effect of cattle-administered ivermectin and fipronil on the mortality and fecundity of Anopheles arabiensis Patton.
