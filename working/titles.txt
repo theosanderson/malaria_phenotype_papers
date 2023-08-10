@@ -1,8 +1,8 @@
-37559080	Relationship between insecticide resistance profiles in Anopheles gambiae sensu lato and agricultural practices in Côte d'Ivoire.
-37558673	Multifunctional IgG/IgM antibodies and cellular cytotoxicity are elicited by the full-length MSP1 SumayaVac-1 malaria vaccine.
 37558351	Non-target effects of chemical malaria vector control on other biological and mechanical infectious disease vectors.
 37558348	Effects of next-generation, dual-active-ingredient, long-lasting insecticidal net deployment on insecticide resistance in malaria vectors in Tanzania: an analysis of a 3-year, cluster-randomised controlled trial.
 37556947	Triazole hybrid compounds: A new frontier in malaria treatment.
+37559080	Relationship between insecticide resistance profiles in Anopheles gambiae sensu lato and agricultural practices in Côte d'Ivoire.
+37558673	Multifunctional IgG/IgM antibodies and cellular cytotoxicity are elicited by the full-length MSP1 SumayaVac-1 malaria vaccine.
 37556486	Inducing indigestion in malaria parasites: Genetic manipulations of a proton pump.
 37555735	The role of P450 enzymes in malaria and other vector-borne infectious diseases.
 37555366	Intravascular hemolysis triggers NAFLD characterized by a deregulation of lipid metabolism and lipophagy blockade.
