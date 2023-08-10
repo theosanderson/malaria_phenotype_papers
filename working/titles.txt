@@ -1,8 +1,10 @@
+37560622	Interorganellar Communication Through Membrane Contact Sites in Toxoplasma Gondii.
+37559499	Survival effects of antibiotic exposure during the larval and adult stages in the West Nile virus vector Culex pipiens.
+37559080	Relationship between insecticide resistance profiles in Anopheles gambiae sensu lato and agricultural practices in Côte d'Ivoire.
+37558673	Multifunctional IgG/IgM antibodies and cellular cytotoxicity are elicited by the full-length MSP1 SumayaVac-1 malaria vaccine.
 37558351	Non-target effects of chemical malaria vector control on other biological and mechanical infectious disease vectors.
 37558348	Effects of next-generation, dual-active-ingredient, long-lasting insecticidal net deployment on insecticide resistance in malaria vectors in Tanzania: an analysis of a 3-year, cluster-randomised controlled trial.
 37556947	Triazole hybrid compounds: A new frontier in malaria treatment.
-37559080	Relationship between insecticide resistance profiles in Anopheles gambiae sensu lato and agricultural practices in Côte d'Ivoire.
-37558673	Multifunctional IgG/IgM antibodies and cellular cytotoxicity are elicited by the full-length MSP1 SumayaVac-1 malaria vaccine.
 37556486	Inducing indigestion in malaria parasites: Genetic manipulations of a proton pump.
 37555735	The role of P450 enzymes in malaria and other vector-borne infectious diseases.
 37555366	Intravascular hemolysis triggers NAFLD characterized by a deregulation of lipid metabolism and lipophagy blockade.
@@ -200,6 +202,7 @@
 37496052	Plasmodium falciparum infection and disease in infancy associated with increased risk of malaria and anaemia in childhood.
 37495620	High throughput human genotyping for variants associated with malarial disease outcomes using custom targeted amplicon sequencing.
 37494839	Administration of soluble gp130Fc disrupts M-1 macrophage polarization, dendritic cell activation, MDSC expansion and Th-17 induction during experimental cerebral malaria.
+37494421	Assessment of stored red blood cells through lab-on-a-chip technologies for precision transfusion medicine.
 37494413	Assessment of the transmission blocking activity of antimalarial compounds by membrane feeding assays using natural Plasmodium falciparum gametocyte isolates from West-Africa.
 37494408	Caregivers' perception and acceptance of malaria vaccine for Children.
 37494377	The role of perceived threat and self-efficacy in the use of Insecticide Treated Bednets (ITNs) to prevent malaria among pregnant women in Tororo District, Uganda.
@@ -283,6 +286,7 @@
 37467665	Inflammatory profiles in febrile children with moderate and severe malnutrition presenting at-hospital in Uganda are associated with increased mortality.
 37467182	Assessing afebrile malaria and bed-net use in a high-burden region of India: Findings from multiple rounds of mass screening.
 37467002	First Ever Malaria Vaccine to Be Distributed in Africa.
+37466070	Retrospective evaluation of an integrated molecular-epidemiological approach to cyclosporiasis outbreak investigations - United States, 2021.
 37465789	Self-Medication Practices During the COVID-19 Pandemic Among the Adult Population in the Eastern Region of the Kingdom of Saudi Arabia.
 37465667	Immunogenomic profile at baseline predicts host susceptibility to clinical malaria.
 37465315	Anti-infectives Developed as Racemic Drugs in the 21st Century: Norm or Exception?
@@ -9993,7 +9997,3 @@
 34217299	Decomposition of socioeconomic inequalities in the uptake of intermittent preventive treatment of malaria in pregnancy in Nigeria: evidence from Demographic Health Survey.
 34216801	The Pan African Vivax and Ovale Network (PAVON): Refocusing on Plasmodium vivax, ovale and asymptomatic malaria in sub-Saharan Africa.
 34216796	Asymptomatic malaria infection prevailing risks for human health and malaria elimination.
-34216726	Ethnobotanical and antimicrobial activities of the Gossypium (Cotton) genus: A review.
-34216565	Threats to the effectiveness of insecticide-treated bednets for malaria control: thinking beyond insecticide resistance.
-34216470	High Prevalence of Plasmodium falciparum K13 Mutations in Rwanda Is Associated With Slow Parasite Clearance After Treatment With Artemether-Lumefantrine.
-34216464	Relapse of Plasmodium vivax and Plasmodium ovale Malaria With and Without Primaquine Treatment in a Nonendemic Area.
