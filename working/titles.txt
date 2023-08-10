@@ -1,3 +1,4 @@
+37556486	Inducing indigestion in malaria parasites: Genetic manipulations of a proton pump.
 37555735	The role of P450 enzymes in malaria and other vector-borne infectious diseases.
 37555366	Intravascular hemolysis triggers NAFLD characterized by a deregulation of lipid metabolism and lipophagy blockade.
 37555020	Ingested histamine and serotonin interact to alter Anopheles stephensi feeding and flight behavior and infection with Plasmodium parasites.
@@ -9996,4 +9997,3 @@
 34215476	Evaluation of nested PCR and loop mediated isothermal amplification assay (LAMP) targeting 47 ​kDa gene of Orientia tsutsugamushi for diagnosis of scrub typhus.
 34215396	Emerging and Re-emerging Infections in Children: COVID/ MIS-C, Zika, Ebola, Measles, Varicella, Pertussis ... Immunizations.
 34215295	The effect of cattle-administered ivermectin and fipronil on the mortality and fecundity of Anopheles arabiensis Patton.
-34215270	The lead-up to epidemic transmission: malaria trends and control interventions in Burundi 2000 to 2019.
