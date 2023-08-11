@@ -1,3 +1,6 @@
+37562054	Label-free quantitative detection and comparative analysis of lysine acetylation during the different life stages of Eimeria tenella.
+37561739	Knockdown resistance allele L1014F introduced by CRISPR/Cas9 is not associated with altered vector competence of Anopheles gambiae for o'nyong nyong virus.
+37561673	Soil-transmitted helminths: A critical review of the impact of co-infections and implications for control and elimination.
 37560622	Interorganellar Communication Through Membrane Contact Sites in Toxoplasma Gondii.
 37559499	Survival effects of antibiotic exposure during the larval and adult stages in the West Nile virus vector Culex pipiens.
 37559080	Relationship between insecticide resistance profiles in Anopheles gambiae sensu lato and agricultural practices in Côte d'Ivoire.
@@ -9994,6 +9997,3 @@
 34217706	Research progress of phosphatidylinositol 4-kinase and its inhibitors in inflammatory diseases.
 34217315	Effectiveness of long-lasting insecticidal nets in prevention of malaria among individuals visiting health centres in Ziway-Dugda District, Ethiopia: matched case-control study.
 34217314	Toll-like receptor 9 and 4 gene polymorphisms in susceptibility and severity of malaria: a meta-analysis of genetic association studies.
-34217299	Decomposition of socioeconomic inequalities in the uptake of intermittent preventive treatment of malaria in pregnancy in Nigeria: evidence from Demographic Health Survey.
-34216801	The Pan African Vivax and Ovale Network (PAVON): Refocusing on Plasmodium vivax, ovale and asymptomatic malaria in sub-Saharan Africa.
-34216796	Asymptomatic malaria infection prevailing risks for human health and malaria elimination.
