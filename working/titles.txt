@@ -1,11 +1,13 @@
-37563610	The 18S rRNA genes of Haemoproteus (Haemosporida, Apicomplexa) parasites from European songbirds with remarks on improved parasite diagnostics.
-37563178	Serological evaluation of risk factors for exposure to malaria in a pre-elimination setting in Malaysian Borneo.
-37562555	Primaquine and chloroquine nano-sized solid dispersion-loaded dissolving microarray patches for the improved treatment of malaria caused by Plasmodium vivax.
-37562422	Malaria eliminated in Belize.
+37564781	Evaluation of the malaria surveillance system - Adaklu District, Volta Region, Ghana, 2019.
+37564122	Scope and Predictors of Travel Medicine Practice among Primary Care Physicians in Qatar.
 37563696	A heparin-binding protein of Plasmodium berghei is associated with merozoite invasion of erythrocytes.
+37563610	The 18S rRNA genes of Haemoproteus (Haemosporida, Apicomplexa) parasites from European songbirds with remarks on improved parasite diagnostics.
 37563505	Correction to: Malaria positivity rate trend analysis at water resources development project of Wonji Sugar Estate Oromia, Ethiopia.
 37563255	Protective antibody threshold of RTS,S/AS01 malaria vaccine correlates antigen and adjuvant dose in mouse model.
+37563178	Serological evaluation of risk factors for exposure to malaria in a pre-elimination setting in Malaysian Borneo.
 37563050	Preliminary studies on the immunogenicity of a prime-and-trap malaria vaccine in nonhuman primates.
+37562555	Primaquine and chloroquine nano-sized solid dispersion-loaded dissolving microarray patches for the improved treatment of malaria caused by Plasmodium vivax.
+37562422	Malaria eliminated in Belize.
 37562054	Label-free quantitative detection and comparative analysis of lysine acetylation during the different life stages of Eimeria tenella.
 37561739	Knockdown resistance allele L1014F introduced by CRISPR/Cas9 is not associated with altered vector competence of Anopheles gambiae for o'nyong nyong virus.
 37561673	Soil-transmitted helminths: A critical review of the impact of co-infections and implications for control and elimination.
@@ -9995,5 +9997,3 @@
 34221028	Knowledge, Attitude, and Practices (KAP) of Human Populations towards Malaria Control in Four Ecoepidemiological Settings in Cameroon.
 34220804	High Antibodies to VAR2CSA in Response to Malaria Infection Are Associated With Improved Birthweight in a Longitudinal Study of Pregnant Women.
 34219315	Causes and consequences of telomere lengthening in a wild vertebrate population.
-34219031	What is in a name? Anopheles darlingi versus Nyssorhynchus darlingi.
-34218833	Analysis of malaria clinical-epidemiological predictors in individuals from Brazilian Amazon.
