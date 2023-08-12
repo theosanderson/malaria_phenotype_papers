@@ -1,3 +1,16 @@
+37571814	Expansion microscopy of apicomplexan parasites.
+37571809	Sporozoite immunization: Innovative Translational Science to Support the Fight against malaria.
+37571409	Effect of Malaria on Blood Levels of Vitamin E: A Systematic Review and Meta-Analysis.
+37571364	Correlates of Iron, Cobalamin, Folate, and Vitamin A Status among Stunted Children: A Cross-Sectional Study in Uganda.
+37569448	Raman Spectroscopy Combined with Malaria Protein for Early Capture and Recognition of Broad-Spectrum Circulating Tumor Cells.
+37569322	Molecular Descriptors Property Prediction Using Transformer-Based Approach.
+37569037	Malaria Risk Drivers in the Brazilian Amazon: Land Use-Land Cover Interactions and Biological Diversity.
+37568487	Co-Occurrence of G6PD Deficiency and SCT among Pregnant Women Exposed to Infectious Diseases.
+37568232	A cross-sectional survey on the use of herbal tea among Cameroonian adults (18-65 years).
+37567885	Physiological impacts of chronic and experimental Plasmodium infection on breeding-condition male songbirds.
+37567884	Author Correction: mRNA-LNP expressing PfCSP and Pfs25 vaccine candidates targeting infection and transmission of Plasmodium falciparum.
+37567552	Assessing the utility of pregnant women as a sentinel surveillance population for malaria in Geita, Tanzania, 2019 - 2021.
+37567430	Malarial hepatopathy followed by delayed hemolysis after artemether-lumefantrine therapy for Plasmodium falciparum infection in a Colombian patient.
 37566570	Effects of Behaviour Change Communication on Knowledge and Prevention of Malaria Among Women in Ghana.
 37564781	Evaluation of the malaria surveillance system - Adaklu District, Volta Region, Ghana, 2019.
 37564122	Scope and Predictors of Travel Medicine Practice among Primary Care Physicians in Qatar.
@@ -9984,16 +9997,3 @@
 34225494	An Open-Source Toolkit To Expand Bioinformatics Training in Infectious Diseases.
 34225145	Keep your natural enemies close - native predators can maintain low mosquito densities in temporary ponds in a malaria expansion area in Northern Tanzania.
 34224830	Hemocyte RNA-Seq analysis of Indian malarial vectors Anopheles stephensi and Anopheles culicifacies: From similarities to differences.
-34224715	Ten-year follow-up of the largest oral Chagas disease outbreak. Laboratory biomarkers of infection as indicators of therapeutic failure.
-34223402	Reduced blood-stage malaria growth and immune correlates in humans following RH5 vaccination.
-34223162	Design, synthesis, crystal structure and anti-plasmodial evaluation of tetrahydrobenzo[4,5]thieno[2,3-d]pyrimidine derivatives.
-34223086	Point prevalence survey of antibiotic consumption across three hospitals in Ghana.
-34222663	T cell epitopes of SARS-CoV-2 spike protein and conserved surface protein of Plasmodium malariae share sequence homology.
-34222167	Entomological and Molecular Surveillance of Anopheles Mosquitoes in Freetown, Sierra Leone, 2019.
-34222049	Diagnostic Methods for Non-Falciparum Malaria.
-34222045	Isolation of Mutants With Reduced Susceptibility to Piperaquine From a Mutator of the Rodent Malaria Parasite Plasmodium berghei.
-34221715	Host migration and environmental temperature influence avian haemosporidians prevalence: a molecular survey in a Brazilian Atlantic rainforest.
-34221087	Evaluation of the Antimalarial Activity of the Leaf Latex of Aloe weloensis (Aloaceae) against Plasmodium Parasites.
-34221084	Uncovering the Mechanism of Curcuma in the Treatment of Ulcerative Colitis Based on Network Pharmacology, Molecular Docking Technology, and Experiment Verification.
-34221028	Knowledge, Attitude, and Practices (KAP) of Human Populations towards Malaria Control in Four Ecoepidemiological Settings in Cameroon.
-34220804	High Antibodies to VAR2CSA in Response to Malaria Infection Are Associated With Improved Birthweight in a Longitudinal Study of Pregnant Women.
