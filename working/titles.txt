@@ -1,3 +1,4 @@
+37566570	Effects of Behaviour Change Communication on Knowledge and Prevention of Malaria Among Women in Ghana.
 37564781	Evaluation of the malaria surveillance system - Adaklu District, Volta Region, Ghana, 2019.
 37564122	Scope and Predictors of Travel Medicine Practice among Primary Care Physicians in Qatar.
 37563696	A heparin-binding protein of Plasmodium berghei is associated with merozoite invasion of erythrocytes.
@@ -9996,4 +9997,3 @@
 34221084	Uncovering the Mechanism of Curcuma in the Treatment of Ulcerative Colitis Based on Network Pharmacology, Molecular Docking Technology, and Experiment Verification.
 34221028	Knowledge, Attitude, and Practices (KAP) of Human Populations towards Malaria Control in Four Ecoepidemiological Settings in Cameroon.
 34220804	High Antibodies to VAR2CSA in Response to Malaria Infection Are Associated With Improved Birthweight in a Longitudinal Study of Pregnant Women.
-34219315	Causes and consequences of telomere lengthening in a wild vertebrate population.
