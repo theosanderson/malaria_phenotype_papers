@@ -1,3 +1,7 @@
+37573300	Species composition, infection rate and detection of resistant alleles in Anopheles funestus (Diptera: Culicidae) from Lare, a malaria hotspot district of Ethiopia.
+37572659	Superior antibody immunogenicity of a viral-vectored RH5 blood-stage malaria vaccine in Tanzanian infants as compared to adults.
+37572510	The limit of detection of the BioFire® FilmArray® gastrointestinal panel for the foodborne parasite Cyclospora cayetanensis.
+37572217	Sensitivity Analysis for Observational Studies with Recurrent Events.
 37571814	Expansion microscopy of apicomplexan parasites.
 37571809	Sporozoite immunization: Innovative Translational Science to Support the Fight against malaria.
 37571409	Effect of Malaria on Blood Levels of Vitamin E: A Systematic Review and Meta-Analysis.
@@ -8,8 +12,8 @@
 37568487	Co-Occurrence of G6PD Deficiency and SCT among Pregnant Women Exposed to Infectious Diseases.
 37568232	A cross-sectional survey on the use of herbal tea among Cameroonian adults (18-65 years).
 37567885	Physiological impacts of chronic and experimental Plasmodium infection on breeding-condition male songbirds.
-37567552	Assessing the utility of pregnant women as a sentinel surveillance population for malaria in Geita, Tanzania, 2019 - 2021.
 37567884	Author Correction: mRNA-LNP expressing PfCSP and Pfs25 vaccine candidates targeting infection and transmission of Plasmodium falciparum.
+37567552	Assessing the utility of pregnant women as a sentinel surveillance population for malaria in Geita, Tanzania, 2019 - 2021.
 37567430	Malarial hepatopathy followed by delayed hemolysis after artemether-lumefantrine therapy for Plasmodium falciparum infection in a Colombian patient.
 37566570	Effects of Behaviour Change Communication on Knowledge and Prevention of Malaria Among Women in Ghana.
 37564781	Evaluation of the malaria surveillance system - Adaklu District, Volta Region, Ghana, 2019.
@@ -57,7 +61,7 @@
 37549902	Resurgence of Malaria Transmission and Incidence after Withdrawal of Indoor Residual Spraying in the District of Koulikoro, Mali.
 37549894	Plasmodium vivax Malaria in Duffy-Positive Patients in Rwanda.
 37549893	Post-Discharge Risk of Mortality in Children under 5 Years of Age in Western Kenya: A Retrospective Cohort Study.
-37549860	Ex vivo and in vitro antiplasmodial activity and toxicity of Caesalpinia decapetala (Roth) alston (Fabaceae).
+37549860	Ex vivo and in vitro antiplasmodial activity and toxicity of Caesalpinia decapetala (Roth) Alston (Fabaceae).
 37549841	Effects of the suspension of mass drug administration during the COVID-19 pandemic on onchocerciasis prevalence in the Bandjoun and Massangam health districts, West Region of Cameroon.
 37549500	Application of medical information system to identify dengue outbreak factors: Insights from a hyperendemic city in Malaysia.
 37549331	An Estimate Of The Return On Investment Of A Malaria Vaccine In 20 Sub-Saharan African Countries, 2021-30.
@@ -9993,7 +9997,3 @@
 34226743	Daily briefing: Malaria vaccine made of live parasites shows early success.
 34225842	Improving statistical power in severe malaria genetic association studies by augmenting phenotypic precision.
 34225761	Direct contact between Plasmodium falciparum and human B-cells in a novel co-culture increases parasite growth and affects B-cell growth.
-34225756	Malaria prevalence and long-lasting insecticidal net use in rural western Uganda: results of a cross-sectional survey conducted in an area of highly variable malaria transmission intensity.
-34225494	An Open-Source Toolkit To Expand Bioinformatics Training in Infectious Diseases.
-34225145	Keep your natural enemies close - native predators can maintain low mosquito densities in temporary ponds in a malaria expansion area in Northern Tanzania.
-34224830	Hemocyte RNA-Seq analysis of Indian malarial vectors Anopheles stephensi and Anopheles culicifacies: From similarities to differences.
