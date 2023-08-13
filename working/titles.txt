@@ -1,7 +1,7 @@
-37573300	Species composition, infection rate and detection of resistant alleles in Anopheles funestus (Diptera: Culicidae) from Lare, a malaria hotspot district of Ethiopia.
 37572659	Superior antibody immunogenicity of a viral-vectored RH5 blood-stage malaria vaccine in Tanzanian infants as compared to adults.
 37572510	The limit of detection of the BioFire® FilmArray® gastrointestinal panel for the foodborne parasite Cyclospora cayetanensis.
 37572217	Sensitivity Analysis for Observational Studies with Recurrent Events.
+37573300	Species composition, infection rate and detection of resistant alleles in Anopheles funestus (Diptera: Culicidae) from Lare, a malaria hotspot district of Ethiopia.
 37571814	Expansion microscopy of apicomplexan parasites.
 37571809	Sporozoite immunization: Innovative Translational Science to Support the Fight against malaria.
 37571409	Effect of Malaria on Blood Levels of Vitamin E: A Systematic Review and Meta-Analysis.
