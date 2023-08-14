@@ -1,3 +1,12 @@
+37577716	LLIN Evaluation in Uganda Project (LLINEUP) - Plasmodium infection prevalence and genotypic markers of insecticide resistance in Anopheles vectors from 48 districts of Uganda.
+37577703	Anopheles gambiae mosGILT regulates innate immune genes and zpg expression.
+37577486	Mosquito midgut stem cell cellular defense response limits Plasmodium parasite infection.
+37577134	Integrating vector control within an emerging agricultural system in a region of climate vulnerability in southern Malawi: A focus on malaria, schistosomiasis, and arboviral diseases.
+37577115	Malaria Infections and Placental Blood Flow: A Doppler Ultrasound Study From a Preconception Cohort in Benin.
+37576999	A Five-Year (2016-2020) Trend Analysis of Malaria Surveillance Data in Oromia Regional State, Ethiopia.
+37575836	Cutaneous Manifestations of Malaria and Their Prognostic Windows: A Narrative Review.
+37575624	Descriptive epidemiology of external structural birth defects in Enugu State, Nigeria.
+37575395	VAR2CSA Ectodomain Labeling in Plasmodium falciparum Infected Red Blood Cells and Analysis via Flow Cytometry.
 37574429	Does attenuated plasmodial sporozoite-mediated protection require peroxynitrite?
 37573300	Species composition, infection rate and detection of resistant alleles in Anopheles funestus (Diptera: Culicidae) from Lare, a malaria hotspot district of Ethiopia.
 37572659	Superior antibody immunogenicity of a viral-vectored RH5 blood-stage malaria vaccine in Tanzanian infants as compared to adults.
@@ -9988,12 +9997,3 @@
 34230505	A unique volatile signature distinguishes malaria infection from other conditions that cause similar symptoms.
 34229735	Infectious disease-associated encephalopathies.
 34229653	Ownership and utilization of bed nets and reasons for use or non-use of bed nets among community members at risk of malaria along the Thai-Myanmar border.
-34195384	A mixed methods evaluation of Advanced Life Support in Obstetrics (ALSO) and Basic Life Support in Obstetrics (BLSO) in a resource-limited setting on the Thailand-Myanmar border.
-34229354	Malaria in Guinean Rural Areas: Prevalence, Management, and Ethnotherapeutic Investigations in Dionfo, Sub-Prefecture of Labe.
-34228718	CRISPR/Cas9 modified An. gambiae carrying kdr mutation L1014F functionally validate its contribution in insecticide resistance and combined effect with metabolic enzymes.
-34228634	Diagnosis and Causative Species of Visceral Leishmaniasis in Southwest Saudi Arabia.
-34228544	Antimalarial Activities of (Z)-2-(Nitroheteroarylmethylene)-3(2H)-Benzofuranone Derivatives: In Vitro and In Vivo Assessment and β-Hematin Formation Inhibition Activity.
-34228534	Changing Pattern of Plasmodium falciparum pfmdr1 Gene Polymorphisms in Southern Rwanda.
-34228433	Lipopeptides for Vaccine Development.
-34227213	Phytochemical, Antiplasmodial, Cytotoxic and Antimicrobial Evaluation of a Southeast Brazilian Brown Propolis Produced by Apis mellifera Bees.
-34227139	Evolutionary history of orangutan plasmodia revealed by phylogenetic analysis of complete mtDNA genomes and new biogeographical divergence dating calibration models.
