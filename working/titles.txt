@@ -1,3 +1,4 @@
+37574429	Does attenuated plasmodial sporozoite-mediated protection require peroxynitrite?
 37573300	Species composition, infection rate and detection of resistant alleles in Anopheles funestus (Diptera: Culicidae) from Lare, a malaria hotspot district of Ethiopia.
 37572659	Superior antibody immunogenicity of a viral-vectored RH5 blood-stage malaria vaccine in Tanzanian infants as compared to adults.
 37572510	The limit of detection of the BioFire® FilmArray® gastrointestinal panel for the foodborne parasite Cyclospora cayetanensis.
@@ -6,6 +7,7 @@
 37571809	Sporozoite immunization: Innovative Translational Science to Support the Fight against malaria.
 37571409	Effect of Malaria on Blood Levels of Vitamin E: A Systematic Review and Meta-Analysis.
 37571364	Correlates of Iron, Cobalamin, Folate, and Vitamin A Status among Stunted Children: A Cross-Sectional Study in Uganda.
+37571209	Polyethylene Glycol-Mediated Directional Conjugation of Biological Molecules for Enhanced Immunoassays at the Point-of-Care.
 37569448	Raman Spectroscopy Combined with Malaria Protein for Early Capture and Recognition of Broad-Spectrum Circulating Tumor Cells.
 37569322	Molecular Descriptors Property Prediction Using Transformer-Based Approach.
 37569037	Malaria Risk Drivers in the Brazilian Amazon: Land Use-Land Cover Interactions and Biological Diversity.
@@ -9995,5 +9997,3 @@
 34228433	Lipopeptides for Vaccine Development.
 34227213	Phytochemical, Antiplasmodial, Cytotoxic and Antimicrobial Evaluation of a Southeast Brazilian Brown Propolis Produced by Apis mellifera Bees.
 34227139	Evolutionary history of orangutan plasmodia revealed by phylogenetic analysis of complete mtDNA genomes and new biogeographical divergence dating calibration models.
-34226743	Daily briefing: Malaria vaccine made of live parasites shows early success.
-34225842	Improving statistical power in severe malaria genetic association studies by augmenting phenotypic precision.
