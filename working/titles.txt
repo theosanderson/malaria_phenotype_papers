@@ -1,4 +1,3 @@
-37573496	A review on Wickerhamomyces anomalus yeast: a promising eco-friendly approach to biological controlof malaria.
 37573300	Species composition, infection rate and detection of resistant alleles in Anopheles funestus (Diptera: Culicidae) from Lare, a malaria hotspot district of Ethiopia.
 37572659	Superior antibody immunogenicity of a viral-vectored RH5 blood-stage malaria vaccine in Tanzanian infants as compared to adults.
 37572510	The limit of detection of the BioFire® FilmArray® gastrointestinal panel for the foodborne parasite Cyclospora cayetanensis.
@@ -7648,6 +7647,7 @@
 34973474	Comparative performance of WANTAI ELISA for total immunoglobulin to receptor binding protein and an ELISA for IgG to spike protein in detecting SARS-CoV-2 antibodies in Kenyan populations.
 34973453	Imported malaria in Switzerland, (1990-2019): A retrospective analysis.
 34973333	Enzymatic and structural characterization of HAD5, an essential phosphomannomutase of malaria-causing parasites.
+37573496	A review on Wickerhamomyces anomalus yeast: a promising eco-friendly approach to biological controlof malaria.
 37521844	Virtual screening and molecular dynamic simulations of the antimalarial derivatives of 2-anilino 4-amino substituted quinazolines docked against a Pf-DHODH protein target.
 37200864	Decrypting the complexity of the human malaria parasite biology through systems biology approaches.
 37017189	Challenges in diagnosing fever in traveler returning from tropical ares - is it dengue or chikungunya? Case report.
