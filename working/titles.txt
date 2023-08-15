@@ -1,3 +1,4 @@
+37579388	The Dynamics of Power Flow From the Global Health Financing Comment on "Power Dynamics Among Health Professionals in Nigeria: A Case Study of the Global Fund Policy Process".
 37578574	Coding Therapeutic Nucleic Acids from Recombinant Proteins to Next-Generation Vaccines: Current Uses, Limitations, and Future Horizons.
 37577716	LLIN Evaluation in Uganda Project (LLINEUP) - Plasmodium infection prevalence and genotypic markers of insecticide resistance in Anopheles vectors from 48 districts of Uganda.
 37577703	Anopheles gambiae mosGILT regulates innate immune genes and zpg expression.
@@ -496,7 +497,7 @@
 37406519	Recent developments in the synthesis of hybrid antimalarial drug discovery.
 37406344	Unique Properties of Apicomplexan Mitochondria.
 37406192	From contigs towards chromosomes: automatic improvement of long read assemblies (ILRA).
-37406181	Imported Malaria in Children: A Study Over an 11-year Period in Brussels.
+37406181	Imported Malaria in Children: A Study Over an 11-Year Period in Brussels.
 37406109	A confinable female-lethal population suppression system in the malaria vector, Anopheles gambiae.
 37406097	Coordination of apicoplast transcription in a malaria parasite by internal and host cues.
 37405994	Combining isothermal recombinase polymerase amplification with lateral flow assay for diagnosis of P. cynomolgi malaria infection.
@@ -9996,4 +9997,3 @@
 34230748	Malaria and COVID-19 co-dynamics: A mathematical model and optimal control.
 34230590	Human genetic variant E756del in the ion channel PIEZO1 not associated with protection from severe malaria in a large Ghanaian study.
 34230505	A unique volatile signature distinguishes malaria infection from other conditions that cause similar symptoms.
-34229735	Infectious disease-associated encephalopathies.
