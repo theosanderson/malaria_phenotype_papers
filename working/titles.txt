@@ -1,3 +1,8 @@
+37580703	Bioinformatic and literature assessment of toxicity and allergenicity of a CRISPR-Cas9 engineered gene drive to control Anopheles gambiae the mosquito vector of human malaria.
+37580690	Trend analysis of malaria in urban settings in Ethiopia from 2014 to 2019.
+37580420	A mosquito symbiont takes down malaria.
+37580024	Case Report: Hemophagocytic Lymphohistiocytosis Secondary to Plasmodium ovale wallikeri Infection.
+37580000	Unusual coinfection of Malaria and Hantavirus in the Colombian Caribbean Region.
 37579388	The Dynamics of Power Flow From the Global Health Financing Comment on "Power Dynamics Among Health Professionals in Nigeria: A Case Study of the Global Fund Policy Process".
 37578574	Coding Therapeutic Nucleic Acids from Recombinant Proteins to Next-Generation Vaccines: Current Uses, Limitations, and Future Horizons.
 37577716	LLIN Evaluation in Uganda Project (LLINEUP) - Plasmodium infection prevalence and genotypic markers of insecticide resistance in Anopheles vectors from 48 districts of Uganda.
@@ -1465,6 +1470,7 @@
 37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the controlled human malaria infection model.
 37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
 37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
+37074868	Changes in Population Immunity Against Infection and Severe Disease From Severe Acute Respiratory Syndrome Coronavirus 2 Omicron Variants in the United States Between December 2021 and November 2022.
 37074847	Infections and mental diseases: from tuberculosis to COVID-19.
 37074531	Human granzyme B binds Plasmodium falciparum Hsp70-x and mediates antiplasmodial activity in vitro.
 37074472	Cuscuta reflexa Possess Potent Inhibitory Activity Against Human Malaria Parasite: An In Vitro and In Vivo Study.
@@ -9991,9 +9997,3 @@
 34233710	Health technology assessment in sub-Saharan Africa: a descriptive analysis and narrative synthesis.
 34233690	Socio-economic and household determinants of malaria in adults aged 45 and above: analysis of longitudinal ageing survey in India, 2017-2018.
 34233174	The Plasmodium falciparum ABC transporter ABCI3 confers parasite strain-dependent pleiotropic antimalarial drug resistance.
-34232098	Single-Cell RNA Sequencing Reveals Cellular Heterogeneity and Stage Transition under Temperature Stress in Synchronized Plasmodium falciparum Cells.
-34231306	Antiparasitic Properties of Propolis Extracts and Their Compounds.
-34231036	A Genetically Modified Anti-Plasmodium Bacterium Is Harmless to the Foragers of the Stingless Bee Partamona helleri.
-34230748	Malaria and COVID-19 co-dynamics: A mathematical model and optimal control.
-34230590	Human genetic variant E756del in the ion channel PIEZO1 not associated with protection from severe malaria in a large Ghanaian study.
-34230505	A unique volatile signature distinguishes malaria infection from other conditions that cause similar symptoms.
