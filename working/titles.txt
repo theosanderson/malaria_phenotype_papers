@@ -1,3 +1,4 @@
+37581442	Pyronaridine tetraphosphate is an efficacious antiviral and anti-inflammatory active against multiple highly pathogenic coronaviruses.
 37581159	Addressing Barriers to Care in Hepatocellular Carcinoma: Promoting Equity and Access.
 37581102	NAD(P) transhydrogenase isoform distribution provides insight into apicomplexan evolution.
 37580703	Bioinformatic and literature assessment of toxicity and allergenicity of a CRISPR-Cas9 engineered gene drive to control Anopheles gambiae the mosquito vector of human malaria.
@@ -9996,4 +9997,3 @@
 34233975	Study protocol: an open-label individually randomised controlled trial to assess the efficacy of artemether-lumefantrine prophylaxis for malaria among forest goers in Cambodia.
 34233764	Individual and seasonal variation in the movement behavior of two tropical nectarivorous birds.
 34233742	The seasonal dynamics and biting behavior of potential Anopheles vectors of Plasmodium knowlesi in Palawan, Philippines.
-34233710	Health technology assessment in sub-Saharan Africa: a descriptive analysis and narrative synthesis.
