@@ -1,8 +1,10 @@
+37581159	Addressing Barriers to Care in Hepatocellular Carcinoma: Promoting Equity and Access.
+37581102	NAD(P) transhydrogenase isoform distribution provides insight into apicomplexan evolution.
 37580703	Bioinformatic and literature assessment of toxicity and allergenicity of a CRISPR-Cas9 engineered gene drive to control Anopheles gambiae the mosquito vector of human malaria.
-37580024	Case Report: Hemophagocytic Lymphohistiocytosis Secondary to Plasmodium ovale wallikeri Infection.
-37580000	Unusual coinfection of Malaria and Hantavirus in the Colombian Caribbean Region.
 37580690	Trend analysis of malaria in urban settings in Ethiopia from 2014 to 2019.
 37580420	A mosquito symbiont takes down malaria.
+37580024	Case Report: Hemophagocytic Lymphohistiocytosis Secondary to Plasmodium ovale wallikeri Infection.
+37580000	Unusual coinfection of Malaria and Hantavirus in the Colombian Caribbean Region.
 37579388	The Dynamics of Power Flow From the Global Health Financing Comment on "Power Dynamics Among Health Professionals in Nigeria: A Case Study of the Global Fund Policy Process".
 37578574	Coding Therapeutic Nucleic Acids from Recombinant Proteins to Next-Generation Vaccines: Current Uses, Limitations, and Future Horizons.
 37577716	LLIN Evaluation in Uganda Project (LLINEUP) - Plasmodium infection prevalence and genotypic markers of insecticide resistance in Anopheles vectors from 48 districts of Uganda.
@@ -9995,5 +9997,3 @@
 34233764	Individual and seasonal variation in the movement behavior of two tropical nectarivorous birds.
 34233742	The seasonal dynamics and biting behavior of potential Anopheles vectors of Plasmodium knowlesi in Palawan, Philippines.
 34233710	Health technology assessment in sub-Saharan Africa: a descriptive analysis and narrative synthesis.
-34233690	Socio-economic and household determinants of malaria in adults aged 45 and above: analysis of longitudinal ageing survey in India, 2017-2018.
-34233174	The Plasmodium falciparum ABC transporter ABCI3 confers parasite strain-dependent pleiotropic antimalarial drug resistance.
