@@ -1,3 +1,10 @@
+37585137	Interaction of histological events and physiological mediators in healthy placentas from malaria-endemic area in Colombia: An approach with a factorial model.
+37585127	Assessment of diagnostic accuracy and adherence to maternal and child health guidelines as a measure of clinical competence of frontline healthcare workers in Nigeria.
+37585019	Factors affecting usage of insecticide treated nets for malaria control by pregnant women in Enugu, South East Nigeria.
+37585012	Fostering sustainable malaria prevention and elimination in Africa.
+37584781	Development and application of fragment-based de novo inhibitor design approaches against Plasmodium falciparum GST.
+37584425	F-cells promote Plasmodium falciparum proliferation in sickle cell disease.
+37584317	Evolution of spatial risk of malaria infection after a pragmatic chemoprevention program in response to severe flooding in rural western Uganda.
 37583960	A Retrospective Analysis of Malaria Trends in Leka Dulecha Health Center over the Last Ten Years (2013-2022), Western Oromia, East Wollega Zone.
 37583959	Antimalarial Efficacy and Safety of Senna occidentalis (L.) Link Root Extract in Plasmodium berghei-Infected BALB/c Mice.
 37583887	Pilot implementation of community health advocacy teams to improve the effectiveness of long-lasting insecticide net distribution through both campaigns and continuous channels in Ghana: a qualitative study of opportunities and barriers to implementation.
@@ -1470,7 +1477,7 @@
 37080596	Effects of a Small-Molecule Perforin Inhibitor in a Mouse Model of CD8 T Cell-Mediated Neuroinflammation.
 37079901	Design, Rationalization, and Automation of a Catalytic Sensing Mechanism for Homogeneous SERS Biosensors.
 37079536	Predicting microbe organisms using data of living micro forms of life and hybrid microbes classifier.
-37079382	Mycobacterium tuberculosis gene expression associated with fluoroquinolone resistance and efflux pump inhibition.
+37079382	Mycobacterium tuberculosis Gene Expression Associated With Fluoroquinolone Resistance and Efflux Pump Inhibition.
 37078740	'Eradication was a dirty word': Anti-gambiae campaign, between cooperation and rivalry (1938-1940).
 37077252	Humoral Immune Responses to P. falciparum Circumsporozoite Protein (Pfcsp) Induced by the RTS, S Vaccine - Current Update.
 37077247	Editorial: Frontiers in malaria research.
@@ -9990,10 +9997,3 @@
 34241563	Mechanisms and Molecular Targets of Artemisinin in Cancer Treatment.
 34240581	Haemoproteosis and avian malaria in Columbidae and Corvidae from Iran.
 34240263	Aptamers isolated against mosquito-borne pathogens.
-34240065	A call for standardised age-disaggregated health data.
-34239003	A retrospective analysis of malaria epidemiological characteristics in Yingjiang County on the China-Myanmar border.
-34238361	Pharmacokinetic evaluation of Chalcone derivatives with antimalarial activity in New Zealand White Rabbits.
-34238299	Usability of a point-of-care diagnostic to identify glucose-6-phosphate dehydrogenase deficiency: a multi-country assessment of test label comprehension and results interpretation.
-34238209	Evolution of transcriptional control of antigenic variation and virulence in human and ape malaria parasites.
-34237898	Plasmodium falciparum finds the winning combination.
-34237107	Oxygen systems and quality of care for children with pneumonia, malaria and diarrhoea: Analysis of a stepped-wedge trial in Nigeria.
