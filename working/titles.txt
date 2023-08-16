@@ -1,6 +1,10 @@
+37583960	A Retrospective Analysis of Malaria Trends in Leka Dulecha Health Center over the Last Ten Years (2013-2022), Western Oromia, East Wollega Zone.
+37583959	Antimalarial Efficacy and Safety of Senna occidentalis (L.) Link Root Extract in Plasmodium berghei-Infected BALB/c Mice.
+37583887	Pilot implementation of community health advocacy teams to improve the effectiveness of long-lasting insecticide net distribution through both campaigns and continuous channels in Ghana: a qualitative study of opportunities and barriers to implementation.
+37583763	Ex vivo and In vitro antiplasmodial activities of approved drugs predicted to have antimalarial activities using chemogenomics and drug repositioning approach.
+37582841	Single-cell profiling of Anopheles gambiae spermatogenesis defines the onset of meiotic silencing and premeiotic overexpression of the X chromosome.
 37582796	Nationwide spatiotemporal drug resistance genetic profiling from over three decades in Indian Plasmodium falciparum and Plasmodium vivax isolates.
 37582356	Endothelial protein C receptor binding induces conformational changes to severe malaria-associated group A PfEMP1.
-37582841	Single-cell profiling of Anopheles gambiae spermatogenesis defines the onset of meiotic silencing and premeiotic overexpression of the X chromosome.
 37581982	Single-cell RNA sequencing and analysis of rodent blood stage Plasmodium.
 37581442	Pyronaridine tetraphosphate is an efficacious antiviral and anti-inflammatory active against multiple highly pathogenic coronaviruses.
 37581159	Addressing Barriers to Care in Hepatocellular Carcinoma: Promoting Equity and Access.
@@ -417,6 +421,7 @@
 37440995	Current and future opportunities of autodissemination of pyriproxyfen approach for malaria vector control in urban and rural Africa.
 37440491	A systematic review on maternal-to-infant transfer of drugs through breast milk during the treatment of malaria, tuberculosis, and neglected tropical diseases.
 37440412	Macrophages drive KSHV B cell latency.
+37439872	Towards model-informed precision dosing of piperacillin: multicenter systematic external evaluation of pharmacokinetic models in critically ill adults with a focus on Bayesian forecasting.
 37439063	Implementation and resource needs for long-acting PrEP in low- and middle-income countries: a scoping review.
 37438859	The burden of malaria in sub-Saharan Africa and its association with development assistance for health and governance: An exploration of the GBD 2019 study.
 37438774	Assessing the acceptability and feasibility of reactive drug administration for malaria elimination in a Plasmodium vivax predominant setting: a qualitative study in two provinces in Thailand.
@@ -9992,8 +9997,3 @@
 34238209	Evolution of transcriptional control of antigenic variation and virulence in human and ape malaria parasites.
 34237898	Plasmodium falciparum finds the winning combination.
 34237107	Oxygen systems and quality of care for children with pneumonia, malaria and diarrhoea: Analysis of a stepped-wedge trial in Nigeria.
-34235489	The structures of two salivary proteins from the West Nile vector Culex quinquefasciatus reveal a beta-trefoil fold with putative sugar binding properties.
-34235091	Development of miRNA-Based Approaches to Explore the Interruption of Mosquito-Borne Disease Transmission.
-34234921	Predicted structural mimicry of spike receptor-binding motifs from highly pathogenic human coronaviruses.
-34234309	Live malaria vaccine shows promise.
-34234124	The epidemiology of Plasmodium vivax among adults in the Democratic Republic of the Congo.
