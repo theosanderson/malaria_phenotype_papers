@@ -1,3 +1,4 @@
+37589880	Avian Haemosporidians Infecting Short- and Long-Distance Migratory Old World Flycatcher Species and the Variation in Parasitaemia After Endurance Flights.
 37587640	Development and application of a PBPK modeling strategy to support antimalarial drug development.
 37587487	Heritability of biting time behaviours in the major African malaria vector Anopheles arabiensis.
 37587474	From an interventional study to a national scale-up: lessons learned from the Malakit strategy at the French Guiana-Suriname border.
@@ -9996,4 +9997,3 @@
 34246262	Sequence analysis of Plasmodium vivax Duffy binding proteins reveals the presence of unique haplotypes and diversifying selection in Ethiopian isolates.
 34245729	Sustainable and green trends in using plant extracts for the synthesis of biogenic metal nanoparticles toward environmental and pharmaceutical advances: A review.
 34245711	Projecting the risk of mosquito-borne diseases in a warmer and more populated world: a multi-model, multi-scenario intercomparison modelling study.
-34245274	Cross-resistance of the chloroquine-derivative AQ-13 with amodiaquine in Cambodian Plasmodium falciparum isolates.
