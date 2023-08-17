@@ -1,3 +1,4 @@
+37587640	Development and application of a PBPK modeling strategy to support antimalarial drug development.
 37587487	Heritability of biting time behaviours in the major African malaria vector Anopheles arabiensis.
 37587474	From an interventional study to a national scale-up: lessons learned from the Malakit strategy at the French Guiana-Suriname border.
 37587182	Estimating excess mortality due to female genital mutilation.
@@ -2018,6 +2019,7 @@
 36910307	P fmdr 1 and kelch 13 genes distribution among children that are 5 years and below in Akure, Nigeria.
 36909626	Comparison of Epstein-Barr virus and Kaposi's sarcoma-associated herpesvirus viral load in peripheral blood mononuclear cells and oral fluids of HIV-negative individuals aged 3 to 89 years from Uganda.
 36909484	Babesia divergens egress from host cells is orchestrated by essential and druggable kinases and proteases.
+36909482	Coping with drug resistant tuberculosis alongside COVID-19 and other stressors in Zimbabwe: a qualitative study.
 36908639	Molecular Surveillance of Malaria Using the PF AmpliSeq Custom Assay for Plasmodium falciparum Parasites from Dried Blood Spot DNA Isolates from Peru.
 36908393	Impact of helminthiasis on gestational anemia in low- and middle-income countries: a systematic review and meta-analysis of more than 19,000 women.
 36580567	
@@ -9995,5 +9997,3 @@
 34245729	Sustainable and green trends in using plant extracts for the synthesis of biogenic metal nanoparticles toward environmental and pharmaceutical advances: A review.
 34245711	Projecting the risk of mosquito-borne diseases in a warmer and more populated world: a multi-model, multi-scenario intercomparison modelling study.
 34245274	Cross-resistance of the chloroquine-derivative AQ-13 with amodiaquine in Cambodian Plasmodium falciparum isolates.
-34245212	Fever and neutropenia outcomes and areas for intervention: A report from SUCCOUR - Supportive Care for Children with Cancer in Africa.
-34244739	Occurrence and Distribution of Nonfalciparum Malaria Parasite Species Among Adolescents and Adults in Malawi.
