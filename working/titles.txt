@@ -1,6 +1,7 @@
-37585855	Prevalence and risk factors for malaria in pregnancy in Vanga, Democratic Republic of Congo.
-37585827	Community perspectives and caregivers' healthcare practices and responses to the four major childhood killer diseases in Nigeria.
-37585796	Self-medication practices of pregnant women attending antenatal clinic in northern Ghana: An analytical cross-sectional study.
+37587487	Heritability of biting time behaviours in the major African malaria vector Anopheles arabiensis.
+37587474	From an interventional study to a national scale-up: lessons learned from the Malakit strategy at the French Guiana-Suriname border.
+37587182	Estimating excess mortality due to female genital mutilation.
+37587104	Genome-wide association studies reveal novel loci associated with pyrethroid and organophosphate resistance in Anopheles gambiae and Anopheles coluzzii.
 37585450	ABCH2 transporter mediates deltamethrin uptake and toxicity in the malaria vector Anopheles coluzzii.
 37585421	Genetic diversity, phylogenetic and phylogeographic analysis of Anopheles culicifacies species complex using ITS2 and COI sequences.
 37585420	Effectiveness of dual active ingredient insecticide-treated nets in preventing malaria: A systematic review and meta-analysis.
@@ -8059,6 +8060,7 @@
 34850311	The Impact of Maternal Depression and Parent-Child Interactions on Risk of Parasitic Infections in Early Childhood: A Prospective Cohort in Benin.
 34849822	CRISPR-mediated knock-in of transgenes into the malaria vector Anopheles funestus.
 34849647	Performance of a Histidine Rich Protein-2 Based (First Response) and a p-Lactate Dehydrogenase-based (Optimal) Rapid Diagnostic Test for Diagnosis of Malaria in Patients With Pediatric Sickle Cell Disease.
+37585827	Community perspectives and caregivers' healthcare practices and responses to the four major childhood killer diseases in Nigeria.
 34847530	Missed Plasmodium falciparum and Plasmodium vivax Mixed Infections in Ethiopia Threaten Malaria Elimination.
 34846704	World Health Organization recommends first malaria vaccine.
 34846541	Development of single- and multiplex immunoassays for rapid detection and quantitation of amodiaquine in ACT drugs and rat serum.
@@ -8877,6 +8879,7 @@
 34593270	A phase IIA extension study evaluating the effect of booster vaccination with a fractional dose of RTS,S/AS01(E) in a controlled human malaria infection challenge.
 34593034	Vertical disease programs and their effect on integrated disease surveillance and response: perspectives of epidemiologists and surveillance officers in Nigeria.
 34592986	The genome of the zoonotic malaria parasite Plasmodium simium reveals adaptations to host switching.
+37585855	Prevalence and risk factors for malaria in pregnancy in Vanga, Democratic Republic of Congo.
 35952086	Paludismo (Malaria).
 35952085	Malaria.
 34592395	Dimeric artesunate-choline conjugate micelles coated with hyaluronic acid as a stable, safe and potent alternative anti-malarial injection of artesunate.
@@ -9719,6 +9722,7 @@
 34333350	Genetic surveillance for monitoring the impact of drug use on Plasmodium falciparum populations.
 34332896	Illuminating Plasmodium invasion by lattice-light-sheet microscopy.
 34332654	Modeling the effects of malaria on red blood cell binding at the vascular interface.
+37585796	Self-medication practices of pregnant women attending antenatal clinic in northern Ghana: An analytical cross-sectional study.
 34331887	Elizabeth Ashley-leading research at malaria's frontline.
 34331675	Smart Safety Surveillance (3S): Multi-Country Experience of Implementing the 3S Concepts and Principles.
 34330999	Preclinical validation of a live attenuated dermotropic Leishmania vaccine against vector transmitted fatal visceral leishmaniasis.
@@ -9993,7 +9997,3 @@
 34245274	Cross-resistance of the chloroquine-derivative AQ-13 with amodiaquine in Cambodian Plasmodium falciparum isolates.
 34245212	Fever and neutropenia outcomes and areas for intervention: A report from SUCCOUR - Supportive Care for Children with Cancer in Africa.
 34244739	Occurrence and Distribution of Nonfalciparum Malaria Parasite Species Among Adolescents and Adults in Malawi.
-34244737	Contextual factors associated with knowledge and attitudes of HIV/AIDS among Malawian women of reproductive age.
-34244481	Structural basis of LAIR1 targeting by polymorphic Plasmodium RIFINs.
-34243763	Early whole blood transcriptional responses to radiation-attenuated Plasmodium falciparum sporozoite vaccination in malaria naïve and malaria pre-exposed adult volunteers.
-34243757	The mechanisms of action of Plasmodium infection against cancer.
