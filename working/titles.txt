@@ -1,7 +1,7 @@
-37592097	Mosquito-inhabiting bacteria could help tackle malaria.
 37591916	Intelligent diagnostic model for malaria parasite detection and classification using imperative inception-based capsule neural networks.
 37591894	Elucidation of the low-expressing erythroid CR1 phenotype by bioinformatic mining of the GATA1-driven blood-group regulome.
 37591619	Classic illustration of Plasmodium vivax/Plasmodium falciparum coinfection.
+37592097	Mosquito-inhabiting bacteria could help tackle malaria.
 37590506	Novel Methodological Perspectives In The Study Of Mosquito Biology.
 37590272	Burden and risk factors of snakebite in Mopeia, Mozambique: Leveraging larger malaria trials to generate data of this neglected tropical disease.
 37590198	Bacterial community structure of Anopheles hyrcanus group, Anopheles nivipes, Anopheles philippinensis, and Anopheles vagus from a malaria-endemic area in Thailand.
