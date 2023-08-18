@@ -1,3 +1,6 @@
+37590506	Novel Methodological Perspectives In The Study Of Mosquito Biology.
+37590272	Burden and risk factors of snakebite in Mopeia, Mozambique: Leveraging larger malaria trials to generate data of this neglected tropical disease.
+37590198	Bacterial community structure of Anopheles hyrcanus group, Anopheles nivipes, Anopheles philippinensis, and Anopheles vagus from a malaria-endemic area in Thailand.
 37589880	Avian Haemosporidians Infecting Short- and Long-Distance Migratory Old World Flycatcher Species and the Variation in Parasitaemia After Endurance Flights.
 37587640	Development and application of a PBPK modeling strategy to support antimalarial drug development.
 37587487	Heritability of biting time behaviours in the major African malaria vector Anopheles arabiensis.
@@ -9994,6 +9997,3 @@
 34246274	Mechanistic within-host models of the asexual Plasmodium falciparum infection: a review and analytical assessment.
 34246273	Markov chain Monte Carlo Gibbs sampler approach for estimating haplotype frequencies among multiple malaria infected human blood samples.
 34246268	Knowledge, attitudes and practices (KAP) to assess the impact of school children's awareness of malaria using the MOSKI KIT® tool: study case of some Dakar schools in Senegal.
-34246262	Sequence analysis of Plasmodium vivax Duffy binding proteins reveals the presence of unique haplotypes and diversifying selection in Ethiopian isolates.
-34245729	Sustainable and green trends in using plant extracts for the synthesis of biogenic metal nanoparticles toward environmental and pharmaceutical advances: A review.
-34245711	Projecting the risk of mosquito-borne diseases in a warmer and more populated world: a multi-model, multi-scenario intercomparison modelling study.
