@@ -1,7 +1,7 @@
-37596457	Myxobolus coriumicus n.sp. (Cnidaria: Myxozoa) Causing Scale Disease Associated with Skin Lesions in Indian Cultured Carp, Cirrhinus mrigala in Punjab.
-37596377	Plasmodium falciparum formins are essential for invasion and sexual stage development.
 37596283	A potent and durable malaria transmission-blocking vaccine designed from a single-component 60-copy Pfs230D1 nanoparticle.
 37595939	Genetic diversity and in silico analysis of Plasmodium knowlesi Serine Repeat Antigen (SERA) 3 antigen 2 in Malaysia.
+37596457	Myxobolus coriumicus n.sp. (Cnidaria: Myxozoa) Causing Scale Disease Associated with Skin Lesions in Indian Cultured Carp, Cirrhinus mrigala in Punjab.
+37596377	Plasmodium falciparum formins are essential for invasion and sexual stage development.
 37594855	AVPCD: a plant-derived medicine database of antiviral phytochemicals for cancer, Covid-19, malaria and HIV.
 37593329	Imaging features of fulminant cerebral malaria: A case report.
 37593313	Scrub Typhus in Children: A Prospective Observational Study in a Tertiary Care Hospital in Eastern India.
