@@ -1,3 +1,4 @@
+37594855	AVPCD: a plant-derived medicine database of antiviral phytochemicals for cancer, Covid-19, malaria and HIV.
 37593329	Imaging features of fulminant cerebral malaria: A case report.
 37593313	Scrub Typhus in Children: A Prospective Observational Study in a Tertiary Care Hospital in Eastern India.
 37593167	Bioassay-guided isolation in Salvia abrotanoides Karel. stem based on its anti-fungal and anti-trichomonas activity.
@@ -9996,4 +9997,3 @@
 34249305	A novel fluorescence and DNA combination for versatile, long-term marking of mosquitoes.
 34249127	In Vivo Antimalarial Activity of Leaf Latex of Aloe melanacantha against Plasmodium berghei Infected Mice.
 34249090	Chloroquine and Sulfadoxine-Pyrimethamine Resistance in Sub-Saharan Africa-A Review.
-34248932	Immunoreactivity of Sera From Low to Moderate Malaria-Endemic Areas Against Plasmodium vivax rPvs48/45 Proteins Produced in Escherichia coli and Chinese Hamster Ovary Systems.
