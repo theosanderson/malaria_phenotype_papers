@@ -1,3 +1,7 @@
+37596457	Myxobolus coriumicus n.sp. (Cnidaria: Myxozoa) Causing Scale Disease Associated with Skin Lesions in Indian Cultured Carp, Cirrhinus mrigala in Punjab.
+37596377	Plasmodium falciparum formins are essential for invasion and sexual stage development.
+37596283	A potent and durable malaria transmission-blocking vaccine designed from a single-component 60-copy Pfs230D1 nanoparticle.
+37595939	Genetic diversity and in silico analysis of Plasmodium knowlesi Serine Repeat Antigen (SERA) 3 antigen 2 in Malaysia.
 37594855	AVPCD: a plant-derived medicine database of antiviral phytochemicals for cancer, Covid-19, malaria and HIV.
 37593329	Imaging features of fulminant cerebral malaria: A case report.
 37593313	Scrub Typhus in Children: A Prospective Observational Study in a Tertiary Care Hospital in Eastern India.
@@ -9993,7 +9997,3 @@
 34250571	Biochemical and structural insights into 6-phosphogluconate dehydrogenase from Leishmania donovani.
 34250211	Sex-specific Separation of Plasmodium falciparum Gametocyte Populations.
 34249776	Polymorphism of Antifolate Drug Resistance in Plasmodium vivax From Local Residents and Migrant Workers Returned From the China-Myanmar Border.
-34249772	Plasmodium vivax Gametocytes Adherence to Bone Marrow Endothelial Cells.
-34249305	A novel fluorescence and DNA combination for versatile, long-term marking of mosquitoes.
-34249127	In Vivo Antimalarial Activity of Leaf Latex of Aloe melanacantha against Plasmodium berghei Infected Mice.
-34249090	Chloroquine and Sulfadoxine-Pyrimethamine Resistance in Sub-Saharan Africa-A Review.
