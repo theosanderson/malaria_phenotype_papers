@@ -1,3 +1,6 @@
+37598208	Determination of different social groups' level of knowledge about malaria in a multicultural Amazonian cross-border context.
+37597861	Burden and seasonal distribution of malaria in Ziquala district, Northeast Ethiopia: a 5-year multi-centre retrospective study.
+37597512	Diagnosis of childhood febrile illness using a multi-class blood RNA molecular signature.
 37596457	Myxobolus coriumicus n.sp. (Cnidaria: Myxozoa) Causing Scale Disease Associated with Skin Lesions in Indian Cultured Carp, Cirrhinus mrigala in Punjab.
 37596377	Plasmodium falciparum formins are essential for invasion and sexual stage development.
 37596283	A potent and durable malaria transmission-blocking vaccine designed from a single-component 60-copy Pfs230D1 nanoparticle.
@@ -9994,6 +9997,3 @@
 34252299	Should Deep-Sequenced Amplicons Become the New Gold Standard for Analyzing Malaria Drug Clinical Trials?
 34252120	Screening of viral-vectored P. falciparum pre-erythrocytic candidate vaccine antigens using chimeric rodent parasites.
 34251290	PET Imaging of Translocator Protein as a Marker of Malaria-Associated Lung Inflammation.
-34250571	Biochemical and structural insights into 6-phosphogluconate dehydrogenase from Leishmania donovani.
-34250211	Sex-specific Separation of Plasmodium falciparum Gametocyte Populations.
-34249776	Polymorphism of Antifolate Drug Resistance in Plasmodium vivax From Local Residents and Migrant Workers Returned From the China-Myanmar Border.
