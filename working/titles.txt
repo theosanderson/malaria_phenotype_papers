@@ -1,7 +1,18 @@
+37602418	Topical repellents for malaria prevention.
+37602057	Secondary Hemophagocytic Lymphohistiocytosis Due to Typhoid Fever.
+37601484	Antimalarial Effect of the Root of Silene macrosolen A. Rich (Caryophyllaceae) on Plasmodium-berghei-Infected Mice.
+37601293	Role of Platelet Indices as a Potential Marker for Malaria Severity.
+37601202	Effectiveness of health education interventions to improve malaria knowledge and insecticide-treated nets usage among populations of sub-Saharan Africa: systematic review and meta-analysis.
+37600585	Malaria Burden Stratification in Malawi- A report of a consultative workshop to inform the 2023-2030 Malawi Malaria Strategic Plan.
+37600388	Ethnobotany and conservation of the species Celtis toka (Forssk.) Hepper & J.R.I. wood: A way forward for sustainable use in Burkina Faso.
+37599666	Distinct Allelic Diversity of Plasmodium vivax Merozoite Surface Protein 3-Alpha (PvMSP-3α) Gene in Thailand Using PCR-RFLP.
+37599500	Toxicity assessment of methanol extract of Parinari curatellifolia Planch ex. Benth.
+37599462	Exploring potential Plasmodium kinase inhibitors: a combined docking, MD and QSAR studies.
+37599457	Structural and functional characterization of 6-phosphogluconate dehydrogenase in Plasmodium falciparum (3D7) and identification of its potent inhibitors.
+37599229	Historical epidemics of scrub typhus in Queensland and Papua New Guinea.
 37598974	Tackling the emerging Artemisinin-resistant malaria parasite by modulation of defensive oxido-reductive mechanism via nitrofurantoin repurposing.
 37598777	Characteristics of preventive intervention acceptance for international travel among clients aged 60 years and older from a Japanese multicenter pretravel consultation registry.
 37598774	Co-infecting Haemoproteus species (Haemosporida, Apicomplexa) show different host tissue tropism during exo-erythrocytic development in Fringilla coelebs (Fringillidae).
-37599229	Historical epidemics of scrub typhus in Queensland and Papua New Guinea.
 37598208	Determination of different social groups' level of knowledge about malaria in a multicultural Amazonian cross-border context.
 37597861	Burden and seasonal distribution of malaria in Ziquala district, Northeast Ethiopia: a 5-year multi-centre retrospective study.
 37597512	Diagnosis of childhood febrile illness using a multi-class blood RNA molecular signature.
@@ -9986,14 +9997,3 @@
 34257097	Preventing avoidable hospital admissions after emergency care in humanitarian settings: a cross-sectional review of Médecins Sans Frontières emergency departments.
 34257091	Effectiveness of spatially targeted interventions for control of HIV, tuberculosis, leprosy and malaria: a systematic review.
 34256757	Residual malaria in Jazan region, southwestern Saudi Arabia: the situation, challenges and climatic drivers of autochthonous malaria.
-34255739	Efficacy of Artemether-Lumefantrine for the Treatment of Plasmodium falciparum Malaria in Bohicon and Kandi, Republic of Benin, 2018-2019.
-34254783	Artesunate and Tetramethylpyrazine Exert Effects on Experimental Cerebral Malaria in a Mechanism of Protein S-Nitrosylation.
-34254217	Evolutionary pressures and codon bias in low complexity regions of plasmodia.
-34254146	Increased risk of severe malaria in travellers during the COVID-19 pandemic.
-34253917	Daily briefing: China eliminates malaria.
-34253743	Methylene Blue has a potent antiviral activity against SARS-CoV-2 and H1N1 influenza virus in the absence of UV-activation in vitro.
-34253259	China declared malaria-free: a milestone in the world malaria eradication and Chinese public health.
-34672490	
-34252846	Challenges with the proposed approach in enhancing the accessibility of antimalarial activities during COVID 19 pandemic.
-34252617	Erythrocyte miRNA regulators and malarial pathophysiology.
-34252385	Evaluation of the combination of rapid diagnostic tests and microscopy for imported malaria surveillance in Anhui Province, China.
