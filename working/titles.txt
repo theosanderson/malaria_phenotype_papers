@@ -4854,6 +4854,7 @@
 35917611	Malaria quantitative POC testing using magnetic particles, a paper microfluidic device and a hand-held fluorescence reader.
 35916842	Diagnosis, Treatment, and Prevention of Malaria in the US: A Review.
 35916840	Improving disease surveillance data analysis, interpretation, and use at the district level in Tanzania.
+35916533	Emerging functional microfluidic assays for the study of thromboinflammation in sickle cell disease.
 35916532	Pregnancy and malaria: the perfect storm.
 35916146	Outcomes reported in trials of treatments for severe malaria: The need for a core outcome set.
 35915745	Antiplasmodial, Antitrypanosomal, and Cytotoxic Effects of Anthonotha macrophylla, Annickia polycarpa, Tieghemella heckelii, and Antrocaryon micraster Extracts.
@@ -9996,4 +9997,3 @@
 34257664	Ultraviolet-Visible Spectroscopy and Chemometric Strategy Enable the Classification and Detection of Expired Antimalarial Herbal Medicinal Product in Ghana.
 34257648	Transplacental Transfer of Primaquine and Neurobehavioral Development of Prenatally Exposed Rats.
 34257460	Malaria vaccine wows and seeds COVID-19 vaccine effort.
-34257318	Malian adults maintain serologic responses to virulent PfEMP1s amid seasonal patterns of fluctuation.
