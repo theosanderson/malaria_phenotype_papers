@@ -1,7 +1,10 @@
+37603186	Study of Agonists of TLRs as Vaccine Adjuvants.
+37603126	Potentials of Terpenoids as Inhibitors of Multiple Plasmodium falciparum Protein Drug Targets.
+37602900	Moving on: How malaria parasites exit the liver.
+37602845	Highlighting Molecular Biology as a Focal Point for Mosquito Research.
+37602587	Molecular detection of drug-resistant Plasmodium falciparum mutants in Assam.
 37602418	Topical repellents for malaria prevention.
 37602057	Secondary Hemophagocytic Lymphohistiocytosis Due to Typhoid Fever.
-37601484	Antimalarial Effect of the Root of Silene macrosolen A. Rich (Caryophyllaceae) on Plasmodium-berghei-Infected Mice.
-37601293	Role of Platelet Indices as a Potential Marker for Malaria Severity.
 37601202	Effectiveness of health education interventions to improve malaria knowledge and insecticide-treated nets usage among populations of sub-Saharan Africa: systematic review and meta-analysis.
 37600585	Malaria Burden Stratification in Malawi- A report of a consultative workshop to inform the 2023-2030 Malawi Malaria Strategic Plan.
 37600388	Ethnobotany and conservation of the species Celtis toka (Forssk.) Hepper & J.R.I. wood: A way forward for sustainable use in Burkina Faso.
@@ -9994,6 +9997,3 @@
 34257648	Transplacental Transfer of Primaquine and Neurobehavioral Development of Prenatally Exposed Rats.
 34257460	Malaria vaccine wows and seeds COVID-19 vaccine effort.
 34257318	Malian adults maintain serologic responses to virulent PfEMP1s amid seasonal patterns of fluctuation.
-34257097	Preventing avoidable hospital admissions after emergency care in humanitarian settings: a cross-sectional review of Médecins Sans Frontières emergency departments.
-34257091	Effectiveness of spatially targeted interventions for control of HIV, tuberculosis, leprosy and malaria: a systematic review.
-34256757	Residual malaria in Jazan region, southwestern Saudi Arabia: the situation, challenges and climatic drivers of autochthonous malaria.
