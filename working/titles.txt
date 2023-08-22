@@ -1322,7 +1322,7 @@
 37153151	Naturally acquired antibody response to Plasmodium falciparum and Plasmodium vivax among indigenous Orang Asli communities in Peninsular Malaysia.
 37151707	Antimicrobial activity in Asterceae: The selected genera characterization and against multidrug resistance bacteria.
 37151678	In vivo antimalarial activity of the 80% methanolic crude fruit extract of Lagenaria siceraria (Molina) Standl. against Plasmodium berghei infected mice.
-37151169	Mechanistic role of Tempol: Synthesis, Catalysed reactions and therapeutic potential.
+37151169	Mechanistic Role of Tempol: Synthesis, Catalysed Reactions and Therapeutic Potential.
 37150885	Accumulation of Neutrophil Phagocytic Antibody Features Tracks With Naturally Acquired Immunity Against Malaria in Children.
 37150376	Unlocking the potential of snake venom-based molecules against the malaria, Chagas disease, and leishmaniasis triad.
 37150188	Gavi unveils malaria vaccine plans.
