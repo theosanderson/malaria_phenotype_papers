@@ -1,7 +1,7 @@
-37604874	Sickle cell trait enhances malaria transmission.
 37604476	Process and Methodological Considerations for Observational Analyses of Vector Control Interventions in Sub-Saharan Africa Using Routine Malaria Data.
-37604475	Severe Hemolysis during Primaquine Radical Cure of Plasmodium vivax Malaria: Two Systematic Reviews and Individual Patient Data Descriptive Analyses.
 37604474	Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.
+37604874	Sickle cell trait enhances malaria transmission.
+37604475	Severe Hemolysis during Primaquine Radical Cure of Plasmodium vivax Malaria: Two Systematic Reviews and Individual Patient Data Descriptive Analyses.
 37604406	Does hydrogen peroxide contribute to the immunity against Malaria induced by whole attenuated plasmodial sporozoites?
 37604330	In vitro and in vivo anti-eczema effect of Artemisia annua aqueous extract and its component profiling.
 37603541	The quality of malaria case management in different transmission settings in Tanzania mainland, 2017-2018.
