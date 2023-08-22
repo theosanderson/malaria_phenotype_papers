@@ -1,3 +1,4 @@
+37603541	The quality of malaria case management in different transmission settings in Tanzania mainland, 2017-2018.
 37603186	Study of Agonists of TLRs as Vaccine Adjuvants.
 37603126	Potentials of Terpenoids as Inhibitors of Multiple Plasmodium falciparum Protein Drug Targets.
 37602900	Moving on: How malaria parasites exit the liver.
@@ -9996,4 +9997,3 @@
 34257672	The Potential Role of Gymnema inodorum Leaf Extract Treatment in Hematological Parameters in Mice Infected with Plasmodium berghei.
 34257664	Ultraviolet-Visible Spectroscopy and Chemometric Strategy Enable the Classification and Detection of Expired Antimalarial Herbal Medicinal Product in Ghana.
 34257648	Transplacental Transfer of Primaquine and Neurobehavioral Development of Prenatally Exposed Rats.
-34257460	Malaria vaccine wows and seeds COVID-19 vaccine effort.
