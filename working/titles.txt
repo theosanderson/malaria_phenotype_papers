@@ -1,3 +1,9 @@
+37604874	Sickle cell trait enhances malaria transmission.
+37604476	Process and Methodological Considerations for Observational Analyses of Vector Control Interventions in Sub-Saharan Africa Using Routine Malaria Data.
+37604475	Severe Hemolysis during Primaquine Radical Cure of Plasmodium vivax Malaria: Two Systematic Reviews and Individual Patient Data Descriptive Analyses.
+37604474	Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.
+37604406	Does hydrogen peroxide contribute to the immunity against Malaria induced by whole attenuated plasmodial sporozoites?
+37604330	In vitro and in vivo anti-eczema effect of Artemisia annua aqueous extract and its component profiling.
 37603541	The quality of malaria case management in different transmission settings in Tanzania mainland, 2017-2018.
 37603186	Study of Agonists of TLRs as Vaccine Adjuvants.
 37603126	Potentials of Terpenoids as Inhibitors of Multiple Plasmodium falciparum Protein Drug Targets.
@@ -9991,9 +9997,3 @@
 34259625	Relationship between changing malaria burden and low birth weight in sub-Saharan Africa: A difference-in-differences study via a pair-of-pairs approach.
 34259104	Africa and the Nexus of poverty, malnutrition and diseases.
 34258465	Field efficacy of ethnomedicinal plant smoke repellency against Anopheles arabiensis and Aedes aegypti.
-34258066	Antimalarial, Antioxidant, and Toxicological Evaluation of Extracts of Celtis africana, Grosseria vignei, Physalis micrantha, and Stachytarpheta angustifolia.
-34257882	An engineered biosynthetic-synthetic platform for production of halogenated indolmycin antibiotics.
-34257846	Cell communication and protein degradation: All in one parasitic package.
-34257672	The Potential Role of Gymnema inodorum Leaf Extract Treatment in Hematological Parameters in Mice Infected with Plasmodium berghei.
-34257664	Ultraviolet-Visible Spectroscopy and Chemometric Strategy Enable the Classification and Detection of Expired Antimalarial Herbal Medicinal Product in Ghana.
-34257648	Transplacental Transfer of Primaquine and Neurobehavioral Development of Prenatally Exposed Rats.
