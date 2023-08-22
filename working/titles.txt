@@ -1,3 +1,5 @@
+37606582	Distribution of malaria parasite-derived phosphatidylcholine in the infected erythrocyte.
+37606241	Emergence of artemisinin-based combination treatment failure in patients returning from sub-Saharan Africa with P. falciparum malaria.
 37605264	Effects of larval exposure to sublethal doses of ivermectin on adult fitness and susceptibility to ivermectin in Anopheles gambiae s.s.
 37605226	Border malaria: defining the problem to address the challenge of malaria elimination.
 37605211	A novel approach to estimate the impact of health workforce investments on health outcomes through increased coverage of HIV, TB and malaria services.
@@ -9995,5 +9997,3 @@
 34262054	Inference of malaria reproduction numbers in three elimination settings by combining temporal data and distance metrics.
 34261791	Mapping partner drug resistance to guide antimalarial combination therapy policies in sub-Saharan Africa.
 34261572	A Snapshot of Poverty, Diseases and war - the Democratic Republic of the Congo.
-34261498	MALBoost: a web-based application for gene regulatory network analysis in Plasmodium falciparum.
-34261475	Determination of the discriminating concentration of chlorfenapyr (pyrrole) and Anopheles gambiae sensu lato susceptibility testing in preparation for distribution of Interceptor® G2 insecticide-treated nets.
