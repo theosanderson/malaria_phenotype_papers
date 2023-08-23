@@ -1,3 +1,4 @@
+37610242	α-Synuclein Aggregation Inhibitory and Antiplasmodial Activity of Constituents from the Australian Tree Eucalyptus cloeziana.
 37609568	The Impact of COVID-19 Pandemic on Arthropod-Related Diseases.
 37609566	Evaluation of the Time Course on the Effectiveness of WHO Standard Pyrethroid and Carbamate Impregnated Test Papers against Anopheles stephensi, the Main Malaria Vector in Iran.
 37609428	Square wave voltammetry based electrochemical determination of affinity of cholesterol triethylene glycol modified DNA-aptamers for protoporphyrin IX.
@@ -9996,4 +9997,3 @@
 34266382	A multi-country study using MALDI-TOF mass spectrometry for rapid identification of Burkholderia pseudomallei.
 34265466	Plasmodium falciparum DDX3X is a nucleocytoplasmic protein and requires N-terminal for DNA helicase activity.
 34265382	Ethanol extract of Bergenia ciliata (Haw.) Sternb. (rhizome) impedes the propagation of the malaria parasite.
-34265381	A review of biological activities and phytochemistry of six ethnomedicinally important South African Croton species.
