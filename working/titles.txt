@@ -1,3 +1,7 @@
+37607941	Novel insights into the role of long non-coding RNA in the human malaria parasite, Plasmodium falciparum.
+37607788	Childhood mortality and associated factors in Migori County, Kenya: evidence from a cross-sectional survey.
+37607499	Mefloquine-Induced Inner Ear Damage and Preventive Effects of Electrical Stimulation: An Electrophysiological Study.
+37607476	Parasite microtubule arrays.
 37606582	Distribution of malaria parasite-derived phosphatidylcholine in the infected erythrocyte.
 37606241	Emergence of artemisinin-based combination treatment failure in patients returning from sub-Saharan Africa with P. falciparum malaria.
 37605264	Effects of larval exposure to sublethal doses of ivermectin on adult fitness and susceptibility to ivermectin in Anopheles gambiae s.s.
@@ -9993,7 +9997,3 @@
 34262922	Therapeutic and Industrial Applications of Curdlan With Overview on Its Recent Patents.
 34262880	Studies of the Parasite-Midgut Interaction Reveal Plasmodium Proteins Important for Malaria Transmission to Mosquitoes.
 34262552	Current Status of Chikungunya in India.
-34262303	Evaluation of Antiplasmodial Activity of Hydroalcoholic Crude Extract and Solvent Fractions of Zehneria scabra Roots Against Plasmodium berghei in Swiss Albino Mice.
-34262054	Inference of malaria reproduction numbers in three elimination settings by combining temporal data and distance metrics.
-34261791	Mapping partner drug resistance to guide antimalarial combination therapy policies in sub-Saharan Africa.
-34261572	A Snapshot of Poverty, Diseases and war - the Democratic Republic of the Congo.
