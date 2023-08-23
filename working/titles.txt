@@ -1,7 +1,15 @@
+37609568	The Impact of COVID-19 Pandemic on Arthropod-Related Diseases.
+37609566	Evaluation of the Time Course on the Effectiveness of WHO Standard Pyrethroid and Carbamate Impregnated Test Papers against Anopheles stephensi, the Main Malaria Vector in Iran.
+37609428	Square wave voltammetry based electrochemical determination of affinity of cholesterol triethylene glycol modified DNA-aptamers for protoporphyrin IX.
+37609228	Updating estimates of Plasmodium knowlesi malaria risk in response to changing land use patterns across Southeast Asia.
+37609210	Ultra-low volume intradermal administration of radiation-attenuated sporozoites with the glycolipid adjuvant 7DW8-5 completely protects mice against malaria.
+37608912	Modulation in the enzymatic antioxidants, MDA level and elicitation in conessine biomolecule in Holarrhena pubescens (medicinal tree) cultures exposed to different heavy metals: Ni, Co, Cr and As.
+37608862	Molecular characterization and in silico evaluation of surfactins produced by endophytic bacteria from Phanera splendens.
+37608210	Spatial distribution and ecological niche modeling of geographical spread of Anopheles gambiae complex in Nigeria using real time data.
+37607941	Novel insights into the role of long non-coding RNA in the human malaria parasite, Plasmodium falciparum.
 37607788	Childhood mortality and associated factors in Migori County, Kenya: evidence from a cross-sectional survey.
 37607499	Mefloquine-Induced Inner Ear Damage and Preventive Effects of Electrical Stimulation: An Electrophysiological Study.
 37607476	Parasite microtubule arrays.
-37607941	Novel insights into the role of long non-coding RNA in the human malaria parasite, Plasmodium falciparum.
 37606582	Distribution of malaria parasite-derived phosphatidylcholine in the infected erythrocyte.
 37606241	Emergence of artemisinin-based combination treatment failure in patients returning from sub-Saharan Africa with P. falciparum malaria.
 37605264	Effects of larval exposure to sublethal doses of ivermectin on adult fitness and susceptibility to ivermectin in Anopheles gambiae s.s.
@@ -9989,11 +9997,3 @@
 34265466	Plasmodium falciparum DDX3X is a nucleocytoplasmic protein and requires N-terminal for DNA helicase activity.
 34265382	Ethanol extract of Bergenia ciliata (Haw.) Sternb. (rhizome) impedes the propagation of the malaria parasite.
 34265381	A review of biological activities and phytochemistry of six ethnomedicinally important South African Croton species.
-34264946	Low-level Plasmodium vivax exposure, maternal antibodies, and anemia in early childhood: Population-based birth cohort study in Amazonian Brazil.
-34264864	Safety and PCR monitoring in 161 semi-immune Kenyan adults following controlled human malaria infection.
-34263705	Epidemiological profile of imported malaria cases in the prevention of reestablishment phase in Sri Lanka.
-34263417	Enhancing artemisinin content in and delivery from Artemisia annua: a review of alternative, classical, and transgenic approaches.
-34263296	Persisting burden and challenges of rheumatic heart disease.
-34262922	Therapeutic and Industrial Applications of Curdlan With Overview on Its Recent Patents.
-34262880	Studies of the Parasite-Midgut Interaction Reveal Plasmodium Proteins Important for Malaria Transmission to Mosquitoes.
-34262552	Current Status of Chikungunya in India.
