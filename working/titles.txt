@@ -1,10 +1,13 @@
+37614176	Genomic advances in mosquito vector during avian malaria infection.
+37613241	From Organ to Organelle: towards a Multimodal 3D Cell Atlas of the Malaria Parasite Mosquito stages using Correlative Light, X-ray and volume Electron Microscopy.
+37613100	From Archeology to the Malaria Parasite, the Exciting Quests of Microscopy.
+37612754	Women's empowerment and uptake of sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria during pregnancy: results from a cross-sectional baseline survey in the Lake endemic region, Kenya.
 37612716	Implementation strategies for the introduction of the RTS,S/AS01 (RTS,S) malaria vaccine in countries with areas of highly seasonal transmission: workshop meeting report.
 37612636	Point-of-care testing in private pharmacy and drug retail settings: a narrative review.
 37612601	Therapeutic efficacy of artesunate-amodiaquine and artemether-lumefantrine for the treatment of uncomplicated falciparum malaria in Chad: clinical and genetic surveillance.
-37612143	Quantification of Anopheles gambiae Olfactory Preferences under Semi-Field Conditions.
-37612754	Women's empowerment and uptake of sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria during pregnancy: results from a cross-sectional baseline survey in the Lake endemic region, Kenya.
 37612146	Quantifying Mosquito Host Preference.
 37612145	A Behavioral Assay to Quantify Odor-Guided Thermotaxis with Anopheles gambiae under Semi-Field Conditions.
+37612143	Quantification of Anopheles gambiae Olfactory Preferences under Semi-Field Conditions.
 37611122	Evolution of Partial Resistance to Artemisinins in Malaria Parasites in Uganda.
 37610920	Elimination of malaria from Sri Lanka and beyond; lessons for other countries in elimination phase.
 37610242	α-Synuclein Aggregation Inhibitory and Antiplasmodial Activity of Constituents from the Australian Tree Eucalyptus cloeziana.
@@ -9994,6 +9997,3 @@
 34270452	Identification of Single-Nucleotide Polymorphisms in the Mitochondrial Genome and Kelch 13 Gene of Plasmodium falciparum in Different Geographical Populations.
 34269931	Screening and characterization of hypothetical proteins of Plasmodium falciparum as novel vaccine candidates in the fight against malaria using reverse vaccinology.
 34269657	The Role of PCSK9 in Infectious Diseases.
-34268141	The Host Protein Aquaporin-9 is Required for Efficient Plasmodium falciparum Sporozoite Entry into Human Hepatocytes.
-34268139	Machine Learning Uses Chemo-Transcriptomic Profiles to Stratify Antimalarial Compounds With Similar Mode of Action.
-34268135	The Transcription Factor PfAP2-O Influences Virulence Gene Transcription and Sexual Development in Plasmodium falciparum.
