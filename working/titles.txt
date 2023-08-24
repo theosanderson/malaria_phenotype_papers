@@ -1,10 +1,10 @@
-37612754	Women's empowerment and uptake of sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria during pregnancy: results from a cross-sectional baseline survey in the Lake endemic region, Kenya.
 37612716	Implementation strategies for the introduction of the RTS,S/AS01 (RTS,S) malaria vaccine in countries with areas of highly seasonal transmission: workshop meeting report.
 37612636	Point-of-care testing in private pharmacy and drug retail settings: a narrative review.
 37612601	Therapeutic efficacy of artesunate-amodiaquine and artemether-lumefantrine for the treatment of uncomplicated falciparum malaria in Chad: clinical and genetic surveillance.
+37612143	Quantification of Anopheles gambiae Olfactory Preferences under Semi-Field Conditions.
+37612754	Women's empowerment and uptake of sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria during pregnancy: results from a cross-sectional baseline survey in the Lake endemic region, Kenya.
 37612146	Quantifying Mosquito Host Preference.
 37612145	A Behavioral Assay to Quantify Odor-Guided Thermotaxis with Anopheles gambiae under Semi-Field Conditions.
-37612143	Quantification of Anopheles gambiae Olfactory Preferences under Semi-Field Conditions.
 37611122	Evolution of Partial Resistance to Artemisinins in Malaria Parasites in Uganda.
 37610920	Elimination of malaria from Sri Lanka and beyond; lessons for other countries in elimination phase.
 37610242	α-Synuclein Aggregation Inhibitory and Antiplasmodial Activity of Constituents from the Australian Tree Eucalyptus cloeziana.
