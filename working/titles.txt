@@ -1,3 +1,5 @@
+37611122	Evolution of Partial Resistance to Artemisinins in Malaria Parasites in Uganda.
+37610920	Elimination of malaria from Sri Lanka and beyond; lessons for other countries in elimination phase.
 37610242	α-Synuclein Aggregation Inhibitory and Antiplasmodial Activity of Constituents from the Australian Tree Eucalyptus cloeziana.
 37609568	The Impact of COVID-19 Pandemic on Arthropod-Related Diseases.
 37609566	Evaluation of the Time Course on the Effectiveness of WHO Standard Pyrethroid and Carbamate Impregnated Test Papers against Anopheles stephensi, the Main Malaria Vector in Iran.
@@ -9995,5 +9997,3 @@
 34267044	Where was my patient born? The Intersection of tropical medicine and migrant health.
 34266874	Distinct mechanisms mediate X chromosome dosage compensation in Anopheles and Drosophila.
 34266382	A multi-country study using MALDI-TOF mass spectrometry for rapid identification of Burkholderia pseudomallei.
-34265466	Plasmodium falciparum DDX3X is a nucleocytoplasmic protein and requires N-terminal for DNA helicase activity.
-34265382	Ethanol extract of Bergenia ciliata (Haw.) Sternb. (rhizome) impedes the propagation of the malaria parasite.
