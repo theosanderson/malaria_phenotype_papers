@@ -1,4 +1,7 @@
-37617614	Aural Complaints in Consequence of Malaria: A Case of Primary Post Aural Abscess without Implication of the Middle Ear.
+37620890	A malaria death due to an imported Plasmodium falciparum infection in Sri Lanka during the prevention of re-establishment phase of malaria.
+37620809	Severe falciparum malaria in pregnancy in Southeast Asia: a multi-centre retrospective cohort study.
+37620328	Outer membrane vesicles from a mosquito commensal mediate targeted killing of Plasmodium parasites via the phosphatidylcholine scavenging pathway.
+37619858	Isolation of indole alkaloids and a new norneolignan of hydroethanol extract from the stem barks of Aspidosperma nitidum Benth: Preclinical evaluation of safety and anti-inflammatory and healing properties.
 37616192	Clinical needs assessment to inform development of a new assay to detect antimalarial drugs in patient samples: A case study.
 37616070	A systematic analysis of the human immune response to Plasmodium vivax.
 37615968	Hemoglobinopathies in mobile populations from sub-Saharan Africa.
@@ -9994,6 +9997,3 @@
 34272998	Murine pharmacokinetics and antimalarial pharmacodynamics of dihydroartemisinin trimer self-assembled nanoparticles.
 34272336	Effect of quitting smoking on health outcomes during treatment for tuberculosis: secondary analysis of the TB & Tobacco Trial.
 34271941	Factors influencing phagocytosis of malaria parasites: the story so far.
-34271929	Correction to: Spatial prediction of malaria prevalence in Papua New Guinea: a comparison of Bayesian decision network and multivariate regression modelling approaches for improved accuracy in prevalence prediction.
-34271397	An electrochemical aptamer-based biosensor targeting Plasmodium falciparum histidine-rich protein II for malaria diagnosis.
-34271323	Surveillance of molecular markers of Plasmodium falciparum artemisinin resistance (kelch13 mutations) in Papua New Guinea between 2016 and 2018.
