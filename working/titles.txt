@@ -1,7 +1,7 @@
 37620890	A malaria death due to an imported Plasmodium falciparum infection in Sri Lanka during the prevention of re-establishment phase of malaria.
 37620809	Severe falciparum malaria in pregnancy in Southeast Asia: a multi-centre retrospective cohort study.
-37620328	Outer membrane vesicles from a mosquito commensal mediate targeted killing of Plasmodium parasites via the phosphatidylcholine scavenging pathway.
 37619858	Isolation of indole alkaloids and a new norneolignan of hydroethanol extract from the stem barks of Aspidosperma nitidum Benth: Preclinical evaluation of safety and anti-inflammatory and healing properties.
+37620328	Outer membrane vesicles from a mosquito commensal mediate targeted killing of Plasmodium parasites via the phosphatidylcholine scavenging pathway.
 37616192	Clinical needs assessment to inform development of a new assay to detect antimalarial drugs in patient samples: A case study.
 37616070	A systematic analysis of the human immune response to Plasmodium vivax.
 37615968	Hemoglobinopathies in mobile populations from sub-Saharan Africa.
