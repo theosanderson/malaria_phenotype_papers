@@ -1,7 +1,11 @@
+37622047	Alpha globin gene copy number and incident ischemic stroke risk among Black Americans.
+37621993	In silico identification of modulators of J domain protein-Hsp70 interactions in Plasmodium falciparum: a drug repurposing strategy against malaria.
+37621950	'Working relationships' across difference - a realist review of community engagement with malaria research.
+37621700	Niosome as an Effective Nanoscale Solution for the Treatment of Microbial Infections.
 37620890	A malaria death due to an imported Plasmodium falciparum infection in Sri Lanka during the prevention of re-establishment phase of malaria.
 37620809	Severe falciparum malaria in pregnancy in Southeast Asia: a multi-centre retrospective cohort study.
-37619858	Isolation of indole alkaloids and a new norneolignan of hydroethanol extract from the stem barks of Aspidosperma nitidum Benth: Preclinical evaluation of safety and anti-inflammatory and healing properties.
 37620328	Outer membrane vesicles from a mosquito commensal mediate targeted killing of Plasmodium parasites via the phosphatidylcholine scavenging pathway.
+37619858	Isolation of indole alkaloids and a new norneolignan of hydroethanol extract from the stem barks of Aspidosperma nitidum Benth: Preclinical evaluation of safety and anti-inflammatory and healing properties.
 37616192	Clinical needs assessment to inform development of a new assay to detect antimalarial drugs in patient samples: A case study.
 37616070	A systematic analysis of the human immune response to Plasmodium vivax.
 37615968	Hemoglobinopathies in mobile populations from sub-Saharan Africa.
@@ -9993,7 +9997,3 @@
 34273660	CD160 protein as a new therapeutic target in a battle against autoimmune, infectious and lifestyle diseases. Analysis of the structure, interactions and functions.
 34273314	Fitness of sulfadoxine-resistant Plasmodium berghei harboring a single mutation in dihydropteroate synthase (DHPS).
 34273304	Neurological manifestations of SARS-CoV-2 infection in hospitalised children and adolescents in the UK: a prospective national cohort study.
-34273000	Residual malaria of Atlantic Forest systems and the influence of anopheline fauna.
-34272998	Murine pharmacokinetics and antimalarial pharmacodynamics of dihydroartemisinin trimer self-assembled nanoparticles.
-34272336	Effect of quitting smoking on health outcomes during treatment for tuberculosis: secondary analysis of the TB & Tobacco Trial.
-34271941	Factors influencing phagocytosis of malaria parasites: the story so far.
