@@ -1,6 +1,14 @@
+37624380	Plasmodium falciparum msp-1 and msp-2 genetic diversity and multiplicity of infection in isolates from Congolese patients in the Republic of Congo.
+37624330	Malaria Elimination in Africa: Rethinking Strategies for Plasmodium vivax and Lessons from Botswana.
+37624328	High Prevalence of Polyclonal Plasmodium falciparum Infections and Association with Poor IgG Antibody Responses in a Hyper-Endemic Area in Cameroon.
+37624327	Evaluation of A Simple DNA Extraction Method and Its Combination with Loop-Mediated Isothermal Amplification Assays for Rapid Plasmodium knowlesi Diagnosis.
+37624318	In Silico Analysis Reveals High Levels of Genetic Diversity of Plasmodium knowlesi Cell Traversal Protein for Ookinetes and Sporozoites (PkCelTOS) in Clinical Samples.
+37624317	Evaluation of Durability as a Function of Fabric Strength and Residual Bio-Efficacy for the Olyset Plus and Interceptor G2 LLINs after 3 Years of Field Use in Tanzania.
+37624021	Malaria Genomics, Vaccine Development, and Microbiome.
+37623996	From Myzocytosis to Cytostomal Nutrient Uptake and Transport by Intracellular Plasmodium Species.
+37623715	Anti-Protozoan Activities of Polar Fish-Derived Polyalanine Synthetic Peptides.
 37622047	Alpha globin gene copy number and incident ischemic stroke risk among Black Americans.
 37621993	In silico identification of modulators of J domain protein-Hsp70 interactions in Plasmodium falciparum: a drug repurposing strategy against malaria.
-37621950	'Working relationships' across difference - a realist review of community engagement with malaria research.
 37621700	Niosome as an Effective Nanoscale Solution for the Treatment of Microbial Infections.
 37620890	A malaria death due to an imported Plasmodium falciparum infection in Sri Lanka during the prevention of re-establishment phase of malaria.
 37620809	Severe falciparum malaria in pregnancy in Southeast Asia: a multi-centre retrospective cohort study.
@@ -101,7 +109,7 @@
 37585137	Interaction of histological events and physiological mediators in healthy placentas from malaria-endemic area in Colombia: An approach with a factorial model.
 37585127	Assessment of diagnostic accuracy and adherence to maternal and child health guidelines as a measure of clinical competence of frontline healthcare workers in Nigeria.
 37584781	Development and application of fragment-based de novo inhibitor design approaches against Plasmodium falciparum GST.
-37584425	F-cells promote Plasmodium falciparum proliferation in sickle cell disease.
+37584425	F-erythrocytes promote Plasmodium falciparum proliferation in sickle cell disease.
 37584317	Evolution of spatial risk of malaria infection after a pragmatic chemoprevention program in response to severe flooding in rural western Uganda.
 37583960	A Retrospective Analysis of Malaria Trends in Leka Dulecha Health Center over the Last Ten Years (2013-2022), Western Oromia, East Wollega Zone.
 37583959	Antimalarial Efficacy and Safety of Senna occidentalis (L.) Link Root Extract in Plasmodium berghei-Infected BALB/c Mice.
@@ -7632,6 +7640,7 @@
 35022402	Reversing insecticide resistance with allelic-drive in Drosophila melanogaster.
 35022031	A machine learning-based system for detecting leishmaniasis in microscopic images.
 35021974	Contribution of Transcriptome to Elucidate the Biology of Plasmodium spp.
+37621950	'Working relationships' across difference - a realist review of community engagement with malaria research.
 35020973	Ecdysis triggering hormone peptide in the African malaria mosquito Anopheles gambiae: The peptide structure for receptor activation.
 35020841	Deciphering the Plasmodium falciparum malaria-specific CD4+ T-cell response: ex vivo detection of high frequencies of PD-1+TIGIT+ EXP1-specific CD4+ T cells using a novel HLA-DR11-restricted MHC class II tetramer.
 35020428	Hitting the right note at the right time: Circadian control of audibility in Anopheles mosquito mating swarms is mediated by flight tones.
@@ -9988,12 +9997,3 @@
 34277665	Malaria in Europe: A Historical Perspective.
 34277336	Evaluation of haemoparasite and Sarcocystis infections in Australian wild deer.
 34276583	Application of 23 Novel Serological Markers for Identifying Recent Exposure to Plasmodium vivax Parasites in an Endemic Population of Western Thailand.
-34276369	Pharmacological Assessment of the Antiprotozoal Activity, Cytotoxicity and Genotoxicity of Medicinal Plants Used in the Treatment of Malaria in the Greater Mpigi Region in Uganda.
-34275728	The best sugar in town for malaria transmission.
-34274829	Further investigation of harmicines as novel antiplasmodial agents: Synthesis, structure-activity relationship and insight into the mechanism of action.
-34274660	Association between climate and infectious diseases among children in Varanasi city, India: A prospective cohort study.
-34274545	Parasite-based interventions in systemic lupus erythematosus (SLE): A systematic review.
-34273901	Intermittent preventive treatment for malaria in infants.
-34273660	CD160 protein as a new therapeutic target in a battle against autoimmune, infectious and lifestyle diseases. Analysis of the structure, interactions and functions.
-34273314	Fitness of sulfadoxine-resistant Plasmodium berghei harboring a single mutation in dihydropteroate synthase (DHPS).
-34273304	Neurological manifestations of SARS-CoV-2 infection in hospitalised children and adolescents in the UK: a prospective national cohort study.
