@@ -1,3 +1,5 @@
+37617614	Aural Complaints in Consequence of Malaria: A Case of Primary Post Aural Abscess without Implication of the Middle Ear.
+37616192	Clinical needs assessment to inform development of a new assay to detect antimalarial drugs in patient samples: A case study.
 37616070	A systematic analysis of the human immune response to Plasmodium vivax.
 37615968	Hemoglobinopathies in mobile populations from sub-Saharan Africa.
 37615737	Molecular investigation of Haemoproteus and Plasmodium species of some raptors in Hatay province: new CytB lineages for raptors of Accipitriformes in Turkey.
@@ -9995,5 +9997,3 @@
 34271929	Correction to: Spatial prediction of malaria prevalence in Papua New Guinea: a comparison of Bayesian decision network and multivariate regression modelling approaches for improved accuracy in prevalence prediction.
 34271397	An electrochemical aptamer-based biosensor targeting Plasmodium falciparum histidine-rich protein II for malaria diagnosis.
 34271323	Surveillance of molecular markers of Plasmodium falciparum artemisinin resistance (kelch13 mutations) in Papua New Guinea between 2016 and 2018.
-34270607	Geopolitical zones differentials in intermittent preventive treatment in pregnancy (IPTp) and long lasting insecticidal nets (LLIN) utilization in Nigeria.
-34270547	Genotypes and phenotypes of G6PD deficiency among Indonesian females across diagnostic thresholds of G6PD activity guiding safe primaquine therapy of latent malaria.
