@@ -1,13 +1,33 @@
+37631957	Population-Level Risk Factors Related to Measles Case Fatality: A Conceptual Framework Based on Expert Consultation and Literature Review.
+37631934	A Qualitative Study on Barriers to COVID-19 Vaccine Uptake among Community Members in Tanzania.
+37631885	The Effect of Previous Exposure to Malaria Infection and Clinical Malaria Episodes on the Immune Response to the Two-Dose Ad26.ZEBOV, MVA-BN-Filo Ebola Vaccine Regimen.
+37631259	Ferrocene-Based Drugs, Delivery Nanomaterials and Fenton Mechanism: State of the Art, Recent Developments and Prospects.
+37631089	Quinoxaline 1,4-Dioxides: Advances in Chemistry and Chemotherapeutic Drug Development.
+37631069	Honey as a Natural Nutraceutical: Its Combinational Therapeutic Strategies Applicable to Blood Infections-Septicemia, HIV, SARS-CoV-2, Malaria.
+37630530	Plasmodium falciparum Development from Gametocyte to Oocyst: Insight from Functional Studies.
+37630505	Fluorescent Nanoparticle Uptake by Myzocytosis and Endocytosis in Colpodella sp. ATCC 50594.
+37630491	Marine-Derived Streptomyces sennicomposti GMY01 with Anti-Plasmodial and Anticancer Activities: Genome Analysis, In Vitro Bioassay, Metabolite Profiling, and Molecular Docking.
+37630466	Acaricidal Biominerals and Mode-of-Action Studies against Adult Blacklegged Ticks, Ixodes scapularis.
+37629541	Early Perturbations in Red Blood Cells in Response to Murine Malarial Parasite Infection: Proof-of-Concept (1)H NMR Metabolomic Study.
+37629108	The Light- and Jasmonic Acid-Induced AaMYB108-like Positive Regulates the Initiation of Glandular Secretory Trichome in Artemisia annua L.
+37628920	Structural Analysis of Plasmodium falciparum Hexokinase Provides Novel Information about Catalysis Due to a Plasmodium-Specific Insertion.
+37628837	Characterization of GEXP15 as a Potential Regulator of Protein Phosphatase 1 in Plasmodium falciparum.
+37628731	DHEA Induces Sex-Associated Differential Patterns in Cytokine and Antibody Levels in Mice Infected with Plasmodium berghei ANKA.
+37628677	Comparative Transcriptomic Analysis of Insecticide-Resistant Aedes aegypti from Puerto Rico Reveals Insecticide-Specific Patterns of Gene Expression.
+37628675	Complement System Activation Is a Plasma Biomarker Signature during Malaria in Pregnancy.
+37627497	Increased Blood Concentrations of Malondialdehyde in Plasmodium Infection: A Systematic Review and Meta-Analysis.
+37627332	High-Throughput Antibody Profiling Identifies Targets of Protective Immunity against P. falciparum Malaria in Thailand.
+37626683	First Report of Rubber Collection Bowls & Plastic and Bamboo Water Containers as the Major Breeding Source of Ae. albopictus with the Indigenous Transmission of Dengue and Chikungunya in Rural Forested Malaria-Endemic Villages of Dhalai District, Tripura, India: The Importance of Molecular Identification.
 37626366	Assessing the susceptibility and efficacy of traditional neurotoxic (pyrethroid) and new-generation insecticides (chlorfenapyr, clothianidin, and pyriproxyfen), on wild pyrethroid-resistant populations of Anopheles gambiae from southern Benin.
 37626312	House modifications as a malaria control tool: how does local context shape participants' experience and interpretation in Uganda?
+37626150	Immunogenicity of a Plasmodium vivax vaccine based on the duffy binding protein formulated using adjuvants compatible for use in humans.
 37626133	Impact of malaria on glutathione peroxidase levels: a systematic review and meta-analysis.
 37626131	Molecular surveillance of Plasmodium falciparum drug-resistance markers in Vietnam using multiplex amplicon sequencing (2000-2016).
-37625897	Digital health funding for COVID-19 vaccine deployment across four major donor agencies.
-37625434	Seasonal vaccination with RTS,S/AS01(E) vaccine with or without seasonal malaria chemoprevention in children up to the age of 5 years in Burkina Faso and Mali: a double-blind, randomised, controlled, phase 3 trial.
-37626150	Immunogenicity of a Plasmodium vivax vaccine based on the duffy binding protein formulated using adjuvants compatible for use in humans.
 37626130	Deep learning and wing interferential patterns identify Anopheles species and discriminate amongst Gambiae complex species.
 37626093	Propensity of selecting mutant parasites for the antimalarial drug cabamiquine.
+37625897	Digital health funding for COVID-19 vaccine deployment across four major donor agencies.
 37625598	Nanocarrier based active targeting strategies against erythrocytic stage of malaria.
+37625434	Seasonal vaccination with RTS,S/AS01(E) vaccine with or without seasonal malaria chemoprevention in children up to the age of 5 years in Burkina Faso and Mali: a double-blind, randomised, controlled, phase 3 trial.
 37625433	Seasonal RTS,S/AS01(E) vaccination with or without seasonal malaria chemoprevention.
 37625171	Isothermal amplification technology (IAT) for rapid diagnosis of Rickettsioses: scope, overview, existing evidence, and the way forward.
 37624846	Bionomics and population dynamics of anopheline larvae from an area dominated by fish farming tanks in northern Brazilian Amazon.
@@ -9977,23 +9997,3 @@
 34287366	Prevalence of Malaria and Leptospirosis Co-Infection among Febrile Patients: A Systematic Review and Meta-Analysis.
 34287217	Web-Based Multifaceted Approach for Community-Based HIV Self-Testing Among Female Sex Workers in Indonesia: Protocol for a Randomized Community Trial.
 34287122	Natural Human Infections with Plasmodium cynomolgi, P. inui, and 4 other Simian Malaria Parasites, Malaysia.
-34286696	Effect of malaria parasite shape on its alignment at erythrocyte membrane.
-34286536	[Evaluation of the effectiveness of community health education for the prevention and control of retransmission of imported malaria in Zhangjiagang City].
-34286529	[Surveillance of malaria vector Anopheles in Guizhou Province from 2005 to 2019].
-34286527	[Epidemiological characteristics and diagnosis of imported malaria cases in Zhejiang Province from 2017 to 2020].
-34286123	Parasitaemia estimation and prediction of hepatocellular dysfunction among Ghanaian children with acute malaria using haemoglobin levels.
-34285807	Daily rhythms of both host and parasite affect antimalarial drug efficacy.
-34285599	Evaluation of the Antimalarial Activity of Ethanol Extracts of the Leaves of Three Plant Species Collected from Yayu Coffee Forest Biosphere Reserve, Southwest Ethiopia.
-34285321	Population size estimation of seasonal forest-going populations in southern Lao PDR.
-34285252	Root exudate chemical cues of an invasive plant modulate oviposition behavior and survivorship of a malaria mosquito vector.
-34284778	Incidence of Plasmodium falciparum malaria infection in 6-month to 45-year-olds on selected areas of Bioko Island, Equatorial Guinea.
-34284138	Evaluation of the usefulness of intermittent preventive treatment of malaria in pregnancy with sulfadoxine-pyrimethamine in a context with increased resistance of Plasmodium falciparum in Kingasani Hospital, Kinshasa in the Democratic Republic of Congo.
-34284089	Associations between malaria in pregnancy and neonatal neurological outcomes.
-34283841	Impact of IgG response to malaria-specific antigens and immunity against malaria in pre-school children in Ghana. A cluster randomized, placebo-controlled trial.
-34283002	Pseudocedrela kotschyi: a review of ethnomedicinal uses, pharmacology and phytochemistry.
-34282655	Knowledge Gaps in Understanding the Etiology of Anemia in Indonesian Adolescents.
-34282461	Kinetics of the Severe Acute Respiratory Syndrome Coronavirus 2 Antibody Response and Serological Estimation of Time Since Infection.
-34282149	Combating mosquito-borne diseases using genetic control technologies.
-34281562	Is there evidence of anti-malarial multidrug resistance in Burkina Faso?
-34281554	Emerging properties of malaria transmission and persistence in urban Accra, Ghana: evidence from a participatory system approach.
-34281547	Patterns of child mortality in rural area of Burkina Faso: evidence from the Nanoro health and demographic surveillance system (HDSS).
