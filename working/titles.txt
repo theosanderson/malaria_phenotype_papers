@@ -1,3 +1,5 @@
+37625171	Isothermal amplification technology (IAT) for rapid diagnosis of Rickettsioses: scope, overview, existing evidence, and the way forward.
+37624846	Bionomics and population dynamics of anopheline larvae from an area dominated by fish farming tanks in northern Brazilian Amazon.
 37624380	Plasmodium falciparum msp-1 and msp-2 genetic diversity and multiplicity of infection in isolates from Congolese patients in the Republic of Congo.
 37624330	Malaria Elimination in Africa: Rethinking Strategies for Plasmodium vivax and Lessons from Botswana.
 37624328	High Prevalence of Polyclonal Plasmodium falciparum Infections and Association with Poor IgG Antibody Responses in a Hyper-Endemic Area in Cameroon.
@@ -9995,5 +9997,3 @@
 34277860	Spatial Modelling of Malaria in South of Iran in Line with the Implementation of the Malaria Elimination Program: A Bayesian Poisson-Gamma Random Field Model.
 34277853	Utility of Complete Mitochondrial Genomes in Phylogenetic Classification of the Species of Anopheles (Culicidae: Anophelinae).
 34277665	Malaria in Europe: A Historical Perspective.
-34277336	Evaluation of haemoparasite and Sarcocystis infections in Australian wild deer.
-34276583	Application of 23 Novel Serological Markers for Identifying Recent Exposure to Plasmodium vivax Parasites in an Endemic Population of Western Thailand.
