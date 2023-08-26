@@ -1,3 +1,14 @@
+37626366	Assessing the susceptibility and efficacy of traditional neurotoxic (pyrethroid) and new-generation insecticides (chlorfenapyr, clothianidin, and pyriproxyfen), on wild pyrethroid-resistant populations of Anopheles gambiae from southern Benin.
+37626312	House modifications as a malaria control tool: how does local context shape participants' experience and interpretation in Uganda?
+37626133	Impact of malaria on glutathione peroxidase levels: a systematic review and meta-analysis.
+37626131	Molecular surveillance of Plasmodium falciparum drug-resistance markers in Vietnam using multiplex amplicon sequencing (2000-2016).
+37625897	Digital health funding for COVID-19 vaccine deployment across four major donor agencies.
+37625434	Seasonal vaccination with RTS,S/AS01(E) vaccine with or without seasonal malaria chemoprevention in children up to the age of 5 years in Burkina Faso and Mali: a double-blind, randomised, controlled, phase 3 trial.
+37626150	Immunogenicity of a Plasmodium vivax vaccine based on the duffy binding protein formulated using adjuvants compatible for use in humans.
+37626130	Deep learning and wing interferential patterns identify Anopheles species and discriminate amongst Gambiae complex species.
+37626093	Propensity of selecting mutant parasites for the antimalarial drug cabamiquine.
+37625598	Nanocarrier based active targeting strategies against erythrocytic stage of malaria.
+37625433	Seasonal RTS,S/AS01(E) vaccination with or without seasonal malaria chemoprevention.
 37625171	Isothermal amplification technology (IAT) for rapid diagnosis of Rickettsioses: scope, overview, existing evidence, and the way forward.
 37624846	Bionomics and population dynamics of anopheline larvae from an area dominated by fish farming tanks in northern Brazilian Amazon.
 37624380	Plasmodium falciparum msp-1 and msp-2 genetic diversity and multiplicity of infection in isolates from Congolese patients in the Republic of Congo.
@@ -427,7 +438,7 @@
 37482133	Genome-wide binding sites of Plasmodium falciparum mini chromosome maintenance protein MCM6 show new insights into parasite DNA replication.
 37482049	A systematic review and meta-analysis of inflammatory biomarkers associated with malaria infection and disease severity.
 37481347	Designing an effective malaria vaccine targeting Plasmodium vivax Duffy-binding protein.
-37481258	Unusually divergent ubiquitin genes and proteins in Plasmodium species.
+37481258	Unusually Divergent Ubiquitin Genes and Proteins in Plasmodium Species.
 37480777	Smartphone-integrated colorimetric and microfluidic paper-based analytical devices for the trace-level detection of permethrin.
 37480030	Can the performance of pyrethroid-chlorfenapyr nets be reduced when combined with pyrethroid-piperonyl butoxide (PBO) nets?
 37479899	Growth bound and threshold dynamic for nonautonomous nondensely defined evolution problems.
@@ -9986,14 +9997,3 @@
 34281562	Is there evidence of anti-malarial multidrug resistance in Burkina Faso?
 34281554	Emerging properties of malaria transmission and persistence in urban Accra, Ghana: evidence from a participatory system approach.
 34281547	Patterns of child mortality in rural area of Burkina Faso: evidence from the Nanoro health and demographic surveillance system (HDSS).
-34281290	Identification of 3,4-Dihydro-2H,6H-pyrimido[1,2-c][1,3]benzothiazin-6-imine Derivatives as Novel Selective Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase.
-36343283	ln vitro inhibition of beta-hematin formation and in vivo effects of Diospyros mespiliformis and Mondia whitei methanol extracts on chloroquine-susceptible Plasmodium berghei-induced malaria in mice.
-34280179	Immune selection suppresses the emergence of drug resistance in malaria parasites but facilitates its spread.
-34279438	Synthesis and Evaluation of Chalcone-Quinoline Based Molecular Hybrids as Potential Anti-Malarial Agents.
-34279413	Identifying a Deferiprone-Resveratrol Hybrid as an Effective Lipophilic Anti-Plasmodial Agent.
-34279219	Plasmodium falciparum K13 mutations in Africa and Asia impact artemisinin resistance and parasite fitness.
-34278137	Atomic Resolution Homology Models and Molecular Dynamics Simulations of Plasmodium falciparum Tubulins.
-34277886	Elevated Levels of the Endothelial Molecules ICAM-1, VEGF-A, and VEGFR2 in Microscopic Asymptomatic Malaria.
-34277860	Spatial Modelling of Malaria in South of Iran in Line with the Implementation of the Malaria Elimination Program: A Bayesian Poisson-Gamma Random Field Model.
-34277853	Utility of Complete Mitochondrial Genomes in Phylogenetic Classification of the Species of Anopheles (Culicidae: Anophelinae).
-34277665	Malaria in Europe: A Historical Perspective.
