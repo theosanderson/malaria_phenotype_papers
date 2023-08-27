@@ -1,3 +1,9 @@
+37633902	Prompt treatment-seeking behaviour varies within communities among guardians of children with malaria-related fever in Malawi.
+37633758	Monocytes as primary defenders against Toxoplasma gondii infection.
+37633420	Artemisinin resistance in P. falciparum: Probing the interacting partners of Kelch13 protein in parasite.
+37633297	A milestone in malaria prevention.
+37633228	Access to the World Health Organization-recommended essential diagnostics for invasive fungal infections in critical care and cancer patients in Africa: A diagnostic survey.
+37632759	Do private health providers help achieve Universal Health Coverage? A scoping review of the evidence from low-income countries.
 37631957	Population-Level Risk Factors Related to Measles Case Fatality: A Conceptual Framework Based on Expert Consultation and Literature Review.
 37631934	A Qualitative Study on Barriers to COVID-19 Vaccine Uptake among Community Members in Tanzania.
 37631885	The Effect of Previous Exposure to Malaria Infection and Clinical Malaria Episodes on the Immune Response to the Two-Dose Ad26.ZEBOV, MVA-BN-Filo Ebola Vaccine Regimen.
@@ -9991,9 +9997,3 @@
 34289024	SPOT: a web-tool enabling swift profiling of transcriptomes.
 34288496	Pyronaridine induces apoptosis in non-small cell lung cancer cells by upregulating death receptor 5 expression and inhibiting epidermal growth factor receptor.
 34288018	The immunosuppressive activity of artemisinin-type drugs towards inflammatory and autoimmune diseases.
-34287440	Study towards improving artemisinin-based combination therapies.
-34287391	Colpodella sp. (ATCC 50594) Life Cycle: Myzocytosis and Possible Links to the Origin of Intracellular Parasitism.
-34287372	A Cluster of Plasmodium ovale Infections in Belgian Military Personnel after Deployment in Kindu, Democratic Republic of Congo: A Retrospective Study.
-34287366	Prevalence of Malaria and Leptospirosis Co-Infection among Febrile Patients: A Systematic Review and Meta-Analysis.
-34287217	Web-Based Multifaceted Approach for Community-Based HIV Self-Testing Among Female Sex Workers in Indonesia: Protocol for a Randomized Community Trial.
-34287122	Natural Human Infections with Plasmodium cynomolgi, P. inui, and 4 other Simian Malaria Parasites, Malaysia.
