@@ -1,3 +1,5 @@
+37634761	Identification of covalent fragment inhibitors for Plasmodium falciparum UCHL3 with anti-malarial efficacy.
+37634385	Malaria-specific Type 1 regulatory T cells are more abundant in first pregnancies and associated with placental malaria.
 37633902	Prompt treatment-seeking behaviour varies within communities among guardians of children with malaria-related fever in Malawi.
 37633758	Monocytes as primary defenders against Toxoplasma gondii infection.
 37633420	Artemisinin resistance in P. falciparum: Probing the interacting partners of Kelch13 protein in parasite.
@@ -9995,5 +9997,3 @@
 34286101	Hematological consequences of malaria in mice previously treated for visceral leishmaniasis.
 34289242	Current status of quinoxaline and quinoxaline 1,4-di-N-oxides derivatives as potential antiparasitic agents.
 34289024	SPOT: a web-tool enabling swift profiling of transcriptomes.
-34288496	Pyronaridine induces apoptosis in non-small cell lung cancer cells by upregulating death receptor 5 expression and inhibiting epidermal growth factor receptor.
-34288018	The immunosuppressive activity of artemisinin-type drugs towards inflammatory and autoimmune diseases.
