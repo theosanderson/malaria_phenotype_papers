@@ -1,3 +1,5 @@
+37639221	A Pyridyl-Furan Series Developed from the Open Global Health Library Block Red Blood Cell Invasion and Protein Trafficking in Plasmodium falciparum through Potential Inhibition of the Parasite's PI4KIIIB Enzyme.
+37638690	Pyronaridine: a review of its clinical pharmacology in the treatment of malaria.
 37638355	National dengue surveillance, Cambodia 2002-2020.
 37638257	Hematological Abnormalities Among Malaria Infected Adult Patients in Association with ABO Blood Groups at Jinella Health Center, Harar, Eastern Ethiopia.
 37638001	A comprehensive rhythmicity analysis of host proteins and immune factors involved in malaria pathogenesis to decipher the importance of host circadian clock in malaria.
@@ -341,7 +343,6 @@
 37525192	Economic analysis of a new four-panel rapid screening test in antenatal care in Kenya, Rwanda, and Uganda.
 37525093	Fever and health-seeking behaviour among migrants living along the Thai-Myanmar border: a mixed-methods study.
 37524976	Decoding the impact of nuclear organization on antigenic variation in parasites.
-37524800	NF-κB subunits direct kinetically distinct transcriptional cascades in antigen receptor-activated B cells.
 37524606	The Characteristic of Recurrent Malaria Episode: An Observational Study in Timika Papua.
 37524553	PARIST study protocol: a phase I/II randomised, controlled clinical trial to assess the feasibility, safety and effectiveness of paracetamol in resolving acute kidney injury in children with severe malaria.
 37523515	Codetection of Plasmodium falciparum in Children Hospitalized With Dengue Fever in the Dominican Republic.
@@ -1668,7 +1669,7 @@
 37074313	Dengue and zika seropositivity, burden, endemicity, and cocirculation antibodies in Nigeria.
 37074181	Development of a Novel Enzyme-Linked Immunosorbent Assay and Lateral Flow Test System for Improved Serodiagnosis of Visceral Leishmaniasis in Different Areas of Endemicity.
 37073654	Advances in Drug Discovery based on Genomics, Proteomics and Bioinformatics in Malaria.
-37073152	Role of Nanomedicines in Controlling Malaria: A review.
+37073152	Role of Nanomedicines in Controlling Malaria: A Review.
 37072800	Cross-sectional survey in Central African Republic finds mortality 4-times higher than UN statistics: how can we not know the Central African Republic is in such an acute humanitarian crisis?
 37072795	Keeping the momentum: suggestions for treatment policy updates in the final push to eliminate malaria in India.
 37072759	Availability of malaria diagnostic tests, anti-malarial drugs, and the correctness of treatment: a systematic review and meta-analysis.
@@ -9996,4 +9997,3 @@
 34292173	Congenital Chagas disease: progress toward implementation of pregnancy-based screening.
 34291805	An SR protein is essential for activating DNA repair in malaria parasites.
 34291611	Clinical and etiological profile of epilepsy at the regional hospital center of Tahoua (Niger): A 4-year retrospective study.
-34291524	Does subsidizing the private for-profit sector benefit the poor? Evidence from national antimalarial subsidies in Nigeria and Uganda.
