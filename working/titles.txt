@@ -1,3 +1,13 @@
+37638355	National dengue surveillance, Cambodia 2002-2020.
+37638257	Hematological Abnormalities Among Malaria Infected Adult Patients in Association with ABO Blood Groups at Jinella Health Center, Harar, Eastern Ethiopia.
+37638001	A comprehensive rhythmicity analysis of host proteins and immune factors involved in malaria pathogenesis to decipher the importance of host circadian clock in malaria.
+37637978	Antimalarial Efficacy and Antioxidant Activity of Lophira lanceolata Stem Bark Ethanol Extract Using Plasmodium berghei Induced-Malaria in Swiss Albino's Mice.
+37637466	Is there a role for bradykinin in cerebral malaria pathogenesis?
+37637404	[Evaluation of self-medication practices and their characteristics among Uvira in Democratic Republic of Congo students].
+37637400	[Etiologies of papilledema in Cameroonian hospitals].
+37637351	Infectivity of symptomatic Plasmodium vivax cases to different generations of wild-caught and laboratory-adapted Anopheles arabiensis using a membrane feeding assay, Ethiopia.
+37636997	Herbs Used in Antimalarial Medicines: A Study in the Greater Accra Region of Ghana.
+37635759	Neglected zoonotic helminthiases in wild canids: new insights from South America.
 37634761	Identification of covalent fragment inhibitors for Plasmodium falciparum UCHL3 with anti-malarial efficacy.
 37634385	Malaria-specific Type 1 regulatory T cells are more abundant in first pregnancies and associated with placental malaria.
 37633902	Prompt treatment-seeking behaviour varies within communities among guardians of children with malaria-related fever in Malawi.
@@ -9987,13 +9997,3 @@
 34291805	An SR protein is essential for activating DNA repair in malaria parasites.
 34291611	Clinical and etiological profile of epilepsy at the regional hospital center of Tahoua (Niger): A 4-year retrospective study.
 34291524	Does subsidizing the private for-profit sector benefit the poor? Evidence from national antimalarial subsidies in Nigeria and Uganda.
-34290484	Assessment of Plasmodium antigens and CRP in dried blood spots with multiplex malaria array.
-34290279	Immune system challenge improves recognition memory and reverses malaria-induced cognitive impairment in mice.
-34290278	Glycosphingolipid GM3 is localized in both exoplasmic and cytoplasmic leaflets of Plasmodium falciparum malaria parasite plasma membrane.
-34290058	The antimalarial MMV688533 provides potential for single-dose cures with a high barrier to Plasmodium falciparum parasite resistance.
-34290039	Prophylactic malaria chemoprevention reduces readmission and death rate in children previously admitted to hospital for treatment of severe anaemia.
-34289905	Malaria: elimination tale from Yunnan Province of China and new challenges for reintroduction.
-34289894	Role of Plasmodium berghei ookinete surface and oocyst capsule protein, a novel oocyst capsule-associated protein, in ookinete motility.
-34286101	Hematological consequences of malaria in mice previously treated for visceral leishmaniasis.
-34289242	Current status of quinoxaline and quinoxaline 1,4-di-N-oxides derivatives as potential antiparasitic agents.
-34289024	SPOT: a web-tool enabling swift profiling of transcriptomes.
