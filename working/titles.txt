@@ -1,10 +1,11 @@
+37641822	Aedes aegypti container preference for oviposition and its possible implications for dengue vector surveillance in Delhi, India.
 37641152	Risk of imported malaria infections in Zanzibar: a cross-sectional study.
+37641108	High efficacy of chlorfenapyr-based net Interceptor(®) G2 against pyrethroid-resistant malaria vectors from Cameroon.
+37641104	Efficacy of a 'lethal house lure' against Culex quinquefasciatus from Bouaké city, Côte d'Ivoire.
 37641100	Unravelling factors associated with malaria parasitaemia among children 6-24 months to inform malaria interventions in Nigeria: evidence from 2021 Malaria Indicator Survey.
 37641080	Climate change and malaria: some recent trends of malaria incidence rates and average annual temperature in selected sub-Saharan African countries from 2000 to 2018.
 37640962	Plasmodium falciparum resistant to artemisinin and diagnostics have emerged in Ethiopia.
 37640286	Plasmodium vivax in Sub-Saharan Africa: An Advancing Threat to Malaria Elimination?
-37641108	High efficacy of chlorfenapyr-based net Interceptor(®) G2 against pyrethroid-resistant malaria vectors from Cameroon.
-37641104	Efficacy of a 'lethal house lure' against Culex quinquefasciatus from Bouaké city, Côte d'Ivoire.
 37639483	Hemin treatment drives viral reactivation and plasma cell differentiation of EBV latently infected B cells.
 37639221	A Pyridyl-Furan Series Developed from the Open Global Health Library Block Red Blood Cell Invasion and Protein Trafficking in Plasmodium falciparum through Potential Inhibition of the Parasite's PI4KIIIB Enzyme.
 37638690	Pyronaridine: a review of its clinical pharmacology in the treatment of malaria.
@@ -273,7 +274,7 @@
 37549331	An Estimate Of The Return On Investment Of A Malaria Vaccine In 20 Sub-Saharan African Countries, 2021-30.
 37548452	Functional screening reveals Toxoplasma prenylated proteins required for endocytic trafficking and rhoptry protein sorting.
 37546892	Reaction hijacking inhibition of Plasmodium falciparum asparagine tRNA synthetase.
-37546891	SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections.
+37546891	SNP-Slice Resolves Mixed Infections: Simultaneously Unveiling Strain Haplotypes and Linking Them to Hosts.
 37546169	Single nucleotide polymorphism (SNP) in the doublesex ( dsx) gene splice sites and relevance for its alternative splicing in the malaria vector Anopheles gambiae.
 37545974	Comparative cardiac effects of antimalarial drug halofantrine with or without concomitant administration of kolanut or fluconazole in healthy volunteers.
 37545953	Genetic diversity of Plasmodium falciparum among asymptomatic pregnant women on intermittent preventive treatment with sulfadoxine-pyrimethamine in Nigeria.
@@ -9996,4 +9997,3 @@
 34297062	The Effects of Malaria in Pregnancy on Neurocognitive Development in Children at 1 and 6 Years of Age in Benin: A Prospective Mother-Child Cohort.
 34296998	Impact of asymptomatic Plasmodium falciparum infection on the risk of subsequent symptomatic malaria in a longitudinal cohort in Kenya.
 34296469	The pharmacokinetic properties of artemether and lumefantrine in Malaysian patients with Plasmodium knowlesi malaria.
-34295798	Acute toxicity and antimalarial studies of extract of  Allophylus spicatus in animals.
