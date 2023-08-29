@@ -1,10 +1,10 @@
 37641152	Risk of imported malaria infections in Zanzibar: a cross-sectional study.
-37641108	High efficacy of chlorfenapyr-based net Interceptor(®) G2 against pyrethroid-resistant malaria vectors from Cameroon.
-37641104	Efficacy of a 'lethal house lure' against Culex quinquefasciatus from Bouaké city, Côte d'Ivoire.
 37641100	Unravelling factors associated with malaria parasitaemia among children 6-24 months to inform malaria interventions in Nigeria: evidence from 2021 Malaria Indicator Survey.
 37641080	Climate change and malaria: some recent trends of malaria incidence rates and average annual temperature in selected sub-Saharan African countries from 2000 to 2018.
 37640962	Plasmodium falciparum resistant to artemisinin and diagnostics have emerged in Ethiopia.
 37640286	Plasmodium vivax in Sub-Saharan Africa: An Advancing Threat to Malaria Elimination?
+37641108	High efficacy of chlorfenapyr-based net Interceptor(®) G2 against pyrethroid-resistant malaria vectors from Cameroon.
+37641104	Efficacy of a 'lethal house lure' against Culex quinquefasciatus from Bouaké city, Côte d'Ivoire.
 37639483	Hemin treatment drives viral reactivation and plasma cell differentiation of EBV latently infected B cells.
 37639221	A Pyridyl-Furan Series Developed from the Open Global Health Library Block Red Blood Cell Invasion and Protein Trafficking in Plasmodium falciparum through Potential Inhibition of the Parasite's PI4KIIIB Enzyme.
 37638690	Pyronaridine: a review of its clinical pharmacology in the treatment of malaria.
