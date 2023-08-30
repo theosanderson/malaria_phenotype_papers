@@ -1,6 +1,8 @@
-37643807	Alternative approaches for creating a wealth index: the case of Mozambique.
+37646037	The impact of innate immunity on malaria parasite infection dynamics in rodent models.
+37645349	Chromatin structure can introduce systematic biases in genome-wide analyses of Plasmodium falciparum.
 37644587	Ethnomedicinal plants used for malaria treatment in Rukungiri District, Western Uganda.
 37644079	Chlorfenapyr metabolism by mosquito P450s associated with pyrethroid resistance identifies potential activation markers.
+37643807	Alternative approaches for creating a wealth index: the case of Mozambique.
 37642306	Cell death signaling in Anopheles gambiae initiated by Bacillus thuringiensis Cry4B toxin involves Na(+)/K(+) ATPase.
 37641822	Aedes aegypti container preference for oviposition and its possible implications for dengue vector surveillance in Delhi, India.
 37641152	Risk of imported malaria infections in Zanzibar: a cross-sectional study.
@@ -9995,5 +9997,3 @@
 34299706	A Systematic Review of the Effects of Temperature on Anopheles Mosquito Development and Survival: Implications for Malaria Control in a Future Warmer Climate.
 34299438	Structure-Activity Relationships of the Antimalarial Agent Artemisinin 10. Synthesis and Antimalarial Activity of Enantiomers of rac-5β-Hydroxy-d-Secoartemisinin and Analogs: Implications Regarding the Mechanism of Action.
 34299074	In Vitro and In Silico Characterization of an Antimalarial Compound with Antitumor Activity Targeting Human DNA Topoisomerase IB.
-34298992	Bacterial Infection and Non-Hodgkin B-Cell Lymphoma: Interactions between Pathogen, Host and the Tumor Environment.
-34298488	Hydroxychloroquine induces oxidative DNA damage and mutation in mammalian cells.
