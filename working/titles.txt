@@ -1,3 +1,6 @@
+37647112	Timing of dense granule biogenesis in asexual malaria parasites.
+37646608	Therapeutic efficacy and safety of artesunate + amodiaquine and artemether + lumefantrine in treating uncomplicated Plasmodium falciparum malaria in children on the rainy south-east coast of Madagascar.
+37646514	The mature N-termini of Plasmodium effector proteins confer specificity of export.
 37646037	The impact of innate immunity on malaria parasite infection dynamics in rodent models.
 37645349	Chromatin structure can introduce systematic biases in genome-wide analyses of Plasmodium falciparum.
 37644587	Ethnomedicinal plants used for malaria treatment in Rukungiri District, Western Uganda.
@@ -761,7 +764,7 @@
 37389376	[Mayotte, a malaria-free island at last?].
 37388931	Population screening for glucose-6-phosphate dehydrogenase deficiency using quantitative point-of-care tests: a systematic review.
 37388365	Bioprospection of Selected Plant Secondary Metabolites as Modulators of the Proteolytic Activity of Plasmodium falciparum Plasmepsin V.
-37387598	Acute necrotizing pancreatitis in a patient with severe falciaparum malaria and SARS-CoV-2 co-infection.
+37387598	Acute necrotizing pancreatitis in a patient with severe falciparum malaria and SARS-CoV-2 coinfection.
 37387133	PlasmoFAB: a benchmark to foster machine learning for Plasmodium falciparum protein antigen candidate prediction.
 37385921	Developing kinase inhibitors for malaria: an opportunity or liability?
 37385350	Coenzyme Q10 exhibits anti-inflammatory and immune-modulatory thereby decelerating the occurrence of experimental cerebral malaria.
@@ -9994,6 +9997,3 @@
 34301597	A malaria parasite phospholipid flippase safeguards midgut traversal of ookinetes for mosquito transmission.
 34301260	Publisher Correction to: Direct contact between Plasmodium falciparum and human B-cells in a novel co-culture increases parasite growth and affects B-cell growth.
 34301179	A mixed-methods evaluation of hepatitis B knowledge, attitudes, and practices among migrant women in Thailand.
-34299706	A Systematic Review of the Effects of Temperature on Anopheles Mosquito Development and Survival: Implications for Malaria Control in a Future Warmer Climate.
-34299438	Structure-Activity Relationships of the Antimalarial Agent Artemisinin 10. Synthesis and Antimalarial Activity of Enantiomers of rac-5β-Hydroxy-d-Secoartemisinin and Analogs: Implications Regarding the Mechanism of Action.
-34299074	In Vitro and In Silico Characterization of an Antimalarial Compound with Antitumor Activity Targeting Human DNA Topoisomerase IB.
