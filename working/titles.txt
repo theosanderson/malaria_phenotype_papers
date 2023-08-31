@@ -1,11 +1,11 @@
 37649108	Coronavirus disease 2019 and malaria coinfection in a middle-aged Ethiopian woman presenting with acute febrile illness and bilateral pleural effusion: a case report.
-37649042	A conserved protein of Babesia microti elicits partial protection against Babesia and Plasmodium infection.
 37649032	Efficacy of the spatial repellent product Mosquito Shield™ against wild pyrethroid-resistant Anopheles arabiensis in south-eastern Tanzania.
 37648921	Research on knowledge construction and analysis of pesticide exposure to children based on bibliometrics.
 37648490	Role of MyD88-adaptor-like (MAL) gene polymorphism rs8177374 and the levels of cytokines (IFN-γ, TNF-α, IL-10, TGF-β) in various malaria manifestations upon P. falciparum and P. vivax infections.
 37648241	Genetic diversity of Plasmodium falciparum erythrocyte membrane protein 1 in field isolates: Correspondence.
 37648233	Evaluating the activity of N-89 as an oral antimalarial drug.
 37647876	Neurofilament light chain as a biomarker of neuronal damage in children with malaria.
+37649042	A conserved protein of Babesia microti elicits partial protection against Babesia and Plasmodium infection.
 37647322	Knowledge, attitudes and practices regarding malaria prevention and control in communities in the Eastern Region, Ghana, 2020.
 37647275	Evaluation of KIR3DL1/KIR3DS1 allelic polymorphisms in Kenyan children with endemic Burkitt lymphoma.
 37647112	Timing of dense granule biogenesis in asexual malaria parasites.
