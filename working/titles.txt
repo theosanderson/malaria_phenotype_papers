@@ -1,3 +1,11 @@
+37649108	Coronavirus disease 2019 and malaria coinfection in a middle-aged Ethiopian woman presenting with acute febrile illness and bilateral pleural effusion: a case report.
+37649042	A conserved protein of Babesia microti elicits partial protection against Babesia and Plasmodium infection.
+37649032	Efficacy of the spatial repellent product Mosquito Shield™ against wild pyrethroid-resistant Anopheles arabiensis in south-eastern Tanzania.
+37648921	Research on knowledge construction and analysis of pesticide exposure to children based on bibliometrics.
+37648490	Role of MyD88-adaptor-like (MAL) gene polymorphism rs8177374 and the levels of cytokines (IFN-γ, TNF-α, IL-10, TGF-β) in various malaria manifestations upon P. falciparum and P. vivax infections.
+37648241	Genetic diversity of Plasmodium falciparum erythrocyte membrane protein 1 in field isolates: Correspondence.
+37648233	Evaluating the activity of N-89 as an oral antimalarial drug.
+37647876	Neurofilament light chain as a biomarker of neuronal damage in children with malaria.
 37647322	Knowledge, attitudes and practices regarding malaria prevention and control in communities in the Eastern Region, Ghana, 2020.
 37647275	Evaluation of KIR3DL1/KIR3DS1 allelic polymorphisms in Kenyan children with endemic Burkitt lymphoma.
 37647112	Timing of dense granule biogenesis in asexual malaria parasites.
@@ -9989,11 +9997,3 @@
 34303920	Antigenic sites in SARS-CoV-2 spike RBD show molecular similarity with pathogenic antigenic determinants and harbors peptides for vaccine development.
 34303874	Novel halogenated arylvinyl-1,2,4 trioxanes as potent antiplasmodial as well as anticancer agents: Synthesis, bioevaluation, structure-activity relationship and in-silico studies.
 34303841	Nano-multilamellar lipid vesicles loaded with a recombinant form of the chikungunya virus E2 protein improve the induction of virus-neutralizing antibodies.
-34303829	Chloroquine inhibits pro-inflammatory effects of heme on macrophages and invivo.
-34303805	In vivo antimalarial activity of a probiotic bacterium Lactobacillus sakei isolated from traditionally fermented milk in BALB/c mice infected with Plasmodium berghei ANKA.
-34303691	Enzymatic characteristics and preventive effect of leucine aminopeptidase against Echinococcus multilocularis.
-34303353	Uncovering the effects of heterogeneity and parameter sensitivity on within-host dynamics of disease: malaria as a case study.
-34302982	Evaluation of Mongolian compound library for potential antimalarial and anti-Toxoplasma agents.
-34302801	Synergism of in vitro plasmodicidal activity of phospholipase A2 isoforms isolated from panamanian Bothrops asper venom.
-34302015	Mapping socioeconomic inequalities in malaria in Sub-Sahara African countries.
-34301597	A malaria parasite phospholipid flippase safeguards midgut traversal of ookinetes for mosquito transmission.
