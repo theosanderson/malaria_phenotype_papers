@@ -1,3 +1,5 @@
+37647322	Knowledge, attitudes and practices regarding malaria prevention and control in communities in the Eastern Region, Ghana, 2020.
+37647275	Evaluation of KIR3DL1/KIR3DS1 allelic polymorphisms in Kenyan children with endemic Burkitt lymphoma.
 37647112	Timing of dense granule biogenesis in asexual malaria parasites.
 37646608	Therapeutic efficacy and safety of artesunate + amodiaquine and artemether + lumefantrine in treating uncomplicated Plasmodium falciparum malaria in children on the rainy south-east coast of Madagascar.
 37646514	The mature N-termini of Plasmodium effector proteins confer specificity of export.
@@ -9995,5 +9997,3 @@
 34302801	Synergism of in vitro plasmodicidal activity of phospholipase A2 isoforms isolated from panamanian Bothrops asper venom.
 34302015	Mapping socioeconomic inequalities in malaria in Sub-Sahara African countries.
 34301597	A malaria parasite phospholipid flippase safeguards midgut traversal of ookinetes for mosquito transmission.
-34301260	Publisher Correction to: Direct contact between Plasmodium falciparum and human B-cells in a novel co-culture increases parasite growth and affects B-cell growth.
-34301179	A mixed-methods evaluation of hepatitis B knowledge, attitudes, and practices among migrant women in Thailand.
