@@ -1,3 +1,6 @@
+37651138	War and Health Care Services Utilization for Chronic Diseases in Rural and Semiurban Areas of Tigray, Ethiopia.
+37650409	An automated malaria cells detection from thin blood smear images using deep learning.
+37650399	Current status of infectious diseases among migrants and non-citizens in Malaysia.
 37649792	Mathematical modeling of malaria transmission dynamics in humans with mobility and control states.
 37649108	Coronavirus disease 2019 and malaria coinfection in a middle-aged Ethiopian woman presenting with acute febrile illness and bilateral pleural effusion: a case report.
 37649042	A conserved protein of Babesia microti elicits partial protection against Babesia and Plasmodium infection.
@@ -9994,6 +9997,3 @@
 34306100	Malaria and Helminth Coinfection among Children at the Douala Gyneco-Obstetric and Pediatric Hospital.
 34305923	Identification and Immune Assessment of T Cell Epitopes in Five Plasmodium falciparum Blood Stage Antigens to Facilitate Vaccine Candidate Selection and Optimization.
 34305392	Factors Associated with Malaria Preventive Measures among Pregnant Women in Guinea.
-34304047	Humoral immunity to SARS-CoV-2 and seasonal coronaviruses in children and adults in north-eastern France.
-34303920	Antigenic sites in SARS-CoV-2 spike RBD show molecular similarity with pathogenic antigenic determinants and harbors peptides for vaccine development.
-34303874	Novel halogenated arylvinyl-1,2,4 trioxanes as potent antiplasmodial as well as anticancer agents: Synthesis, bioevaluation, structure-activity relationship and in-silico studies.
