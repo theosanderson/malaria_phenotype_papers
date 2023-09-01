@@ -1,4 +1,4 @@
-37655172	Antioxidant content and activity of stem and leaf extracts of Gouania longipetala Hemsl. (Rhamnaceae).
+37655748	Hybrid molecules based on an emodin scaffold. Synthesis and activity against SARS-CoV-2 and Plasmodium.
 37655048	Adult malaria mortality during 2019 at Bo Government Hospital, Sierra Leone.
 37654725	ESBL and carbapenemase-producing Enterobacteriaceae in infectious pleural effusions: current epidemiology at Hôpital du Mali.
 37654050	Comparative Investigation on Interaction of Potent Antimalarials with Human Serum Albumin via Multispectroscopic and Computational Approaches.
@@ -6720,6 +6720,7 @@
 35360189	Impact of Malaria Diagnostic Technologies on the Disease Burden in the Sub-Saharan Africa.
 35359831	Oral Lisinopril Raises Tissue Levels of ACE2, the SARS-CoV-2 Receptor, in Healthy Male and Female Mice.
 35359712	The Screen of a Phage Display Library Identifies a Peptide That Binds to the Surface of Trypanosoma cruzi Trypomastigotes and Impairs Their Infection of Mammalian Cells.
+37655172	Antioxidant content and activity of stem and leaf extracts of Gouania longipetala Hemsl. (Rhamnaceae).
 35359031	Synthesis, in silico docking studies, and antiplasmodial activity of hybrid molecules bearing 7-substituted 4-aminoquinoline moiety and cinnamic acid derivatives.
 35358721	Plasmodium malariae after successful treatment of P. falciparum malaria with artemether-lumefantrine.
 35358364	Anopheles gambiae strain (Ag55) cultured cells originated from Anopheles coluzzii and are phagocytic with hemocyte-like gene expression.
@@ -9996,4 +9997,3 @@
 34309493	Evaluating the dual reactivity on SD bioline malaria rapid diagnosis tests as a potential indicator of high parasitemia due to Plasmodium falciparum.
 34309095	Genome-environment association methods comparison supports omnigenic adaptation to ecological niche in malaria vector mosquitoes.
 34308788	High genetic complexity but low relatedness in Plasmodium falciparum infections from Western Savannah Highlands and coastal equatorial Lowlands of Cameroon.
-34308785	Sequential dysregulated plasma levels of angiopoietins (ANG-2 and ratios of ANG-2/ANG-1) are associated with malaria severity and mortality among hospital admitted cases in South Bastar Region of Chhattisgarh, Central India.
