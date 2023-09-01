@@ -1,3 +1,7 @@
+37655172	Antioxidant content and activity of stem and leaf extracts of Gouania longipetala Hemsl. (Rhamnaceae).
+37655048	Adult malaria mortality during 2019 at Bo Government Hospital, Sierra Leone.
+37654725	ESBL and carbapenemase-producing Enterobacteriaceae in infectious pleural effusions: current epidemiology at Hôpital du Mali.
+37654050	Comparative Investigation on Interaction of Potent Antimalarials with Human Serum Albumin via Multispectroscopic and Computational Approaches.
 37653544	Recent increase in low complexity polygenomic infections and sialic acid-independent invasion pathways in Plasmodium falciparum from Western Gambia.
 37653486	Development of a Plasmodium vivax biobank for functional ex vivo assays.
 37653081	Malaria in Pregnancy: Key Points for the Neonatologist.
@@ -9993,7 +9997,3 @@
 34309095	Genome-environment association methods comparison supports omnigenic adaptation to ecological niche in malaria vector mosquitoes.
 34308788	High genetic complexity but low relatedness in Plasmodium falciparum infections from Western Savannah Highlands and coastal equatorial Lowlands of Cameroon.
 34308785	Sequential dysregulated plasma levels of angiopoietins (ANG-2 and ratios of ANG-2/ANG-1) are associated with malaria severity and mortality among hospital admitted cases in South Bastar Region of Chhattisgarh, Central India.
-34307724	Control and Elimination of Schistosomiasis as a Public Health Problem: Thresholds Fail to Differentiate Schistosomiasis Morbidity Prevalence in Children.
-34307185	Presence of L1014F Knockdown-Resistance Mutation in Anopheles gambiae s.s. From São Tomé and Príncipe.
-34306999	A predictive model, and predictors of under-five child malaria prevalence in Ghana: How do LASSO, Ridge and Elastic net regression approaches compare?
-34306971	A Lab-On-chip Tool for Rapid, Quantitative, and Stage-selective Diagnosis of Malaria.
