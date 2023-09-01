@@ -1,3 +1,9 @@
+37653544	Recent increase in low complexity polygenomic infections and sialic acid-independent invasion pathways in Plasmodium falciparum from Western Gambia.
+37653486	Development of a Plasmodium vivax biobank for functional ex vivo assays.
+37653081	Malaria in Pregnancy: Key Points for the Neonatologist.
+37652975	Antimalarial drug discovery: progress and approaches.
+37652567	Public health engagement: new opportunities and challenges in 60 years of China's health aid to Africa.
+37652156	Prophylactic effects of probiotic bacterium Latilactobacillus sakei on haematological parameters and cytokine profile of mice infected with Plasmodium berghei ANKA during early malaria infection.
 37651138	War and Health Care Services Utilization for Chronic Diseases in Rural and Semiurban Areas of Tigray, Ethiopia.
 37650409	An automated malaria cells detection from thin blood smear images using deep learning.
 37650399	Current status of infectious diseases among migrants and non-citizens in Malaysia.
@@ -9991,9 +9997,3 @@
 34307185	Presence of L1014F Knockdown-Resistance Mutation in Anopheles gambiae s.s. From São Tomé and Príncipe.
 34306999	A predictive model, and predictors of under-five child malaria prevalence in Ghana: How do LASSO, Ridge and Elastic net regression approaches compare?
 34306971	A Lab-On-chip Tool for Rapid, Quantitative, and Stage-selective Diagnosis of Malaria.
-34306776	Congenital Malaria in a 2-Day-Old Neonate: A Case Report and Literature Review.
-34306134	In Vivo Antimalarial Activity and Toxicity Study of Extracts of Tagetes erecta L. and Synedrella nodiflora (L.) Gaertn. from the Asteraceae Family.
-34306101	Current Situation of Transfusion-Transmitted Malaria in China.
-34306100	Malaria and Helminth Coinfection among Children at the Douala Gyneco-Obstetric and Pediatric Hospital.
-34305923	Identification and Immune Assessment of T Cell Epitopes in Five Plasmodium falciparum Blood Stage Antigens to Facilitate Vaccine Candidate Selection and Optimization.
-34305392	Factors Associated with Malaria Preventive Measures among Pregnant Women in Guinea.
