@@ -1,3 +1,4 @@
+37656759	Direct mosquito feedings on dengue-2 virus-infected people reveal dynamics of human infectiousness.
 37655748	Hybrid molecules based on an emodin scaffold. Synthesis and activity against SARS-CoV-2 and Plasmodium.
 37655048	Adult malaria mortality during 2019 at Bo Government Hospital, Sierra Leone.
 37654725	ESBL and carbapenemase-producing Enterobacteriaceae in infectious pleural effusions: current epidemiology at Hôpital du Mali.
@@ -9996,4 +9997,3 @@
 34309597	Microinjection Method for Anopheles gambiae Embryos.
 34309493	Evaluating the dual reactivity on SD bioline malaria rapid diagnosis tests as a potential indicator of high parasitemia due to Plasmodium falciparum.
 34309095	Genome-environment association methods comparison supports omnigenic adaptation to ecological niche in malaria vector mosquitoes.
-34308788	High genetic complexity but low relatedness in Plasmodium falciparum infections from Western Savannah Highlands and coastal equatorial Lowlands of Cameroon.
