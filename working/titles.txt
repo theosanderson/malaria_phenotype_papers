@@ -1,3 +1,8 @@
+37658450	Malaria in adults after the start of Covid-19 pandemic: an analysis of admission trends, demographics, and outcomes in a tertiary hospital in the Gambia.
+37658337	Applying the COM-B behaviour change model to a pilot study delivering volatile pyrethroid spatial repellents and insecticide-treated clothing to forest-exposed populations in Mondulkiri Province, Cambodia.
+37657362	Antennal morphology and sensilla ultrastructure of the malaria vectors, Anopheles maculatus and An. sawadwongporni (Diptera: Culicidae).
+37658365	Exploring the host factors affecting asymptomatic Plasmodium falciparum infection: insights from a rural Burkina Faso study.
+37657352	Understanding the structure and function of Plasmodium aminopeptidases to facilitate drug discovery.
 37656759	Direct mosquito feedings on dengue-2 virus-infected people reveal dynamics of human infectiousness.
 37655748	Hybrid molecules based on an emodin scaffold. Synthesis and activity against SARS-CoV-2 and Plasmodium.
 37655048	Adult malaria mortality during 2019 at Bo Government Hospital, Sierra Leone.
@@ -9992,8 +9997,3 @@
 34311577	Plasmodium vivax Infection Alters Mitochondrial Metabolism in Human Monocytes.
 34310993	Glutathione reductase: A cytoplasmic antioxidant enzyme and a potential target for phenothiazinium dyes in Neospora caninum.
 34310889	Plasmodium Preerythrocytic Vaccine Antigens Enhance Sterile Protection in Mice Induced by Circumsporozoite Protein.
-34310816	Adolescent Health Series: HPV infection and vaccination in sub-Saharan Africa: 10 years of research in Tanzanian female adolescents - narrative review.
-34309894	The newly discovered role of endocytosis in artemisinin resistance.
-34309597	Microinjection Method for Anopheles gambiae Embryos.
-34309493	Evaluating the dual reactivity on SD bioline malaria rapid diagnosis tests as a potential indicator of high parasitemia due to Plasmodium falciparum.
-34309095	Genome-environment association methods comparison supports omnigenic adaptation to ecological niche in malaria vector mosquitoes.
