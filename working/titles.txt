@@ -1,3 +1,9 @@
+37660195	Maize pollen diet enhances malaria mosquito longevity and infectivity to Plasmodium parasites in Ethiopia.
+37660103	Structure-based design of a strain transcending AMA1-RON2L malaria vaccine.
+37659777	Zanzibar's malaria elimination efforts: progress, challenges, and lessons.
+37659775	What constitutes high-quality evidence for malaria vector control?
+37659710	Pharmacokinetics of macrocyclic lactone endectocides in indigenous Zebu cattle and their insecticidal efficacy on Anopheles arabiensis.
+37659419	Dynamics of inflammatory responses after SARS-CoV-2 infection by vaccination status in the USA: a prospective cohort study.
 37658450	Malaria in adults after the start of Covid-19 pandemic: an analysis of admission trends, demographics, and outcomes in a tertiary hospital in the Gambia.
 37658365	Exploring the host factors affecting asymptomatic Plasmodium falciparum infection: insights from a rural Burkina Faso study.
 37658337	Applying the COM-B behaviour change model to a pilot study delivering volatile pyrethroid spatial repellents and insecticide-treated clothing to forest-exposed populations in Mondulkiri Province, Cambodia.
@@ -9991,9 +9997,3 @@
 34313355	Microwave-assisted synthesis of hybrid PABA-1,3,5-triazine derivatives as an antimalarial agent.
 34313160	How secured and safe is the sanitation and hygiene services in a maximum-security correctional facility in Southwest Nigeria: a descriptive cross-sectional study.
 34313024	Heart failure associated with imported malaria: a nationwide Danish cohort study.
-34312484	Cuticular hydrocarbons are associated with mating success and insecticide resistance in malaria vectors.
-34311781	Understanding the benefits and burdens associated with a malaria human infection study in Kenya: experiences of study volunteers and other stakeholders.
-34311639	Pharmacotherapy for artemisinin-resistant malaria.
-34311577	Plasmodium vivax Infection Alters Mitochondrial Metabolism in Human Monocytes.
-34310993	Glutathione reductase: A cytoplasmic antioxidant enzyme and a potential target for phenothiazinium dyes in Neospora caninum.
-34310889	Plasmodium Preerythrocytic Vaccine Antigens Enhance Sterile Protection in Mice Induced by Circumsporozoite Protein.
