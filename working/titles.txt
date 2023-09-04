@@ -1,18 +1,28 @@
+37664198	Ultrasound-assisted-one-pot synthesis and antiplasmodium evaluation of 3-substituted-isoindolin-1-ones.
+37663790	Predicting Acute and Post-Recovery Outcomes in Cerebral Malaria and Other Comas by Optical Coherence Tomography (OCT in CM) - A protocol for an observational cohort study of Malawian children.
+37663637	Impact of mass distribution of long-lasting insecticide nets on the incidence of malaria in Lomami, Democratic Republic of Congo: a study based on electronic health record data (2018 - 2019).
+37663320	A Characterisation and Profiling of District Health Indicators in Zimbabwe: An Application of Principal Component Analysis in a Data Limited Setting.
+37663103	Treatment outcomes and associated factors among children with severe acute malnutrition at Hiwot Fana Specialized University Hospital, Harar, Eastern Ethiopia: a retrospective cohort study.
+37662780	Evaluating circulating soluble markers of endothelial dysfunction and risk factors associated with PE: A multicentre longitudinal case control study in northern Ghana.
+37662407	Improving diagnosis of non-malarial fevers in Senegal: Borrelia and the contribution of tick-borne bacteria.
+37662206	Analytic optimization of Plasmodium falciparum marker gene haplotype recovery from amplicon deep sequencing of complex mixtures.
+37662008	Whole genome sequence and diversity in multigene families of Babesia ovis.
+37661603	Knowledge and acceptance of malaria vaccine among parents of under-five children of malaria endemic areas in Bangladesh: A cross-sectional study.
+37661286	Testing and treatment for malaria elimination: a systematic review.
+37661263	Description of the design of a mixed-methods study to assess the burden and determinants of malaria transmission for tailoring of interventions (microstratification) in Ibadan and Kano metropolis.
+37661202	Potential of near-infrared spectroscopy (NIRS) as a non-invasive diagnostic tool to contain a global outbreak of malaria.
 37660835	Strengthening adult mosquito surveillance in Africa for disease control: Learning from the present.
 37660709	Evaluation of a point-of-care test for the diagnosis of Taenia solium neurocysticercosis in rural southern Tanzania: a diagnostic accuracy study.
 37660559	A magnetic field augmented ultra-thin layer chromatography coupled surface enhanced Raman spectroscopy separation of hemozoin from bacterial mixture.
 37660526	A novel Babesia sp. of the "Western Babesia group", detected in opossums from Guatemala.
-37661286	Testing and treatment for malaria elimination: a systematic review.
-37661263	Description of the design of a mixed-methods study to assess the burden and determinants of malaria transmission for tailoring of interventions (microstratification) in Ibadan and Kano metropolis.
-37661202	Potential of near-infrared spectroscopy (NIRS) as a non-invasive diagnostic tool to contain a global outbreak of malaria.
+37658925	Circulating platelets and malaria severity: two sides of the same coin among inhabitants of a tropical savannah region, Nigeria.
+37658745	'Candidatus Tisiphia' is a widespread Rickettsiaceae symbiont in the mosquito Anopheles plumbeus (Diptera: Culicidae).
 37660195	Maize pollen diet enhances malaria mosquito longevity and infectivity to Plasmodium parasites in Ethiopia.
 37660103	Structure-based design of a strain transcending AMA1-RON2L malaria vaccine.
 37659777	Zanzibar's malaria elimination efforts: progress, challenges, and lessons.
 37659775	What constitutes high-quality evidence for malaria vector control?
 37659710	Pharmacokinetics of macrocyclic lactone endectocides in indigenous Zebu cattle and their insecticidal efficacy on Anopheles arabiensis.
 37659419	Dynamics of inflammatory responses after SARS-CoV-2 infection by vaccination status in the USA: a prospective cohort study.
-37658925	Circulating platelets and malaria severity: two sides of the same coin among inhabitants of a tropical savannah region, Nigeria.
-37658745	'Candidatus Tisiphia' is a widespread Rickettsiaceae symbiont in the mosquito Anopheles plumbeus (Diptera: Culicidae).
 37658450	Malaria in adults after the start of Covid-19 pandemic: an analysis of admission trends, demographics, and outcomes in a tertiary hospital in the Gambia.
 37658365	Exploring the host factors affecting asymptomatic Plasmodium falciparum infection: insights from a rural Burkina Faso study.
 37658337	Applying the COM-B behaviour change model to a pilot study delivering volatile pyrethroid spatial repellents and insecticide-treated clothing to forest-exposed populations in Mondulkiri Province, Cambodia.
@@ -746,7 +756,7 @@
 37407994	Retraction Note: Molecular detection and quantification of Plasmodium falciparum gametocytes carriage in used RDTs in malaria elimination settings in northern Senegal.
 37407966	A multilevel Bayesian Markov Chain Monte Carlo Poisson modelling of factors associated with components of antenatal care offered to pregnant women in Nigeria.
 37407962	Prevalence and risk factors determinants of the non-use of insecticide-treated nets in an endemic area for malaria: analysis of data from Cameroon.
-37407494	Formation of free oocysts in Anopheles mosquitoesinjected with Plasmodium ookinetes.
+37407494	Formation of free oocysts in Anopheles mosquitoes injected with Plasmodium ookinetes.
 37406792	In vitro and in vivo antimalarial activity of green synthesized silver nanoparticles using Sargassum tenerrimum - a marine seaweed.
 37406519	Recent developments in the synthesis of hybrid antimalarial drug discovery.
 37406344	Unique Properties of Apicomplexan Mitochondria.
@@ -1951,6 +1961,7 @@
 36993973	Brain endothelial cells exposure to malaria parasites links type I interferon signalling to antigen presentation, immunoproteasome activation, endothelium disruption, and cellular metabolism.
 36993971	P2RX7 signaling drives the differentiation of Th1 cells through metabolic reprogramming for aerobic glycolysis.
 36993678	Frequency-dependent ecological interactions increase the prevalence and shape the distribution of pre-existing drug resistance.
+36993674	Alpha globin gene copy number and incident ischemic stroke risk among Black Americans.
 36993606	Atlas of Plasmodium falciparum intraerythrocytic development using expansion microscopy.
 36993272	Development of a Plasmodium vivax biobank for functional ex vivo assays.
 36993196	Asymptomatic and submicroscopic malaria infections in sugar cane and rice development areas of Ethiopia.
@@ -9986,14 +9997,3 @@
 34316404	Structural and immunological characterization of an epitope within the PAN motif of ectodomain I in Babesia bovis apical membrane antigen 1 for vaccine development.
 34315897	The apicoplast link to fever-survival and artemisinin-resistance in the malaria parasite.
 34315791	Vector control for malaria prevention during humanitarian emergencies: protocol for a systematic review and meta-analysis.
-34315509	Anopheles bionomics in a malaria endemic area of southern Thailand.
-34315489	Factors associated with malaria vaccine uptake in Sunyani Municipality, Ghana.
-34315484	Liposomes for malaria management: the evolution from 1980 to 2020.
-34315480	Characterization of resistance profile (intensity and mechanisms) of Anopheles gambiae in three communes of northern Benin, West Africa.
-34315475	Effect of seasonal malaria chemoprevention plus azithromycin on Plasmodium falciparum transmission: gametocyte infectivity and mosquito fitness.
-34315473	Evaluation of different deployment strategies for larviciding to control malaria: a simulation study.
-34315456	Parenteral artemisinins are associated with reduced mortality and neurologic deficits and improved long-term behavioral outcomes in children with severe malaria.
-34315160	Efficacy of Chininum Sulphuricum 30C against Malaria: An in vitro and in vivo Study.
-34315108	Ex vivo susceptibility to new antimalarial agents differs among human-infecting Plasmodium species.
-34314845	Evaluating the quality of HIV epidemiologic evidence for populations in the absence of a reliable sampling frame: a modified quality assessment tool.
-34314501	Safety and Effectiveness of Intravenous Artesunate for Treatment of Severe Malaria in the United States-April 2019 Through December 2020.
