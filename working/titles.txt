@@ -1,7 +1,7 @@
+37665563	Discovery of dual-target natural antimalarial agents against DHODH and PMT of Plasmodium falciparum: pharmacophore modelling, molecular docking, quantum mechanics, and molecular dynamics simulations.
 37664198	Ultrasound-assisted-one-pot synthesis and antiplasmodium evaluation of 3-substituted-isoindolin-1-ones.
 37663790	Predicting Acute and Post-Recovery Outcomes in Cerebral Malaria and Other Comas by Optical Coherence Tomography (OCT in CM) - A protocol for an observational cohort study of Malawian children.
 37663637	Impact of mass distribution of long-lasting insecticide nets on the incidence of malaria in Lomami, Democratic Republic of Congo: a study based on electronic health record data (2018 - 2019).
-37663320	A Characterisation and Profiling of District Health Indicators in Zimbabwe: An Application of Principal Component Analysis in a Data Limited Setting.
 37663103	Treatment outcomes and associated factors among children with severe acute malnutrition at Hiwot Fana Specialized University Hospital, Harar, Eastern Ethiopia: a retrospective cohort study.
 37662780	Evaluating circulating soluble markers of endothelial dysfunction and risk factors associated with PE: A multicentre longitudinal case control study in northern Ghana.
 37662407	Improving diagnosis of non-malarial fevers in Senegal: Borrelia and the contribution of tick-borne bacteria.
