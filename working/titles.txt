@@ -1,3 +1,4 @@
+37665781	Fortification of condiments and seasonings with iron for preventing anaemia and improving health.
 37665563	Discovery of dual-target natural antimalarial agents against DHODH and PMT of Plasmodium falciparum: pharmacophore modelling, molecular docking, quantum mechanics, and molecular dynamics simulations.
 37664198	Ultrasound-assisted-one-pot synthesis and antiplasmodium evaluation of 3-substituted-isoindolin-1-ones.
 37663790	Predicting Acute and Post-Recovery Outcomes in Cerebral Malaria and Other Comas by Optical Coherence Tomography (OCT in CM) - A protocol for an observational cohort study of Malawian children.
@@ -9996,4 +9997,3 @@
 34318744	Single-cell analysis of mosquito hemocytes identifies signatures of immune cell subtypes and cell differentiation.
 34316404	Structural and immunological characterization of an epitope within the PAN motif of ectodomain I in Babesia bovis apical membrane antigen 1 for vaccine development.
 34315897	The apicoplast link to fever-survival and artemisinin-resistance in the malaria parasite.
-34315791	Vector control for malaria prevention during humanitarian emergencies: protocol for a systematic review and meta-analysis.
