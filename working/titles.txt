@@ -1,8 +1,10 @@
+37667608	THE HEALTH SYSTEM OF THE FIRST CZECHOSLOVAK REPUBLIC AND ITS ROLE IN COMBATING CONTAGIOUS DISEASES IMMEDIATELY AFTER THE FIRST WORLD WAR (THE 1920s).
+37667605	THE HEALTH SYSTEM OF THE FIRST CZECHOSLOVAK REPUBLIC AND ITS ROLE IN COMBATING CONTAGIOUS DISEASES IMMEDIATELY AFTER THE FIRST WORLD WAR (THE 1920s).
+37667239	Deltamethrin and transfluthrin select for distinct transcriptomic responses in the malaria vector Anopheles gambiae.
 37667204	The heterogeneity of symptom reporting across study sites: a secondary analysis of a randomised placebo-controlled multicentre antimalarial trial.
 37666840	The voltage-gated sodium channel, para, limits Anopheles coluzzii vector competence in a microbiota dependent manner.
-37666044	Innate functions of natural products: A promising path for the identification of novel therapeutics.
-37667239	Deltamethrin and transfluthrin select for distinct transcriptomic responses in the malaria vector Anopheles gambiae.
 37666798	Evidence based optimal dosing of intravenous artesunate in children with severe falciparum malaria.
+37666044	Innate functions of natural products: A promising path for the identification of novel therapeutics.
 37665781	Fortification of condiments and seasonings with iron for preventing anaemia and improving health.
 37665563	Discovery of dual-target natural antimalarial agents against DHODH and PMT of Plasmodium falciparum: pharmacophore modelling, molecular docking, quantum mechanics, and molecular dynamics simulations.
 37664198	Ultrasound-assisted-one-pot synthesis and antiplasmodium evaluation of 3-substituted-isoindolin-1-ones.
@@ -9995,5 +9997,3 @@
 34321476	Gene-drive suppression of mosquito populations in large cages as a bridge between lab and field.
 34321004	Hidden populations: risk behaviours in drug-using populations in the Republic of Georgia through subsequent peer-driven interventions.
 34321001	Cardiopulmonary alterations by ultrasound in a patient with uncomplicated mixed malaria infection: a case report from the Amazon Basin.
-34320995	PfHRP2 detection using plasmonic optrodes: performance analysis.
-34320992	Decreased prevalence of the Plasmodium falciparum Pfcrt K76T and Pfmdr1 and N86Y mutations post-chloroquine treatment withdrawal in Katete District, Eastern Zambia.
