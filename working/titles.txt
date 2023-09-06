@@ -1,3 +1,8 @@
+37670357	Rebound of multiple infections and prevalence of anti-malarial resistance associated markers following malaria upsurges in Dielmo village, Senegal, West Africa.
+37670331	Infectious disease control: from health security strengthening to health systems improvement at global level.
+37670044	Differences in catalase levels between malaria-infected individuals and uninfected controls: a systematic review and meta-analysis.
+37669940	Identification of potent and selective N-myristoyltransferase inhibitors of Plasmodium vivax liver stage hypnozoites and schizonts.
+37669757	Prevalence and Risk Factors of Neonatal Hyperbilirubinemia in a Semi-Rural Area of the Democratic Republic of Congo: A Cohort Study.
 37669255	Sharing results with participants (and community) in malaria related research: Perspectives and experience from researchers.
 37669245	Adherence to malaria treatment guidelines among health care workers in private health facilities in Kampala's informal settlements, Uganda.
 37667608	THE HEALTH SYSTEM OF THE FIRST CZECHOSLOVAK REPUBLIC AND ITS ROLE IN COMBATING CONTAGIOUS DISEASES IMMEDIATELY AFTER THE FIRST WORLD WAR (THE 1920s).
@@ -9992,8 +9997,3 @@
 34324601	A novel heteromeric pantothenate kinase complex in apicomplexan parasites.
 34324501	Reducing mosquito-borne disease transmission to humans: A systematic review of cluster randomised controlled studies that assess interventions other than non-targeted insecticide.
 34323283	Broadening the range of use cases for ivermectin - a review of the evidence.
-34322498	Mass Drug Administration With Artemisinin-Piperaquine for the Elimination of Residual Foci of Malaria in São Tomé Island.
-34322397	Rodent Malaria Erythrocyte Preference Assessment by an Ex Vivo Tropism Assay.
-34322315	Novel sampling methods for monitoring Anopheles arabiensis from Eritrea.
-34321525	A global assessment of surveillance methods for dominant malaria vectors.
-34321476	Gene-drive suppression of mosquito populations in large cages as a bridge between lab and field.
