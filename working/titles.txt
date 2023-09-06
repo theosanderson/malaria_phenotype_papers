@@ -1,3 +1,5 @@
+37669255	Sharing results with participants (and community) in malaria related research: Perspectives and experience from researchers.
+37669245	Adherence to malaria treatment guidelines among health care workers in private health facilities in Kampala's informal settlements, Uganda.
 37667608	THE HEALTH SYSTEM OF THE FIRST CZECHOSLOVAK REPUBLIC AND ITS ROLE IN COMBATING CONTAGIOUS DISEASES IMMEDIATELY AFTER THE FIRST WORLD WAR (THE 1920s).
 37667605	THE HEALTH SYSTEM OF THE FIRST CZECHOSLOVAK REPUBLIC AND ITS ROLE IN COMBATING CONTAGIOUS DISEASES IMMEDIATELY AFTER THE FIRST WORLD WAR (THE 1920s).
 37667239	Deltamethrin and transfluthrin select for distinct transcriptomic responses in the malaria vector Anopheles gambiae.
@@ -9995,5 +9997,3 @@
 34322315	Novel sampling methods for monitoring Anopheles arabiensis from Eritrea.
 34321525	A global assessment of surveillance methods for dominant malaria vectors.
 34321476	Gene-drive suppression of mosquito populations in large cages as a bridge between lab and field.
-34321004	Hidden populations: risk behaviours in drug-using populations in the Republic of Georgia through subsequent peer-driven interventions.
-34321001	Cardiopulmonary alterations by ultrasound in a patient with uncomplicated mixed malaria infection: a case report from the Amazon Basin.
