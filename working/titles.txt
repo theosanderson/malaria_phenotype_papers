@@ -1,3 +1,9 @@
+37674201	Magnitude of malaria and associated factors among febrile adults in Siraro District Public Health facilities, West Arsi Zone, Oromia, Ethiopia 2022: a facility-based cross-sectional study.
+37674197	RTS,S/AS01(E) vaccine defaults in Ghana: a qualitative exploration of the perspectives of defaulters and frontline health service providers.
+37674177	Barriers to accessing malaria treatment amongst school-age children in rural Malawi.
+37674172	Strategies for deploying triple artemisinin-based combination therapy in the Greater Mekong Subregion.
+37673924	Author Correction: Propensity of selecting mutant parasites for the antimalarial drug cabamiquine.
+37673369	Changes in oxygen delivery during experimental models of cerebral malaria.
 37672741	Unpacking Cochrane's Update on Masks and COVID-19.
 37672548	Weekly primaquine for radical cure of patients with Plasmodium vivax malaria and glucose-6-phosphate dehydrogenase deficiency.
 37670843	Twitter trends in #Parasitology determined by text mining and topic modelling.
@@ -9991,9 +9997,3 @@
 34326953	Spatial epidemiology of diabetes: Methods and insights.
 34326610	Progress and challenges in the comprehensive management of chronic viral hepatitis: Key ways to achieve the elimination.
 34325695	Publisher Correction: The genome of the stable fly, Stomoxys calcitrans, reveals potential mechanisms underlying reproduction, host interactions, and novel targets for pest control.
-34325689	Insecticide-treated net ownership, utilization and knowledge of malaria in children residing in Batoke-Limbe, Mount Cameroon area: effect on malariometric and haematological indices.
-34325680	Incidence and predictors of hospital readmission in children presenting with severe anaemia in Uganda and Malawi: a secondary analysis of TRACT trial data.
-34325205	Assessment and utility of 2 Chlamydia trachomatis Pgp3 serological assays for seroprevalence studies among women in the United States.
-34324911	Beyond phosphorylation: Putative roles of post-translational modifications in Plasmodium sexual stages.
-34324683	Insecticide resistance profiles in malaria vector populations from Sud-Kivu in the Democratic Republic of the Congo.
-34324609	Plasmodium falciparum PhIL1-associated complex plays an essential role in merozoite reorientation and invasion of host erythrocytes.
