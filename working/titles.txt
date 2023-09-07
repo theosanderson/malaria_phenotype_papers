@@ -1,3 +1,5 @@
+37672741	Unpacking Cochrane's Update on Masks and COVID-19.
+37672548	Weekly primaquine for radical cure of patients with Plasmodium vivax malaria and glucose-6-phosphate dehydrogenase deficiency.
 37670843	Twitter trends in #Parasitology determined by text mining and topic modelling.
 37670357	Rebound of multiple infections and prevalence of anti-malarial resistance associated markers following malaria upsurges in Dielmo village, Senegal, West Africa.
 37670331	Infectious disease control: from health security strengthening to health systems improvement at global level.
@@ -9995,5 +9997,3 @@
 34324911	Beyond phosphorylation: Putative roles of post-translational modifications in Plasmodium sexual stages.
 34324683	Insecticide resistance profiles in malaria vector populations from Sud-Kivu in the Democratic Republic of the Congo.
 34324609	Plasmodium falciparum PhIL1-associated complex plays an essential role in merozoite reorientation and invasion of host erythrocytes.
-34324601	A novel heteromeric pantothenate kinase complex in apicomplexan parasites.
-34324501	Reducing mosquito-borne disease transmission to humans: A systematic review of cluster randomised controlled studies that assess interventions other than non-targeted insecticide.
