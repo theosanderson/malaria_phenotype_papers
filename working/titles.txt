@@ -16,7 +16,6 @@
 37669757	Prevalence and Risk Factors of Neonatal Hyperbilirubinemia in a Semi-Rural Area of the Democratic Republic of Congo: A Cohort Study.
 37669255	Sharing results with participants (and community) in malaria related research: Perspectives and experience from researchers.
 37669245	Adherence to malaria treatment guidelines among health care workers in private health facilities in Kampala's informal settlements, Uganda.
-37667608	THE HEALTH SYSTEM OF THE FIRST CZECHOSLOVAK REPUBLIC AND ITS ROLE IN COMBATING CONTAGIOUS DISEASES IMMEDIATELY AFTER THE FIRST WORLD WAR (THE 1920s).
 37667605	THE HEALTH SYSTEM OF THE FIRST CZECHOSLOVAK REPUBLIC AND ITS ROLE IN COMBATING CONTAGIOUS DISEASES IMMEDIATELY AFTER THE FIRST WORLD WAR (THE 1920s).
 37667239	Deltamethrin and transfluthrin select for distinct transcriptomic responses in the malaria vector Anopheles gambiae.
 37667204	The heterogeneity of symptom reporting across study sites: a secondary analysis of a randomised placebo-controlled multicentre antimalarial trial.
@@ -9997,3 +9996,4 @@
 34327184	Epidemiology, Biodiversity, and Technological Trajectories in the Brazilian Amazon: From Malaria to COVID-19.
 34327152	Structural Dynamics and Perspectives of Vitamin B6 Biosynthesis Enzymes in Plasmodium: Advances and Open Questions.
 34326996	Improving health service delivery in conflict-affected settings: Lessons from a nationwide strategic purchasing mechanism in Afghanistan.
+34326953	Spatial epidemiology of diabetes: Methods and insights.
