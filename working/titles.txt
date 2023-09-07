@@ -1,9 +1,11 @@
-37674177	Barriers to accessing malaria treatment amongst school-age children in rural Malawi.
-37673369	Changes in oxygen delivery during experimental models of cerebral malaria.
+37675688	Tafenoquine for the radical cure versus prophylaxis of Plasmodium vivax malaria: the importance of using the appropriate data set.
+37675418	Natural infection with Leishmania (Mundinia) martiniquensis supports Culicoides peregrinus (Diptera: Ceratopogonidae) as a potential vector of leishmaniasis and characterization of a Crithidia sp. isolated from the midges.
 37674201	Magnitude of malaria and associated factors among febrile adults in Siraro District Public Health facilities, West Arsi Zone, Oromia, Ethiopia 2022: a facility-based cross-sectional study.
 37674197	RTS,S/AS01(E) vaccine defaults in Ghana: a qualitative exploration of the perspectives of defaulters and frontline health service providers.
+37674177	Barriers to accessing malaria treatment amongst school-age children in rural Malawi.
 37674172	Strategies for deploying triple artemisinin-based combination therapy in the Greater Mekong Subregion.
 37673924	Author Correction: Propensity of selecting mutant parasites for the antimalarial drug cabamiquine.
+37673369	Changes in oxygen delivery during experimental models of cerebral malaria.
 37672741	Unpacking Cochrane's Update on Masks and COVID-19.
 37672548	Weekly primaquine for radical cure of patients with Plasmodium vivax malaria and glucose-6-phosphate dehydrogenase deficiency.
 37670843	Twitter trends in #Parasitology determined by text mining and topic modelling.
@@ -1950,6 +1952,7 @@
 37011087	Challenges of acute febrile illness diagnosis in a national infectious diseases center in Rio de Janeiro: 16-year experience of syndromic surveillance.
 37010597	Epidemiological and clinical characteristics of imported falciparum malaria in the Republic of North Macedonia : A 13-year experience.
 37010410	Integrating Pharmacokinetic-Pharmacodynamic Modeling and Physiologically Based Pharmacokinetic Modeling to Optimize Human Dose Predictions for Plasmodium falciparum Malaria: a Chloroquine Case Study.
+37010096	Correspondence letter regarding 'Is standby therapy for Covid-19 a practical option for travellers?'.
 37009914	Paleoepidemiology of cribra orbitalia: Insights from early seventh millennium BP Con Co Ngua, Vietnam.
 37009873	Fine-scale mapping of urban malaria exposure under data scarcity: an approach centred on vector ecology.
 37009844	The Parasite Reduction Ratio (PRR) Assay Version 2: Standardized Assessment of Plasmodium falciparum Viability after Antimalarial Treatment In Vitro.
@@ -9994,6 +9997,3 @@
 34327184	Epidemiology, Biodiversity, and Technological Trajectories in the Brazilian Amazon: From Malaria to COVID-19.
 34327152	Structural Dynamics and Perspectives of Vitamin B6 Biosynthesis Enzymes in Plasmodium: Advances and Open Questions.
 34326996	Improving health service delivery in conflict-affected settings: Lessons from a nationwide strategic purchasing mechanism in Afghanistan.
-34326953	Spatial epidemiology of diabetes: Methods and insights.
-34326610	Progress and challenges in the comprehensive management of chronic viral hepatitis: Key ways to achieve the elimination.
-34325695	Publisher Correction: The genome of the stable fly, Stomoxys calcitrans, reveals potential mechanisms underlying reproduction, host interactions, and novel targets for pest control.
