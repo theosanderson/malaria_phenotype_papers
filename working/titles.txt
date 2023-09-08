@@ -1,3 +1,5 @@
+37681888	Camillo Golgi's Impact on Malaria Studies.
+37681434	Investigation of new ferrocenyl-artesunate derivatives as antiparasitics.
 37681121	Sequence-dependent heterochromatin formation in the human malaria parasite Plasmodium falciparum.
 37680630	Induction of liver-resident memory T cells and protection at liver-stage malaria by mRNA-containing lipid nanoparticles.
 37680157	The Power of Molecular Dynamics Simulations and Their Applications to Discover Cysteine Protease Inhibitors.
@@ -9995,5 +9997,3 @@
 34331675	Smart Safety Surveillance (3S): Multi-Country Experience of Implementing the 3S Concepts and Principles.
 34330999	Preclinical validation of a live attenuated dermotropic Leishmania vaccine against vector transmitted fatal visceral leishmaniasis.
 34330920	Plasmodium falciparum transcription in different clinical presentations of malaria associates with circulation time of infected erythrocytes.
-34330288	Evaluation of direct costs associated with the management of clinical stage of malaria in children under five years old in Gabon.
-34330218	Role of community health volunteers in identifying people with elevated blood pressure for diagnosis and monitoring of hypertension in Malawi: a qualitative study.
