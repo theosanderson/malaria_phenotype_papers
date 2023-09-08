@@ -1,3 +1,9 @@
+37679753	Healthcare provider and drug dispenser knowledge and adherence to guidelines for the case management of malaria in pregnancy in the context of multiple first-line artemisinin-based combination therapy in western Kenya.
+37679466	Risk factors of malaria transmission in mining workers in Muara Enim, South Sumatra, Indonesia.
+37679465	Evidence of intensification of pyrethroid resistance in the major malaria vectors in Kinshasa, Democratic Republic of Congo.
+37679382	Xanthine oxidase levels and immune dysregulation are independently associated with anemia in Plasmodium falciparum malaria.
+37679176	Mathematical modelling of the interactive dynamics of wild and Microsporidia MB-infected mosquitoes.
+37678218	Outcome of Emergency Blood Transfusion in Children Seen at a Tertiary Children's Hospital in Freetown: A Descriptive Cross-sectional Study.
 37676897	Coverage evaluation of mass drug administration with triple drug regimen in an evaluation unit in Nagpur district of Maharashtra, India.
 37676839	Outbreak of Locally Acquired Mosquito-Transmitted (Autochthonous) Malaria - Florida and Texas, May-July 2023.
 37675688	Tafenoquine for the radical cure versus prophylaxis of Plasmodium vivax malaria: the importance of using the appropriate data set.
@@ -9991,9 +9997,3 @@
 34329992	3-Methyl-imidazo[2,1-b]thiazole derivatives as a new class of antifolates: Synthesis, in vitro/in vivo bio-evaluation and molecular modeling simulations.
 34329861	Automatic identification of malaria and other red blood cell inclusions using convolutional neural networks.
 34329329	Meta-analysis of the prevalence of malaria associated with pregnancy in Colombia 2000-2020.
-34328525	Spectrum of Protein Location in Proteomes Captures Evolutionary Relationship Between Species.
-34328115	Current status of nanoscale drug delivery and the future of nano-vaccine development for leishmaniasis - A review.
-34328051	Highly sensitive droplet digital PCR-based diagnostics for the surveillance of malaria vector populations in low transmission and incipient resistance settings.
-34327539	Factors Affecting Willingness to Use Indoor Residual Spraying Among Pregnant Women Attending Antenatal Care in Hyperendemic State of West Africa: A Random Survey.
-34327184	Epidemiology, Biodiversity, and Technological Trajectories in the Brazilian Amazon: From Malaria to COVID-19.
-34327152	Structural Dynamics and Perspectives of Vitamin B6 Biosynthesis Enzymes in Plasmodium: Advances and Open Questions.
