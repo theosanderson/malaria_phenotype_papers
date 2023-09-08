@@ -1,3 +1,5 @@
+37676897	Coverage evaluation of mass drug administration with triple drug regimen in an evaluation unit in Nagpur district of Maharashtra, India.
+37676839	Outbreak of Locally Acquired Mosquito-Transmitted (Autochthonous) Malaria - Florida and Texas, May-July 2023.
 37675688	Tafenoquine for the radical cure versus prophylaxis of Plasmodium vivax malaria: the importance of using the appropriate data set.
 37675418	Natural infection with Leishmania (Mundinia) martiniquensis supports Culicoides peregrinus (Diptera: Ceratopogonidae) as a potential vector of leishmaniasis and characterization of a Crithidia sp. isolated from the midges.
 37674201	Magnitude of malaria and associated factors among febrile adults in Siraro District Public Health facilities, West Arsi Zone, Oromia, Ethiopia 2022: a facility-based cross-sectional study.
@@ -9995,5 +9997,3 @@
 34327539	Factors Affecting Willingness to Use Indoor Residual Spraying Among Pregnant Women Attending Antenatal Care in Hyperendemic State of West Africa: A Random Survey.
 34327184	Epidemiology, Biodiversity, and Technological Trajectories in the Brazilian Amazon: From Malaria to COVID-19.
 34327152	Structural Dynamics and Perspectives of Vitamin B6 Biosynthesis Enzymes in Plasmodium: Advances and Open Questions.
-34326996	Improving health service delivery in conflict-affected settings: Lessons from a nationwide strategic purchasing mechanism in Afghanistan.
-34326953	Spatial epidemiology of diabetes: Methods and insights.
