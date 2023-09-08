@@ -1,9 +1,9 @@
 37679753	Healthcare provider and drug dispenser knowledge and adherence to guidelines for the case management of malaria in pregnancy in the context of multiple first-line artemisinin-based combination therapy in western Kenya.
 37679466	Risk factors of malaria transmission in mining workers in Muara Enim, South Sumatra, Indonesia.
-37679465	Evidence of intensification of pyrethroid resistance in the major malaria vectors in Kinshasa, Democratic Republic of Congo.
 37679382	Xanthine oxidase levels and immune dysregulation are independently associated with anemia in Plasmodium falciparum malaria.
-37679176	Mathematical modelling of the interactive dynamics of wild and Microsporidia MB-infected mosquitoes.
 37678218	Outcome of Emergency Blood Transfusion in Children Seen at a Tertiary Children's Hospital in Freetown: A Descriptive Cross-sectional Study.
+37679465	Evidence of intensification of pyrethroid resistance in the major malaria vectors in Kinshasa, Democratic Republic of Congo.
+37679176	Mathematical modelling of the interactive dynamics of wild and Microsporidia MB-infected mosquitoes.
 37676897	Coverage evaluation of mass drug administration with triple drug regimen in an evaluation unit in Nagpur district of Maharashtra, India.
 37676839	Outbreak of Locally Acquired Mosquito-Transmitted (Autochthonous) Malaria - Florida and Texas, May-July 2023.
 37675688	Tafenoquine for the radical cure versus prophylaxis of Plasmodium vivax malaria: the importance of using the appropriate data set.
