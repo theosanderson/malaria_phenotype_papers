@@ -1,3 +1,5 @@
+37682947	Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages.
+37682871	Randomized field trial to assess the safety and efficacy of dihydroartemisinin-piperaquine for seasonal malaria chemoprevention in school-aged children in Bandiagara, Mali.
 37681888	Camillo Golgi's Impact on Malaria Studies.
 37681434	Investigation of new ferrocenyl-artesunate derivatives as antiparasitics.
 37681121	Sequence-dependent heterochromatin formation in the human malaria parasite Plasmodium falciparum.
@@ -9995,5 +9997,3 @@
 37585796	Self-medication practices of pregnant women attending antenatal clinic in northern Ghana: An analytical cross-sectional study.
 34331887	Elizabeth Ashley-leading research at malaria's frontline.
 34331675	Smart Safety Surveillance (3S): Multi-Country Experience of Implementing the 3S Concepts and Principles.
-34330999	Preclinical validation of a live attenuated dermotropic Leishmania vaccine against vector transmitted fatal visceral leishmaniasis.
-34330920	Plasmodium falciparum transcription in different clinical presentations of malaria associates with circulation time of infected erythrocytes.
