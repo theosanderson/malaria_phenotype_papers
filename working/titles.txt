@@ -1,3 +1,14 @@
+37688369	Review of intervention products for use in the prevention and control of anemia.
+37686816	Micronutrient Status and Other Correlates of Hemoglobin among Children with Stunting: A Cross-Sectional Study in Uganda.
+37686145	Recent Advances in Nanozyme-Mediated Strategies for Pathogen Detection and Control.
+37686086	Structural Space of the Duffy Antigen/Receptor for Chemokines' Intrinsically Disordered Ectodomain 1 Explored by Temperature Replica-Exchange Molecular Dynamics Simulations.
+37685871	The Impact of Co-Infections for Human Gammaherpesvirus Infection and Associated Pathologies.
+37685062	Prevalence and Diversity of Blood Parasites (Plasmodium, Leucocytozoon and Trypanosoma) in Backyard Chickens (Gallus gallus domesticus) Raised in Southern Thailand.
+37684680	Severity of Schistosoma haematobium co-infection with malaria in school-children is potentially modulated by host CD14 gene variants.
+37684270	Geo-environmental factors and the effectiveness of mulberry leaf extract in managing malaria.
+37684152	Hiding in plain sight: an epitope-based strategy for a subunit malaria vaccine.
+37683820	Limited Polymorphism in the Dihydrofolate Reductase (dhfr) and dihydropteroate synthetase genes (dhps) of Plasmodium knowlesi isolate from Thailand.
+37683723	Reactive oxygen species trigger inflammasome activation after intracellular microbial interaction.
 37682947	Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages.
 37682871	Randomized field trial to assess the safety and efficacy of dihydroartemisinin-piperaquine for seasonal malaria chemoprevention in school-aged children in Bandiagara, Mali.
 37681888	Camillo Golgi's Impact on Malaria Studies.
@@ -9986,14 +9997,3 @@
 34336315	Haemophagocytic Lymphohistiocytosis with Leptospirosis: A Rare but Devastating Complication.
 34335810	Study of the Antimalarial Activity of the Leaf Extracts and Fractions of Persea americana and Dacryodes edulis and Their HPLC Analysis.
 34335802	Antimalarial Property and Acute Toxicity of the Leaves of Theobroma cacao L.
-34335615	APRANK: Computational Prioritization of Antigenic Proteins and Peptides From Complete Pathogen Proteomes.
-34335606	Safety and Immunogenicity of ChAd63/MVA Pfs25-IMX313 in a Phase I First-in-Human Trial.
-34335547	Unveiling the Sugary Secrets of Plasmodium Parasites.
-34335258	Discovery of a New CDK4/6 and PI3K/AKT Multiple Kinase Inhibitor Aminoquinol for the Treatment of Hepatocellular Carcinoma.
-34335033	Differential Prevalences of Pfmdr1 Polymorphisms in Symptomatic and Asymptomatic Plasmodium falciparum Infections in Lastoursville: A Rural Area in East-Central Gabon.
-34333350	Genetic surveillance for monitoring the impact of drug use on Plasmodium falciparum populations.
-34332896	Illuminating Plasmodium invasion by lattice-light-sheet microscopy.
-34332654	Modeling the effects of malaria on red blood cell binding at the vascular interface.
-37585796	Self-medication practices of pregnant women attending antenatal clinic in northern Ghana: An analytical cross-sectional study.
-34331887	Elizabeth Ashley-leading research at malaria's frontline.
-34331675	Smart Safety Surveillance (3S): Multi-Country Experience of Implementing the 3S Concepts and Principles.
