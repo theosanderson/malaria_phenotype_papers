@@ -1,6 +1,15 @@
+37693871	Analytical approaches for antimalarial antibody responses to confirm historical and recent malaria transmission: an example from the Philippines.
+37693705	Editorial: Diabetes in Africa in the 21st century: the unique and important challenge of diabetes in Africa, volume II.
+37693015	Larviciding intervention targeting malaria vectors also affects Culex mosquito distribution in the city of Yaoundé, Cameroon.
+37692342	Naturally occurring phenylethanoids and phenylpropanoids: antimalarial potential.
+37692322	﻿Rediscovery of a lost semi-aquatic Leaf Beetle in the Hula Valley, Israel (Coleoptera, Chrysomelidae, Donaciinae).
+37692079	Provider adherence to clinical care recommendations for infants and children who died in seven low- and middle-income countries in the Child Health and Mortality Prevention Surveillance (CHAMPS) network.
+37692054	Exo-erythrocytic development of Leucocytozoon parasites (Haemosporida, Leucocytozoidae) in song thrushes Turdus philomelos.
+37691957	Dynamics of IgG antibody response against Plasmodium antigens among Nigerian infants and young children.
+37691847	Profiles of bacterial communities and environmental factors associated with proliferation of malaria vector mosquitoes within the Kenyan Coast.
+37691114	Malaria epidemiological characteristics and control in Guangzhou, China, 1950-2022.
 37691101	Purifying selection leads to low protein diversity of the mitochondrial cyt b gene in avian malaria parasites.
 37690774	Genomic complexity of parasites and vectors challenge malaria control in Southeast Asia.
-37691114	Malaria epidemiological characteristics and control in Guangzhou, China, 1950-2022.
 37690111	Ceramicines U-Z from Chisocheton ceramicus and structure-antimalarial activity relationship study.
 37689681	Plasmodium falciparum population structure inferred by msp1 amplicon sequencing of parasites collected from febrile patients in Kenya.
 37689679	Anti-malarial activity of the alkaloid, heptaphylline, and the furanocoumarin, imperatorin, from Clausena anisata against human Plasmodium falciparum malaria parasites: ex vivo trophozoitocidal, schizonticidal and gametocytocidal approach.
@@ -9988,12 +9997,3 @@
 34340747	NICEdrug.ch, a workflow for rational drug design and systems-level analysis of drug metabolism.
 34340541	Expression Patterns of Plasmodium falciparum Clonally Variant Genes at the Onset of a Blood Infection in Malaria-Naive Humans.
 34339933	Mefloquine as a prophylaxis for malaria needs to be revisited.
-34339723	Proteomic identification of the contents of small extracellular vesicles from in vivo Plasmodium yoelii infection.
-34339387	Epidemiology of Plasmodium falciparum Infections in a Semi-Arid Rural African Setting: Evidence from Reactive Case Detection in Northwestern Kenya.
-34339383	Risk Factors and Protective Immunity Against Rabies in Unvaccinated Butchers Working at Dog Slaughterhouses in Northern Vietnam.
-34339273	Associations between Varied Susceptibilities to PfATP4 Inhibitors and Genotypes in Ugandan Plasmodium falciparum Isolates.
-34339271	Inhibitory Compounds Targeting Plasmodium falciparum Gyrase B.
-34338159	An in vitro study on the differentiated metabolic mechanism of chloroquine-resistant Plasmodium falciparum using high-resolution metabolomics.
-34337860	Artesunate relieves acute kidney injury through inhibiting macrophagic Mincle-mediated necroptosis and inflammation to tubular epithelial cell.
-34337556	Antibodies from malaria-exposed Malians generally interact additively or synergistically with human vaccine-induced RH5 antibodies.
-34337023	Prevalence, Patterns, and Determinants of Malaria and Malnutrition in Douala, Cameroon: A Cross-Sectional Community-Based Study.
