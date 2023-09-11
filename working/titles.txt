@@ -1,3 +1,6 @@
+37691114	Malaria epidemiological characteristics and control in Guangzhou, China, 1950-2022.
+37691101	Purifying selection leads to low protein diversity of the mitochondrial cyt b gene in avian malaria parasites.
+37690774	Genomic complexity of parasites and vectors challenge malaria control in Southeast Asia.
 37690111	Ceramicines U-Z from Chisocheton ceramicus and structure-antimalarial activity relationship study.
 37689681	Plasmodium falciparum population structure inferred by msp1 amplicon sequencing of parasites collected from febrile patients in Kenya.
 37689679	Anti-malarial activity of the alkaloid, heptaphylline, and the furanocoumarin, imperatorin, from Clausena anisata against human Plasmodium falciparum malaria parasites: ex vivo trophozoitocidal, schizonticidal and gametocytocidal approach.
@@ -9994,6 +9997,3 @@
 34337860	Artesunate relieves acute kidney injury through inhibiting macrophagic Mincle-mediated necroptosis and inflammation to tubular epithelial cell.
 34337556	Antibodies from malaria-exposed Malians generally interact additively or synergistically with human vaccine-induced RH5 antibodies.
 34337023	Prevalence, Patterns, and Determinants of Malaria and Malnutrition in Douala, Cameroon: A Cross-Sectional Community-Based Study.
-34336993	Traditional Medicinal Vegetables in Northern Uganda: An Ethnobotanical Survey.
-34336749	Factors Associated With Uptake of Iron Supplement During Pregnancy Among Women of Reproductive Age in Tanzania: an Analysis of Data From the 2015 to 2016 Tanzania Demographic and Health Survey and Malaria Indicators Survey.
-34336483	Hereditary Chorea Associated With and Aggravated by Systemic Lupus Erythematosus.
