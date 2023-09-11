@@ -1,3 +1,6 @@
+37695429	Sex-Linked Differences in Malaria Risk Across the Lifespan.
+37694850	Challenges of plasmodium vivax and plasmodium knowlesi co-infection.
+37694574	Improved estimates of foetal growth are associated with perinatal outcomes: A latent modelling approach in a population-based birth cohort.
 37693871	Analytical approaches for antimalarial antibody responses to confirm historical and recent malaria transmission: an example from the Philippines.
 37693705	Editorial: Diabetes in Africa in the 21st century: the unique and important challenge of diabetes in Africa, volume II.
 37693015	Larviciding intervention targeting malaria vectors also affects Culex mosquito distribution in the city of Yaoundé, Cameroon.
@@ -9994,6 +9997,3 @@
 34342640	A newly characterized malaria antigen on erythrocyte and merozoite surfaces induces parasite inhibitory antibodies.
 34341817	Rapid quantitative assays for glucose-6-phosphate dehydrogenase (G6PD) and hemoglobin combined on a capillary-driven microfluidic chip.
 34341192	Structures of the Plasmodium falciparum heat-shock protein 70-x ATPase domain in complex with chemical fragments identify conserved and unique binding sites.
-34340747	NICEdrug.ch, a workflow for rational drug design and systems-level analysis of drug metabolism.
-34340541	Expression Patterns of Plasmodium falciparum Clonally Variant Genes at the Onset of a Blood Infection in Malaria-Naive Humans.
-34339933	Mefloquine as a prophylaxis for malaria needs to be revisited.
