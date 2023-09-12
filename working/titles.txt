@@ -1,3 +1,7 @@
+37698448	Global polymorphism of Plasmodium falciparum histidine rich proteins 2/3 and impact on malaria rapid diagnostic test detection: a systematic review and meta-analysis.
+37698406	The global transcriptome of Plasmodium falciparum mid-stage gametocytes (stages II-IV) appears largely conserved and gametocyte-specific gene expression patterns vary in clinical isolates.
+37698368	Province clustering based on the percentage of communicable disease using the BCBimax biclustering algorithm.
+37698222	Preparations for sustainability and transition from Global Fund support in the Eastern Mediterranean Region.
 37697956	CD8(+) T cell infiltration and proliferation in the brainstem during experimental cerebral malaria.
 37697903	Antimalarial Agents Targeting Plasmodium Falciparum Carbonic Anhydrase: Towards Dual Acting Artesunate Hybrid Compounds.
 37697804	Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000 Salmonella Typhi genomes.
@@ -9993,7 +9997,3 @@
 34345179	Associations of Single Nucleotide Polymorphisms in IL-18 Gene with Plasmodium falciparum-Associated Malaria.
 34345125	Malaria in the Intensive Care Unit.
 34344903	Cerebral malaria: insight into pathology from optical coherence tomography.
-34344849	Analysis of drug resistance marker genes of Plasmodium falciparum after implementation of artemisinin-based combination therapy in Pune district, India.
-34344664	The journey to UHC: how well are vertical programmes integrated in the health benefits package? A scoping review.
-34344441	Child and adolescent mental health services in Uganda.
-34344438	Simplified binomial estimation of human malaria transmission exposure distributions based on hard classification of where and when mosquitoes are caught: statistical applications with off-the-shelf tools.
