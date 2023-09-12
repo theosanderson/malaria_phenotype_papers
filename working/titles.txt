@@ -1,3 +1,5 @@
+37695781	Antimalarial Dibenzannulated Medium-Ring Keto Lactams.
+37695760	Correction: Correction: Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi.
 37695429	Sex-Linked Differences in Malaria Risk Across the Lifespan.
 37694850	Challenges of plasmodium vivax and plasmodium knowlesi co-infection.
 37694574	Improved estimates of foetal growth are associated with perinatal outcomes: A latent modelling approach in a population-based birth cohort.
@@ -9995,5 +9997,3 @@
 34343112	Determinants of quality in home-based management of malaria by community health volunteers in rural Kenya.
 34343036	Phytochemical and antiplasmodial investigation of Gardenia thunbergia L. f. leaves.
 34342640	A newly characterized malaria antigen on erythrocyte and merozoite surfaces induces parasite inhibitory antibodies.
-34341817	Rapid quantitative assays for glucose-6-phosphate dehydrogenase (G6PD) and hemoglobin combined on a capillary-driven microfluidic chip.
-34341192	Structures of the Plasmodium falciparum heat-shock protein 70-x ATPase domain in complex with chemical fragments identify conserved and unique binding sites.
