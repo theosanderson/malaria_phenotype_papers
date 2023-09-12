@@ -1,3 +1,10 @@
+37697296	Effect of dietary intervention on the prevalence of asymptomatic malaria among 6-18-month-old children in rural Malawi.
+37697266	Prevalence of dementia and its association with central nervous system infections among older persons in northern Uganda: cross-sectional community-based study.
+37697263	Are we ready for a sustainable approach? A qualitative study of the readiness of the public health system to provide STI services to the key populations at risk of HIV in Bangladesh.
+37697061	Association of uric acid levels with severity of Plasmodium infections: a systematic review and meta-analysis.
+37696543	Antimalarial procurement in private-sector pharmaceutical outlets: decision-making complexities and implications for medicine quality in Tanzania.
+37696509	A Novel Nested Multiplex Polymerase Chain Reaction Assay for Malaria Diagnosis Using the Hydroxymethyl Dihydropterin Pyrophosphokinase-Dihydropteroate Synthase (hppk-dhps) Gene.
+37696205	Design, synthesis and antiplasmodial evaluation of new amide-, carbamate-, and ureido-type harmicines.
 37695781	Antimalarial Dibenzannulated Medium-Ring Keto Lactams.
 37695760	Correction: Correction: Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi.
 37695429	Sex-Linked Differences in Malaria Risk Across the Lifespan.
@@ -1588,7 +1595,7 @@
 37145306	Effects of the free healthcare policy on maternal and child health in Burkina Faso: a nationwide evaluation using interrupted time-series analysis.
 37145288	National Evaluation of HIV Service Resource Allocation in Tanzania.
 37144664	Differential differentiation of B cell lymphopoiesis in lethal and non-lethal murine malaria models.
-37144342	Severe falciparum and vivax malaria on the Thailand-Myanmar border: A review of 1503 cases.
+37144342	Severe Falciparum and Vivax Malaria on the Thailand-Myanmar Border: A Review of 1503 Cases.
 37143740	The activity of methylene blue against asexual and sexual stages of Plasmodium vivax.
 37143657	Plasmodium-encoded murine IL-6 impairs liver stage infection and elicits long-lasting sterilizing immunity.
 37143050	Housing modification for malaria control: impact of a "lethal house lure" intervention on malaria infection prevalence in a cluster randomised control trial in Côte d'Ivoire.
@@ -9990,10 +9997,3 @@
 34344361	Analysing the essential proteins set of Plasmodium falciparum PF3D7 for novel drug targets identification against malaria.
 34344295	Anti-infective Potential of Manzamine Alkaloids - A Review.
 34344287	Antimalarial Drug Discovery: From Quinine to the Most Recent Promising Clinical Drug Candidates.
-34343496	CXCR6 positions cytotoxic T cells to receive critical survival signals in the tumor microenvironment.
-34343440	Avian blood parasite richness decreases with major histocompatibility complex class I loci number.
-34343323	Suicidal ideation in the perinatal period: findings from the Thailand-Myanmar border.
-34343310	Antimalarial chemoprophylaxis and treatment in the USA: limited access and extreme price variability.
-34343112	Determinants of quality in home-based management of malaria by community health volunteers in rural Kenya.
-34343036	Phytochemical and antiplasmodial investigation of Gardenia thunbergia L. f. leaves.
-34342640	A newly characterized malaria antigen on erythrocyte and merozoite surfaces induces parasite inhibitory antibodies.
