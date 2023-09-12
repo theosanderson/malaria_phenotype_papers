@@ -1,3 +1,6 @@
+37697956	CD8(+) T cell infiltration and proliferation in the brainstem during experimental cerebral malaria.
+37697903	Antimalarial Agents Targeting Plasmodium Falciparum Carbonic Anhydrase: Towards Dual Acting Artesunate Hybrid Compounds.
+37697804	Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000 Salmonella Typhi genomes.
 37697296	Effect of dietary intervention on the prevalence of asymptomatic malaria among 6-18-month-old children in rural Malawi.
 37697266	Prevalence of dementia and its association with central nervous system infections among older persons in northern Uganda: cross-sectional community-based study.
 37697263	Are we ready for a sustainable approach? A qualitative study of the readiness of the public health system to provide STI services to the key populations at risk of HIV in Bangladesh.
@@ -9994,6 +9997,3 @@
 34344664	The journey to UHC: how well are vertical programmes integrated in the health benefits package? A scoping review.
 34344441	Child and adolescent mental health services in Uganda.
 34344438	Simplified binomial estimation of human malaria transmission exposure distributions based on hard classification of where and when mosquitoes are caught: statistical applications with off-the-shelf tools.
-34344361	Analysing the essential proteins set of Plasmodium falciparum PF3D7 for novel drug targets identification against malaria.
-34344295	Anti-infective Potential of Manzamine Alkaloids - A Review.
-34344287	Antimalarial Drug Discovery: From Quinine to the Most Recent Promising Clinical Drug Candidates.
