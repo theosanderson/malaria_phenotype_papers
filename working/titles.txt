@@ -1,3 +1,6 @@
+37701843	Status of malaria infection in KSA during 2017-2021.
+37701588	MICROVASCULAR ENDOTHELIAL ACTIVATION/DYSFUNCTION AND DYSREGULATION OF THE ANGIOPOIETIN-TIE2 SYSTEM IN THE PATHOGENESIS OF LIFE-THREATENING INFECTIONS.
+37701383	Evolution of Plasmodium vivax and resistance patterns for infection based on Duffy genotype and phenotype.
 37700374	Malaria rapid diagnostic tests in community pharmacies in Rwanda: availability, knowledge of community pharmacists, advantages, and disadvantages of licensing their use.
 37700321	Knowledge, attitude and practices of malaria preventive measures among mothers with children under five years in a rural setting of Ghana.
 37700307	Assessing the population's correct knowledge of malaria in Malaysia: a vital component for malaria elimination certification.
@@ -9994,6 +9997,3 @@
 34347803	Epidemiology of fractures and their treatment in Malawi: Results of a multicentre prospective registry study to guide orthopaedic care planning.
 34347795	Modelling chronic malnutrition in Zambia: A Bayesian distributional regression approach.
 34347570	Novel malaria vaccines.
-34346879	Imported Malaria: A Plasmodium falciparum Malaria Case in Turkey with Rarely Seen Blood Stages of Infection.
-34346621	[Controlled human infection studies: efficient research on tropical infectious diseases].
-34346585	[Unexpected recurrence of malaria].
