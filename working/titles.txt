@@ -1,3 +1,6 @@
+37702976	Patterns of genetic differentiation imply distinct phylogeographic history of the mosquito species Anopheles messeae and Anopheles daciae in Eurasia.
+37702604	Measuring the Impact of Genetic Heterogeneity and Chromosomal Inversions on the Efficacy of CRISPR-Cas9 Gene Drives in Different Strains of Anopheles gambiae.
+37702516	Plasmodium falciparum GCN5 plays a key role in regulating artemisinin resistance-related stress responses.
 37701843	Status of malaria infection in KSA during 2017-2021.
 37701588	MICROVASCULAR ENDOTHELIAL ACTIVATION/DYSFUNCTION AND DYSREGULATION OF THE ANGIOPOIETIN-TIE2 SYSTEM IN THE PATHOGENESIS OF LIFE-THREATENING INFECTIONS.
 37701383	Evolution of Plasmodium vivax and resistance patterns for infection based on Duffy genotype and phenotype.
@@ -9994,6 +9997,3 @@
 34348141	Antibody interference by a non-neutralizing antibody abrogates humoral protection against Plasmodium yoelii liver stage.
 34348113	Chemogenomics identifies acetyl-coenzyme A synthetase as a target for malaria treatment and prevention.
 34348055	A Portrait of Sentinel Surveillance Networks for Vector-Borne Diseases: A Scoping Review Supporting Sentinel Network Design.
-34347803	Epidemiology of fractures and their treatment in Malawi: Results of a multicentre prospective registry study to guide orthopaedic care planning.
-34347795	Modelling chronic malnutrition in Zambia: A Bayesian distributional regression approach.
-34347570	Novel malaria vaccines.
