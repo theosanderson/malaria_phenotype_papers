@@ -1,3 +1,8 @@
+37700374	Malaria rapid diagnostic tests in community pharmacies in Rwanda: availability, knowledge of community pharmacists, advantages, and disadvantages of licensing their use.
+37700321	Knowledge, attitude and practices of malaria preventive measures among mothers with children under five years in a rural setting of Ghana.
+37700307	Assessing the population's correct knowledge of malaria in Malaysia: a vital component for malaria elimination certification.
+37700295	'Forest malaria' in Myanmar? Tracking transmission landscapes in a diversity of environments.
+37700050	Unveiling the genomic landscape of malaria in natural infections.
 37698448	Global polymorphism of Plasmodium falciparum histidine rich proteins 2/3 and impact on malaria rapid diagnostic test detection: a systematic review and meta-analysis.
 37698406	The global transcriptome of Plasmodium falciparum mid-stage gametocytes (stages II-IV) appears largely conserved and gametocyte-specific gene expression patterns vary in clinical isolates.
 37698368	Province clustering based on the percentage of communicable disease using the BCBimax biclustering algorithm.
@@ -9992,8 +9997,3 @@
 34346879	Imported Malaria: A Plasmodium falciparum Malaria Case in Turkey with Rarely Seen Blood Stages of Infection.
 34346621	[Controlled human infection studies: efficient research on tropical infectious diseases].
 34346585	[Unexpected recurrence of malaria].
-34346088	Polyhydroxybenzoic acid derivatives as potential new antimalarial agents.
-34345604	Phytochemical screening, antimalarial activities, and genetic relationship of 16 indigenous Thai Asteraceae medicinal plants: A combinatorial approach using phylogeny and ethnobotanical bioprospecting in antimalarial drug discovery.
-34345179	Associations of Single Nucleotide Polymorphisms in IL-18 Gene with Plasmodium falciparum-Associated Malaria.
-34345125	Malaria in the Intensive Care Unit.
-34344903	Cerebral malaria: insight into pathology from optical coherence tomography.
