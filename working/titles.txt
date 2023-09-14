@@ -1,3 +1,10 @@
+37705047	Antimalarial drug efficacy and resistance in malaria-endemic countries in HANMAT-PIAM_net countries of the Eastern Mediterranean Region 2016-2020: Clinical and genetic studies.
+37705029	Correction: Methods and indicators for measuring patterns of human exposure to malaria vectors.
+37705004	The impact of anti-malarial markets on artemisinin resistance: perspectives from Burkina Faso.
+37704951	Human NCR3 gene variants rs2736191 and rs11575837 alter longitudinal risk for development of pediatric malaria episodes and severe malarial anemia.
+37704606	Plasmodium ARK2 and EB1 drive unconventional spindle dynamics, during chromosome segregation in sexual transmission stages.
+37704264	The role of infected red blood cells flag (InR) of Mindray BC 6800 plus in malaria diagnosis.
+37703846	CLIPB4 is a central node in the protease network that regulates humoral immunity in Anopheles gambiae mosquitoes.
 37703350	Increased brain microvascular hemoglobin concentrations in children with cerebral malaria.
 37703302	Preliminary characterization of Plasmodium vivax sporozoite antigens as pre-erythrocytic vaccine candidates.
 37703223	Malaria in Burkina Faso: A comprehensive analysis of spatiotemporal distribution of incidence and environmental drivers, and implications for control strategies.
@@ -9990,10 +9997,3 @@
 34351584	Walsogynes H-O from Walsura chrysogyne.
 34350806	Annona muricata Linn and Khaya grandifoliola C.DC. Reduce Oxidative Stress In Vitro and Ameliorate Plasmodium berghei-Induced Parasitemia and Cytokines in BALB/c Mice.
 34350707	Structural basis of transport and inhibition of the Plasmodium falciparum transporter PfFNT.
-34349977	Fansidar drug induces cytotoxicity in some vital tissues in a rat model: combination defensive effect of selenium and zinc capsules.
-34349757	AeMOPE-1, a Novel Salivary Peptide From Aedes aegypti, Selectively Modulates Activation of Murine Macrophages and Ameliorates Experimental Colitis.
-34349141	Ecological plasticity to ions concentration determines genetic response and dominance of Anopheles coluzzii larvae in urban coastal habitats of Central Africa.
-34348770	The key issues and development strategy of Chinese Classical Formulas pharmaceutical preparations.
-34348727	Coverage, determinants of use and repurposing of long-lasting insecticidal nets two years after a mass distribution in Lihir Islands, Papua New Guinea: a cross-sectional study.
-34348696	Connected diagnostics to improve accurate diagnosis, treatment, and conditional payment of malaria services in Kenya.
-34348573	Current and emerging strategies to combat antimalarial resistance.
