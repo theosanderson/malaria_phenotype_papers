@@ -19,6 +19,7 @@
 37700307	Assessing the population's correct knowledge of malaria in Malaysia: a vital component for malaria elimination certification.
 37700295	'Forest malaria' in Myanmar? Tracking transmission landscapes in a diversity of environments.
 37700050	Unveiling the genomic landscape of malaria in natural infections.
+37698659	Acute-on-chronic liver failure alters linezolid pharmacokinetics in critically ill patients with continuous hemodialysis: an observational study.
 37698448	Global polymorphism of Plasmodium falciparum histidine rich proteins 2/3 and impact on malaria rapid diagnostic test detection: a systematic review and meta-analysis.
 37698406	The global transcriptome of Plasmodium falciparum mid-stage gametocytes (stages II-IV) appears largely conserved and gametocyte-specific gene expression patterns vary in clinical isolates.
 37698368	Province clustering based on the percentage of communicable disease using the BCBimax biclustering algorithm.
@@ -9996,4 +9997,3 @@
 34351936	Effect of wall type, delayed mortality and mosquito age on the residual efficacy of a clothianidin-based indoor residual spray formulation (SumiShield™ 50WG) in southern Mozambique.
 34351584	Walsogynes H-O from Walsura chrysogyne.
 34350806	Annona muricata Linn and Khaya grandifoliola C.DC. Reduce Oxidative Stress In Vitro and Ameliorate Plasmodium berghei-Induced Parasitemia and Cytokines in BALB/c Mice.
-34350707	Structural basis of transport and inhibition of the Plasmodium falciparum transporter PfFNT.
