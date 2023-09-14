@@ -1,3 +1,6 @@
+37703350	Increased brain microvascular hemoglobin concentrations in children with cerebral malaria.
+37703302	Preliminary characterization of Plasmodium vivax sporozoite antigens as pre-erythrocytic vaccine candidates.
+37703223	Malaria in Burkina Faso: A comprehensive analysis of spatiotemporal distribution of incidence and environmental drivers, and implications for control strategies.
 37702976	Patterns of genetic differentiation imply distinct phylogeographic history of the mosquito species Anopheles messeae and Anopheles daciae in Eurasia.
 37702604	Measuring the Impact of Genetic Heterogeneity and Chromosomal Inversions on the Efficacy of CRISPR-Cas9 Gene Drives in Different Strains of Anopheles gambiae.
 37702516	Plasmodium falciparum GCN5 plays a key role in regulating artemisinin resistance-related stress responses.
@@ -9994,6 +9997,3 @@
 34348727	Coverage, determinants of use and repurposing of long-lasting insecticidal nets two years after a mass distribution in Lihir Islands, Papua New Guinea: a cross-sectional study.
 34348696	Connected diagnostics to improve accurate diagnosis, treatment, and conditional payment of malaria services in Kenya.
 34348573	Current and emerging strategies to combat antimalarial resistance.
-34348141	Antibody interference by a non-neutralizing antibody abrogates humoral protection against Plasmodium yoelii liver stage.
-34348113	Chemogenomics identifies acetyl-coenzyme A synthetase as a target for malaria treatment and prevention.
-34348055	A Portrait of Sentinel Surveillance Networks for Vector-Borne Diseases: A Scoping Review Supporting Sentinel Network Design.
