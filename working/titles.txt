@@ -1,3 +1,7 @@
+37708466	Travel Medicine: Travelers With Preexisting Conditions.
+37708228	Advancements and Challenges in Developing Malaria Vaccines: Targeting Multiple Stages of the Parasite Life Cycle.
+37708213	Non-O ABO blood group genotypes differ in their associations with Plasmodium falciparum rosetting and severe malaria.
+37708143	Pre-vaccination monocyte-to-lymphocyte ratio as a biomarker for the efficacy of malaria candidate vaccines: A subgroup analysis of pooled clinical trial data.
 37707607	Immunological characteristics of CD103(+)CD8(+) Tc cells in the liver of C57BL/6 mouse infected with plasmodium NSM.
 37706619	Anti-Malarial Activity of Allyl Isothiocyanate and N-acetyl-S-(N-allylthiocarbamoyl)-l-Cysteine.
 37705047	Antimalarial drug efficacy and resistance in malaria-endemic countries in HANMAT-PIAM_net countries of the Eastern Mediterranean Region 2016-2020: Clinical and genetic studies.
@@ -9993,7 +9997,3 @@
 34353378	Co-creation and prototyping of an intervention focusing on health literacy in management of malaria at community-level in Ghana.
 34353361	Assessment of CareStart G6PD rapid diagnostic test and CareStart G6PD biosensor in Mauritania.
 34353333	Severe long-delayed malaria caused by Plasmodium malariae in an elderly French patient.
-36246859	Likelihood ratio test for genetic association study with case-control data under Probit model.
-34352378	Evaluation of the inhibitory effect of Zingiber officinale rhizome on Babesia and Theileria parasites.
-34351982	Evaluating the feasibility and acceptability of a community dialogue intervention in the prevention and control of schistosomiasis in Nampula province, Mozambique.
-34351936	Effect of wall type, delayed mortality and mosquito age on the residual efficacy of a clothianidin-based indoor residual spray formulation (SumiShield™ 50WG) in southern Mozambique.
