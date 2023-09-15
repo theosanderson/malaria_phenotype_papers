@@ -1,10 +1,12 @@
+37712738	Essential function of alveolin PfIMC1g in the Plasmodium falciparum asexual blood stage.
+37712594	Covalent Macrocyclic Proteasome Inhibitors Mitigate Resistance in Plasmodium falciparum.
+37712398	Phytoconstituents from Turraea obtusifolia and their antiplasmodial activity.
 37711966	Trends in birth attendants in Sudan using three consecutive household surveys (from 2006 to 2014).
 37711881	Tropical splenomegaly in a migrant-in-transit crossing the Darien gap, Panamá: A probable case of hyper-reactive malarial splenomegaly.
 37711874	The question of the early diagnosis of asymptomatic and subpatent malaria in pregnancy: Implications for diagnostic tools in a malaria endemic area.
 37711279	Distribution of mosquitoes (Diptera: Culicidae) in Thailand: a ﻿dataset.
 37711239	Molecular markers associated with drug resistance in Plasmodium falciparum parasites in central Africa between 2016 and 2021.
 37711230	Transcriptomic approaches for identifying potential transmission blocking vaccine candidates in Plasmodium falciparum: a review of current knowledge and future directions.
-37711180	Costing and cost-effectiveness of Cepheid Xpert HIV -1 Qual Assay using whole blood protocol versus PCR by Abbott Systems in Malawi.
 37711130	Three decades targeting falcipains to develop antiplasmodial agents: what have we learned and what can be done next?
 37711006	Traditional uses, phytochemistry, pharmacology, and toxicology of the genus Artemisia L. (Asteraceae): A high-value medicinal plant.
 37710323	Surveillance of wild animals carrying infectious agents based on high-throughput screening platform in the Republic of Korea.
@@ -126,7 +128,7 @@
 37667239	Deltamethrin and transfluthrin select for distinct transcriptomic responses in the malaria vector Anopheles gambiae.
 37667204	The heterogeneity of symptom reporting across study sites: a secondary analysis of a randomised placebo-controlled multicentre antimalarial trial.
 37666840	The voltage-gated sodium channel, para, limits Anopheles coluzzii vector competence in a microbiota dependent manner.
-37666798	Evidence based optimal dosing of intravenous artesunate in children with severe falciparum malaria.
+37666798	Evidence Based Optimal Dosing of Intravenous Artesunate in Children with Severe Falciparum Malaria.
 37666044	Innate functions of natural products: A promising path for the identification of novel therapeutics.
 37665781	Fortification of condiments and seasonings with iron for preventing anaemia and improving health.
 37665563	Discovery of dual-target natural antimalarial agents against DHODH and PMT of Plasmodium falciparum: pharmacophore modelling, molecular docking, quantum mechanics, and molecular dynamics simulations.
@@ -8053,6 +8055,7 @@
 34973474	Comparative performance of WANTAI ELISA for total immunoglobulin to receptor binding protein and an ELISA for IgG to spike protein in detecting SARS-CoV-2 antibodies in Kenyan populations.
 34973453	Imported malaria in Switzerland, (1990-2019): A retrospective analysis.
 34973333	Enzymatic and structural characterization of HAD5, an essential phosphomannomutase of malaria-causing parasites.
+37711180	Costing and cost-effectiveness of Cepheid Xpert HIV -1 Qual Assay using whole blood protocol versus PCR by Abbott Systems in Malawi.
 37585019	Factors affecting usage of insecticide treated nets for malaria control by pregnant women in Enugu, South East Nigeria.
 37585012	Fostering sustainable malaria prevention and elimination in Africa.
 37573496	A review on Wickerhamomyces anomalus yeast: a promising eco-friendly approach to biological controlof malaria.
@@ -9994,6 +9997,3 @@
 34360597	Biochemical Studies of Mitochondrial Malate: Quinone Oxidoreductase from Toxoplasma gondii.
 34360041	Appropriateness of Care for Common Childhood Infections at Low-Level Private Health Facilities in a Rural District in Western Uganda.
 34359826	Altered Cytokine Response of Human Brain Endothelial Cells after Stimulation with Malaria Patient Plasma.
-34358799	Potent antiplasmodial alkaloids from the rhizobacterium Pantoea agglomerans as hemozoin modulators.
-34358525	STK35L1 regulates host cell cycle-related genes and is essential for Plasmodium infection during the liver stage of malaria.
-34358312	INFLUENCE OF ARTESUNATE COMBINATIVE THERAPY CO-ADMINISTRATION WITH RUTIN ON INFLAMMATORY CYTOKINES AND IMMUNOGLOBULINS IN PLASMODIUM BERGHEI-INFECTED MICE.
