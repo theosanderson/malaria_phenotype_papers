@@ -1,3 +1,12 @@
+37710323	Surveillance of wild animals carrying infectious agents based on high-throughput screening platform in the Republic of Korea.
+37710288	The temporal dynamics of Plasmodium species infection after artemisinin-based combination therapy (ACT) among asymptomatic children in the Hohoe municipality, Ghana.
+37710279	Co-infection of Plasmodium falciparum and Schistosoma mansoni is associated with anaemia.
+37710252	Malaria misdiagnosis in the routine health system in Arba Minch area district in southwest Ethiopia: an implication for malaria control and elimination.
+37710229	Perceptions and drivers of healthcare provider and drug dispenser practices for the treatment of malaria in pregnancy in the context of multiple first-line therapies in western Kenya: a qualitative study.
+37709763	Estimating the burden of severe malarial anaemia and access to hospital care in East Africa.
+37709739	The structure of a Plasmodium vivax Tryptophan Rich Antigen domain suggests a lipid binding function for a pan-Plasmodium multi-gene family.
+37708854	Identification of genes required for Plasmodium gametocyte-to-sporozoite development in the mosquito vector.
+37708851	Sex determination and transmission: Leveraging genetic screens to reveal Plasmodium's secrets.
 37708466	Travel Medicine: Travelers With Preexisting Conditions.
 37708228	Advancements and Challenges in Developing Malaria Vaccines: Targeting Multiple Stages of the Parasite Life Cycle.
 37708213	Non-O ABO blood group genotypes differ in their associations with Plasmodium falciparum rosetting and severe malaria.
@@ -9988,12 +9997,3 @@
 34357395	Evaluation of Hemoglobin Cutoff Levels to Define Anemia Among Healthy Individuals.
 34357293	RNAi by Soaking Aedes aegypti Pupae in dsRNA.
 34357252	Progress and Challenges in the Use of a Liver-on-a-Chip for Hepatotropic Infectious Diseases.
-34356608	Activity of Anti-Microbial Peptides (AMPs) against Leishmania and Other Parasites: An Overview.
-34356491	Assessment of Associations between Malaria Parasites and Avian Hosts-A Combination of Classic System and Modern Molecular Approach.
-34355414	Artemisinin inspired synthetic endoperoxide drug candidates: Design, synthesis, and mechanism of action studies.
-34355109	Health Impacts of Climate Change as Contained in Economic Models Estimating the Social Cost of Carbon Dioxide.
-34354972	The Community Lab of Ideas for Health: Community-Based Transdisciplinary Solutions in a Malaria Elimination Trial in The Gambia.
-34353692	In vitro antiplasmodial activity, cytotoxicity, and gas chromatography - flame ionization detector metabolites fingerprint of extracts and fractions from Tetrorchidium didymostemon.
-34353378	Co-creation and prototyping of an intervention focusing on health literacy in management of malaria at community-level in Ghana.
-34353361	Assessment of CareStart G6PD rapid diagnostic test and CareStart G6PD biosensor in Mauritania.
-34353333	Severe long-delayed malaria caused by Plasmodium malariae in an elderly French patient.
