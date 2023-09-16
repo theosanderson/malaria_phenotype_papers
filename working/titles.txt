@@ -1,3 +1,6 @@
+37715245	Assessing the impact of the "malaria supporters project" intervention to malaria control in the Brazilian Amazon: an interrupted time-series analysis.
+37714564	Misguided charity: the bane of global health.
+37714843	First fully-automated AI/ML virtual screening cascade implemented at a drug discovery centre in Africa.
 37713614	Risk of malaria following untreated sub-patent Plasmodium falciparum infections: Results over 4 years from a cohort in a high transmission area in Western Kenya.
 37713419	The dual action of human antibodies specific to Plasmodium falciparum PfRH5 and PfCyRPA: Blocking invasion and inactivating extracellular merozoites.
 37712738	Essential function of alveolin PfIMC1g in the Plasmodium falciparum asexual blood stage.
@@ -9994,6 +9997,3 @@
 34362867	High incidence of Plasmodium knowlesi malaria compared to other human malaria species in several hospitals in Malaysia.
 34362443	Determinants of the uptake of intermittent preventive treatment of malaria in pregnancy with sulphadoxine pyrimethamine in Sabatia Sub County, Western Kenya.
 34362388	Prediction of species composition ratios in pooled specimens of the Anopheles Hyrcanus group using quantitative sequencing.
-34361867	Current Epidemiological Characteristics of Imported Malaria, Vector Control Status and Malaria Elimination Prospects in the Gulf Cooperation Council (GCC) Countries.
-34360597	Biochemical Studies of Mitochondrial Malate: Quinone Oxidoreductase from Toxoplasma gondii.
-34360041	Appropriateness of Care for Common Childhood Infections at Low-Level Private Health Facilities in a Rural District in Western Uganda.
