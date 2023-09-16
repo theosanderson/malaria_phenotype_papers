@@ -1,3 +1,5 @@
+37713614	Risk of malaria following untreated sub-patent Plasmodium falciparum infections: Results over 4 years from a cohort in a high transmission area in Western Kenya.
+37713419	The dual action of human antibodies specific to Plasmodium falciparum PfRH5 and PfCyRPA: Blocking invasion and inactivating extracellular merozoites.
 37712738	Essential function of alveolin PfIMC1g in the Plasmodium falciparum asexual blood stage.
 37712594	Covalent Macrocyclic Proteasome Inhibitors Mitigate Resistance in Plasmodium falciparum.
 37712398	Phytoconstituents from Turraea obtusifolia and their antiplasmodial activity.
@@ -1696,7 +1698,6 @@
 37130061	An analysis of the inclusion of ear and hearing care in national health policies, strategies and plans.
 37129519	Impact, health care utilization, and costs of travel-associated mosquito-borne diseases in international travellers: a prospective study.
 37128324	Transcranial doppler velocities in a large healthy population of African children.
-37128161	Intergenerational sex and early sexual debut are associated with HIV infection among transgender women in Paraguay.
 37127689	Altering of the sprayed wall after indoor residual spraying and associated factors among households in Boricha district, Sidama regional state, Ethiopia, 2019: community-based cross-sectional study.
 37127688	Plasmodium falciparum gametocyte carriage in longitudinally monitored incident infections is associated with duration of infection and human host factors.
 37127669	Plasmodium falciparum kelch13 polymorphisms identified after treatment failure with artemisinin-based combination therapy in Niger.
@@ -9996,4 +9997,3 @@
 34361867	Current Epidemiological Characteristics of Imported Malaria, Vector Control Status and Malaria Elimination Prospects in the Gulf Cooperation Council (GCC) Countries.
 34360597	Biochemical Studies of Mitochondrial Malate: Quinone Oxidoreductase from Toxoplasma gondii.
 34360041	Appropriateness of Care for Common Childhood Infections at Low-Level Private Health Facilities in a Rural District in Western Uganda.
-34359826	Altered Cytokine Response of Human Brain Endothelial Cells after Stimulation with Malaria Patient Plasma.
