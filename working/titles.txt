@@ -1,3 +1,12 @@
+37717079	Zoonotic malaria requires new policy approaches to malaria elimination.
+37716987	Evaluation of the solar-powered Silver Bullet 2.1 (Lumin 8) light trap for sampling malaria vectors in western Kenya.
+37716985	Indigenous medicinal plants used in folk medicine for malaria treatment in Kwara State, Nigeria: an ethnobotanical study.
+37716970	Evaluating the attrition, fabric integrity and insecticidal durability of two dual active ingredient nets (Interceptor(®) G2 and Royal(®) Guard): methodology for a prospective study embedded in a cluster randomized controlled trial in Benin.
+37716852	Critical interdependencies between Plasmodium nutrient flux and drugs.
+37716795	Chemistry and biology of ent-morphinan alkaloids.
+37716462	Conditional expression of NanoLuc luciferase through a multimodular system offers rapid detection of antimalarial drug activity.
+37716164	Procalcitonin is elevated in severe malaria and is a promising biomarker of severe malaria and multi-organ dysfunction: A cross-sectional study and meta-analysis.
+37716125	Decoding the invasive nature of a tropical pathogen of concern: The invasive non-Typhoidal Salmonella strains causing host-restricted extraintestinal infections worldwide.
 37715564	Canadian Blood Services traceback investigation of a suspected case of transfusion-transmitted malaria.
 37715245	Assessing the impact of the "malaria supporters project" intervention to malaria control in the Brazilian Amazon: an interrupted time-series analysis.
 37714843	First fully-automated AI/ML virtual screening cascade implemented at a drug discovery centre in Africa.
@@ -9988,12 +9997,3 @@
 34364940	Development of a process for large scale production of PfRH5 in E. coli expression system.
 34364805	Panacea within a Pandora's box: the antiparasitic effects of phospholipases A(2) (PLA(2)s) from snake venoms.
 34364426	Electrochemical biosensors for neglected tropical diseases: A review.
-34364298	High-throughput quantitation method for amodiaquine and desethylamodiaquine in plasma using supported liquid extraction technology.
-34364164	Antiplasmodial 2-thiophenoxy-3-trichloromethyl quinoxalines target the apicoplast of Plasmodium falciparum.
-34363974	Exploring natural microbial resources for the discovery of anti-malarial compounds.
-34363699	Inflammatory cytokine responses in children with asymptomatic malaria infection living in rural, semi-urban and urban areas in south-eastern Gabon.
-34363240	Examining the incentives and disincentives in the maintenance of Insecticide-Treated Nets among householders in Ghana.
-34362964	An insight of anopheline larvicidal mechanism of Trichoderma asperellum (TaspSKGN2).
-34362869	Bioinformatics characterization of Plasmodium knowlesi apical membrane antigen 1 (PkAMA1) for multi-epitope vaccine design.
-34362867	High incidence of Plasmodium knowlesi malaria compared to other human malaria species in several hospitals in Malaysia.
-34362443	Determinants of the uptake of intermittent preventive treatment of malaria in pregnancy with sulphadoxine pyrimethamine in Sabatia Sub County, Western Kenya.
