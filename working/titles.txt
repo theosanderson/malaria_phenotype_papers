@@ -171,7 +171,7 @@
 37655748	Hybrid molecules based on an emodin scaffold. Synthesis and activity against SARS-CoV-2 and Plasmodium.
 37655048	Adult malaria mortality during 2019 at Bo Government Hospital, Sierra Leone.
 37654725	ESBL and carbapenemase-producing Enterobacteriaceae in infectious pleural effusions: current epidemiology at Hôpital du Mali.
-37654050	Comparative Investigation on Interaction of Potent Antimalarials with Human Serum Albumin via Multispectroscopic and Computational Approaches.
+37654050	Comparative investigation on interaction between potent antimalarials and human serum albumin using multispectroscopic and computational approaches.
 37653544	Recent increase in low complexity polygenomic infections and sialic acid-independent invasion pathways in Plasmodium falciparum from Western Gambia.
 37653486	Development of a Plasmodium vivax biobank for functional ex vivo assays.
 37653081	Malaria in Pregnancy: Key Points for the Neonatologist.
