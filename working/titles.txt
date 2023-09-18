@@ -1,3 +1,9 @@
+37720337	AIDMAN: An AI-based object detection system for malaria diagnosis from smartphone thin-blood-smear images.
+37720224	Chemically augmented malaria sporozoites display an altered immunogenic profile.
+37720045	Interventions for promoting patients' adherence to 14-day primaquine treatment in a highly malaria-endemic township in Myanmar: A qualitative study among key stakeholders.
+37719169	Interventions for malaria prevention in pregnancy; factors influencing uptake and their effect on pregnancy outcomes among post-natal women in a tertiary facility in the Volta Region of Ghana.
+37719166	Evidence-based interventions for reducing sickle cell disease-associated morbidity and mortality in sub-Saharan Africa: A scoping review.
+37718524	State-of-the-art Review on the Antiparasitic Activity of Benzimidazole-based Derivatives: Facing Malaria, Leishmaniasis, and Trypanosomiasis.
 37717797	Epidemiological and clinical analysis of polish short-term and long-term travelers returning from tropical countries.
 37717525	Baseline immune states (BIS) associated with vaccine responsiveness and factors that shape the BIS.
 37717079	Zoonotic malaria requires new policy approaches to malaria elimination.
@@ -9991,9 +9997,3 @@
 34368043	Integrating Health Systems and Science to Respond to COVID-19 in a Model District of Rural Madagascar.
 34367877	Impacts of Ecology, Parasite Antigenic Variation, and Human Genetics on RTS,S/AS01e Malaria Vaccine Efficacy.
 34367264	Predicting Protein Therapeutic Candidates for Bovine Babesiosis Using Secondary Structure Properties and Machine Learning.
-34367192	Editorial: Vectors and Vector-Borne Parasitic Diseases: Infection, Immunity, and Evolution.
-34366834	CYP2D6 Allele Frequency in Five Malaria Vivax Endemic Areas From Brazilian Amazon Region.
-34366009	Managing Disease Outbreaks in Captive Flocks of Birds.
-34365503	A cascade of transcriptional repression determines sexual commitment and development in Plasmodium falciparum.
-34365007	Synthesis of novel 1,2,4-trioxanes and antimalarial evaluation against multidrug-resistant Plasmodium yoelii nigeriensis.
-34364940	Development of a process for large scale production of PfRH5 in E. coli expression system.
