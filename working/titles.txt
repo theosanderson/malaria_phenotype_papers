@@ -1,3 +1,5 @@
+37717797	Epidemiological and clinical analysis of polish short-term and long-term travelers returning from tropical countries.
+37717525	Baseline immune states (BIS) associated with vaccine responsiveness and factors that shape the BIS.
 37717079	Zoonotic malaria requires new policy approaches to malaria elimination.
 37716987	Evaluation of the solar-powered Silver Bullet 2.1 (Lumin 8) light trap for sampling malaria vectors in western Kenya.
 37716985	Indigenous medicinal plants used in folk medicine for malaria treatment in Kwara State, Nigeria: an ethnobotanical study.
@@ -104,7 +106,7 @@
 37684680	Severity of Schistosoma haematobium co-infection with malaria in school-children is potentially modulated by host CD14 gene variants.
 37684270	Geo-environmental factors and the effectiveness of mulberry leaf extract in managing malaria.
 37684152	Hiding in plain sight: an epitope-based strategy for a subunit malaria vaccine.
-37683820	Limited Polymorphism in the Dihydrofolate Reductase (dhfr) and dihydropteroate synthetase genes (dhps) of Plasmodium knowlesi isolate from Thailand.
+37683820	Limited Polymorphism in the Dihydrofolate Reductase (dhfr) and dihydropteroate synthase genes (dhps) of Plasmodium knowlesi isolate from Thailand.
 37683723	Reactive oxygen species trigger inflammasome activation after intracellular microbial interaction.
 37682947	Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages.
 37682871	Randomized field trial to assess the safety and efficacy of dihydroartemisinin-piperaquine for seasonal malaria chemoprevention in school-aged children in Bandiagara, Mali.
@@ -9995,5 +9997,3 @@
 34365503	A cascade of transcriptional repression determines sexual commitment and development in Plasmodium falciparum.
 34365007	Synthesis of novel 1,2,4-trioxanes and antimalarial evaluation against multidrug-resistant Plasmodium yoelii nigeriensis.
 34364940	Development of a process for large scale production of PfRH5 in E. coli expression system.
-34364805	Panacea within a Pandora's box: the antiparasitic effects of phospholipases A(2) (PLA(2)s) from snake venoms.
-34364426	Electrochemical biosensors for neglected tropical diseases: A review.
