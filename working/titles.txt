@@ -1,3 +1,4 @@
+37722077	Bis-6-amidino-benzothiazole Derivative that Cures Experimental Stage 1 African Trypanosomiasis with a Single Dose.
 37720337	AIDMAN: An AI-based object detection system for malaria diagnosis from smartphone thin-blood-smear images.
 37720224	Chemically augmented malaria sporozoites display an altered immunogenic profile.
 37720045	Interventions for promoting patients' adherence to 14-day primaquine treatment in a highly malaria-endemic township in Myanmar: A qualitative study among key stakeholders.
@@ -9996,4 +9997,3 @@
 34368660	Performance of five pulse oximeters to detect hypoxaemia as an indicator of severe illness in children under five by frontline health workers in low resource settings - A prospective, multicentre, single-blinded, trial in Cambodia, Ethiopia, South Sudan, and Uganda.
 34368043	Integrating Health Systems and Science to Respond to COVID-19 in a Model District of Rural Madagascar.
 34367877	Impacts of Ecology, Parasite Antigenic Variation, and Human Genetics on RTS,S/AS01e Malaria Vaccine Efficacy.
-34367264	Predicting Protein Therapeutic Candidates for Bovine Babesiosis Using Secondary Structure Properties and Machine Learning.
