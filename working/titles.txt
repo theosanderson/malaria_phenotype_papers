@@ -1,3 +1,6 @@
+37727973	Infectious and environmental placental insults: from underlying biological pathways to diagnostics and treatments.
+37727806	High-dimensional supervised classification in a context of non-independence of observations to identify the determining SNPs in a phenotype.
+37727525	The interleukin-10 family: Major regulators of the immune response against Plasmodium falciparum infections.
 37726804	Could vaccinating adults against malaria materially reduce adult mortality in high-transmission areas?
 37726787	Urban malaria vector bionomics and human sleeping behavior in three cities in Senegal.
 37725258	Surveillance of drug resistance molecular markers in Plasmodium vivax before and after introduction of dihydroartemisinin and piperaquine in Thailand: 2009-2019.
@@ -9994,6 +9997,3 @@
 34370746	Assessment of the Chad guinea worm surveillance information system: A pivotal foundation for eradication.
 34370745	Genetic diversity in two leading Plasmodium vivax malaria vaccine candidates AMA1 and MSP119 at three sites in India.
 34370724	Label-free imaging and classification of live P. falciparum enables high performance parasitemia quantification without fixation or staining.
-34370710	Seroprevalence of Dengue Infection Using IgG Capture ELISA in India, 2017-2018.
-34370709	Multiplex Bead Assay for the Detection of Human IgG Antibody Responses to African Trypanosomes.
-34370706	The Unsustainability of Long-Lasting Insecticidal Nets.
