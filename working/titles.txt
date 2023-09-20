@@ -1,3 +1,5 @@
+37726804	Could vaccinating adults against malaria materially reduce adult mortality in high-transmission areas?
+37726787	Urban malaria vector bionomics and human sleeping behavior in three cities in Senegal.
 37725258	Surveillance of drug resistance molecular markers in Plasmodium vivax before and after introduction of dihydroartemisinin and piperaquine in Thailand: 2009-2019.
 37724615	Antimalarial drug discovery against malaria parasites through haplopine modification: An advanced computational approach.
 37723449	Tracking the geographical origin of Plasmodium falciparum causing a rare severe case of malaria imported into Palestine, a zero-indigenous case area.
@@ -9995,5 +9997,3 @@
 34370710	Seroprevalence of Dengue Infection Using IgG Capture ELISA in India, 2017-2018.
 34370709	Multiplex Bead Assay for the Detection of Human IgG Antibody Responses to African Trypanosomes.
 34370706	The Unsustainability of Long-Lasting Insecticidal Nets.
-34370704	Mixed Plasmodium malariae Infections Were Underdetected in a Malaria Endemic Area in the Amazon Region, Brazil.
-34370701	Severe COVID-19 in Uganda across Two Epidemic Phases: A Prospective Cohort Study.
