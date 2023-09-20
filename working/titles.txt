@@ -1,3 +1,4 @@
+37728713	Malaria Vaccines: Progress to Date.
 37727973	Infectious and environmental placental insults: from underlying biological pathways to diagnostics and treatments.
 37727806	High-dimensional supervised classification in a context of non-independence of observations to identify the determining SNPs in a phenotype.
 37727525	The interleukin-10 family: Major regulators of the immune response against Plasmodium falciparum infections.
@@ -9996,4 +9997,3 @@
 34371071	Amorphous Drug-Polymer Salt with High Stability under Tropical Conditions and Fast Dissolution: The Challenging Case of Lumefantrine-PAA.
 34370746	Assessment of the Chad guinea worm surveillance information system: A pivotal foundation for eradication.
 34370745	Genetic diversity in two leading Plasmodium vivax malaria vaccine candidates AMA1 and MSP119 at three sites in India.
-34370724	Label-free imaging and classification of live P. falciparum enables high performance parasitemia quantification without fixation or staining.
