@@ -1,3 +1,6 @@
+37730604	Efficacy of artesunate combined with Atractylodes lancea or Prabchompoothaweep remedy extracts as adjunctive therapy for the treatment of cerebral malaria.
+37730525	Sampling for malaria molecular surveillance.
+37730472	Current challenges and new approaches to implementing optimal management of sickle cell disease in sub-Saharan Africa.
 37729177	Durability of the deltamethrin-treated polypropylene long-lasting net LifeNet® in a pyrethroid resistance area in south western Benin: A phase III trial.
 37728713	Malaria Vaccines: Progress to Date.
 37727973	Infectious and environmental placental insults: from underlying biological pathways to diagnostics and treatments.
@@ -9994,6 +9997,3 @@
 34372970	Genetic surveillance in the Greater Mekong subregion and South Asia to support malaria control and elimination.
 34372605	The Role of Coinfections in the EBV-Host Broken Equilibrium.
 34371526	Merozoites phagocytosed by neutrophils in Plasmodium falciparum malaria.
-34371498	Trends of potential waterborne diseases at different health facilities in Bamboutos Division, West Region, Cameroon: a retrospective appraisal of routine data from 2013 to 2017.
-34371071	Amorphous Drug-Polymer Salt with High Stability under Tropical Conditions and Fast Dissolution: The Challenging Case of Lumefantrine-PAA.
-34370746	Assessment of the Chad guinea worm surveillance information system: A pivotal foundation for eradication.
