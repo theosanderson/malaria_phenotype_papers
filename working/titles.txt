@@ -63,6 +63,8 @@
 37709739	The structure of a Plasmodium vivax Tryptophan Rich Antigen domain suggests a lipid binding function for a pan-Plasmodium multi-gene family.
 37708854	Identification of genes required for Plasmodium gametocyte-to-sporozoite development in the mosquito vector.
 37708851	Sex determination and transmission: Leveraging genetic screens to reveal Plasmodium's secrets.
+30000694	Pyrethrins.
+30000442	Permethrin.
 37708466	Travel Medicine: Travelers With Preexisting Conditions.
 37708228	Advancements and Challenges in Developing Malaria Vaccines: Targeting Multiple Stages of the Parasite Life Cycle.
 37708213	Non-O ABO blood group genotypes differ in their associations with Plasmodium falciparum rosetting and severe malaria.
@@ -7476,7 +7478,6 @@
 35183178	Detecting asymptomatic carriage of Plasmodium falciparum in southern Ghana: utility of molecular and serological diagnostic tools.
 35182483	Bacterial infection disrupts established germinal center reactions through monocyte recruitment and impaired metabolic adaptation.
 35182085	Population genetic structure of the malaria vector Anopheles fluviatilis species T (Diptera: Culicidae) in India.
-30000442	Permethrin.
 35180431	No acetyl-CoA keeps Plasmodium at bay.
 35180417	National, regional, and global causes of mortality in 5-19-year-olds from 2000 to 2019: a systematic analysis.
 35180298	The Effect of Regularly Dosed Acetaminophen vs No Acetaminophen on Renal Function in Plasmodium knowlesi Malaria (PACKNOW): A Randomized, Controlled Trial.
@@ -9947,7 +9948,6 @@
 34391665	There and back again: malaria parasite single-cell transcriptomics comes full circle.
 34391664	Linking microbiota composition with antimalarial antibody response.
 34391426	Increased primaquine total dose prevents Plasmodium vivax relapses in patients with impaired CYP2D6 activity: report of three cases.
-30000694	Pyrethrins.
 30000205	Chloroquine.
 34390881	cAMP-dependent protein kinase regulates secretion of apical membrane antigen 1 (AMA1) in Plasmodium yoelii.
 34390743	High prevalence of Plasmodium malariae and Plasmodium ovale in co-infections with Plasmodium falciparum in asymptomatic malaria parasite carriers in southwestern Nigeria.
