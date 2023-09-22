@@ -1,3 +1,8 @@
+37737828	When malaria imitates thrombotic thrombocytopenic purpura: the importance of patients' history and physicians' awareness of uncommon diseases.
+37737323	Life expectancy of Anopheles funestus is double that of Anopheles arabiensis in southeast Tanzania based on mark-release-recapture method.
+37737226	PerTurboID, A targeted in situ method reveals the impact of kinase deletion on its local protein environment in the cytoadhesion complex of malaria causing parasites.
+37737220	Diverse evolutionary pathways challenge the use of collateral sensitivity as a strategy to suppress resistance.
+37737120	An Early Epidemiological Investigation of COVID-19 in Parsa, Nepal.
 37735805	Plasmodium knowlesi Infection in Traveler Returning to Canada from the Philippines, 2023.
 37735680	Sterilized Anopheles funestus can autodisseminate sufficient pyriproxyfen to the breeding habitat under semi-field settings.
 37735574	Structure guided mimicry of an essential P. falciparum receptor-ligand complex enhances cross neutralizing antibodies.
@@ -9992,8 +9997,3 @@
 34379746	Kelch13 mutations in Plasmodium falciparum and risk of spreading in Amazon basin countries.
 34379575	Trachoma Rapid Assessments in Venezuela, an Example of the Integration of Data Gathering with Service Delivery in Hard-to-reach Populations.
 34378982	Human Basigin (CD147) Does Not Directly Interact with SARS-CoV-2 Spike Glycoprotein.
-34377668	Artesunate-induced hemolysis in severe complicated malaria - A diagnostic challenge: A case report and literature review of anemia in malaria.
-34377664	First records of prevalence and diversity of avian haemosporidia in snipe species (genus Gallinago) of Japan.
-34376992	Anemia among Pregnant Women Attending Ante Natal Care Clinic in Adare General Hospital, Southern Ethiopia: Prevalence and Associated Factors.
-34376838	After malaria: which parasitic disease will China eliminate next?
-34376783	A fragment-based approach identifies an allosteric pocket that impacts malate dehydrogenase activity.
