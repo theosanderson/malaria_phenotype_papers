@@ -1,3 +1,10 @@
+37735805	Plasmodium knowlesi Infection in Traveler Returning to Canada from the Philippines, 2023.
+37735680	Sterilized Anopheles funestus can autodisseminate sufficient pyriproxyfen to the breeding habitat under semi-field settings.
+37735574	Structure guided mimicry of an essential P. falciparum receptor-ligand complex enhances cross neutralizing antibodies.
+37735560	Modeling policy interventions for slowing the spread of artemisinin-resistant pfkelch R561H mutations in Rwanda.
+37735428	Evaluation of treatment patterns, healthcare resource utilization and cost of illness for sickle cell disease in Ghana: a private medical insurance claims database study.
+37735394	Interpersonal communication, cultural norms, and community perceptions associated with care-seeking for fever among children under age five in Magoé district, Mozambique.
+37735351	Identification of disease-related genes in Plasmodium berghei by network module analysis.
 37734858	Antimalarial stocking decisions among medicine retailers in Ghana: implications for quality management and control of malaria.
 37734461	Irreversible malarial retinopathy in a returning adult traveler to Marseille, France.
 37732257	Micro-heterogeneity of transmission shapes the submicroscopic malaria reservoir in coastal Tanzania.
@@ -100,7 +107,7 @@
 37698368	Province clustering based on the percentage of communicable disease using the BCBimax biclustering algorithm.
 37698222	Preparations for sustainability and transition from Global Fund support in the Eastern Mediterranean Region.
 37697956	CD8(+) T cell infiltration and proliferation in the brainstem during experimental cerebral malaria.
-37697903	Antimalarial Agents Targeting Plasmodium Falciparum Carbonic Anhydrase: Towards Dual Acting Artesunate Hybrid Compounds.
+37697903	Antimalarial Agents Targeting Plasmodium falciparum Carbonic Anhydrase: Towards Artesunate Hybrid Compounds with Dual Mechanism of Action.
 37697804	Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000 Salmonella Typhi genomes.
 37697296	Effect of dietary intervention on the prevalence of asymptomatic malaria among 6-18-month-old children in rural Malawi.
 37697266	Prevalence of dementia and its association with central nervous system infections among older persons in northern Uganda: cross-sectional community-based study.
@@ -9990,10 +9997,3 @@
 34376992	Anemia among Pregnant Women Attending Ante Natal Care Clinic in Adare General Hospital, Southern Ethiopia: Prevalence and Associated Factors.
 34376838	After malaria: which parasitic disease will China eliminate next?
 34376783	A fragment-based approach identifies an allosteric pocket that impacts malate dehydrogenase activity.
-34376744	In silico characterisation of putative Plasmodium falciparum vaccine candidates in African malaria populations.
-34376691	Chemoprophylaxis vaccination with a Plasmodium liver stage autophagy mutant affords enhanced and long-lasting protection.
-34376675	CRISPR/Cas9-engineered inducible gametocyte producer lines as a valuable tool for Plasmodium falciparum malaria transmission research.
-34376257	Integrated malaria prevention in rural communities in Uganda: a qualitative feasibility study for a randomised controlled trial.
-34376219	An assessment of the knowledge, practices and resources during the delivery of malaria health care services among private health care practitioners: a cross section study in the Mid-Western Region of Uganda.
-34376138	Can Antimalarial Phytochemicals be a Possible Cure for COVID-19? Molecular Docking Studies of Some Phytochemicals to SARS-CoV-2 3C-like Protease.
-34375857	Structured to conquer: transport across the Plasmodium parasitophorous vacuole.
