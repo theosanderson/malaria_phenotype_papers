@@ -1,3 +1,5 @@
+37734858	Antimalarial stocking decisions among medicine retailers in Ghana: implications for quality management and control of malaria.
+37734461	Irreversible malarial retinopathy in a returning adult traveler to Marseille, France.
 37732257	Micro-heterogeneity of transmission shapes the submicroscopic malaria reservoir in coastal Tanzania.
 37731970	Rift Valley fever and malaria co-infection: A case report.
 37731906	Parasitic, bacterial, viral, immune-mediated, metabolic and nutritional factors associated with nodding syndrome.
@@ -9995,5 +9997,3 @@
 34376219	An assessment of the knowledge, practices and resources during the delivery of malaria health care services among private health care practitioners: a cross section study in the Mid-Western Region of Uganda.
 34376138	Can Antimalarial Phytochemicals be a Possible Cure for COVID-19? Molecular Docking Studies of Some Phytochemicals to SARS-CoV-2 3C-like Protease.
 34375857	Structured to conquer: transport across the Plasmodium parasitophorous vacuole.
-34375637	Cryo-EM structure of a microtubule-bound parasite kinesin motor and implications for its mechanism and inhibition.
-34375176	Dual Inhibition of Parasitic Targets: A Valuable Strategy to Treat Malaria and Neglected Tropical Diseases.
