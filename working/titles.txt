@@ -1,3 +1,5 @@
+37738476	Development of a degree-day model to predict the growth of Anopheles stephensi (Diptera: Culicidae): implication for vector control management.
+37738317	Characterization of the swarming behavior of Anopheles coluzzii and Anopheles gambiae (Diptera: Culicidae) populations in a hybrid zone of Senegal.
 37737828	When malaria imitates thrombotic thrombocytopenic purpura: the importance of patients' history and physicians' awareness of uncommon diseases.
 37737323	Life expectancy of Anopheles funestus is double that of Anopheles arabiensis in southeast Tanzania based on mark-release-recapture method.
 37737226	PerTurboID, A targeted in situ method reveals the impact of kinase deletion on its local protein environment in the cytoadhesion complex of malaria causing parasites.
@@ -9995,5 +9997,3 @@
 34379916	A Monoclonal Antibody for Malaria Prevention.
 34379759	Interplay Between Oxytetracycline and the Homozygote kdr (L1014F) Resistance Genotype on Fecundity in Anopheles gambiae (Diptera: Culicidae) Mosquitoes.
 34379746	Kelch13 mutations in Plasmodium falciparum and risk of spreading in Amazon basin countries.
-34379575	Trachoma Rapid Assessments in Venezuela, an Example of the Integration of Data Gathering with Service Delivery in Hard-to-reach Populations.
-34378982	Human Basigin (CD147) Does Not Directly Interact with SARS-CoV-2 Spike Glycoprotein.
