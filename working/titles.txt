@@ -1,3 +1,6 @@
+37743476	Haematological parameters and their correlation with the degree of malaria parasitaemia among outpatients attending a polyclinic.
+37742789	Chloroquine attenuates diet-induced obesity and glucose intolerance through a mechanism that might involve FGF-21, but not UCP-1-mediated thermogenesis and inhibition of adipocyte autophagy.
+37742788	Zoonotic simian malaria parasites in free-ranging Macaca fascicularis macaques and human malaria patients in Thailand, with a note on genetic characterization of recent isolates.
 37741812	The effects of hydroxychloroquine and its promising use in refractory obstetric antiphospholipid syndrome.
 37740561	Current rates of purchasing of antibiotics without a prescription across sub-saharan Africa; rationale and potential programmes to reduce inappropriate dispensing and resistance.
 37740453	Where is the EXIT? Phenotypic screens for new egress factors in apicomplexan parasites.
@@ -293,7 +296,7 @@
 37634385	Malaria-specific Type 1 regulatory T cells are more abundant in first pregnancies and associated with placental malaria.
 37633902	Prompt treatment-seeking behaviour varies within communities among guardians of children with malaria-related fever in Malawi.
 37633758	Monocytes as primary defenders against Toxoplasma gondii infection.
-37633420	Artemisinin resistance in P. falciparum: Probing the interacting partners of Kelch13 protein in parasite.
+37633420	Artemisinin resistance in P. falciparum: probing the interacting partners of Kelch13 protein in parasite.
 37633297	A milestone in malaria prevention.
 37633228	Access to the World Health Organization-recommended essential diagnostics for invasive fungal infections in critical care and cancer patients in Africa: A diagnostic survey.
 37632759	Do private health providers help achieve Universal Health Coverage? A scoping review of the evidence from low-income countries.
@@ -9994,6 +9997,3 @@
 34383833	Placental histopathology in preterm birth with confirmed maternal infection: A systematic literature review.
 34383774	Evaluation of a point-of-care diagnostic to identify glucose-6-phosphate dehydrogenase deficiency in Brazil.
 34383751	Chemical control and insecticide resistance status of sand fly vectors worldwide.
-34383704	Another View of American Descendants of Slavery Representation in the American Global Health Community.
-34383116	[Travel diseases-Danger of infections in the era of globalization].
-34382938	A genetic intervention.
