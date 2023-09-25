@@ -1,6 +1,19 @@
+37746455	Falciparum Malaria, Leptospirosis, and Vibrio mimicus Encephalitis in a Resilient Patient: A Remarkable Case of Triple Infection Survival.
+37745984	In Vitro Cercaricidal Activity, Acute Toxicity, and GC/MS Analysis of Some Selected Ghanaian Medicinal Plants.
+37745920	Overtreatment of malaria in the Nigerian healthcare setting: prescription practice, rationale and consequences.
+37745554	Pf MORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, P. falciparum.
+37745516	A cluster-randomized trial of client and provider-directed financial interventions to align incentives with appropriate case management in retail medicine outlets: results of the TESTsmART Trial in western Kenya.
+37745508	Poly-basic peptides and polymers as new drug candidate against Plasmodium falciparum.
+37745488	A Plasmodium falciparum genetic cross reveals the contributions of pfcrt and plasmepsin II/III to piperaquine drug resistance.
+37745458	MGDrivE 3: A decoupled vector-human framework for epidemiological simulation of mosquito genetic control tools and their surveillance.
+37745307	Comparing the Trends of Vector-Borne Diseases (VBDs) before and after the COVID-19 Pandemic and Their Spatial Distribution in Southern Iran.
+37745261	Phytochemical Analysis, Antimalarial Properties, and Acute Toxicity of Aqueous Extracts of Trisamo and Jatu-Phala-Tiga Recipes.
+37744999	An improved framework for detecting discrete epidemiologically meaningful partitions in hierarchically clustered genetic data.
+37744849	Transcriptomics-Guided In Silico Drug Repurposing: Identifying New Candidates with Dual-Stage Antiplasmodial Activity.
+37744730	-Pharmacokinetics of drugs used to treat uncomplicated malaria in breastfeeding mother-infant pairs: An observational pharmacokinetic study.
+37743476	Haematological parameters and their correlation with the degree of malaria parasitaemia among outpatients attending a polyclinic.
 37742789	Chloroquine attenuates diet-induced obesity and glucose intolerance through a mechanism that might involve FGF-21, but not UCP-1-mediated thermogenesis and inhibition of adipocyte autophagy.
 37742788	Zoonotic simian malaria parasites in free-ranging Macaca fascicularis macaques and human malaria patients in Thailand, with a note on genetic characterization of recent isolates.
-37743476	Haematological parameters and their correlation with the degree of malaria parasitaemia among outpatients attending a polyclinic.
 37741812	The effects of hydroxychloroquine and its promising use in refractory obstetric antiphospholipid syndrome.
 37740561	Current rates of purchasing of antibiotics without a prescription across sub-saharan Africa; rationale and potential programmes to reduce inappropriate dispensing and resistance.
 37740453	Where is the EXIT? Phenotypic screens for new egress factors in apicomplexan parasites.
@@ -9984,16 +9997,3 @@
 34390244	Physical compatibility of Normosol-R with critical care medications used in patients with COVID-19 during simulated Y-site administration.
 34389769	The determinants of lipid profiles in early adolescence in a Ugandan birth cohort.
 34389579	Evaluation of the effectiveness and cost effectiveness of a Community-delivered Integrated Malaria Elimination (CIME) model in Myanmar: protocol for an open stepped-wedge cluster-randomised controlled trial.
-34389510	Plasmodium falciparum SET2 domain is allosterically regulated by its PHD-like domain to methylate at H3K36.
-34389215	Leishmaniasis: the act of transmission.
-34388992	Sub-national disparities in accessing anti-malarial drug treatment in eastern Indonesia.
-34388133	Photocatalytic degradation of hydroxychloroquine using ZnO supported on clinoptilolite zeolite.
-34387751	Determination of sand fly fauna and molecular detection of Leishmania in sand flies in Antalya Province, Southern Turkey.
-34387713	[Medications when travelling with underlying inflammatory rheumatic disease].
-34386757	Analysis of clinical presentation, hematological factors, self-reported bed net usage, and malaria burden in sickle cell disease patients.
-34385463	Monoclonal antibodies block transmission of genetically diverse Plasmodium falciparum strains to mosquitoes.
-34384936	Geometric morphometrics and machine learning as tools for the identification of sibling mosquito species of the Maculipennis complex (Anopheles).
-34384431	Efficacy of dihydroartemisinin-piperaquine versus artemether-lumefantrine for the treatment of uncomplicated Plasmodium falciparum malaria among children in Africa: a systematic review and meta-analysis of randomized control trials.
-34383833	Placental histopathology in preterm birth with confirmed maternal infection: A systematic literature review.
-34383774	Evaluation of a point-of-care diagnostic to identify glucose-6-phosphate dehydrogenase deficiency in Brazil.
-34383751	Chemical control and insecticide resistance status of sand fly vectors worldwide.
