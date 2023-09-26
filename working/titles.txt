@@ -1,3 +1,4 @@
+37748059	Dysfunction of CD169(+) macrophages and blockage of erythrocyte maturation as a mechanism of anemia in Plasmodium yoelii infection.
 37746455	Falciparum Malaria, Leptospirosis, and Vibrio mimicus Encephalitis in a Resilient Patient: A Remarkable Case of Triple Infection Survival.
 37745984	In Vitro Cercaricidal Activity, Acute Toxicity, and GC/MS Analysis of Some Selected Ghanaian Medicinal Plants.
 37745920	Overtreatment of malaria in the Nigerian healthcare setting: prescription practice, rationale and consequences.
@@ -9996,4 +9997,3 @@
 34390710	Integrating network pharmacology and experimental models to investigate the mechanisms of dihydroartemisinin in preventing NSCLC progression via mTOR/HIF-1α signaling.
 34390244	Physical compatibility of Normosol-R with critical care medications used in patients with COVID-19 during simulated Y-site administration.
 34389769	The determinants of lipid profiles in early adolescence in a Ugandan birth cohort.
-34389579	Evaluation of the effectiveness and cost effectiveness of a Community-delivered Integrated Malaria Elimination (CIME) model in Myanmar: protocol for an open stepped-wedge cluster-randomised controlled trial.
