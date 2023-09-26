@@ -1,3 +1,16 @@
+37749591	Correction: Shifting transmission risk for malaria in Africa with climate change: a framework for planning and intervention.
+37749577	Microsporidia MB in the primary malaria vector Anopheles gambiae sensu stricto is avirulent and undergoes maternal and horizontal transmission.
+37749432	Review: genetic background of milk fatty acid synthesis in bovines.
+37748770	Loss to Hospital Follow-Up in Pediatric Cerebral Malaria Survivors: A Case-Control Study.
+37748768	Evidence of Submicroscopic Plasmodium knowlesi Mono-Infection in Remote Indigenous Communities in Kelantan, Peninsular Malaysia.
+37748766	A Health Survey Revealing Prevalence of Vector-Borne Diseases and Tuberculosis in Papua New Guinea Defence Force Personnel and Families.
+37748765	Screening for K13-Propeller Mutations Associated with Artemisinin Resistance in Plasmodium falciparum in Yambio County (Western Equatoria State, South Sudan).
+37748764	Coinfection of Malaria and Bacterial Pathogens among Acute Febrile Patients in Selected Clinics in Ghana.
+37748526	RNA Polymerase II evolution and adaptations: Insights from Plasmodium and other parasitic protists.
+37748498	Primaquine dose and the risk of haemolysis and Plasmodium vivax recurrence: pooling the available data to reassure the unconvinced.
+37748497	Primaquine dose and the risk of haemolysis in patients with uncomplicated Plasmodium vivax malaria: a systematic review and individual patient data meta-analysis.
+37748496	Effect of primaquine dose on the risk of recurrence in patients with uncomplicated Plasmodium vivax: a systematic review and individual patient data meta-analysis.
+37748448	Neonatal Research at the Archiospedale Santo Spirito in Rome.
 37748059	Dysfunction of CD169(+) macrophages and blockage of erythrocyte maturation as a mechanism of anemia in Plasmodium yoelii infection.
 37746455	Falciparum Malaria, Leptospirosis, and Vibrio mimicus Encephalitis in a Resilient Patient: A Remarkable Case of Triple Infection Survival.
 37745984	In Vitro Cercaricidal Activity, Acute Toxicity, and GC/MS Analysis of Some Selected Ghanaian Medicinal Plants.
@@ -9984,16 +9997,3 @@
 34394323	Herbal medicine used by the community of Koneba district in Afar Regional State, Northeastern Ethiopia.
 34394307	Neurological manifestations following cured malaria: don't forget post-malaria neurological syndrome.
 34394229	In vivo studies on the biochemical indices of Plasmodium berghei infected mice treated with Alstonia boonei leaf and root extracts.
-34394228	Improved antimalarial activity of caprol-based nanostructured lipid carriers encapsulating artemether-lumefantrine for oral administration.
-34394159	An in vitro Propagation of Aspilia africana (Pers.) C. D. Adams, and Evaluation of Its Anatomy and Physiology of Acclimatized Plants.
-34394063	Simultaneous Detection of Ebola Virus and Pathogens Associated With Hemorrhagic Fever by an Oligonucleotide Microarray.
-34394019	Horizontal Transmission of the Symbiont Microsporidia MB in Anopheles arabiensis.
-34391665	There and back again: malaria parasite single-cell transcriptomics comes full circle.
-34391664	Linking microbiota composition with antimalarial antibody response.
-34391426	Increased primaquine total dose prevents Plasmodium vivax relapses in patients with impaired CYP2D6 activity: report of three cases.
-30000205	Chloroquine.
-34390881	cAMP-dependent protein kinase regulates secretion of apical membrane antigen 1 (AMA1) in Plasmodium yoelii.
-34390743	High prevalence of Plasmodium malariae and Plasmodium ovale in co-infections with Plasmodium falciparum in asymptomatic malaria parasite carriers in southwestern Nigeria.
-34390710	Integrating network pharmacology and experimental models to investigate the mechanisms of dihydroartemisinin in preventing NSCLC progression via mTOR/HIF-1α signaling.
-34390244	Physical compatibility of Normosol-R with critical care medications used in patients with COVID-19 during simulated Y-site administration.
-34389769	The determinants of lipid profiles in early adolescence in a Ugandan birth cohort.
