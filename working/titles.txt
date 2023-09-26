@@ -1,6 +1,4 @@
 37749591	Correction: Shifting transmission risk for malaria in Africa with climate change: a framework for planning and intervention.
-37749577	Microsporidia MB in the primary malaria vector Anopheles gambiae sensu stricto is avirulent and undergoes maternal and horizontal transmission.
-37749432	Review: genetic background of milk fatty acid synthesis in bovines.
 37748770	Loss to Hospital Follow-Up in Pediatric Cerebral Malaria Survivors: A Case-Control Study.
 37748768	Evidence of Submicroscopic Plasmodium knowlesi Mono-Infection in Remote Indigenous Communities in Kelantan, Peninsular Malaysia.
 37748766	A Health Survey Revealing Prevalence of Vector-Borne Diseases and Tuberculosis in Papua New Guinea Defence Force Personnel and Families.
@@ -11,6 +9,8 @@
 37748497	Primaquine dose and the risk of haemolysis in patients with uncomplicated Plasmodium vivax malaria: a systematic review and individual patient data meta-analysis.
 37748496	Effect of primaquine dose on the risk of recurrence in patients with uncomplicated Plasmodium vivax: a systematic review and individual patient data meta-analysis.
 37748448	Neonatal Research at the Archiospedale Santo Spirito in Rome.
+37749577	Microsporidia MB in the primary malaria vector Anopheles gambiae sensu stricto is avirulent and undergoes maternal and horizontal transmission.
+37749432	Review: genetic background of milk fatty acid synthesis in bovines.
 37748059	Dysfunction of CD169(+) macrophages and blockage of erythrocyte maturation as a mechanism of anemia in Plasmodium yoelii infection.
 37746455	Falciparum Malaria, Leptospirosis, and Vibrio mimicus Encephalitis in a Resilient Patient: A Remarkable Case of Triple Infection Survival.
 37745984	In Vitro Cercaricidal Activity, Acute Toxicity, and GC/MS Analysis of Some Selected Ghanaian Medicinal Plants.
