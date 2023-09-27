@@ -1,3 +1,8 @@
+37752572	Prevalence and predictors of asymptomatic malaria infection in Boricha District, Sidama Region, Ethiopia: implications for elimination strategies.
+37752510	Cytotoxicity, acute and sub-chronic toxicities of the leaves of Bauhinia thonningii (Schumach.) Milne-Redh. (Caesalpiniaceae).
+37752504	Detection and quantification of Plasmodium falciparum in human blood by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry: a proof of concept study.
+37752491	Genetic basis and spatial distribution of glucose-6-phosphate dehydrogenase deficiency in ecuadorian ethnic groups: a malaria perspective.
+37751696	A genomic platform for surveillance and antigen discovery in Plasmodium spp. using long-read amplicon sequencing.
 37751428	Aedes albopictus microbiota: Differences between wild and mass-reared immatures do not suggest negative impacts from a diet based on black soldier fly larvae and fish food.
 37750720	Whole-genome surveillance identifies markers of Plasmodium falciparum drug resistance and novel genomic regions under selection in Mozambique.
 37750704	AP2XII-1 is a negative regulator of merogony and presexual commitment in Toxoplasma gondii.
@@ -9992,8 +9997,3 @@
 34398819	The Performance of Immunoassays to Measure Antibodies to the Chlamydia trachomatis Antigen Pgp3 in Different Epidemiological Settings for Trachoma.
 34398667	Determinants of Primaquine and Carboxyprimaquine Exposures in Children and Adults with Plasmodium vivax Malaria.
 34398379	Antiplasmodial Effect of Nano Dendrimer G2 Loaded with Chloroquine in Mice Infected with Plasmodium berghei.
-34398241	Questioning the Claimed Superiority of Malaria Parasite Ex Vivo Viability Reduction Over Observed Parasite Clearance Rate?
-34395993	Ring Distortion of Vincamine Leads to the Identification of Re-Engineered Antiplasmodial Agents.
-34395317	Editorial: Celebrating Microbial Diversity: The Many Cell Cycles of Eukaryotic Microbes.
-34395314	Calcium in the Backstage of Malaria Parasite Biology.
-34395197	Prevalence of Hepatitis B and C Among Healthcare Workers in a Tertiary Care Center in Monrovia Liberia.
