@@ -1,3 +1,4 @@
+37753431	Africa CDC's blueprint to enhance early warning surveillance: accelerating implementation of event-based surveillance in Africa.
 37752572	Prevalence and predictors of asymptomatic malaria infection in Boricha District, Sidama Region, Ethiopia: implications for elimination strategies.
 37752510	Cytotoxicity, acute and sub-chronic toxicities of the leaves of Bauhinia thonningii (Schumach.) Milne-Redh. (Caesalpiniaceae).
 37752504	Detection and quantification of Plasmodium falciparum in human blood by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry: a proof of concept study.
@@ -9996,4 +9997,3 @@
 34398886	Diagnostic performance of capillary and venous blood samples in the detection of Loa loa and Mansonella perstans microfilaraemia using light microscopy.
 34398819	The Performance of Immunoassays to Measure Antibodies to the Chlamydia trachomatis Antigen Pgp3 in Different Epidemiological Settings for Trachoma.
 34398667	Determinants of Primaquine and Carboxyprimaquine Exposures in Children and Adults with Plasmodium vivax Malaria.
-34398379	Antiplasmodial Effect of Nano Dendrimer G2 Loaded with Chloroquine in Mice Infected with Plasmodium berghei.
