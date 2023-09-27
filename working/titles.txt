@@ -1,3 +1,4 @@
+37751428	Aedes albopictus microbiota: Differences between wild and mass-reared immatures do not suggest negative impacts from a diet based on black soldier fly larvae and fish food.
 37750720	Whole-genome surveillance identifies markers of Plasmodium falciparum drug resistance and novel genomic regions under selection in Mozambique.
 37750704	AP2XII-1 is a negative regulator of merogony and presexual commitment in Toxoplasma gondii.
 37749591	Correction: Shifting transmission risk for malaria in Africa with climate change: a framework for planning and intervention.
@@ -9996,4 +9997,3 @@
 34395317	Editorial: Celebrating Microbial Diversity: The Many Cell Cycles of Eukaryotic Microbes.
 34395314	Calcium in the Backstage of Malaria Parasite Biology.
 34395197	Prevalence of Hepatitis B and C Among Healthcare Workers in a Tertiary Care Center in Monrovia Liberia.
-34394323	Herbal medicine used by the community of Koneba district in Afar Regional State, Northeastern Ethiopia.
