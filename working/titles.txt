@@ -1,3 +1,14 @@
+37755916	Schistosoma Infection Burden and Risk Factors among School-Aged Children in a Rural Area of the Democratic Republic of the Congo.
+37755911	Stratification and Adaptation of Malaria Control Interventions in Chad.
+37755903	Malariometric Indices in the Context of Seasonal Malaria Chemoprevention in Children Aged 1.5 to 12 Years during the Period of High Malaria Transmission in the Suburban Area of Banfora, Burkina Faso.
+37755899	The Prevalence of Human Plasmodium Species during Peak Transmission Seasons from 2016 to 2021 in the Rural Commune of Ntjiba, Mali.
+37754726	A High Proportion of Malaria Vector Biting and Resting Indoors despite Extensive LLIN Coverage in Côte d'Ivoire.
+37754686	Biotechnological Potential of Microorganisms for Mosquito Population Control and Reduction in Vector Competence.
+37754682	Associations between prenatal malaria exposure, maternal antibodies at birth, and malaria susceptibility during the first year of life in Burkina Faso.
+37754284	Increasing Prevalence of Artemisinin-Resistant HRP2-Negative Malaria in Eritrea.
+37754281	Artemisinin-Resistant and HRP-Negative Malaria Parasites in Africa.
+37753817	Study on the dielectrophoretic characteristics of malaria-infected red blood cells.
+37753798	Exploring natural products as multi-target-directed drugs for Parkinson's disease: an in-silico approach integrating QSAR, pharmacophore modeling, and molecular dynamics simulations.
 37753431	Africa CDC's blueprint to enhance early warning surveillance: accelerating implementation of event-based surveillance in Africa.
 37752572	Prevalence and predictors of asymptomatic malaria infection in Boricha District, Sidama Region, Ethiopia: implications for elimination strategies.
 37752510	Cytotoxicity, acute and sub-chronic toxicities of the leaves of Bauhinia thonningii (Schumach.) Milne-Redh. (Caesalpiniaceae).
@@ -9986,14 +9997,3 @@
 34400842	Southeast Asia is an emerging hotspot for COVID-19.
 34400834	Malaria parasite beats the heat.
 34400833	A heat-shock response regulated by the PfAP2-HS transcription factor protects human malaria parasites from febrile temperatures.
-34400687	Investigating differences in village-level heterogeneity of malaria infection and household risk factors in Papua New Guinea.
-34400523	CD8(+) and CD4(+) T Cells Infiltrate into the Brain during Plasmodium berghei ANKA Infection and Form Long-Term Resident Memory.
-34400098	Anopheles darlingi versus Nyssorhynchus darlingi, the discussion continues.
-34399829	Evaluation of two Plasmodium vivax sexual stage antigens as transmission-blocking vaccine candidates.
-34399778	Genetic polymorphism of the extracellular region in surface associated interspersed 1.1 gene of Plasmodium falciparum field isolates from Thailand.
-34399776	Contents and quality of travel tips on malaria in English and Spanish travel blogs.
-34399767	Investment case for malaria elimination in South Africa: a financing model for resource mobilization to accelerate regional malaria elimination.
-34399690	Experimental Babesia rossi infection induces hemolytic, metabolic, and viral response pathways in the canine host.
-34398886	Diagnostic performance of capillary and venous blood samples in the detection of Loa loa and Mansonella perstans microfilaraemia using light microscopy.
-34398819	The Performance of Immunoassays to Measure Antibodies to the Chlamydia trachomatis Antigen Pgp3 in Different Epidemiological Settings for Trachoma.
-34398667	Determinants of Primaquine and Carboxyprimaquine Exposures in Children and Adults with Plasmodium vivax Malaria.
