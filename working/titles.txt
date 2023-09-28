@@ -1,7 +1,8 @@
-37757322	Modern Aspects of Malaria Problems in Peace and War.
-37757169	Malaria Control in the Environment of the Cantonments.
-37757163	Quinine and Malaria.
-37757116	Notes on the Treatment of Subtertian Cerebral Malaria with Quinine and Galyl.
+37759299	Epidemiology of malaria in Rohingya refugee camps in Bangladesh within 2017-2020.
+37759277	Malaria vaccine coverage estimation using age-eligible populations and service user denominators in Kenya.
+37759213	Cost and quality of operational larviciding using drones and smartphone technology.
+37758795	Optimizing tick artificial membrane feeding for Ixodes scapularis.
+37757570	Pharmacokinetics of single low dose primaquine in Ugandan and Congolese children with falciparum malaria.
 37756402	Disentangling local and global climate drivers in the population dynamics of mosquito-borne infections.
 37756280	Development and evaluation of PlasmoPod: A cartridge-based nucleic acid amplification test for rapid malaria diagnosis and surveillance.
 37756147	Leveraging the MMV Pathogen Box to Engineer an Antifungal Compound with Improved Efficacy and Selectivity against Candida auris.
@@ -9996,4 +9997,3 @@
 34407160	Surveillance of molecular markers of antimalarial drug resistance in Plasmodium falciparum and Plasmodium vivax in Federally Administered Tribal Area (FATA), Pakistan.
 34405549	Risk factors of anaemia and iron deficiency in Somali children and women: Findings from the 2019 Somalia Micronutrient Survey.
 34405181	Perceived mental health, wellbeing and associated factors among Nepali male migrant and non-migrant workers: A qualitative study.
-34404814	A meta-analysis on the prevalence and characteristics of severe malaria in patients with Plasmodium spp. and HIV co-infection.
