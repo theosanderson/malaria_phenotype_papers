@@ -1,3 +1,10 @@
+37757322	Modern Aspects of Malaria Problems in Peace and War.
+37757169	Malaria Control in the Environment of the Cantonments.
+37757163	Quinine and Malaria.
+37757116	Notes on the Treatment of Subtertian Cerebral Malaria with Quinine and Galyl.
+37756402	Disentangling local and global climate drivers in the population dynamics of mosquito-borne infections.
+37756280	Development and evaluation of PlasmoPod: A cartridge-based nucleic acid amplification test for rapid malaria diagnosis and surveillance.
+37756147	Leveraging the MMV Pathogen Box to Engineer an Antifungal Compound with Improved Efficacy and Selectivity against Candida auris.
 37755916	Schistosoma Infection Burden and Risk Factors among School-Aged Children in a Rural Area of the Democratic Republic of the Congo.
 37755911	Stratification and Adaptation of Malaria Control Interventions in Chad.
 37755903	Malariometric Indices in the Context of Seasonal Malaria Chemoprevention in Children Aged 1.5 to 12 Years during the Period of High Malaria Transmission in the Suburban Area of Banfora, Burkina Faso.
@@ -9990,10 +9997,3 @@
 34405549	Risk factors of anaemia and iron deficiency in Somali children and women: Findings from the 2019 Somalia Micronutrient Survey.
 34405181	Perceived mental health, wellbeing and associated factors among Nepali male migrant and non-migrant workers: A qualitative study.
 34404814	A meta-analysis on the prevalence and characteristics of severe malaria in patients with Plasmodium spp. and HIV co-infection.
-34404783	In situ ultrastructures of two evolutionarily distant apicomplexan rhoptry secretion systems.
-34403544	Degradation of endothelial glycocalyx in Tanzanian children with falciparum malaria.
-34403450	A unique GCN5 histone acetyltransferase complex controls erythrocyte invasion and virulence in the malaria parasite Plasmodium falciparum.
-34401909	Insecticide-treated net distribution in Western Kenya: impacts related to COVID-19 and health worker strikes.
-34400842	Southeast Asia is an emerging hotspot for COVID-19.
-34400834	Malaria parasite beats the heat.
-34400833	A heat-shock response regulated by the PfAP2-HS transcription factor protects human malaria parasites from febrile temperatures.
