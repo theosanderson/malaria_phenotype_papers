@@ -1,8 +1,8 @@
 37759299	Epidemiology of malaria in Rohingya refugee camps in Bangladesh within 2017-2020.
-37759277	Malaria vaccine coverage estimation using age-eligible populations and service user denominators in Kenya.
 37759213	Cost and quality of operational larviciding using drones and smartphone technology.
 37758795	Optimizing tick artificial membrane feeding for Ixodes scapularis.
 37757570	Pharmacokinetics of single low dose primaquine in Ugandan and Congolese children with falciparum malaria.
+37759277	Malaria vaccine coverage estimation using age-eligible populations and service user denominators in Kenya.
 37756402	Disentangling local and global climate drivers in the population dynamics of mosquito-borne infections.
 37756280	Development and evaluation of PlasmoPod: A cartridge-based nucleic acid amplification test for rapid malaria diagnosis and surveillance.
 37756147	Leveraging the MMV Pathogen Box to Engineer an Antifungal Compound with Improved Efficacy and Selectivity against Candida auris.
