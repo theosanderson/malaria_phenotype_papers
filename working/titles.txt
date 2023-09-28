@@ -1,8 +1,26 @@
+37767540	Update on hydroxychloroquine use in pregnancy.
+37767407	Malaria in newborn: A missed entity for primary care physician.
+37767260	Intravenous Artesunate Treatment of Severe Malaria in a Patient With Systemic Lupus Erythematosus: A Case of Post-Artesunate Delayed Hemolysis.
+37766720	Morphological and molecular characteristics of Plasmodium juxtanucleare in layer chicken from three districts of Yogyakarta, Indonesia.
+37766306	Ecological Niche Modeling of Aedes and Culex Mosquitoes: A Risk Map for Chikungunya and West Nile Viruses in Zambia.
+37766129	Malaria Vaccines: From the Past towards the mRNA Vaccine Era.
+37765989	Investigating the Joint Amplitude and Phase Imaging of Stained Samples in Automatic Diagnosis.
+37764985	Case Series of Primaquine-Induced Haemolytic Events in Controlled Trials with G6PD Screening.
+37764921	Plasma Blood Levels of Tafenoquine following a Single Oral Dosage in BALBc Mice with Acute Babesia microti Infection That Resulted in Rapid Clearance of Microscopically Detectable Parasitemia.
+37764878	Transfection Models to Investigate Plasmodium vivax-Type Dormant Liver Stage Parasites.
+37764248	Evaluation of 4-Aminoquinoline Hydrazone Analogues as Potential Leads for Drug-Resistant Malaria.
+37764162	Host-Derived Extracellular Vesicles in Blood and Tissue Human Protozoan Infections.
+37764092	Molecular Mechanisms of Persistence in Protozoan Parasites.
+37764054	Using Cryopreserved Plasmodium falciparum Sporozoites in a Humanized Mouse Model to Study Early Malaria Infection Processes and Test Prophylactic Treatments.
+37763260	Current Status of Vector-Borne Diseases in Croatia: Challenges and Future Prospects.
+37762222	Starving the Beast: Limiting Coenzyme A Biosynthesis to Prevent Disease and Transmission in Malaria.
+37759990	The Association between Malaria and β-Carotene Levels: A Systematic Review and Meta-Analysis.
+37759779	GMP Synthetase: Allostery, Structure, and Function.
 37759299	Epidemiology of malaria in Rohingya refugee camps in Bangladesh within 2017-2020.
+37759277	Malaria vaccine coverage estimation using age-eligible populations and service user denominators in Kenya.
 37759213	Cost and quality of operational larviciding using drones and smartphone technology.
 37758795	Optimizing tick artificial membrane feeding for Ixodes scapularis.
 37757570	Pharmacokinetics of single low dose primaquine in Ugandan and Congolese children with falciparum malaria.
-37759277	Malaria vaccine coverage estimation using age-eligible populations and service user denominators in Kenya.
 37756402	Disentangling local and global climate drivers in the population dynamics of mosquito-borne infections.
 37756280	Development and evaluation of PlasmoPod: A cartridge-based nucleic acid amplification test for rapid malaria diagnosis and surveillance.
 37756147	Leveraging the MMV Pathogen Box to Engineer an Antifungal Compound with Improved Efficacy and Selectivity against Candida auris.
@@ -9979,21 +9997,3 @@
 34412450	A Case Report of Avian Malaria (Plasmodium spp.) in Pen-Reared Pigeons (Columba livia).
 34411416	Single polypeptide detection using a translocon EXP2 nanopore.
 34411157	Antimalarial drug resistance in the Central and Adamawa regions of Cameroon: Prevalence of mutations in P. falciparum crt, Pfmdr1, Pfdhfr and Pfdhps genes.
-34411093	Elucidating relationships between P.falciparum prevalence and measures of genetic diversity with a combined genetic-epidemiological model of malaria.
-34410927	Altering the Multimodal Resonance in Ultrathin Silicon Ring for Tunable THz Biosensing.
-34410358	Efficacy of Cipargamin (KAE609) in a Randomized, Phase II Dose-Escalation Study in Adults in Sub-Saharan Africa With Uncomplicated Plasmodium falciparum Malaria.
-34410162	Draft Genome Sequence of Bacillus velezensis Strain Marseille-Q1230, Isolated from a Stool Sample from a Severely Malnourished Child.
-34409176	Description of malaria epidemics and normal transmissions using rainfall variability in Gondar Zuria highland District, Ethiopia.
-34408654	Chloroquine and Hydroxychloroquine Use During Pregnancy and the Risk of Adverse Pregnancy Outcomes Using Real-World Evidence.
-34408631	Interaction Between the Complement System and Infectious Agents - A Potential Mechanistic Link to Neurodegeneration and Dementia.
-34408385	Free healthcare for some, fee-paying for the rest: adaptive practices and ethical issues in rural communities in the district of Boulsa, Burkina Faso.
-34407830	Anti-malarial drug: the emerging role of artemisinin and its derivatives in liver disease treatment.
-34407405	Neuronal odor coding in the larval sensory cone of Anopheles coluzzii: Complex responses from a simple system.
-34407273	Cotrimoxazole versus sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria in HIV-infected pregnant women in Bangui, Central African Republic: A pragmatic randomised controlled trial.
-34407221	Memory CD8(+) T cells exhibit tissue imprinting and non-stable exposure-dependent reactivation characteristics following blood-stage Plasmodium berghei ANKA infections.
-34407175	A Longitudinal, Observational Study of Etiology and Long-Term Outcomes of Sepsis in Malawi Revealing the Key Role of Disseminated Tuberculosis.
-34407162	New Distribution Records of Anopheles darlingi in Quintana Roo, Southeastern Mexico.
-34407161	Description of malaria vectors (Diptera: Culicidae) in two agricultural settlements in the Western Brazilian Amazon.
-34407160	Surveillance of molecular markers of antimalarial drug resistance in Plasmodium falciparum and Plasmodium vivax in Federally Administered Tribal Area (FATA), Pakistan.
-34405549	Risk factors of anaemia and iron deficiency in Somali children and women: Findings from the 2019 Somalia Micronutrient Survey.
-34405181	Perceived mental health, wellbeing and associated factors among Nepali male migrant and non-migrant workers: A qualitative study.
