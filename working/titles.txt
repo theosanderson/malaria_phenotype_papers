@@ -1,16 +1,22 @@
+37772444	Time-resolved proximity biotinylation implicates a porin protein in export of transmembrane malaria parasite effectors.
+37771953	Ethnomedicinal Knowledge of Plants Used in Nonconventional Medicine in the Management of Diabetes Mellitus in Kinshasa (Democratic Republic of the Congo).
+37771844	Clinical and Biological Characteristics of Severe Malaria in Children under 5 Years Old in Benin.
+37771251	Myxobolus xiushanensis n. sp. (Myxozoa: Myxobolidae) infecting the gill arches of Yellowhead Catfish Tachysurus fulvidraco from China.
+37770632	Immunological factors linked to geographical variation in vaccine responses.
 37769895	Determine the enzymatic kinetic characteristics of CYP3A4 variants utilizing artemether-lumefantrine.
 37769784	The sex-specific factor SOA controls dosage compensation in Anopheles mosquitos.
 37769577	Invasion-inhibitory peptides chosen by natural selection analysis as an antimalarial strategy.
 37769318	Malaria and Pregnancy: What Obstetricians Need to Know.
-37770632	Immunological factors linked to geographical variation in vaccine responses.
 37768924	Consequences of Type-2 diabetes mellitus and Malaria co-morbidity on sperm parameters in men; a case-control study in a district hospital in the Ashanti Region of Ghana.
 37767540	Update on hydroxychloroquine use in pregnancy.
 37767407	Malaria in newborn: A missed entity for primary care physician.
 37767260	Intravenous Artesunate Treatment of Severe Malaria in a Patient With Systemic Lupus Erythematosus: A Case of Post-Artesunate Delayed Hemolysis.
 37766720	Morphological and molecular characteristics of Plasmodium juxtanucleare in layer chicken from three districts of Yogyakarta, Indonesia.
 37766306	Ecological Niche Modeling of Aedes and Culex Mosquitoes: A Risk Map for Chikungunya and West Nile Viruses in Zambia.
+37766144	Unconjugated Multi-Epitope Peptides Adjuvanted with ALFQ Induce Durable and Broadly Reactive Antibodies to Human and Avian Influenza Viruses.
 37766129	Malaria Vaccines: From the Past towards the mRNA Vaccine Era.
 37765989	Investigating the Joint Amplitude and Phase Imaging of Stained Samples in Automatic Diagnosis.
+37765181	QS21-Initiated Fusion of Liposomal Small Unilamellar Vesicles to Form ALFQ Results in Concentration of Most of the Monophosphoryl Lipid A, QS21, and Cholesterol in Giant Unilamellar Vesicles.
 37764985	Case Series of Primaquine-Induced Haemolytic Events in Controlled Trials with G6PD Screening.
 37764921	Plasma Blood Levels of Tafenoquine following a Single Oral Dosage in BALBc Mice with Acute Babesia microti Infection That Resulted in Rapid Clearance of Microscopically Detectable Parasitemia.
 37764878	Transfection Models to Investigate Plasmodium vivax-Type Dormant Liver Stage Parasites.
@@ -9991,9 +9997,3 @@
 34414508	Establishment of a transient transfection system for Babesia sp. Xinjiang using homologous promoters.
 34414129	Lessons Learned for Pathogenesis, Immunology, and Disease of Erythrocytic Parasites: Plasmodium and Babesia.
 34413963	Structure-Activity Relationship Studies Reveal New Astemizole Analogues Active against Plasmodium falciparum In Vitro.
-34413944	Novel Compounds for Treating Malaria.
-34413459	Neutrophils dominate in opsonic phagocytosis of P. falciparum blood-stage merozoites and protect against febrile malaria.
-34413434	Classification for avian malaria parasite Plasmodium gallinaceum blood stages by using deep convolutional neural networks.
-34413238	Malaria infection and severe disease risks in Africa.
-34413225	Tracking severe malaria disease.
-34413219	Antibody acts like short-term malaria vaccine.
