@@ -1,3 +1,7 @@
+37773062	Optimization of long-lasting insecticidal bed nets for resistance management: a modelling study and user-friendly app.
+37772956	Erratum for Wichers-Misterek et al., "A Microtubule-Associated Protein Is Essential for Malaria Parasite Transmission".
+37772844	Morphological atypia and molecular profile of Plasmodium vivax: Findings from an outbreak in the Brazilian Amazon.
+37772768	Artesunate-mefloquine therapy for uncomplicated Plasmodium falciparum malaria: an updated systematic review and meta-analysis of efficacy and safety.
 37772444	Time-resolved proximity biotinylation implicates a porin protein in export of transmembrane malaria parasite effectors.
 37771953	Ethnomedicinal Knowledge of Plants Used in Nonconventional Medicine in the Management of Diabetes Mellitus in Kinshasa (Democratic Republic of the Congo).
 37771844	Clinical and Biological Characteristics of Severe Malaria in Children under 5 Years Old in Benin.
@@ -9993,7 +9997,3 @@
 34415920	Growth, secondary metabolite production, and in vitro antiplasmodial activity of Sonchus arvensis L. callus under dolomite [CaMg(CO3)2] treatment.
 34415788	Behavioral Risk Modeling for Pandemics: Overcoming Challenges and Advancing the Science.
 34415329	Functional analyses of plasmodium ferredoxin Asp97Tyr mutant related to artemisinin resistance of human malaria parasites.
-34414818	Obesity, dyslipidaemia and candidate gene polymorphisms: a cross-sectional study among the Liangmai and Mizo tribes of Manipur, India.
-34414508	Establishment of a transient transfection system for Babesia sp. Xinjiang using homologous promoters.
-34414129	Lessons Learned for Pathogenesis, Immunology, and Disease of Erythrocytic Parasites: Plasmodium and Babesia.
-34413963	Structure-Activity Relationship Studies Reveal New Astemizole Analogues Active against Plasmodium falciparum In Vitro.
