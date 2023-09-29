@@ -1,3 +1,8 @@
+37770632	Immunological factors linked to geographical variation in vaccine responses.
+37769895	Determine the enzymatic kinetic characteristics of CYP3A4 variants utilizing artemether-lumefantrine.
+37769784	The sex-specific factor SOA controls dosage compensation in Anopheles mosquitos.
+37769577	Invasion-inhibitory peptides chosen by natural selection analysis as an antimalarial strategy.
+37769318	Malaria and Pregnancy: What Obstetricians Need to Know.
 37768924	Consequences of Type-2 diabetes mellitus and Malaria co-morbidity on sperm parameters in men; a case-control study in a district hospital in the Ashanti Region of Ghana.
 37767540	Update on hydroxychloroquine use in pregnancy.
 37767407	Malaria in newborn: A missed entity for primary care physician.
@@ -9992,8 +9997,3 @@
 34413238	Malaria infection and severe disease risks in Africa.
 34413225	Tracking severe malaria disease.
 34413219	Antibody acts like short-term malaria vaccine.
-34412998	[Antimalaria therapy of chronic renal failure].
-34412700	Ecological and behavioural risk factors of scrub typhus in central Vietnam: a case-control study.
-34412651	Effectiveness of a long-lasting insecticide treatment kit (ICON® Maxx) for polyester nets over three years of household use: a WHO phase III trial in Tanzania.
-34412450	A Case Report of Avian Malaria (Plasmodium spp.) in Pen-Reared Pigeons (Columba livia).
-34411416	Single polypeptide detection using a translocon EXP2 nanopore.
