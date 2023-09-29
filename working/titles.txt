@@ -1,3 +1,4 @@
+37768924	Consequences of Type-2 diabetes mellitus and Malaria co-morbidity on sperm parameters in men; a case-control study in a district hospital in the Ashanti Region of Ghana.
 37767540	Update on hydroxychloroquine use in pregnancy.
 37767407	Malaria in newborn: A missed entity for primary care physician.
 37767260	Intravenous Artesunate Treatment of Severe Malaria in a Patient With Systemic Lupus Erythematosus: A Case of Post-Artesunate Delayed Hemolysis.
@@ -9996,4 +9997,3 @@
 34412651	Effectiveness of a long-lasting insecticide treatment kit (ICON® Maxx) for polyester nets over three years of household use: a WHO phase III trial in Tanzania.
 34412450	A Case Report of Avian Malaria (Plasmodium spp.) in Pen-Reared Pigeons (Columba livia).
 34411416	Single polypeptide detection using a translocon EXP2 nanopore.
-34411157	Antimalarial drug resistance in the Central and Adamawa regions of Cameroon: Prevalence of mutations in P. falciparum crt, Pfmdr1, Pfdhfr and Pfdhps genes.
