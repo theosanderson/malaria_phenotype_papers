@@ -1,8 +1,15 @@
+37777725	A field bioassay for assessing ivermectin bio-efficacy in wild malaria vectors.
+37777547	Association of reduced glutathione levels with Plasmodium falciparum and Plasmodium vivax malaria: a systematic review and meta-analysis.
+37777454	Bibliometric analysis of parasite vaccine research from 1990 to 2019.
+37777354	Corrigendum to: "Detection of Plasmodium knowlesi using recombinase polymerase amplification (RPA) combined with SYBR Green I" [volume 208, article number ACTROP_105511].
+37776883	Locally acquired malaria cases in the USA.
+37776879	Effectiveness of long-lasting insecticidal nets with pyriproxyfen-pyrethroid, chlorfenapyr-pyrethroid, or piperonyl butoxide-pyrethroid versus pyrethroid only against malaria in Tanzania: final-year results of a four-arm, single-blind, cluster-randomised trial.
+37776513	Discrete class I molecules on brain endothelium differentially regulate neuropathology in experimental cerebral malaria.
 37776013	Revelation of potential drug targets of luteolin in Plasmodium falciparum through multi-target molecular dynamics simulation studies.
 37775717	Host feeding preferences of malaria vectors in an area of low malaria transmission.
-37774706	A novel factor modulating X chromosome dosage compensation in Anopheles.
 37775221	Neena Valecha-stepping up malaria elimination efforts in southeast Asia.
 37774810	Functional characterization of a conserved membrane protein, Pbs54, involved in gamete fertilization in Plasmodium berghei.
+37774706	A novel factor modulating X chromosome dosage compensation in Anopheles.
 37773062	Optimization of long-lasting insecticidal bed nets for resistance management: a modelling study and user-friendly app.
 37772956	Erratum for Wichers-Misterek et al., "A Microtubule-Associated Protein Is Essential for Malaria Parasite Transmission".
 37772844	Morphological atypia and molecular profile of Plasmodium vivax: Findings from an outbreak in the Brazilian Amazon.
@@ -9990,10 +9997,3 @@
 34419123	Burden of malaria in children under five and caregivers' health-seeking behaviour for malaria-related symptoms in artisanal mining communities in Ghana.
 34419029	Demand for malaria rapid diagnostic test, health care-seeking behaviour, and drug use among rural community members with fever or malaria-like illness in Ebonyi state, Nigeria: a cross-sectional household survey.
 34418991	Limited polymorphism in k13 gene of Plasmodium falciparum and k12 of Plasmodium vivax isolates imported from African and Asian countries between 2014 and 2019 in Hangzhou city, China.
-34418990	Children with Plasmodium vivax infection previously observed in Namibia, were Duffy negative and carried a c.136G > A mutation.
-34418583	Potent and selective antiplasmodial activity of marine sponges from Bahia state, Brazil.
-34418264	Zinc finger proteins of Plasmodium falciparum.
-34417272	Effectiveness of intermittent preventive treatment in pregnancy with sulphadoxine-pyrimethamine (IPTp-SP) in Ghana.
-34416476	REAP (Rapid Elimination of Active Plasmodium): A photodynamic strategy exploiting intrinsic kinetics of the parasite to combat severe malaria.
-34416340	Resistance to artemisinin in falciparum malaria parasites: A redox-mediated phenomenon.
-34416195	Global, regional, and national progress towards Sustainable Development Goal 3.2 for neonatal and child health: all-cause and cause-specific mortality findings from the Global Burden of Disease Study 2019.
