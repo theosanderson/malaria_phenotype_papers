@@ -1,3 +1,9 @@
+37781764	Genetic diversity of Plasmodium vivax among immigrant patients exhibiting severe and non-severe clinical manifestations in northern suburbs of Paris.
+37781572	Antibody gene features associated with binding and functional activity in vaccine-derived human mAbs targeting malaria parasites.
+37781008	Dynamics of Plasmodium berghei NK-65 parasitaemia and CD3(+)CD4(+)CD25(+)Fox-p3(+) T-regulatory cells in experimentally induced malaria during early, mid, and late-pregnancy in BALB/c mice.
+37780646	What's needed to sustain malaria elimination in the Region of the Americas.
+37780642	Malaria innovation: new nets, old challenges.
+37779220	Plasmodium vivax Prevalence in Semiarid Region of Northern Kenya, 2019.
 37778462	Comparison of SYBR green I and lactate dehydrogenase antimalarial in vitro assay in Plasmodium falciparum field isolates.
 37778096	Ultrastructural alterations due to sodium metavanadate treatment in the blood stages of Plasmodium yoelii yoelii.
 37777725	A field bioassay for assessing ivermectin bio-efficacy in wild malaria vectors.
@@ -9991,9 +9997,3 @@
 34421996	Genetic Diversity Analysis of Surface-Related Antigen (SRA) in Plasmodium falciparum Imported From Africa to China.
 34421862	Conservation of S20 as an Ineffective and Disposable IFNγ-Inducing Determinant of Plasmodium Sporozoites Indicates Diversion of Cellular Immunity.
 34421631	Impact of Climate Change on Health and Well-Being of People in Hindu Kush Himalayan Region: A Narrative Review.
-34421489	How Could POCT be a Useful Tool for Migrant and Refugee Health?
-34420867	Anopheles darlingi versus Nyssorhynchus darlingi, response to the discussion.
-34420865	Plasmodium and malaria: adding to the don'ts.
-34419672	Mutations in Pfcrt and Pfmdr1 genes of Plasmodium falciparum isolates from two sites in Northcentral and Southwest Nigeria.
-34419140	Predatory and competitive interaction in Anopheles gambiae sensu lato larval breeding habitats in selected villages of central Uganda.
-34419123	Burden of malaria in children under five and caregivers' health-seeking behaviour for malaria-related symptoms in artisanal mining communities in Ghana.
