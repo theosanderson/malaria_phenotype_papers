@@ -1,3 +1,5 @@
+37778462	Comparison of SYBR green I and lactate dehydrogenase antimalarial in vitro assay in Plasmodium falciparum field isolates.
+37778096	Ultrastructural alterations due to sodium metavanadate treatment in the blood stages of Plasmodium yoelii yoelii.
 37777725	A field bioassay for assessing ivermectin bio-efficacy in wild malaria vectors.
 37777547	Association of reduced glutathione levels with Plasmodium falciparum and Plasmodium vivax malaria: a systematic review and meta-analysis.
 37777454	Bibliometric analysis of parasite vaccine research from 1990 to 2019.
@@ -9995,5 +9997,3 @@
 34419672	Mutations in Pfcrt and Pfmdr1 genes of Plasmodium falciparum isolates from two sites in Northcentral and Southwest Nigeria.
 34419140	Predatory and competitive interaction in Anopheles gambiae sensu lato larval breeding habitats in selected villages of central Uganda.
 34419123	Burden of malaria in children under five and caregivers' health-seeking behaviour for malaria-related symptoms in artisanal mining communities in Ghana.
-34419029	Demand for malaria rapid diagnostic test, health care-seeking behaviour, and drug use among rural community members with fever or malaria-like illness in Ebonyi state, Nigeria: a cross-sectional household survey.
-34418991	Limited polymorphism in k13 gene of Plasmodium falciparum and k12 of Plasmodium vivax isolates imported from African and Asian countries between 2014 and 2019 in Hangzhou city, China.
