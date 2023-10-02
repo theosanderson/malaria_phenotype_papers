@@ -1,3 +1,5 @@
+37782092	Quantifying Fitness Costs in Transgenic Aedes aegypti Mosquitoes.
+37781920	STING activation promotes autologous type I interferon-dependent development of type 1 regulatory T cells during malaria.
 37781764	Genetic diversity of Plasmodium vivax among immigrant patients exhibiting severe and non-severe clinical manifestations in northern suburbs of Paris.
 37781572	Antibody gene features associated with binding and functional activity in vaccine-derived human mAbs targeting malaria parasites.
 37781008	Dynamics of Plasmodium berghei NK-65 parasitaemia and CD3(+)CD4(+)CD25(+)Fox-p3(+) T-regulatory cells in experimentally induced malaria during early, mid, and late-pregnancy in BALB/c mice.
@@ -9995,5 +9997,3 @@
 34423077	Fever in the Returned Pediatric Traveler.
 34422853	Non-lactational Infectious Mastitis in the Americas: A Systematic Review.
 34421996	Genetic Diversity Analysis of Surface-Related Antigen (SRA) in Plasmodium falciparum Imported From Africa to China.
-34421862	Conservation of S20 as an Ineffective and Disposable IFNγ-Inducing Determinant of Plasmodium Sporozoites Indicates Diversion of Cellular Immunity.
-34421631	Impact of Climate Change on Health and Well-Being of People in Hindu Kush Himalayan Region: A Narrative Review.
