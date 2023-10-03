@@ -1,3 +1,6 @@
+37788045	Mansonella perstans Infection in a Gabonese Immigrant in Japan: An Illustrative Case of a Clinical Conundrum and Management Dilemma.
+37787788	Mitochondrial genome amplification of avian haemosporidian parasites from single-infected wildlife samples using a novel nested PCR approach.
+37787241	Ocular fundal changes in children suffering from cerebral malaria.
 37786955	Plasmodium vivax transcriptomics: What is new?
 37786779	Universal iron supplementation: the best strategy to tackle childhood anaemia in malaria-endemic countries?
 37786612	Expression of concern on: Immunoreactivity of sera from low to moderate malaria-endemic areas against plasmodium vivax rPvs48/45 proteins produced in Escherichia coli and Chinese hamster ovary systems.
@@ -9994,6 +9997,3 @@
 34425378	Genetic diversity and expression profile of Plasmodium falciparum Pf34 gene supports its immunogenicity.
 34425259	Development of Cooperative Primer-Based Real-Time PCR Assays for the Detection of Plasmodium malariae and Plasmodium ovale.
 34424859	Pyrethroid Resistance in Anopheles gambiae Not Associated with Insecticide-Treated Mosquito Net Effectiveness Across Sub-Saharan Africa.
-34424755	Lipopolysaccharide Preconditioning Augments Phagocytosis of Malaria-Parasitized Red Blood Cells by Bone Marrow-Derived Macrophages in the Liver, Thereby Increasing the Murine Survival after Plasmodium yoelii Infection.
-34424237	Preparing Lamellae from Vitreous Biological Samples using a Dual-Beam Scanning Electron Microscope for Cryo-Electron Tomography.
-34424053	Plasmodium falciparum-infected humanized mice: a viable preclinical tool.
