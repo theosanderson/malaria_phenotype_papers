@@ -1,3 +1,7 @@
+37784102	Using systems thinking to understand the scale-up and sustainability of health innovation: a case study of seasonal malaria chemoprevention processes in Burkina Faso.
+37783571	Hybrid PABA-glutamic acid conjugated 1,3,5-triazine derivatives: Design, synthesis, and antimalarial activity screening targeting Plasmodium falciparum dihydro folate reductase enzyme.
+37783460	Engagement with Traditional Healers for Early Detection of Plague in Uganda.
+37783456	Peripheral and Placental Prevalence of Sulfadoxine-Pyrimethamine Resistance Markers in Plasmodium falciparum among Pregnant Women in Southern Province, Rwanda.
 37782092	Quantifying Fitness Costs in Transgenic Aedes aegypti Mosquitoes.
 37781920	STING activation promotes autologous type I interferon-dependent development of type 1 regulatory T cells during malaria.
 37781764	Genetic diversity of Plasmodium vivax among immigrant patients exhibiting severe and non-severe clinical manifestations in northern suburbs of Paris.
@@ -9993,7 +9997,3 @@
 34423836	Analysis of the insecticide resistance mechanism in Anopheles culicifacies sensu lato from a malaria-endemic state in India.
 34423824	Qualitative Evaluation of the Africa Malaria Task Force Symposia Effectiveness on African Partner Nations' Malaria Vector Management Capacity.
 34423541	Reintroduced malaria in Queensland, Australia during the Second World War.
-34423387	Mammalian host microRNA response to plasmodial infection: role as therapeutic target and potential biomarker.
-34423077	Fever in the Returned Pediatric Traveler.
-34422853	Non-lactational Infectious Mastitis in the Americas: A Systematic Review.
-34421996	Genetic Diversity Analysis of Surface-Related Antigen (SRA) in Plasmodium falciparum Imported From Africa to China.
