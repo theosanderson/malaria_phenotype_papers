@@ -1,7 +1,10 @@
+37786955	Plasmodium vivax transcriptomics: What is new?
+37786779	Universal iron supplementation: the best strategy to tackle childhood anaemia in malaria-endemic countries?
+37786612	Expression of concern on: Immunoreactivity of sera from low to moderate malaria-endemic areas against plasmodium vivax rPvs48/45 proteins produced in Escherichia coli and Chinese hamster ovary systems.
+37784102	Using systems thinking to understand the scale-up and sustainability of health innovation: a case study of seasonal malaria chemoprevention processes in Burkina Faso.
 37783571	Hybrid PABA-glutamic acid conjugated 1,3,5-triazine derivatives: Design, synthesis, and antimalarial activity screening targeting Plasmodium falciparum dihydro folate reductase enzyme.
 37783460	Engagement with Traditional Healers for Early Detection of Plague in Uganda.
 37783456	Peripheral and Placental Prevalence of Sulfadoxine-Pyrimethamine Resistance Markers in Plasmodium falciparum among Pregnant Women in Southern Province, Rwanda.
-37784102	Using systems thinking to understand the scale-up and sustainability of health innovation: a case study of seasonal malaria chemoprevention processes in Burkina Faso.
 37782092	Quantifying Fitness Costs in Transgenic Aedes aegypti Mosquitoes.
 37781920	STING activation promotes autologous type I interferon-dependent development of type 1 regulatory T cells during malaria.
 37781764	Genetic diversity of Plasmodium vivax among immigrant patients exhibiting severe and non-severe clinical manifestations in northern suburbs of Paris.
@@ -9994,6 +9997,3 @@
 34424755	Lipopolysaccharide Preconditioning Augments Phagocytosis of Malaria-Parasitized Red Blood Cells by Bone Marrow-Derived Macrophages in the Liver, Thereby Increasing the Murine Survival after Plasmodium yoelii Infection.
 34424237	Preparing Lamellae from Vitreous Biological Samples using a Dual-Beam Scanning Electron Microscope for Cryo-Electron Tomography.
 34424053	Plasmodium falciparum-infected humanized mice: a viable preclinical tool.
-34423836	Analysis of the insecticide resistance mechanism in Anopheles culicifacies sensu lato from a malaria-endemic state in India.
-34423824	Qualitative Evaluation of the Africa Malaria Task Force Symposia Effectiveness on African Partner Nations' Malaria Vector Management Capacity.
-34423541	Reintroduced malaria in Queensland, Australia during the Second World War.
