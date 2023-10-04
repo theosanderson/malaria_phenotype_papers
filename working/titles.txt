@@ -1,3 +1,10 @@
+37789462	First field and laboratory evaluation of LAMP assay for malaria diagnosis in Cubal, Angola.
+37789458	Sub-lethal exposure to chlorfenapyr reduces the probability of developing Plasmodium falciparum parasites in surviving Anopheles mosquitoes.
+37789435	Exploring activities and behaviours potentially increases school-age children's vulnerability to malaria infections in south-eastern Tanzania.
+37789389	Effectiveness of piperonyl butoxide and pyrethroid-treated long-lasting insecticidal nets (LLINs) versus pyrethroid-only LLINs with and without indoor residual spray against malaria infection: third year results of a cluster, randomised controlled, two-by-two factorial design trial in Tanzania.
+37789320	The public health response to a Plasmodium malariae outbreak in Penampang district, Sabah during a COVID-19 movement control order.
+37789201	Second malaria vaccine to win global approval is cheaper and easier to make.
+37788741	Implications of asymptomatic malaria infections on hematological parameters in adults living with HIV in malaria endemic regions with varying transmission intensities.
 37788430	Conformational Tuning Shapes the Balance between Functional Promiscuity and Specialization in Paralogous Plasmodium Acyl-CoA Binding Proteins.
 37788095	Endothelial transcriptomic analysis identifies biomarkers of severe and cerebral malaria.
 37788045	Mansonella perstans Infection in a Gabonese Immigrant in Japan: An Illustrative Case of a Clinical Conundrum and Management Dilemma.
@@ -1629,7 +1636,7 @@
 37222351	Malaria and COVID-19 coinfection in a non-malaria-endemic area in Brazil.
 37221466	Phase 1 trial to model primary, secondary, and tertiary dengue using a monovalent vaccine.
 37221182	Plasmodium sporozoite search strategy to locate hotspots of blood vessel invasion.
-37221018	Seasonal malaria chemoprevention drug levels and drug resistance markers in children with or without malaria in Burkina Faso: a case control study.
+37221018	Seasonal Malaria Chemoprevention Drug Levels and Drug Resistance Markers in Children With or Without Malaria in Burkina Faso: A Case-Control Study.
 37220241	Gas-Phase Studies of Hypoxanthine-Guanine-(Xanthine) Phosphoribosyltransferase (HG(X)PRT) Substrates.
 37220111	Effect of milk protein and whey permeate in large quantity lipid-based nutrient supplement on linear growth and body composition among stunted children: A randomized 2 × 2 factorial trial in Uganda.
 37219776	Simulation of the potential impact of climate change on malaria incidence using artificial neural networks (ANNs).
@@ -9990,10 +9997,3 @@
 34426043	The Impact of 'Lockdown' on Medical Oncology Services in Sri Lanka.
 34425930	Novel Chloroquine Loaded Curcumin Based Anionic Linear Globular Dendrimer G2: A metabolomics study on Plasmodium falciparum in vitro using (1)H NMR spectroscopy CORRIGENDUM - CORRIGENDUM.
 34425898	Epidemiological characterization of imported recurrent Plasmodium vivax and Plasmodium ovale in China, 2013-2020.
-34425857	Predictors of knowledge and use of long-lasting insecticidal nets for the prevention of malaria among the pregnant women in Pakistan.
-34425839	Entomological baseline data collection and power analyses in preparation of a mosquito swarm-killing intervention in south-western Burkina Faso.
-34425801	Reduced risk of placental parasitemia associated with complement fixation on Plasmodium falciparum by antibodies among pregnant women.
-34425697	Organelle Dynamics in Apicomplexan Parasites.
-34425641	Chemical contaminant exposures assessed using silicone wristbands among occupants in office buildings in the USA, UK, China, and India.
-34425402	Changes in the structure of chorioamniotic membrane in patients with malaria in pregnancy.
-34425378	Genetic diversity and expression profile of Plasmodium falciparum Pf34 gene supports its immunogenicity.
