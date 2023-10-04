@@ -1,10 +1,10 @@
 37789462	First field and laboratory evaluation of LAMP assay for malaria diagnosis in Cubal, Angola.
-37789458	Sub-lethal exposure to chlorfenapyr reduces the probability of developing Plasmodium falciparum parasites in surviving Anopheles mosquitoes.
 37789435	Exploring activities and behaviours potentially increases school-age children's vulnerability to malaria infections in south-eastern Tanzania.
 37789389	Effectiveness of piperonyl butoxide and pyrethroid-treated long-lasting insecticidal nets (LLINs) versus pyrethroid-only LLINs with and without indoor residual spray against malaria infection: third year results of a cluster, randomised controlled, two-by-two factorial design trial in Tanzania.
 37789320	The public health response to a Plasmodium malariae outbreak in Penampang district, Sabah during a COVID-19 movement control order.
-37789201	Second malaria vaccine to win global approval is cheaper and easier to make.
 37788741	Implications of asymptomatic malaria infections on hematological parameters in adults living with HIV in malaria endemic regions with varying transmission intensities.
+37789458	Sub-lethal exposure to chlorfenapyr reduces the probability of developing Plasmodium falciparum parasites in surviving Anopheles mosquitoes.
+37789201	Second malaria vaccine to win global approval is cheaper and easier to make.
 37788430	Conformational Tuning Shapes the Balance between Functional Promiscuity and Specialization in Paralogous Plasmodium Acyl-CoA Binding Proteins.
 37788095	Endothelial transcriptomic analysis identifies biomarkers of severe and cerebral malaria.
 37788045	Mansonella perstans Infection in a Gabonese Immigrant in Japan: An Illustrative Case of a Clinical Conundrum and Management Dilemma.
