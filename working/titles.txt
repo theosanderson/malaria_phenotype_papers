@@ -1,3 +1,6 @@
+37791774	Natural immunity to malaria preferentially targets the endothelial protein C receptor-binding regions of PfEMP1s.
+37791750	Antimicrobial effects of Medicines for Malaria Venture Pathogen Box compounds on strains of Neisseria gonorrhoeae.
+37791589	Frenolicins H and I from the caterpillar-associated Streptomyces sp. TBRC17107.
 37791074	Regulation of phosphoinositide metabolism in Apicomplexan parasites.
 37791071	Endothelial type I interferon response and brain diseases: identifying STING as a therapeutic target.
 37790581	Can incorporating genotyping data into efficacy estimators improve efficiency of early phase malaria vaccine trials?
@@ -9994,6 +9997,3 @@
 34431917	Fixation of pfcrt chloroquine resistance alleles in Plasmodium falciparum clinical isolates collected from unrest tribal agencies of Pakistan.
 34431854	Mechanism of action of glycyrrhizin against Plasmodium falciparum.
 34430597	The lncRNA-miRNA-mRNA ceRNA network in mural granulosa cells of patients with polycystic ovary syndrome: an analysis of Gene Expression Omnibus data.
-34430453	Current Use of Ivermectin in Dermatology, Tropical Medicine, and COVID-19: An Update on Pharmacology, Uses, Proven and Varied Proposed Mechanistic Action.
-34430249	Multiplex serological assay for establishing serological profiles of polymorphic, closely related peptide antigens.
-34429884	Metabarcoding options to study eukaryotic endoparasites of birds.
