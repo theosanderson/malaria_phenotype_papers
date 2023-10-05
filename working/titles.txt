@@ -1,3 +1,5 @@
+37796022	ATP synthase-associated coiled-coil-helix-coiled-coil-helix (CHCH) domain-containing proteins are critical for mitochondrial function in Toxoplasma gondii.
+37795951	Population genomic analyses reveal population structure and major hubs of invasive Anopheles stephensi in the Horn of Africa.
 37795192	Cord Blood FGF-21 and GDF-15 Levels Are Affected by Maternal Exposure to Moderate to Severe Anemia and Malaria.
 37794496	First record of Anopheles (Anopheles) hyrcanus (Pallas 1771) (Diptera: Culicidae) in Poland.
 37794489	Community-based management of a five-arm randomised clinical trial in COVID-19 outpatients in South Africa: challenges and opportunities.
@@ -9995,5 +9997,3 @@
 34437538	The Truman Show for protozoan parasites: A review of in vitro cultivation platforms.
 34436509	Imatinib augments standard malaria combination therapy without added toxicity.
 34436417	Untargeted Metabolomics Uncovers the Essential Lysine Transporter in Toxoplasma gondii.
-34436349	Modulation of the Human Erythroid Plasma Membrane Calcium Pump (PMCA4b) Expression by Polymorphic Genetic Variants.
-34436284	Recent Developments on the Synthesis and Bioactivity of Ilamycins/Rufomycins and Cyclomarins, Marine Cyclopeptides That Demonstrate Anti-Malaria and Anti-Tuberculosis Activity.
