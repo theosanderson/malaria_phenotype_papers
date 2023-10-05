@@ -1,3 +1,6 @@
+37793057	Parasitic infections in hematopoietic stem cell transplant recipients.
+37792838	Falciparum Malaria-Induced Splenic Infarction.
+37792705	Prevalence of malaria and dengue co-infections among febrile patients during dengue transmission season in Kassala, eastern Sudan.
 37791774	Natural immunity to malaria preferentially targets the endothelial protein C receptor-binding regions of PfEMP1s.
 37791750	Antimicrobial effects of Medicines for Malaria Venture Pathogen Box compounds on strains of Neisseria gonorrhoeae.
 37791589	Frenolicins H and I from the caterpillar-associated Streptomyces sp. TBRC17107.
@@ -365,7 +368,7 @@
 37661286	Testing and treatment for malaria elimination: a systematic review.
 37661263	Description of the design of a mixed-methods study to assess the burden and determinants of malaria transmission for tailoring of interventions (microstratification) in Ibadan and Kano metropolis.
 37661202	Potential of near-infrared spectroscopy (NIRS) as a non-invasive diagnostic tool to contain a global outbreak of malaria.
-37660835	Strengthening adult mosquito surveillance in Africa for disease control: Learning from the present.
+37660835	Strengthening adult mosquito surveillance in Africa for disease control: learning from the present.
 37660709	Evaluation of a point-of-care test for the diagnosis of Taenia solium neurocysticercosis in rural southern Tanzania: a diagnostic accuracy study.
 37660559	A magnetic field augmented ultra-thin layer chromatography coupled surface enhanced Raman spectroscopy separation of hemozoin from bacterial mixture.
 37660526	A novel Babesia sp. of the "Western Babesia group", detected in opossums from Guatemala.
@@ -9994,6 +9997,3 @@
 34432975	Seasonal Malaria Vaccination with or without Seasonal Malaria Chemoprevention.
 34432487	Development of a Multiplex Bead Assay To Detect Immunoglobulin G Antibodies to Babesia duncani in Human Serum.
 34432020	Intraspecific Transcriptome Variation and Sex-Biased Expression in Anopheles arabiensis.
-34431917	Fixation of pfcrt chloroquine resistance alleles in Plasmodium falciparum clinical isolates collected from unrest tribal agencies of Pakistan.
-34431854	Mechanism of action of glycyrrhizin against Plasmodium falciparum.
-34430597	The lncRNA-miRNA-mRNA ceRNA network in mural granulosa cells of patients with polycystic ovary syndrome: an analysis of Gene Expression Omnibus data.
