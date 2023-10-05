@@ -1,3 +1,11 @@
+37794496	First record of Anopheles (Anopheles) hyrcanus (Pallas 1771) (Diptera: Culicidae) in Poland.
+37794489	Community-based management of a five-arm randomised clinical trial in COVID-19 outpatients in South Africa: challenges and opportunities.
+37794476	Association of apoptosis-related variants to malaria infection and parasite density in individuals from the Brazilian Amazon.
+37794466	Trends in retail sales of insecticide-treated nets and untreated nets in Tanzania: cross-section surveys.
+37794401	Bayesian belief network modelling approach for predicting and ranking risk factors for malaria infections among children under 5 years in refugee settlements in Uganda.
+37793932	Methods for measuring short-term geographical mobility used in infectious disease research: a scoping review protocol.
+37793915	Malaria vaccine-related adverse events among children under 5 in sub-Saharan Africa: systematic review and meta-analysis protocol.
+37793685	WHO recommends second vaccine for malaria prevention in children.
 37793057	Parasitic infections in hematopoietic stem cell transplant recipients.
 37792838	Falciparum Malaria-Induced Splenic Infarction.
 37792705	Prevalence of malaria and dengue co-infections among febrile patients during dengue transmission season in Kassala, eastern Sudan.
@@ -9989,11 +9997,3 @@
 34436349	Modulation of the Human Erythroid Plasma Membrane Calcium Pump (PMCA4b) Expression by Polymorphic Genetic Variants.
 34436284	Recent Developments on the Synthesis and Bioactivity of Ilamycins/Rufomycins and Cyclomarins, Marine Cyclopeptides That Demonstrate Anti-Malaria and Anti-Tuberculosis Activity.
 34435005	Malaria-associated secondary hemophagocytic lymphohistiocytosis: A case report.
-34434552	Knowledge assessment of anti-snake venom among healthcare practitioners in northern Nigeria.
-34434052	Prevalence, Parasite Density and Determinants of Falciparum Malaria Among Febrile Children in Some Peri-Urban Communities in Southwestern Nigeria: A Cross-Sectional Study.
-34433465	Antiplasmodial, antimalarial activities and toxicity of African medicinal plants: a systematic review of literature.
-34433057	Structural basis of malarial parasite RIFIN-mediated immune escape against LAIR1.
-34433049	Hemozoin-mediated inflammasome activation limits long-lived anti-malarial immunity.
-34432975	Seasonal Malaria Vaccination with or without Seasonal Malaria Chemoprevention.
-34432487	Development of a Multiplex Bead Assay To Detect Immunoglobulin G Antibodies to Babesia duncani in Human Serum.
-34432020	Intraspecific Transcriptome Variation and Sex-Biased Expression in Anopheles arabiensis.
