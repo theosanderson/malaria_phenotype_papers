@@ -1,3 +1,6 @@
+37798779	Effect of predators on Anopheles arabiensis and Anopheles funestus larval survivorship in Homa Bay County Western Kenya.
+37798547	Leveraging off higher plant phylogenetic insights for antiplasmodial drug discovery.
+37798302	Data-driven networking of global transcriptomics and male sexual development in the main malaria vector, Anopheles funestus.
 37797033	Second malaria vaccine gets WHO green light.
 37796723	Erythrocyte invasion-neutralising antibodies prevent Plasmodium falciparum RH5 from binding to basigin-containing membrane protein complexes.
 37796022	ATP synthase-associated coiled-coil-helix-coiled-coil-helix (CHCH) domain-containing proteins are critical for mitochondrial function in Toxoplasma gondii.
@@ -313,7 +316,7 @@
 37691847	Profiles of bacterial communities and environmental factors associated with proliferation of malaria vector mosquitoes within the Kenyan Coast.
 37691114	Malaria epidemiological characteristics and control in Guangzhou, China, 1950-2022.
 37691101	Purifying selection leads to low protein diversity of the mitochondrial cyt b gene in avian malaria parasites.
-37690774	Genomic complexity of parasites and vectors challenge malaria control in Southeast Asia.
+37690774	Genomic complexity of parasites and vectors challenges malaria control in Southeast Asia.
 37690111	Ceramicines U-Z from Chisocheton ceramicus and structure-antimalarial activity relationship study.
 37689681	Plasmodium falciparum population structure inferred by msp1 amplicon sequencing of parasites collected from febrile patients in Kenya.
 37689679	Anti-malarial activity of the alkaloid, heptaphylline, and the furanocoumarin, imperatorin, from Clausena anisata against human Plasmodium falciparum malaria parasites: ex vivo trophozoitocidal, schizonticidal and gametocytocidal approach.
@@ -9994,6 +9997,3 @@
 34439507	Malaria Pigment Hemozoin Impairs GM-CSF Receptor Expression and Function by 4-Hydroxynonenal.
 34438987	Ecdysteroids from the Stem Bark of Vitex doniana Sweet (Lamiaceae; ex. Verbenaceae): A Geographically Variable African Medicinal Species.
 34438033	Chemistry and bioactivity of plants from the genus Amomum.
-34438028	Kirenol: A promising bioactive metabolite from siegesbeckia species: A detailed review.
-34437804	Discovery and Structure-Activity Relationships of Quinazolinone-2-carboxamide Derivatives as Novel Orally Efficacious Antimalarials.
-34437538	The Truman Show for protozoan parasites: A review of in vitro cultivation platforms.
