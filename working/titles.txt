@@ -1,3 +1,5 @@
+37801038	Drug repurposing of Mito-Atovaquone for cancer treatment.
+37800971	A conserved metabolic signature associated with response to fast-acting anti-malarial agents.
 37800272	Verbal Autopsy to Assess Postdischarge Mortality in Children With Suspected Sepsis in Uganda.
 37799509	Diverse novel Wolbachia bacteria strains and genera-specific co-infections with Asaia bacteria in Culicine mosquitoes from ecologically diverse regions of Cameroon.
 37799339	Expression of concern: A multi-stage plasmodium vivax malaria vaccine candidate able to induce long-lived antibody responses against blood stage parasites and robust transmission-blocking activity.
@@ -9995,5 +9997,3 @@
 34442727	The Manifesto of Pharmacoenosis: Merging HIV Pharmacology into Pathocoenosis and Syndemics in Developing Countries.
 34442667	Microorganisms Associated with Mosquito Oviposition Sites: Implications for Habitat Selection and Insect Life Histories.
 34442510	Multilayer Thin-Film Optical Filters for Reflectance-Based Malaria Diagnostics.
-34442276	Colonization and Authentication of the Pyrethroid-Resistant Anopheles gambiae s.s. Muleba-Kis Strain; an Important Test System for Laboratory Screening of New Insecticides.
-34442258	Entomological Survey Confirms Changes in Mosquito Composition and Abundance in Senegal and Reveals Discrepancies among Results by Different Host-Seeking Female Traps.
