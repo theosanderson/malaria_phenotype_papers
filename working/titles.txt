@@ -1,3 +1,5 @@
+37797033	Second malaria vaccine gets WHO green light.
+37796723	Erythrocyte invasion-neutralising antibodies prevent Plasmodium falciparum RH5 from binding to basigin-containing membrane protein complexes.
 37796022	ATP synthase-associated coiled-coil-helix-coiled-coil-helix (CHCH) domain-containing proteins are critical for mitochondrial function in Toxoplasma gondii.
 37795951	Population genomic analyses reveal population structure and major hubs of invasive Anopheles stephensi in the Horn of Africa.
 37795192	Cord Blood FGF-21 and GDF-15 Levels Are Affected by Maternal Exposure to Moderate to Severe Anemia and Malaria.
@@ -9995,5 +9997,3 @@
 34438028	Kirenol: A promising bioactive metabolite from siegesbeckia species: A detailed review.
 34437804	Discovery and Structure-Activity Relationships of Quinazolinone-2-carboxamide Derivatives as Novel Orally Efficacious Antimalarials.
 34437538	The Truman Show for protozoan parasites: A review of in vitro cultivation platforms.
-34436509	Imatinib augments standard malaria combination therapy without added toxicity.
-34436417	Untargeted Metabolomics Uncovers the Essential Lysine Transporter in Toxoplasma gondii.
