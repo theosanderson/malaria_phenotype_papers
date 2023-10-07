@@ -1,3 +1,12 @@
+37803424	Assembly and phylogeographical analysis of novel Taenia solium mitochondrial genomes suggest stratification within the African-American genotype.
+37803381	Increasing prevalence of malaria and acute dengue virus coinfection in Africa: a meta-analysis and meta-regression of cross-sectional studies.
+37803372	Social determination of malaria in pregnancy in Colombia: a critical ethnographic study.
+37803351	One size does not fit all: an application of stochastic modeling to estimating primary healthcare needs in Ethiopia at the sub-national level.
+37803142	The contribution of risk perception and social norms to reported preventive behaviour against selected vector-borne diseases in Guyana.
+37802832	[Cardiovascular complications in malaria: a review].
+37802618	Health service needs and perspectives of a rainforest conserving community in Papua New Guinea's Ramu lowlands: a combined clinical and rapid anthropological assessment with parallel treatment of urgent cases.
+37802425	Changes in hypothalamic-pituitary-adrenal axis function, immunity, and glucose during acute Plasmodium relictum infection in house sparrows (Passer domesticus).
+37802029	Host receptor binding induces conformational changes in a PfEMP1 protein.
 37801466	Machine learning-based phenotypic imaging to characterise the targetable biology of Plasmodium falciparum male gametocytes for the development of transmission-blocking antimalarials.
 37801449	Ten years follow-up of the largest oral Chagas disease outbreak: Cardiological prospective cohort study.
 37801442	Healthcare provider-targeted mobile applications to diagnose, screen, or monitor communicable diseases of public health importance in low- and middle-income countries: A systematic review.
@@ -9988,12 +9997,3 @@
 34449765	Putative pathogen-selected polymorphisms in the PKLR gene are associated with mycobacterial susceptibility in Brazilian and African populations.
 34449764	Identification of the asymptomatic Plasmodium falciparum and Plasmodium vivax gametocyte reservoir under different transmission intensities.
 34449746	Blood Lead Levels and Subsequence Risk of Malaria in the African Population: A Systematic Review and Meta-Analysis.
-34447528	Discovery of benthol A and its challenging stereochemical assignment: opening up a new window for skeletal diversity of super-carbon-chain compounds.
-34447381	Strain-Dependent Inhibition of Erythrocyte Invasion by Monoclonal Antibodies Against Plasmodium falciparum CyRPA.
-34446549	Native structure of the RhopH complex, a key determinant of malaria parasite nutrient acquisition.
-34446188	Neurotoxic Zanthoxylum chalybeum root constituents invoke mosquito larval growth retardation through ecdysteroidogenic CYP450s transcriptional perturbations.
-34446033	Impact of cattle on the abundance of indoor and outdoor resting malaria vectors in southern Malawi.
-34446009	Clustering of malaria in households in the Greater Mekong Subregion: operational implications for reactive case detection.
-34445999	Transfusion-induced Plasmodium falciparum malaria in a beta thalassaemia patient during the prevention of re-establishment phase in Sri Lanka.
-34445997	Correction to: Evaluation of different deployment strategies for larviciding to control malaria: a simulation study.
-34445978	Individual, community and societal correlates of insecticide treated net use among pregnant women in sub-Saharan Africa: a multi-level analysis.
