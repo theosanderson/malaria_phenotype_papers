@@ -1,3 +1,7 @@
+37801466	Machine learning-based phenotypic imaging to characterise the targetable biology of Plasmodium falciparum male gametocytes for the development of transmission-blocking antimalarials.
+37801449	Ten years follow-up of the largest oral Chagas disease outbreak: Cardiological prospective cohort study.
+37801442	Healthcare provider-targeted mobile applications to diagnose, screen, or monitor communicable diseases of public health importance in low- and middle-income countries: A systematic review.
+37801405	Exploring the Binding Pathway of Novel Nonpeptidomimetic Plasmepsin V Inhibitors.
 37801038	Drug repurposing of Mito-Atovaquone for cancer treatment.
 37800971	A conserved metabolic signature associated with response to fast-acting anti-malarial agents.
 37800272	Verbal Autopsy to Assess Postdischarge Mortality in Children With Suspected Sepsis in Uganda.
@@ -9993,7 +9997,3 @@
 34445999	Transfusion-induced Plasmodium falciparum malaria in a beta thalassaemia patient during the prevention of re-establishment phase in Sri Lanka.
 34445997	Correction to: Evaluation of different deployment strategies for larviciding to control malaria: a simulation study.
 34445978	Individual, community and societal correlates of insecticide treated net use among pregnant women in sub-Saharan Africa: a multi-level analysis.
-34443327	Synthesis and Antiplasmodial Activity of Bisindolylcyclobutenediones.
-34442727	The Manifesto of Pharmacoenosis: Merging HIV Pharmacology into Pathocoenosis and Syndemics in Developing Countries.
-34442667	Microorganisms Associated with Mosquito Oviposition Sites: Implications for Habitat Selection and Insect Life Histories.
-34442510	Multilayer Thin-Film Optical Filters for Reflectance-Based Malaria Diagnostics.
