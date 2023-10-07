@@ -1,3 +1,4 @@
+37804095	Profiling the PfEMP1-specific IgG response among Ghanaian children with hemoglobin S and C.
 37803424	Assembly and phylogeographical analysis of novel Taenia solium mitochondrial genomes suggest stratification within the African-American genotype.
 37803381	Increasing prevalence of malaria and acute dengue virus coinfection in Africa: a meta-analysis and meta-regression of cross-sectional studies.
 37803372	Social determination of malaria in pregnancy in Colombia: a critical ethnographic study.
@@ -9996,4 +9997,3 @@
 34450011	GTP Cyclohydrolase I as a Potential Drug Target: New Insights into Its Allosteric Modulation via Normal Mode Analysis.
 34449765	Putative pathogen-selected polymorphisms in the PKLR gene are associated with mycobacterial susceptibility in Brazilian and African populations.
 34449764	Identification of the asymptomatic Plasmodium falciparum and Plasmodium vivax gametocyte reservoir under different transmission intensities.
-34449746	Blood Lead Levels and Subsequence Risk of Malaria in the African Population: A Systematic Review and Meta-Analysis.
