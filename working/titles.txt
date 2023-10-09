@@ -1,3 +1,5 @@
+37806761	Diarylpentanoids, the privileged scaffolds in antimalarial and anti-infectives drug discovery: A review.
+37806729	Vaccine Preventable Disease and Vaccine Hesitancy.
 37805828	Cerebrospinal fluid tumor necrosis factor-alpha (TNF-α) levels in children with cerebral malaria.
 37804095	Profiling the PfEMP1-specific IgG response among Ghanaian children with hemoglobin S and C.
 37803424	Assembly and phylogeographical analysis of novel Taenia solium mitochondrial genomes suggest stratification within the African-American genotype.
@@ -9995,5 +9997,3 @@
 34450073	Triumph in China as it is certified malaria-free by WHO.
 34450072	Travel notice issued as Venezuela faces health system crisis.
 34450071	Malaria vaccine development-where are we?
-34450011	GTP Cyclohydrolase I as a Potential Drug Target: New Insights into Its Allosteric Modulation via Normal Mode Analysis.
-34449765	Putative pathogen-selected polymorphisms in the PKLR gene are associated with mycobacterial susceptibility in Brazilian and African populations.
