@@ -1,3 +1,5 @@
+37815656	Maternal Profiles and Pregnancy Outcomes: A Descriptive Cross-Sectional Study from Angola.
+37815185	Proposition of In silico Pharmacophore Models for Malaria: A Review.
 37814468	Effects of anti-tau immunotherapy on reactive microgliosis, cerebral endotheliopathy, and cognitive function in an experimental model of cerebral malaria.
 37814316	Repellent efficacy of the nanogel containing Acroptilon repens essential oil in comparison with DEET against Anopheles stephensi.
 37814300	Space-time modelling of monthly malaria incidence for seasonal associated drivers and early epidemic detection in Southern Ethiopia.
@@ -224,7 +226,7 @@
 37738317	Characterization of the swarming behavior of Anopheles coluzzii and Anopheles gambiae (Diptera: Culicidae) populations in a hybrid zone of Senegal.
 37737828	When malaria imitates thrombotic thrombocytopenic purpura: the importance of patients' history and physicians' awareness of uncommon diseases.
 37737323	Life expectancy of Anopheles funestus is double that of Anopheles arabiensis in southeast Tanzania based on mark-release-recapture method.
-37737226	PerTurboID, A targeted in situ method reveals the impact of kinase deletion on its local protein environment in the cytoadhesion complex of malaria causing parasites.
+37737226	PerTurboID, a targeted in situ method reveals the impact of kinase deletion on its local protein environment in the cytoadhesion complex of malaria-causing parasites.
 37737220	Diverse evolutionary pathways challenge the use of collateral sensitivity as a strategy to suppress resistance.
 37737120	An Early Epidemiological Investigation of COVID-19 in Parsa, Nepal.
 37735805	Plasmodium knowlesi Infection in Traveler Returning to Canada from the Philippines, 2023.
@@ -9995,5 +9997,3 @@
 34453535	Efficacy of dihydroartemisinin/piperaquine in patients with non-complicated Plasmodium falciparum malaria in Yaoundé, Cameroon.
 34453327	Unanticipated CNS Safety Signal in a Placebo-Controlled, Randomized Trial of Co-Administered Atovaquone-Proguanil and Amodiaquine.
 34453084	Analysis of Acanthamoeba genotypes from public freshwater sources in Thailand reveals a new genotype, T23 Acanthamoeba bangkokensis sp. nov.
-34452941	Indirect effects of COVID-19 on maternal, neonatal, child, sexual and reproductive health services in Kampala, Uganda.
-34452759	Optimisation of 2-(N-phenyl carboxamide) triazolopyrimidine antimalarials with moderate to slow acting erythrocytic stage activity.
