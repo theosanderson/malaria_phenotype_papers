@@ -1,3 +1,10 @@
+37814316	Repellent efficacy of the nanogel containing Acroptilon repens essential oil in comparison with DEET against Anopheles stephensi.
+37814300	Space-time modelling of monthly malaria incidence for seasonal associated drivers and early epidemic detection in Southern Ethiopia.
+37814287	Spatial analyses of Plasmodium knowlesi vectors with reference to control interventions in Malaysia.
+37814267	Interventions for promoting patients' adherence to 14-day primaquine treatment in a highly malaria-endemic township in Myanmar: a qualitative study among key stakeholders.
+37814260	A fatal respiratory complication of malaria caused by Plasmodium vivax.
+37813539	Efficacy and safety of pyronaridine-artesunate (PYRAMAX) for the treatment of P. falciparum uncomplicated malaria in African pregnant women (PYRAPREG): study protocol for a phase 3, non-inferiority, randomised open-label clinical trial.
+37813288	Annickia affinis (Exell) Versteegh & Sosef methanol stembark extract, potent fractions and isolated Berberine alkaloid target both blood and liver stages of Plasmodiumfalciparum.
 37812650	Cellular iron governs the host response to malaria.
 37812606	Correction: Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia.
 37811342	Spatial Optimization Methods for Malaria Risk Mapping in Sub-Saharan African Cities Using Demographic and Health Surveys.
@@ -9990,10 +9997,3 @@
 34452941	Indirect effects of COVID-19 on maternal, neonatal, child, sexual and reproductive health services in Kampala, Uganda.
 34452759	Optimisation of 2-(N-phenyl carboxamide) triazolopyrimidine antimalarials with moderate to slow acting erythrocytic stage activity.
 34452723	COVID-19 and malaria, a tale of two diseases.
-34452364	Exosome-Based Vaccines: Pros and Cons in the World of Animal Health.
-34452347	Pathology and Pathogenesis of Eurasian Blackbirds (Turdus merula) Naturally Infected with Usutu Virus.
-34452235	Prevalence of Mutations in the pfcoronin Gene and Association with Ex Vivo Susceptibility to Common Quinoline Drugs against Plasmodium falciparum.
-34452189	Electrospun Nanofibers of Polycaprolactone/Collagen as a Sustained-Release Drug Delivery System for Artemisinin.
-34451980	Guiding the Immune Response to a Conserved Epitope in MSP2, an Intrinsically Disordered Malaria Vaccine Candidate.
-34451854	Fluorescence Cross-Correlation Spectroscopy Yields True Affinity and Binding Kinetics of Plasmodium Lactate Transport Inhibitors.
-34451840	A Novel Cardenolide Glycoside Isolated from Xysmalobium undulatum Reduces Levels of the Alzheimer's Disease-Associated β-Amyloid Peptides Aβ42 In Vitro.
