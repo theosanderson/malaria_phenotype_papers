@@ -1,3 +1,5 @@
+37812650	Cellular iron governs the host response to malaria.
+37812606	Correction: Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia.
 37811342	Spatial Optimization Methods for Malaria Risk Mapping in Sub-Saharan African Cities Using Demographic and Health Surveys.
 37811200	Brain-localized CD4 and CD8 T cells perform correlated random walks and not Levy walks.
 37810721	In Silico and In Vitro Potential of FDA-Approved Drugs for Antimalarial Drug Repurposing against Plasmodium Serine Hydroxymethyltransferases.
@@ -9995,5 +9997,3 @@
 34451980	Guiding the Immune Response to a Conserved Epitope in MSP2, an Intrinsically Disordered Malaria Vaccine Candidate.
 34451854	Fluorescence Cross-Correlation Spectroscopy Yields True Affinity and Binding Kinetics of Plasmodium Lactate Transport Inhibitors.
 34451840	A Novel Cardenolide Glycoside Isolated from Xysmalobium undulatum Reduces Levels of the Alzheimer's Disease-Associated β-Amyloid Peptides Aβ42 In Vitro.
-34451821	2-Phenoxy-3-Trichloromethylquinoxalines Are Antiplasmodial Derivatives with Activity against the Apicoplast of Plasmodium falciparum.
-34451527	Gut Microbiota in Military International Travelers with Doxycycline Malaria Prophylaxis: Towards the Risk of a Simpson Paradox in the Human Microbiome Field.
