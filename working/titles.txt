@@ -1,10 +1,10 @@
-37814316	Repellent efficacy of the nanogel containing Acroptilon repens essential oil in comparison with DEET against Anopheles stephensi.
 37814300	Space-time modelling of monthly malaria incidence for seasonal associated drivers and early epidemic detection in Southern Ethiopia.
 37814287	Spatial analyses of Plasmodium knowlesi vectors with reference to control interventions in Malaysia.
 37814267	Interventions for promoting patients' adherence to 14-day primaquine treatment in a highly malaria-endemic township in Myanmar: a qualitative study among key stakeholders.
 37814260	A fatal respiratory complication of malaria caused by Plasmodium vivax.
 37813539	Efficacy and safety of pyronaridine-artesunate (PYRAMAX) for the treatment of P. falciparum uncomplicated malaria in African pregnant women (PYRAPREG): study protocol for a phase 3, non-inferiority, randomised open-label clinical trial.
 37813288	Annickia affinis (Exell) Versteegh & Sosef methanol stembark extract, potent fractions and isolated Berberine alkaloid target both blood and liver stages of Plasmodiumfalciparum.
+37814316	Repellent efficacy of the nanogel containing Acroptilon repens essential oil in comparison with DEET against Anopheles stephensi.
 37812650	Cellular iron governs the host response to malaria.
 37812606	Correction: Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia.
 37811342	Spatial Optimization Methods for Malaria Risk Mapping in Sub-Saharan African Cities Using Demographic and Health Surveys.
