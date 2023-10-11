@@ -1,3 +1,8 @@
+37819760	Probing cerebral malaria inflammation in 3D human brain microvessels.
+37819580	Plasmodium falciparum OPA3-like protein (PfOPA3) is essential for maintenance of mitochondrial homeostasis and parasite proliferation.
+37819130	Creation of a non-Western humanized gnotobiotic mouse model through the transplantation of rural African fecal microbiota.
+37819113	Comparison of two novel one-tube nested real-time qPCR assays to detect human-infecting Cyclospora spp.
+37819090	Identification of potential inhibitors of casein kinase 2 alpha of Plasmodium falciparum with potent in vitro activity.
 37817240	Effect of adherence to primaquine on the risk of Plasmodium vivax recurrence: a WorldWide Antimalarial Resistance Network systematic review and individual patient data meta-analysis.
 37817185	Community knowledge, attitude, practices and beliefs associated with persistence of malaria transmission in North-western and Southern regions of Tanzania.
 37817161	The perception and interpretation of malaria among Chinese construction workers in sub-Saharan Africa: a qualitative study.
@@ -9992,8 +9997,3 @@
 34458108	An Overview of Healthcare Systems in Comoros: The Effects of Two Decades of Political Instability.
 34458091	Prevalence and genetic diversity of Haemoproteus and Plasmodium in raptors from Thailand: Data from rehabilitation center.
 34457209	Infection or drug toxicity? Acute ataxia and encephalopathy after uncomplicated falciparum malaria and efavirenz dose adjustment.
-34457207	The participation of community pharmacists in the case management of malaria in Enugu metropolis, Nigeria: a cross-sectional survey.
-34457017	Chemical Composition, Pharmacological, and Toxicological Effects of Betel Nut.
-34456927	G6pd-Deficient Mice Are Protected From Experimental Cerebral Malaria and Liver Injury by Suppressing Proinflammatory Response in the Early Stage of Plasmodium berghei Infection.
-34455438	Using a new three-dimensional CUBIC tissue-clearing method to examine the brain during experimental cerebral malaria.
-34455306	The metabolic pathways and transporters of the plastid organelle in Apicomplexa.
