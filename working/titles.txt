@@ -1,3 +1,9 @@
+37817185	Community knowledge, attitude, practices and beliefs associated with persistence of malaria transmission in North-western and Southern regions of Tanzania.
+37817161	The perception and interpretation of malaria among Chinese construction workers in sub-Saharan Africa: a qualitative study.
+37816938	Multiclass malaria parasite recognition based on transformer models and a generative adversarial network.
+37816683	Antimalarial Lanostane Dimers from Artificially Cultivated Fruiting Bodies of Ganoderma weberianum.
+37816434	Dihydroartemisinin-piperaquine efficacy in Plasmodium falciparum treatment and prevalence of drug-resistant molecular markers along China-Myanmar border in 2014-2023.
+37816283	Highly sensitive detection of malaria biomarker through matching channel and gate capacitance of integrated organic electrochemical transistors.
 37815656	Maternal Profiles and Pregnancy Outcomes: A Descriptive Cross-Sectional Study from Angola.
 37815185	Proposition of In silico Pharmacophore Models for Malaria: A Review.
 37814468	Effects of anti-tau immunotherapy on reactive microgliosis, cerebral endotheliopathy, and cognitive function in an experimental model of cerebral malaria.
@@ -9991,9 +9997,3 @@
 34455438	Using a new three-dimensional CUBIC tissue-clearing method to examine the brain during experimental cerebral malaria.
 34455306	The metabolic pathways and transporters of the plastid organelle in Apicomplexa.
 34454501	Comparing insecticide-treated nets access-use based on universal household and population indicators vis-a-vis measures adapted to sleeping spaces in Ethiopia.
-34454483	Assessing community knowledge, attitude and practices to strengthen communication strategy for Malaria Elimination Demonstration Project in Mandla.
-34454443	Malaria vector dynamics and utilization of insecticide-treated nets in low-transmission setting in Southwest Ethiopia: implications for residual transmission.
-34453537	Flowcytometric and ImageStream Rna-Fish Gene Expression, Quantification and Phenotypic Characterization of Blood Sporozoites and Sporozoites From Human Malaria Species.
-34453535	Efficacy of dihydroartemisinin/piperaquine in patients with non-complicated Plasmodium falciparum malaria in Yaoundé, Cameroon.
-34453327	Unanticipated CNS Safety Signal in a Placebo-Controlled, Randomized Trial of Co-Administered Atovaquone-Proguanil and Amodiaquine.
-34453084	Analysis of Acanthamoeba genotypes from public freshwater sources in Thailand reveals a new genotype, T23 Acanthamoeba bangkokensis sp. nov.
