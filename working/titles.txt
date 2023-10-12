@@ -1,3 +1,4 @@
+37819921	Almajiri health; a scoping review on disease, health literacy and space for participatory research.
 37819760	Probing cerebral malaria inflammation in 3D human brain microvessels.
 37819580	Plasmodium falciparum OPA3-like protein (PfOPA3) is essential for maintenance of mitochondrial homeostasis and parasite proliferation.
 37819130	Creation of a non-Western humanized gnotobiotic mouse model through the transplantation of rural African fecal microbiota.
@@ -9996,4 +9997,3 @@
 34458588	Ethical, Regulatory and Market related aspects of Deploying Triple Artemisinin-Based Combination Therapies for Malaria treatment in Africa: A study protocol.
 34458108	An Overview of Healthcare Systems in Comoros: The Effects of Two Decades of Political Instability.
 34458091	Prevalence and genetic diversity of Haemoproteus and Plasmodium in raptors from Thailand: Data from rehabilitation center.
-34457209	Infection or drug toxicity? Acute ataxia and encephalopathy after uncomplicated falciparum malaria and efavirenz dose adjustment.
