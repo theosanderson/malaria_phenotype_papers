@@ -14,6 +14,7 @@
 37821479	Author Correction: Molecular surveillance of Plasmodium falciparum drug-resistance markers in Vietnam using multiplex amplicon sequencing (2000-2016).
 37821137	Effects of COVID-19 on malaria elimination initiatives in sub-Saharan Africa: a scoping review protocol.
 37821073	Anti-phospholipid autoantibodies in human diseases.
+37813539	Efficacy and safety of pyronaridine-artesunate (PYRAMAX) for the treatment of P. falciparum uncomplicated malaria in African pregnant women (PYRAPREG): study protocol for a phase 3, non-inferiority, randomised open-label clinical trial.
 37819921	Almajiri health; a scoping review on disease, health literacy and space for participatory research.
 37819760	Probing cerebral malaria inflammation in 3D human brain microvessels.
 37819580	Plasmodium falciparum OPA3-like protein (PfOPA3) is essential for maintenance of mitochondrial homeostasis and parasite proliferation.
@@ -36,7 +37,6 @@
 37814267	Interventions for promoting patients' adherence to 14-day primaquine treatment in a highly malaria-endemic township in Myanmar: a qualitative study among key stakeholders.
 37814260	A fatal respiratory complication of malaria caused by Plasmodium vivax.
 37813288	Annickia affinis (Exell) Versteegh & Sosef methanol stembark extract, potent fractions and isolated Berberine alkaloid target both blood and liver stages of Plasmodiumfalciparum.
-37813539	Efficacy and safety of pyronaridine-artesunate (PYRAMAX) for the treatment of P. falciparum uncomplicated malaria in African pregnant women (PYRAPREG): study protocol for a phase 3, non-inferiority, randomised open-label clinical trial.
 37812650	Cellular iron governs the host response to malaria.
 37812606	Correction: Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia.
 37811342	Spatial Optimization Methods for Malaria Risk Mapping in Sub-Saharan African Cities Using Demographic and Health Surveys.
