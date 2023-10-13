@@ -1,12 +1,14 @@
+37829607	IgM antibody responses against Plasmodium antigens in neotropical primates in the Brazilian Atlantic Forest.
+37829240	Epidemiological shifts: the emergence of malaria in America.
+37828524	Assessing caregivers' perceptions of treatment-seeking for suspected severe malaria in the Democratic Republic of the Congo.
 37828249	Malaria & mRNA Vaccines: A Possible Salvation from One of the Most Relevant Infectious Diseases of the Global South.
 37828012	Clinically relevant atovaquone-resistant human malaria parasites fail to transmit by mosquito.
-37827586	Biphosphoglycerate Mutase: A Novel Therapeutic Target for Malaria?
-37827299	In vitro and in silico anti-malarial activity and cytotoxicity of n-hexyl 1-O-rutinoside (a glycoside) isolated from Annickia polycarpa (DC.) Setten and Maas ex I.M. turner. (Annonaceae).
-37828524	Assessing caregivers' perceptions of treatment-seeking for suspected severe malaria in the Democratic Republic of the Congo.
 37828011	Cryo-electron microscopy of IgM-VAR2CSA complex reveals IgM inhibits binding of Plasmodium falciparum to Chondroitin Sulfate A.
 37827967	Antibodies elicited by Plasmodium falciparum circumsporozoite proteins lacking sequentially deleted C-terminal amino acids reveal mouse strain and epitopes specific differences.
 37827961	Bottoms up! Malaria parasite invasion the right way around.
 37827924	Corrigendum to "Genetic polymorphism of circumsporozoite protein (CSP) in Plasmodium malariae isolates from Malaysia" [Parasitology International Volume 87, April 2022, 102519].
+37827586	Biphosphoglycerate Mutase: A Novel Therapeutic Target for Malaria?
+37827299	In vitro and in silico anti-malarial activity and cytotoxicity of n-hexyl 1-O-rutinoside (a glycoside) isolated from Annickia polycarpa (DC.) Setten and Maas ex I.M. turner. (Annonaceae).
 37824592	Clinical performance validation of the STANDARD G6PD test: A multi-country pooled analysis.
 37824491	Association between malaria and undernutrition among pregnant women at presentation for antenatal care in health facilities in the Mount Cameroon region.
 37824458	Mechanistic insights into the interaction between the host gut microbiome and malaria.
@@ -9995,5 +9997,3 @@
 34469115	Two-Color Duplex Platform for Point-of-Care Differential Detection of Malaria and Typhoid Fever.
 34468883	In silico analysis and molecular identification of an anaphase-promoting complex homologue from human pathogen Entamoeba histolytica.
 34468526	Molecular Epidemiology of Plasmodium species in Conflicted Federally Administered Tribal Area (FATA) Pakistan.
-34468515	Studies on parasitic prevalence in pet birds from Punjab, Pakistan.
-34467559	A protein palmitoylation cascade regulates microtubule cytoskeleton integrity in Plasmodium.
