@@ -1,12 +1,12 @@
-37828524	Assessing caregivers' perceptions of treatment-seeking for suspected severe malaria in the Democratic Republic of the Congo.
 37828249	Malaria & mRNA Vaccines: A Possible Salvation from One of the Most Relevant Infectious Diseases of the Global South.
 37828012	Clinically relevant atovaquone-resistant human malaria parasites fail to transmit by mosquito.
+37827586	Biphosphoglycerate Mutase: A Novel Therapeutic Target for Malaria?
+37827299	In vitro and in silico anti-malarial activity and cytotoxicity of n-hexyl 1-O-rutinoside (a glycoside) isolated from Annickia polycarpa (DC.) Setten and Maas ex I.M. turner. (Annonaceae).
+37828524	Assessing caregivers' perceptions of treatment-seeking for suspected severe malaria in the Democratic Republic of the Congo.
 37828011	Cryo-electron microscopy of IgM-VAR2CSA complex reveals IgM inhibits binding of Plasmodium falciparum to Chondroitin Sulfate A.
 37827967	Antibodies elicited by Plasmodium falciparum circumsporozoite proteins lacking sequentially deleted C-terminal amino acids reveal mouse strain and epitopes specific differences.
 37827961	Bottoms up! Malaria parasite invasion the right way around.
 37827924	Corrigendum to "Genetic polymorphism of circumsporozoite protein (CSP) in Plasmodium malariae isolates from Malaysia" [Parasitology International Volume 87, April 2022, 102519].
-37827586	Biphosphoglycerate Mutase: A Novel Therapeutic Target for Malaria?
-37827299	In vitro and in silico anti-malarial activity and cytotoxicity of n-hexyl 1-O-rutinoside (a glycoside) isolated from Annickia polycarpa (DC.) Setten and Maas ex I.M. turner. (Annonaceae).
 37824592	Clinical performance validation of the STANDARD G6PD test: A multi-country pooled analysis.
 37824491	Association between malaria and undernutrition among pregnant women at presentation for antenatal care in health facilities in the Mount Cameroon region.
 37824458	Mechanistic insights into the interaction between the host gut microbiome and malaria.
