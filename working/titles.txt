@@ -1,3 +1,6 @@
+37831367	Proteome Analysis for Inflammation Related to Acute and Convalescent Infection.
+37831282	Antimalarial Activity of Anacardium occidentale Leaf Extracts Against Plasmodium falciparum Transketolase (PfTK).
+37830482	Gastrointestinal tract pathology of the owl monkey (Aotus spp.).
 37829607	IgM antibody responses against Plasmodium antigens in neotropical primates in the Brazilian Atlantic Forest.
 37829240	Epidemiological shifts: the emergence of malaria in America.
 37828524	Assessing caregivers' perceptions of treatment-seeking for suspected severe malaria in the Democratic Republic of the Congo.
@@ -9994,6 +9997,3 @@
 34469560	Nasopharyngeal Carriage of Streptococcus pneumoniae Among Young Children in Haiti Before Pneumococcal Conjugate Vaccine Introduction.
 34469444	Measuring the accuracy of gridded human population density surfaces: A case study in Bioko Island, Equatorial Guinea.
 34469400	Acute Movement Disorders in Childhood: A Cohort Study and Review of the Literature.
-34469115	Two-Color Duplex Platform for Point-of-Care Differential Detection of Malaria and Typhoid Fever.
-34468883	In silico analysis and molecular identification of an anaphase-promoting complex homologue from human pathogen Entamoeba histolytica.
-34468526	Molecular Epidemiology of Plasmodium species in Conflicted Federally Administered Tribal Area (FATA) Pakistan.
