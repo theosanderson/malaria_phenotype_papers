@@ -1,3 +1,9 @@
+37825157	Summer, Malaria, &c.
+37824592	Clinical performance validation of the STANDARD G6PD test: A multi-country pooled analysis.
+37824491	Association between malaria and undernutrition among pregnant women at presentation for antenatal care in health facilities in the Mount Cameroon region.
+37824458	Mechanistic insights into the interaction between the host gut microbiome and malaria.
+37824424	Notes from the Field: Locally Acquired Mosquito-Transmitted (Autochthonous) Plasmodium falciparum Malaria - National Capital Region, Maryland, August 2023.
+37824364	Variation in neutrophil levels and artemisinin-based combination therapy efficacy in West-Africa.
 37822844	Reflections on the surge in malaria cases after unprecedented flooding in Pakistan-A commentary.
 37822789	Morphological and molecular insights into the diversity of Leptoconops biting midges from a heavily infested Mediterranean area.
 37822760	Absence of Asymptomatic Malaria Reservoirs in an Area with a Previous History of Local Malaria Transmission: A Successful Experience in Line with the Malaria Elimination Program in Iran.
@@ -9991,9 +9997,3 @@
 36570383	The COVID-19 crisis and Amazonia's indigenous people: Implications for conservation and global health.
 34464757	Imported malaria in metropolitan France, from recommendations to clinical practice - proposal for improvement.
 34464699	Methanol extract from the seeds of Persea americana displays antibacterial and wound healing activities in rat model.
-34464588	A brief history of selected malaria vaccine and medical interventions pursued by the Swiss Tropical and Public Health Institute and partners, 1943-2021.
-34464398	To what extent are the antimalarial markets in African countries ready for a transition to triple artemisinin-based combination therapies?
-34463093	Binding of Chloroquine to Whey Protein Relieves Its Cytotoxicity while Enhancing Its Uptake by Cells.
-34462438	Subclass and avidity of circumsporozoite protein specific antibodies associate with protection status against malaria infection.
-34462413	Knowledge of Antimalarials and Health Seeking Behaviour of Households in Case of Suspected Malaria in Democratic Republic of the Congo.
-34461911	Transfluthrin eave-positioned targeted insecticide (EPTI) reduces human landing rate (HLR) of pyrethroid resistant and susceptible malaria vectors in a semi-field simulated peridomestic space.
