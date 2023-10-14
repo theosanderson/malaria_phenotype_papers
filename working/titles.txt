@@ -1,3 +1,4 @@
+37832027	Plasmodium falciparum exploits CD44 as a co-receptor for erythrocyte invasion.
 37831367	Proteome Analysis for Inflammation Related to Acute and Convalescent Infection.
 37831282	Antimalarial Activity of Anacardium occidentale Leaf Extracts Against Plasmodium falciparum Transketolase (PfTK).
 37830482	Gastrointestinal tract pathology of the owl monkey (Aotus spp.).
@@ -9996,4 +9997,3 @@
 34470050	Decreased parasite burden and altered host response in children with sickle cell anemia and severe anemia with malaria.
 34469560	Nasopharyngeal Carriage of Streptococcus pneumoniae Among Young Children in Haiti Before Pneumococcal Conjugate Vaccine Introduction.
 34469444	Measuring the accuracy of gridded human population density surfaces: A case study in Bioko Island, Equatorial Guinea.
-34469400	Acute Movement Disorders in Childhood: A Cohort Study and Review of the Literature.
