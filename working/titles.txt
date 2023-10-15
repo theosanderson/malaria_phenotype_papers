@@ -1,13 +1,17 @@
+37838431	Immunisation Agenda 2030: prioritising sustainable immunisation financing.
+37837932	Intestinal barrier disruption with Plasmodium falciparum infection in pregnancy and risk of preterm birth: a cohort study.
+37837372	Metabarcoding using nanopore long-read sequencing for the unbiased characterization of apicomplexan haemoparasites.
+37837339	Corrigendum to: Case report: recurrence of Plasmodium vivax malaria due to defective cytochrome P450 2D6 function in Pos Lenjang, Pahang, Malaysia.
 37836757	In Silico Studies of Four Compounds of Cecropia obtusifolia against Malaria Parasite.
 37833929	Structure-Activity Relationships and Antiplasmodial Potencies of Novel 3,4-Disubstituted 1,2,5-Oxadiazoles.
 37833761	Treatment-seeking behaviours of malaria patients versus non-malaria febrile patients along China-Myanmar border.
+37833540	Modeling of malaria vaccine effectiveness on disease burden and drug resistance in 42 African countries.
 37833354	Detection of insecticide resistance markers in Anopheles funestus from the Democratic Republic of the Congo using a targeted amplicon sequencing panel.
+37833314	Extracellular vesicles could be a putative posttranscriptional regulatory mechanism that shapes intracellular RNA levels in Plasmodium falciparum.
 37833304	Gut Bacteroides act in a microbial consortium to cause susceptibility to severe malaria.
 37833166	The many paths to artemisinin resistance in Plasmodium falciparum.
 37832986	Protocol for a randomised, multicentre, four-arm, double-blinded, placebo-controlled trial to assess the benefits and safety of iron supplementation with malaria chemoprevention to children in Malawi: IRMA trial.
 37832788	Insight into the dynamics of the Ixodes ricinus nymphal midgut proteome.
-37833540	Modeling of malaria vaccine effectiveness on disease burden and drug resistance in 42 African countries.
-37833314	Extracellular vesicles could be a putative posttranscriptional regulatory mechanism that shapes intracellular RNA levels in Plasmodium falciparum.
 37832027	Plasmodium falciparum exploits CD44 as a co-receptor for erythrocyte invasion.
 37831367	Proteome Analysis for Inflammation Related to Acute and Convalescent Infection.
 37831282	Antimalarial Activity of Anacardium occidentale Leaf Extracts Against Plasmodium falciparum Transketolase (PfTK).
@@ -9993,7 +9997,3 @@
 34475145	Psychological problems and the associated factors related to the COVID-19 pandemic lockdown among college students in Amhara Region, Ethiopia: a cross-sectional study.
 34474834	Preliminary studies on drug delivery of polymeric primaquine microparticles using the liver high uptake effect based on size of particles to improve malaria treatment.
 34474178	Plasmodium vivax pre-erythrocytic stages and the latent hypnozoite.
-34474169	OPD (Online Plasmodium Diagnosis): An ALA-PpIX based functional assay to predict active malaria.
-34473725	A framework for scabies control.
-34473088	Structural and biochemical characterization of the novel serpin Iripin-5 from Ixodes ricinus.
-34472830	From Magic Bullet to Magic Bomb: Reductive Bioactivation of Antiparasitic Agents.
