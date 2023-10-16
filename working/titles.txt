@@ -1,3 +1,12 @@
+37843306	Bhlhe40 limits early IL-10 production from CD4(+) T cells during Plasmodium yoelii 17X infection.
+37843248	Attractive toxic sugar baits: a magic bullet for control of malaria and dengue in urban settings of India?
+37843247	Concurrent Staphylococcus aureus bacteraemia in Plasmodium vivax malaria Infection: A report of two cases from western India.
+37843244	Malaria outbreak along the India-Bhutan border town of Saralpara, Assam, India.
+37843241	Susceptibility status of Aedes aegypti (Diptera: Culicidae) against insecticides of public health use in Delhi and NCR region, India.
+37843239	Effects of sulphadoxine-pyrimethamine on maternal, neonatal and placental malaria in Port Harcourt, Rivers State, Nigeria.
+37843235	Clinical profile and severity of Plasmodium vivax and falciparum malaria in hospitalized children from North India.
+37843233	Trend analysis in seroprevalence of dengue, chikungunya and malaria: A seven-year serological study from a tertiary care hospital of Maharashtra, India.
+37842892	Exploring the Potential of Natural Products as Antiparasitic Agents for Neglected Tropical Diseases.
 37842390	Renin as a Biomarker of Acute Kidney Injury and Mortality in Children With Severe Malaria or Sickle Cell Disease.
 37842340	The first genome sequence of Anopheles squamous from Macha, Zambia.
 37842337	ELIXIR and Toxicology: a community in development.
@@ -9988,12 +9997,3 @@
 34483564	Seroprevalence of Transfusion-Transmitted Infections among Voluntary and Replacement Blood Donors at the Peshawar Regional Blood Centre, Khyber Pakhtunkhwa, Pakistan.
 34483052	Mosquito transgenesis for malaria control.
 34482475	Antimicrobial peptidomes of Bothrops atrox and Bothrops jararacussu snake venoms.
-34481789	Molecular detection of avian haemosporidian parasites in biting midges (Diptera: Ceratopogonidae) from Thailand.
-34481549	Iron deficiency anaemia in sub-Saharan Africa: a review of current evidence and primary care recommendations for high-risk groups.
-34480995	Traditional uses, bioactive composition, pharmacology, and toxicology of Phyllanthus emblica fruits: A comprehensive review.
-34480869	Climate change impacts on Anopheles (K.) cruzii in urban areas of Atlantic Forest of Brazil: Challenges for malaria diseases.
-34480651	In vitro antiplasmodial activity, targeted LC-MS metabolite profiling, and identification of major natural products in the bioactive extracts of Palicourea and Psychotria species from the Amazonia and Atlantic Forest biomes, Brazil.
-34480100	Evolutionary trilogy of malaria, angiotensin II and hypertension: deeper insights and the way forward.
-34479861	Child growth and neurodevelopment after maternal antenatal antibiotic treatment.
-34479848	An overview of the anti-SARS-CoV-2 properties of Artemisia annua, its antiviral action, protein-associated mechanisms, and repurposing for COVID-19 treatment.
-34479606	Monthly biological larviciding associated with a tenfold decrease in larval density in fish farming ponds and reduced community-wide malaria incidence in northwestern Brazil.
