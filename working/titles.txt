@@ -1,3 +1,5 @@
+37839913	How colonization bottlenecks, tissue niches, and transmission strategies shape protozoan infections.
+37839415	Malaria community welcomes WHO vaccine approval.
 37839134	Efficacy and safety of ivermectin for the treatment of Plasmodium falciparum infections in asymptomatic male and female Gabonese adults - a pilot randomized, double-blind, placebo-controlled single-centre phase Ib/IIa clinical trial.
 37838431	Immunisation Agenda 2030: prioritising sustainable immunisation financing.
 37837932	Intestinal barrier disruption with Plasmodium falciparum infection in pregnancy and risk of preterm birth: a cohort study.
@@ -9995,5 +9997,3 @@
 34475663	Immunological, haematological, and clinical attributes of rural and urban malaria: a case-control study in Ghana.
 34475470	Insecticide resistance and behavioural adaptation as a response to long-lasting insecticidal net deployment in malaria vectors in the Cascades region of Burkina Faso.
 34475453	Identification of vaccine targets in pathogens and design of a vaccine using computational approaches.
-34475145	Psychological problems and the associated factors related to the COVID-19 pandemic lockdown among college students in Amhara Region, Ethiopia: a cross-sectional study.
-34474834	Preliminary studies on drug delivery of polymeric primaquine microparticles using the liver high uptake effect based on size of particles to improve malaria treatment.
