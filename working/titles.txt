@@ -1,5 +1,13 @@
-37839415	Malaria community welcomes WHO vaccine approval.
+37842390	Renin as a Biomarker of Acute Kidney Injury and Mortality in Children With Severe Malaria or Sickle Cell Disease.
+37842340	The first genome sequence of Anopheles squamous from Macha, Zambia.
+37842337	ELIXIR and Toxicology: a community in development.
+37842099	In vitro antimalarial activity of Syzygium cumini fruit fraction.
+37842039	Use of micro and macroalgae extracts for the control of vector mosquitoes.
+37841716	Evaluation of performance for malaria diagnosis in health facilities by five provincial reference laboratories of China.
+37841306	Novel insights on the genetic population structure of human-infecting Cyclospora spp. and evidence for rapid subtype selection among isolates from the USA.
+37840598	CRISPR-based Biosensors for Human Health: A Novel Strategy to Detect Emerging Infectious Diseases.
 37839913	How colonization bottlenecks, tissue niches, and transmission strategies shape protozoan infections.
+37839415	Malaria community welcomes WHO vaccine approval.
 37839134	Efficacy and safety of ivermectin for the treatment of Plasmodium falciparum infections in asymptomatic male and female Gabonese adults - a pilot randomized, double-blind, placebo-controlled single-centre phase Ib/IIa clinical trial.
 37838431	Immunisation Agenda 2030: prioritising sustainable immunisation financing.
 37837932	Intestinal barrier disruption with Plasmodium falciparum infection in pregnancy and risk of preterm birth: a cohort study.
@@ -9989,11 +9997,3 @@
 34479861	Child growth and neurodevelopment after maternal antenatal antibiotic treatment.
 34479848	An overview of the anti-SARS-CoV-2 properties of Artemisia annua, its antiviral action, protein-associated mechanisms, and repurposing for COVID-19 treatment.
 34479606	Monthly biological larviciding associated with a tenfold decrease in larval density in fish farming ponds and reduced community-wide malaria incidence in northwestern Brazil.
-36776708	Self-diagnosis and self-treatment of malaria in hard-to-reach and mobile populations of the Amazon: results of Malakit, an international multicentric intervention research project.
-34479064	Preparation, biological & cheminformatics-based assessment of N(2),N(4)-diphenylpyrimidine-2,4-diamine as potential Kinase-targeted antimalarials.
-34478455	Current status of therapeutic monoclonal antibodies against SARS-CoV-2.
-34477014	Acute Kidney Injury and Jaundice in a Patient With Concurrent Severe Malaria and Acute Exacerbation of Hepatitis B.
-34475670	Diagnosing the drug resistance signature in Plasmodium falciparum: a review from contemporary methods to novel approaches.
-34475663	Immunological, haematological, and clinical attributes of rural and urban malaria: a case-control study in Ghana.
-34475470	Insecticide resistance and behavioural adaptation as a response to long-lasting insecticidal net deployment in malaria vectors in the Cascades region of Burkina Faso.
-34475453	Identification of vaccine targets in pathogens and design of a vaccine using computational approaches.
