@@ -2,9 +2,9 @@
 37845769	MalariaSED: a deep learning framework to decipher the regulatory contributions of noncoding variants in malaria parasites.
 37845711	Mass distribution campaign of long-lasting insecticidal nets (LLINs) during the COVID-19 pandemic in Uganda: lessons learned.
 37845680	Schoolchildren with asymptomatic malaria are potential hotspot for malaria reservoir in Ethiopia: implications for malaria control and elimination efforts.
-37845663	Mapping the stability of febrile illness hotspots in Punjab from 2012 to 2019- a spatial clustering and regression analysis.
 37845611	Adapting the preterm birth phenotyping framework to a low-resource, rural setting and applying it to births from Migori County in western Kenya.
 37844395	Determinants of maternal mortality in south-western Nigeria: Midwives' perceptions.
+37845663	Mapping the stability of febrile illness hotspots in Punjab from 2012 to 2019- a spatial clustering and regression analysis.
 37844170	Low Risk for Ross River Virus Infection in Expeditionary Forces Training in Australia Demonstrated by a Serological Survey of Marine Rotational Force-Darwin, 2012-2018.
 37844106	Fatal acute undifferentiated febrile illness among clinically suspected leptospirosis cases in Colombia, 2016-2019.
 37843306	Bhlhe40 limits early IL-10 production from CD4(+) T cells during Plasmodium yoelii 17X infection.
