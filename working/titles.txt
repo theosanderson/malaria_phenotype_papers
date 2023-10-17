@@ -1,3 +1,5 @@
+37847392	First investigation of blood parasites of bats in Burkina Faso detects Hepatocystis parasites and infections with diverse Trypanosoma spp.
+37847222	Have you heard the news? Artemether-lumefantrine is now recommended for ALL uncomplicated malaria in the United States, including in pregnancy.
 37846645	Persons 'never treated' in mass drug administration for lymphatic filariasis: identifying programmatic and research needs from a series of research review meetings 2020-2021.
 37846089	The implementation of infection prevention and control measures and health care utilisation in ACF-supported health facilities during the COVID-19 pandemic in Kinshasa, Democratic Republic of the Congo, 2020.
 37845823	A simple and rapid external standard calibration HPLC method for determination of lumefantrine in dried blood spot samples from malaria patients in Botswana.
@@ -115,6 +117,7 @@
 37808986	Understanding the China-Tanzania Malaria Control Project: lessons learned from a multi-stakeholder qualitative study.
 37808978	Specialist hybrid models with asymmetric training for malaria prevalence prediction.
 37808909	Editorial: Perspectives on the ultrastructure and cell biology of parasitic protists.
+37808744	The potential health and economic impacts of new tuberculosis vaccines under varying delivery strategies in Delhi and Gujarat, India: a modelling study.
 37808169	Malaria, Urogenital Schistosomiasis, and Anaemia in Pregnant Ghanaian Women.
 37807654	Polyubiquitin protein of Aedes aegypti as an interacting partner of dengue virus envelope protein.
 37806761	Diarylpentanoids, the privileged scaffolds in antimalarial and anti-infectives drug discovery: A review.
@@ -9994,6 +9997,3 @@
 34487845	Phytochemistry and polypharmacology of cleome species: A comprehensive Ethnopharmacological review of the medicinal plants.
 34486956	Forced evictions and their social and health impacts in Southern Somalia: a qualitative study in Mogadishu Internally Displaced Persons (IDP) camps.
 34486667	Identification of first-in-class plasmodium OTU inhibitors with potent anti-malarial activity.
-34486392	The role of globins in cardiovascular physiology.
-34486332	In vivo Antimalarial, Antioxidant Activities and Safety of Carapa procera DC. (Meliaceae).
-34485673	Challenges in the control of neglected insect vector diseases of human importance in the Anglo-Caribbean.
