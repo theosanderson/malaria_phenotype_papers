@@ -1,3 +1,10 @@
+37850301	Degree of blood safety of voluntary non-remunerated versus replacement blood donations: A multi-centre study of the large cohort of blood donors from two provinces of Pakistan.
+37849963	Phytochemistry, Biological, and Toxicity Study on Aqueous and Methanol Extracts of Chromolaena odorata.
+37849933	The burden, risk factors and unique etiologies of stroke in South-East Asia Region (SEAR).
+37849793	Anemia in HIV Patients Attending Highly Active Antiretroviral Therapy Clinic at Hoima Regional Referral Hospital: Prevalence, Morphological Classification, and Associated Factors.
+37849789	Plasmodium falciparum Genetic Diversity and Resistance Genotype Profile in Infected Placental Samples Collected After Delivery in Ouagadougou.
+37848984	Transcriptome analysis of Haemaphysalis flava female using Illumina HiSeq 4000 sequencing: de novo assembly, functional annotation and discovery of SSR markers.
+37848952	Correction: Laboratory-based efficacy evaluation of Bacillus thuringiensis var. israelensis and temephos larvicides against larvae of Anopheles stephensi in Ethiopia.
 37848895	Implication of agricultural practices in the micro-geographic heterogeneity of malaria transmission in Bouna, Côte d'Ivoire.
 37848568	Threshold dynamics of an almost periodic vector-borne disease model.
 37847392	First investigation of blood parasites of bats in Burkina Faso detects Hepatocystis parasites and infections with diverse Trypanosoma spp.
@@ -9990,10 +9997,3 @@
 34489611	An antibody for malaria prevention.
 34489596	Monoclonal antibodies show promise in phase I malaria trial.
 34488869	Complete mitogenomes of Anopheles peditaeniatus and Anopheles nitidus and phylogenetic relationships within the genus Anopheles inferred from mitogenomes.
-34488860	Molecular phylogeny of the Anopheles hyrcanus group (Diptera: Culicidae) based on rDNA-ITS2 and mtDNA-COII.
-34488837	Gramtools enables multiscale variation analysis with genome graphs.
-34488784	Combining malaria vaccination with chemoprevention: a promising new approach to malaria control.
-34488778	From the factory to the field: considerations of product characteristics for insecticide-treated net (ITN) bioefficacy testing.
-34488770	Risk factors for Plasmodium falciparum infection in pregnant women in Burkina Faso: a community-based cross-sectional survey.
-34488666	Seroprevalence of Dengue and Chikungunya antibodies among blood donors in Dar es Salaam and Zanzibar, Tanzania: a cross-sectional study.
-34487845	Phytochemistry and polypharmacology of cleome species: A comprehensive Ethnopharmacological review of the medicinal plants.
