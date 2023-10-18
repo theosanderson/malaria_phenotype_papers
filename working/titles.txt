@@ -1,3 +1,5 @@
+37848895	Implication of agricultural practices in the micro-geographic heterogeneity of malaria transmission in Bouna, Côte d'Ivoire.
+37848568	Threshold dynamics of an almost periodic vector-borne disease model.
 37847392	First investigation of blood parasites of bats in Burkina Faso detects Hepatocystis parasites and infections with diverse Trypanosoma spp.
 37847222	Have you heard the news? Artemether-lumefantrine is now recommended for ALL uncomplicated malaria in the United States, including in pregnancy.
 37846645	Persons 'never treated' in mass drug administration for lymphatic filariasis: identifying programmatic and research needs from a series of research review meetings 2020-2021.
@@ -9995,5 +9997,3 @@
 34488770	Risk factors for Plasmodium falciparum infection in pregnant women in Burkina Faso: a community-based cross-sectional survey.
 34488666	Seroprevalence of Dengue and Chikungunya antibodies among blood donors in Dar es Salaam and Zanzibar, Tanzania: a cross-sectional study.
 34487845	Phytochemistry and polypharmacology of cleome species: A comprehensive Ethnopharmacological review of the medicinal plants.
-34486956	Forced evictions and their social and health impacts in Southern Somalia: a qualitative study in Mogadishu Internally Displaced Persons (IDP) camps.
-34486667	Identification of first-in-class plasmodium OTU inhibitors with potent anti-malarial activity.
