@@ -1,7 +1,10 @@
+37854770	Remote bednet use monitoring to describe patterns of use and exposure to female Anopheles mosquitoes in an Ugandan cohort.
+37854668	A Clinically Oriented antimicrobial Resistance surveillance Network (ACORN): pilot implementation in three countries in Southeast Asia, 2019-2020.
+37854221	Identification of useful biomolecular markers in kidney renal clear cell carcinoma: an in silico and in vitro analysis-based study.
 37853443	Correction: Validation of SYBR green I based closed-tube loop-mediated isothermal amplification (LAMP) assay for diagnosis of knowlesi malaria.
 37853408	Enhanced effect of seasonal malaria chemoprevention when coupled with nutrients supplementation for preventing malaria in children under 5 years old in Burkina Faso: a randomized open label trial.
-37852894	Vector-borne disease, climate change and perinatal health.
 37853399	Avian Plasmodium spp. and Haemoproteus spp. parasites in mosquitoes in Germany.
+37852894	Vector-borne disease, climate change and perinatal health.
 37850301	Degree of blood safety of voluntary non-remunerated versus replacement blood donations: A multi-centre study of the large cohort of blood donors from two provinces of Pakistan.
 37849963	Phytochemistry, Biological, and Toxicity Study on Aqueous and Methanol Extracts of Chromolaena odorata.
 37849933	The burden, risk factors and unique etiologies of stroke in South-East Asia Region (SEAR).
@@ -1394,7 +1397,7 @@
 37379340	Climate zones are a key component of the heterogeneous presentation of malaria and should be added as a malariometric for the planning of malaria elimination.
 37379293	Chinese health funding in Africa: The untold story.
 37377253	Insecticide resistance levels and associated mechanisms in three Aedes aegypti populations from Venezuela.
-37376890	[Analysis of Medication Rules of Traditional Chinese Medicine for Malaria Treatment Based on Data Mining].
+37376890	Analysis of Medication Rules of Traditional Chinese Medicine for Malaria Treatment Based on Data Mining.
 37376689	Two Decades of Wildlife Pathogen Surveillance: Case Study of Choclo orthohantavirus and Its Wild Reservoir Oligoryzomys costaricensis.
 37376655	Detection of Zika Virus in Aedes aegypti and Aedes albopictus Mosquitoes Collected in Urban Forest Fragments in the Brazilian Amazon.
 37376086	Plant Extracts as a Source of Natural Products with Potential Antimalarial Effects: An Update from 2018 to 2022.
@@ -9994,6 +9997,3 @@
 34491220	Therapeutic Efficacy of Artemisinin-Based Combination Therapies in Democratic Republic of the Congo and Investigation of Molecular Markers of Antimalarial Resistance.
 34491214	Are Artemisinin-Based Combination Therapies For Malaria Beginning To Fail in Africa?
 34491213	A Systematic Review of the Evidence on the Effectiveness and Cost-Effectiveness of Mass Screen-and-Treat Interventions for Malaria Control.
-34491193	[L9, a novel and promising monoclonal antibody against Malaria].
-34491031	Cyclic Tetrapeptide HDAC Inhibitors with Improved Plasmodium falciparum Selectivity and Killing Profile.
-34490473	Regulation of the PTEN/PI3K/AKT pathway in RCC using the active compounds of natural products in vitro.
