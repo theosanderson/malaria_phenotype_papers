@@ -1,3 +1,7 @@
+37853443	Correction: Validation of SYBR green I based closed-tube loop-mediated isothermal amplification (LAMP) assay for diagnosis of knowlesi malaria.
+37853408	Enhanced effect of seasonal malaria chemoprevention when coupled with nutrients supplementation for preventing malaria in children under 5 years old in Burkina Faso: a randomized open label trial.
+37853399	Avian Plasmodium spp. and Haemoproteus spp. parasites in mosquitoes in Germany.
+37852894	Vector-borne disease, climate change and perinatal health.
 37850301	Degree of blood safety of voluntary non-remunerated versus replacement blood donations: A multi-centre study of the large cohort of blood donors from two provinces of Pakistan.
 37849963	Phytochemistry, Biological, and Toxicity Study on Aqueous and Methanol Extracts of Chromolaena odorata.
 37849933	The burden, risk factors and unique etiologies of stroke in South-East Asia Region (SEAR).
@@ -9993,7 +9997,3 @@
 34491193	[L9, a novel and promising monoclonal antibody against Malaria].
 34491031	Cyclic Tetrapeptide HDAC Inhibitors with Improved Plasmodium falciparum Selectivity and Killing Profile.
 34490473	Regulation of the PTEN/PI3K/AKT pathway in RCC using the active compounds of natural products in vitro.
-34490134	Molecular Detection of Insecticide Resistance Mutations in Anopheles gambiae from Sierra Leone Using Multiplex SNaPshot and Sequencing.
-34489961	Promising Technologies in the Field of Helminth Vaccines.
-34489611	An antibody for malaria prevention.
-34489596	Monoclonal antibodies show promise in phase I malaria trial.
