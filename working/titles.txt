@@ -1,7 +1,7 @@
 37853443	Correction: Validation of SYBR green I based closed-tube loop-mediated isothermal amplification (LAMP) assay for diagnosis of knowlesi malaria.
 37853408	Enhanced effect of seasonal malaria chemoprevention when coupled with nutrients supplementation for preventing malaria in children under 5 years old in Burkina Faso: a randomized open label trial.
-37853399	Avian Plasmodium spp. and Haemoproteus spp. parasites in mosquitoes in Germany.
 37852894	Vector-borne disease, climate change and perinatal health.
+37853399	Avian Plasmodium spp. and Haemoproteus spp. parasites in mosquitoes in Germany.
 37850301	Degree of blood safety of voluntary non-remunerated versus replacement blood donations: A multi-centre study of the large cohort of blood donors from two provinces of Pakistan.
 37849963	Phytochemistry, Biological, and Toxicity Study on Aqueous and Methanol Extracts of Chromolaena odorata.
 37849933	The burden, risk factors and unique etiologies of stroke in South-East Asia Region (SEAR).
