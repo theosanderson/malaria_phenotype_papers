@@ -1842,7 +1842,7 @@
 37215882	Correlates of haemoglobin level in mothers of children under two years in Nanton district: A cross-sectional study from Ghana.
 37215766	Mosquito repellent fabric: Development and characterization of peppermint and garlic mixture finish on knitted fabric to examine mosquito repellency.
 37215099	Is TNF alpha a mediator in the co-existence of malaria and type 2 diabetes in a malaria endemic population?
-37214835	Malaria, gastrointestinal parasite infection and nutritional status among febrile children in Accra, Ghana.
+37214835	Malaria, gastrointestinal parasite infection and nutritional status among febrile children In Accra, Ghana.
 37214770	Migrants in transit across Central America and the potential spread of chloroquine resistant malaria-a call for action.
 37214733	Chemical Composition and Antiplasmodial Activity of the Essential Oil of Rhododendron subarcticum Leaves from Nunavik, Québec, Canada.
 37213951	A Surge in Malaria Cases in the Eastern Health Region of Saudi Arabia During the COVID-19 Pandemic.
@@ -1982,6 +1982,7 @@
 37163812	Influence of amino acid size at the P3 position of N-Cbz-tripeptide Michael acceptors targeting falcipain-2 and rhodesain for the treatment of malaria and human african trypanosomiasis.
 37163114	Two decades of molecular surveillance in Senegal reveal changes in known drug resistance mutations associated with historical drug use and seasonal malaria chemoprevention.
 37162984	Social network and household exposure explain the use of malaria prevention measures in rural communities of Meghalaya, India.
+37162950	Resistance to clothianidin reduces the efficacy of SumiShield(®) 50WG, a neonicotinoid formulation for indoor residual spraying, against Anopheles gambiae.
 37162697	Antimalarial ceramicines Q-T from Chisocheton ceramicus.
 37162063	A short history of innate immunity.
 37161537	Use of rapid diagnostic tests for the detection of ancient malaria infections in dental pulp from the sixth century in Versailles, France.
@@ -9996,4 +9997,3 @@
 34489961	Promising Technologies in the Field of Helminth Vaccines.
 34489611	An antibody for malaria prevention.
 34489596	Monoclonal antibodies show promise in phase I malaria trial.
-34488869	Complete mitogenomes of Anopheles peditaeniatus and Anopheles nitidus and phylogenetic relationships within the genus Anopheles inferred from mitogenomes.
