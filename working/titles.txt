@@ -1,4 +1,5 @@
-37854770	Remote bednet use monitoring to describe patterns of use and exposure to female Anopheles mosquitoes in an Ugandan cohort.
+37856157	Molecular rotors: Fluorescent Sensors for Microviscosity and Conformation of Biomolecules.
+37855243	IL-27 produced during acute malaria infection regulates Plasmodium-specific memory CD4(+) T cells.
 37854668	A Clinically Oriented antimicrobial Resistance surveillance Network (ACORN): pilot implementation in three countries in Southeast Asia, 2019-2020.
 37854221	Identification of useful biomolecular markers in kidney renal clear cell carcinoma: an in silico and in vitro analysis-based study.
 37853443	Correction: Validation of SYBR green I based closed-tube loop-mediated isothermal amplification (LAMP) assay for diagnosis of knowlesi malaria.
@@ -8455,6 +8456,7 @@
 34973474	Comparative performance of WANTAI ELISA for total immunoglobulin to receptor binding protein and an ELISA for IgG to spike protein in detecting SARS-CoV-2 antibodies in Kenyan populations.
 34973453	Imported malaria in Switzerland, (1990-2019): A retrospective analysis.
 34973333	Enzymatic and structural characterization of HAD5, an essential phosphomannomutase of malaria-causing parasites.
+37854770	Remote bednet use monitoring to describe patterns of use and exposure to female Anopheles mosquitoes in an Ugandan cohort.
 37711180	Costing and cost-effectiveness of Cepheid Xpert HIV -1 Qual Assay using whole blood protocol versus PCR by Abbott Systems in Malawi.
 37585019	Factors affecting usage of insecticide treated nets for malaria control by pregnant women in Enugu, South East Nigeria.
 37585012	Fostering sustainable malaria prevention and elimination in Africa.
@@ -9995,5 +9997,3 @@
 34491227	An Adaptive Intervention Trial Design for Finding the Optimal Integrated Strategies for Malaria Control and Elimination in Africa: A Model Simulation Study.
 34491225	Field Efficacy of Larvivorous Fish and Pyriproxyfen Combined with Community Engagement on Dengue Vectors in Cambodia: A Randomized Controlled Trial.
 34491220	Therapeutic Efficacy of Artemisinin-Based Combination Therapies in Democratic Republic of the Congo and Investigation of Molecular Markers of Antimalarial Resistance.
-34491214	Are Artemisinin-Based Combination Therapies For Malaria Beginning To Fail in Africa?
-34491213	A Systematic Review of the Evidence on the Effectiveness and Cost-Effectiveness of Mass Screen-and-Treat Interventions for Malaria Control.
