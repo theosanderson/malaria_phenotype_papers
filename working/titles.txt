@@ -1,3 +1,8 @@
+37858129	Factors affecting haemoglobin dynamics in African children with acute uncomplicated Plasmodium falciparum malaria treated with single low-dose primaquine or placebo.
+37857843	Pathogenetic mechanisms and treatment targets in cerebral malaria.
+37857762	Community evaluation of VECTRON™ T500, a broflanilide insecticide, for indoor residual spraying for malaria vector control in central Benin; a two arm non-inferiority cluster randomised trial.
+37857597	Epidemiology of Plasmodium malariae and Plasmodium ovale spp. in Kinshasa Province, Democratic Republic of Congo.
+37857143	Novel thienopyrimidones targeting hepatic and erythrocytic stages of Plasmodium parasites with increased microsomal stability.
 37856690	Starch plays a key role in sporosorus formation by the powdery scab pathogen Spongospora subterranea.
 37856519	Non-human primate malaria in travelers.
 37856470	Intestinal injury and the gut microbiota in patients with Plasmodium falciparum malaria.
@@ -318,7 +323,8 @@
 37746455	Falciparum Malaria, Leptospirosis, and Vibrio mimicus Encephalitis in a Resilient Patient: A Remarkable Case of Triple Infection Survival.
 37745984	In Vitro Cercaricidal Activity, Acute Toxicity, and GC/MS Analysis of Some Selected Ghanaian Medicinal Plants.
 37745920	Overtreatment of malaria in the Nigerian healthcare setting: prescription practice, rationale and consequences.
-37745554	Pf MORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, P. falciparum.
+37745593	bistro: An R package for vector bloodmeal identification by short tandem repeat overlap.
+37745554	PfMORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, P. falciparum.
 37745516	A cluster-randomized trial of client and provider-directed financial interventions to align incentives with appropriate case management in retail medicine outlets: results of the TESTsmART Trial in western Kenya.
 37745508	Poly-basic peptides and polymers as new drug candidate against Plasmodium falciparum.
 37745488	A Plasmodium falciparum genetic cross reveals the contributions of pfcrt and plasmepsin II/III to piperaquine drug resistance.
@@ -1240,7 +1246,6 @@
 37427562	A proposed method of grading malaria chemoprevention efficacy.
 37426806	Antiprotozoal activity of natural products from Nigerien plants used in folk medicine.
 37426306	Status of the Multidrug Resistance-1 Gene of Plasmodium falciparum in Four Malaria Epidemiological Strata, Two Decades after the Abolition of Chloroquine as First-Line Treatment for Uncomplicated Malaria in Cameroon.
-37425729	MGSurvE: A framework to optimize trap placement for genetic surveillance of mosquito population.
 37425547	Plasmodium vivax Presenting With Septic Shock and Disseminated Intravascular Coagulation (DIC): A Case Report.
 37424773	A chromosomal reference genome sequence for the malaria mosquito, Anopheles gambiae, Giles, 1902, Ifakara strain.
 37424519	Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.
@@ -1323,13 +1328,14 @@
 31855356	Chloroquine.
 37399221	Potential hidden Plasmodium vivax malaria reservoirs from low parasitemia Duffy-negative Ethiopians: Molecular evidence.
 37398749	Unusual Presentation and Difficult to Diagnose: A Case of Malaria With Negative Thick and Thin Giemsa Stain Smear Tests.
+37398491	Tracking SARS-CoV-2 seropositivity in rural communities using blood-fed mosquitoes.
 37398288	Mapping the genomic landscape of multidrug resistance in Plasmodium falciparum and its impact on parasite fitness.
 37398131	CRISPR-mediated germline mutagenesis for genetic sterilization of Anopheles gambiae males.
 37398112	First report of Anopheles stephensi in Southern Ethiopia.
 37398106	Comparative chemical genomics in Babesia species identifies the alkaline phosphatase phoD as a novel determinant of resistance.
 37398027	Plasmodium falciparum infection of human erythroblasts induces transcriptional changes associated with dyserythropoiesis.
 37398018	Interplay between nutrient transporters ensures fertility in the malaria mosquito Anopheles gambiae.
-37397989	Wolbachia -induced inhibition of O'nyong nyong virus in Anopheles mosquitoes is mediated by Toll signaling and modulated by cholesterol.
+37397989	Wolbachia-induced inhibition of O'nyong nyong virus in Anopheles mosquitoes is mediated by Toll signaling and modulated by cholesterol.
 37396933	Trends of the Global, Regional and National Incidence, Mortality, and Disability-Adjusted Life Years of Malaria, 1990-2019: An Analysis of the Global Burden of Disease Study 2019.
 37396392	Tripartite interactions comprising yeast-endobacteria systems in the gut of vector mosquitoes.
 37396335	Chronic infection by atypical Toxoplasma gondii strain induces disturbance in microglia population and altered behaviour in mice.
@@ -1528,6 +1534,7 @@
 37334041	Quality of life burden on United States infants and caregivers due to lower respiratory tract infection and adjusting for selective testing: Pilot prospective observational study.
 37333558	Community engagement: health research through informing, consultation, involving and empowerment in Ingwavuma community.
 37333553	Skeletal muscle fibre type and enzymatic activity in adult offspring following placental and peripheral malaria exposure in foetal life.
+37333247	Dengue in Cambodia 2002-2020: Cases, Characteristics and Capture by National Surveillance.
 37332721	The use of chitosan oligosaccharide to improve artemisinin yield in well-watered and drought-stressed plants.
 37331883	Ifakara MasterClasses: lessons from leading experts on the battle against malaria.
 37331795	Epidemiologic trends and distributions of imported infectious diseases among travelers to Japan before and during the COVID-19 pandemic, 2016 to 2021: a descriptive study.
@@ -2090,7 +2097,7 @@
 37131941	Collaborations between product development partnerships and the World Health Organization.
 37131838	Malaria surveillance reveals parasite relatedness, signatures of selection, and correlates of transmission across Senegal.
 37131813	Structure guided mimicry of an essential P. falciparum receptor-ligand complex enhances cross neutralizing antibodies.
-37131712	Metabolism of host lysophosphatidylcholine in Plasmodium falciparum -infected erythrocytes.
+37131712	Metabolism of host lysophosphatidylcholine in Plasmodium falciparum-infected erythrocytes.
 37131679	Chronic exposure of mosquito larvae to pesticide residues endangers a new generation of agrochemicals repurposed for malaria prevention.
 37131663	Enhancing the efficacy of neonicotinoids against mosquitoes and overcoming resistance issues.
 37131488	Epididymal bilharzia simulating a testicular tumor: A case report.
@@ -2500,7 +2507,7 @@
 36993979	Exploring SARS-CoV-2 and Plasmodium falciparum coinfection in human erythrocytes.
 36993973	Brain endothelial cells exposure to malaria parasites links type I interferon signalling to antigen presentation, immunoproteasome activation, endothelium disruption, and cellular metabolism.
 36993971	P2RX7 signaling drives the differentiation of Th1 cells through metabolic reprogramming for aerobic glycolysis.
-36993678	Frequency-dependent ecological interactions increase the prevalence and shape the distribution of pre-existing drug resistance.
+36993678	Frequency-dependent ecological interactions increase the prevalence, and shape the distribution, of pre-existing drug resistance.
 36993674	Alpha globin gene copy number and incident ischemic stroke risk among Black Americans.
 36993606	Atlas of Plasmodium falciparum intraerythrocytic development using expansion microscopy.
 36993272	Development of a Plasmodium vivax biobank for functional ex vivo assays.
@@ -3096,6 +3103,7 @@
 36798510	Diversity, distribution, and methodological considerations of haemosporidian infections among Galliformes in Alaska.
 36798298	Transmissibility of clinically relevant atovaquone-resistant Plasmodium falciparum by anopheline mosquitoes.
 36798264	Ex vivo RSA and Pfkelch13 targeted-amplicon deep sequencing reveal parasites susceptibility to artemisinin in Senegal, 2017.
+36798251	Seroreversion to Chlamydia trachomatis Pgp3 antigen among young children in a hyperendemic region of Amhara, Ethiopia.
 36798191	Plasmodium ARK2-EB1 axis drives the unconventional spindle dynamics, scaffold formation and chromosome segregation of sexual transmission stages.
 36797290	Native structure of mosquito salivary protein uncovers domains relevant to pathogen transmission.
 36795547	Malaria in Children: Updates on Management and Prevention.
@@ -4421,6 +4429,7 @@
 36325992	First Activation of the WHO Emergency Medical Team Minimum Data Set in the 2019 Response to Tropical Cyclone Idai in Mozambique.
 36325471	Diagnostic accuracy and limit of detection of ten malaria parasite lactate dehydrogenase-based rapid tests for Plasmodium knowlesi and P. falciparum.
 36324876	Fluid therapy in sepsis? Pathogen-specific perspectives.
+36324809	Intranasal SARS-CoV-2 RBD decorated nanoparticle vaccine enhances viral clearance in the Syrian hamster model.
 36324329	Prevalence of Intestinal Helminth Coinfection in Drug-Resistant Tuberculosis in Uganda.
 36323902	Resistant mosquito threatens Africa's fight against malaria.
 36323854	Repurposing sapanisertib in malaria.
@@ -9988,12 +9997,3 @@
 34495978	Effectiveness of seasonal malaria chemoprevention (SMC) treatments when SMC is implemented at scale: Case-control studies in 5 countries.
 34495956	Dynamics of G6PD activity in patients receiving weekly primaquine for therapy of Plasmodium vivax malaria.
 34495521	Delivery of Double-Stranded RNAs (dsRNAs) Produced by Escherichia coli HT115(DE3) for Nontransgenic RNAi-Based Insect Pest Management.
-34494883	A Prioritized and Validated Resource of Mitochondrial Proteins in Plasmodium Identifies Unique Biology.
-34493995	A novel computation method for detection of Malaria in RBC using Photonic biosensor.
-34493324	Effects of insemination and blood-feeding on locomotor activity of wild-derived females of the malaria mosquito Anopheles coluzzii.
-34493280	Urban malaria in sub-Saharan Africa: dynamic of the vectorial system and the entomological inoculation rate.
-34493062	A highly invasive malaria parasite has expanded its range to non-migratory birds in North America.
-34492555	Drug overdose deaths involving cocaine and psychostimulants with abuse potential among racial and ethnic groups - United States, 2004-2019.
-34492387	Sub-lethal exposure to malaria vector control pesticides causes alterations in liver metabolomics and behaviour of the African clawed frog (Xenopus laevis).
-34492319	Exploring four South African Croton species for potential anti-inflammatory properties: in vitro activity and toxicity risk assessment.
-34492224	Single-genome sequencing reveals within-host evolution of human malaria parasites.
