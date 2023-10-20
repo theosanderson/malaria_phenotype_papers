@@ -1,3 +1,7 @@
+37856690	Starch plays a key role in sporosorus formation by the powdery scab pathogen Spongospora subterranea.
+37856519	Non-human primate malaria in travelers.
+37856470	Intestinal injury and the gut microbiota in patients with Plasmodium falciparum malaria.
+37856468	Placental characteristics and neonatal weights among women with malaria-preeclampsia comorbidity and healthy pregnancies.
 37856157	Molecular rotors: Fluorescent Sensors for Microviscosity and Conformation of Biomolecules.
 37855243	IL-27 produced during acute malaria infection regulates Plasmodium-specific memory CD4(+) T cells.
 37854668	A Clinically Oriented antimicrobial Resistance surveillance Network (ACORN): pilot implementation in three countries in Southeast Asia, 2019-2020.
@@ -9993,7 +9997,3 @@
 34492387	Sub-lethal exposure to malaria vector control pesticides causes alterations in liver metabolomics and behaviour of the African clawed frog (Xenopus laevis).
 34492319	Exploring four South African Croton species for potential anti-inflammatory properties: in vitro activity and toxicity risk assessment.
 34492224	Single-genome sequencing reveals within-host evolution of human malaria parasites.
-34492005	The cardiovascular effects of amodiaquine and structurally related antimalarials: An individual patient data meta-analysis.
-34491227	An Adaptive Intervention Trial Design for Finding the Optimal Integrated Strategies for Malaria Control and Elimination in Africa: A Model Simulation Study.
-34491225	Field Efficacy of Larvivorous Fish and Pyriproxyfen Combined with Community Engagement on Dengue Vectors in Cambodia: A Randomized Controlled Trial.
-34491220	Therapeutic Efficacy of Artemisinin-Based Combination Therapies in Democratic Republic of the Congo and Investigation of Molecular Markers of Antimalarial Resistance.
