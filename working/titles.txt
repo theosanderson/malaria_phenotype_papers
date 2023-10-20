@@ -1,3 +1,5 @@
+37861484	Prevalence of Plasmodium species in Badr Governorate, Madinah Province, Saudi Arabia using microscopy and rapid diagnostic test.
+37861010	A Glance on Nanovaccine: A Potential Approach for Disease Prevention.
 37860804	Issues related to the approval of the R21/Matrix-M malaria vaccine for use in Nigeria and Ghana.
 37860614	Primate malaria of human importance.
 37859718	Design, synthesis, and biological evaluation of 3,3'-diindolylmethane N-linked glycoconjugate as a leishmanial topoisomerase IB inhibitor with reduced cytotoxicity.
@@ -9995,5 +9997,3 @@
 34503469	Epidemiological and clinical implications of asymptomatic malaria and schistosomiasis co-infections in a rural community in western Kenya.
 34502092	Arboviruses: How Saliva Impacts the Journey from Vector to Host.
 34501720	Intergenerational Association of Short Maternal Stature with Stunting in Yanomami Indigenous Children from the Brazilian Amazon.
-34501636	Effects of Door-to-Door Hang-Up Visits on the Use of Long-Lasting Insecticide-Treated Mosquito Nets in the Democratic Republic of the Congo: A Cluster Randomized Controlled Trial.
-34500683	Quantitative Structure-Activity Relationships of Natural-Product-Inspired, Aminoalkyl-Substituted 1-Benzopyrans as Novel Antiplasmodial Agents.
