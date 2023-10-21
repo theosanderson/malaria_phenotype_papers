@@ -1,3 +1,5 @@
+37864245	The provision of malaria services in border districts of four countries in Southern Africa: results from a cross-sectional community assessment of malaria border health posts.
+37864217	Differences in malaria vector biting behavior and changing vulnerability to malaria transmission in contrasting ecosystems of western Kenya.
 37861484	Prevalence of Plasmodium species in Badr Governorate, Madinah Province, Saudi Arabia using microscopy and rapid diagnostic test.
 37861010	A Glance on Nanovaccine: A Potential Approach for Disease Prevention.
 37860804	Issues related to the approval of the R21/Matrix-M malaria vaccine for use in Nigeria and Ghana.
@@ -102,7 +104,7 @@
 37827961	Bottoms up! Malaria parasite invasion the right way around.
 37827924	Corrigendum to "Genetic polymorphism of circumsporozoite protein (CSP) in Plasmodium malariae isolates from Malaysia" [Parasitology International Volume 87, April 2022, 102519].
 37827586	Biphosphoglycerate Mutase: A Novel Therapeutic Target for Malaria?
-37827299	In vitro and in silico anti-malarial activity and cytotoxicity of n-hexyl 1-O-rutinoside (a glycoside) isolated from Annickia polycarpa (DC.) Setten and Maas ex I.M. turner. (Annonaceae).
+37827299	In vitro and in silico anti-malarial activity and cytotoxicity of n-hexyl 1-O-rutinoside (a glycoside) isolated from Annickia polycarpa (DC.) Setten and Maas ex I.M. Turner (Annonaceae).
 37824592	Clinical performance validation of the STANDARD G6PD test: A multi-country pooled analysis.
 37824491	Association between malaria and undernutrition among pregnant women at presentation for antenatal care in health facilities in the Mount Cameroon region.
 37824458	Mechanistic insights into the interaction between the host gut microbiome and malaria.
@@ -9995,5 +9997,3 @@
 34503519	Development of weight and age-based dosing of daily primaquine for radical cure of vivax malaria.
 34503499	Can complement fix placental malaria?
 34503469	Epidemiological and clinical implications of asymptomatic malaria and schistosomiasis co-infections in a rural community in western Kenya.
-34502092	Arboviruses: How Saliva Impacts the Journey from Vector to Host.
-34501720	Intergenerational Association of Short Maternal Stature with Stunting in Yanomami Indigenous Children from the Brazilian Amazon.
