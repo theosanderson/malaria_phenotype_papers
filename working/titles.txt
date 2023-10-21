@@ -354,7 +354,7 @@
 37742789	Chloroquine attenuates diet-induced obesity and glucose intolerance through a mechanism that might involve FGF-21, but not UCP-1-mediated thermogenesis and inhibition of adipocyte autophagy.
 37742788	Zoonotic simian malaria parasites in free-ranging Macaca fascicularis macaques and human malaria patients in Thailand, with a note on genetic characterization of recent isolates.
 37741812	The effects of hydroxychloroquine and its promising use in refractory obstetric antiphospholipid syndrome.
-37740561	Current rates of purchasing of antibiotics without a prescription across sub-saharan Africa; rationale and potential programmes to reduce inappropriate dispensing and resistance.
+37740561	Current rates of purchasing of antibiotics without a prescription across sub-Saharan Africa; rationale and potential programmes to reduce inappropriate dispensing and resistance.
 37740453	Where is the EXIT? Phenotypic screens for new egress factors in apicomplexan parasites.
 37740400	Oudemansin and 9-methoxystrobilurin derivatives with antimalarial activity from cultures of the basidiomycete Favolaschia minutissima: assignments of the absolute configurations of the isoprene-derived units.
 37739263	Malaria parasite prevalence among migrants: a systematic review and meta-analysis.
