@@ -1,3 +1,12 @@
+37865802	Vulnerability to health and well-being of internally displaced persons (IDPs) in Myanmar post-military coup and COVID-19.
+37865784	Safety and tolerability of repeated doses of dihydroartemisinin-piperaquine for intermittent preventive treatment of malaria in pregnancy: a systematic review and an aggregated data meta-analysis of randomized controlled trials.
+37865735	Bionomics of malaria vectors in Lao PDR, 2018-2020: entomological surveillance as a key tool for malaria elimination.
+37865610	Still running fast: Plasmodium ookinetes and sporozoites 125 years after their discovery.
+37865609	Nanopore sequencing for malaria molecular surveillance: opportunities and challenges.
+37865476	Diabetes Care in Humanitarian Settings.
+37865152	Drug selection pressure and Fitness cost for artemether-resistant Plasmodium berghei ANKA parasites in vivo.
+37865114	mRNA vaccine against malaria effective in preclinical model.
+37865113	Evolution and spread of Plasmodium falciparum mutations associated with resistance to sulfadoxine-pyrimethamine in central Africa: a cross-sectional study.
 37864522	Trends in clinical features and severity of Plasmodium vivax malaria among children at tertiary care center in North India.
 37864245	The provision of malaria services in border districts of four countries in Southern Africa: results from a cross-sectional community assessment of malaria border health posts.
 37864217	Differences in malaria vector biting behavior and changing vulnerability to malaria transmission in contrasting ecosystems of western Kenya.
@@ -9988,12 +9997,3 @@
 34505450	[Epidemic situation of malaria in Jiangsu Province in 2019].
 34505447	[Drug-resistant gene polymorphisms in Plasmodium falciparum isolated from Bioko Island, Equatorial Guinea in 2018 and 2019].
 34505446	[Study on emergency metabolic changes of Anopheles sinensis larvae following exposure to deltamethrin].
-34505444	[Epidemic situation and diagnosis of imported malaria before and after malaria elimination in Nanjing City, Jiangsu Province].
-34504894	A Disease Control-Oriented Land Cover Land Use Map for Myanmar.
-34504541	Ethnomedicinal Use, Phytochemistry, and Pharmacology of Xylocarpus granatum J. Koenig.
-34504134	A universal vaccine candidate against Plasmodium vivax malaria confers protective immunity against the three PvCSP alleles.
-34503910	Oxidative stress, malaria, sickle cell disease, and innate immunity.
-34503698	Plasma Levels of a Product of Free Radical Injury and Antioxidant Status of Patients with Different Grades of Plasmodium Falciparum Infection.
-34503543	Stable transfection system for Babesia sp. Xinjiang.
-34503519	Development of weight and age-based dosing of daily primaquine for radical cure of vivax malaria.
-34503499	Can complement fix placental malaria?
