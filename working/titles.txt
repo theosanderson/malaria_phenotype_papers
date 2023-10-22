@@ -1,10 +1,10 @@
 37865802	Vulnerability to health and well-being of internally displaced persons (IDPs) in Myanmar post-military coup and COVID-19.
 37865784	Safety and tolerability of repeated doses of dihydroartemisinin-piperaquine for intermittent preventive treatment of malaria in pregnancy: a systematic review and an aggregated data meta-analysis of randomized controlled trials.
-37865735	Bionomics of malaria vectors in Lao PDR, 2018-2020: entomological surveillance as a key tool for malaria elimination.
-37865610	Still running fast: Plasmodium ookinetes and sporozoites 125 years after their discovery.
 37865609	Nanopore sequencing for malaria molecular surveillance: opportunities and challenges.
 37865476	Diabetes Care in Humanitarian Settings.
 37865152	Drug selection pressure and Fitness cost for artemether-resistant Plasmodium berghei ANKA parasites in vivo.
+37865735	Bionomics of malaria vectors in Lao PDR, 2018-2020: entomological surveillance as a key tool for malaria elimination.
+37865610	Still running fast: Plasmodium ookinetes and sporozoites 125 years after their discovery.
 37865114	mRNA vaccine against malaria effective in preclinical model.
 37865113	Evolution and spread of Plasmodium falciparum mutations associated with resistance to sulfadoxine-pyrimethamine in central Africa: a cross-sectional study.
 37864522	Trends in clinical features and severity of Plasmodium vivax malaria among children at tertiary care center in North India.
