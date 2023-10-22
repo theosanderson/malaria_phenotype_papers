@@ -1,3 +1,4 @@
+37864522	Trends in clinical features and severity of Plasmodium vivax malaria among children at tertiary care center in North India.
 37864245	The provision of malaria services in border districts of four countries in Southern Africa: results from a cross-sectional community assessment of malaria border health posts.
 37864217	Differences in malaria vector biting behavior and changing vulnerability to malaria transmission in contrasting ecosystems of western Kenya.
 37861484	Prevalence of Plasmodium species in Badr Governorate, Madinah Province, Saudi Arabia using microscopy and rapid diagnostic test.
@@ -9996,4 +9997,3 @@
 34503543	Stable transfection system for Babesia sp. Xinjiang.
 34503519	Development of weight and age-based dosing of daily primaquine for radical cure of vivax malaria.
 34503499	Can complement fix placental malaria?
-34503469	Epidemiological and clinical implications of asymptomatic malaria and schistosomiasis co-infections in a rural community in western Kenya.
