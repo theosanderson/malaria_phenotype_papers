@@ -1,3 +1,9 @@
+37868429	An Ecological Approach to Disaster Mitigation: A Literature Review.
+37867657	Pharmacophore Model-Based Virtual Screening Workflow for Discovery of Inhibitors Targeting Plasmodium falciparum Hsp90.
+37867646	Identification of Novel, Potent, and Selective Compounds against Malaria Using Glideosomal-Associated Protein 50 as a Drug Target.
+37867624	The relationship between climate change and malaria in South-East Asia: A systematic review of the evidence.
+37867542	Delayed cerebellar ataxia induced by Plasmodium falciparum malaria: A rare complication.
+37867307	Antimalarial compounds from the climbing stems of salacia debilis.
 37866823	A SURVEY ON MOSQUITO CONTROL KNOWLEDGE AND INSECTICIDE USE IN NEW ORLEANS, LA, 2020-2021.
 37866714	Imidazo[2,1-b]thiazole Based Indoleamine-2,3-dioxygenase (IDO)-1 Inhibitor: Structure Based Design, Synthesis, Bio-evaluation and Docking Studies.
 37866427	DHA-RICH FISH OIL PLAYS A PROTECTIVE ROLE AGAINST EXPERIMENTAL CEREBRAL MALARIA BY CONTROLLING INFLAMMATORY AND MECHANICAL EVENTS FROM INFECTION.
@@ -9991,9 +9997,3 @@
 34508669	Health-care provision and policy for non-alcoholic fatty liver disease in sub-Saharan Africa.
 34508376	Esophageal cancer epidemiology, diagnosis, and management in Sudan - A review.
 34508346	Characteristics of severe malaria in hospitalized children in Ho Chi Minh City from 2012 to 2019.
-34508245	How COVID is derailing the fight against HIV, TB and malaria.
-34508114	Partial indoor residual spraying with pirimiphos-methyl as an effective and cost-saving measure for the control of Anopheles gambiae s.l. in northern Ghana.
-34507602	Analysis of contamination in cluster randomized trials of malaria interventions.
-34507582	Comparison of the impact of allelic polymorphisms in PfAMA1 on the induction of T Cell responses in high and low malaria endemic communities in Ghana.
-34507579	Antimicrobial stewardship: Assessment of knowledge, awareness of antimicrobial resistance and appropriate antibiotic use among healthcare students in a Nigerian University.
-34507538	Prevalence and risk factors of human brucellosis and malaria among patients with fever in malaria-endemic areas, attending health institutes in Awra and Gulina district, Afar Region, Ethiopia.
