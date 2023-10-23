@@ -1,3 +1,4 @@
+37870345	[Extracorporeal support treatment in severe malaria].
 37868429	An Ecological Approach to Disaster Mitigation: A Literature Review.
 37867657	Pharmacophore Model-Based Virtual Screening Workflow for Discovery of Inhibitors Targeting Plasmodium falciparum Hsp90.
 37867646	Identification of Novel, Potent, and Selective Compounds against Malaria Using Glideosomal-Associated Protein 50 as a Drug Target.
@@ -9996,4 +9997,3 @@
 34508864	Antimicrobial resistance: A challenge awaiting the post-COVID-19 era.
 34508669	Health-care provision and policy for non-alcoholic fatty liver disease in sub-Saharan Africa.
 34508376	Esophageal cancer epidemiology, diagnosis, and management in Sudan - A review.
-34508346	Characteristics of severe malaria in hospitalized children in Ho Chi Minh City from 2012 to 2019.
