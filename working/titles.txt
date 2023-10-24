@@ -1,3 +1,7 @@
+37873636	CRISPR-Cas Technology as a Revolutionary Genome Editing tool: Mechanisms and Biomedical Applications.
+37873322	MOIRE: A software package for the estimation of allele frequencies and effective multiplicity of infection from polyallelic data.
+37873198	A methoxylated flavone from Artemisia afra kills Mycobacterium tuberculosis.
+37872763	Impact of the COVID-19 pandemic on malaria in pregnancy indicators in Northern Uganda: a joinpoint regression analysis.
 37872634	Performance of ultra-sensitive malaria rapid diagnostic test to detect Plasmodium falciparum infection in pregnant women in Kinshasa, the Democratic Republic of the Congo.
 37872594	Gametocyte prevalence and risk factors of P. falciparum malaria patients admitted at the Hospital for Tropical Diseases, Thailand: a 20-year retrospective study.
 37872492	Background malaria incidence and parasitemia during the three-dose RTS,S/AS01 vaccination series do not reduce magnitude of antibody response nor efficacy against the first case of malaria.
@@ -381,7 +385,7 @@
 37745261	Phytochemical Analysis, Antimalarial Properties, and Acute Toxicity of Aqueous Extracts of Trisamo and Jatu-Phala-Tiga Recipes.
 37744999	An improved framework for detecting discrete epidemiologically meaningful partitions in hierarchically clustered genetic data.
 37744849	Transcriptomics-Guided In Silico Drug Repurposing: Identifying New Candidates with Dual-Stage Antiplasmodial Activity.
-37744730	-Pharmacokinetics of drugs used to treat uncomplicated malaria in breastfeeding mother-infant pairs: An observational pharmacokinetic study.
+37744730	-Pharmacokinetics of antimalarial drugs used to treat uncomplicated malaria in breastfeeding mother-infant pairs: An observational pharmacokinetic study.
 37743476	Haematological parameters and their correlation with the degree of malaria parasitaemia among outpatients attending a polyclinic.
 37742789	Chloroquine attenuates diet-induced obesity and glucose intolerance through a mechanism that might involve FGF-21, but not UCP-1-mediated thermogenesis and inhibition of adipocyte autophagy.
 37742788	Zoonotic simian malaria parasites in free-ranging Macaca fascicularis macaques and human malaria patients in Thailand, with a note on genetic characterization of recent isolates.
@@ -3029,7 +3033,7 @@
 36844021	Genetic diversity of Plasmodium vivax isolates from pregnant women in the Western Brazilian Amazon: a prospective cohort study.
 36844012	Novel Plasmodium vivax genomes from Brazil identify targets for studies on drug resistance, transmission networks, and parasite evolution.
 36844008	Population-based genomic study of Plasmodium vivax malaria in seven Brazilian states and across South America.
-36843374	A short review of antimalarial compounds with sulfonamide moiety.
+36843374	A Short Review of Antimalarial Compounds with Sulfonamide Moiety.
 36842543	CRISPR/Cas advancements for genome editing, diagnosis, therapeutics, and vaccine development for Plasmodium parasites, and genetic engineering of Anopheles mosquito vector.
 36842196	Malarial and intestinal parasitic co-infections in indigenous populations of the Brazilian Amazon rainforest.
 36841756	Adherence to severe malaria treatment guidelines in children at a Ugandan regional hospital: a baseline assessment for a malaria treatment quality improvement project.
@@ -9993,7 +9997,3 @@
 34512786	Antiplasmodial Activity of the Crude Extract and Solvent Fractions of Stem Barks of Gardenia ternifolia in Plasmodium berghei-Infected Mice.
 34512769	Assessment of Knowledge, Attitude, and Practice towards Prevention and Control of Malaria in Halaba Town, Southern Ethiopia, 2017.
 34512663	Immunopotentiation by Lymph-Node Targeting of a Malaria Transmission-Blocking Nanovaccine.
-34511592	Editorial: The First Monoclonal Antibody Vaccine to Prevent Malaria Heralds a New Era of Malaria Vaccines to the Plasmodium falciparum Circumsporozoite Protein (PfCSP).
-34511150	Investigation of US Cyclospora cayetanensis outbreaks in 2019 and evaluation of an improved Cyclospora genotyping system against 2019 cyclosporiasis outbreak clusters.
-34509862	Antiviral evaluation of hydroxyethylamine analogs: Inhibitors of SARS-CoV-2 main protease (3CLpro), a virtual screening and simulation approach.
-34509708	Unraveling a natural protease inhibitor from marine Streptomyces griseoincarnatus HK12 active against Chikungunya virus.
