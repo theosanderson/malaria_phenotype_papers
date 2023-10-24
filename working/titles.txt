@@ -1,3 +1,4 @@
+37874152	Human ApoE2 protects mice against Plasmodium berghei ANKA experimental cerebral malaria.
 37873636	CRISPR-Cas Technology as a Revolutionary Genome Editing tool: Mechanisms and Biomedical Applications.
 37873322	MOIRE: A software package for the estimation of allele frequencies and effective multiplicity of infection from polyallelic data.
 37873198	A methoxylated flavone from Artemisia afra kills Mycobacterium tuberculosis.
@@ -358,6 +359,7 @@
 37751428	Aedes albopictus microbiota: Differences between wild and mass-reared immatures do not suggest negative impacts from a diet based on black soldier fly larvae and fish food.
 37750720	Whole-genome surveillance identifies markers of Plasmodium falciparum drug resistance and novel genomic regions under selection in Mozambique.
 37750704	AP2XII-1 is a negative regulator of merogony and presexual commitment in Toxoplasma gondii.
+37750699	Transfusion-transmitted Babesia spp.: a changing landscape of epidemiology, regulation, and risk mitigation.
 37749591	Correction: Shifting transmission risk for malaria in Africa with climate change: a framework for planning and intervention.
 37749577	Microsporidia MB in the primary malaria vector Anopheles gambiae sensu stricto is avirulent and undergoes maternal and horizontal transmission.
 37749432	Review: genetic background of milk fatty acid synthesis in bovines.
@@ -9995,5 +9997,3 @@
 34514451	Is malaria elimination a distant dream? Reconsidering malaria elimination strategies in Zimbabwe.
 34512854	[Polymorphisms in Plasmodium falciparum parasites and mutations in the resistance genes Pfcrt and Pfmdr1 in Nanoro area, Burkina Faso].
 34512786	Antiplasmodial Activity of the Crude Extract and Solvent Fractions of Stem Barks of Gardenia ternifolia in Plasmodium berghei-Infected Mice.
-34512769	Assessment of Knowledge, Attitude, and Practice towards Prevention and Control of Malaria in Halaba Town, Southern Ethiopia, 2017.
-34512663	Immunopotentiation by Lymph-Node Targeting of a Malaria Transmission-Blocking Nanovaccine.
