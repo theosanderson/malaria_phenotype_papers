@@ -97,6 +97,7 @@
 37840598	CRISPR-based Biosensors for Human Health: A Novel Strategy to Detect Emerging Infectious Diseases.
 37839913	How colonization bottlenecks, tissue niches, and transmission strategies shape protozoan infections.
 37839415	Malaria community welcomes WHO vaccine approval.
+36580567	
 37839134	Efficacy and safety of ivermectin for the treatment of Plasmodium falciparum infections in asymptomatic male and female Gabonese adults - a pilot randomized, double-blind, placebo-controlled single-centre phase Ib/IIa clinical trial.
 37838431	Immunisation Agenda 2030: prioritising sustainable immunisation financing.
 37837932	Intestinal barrier disruption with Plasmodium falciparum infection in pregnancy and risk of preterm birth: a cohort study.
@@ -2849,7 +2850,6 @@
 36909482	Coping with drug resistant tuberculosis alongside COVID-19 and other stressors in Zimbabwe: a qualitative study.
 36908639	Molecular Surveillance of Malaria Using the PF AmpliSeq Custom Assay for Plasmodium falciparum Parasites from Dried Blood Spot DNA Isolates from Peru.
 36908393	Impact of helminthiasis on gestational anemia in low- and middle-income countries: a systematic review and meta-analysis of more than 19,000 women.
-36580567	
 36907541	Synthesis, characterization, antioxidant and antiparasitic activities new naphthyl-thiazole derivatives.
 36907290	Identification of three members of the multidomain adhesion CCp family in Babesia gibsoni.
 36906823	Hydroxyurea for children with sickle cell disease in sub-Saharan Africa: A summary of the evidence, opportunities, and challenges.
