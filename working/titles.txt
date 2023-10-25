@@ -1,8 +1,8 @@
-37875996	Co-designing community-based interventions to tackle antimicrobial resistance (AMR): what to include and why.
 37875775	Hemophagocytic lymphohistiocytosis-how common and how severe is it as a complication of malaria? Retrospective case series and review of the literature.
+37875239	Thymic atrophy induced by Plasmodium berghei ANKA and Plasmodium yoelii 17XL Infection.
+37875996	Co-designing community-based interventions to tackle antimicrobial resistance (AMR): what to include and why.
 37875558	Author Correction: Multiclass malaria parasite recognition based on transformer models and a generative adversarial network.
 37875508	Optimization of Plasmodium vivax infection of colonized Amazonian Anopheles darlingi.
-37875239	Thymic atrophy induced by Plasmodium berghei ANKA and Plasmodium yoelii 17XL Infection.
 37874849	Geospatial based model for malaria risk prediction in Kilombero valley, South-eastern, Tanzania.
 37874152	Human ApoE2 protects mice against Plasmodium berghei ANKA experimental cerebral malaria.
 37873636	CRISPR-Cas Technology as a Revolutionary Genome Editing tool: Mechanisms and Biomedical Applications.
