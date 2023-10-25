@@ -1,3 +1,4 @@
+37874849	Geospatial based model for malaria risk prediction in Kilombero valley, South-eastern, Tanzania.
 37874152	Human ApoE2 protects mice against Plasmodium berghei ANKA experimental cerebral malaria.
 37873636	CRISPR-Cas Technology as a Revolutionary Genome Editing tool: Mechanisms and Biomedical Applications.
 37873322	MOIRE: A software package for the estimation of allele frequencies and effective multiplicity of infection from polyallelic data.
@@ -9996,4 +9997,3 @@
 34514656	KAHRP dynamically relocalizes to remodeled actin junctions and associates with knob spirals in Plasmodium falciparum-infected erythrocytes.
 34514451	Is malaria elimination a distant dream? Reconsidering malaria elimination strategies in Zimbabwe.
 34512854	[Polymorphisms in Plasmodium falciparum parasites and mutations in the resistance genes Pfcrt and Pfmdr1 in Nanoro area, Burkina Faso].
-34512786	Antiplasmodial Activity of the Crude Extract and Solvent Fractions of Stem Barks of Gardenia ternifolia in Plasmodium berghei-Infected Mice.
