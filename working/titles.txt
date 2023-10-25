@@ -1,3 +1,8 @@
+37875996	Co-designing community-based interventions to tackle antimicrobial resistance (AMR): what to include and why.
+37875775	Hemophagocytic lymphohistiocytosis-how common and how severe is it as a complication of malaria? Retrospective case series and review of the literature.
+37875558	Author Correction: Multiclass malaria parasite recognition based on transformer models and a generative adversarial network.
+37875508	Optimization of Plasmodium vivax infection of colonized Amazonian Anopheles darlingi.
+37875239	Thymic atrophy induced by Plasmodium berghei ANKA and Plasmodium yoelii 17XL Infection.
 37874849	Geospatial based model for malaria risk prediction in Kilombero valley, South-eastern, Tanzania.
 37874152	Human ApoE2 protects mice against Plasmodium berghei ANKA experimental cerebral malaria.
 37873636	CRISPR-Cas Technology as a Revolutionary Genome Editing tool: Mechanisms and Biomedical Applications.
@@ -9992,8 +9997,3 @@
 34517141	New insights into the spread of resistance to artemisinin and its analogues.
 34516650	ASSESSMENT OF VARIATION IN THE DETECTION AND PREVALENCE OF BLOOD PARASITES AMONG SYMPATRICALLY BREEDING GEESE IN WESTERN ALASKA, USA.
 34516625	Cananga odorata (Magnoliales: Annonaceae) Essential Oil Produces Significant Avoidance Behavior in Mosquitoes.
-34516247	Evolution of Multidrug Resistance in Plasmodium falciparum: a Longitudinal Study of Genetic Resistance Markers in the Greater Mekong Subregion.
-34515999	Inferior T cell immunogenicity of a Plasmodium berghei model liver stage antigen expressed throughout pre-erythrocytic maturation.
-34514656	KAHRP dynamically relocalizes to remodeled actin junctions and associates with knob spirals in Plasmodium falciparum-infected erythrocytes.
-34514451	Is malaria elimination a distant dream? Reconsidering malaria elimination strategies in Zimbabwe.
-34512854	[Polymorphisms in Plasmodium falciparum parasites and mutations in the resistance genes Pfcrt and Pfmdr1 in Nanoro area, Burkina Faso].
