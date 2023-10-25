@@ -1,3 +1,4 @@
+37877504	Quinolines: A Promising Heterocyclic Scaffold for Cancer Therapeutics.
 37876858	Asymptomatic Malaria During Pregnancy: Prevalence, Influence on Anemia and Associated Factors in West Guji Zone, Ethiopia - A Community-Based Study.
 37876558	Fetal Growth Retardation is Associated with High Apoptotic Cells and Low VEGF Expression in Placenta of Malarial Pregnant Mice.
 37876477	Towards an integrated vector management approach for sustainable control of schistosomiasis and malaria in Mwea, Kirinyaga County, Kenya: Baseline epidemiological and vector results.
@@ -17,7 +18,7 @@
 37872492	Background malaria incidence and parasitemia during the three-dose RTS,S/AS01 vaccination series do not reduce magnitude of antibody response nor efficacy against the first case of malaria.
 37871675	Community Health Workers in clinical research at the example of a phase IIIb/ IV antimalarial drug trial conducted in five African countries.
 37871590	Impact of Pyrethroid Plus Piperonyl Butoxide Synergist-Treated Nets on Malaria Incidence 24 Months after a National Distribution Campaign in Rwanda.
-37871569	Caracterización molecular del dominio de la hélice del gen k13 de Plasmodium falciparum en muestras de comunidades nativas de Condorcanqui, Amazonas, Perú.
+37871569	Molecular characterization of the Plasmodium falciparum k13 gene helix domain in samples from native communities of Condorcanqui, Amazonas, Perú.
 37870345	[Extracorporeal support treatment in severe malaria].
 37868429	An Ecological Approach to Disaster Mitigation: A Literature Review.
 37867657	Pharmacophore Model-Based Virtual Screening Workflow for Discovery of Inhibitors Targeting Plasmodium falciparum Hsp90.
@@ -9996,4 +9997,3 @@
 34517875	The role of ideation on the effect of an SBC intervention on consistent bed net use among caregivers of children under 5 years in Nigeria: a multilevel mediation analysis.
 34517853	Isolation of bioactive compounds from medicinal plants used in traditional medicine: Rautandiol B, a potential lead compound against Plasmodium falciparum.
 34517794	Recent Advances in the Development of Triose Phosphate Isomerase Inhibitors as Antiprotozoal Agents.
-34517509	An age-structured epidemic model with boosting and waning of immune status.
