@@ -1,8 +1,11 @@
-37875775	Hemophagocytic lymphohistiocytosis-how common and how severe is it as a complication of malaria? Retrospective case series and review of the literature.
-37875239	Thymic atrophy induced by Plasmodium berghei ANKA and Plasmodium yoelii 17XL Infection.
+37876858	Asymptomatic Malaria During Pregnancy: Prevalence, Influence on Anemia and Associated Factors in West Guji Zone, Ethiopia - A Community-Based Study.
+37876558	Fetal Growth Retardation is Associated with High Apoptotic Cells and Low VEGF Expression in Placenta of Malarial Pregnant Mice.
+37876477	Towards an integrated vector management approach for sustainable control of schistosomiasis and malaria in Mwea, Kirinyaga County, Kenya: Baseline epidemiological and vector results.
 37875996	Co-designing community-based interventions to tackle antimicrobial resistance (AMR): what to include and why.
+37875775	Hemophagocytic lymphohistiocytosis-how common and how severe is it as a complication of malaria? Retrospective case series and review of the literature.
 37875558	Author Correction: Multiclass malaria parasite recognition based on transformer models and a generative adversarial network.
 37875508	Optimization of Plasmodium vivax infection of colonized Amazonian Anopheles darlingi.
+37875239	Thymic atrophy induced by Plasmodium berghei ANKA and Plasmodium yoelii 17XL Infection.
 37874849	Geospatial based model for malaria risk prediction in Kilombero valley, South-eastern, Tanzania.
 37874152	Human ApoE2 protects mice against Plasmodium berghei ANKA experimental cerebral malaria.
 37873636	CRISPR-Cas Technology as a Revolutionary Genome Editing tool: Mechanisms and Biomedical Applications.
@@ -9994,6 +9997,3 @@
 34517853	Isolation of bioactive compounds from medicinal plants used in traditional medicine: Rautandiol B, a potential lead compound against Plasmodium falciparum.
 34517794	Recent Advances in the Development of Triose Phosphate Isomerase Inhibitors as Antiprotozoal Agents.
 34517509	An age-structured epidemic model with boosting and waning of immune status.
-34517141	New insights into the spread of resistance to artemisinin and its analogues.
-34516650	ASSESSMENT OF VARIATION IN THE DETECTION AND PREVALENCE OF BLOOD PARASITES AMONG SYMPATRICALLY BREEDING GEESE IN WESTERN ALASKA, USA.
-34516625	Cananga odorata (Magnoliales: Annonaceae) Essential Oil Produces Significant Avoidance Behavior in Mosquitoes.
