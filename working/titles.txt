@@ -1,3 +1,7 @@
+37881078	Murine Malaria Model: Ketoconazole Preventing Malaria while Proguanil and Sulfadoxine/Pyrimethamine Protected against Malaria-associated Anemia and Kidney Damage.
+37880774	Assessing IRS performance in a gender-integrated vector control programme on Bioko Island, Equatorial Guinea, 2010-2021.
+37880730	Correction: Droplet digital polymerase chain reaction (ddPCR) for the detection of Plasmodium knowlesi and Plasmodium vivax.
+37880694	Severe malaria burden, clinical spectrum and outcomes at Apac district hospital, Uganda: a retrospective study of routine health facility-based data.
 37880367	Leishmania genetic exchange is mediated by IgM natural antibodies.
 37879855	Diagnostic value of rapid test for malaria among febrile neonates in a tertiary hospital in North-East Nigeria: a prospective cross-sectional study.
 37878602	Malaria is the leading cause of acute kidney injury among a Zambian paediatric renal service cohort retrospectively evaluated for aetiologies, predictors of the need for dialysis, and outcomes.
@@ -9993,7 +9997,3 @@
 34520272	Identification of Phasi Charoen-Like Phasivirus in Field Collected Aedes aegypti from Karnataka State, India.
 34519517	Bispecific antibodies targeting distinct regions of the spike protein potently neutralize SARS-CoV-2 variants of concern.
 34518679	Safety, immunogenicity and efficacy of PfSPZ Vaccine against malaria in infants in western Kenya: a double-blind, randomized, placebo-controlled phase 2 trial.
-34518678	Malaria: a problem to be solved and a time to be bold.
-34518543	Immunoprofiles associated with controlled human malaria infection and naturally acquired immunity identify a shared IgA pre-erythrocytic immunoproteome.
-34518274	Health-seeking behaviour and cost of fever treatment to households in a malaria-endemic setting of northern Ghana: a cross-sectional study.
-34518217	TBK1 and IKKε act like an OFF switch to limit NLRP3 inflammasome pathway activation.
