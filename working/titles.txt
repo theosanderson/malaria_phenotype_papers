@@ -1,3 +1,4 @@
+37878602	Malaria is the leading cause of acute kidney injury among a Zambian paediatric renal service cohort retrospectively evaluated for aetiologies, predictors of the need for dialysis, and outcomes.
 37877504	Quinolines: A Promising Heterocyclic Scaffold for Cancer Therapeutics.
 37876858	Asymptomatic Malaria During Pregnancy: Prevalence, Influence on Anemia and Associated Factors in West Guji Zone, Ethiopia - A Community-Based Study.
 37876558	Fetal Growth Retardation is Associated with High Apoptotic Cells and Low VEGF Expression in Placenta of Malarial Pregnant Mice.
@@ -9996,4 +9997,3 @@
 34518217	TBK1 and IKKε act like an OFF switch to limit NLRP3 inflammasome pathway activation.
 34517875	The role of ideation on the effect of an SBC intervention on consistent bed net use among caregivers of children under 5 years in Nigeria: a multilevel mediation analysis.
 34517853	Isolation of bioactive compounds from medicinal plants used in traditional medicine: Rautandiol B, a potential lead compound against Plasmodium falciparum.
-34517794	Recent Advances in the Development of Triose Phosphate Isomerase Inhibitors as Antiprotozoal Agents.
