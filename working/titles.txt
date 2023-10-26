@@ -1,3 +1,5 @@
+37880367	Leishmania genetic exchange is mediated by IgM natural antibodies.
+37879855	Diagnostic value of rapid test for malaria among febrile neonates in a tertiary hospital in North-East Nigeria: a prospective cross-sectional study.
 37878602	Malaria is the leading cause of acute kidney injury among a Zambian paediatric renal service cohort retrospectively evaluated for aetiologies, predictors of the need for dialysis, and outcomes.
 37877504	Quinolines: A Promising Heterocyclic Scaffold for Cancer Therapeutics.
 37876858	Asymptomatic Malaria During Pregnancy: Prevalence, Influence on Anemia and Associated Factors in West Guji Zone, Ethiopia - A Community-Based Study.
@@ -318,7 +320,7 @@
 37771251	Myxobolus xiushanensis n. sp. (Myxozoa: Myxobolidae) infecting the gill arches of Yellowhead Catfish Tachysurus fulvidraco from China.
 37770632	Immunological factors linked to geographical variation in vaccine responses.
 37769895	Determine the enzymatic kinetic characteristics of CYP3A4 variants utilizing artemether-lumefantrine.
-37769784	The sex-specific factor SOA controls dosage compensation in Anopheles mosquitos.
+37769784	The sex-specific factor SOA controls dosage compensation in Anopheles mosquitoes.
 37769577	Invasion-inhibitory peptides chosen by natural selection analysis as an antimalarial strategy.
 37769318	Malaria and Pregnancy: What Obstetricians Need to Know.
 37768924	Consequences of Type-2 diabetes mellitus and Malaria co-morbidity on sperm parameters in men; a case-control study in a district hospital in the Ashanti Region of Ghana.
@@ -9995,5 +9997,3 @@
 34518543	Immunoprofiles associated with controlled human malaria infection and naturally acquired immunity identify a shared IgA pre-erythrocytic immunoproteome.
 34518274	Health-seeking behaviour and cost of fever treatment to households in a malaria-endemic setting of northern Ghana: a cross-sectional study.
 34518217	TBK1 and IKKε act like an OFF switch to limit NLRP3 inflammasome pathway activation.
-34517875	The role of ideation on the effect of an SBC intervention on consistent bed net use among caregivers of children under 5 years in Nigeria: a multilevel mediation analysis.
-34517853	Isolation of bioactive compounds from medicinal plants used in traditional medicine: Rautandiol B, a potential lead compound against Plasmodium falciparum.
