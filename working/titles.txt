@@ -1,3 +1,5 @@
+37882786	The P. falciparum alternative histones Pf H2A.Z and Pf H2B.Z are dynamically acetylated and antagonized by PfSir2 histone deacetylases at heterochromatin boundaries.
+37882543	A patatin-like phospholipase is important for mitochondrial function in malaria parasites.
 37881078	Murine Malaria Model: Ketoconazole Preventing Malaria while Proguanil and Sulfadoxine/Pyrimethamine Protected against Malaria-associated Anemia and Kidney Damage.
 37880774	Assessing IRS performance in a gender-integrated vector control programme on Bioko Island, Equatorial Guinea, 2010-2021.
 37880730	Correction: Droplet digital polymerase chain reaction (ddPCR) for the detection of Plasmodium knowlesi and Plasmodium vivax.
@@ -9995,5 +9997,3 @@
 34520486	Dengue virus in humans and mosquitoes and their molecular characteristics in northeastern Thailand 2016-2018.
 34520452	Correction: Expansion microscopy provides new insights into the cytoskeleton of malaria parasites including the conservation of a conoid.
 34520272	Identification of Phasi Charoen-Like Phasivirus in Field Collected Aedes aegypti from Karnataka State, India.
-34519517	Bispecific antibodies targeting distinct regions of the spike protein potently neutralize SARS-CoV-2 variants of concern.
-34518679	Safety, immunogenicity and efficacy of PfSPZ Vaccine against malaria in infants in western Kenya: a double-blind, randomized, placebo-controlled phase 2 trial.
