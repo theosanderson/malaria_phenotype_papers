@@ -1,3 +1,15 @@
+37889513	RTS, S/AS02A malaria vaccine-induced IgG responses equally recognize native-like fucosylated and non-fucosylated Plasmodium falciparum circumsporozoite proteins.
+37889376	Coinfections and antimicrobial treatment in a cohort of falciparum malaria in a non-endemic country: a 10-year experience.
+37889073	Evolution of Orthonectida body plan.
+37888607	Bioecological Aspects of Species of the Subgenus Mansonia (Mansonia) (Diptera: Culicidae) Prior to the Installation of Hydroelectric Dams on the Madeira River, Rondônia State, Brazil.
+37888606	Plasmodium knowlesi (Pk) Malaria: A Review & Proposal of Therapeutically Rational Exchange (T-REX) of Pk-Resistant Red Blood Cells.
+37888603	Long-Lasting Insecticide-Treated Nets Combined or Not with Indoor Residual Spraying May Not Be Sufficient to Eliminate Malaria: A Case-Control Study, Benin, West Africa.
+37888594	Multiplex Reverse Transcription Polymerase Chain Reaction Combined with a Microwell Hybridization Assay Screening for Arbovirus and Parasitic Infections in Febrile Patients Living in Endemic Regions of Colombia.
+37888591	Relationship between Duffy Genotype/Phenotype and Prevalence of Plasmodium vivax Infection: A Systematic Review.
+37888587	A Systematic Review on the Viruses of Anopheles Mosquitoes: The Potential Importance for Public Health.
+37887778	Plasmodium Infection-Cure Cycles Increase the Capacity of Phagocytosis in Conventional Dendritic Cells.
+37887758	Novel Baicalein-Derived Inhibitors of Plasmodium falciparum.
+37887727	Unique Properties of Nutrient Channels on Plasmodium-Infected Erythrocytes.
 37886905	A conserved complex of microneme proteins mediates rhoptry discharge in Toxoplasma.
 37886593	Comparison of Plasmodium Vivax Infections in Duffy Negatives From Community and Health Center Collections in Ethiopia.
 37886590	Community and health worker perspectives on malaria in Meghalaya, India: Covering the last mile of elimination by 2030.
@@ -9985,15 +9997,3 @@
 34529963	Safety and long-term immunogenicity of the two-dose heterologous Ad26.ZEBOV and MVA-BN-Filo Ebola vaccine regimen in adults in Sierra Leone: a combined open-label, non-randomised stage 1, and a randomised, double-blind, controlled stage 2 trial.
 34529962	Safety and immunogenicity of the two-dose heterologous Ad26.ZEBOV and MVA-BN-Filo Ebola vaccine regimen in children in Sierra Leone: a randomised, double-blind, controlled trial.
 34529696	Assessment of malaria infection among pregnant women and children below five years of age attending rural health facilities of Kenya: A cross-sectional survey in two counties of Kenya.
-34529649	Early warning systems (EWSs) for chikungunya, dengue, malaria, yellow fever, and Zika outbreaks: What is the evidence? A scoping review.
-34528368	Same-day antiretroviral therapy initiation for people living with HIV who have tuberculosis symptoms: a systematic review.
-34527954	MalariaCometChip for high-throughput quantification of DNA damage in Plasmodium falciparum.
-34527745	Differential Effect of Antioxidants Glutathione and Vitamin C on the Hepatic Injuries Induced by Plasmodium berghei ANKA Infection.
-34527600	Genetic Manipulation of Non-Falciparum Human Malaria Parasites.
-34527439	Identifying transcript 5' capped ends in Plasmodium falciparum.
-34527168	The search for molecular mimicry in proteins carried by extracellular vesicles secreted by cells infected with Plasmodium falciparum.
-34526788	A Retrospective Study of Malaria Trend in Libokemkem District Over the Last Five Years: North West Ethiopia.
-34526770	Safety and Efficacy of Tafenoquine for Plasmodium vivax Malaria Prophylaxis and Radical Cure: Overview and Perspectives.
-34526119	Contrasting effects of the alkaloid ricinine on the capacity of Anopheles gambiae and Anopheles coluzzii to transmit Plasmodium falciparum.
-34526109	A comparison of PCR and ELISA methods to detect different stages of Plasmodium vivax in Anopheles arabiensis.
-34525920	Natural and Synthetic Naphthoquinones as Potential Anti-Infective Agents.
