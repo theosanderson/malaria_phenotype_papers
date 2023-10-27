@@ -1,5 +1,15 @@
-37884028	Evidence for a role of Anopheles stephensi in the spread of drug and diagnosis-resistant malaria in Africa.
+37886905	A conserved complex of microneme proteins mediates rhoptry discharge in Toxoplasma.
+37886593	Comparison of Plasmodium Vivax Infections in Duffy Negatives From Community and Health Center Collections in Ethiopia.
+37886590	Community and health worker perspectives on malaria in Meghalaya, India: Covering the last mile of elimination by 2030.
+37886535	Welcome to the next generation of Malaria Rapid Diagnostic Tests: Comparative Analysis of NxTek Eliminate Malaria P.f, Biocredit Malaria Ag Pf, and SD Bioline Malaria Ag Pf for Plasmodium falciparum Diagnosis in Ghana.
+37886248	Seasonal Trends with the Comparison of Venous and Capillary Blood for Diagnosis of Malaria among Children in Karachi, Pakistan.
+37886245	Splenic Infarction Secondary to COVID-19 and Malaria Co-Infection: A Case Report.
+37886226	Prevalence of asymptomatic malaria and associated factors among pregnant women in Ethiopia: systematic review and meta-analysis.
+37886140	Prevalence of TTI among Indian blood donors.
+37885398	[Autochthonous Case of Malaria Prediagnosed as Leukemia].
+37885389	[Investigation of the Efficacy of Cinnamaldehyde, Cannabidiol and Eravacycline in a Malaria Model].
 37884813	DNA-binding protein PfAP2-P regulates parasite pathogenesis during malaria parasite blood stages.
+37884028	Evidence for a role of Anopheles stephensi in the spread of drug and diagnosis-resistant malaria in Africa.
 37883602	The epidemiology of fecal carriage of nontyphoidal Salmonella among healthy children and adults in three sites in Kenya.
 37883572	First malaria vaccine slashes childhood deaths.
 37883486	Malaria treatment health seeking behaviors among international students at the University of Ghana Legon.
@@ -9987,13 +9997,3 @@
 34526119	Contrasting effects of the alkaloid ricinine on the capacity of Anopheles gambiae and Anopheles coluzzii to transmit Plasmodium falciparum.
 34526109	A comparison of PCR and ELISA methods to detect different stages of Plasmodium vivax in Anopheles arabiensis.
 34525920	Natural and Synthetic Naphthoquinones as Potential Anti-Infective Agents.
-34525285	Safety and Efficacy of a Typhoid Conjugate Vaccine in Malawian Children.
-34525091	Plasmodium vivax epidemiology in Ethiopia 2000-2020: A systematic review and meta-analysis.
-34525014	[Insecticide-Treated Net Use In Sub-Saharan Africa: Systematic Review and Meta-Analysis].
-34524109	Assessment of the Feasibility, Acceptability, and Impact of Implementing Seasonal Malaria Chemoprevention in Nampula Province, Mozambique: Protocol for a Hybrid Effectiveness-Implementation Study.
-34523978	B Cell Receptor Repertoire Analysis in Malaria-Naive and Malaria-Experienced Individuals Reveals Unique Characteristics of Atypical Memory B Cells.
-34523908	Prioritization of Molecular Targets for Antimalarial Drug Discovery.
-34523897	Splenomegaly: Diagnosis and Management in Adults.
-34523836	[The mortality in Amsterdam from 1554 to 2021].
-34522826	Malaria amidst COVID-19 in India: Challenges, Efforts, and Recommendations.
-34522553	Dengue Myocarditis Complicated by COVID-19: A Case Report on Dual Viral Infection.
