@@ -1,3 +1,8 @@
+37883602	The epidemiology of fecal carriage of nontyphoidal Salmonella among healthy children and adults in three sites in Kenya.
+37883572	First malaria vaccine slashes childhood deaths.
+37883486	Malaria treatment health seeking behaviors among international students at the University of Ghana Legon.
+37883438	Intracellular Plasmodium aquaporin 2 is important for sporozoite production in the mosquito vector and malaria transmission.
+37883328	The interdependence of isoprenoid synthesis and apicoplast biogenesis in malaria parasites.
 37882786	The P. falciparum alternative histones Pf H2A.Z and Pf H2B.Z are dynamically acetylated and antagonized by PfSir2 histone deacetylases at heterochromatin boundaries.
 37882543	A patatin-like phospholipase is important for mitochondrial function in malaria parasites.
 37881078	Murine Malaria Model: Ketoconazole Preventing Malaria while Proguanil and Sulfadoxine/Pyrimethamine Protected against Malaria-associated Anemia and Kidney Damage.
@@ -9992,8 +9997,3 @@
 34522553	Dengue Myocarditis Complicated by COVID-19: A Case Report on Dual Viral Infection.
 34521454	Prevalence of malaria and scrub typhus co-infection in febrile patients: a systematic review and meta-analysis.
 34521449	MicroRNA-497 induced by Clonorchis sinensis enhances the TGF-β/Smad signaling pathway to promote hepatic fibrosis by targeting Smad7.
-34521374	On the cost-effectiveness of insecticide-treated wall liner and indoor residual spraying as additions to insecticide treated bed nets to prevent malaria: findings from cluster randomized trials in Tanzania.
-34520934	Analysis of web-based travel health advice provided to international travellers with chronic medical and psychiatric illnesses.
-34520486	Dengue virus in humans and mosquitoes and their molecular characteristics in northeastern Thailand 2016-2018.
-34520452	Correction: Expansion microscopy provides new insights into the cytoskeleton of malaria parasites including the conservation of a conoid.
-34520272	Identification of Phasi Charoen-Like Phasivirus in Field Collected Aedes aegypti from Karnataka State, India.
