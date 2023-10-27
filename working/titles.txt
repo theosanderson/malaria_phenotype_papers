@@ -1,3 +1,5 @@
+37884813	DNA-binding protein PfAP2-P regulates parasite pathogenesis during malaria parasite blood stages.
+37884028	Evidence for a role of Anopheles stephensi in the spread of drug and diagnosis-resistant malaria in Africa.
 37883602	The epidemiology of fecal carriage of nontyphoidal Salmonella among healthy children and adults in three sites in Kenya.
 37883572	First malaria vaccine slashes childhood deaths.
 37883486	Malaria treatment health seeking behaviors among international students at the University of Ghana Legon.
@@ -41,7 +43,7 @@
 37867542	Delayed cerebellar ataxia induced by Plasmodium falciparum malaria: A rare complication.
 37867307	Antimalarial compounds from the climbing stems of salacia debilis.
 37866823	A SURVEY ON MOSQUITO CONTROL KNOWLEDGE AND INSECTICIDE USE IN NEW ORLEANS, LA, 2020-2021.
-37866714	Imidazo[2,1-b]thiazole Based Indoleamine-2,3-dioxygenase (IDO)-1 Inhibitor: Structure Based Design, Synthesis, Bio-evaluation and Docking Studies.
+37866714	Imidazo[2,1-b]thiazole based indoleamine-2,3-dioxygenase 1 (IDO1) inhibitor: Structure based design, synthesis, bio-evaluation and docking studies.
 37866427	DHA-RICH FISH OIL PLAYS A PROTECTIVE ROLE AGAINST EXPERIMENTAL CEREBRAL MALARIA BY CONTROLLING INFLAMMATORY AND MECHANICAL EVENTS FROM INFECTION.
 37866107	Anti-parasitic benzoxaboroles are ineffective against Theileria parva in vitro.
 37865802	Vulnerability to health and well-being of internally displaced persons (IDPs) in Myanmar post-military coup and COVID-19.
@@ -9995,5 +9997,3 @@
 34523836	[The mortality in Amsterdam from 1554 to 2021].
 34522826	Malaria amidst COVID-19 in India: Challenges, Efforts, and Recommendations.
 34522553	Dengue Myocarditis Complicated by COVID-19: A Case Report on Dual Viral Infection.
-34521454	Prevalence of malaria and scrub typhus co-infection in febrile patients: a systematic review and meta-analysis.
-34521449	MicroRNA-497 induced by Clonorchis sinensis enhances the TGF-β/Smad signaling pathway to promote hepatic fibrosis by targeting Smad7.
