@@ -1,3 +1,21 @@
+37897169	Genome-wide in silico analysis for novel regulators of gametocyte development critical for transmission of Plasmodium falciparum.
+37897161	Multiplicity of infection of Plasmodium knowlesi in Malaysia: an application of Pkmsp-1 block IV.
+37896969	Transmission-Blocking Vaccines for Canine Visceral Leishmaniasis: New Progress and Yet New Challenges.
+37896820	Exploring the Potential of Cytomegalovirus-Based Vectors: A Review.
+37896265	Curcumin as a Stabilizer of Macrophage Polarization during Plasmodium Infection.
+37896200	Epidrugs as Promising Tools to Eliminate Plasmodium falciparum Artemisinin-Resistant and Quiescent Parasites.
+37895241	Mutations Linked to Insecticide Resistance Not Detected in the Ace-1 or VGSC Genes in Nyssorhynchus darlingi from Multiple Localities in Amazonian Brazil and Peru.
+37895152	The OSR9 Regimen: A New Augmentation Strategy for Osteosarcoma Treatment Using Nine Older Drugs from General Medicine to Inhibit Growth Drive.
+37894704	Antiplasmodial and Antileishmanial Activities of a New Limonoid and Other Constituents from the Stem Bark of Khaya senegalensis.
+37894123	Zoonotic Malaria Risk in Serra Do Mar, Atlantic Forest, Brazil.
+37893354	Rapid Detection of Malaria Based on Hairpin-Mediated Amplification and Lateral Flow Detection.
+37892092	Detection of Plasmodium falciparum in Saliva and Stool Samples from Children Living in Franceville, a Highly Endemic Region of Gabon.
+37891947	Association between Plasmodium Infection and Nitric Oxide Levels: A Systematic Review and Meta-Analysis.
+37891582	A novel tetra-primer ARMS-PCR approach for the molecular karyotyping of chromosomal inversion 2Ru in the main malaria vectors Anopheles gambiae and Anopheles coluzzii.
+37891470	Entomological longitudinal surveys in two contrasted eco-climatic settings in Cameroon reveal a high malaria transmission from Anopheles funestus associated with GSTe2 metabolic resistance.
+37891207	Starvation induces changes in abundance and small RNA cargo of extracellular vesicles released from Plasmodium falciparum infected red blood cells.
+37890672	Association of maternal prenatal copper concentration with gestational duration and preterm birth: a multi-country meta-analysis.
+37890619	Length of stay in at-risk areas and time to malaria attack on return.
 37889513	RTS, S/AS02A malaria vaccine-induced IgG responses equally recognize native-like fucosylated and non-fucosylated Plasmodium falciparum circumsporozoite proteins.
 37889376	Coinfections and antimicrobial treatment in a cohort of falciparum malaria in a non-endemic country: a 10-year experience.
 37889073	Evolution of Orthonectida body plan.
@@ -9979,21 +9997,3 @@
 34533755	Phenylpropanoid-conjugated iridoid glucosides from leaves of Morinda morindoides.
 34533436	Insight into Recent Drug Discoveries against Trypanosomatids and Plasmodium spp Parasites: New Metal-based Compounds.
 34533116	Rural-urban dimensions of the perception of malaria severity and practice of malaria preventive measures: insight from the 2018 Nigeria Demographic and Health Survey.
-34532732	Knockdown times in a simple assay determination of insecticide resistance in malaria vectors.
-34532703	Tissue macrophages and interferon-gamma signalling control blood-stage Plasmodium chabaudi infections derived from mosquito-transmitted parasites.
-34532228	Cambodia malaria indicator survey 2020: Implications for malaria elimination.
-34532227	Rapid diagnostic testing as an indicator of malaria prevalence in Rorya District, Tanzania.
-34532226	What underscored successful malaria elimination in Palestine 100 years ago? Effective Education.
-34532225	Differences in malaria and haematocrit presentation in children living in different settings, North West Region, Cameroon.
-34532224	Maximising the impact of house modification with eave tubes for malaria control in Africa.
-34531479	Highly efficient CRISPR/Cas9 system in Plasmodium falciparum using Cas9-expressing parasites and a linear donor template.
-34530904	Predicting the spread and persistence of genetically modified dominant sterile male mosquitoes.
-34530823	Costs and barriers faced by households seeking malaria treatment in the Upper River Region, The Gambia.
-34530799	Primary school students' poetic malaria messages from Jimma zone, Oromia, Ethiopia: a qualitative content analysis.
-34530712	"Big Three" Infectious Diseases: Tuberculosis, Malaria and HIV/AIDS.
-34530671	Multi-functional antibody profiling for malaria vaccine development and evaluation.
-34530443	Identification of host tRNAs preferentially recognized by the Plasmodium surface protein tRip.
-34530119	The cytochrome P450 CYP325A is a major driver of pyrethroid resistance in the major malaria vector Anopheles funestus in Central Africa.
-34529963	Safety and long-term immunogenicity of the two-dose heterologous Ad26.ZEBOV and MVA-BN-Filo Ebola vaccine regimen in adults in Sierra Leone: a combined open-label, non-randomised stage 1, and a randomised, double-blind, controlled stage 2 trial.
-34529962	Safety and immunogenicity of the two-dose heterologous Ad26.ZEBOV and MVA-BN-Filo Ebola vaccine regimen in children in Sierra Leone: a randomised, double-blind, controlled trial.
-34529696	Assessment of malaria infection among pregnant women and children below five years of age attending rural health facilities of Kenya: A cross-sectional survey in two counties of Kenya.
