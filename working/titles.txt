@@ -1,3 +1,8 @@
+37898749	Exploring the feasibility of introducing triple artemisinin-based combination therapy in the malaria treatment policy in Vietnam.
+37898732	Global mosquito observations dashboard (GMOD): creating a user-friendly web interface fueled by citizen science to monitor invasive and vector mosquitoes.
+37898634	Evaluation of diffuse reflectance spectroscopy for predicting age, species, and cuticular resistance of Anopheles gambiae s.l under laboratory conditions.
+37897437	Deciphering Interactions between Potential Inhibitors and the Plasmodium falciparum DHODH Enzyme: A Computational Perspective.
+37897407	Adult cerebral malaria: acute and subacute imaging findings, long-term clinical consequences.
 37897169	Genome-wide in silico analysis for novel regulators of gametocyte development critical for transmission of Plasmodium falciparum.
 37897161	Multiplicity of infection of Plasmodium knowlesi in Malaysia: an application of Pkmsp-1 block IV.
 37896969	Transmission-Blocking Vaccines for Canine Visceral Leishmaniasis: New Progress and Yet New Challenges.
@@ -12,10 +17,10 @@
 37892092	Detection of Plasmodium falciparum in Saliva and Stool Samples from Children Living in Franceville, a Highly Endemic Region of Gabon.
 37891947	Association between Plasmodium Infection and Nitric Oxide Levels: A Systematic Review and Meta-Analysis.
 37891582	A novel tetra-primer ARMS-PCR approach for the molecular karyotyping of chromosomal inversion 2Ru in the main malaria vectors Anopheles gambiae and Anopheles coluzzii.
-37890672	Association of maternal prenatal copper concentration with gestational duration and preterm birth: a multi-country meta-analysis.
-37890619	Length of stay in at-risk areas and time to malaria attack on return.
 37891470	Entomological longitudinal surveys in two contrasted eco-climatic settings in Cameroon reveal a high malaria transmission from Anopheles funestus associated with GSTe2 metabolic resistance.
 37891207	Starvation induces changes in abundance and small RNA cargo of extracellular vesicles released from Plasmodium falciparum infected red blood cells.
+37890672	Association of maternal prenatal copper concentration with gestational duration and preterm birth: a multi-country meta-analysis.
+37890619	Length of stay in at-risk areas and time to malaria attack on return.
 37889513	RTS, S/AS02A malaria vaccine-induced IgG responses equally recognize native-like fucosylated and non-fucosylated Plasmodium falciparum circumsporozoite proteins.
 37889376	Coinfections and antimicrobial treatment in a cohort of falciparum malaria in a non-endemic country: a 10-year experience.
 37889073	Evolution of Orthonectida body plan.
@@ -9992,8 +9997,3 @@
 34535130	Malaria prevalence and associated risk factors in Dembiya district, North-western Ethiopia.
 34535112	Prevalence and risk factors associated with asymptomatic malaria among school children: repeated cross-sectional surveys of school children in two ecological zones in Ghana.
 34534526	Similar Ferroportin Q248H polymorphism prevalence in patients with Plasmodium falciparum malaria and control subjects in the low-endemic setting of Botswana.
-34534484	Insecticide resistance and ITNs in India.
-34534373	Biological and pharmacological activities of noscapine: Focusing on its receptors and mechanisms.
-34533755	Phenylpropanoid-conjugated iridoid glucosides from leaves of Morinda morindoides.
-34533436	Insight into Recent Drug Discoveries against Trypanosomatids and Plasmodium spp Parasites: New Metal-based Compounds.
-34533116	Rural-urban dimensions of the perception of malaria severity and practice of malaria preventive measures: insight from the 2018 Nigeria Demographic and Health Survey.
