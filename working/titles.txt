@@ -1,8 +1,14 @@
+37901801	Symbiotic Wolbachia in mosquitoes and its role in reducing the transmission of mosquito-borne diseases: updates and prospects.
+37900711	Pulmonary thromboembolism as a rare complication of Plasmodium vivax malaria: A case report.
+37900033	Mitigating the effects of climate change on human health with vaccines and vaccinations.
+37899826	Safe and effective delivery of supplemental iron to healthy adults: a two-phase, randomized, double-blind trial - the safe iron study.
+37899457	Spatial-temporal vector abundance and malaria transmission dynamics in Nchelenge and Lake Mweru islands, a region with a high burden of malaria in northern Zambia.
 37899011	Scaling artificial light at night and disease vector interactions into socio-ecological systems: a conceptual appraisal.
 37898899	[On the history of the Kursk parasitologic school].
 37898749	Exploring the feasibility of introducing triple artemisinin-based combination therapy in the malaria treatment policy in Vietnam.
 37898732	Global mosquito observations dashboard (GMOD): creating a user-friendly web interface fueled by citizen science to monitor invasive and vector mosquitoes.
 37898634	Evaluation of diffuse reflectance spectroscopy for predicting age, species, and cuticular resistance of Anopheles gambiae s.l under laboratory conditions.
+37898130	Concerns over stable artemisinin resistance in Uganda.
 37897437	Deciphering Interactions between Potential Inhibitors and the Plasmodium falciparum DHODH Enzyme: A Computational Perspective.
 37897407	Adult cerebral malaria: acute and subacute imaging findings, long-term clinical consequences.
 37897169	Genome-wide in silico analysis for novel regulators of gametocyte development critical for transmission of Plasmodium falciparum.
@@ -9991,9 +9997,3 @@
 34535782	Vaccine innovation and COVID's collateral damage - the week in infographics.
 34535695	Sensitive detection of Plasmodium vivax malaria by the rotating-crystal magneto-optical method in Thailand.
 34535568	An extended DNA-free intranuclear compartment organizes centrosome microtubules in malaria parasites.
-34535396	Ongoing host-shift speciation in Plasmodium simium.
-34535140	Risk factors for malaria in high incidence areas of Viet Nam: a case-control study.
-34535137	Accuracy of SD Malaria Ag P.f/Pan® as a rapid diagnostic test in French Amazonia.
-34535134	The prevalence and density of asymptomatic Plasmodium falciparum infections among children and adults in three communities of western Kenya.
-34535133	In search of the last malaria cases: ethnographic methods for community and private-sector engagement in malaria elimination in Vietnam, Laos, and Cambodia.
-34535130	Malaria prevalence and associated risk factors in Dembiya district, North-western Ethiopia.
