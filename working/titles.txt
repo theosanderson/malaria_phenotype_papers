@@ -1,3 +1,4 @@
+37899011	Scaling artificial light at night and disease vector interactions into socio-ecological systems: a conceptual appraisal.
 37898899	[On the history of the Kursk parasitologic school].
 37898749	Exploring the feasibility of introducing triple artemisinin-based combination therapy in the malaria treatment policy in Vietnam.
 37898732	Global mosquito observations dashboard (GMOD): creating a user-friendly web interface fueled by citizen science to monitor invasive and vector mosquitoes.
@@ -9996,4 +9997,3 @@
 34535134	The prevalence and density of asymptomatic Plasmodium falciparum infections among children and adults in three communities of western Kenya.
 34535133	In search of the last malaria cases: ethnographic methods for community and private-sector engagement in malaria elimination in Vietnam, Laos, and Cambodia.
 34535130	Malaria prevalence and associated risk factors in Dembiya district, North-western Ethiopia.
-34535112	Prevalence and risk factors associated with asymptomatic malaria among school children: repeated cross-sectional surveys of school children in two ecological zones in Ghana.
