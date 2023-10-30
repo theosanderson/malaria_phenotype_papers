@@ -1,3 +1,4 @@
+37898899	[On the history of the Kursk parasitologic school].
 37898749	Exploring the feasibility of introducing triple artemisinin-based combination therapy in the malaria treatment policy in Vietnam.
 37898732	Global mosquito observations dashboard (GMOD): creating a user-friendly web interface fueled by citizen science to monitor invasive and vector mosquitoes.
 37898634	Evaluation of diffuse reflectance spectroscopy for predicting age, species, and cuticular resistance of Anopheles gambiae s.l under laboratory conditions.
@@ -9996,4 +9997,3 @@
 34535133	In search of the last malaria cases: ethnographic methods for community and private-sector engagement in malaria elimination in Vietnam, Laos, and Cambodia.
 34535130	Malaria prevalence and associated risk factors in Dembiya district, North-western Ethiopia.
 34535112	Prevalence and risk factors associated with asymptomatic malaria among school children: repeated cross-sectional surveys of school children in two ecological zones in Ghana.
-34534526	Similar Ferroportin Q248H polymorphism prevalence in patients with Plasmodium falciparum malaria and control subjects in the low-endemic setting of Botswana.
