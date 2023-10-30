@@ -1,3 +1,5 @@
+37902389	Synthesis and biological evaluation of novel salicylidene uracils: Cytotoxic activity on human cancer cell lines and inhibitory action on enzymatic activity.
+37902256	The roles of CYP2C19 and CYP3A4 in the in vitro metabolism of β-eudesmol in human liver: Reaction phenotyping and enzyme kinetics.
 37901801	Symbiotic Wolbachia in mosquitoes and its role in reducing the transmission of mosquito-borne diseases: updates and prospects.
 37900711	Pulmonary thromboembolism as a rare complication of Plasmodium vivax malaria: A case report.
 37900033	Mitigating the effects of climate change on human health with vaccines and vaccinations.
@@ -9995,5 +9997,3 @@
 34537185	Potential of recombinant LiHyQ, a novel Leishmania infantum protein, for the diagnosis of canine visceral leishmaniasis and as a diagnostic and prognostic marker for human leishmaniasis and human immunodeficiency virus co-infection: A preliminary study.
 34537059	The Global Fund: why anti-corruption, transparency and accountability matter.
 34535782	Vaccine innovation and COVID's collateral damage - the week in infographics.
-34535695	Sensitive detection of Plasmodium vivax malaria by the rotating-crystal magneto-optical method in Thailand.
-34535568	An extended DNA-free intranuclear compartment organizes centrosome microtubules in malaria parasites.
