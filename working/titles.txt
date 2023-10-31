@@ -1,3 +1,5 @@
+37905102	Global risk of selection and spread of Plasmodium falciparum histidine-rich protein 2 and 3 gene deletions.
+37903862	Time lag effect on malaria transmission dynamics in an Amazonian Colombian municipality and importance for early warning systems.
 37903584	How Real-Time Case-Based Malaria Surveillance Helps Zanzibar Get a Step Closer to Malaria Elimination: Description of Operational Platform and Resources.
 37903177	Prevalence and determinants of malaria infection among pregnant women attending antenatal clinic in Ejisu government hospital in Ghana: A cross-sectional study.
 37903149	Health-related quality of life of adults with cutaneous leishmaniasis at ALERT Hospital, Addis Ababa, Ethiopia.
@@ -9995,5 +9997,3 @@
 34538247	Population genetic analysis of the Plasmodium falciparum erythrocyte binding antigen-175 (EBA-175) gene in Equatorial Guinea.
 34538242	The association between malaria prevalence and COVID-19 mortality.
 34537542	Evaluation of the in vitro and in vivo antiplasmodial effect of water treated with Photonic Multiphase Modulators (PMM) designed with Advanced Physics System Engineering (APSE™) and BioPhoton-X™ technology.
-34537287	Gene editing in Plasmodium berghei made easy: Development of a CRISPR/Cas9 protocol using linear donor template and ribozymes for sgRNA generation.
-34537246	Prevalence and species distribution of the low-complexity, amyloid-like, reversible, kinked segment structural motif in amyloid-like fibrils.
