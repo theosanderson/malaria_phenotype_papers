@@ -1,3 +1,5 @@
+37903177	Prevalence and determinants of malaria infection among pregnant women attending antenatal clinic in Ejisu government hospital in Ghana: A cross-sectional study.
+37903149	Health-related quality of life of adults with cutaneous leishmaniasis at ALERT Hospital, Addis Ababa, Ethiopia.
 37902389	Synthesis and biological evaluation of novel salicylidene uracils: Cytotoxic activity on human cancer cell lines and inhibitory action on enzymatic activity.
 37902256	The roles of CYP2C19 and CYP3A4 in the in vitro metabolism of β-eudesmol in human liver: Reaction phenotyping and enzyme kinetics.
 37901801	Symbiotic Wolbachia in mosquitoes and its role in reducing the transmission of mosquito-borne diseases: updates and prospects.
@@ -9995,5 +9997,3 @@
 34537287	Gene editing in Plasmodium berghei made easy: Development of a CRISPR/Cas9 protocol using linear donor template and ribozymes for sgRNA generation.
 34537246	Prevalence and species distribution of the low-complexity, amyloid-like, reversible, kinked segment structural motif in amyloid-like fibrils.
 34537185	Potential of recombinant LiHyQ, a novel Leishmania infantum protein, for the diagnosis of canine visceral leishmaniasis and as a diagnostic and prognostic marker for human leishmaniasis and human immunodeficiency virus co-infection: A preliminary study.
-34537059	The Global Fund: why anti-corruption, transparency and accountability matter.
-34535782	Vaccine innovation and COVID's collateral damage - the week in infographics.
