@@ -1,3 +1,4 @@
+37906030	Missed opportunities for Intermittent Preventive Treatment of Malaria among pregnant women with the recommended number of antenatal care visits in Nigeria: Secondary Analysis of Malaria Indicator Survey 2021.
 37905102	Global risk of selection and spread of Plasmodium falciparum histidine-rich protein 2 and 3 gene deletions.
 37903862	Time lag effect on malaria transmission dynamics in an Amazonian Colombian municipality and importance for early warning systems.
 37903584	How Real-Time Case-Based Malaria Surveillance Helps Zanzibar Get a Step Closer to Malaria Elimination: Description of Operational Platform and Resources.
@@ -830,7 +831,7 @@
 37615968	Hemoglobinopathies in mobile populations from sub-Saharan Africa.
 37615737	Molecular investigation of Haemoproteus and Plasmodium species of some raptors in Hatay province: new CytB lineages for raptors of Accipitriformes in Turkey.
 37615662	Clinical and laboratory factors associated with splenic dysfunction among patients with sickle cell disease in a malaria endemic region.
-37614176	Genomic advances in mosquito vector during avian malaria infection.
+37614176	Genomic advances in the study of the mosquito vector during avian malaria infection.
 37613241	From Organ to Organelle: towards a Multimodal 3D Cell Atlas of the Malaria Parasite Mosquito stages using Correlative Light, X-ray and volume Electron Microscopy.
 37613100	From Archeology to the Malaria Parasite, the Exciting Quests of Microscopy.
 37612754	Women's empowerment and uptake of sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria during pregnancy: results from a cross-sectional baseline survey in the Lake endemic region, Kenya.
@@ -9996,4 +9997,3 @@
 34538265	Impact of interventions on the incidence of natural focal diseases during the outbreak of COVID-19 in Jiangsu Province, China.
 34538247	Population genetic analysis of the Plasmodium falciparum erythrocyte binding antigen-175 (EBA-175) gene in Equatorial Guinea.
 34538242	The association between malaria prevalence and COVID-19 mortality.
-34537542	Evaluation of the in vitro and in vivo antiplasmodial effect of water treated with Photonic Multiphase Modulators (PMM) designed with Advanced Physics System Engineering (APSE™) and BioPhoton-X™ technology.
