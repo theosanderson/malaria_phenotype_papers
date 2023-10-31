@@ -1,3 +1,4 @@
+37903584	How Real-Time Case-Based Malaria Surveillance Helps Zanzibar Get a Step Closer to Malaria Elimination: Description of Operational Platform and Resources.
 37903177	Prevalence and determinants of malaria infection among pregnant women attending antenatal clinic in Ejisu government hospital in Ghana: A cross-sectional study.
 37903149	Health-related quality of life of adults with cutaneous leishmaniasis at ALERT Hospital, Addis Ababa, Ethiopia.
 37902389	Synthesis and biological evaluation of novel salicylidene uracils: Cytotoxic activity on human cancer cell lines and inhibitory action on enzymatic activity.
@@ -9996,4 +9997,3 @@
 34537542	Evaluation of the in vitro and in vivo antiplasmodial effect of water treated with Photonic Multiphase Modulators (PMM) designed with Advanced Physics System Engineering (APSE™) and BioPhoton-X™ technology.
 34537287	Gene editing in Plasmodium berghei made easy: Development of a CRISPR/Cas9 protocol using linear donor template and ribozymes for sgRNA generation.
 34537246	Prevalence and species distribution of the low-complexity, amyloid-like, reversible, kinked segment structural motif in amyloid-like fibrils.
-34537185	Potential of recombinant LiHyQ, a novel Leishmania infantum protein, for the diagnosis of canine visceral leishmaniasis and as a diagnostic and prognostic marker for human leishmaniasis and human immunodeficiency virus co-infection: A preliminary study.
