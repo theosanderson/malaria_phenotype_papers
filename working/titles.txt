@@ -1,5 +1,10 @@
-37906965	A Review on the Health Impact of Self-medication for Malaria on Port Harcourt Residents.
+37908361	Safety and immunogenicity of BK-SE36/CpG malaria vaccine in healthy Burkinabe adults and children: a phase 1b randomised, controlled, double-blinded, age de-escalation trial.
+37908332	Editorial: Kallikrein-kinin system: insights into a multifunctional system.
+37907947	House-wall modification after indoor residual spraying in Shashogo district, southern Ethiopia.
+37907916	Awareness and acceptability of malaria vaccine among caregivers of under-5 children in Northern Nigeria.
+37907627	Very low prevalence of haemosporidian parasites in two species of marsh terns.
 37907431	Implications of mosquito metabolism on vector competence.
+37906965	A Review on the Health Impact of Self-medication for Malaria on Port Harcourt Residents.
 37906581	Correction: Identification of Plasmodium falciparum DNA Repair Protein Mre11 with an Evolutionarily Conserved Nuclease Function.
 37906030	Missed opportunities for Intermittent Preventive Treatment of Malaria among pregnant women with the recommended number of antenatal care visits in Nigeria: Secondary Analysis of Malaria Indicator Survey 2021.
 37905102	Global risk of selection and spread of Plasmodium falciparum histidine-rich protein 2 and 3 gene deletions.
@@ -9992,8 +9997,3 @@
 34543260	Insect repellents.
 34542970	Artificial Neural Network as a Tool for Appraising Hematological Parameters in Sudanese Patients with Malaria.
 34541995	Discovery of potential SARS-CoV 3CL protease inhibitors from approved antiviral drugs using: virtual screening, molecular docking, pharmacophore mapping evaluation and dynamics simulation.
-34541478	A Systematic Review and meta-analysis of the effect of administration of azithromycin during pregnancy on perinatal and neonatal outcomes.
-34540721	Ten-Year Molecular Surveillance of Drug-Resistant Plasmodium spp. Isolated From the China-Myanmar Border.
-34540716	Basic Research of Plasmodium vivax Biology Enabling Its Management as a Clinical and Public Health Problem.
-34539948	Knowledge of malaria control and attitudes towards community involvement among female community volunteers: effect of capacity building in a rural community, Southeast Nigeria.
-34539056	Material strategies and considerations for serologic testing of global infectious diseases.
