@@ -1,3 +1,8 @@
+37909773	Single-cell quantitative bioimaging of P. berghei liver stage translation.
+37909749	Aedes aegypti D7 long salivary proteins modulate blood feeding and parasite infection.
+37909740	Mesenchymal stem cells of the bone marrow raise infectivity of Plasmodium falciparum gametocytes.
+37909441	Advances in the Development of Carbonic Anhydrase Inhibitors as New Antiprotozoal Agents.
+37909407	Seasonal Variation in Detection of Haemosporidia in a Bird Community: A Comparison of Nested PCR and Microscopy.
 37908361	Safety and immunogenicity of BK-SE36/CpG malaria vaccine in healthy Burkinabe adults and children: a phase 1b randomised, controlled, double-blinded, age de-escalation trial.
 37908332	Editorial: Kallikrein-kinin system: insights into a multifunctional system.
 37907947	House-wall modification after indoor residual spraying in Shashogo district, southern Ethiopia.
@@ -9992,8 +9997,3 @@
 34544039	A Machine Learning Model for Evaluating Imported Disease Screening Strategies in Immigrant Populations.
 34543346	Reference and point-of-care testing for G6PD deficiency: Blood disorder interference, contrived specimens, and fingerstick equivalence and precision.
 34543317	Knowledge, attitude, and practice of the National Guidelines for Diagnosis and Treatment of Malaria among medical doctors in Ebonyi state, Nigeria: A cross-sectional survey.
-34543293	Surveillance for peri-elimination trachoma recrudescence: Exploratory studies in Ghana.
-34543276	Assessment of small-intestine permeability in healthy Nigerian children is altered by urinary volume and voiding status.
-34543260	Insect repellents.
-34542970	Artificial Neural Network as a Tool for Appraising Hematological Parameters in Sudanese Patients with Malaria.
-34541995	Discovery of potential SARS-CoV 3CL protease inhibitors from approved antiviral drugs using: virtual screening, molecular docking, pharmacophore mapping evaluation and dynamics simulation.
