@@ -1,3 +1,5 @@
+37907431	Implications of mosquito metabolism on vector competence.
+37906965	A Review on the Health Impact of Self-medication for Malaria on Port Harcourt Residents.
 37906581	Correction: Identification of Plasmodium falciparum DNA Repair Protein Mre11 with an Evolutionarily Conserved Nuclease Function.
 37906030	Missed opportunities for Intermittent Preventive Treatment of Malaria among pregnant women with the recommended number of antenatal care visits in Nigeria: Secondary Analysis of Malaria Indicator Survey 2021.
 37905102	Global risk of selection and spread of Plasmodium falciparum histidine-rich protein 2 and 3 gene deletions.
@@ -9995,5 +9997,3 @@
 34540716	Basic Research of Plasmodium vivax Biology Enabling Its Management as a Clinical and Public Health Problem.
 34539948	Knowledge of malaria control and attitudes towards community involvement among female community volunteers: effect of capacity building in a rural community, Southeast Nigeria.
 34539056	Material strategies and considerations for serologic testing of global infectious diseases.
-34538265	Impact of interventions on the incidence of natural focal diseases during the outbreak of COVID-19 in Jiangsu Province, China.
-34538247	Population genetic analysis of the Plasmodium falciparum erythrocyte binding antigen-175 (EBA-175) gene in Equatorial Guinea.
