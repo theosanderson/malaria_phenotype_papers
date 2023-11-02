@@ -288,6 +288,7 @@
 37816683	Antimalarial Lanostane Dimers from Artificially Cultivated Fruiting Bodies of Ganoderma weberianum.
 37816434	Dihydroartemisinin-piperaquine efficacy in Plasmodium falciparum treatment and prevalence of drug-resistant molecular markers along China-Myanmar border in 2014-2023.
 37816283	Highly sensitive detection of malaria biomarker through matching channel and gate capacitance of integrated organic electrochemical transistors.
+37815815	Further evidence supporting the global use of hydroxyurea.
 37815656	Maternal Profiles and Pregnancy Outcomes: A Descriptive Cross-Sectional Study from Angola.
 37815185	Proposition of In silico Pharmacophore Models for Malaria: A Review.
 37814468	Effects of anti-tau immunotherapy on reactive microgliosis, cerebral endotheliopathy, and cognitive function in an experimental model of cerebral malaria.
@@ -9996,4 +9997,3 @@
 34548400	Design of proteasome inhibitors with oral efficacy in vivo against Plasmodium falciparum and selectivity over the human proteasome.
 34548253	Skin bacterial volatiles: propelling the future of vector control.
 34548252	Plasmodium development in Anopheles: a tale of shared resources.
-34547547	Malaria in Martinique, French West Indies.
