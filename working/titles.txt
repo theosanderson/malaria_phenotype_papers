@@ -1,3 +1,8 @@
+37910592	A systematic review of neglected tropical diseases (NTDs) in Myanmar.
+37910577	Tumor necrosis factor-α (TNF-α) -308G >a promoter polymorphism (rs1800629) promotes Asians in susceptibility to Plasmodium falciparum severe malaria: A meta-analysis.
+37910552	An immune memory-structured SIS epidemiological model for hyperdiverse pathogens.
+37910477	Serum proteomic profile of wild stump-tailed macaques (Macaca arctoides) infected with malaria parasites in Thailand.
+37910326	Regulation of Atg8 membrane deconjugation by cysteine proteases in the malaria parasite Plasmodium berghei.
 37909773	Single-cell quantitative bioimaging of P. berghei liver stage translation.
 37909749	Aedes aegypti D7 long salivary proteins modulate blood feeding and parasite infection.
 37909740	Mesenchymal stem cells of the bone marrow raise infectivity of Plasmodium falciparum gametocytes.
@@ -9992,8 +9997,3 @@
 34545309	Seasonal Profile and Five-Year Trend Analysis of Malaria Prevalence in Maygaba Health Center, Welkait District, Northwest Ethiopia.
 34545153	Microsporidia MB is found predominantly associated with Anopheles gambiae s.s and Anopheles coluzzii in Ghana.
 34544438	The clinical-epidemiological profile of malaria patients from Southern Venezuela, a critical hotspot in Latin America.
-34544389	COVID-19 may exacerbate the clinical, structural and psychological barriers to retention in care among women living with HIV in rural and peri-urban settings in Uganda.
-34544052	Novel transdermal bioadhesive surfactant-based system for release and solubility improvement of antimalarial drugs artemether-lumefantrine.
-34544039	A Machine Learning Model for Evaluating Imported Disease Screening Strategies in Immigrant Populations.
-34543346	Reference and point-of-care testing for G6PD deficiency: Blood disorder interference, contrived specimens, and fingerstick equivalence and precision.
-34543317	Knowledge, attitude, and practice of the National Guidelines for Diagnosis and Treatment of Malaria among medical doctors in Ebonyi state, Nigeria: A cross-sectional survey.
