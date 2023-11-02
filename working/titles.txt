@@ -1,3 +1,5 @@
+37914527	A case of post-malaria neurological syndrome presenting with cortical tremor.
+37913775	Emulsion and liposome-based adjuvanted R21 vaccine formulations mediate protection against malaria through distinct immune mechanisms.
 37910592	A systematic review of neglected tropical diseases (NTDs) in Myanmar.
 37910577	Tumor necrosis factor-α (TNF-α) -308G >a promoter polymorphism (rs1800629) promotes Asians in susceptibility to Plasmodium falciparum severe malaria: A meta-analysis.
 37910552	An immune memory-structured SIS epidemiological model for hyperdiverse pathogens.
@@ -9995,5 +9997,3 @@
 34546359	Application of Deep Learning to Community-Science-Based Mosquito Monitoring and Detection of Novel Species.
 34545786	Natural Plasmodium inui Infections in Humans and Anopheles cracens Mosquito, Malaysia.
 34545309	Seasonal Profile and Five-Year Trend Analysis of Malaria Prevalence in Maygaba Health Center, Welkait District, Northwest Ethiopia.
-34545153	Microsporidia MB is found predominantly associated with Anopheles gambiae s.s and Anopheles coluzzii in Ghana.
-34544438	The clinical-epidemiological profile of malaria patients from Southern Venezuela, a critical hotspot in Latin America.
