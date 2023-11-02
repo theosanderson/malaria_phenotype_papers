@@ -1,5 +1,12 @@
-37913775	Emulsion and liposome-based adjuvanted R21 vaccine formulations mediate protection against malaria through distinct immune mechanisms.
+37916245	Morbidity During the Early Interwar Period (1923-27): A Historical-Epidemiological Study of 15,146 Cases Treated at the "Agios Dimitrios" Hospital in Thessaloniki, Greece.
+37916167	Plasmodium immunotherapy combined with gemcitabine has a synergistic inhibitory effect on tumor growth and metastasis in murine Lewis lung cancer models.
+37916141	Anemia prevalence and its predictors among children under-five years in Ghana. A multilevel analysis of the cross-sectional 2019 Ghana Malaria Indicator Survey.
+37916114	A clinical pilot study for the detection of sphingomyelinase in leptospirosis patient's urine at tertiary care hospital.
+37915080	Unravelling the mosquito-haemosporidian parasite-bird host network in the southwestern Iberian Peninsula: insights into malaria infections, mosquito community and feeding preferences.
+37915065	Deforestation inhibits malaria transmission in Lao PDR: a spatial epidemiology using Earth observation satellites.
+37915028	Dietary pattern and other factors of breast cancer among women: a case control study in Northwest Ethiopia.
 37914527	A case of post-malaria neurological syndrome presenting with cortical tremor.
+37913775	Emulsion and liposome-based adjuvanted R21 vaccine formulations mediate protection against malaria through distinct immune mechanisms.
 37910592	A systematic review of neglected tropical diseases (NTDs) in Myanmar.
 37910577	Tumor necrosis factor-α (TNF-α) -308G >a promoter polymorphism (rs1800629) promotes Asians in susceptibility to Plasmodium falciparum severe malaria: A meta-analysis.
 37910552	An immune memory-structured SIS epidemiological model for hyperdiverse pathogens.
@@ -977,7 +984,7 @@
 37572510	The limit of detection of the BioFire® FilmArray® gastrointestinal panel for the foodborne parasite Cyclospora cayetanensis.
 37572217	Sensitivity Analysis for Observational Studies with Recurrent Events.
 37571814	Expansion microscopy of apicomplexan parasites.
-37571809	Sporozoite immunization: Innovative Translational Science to Support the Fight against malaria.
+37571809	Sporozoite immunization: innovative translational science to support the fight against malaria.
 37571409	Effect of Malaria on Blood Levels of Vitamin E: A Systematic Review and Meta-Analysis.
 37571364	Correlates of Iron, Cobalamin, Folate, and Vitamin A Status among Stunted Children: A Cross-Sectional Study in Uganda.
 37571209	Polyethylene Glycol-Mediated Directional Conjugation of Biological Molecules for Enhanced Immunoassays at the Point-of-Care.
@@ -9990,10 +9997,3 @@
 34548253	Skin bacterial volatiles: propelling the future of vector control.
 34548252	Plasmodium development in Anopheles: a tale of shared resources.
 34547547	Malaria in Martinique, French West Indies.
-34547418	Novel naphthyl based 1,2,4-trioxanes: Synthesis and in vivo efficacy in the Plasmodium yoelii nigeriensis in Swiss mice.
-34547408	How can we develop an effective subunit vaccine to achieve successful malaria eradication?
-34546758	Improved Liver Delivery of Primaquine by Phospholipid-Free Small Unilamellar Vesicles with Reduced Hemolytic Toxicity.
-34546584	Coinfection between SARS-CoV-2 and vector-borne diseases in Luanda, Angola.
-34546359	Application of Deep Learning to Community-Science-Based Mosquito Monitoring and Detection of Novel Species.
-34545786	Natural Plasmodium inui Infections in Humans and Anopheles cracens Mosquito, Malaysia.
-34545309	Seasonal Profile and Five-Year Trend Analysis of Malaria Prevalence in Maygaba Health Center, Welkait District, Northwest Ethiopia.
