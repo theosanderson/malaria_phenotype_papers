@@ -1,3 +1,7 @@
+37918871	Expediting approval for medical countermeasures to address high burden disease: an ethical justification to move beyond emergency use authorisation.
+37918412	A crisis of trust in pandemic prevention, preparedness, and response.
+37918006	Factors Contributing to the Pre-Elimination of Malaria from Hainan Island, China, 1986-2009.
+37918005	Determination of Plasmodium vivax and Plasmodium falciparum Malaria Exposure in Two Ethiopian Communities and Its Relationship to Duffy Expression.
 37917649	Assessment of long-lasting insecticide nets coverage, utilization, and associated factors among households in malaria elimination districts of Arsi Zone, Oromia Region, Ethiopia: A cross-sectional study.
 37917177	A molecular signature for IL-10-producing Th1 cells in protozoan parasitic diseases.
 37916245	Morbidity During the Early Interwar Period (1923-27): A Historical-Epidemiological Study of 15,146 Cases Treated at the "Agios Dimitrios" Hospital in Thessaloniki, Greece.
@@ -9993,7 +9997,3 @@
 34551233	Emergence of Artemisinin-Resistant Plasmodium falciparum in East Africa.
 34551228	Evidence of Artemisinin-Resistant Malaria in Africa.
 34550875	Infection-exposure in infancy is associated with reduced allergy-related disease in later childhood in a Ugandan cohort.
-34550355	A population genetic perspective on the origin, spread and adaptation of the human malaria agents Plasmodium falciparum and Plasmodium vivax.
-34549725	Determinants of brain swelling in pediatric and adult cerebral malaria.
-34548530	Biomarkers of cellular aging during a controlled human malaria infection.
-34548400	Design of proteasome inhibitors with oral efficacy in vivo against Plasmodium falciparum and selectivity over the human proteasome.
