@@ -1,3 +1,11 @@
+37925116	Genetic diversity and natural selection of apical membrane antigen-1 (ama-1) in Cameroonian Plasmodium falciparum isolates.
+37924827	Malaria.
+37924798	Microplastic pollution differentially affects development of disease-vectoring Aedes and Culex mosquitoes.
+37924592	Environmental neurology: Concepts and short history of an interdisciplinary approach to etiology, treatment and prevention.
+37924148	Community perception of the autodissemination of pyriproxyfen for controlling malaria vectors in south-eastern Tanzania.
+37924120	Correction: The perception and interpretation of malaria among Chinese construction workers in sub-Saharan Africa: a qualitative study.
+37924087	Correction: Increasing prevalence of malaria and acute dengue virus coinfection in Africa: a meta-analysis and meta-regression of cross-sectional studies.
+37923813	External validation of clinical severity scores to guide referral of paediatric acute respiratory infections in resource-limited primary care settings.
 37922222	Exploring the potential of village community banking as a community-based financing system for house improvements and malaria vector control in rural Tanzania.
 37921336	Monoclonal antibodies for the prevention of Plasmodium falciparum malaria: a multi-target approach?
 37919815	EaveTubes for control of vector-borne diseases in Côte d'Ivoire: study protocol for a cluster randomized controlled trial.
@@ -388,7 +396,7 @@
 37789389	Effectiveness of piperonyl butoxide and pyrethroid-treated long-lasting insecticidal nets (LLINs) versus pyrethroid-only LLINs with and without indoor residual spray against malaria infection: third year results of a cluster, randomised controlled, two-by-two factorial design trial in Tanzania.
 37789320	The public health response to a Plasmodium malariae outbreak in Penampang district, Sabah during a COVID-19 movement control order.
 37789201	Second malaria vaccine to win global approval is cheaper and easier to make.
-37788741	Implications of asymptomatic malaria infections on hematological parameters in adults living with HIV in malaria endemic regions with varying transmission intensities.
+37788741	Implications of asymptomatic malaria infections on hematologic parameters in adults living with HIV in malaria-endemic regions with varying transmission intensities.
 37788430	Conformational Tuning Shapes the Balance between Functional Promiscuity and Specialization in Paralogous Plasmodium Acyl-CoA Binding Proteins.
 37788095	Endothelial transcriptomic analysis identifies biomarkers of severe and cerebral malaria.
 37788045	Mansonella perstans Infection in a Gabonese Immigrant in Japan: An Illustrative Case of a Clinical Conundrum and Management Dilemma.
@@ -9989,11 +9997,3 @@
 34556126	Substandard and falsified medical products: bibliometric analysis and mapping of scientific research.
 34556121	Antibody signatures of asymptomatic Plasmodium falciparum malaria infections measured from dried blood spots.
 34555777	Automatic segmentation of blood cells from microscopic slides: A comparative analysis.
-34554793	Threat of drug-resistant malaria looms in Africa.
-34554551	Isolation and identification of carotenoid-producing yeast and evaluation of antimalarial activity of the extracted carotenoid(s) against P. falciparum.
-34553808	Extrinsic parameter's adjustment and potential implications in Plasmodium falciparum malaria diagnosis.
-34553762	Stress in paradise: effects of elevated corticosterone on immunity and avian malaria resilience in a Hawaiian passerine.
-34553687	Common host variation drives malaria parasite fitness in healthy human red cells.
-34553183	Drug susceptibility of Plasmodium falciparum in eastern Uganda: a longitudinal phenotypic and genotypic study.
-34552764	Protective Effects of Gymnema inodorum Leaf Extract on Plasmodium berghei-Induced Hypoglycemia, Dyslipidemia, Liver Damage, and Acute Kidney Injury in Experimental Mice.
-34552634	Asymptomatic Malaria and Helminths Coinfection and Its Association with Anemia among Primary School Children in Gedeo Zone, Southern Ethiopia: A Cross-Sectional Study.
