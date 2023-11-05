@@ -1,3 +1,4 @@
+37925480	Testing a non-destructive assay to track Plasmodium sporozoites in mosquitoes over time.
 37925116	Genetic diversity and natural selection of apical membrane antigen-1 (ama-1) in Cameroonian Plasmodium falciparum isolates.
 37924827	Malaria.
 37924798	Microplastic pollution differentially affects development of disease-vectoring Aedes and Culex mosquitoes.
@@ -9996,4 +9997,3 @@
 34556130	Adaptation of ELISA detection of Plasmodium falciparum and Plasmodium vivax circumsporozoite proteins in mosquitoes to a multiplex bead-based immunoassay.
 34556126	Substandard and falsified medical products: bibliometric analysis and mapping of scientific research.
 34556121	Antibody signatures of asymptomatic Plasmodium falciparum malaria infections measured from dried blood spots.
-34555777	Automatic segmentation of blood cells from microscopic slides: A comparative analysis.
