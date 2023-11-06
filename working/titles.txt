@@ -15,6 +15,7 @@
 37926196	Favorable outcome without corticosteroids during Post-Artesunate Delayed Haemolysis with positive Direct Antiglobulin Test in severe imported Plasmodium falciparum malaria, France.
 37923286	Rapid, sensitive, and convenient detection of Plasmodium falciparum infection based on CRISPR and its application in detection of asymptomatic infection.
 37922977	Linking avian malaria parasitemia estimates from quantitative PCR and microscopy reveals new infection patterns in Hawai'i.
+37922827	Sleep and global warming: How will we sleep when the Earth is hotter?
 37922826	Heatwaves and human sleep: Stress response versus adaptation.
 37925480	Testing a non-destructive assay to track Plasmodium sporozoites in mosquitoes over time.
 37925116	Genetic diversity and natural selection of apical membrane antigen-1 (ama-1) in Cameroonian Plasmodium falciparum isolates.
@@ -25,7 +26,6 @@
 37924120	Correction: The perception and interpretation of malaria among Chinese construction workers in sub-Saharan Africa: a qualitative study.
 37924087	Correction: Increasing prevalence of malaria and acute dengue virus coinfection in Africa: a meta-analysis and meta-regression of cross-sectional studies.
 37923813	External validation of clinical severity scores to guide referral of paediatric acute respiratory infections in resource-limited primary care settings.
-37922827	Sleep and global warming: How will we sleep when the Earth is hotter?
 37922222	Exploring the potential of village community banking as a community-based financing system for house improvements and malaria vector control in rural Tanzania.
 37921336	Monoclonal antibodies for the prevention of Plasmodium falciparum malaria: a multi-target approach?
 37919815	EaveTubes for control of vector-borne diseases in Côte d'Ivoire: study protocol for a cluster randomized controlled trial.
