@@ -1,8 +1,21 @@
+37929609	Romanowsky staining: history, recent advances and future prospects from a chemistry perspective.
+37929579	The threat of increased transmission of non-knowlesi zoonotic malaria in humans: A systematic review.
+37929374	An exploratory study of seasonal malaria chemoprevention and pharmacovigilance for under-five children in Kebbi State, Nigeria.
+37928945	Request for Antimalarial Medicines and Their Dispensing Without a Prescription in Community Pharmacies in Rwanda.
+37927870	Malaria in pregnancy in India: a 50-year bird's eye.
+37927858	Assessment of malaria prevention knowledge, attitude, and practice and associated factors among households living in rural malaria-endemic areas in the Afar Pastoral Region of Ethiopia.
+37927707	Pneumonia in Sudan: Systematic and Scoping Review of the Literature and Meta-Analysis.
+37927601	Potential of medicinal plants as antimalarial agents: a review of work done at Kenya Medical Research Institute.
+37927532	Exploring the Therapeutic Potential of Traditional Antimalarial and Antidengue Plants: A Mechanistic Perspective.
+37926971	Sequence elements within the PEXEL motif and its downstream region modulate PTEX-dependent protein export in Plasmodium falciparum.
+37926692	Total Synthesis of Cyanobactin Natural Product Balgacyclamide B.
 37926480	[A close contact of coronavirus disease 2019 with severe imported malaria: a case report].
 37926474	[Impact of COVID-19 pandemic on the management of imported malaria in China].
 37926461	Epidemiology of communicable diseases in Jazan region: Situational assessment, risk characterization, and evaluation of prevention and control programs outcomes.
 37926196	Favorable outcome without corticosteroids during Post-Artesunate Delayed Haemolysis with positive Direct Antiglobulin Test in severe imported Plasmodium falciparum malaria, France.
-37926692	Total Synthesis of Cyanobactin Natural Product Balgacyclamide B.
+37923286	Rapid, sensitive, and convenient detection of Plasmodium falciparum infection based on CRISPR and its application in detection of asymptomatic infection.
+37922977	Linking avian malaria parasitemia estimates from quantitative PCR and microscopy reveals new infection patterns in Hawai'i.
+37922826	Heatwaves and human sleep: Stress response versus adaptation.
 37925480	Testing a non-destructive assay to track Plasmodium sporozoites in mosquitoes over time.
 37925116	Genetic diversity and natural selection of apical membrane antigen-1 (ama-1) in Cameroonian Plasmodium falciparum isolates.
 37924827	Malaria.
@@ -12,6 +25,7 @@
 37924120	Correction: The perception and interpretation of malaria among Chinese construction workers in sub-Saharan Africa: a qualitative study.
 37924087	Correction: Increasing prevalence of malaria and acute dengue virus coinfection in Africa: a meta-analysis and meta-regression of cross-sectional studies.
 37923813	External validation of clinical severity scores to guide referral of paediatric acute respiratory infections in resource-limited primary care settings.
+37922827	Sleep and global warming: How will we sleep when the Earth is hotter?
 37922222	Exploring the potential of village community banking as a community-based financing system for house improvements and malaria vector control in rural Tanzania.
 37921336	Monoclonal antibodies for the prevention of Plasmodium falciparum malaria: a multi-target approach?
 37919815	EaveTubes for control of vector-borne diseases in Côte d'Ivoire: study protocol for a cluster randomized controlled trial.
@@ -9983,17 +9997,3 @@
 34561157	Drug-induced hypersensitivity to artemisinin-based therapies for malaria.
 34560899	Acceptance and perceived value of non-invasive malaria diagnostic tests in malaria-endemic countries.
 34560571	Histone deacetylase inhibitor AR-42 and achiral analogues kill malaria parasites in vitro and in mice.
-34560073	Development of a new peptide-bead coupling method for an all peptide-based Luminex multiplexing assay for detection of Plasmodium falciparum antibody responses.
-34559801	Causes of death after biannual azithromycin treatment: A community-level randomized clinical trial.
-34559236	Transfusion-Transmitted Malaria: Two Pediatric Cases From the United States and Their Relevance in an Increasingly Globalized World.
-34558904	Ultraviolet/Visible and Near-Infrared Dual Spectroscopic Method for Detection and Quantification of Low-Level Malaria Parasitemia in Whole Blood.
-34558618	Impairment of Invasion and Maturation and Decreased Selectivity of Plasmodium falciparum in G6PD Viangchan and Mahidol Variants.
-34558274	Prevalence of Plasmodium spp. in symptomatic BaAka Pygmies inhabiting the rural Dzanga Sangha region of the Central African Republic.
-34558082	Evaluation of the Sysmex XN-31 automated analyser for blood donor malaria screening at Malawi Blood Transfusion Services.
-34557926	Late-presenting Plasmodium falciparum Malaria in a Non-Endemic Setting During COVID-19 Travel Restrictions.
-34557873	Microglia and astrocyte responses to neuropathogenic protozoan parasites.
-34557831	Impact of the COVID-19 pandemic and associated non-pharmaceutical interventions on other notifiable infectious diseases in Germany: An analysis of national surveillance data during week 1-2016 - week 32-2020.
-34557364	Gaucher's Disease in an Adult Female: A Rare Entity.
-34557260	Risk versus Benefit of Using Hydroxychloroquine to Treat Patients with COVID-19.
-34557253	Is COVID-19 Posed Great Challenges for Malaria Control and Elimination?
-34557241	Interaction between Chitosan and Chloroquine against Plasmodium berghei and P. falciparum Using In-Vivo and In-Vitro Tests.
