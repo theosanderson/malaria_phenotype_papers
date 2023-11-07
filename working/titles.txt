@@ -1,3 +1,5 @@
+37932958	Prevalence and factors related to anaemia in children aged 6-59 months attending a quaternary health facility in Maputo, Mozambique.
+37932796	A nanoparticle vaccine displaying the ookinete PSOP25 antigen elicits transmission-blocking antibody response against Plasmodium berghei.
 37932775	Imported and indigenous Plasmodium Vivax and Plasmodium Falciparum malaria in the Hubei Province of China, 2005-2019.
 37932773	Unveiling the dynamics of the breast milk microbiome: impact of lactation stage and gestational age.
 37932529	Biosynthesis of natural and halogenated plant monoterpene indole alkaloids in yeast.
@@ -9995,5 +9997,3 @@
 34564386	Unravelling the Puzzle of Anthranoid Metabolism in Living Plant Cells Using Spectral Imaging Coupled to Mass Spectrometry.
 34564275	New Cytogenetic Photomap and Molecular Diagnostics for the Cryptic Species of the Malaria Mosquitoes Anopheles messeae and Anopheles daciae from Eurasia.
 34564266	Review and Meta-Analysis of the Evidence for Choosing between Specific Pyrethroids for Programmatic Purposes.
-34564237	The Influence of the pH and Salinity of Water in Breeding Sites on the Occurrence and Community Composition of Immature Mosquitoes in the Green Belt of the City of São Paulo, Brazil.
-34563977	Hygroline derivatives from Schizanthus tricolor and their anti-trypanosomatid and antiplasmodial activities.
