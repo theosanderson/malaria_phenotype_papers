@@ -1,3 +1,5 @@
+37934560	Genetic validation of PfFKBP35 as an antimalarial drug target.
+37933880	Association between mammographic breast density and breast carcinoma.
 37932958	Prevalence and factors related to anaemia in children aged 6-59 months attending a quaternary health facility in Maputo, Mozambique.
 37932796	A nanoparticle vaccine displaying the ookinete PSOP25 antigen elicits transmission-blocking antibody response against Plasmodium berghei.
 37932775	Imported and indigenous Plasmodium Vivax and Plasmodium Falciparum malaria in the Hubei Province of China, 2005-2019.
@@ -1452,6 +1454,7 @@
 37433881	A randomized, double-blind placebo-control study assessing the protective efficacy of an odour-based 'push-pull' malaria vector control strategy in reducing human-vector contact.
 37433331	Evolution and assembly of Anopheles aquasalis's immune genes: primary malaria vector of coastal Central and South America and the Caribbean Islands.
 37433031	Effect of Malaria Infection on Epstein-Barr Virus Persistence in Kenyan Children.
+37432679	A case of typhoid fever presenting with non-G6PD associated Hemolytic anaemia.
 37431601	Role of artesunate in autoimmune diseases and signaling pathways.
 37431492	Antimalarial Drug Resistance: A Brief History of Its Spread in Indonesia.
 37430371	Liver in infections: a single-cell and spatial transcriptomics perspective.
@@ -9994,6 +9997,3 @@
 34564844	Nutrition-specific interventions for preventing and controlling anaemia throughout the life cycle: an overview of systematic reviews.
 34564567	Feline Leishmaniosis: An Emerging Public Health Problem.
 34564545	Are Malaria Risk Factors Based on Gender? A Mixed-Methods Survey in an Urban Setting in Ghana.
-34564386	Unravelling the Puzzle of Anthranoid Metabolism in Living Plant Cells Using Spectral Imaging Coupled to Mass Spectrometry.
-34564275	New Cytogenetic Photomap and Molecular Diagnostics for the Cryptic Species of the Malaria Mosquitoes Anopheles messeae and Anopheles daciae from Eurasia.
-34564266	Review and Meta-Analysis of the Evidence for Choosing between Specific Pyrethroids for Programmatic Purposes.
