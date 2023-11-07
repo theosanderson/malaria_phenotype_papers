@@ -1,3 +1,5 @@
+37931305	COVID Perceptions among Pregnant Women Living in a Malaria Hyperendemic Rural Region in Uganda: A Cross-Sectional Study.
+37931271	Annals On Call - Malaria in the United States.
 37929609	Romanowsky staining: history, recent advances and future prospects from a chemistry perspective.
 37929579	The threat of increased transmission of non-knowlesi zoonotic malaria in humans: A systematic review.
 37929374	An exploratory study of seasonal malaria chemoprevention and pharmacovigilance for under-five children in Kebbi State, Nigeria.
@@ -9995,5 +9997,3 @@
 34562396	A brighter future for malaria prevention?
 34561749	The return of chloroquine-sensitive Plasmodium falciparum parasites in Jazan region, southwestern Saudi Arabia over a decade after the adoption of artemisinin-based combination therapy: analysis of genetic mutations in the pfcrt gene.
 34561157	Drug-induced hypersensitivity to artemisinin-based therapies for malaria.
-34560899	Acceptance and perceived value of non-invasive malaria diagnostic tests in malaria-endemic countries.
-34560571	Histone deacetylase inhibitor AR-42 and achiral analogues kill malaria parasites in vitro and in mice.
