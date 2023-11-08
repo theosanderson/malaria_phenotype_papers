@@ -1,3 +1,4 @@
+37934730	Anti-tick vaccine candidate subolesin is important for blood feeding and innate immune gene expression in soft ticks.
 37934560	Genetic validation of PfFKBP35 as an antimalarial drug target.
 37933880	Association between mammographic breast density and breast carcinoma.
 37932958	Prevalence and factors related to anaemia in children aged 6-59 months attending a quaternary health facility in Maputo, Mozambique.
@@ -9996,4 +9997,3 @@
 34564906	A toolbox for conditional control of gene expression in apicomplexan parasites.
 34564844	Nutrition-specific interventions for preventing and controlling anaemia throughout the life cycle: an overview of systematic reviews.
 34564567	Feline Leishmaniosis: An Emerging Public Health Problem.
-34564545	Are Malaria Risk Factors Based on Gender? A Mixed-Methods Survey in an Urban Setting in Ghana.
