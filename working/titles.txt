@@ -1,3 +1,4 @@
+37938497	Exploring the antimalarial and antioxidant efficacy of transition metal(II) chelates of thiosemicarbazone ligands: spectral investigations, molecular docking, DFT, MESP and ADMET.
 37937045	Application of Deep Learning in Clinical Settings for Detecting and Classifying Malaria Parasites in Thin Blood Smears.
 37936204	Adhesion and virulence properties of native Metarhizium fungal strains from Burkina Faso for the control of malaria vectors.
 37936198	Effect of fluralaner on the biology, survival, and reproductive fitness of the neotropical malaria vector Anopheles aquasalis.
@@ -9996,4 +9997,3 @@
 34565467	Identification and phylogenetic analysis of voltage-gated sodium channel haplotypes in the malaria vector Anopheles sinensis using a high-throughput amplicon sequencing approach.
 34565456	Population genetic structure of the malaria vector Anopheles minimus in Thailand based on mitochondrial DNA markers.
 34565449	Updated distribution of anopheline mosquitoes in Hokkaido, Japan, and the first evidence of Anopheles belenrae in Japan.
-34565410	Transcriptome-based analysis of blood samples reveals elevation of DNA damage response, neutrophil degranulation, cancer and neurodegenerative pathways in Plasmodium falciparum patients.
