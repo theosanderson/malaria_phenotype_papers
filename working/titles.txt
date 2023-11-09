@@ -1,3 +1,7 @@
+37942637	Recent advances on patents of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors as antimalarial agents.
+37942619	Alstoboonine, an Ulean-Type Indole Alkaloid from Alstonia boonei Leaves.
+37941771	Impact of integrated preventive and curative health package on nutritional status of children under 2 years of age in the health area of Tama, Tahoua region (Niger).
+37941580	Evaluation of the Inhibitory Effect of Moringa oleifera Leaves Methanolic Extract against In Vitro Growth of Several Babesia Species and Theileria equi and the In Vivo Growth of Babesia microti.
 37940967	Effect of non-human hosts on the human biting rate of primary and secondary malaria vectors in Tanzania.
 37940964	Rapid and non-destructive identification of Anopheles gambiae and Anopheles arabiensis mosquito species using Raman spectroscopy via machine learning classification models.
 37940956	Molecular surveillance of chloroquine resistance in Plasmodium vivax isolates from malaria cases in Yunnan Province of China using pvcrt-o gene polymorphisms.
@@ -9993,7 +9997,3 @@
 34569928	Artemisinin derivative-containing therapies and abnormal hemoglobin: Do we need to adapt the treatment?
 34569889	Developing a Predictive Model for Plasmodium knowlesi-Susceptible Areas in Malaysia Using Geospatial Data and Artificial Neural Networks.
 34569223	Chemogenomic Fingerprints Associated with Stage-Specific Gametocytocidal Compound Action against Human Malaria Parasites.
-34569028	Heat Shock Proteins of Malaria: Highlights and Future Prospects.
-34569027	Heat Shock Proteins as Targets for Novel Antimalarial Drug Discovery.
-34569026	Bioprospecting for Novel Heat Shock Protein Modulators: The New Frontier for Antimalarial Drug Discovery?
-34569025	Role of Heat Shock Proteins in Immune Modulation in Malaria.
