@@ -1,3 +1,9 @@
+37939204	Determinants of Aedes mosquito larval ecology in a heterogeneous urban environment- a longitudinal study in Bengaluru, India.
+37939186	Mapping the genomic landscape of multidrug resistance in Plasmodium falciparum and its impact on parasite fitness.
+37939134	NK cell-induced damage to P.falciparum-infected erythrocytes requires ligand-specific recognition and releases parasitophorous vacuoles that are phagocytosed by monocytes in the presence of immune IgG.
+37939114	Advocating for PCR-RFLP as molecular tool within malaria programs in low endemic areas and low resource settings.
+37939049	Cryptic Zika virus infections unmasked from suspected malaria cases in Northeastern Nigeria.
+37939024	Data-driven epidemiologic approach to conducting site feasibility for a global phase III tuberculosis vaccine clinical trial.
 37938497	Exploring the antimalarial and antioxidant efficacy of transition metal(II) chelates of thiosemicarbazone ligands: spectral investigations, molecular docking, DFT, MESP and ADMET.
 37937045	Application of Deep Learning in Clinical Settings for Detecting and Classifying Malaria Parasites in Thin Blood Smears.
 37936204	Adhesion and virulence properties of native Metarhizium fungal strains from Burkina Faso for the control of malaria vectors.
@@ -9991,9 +9997,3 @@
 34569019	Introductory Chapter: The Importance of Heat Shock Proteins in Survival and Pathogenesis of the Malaria Parasite Plasmodium falciparum.
 34568135	Seroprevalence trends of Scrub typhus among the febrile patients of Northern India: A prospective cross-sectional study.
 34568082	High Frequency Mutations in pfdhfr and pfdhps of Plasmodium falciparum in Response to Sulfadoxine-Pyrimethamine: A Cross-Sectional Survey in Returning Chinese Migrants From Africa.
-34567789	A comprehensive analysis of genetic diversity of EBV reveals potential high-risk subtypes associated with nasopharyngeal carcinoma in China.
-34567013	Immunoregulation by Artemisinin and Its Derivatives: A New Role for Old Antimalarial Drugs.
-34566316	Suppressive effect of goat bile in Plasmodium berghei ANKA infection in mice.
-34565467	Identification and phylogenetic analysis of voltage-gated sodium channel haplotypes in the malaria vector Anopheles sinensis using a high-throughput amplicon sequencing approach.
-34565456	Population genetic structure of the malaria vector Anopheles minimus in Thailand based on mitochondrial DNA markers.
-34565449	Updated distribution of anopheline mosquitoes in Hokkaido, Japan, and the first evidence of Anopheles belenrae in Japan.
