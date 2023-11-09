@@ -1,3 +1,5 @@
+37943000	Artificial intelligence based de-novo design for novel Plasmodium falciparum plasmepsin (PM) X inhibitors.
+37942994	Pre-gelation staining expansion microscopy (PS-ExM) for visualisation of the Plasmodium liver stage.
 37942637	Recent advances on patents of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors as antimalarial agents.
 37942619	Alstoboonine, an Ulean-Type Indole Alkaloid from Alstonia boonei Leaves.
 37941771	Impact of integrated preventive and curative health package on nutritional status of children under 2 years of age in the health area of Tama, Tahoua region (Niger).
@@ -9995,5 +9997,3 @@
 34570666	What are the immunopharmacological effects of furazolidone? A systematic review.
 34570647	Pyronaridine-Artesunate (Pyramax) for Treatment of Artemisinin- and Piperaquine-Resistant Plasmodium falciparum in the Central Highlands of Vietnam.
 34569928	Artemisinin derivative-containing therapies and abnormal hemoglobin: Do we need to adapt the treatment?
-34569889	Developing a Predictive Model for Plasmodium knowlesi-Susceptible Areas in Malaysia Using Geospatial Data and Artificial Neural Networks.
-34569223	Chemogenomic Fingerprints Associated with Stage-Specific Gametocytocidal Compound Action against Human Malaria Parasites.
