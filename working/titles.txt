@@ -1,3 +1,5 @@
+37947887	Bio Prospecting of Endophytes and PGPRs in Artemisinin Production for the Socio-economic Advancement.
+37947766	Geographical emergence of sulfadoxine-pyrimethamine drug resistance-associated P. falciparum and P. malariae alleles in co-existing Anopheles mosquito and asymptomatic human populations across Cameroon.
 37946259	Disentangling the intersection of inequities with health and malaria exposure: key lessons from rural communities in Northern Borneo.
 37946208	Attractive targeted sugar bait: the pyrrole insecticide chlorfenapyr and the anti-malarial pharmaceutical artemether-lumefantrine arrest Plasmodium falciparum development inside wild pyrethroid-resistant Anopheles gambiae s.s. mosquitoes.
 37946127	Anti-malarial and haematological evaluation of the ethanolic, ethyl acetate and aqueous fractions of Chromolaena odorata.
@@ -9995,5 +9997,3 @@
 34575007	Exploring Barriers and Facilitators of Adherence to Artemisinin-Based Combination Therapies for the Treatment of Uncomplicated Malaria in Children in Freetown, Sierra Leone.
 34574070	C-Reactive Protein for the Early Assessment of Non-Malarial Febrile Patients: A Retrospective Diagnostic Study.
 34574030	Development of Two-Tube Loop-Mediated Isothermal Amplification Assay for Differential Diagnosis of Plasmodium falciparum and Plasmodium vivax and Its Comparison with Loopamp™ Malaria.
-34573898	Diagnostic Accuracy of CareStart™ Malaria HRP2 and SD Bioline Pf/PAN for Malaria in Febrile Outpatients in Varying Malaria Transmission Settings in Cameroon.
-34573415	Environmental Influences Measured by Epigenetic Clock and Vulnerability Components at Birth Impact Clinical ASD Heterogeneity.
