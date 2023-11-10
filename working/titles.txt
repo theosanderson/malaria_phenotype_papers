@@ -1,3 +1,5 @@
+37946259	Disentangling the intersection of inequities with health and malaria exposure: key lessons from rural communities in Northern Borneo.
+37946208	Attractive targeted sugar bait: the pyrrole insecticide chlorfenapyr and the anti-malarial pharmaceutical artemether-lumefantrine arrest Plasmodium falciparum development inside wild pyrethroid-resistant Anopheles gambiae s.s. mosquitoes.
 37946127	Anti-malarial and haematological evaluation of the ethanolic, ethyl acetate and aqueous fractions of Chromolaena odorata.
 37945689	Dynamic intravital imaging reveals reactive vessel-associated microglia play a protective role in cerebral malaria coagulopathy.
 37944660	Evaluation of Brown and red seaweeds-extracts as a novel larvicidal agent against the deadly human diseases-vectors, Anopheles stephensi, Aedes aegypti and Culex quinquefasciatus.
@@ -9995,5 +9997,3 @@
 34574030	Development of Two-Tube Loop-Mediated Isothermal Amplification Assay for Differential Diagnosis of Plasmodium falciparum and Plasmodium vivax and Its Comparison with Loopamp™ Malaria.
 34573898	Diagnostic Accuracy of CareStart™ Malaria HRP2 and SD Bioline Pf/PAN for Malaria in Febrile Outpatients in Varying Malaria Transmission Settings in Cameroon.
 34573415	Environmental Influences Measured by Epigenetic Clock and Vulnerability Components at Birth Impact Clinical ASD Heterogeneity.
-34571788	Anti-Malarial and Anti-Lipid Peroxidation Activities of Deferiprone-Resveratrol Hybrid in Plasmodium berghei-Infected Mice.
-34571426	Interplay of substrate polymorphism and conformational plasticity of Plasmodium tyrosyl-tRNA synthetase.
