@@ -1,3 +1,5 @@
+37943884	Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria.
+37943633	Naturally acquired transmission-blocking immunity against different strains of Plasmodium vivax in a malaria endemic area in Thailand.
 37943000	Artificial intelligence based de-novo design for novel Plasmodium falciparum plasmepsin (PM) X inhibitors.
 37942994	Pre-gelation staining expansion microscopy (PS-ExM) for visualisation of the Plasmodium liver stage.
 37942637	Recent advances on patents of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors as antimalarial agents.
@@ -9995,5 +9997,3 @@
 34570821	Genotypic glucose-6-phosphate dehydrogenase (G6PD) deficiency protects against Plasmodium falciparum infection in individuals living in Ghana.
 34570705	Modeling of High-Performance SPR Refractive Index Sensor Employing Novel 2D Materials for Detection of Malaria Pathogens.
 34570666	What are the immunopharmacological effects of furazolidone? A systematic review.
-34570647	Pyronaridine-Artesunate (Pyramax) for Treatment of Artemisinin- and Piperaquine-Resistant Plasmodium falciparum in the Central Highlands of Vietnam.
-34569928	Artemisinin derivative-containing therapies and abnormal hemoglobin: Do we need to adapt the treatment?
