@@ -1,12 +1,12 @@
 37950315	Key considerations, target product profiles, and research gaps in the application of infrared spectroscopy and artificial intelligence for malaria surveillance and diagnosis.
 37950308	Rapid profiling of Plasmodium parasites from genome sequences to assist malaria control.
 37950227	Seasonal malaria chemoprevention in a context of high presumed sulfadoxine-pyrimethamine resistance: malaria morbidity and molecular drug resistance profiles in South Sudan.
-37950009	Most effective malaria vaccine yet.
 37949851	Malaria surveillance reveals parasite relatedness, signatures of selection, and correlates of transmission across Senegal.
+37949090	Efficacy and safety of moxidectin compared with ivermectin against Strongyloides stercoralis infection in adults in Laos and Cambodia: a randomised, double-blind, non-inferiority, phase 2b/3 trial.
+37950009	Most effective malaria vaccine yet.
 37949501	Scaling malaria interventions: bottlenecks to malaria elimination.
 37949233	Molecular detection of antimalarial resistance in Plasmodium vivax isolates from a tertiary care setting in Puducherry.
 37949092	The US-Mexico border, migration crisis, and falciparum malaria.
-37949090	Efficacy and safety of moxidectin compared with ivermectin against Strongyloides stercoralis infection in adults in Laos and Cambodia: a randomised, double-blind, non-inferiority, phase 2b/3 trial.
 37948434	Initial response to SARS-CoV-2 (COVID-19) outbreak in Sri Lanka; views of public health specialists through an International Health Regulations lens.
 37948402	Genetic characteristics of P. falciparum parasites collected from 2012 to 2016 and anti-malaria resistance along the China-Myanmar border.
 37947887	Bio Prospecting of Endophytes and PGPRs in Artemisinin Production for the Socio-economic Advancement.
