@@ -1,3 +1,12 @@
+37950315	Key considerations, target product profiles, and research gaps in the application of infrared spectroscopy and artificial intelligence for malaria surveillance and diagnosis.
+37950308	Rapid profiling of Plasmodium parasites from genome sequences to assist malaria control.
+37950227	Seasonal malaria chemoprevention in a context of high presumed sulfadoxine-pyrimethamine resistance: malaria morbidity and molecular drug resistance profiles in South Sudan.
+37950009	Most effective malaria vaccine yet.
+37949851	Malaria surveillance reveals parasite relatedness, signatures of selection, and correlates of transmission across Senegal.
+37949501	Scaling malaria interventions: bottlenecks to malaria elimination.
+37949233	Molecular detection of antimalarial resistance in Plasmodium vivax isolates from a tertiary care setting in Puducherry.
+37949092	The US-Mexico border, migration crisis, and falciparum malaria.
+37949090	Efficacy and safety of moxidectin compared with ivermectin against Strongyloides stercoralis infection in adults in Laos and Cambodia: a randomised, double-blind, non-inferiority, phase 2b/3 trial.
 37948434	Initial response to SARS-CoV-2 (COVID-19) outbreak in Sri Lanka; views of public health specialists through an International Health Regulations lens.
 37948402	Genetic characteristics of P. falciparum parasites collected from 2012 to 2016 and anti-malaria resistance along the China-Myanmar border.
 37947887	Bio Prospecting of Endophytes and PGPRs in Artemisinin Production for the Socio-economic Advancement.
@@ -9988,12 +9997,3 @@
 34578468	COVID-19: Mechanistic Model of the African Paradox Supports the Central Role of the NF-κB Pathway.
 34578170	Antibody Profile Comparison against MSP1 Antigens of Multiple Plasmodium Species in Human Serum Samples from Two Different Brazilian Populations Using a Multiplex Serological Assay.
 34578146	Protozoan and Microbial Pathogens of House Cats in the Province of Tekirdag in Western Turkey.
-34578139	Discrete Survival Model Analysis of Plasmodium falciparum Response to Artemisinin-Based Combination Therapies among Children in Regions of Varying Malaria Transmission in Cameroon.
-34577183	Antimalarial Inhibitors Targeting Epigenetics or Mitochondria in Plasmodium falciparum: Recent Survey upon Synthesis and Biological Evaluation of Potential Drugs against Malaria.
-34577014	Pyrethroid and Etofenprox Resistance in Anopheles gambiae and Anopheles coluzzii from Vegetable Farms in Yaoundé, Cameroon: Dynamics, Intensity and Molecular Basis.
-34577001	8-Amino-6-Methoxyquinoline-Tetrazole Hybrids: Impact of Linkers on Antiplasmodial Activity.
-34576836	Factors Associated with Prolonged Hospital Length of Stay in Adults with Imported Falciparum Malaria-An Observational Study from a Tertiary Care University Hospital in Berlin, Germany.
-34576183	Hybrid Deep Learning Based on a Heterogeneous Network Profile for Functional Annotations of Plasmodium falciparum Genes.
-34575142	Computational Insights into the Interaction between Cytoadherence Receptor gC1qR and the DBLβ12 Domain of a Plasmodium falciparum PfEMP1 Ligand.
-34575086	Protein Sorting in Plasmodium Falciparum.
-34575007	Exploring Barriers and Facilitators of Adherence to Artemisinin-Based Combination Therapies for the Treatment of Uncomplicated Malaria in Children in Freetown, Sierra Leone.
