@@ -1,5 +1,17 @@
-37956783	Microencapsulation of Bacillus thuringiensis strains for the control of Aedes aegypti.
+37961701	Gene expression analyses reveal differences in children's response to malaria according to their age.
+37961587	Gene expression analyses reveal differences in children's response to malaria according to their age.
+37961451	Evaluating the performance of Plasmodium falciparum genetics for inferring National Malaria Control Program reported incidence in Senegal.
+37961397	A novel duplex qualitative real-time PCR assay for the detection and differentiation of Plasmodium ovale curtisi and Plasmodium ovale wallikeri malaria.
+37961194	Role of Seasonal Importation and Random Genetic Drift on Selection for Drug-Resistant Genotypes of Plasmodium falciparum in High Transmission Settings.
+37961170	Histomorphometric features of placentae from women having malaria and HIV coinfection with preterm births.
+37961136	Target-agnostic identification of human antibodies to Plasmodium falciparum sexual forms reveals cross stage recognition of glutamate-rich repeats.
+37961060	Target product profiles: tests for tuberculosis treatment monitoring and optimization.
+37960847	Chronic type 2 reaction in lepromatous leprosy with underlying Plasmodium falciparum infection: A case report.
+37960176	Regional and Age-Related Variations in Blood Calcium Levels among Patients with Plasmodium falciparum and P. vivax malaria: A Systematic Review and Meta-Analysis.
+37958695	A Non-Coding Fc Gamma Receptor Cis-Regulatory Variant within the 1q23 Gene Cluster Is Associated with Plasmodium falciparum Infection in Children Residing in Burkina Faso.
+37957702	Feasibility and safety of integrating mass drug administration for helminth control with seasonal malaria chemoprevention among Senegalese children: a randomized controlled, observer-blind trial.
 37957271	Genomics of Plasmodium vivax in Colombia reveals evidence of local bottle-necking and inter-country connectivity in the Americas.
+37956783	Microencapsulation of Bacillus thuringiensis strains for the control of Aedes aegypti.
 37956409	Reduced splenic function can mimic artemisinin resistance in severe malaria.
 37956374	Myositis-specific autoantibodies in a non-traveler, patient from a non-endemic country, with Plasmodium vivax malaria.
 37955573	Analysis of complementarities between nanomedicine and phytodrugs for the treatment of malarial infection.
@@ -9985,15 +9997,3 @@
 34585740	Mass drug administration for malaria.
 34585667	Total parasite biomass but not peripheral parasitaemia is associated with endothelial and haematological perturbations in Plasmodium vivax patients.
 34584427	Antimalarial and Erythrocyte Membrane Stability Properties of Globimetula braunii (Engle Van Tiegh) Growing on Cocoa in Plasmodium berghei-Infected Mice.
-34584362	Ofloxacin Induced Hemolysis in G6PD-deficient Patient: A Rare Cause of Pigment Nephropathy.
-34584166	Genetic disruption of Plasmodium falciparum Merozoite surface antigen 180 (PfMSA180) suggests an essential role during parasite egress from erythrocytes.
-34584033	Development of Nucleic Acid Lateral Flow Immunoassay for Rapid and Accurate Detection of Chikungunya Virus in Indonesia.
-34583692	Performance evaluation of RDT, light microscopy, and PET-PCR for detecting Plasmodium falciparum malaria infections in the 2018 Zambia National Malaria Indicator Survey.
-34583682	Bio-efficacy and wash-fastness of a lambda-cyhalothrin long-lasting insecticide treatment kit (ICON(®) Maxx) against mosquitoes on various polymer materials.
-34583668	Global socioeconomic inequality in the burden of communicable and non-communicable diseases and injuries: an analysis on global burden of disease study 2019.
-34583348	Effects of Iron Supplements on Heme Scavengers in Pregnancy.
-34583345	Preliminary Report of the Insecticide Susceptibility Status of Aedes albopictus in Bangladesh.
-34583344	Azithromycin versus Amoxicillin and Malarial Parasitemia among Children with Uncomplicated Severe Acute Malnutrition: A Randomized Controlled Trial.
-34583342	Nonrandom Selection and Multiple Blood Feeding of Human Hosts by Anopheles Vectors: Implications for Malaria Transmission in Papua New Guinea.
-34583335	Travel-Related Behaviors and Health Outcomes of Adolescents Compared with Adults on Short-Term International Service Missions.
-34583331	Response to Valle and Zorello Laporta: Clarifying the Use of Instrumental Variable Methods to Understand the Effects of Environmental Change on Infectious Disease Transmission.
