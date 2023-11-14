@@ -1,3 +1,5 @@
+37956409	Reduced splenic function can mimic artemisinin resistance in severe malaria.
+37956374	Myositis-specific autoantibodies in a non-traveler, patient from a non-endemic country, with Plasmodium vivax malaria.
 37955573	Analysis of complementarities between nanomedicine and phytodrugs for the treatment of malarial infection.
 37954722	Malarial Antibodies and Endemicity: Does It Affect SARS-CoV-2 Severity and Outcomes?
 37954507	The Potentials of Ageratum conyzoides and Other Plants from Asteraceae as an Antiplasmodial and Insecticidal for Malaria Vector: An Article Review.
@@ -9995,5 +9997,3 @@
 34583331	Response to Valle and Zorello Laporta: Clarifying the Use of Instrumental Variable Methods to Understand the Effects of Environmental Change on Infectious Disease Transmission.
 34582452	Neurocognitive outcomes in Malawian children exposed to malaria during pregnancy: An observational birth cohort study.
 34582451	A novel intervention combining supplementary food and infection control measures to improve birth outcomes in undernourished pregnant women in Sierra Leone: A randomized, controlled clinical effectiveness trial.
-34582261	The Complex Epidemiological Relationship between Flooding Events and Human Outbreaks of Mosquito-Borne Diseases: A Scoping Review.
-34581996	A comprehensive review of COVID-19 biology, diagnostics, therapeutics, and disease impacting the central nervous system.
