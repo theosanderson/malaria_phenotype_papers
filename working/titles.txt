@@ -1,3 +1,5 @@
+37962782	Joint Involvement Can Predict Chikungunya in a Dengue Syndemic Setting in India.
+37962347	A CAF01-adjuvanted whole asexual blood-stage liposomal malaria vaccine induces a CD4(+) T-cell-dependent strain-transcending protective immunity in rodent models.
 37961701	Gene expression analyses reveal differences in children's response to malaria according to their age.
 37961587	Gene expression analyses reveal differences in children's response to malaria according to their age.
 37961451	Evaluating the performance of Plasmodium falciparum genetics for inferring National Malaria Control Program reported incidence in Senegal.
@@ -9995,5 +9997,3 @@
 34585900	Sentinel Surveillance of Dengue Virus Infection in a Tribal District of Maharashtra, India.
 34585893	Roadmap for the Management of Acute Undifferentiated Febrile Illness: An Expert Discussion and Review of Available Guidelines.
 34585740	Mass drug administration for malaria.
-34585667	Total parasite biomass but not peripheral parasitaemia is associated with endothelial and haematological perturbations in Plasmodium vivax patients.
-34584427	Antimalarial and Erythrocyte Membrane Stability Properties of Globimetula braunii (Engle Van Tiegh) Growing on Cocoa in Plasmodium berghei-Infected Mice.
