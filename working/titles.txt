@@ -1,3 +1,4 @@
+37963222	Force Protection Risks in AFRICOM, INDOPACOM and SOUTHCOM Due to Rapid Diagnostic Test Failures for Falciparum Malaria, 2016-2022.
 37962782	Joint Involvement Can Predict Chikungunya in a Dengue Syndemic Setting in India.
 37962347	A CAF01-adjuvanted whole asexual blood-stage liposomal malaria vaccine induces a CD4(+) T-cell-dependent strain-transcending protective immunity in rodent models.
 37961701	Gene expression analyses reveal differences in children's response to malaria according to their age.
@@ -9996,4 +9997,3 @@
 34585984	Zoonotic Transmission of Blastocystis Subtype 1 among People in Eastern Communities of Thailand: Organic Fertilizer from Pig Feces as a Potential Source.
 34585900	Sentinel Surveillance of Dengue Virus Infection in a Tribal District of Maharashtra, India.
 34585893	Roadmap for the Management of Acute Undifferentiated Febrile Illness: An Expert Discussion and Review of Available Guidelines.
-34585740	Mass drug administration for malaria.
