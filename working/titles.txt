@@ -1,3 +1,7 @@
+37966273	Semi-mechanistic population pharmacokinetic/pharmacodynamic modeling of a Plasmodium elongation factor 2 inhibitor cabamiquine for prevention and cure of malaria.
+37966225	Multiantigen print immunoassay (MAPIA) for the diagnosis of neurocysticercosis: a single-center diagnostic optimization and accuracy study in Lima, Peru.
+37966106	Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya.
+37965893	The antiplasmodial activity of the carboxylic acid metabolite of piperaquine and its pharmacokinetic profiles in healthy volunteers.
 37965096	IgE response to Aed al 13 and Aed al 14 recombinant allergens from Aedes albopictus saliva in humans.
 37965050	Conceptual risk assessment of mosquito population modification gene-drive systems to control malaria transmission: preliminary hazards list workshops.
 37964977	Prevalence and contributing factors of anaemia among children aged 6-24 months and 25-59 months in Mali.
@@ -9993,7 +9997,3 @@
 36579001	Preparation of a Nanoemulsion of Essential Oil of Acroptilon repens Plant and Evaluation of Its Larvicidal Activity agianst Malaria Vector, Anopheles stephensi.
 36578997	Predicting the Potential Distribution of Major Malaria Vectors Based on Climate Changes in Sistan and Baluchistan Province, Southeastern Iran.
 36578996	Insecticide Resistance Status of Malaria Vectors in a Malarious Area, Southeast of Iran.
-36578994	A Comprehensive Database and Geographical Distribution Model of Vectors and Vector Borne Diseases in Ardabil Province, Borderline of Iran and Azerbaijan Republic 2001-2018.
-34587315	Impact of hookworm infection and preventive chemotherapy on haemoglobin in non-pregnant populations.
-34587292	Proximity-dependent biotinylation approaches to study apicomplexan biology.
-34587210	What do malaria program officers want to learn? A survey of perspectives on a proposed malaria short course in Nigeria.
