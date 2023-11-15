@@ -1,3 +1,8 @@
+37965096	IgE response to Aed al 13 and Aed al 14 recombinant allergens from Aedes albopictus saliva in humans.
+37965050	Conceptual risk assessment of mosquito population modification gene-drive systems to control malaria transmission: preliminary hazards list workshops.
+37964977	Prevalence and contributing factors of anaemia among children aged 6-24 months and 25-59 months in Mali.
+37964377	Insecticide-treated net utilization and associated factors among pregnant women in East Africa: evidence from the recent national demographic and health surveys, 2011-2022.
+37964334	Efficacy of 3D screens for sustainable mosquito control: a semi-field experimental hut evaluation in northeastern Tanzania.
 37963975	Urban malaria.
 37963222	Force Protection Risks in AFRICOM, INDOPACOM and SOUTHCOM Due to Rapid Diagnostic Test Failures for Falciparum Malaria, 2016-2022.
 37962782	Joint Involvement Can Predict Chikungunya in a Dengue Syndemic Setting in India.
@@ -9992,8 +9997,3 @@
 34587315	Impact of hookworm infection and preventive chemotherapy on haemoglobin in non-pregnant populations.
 34587292	Proximity-dependent biotinylation approaches to study apicomplexan biology.
 34587210	What do malaria program officers want to learn? A survey of perspectives on a proposed malaria short course in Nigeria.
-34587165	Autoimmunity to phosphatidylserine and anemia in African Trypanosome infections.
-34586479	Seasonal prevalence of Plasmodium falciparum infection and use of insecticide-treated nets among children in three agroecosystems in Aboisso, Côte d'Ivoire.
-34586277	Production of Urban Space and the occurrence of malaria in the Brazilian Amazon: the Porto Velho case.
-34585984	Zoonotic Transmission of Blastocystis Subtype 1 among People in Eastern Communities of Thailand: Organic Fertilizer from Pig Feces as a Potential Source.
-34585900	Sentinel Surveillance of Dengue Virus Infection in a Tribal District of Maharashtra, India.
