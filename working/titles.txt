@@ -1,3 +1,7 @@
+37967383	Mitochondrial Acyl Carrier Protein of Leishmania major Displays Features Distinct from the Canonical Type II ACP.
+37967114	Correction: Genotypic glucose-6-phosphate dehydrogenase (G6PD) deficiency protects against Plasmodium falciparum infection in individuals living in Ghana.
+37967033	Notes From the Field: Locally Acquired Mosquito-transmitted (Autochthonous) Plasmodium falciparum Malaria-National Capital Region, Maryland, August 2023.
+37966909	Clinical, epidemiological, and molecular investigation of Kyasanur forest disease from Karnataka state, India during 2018-2019.
 37966273	Semi-mechanistic population pharmacokinetic/pharmacodynamic modeling of a Plasmodium elongation factor 2 inhibitor cabamiquine for prevention and cure of malaria.
 37966225	Multiantigen print immunoassay (MAPIA) for the diagnosis of neurocysticercosis: a single-center diagnostic optimization and accuracy study in Lima, Peru.
 37966106	Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya.
@@ -9993,7 +9997,3 @@
 34589185	CDPKs: The critical decoders of calcium signal at various stages of malaria parasite development.
 34588369	Genetic Diversity of Plasmodium vivax Merozoite Surface Protein-3 Alpha and Beta from Diverse Geographic Areas of Thailand.
 34587958	The efficacy of insecticide-treated window screens and eaves against Anopheles mosquitoes: a scoping review.
-36606151	Design, molecular docking, drug-likeness, and molecular dynamics studies of 1,2,4-trioxane derivatives as novel Plasmodium falciparum falcipain-2 (FP-2) inhibitors.
-36579001	Preparation of a Nanoemulsion of Essential Oil of Acroptilon repens Plant and Evaluation of Its Larvicidal Activity agianst Malaria Vector, Anopheles stephensi.
-36578997	Predicting the Potential Distribution of Major Malaria Vectors Based on Climate Changes in Sistan and Baluchistan Province, Southeastern Iran.
-36578996	Insecticide Resistance Status of Malaria Vectors in a Malarious Area, Southeast of Iran.
