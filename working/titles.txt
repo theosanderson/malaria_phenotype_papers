@@ -1,3 +1,10 @@
+37970136	Cerebral Metabolic Crisis in Pediatric Cerebral Malaria.
+37969754	Analysis of Plasmodium falciparum Mitochondrial Electron Transport Chain Activity Using Seahorse XFe96 Extracellular Flux Assays.
+37968884	Plasmepsin II inhibitory potential of phytochemicals isolated from African antimalarial plants: a computational approach.
+37968752	Video augmentation of the WHO cone assay to quantify mosquito behavioural responses to insecticide-treated nets.
+37968745	The landscape of drug resistance in Plasmodium falciparum malaria in the Democratic Republic of Congo: a mapping systematic review.
+37968741	Statistical analysis plan for the LAKANA trial: a cluster-randomized, placebo-controlled, double-blinded, parallel group, three-arm clinical trial testing the effects of mass drug administration of azithromycin on mortality and other outcomes among 1-11-month-old infants in Mali.
+37968712	Anopheles larval habitats seasonality and environmental factors affecting larval abundance and distribution in Arjo-Didessa sugar cane plantation, Ethiopia.
 37968386	First Insight into Drug Resistance Genetic Markers, Glucose-6-Phosphate Dehydrogenase and Phylogenetic Patterns of Misdiagnosed Plasmodium vivax Malaria in Far North Region, Cameroon.
 37968278	Single cell transcriptomics shows that malaria promotes unique regulatory responses across multiple immune cell subsets.
 37967777	Exploring the efficacy of ethnomedicinal plants of Himalayan region against the malaria parasite.
@@ -9990,10 +9997,3 @@
 34592395	Dimeric artesunate-choline conjugate micelles coated with hyaluronic acid as a stable, safe and potent alternative anti-malarial injection of artesunate.
 34592368	Discovery of novel inhibitors targeting Plasmodium knowlesi dihydrofolate reductase using molecular docking and molecular dynamics simulation.
 34591862	Postmortem investigations and identification of multiple causes of child deaths: An analysis of findings from the Child Health and Mortality Prevention Surveillance (CHAMPS) network.
-34591860	The impact of mating and sugar feeding on blood-feeding physiology and behavior in the arbovirus vector mosquito Aedes aegypti.
-34591842	Implementation of field detection devices for antimalarial quality screening in Lao PDR-A cost-effectiveness analysis.
-34591381	The Cromer blood group system: an update.
-34590696	Small-quantity lipid-based nutrient supplements for the prevention of child malnutrition and promotion of healthy development: overview of individual participant data meta-analysis and programmatic implications.
-34590672	Characteristics that modify the effect of small-quantity lipid-based nutrient supplementation on child growth: an individual participant data meta-analysis of randomized controlled trials.
-34590195	Primaquine Loaded Solid Lipid Nanoparticles (SLN), Nanostructured Lipid Carriers (NLC), and Nanoemulsion (NE): Effect of Lipid Matrix and Surfactant on Drug Entrapment, in vitro Release, and ex vivo Hemolysis.
-34590127	Corrigendum to: Factors Affecting Willingness to Use Indoor Residual Spraying Among Pregnant Women Attending Antenatal Care in Hyperendemic State of West Africa: A Random Survey.
