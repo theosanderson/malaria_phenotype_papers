@@ -1,4 +1,16 @@
-37970136	Cerebral Metabolic Crisis in Pediatric Cerebral Malaria.
+37975998	The COVID-19 Pandemic's Impact on Health Service Utilization Among Pregnant Women in Three Nigerian States: A Mixed Methods Study.
+37975318	In vitro and in silico guided identification of antimalarial phytoconstituent(s) in the root of Citrus maxima (Burm.) Merr.
+37974949	Design of Novel Series of Antimalarial PMX Inhibitors with Increased Half-Life via Molecular Property Optimization.
+37974285	What exactly does the PfK13 C580Y mutation in Plasmodium falciparum influence?
+37974257	Estimation of parasitaemia in imported falciparum malaria using the results of a combined rapid diagnostic test. No big help from haematological parameters.
+37974248	Rice farmers' knowledge, attitudes and practices towards mosquitoes in irrigation schemes in Côte d'Ivoire: a qualitative study.
+37974079	Distribution of Plasmodium falciparum K13 gene polymorphisms across transmission settings in Ghana.
+37973970	Genetic polymorphism and natural selection of the erythrocyte binding antigen 175 region II in Plasmodium falciparum populations from Myanmar and Vietnam.
+37972998	Isolation and In Vitro and In Vivo Activity of Secondary Metabolites from Clerodendrum polycephalum Baker against Plasmodium Malaria Parasites.
+37972848	Development and evaluation of the in vitro schistosomicidal activity of solid dispersions based on 2-(-5-bromo-1-H-indole-3-yl-methylene)-N-(naphthalene-1-ylhydrazine-carbothiamide.
+37972622	Major gaps in childhood pneumonia research priorities remain.
+37971260	Cytochrome P450 2D6 profiles and anti-relapse efficacy of tafenoquine against Plasmodium vivax in Australian Defence Force personnel.
+37971220	REVEALING THE VARIED REALITY OF MALARIA-RELATED DEATHS IN CHILDREN ACROSS GENDER, AGE, AND ETHNICITY IN FEDERAL TEACHING HOSPITAL GOMBE OVER 20 YEARS: AN ESSENTIAL EPIDEMIOLOGIC IMPERATIVE.
 37969754	Analysis of Plasmodium falciparum Mitochondrial Electron Transport Chain Activity Using Seahorse XFe96 Extracellular Flux Assays.
 37968884	Plasmepsin II inhibitory potential of phytochemicals isolated from African antimalarial plants: a computational approach.
 37968752	Video augmentation of the WHO cone assay to quantify mosquito behavioural responses to insecticide-treated nets.
@@ -584,7 +596,7 @@
 37769895	Determine the enzymatic kinetic characteristics of CYP3A4 variants utilizing artemether-lumefantrine.
 37769784	The sex-specific factor SOA controls dosage compensation in Anopheles mosquitoes.
 37769577	Invasion-inhibitory peptides chosen by natural selection analysis as an antimalarial strategy.
-37769318	Malaria and Pregnancy: What Obstetricians Need to Know.
+37769318	Malaria and Pregnancy.
 37768924	Consequences of Type-2 diabetes mellitus and Malaria co-morbidity on sperm parameters in men; a case-control study in a district hospital in the Ashanti Region of Ghana.
 37767540	Update on hydroxychloroquine use in pregnancy.
 37767407	Malaria in newborn: A missed entity for primary care physician.
@@ -757,6 +769,7 @@
 37709739	The structure of a Plasmodium vivax Tryptophan Rich Antigen domain suggests a lipid binding function for a pan-Plasmodium multi-gene family.
 37708854	Identification of genes required for Plasmodium gametocyte-to-sporozoite development in the mosquito vector.
 37708851	Sex determination and transmission: Leveraging genetic screens to reveal Plasmodium's secrets.
+32491454	Beta Thalassemia Major (Cooley Anemia).
 30000694	Pyrethrins.
 30000442	Permethrin.
 37708466	Travel Medicine: Travelers With Preexisting Conditions.
@@ -891,6 +904,8 @@
 37660526	A novel Babesia sp. of the "Western Babesia group", detected in opossums from Guatemala.
 37658925	Circulating platelets and malaria severity: two sides of the same coin among inhabitants of a tropical savannah region, Nigeria.
 37658745	'Candidatus Tisiphia' is a widespread Rickettsiaceae symbiont in the mosquito Anopheles plumbeus (Diptera: Culicidae).
+33760465	Sickle Cell Anemia (Nursing).
+32644745	Cinchonism.
 37660195	Maize pollen diet enhances malaria mosquito longevity and infectivity to Plasmodium parasites in Ethiopia.
 37660103	Structure-based design of a strain transcending AMA1-RON2L malaria vaccine.
 37659777	Zanzibar's malaria elimination efforts: progress, challenges, and lessons.
@@ -2029,7 +2044,6 @@
 37272217	Functions of double-negative B cells in autoimmune diseases, infections, and cancers.
 37271818	BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators.
 37271388	A rapid systematic scoping review of research on the impacts of water contaminated by chemicals on very young children.
-32491454	Cooley Anemia.
 37270766	KNOWLEDGE, ATTITUDES, AND PRACTICES TOWARD MALARIA AND ANTIMALARIAL MASS DRUG ADMINISTRATION AMONG HEADS OF HOUSEHOLDS IN VILLAGES ON GRANDE COMORE ISLAND, THE COMOROS.
 37270589	Clinical isolates of uncomplicated falciparum malaria from high and low malaria transmission areas show distinct pfcrt and pfmdr1 polymorphisms in western Ethiopia.
 37270545	Area-specific covid-19 effects on health services utilization in the Democratic Republic of the Congo using routine health information system data.
@@ -3426,7 +3440,6 @@
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
 36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
 36800986	Malaria amongst children under five in sub-Saharan Africa: a scoping review of prevalence, risk factors and preventive interventions.
-32644745	Cinchonism.
 36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
 36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
 36799808	What is the role of autoantibodies in post-artesunate delayed hemolysis?
@@ -4408,7 +4421,6 @@
 36443857	Primary health care situations in remote rural villages of the Savannakhet province, Lao People's Democratic Republic.
 36443817	Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia.
 36443751	Human behaviour directs household-level exposure to malaria vectors in Bandarban, Bangladesh.
-33760465	Sickle Cell Anemia (Nursing).
 36443434	Population genomics reveal distinct and diverging populations of An. minimus in Cambodia.
 36442488	Pregnancy outcomes after first-trimester treatment with artemisinin derivatives versus non-artemisinin antimalarials: a systematic review and individual patient data meta-analysis.
 36442486	First-trimester use of ACTs for malaria treatment in pregnancy.
@@ -9985,15 +9997,3 @@
 34594391	Evaluation of the Antimalarial Activity of Crude Extract of Eucalyptus globulus Labill. Leaf against Plasmodium berghei in Mice.
 34594384	Sporadic Rift Valley Fever Outbreaks in Humans and Animals in Uganda, October 2017-January 2018.
 34593959	A genotyping assay to determine geographic origin and transmission potential of Plasmodium falciparum malaria cases.
-34593941	Experimental evolution supports the potential of neonicotinoid-pyrethroid combination for managing insecticide resistance in malaria vectors.
-34593836	Dramatic transcriptomic differences in Macaca mulatta and Macaca fascicularis with Plasmodium knowlesi infections.
-34593486	Seeking diagnostic and prognostic biomarkers for childhood bacterial pneumonia in sub-Saharan Africa: study protocol for an observational study.
-34593270	A phase IIA extension study evaluating the effect of booster vaccination with a fractional dose of RTS,S/AS01(E) in a controlled human malaria infection challenge.
-34593034	Vertical disease programs and their effect on integrated disease surveillance and response: perspectives of epidemiologists and surveillance officers in Nigeria.
-34592986	The genome of the zoonotic malaria parasite Plasmodium simium reveals adaptations to host switching.
-37585855	Prevalence and risk factors for malaria in pregnancy in Vanga, Democratic Republic of Congo.
-35952086	Paludismo (Malaria).
-35952085	Malaria.
-34592395	Dimeric artesunate-choline conjugate micelles coated with hyaluronic acid as a stable, safe and potent alternative anti-malarial injection of artesunate.
-34592368	Discovery of novel inhibitors targeting Plasmodium knowlesi dihydrofolate reductase using molecular docking and molecular dynamics simulation.
-34591862	Postmortem investigations and identification of multiple causes of child deaths: An analysis of findings from the Child Health and Mortality Prevention Surveillance (CHAMPS) network.
