@@ -1,6 +1,5 @@
-37978770	[Management of Acute Malnutrition in Children in a Sahelian Secondary Hospital].
-37978759	[Infections associated with the care in the department of gynecology - obstetrics of the University Hospital Center Gabriel Touré].
-37978745	[Materno-Fetal Prognosis Of Anemia In Bougouni].
+37979013	Promising Larvicidal Effects of Nanoliposomes Containing Carvone and Mentha spicata and Tanacetum balsamita Essential Oils Against Anopheles stephensi.
+37978995	Efficacy of artemether against toxocariasis in mice: parasitological and immunopathological changes in brain, liver, and lung.
 37978494	Malaria control - lessons learned from trends of Malaria indices over three decades in Karnataka, India.
 37978446	Genetic diversity of merozoite surface protein-5 (MSP-5) of Plasmodium vivax isolates from Malaria patients in Iran.
 37978324	The volatilome signatures of Plasmodium falciparum parasites during the intraerythrocytic development cycle in vitro under exposure to artemisinin drug.
@@ -9997,3 +9996,4 @@
 34594981	Surveillance of Malaria Vectors - 18 Sites, 12 PLADs, China, 2018-2020.
 34594979	Assessment on the Diagnostic Capacity for Parasitic Diseases of Health Facilities - China, 2019.
 34594911	The First Reported Case of COVID-19 and Plasmodium ovale Malaria Coinfection - Guangdong Province, China, January 2021.
+34594886	Time to Integrate Malaria and Neglected Tropical Diseases Control and Elimination.
