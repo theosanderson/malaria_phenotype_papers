@@ -1,3 +1,11 @@
+37978770	[Management of Acute Malnutrition in Children in a Sahelian Secondary Hospital].
+37978759	[Infections associated with the care in the department of gynecology - obstetrics of the University Hospital Center Gabriel Touré].
+37978745	[Materno-Fetal Prognosis Of Anemia In Bougouni].
+37978494	Malaria control - lessons learned from trends of Malaria indices over three decades in Karnataka, India.
+37978446	Genetic diversity of merozoite surface protein-5 (MSP-5) of Plasmodium vivax isolates from Malaria patients in Iran.
+37978324	The volatilome signatures of Plasmodium falciparum parasites during the intraerythrocytic development cycle in vitro under exposure to artemisinin drug.
+37977356	Metacaspase (Pf MCA-1) as antimalarial drug target: An in silico approach and their biological validation.
+37976701	Cytokine storm in COVID-19 and malaria: Annals of pro-inflammatory cytokines.
 37975998	The COVID-19 Pandemic's Impact on Health Service Utilization Among Pregnant Women in Three Nigerian States: A Mixed Methods Study.
 37975318	In vitro and in silico guided identification of antimalarial phytoconstituent(s) in the root of Citrus maxima (Burm.) Merr.
 37974949	Design of Novel Series of Antimalarial PMX Inhibitors with Increased Half-Life via Molecular Property Optimization.
@@ -9989,11 +9997,3 @@
 34594981	Surveillance of Malaria Vectors - 18 Sites, 12 PLADs, China, 2018-2020.
 34594979	Assessment on the Diagnostic Capacity for Parasitic Diseases of Health Facilities - China, 2019.
 34594911	The First Reported Case of COVID-19 and Plasmodium ovale Malaria Coinfection - Guangdong Province, China, January 2021.
-34594886	Time to Integrate Malaria and Neglected Tropical Diseases Control and Elimination.
-34594884	Malaria Deaths - China, 2011-2020.
-34594883	Challenges of Sustaining Malaria Community Case Management in 81 Township Hospitals along the China-Myanmar Border Region - Yunnan Province, China, 2020.
-34594882	A Case Study on the Disease Burden and Influencing Factors of Imported Malaria Patients in a County-Level Hospital - Guangxi Zhuang Autonomous Region, China, 2016-2019.
-34594774	China-UK-Tanzania Pilot Project on Malaria Control.
-34594391	Evaluation of the Antimalarial Activity of Crude Extract of Eucalyptus globulus Labill. Leaf against Plasmodium berghei in Mice.
-34594384	Sporadic Rift Valley Fever Outbreaks in Humans and Animals in Uganda, October 2017-January 2018.
-34593959	A genotyping assay to determine geographic origin and transmission potential of Plasmodium falciparum malaria cases.
