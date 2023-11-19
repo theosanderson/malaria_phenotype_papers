@@ -1,3 +1,6 @@
+37980467	RTS,S/AS01 malaria vaccine pilot implementation in western Kenya: a qualitative longitudinal study to understand immunisation barriers and optimise uptake.
+37979596	Universal radical cure: prospects and challenges for malaria elimination.
+37979594	Primaquine radical cure in patients with Plasmodium falciparum malaria in areas co-endemic for P falciparum and Plasmodium vivax (PRIMA): a multicentre, open-label, superiority randomised controlled trial.
 37979013	Promising Larvicidal Effects of Nanoliposomes Containing Carvone and Mentha spicata and Tanacetum balsamita Essential Oils Against Anopheles stephensi.
 37978995	Efficacy of artemether against toxocariasis in mice: parasitological and immunopathological changes in brain, liver, and lung.
 37978494	Malaria control - lessons learned from trends of Malaria indices over three decades in Karnataka, India.
@@ -311,7 +314,7 @@
 37867307	Antimalarial compounds from the climbing stems of salacia debilis.
 37866823	A SURVEY ON MOSQUITO CONTROL KNOWLEDGE AND INSECTICIDE USE IN NEW ORLEANS, LA, 2020-2021.
 37866714	Imidazo[2,1-b]thiazole based indoleamine-2,3-dioxygenase 1 (IDO1) inhibitor: Structure based design, synthesis, bio-evaluation and docking studies.
-37866427	DHA-RICH FISH OIL PLAYS A PROTECTIVE ROLE AGAINST EXPERIMENTAL CEREBRAL MALARIA BY CONTROLLING INFLAMMATORY AND MECHANICAL EVENTS FROM INFECTION.
+37866427	DHA-rich fish oil plays a protective role against experimental cerebral malaria by controlling inflammatory and mechanical events from infection.
 37866107	Anti-parasitic benzoxaboroles are ineffective against Theileria parva in vitro.
 37865802	Vulnerability to health and well-being of internally displaced persons (IDPs) in Myanmar post-military coup and COVID-19.
 37865784	Safety and tolerability of repeated doses of dihydroartemisinin-piperaquine for intermittent preventive treatment of malaria in pregnancy: a systematic review and an aggregated data meta-analysis of randomized controlled trials.
@@ -9994,6 +9997,3 @@
 34595134	Unraveling the Complexity of Imported Malaria Infections by Amplicon Deep Sequencing.
 34594993	Malaria Surveillance of Entry People During the COVID-19 Epidemic - Guangdong Province, China, October 2020-May 2021.
 34594981	Surveillance of Malaria Vectors - 18 Sites, 12 PLADs, China, 2018-2020.
-34594979	Assessment on the Diagnostic Capacity for Parasitic Diseases of Health Facilities - China, 2019.
-34594911	The First Reported Case of COVID-19 and Plasmodium ovale Malaria Coinfection - Guangdong Province, China, January 2021.
-34594886	Time to Integrate Malaria and Neglected Tropical Diseases Control and Elimination.
