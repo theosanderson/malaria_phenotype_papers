@@ -1,3 +1,5 @@
+37980631	The effect of HLA-DP gene polymorphisms in Plasmodium Vivax-induced malaria susceptibility.
+37980574	Chemokines: A key driver for inflammation in protozoan infection.
 37980467	RTS,S/AS01 malaria vaccine pilot implementation in western Kenya: a qualitative longitudinal study to understand immunisation barriers and optimise uptake.
 37979596	Universal radical cure: prospects and challenges for malaria elimination.
 37979594	Primaquine radical cure in patients with Plasmodium falciparum malaria in areas co-endemic for P falciparum and Plasmodium vivax (PRIMA): a multicentre, open-label, superiority randomised controlled trial.
@@ -9995,5 +9997,3 @@
 34596961	Amino Acid Based Antimicrobial Agents - Synthesis and Properties.
 34596944	Malaria in Pregnancy: Considerations for Health Care Providers in Nonendemic Countries.
 34595134	Unraveling the Complexity of Imported Malaria Infections by Amplicon Deep Sequencing.
-34594993	Malaria Surveillance of Entry People During the COVID-19 Epidemic - Guangdong Province, China, October 2020-May 2021.
-34594981	Surveillance of Malaria Vectors - 18 Sites, 12 PLADs, China, 2018-2020.
