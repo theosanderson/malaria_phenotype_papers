@@ -1,3 +1,5 @@
+37981691	Diagnostic performance of ultrasensitive rapid diagnostic test for the detection of Plasmodium falciparum infections in asymptomatic individuals in Kisangani, Northeast Democratic Republic of Congo.
+37981686	Plasmodium vivax merozoite-specific thrombospondin-related anonymous protein (PvMTRAP) interacts with human CD36, suggesting a novel ligand-receptor interaction for reticulocyte invasion.
 37981279	Insertion of GGMP repeat residues of Plasmodium falciparum Hsp70-1 in the lid of DnaK adversely impacts client recognition.
 37981115	Phytochemical screening, antioxidant analyses, and in vitro and in vivo antimalarial activities of herbal medicinal plant - Rotheca serrata (L.) Steane & Mabb.
 37980911	Short oral regimens for pulmonary rifampicin-resistant tuberculosis (TB-PRACTECAL): an open-label, randomised, controlled, phase 2B-3, multi-arm, multicentre, non-inferiority trial.
@@ -9995,5 +9997,3 @@
 34598401	Carica papaya augments anti-malarial efficacy of artesunate in Plasmodium berghei parasitized mice.
 34598312	Trends in fever case management for febrile inpatients in a low malaria incidence setting of Tanzania.
 34597322	Hyperendemicity of cysticercosis in Madagascar: Novel insights from school children population-based antigen prevalence study.
-34597315	Prevalence and characteristics of malaria among COVID-19 individuals: A systematic review, meta-analysis, and analysis of case reports.
-34597312	Assessment of serum amylase, lipase and associated factors among patients with visceral leishmaniasis treated with sodium stibogluconate/paromomycin at University of Gondar Comprehensive Specialized Hospital, Northwest Ethiopia.
