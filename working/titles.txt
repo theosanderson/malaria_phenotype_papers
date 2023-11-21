@@ -1,3 +1,4 @@
+37983939	Malaria in the horn of Africa: The ongoing battle against drug resistance.
 37982977	Antiplasmodial Activity of β-Ionone and the Effect of the Compound on Amelioration of Anaemia and Oxidative Organ Damage in Mice Infected with Plasmodium berghei.
 37982627	The heat shock protein Hsc70-3 mediates an anti-apoptotic response critical for Plasmodium evasion of Anopheles gambiae immunity.
 37981691	Diagnostic performance of ultrasensitive rapid diagnostic test for the detection of Plasmodium falciparum infections in asymptomatic individuals in Kisangani, Northeast Democratic Republic of Congo.
@@ -9996,4 +9997,3 @@
 34599889	Are members of the Anopheles fluviatilis complex conspecific?
 34599250	Efficacy and side effects of bio-fabricated sardine fish scale silver nanoparticles against malarial vector Anopheles stephensi.
 34598687	Feasibility of implementing recommendations to improve neglected tropical diseases surveillance and response in Kenya: a modified Delphi study.
-34598401	Carica papaya augments anti-malarial efficacy of artesunate in Plasmodium berghei parasitized mice.
