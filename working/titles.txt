@@ -1,3 +1,5 @@
+37988347	Protein kinase PfPK2 mediated signalling is critical for host erythrocyte invasion by malaria parasite.
+37988332	Utilization of accessible resources in the fabrication of an affordable, portable, high-resolution, 3D printed, digital microscope for Philippine diagnostic applications.
 37987165	The global burden of disease due to benign gynecological conditions: A call to action.
 37987025	Monitoring the density of Plasmodium spp. gametocytes in isolates from patient samples in the region of Porto Velho, Rondônia.
 37987011	Antigenic strain diversity predicts different biogeographic patterns of invasion and maintenance of anti-malarial drug resistance.
@@ -9995,5 +9997,3 @@
 34604452	Plasmodium cynomolgi Berok Growth Inhibition Assay by Thiol-reactive Probe Based Flow Cytometric Measurement.
 34604441	Malaria detection through digital microscopic imaging using Deep Greedy Network with transfer learning.
 34604117	Roles and Cellular Localization of GBP2 and NAB2 During the Blood Stage of Malaria Parasites.
-34604112	Targeting Host Glycolysis as a Strategy for Antimalarial Development.
-34603496	Gene flow between island populations of the malaria mosquito, Anopheles hinesorum, may have contributed to the spread of divergent host preference phenotypes.
