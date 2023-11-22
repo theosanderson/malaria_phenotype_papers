@@ -1,3 +1,7 @@
+37990719	Human movement patterns of farmers and forest workers from the Thailand-Myanmar border.
+37990340	Analysis of codon usage bias of thioredoxin in apicomplexan protozoa.
+37990324	Prevalence and risk factors associated with malaria infection in children under two years of age in southern Togo prior to perennial malaria chemoprevention implementation.
+37990242	Comparison of new computational methods for spatial modelling of malaria.
 37989366	Sustainable development goals and multisectoral collaborations for child health in Cambodia: a qualitative interview study with key child health stakeholders.
 37989006	Antiepileptogenic and neuroprotective effect of mefloquine after experimental status epilepticus.
 37988797	Unexpected rearrangement of ivermectin in the synthesis of new derivatives with trypanocidal and antiplasmodial activities.
@@ -361,6 +365,7 @@
 37860804	Issues related to the approval of the R21/Matrix-M malaria vaccine for use in Nigeria and Ghana.
 37860614	Primate malaria of human importance.
 37859718	Design, synthesis, and biological evaluation of 3,3'-diindolylmethane N-linked glycoconjugate as a leishmanial topoisomerase IB inhibitor with reduced cytotoxicity.
+37859414	Anti-Toxoplasma gondii screening of MMV pandemic response box and evaluation of RWJ-67657 efficacy in chronically infected mice.
 37859300	Malaria sporozoites evade host complement attack.
 37858590	The effect and control of malaria in pregnancy and lactating women in the Asia-Pacific region.
 37858587	Prevalence of molecular markers of resistance to sulfadoxine-pyrimethamine before and after community delivery of intermittent preventive treatment of malaria in pregnancy in sub-Saharan Africa: a multi-country evaluation.
@@ -9992,8 +9997,3 @@
 34607575	The relationship between markers of antenatal iron stores and birth outcomes differs by malaria prevention regimen-a prospective cohort study.
 34607466	Metabolomic Analysis of Diverse Mice Reveals Hepatic Arginase-1 as Source of Plasma Arginase in Plasmodium chabaudi Infection.
 34606998	Identification of Plasmodium falciparum falcilysin inhibitors by a virtual screen.
-34606577	Genotyping Cyclospora cayetanensis From Multiple Outbreak Clusters With An Emphasis on a Cluster Linked to Bagged Salad Mix-United States, 2020.
-34606519	Efficacy of targeted indoor residual spraying with the pyrrole insecticide chlorfenapyr against pyrethroid-resistant Aedes aegypti.
-34606368	Evolutionary Insights into the Microneme-Secreted, Chitinase-Containing High-Molecular-Weight Protein Complexes Involved in Plasmodium Invasion of the Mosquito Midgut.
-34606334	Mutation in the Plasmodium falciparum BTB/POZ Domain of K13 Protein Confers Artemisinin Resistance.
-34604733	Mosquito control at a tertiary teaching hospital in Nigeria.
