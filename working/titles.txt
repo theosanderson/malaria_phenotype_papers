@@ -1,3 +1,8 @@
+37992231	Platelets mediate the clearance of senescent red blood cells by forming pro-phagocytic platelet-cell complexes.
+37992117	Malaria species positivity rates among symptomatic individuals across regions of differing transmission intensities in Mainland Tanzania.
+37992045	Assessing risk factors for malaria and schistosomiasis among children in Misungwi, Tanzania, an area of co-endemicity: A mixed methods study.
+37992017	Understanding reticence to occupy free, novel-design homes: A qualitative study in Mtwara, Southeast Tanzania.
+37992012	Perceptions of youth-friendly sexual and reproductive health services in selected Higher and Tertiary Education Institutions of Zambia: A qualitative study on the perspectives of young people and healthcare providers.
 37990719	Human movement patterns of farmers and forest workers from the Thailand-Myanmar border.
 37990340	Analysis of codon usage bias of thioredoxin in apicomplexan protozoa.
 37990324	Prevalence and risk factors associated with malaria infection in children under two years of age in southern Togo prior to perennial malaria chemoprevention implementation.
@@ -9992,8 +9997,3 @@
 34609878	Solvent Structure and Dynamics near the Surfaces of β-Hematin Crystals.
 34609851	High-Content Phenotypic Screen of a Focused TCAMS Drug Library Identifies Novel Disruptors of the Malaria Parasite Calcium Dynamics.
 34609486	Pandemic-related delay of falciparum malaria diagnosis in a traveller leading to cerebral malaria.
-34607611	Correction to: Epidemiological and entomological studies of malaria transmission in Tibati, Adamawa region of Cameroon 6 years following the introduction of long-lasting insecticide nets.
-34607591	Comparison of machine learning algorithms applied to symptoms to determine infectious causes of death in children: national survey of 18,000 verbal autopsies in the Million Death Study in India.
-34607575	The relationship between markers of antenatal iron stores and birth outcomes differs by malaria prevention regimen-a prospective cohort study.
-34607466	Metabolomic Analysis of Diverse Mice Reveals Hepatic Arginase-1 as Source of Plasma Arginase in Plasmodium chabaudi Infection.
-34606998	Identification of Plasmodium falciparum falcilysin inhibitors by a virtual screen.
