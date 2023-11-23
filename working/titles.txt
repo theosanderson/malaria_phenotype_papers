@@ -1,3 +1,4 @@
+37994442	A systematic review of CQ-resistant Plasmodium vivax malaria infections in India.
 37993652	Unravelling the genome of the brackish water malaria vector Anopheles aquasalis.
 37993039	In vitro drug susceptibility using a parasite-rescue and transformation assay of Leishmania (Mundinia) martiniquensis and Leishmania (Mundinia) orientalis amastigotes against antileishmanial drugs.
 37992998	Redox modulating small molecules having antimalarial efficacy.
@@ -9996,4 +9997,3 @@
 34610842	Assessing health system factors affecting access and delivery of IPTp-SP and ITN to pregnant women attending ANC clinics in Ghana.
 34610130	Response to Odedra et al.
 34610127	Posttreatment Transaminase Elevations in Controlled Human Malaria Infection and Naturally Acquired Malaria.
-34610011	Resistance to a CRISPR-based gene drive at an evolutionarily conserved site is revealed by mimicking genotype fixation.
