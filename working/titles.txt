@@ -1,3 +1,4 @@
+37996969	Drivers of healthcare expenditure growth in West Africa: A panel data investigation.
 37996920	Relationship between the colours of the rivers in the Amazon and the incidence of malaria.
 37996707	Drug resistance and vaccine target surveillance of Plasmodium falciparum using nanopore sequencing in Ghana.
 37996533	The effect of dosage on the protective efficacy of whole-sporozoite formulations for immunization against malaria.
@@ -9996,4 +9997,3 @@
 34612499	Severe Acute Respiratory Syndrome Coronavirus 2 Seroassay Performance and Optimization in a Population With High Background Reactivity in Mali.
 34612205	Divergent acyl carrier protein decouples mitochondrial Fe-S cluster biogenesis from fatty acid synthesis in malaria parasites.
 34611673	Determination of antimalarial drugs in pharmaceutical formulations and human blood by liquid chromatography: a review.
-34611671	Pre-pandemic SARS-CoV-2 serological reactivity in rural malaria-experienced Cambodians.
