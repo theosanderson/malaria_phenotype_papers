@@ -1,8 +1,8 @@
 38001503	Evidence of malarial chemoprophylaxis among travellers who died from malaria: a systematic review and meta-analysis.
 38001069	Cytolytic circumsporozoite-specific memory CD4(+) T cell clones are expanded during Plasmodium falciparum infection.
-38000957	Advances and challenges in synthetic biology for mosquito control.
 38000632	Maternal exposure to pyrethroid insecticides during pregnancy and respiratory allergy symptoms among children participating in the Venda health examination of mothers, babies and their environment (VHEMBE).
 38000506	ANTIFON-CLIC®, a new clinical decision support system for the treatment of invasive aspergillosis: is it clinically relevant?
+38000957	Advances and challenges in synthetic biology for mosquito control.
 38000094	Screening of the activity of sixty essential oils against plasmodium early mosquito stages in vitro and machine learning analysis reveals new putative inhibitors of malaria parasites.
 37999757	In vitro and in vivo antiplasmodial activity of a synthetic dihydroartemisinin-eosin B hybrid.
 37999623	Polymorphism of Drug Resistance Genes dhfr and dhps in Plasmodium falciparum Isolates among Chinese Migrant Workers Who Returned from Ghana in 2013.
