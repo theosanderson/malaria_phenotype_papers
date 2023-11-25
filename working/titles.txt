@@ -1,3 +1,8 @@
+38001503	Evidence of malarial chemoprophylaxis among travellers who died from malaria: a systematic review and meta-analysis.
+38001069	Cytolytic circumsporozoite-specific memory CD4(+) T cell clones are expanded during Plasmodium falciparum infection.
+38000957	Advances and challenges in synthetic biology for mosquito control.
+38000632	Maternal exposure to pyrethroid insecticides during pregnancy and respiratory allergy symptoms among children participating in the Venda health examination of mothers, babies and their environment (VHEMBE).
+38000506	ANTIFON-CLIC®, a new clinical decision support system for the treatment of invasive aspergillosis: is it clinically relevant?
 38000094	Screening of the activity of sixty essential oils against plasmodium early mosquito stages in vitro and machine learning analysis reveals new putative inhibitors of malaria parasites.
 37999757	In vitro and in vivo antiplasmodial activity of a synthetic dihydroartemisinin-eosin B hybrid.
 37999623	Polymorphism of Drug Resistance Genes dhfr and dhps in Plasmodium falciparum Isolates among Chinese Migrant Workers Who Returned from Ghana in 2013.
@@ -9992,8 +9997,3 @@
 34618812	An ethnographic study of how health system, socio-cultural and individual factors influence uptake of intermittent preventive treatment of malaria in pregnancy with sulfadoxine-pyrimethamine in a Ghanaian context.
 34617191	In silico identification of noncompetitive inhibitors targeting an uncharacterized allosteric site of falcipain-2.
 34617121	Swarming Behavior in Anopheles gambiae (sensu lato): Current Knowledge and Future Outlook.
-34615917	Characterizing the genomic variation and population dynamics of Plasmodium falciparum malaria parasites in and around Lake Victoria, Kenya.
-34615662	Pursuing health systems strengthening through disease-specific programme grants: experiences in Tanzania and Sierra Leone.
-34615551	Secondary analysis of malaria rapid diagnostic tests from rounds 5-8 of WHO product testing with a focus on false-negative results.
-34614006	Co-chaperone involvement in knob biogenesis implicates host-derived chaperones in malaria virulence.
-34612691	Validation of Commercial SARS-CoV-2 Immunoassays in a Nigerian Population.
