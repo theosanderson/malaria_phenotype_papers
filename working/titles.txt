@@ -1,3 +1,7 @@
+38005982	Pseudovirus Nanoparticles Displaying Plasmodium Circumsporozoite Proteins Elicited High Titers of Sporozoite-Binding Antibody.
+38004770	Molecular Diagnosis as an Alternative for Public Health Surveillance of Leptospirosis in Colombia.
+38004142	A Systematic Review and Meta-Analysis Exploring Variations in Copper Levels between Individuals with Malaria and Uninfected Controls.
+38003076	A Safe and Effective Atovaquone-Proguanil Therapeutic Protocol for the Treatment of Avian Malaria by Plasmodium relictum in Snowy Owl (Bubo scandiacus).
 38001503	Evidence of malarial chemoprophylaxis among travellers who died from malaria: a systematic review and meta-analysis.
 38001069	Cytolytic circumsporozoite-specific memory CD4(+) T cell clones are expanded during Plasmodium falciparum infection.
 38000632	Maternal exposure to pyrethroid insecticides during pregnancy and respiratory allergy symptoms among children participating in the Venda health examination of mothers, babies and their environment (VHEMBE).
@@ -9993,7 +9997,3 @@
 34620192	Application of dried blood spot sample pooling strategies for Plasmodium 18S rRNA biomarker testing to facilitate identification of infected persons in large-scale epidemiological studies.
 34619119	Computational modeling of biomechanics and biorheology of heated red blood cells.
 34618852	High levels of pathological jaundice in the first 24 hours and neonatal hyperbilirubinaemia in an epidemiological cohort study on the Thailand-Myanmar border.
-34618814	The global burden of Plasmodium vivax malaria is obscure and insidious.
-34618812	An ethnographic study of how health system, socio-cultural and individual factors influence uptake of intermittent preventive treatment of malaria in pregnancy with sulfadoxine-pyrimethamine in a Ghanaian context.
-34617191	In silico identification of noncompetitive inhibitors targeting an uncharacterized allosteric site of falcipain-2.
-34617121	Swarming Behavior in Anopheles gambiae (sensu lato): Current Knowledge and Future Outlook.
