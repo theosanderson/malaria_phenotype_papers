@@ -1,3 +1,4 @@
+38007690	Molecular determinants of cross-reactivity and potency by VH3-33 antibodies against the Plasmodium falciparum circumsporozoite protein.
 38007518	Apolipoprotein-E4: risk of severe malaria and mortality and cognitive impairment in pediatric cerebral malaria.
 38007342	Variable long-term protection by radiation-, chemo-, and genetically-attenuated Plasmodium berghei sporozoite vaccines.
 38006554	Detection of Natural Wolbachia Strains in Anopheles Mosquitoes.
@@ -9996,4 +9997,3 @@
 34620381	Knowlesi malaria: Human risk factors, clinical spectrum, and pathophysiology.
 34620228	The effect of irrigation on malaria vector bionomics and transmission intensity in western Ethiopia.
 34620227	Wild populations of malaria vectors can mate both inside and outside human dwellings.
-34620224	Chemical composition and the insecticidal activity of Aeollanthus pubescens leaf essential oil against Anopheles gambiae sensu stricto.
