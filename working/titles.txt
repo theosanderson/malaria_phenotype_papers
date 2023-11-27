@@ -1,3 +1,5 @@
+38009402	Putative prefoldin complex subunit 5 of Plasmodium berghei is crucial for microtubule formation and parasite development in the mosquito.
+38009287	Retention of uninfected red blood cells causing congestive splenomegaly is the major mechanism of anemia in malaria.
 38008761	Systematic review of sporozoite infection rate of Anopheles mosquitoes in Ethiopia, 2001-2021.
 38008371	Assessing the risk of malaria local transmission and re-introduction in China from pre-elimination to elimination: a systematic review.
 38008239	Imported malaria in pregnancy in Europe: A systematic review of the literature of the last 25 years.
@@ -1454,7 +1456,7 @@
 37504591	Maximizing the Potential of Attractive Targeted Sugar Baits (ATSBs) for Integrated Vector Management.
 37503640	Clinical and Laboratory Predictors of Mortality in Severe COVID-19 Pneumonia: A Retrospective Study from India.
 37503245	PEXEL is a proteolytic maturation site for both exported and non-exported Plasmodium proteins.
-37503196	Evaluating evidence for co-geography in the Anopheles Plasmodium host-parasite system.
+37503196	Evaluating evidence for co-geography in the Anopheles-Plasmodium host-parasite system.
 37503146	Eliminating Malaria Vectors with Precision Guided Sterile Males.
 37503117	Insight into the structural hierarchy of the protease cascade that regulates the mosquito melanization response.
 37503086	Entire Expressed Peripheral Blood Transcriptome in Pediatric Severe Malarial Anemia.
@@ -9995,5 +9997,3 @@
 34620612	WHO hails "historic day" as it recommends malaria vaccine.
 34620387	Plasmodium knowlesi, an infectious disease challenge for our times.
 34620386	Plasmodium knowlesi detection methods for human infections-Diagnosis and surveillance.
-34620385	Clinical management of Plasmodium knowlesi malaria.
-34620384	Epidemiology of the zoonotic malaria Plasmodium knowlesi in changing landscapes.
