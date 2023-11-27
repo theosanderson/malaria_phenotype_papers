@@ -1,3 +1,5 @@
+38010150	Human transcriptional signature of protection after Plasmodium falciparum immunization and infectious challenge via mosquito bites.
+38009642	Sickle cell allele HBB-rs334(T) is associated with decreased risk of childhood Burkitt lymphoma in East Africa.
 38009402	Putative prefoldin complex subunit 5 of Plasmodium berghei is crucial for microtubule formation and parasite development in the mosquito.
 38009287	Retention of uninfected red blood cells causing congestive splenomegaly is the major mechanism of anemia in malaria.
 38008761	Systematic review of sporozoite infection rate of Anopheles mosquitoes in Ethiopia, 2001-2021.
@@ -9995,5 +9997,3 @@
 34620990	Plasmodium metabolite HMBPP stimulates feeding of main mosquito vectors on blood and artificial toxic sources.
 34620901	Probing the distinct chemosensitivity of Plasmodium vivax liver stage parasites and demonstration of 8-aminoquinoline radical cure activity in vitro.
 34620612	WHO hails "historic day" as it recommends malaria vaccine.
-34620387	Plasmodium knowlesi, an infectious disease challenge for our times.
-34620386	Plasmodium knowlesi detection methods for human infections-Diagnosis and surveillance.
