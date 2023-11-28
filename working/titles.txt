@@ -1,3 +1,8 @@
+38011732	Case Report: Challenges of Diagnosing Malaria in Returning Travelers at the Height of COVID-19 Pandemic.
+38011731	Schistosomiasis Seroprevalence among Children Aged 0-14 Years in Nigeria, 2018.
+38011730	Leptospirosis Cases among Outpatients with Non-Malaria Fever Attending Primary Care Clinics during the Rainy Season in Bobo Dioulasso, Burkina Faso.
+38011728	The U.S. President's Malaria Initiative's Support for Improving the Quality of Malaria Case Management Services: Fifteen Years of Progress and Learning.
+38011142	Spatial variation and clustering of anaemia prevalence in school-aged children in Western Kenya.
 38010150	Human transcriptional signature of protection after Plasmodium falciparum immunization and infectious challenge via mosquito bites.
 38009642	Sickle cell allele HBB-rs334(T) is associated with decreased risk of childhood Burkitt lymphoma in East Africa.
 38009402	Putative prefoldin complex subunit 5 of Plasmodium berghei is crucial for microtubule formation and parasite development in the mosquito.
@@ -9992,8 +9997,3 @@
 34623099	Parasitic Infections of the Nervous System.
 34621807	Pathology of Bovine Tuberculosis in Three Breeds of Dairy Cattle and Spoligotyping of the Causative Mycobacteria in Ethiopia.
 34621693	A Comprehensive Analysis of the Genetic Diversity of Plasmodium falciparum Histidine-Rich Protein 2 (PfHRP2) in the Brazilian Amazon.
-34621515	Case Report: Case report: Mixed infection of Plasmodium vivax and Plasmodium falciparum in a tertiary hospital.
-34621112	Molecular docking analysis of Plasmodium falciparum dihydroorotate dehydrogenase towards the design of effective inhibitors.
-34620990	Plasmodium metabolite HMBPP stimulates feeding of main mosquito vectors on blood and artificial toxic sources.
-34620901	Probing the distinct chemosensitivity of Plasmodium vivax liver stage parasites and demonstration of 8-aminoquinoline radical cure activity in vitro.
-34620612	WHO hails "historic day" as it recommends malaria vaccine.
