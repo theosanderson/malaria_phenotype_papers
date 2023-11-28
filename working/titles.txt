@@ -1,3 +1,11 @@
+38014243	Prognostics of multiple malaria episodes and nutritional status in children aged 6 to 59 months from 2013 to 2017 in Dangassa, Mali.
+38014051	Host kinase regulation of Plasmodium vivax dormant and replicating liver stages.
+38014035	Genomic malaria surveillance of antenatal care users detects reduced transmission following elimination interventions in Mozambique.
+38013532	Utilization Of The Complete Blood Count In Diagnosing Endemic Diseases In Pakistan.
+38013152	Adjunctive rosiglitazone treatment for severe paediatric malaria: a randomized placebo-controlled trial in Mozambican children.
+38012717	Experiences of healthcare personnel on the efficacy of artemisinin-based combination therapy and malaria diagnosis in hospitals in Uganda.
+38012686	Standardization of DNA extraction from paraffinized spleen samples: molecular diagnosis of human malaria.
+38012638	Health workers' adherence to the malaria test, treat and track strategy during the COVID-19 pandemic in malaria high transmission area in Eastern Uganda.
 38012255	Anopheles gambiae on remote islands in the Indian Ocean: origins and prospects for malaria elimination by genetic modification of extant populations.
 38012191	Genomic analysis of Plasmodium vivax describes patterns of connectivity and putative drivers of adaptation in Ethiopia.
 38012088	In vitro and in vivo antimalarial activity, cytotoxicity and phytochemical HRMS2 profile of plants from the Western Pará State, Brazilian Amazon.
@@ -1468,7 +1476,6 @@
 37503245	PEXEL is a proteolytic maturation site for both exported and non-exported Plasmodium proteins.
 37503196	Evaluating evidence for co-geography in the Anopheles-Plasmodium host-parasite system.
 37503146	Eliminating Malaria Vectors with Precision Guided Sterile Males.
-37503117	Insight into the structural hierarchy of the protease cascade that regulates the mosquito melanization response.
 37503086	Entire Expressed Peripheral Blood Transcriptome in Pediatric Severe Malarial Anemia.
 37502843	Strong Positive Selection Biases Identity-By-Descent-Based Inferences of Recent Demography and Population Structure in Plasmodium falciparum.
 37501921	Plasmodium falciparum infection and naturally acquired immunity to malaria antigens among Ghanaian children in northern Ghana.
@@ -9990,10 +9997,3 @@
 34627240	Small-scale release of non-gene drive mosquitoes in Burkina Faso: from engagement implementation to assessment, a learning journey.
 34627236	Safety monitoring experience of single-low dose primaquine co-administered with artemether-lumefantrine among providers and patients in routine healthcare practice: a qualitative study in Eastern Tanzania.
 34627141	Joint modelling of multivariate longitudinal clinical laboratory safety outcomes, concomitant medication and clinical adverse events: application to artemisinin-based treatment during pregnancy clinical trial.
-34626546	Availability of essential diagnostics in ten low-income and middle-income countries: results from national health facility surveys.
-34625963	Fast, high-precision autofocus on a motorised microscope: Automating blood sample imaging on the OpenFlexure Microscope.
-34625728	Scientists hail historic malaria vaccine approval - but point to challenges ahead.
-34625589	Spatio-temporal analysis and prediction of malaria cases using remote sensing meteorological data in Diébougou health district, Burkina Faso, 2016-2017.
-34625343	Molecular surveillance of malaria scales up.
-34624713	Asymptomatic low-density Plasmodium falciparum infections: A challenge in malaria elimination in India.
-34623310	The Potential of Digital Data Collection Tools for Long-lasting Insecticide-Treated Net Mass Campaigns in Nigeria: Formative Study.
