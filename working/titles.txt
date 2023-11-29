@@ -1,3 +1,6 @@
+38016837	From microscope to micropixels: A rapid review of artificial intelligence for the peripheral blood film.
+38016529	Multiple episodes of Plasmodium malariae despite antimalarial treatment: "Quartana te teneat"?
+38016502	Identification of the PfK13 mutations R561H and P441L in Democratic Republic of Congo (DRC).
 38014243	Prognostics of multiple malaria episodes and nutritional status in children aged 6 to 59 months from 2013 to 2017 in Dangassa, Mali.
 38014051	Host kinase regulation of Plasmodium vivax dormant and replicating liver stages.
 38014035	Genomic malaria surveillance of antenatal care users detects reduced transmission following elimination interventions in Mozambique.
@@ -9994,6 +9997,3 @@
 34627346	Model-based assessment of the safety of community interventions with primaquine in sub-Saharan Africa.
 34627264	Intensive surveillance, rapid response and border collaboration for malaria elimination: China Yunnan's ''3 + 1''strategy.
 34627242	Genetic variation of Plasmodium falciparum histidine-rich protein 2 and 3 in Assosa zone, Ethiopia: its impact on the performance of malaria rapid diagnostic tests.
-34627240	Small-scale release of non-gene drive mosquitoes in Burkina Faso: from engagement implementation to assessment, a learning journey.
-34627236	Safety monitoring experience of single-low dose primaquine co-administered with artemether-lumefantrine among providers and patients in routine healthcare practice: a qualitative study in Eastern Tanzania.
-34627141	Joint modelling of multivariate longitudinal clinical laboratory safety outcomes, concomitant medication and clinical adverse events: application to artemisinin-based treatment during pregnancy clinical trial.
