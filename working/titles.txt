@@ -1,3 +1,5 @@
+38018582	Recurrent diphtheria outbreaks in Nigeria: A review of the underlying factors and remedies.
+38018538	Architecture, domain organization, and functional signatures of trypanosomatid keIF4A1s and Plasmodium peIF4A1s suggest conserved functions.
 38018462	A novel mitigation strategy for the prevention of transfusion-transmitted malaria.
 38018102	The African mosquito-borne diseasosome: geographical patterns, range expansion and future disease emergence.
 38018100	Heterogeneity in killing efficacy of individual effector CD8(+) T cells against Plasmodium liver stages.
@@ -9995,5 +9997,3 @@
 34630581	Protective Effect of an Anti-HMGB-1 Neutralizing Antibody on Hemozoin-Induced Alveolar Epithelial Cell in a Model of Malaria Associated ALI/ARDS.
 34630516	Deep Learning Methods in Predicting Gene Expression Levels for the Malaria Parasite.
 34630109	Studies on Activities and Chemical Characterization of Medicinal Plants in Search for New Antimalarials: A Ten Year Review on Ethnopharmacology.
-34629053	Risk factors associated with house entry of malaria vectors in an area of Burkina Faso with high, persistent malaria transmission and high insecticide resistance.
-34628501	Spatial Distribution of Plasmodium falciparum and Plasmodium vivax in Northern Ethiopia by Microscopic, Rapid Diagnostic Test, Laboratory Antibody, and Antigen Data.
