@@ -1,3 +1,5 @@
+38032605	Tasmaniomyxa umbilicata, a new genus and new species of myxomycete from Tasmania.
+38032502	In-silico analysis of potent Mosquirix vaccine adjuvant leads.
 38031549	Comparison of molecular surveillance methods to assess changes in the population genetics of Plasmodium falciparum in high transmission.
 38031496	Prospective cohort study linking migration, climate and malaria risk in the Peruvian Amazon.
 38031175	A cross-sectional study to ascertain malaria prevalence among asymptomatic travellers arriving on the Lihir Group of Islands, Papua New Guinea: implications for elimination efforts.
@@ -240,7 +242,7 @@
 37943884	Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria.
 37943633	Naturally acquired transmission-blocking immunity against different strains of Plasmodium vivax in a malaria endemic area in Thailand.
 37943000	Artificial intelligence based de-novo design for novel Plasmodium falciparum plasmepsin (PM) X inhibitors.
-37942994	Pre-gelation staining expansion microscopy (PS-ExM) for visualisation of the Plasmodium liver stage.
+37942994	Pre-gelation staining expansion microscopy for visualisation of the Plasmodium liver stage.
 37942637	Recent advances on patents of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors as antimalarial agents.
 37942619	Alstoboonine, an Ulean-Type Indole Alkaloid from Alstonia boonei Leaves.
 37941771	Impact of integrated preventive and curative health package on nutritional status of children under 2 years of age in the health area of Tama, Tahoua region (Niger).
@@ -5504,7 +5506,6 @@
 36118037	Epidemiological characteristics of P. vivax asymptomatic infections in the Peruvian Amazon.
 36118030	Microscopic and submicroscopic infection by Plasmodium falciparum: Immunoglobulin M and A profiles as markers of intensity and exposure.
 36118020	Structural insights into Plasmodium PPIases.
-36117058	Editorial: Richard Carter (1945-2021) in memoriam: Rodent malaria parasite genetics.
 36116928	[Evaluation of the effectiveness of malaria control health education among overseas enterprise employees].
 36116841	Human Babesiosis.
 36116504	Molecular basis of Toxoplasma gondii oryzalin resistance from a novel α-tubulin binding site model.
@@ -9996,4 +9997,3 @@
 34645475	Time to scale up molecular surveillance for anti-malarial drug resistance in sub-saharan Africa.
 34645464	Prevalence and associated risk factors of asymptomatic malaria and anaemia among school-aged children in Dara Mallo and Uba Debretsehay districts: results from baseline cluster randomized trial.
 34644543	Eliminating malaria in southeast Asia requires more attention on adolescent girls.
-34644348	Malaria in the postpartum period causes damage to the mammary gland.
