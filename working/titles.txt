@@ -1,3 +1,6 @@
+38031549	Comparison of molecular surveillance methods to assess changes in the population genetics of Plasmodium falciparum in high transmission.
+38031496	Prospective cohort study linking migration, climate and malaria risk in the Peruvian Amazon.
+38031175	A cross-sectional study to ascertain malaria prevalence among asymptomatic travellers arriving on the Lihir Group of Islands, Papua New Guinea: implications for elimination efforts.
 38031086	Master statistical analysis plan: attractive targeted sugar bait phase III trials in Kenya, Mali, and Zambia.
 38030676	Evaluating the stability of host-reference gene expression and simultaneously quantifying parasite burden and host immune responses in murine malaria.
 38030507	Corrigendum to: A novel sensitive hexaplex high-resolution melt assay for identification of five human Plasmodium species plus internal control (Acta Tropica, volume 248, article number 107020).
@@ -9994,6 +9997,3 @@
 34645464	Prevalence and associated risk factors of asymptomatic malaria and anaemia among school-aged children in Dara Mallo and Uba Debretsehay districts: results from baseline cluster randomized trial.
 34644543	Eliminating malaria in southeast Asia requires more attention on adolescent girls.
 34644348	Malaria in the postpartum period causes damage to the mammary gland.
-34644317	Impact of mass administration of azithromycin as a preventive treatment on the prevalence and resistance of nasopharyngeal carriage of Staphylococcus aureus.
-34643347	Urban health and nutrition day or only immunisation day? barriers and bottlenecks in implementing Urban health and nutrition day in an Urban primary health centre of Nagpur, Central India.
-34642303	Preclinical development of a Pfs230-Pfs48/45 chimeric malaria transmission-blocking vaccine.
