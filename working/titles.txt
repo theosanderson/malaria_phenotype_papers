@@ -1,3 +1,32 @@
+38029461	A versatile microfluidic platform for malaria infection screening and Plasmodium species genotyping.
+38029163	Cish knockout mice exhibit similar outcomes to malaria infection despite altered hematopoietic responses.
+38028896	Thinking out of the box: revisiting health surveillance based on medical records.
+38028708	Factors associated with poor sleep quality among construction workers in Arba Minch town, Ethiopia: A cross-sectional study.
+38028126	Efficacy of Khaya grandifoliola Stem Bark Ethanol Extract in the Treatment of Cerebral Malaria in Swiss albino Mice Using Plasmodium berghei NK65 Strain.
+38028122	Implementation of the Revised National Malaria Control Guidelines: Compliance and Challenges in Public Health Facilities in a Southern Nigerian State.
+38028078	A premature newborn born to an adolescent girl with acute Ebola virus disease and malaria survives in a resource-limited setting in an Ebola treatment unit in DR Congo: "A case report".
+38028027	Prevalence and Associated Factors of Dengue Virus Circulation in the Rural Community, Handeni District in Tanga, Tanzania.
+38027803	Differential insecticide resistance in Anopheles arabiensis populations in the seaside area of Mbour and its suburbs in Senegal.
+38027377	Machine Learning Approaches Identify Chemical Features for Stage-Specific Antimalarial Compounds.
+38025984	Insecticide-treated net utilization and associated factors among pregnant women in Ethiopia: a systematic review and meta-analysis.
+38024747	Nanotechnology-Based Strategies in Parasitic Disease Management: From Prevention to Diagnosis and Treatment.
+38024472	Diagnosis, Treatment, and Prevention Resources for Infectious Diseases in Sub-Saharan African Hospitals Caring for Children.
+38024285	Blood meals from 'dead-end' vertebrate hosts enhance transmission potential of malaria-infected mosquitoes.
+38024260	Building-blocks to develop one health systems.
+38023498	Autofluorescent antimalarials by hybridization of artemisinin and coumarin: in vitro/in vivo studies and live-cell imaging.
+38023402	Asymptomatic Malaria During Pregnancy: Prevalence, Influence on Anemia and Associated Factors in West Guji Zone, Ethiopia - A Community-Based Study [Letter].
+38023066	Data from Entomological Collections of Aedes (Diptera: Culicidae) in a post-epidemic area of Chikungunya, City of Kinshasa, Democratic Republic of Congo.
+38022671	Editorial: A new perspective of human CD8+ T cells with respect to their biology, protective and pathogenic role in anti-viral and tumor responses.
+38022657	Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates.
+38022200	An Observational Study Comparing the Effects of Chloroquine and Artemisinin-Based Combination Therapy on Hematological Recovery in Patients With Plasmodium vivax Malaria.
+38021775	Review on Scrub Typhus: An Important Etiology of Acute Undifferentiated Fever Illness.
+38021035	Addressing antimicrobial resistance through community engagement: a framework for developing contextually relevant and impactful behaviour change interventions.
+38020888	Relation between learning process and morphology of transport tube network in plasmodium of Physarum polycephalum.
+38020553	Antimalarial activity of Toona ciliata MJ Roem aqueous methanolic leaf extract and its antioxidant and phytochemical properties.
+38019958	Treatment failure in a UK malaria patient harbouring genetically variant Plasmodium falciparum from Uganda with reduced in vitro susceptibility to artemisinin and lumefantrine.
+38019895	Neuropilin-1 identifies a subset of highly activated CD8+ T cells during parasitic and viral infections.
+38019849	Role and effectiveness of telephone hotlines in outbreak response in Africa: A systematic review and meta-analysis.
+38019801	Predictors of multidrug-resistant tuberculosis in a teaching hospital in Ghana: A case-control study.
 38018582	Recurrent diphtheria outbreaks in Nigeria: A review of the underlying factors and remedies.
 38018538	Architecture, domain organization, and functional signatures of trypanosomatid keIF4A1s and Plasmodium peIF4A1s suggest conserved functions.
 38018462	A novel mitigation strategy for the prevention of transfusion-transmitted malaria.
@@ -81,6 +110,7 @@
 37987165	The global burden of disease due to benign gynecological conditions: A call to action.
 37987025	Monitoring the density of Plasmodium spp. gametocytes in isolates from patient samples in the region of Porto Velho, Rondônia.
 37987011	Antigenic strain diversity predicts different biogeographic patterns of invasion and maintenance of anti-malarial drug resistance.
+37986978	HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis.
 37986920	Country wide surveillance reveals prevalent artemisinin partial resistance mutations with evidence for multiple origins and expansion of sulfadoxine-pyrimethamine resistance mutations in northwest Tanzania.
 37986869	Protocol for a Magnetic Resonance Imaging (MRI) Study of Participants in the Fever Randomized Controlled Trial: Does fever control prevent brain injury in malaria?
 37986340	Regulations of malaria in children with human immunodeficiency virus infection: A review.
@@ -9967,33 +9997,3 @@
 34641861	Analysing malaria events from 1840 to 2020: the narrative told through postage stamps.
 34641433	Properties of Mosquito Repellent-Plasticized Poly(lactic acid) Strands.
 34640466	Iron Replacement Therapy with Oral Ferric Maltol: Review of the Evidence and Expert Opinion.
-34639684	Socio-Epidemiological Features and Spatial Distribution of Malaria in an Area under Mining Activity in the Brazilian Amazon Region.
-34638530	Novel Simple Conjugation Chemistries for Decoration of GMMA with Heterologous Antigens.
-34637981	MEFAS, a hybrid of artesunate-mefloquine active against asexual stages of Plasmodium vivax in field isolates, inhibits malaria transmission.
-34637655	Malaria, COVID-19 and angiotensin-converting enzyme 2: what does the available population data say?
-34637176	Ownership and use of insecticide-treated nets under Ghana's National Malaria Control Program: What are the correlates?
-34636723	Linking functional and molecular mechanisms of host resilience to malaria infection.
-34636289	The Development of Machine Learning Methods in Discriminating Secretory Proteins of Malaria Parasite.
-34635830	Malaria vaccine roller coaster.
-34635723	A comparison of the clinical, laboratory and epidemiological features of two divergent subpopulations of Plasmodium knowlesi.
-34635550	'Pneumonia has gone': exploring perceptions of health in a cookstove intervention trial in rural Malawi.
-34635448	RNA-based therapeutics to treat human fungal infections.
-34635184	Health problems and utilization of health services among Forcibly Displaced Myanmar Nationals in Bangladesh.
-34635176	An update on the mosquito fauna and mosquito-borne diseases distribution in Cameroon.
-34635056	Urban mosquitoes and filamentous green algae: their biomonitoring role in heavy metal pollution in open drainage channels in Nairobi industrial area, Kenya.
-34634892	Introduction to the Special Issue on "The World Health Organization Choosing Interventions That Are Cost-Effective (WHO-CHOICE) Update".
-34632085	Haplotype heterogeneity and low linkage disequilibrium reduce reliable prediction of genotypes for the ‑α (3.7I) form of α-thalassaemia using genome-wide microarray data.
-34632084	Cost-effectiveness and public health impact of RTS,S/AS01 (E) malaria vaccine in Malawi, using a Markov static model.
-34634777	Case Report: An Eyelid Nodule Caused by Candidatus Dirofilaria hongkongensis Diagnosed by Mitochondrial 12S rRNA Sequence.
-34634773	Relative Burdens of the COVID-19, Malaria, Tuberculosis, and HIV/AIDS Epidemics in Sub-Saharan Africa.
-34634772	Spatiotemporal Dynamic of the RTS,S/AS01 Malaria Vaccine Target Antigens in Senegal.
-34634530	Development and application of immunoassays for rapid quality control of the antimalarial drug combination artesunate-mefloquine.
-34634266	More than seven decades of Acta Tropica: Looking back to move into the future.
-34634069	Larval ecology and bionomics of Anopheles funestus in highland and lowland sites in western Kenya.
-34634041	Prevalence and associated factors of malaria in children under the age of five years in Wogera district, northwest Ethiopia: A cross-sectional study.
-34633398	Modular synthesis of antimalarial quinoline-based PGM metallarectangles.
-34632395	Development and Validation of the Quantification Method for Hydroxychloroquine in Volumetric Absorptive Microsampling (VAMS) Using High-Performance Liquid Chromatography-Photodiode Array.
-34632123	Uptake challenges of intermittent preventive malaria therapy among pregnant women and their health care providers in the Upper West Region of Ghana: A mixed-methods study.
-34630581	Protective Effect of an Anti-HMGB-1 Neutralizing Antibody on Hemozoin-Induced Alveolar Epithelial Cell in a Model of Malaria Associated ALI/ARDS.
-34630516	Deep Learning Methods in Predicting Gene Expression Levels for the Malaria Parasite.
-34630109	Studies on Activities and Chemical Characterization of Medicinal Plants in Search for New Antimalarials: A Ten Year Review on Ethnopharmacology.
