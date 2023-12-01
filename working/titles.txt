@@ -1,3 +1,6 @@
+38035161	Improving health information system for malaria program management: Malaria Frontline Project lessons learned from Kano and Zamfara States, Nigeria, 2016-2019.
+38033155	Successful elimination of falciparum malaria following the introduction of community-based health workers in Eastern Myanmar: A retrospective analysis.
+38033133	Different PfEMP1-expressing Plasmodium falciparum variants induce divergent endothelial transcriptional responses during co-culture.
 38032605	Tasmaniomyxa umbilicata, a new genus and new species of myxomycete from Tasmania.
 38032502	In-silico analysis of potent Mosquirix vaccine adjuvant leads.
 38031549	Comparison of molecular surveillance methods to assess changes in the population genetics of Plasmodium falciparum in high transmission.
@@ -9994,6 +9997,3 @@
 34646908	Conquering COVID: How Global Vaccine Inequality Risks Prolonging the Pandemic.
 34646662	Localized Pulmonary Nocardia farcinica Infection As the Presenting Symptom of Acquired Immunodeficiency Syndrome.
 34645834	Estimates of country level temperature-related mortality damage functions.
-34645475	Time to scale up molecular surveillance for anti-malarial drug resistance in sub-saharan Africa.
-34645464	Prevalence and associated risk factors of asymptomatic malaria and anaemia among school-aged children in Dara Mallo and Uba Debretsehay districts: results from baseline cluster randomized trial.
-34644543	Eliminating malaria in southeast Asia requires more attention on adolescent girls.
