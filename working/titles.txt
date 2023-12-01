@@ -1,3 +1,4 @@
+38038269	The genetic landscape of origins of replication in P. falciparum.
 38037192	Introduction of invasive mosquito species into Europe and prospects for arbovirus transmission and vector control in an era of globalization.
 38037186	Evaluation of the performance of advantage P.f. malaria Card(®) and advantage malaria Pan + Pf Card(®), two rapid diagnostic tests for parasitological confirmation of malaria cases in field situation in Togo.
 38037072	Assessing national vector control micro-planning in Zambia using the 2021 malaria indicator survey.
@@ -9996,4 +9997,3 @@
 34649606	Determinants of uptake of intermittent preventive treatment for malaria with sulfadoxine pyrimethamine in pregnancy: a cross-sectional analytical study in the Sekondi-Takoradi Metropolis of Ghana.
 34649599	Evidence for the spread of the alien species Aedes koreicus in the Lombardy region, Italy.
 34649344	Artesunate strongly modulates myeloid and regulatory T cells to prevent LPS-induced systemic inflammation.
-34648636	Type I interferon production elicits differential CD4+ T-cell responses in mice infected with Plasmodium berghei ANKA and P. chabaudi.
