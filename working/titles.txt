@@ -1,11 +1,13 @@
+38041520	Hypertensive disorders of pregnancy in Western Brazilian Amazon: Associated factors and neonatal outcomes.
+38041142	UPLC/ESI/MS profiling of red algae Galaxaura rugosa extracts and its activity against malaria mosquito vector, Anopheles pharoensis, with reference to Danio rerio and Daphnia magna as bioindicators.
+38040981	Superinfection and the hypnozoite reservoir for Plasmodium vivax: a general framework.
+38040903	Climate change is also a health crisis - these 3 graphics explain why.
+38040603	The two parasite species formerly known as Plasmodium ovale.
 38040049	Cryogenic enrichment of Plasmodium falciparum gametocytes from spiked whole blood.
 38039890	Inference for entomological semi-field experiments: Fitting a mathematical model assessing personal and community protection of vector-control interventions.
 38039787	Blood-stage antimalarial activity, favourable metabolic stability and in vivo toxicity of novel piperazine linked 7-chloroquinoline-triazole conjugates.
 38039728	Paper-based microfluidic electro-analytical device (PMED) for magneto-assay automation: Towards generic point-of-care diagnostic devices.
 38039702	Investigating the association between intestinal parasite infection and cribra orbitalia in the medieval population of Cambridge, UK.
-38040981	Superinfection and the hypnozoite reservoir for Plasmodium vivax: a general framework.
-38040903	Climate change is also a health crisis - these 3 graphics explain why.
-38040603	The two parasite species formerly known as Plasmodium ovale.
 38039355	In Vitro Tracking of Sporozoites via Fluorescence Imaging and MRI Using Multifunctional Micelles.
 38039338	The Kelch13 compartment contains highly divergent vesicle trafficking proteins in malaria parasites.
 38039291	Characterisation of populations at risk of sub-optimal dosing of artemisinin-based combination therapy in Africa.
@@ -9995,5 +9997,3 @@
 34655985	Recent contributions of quinolines to antimalarial and anticancer drug discovery research.
 34655808	Identification of immunodominant epitopes in allelic variants VK210 and VK247 of Plasmodium Vivax Circumsporozoite immunogen.
 34655199	A Case Report of Serological Rapid Diagnostic Test-Negative Plasmodium malariae Malaria Imported from West Africa.
-34655097	Ratio estimators of intervention effects on event rates in cluster randomized trials.
-34654415	A feasibility study to assess non-clinical community health workers' capacity to use simplified protocols and tools to treat severe acute malnutrition in Niger state Nigeria.
