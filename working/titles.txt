@@ -1,3 +1,7 @@
+38039355	In Vitro Tracking of Sporozoites via Fluorescence Imaging and MRI Using Multifunctional Micelles.
+38039338	The Kelch13 compartment contains highly divergent vesicle trafficking proteins in malaria parasites.
+38039291	Characterisation of populations at risk of sub-optimal dosing of artemisinin-based combination therapy in Africa.
+38039289	Malaria prevalence and associated factors among symptomatic children aged under five years attending Sheko District Health Center, Southwest Ethiopia: A cross-sectional study.
 38038269	The genetic landscape of origins of replication in P. falciparum.
 38037192	Introduction of invasive mosquito species into Europe and prospects for arbovirus transmission and vector control in an era of globalization.
 38037186	Evaluation of the performance of advantage P.f. malaria Card(®) and advantage malaria Pan + Pf Card(®), two rapid diagnostic tests for parasitological confirmation of malaria cases in field situation in Togo.
@@ -9993,7 +9997,3 @@
 34650589	The Impact of Ethnicity and Genetic Ancestry on Disease Prevalence and Risk in Colombia.
 34650123	Factors associated with the decline of malaria in Myanmar's Ayeyarwady Region between 2013 and 2017.
 34649773	Beyond cuts and scrapes: plasmin in malaria and other vector-borne diseases.
-34649720	Thalassemias: from gene to therapy.
-34649606	Determinants of uptake of intermittent preventive treatment for malaria with sulfadoxine pyrimethamine in pregnancy: a cross-sectional analytical study in the Sekondi-Takoradi Metropolis of Ghana.
-34649599	Evidence for the spread of the alien species Aedes koreicus in the Lombardy region, Italy.
-34649344	Artesunate strongly modulates myeloid and regulatory T cells to prevent LPS-induced systemic inflammation.
