@@ -1,3 +1,5 @@
+38041857	Effectiveness of unsupervised primaquine regimen for preventing Plasmodium vivax malaria relapses in northeast Myanmar, a single-arm non-randomized observational study.
+38041852	Low prevalence of antimalarial-resistance mutations in India during 2014-15: Impact of combining first-line therapy with primaquine.
 38041520	Hypertensive disorders of pregnancy in Western Brazilian Amazon: Associated factors and neonatal outcomes.
 38041142	UPLC/ESI/MS profiling of red algae Galaxaura rugosa extracts and its activity against malaria mosquito vector, Anopheles pharoensis, with reference to Danio rerio and Daphnia magna as bioindicators.
 38040981	Superinfection and the hypnozoite reservoir for Plasmodium vivax: a general framework.
@@ -9995,5 +9997,3 @@
 34656112	Entomological survey in two communes with residual malaria transmission in Gia Lai Province in the central highlands of Vietnam.
 34656095	The impact of equity factors on receipt of timely appropriate care for children with suspected malaria in eastern Uganda.
 34655985	Recent contributions of quinolines to antimalarial and anticancer drug discovery research.
-34655808	Identification of immunodominant epitopes in allelic variants VK210 and VK247 of Plasmodium Vivax Circumsporozoite immunogen.
-34655199	A Case Report of Serological Rapid Diagnostic Test-Negative Plasmodium malariae Malaria Imported from West Africa.
