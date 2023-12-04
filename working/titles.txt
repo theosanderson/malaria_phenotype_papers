@@ -1,3 +1,10 @@
+38046897	Screening of MMV pandemic response and pathogen box compounds against pan-drug-resistant Klebsiella pneumoniae to identify potent inhibitory compounds.
+38046356	Single-Drop Blood Detection of Common G6PD Mutations in Thailand Based on Allele-Specific Recombinase Polymerase Amplification with CRISPR-Cas12a.
+38046191	A chromosomal reference genome sequence for the malaria mosquito, Anopheles moucheti, Evans, 1925.
+38045426	Mechanisms of transcriptional regulation in Anopheles gambiae revealed by allele specific expression.
+38045403	Global malaria predictors at a localized scale.
+38045387	Baseline malaria infection status and RTS,S/AS01E malaria vaccine efficacy.
+38045341	A Potent Kalihinol Analogue Disrupts Apicoplast Function and Vesicular Trafficking in P. falciparum Malaria.
 38043541	Genetic polymorphism of merozoite surface protein 1 and antifolate-resistant genes in Plasmodium falciparum from Mali and Niger.
 38043141	Transcriptome analysis of Huh7 cells upon Chikungunya virus infection and capsid transfection reveals regulation of distinct cellular and metabolic pathways.
 38042891	Applying a zero-corrected, gravity model estimator reduces bias due to heterogeneity in healthcare utilization in community-scale, passive surveillance datasets of endemic diseases.
@@ -9990,10 +9997,3 @@
 34659219	Poor CD4(+) T Cell Immunogenicity Limits Humoral Immunity to P. falciparum Transmission-Blocking Candidate Pfs25 in Humans.
 34659202	Eosinophils Suppress the Migration of T Cells Into the Brain of Plasmodium berghei-Infected Ifnar1(-/-) Mice and Protect Them From Experimental Cerebral Malaria.
 34659187	Congenital Transmission of Apicomplexan Parasites: A Review.
-34658235	Antiviral Potential of the Antimicrobial Drug Atovaquone against SARS-CoV-2 and Emerging Variants of Concern.
-34657608	Molecular detection and maternal transmission of a bacterial symbiont Asaia species in field-caught Anopheles mosquitoes from Cameroon.
-34657602	Purification of native histidine-rich protein 2 (nHRP2) from Plasmodium falciparum culture supernatant, infected RBCs, and parasite lysate.
-34656823	Mitochondrial iron-sulfur clusters: Structure, function, and an emerging role in vascular biology.
-34656545	[Development of a tool to help optimizing drug prescriptions in pediatric units in Côte d'Ivoire: GOPP tool].
-34656216	Cautious optimism for malaria vaccine roll-out.
-34656212	Malaria vaccine approval: a step change for global health.
