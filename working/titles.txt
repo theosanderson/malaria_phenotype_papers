@@ -1,3 +1,4 @@
+38043141	Transcriptome analysis of Huh7 cells upon Chikungunya virus infection and capsid transfection reveals regulation of distinct cellular and metabolic pathways.
 38042891	Applying a zero-corrected, gravity model estimator reduces bias due to heterogeneity in healthcare utilization in community-scale, passive surveillance datasets of endemic diseases.
 38041930	Effects of the G-quadruplex-binding drugs quarfloxin and CX-5461 on the malaria parasite Plasmodium falciparum.
 38041857	Effectiveness of unsupervised primaquine regimen for preventing Plasmodium vivax malaria relapses in northeast Myanmar, a single-arm non-randomized observational study.
@@ -9996,4 +9997,3 @@
 34656216	Cautious optimism for malaria vaccine roll-out.
 34656212	Malaria vaccine approval: a step change for global health.
 34656116	Unlocking the human factor to increase effectiveness and sustainability of malaria vector control.
-34656113	The provider's checklist to improve pregnant women coverage by intermittent preventive malaria treatment in Mali: a pilot implementation study.
