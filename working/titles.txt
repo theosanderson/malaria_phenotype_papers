@@ -1,3 +1,6 @@
+38047836	Basel: A Hotspot for Drug Discovery and Development Against Poverty-Related Diseases.
+38047835	Key Contributions by the Swiss Tropical and Public Health Institute Towards New and Better Drugs for Tropical Diseases.
+38047834	Repurposing Know-how for Drug Development: Case Studies from the Swiss Tropical and Public Health Institute.
 38046897	Screening of MMV pandemic response and pathogen box compounds against pan-drug-resistant Klebsiella pneumoniae to identify potent inhibitory compounds.
 38046356	Single-Drop Blood Detection of Common G6PD Mutations in Thailand Based on Allele-Specific Recombinase Polymerase Amplification with CRISPR-Cas12a.
 38046191	A chromosomal reference genome sequence for the malaria mosquito, Anopheles moucheti, Evans, 1925.
@@ -9994,6 +9997,3 @@
 34660633	Time-Varying Effects of Meteorological Variables on Malaria Epidemiology in the Context of Interrupted Control Efforts in the Amazon Rainforest, 2000-2017.
 34659429	Evaluation of Antimalarial Potential of Extracts from Alstonia boonei and Carica papaya in Plasmodium berghei-Infected Mice.
 34659300	Genome-Wide Analysis of Light-Regulated Alternative Splicing in Artemisia annua L.
-34659219	Poor CD4(+) T Cell Immunogenicity Limits Humoral Immunity to P. falciparum Transmission-Blocking Candidate Pfs25 in Humans.
-34659202	Eosinophils Suppress the Migration of T Cells Into the Brain of Plasmodium berghei-Infected Ifnar1(-/-) Mice and Protect Them From Experimental Cerebral Malaria.
-34659187	Congenital Transmission of Apicomplexan Parasites: A Review.
