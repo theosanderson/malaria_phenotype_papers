@@ -1,3 +1,5 @@
+38048362	Plasmodium falciparum utilizes pyrophosphate to fuel an essential proton pump in the ring stage and the transition to trophozoite stage.
+38048346	Effective cell membrane tension protects red blood cells against malaria invasion.
 38047836	Basel: A Hotspot for Drug Discovery and Development Against Poverty-Related Diseases.
 38047835	Key Contributions by the Swiss Tropical and Public Health Institute Towards New and Better Drugs for Tropical Diseases.
 38047834	Repurposing Know-how for Drug Development: Case Studies from the Swiss Tropical and Public Health Institute.
@@ -9995,5 +9997,3 @@
 34661579	Dissection and Immunostaining of Larval Salivary Glands from Anopheles gambiae Mosquitoes.
 34661520	Plasmodium falciparum hydroxymethylbilane synthase does not house any cosynthase activity within the haem biosynthetic pathway.
 34660633	Time-Varying Effects of Meteorological Variables on Malaria Epidemiology in the Context of Interrupted Control Efforts in the Amazon Rainforest, 2000-2017.
-34659429	Evaluation of Antimalarial Potential of Extracts from Alstonia boonei and Carica papaya in Plasmodium berghei-Infected Mice.
-34659300	Genome-Wide Analysis of Light-Regulated Alternative Splicing in Artemisia annua L.
