@@ -1,3 +1,6 @@
+38051555	Introducing a Regulatory Sandbox Into the Indonesian Health System Using e-Malaria as a Use Case: Participatory Action Study.
+38051520	CDC Division of Reproductive Health's Emergency Preparedness Resources and Activities for Radiation Emergencies: Public Health Considerations for Women's Reproductive Health.
+38051195	A population modification gene drive targeting both Saglin and Lipophorin impairs Plasmodium transmission in Anopheles mosquitoes.
 38050717	Thymidine Kinase-Independent Click Chemistry DNADetect Probes for DNA Proliferation Assessment in Malaria Parasites.
 38050416	High prevalence of asymptomatic malaria in Forest Guinea: Results from a rapid community survey.
 38049852	Plasmodium yoelii iron transporter PyDMT1 interacts with host ferritin and is required in full activity for malarial pathogenesis.
@@ -9994,6 +9997,3 @@
 34663245	IL-18 and IL-18 binding protein are related to disease severity and parasitemia during falciparum malaria.
 34663097	Development and Evaluation of a Cryopreserved Whole-Parasite Vaccine in a Rodent Model of Blood-Stage Malaria.
 34662870	Assessment of Commercial Real-Time PCR Assays for Detection of Malaria Infection in a Non-Endemic Setting.
-34662868	Residence Time, Water Contact, and Age-driven Schistosoma mansoni Infection in Hotspot Communities in Uganda.
-34662864	Modeled Impact of Seasonal Malaria Chemoprevention on District-Level Suspected and Confirmed Malaria Cases in Chad Based on Routine Clinical Data (2013-2018).
-34662858	Proximity of Residence to Irrigation Determines Malaria Risk and Anopheles Abundance at an Irrigated Agroecosystem in Malawi.
