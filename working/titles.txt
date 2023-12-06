@@ -1128,6 +1128,7 @@
 37658450	Malaria in adults after the start of Covid-19 pandemic: an analysis of admission trends, demographics, and outcomes in a tertiary hospital in the Gambia.
 37658365	Exploring the host factors affecting asymptomatic Plasmodium falciparum infection: insights from a rural Burkina Faso study.
 37658337	Applying the COM-B behaviour change model to a pilot study delivering volatile pyrethroid spatial repellents and insecticide-treated clothing to forest-exposed populations in Mondulkiri Province, Cambodia.
+37657948	Clarifying the terms parasitemia, parasite density, and parasite count.
 37657362	Antennal morphology and sensilla ultrastructure of the malaria vectors, Anopheles maculatus and An. sawadwongporni (Diptera: Culicidae).
 37657352	Understanding the structure and function of Plasmodium aminopeptidases to facilitate drug discovery.
 37656759	Direct mosquito feedings on dengue-2 virus-infected people reveal dynamics of human infectiousness.
@@ -9996,4 +9997,3 @@
 34663782	The molecular mechanism of cytoadherence to placental or tumor cells through VAR2CSA from Plasmodium falciparum.
 34663634	How can we better integrate the prevention, treatment, control and elimination of neglected tropical diseases with other health interventions? A systematic review.
 34663359	Assessing Anopheles vector species diversity and transmission of malaria in four health districts along the borders of Côte d'Ivoire.
-34663348	Evidence supporting deployment of next generation insecticide treated nets in Burkina Faso: bioassays with either chlorfenapyr or piperonyl butoxide increase mortality of pyrethroid-resistant Anopheles gambiae.
