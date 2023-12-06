@@ -1,3 +1,6 @@
+38054758	Artemisinins: Promising drug candidates for the treatment of autoimmune diseases.
+38054750	Selective whole-genome sequencing of Plasmodium parasites directly from blood samples by nanopore adaptive sampling.
+38054505	Interventions for improving coverage of childhood immunisation in low- and middle-income countries.
 38053215	Evaluating active leprosy case identification methods in six districts of Nepal.
 38053100	Estimated distribution of malaria cases among children in sub-Saharan Africa by specified age categories using data from the Global Burden of Diseases 2019.
 38052815	Environmental modulation of global epistasis in a drug resistance fitness landscape.
@@ -9994,6 +9997,3 @@
 34665195	COVID-19 Rolls Back Progress Against HIV, TB, and Malaria.
 34664995	The Brief Case: A 6-Year-Old with Fever, Abdominal Pain, and Recent Travel to Sierra Leone.
 34664113	ChimLeish, a new recombinant chimeric protein evaluated as a diagnostic and prognostic marker for visceral leishmaniasis and human immunodeficiency virus coinfection.
-34663782	The molecular mechanism of cytoadherence to placental or tumor cells through VAR2CSA from Plasmodium falciparum.
-34663634	How can we better integrate the prevention, treatment, control and elimination of neglected tropical diseases with other health interventions? A systematic review.
-34663359	Assessing Anopheles vector species diversity and transmission of malaria in four health districts along the borders of Côte d'Ivoire.
