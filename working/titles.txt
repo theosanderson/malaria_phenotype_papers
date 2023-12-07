@@ -1,3 +1,5 @@
+38055693	Deep learning hybrid model for analyzing and predicting the impact of imported malaria cases from Africa on the rise of Plasmodium falciparum in China before and during the COVID-19 pandemic.
+38055446	In silico ADMET prediction, evaluation of cytotoxicity in mouse splenocytes and preliminary evaluation of in vitro antimalarial activity of 4-(4-chlorophenyl)thiazole compounds.
 38054758	Artemisinins: Promising drug candidates for the treatment of autoimmune diseases.
 38054750	Selective whole-genome sequencing of Plasmodium parasites directly from blood samples by nanopore adaptive sampling.
 38054505	Interventions for improving coverage of childhood immunisation in low- and middle-income countries.
@@ -9995,5 +9997,3 @@
 34666102	The role of different components of the immune system against Plasmodium falciparum malaria: Possible contribution towards malaria vaccine development.
 34665927	Vaccine and vaccination as a part of human life: In view of COVID-19.
 34665195	COVID-19 Rolls Back Progress Against HIV, TB, and Malaria.
-34664995	The Brief Case: A 6-Year-Old with Fever, Abdominal Pain, and Recent Travel to Sierra Leone.
-34664113	ChimLeish, a new recombinant chimeric protein evaluated as a diagnostic and prognostic marker for visceral leishmaniasis and human immunodeficiency virus coinfection.
