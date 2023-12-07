@@ -1,3 +1,6 @@
+38060049	Evaluation of insemination, blood feeding, and Plasmodium vivax infection effects on locomotor activity patterns of the malaria vector Anopheles darlingi (Diptera: Culicidae).
+38059674	Biophysical characterization of the Plasmodium falciparum circumsporozoite protein's N-terminal domain.
+38059639	Additional PfCRT mutations driven by selective pressure for improved fitness can result in the loss of piperaquine resistance and altered Plasmodium falciparum physiology.
 38059153	Disability inclusion in malaria services in western Tanzania: A rapid barrier analysis.
 38059069	Efficient Malaria Parasite Detection From Diverse Images of Thick Blood Smears for Cross-Regional Model Accuracy.
 38057382	Detection and persistence of Zika virus in body fluids and associated factors: a prospective cohort study.
@@ -636,7 +639,7 @@
 37833166	The many paths to artemisinin resistance in Plasmodium falciparum.
 37832986	Protocol for a randomised, multicentre, four-arm, double-blinded, placebo-controlled trial to assess the benefits and safety of iron supplementation with malaria chemoprevention to children in Malawi: IRMA trial.
 37832788	Insight Into the Dynamics of the Ixodes ricinus Nymphal Midgut Proteome.
-37832027	Plasmodium falciparum exploits CD44 as a co-receptor for erythrocyte invasion.
+37832027	Plasmodium falciparum exploits CD44 as a coreceptor for erythrocyte invasion.
 37831367	Proteome Analysis for Inflammation Related to Acute and Convalescent Infection.
 37831282	Antimalarial Activity of Anacardium occidentale Leaf Extracts Against Plasmodium falciparum Transketolase (PfTK).
 37830482	Gastrointestinal tract pathology of the owl monkey (Aotus spp.).
@@ -9994,6 +9997,3 @@
 34669324	Recognition and management of pediatric travel-associated infectious diseases in the emergency department.
 34668872	Effectiveness of Smartphone-Based Community Case Management on the Urgent Referral, Reconsultation, and Hospitalization of Children Aged Under 5 Years in Malawi: Cluster-Randomized, Stepped-Wedge Trial.
 34668767	The Rare, the Best: Spread of Antimalarial-Resistant Plasmodium falciparum Parasites by Anopheles Mosquito Vectors.
-34668757	Impact of Sickle Cell Trait Hemoglobin on the Intraerythrocytic Transcriptional Program of Plasmodium falciparum.
-34668745	Overabundance of Asaia and Serratia Bacteria Is Associated with Deltamethrin Insecticide Susceptibility in Anopheles coluzzii from Agboville, Côte d'Ivoire.
-34667308	A global effort to dissect the human genetic basis of resistance to SARS-CoV-2 infection.
