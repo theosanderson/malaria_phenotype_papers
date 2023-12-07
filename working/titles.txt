@@ -1,3 +1,5 @@
+38059153	Disability inclusion in malaria services in western Tanzania: A rapid barrier analysis.
+38059069	Efficient Malaria Parasite Detection From Diverse Images of Thick Blood Smears for Cross-Regional Model Accuracy.
 38057382	Detection and persistence of Zika virus in body fluids and associated factors: a prospective cohort study.
 38057018	One advantageous reflection of iron metabolism in context of normal physiology and pathological phases.
 38056970	Building the vector in: construction practices and the invasion and persistence of Anopheles stephensi in Jigjiga, Ethiopia.
@@ -9995,5 +9997,3 @@
 34668757	Impact of Sickle Cell Trait Hemoglobin on the Intraerythrocytic Transcriptional Program of Plasmodium falciparum.
 34668745	Overabundance of Asaia and Serratia Bacteria Is Associated with Deltamethrin Insecticide Susceptibility in Anopheles coluzzii from Agboville, Côte d'Ivoire.
 34667308	A global effort to dissect the human genetic basis of resistance to SARS-CoV-2 infection.
-34666794	The impact of mosquito proof lids of underground tanks "tanka" on the breeding of Anopheles stephensi in a village in western Rajasthan, India.
-34666779	Increase in the proportion of Plasmodium falciparum with kelch13 C580Y mutation and decline in pfcrt and pfmdr1 mutant alleles in Papua New Guinea.
