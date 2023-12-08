@@ -1,3 +1,4 @@
+38060861	Plasmodium vivax apical membrane antigen 1I-II from Nicaragua (2012-2013): genetic and antigenic polymorphism.
 38060049	Evaluation of insemination, blood feeding, and Plasmodium vivax infection effects on locomotor activity patterns of the malaria vector Anopheles darlingi (Diptera: Culicidae).
 38059674	Biophysical characterization of the Plasmodium falciparum circumsporozoite protein's N-terminal domain.
 38059639	Additional PfCRT mutations driven by selective pressure for improved fitness can result in the loss of piperaquine resistance and altered Plasmodium falciparum physiology.
@@ -9996,4 +9997,3 @@
 34669356	Theta-Alpha Variability on Admission EEG Is Associated With Outcome in Pediatric Cerebral Malaria.
 34669324	Recognition and management of pediatric travel-associated infectious diseases in the emergency department.
 34668872	Effectiveness of Smartphone-Based Community Case Management on the Urgent Referral, Reconsultation, and Hospitalization of Children Aged Under 5 Years in Malawi: Cluster-Randomized, Stepped-Wedge Trial.
-34668767	The Rare, the Best: Spread of Antimalarial-Resistant Plasmodium falciparum Parasites by Anopheles Mosquito Vectors.
