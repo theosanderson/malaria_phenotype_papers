@@ -1,3 +1,4 @@
+38062606	Commodifying Vaccines to Curtail Antibiotic Resistance Impact in Malaria Endemic Countries.
 38062464	Prevalence of G6PD deficiency and submicroscopic malaria parasites carriage in malaria hotspot area in Northwest, Tanzania.
 38062239	Long-lasting household damage from Cyclone Idai increases malaria risk in rural western Mozambique.
 38060861	Plasmodium vivax apical membrane antigen 1I-II from Nicaragua (2012-2013): genetic and antigenic polymorphism.
@@ -9996,4 +9997,3 @@
 34669697	Cross-sectional survey of asymptomatic malaria in Dak Nong province in the Central Highlands of Vietnam for the malaria elimination roadmap.
 34669607	The emergence of Dengue Fever in Sheikhupura, Pakistan: its seroprevalence and risk factors assessment during 2014-2017.
 34669455	Specificity of SARS-CoV-2 Antibody Detection Assays against S and N Proteins among Pre-COVID-19 Sera from Patients with Protozoan and Helminth Parasitic Infections.
-34669356	Theta-Alpha Variability on Admission EEG Is Associated With Outcome in Pediatric Cerebral Malaria.
