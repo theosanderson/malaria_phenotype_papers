@@ -1,3 +1,7 @@
+38064123	Cellular dormancy: A widespread phenomenon that perpetuates infectious diseases.
+38063788	Ten years of a neonatal screening program for hemoglobinopathies in Friuli-Venezia Giulia: first regional experience in Italy.
+38063532	Effects of Climate Variability on Malaria Transmission in Southern Côte d'Ivoire, West Africa.
+38063396	Localization and tissue tropism of the symbiont Microsporidia MB in the germ line and somatic tissues of Anopheles arabiensis.
 38062606	Commodifying Vaccines to Curtail Antibiotic Resistance Impact in Malaria Endemic Countries.
 38062464	Prevalence of G6PD deficiency and submicroscopic malaria parasites carriage in malaria hotspot area in Northwest, Tanzania.
 38062239	Long-lasting household damage from Cyclone Idai increases malaria risk in rural western Mozambique.
@@ -9993,7 +9997,3 @@
 34670628	Factors influencing the uptake of intermittent preventive treatment among pregnant women in sub-Saharan Africa: a multilevel analysis.
 34670598	Efficacy and safety of dual intravenous artesunate plus quinine compared to intravenous artesunate for cerebral malaria in a triple blinded parallel multisite randomized controlled trial in Nigerian children: DUAL PAQ TRIAL Protocol.
 34670558	Estimating intervention effectiveness in trials of malaria interventions with contamination.
-34669729	Capacity to provide care for common childhood infections at low-level private health facilities in Western, Uganda.
-34669697	Cross-sectional survey of asymptomatic malaria in Dak Nong province in the Central Highlands of Vietnam for the malaria elimination roadmap.
-34669607	The emergence of Dengue Fever in Sheikhupura, Pakistan: its seroprevalence and risk factors assessment during 2014-2017.
-34669455	Specificity of SARS-CoV-2 Antibody Detection Assays against S and N Proteins among Pre-COVID-19 Sera from Patients with Protozoan and Helminth Parasitic Infections.
