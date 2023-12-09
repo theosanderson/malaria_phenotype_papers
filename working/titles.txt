@@ -1,3 +1,7 @@
+38064489	Real-time PCR detection of mixed Plasmodium ovale curtisi and wallikeri infections in human and mosquito hosts.
+38064427	Understanding the fine-scale heterogeneity and spatial drivers of malaria transmission in Kenya using model-based geostatistical methods.
+38064377	MORBIDITY, COMORBIDITY AND MULTIMORBIDITY AS PORTALS FOR SUBJECTIVE WELL-BEING AMONG OLDER PERSONS IN A RURAL NIGERIAN ENVIRONMENT: A CROSS-SECTIONAL HOSPITAL-BASED STUDY.
+38064300	MEDICAL OUTREACH AND IMPROVED ACCESS TO SPECIALIST SERVICES FOR THE RURAL COMMUNITY OF BAUCHI STATE, NIGERIA: THE REQUIREMENTS FOR SUSTAINABILITY.
 38064123	Cellular dormancy: A widespread phenomenon that perpetuates infectious diseases.
 38063788	Ten years of a neonatal screening program for hemoglobinopathies in Friuli-Venezia Giulia: first regional experience in Italy.
 38063532	Effects of Climate Variability on Malaria Transmission in Southern Côte d'Ivoire, West Africa.
@@ -9993,7 +9997,3 @@
 34672206	The latest developments in the area of therapeutic delivery excluding some diseases, such as COVID-19 and the big three (HIV/AID, malaria and tuberculosis).
 34671402	The Potential use of a Curcumin-Piperine Combination as an Antimalarial Agent: A Systematic Review.
 34670658	Invasive Malaria Vector Anopheles stephensi Mosquitoes in Sudan, 2016-2018.
-34670652	Epidemiologic Analysis of Efforts to Achieve and Sustain Malaria Elimination along the China-Myanmar Border.
-34670628	Factors influencing the uptake of intermittent preventive treatment among pregnant women in sub-Saharan Africa: a multilevel analysis.
-34670598	Efficacy and safety of dual intravenous artesunate plus quinine compared to intravenous artesunate for cerebral malaria in a triple blinded parallel multisite randomized controlled trial in Nigerian children: DUAL PAQ TRIAL Protocol.
-34670558	Estimating intervention effectiveness in trials of malaria interventions with contamination.
