@@ -1,3 +1,12 @@
+38069257	Modulation of Heme-Induced Inflammation Using MicroRNA-Loaded Liposomes: Implications for Hemolytic Disorders Such as Malaria and Sickle Cell Disease.
+38069204	Differential Gene Expression of Malaria Parasite in Response to Red Blood Cell-Specific Glycolytic Intermediate 2,3-Diphosphoglycerate (2,3-DPG).
+38068719	Artemether Attenuates Gut Barrier Dysfunction and Intestinal Flora Imbalance in High-Fat and High-Fructose Diet-Fed Mice.
+38067508	An Overview on Antimalarial Peptides: Natural Sources, Synthetic Methodology and Biological Properties.
+38067488	Traditional Uses, Pharmacological Activities, and Phytochemical Analysis of Diospyros mespiliformis Hochst. ex. A. DC (Ebenaceae): A Review.
+38067100	Galectins in Protozoan Parasitic Diseases: Potential Applications in Diagnostics and Therapeutics.
+38066781	Donor-Derived Cell-Free DNA as a Non-Invasive Biomarker for Graft Rejection in Kidney Transplant Recipients: A Prospective Study among the Indian Population.
+38066610	First report of Anopheles stephensi from southern Ethiopia.
+38066503	Access to healthcare services and confidence in healthcare professionals' management of malaria: the views of Francophone sub-Saharan African Immigrants living in western Canada.
 38066289	Role Transformation of HSPA8 to Heme-peroxidase After Binding Hemin to Catalyze Heme Polymerization.
 38065791	Unravelling mysteries at the perivascular space: a new rationale for cerebral malaria pathogenesis.
 38064489	Real-time PCR detection of mixed Plasmodium ovale curtisi and wallikeri infections in human and mosquito hosts.
@@ -9988,12 +9997,3 @@
 34677798	Malaria Elimination in Two Endemic Coastal Environments of Southern India: An Eco-Epidemiological Analysis from 2004 to 2019.
 34675974	The COVID-19 Prevalence among Children: Hypotheses for Low Infection Rate and Few Severe Forms among This Age Group in Sub-Saharan Africa.
 34675915	Multiplexed Microsphere-Based Flow Cytometric Assay to Assess Strain Transcending Antibodies to Plasmodium vivax Duffy Binding Protein II Reveals an Efficient Tool to Identify Binding-Inhibitory Antibody Responders.
-34675262	Multi-drug resistance and high mortality associated with community-acquired bloodstream infections in children in conflict-affected northwest Nigeria.
-34674682	Acceptability and feasibility of the school-engaged social and behavior change communication approach on malaria prevention in Ethiopia: implications for engagement, empowerment, and retention (EER) of education sectors in malaria elimination efforts.
-34674290	Infectious sporozoite challenge modulates radiation attenuated sporozoite vaccine-induced memory CD8(+) T cells for better survival characteristics.
-34673764	The Plasmodium NOT1-G paralogue is an essential regulator of sexual stage maturation and parasite transmission.
-34673330	Lumefantrine attenuates Plasmodium falciparum artemisinin resistance during the early ring stage.
-34672966	Bridging the evidence gap to achieve a healthy, net zero future.
-34672946	Identifying Plasmodium falciparum transmission patterns through parasite prevalence and entomological inoculation rate.
-34672351	Returned traveller presenting with anaemia: clinical challenge of post-artesunate delayed haemolysis.
-34672206	The latest developments in the area of therapeutic delivery excluding some diseases, such as COVID-19 and the big three (HIV/AID, malaria and tuberculosis).
