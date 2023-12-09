@@ -1,3 +1,5 @@
+38066289	Role Transformation of HSPA8 to Heme-peroxidase After Binding Hemin to Catalyze Heme Polymerization.
+38065791	Unravelling mysteries at the perivascular space: a new rationale for cerebral malaria pathogenesis.
 38064489	Real-time PCR detection of mixed Plasmodium ovale curtisi and wallikeri infections in human and mosquito hosts.
 38064427	Understanding the fine-scale heterogeneity and spatial drivers of malaria transmission in Kenya using model-based geostatistical methods.
 38064377	MORBIDITY, COMORBIDITY AND MULTIMORBIDITY AS PORTALS FOR SUBJECTIVE WELL-BEING AMONG OLDER PERSONS IN A RURAL NIGERIAN ENVIRONMENT: A CROSS-SECTIONAL HOSPITAL-BASED STUDY.
@@ -9995,5 +9997,3 @@
 34672946	Identifying Plasmodium falciparum transmission patterns through parasite prevalence and entomological inoculation rate.
 34672351	Returned traveller presenting with anaemia: clinical challenge of post-artesunate delayed haemolysis.
 34672206	The latest developments in the area of therapeutic delivery excluding some diseases, such as COVID-19 and the big three (HIV/AID, malaria and tuberculosis).
-34671402	The Potential use of a Curcumin-Piperine Combination as an Antimalarial Agent: A Systematic Review.
-34670658	Invasive Malaria Vector Anopheles stephensi Mosquitoes in Sudan, 2016-2018.
