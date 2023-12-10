@@ -1,3 +1,11 @@
+38071314	Evaluation of a new fusion antigen, cd loop and HAP2-GCS1 domain (cd-HAP) of Plasmodium falciparum Generative Cell Specific 1 antigen formulated with various adjuvants, as a transmission blocking vaccine.
+38070899	Acceptance of the Advocacy Core Group approach in promoting integrated social and behaviour change for MNCH+N in Nigeria: a qualitative study.
+38070880	Comparing the roles of community health workers for malaria control and elimination in Cambodia and Tanzania.
+38070864	Platelet functions in lymphatic filariasis patients.
+38070703	Medicinal chemistry aspects of uracil containing dUTPase inhibitors targeting colorectal cancer.
+38070201	Optimal 2D audio features estimation for a lightweight application in mosquitoes species: Ecoacoustics detection and classification purposes.
+38070198	The distribution of triatomine (Hemiptera: Reduviidae) vectors of Trypanosoma cruzi (Kinetoplastida: Trypanosomatidae) in Illinois and Missouri: historical records and specimen submissions from community science programs.
+38070188	PROMETHAZINE-INDUCED THROMBOPHLEBITIS IN A NIGERIAN MAN: A CASE REPORT.
 38069257	Modulation of Heme-Induced Inflammation Using MicroRNA-Loaded Liposomes: Implications for Hemolytic Disorders Such as Malaria and Sickle Cell Disease.
 38069204	Differential Gene Expression of Malaria Parasite in Response to Red Blood Cell-Specific Glycolytic Intermediate 2,3-Diphosphoglycerate (2,3-DPG).
 38068719	Artemether Attenuates Gut Barrier Dysfunction and Intestinal Flora Imbalance in High-Fat and High-Fructose Diet-Fed Mice.
@@ -9989,11 +9997,3 @@
 34680636	Time of Test Periods Influence the Behavioral Responses of Anopheles minimus and Anopheles dirus (Diptera: Culicidae) to DEET.
 34680496	Evaluation of the Antioxidant, Antidiabetic, and Antiplasmodial Activities of Xanthones Isolated from Garcinia forbesii and Their In Silico Studies.
 34679913	Sexual Development in Non-Human Parasitic Apicomplexa: Just Biology or Targets for Control?
-34679597	Epidemiological, Physiological and Diagnostic Comparison of Plasmodium ovale curtisi and Plasmodium ovale wallikeri.
-34679212	Characterization of AMA1-RON2L complex with native gel electrophoresis and capillary isoelectric focusing.
-34678969	Formulation and Safety Tests of a Wickerhamomyces anomalus-Based Product: Potential Use of Killer Toxins of a Mosquito Symbiotic Yeast to Limit Malaria Transmission.
-34678731	Inhibition of heme detoxification pathway in malaria parasite by 3-hydroxy-11-keto-β-boswellic acid isolated from Boswellia serrata.
-34678321	Cellular targets of mefloquine.
-34677798	Malaria Elimination in Two Endemic Coastal Environments of Southern India: An Eco-Epidemiological Analysis from 2004 to 2019.
-34675974	The COVID-19 Prevalence among Children: Hypotheses for Low Infection Rate and Few Severe Forms among This Age Group in Sub-Saharan Africa.
-34675915	Multiplexed Microsphere-Based Flow Cytometric Assay to Assess Strain Transcending Antibodies to Plasmodium vivax Duffy Binding Protein II Reveals an Efficient Tool to Identify Binding-Inhibitory Antibody Responders.
