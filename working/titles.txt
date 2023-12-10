@@ -1,11 +1,11 @@
 38071506	EYE MYASTHENIA IN A YOUNG TOGOLESE: ABOUT A CASE AND LITERATURE REVIEW.
+38071314	Evaluation of a new fusion antigen, cd loop and HAP2-GCS1 domain (cd-HAP) of Plasmodium falciparum Generative Cell Specific 1 antigen formulated with various adjuvants, as a transmission blocking vaccine.
 38070899	Acceptance of the Advocacy Core Group approach in promoting integrated social and behaviour change for MNCH+N in Nigeria: a qualitative study.
 38070880	Comparing the roles of community health workers for malaria control and elimination in Cambodia and Tanzania.
-38070201	Optimal 2D audio features estimation for a lightweight application in mosquitoes species: Ecoacoustics detection and classification purposes.
-38070198	The distribution of triatomine (Hemiptera: Reduviidae) vectors of Trypanosoma cruzi (Kinetoplastida: Trypanosomatidae) in Illinois and Missouri: historical records and specimen submissions from community science programs.
-38071314	Evaluation of a new fusion antigen, cd loop and HAP2-GCS1 domain (cd-HAP) of Plasmodium falciparum Generative Cell Specific 1 antigen formulated with various adjuvants, as a transmission blocking vaccine.
 38070864	Platelet functions in lymphatic filariasis patients.
 38070703	Medicinal chemistry aspects of uracil containing dUTPase inhibitors targeting colorectal cancer.
+38070201	Optimal 2D audio features estimation for a lightweight application in mosquitoes species: Ecoacoustics detection and classification purposes.
+38070198	The distribution of triatomine (Hemiptera: Reduviidae) vectors of Trypanosoma cruzi (Kinetoplastida: Trypanosomatidae) in Illinois and Missouri: historical records and specimen submissions from community science programs.
 38070188	PROMETHAZINE-INDUCED THROMBOPHLEBITIS IN A NIGERIAN MAN: A CASE REPORT.
 38069257	Modulation of Heme-Induced Inflammation Using MicroRNA-Loaded Liposomes: Implications for Hemolytic Disorders Such as Malaria and Sickle Cell Disease.
 38069204	Differential Gene Expression of Malaria Parasite in Response to Red Blood Cell-Specific Glycolytic Intermediate 2,3-Diphosphoglycerate (2,3-DPG).
