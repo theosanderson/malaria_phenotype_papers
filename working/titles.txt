@@ -1,3 +1,21 @@
+38079215	Economic Burden of Mosquito-Borne Diseases in Low- and Middle-Income Countries: Protocol for a Systematic Review.
+38078758	Identification of a non-exported Plasmepsin V substrate that functions in the parasitophorous vacuole of malaria parasites.
+38078744	Signaling between mammalian adiponectin and a mosquito adiponectin receptor reduces Plasmodium transmission.
+38078677	sTREM-1: a biomarker of mortality in severe malaria impacted by acute kidney injury.
+38078638	[Optimizing primary health care in Burkina Faso: an approach informed by EQUIST].
+38078563	sTREM-1 to risk-stratify patients with malaria: A functional crystal ball to improve outcomes and save lifes.
+38078518	Histone globular domain epigenetic modifications: The regulators of chromatin dynamics in malaria parasite.
+38078512	LABORATORY EVALUATION OF EFFICACY OF THE LARVICIDE SPINOSAD AGAINST ANOPHELES STEPHENSI IN JIGJIGA, ETHIOPIA.
+38076990	First detection of Anopheles stephensi in Ghana using molecular surveillance.
+38076857	Network Profile: Improving Response to Malaria in the Amazon through Identification of Inter-Community Networks and Human Mobility in Border Regions of Ecuador, Peru, and Brazil.
+38076851	CR1 variants contribute to FSGS susceptibility across multiple populations.
+38076253	Clinical and laboratory characteristics of children with sickle cell disease on hydroxyurea treated with artemether-lumefantrine for acute uncomplicated malaria.
+38076132	Safety and antimalarial therapeutic index of alkaloid-rich extract of Phyllanthus amarus Schumach. & Thonn. in mice.
+38076053	Genetic diversity and phylogeny of Anopheles nuneztovari C and Anopheles albimanus, vectors of malaria in the department of Córdoba, Colombia.
+38076024	Modeling clinical malaria episodes in different ecological settings in Mali, 2018-2022.
+38075948	Blood biomarkers of neuronal injury in paediatric cerebral malaria and severe malarial anaemia.
+38075929	iMAGING: a novel automated system for malaria diagnosis by using artificial intelligence tools and a universal low-cost robotized microscope.
+38075902	The splicing factor SR2 is an important virulence factor of Toxoplasma gondii.
 38075586	Prevalence of Malaria Parasite among Pregnant Women Attending to Saudi Kassala Teaching Hospital in Kassala State, Eastern Sudan.
 38075419	Etiological characterization of acute undifferentiated febrile illness in Apartadó and Villeta municipalities, Colombia, during COVID-19 pandemic.
 38074241	Seroprevalence with epidemiological determinants of hepatitis C virus and Treponema pallidum infection in blood donors of a teaching hospital in southwest Punjab, India: A 5-year study.
@@ -40,6 +58,7 @@
 38062464	Prevalence of G6PD deficiency and submicroscopic malaria parasites carriage in malaria hotspot area in Northwest, Tanzania.
 38062239	Long-lasting household damage from Cyclone Idai increases malaria risk in rural western Mozambique.
 38060861	Plasmodium vivax apical membrane antigen 1I-II from Nicaragua (2012-2013): genetic and antigenic polymorphism.
+38060273	Parasite hijacks red cell membrane proteins.
 38060049	Evaluation of insemination, blood feeding, and Plasmodium vivax infection effects on locomotor activity patterns of the malaria vector Anopheles darlingi (Diptera: Culicidae).
 38059674	Biophysical characterization of the Plasmodium falciparum circumsporozoite protein's N-terminal domain.
 38059639	Additional PfCRT mutations driven by selective pressure for improved fitness can result in the loss of piperaquine resistance and altered Plasmodium falciparum physiology.
@@ -9978,22 +9997,3 @@
 34688666	Identification of a substrate-like cleavage-resistant thrombin inhibitor from the saliva of the flea Xenopsylla cheopis.
 34688312	Prevalence and characteristics of malaria co-infection among individuals with visceral leishmaniasis in Africa and Asia: a systematic review and meta-analysis.
 34688298	Comprehensive characterization of internal and cuticle surface microbiota of laboratory-reared F(1) Anopheles albimanus originating from different sites.
-34688294	The effect of malaria on haemoglobin concentrations: a nationally representative household fixed-effects study of 17,599 children under 5 years of age in Burkina Faso.
-34688285	Insecticide-treated eave ribbons for malaria vector control in low-income communities.
-34688278	A citizen science-based survey of avian mortality focusing on haemosporidian infections in wild passerine birds.
-34688161	Optimization of covalent docking for organophosphates interaction with Anopheles acetylcholinesterase.
-34687983	Lactate dehydrogenase and malate dehydrogenase: Potential antiparasitic targets for drug development studies.
-34687871	Delayed cerebellar ataxia, A rare post-malaria neurological complication: Case report and review of the literature.
-34687651	Historical experiences on mass drug administration for malaria control and elimination, its challenges and China's experience: a narrative review.
-34687649	Association of anthelmintic treatment with malaria prevalence, incidence, and parasitemia: A systematic review and meta-analysis.
-34687644	Drug associations as alternative and complementary therapy for neglected tropical diseases.
-34687074	Translation of novel antiemetic to sub-Saharan Africa using diffusion of innovation framework.
-34687029	Cytotoxicity of Poupartone B, an Alkyl Cyclohexenone Derivative from Poupartia borbonica, against Human Cancer Cell Lines.
-34686369	Hemoglobin: Multiple molecular interactions and multiple functions. An example of energy optimization and global molecular organization.
-34686195	Risk factors for occurrence and abundance of Aedes aegypti and Aedes bromeliae at hotel compounds in Zanzibar.
-34685468	CD8 T Cell Vaccines and a Cytomegalovirus-Based Vector Approach.
-34684807	Actions of Camptothecin Derivatives on Larvae and Adults of the Arboviral Vector Aedes aegypti.
-34684762	In Vivo Antimalarial Activity of Leaf Extracts and a Major Compound Isolated from Ranunculus multifidus Forsk.
-34684761	Identification of Antiprotozoal Compounds from Buxus sempervirens L. by PLS-Prediction.
-34684249	Effects of Local and Systemic Immune Challenges on the Expression of Selected Salivary Genes in the Malaria Mosquito Anopheles coluzzii.
-34684226	Immunosuppression in Malaria: Do Plasmodium falciparum Parasites Hijack the Host?
