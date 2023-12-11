@@ -1,3 +1,9 @@
+38075586	Prevalence of Malaria Parasite among Pregnant Women Attending to Saudi Kassala Teaching Hospital in Kassala State, Eastern Sudan.
+38075419	Etiological characterization of acute undifferentiated febrile illness in Apartadó and Villeta municipalities, Colombia, during COVID-19 pandemic.
+38074241	Seroprevalence with epidemiological determinants of hepatitis C virus and Treponema pallidum infection in blood donors of a teaching hospital in southwest Punjab, India: A 5-year study.
+38074222	Tribal gaps in Malaria in relation to KAP in East Godavari District, Andhra Pradesh.
+38073990	A Rare Twist: Spleen Rupture in Plasmodium vivax Malaria.
+38073512	Multiple imputation of incomplete multilevel data using Heckman selection models.
 38072967	Assessment of Plasmodium falciparum drug resistance associated molecular markers in Mandla, Madhya Pradesh, India.
 38072951	New clinical application prospects of artemisinin and its derivatives: a scoping review.
 38072836	Entomological surveillance reveals transmission of malaria but not lymphatic filariasis in two communities in North-West Nigeria.
@@ -9991,9 +9997,3 @@
 34684761	Identification of Antiprotozoal Compounds from Buxus sempervirens L. by PLS-Prediction.
 34684249	Effects of Local and Systemic Immune Challenges on the Expression of Selected Salivary Genes in the Malaria Mosquito Anopheles coluzzii.
 34684226	Immunosuppression in Malaria: Do Plasmodium falciparum Parasites Hijack the Host?
-34684207	Dry Post Wintertime Mass Surveillance Unearths a Huge Burden of P. vivax, and Mixed Infection with P. vivax P. falciparum, a Threat to Malaria Elimination, in Dhalai, Tripura, India.
-34684190	Plasmepsin-like Aspartyl Proteases in Babesia.
-34683481	Airport Malaria in Non-Endemic Areas: New Insights into Mosquito Vectors, Case Management and Major Challenges.
-34683365	Imported Malaria in Portugal: Prevalence of Polymorphisms in the Anti-Malarial Drug Resistance Genes pfmdr1 and pfk13.
-34683295	Systematic Review: Microfluidics and Plasmodium.
-34682492	Leveraging HIV Care Infrastructures for Integrated Chronic Disease and Pandemic Management in Sub-Saharan Africa.
