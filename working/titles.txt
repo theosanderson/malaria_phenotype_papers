@@ -803,7 +803,7 @@
 37801449	Ten years follow-up of the largest oral Chagas disease outbreak: Cardiological prospective cohort study.
 37801442	Healthcare provider-targeted mobile applications to diagnose, screen, or monitor communicable diseases of public health importance in low- and middle-income countries: A systematic review.
 37801405	Exploring the Binding Pathway of Novel Nonpeptidomimetic Plasmepsin V Inhibitors.
-37801038	Drug repurposing of Mito-Atovaquone for cancer treatment.
+37801038	Drug repurposing of mito-atovaquone for cancer treatment.
 37800971	A conserved metabolic signature associated with response to fast-acting anti-malarial agents.
 37800272	Verbal Autopsy to Assess Postdischarge Mortality in Children With Suspected Sepsis in Uganda.
 37799509	Diverse novel Wolbachia bacteria strains and genera-specific co-infections with Asaia bacteria in Culicine mosquitoes from ecologically diverse regions of Cameroon.
