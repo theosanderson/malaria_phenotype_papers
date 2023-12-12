@@ -1,3 +1,7 @@
+38081055	Contextual Factors to Improve Implementation of Malaria Chemoprevention in Children: A Systematic Review.
+38081050	Systematic Review and Meta-Analysis of Seasonal Malaria Chemoprevention.
+38081047	Malaria Stratification Mapping in Thailand to Support Prevention of Reestablishment.
+38079438	Feasibility, enablers and challenges of using timeliness metrics for household contact tracing and TB preventive therapy in Pakistan.
 38079215	Economic Burden of Mosquito-Borne Diseases in Low- and Middle-Income Countries: Protocol for a Systematic Review.
 38078758	Identification of a non-exported Plasmepsin V substrate that functions in the parasitophorous vacuole of malaria parasites.
 38078744	Signaling between mammalian adiponectin and a mosquito adiponectin receptor reduces Plasmodium transmission.
@@ -9993,7 +9997,3 @@
 34689786	An urban-to-rural continuum of malaria risk: new analytic approaches characterize patterns in Malawi.
 34689782	Prevalence of malaria in an area receiving seasonal malaria chemoprevention in Niger.
 34689083	Property activity refinement of 2-anilino 4-amino substituted quinazolines as antimalarials with fast acting asexual parasite activity.
-34688871	One step derivatization and dispersive liquid-liquid microextraction of hydroxychloroquine sulfate for its sensitive and accurate determination using GC-MS.
-34688666	Identification of a substrate-like cleavage-resistant thrombin inhibitor from the saliva of the flea Xenopsylla cheopis.
-34688312	Prevalence and characteristics of malaria co-infection among individuals with visceral leishmaniasis in Africa and Asia: a systematic review and meta-analysis.
-34688298	Comprehensive characterization of internal and cuticle surface microbiota of laboratory-reared F(1) Anopheles albimanus originating from different sites.
