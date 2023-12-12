@@ -1,3 +1,8 @@
+38084418	Malaria: Climate change poses "substantial risk to progress," WHO warns.
+38083934	Covid-19 co-infection with Crimean Congo haemorrhagic fever (CCHF) in a CCHF endemic country: a case report.
+38083915	Assessment of clinical spectrum of thrombocytopenia and its association with different disease states reported in Dow Diagnostic Reference and Research Lab (DDRRL).
+38082342	Plasmodium ovale infection in Sri Lanka: distant exposure and incidental detection of hyperparasitemia: a case report.
+38082317	Mosquito control exposures and breast cancer risk: analysis of 1071 cases and 2096 controls from the Ghana Breast Health Study.
 38081895	F﻿irst detection ﻿of herpesvirus and hemosporidians in the endangered Pyrenean Capercaillie (Tetrao urogallus aquitanicus).
 38081771	Ethical and cultural implications for conducting verbal autopsies in South and Southeast Asia: a qualitative study.
 38081055	Contextual Factors to Improve Implementation of Malaria Chemoprevention in Children: A Systematic Review.
@@ -260,7 +265,7 @@
 37988332	Utilization of accessible resources in the fabrication of an affordable, portable, high-resolution, 3D printed, digital microscope for Philippine diagnostic applications.
 37987165	The global burden of disease due to benign gynecological conditions: A call to action.
 37987025	Monitoring the density of Plasmodium spp. gametocytes in isolates from patient samples in the region of Porto Velho, Rondônia.
-37987011	Antigenic strain diversity predicts different biogeographic patterns of invasion and maintenance of anti-malarial drug resistance.
+37987011	Antigenic strain diversity predicts different biogeographic patterns of maintenance and decline of anti-malarial drug resistance.
 37986978	HIV prevalence in transgender populations and cisgender men who have sex with men in sub-Saharan Africa 2010-2022: a meta-analysis.
 37986920	Country wide surveillance reveals prevalent artemisinin partial resistance mutations with evidence for multiple origins and expansion of high level sulfadoxine-pyrimethamine resistance mutations in northwest Tanzania.
 37986869	Protocol for a Magnetic Resonance Imaging (MRI) Study of Participants in the Fever Randomized Controlled Trial: Does fever control prevent brain injury in malaria?
@@ -426,7 +431,7 @@
 37931305	COVID Perceptions among Pregnant Women Living in a Malaria Hyperendemic Rural Region in Uganda: A Cross-Sectional Study.
 37931271	Annals On Call - Malaria in the United States.
 37929609	Romanowsky staining: history, recent advances and future prospects from a chemistry perspective.
-37929579	The threat of increased transmission of non-knowlesi zoonotic malaria in humans: A systematic review.
+37929579	The threat of increased transmission of non-knowlesi zoonotic malaria in humans: a systematic review.
 37929374	An exploratory study of seasonal malaria chemoprevention and pharmacovigilance for under-five children in Kebbi State, Nigeria.
 37928945	Request for Antimalarial Medicines and Their Dispensing Without a Prescription in Community Pharmacies in Rwanda.
 37927870	Malaria in pregnancy in India: a 50-year bird's eye.
@@ -9992,8 +9997,3 @@
 34691367	Interfacing vector-borne disease dynamics with climate change: Implications for the attainment of SDGs in Masvingo city, Zimbabwe.
 34691207	Antimalarial Activity of Hydromethanolic Crude Extract and Chloroform Fraction of Brucea antidysenterica Leaves in Plasmodium berghei-Infected Mice.
 34691144	First Detection in West Africa of a Mutation That May Contribute to Artemisinin Resistance Plasmodium falciparum.
-34690456	Effect of Asymptomatic Plasmodium falciparum Parasitaemia on Platelets Thrombogenicity in Blood Donors.
-34689839	What sub-Saharan African countries can learn from malaria elimination in China.
-34689796	The acceptability of targeted mass treatment with primaquine for local elimination of vivax malaria in a northern Myanmar township: a mixed-methods study.
-34689791	Health workers readiness and practice in malaria case detection and appropriate treatment: a meta-analysis and meta-regression.
-34689786	An urban-to-rural continuum of malaria risk: new analytic approaches characterize patterns in Malawi.
