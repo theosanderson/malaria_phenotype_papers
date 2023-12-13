@@ -1,3 +1,5 @@
+38085791	Tropical Data: Approach and Methodology as Applied to Trachoma Prevalence Surveys.
+38085718	Prevalence and molecular heterogeneity of glucose-6-phosphate dehydrogenase (G6PD) deficiency in the Senoi Malaysian Orang Asli population.
 38084418	Malaria: Climate change poses "substantial risk to progress," WHO warns.
 38083934	Covid-19 co-infection with Crimean Congo haemorrhagic fever (CCHF) in a CCHF endemic country: a case report.
 38083915	Assessment of clinical spectrum of thrombocytopenia and its association with different disease states reported in Dow Diagnostic Reference and Research Lab (DDRRL).
@@ -9995,5 +9997,3 @@
 34692564	The Potential Roles of Glial Cells in the Neuropathogenesis of Cerebral Malaria.
 34692496	Dihydroartemisinin: A Potential Drug for the Treatment of Malignancies and Inflammatory Diseases.
 34691367	Interfacing vector-borne disease dynamics with climate change: Implications for the attainment of SDGs in Masvingo city, Zimbabwe.
-34691207	Antimalarial Activity of Hydromethanolic Crude Extract and Chloroform Fraction of Brucea antidysenterica Leaves in Plasmodium berghei-Infected Mice.
-34691144	First Detection in West Africa of a Mutation That May Contribute to Artemisinin Resistance Plasmodium falciparum.
