@@ -1,7 +1,9 @@
-38086308	Multienzymatic disintegration of DNA-scaffolded magnetic nanoparticle assembly for malarial mitochondrial DNA detection.
+38087861	Haemosporidian parasite infections of Malagasy Philepittidae and Nectariniidae are driven by phylogeny rather than ecology.
+38087335	Amplicon deep sequencing of five highly polymorphic markers of Plasmodium falciparum reveals high parasite genetic diversity and moderate population structure in Ethiopia.
 38087203	Targeting antimalarial metabolites from the actinomycetes associated with the Red Sea sponge Callyspongia siphonella using a metabolomic method.
 38086890	Analysis of geometric morphometrics and molecular phylogeny for Anopheles species in the Republic of Korea.
 38086855	Pfs230 Domain 7 is targeted by a potent malaria transmission-blocking monoclonal antibody.
+38086308	Multienzymatic disintegration of DNA-scaffolded magnetic nanoparticle assembly for malarial mitochondrial DNA detection.
 38085791	Tropical Data: Approach and Methodology as Applied to Trachoma Prevalence Surveys.
 38085718	Prevalence and molecular heterogeneity of glucose-6-phosphate dehydrogenase (G6PD) deficiency in the Senoi Malaysian Orang Asli population.
 38084418	Malaria: Climate change poses "substantial risk to progress," WHO warns.
@@ -9995,5 +9997,3 @@
 34694791	Microfluidic Biosensor for Rapid Nucleic Acid Quantitation Based on Hyperspectral Interferometric Amplicon-Complex Analysis.
 34694667	Temperature-regulated gold nanoparticle sensors for immune chromatographic rapid test kits with reproducible sensitivity: a study.
 34693933	Brief Report: No Differences Between Lopinavir/Ritonavir and Nonnucleoside Reverse Transcriptase Inhibitor-Based Antiretroviral Therapy on Clearance of Plasmodium falciparum Subclinical Parasitemia in Adults Living With HIV Starting Treatment (A5297).
-34693368	Host-directed therapy, an untapped opportunity for antimalarial intervention.
-34693027	A clinical study to optimise a sand fly biting protocol for use in a controlled human infection model of cutaneous leishmaniasis (the FLYBITE study).
