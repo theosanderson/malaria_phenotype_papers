@@ -1,7 +1,16 @@
+38095048	Pre-erythrocytic malaria vaccines: RTS,S, R21, and beyond.
+38094863	Applicability of Redirecting Artemisinins for New Targets.
+38094614	Clinical profile and Predictors of Outcomes of Hospitalized Patients with Laboratory-Confirmed Severe Acute Respiratory Syndrome Coronavirus 2 in Nigeria: A Retrospective Analysis of 13 High Burden States in Nigeria.
+38094479	["Farmer Field School", a participatory educational approach for improving the fight against malaria vectors in irrigated rice-growing areas in Benin].
+38094220	Antimalarial Activity of Crude Extract and Solvent Fractions of Leaves of Solanum nigrum L. (Solanaceae) against Plasmodium berghei in Mice.
+38093809	A vivid lesson for the whole malaria community, emphasising the Gold Standard of Education in Palestine's malaria elimination 100 years ago.
+38093593	Fever in focus: Symptoms, diagnoses and treatment of febrile children in Ghana-A longitudinal hospital study.
+38093589	Real-time loop-mediated isothermal amplification (real-time LAMP) assay for rapid diagnosis of amoebic liver abscess.
+38093363	Exploring the immune interactions between Oncomelania hupensis and Schistosoma japonicum, with a cross-comparison of immunological research progress in other intermediate host snails.
+38093343	Prevalence of herbal and traditional medicine in Ethiopia: a systematic review and meta-analysis of 20-year studies.
+38093306	Plasmodium knowlesi in pig-tailed macaques: a potential new model for malaria vaccine research.
+38093286	Impact of population based indoor residual spraying in combination with mass drug administration on malaria incidence and test positivity in a high transmission setting in north eastern Uganda.
 38093251	Head-to-head comparison of two loop-mediated isothermal amplification (LAMP) kits for diagnosis of malaria in a non-endemic setting.
-38092509	Global Burden of Cardiovascular Diseases and Risks, 1990-2022.
-38092319	Evaluation of Andrographis paniculata-supplemented Diet on the reproductive indices of Plasmodium berghei-infected mice.
-38092105	Identification of novel compounds and repurposing of FDA drugs for 1-deoxy-D-xylulose 5-phosphate reductoisomerase enzyme of Plasmodium falciparum to combat malaria resistance.
 38093209	Profiles of global mutations in the human intercellular adhesion molecule-1 (ICAM-1) shed light on population-specific malaria susceptibility.
 38093057	Malaria fighter: this researcher paved the way for a game-changing vaccine.
 38093015	In vitro production of cat-restricted Toxoplasma pre-sexual stages.
@@ -9,6 +18,9 @@
 38092766	Atypical flagella assembly and haploid genome coiling during male gamete formation in Plasmodium.
 38092722	Research progress in the off-target effects of Bacille Calmette-Guérin vaccine.
 38092677	Escalating Plasmodium falciparum K13 marker prevalence indicative of artemisinin resistance in southern Rwanda.
+38092509	Global Burden of Cardiovascular Diseases and Risks, 1990-2022.
+38092319	Evaluation of Andrographis paniculata-supplemented Diet on the reproductive indices of Plasmodium berghei-infected mice.
+38092105	Identification of novel compounds and repurposing of FDA drugs for 1-deoxy-D-xylulose 5-phosphate reductoisomerase enzyme of Plasmodium falciparum to combat malaria resistance.
 38090584	Corrigendum: Brain endothelial cells exposure to malaria parasites links type I interferon signalling to antigen presentation, immunoproteasome activation, endothelium disruption, and cellular metabolism.
 38090561	Acquisition of complement fixing antibodies targeting Plasmodium falciparum merozoites in infants and their mothers in Uganda.
 38090066	Chalcone Mannich base derivatives: synthesis, antimalarial activities against Plasmodium knowlesi, and molecular docking analysis.
@@ -9985,15 +9997,3 @@
 34704962	[October sixth; a historic day in the fight against malaria].
 34703732	Paediatric emergency care at an academic referral hospital in Mozambique.
 34703679	A Traditional Review of Sickle Cell Disease and the Associated Onset of Dementia: Hematological and Neurocognitive Crossroads.
-34703173	Investigation of LAMP Technique in Diagnosis Type of Plasmodium Species in Anopheles Mosquitoes :A Fast and Practical Technique to Detect Malaria Pathogens in the Field.
-34703172	Spatial Modelling of Risk Factors for Malaria Prevalence in SNNP Regional State, Ethiopia.
-34702923	Epidemiology of mutant Plasmodium falciparum parasites lacking histidine-rich protein 2/3 genes in Eritrea 2 years after switching from HRP2-based RDTs.
-34702263	Network-driven analysis of human-Plasmodium falciparum interactome: processes for malaria drug discovery and extracting in silico targets.
-34702255	Baseline malaria prevalence and care-seeking behaviours in rural Madagascar prior to a trial to expand malaria community case management to all ages.
-34700119	Product patents and access to innovative medicines.
-34699957	Reasons for seeking care and adherence to pretravel preparation in expatriate or long-term travelers' children in the tropics: A French prospective study.
-34699956	Vector-borne and zoonotic infections and their relationships with regional and socioeconomic statuses: An ID-IRI survey in 24 countries of Europe, Africa and Asia.
-34699722	Fragment-Based Phenotypic Lead Discovery To Identify New Drug Seeds That Target Infectious Diseases.
-34699526	Prevalence of glucose-6-phosphate dehydrogenase deficiency (G6PDd), CareStart qualitative rapid diagnostic test performance, and genetic variants in two malaria-endemic areas in Sudan.
-34699300	Improved radiation expression profiling in blood by sequential application of sensitive and specific gene signatures.
-34698312	Malaria Cases in a Tertiary Hospital in Kuala Lumpur, Malaysia: A 16-Year (2005-2020) Retrospective Review.
