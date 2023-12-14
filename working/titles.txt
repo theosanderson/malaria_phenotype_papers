@@ -1,3 +1,11 @@
+38090584	Corrigendum: Brain endothelial cells exposure to malaria parasites links type I interferon signalling to antigen presentation, immunoproteasome activation, endothelium disruption, and cellular metabolism.
+38090561	Acquisition of complement fixing antibodies targeting Plasmodium falciparum merozoites in infants and their mothers in Uganda.
+38090066	Chalcone Mannich base derivatives: synthesis, antimalarial activities against Plasmodium knowlesi, and molecular docking analysis.
+38089933	The potential of addressing asymptomatic malaria in the context of malaria elimination in Ethiopia: Scoping review.
+38089812	The patatin-like phospholipase PfPNPLA2 is involved in the mitochondrial degradation of phosphatidylglycerol during Plasmodium falciparum blood stage development.
+38089636	Malaria and tuberculosis co-infection-a review.
+38089575	Quantifying the deformability of malaria-infected red blood cells using deep learning trained on synthetic cells.
+38089068	Investigating the Impact of Irrigation on Malaria Vector Larval Habitats and Transmission Using a Hydrology-Based Model.
 38087861	Haemosporidian parasite infections of Malagasy Philepittidae and Nectariniidae are driven by phylogeny rather than ecology.
 38087335	Amplicon deep sequencing of five highly polymorphic markers of Plasmodium falciparum reveals high parasite genetic diversity and moderate population structure in Ethiopia.
 38087203	Targeting antimalarial metabolites from the actinomycetes associated with the Red Sea sponge Callyspongia siphonella using a metabolomic method.
@@ -9989,11 +9997,3 @@
 34696180	Plasmodium falciparum Malaria Vaccines and Vaccine Adjuvants.
 34695793	Tropical Infectious Diseases: Still Here, Still Raging, Still Killing.
 34695135	Concurrent circulation of dengue serotype 1, 2 and 3 among acute febrile patients in Cameroon.
-34695132	Inhibition of protein N-myristoylation blocks Plasmodium falciparum intraerythrocytic development, egress and invasion.
-34695122	Validation study of Boil & Spin Malachite Green Loop Mediated Isothermal Amplification (B&S MG-LAMP) versus microscopy for malaria detection in the Peruvian Amazon.
-34694918	Plasmodium falciparum Cysteine-Rich Protective Antigen (CyRPA) Elicits Detectable Levels of Invasion-Inhibitory Antibodies during Natural Infection in Humans.
-34694880	Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Coadministered Ruxolitinib and Artemether-Lumefantrine in Healthy Adults.
-34694871	Comparative Analysis of Plasmodium falciparum Genotyping via SNP Detection, Microsatellite Profiling, and Whole-Genome Sequencing.
-34694791	Microfluidic Biosensor for Rapid Nucleic Acid Quantitation Based on Hyperspectral Interferometric Amplicon-Complex Analysis.
-34694667	Temperature-regulated gold nanoparticle sensors for immune chromatographic rapid test kits with reproducible sensitivity: a study.
-34693933	Brief Report: No Differences Between Lopinavir/Ritonavir and Nonnucleoside Reverse Transcriptase Inhibitor-Based Antiretroviral Therapy on Clearance of Plasmodium falciparum Subclinical Parasitemia in Adults Living With HIV Starting Treatment (A5297).
