@@ -2,7 +2,6 @@
 38094863	Applicability of Redirecting Artemisinins for New Targets.
 38094614	Clinical profile and Predictors of Outcomes of Hospitalized Patients with Laboratory-Confirmed Severe Acute Respiratory Syndrome Coronavirus 2 in Nigeria: A Retrospective Analysis of 13 High Burden States in Nigeria.
 38094479	["Farmer Field School", a participatory educational approach for improving the fight against malaria vectors in irrigated rice-growing areas in Benin].
-38094220	Antimalarial Activity of Crude Extract and Solvent Fractions of Leaves of Solanum nigrum L. (Solanaceae) against Plasmodium berghei in Mice.
 38093809	A vivid lesson for the whole malaria community, emphasising the Gold Standard of Education in Palestine's malaria elimination 100 years ago.
 38093593	Fever in focus: Symptoms, diagnoses and treatment of febrile children in Ghana-A longitudinal hospital study.
 38093589	Real-time loop-mediated isothermal amplification (real-time LAMP) assay for rapid diagnosis of amoebic liver abscess.
@@ -6574,6 +6573,7 @@
 35844700	Age-specific differences in the magnitude of malaria-related anemia during low and high malaria seasons in rural Zambian children.
 35844531	Immune System Modulation by the Adjuvants Poly (I:C) and Montanide ISA 720.
 35844076	Trust the Process: Prolonged Babesia Parasitemia in an Elderly Man with Asplenia from the American Midwest.
+38094220	Antimalarial Activity of Crude Extract and Solvent Fractions of Leaves of Solanum nigrum L. (Solanaceae) against Plasmodium berghei in Mice.
 35843778	Thwarting protein synthesis leads to malaria parasite paralysis.
 35843447	Epidemiological and clinical characteristics of imported malaria in Bulgaria: A retrospective study of а 21-year period.
 35843175	Splenic clearance of rigid erythrocytes as an inherited mechanism for splenomegaly and natural resistance to malaria.
