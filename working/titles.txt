@@ -1,12 +1,19 @@
+38099304	High genetic and haplotype diversity in vaccine candidate Pfceltos but not Pfrh5 among malaria-infected children in Ibadan, Nigeria.
+38099246	Host Genetic Impact on Infectious Diseases among Different Ethnic Groups.
+38098745	Atypical B cells consist of subsets with distinct functional profiles.
+38098593	Mechanism of Yixishu lotion in the treatment of vaginitis based on network pharmacology combined with experimental validation: an experimental research study.
+38098560	Newer emerging SARS-COV2 variant: Omicron EG.5.
+38098124	Prediction of malaria positivity using patients' demographic and environmental features and clinical symptoms to complement parasitological confirmation before treatment.
+38098083	A dual-antigen malaria vaccine targeting Pb22 and Pbg37 was able to induce robust transmission-blocking activity.
+38097730	Plasmodium sporozoite excystation involves local breakdown of the oocyst capsule.
+38097652	Structures revealing mechanisms of resistance and collateral sensitivity of Plasmodium falciparum to proteasome inhibitors.
+38097582	Evolutionary modelling indicates that mosquito metabolism shapes the life-history strategies of Plasmodium parasites.
 38097295	Post-discharge malaria chemoprevention in children admitted with severe anaemia in malaria-endemic settings in Africa: a systematic review and individual patient data meta-analysis of randomised controlled trials.
 38097287	Post-discharge malaria chemoprevention in children with severe anaemia: a robust strategy to save lives.
 38096974	Climate change and the rising incidence of vector-borne diseases globally.
 38096889	Universal health coverage is fundamental to preparing for a healthier and better tomorrow.
 38096790	Vivax malaria and Duffy antigen: Stop being so negative.
 38096639	Malaria: A focused review for the emergency medicine clinician.
-38097730	Plasmodium sporozoite excystation involves local breakdown of the oocyst capsule.
-38097652	Structures revealing mechanisms of resistance and collateral sensitivity of Plasmodium falciparum to proteasome inhibitors.
-38097582	Evolutionary modelling indicates that mosquito metabolism shapes the life-history strategies of Plasmodium parasites.
 38096210	MosChito rafts as a promising biocontrol tool against larvae of the common house mosquito, Culex pipiens.
 38095048	Pre-erythrocytic malaria vaccines: RTS,S, R21, and beyond.
 38094863	Applicability of Redirecting Artemisinins for New Targets.
@@ -9990,10 +9997,3 @@
 34711047	Ex Vivo Plasmodium malariae Culture Method for Antimalarial Drugs Screen in the Field.
 34710743	Role of basic aminoalkyl chains in the lead optimization of Indoloquinoline alkaloids.
 34710364	Primaquine and the power of adherence in radical cure.
-34710363	Supervised versus unsupervised primaquine radical cure for the treatment of falciparum and vivax malaria in Papua, Indonesia: a cluster-randomised, controlled, open-label superiority trial.
-34710358	A non-reactive natural product precursor of the duocarmycin family has potent and selective antimalarial activity.
-34710156	Transcriptional dynamics in the protozoan parasite Sarcocystis neurona and mammalian host cells after treatment with a specific inhibitor of apicomplexan mRNA polyadenylation.
-34708523	Cellular and molecular basis of IR3535 perception in Drosophila.
-34708085	Interlinking Antecedent Malaria and Hypertension Through Angiotensin II in India.
-34707901	Inactivating Gene Expression with Antisense Modified Oligonucleotides.
-34707752	Assessment of malaria diagnostic methods and treatments at a Ghanaian health facility.
