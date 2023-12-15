@@ -1,3 +1,5 @@
+38099974	Genetic characterization and description of Leishmania (Leishmania) ellisi sp. nov.: a new human-infecting species from the USA.
+38099863	Risk factors for mortality in an African pediatric emergency department: case of Sourô Sanou Hospital, a prospective, cross-sectional study.
 38099304	High genetic and haplotype diversity in vaccine candidate Pfceltos but not Pfrh5 among malaria-infected children in Ibadan, Nigeria.
 38099246	Host Genetic Impact on Infectious Diseases among Different Ethnic Groups.
 38098745	Atypical B cells consist of subsets with distinct functional profiles.
@@ -9995,5 +9997,3 @@
 34711682	Double peroxidase and histone acetyltransferase AgTip60 maintain innate immune memory in primed mosquitoes.
 34711453	Malaria parasite liver stages.
 34711047	Ex Vivo Plasmodium malariae Culture Method for Antimalarial Drugs Screen in the Field.
-34710743	Role of basic aminoalkyl chains in the lead optimization of Indoloquinoline alkaloids.
-34710364	Primaquine and the power of adherence in radical cure.
