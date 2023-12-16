@@ -1,3 +1,4 @@
+38100310	Plasmodium falciparum merozoite surface protein 1 as asexual blood stage malaria vaccine candidate.
 38099974	Genetic characterization and description of Leishmania (Leishmania) ellisi sp. nov.: a new human-infecting species from the USA.
 38099863	Risk factors for mortality in an African pediatric emergency department: case of Sourô Sanou Hospital, a prospective, cross-sectional study.
 38099304	High genetic and haplotype diversity in vaccine candidate Pfceltos but not Pfrh5 among malaria-infected children in Ibadan, Nigeria.
@@ -9996,4 +9997,3 @@
 34712683	Monoclonal Antibodies for Protozoan Infections: A Future Reality or a Utopic Idea?
 34711682	Double peroxidase and histone acetyltransferase AgTip60 maintain innate immune memory in primed mosquitoes.
 34711453	Malaria parasite liver stages.
-34711047	Ex Vivo Plasmodium malariae Culture Method for Antimalarial Drugs Screen in the Field.
