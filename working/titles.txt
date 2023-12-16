@@ -1,3 +1,4 @@
+38103027	Gut Metabolite Indoxyl Sulfate Has Selective Deleterious and Anticancer Effect on Colon Cancer Cells.
 38102664	Publisher Correction: Genetic profiles of Schistosoma haematobium parasites from Malian transmission hotspot areas.
 38102649	Is qPCR always the most sensitive method for malaria diagnostic quality surveillance?
 38102310	Structural definition of babesial RAP-1 proteins identifies a novel protein superfamily across Apicomplexa.
@@ -9996,4 +9997,3 @@
 34715032	Safety, pharmacokinetics, and antimalarial activity of the novel plasmodium eukaryotic translation elongation factor 2 inhibitor M5717: a first-in-human, randomised, placebo-controlled, double-blind, single ascending dose study and volunteer infection study.
 34714824	Excreted Trypanosoma brucei proteins inhibit Plasmodium hepatic infection.
 34714822	Development and validation of a framework to improve neglected tropical diseases surveillance and response at sub-national levels in Kenya.
-34714821	Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi.
