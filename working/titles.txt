@@ -1,3 +1,8 @@
+38102664	Publisher Correction: Genetic profiles of Schistosoma haematobium parasites from Malian transmission hotspot areas.
+38102649	Is qPCR always the most sensitive method for malaria diagnostic quality surveillance?
+38102310	Structural definition of babesial RAP-1 proteins identifies a novel protein superfamily across Apicomplexa.
+38101834	Assessment of the Global Fund-supported procurement and supply chain reforms at the Ethiopian Pharmaceuticals Supply Agency: a mixed-methods study.
+38101534	Immune tolerance caused by repeated P. falciparum infection against SE36 malaria vaccine candidate antigen and the resulting limited polymorphism.
 38100310	Plasmodium falciparum merozoite surface protein 1 as asexual blood stage malaria vaccine candidate.
 38099974	Genetic characterization and description of Leishmania (Leishmania) ellisi sp. nov.: a new human-infecting species from the USA.
 38099863	Risk factors for mortality in an African pediatric emergency department: case of Sourô Sanou Hospital, a prospective, cross-sectional study.
@@ -250,12 +255,12 @@
 38017455	Assessing the histidine-rich protein 2/3 gene deletion in Plasmodium falciparum isolates from Burkina Faso.
 38016837	From microscope to micropixels: A rapid review of artificial intelligence for the peripheral blood film.
 38016529	Multiple episodes of Plasmodium malariae despite antimalarial treatment: "Quartana te teneat"?
-38016502	Identification of the PfK13 mutations R561H and P441L in Democratic Republic of Congo (DRC).
+38016502	Identification of the PfK13 mutations R561H and P441L in the Democratic Republic of Congo.
 38014243	Prognostics of multiple malaria episodes and nutritional status in children aged 6 to 59 months from 2013 to 2017 in Dangassa, Mali.
 38014051	Host kinase regulation of Plasmodium vivax dormant and replicating liver stages.
 38014035	Genomic malaria surveillance of antenatal care users detects reduced transmission following elimination interventions in Mozambique.
 38013532	Utilization Of The Complete Blood Count In Diagnosing Endemic Diseases In Pakistan.
-38013152	Adjunctive rosiglitazone treatment for severe paediatric malaria: a randomized placebo-controlled trial in Mozambican children.
+38013152	Adjunctive rosiglitazone treatment for severe pediatric malaria: A randomized placebo-controlled trial in Mozambican children.
 38012717	Experiences of healthcare personnel on the efficacy of artemisinin-based combination therapy and malaria diagnosis in hospitals in Uganda.
 38012686	Standardization of DNA extraction from paraffinized spleen samples: molecular diagnosis of human malaria.
 38012638	Health workers' adherence to the malaria test, treat and track strategy during the COVID-19 pandemic in malaria high transmission area in Eastern Uganda.
@@ -9992,8 +9997,3 @@
 34714824	Excreted Trypanosoma brucei proteins inhibit Plasmodium hepatic infection.
 34714822	Development and validation of a framework to improve neglected tropical diseases surveillance and response at sub-national levels in Kenya.
 34714821	Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi.
-34714333	Correction: An SR protein is essential for activating DNA repair in malaria parasites.
-34712731	Prevalence of Malaria and Associated Knowledge, Attitude, and Practice among Suspected Patients in Bahir Dar Zuria District, Northwest Ethiopia.
-34712683	Monoclonal Antibodies for Protozoan Infections: A Future Reality or a Utopic Idea?
-34711682	Double peroxidase and histone acetyltransferase AgTip60 maintain innate immune memory in primed mosquitoes.
-34711453	Malaria parasite liver stages.
