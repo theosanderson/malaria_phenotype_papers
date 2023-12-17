@@ -1,3 +1,7 @@
+38104159	Artesunate acts through cytochrome c to inhibit growth of pediatric AML cells.
+38104158	Identification of breeding habitats and kdr mutations in Anopheles spp. in South Korea.
+38104072	Correlation between secondary metabolites of Iris confusa Sealy and Iris pseudacorus L. and their newly explored antiprotozoal potentials.
+38104024	Plasmodium falciparum ring-stage plasticity and drug resistance.
 38103027	Gut Metabolite Indoxyl Sulfate Has Selective Deleterious and Anticancer Effect on Colon Cancer Cells.
 38102664	Publisher Correction: Genetic profiles of Schistosoma haematobium parasites from Malian transmission hotspot areas.
 38102649	Is qPCR always the most sensitive method for malaria diagnostic quality surveillance?
@@ -59,6 +63,7 @@
 38087203	Targeting antimalarial metabolites from the actinomycetes associated with the Red Sea sponge Callyspongia siphonella using a metabolomic method.
 38086890	Analysis of geometric morphometrics and molecular phylogeny for Anopheles species in the Republic of Korea.
 38086855	Pfs230 Domain 7 is targeted by a potent malaria transmission-blocking monoclonal antibody.
+38086842	Insecticidal roof barriers mounted on untreated bed nets can be as effective against Anopheles gambiae as regular insecticide-treated bed nets.
 38086308	Multienzymatic disintegration of DNA-scaffolded magnetic nanoparticle assembly for malarial mitochondrial DNA detection.
 38085791	Tropical Data: Approach and Methodology as Applied to Trachoma Prevalence Surveys.
 38085718	Prevalence and molecular heterogeneity of glucose-6-phosphate dehydrogenase (G6PD) deficiency in the Senoi Malaysian Orang Asli population.
@@ -9992,8 +9997,3 @@
 34715864	Spatial distribution of Plasmodium knowlesi cases and their vectors in Johor, Malaysia: in light of human malaria elimination.
 34715624	The role of social cohesion in the implementation and coverage of a mass drug administration trial for malaria control in the Gambia: An in-depth comparison of two intervention villages.
 34715298	Traditional medicinal uses, pharmacology, phytochemistry, and distribution of the Genus Fagaropsis (Rutaceae).
-34715088	Plasmodium early transcribed membrane proteins appear tailored to the host range of malaria parasites.
-34715033	Towards the next generation of antimalaria combination therapies.
-34715032	Safety, pharmacokinetics, and antimalarial activity of the novel plasmodium eukaryotic translation elongation factor 2 inhibitor M5717: a first-in-human, randomised, placebo-controlled, double-blind, single ascending dose study and volunteer infection study.
-34714824	Excreted Trypanosoma brucei proteins inhibit Plasmodium hepatic infection.
-34714822	Development and validation of a framework to improve neglected tropical diseases surveillance and response at sub-national levels in Kenya.
