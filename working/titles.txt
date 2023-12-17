@@ -1,7 +1,7 @@
 38104159	Artesunate acts through cytochrome c to inhibit growth of pediatric AML cells.
 38104158	Identification of breeding habitats and kdr mutations in Anopheles spp. in South Korea.
-38104072	Correlation between secondary metabolites of Iris confusa Sealy and Iris pseudacorus L. and their newly explored antiprotozoal potentials.
 38104024	Plasmodium falciparum ring-stage plasticity and drug resistance.
+38104072	Correlation between secondary metabolites of Iris confusa Sealy and Iris pseudacorus L. and their newly explored antiprotozoal potentials.
 38103027	Gut Metabolite Indoxyl Sulfate Has Selective Deleterious and Anticancer Effect on Colon Cancer Cells.
 38102664	Publisher Correction: Genetic profiles of Schistosoma haematobium parasites from Malian transmission hotspot areas.
 38102649	Is qPCR always the most sensitive method for malaria diagnostic quality surveillance?
