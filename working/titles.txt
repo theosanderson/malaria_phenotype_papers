@@ -1,3 +1,9 @@
+38109166	An in-silico approach to identify bioactive phytochemicals from Houttuynia cordata Thunb. As potential inhibitors of human glutathione reductase.
+38109134	[Panorama epidemiológico de las enfermedades transmitidas por vectores: lecciones aprendidas y retos para romper el círculo].
+38108809	Atlas of Plasmodium falciparum intraerythrocytic development using expansion microscopy.
+38108558	Two avian Plasmodium species trigger different transcriptional responses on their vector Culex pipiens.
+38108431	Mosquito-borne diseases in India over the past 50 years and their Global Public Health Implications: A Systematic Review.
+38108429	A Survey on Mosquito Control Knowledge and Insecticide Use in New Orleans, La, 2020-2021.
 38108082	The problem of antimalarial resistance and its implications for drug discovery.
 38107179	Naphthyl bearing 1,3,4-thiadiazoleacetamides targeting the parasitic folate pathway as anti-infectious agents: in silico, synthesis, and biological approach.
 38106223	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
@@ -95,7 +101,7 @@
 38078638	[Optimizing primary health care in Burkina Faso: an approach informed by EQUIST].
 38078563	sTREM-1 to risk-stratify patients with malaria: A functional crystal ball to improve outcomes and save lifes.
 38078518	Histone globular domain epigenetic modifications: The regulators of chromatin dynamics in malaria parasite.
-38078512	LABORATORY EVALUATION OF EFFICACY OF THE LARVICIDE SPINOSAD AGAINST ANOPHELES STEPHENSI IN JIGJIGA, ETHIOPIA.
+38078512	Laboratory Evaluation of Efficacy of the Larvicide Spinosad Against AnophelesStephensi in Jigjiga, Ethiopia.
 38076990	First detection of Anopheles stephensi in Ghana using molecular surveillance.
 38076857	Network Profile: Improving Response to Malaria in the Amazon through Identification of Inter-Community Networks and Human Mobility in Border Regions of Ecuador, Peru, and Brazil.
 38076851	CR1 variants contribute to FSGS susceptibility across multiple populations.
@@ -9991,9 +9997,3 @@
 34717734	Predictive markers of transmission in areas with different malaria endemicity in north-eastern Tanzania based on seroprevalence of antibodies against Plasmodium falciparum.
 34717652	Effects of indoor air movement and ambient temperature on mosquito (Anopheles gambiae) behaviour around bed nets: implications for malaria prevention initiatives.
 34717642	Opening the policy blackbox: unravelling the process for changing national diagnostic and treatment guidelines for vivax malaria in seven countries.
-34717641	Malaria Trigram: improving the visualization of recurrence data for malaria elimination.
-34717637	Rethinking the economic costs of hospitalization for malaria: accounting for the comorbidities of malaria patients in western Kenya.
-34717635	Limited Plasmodium sporozoite gliding motility in the absence of TRAP family adhesins.
-34717583	Associations between environmental covariates and temporal changes in malaria incidence in high transmission settings of Uganda: a distributed lag nonlinear analysis.
-34717044	Adenine Modification at C7 as a Viable Strategy to Potentiate the Antimalarial Activity of Quinolones.
-34716632	Role of unique loops in oligomerization and ATPase function of Plasmodium falciparum gyrase B.
