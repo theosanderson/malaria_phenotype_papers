@@ -1,3 +1,10 @@
+38108082	The problem of antimalarial resistance and its implications for drug discovery.
+38107179	Naphthyl bearing 1,3,4-thiadiazoleacetamides targeting the parasitic folate pathway as anti-infectious agents: in silico, synthesis, and biological approach.
+38106223	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
+38106175	Translation inhibition efficacy does not determine the Plasmodium berghei liver stage antiplasmodial efficacy of protein synthesis inhibitors.
+38105992	Single cell transcriptional changes across the blood stages of artemisinin resistant K13 (C)(580)(Y) mutant Plasmodium falciparum upon dihydroartemisinin exposure.
+38105988	Temperature dependence of mosquitoes: comparing mechanistic and machine learning approaches.
+38105972	Detection of Duffy Blood Group Genotypes and Submicroscopic Plasmodium Infections Using Molecular Diagnostic Assays in Febrile Malaria Patients.
 38105269	Overexpression of microRNA-205-5p promotes cholangiocarcinoma growth by reducing expression of homeodomain-interacting protein kinase 3.
 38105258	Impact of 1,7-malaria reactive community-based testing and response (1,7-mRCTR) approach on malaria prevalence in Tanzania.
 38104629	SEROPREVALENCE TO SCHISTOSOMA SOLUBLE EGG ANTIGEN AMONG NOMADIC PASTORALISTS RESIDING IN NORTHERN SENEGAL.
@@ -92,6 +99,7 @@
 38076990	First detection of Anopheles stephensi in Ghana using molecular surveillance.
 38076857	Network Profile: Improving Response to Malaria in the Amazon through Identification of Inter-Community Networks and Human Mobility in Border Regions of Ecuador, Peru, and Brazil.
 38076851	CR1 variants contribute to FSGS susceptibility across multiple populations.
+38076831	Immunity to non-dengue flaviviruses impacts dengue virus IgG ELISA specificity in Cambodia.
 38076253	Clinical and laboratory characteristics of children with sickle cell disease on hydroxyurea treated with artemether-lumefantrine for acute uncomplicated malaria.
 38076132	Safety and antimalarial therapeutic index of alkaloid-rich extract of Phyllanthus amarus Schumach. & Thonn. in mice.
 38076053	Genetic diversity and phylogeny of Anopheles nuneztovari C and Anopheles albimanus, vectors of malaria in the department of Córdoba, Colombia.
@@ -9989,11 +9997,3 @@
 34717583	Associations between environmental covariates and temporal changes in malaria incidence in high transmission settings of Uganda: a distributed lag nonlinear analysis.
 34717044	Adenine Modification at C7 as a Viable Strategy to Potentiate the Antimalarial Activity of Quinolones.
 34716632	Role of unique loops in oligomerization and ATPase function of Plasmodium falciparum gyrase B.
-34716389	Magnitude of low birthweight in malaria endemic settings of Nanoro, rural Burkina Faso: a secondary data analysis.
-34716185	Cutting Edge: Subunit Booster Vaccination Confers Sterilizing Immunity against Liver-Stage Malaria in Mice Initially Primed with a Weight-Normalized Dose of Radiation-Attenuated Sporozoites.
-34716158	Is improvement in indicators of women's empowerment associated with uptake of WHO recommended IPTp-SP levels in sub-Saharan Africa? A multilevel approach.
-34715938	Adherence to antihypertensive medications in rural Lao PDR: a prospective observational study.
-34715918	Aetiology and outcome of non-traumatic coma in African children: protocol for a systematic review and meta-analysis.
-34715886	Prevalence of asymptomatic malaria, submicroscopic parasitaemia and anaemia in Korogwe District, north-eastern Tanzania.
-34715876	Plasmodium malariae infections as a cause of febrile disease in an area of high Plasmodium falciparum transmission intensity in Eastern Uganda.
-34715869	Effect of roof colour on indoor temperature and human comfort levels, with implications for malaria control: a pilot study using experimental houses in rural Gambia.
