@@ -1,3 +1,7 @@
+38111629	Merozoite surface protein 1 paralog is involved in the human erythrocyte invasion of a zoonotic malaria, Plasmodium knowlesi.
+38111310	Monocytes warning for malaria.
+38110952	Anopheles gambiae s.s. resistance to pyrethroids and DDT in semi-urban and rural areas of the Moyen-Ogooué Province, Gabon.
+38110569	Acid phosphatase-like proteins, a biogenic amine and leukotriene-binding salivary protein family from the flea Xenopsylla cheopis.
 38110522	Thrombopoietin-independent generation of platelet-like particles from megakaryoblastic cells.
 38109778	Out of Africa: increasing reports of artemether-lumefantrine treatment failures of uncomplicated plasmodium falciparum infection.
 38109166	An in-silico approach to identify bioactive phytochemicals from Houttuynia cordata Thunb. As potential inhibitors of human glutathione reductase.
@@ -9993,7 +9997,3 @@
 34718641	An Invariant Protein That Colocalizes With VAR2CSA on Plasmodium falciparum-Infected Red Cells Binds to Chondroitin Sulfate A.
 34718636	Development of Inapparent Dengue Associated With Increased Antibody Levels to Aedes aegypti Salivary Proteins: A Longitudinal Dengue Cohort in Cambodia.
 34718631	Association of Immunoglobulin G3 Hinge Region Length Polymorphism With Cerebral Malaria in Ghanaian Children.
-34718535	RNAseq-based gene expression profiling of the Anopheles funestus pyrethroid-resistant strain FUMOZ highlights the predominant role of the duplicated CYP6P9a/b cytochrome P450s.
-34718455	A Dual, Systematic Approach to Malaria Diagnostic Biomarker Discovery.
-34717809	Karamojong people embrace malaria chemoprevention.
-34717734	Predictive markers of transmission in areas with different malaria endemicity in north-eastern Tanzania based on seroprevalence of antibodies against Plasmodium falciparum.
