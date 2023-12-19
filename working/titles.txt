@@ -1,3 +1,4 @@
+38109778	Out of Africa: increasing reports of artemether-lumefantrine treatment failures of uncomplicated plasmodium falciparum infection.
 38109166	An in-silico approach to identify bioactive phytochemicals from Houttuynia cordata Thunb. As potential inhibitors of human glutathione reductase.
 38109134	[Panorama epidemiológico de las enfermedades transmitidas por vectores: lecciones aprendidas y retos para romper el círculo].
 38108809	Atlas of Plasmodium falciparum intraerythrocytic development using expansion microscopy.
@@ -9996,4 +9997,3 @@
 34717809	Karamojong people embrace malaria chemoprevention.
 34717734	Predictive markers of transmission in areas with different malaria endemicity in north-eastern Tanzania based on seroprevalence of antibodies against Plasmodium falciparum.
 34717652	Effects of indoor air movement and ambient temperature on mosquito (Anopheles gambiae) behaviour around bed nets: implications for malaria prevention initiatives.
-34717642	Opening the policy blackbox: unravelling the process for changing national diagnostic and treatment guidelines for vivax malaria in seven countries.
