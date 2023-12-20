@@ -7,8 +7,8 @@
 38115011	TNFR1 signaling converging on FGF14 controls neuronal hyperactivity and sickness behavior in experimental cerebral malaria.
 38115002	Can incorporating genotyping data into efficacy estimators improve efficiency of early phase malaria vaccine trials?
 38114951	Post-malaria neurological syndrome (PMNS): a rare case report with brain biopsy findings.
-38114239	China's hidden role in malaria control and elimination in Africa.
 38114057	Higher platelet counts and platelet factors are associated with a reduction in Plasmodium falciparum parasite density in young Malian children.
+38114239	China's hidden role in malaria control and elimination in Africa.
 38113371	Detection and quantification of Babesia species intraerythrocytic parasites by flow cytometry.
 38113241	Public perceptions of Ebola vaccines and confidence in health services to treat Ebola, malaria, and tuberculosis: Findings from a cross-sectional household survey in Uganda, 2020.
 38113238	Putative purine nucleoside interacting residues in the malaria parasite purine uptake transporter PfENT1 are critical for transporter function.
