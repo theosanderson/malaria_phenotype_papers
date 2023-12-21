@@ -1,3 +1,5 @@
+38127359	Anopheles mosquitoes in Morocco: implication for public health and underlined challenges for Malaria re-establishment prevention under current and future climate conditions.
+38127294	Structure-based virtual screening against multiple Plasmodium falciparum kinases reveals antimalarial compounds.
 38125540	Bat-associated microbes: Opportunities and perils, an overview.
 38125201	SEIRS model for malaria transmission dynamics incorporating seasonality and awareness campaign.
 38124746	γδ T cells as immunotherapy for malaria: balancing challenges and opportunities.
@@ -9995,5 +9997,3 @@
 34728384	Adherence to antimalarial chemoprophylaxis among Israeli travelers visiting malaria-endemic areas.
 34728377	Serology for Plasmodium vivax surveillance: A novel approach to accelerate towards elimination.
 34728344	Ultra-long-acting (XLA) antivirals for chronic viral hepatitis.
-34727860	Congenital Malaria in Newborns Delivered to Malaria-infected Mothers in the Hilly Region of Northern India: Is it Deadly?
-34727790	Genetic variation patterns of β-thalassemia in Western Andalusia (Spain) reveal a structure of specific mutations within the Iberian Peninsula.
