@@ -1,3 +1,13 @@
+38118174	Mass Drug Administration to Reduce Malaria Transmission: A Systematic Review and Meta-Analysis.
+38118172	Development of WHO Recommendations for the Final Phase of Elimination and Prevention of Re-Establishment of Malaria.
+38118171	Mass Relapse Prevention to Reduce Transmission of Plasmodium vivax-A Systematic Review.
+38118168	Reducing Malaria Transmission through Reactive Indoor Residual Spraying: A Systematic Review.
+38118167	Targeted Test and Treat at Point of Entry to Reduce Importation of Malaria Parasites: A Systematic Review.
+38118166	Reactive Case Detection and Treatment and Reactive Drug Administration for Reducing Malaria Transmission: A Systematic Review and Meta-Analysis.
+38118164	Development of Systematic Reviews to Inform WHO's Recommendations for Elimination and Prevention of Re-Establishment of Malaria: Methodology.
+38117828	Mechanical forces control the valency of the malaria adhesin VAR2CSA by exposing cryptic glycan binding sites.
+38117782	Delays in seeking treatment for fever in children under five years of age in Nigeria: Evidence from the National Demographic Health Survey.
+38117744	Corruption is making people sick.
 38116518	Bridging the gaps in newborn screening programmes: Challenges and opportunities to detect haemoglobinopathies in Africa.
 38116432	MAIP: An Open-Source Tool to Enrich High-Throughput Screening Output and Identify Novel, Druglike Molecules with Antimalarial Activity.
 38116430	Characterization of 2,4-Dianilinopyrimidines Against Five P. falciparum Kinases PfARK1, PfARK3, PfNEK3, PfPK9, and PfPKB.
@@ -9987,13 +9997,3 @@
 34724775	Prevalence and Intensity of Opisthorchis viverrini Metacercarial Infection in Fish from Phnom Penh, Takeo, and Kandal Provinces, Cambodia.
 34724773	Detection of Gnathostoma spinigerum Advanced 3rd-Stage Larvae in the Chinese Edible Frog, Hoplobatrachus rugulosus, from Local Markets in Phnom Penh, Cambodia.
 34724772	Awareness and Opinions of Inhabitants on Vivax Malaria in Two Endemic Areas, Gyeonggi-do, Korea.
-34724771	An Epidemiological Analysis of 28 Vivax Malaria Cases in Gimpo-si, Korea, 2020.
-34724763	A Profile of Glucose-6-Phosphate Dehydrogenase Variants and Deficiency of Multicultural Families in Korea.
-34724729	A New Thienopyrimidinone Chemotype Shows Multistage Activity against Plasmodium falciparum, Including Artemisinin-Resistant Parasites.
-34724629	Improved Detectability of Plasmodium falciparum Clones with Repeated Sampling in Incident and Chronic Infections in Burkina Faso.
-34724628	High Prevalence of Asymptomatic Malarial Anemia and Association with Early Conversion from Asymptomatic to Symptomatic Infection in a Plasmodium falciparum Hyperendemic Setting in Cameroon.
-34724625	Severe Keratitis Caused by Acanthamoeba Genotype T12 in Thailand: A Case Report.
-34724388	A Mosquito AgTRIO Monoclonal Antibody Reduces Early Plasmodium Infection of Mice.
-34723971	Transcriptomic and proteomic analysis of pyrethroid resistance in the CKR strain of Aedes aegypti.
-34723630	In Vitro Antimalarial Activity of Inhibitors of the Human GTPase Rac1.
-34723228	Current malaria infection, previous malaria exposure, and clinical profiles and outcomes of COVID-19 in a setting of high malaria transmission: an exploratory cohort study in Uganda.
