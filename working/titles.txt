@@ -1,14 +1,13 @@
+38125540	Bat-associated microbes: Opportunities and perils, an overview.
+38125201	SEIRS model for malaria transmission dynamics incorporating seasonality and awareness campaign.
+38124746	γδ T cells as immunotherapy for malaria: balancing challenges and opportunities.
+38124700	Investigating the association between various platelet indices and different clinical sub-groups of severe malaria.
 38123677	The PfRCR complex bridges malaria parasite and erythrocyte during invasion.
 38123476	Association of alpha globin gene copy number with exhaled nitric oxide in a cross-sectional study of healthy Black adults.
 38123228	Safety and efficacy of primaquine in patients with Plasmodium vivax malaria from South Asia: a systematic review and individual patient data meta-analysis.
 38123008	Fluvastatin prevents lung metastasis in triple-negative breast cancer by triggering autophagy via the RhoB/PI3K/mTOR pathway.
 38122914	Brazilian plants with antimalarial activity: A review of the period from 2011 to 2022.
 38122856	The visualization of the spatial distribution of Cocculus orbiculatus based on air flow-assisted desorption electrospray ionization mass spectrometry imaging.
-38122048	Malaria Not the Cause of Fever.
-38120783	On Malaria in Connection with Medical Topography.
-38119926	Contributions to the History of Malaria.
-38119794	On the Cause of Malaria.
-38119580	Contribution to the History of Malaria: In a Letter from Dr. R. S. Holmes, of the Medical Staff of the United States Army, to Professor Dunglison.
 38118322	Deforestation and child health in Cambodia.
 38118174	Mass Drug Administration to Reduce Malaria Transmission: A Systematic Review and Meta-Analysis.
 38118172	Development of WHO Recommendations for the Final Phase of Elimination and Prevention of Re-Establishment of Malaria.
@@ -275,7 +274,7 @@
 38032605	Tasmaniomyxa umbilicata, a new genus and new species of myxomycete from Tasmania.
 38032502	In-silico analysis of potent Mosquirix vaccine adjuvant leads.
 38031549	Comparison of molecular surveillance methods to assess changes in the population genetics of Plasmodium falciparum in high transmission.
-38031496	Prospective cohort study linking migration, climate and malaria risk in the Peruvian Amazon.
+38031496	A prospective cohort study linking migration, climate, and malaria risk in the Peruvian Amazon.
 38031175	A cross-sectional study to ascertain malaria prevalence among asymptomatic travellers arriving on the Lihir Group of Islands, Papua New Guinea: implications for elimination efforts.
 38031086	Master statistical analysis plan: attractive targeted sugar bait phase III trials in Kenya, Mali, and Zambia.
 38030676	Evaluating the stability of host-reference gene expression and simultaneously quantifying parasite burden and host immune responses in murine malaria.
@@ -9997,3 +9996,4 @@
 34728377	Serology for Plasmodium vivax surveillance: A novel approach to accelerate towards elimination.
 34728344	Ultra-long-acting (XLA) antivirals for chronic viral hepatitis.
 34727860	Congenital Malaria in Newborns Delivered to Malaria-infected Mothers in the Hilly Region of Northern India: Is it Deadly?
+34727790	Genetic variation patterns of β-thalassemia in Western Andalusia (Spain) reveal a structure of specific mutations within the Iberian Peninsula.
