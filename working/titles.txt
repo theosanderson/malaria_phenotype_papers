@@ -1,3 +1,7 @@
+38128025	The RNA-binding KH-domain in the unique transcription factor of the malaria parasite is responsible for its transcriptional regulatory activity.
+38127909	Factors associated with malaria infection among children after distribution of PBO-pyrethroid synergist-treated nets and indoor residual spraying in north-western Tanzania.
+38127749	2024 looms.
+38127641	Imported malaria into Australia: surveillance insights and opportunities.
 38127359	Anopheles mosquitoes in Morocco: implication for public health and underlined challenges for Malaria re-establishment prevention under current and future climate conditions.
 38127294	Structure-based virtual screening against multiple Plasmodium falciparum kinases reveals antimalarial compounds.
 38125540	Bat-associated microbes: Opportunities and perils, an overview.
@@ -9993,7 +9997,3 @@
 34730376	Bloom Helicase Along with Recombinase Rad51 Repairs the Mitochondrial Genome of the Malaria Parasite.
 34730282	Physiologically based pharmacokinetic modeling for dose optimization of quinine-phenobarbital coadministration in patients with cerebral malaria.
 34729391	Calling for a planetary and one health vision for global health.
-34728971	Cerebral Malaria in A Patient with COVID-19.
-34728384	Adherence to antimalarial chemoprophylaxis among Israeli travelers visiting malaria-endemic areas.
-34728377	Serology for Plasmodium vivax surveillance: A novel approach to accelerate towards elimination.
-34728344	Ultra-long-acting (XLA) antivirals for chronic viral hepatitis.
