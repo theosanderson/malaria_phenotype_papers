@@ -1,3 +1,15 @@
+38133451	Record Linkage for Malaria Deaths Data Recovery and Surveillance in Brazil.
+38133442	Medicines for Malaria Venture Pandemic Box In Vitro Screening Identifies Compounds Highly Active against the Tachyzoite Stage of Toxoplasma gondii.
+38133328	Plasmodium vivax Malaria and G6PD Testing.
+38133277	Adherence to Anti-Malarial Treatment in Malaria Endemic Areas of Bangladesh.
+38133274	Pathology of Severe Malaria.
+38132930	Therapeutic Potential of Marine-Derived Cyclic Peptides as Antiparasitic Agents.
+38132724	Apicomplexan phosphodiesterases in cyclic nucleotide turnover: conservation, function, and therapeutic potential.
+38132684	YOLO-PAM: Parasite-Attention-Based Model for Efficient Malaria Detection.
+38132614	Mosquitoes Possess Specialized Cuticular Proteins That Are Evolutionarily Related to the Elastic Protein Resilin.
+38132182	A computational method for predicting the most likely evolutionary trajectories in the step-wise accumulation of resistance mutations.
+38131883	Effects of COVID-19-Associated Infection Control on the Pattern of Infections Imported by German Soldiers and Police Officers Returning from Predominantly Tropical Deployment Sites.
+38131664	Plasmodium female gamete surface HSP90 is a key determinant for fertilization.
 38131156	Disruption of a Plasmodium falciparum patatin-like phospholipase delays male gametocyte exflagellation.
 38130719	Feasibility and acceptability of undertaking postmortem studies for tuberculosis medical research in a low income country.
 38130691	Predicting Plasmodium falciparum kinase inhibitors from antimalarial medicinal herbs using computational modeling approach.
@@ -9985,15 +9997,3 @@
 34737736	Non-Coding RNAs in the Etiology and Control of Major and Neglected Human Tropical Diseases.
 34737733	Myeloperoxidase and Other Markers of Neutrophil Activation Associate With Malaria and Malaria/HIV Coinfection in the Human Placenta.
 34737477	Improving malaria control by understanding human behaviour.
-34737005	Artemisia annua L. hot-water extracts show potent activity in vitro against Covid-19 variants including delta.
-34736524	Malaria and curable sexually transmitted and reproductive tract coinfection among pregnant women in rural Burkina Faso.
-34735984	Virus-like particles against infectious disease and cancer: guidance for the nano-architect.
-34735120	The Future in Sensing Technologies for Malaria Surveillance: A Review of Hemozoin-Based Diagnosis.
-34734470	Anterior-posterior patterning of segments in Anopheles stephensi offers insights into the transition from sequential to simultaneous segmentation in holometabolous insects.
-34734225	2-Methylthio-N7-methyl-cis-zeatin, a new antimalarial natural product isolated from a Streptomyces culture.
-34733899	Obesity and the Bidirectional Risk of Cancer and Cardiovascular Diseases in African Americans: Disparity vs. Ancestry.
-34733393	Prevalence, density and predictors of malaria parasitaemia among ill young Nigerian infants.
-34733380	Gaps in the implementation of COVID-19 mitigation measures could lead to development of new strains of antimicrobial resistant pathogens: Nigerian perspective.
-34733286	β2-Adrenergic Receptor Enhances the Alternatively Activated Macrophages and Promotes Biliary Injuries Caused by Helminth Infection.
-34733274	APC-Targeted DNA Vaccination Against Reticulocyte-Binding Protein Homolog 5 Induces Plasmodium falciparum-Specific Neutralizing Antibodies and T Cell Responses.
-34732799	Direct association between rainfall and non-typhoidal Salmonella bloodstream infections in hospital-admitted children in the Democratic Republic of Congo.
