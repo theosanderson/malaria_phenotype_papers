@@ -1,3 +1,9 @@
+38131156	Disruption of a Plasmodium falciparum patatin-like phospholipase delays male gametocyte exflagellation.
+38130719	Feasibility and acceptability of undertaking postmortem studies for tuberculosis medical research in a low income country.
+38130691	Predicting Plasmodium falciparum kinase inhibitors from antimalarial medicinal herbs using computational modeling approach.
+38130405	Antinociceptive and antiinflammatory activities of crude leave extract and solvent fractions of Commelina latifolia Hochst. ex C.B.Clarke (Commelinaceae) leaves in murine model.
+38129897	Perspectives of African stakeholders on gene drives for malaria control and elimination: a multi-country survey.
+38129880	Vectorial competence, insecticide resistance in Anopheles funestus and operational implications for malaria vector control strategies in Benin Republic.
 38129511	Perceptions of the seriousness of major public health problems during the COVID-19 pandemic in seven middle-income countries.
 38129281	Time to drop the term 'simian malaria parasites'.
 38129280	Molecular markers for malaria genetic epidemiology: progress and pitfalls.
@@ -9991,9 +9997,3 @@
 34733286	β2-Adrenergic Receptor Enhances the Alternatively Activated Macrophages and Promotes Biliary Injuries Caused by Helminth Infection.
 34733274	APC-Targeted DNA Vaccination Against Reticulocyte-Binding Protein Homolog 5 Induces Plasmodium falciparum-Specific Neutralizing Antibodies and T Cell Responses.
 34732799	Direct association between rainfall and non-typhoidal Salmonella bloodstream infections in hospital-admitted children in the Democratic Republic of Congo.
-34732664	Identification and characterization of murine adipose tissue-derived somatic stem cells of Shenque (CV8) acupoint.
-34732201	Efficacy of artesunate-amodiaquine and artemether-lumefantrine for uncomplicated Plasmodium falciparum malaria in Madagascar, 2018.
-34732150	Baseline malaria prevalence at the targeted pre-elimination districts in Ethiopia.
-34731605	Expeditious recruitment of circulating memory CD8 T cells to the liver facilitates control of malaria.
-34730752	The socio-environmental production of malaria in three municipalities in the Carajás region, Pará, Brazil.
-34730691	[Access to medicines and South-South cooperation: a case study on joint drug price negotiations in South America].
