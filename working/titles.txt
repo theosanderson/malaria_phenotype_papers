@@ -1,3 +1,19 @@
+38141067	The association between haemosporidian infection and non-breeding moult location in great reed warblers revisited by combining feather stable isotope profiles and geolocator data.
+38140657	Phenotypical Screening of an MMV Open Box Library and Identification of Compounds with Antiviral Activity against St. Louis Encephalitis Virus.
+38140205	Acceptance of and Adherence to a Four-Dose RTS,S/AS01 Schedule: Findings from a Longitudinal Qualitative Evaluation Study for the Malaria Vaccine Implementation Programme.
+38140193	Immunogenicity, Efficacy, and Safety of a Novel Synthetic Microparticle Pre-Erythrocytic Malaria Vaccine in Multiple Host Species.
+38140134	Rapid Study on Mefloquine Hydrochloride Complexation with Hydroxypropyl-β-Cyclodextrin and Randomly Methylated β-Cyclodextrin: Phase Diagrams, Nuclear Magnetic Resonance Analysis, and Stability Assessment.
+38139835	Synthesis, Antimalarial, Antileishmanial, and Cytotoxicity Activities and Preliminary In Silico ADMET Studies of 2-(7-Chloroquinolin-4-ylamino)ethyl Benzoate Derivatives.
+38139243	Parallel Synthesis of Piperazine Tethered Thiazole Compounds with Antiplasmodial Activity.
+38138934	An Assessment of the Knowledge and Perceptions of Precision Medicine (PM) in the Rwandan Healthcare Setting.
+38136946	Imidazolopiperazine (IPZ)-Induced Differential Transcriptomic Responses on Plasmodium falciparum Wild-Type and IPZ-Resistant Mutant Parasites.
+38136717	Editorial for the Special Issue: "The Issue of Multidrug-Resistant Pathogens in Nosocomial Infections".
+38136285	Modulation of Epstein-Barr-Virus (EBV)-Associated Cancers by Co-Infections.
+38135228	Targeted screening of the synergistic components in Artemisia annua L. leading to enhanced antiplasmodial potency of artemisinin based on a "top down" PD-PK approach.
+38135133	Nanoparticle-tracking analysis of natural hemozoin from Plasmodium parasites.
+38135870	In-vitro antimalarial activity of methanolic leaf- and stem-derived extracts from four Annonaceae plants.
+38135737	Contribution to ecological environmental factors and the occurrence of haemosporidians in birds in Zhongar Alatau National Park, Kazakhstan.
+38135513	Improving Malaria Case Management and Referral Relationships at the Primary Care Level in Ghana: Evaluation of a Quality Assurance Internship.
 38134753	A positive correlation between mutated gene of sickle cell anemia and glucose-6-phosphate dehydrogenase among gond tribes of Chhattisgarh, India.
 38134663	Structure activity relationship and target prediction for ABX464 analogues in Caenorhabditis elegans.
 38134523	Recent advances in the synthesis and antimalarial activity of 1,2,4-trioxanes.
@@ -9981,19 +9997,3 @@
 34748332	Artemisinin Cocrystals for Bioavailability Enhancement. Part 2: In Vivo Bioavailability and Physiologically Based Pharmacokinetic Modeling.
 34748264	Barriers to seeking health care among returning travellers with malaria: A systematic review.
 34747601	Structure, Function, and Thermodynamics of Lactate Dehydrogenases from Humans and the Malaria Parasite P. falciparum.
-34747313	A noncanonical autophagy is involved in the transfer of Plasmodium-microvesicles to astrocytes.
-34746931	Antimicrobial resistance detection in Southeast Asian hospitals is critically important from both patient and societal perspectives, but what is its cost?
-34746720	Intermittent screening and treatment with artemisinin-combination therapy versus intermittent preventive treatment with sulphadoxine-pyrimethamine for malaria in pregnancy: a systematic review and individual participant data meta-analysis of randomised clinical trials.
-34746078	Point of Care Testing for Infectious Disease in Europe: A Scoping Review and Survey Study.
-34746025	Host Blood Gene Signatures Can Detect the Progression to Severe and Cerebral Malaria.
-34745816	Chemoprophylaxis under sporozoites-lumefantrine (CPS-LMF) immunization induce protective immune responses against Plasmodium yoelii sporozoites infection in mice.
-34745448	Community awareness and experiences of health workers concerning mosquito-borne viral diseases in selected districts of Gambella Region, Southwestern Ethiopia.
-34744577	Leveraging Automated Machine Learning for the Analysis of Global Public Health Data: A Case Study in Malaria.
-34743163	Preferences for Shigellosis-Related Health Promotion Materials for Gay, Bisexual, and Other Men Who Have Sex With Men: Results From a Qualitative Assessment, Atlanta, GA.
-34742282	Practices of anti-malaria pharmaceuticals inventory control system and associated challenges in public health facilities of Oromiya special zone, Amhara region, Ethiopia.
-34742257	Evaluating kidney function using a point-of-care creatinine test in Ugandan children with severe malaria: a prospective cohort study.
-34742229	Osteopontin and malaria: no direct effect on parasite growth, but correlation with P. falciparum-specific B cells and BAFF in a malaria endemic area.
-34741871	Sinigrin in combination with artesunate provides protection against lethal murine malaria via falcipain-3 inhibition and immune modulation.
-34741481	Understanding the binding mechanism for potential inhibition of SARS-CoV-2 Mpro and exploring the modes of ACE2 inhibition by hydroxychloroquine.
-34740928	Joint international consensus statement on crowdsourcing challenge contests in health and medicine: results of a modified Delphi process.
-34739519	Determinants of improvement trends in health workers' compliance with outpatient malaria case-management guidelines at health facilities with available "test and treat" commodities in Kenya.
