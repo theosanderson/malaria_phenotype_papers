@@ -1,3 +1,7 @@
+38134753	A positive correlation between mutated gene of sickle cell anemia and glucose-6-phosphate dehydrogenase among gond tribes of Chhattisgarh, India.
+38134663	Structure activity relationship and target prediction for ABX464 analogues in Caenorhabditis elegans.
+38134523	Recent advances in the synthesis and antimalarial activity of 1,2,4-trioxanes.
+38134305	Seroreversion to Chlamydia trachomatis Pgp3 antigen among children in a hyperendemic region of Amhara, Ethiopia.
 38133451	Record Linkage for Malaria Deaths Data Recovery and Surveillance in Brazil.
 38133442	Medicines for Malaria Venture Pandemic Box In Vitro Screening Identifies Compounds Highly Active against the Tachyzoite Stage of Toxoplasma gondii.
 38133328	Plasmodium vivax Malaria and G6PD Testing.
@@ -9993,7 +9997,3 @@
 34741481	Understanding the binding mechanism for potential inhibition of SARS-CoV-2 Mpro and exploring the modes of ACE2 inhibition by hydroxychloroquine.
 34740928	Joint international consensus statement on crowdsourcing challenge contests in health and medicine: results of a modified Delphi process.
 34739519	Determinants of improvement trends in health workers' compliance with outpatient malaria case-management guidelines at health facilities with available "test and treat" commodities in Kenya.
-34738450	[Study of the prevalence of antibodies to some arboviruses in the population of the Republic of Guinea].
-34737736	Non-Coding RNAs in the Etiology and Control of Major and Neglected Human Tropical Diseases.
-34737733	Myeloperoxidase and Other Markers of Neutrophil Activation Associate With Malaria and Malaria/HIV Coinfection in the Human Placenta.
-34737477	Improving malaria control by understanding human behaviour.
