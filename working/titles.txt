@@ -1,3 +1,6 @@
+38142196	Anopheles stephensi ecology and control in Africa.
+38141766	Identification and structural validation of purine nucleoside phosphorylase from Plasmodium falciparum as a target of MMV00848.
+38141396	Harnessing CRISPR-based molecular diagnosis in the fight against malaria.
 38141067	The association between haemosporidian infection and non-breeding moult location in great reed warblers revisited by combining feather stable isotope profiles and geolocator data.
 38140657	Phenotypical Screening of an MMV Open Box Library and Identification of Compounds with Antiviral Activity against St. Louis Encephalitis Virus.
 38140205	Acceptance of and Adherence to a Four-Dose RTS,S/AS01 Schedule: Findings from a Longitudinal Qualitative Evaluation Study for the Malaria Vaccine Implementation Programme.
@@ -13,7 +16,7 @@
 38135737	Contribution to ecological environmental factors and the occurrence of haemosporidians in birds in Zhongar Alatau National Park, Kazakhstan.
 38135513	Improving Malaria Case Management and Referral Relationships at the Primary Care Level in Ghana: Evaluation of a Quality Assurance Internship.
 38135228	Targeted screening of the synergistic components in Artemisia annua L. leading to enhanced antiplasmodial potency of artemisinin based on a "top down" PD-PK approach.
-38135133	Nanoparticle-tracking analysis of natural hemozoin from Plasmodium parasites.
+38135133	Nanoparticle tracking analysis of natural hemozoin from Plasmodium parasites.
 38134753	A positive correlation between mutated gene of sickle cell anemia and glucose-6-phosphate dehydrogenase among gond tribes of Chhattisgarh, India.
 38134663	Structure activity relationship and target prediction for ABX464 analogues in Caenorhabditis elegans.
 38134523	Recent advances in the synthesis and antimalarial activity of 1,2,4-trioxanes.
@@ -9994,6 +9997,3 @@
 34748617	The P. falciparum CSP repeat region contains three distinct epitopes required for protection by antibodies in vivo.
 34748558	Cost-effectiveness of point-of-care C-Reactive Protein test compared to current clinical practice as an intervention to improve antibiotic prescription in malaria-negative patients in Afghanistan.
 34748348	Antimicrobial and Cytotoxic Angucyclic Quinones from Actinomadura miaoliensis.
-34748332	Artemisinin Cocrystals for Bioavailability Enhancement. Part 2: In Vivo Bioavailability and Physiologically Based Pharmacokinetic Modeling.
-34748264	Barriers to seeking health care among returning travellers with malaria: A systematic review.
-34747601	Structure, Function, and Thermodynamics of Lactate Dehydrogenases from Humans and the Malaria Parasite P. falciparum.
