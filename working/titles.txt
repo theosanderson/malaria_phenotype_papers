@@ -1,3 +1,7 @@
+38144385	In Vitro Antimalarial Susceptibility of Plasmodium falciparum and Plasmodium berghei Isolates to Selected Antimalarial Agents, Column Chromatographic Subfractions of Glyphaea brevis Leaves Extract and FTIR and GCMS of SF8.
+38144376	In Silico Screening and Molecular Dynamics Simulation of Potential Anti-Malarial Agents from Zingiberaceae as Potential Plasmodium falciparum Lactate Dehydrogenase (PfLDH) Enzyme Inhibitors.
+38143905	Limited association between Wolbachia and Plasmodium falciparum infections in natural populations of the major malaria mosquito Anopheles moucheti.
+38143446	The millennial dynamics of malaria in the mediterranean basin: documenting Plasmodium spp. on the medieval island of Corsica.
 38142813	Apparent Khat chewers exposure to DDT in Ethiopia and its potential toxic effects: A scoping review.
 38142662	Artesunate in glioblastoma therapy: Case reports and review of clinical studies.
 38142196	Anopheles stephensi ecology and control in Africa.
@@ -9993,7 +9997,3 @@
 34749306	Assessing an Adaptation of the Universal Parasite Diagnostic Assay for Bloodborne Parasites in a US State Public Health Laboratory.
 34749303	Ten Years of Universal Testing: How the Rapid Diagnostic Test Became a Game Changer for Malaria Case Management and Improved Disease Reporting.
 34749300	Plasmodium falciparum rosetting protects schizonts against artemisinin.
-34748988	Severe imported Plasmodium falciparum malaria in children: characteristics and useful factors in the risk stratification.
-34748969	Plasmodium vivax gametocytes and transmission.
-34748707	An Open Drug Discovery Competition: Experimental Validation of Predictive Models in a Series of Novel Antimalarials.
-34748617	The P. falciparum CSP repeat region contains three distinct epitopes required for protection by antibodies in vivo.
