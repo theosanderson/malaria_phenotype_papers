@@ -1,3 +1,4 @@
+38146350	Comparative analysis of peripheral whole blood transcriptome from asymptomatic carriers reveals upregulation of subsets of surface proteins implicated in Plasmodium falciparum phenotypic plasticity.
 38144385	In Vitro Antimalarial Susceptibility of Plasmodium falciparum and Plasmodium berghei Isolates to Selected Antimalarial Agents, Column Chromatographic Subfractions of Glyphaea brevis Leaves Extract and FTIR and GCMS of SF8.
 38144376	In Silico Screening and Molecular Dynamics Simulation of Potential Anti-Malarial Agents from Zingiberaceae as Potential Plasmodium falciparum Lactate Dehydrogenase (PfLDH) Enzyme Inhibitors.
 38143905	Limited association between Wolbachia and Plasmodium falciparum infections in natural populations of the major malaria mosquito Anopheles moucheti.
@@ -105,7 +106,7 @@
 38107179	Naphthyl bearing 1,3,4-thiadiazoleacetamides targeting the parasitic folate pathway as anti-infectious agents: in silico, synthesis, and biological approach.
 38106223	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
 38106175	Translation inhibition efficacy does not determine the Plasmodium berghei liver stage antiplasmodial efficacy of protein synthesis inhibitors.
-38105992	Single cell transcriptional changes across the blood stages of artemisinin resistant K13 (C)(580)(Y) mutant Plasmodium falciparum upon dihydroartemisinin exposure.
+38105992	Single cell transcriptional changes across the blood stages of artemisinin resistant K13(C580Y) mutant Plasmodium falciparum upon dihydroartemisinin exposure.
 38105988	Temperature dependence of mosquitoes: comparing mechanistic and machine learning approaches.
 38105972	Detection of Duffy Blood Group Genotypes and Submicroscopic Plasmodium Infections Using Molecular Diagnostic Assays in Febrile Malaria Patients.
 38105269	Overexpression of microRNA-205-5p promotes cholangiocarcinoma growth by reducing expression of homeodomain-interacting protein kinase 3.
@@ -9996,4 +9997,3 @@
 34749308	Evaluation of the Point-of-Care Circulating Cathodic Antigen Assay for Monitoring Mass Drug Administration in a Schistosoma mansoni Control Program in Western Kenya.
 34749306	Assessing an Adaptation of the Universal Parasite Diagnostic Assay for Bloodborne Parasites in a US State Public Health Laboratory.
 34749303	Ten Years of Universal Testing: How the Rapid Diagnostic Test Became a Game Changer for Malaria Case Management and Improved Disease Reporting.
-34749300	Plasmodium falciparum rosetting protects schizonts against artemisinin.
