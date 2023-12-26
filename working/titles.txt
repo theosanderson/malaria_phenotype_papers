@@ -1,3 +1,6 @@
+38147068	Delayed Plasmodium falciparum Malaria in Pregnant Patient with Sickle Cell Trait 11 Years after Exposure, Oregon, USA.
+38146774	Antimalarial activities of benzothiazole analogs: A systematic review.
+38146720	Clinical Profile and Treatment Outcomes of Patients with Malaria Complicated by Acute Kidney Injury.
 38146350	Comparative analysis of peripheral whole blood transcriptome from asymptomatic carriers reveals upregulation of subsets of surface proteins implicated in Plasmodium falciparum phenotypic plasticity.
 38144385	In Vitro Antimalarial Susceptibility of Plasmodium falciparum and Plasmodium berghei Isolates to Selected Antimalarial Agents, Column Chromatographic Subfractions of Glyphaea brevis Leaves Extract and FTIR and GCMS of SF8.
 38144376	In Silico Screening and Molecular Dynamics Simulation of Potential Anti-Malarial Agents from Zingiberaceae as Potential Plasmodium falciparum Lactate Dehydrogenase (PfLDH) Enzyme Inhibitors.
@@ -9994,6 +9997,3 @@
 34749312	Malaria Epidemiology Along the Indian Districts Bordering Bhutan and Implications for Malaria Elimination in the Region.
 34749311	Assessing the Impact of Substandard and Falsified Antimalarials in Benin.
 34749309	Detection of Pathogens of Acute Febrile Illness Using Polymerase Chain Reaction from Dried Blood Spots.
-34749308	Evaluation of the Point-of-Care Circulating Cathodic Antigen Assay for Monitoring Mass Drug Administration in a Schistosoma mansoni Control Program in Western Kenya.
-34749306	Assessing an Adaptation of the Universal Parasite Diagnostic Assay for Bloodborne Parasites in a US State Public Health Laboratory.
-34749303	Ten Years of Universal Testing: How the Rapid Diagnostic Test Became a Game Changer for Malaria Case Management and Improved Disease Reporting.
