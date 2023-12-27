@@ -1,3 +1,7 @@
+38149448	Investigation of Malaria, Leishmaniasis, and Scabies Risk after Earthquakes and Recommendations for Prevention.
+38149439	Unpleasant Souvenir: Imported Plasmodium falciparum Malaria in Türkiye.
+38148574	The Plasmodium falciparum CCCH zinc finger protein MD3 regulates male gametocytogenesis through its interaction with RNA-binding proteins.
+38148539	[Quality of blood smear examinations for malaria parasites in Chenzhou City after malaria elimination].
 38147482	Synthesis, antiproliferative and antiplasmodial evaluation of new chloroquine and mefloquine-based harmiquins.
 38147068	Delayed Plasmodium falciparum Malaria in Pregnant Patient with Sickle Cell Trait 11 Years after Exposure, Oregon, USA.
 38146774	Antimalarial activities of benzothiazole analogs: A systematic review.
@@ -3871,7 +3875,7 @@
 36824880	An Optimized GATK4 Pipeline for Plasmodium falciparum Whole Genome Sequencing Variant Calling and Analysis.
 36824860	Early Treatment, Inflammation and Post-COVID Conditions.
 36824754	Comparative transcriptomics reveal differential gene expression in Plasmodium vivax geographical isolates and implications on erythrocyte invasion mechanisms.
-36824743	Expansion of GTP cyclohydrolase I copy number in malaria parasites resistant to a pyrimidine biosynthesis inhibitor.
+36824743	Direct long read visualization reveals metabolic interplay between two antimalarial drug targets.
 36824555	Silent Bowels From a Silent Bite: A Rare Case of Paralytic Ileus Complicating Plasmodium falciparum Infection.
 36823600	Public health determinants of child malaria mortality: a surveillance study within Siaya County, Western Kenya.
 36823266	Assessment of the drugability of initial malaria infection through miniaturized sporozoite assays and high-throughput screening.
@@ -3937,7 +3941,6 @@
 36798510	Diversity, distribution, and methodological considerations of haemosporidian infections among Galliformes in Alaska.
 36798298	Transmissibility of clinically relevant atovaquone-resistant Plasmodium falciparum by anopheline mosquitoes.
 36798264	Ex vivo RSA and Pfkelch13 targeted-amplicon deep sequencing reveal parasites susceptibility to artemisinin in Senegal, 2017.
-36798251	Seroreversion to Chlamydia trachomatis Pgp3 antigen among young children in a hyperendemic region of Amhara, Ethiopia.
 36798191	Plasmodium ARK2-EB1 axis drives the unconventional spindle dynamics, scaffold formation and chromosome segregation of sexual transmission stages.
 36797290	Native structure of mosquito salivary protein uncovers domains relevant to pathogen transmission.
 36795547	Malaria in Children: Updates on Management and Prevention.
@@ -9994,6 +9997,3 @@
 34750425	Prevalence, probability, and outcomes of typhoidal/non-typhoidal Salmonella and malaria co-infection among febrile patients: a systematic review and meta-analysis.
 34749835	Twenty years of integrated disease surveillance and response in Sub-Saharan Africa: challenges and opportunities for effective management of infectious disease epidemics.
 34749796	Global diversity of the gene encoding the Pfs25 protein-a Plasmodium falciparum transmission-blocking vaccine candidate.
-34749657	Role of health extension workers in the relationship between vector control interventions and malaria in Ethiopia.
-34749312	Malaria Epidemiology Along the Indian Districts Bordering Bhutan and Implications for Malaria Elimination in the Region.
-34749311	Assessing the Impact of Substandard and Falsified Antimalarials in Benin.
