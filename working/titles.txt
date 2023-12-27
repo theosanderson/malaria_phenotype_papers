@@ -1,3 +1,4 @@
+38149914	Inherently Reduced Expression of ASC Restricts Caspase-1 Processing in Hepatocytes and Promotes Plasmodium Infection.
 38149448	Investigation of Malaria, Leishmaniasis, and Scabies Risk after Earthquakes and Recommendations for Prevention.
 38149439	Unpleasant Souvenir: Imported Plasmodium falciparum Malaria in Türkiye.
 38148574	The Plasmodium falciparum CCCH zinc finger protein MD3 regulates male gametocytogenesis through its interaction with RNA-binding proteins.
@@ -9996,4 +9997,3 @@
 34750454	Deletion of Plasmodium falciparum ubc13 increases parasite sensitivity to the mutagen, methyl methanesulfonate and dihydroartemisinin.
 34750425	Prevalence, probability, and outcomes of typhoidal/non-typhoidal Salmonella and malaria co-infection among febrile patients: a systematic review and meta-analysis.
 34749835	Twenty years of integrated disease surveillance and response in Sub-Saharan Africa: challenges and opportunities for effective management of infectious disease epidemics.
-34749796	Global diversity of the gene encoding the Pfs25 protein-a Plasmodium falciparum transmission-blocking vaccine candidate.
