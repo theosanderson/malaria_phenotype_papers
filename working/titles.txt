@@ -1,3 +1,4 @@
+38152401	Novel antibody competition binding assay identifies distinct serological profiles associated with protection.
 38151075	Research progress on phosphatidylinositol 4-kinase inhibitors.
 38151069	Evaluating the Genetic Diversity of the Plasmodium vivax siap2 Locus: A Promising Candidate for an Effective Malaria Vaccine?
 38151048	CO-INFECTION WITH MALARIA AND INTESTINAL PARASITES AND ITS ASSOCIATION WITH ANEMIA IN CHILDREN (ZERO TO TEN YEARS OLD) IN TIKO SUBDIVISION, CAMEROON.
@@ -9996,4 +9997,3 @@
 34755820	Medicines for Malaria Venture COVID Box: a source for repurposing drugs with antifungal activity against human pathogenic fungi.
 34755385	PAD4 controls chemoattractant production and neutrophil trafficking in malaria.
 34755343	Insight of oral vaccines as an alternative approach to health and disease management: An innovative intuition and challenges.
-34755192	The Impact of Undernutrition on Cognition in Children with Severe Malaria and Community Children: A Prospective 2-Year Cohort Study.
