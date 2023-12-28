@@ -1,3 +1,4 @@
+38153595	Deciphering drug discovery and microbial pathogenesis research in tuberculosis during the two decades of postgenomic era using entity mining approach.
 38152401	Novel antibody competition binding assay identifies distinct serological profiles associated with protection.
 38151075	Research progress on phosphatidylinositol 4-kinase inhibitors.
 38151069	Evaluating the Genetic Diversity of the Plasmodium vivax siap2 Locus: A Promising Candidate for an Effective Malaria Vaccine?
@@ -117,7 +118,7 @@
 38110952	Anopheles gambiae s.s. resistance to pyrethroids and DDT in semi-urban and rural areas of the Moyen-Ogooué Province, Gabon.
 38110569	Acid phosphatase-like proteins, a biogenic amine and leukotriene-binding salivary protein family from the flea Xenopsylla cheopis.
 38110522	Thrombopoietin-independent generation of platelet-like particles from megakaryoblastic cells.
-38109778	Out of Africa: increasing reports of artemether-lumefantrine treatment failures of uncomplicated plasmodium falciparum infection.
+38109778	Out of Africa: Increasing reports of artemether-lumefantrine treatment failures of uncomplicated Plasmodium falciparum infection.
 38109166	An in-silico approach to identify bioactive phytochemicals from Houttuynia cordata Thunb. As potential inhibitors of human glutathione reductase.
 38109134	Epidemiological outlook for vector-borne diseases: Learned lessons and challenges to break the circle.
 38108809	Atlas of Plasmodium falciparum intraerythrocytic development using expansion microscopy.
@@ -9996,4 +9997,3 @@
 34756057	Characterization of Apicomplexan Amino Acid Transporters (ApiATs) in the Malaria Parasite Plasmodium falciparum.
 34755820	Medicines for Malaria Venture COVID Box: a source for repurposing drugs with antifungal activity against human pathogenic fungi.
 34755385	PAD4 controls chemoattractant production and neutrophil trafficking in malaria.
-34755343	Insight of oral vaccines as an alternative approach to health and disease management: An innovative intuition and challenges.
