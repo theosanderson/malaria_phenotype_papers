@@ -1,3 +1,12 @@
+38150744	TLR7 enhancing follicular helper T (Tfh) cells response in C57BL/6 mice infected with Plasmodium yoelii NSM TLR7 mediated Tfh cells in P. yoelii infected mice.
+38150741	Challenges in Diagnosing and Treating Acutely Febrile Children with Suspected Malaria at Health Care Facilities in the Lake Mwanza Region of Tanzania.
+38150737	Clinical Outreach Training and Supportive Supervision Quality-of-Care Analysis: Impact of Readiness Factors on Health Worker Competencies in Malaria Case Management in Cameroon, Mali, and Niger.
+38150733	Bridging the Gap from Molecular Surveillance to Programmatic Decisions for Malaria Control and Elimination.
+38150729	Susceptibility of Anopheles gambiae to Natural Plasmodium falciparum Infection: A Comparison between the Well-Established Anopheles gambiae s.s Line and a Newly Established Ugandan Anopheles gambiae s.s. Line.
+38150728	Use of Supervision Data to Improve Quality of Care for Malaria in Pregnancy: Experience in Six African Countries.
+38150563	Development and Characterization of Novel Chitosan-Coated Curcumin Nanophytosomes for Treating Drug-Resistant Malaria.
+38150475	Malaria parasite centrins can assemble by Ca2+-inducible condensation.
+38150471	Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand.
 38149914	Inherently Reduced Expression of ASC Restricts Caspase-1 Processing in Hepatocytes and Promotes Plasmodium Infection.
 38149448	Investigation of Malaria, Leishmaniasis, and Scabies Risk after Earthquakes and Recommendations for Prevention.
 38149439	Unpleasant Souvenir: Imported Plasmodium falciparum Malaria in Türkiye.
@@ -9988,12 +9997,3 @@
 34754798	Evaluation of the Anti-Plasmodial potential of Calotropis procera Latex in mice infected with Plasmodium berghei.
 34754120	Malaria's WHO moment.
 34753405	Population-specific adaptation in malaria-endemic regions of asia.
-34753009	The oncoprotective fever hypothesis: Have antibiotics, antimalarials and antipyrectics contributed to the global rise in cancer over the past century?
-34752634	T cells expressing multiple co-inhibitory molecules in acute malaria are not exhausted but exert a suppressive function in mice.
-34752334	Identifying Plasmodium falciparum receptor activation using bioluminescence resonance energy transfer (BRET)-based biosensors in HEK293 cells.
-34750654	High genetic diversity in Plasmodium falciparum isolates among Chinese migrant workers returnee from Africa.
-34750651	Infection rates, species diversity, and distribution of zoonotic Babesia parasites in ticks: a global systematic review and meta-analysis.
-34750624	Corrigendum to: Morphological Characterization of the Antennal Sensilla of the Afrotropical Sand Fly, Phlebotomus duboscqi (Diptera: Psychodidae).
-34750454	Deletion of Plasmodium falciparum ubc13 increases parasite sensitivity to the mutagen, methyl methanesulfonate and dihydroartemisinin.
-34750425	Prevalence, probability, and outcomes of typhoidal/non-typhoidal Salmonella and malaria co-infection among febrile patients: a systematic review and meta-analysis.
-34749835	Twenty years of integrated disease surveillance and response in Sub-Saharan Africa: challenges and opportunities for effective management of infectious disease epidemics.
