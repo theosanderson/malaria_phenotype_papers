@@ -132,6 +132,7 @@
 38105992	Single cell transcriptional changes across the blood stages of artemisinin resistant K13(C580Y) mutant Plasmodium falciparum upon dihydroartemisinin exposure.
 38105988	Temperature dependence of mosquitoes: comparing mechanistic and machine learning approaches.
 38105972	Detection of Duffy Blood Group Genotypes and Submicroscopic Plasmodium Infections Using Molecular Diagnostic Assays in Febrile Malaria Patients.
+38105461	Outpatient randomized controlled trials to reduce COVID-19 hospitalization: Systematic review and meta-analysis.
 38105269	Overexpression of microRNA-205-5p promotes cholangiocarcinoma growth by reducing expression of homeodomain-interacting protein kinase 3.
 38105258	Impact of 1,7-malaria reactive community-based testing and response (1,7-mRCTR) approach on malaria prevalence in Tanzania.
 38104629	SEROPREVALENCE TO SCHISTOSOMA SOLUBLE EGG ANTIGEN AMONG NOMADIC PASTORALISTS RESIDING IN NORTHERN SENEGAL.
@@ -9996,4 +9997,3 @@
 34756507	Complex infections in vivax malaria: the more you look, the more you find.
 34756057	Characterization of Apicomplexan Amino Acid Transporters (ApiATs) in the Malaria Parasite Plasmodium falciparum.
 34755820	Medicines for Malaria Venture COVID Box: a source for repurposing drugs with antifungal activity against human pathogenic fungi.
-34755385	PAD4 controls chemoattractant production and neutrophil trafficking in malaria.
