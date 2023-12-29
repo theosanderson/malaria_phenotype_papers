@@ -172,6 +172,7 @@
 38096889	Universal health coverage is fundamental to preparing for a healthier and better tomorrow.
 38096790	Vivax malaria and Duffy antigen: Stop being so negative.
 38096639	Malaria: A focused review for the emergency medicine clinician.
+30000766	Primaquine.
 38096210	MosChito rafts as a promising biocontrol tool against larvae of the common house mosquito, Culex pipiens.
 38095048	Pre-erythrocytic malaria vaccines: RTS,S, R21, and beyond.
 38094863	Applicability of Redirecting Artemisinins for New Targets.
@@ -9996,4 +9997,3 @@
 34758718	1,2,3-Triazole- and Quinoline-based Hybrids with Potent Antiplasmodial Activity.
 34758588	[The malaria breakthrough].
 34758414	The Angiopoietin-Tie2 axis contributes to placental vascular disruption and adverse birth outcomes in malaria in pregnancy.
-34757887	Tree Turmeric: A Super Food and Contemporary Nutraceutical of 21st Century - A Laconic Review.
