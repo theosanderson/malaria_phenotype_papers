@@ -1,7 +1,10 @@
-38154659	Meta-analysis on Plasmodium falciparum sulfadoxine-pyrimethamine resistance-conferring mutations in India identifies hot spots for genetic surveillance.
+38156320	SARS-CoV-2 decreases malaria severity in co-infected rodent models.
+38156001	Comparative analysis of codon usage patterns of Plasmodium helical interspersed subtelomeric (PHIST) proteins.
+38155768	Visual and thermal stimuli modulate mosquito-host contact with implications for improving malaria vector control tools.
 38155300	In silico prediction and in vitro assessment of novel heterocyclics with antimalarial activity.
 38155182	Utilizing a novel high-resolution malaria dataset for climate-informed predictions with a deep learning transformer model.
 38155156	The effectiveness of malaria camps as part of the malaria control program in Odisha, India.
+38154659	Meta-analysis on Plasmodium falciparum sulfadoxine-pyrimethamine resistance-conferring mutations in India identifies hot spots for genetic surveillance.
 38153595	Deciphering drug discovery and microbial pathogenesis research in tuberculosis during the two decades of postgenomic era using entity mining approach.
 38152401	Novel antibody competition binding assay identifies distinct serological profiles associated with protection.
 38151075	Research progress on phosphatidylinositol 4-kinase inhibitors.
@@ -572,7 +575,7 @@
 37953917	Malaria prevention during pregnancy: Implications for maternal and neonatal health in East Africa.
 37953832	Evaluation of the hydroalcoholic extract of Clarisia racemosa as an antiparasitic agent: an in vitro approach.
 37953812	Etiology of Fever and Associated Outcomes Among Adults Receiving Chemotherapy for the Treatment of Solid Tumors in Uganda.
-37952234	R21/Matrix-M™ malaria vaccine: a new tool to achieve WHO`s goal to eliminate malaria in 30 countries by 2030 ?
+37952234	R21/Matrix-M™ malaria vaccine: a new tool to achieve WHO's goal to eliminate malaria in 30 countries by 2030?
 37952150	Comparative spatial proteomics of Plasmodium-infected erythrocytes.
 37951942	A Bayesian spatio-temporal framework to assess the effect of seasonal malaria chemoprevention on children under 5 years in Cameroon from 2016 to 2021 using routine data.
 37951562	Bradykinin produced during Plasmodium falciparum erythrocytic cycle drives monocyte adhesion to human brain microvascular endothelial cells.
@@ -854,7 +857,7 @@
 37857597	Epidemiology of Plasmodium malariae and Plasmodium ovale spp. in Kinshasa Province, Democratic Republic of Congo.
 37857143	Novel thienopyrimidones targeting hepatic and erythrocytic stages of Plasmodium parasites with increased microsomal stability.
 37856690	Starch plays a key role in sporosorus formation by the powdery scab pathogen Spongospora subterranea.
-37856519	Non-human primate malaria in travelers.
+37856519	Non-human primate malaria in travellers.
 37856470	Intestinal injury and the gut microbiota in patients with Plasmodium falciparum malaria.
 37856468	Placental characteristics and neonatal weights among women with malaria-preeclampsia comorbidity and healthy pregnancies.
 37856157	Molecular Rotors: Fluorescent Sensors for Microviscosity and Conformation of Biomolecules.
@@ -1331,7 +1334,7 @@
 37695781	Antimalarial Dibenzannulated Medium-Ring Keto Lactams.
 37695760	Correction: Correction: Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi.
 37695429	Sex-Linked Differences in Malaria Risk Across the Lifespan.
-37694850	Challenges of plasmodium vivax and plasmodium knowlesi co-infection.
+37694850	Challenges of Plasmodium vivax and Plasmodium knowlesi co-infection.
 37694574	Improved estimates of foetal growth are associated with perinatal outcomes: A latent modelling approach in a population-based birth cohort.
 37693871	Analytical approaches for antimalarial antibody responses to confirm historical and recent malaria transmission: an example from the Philippines.
 37693705	Editorial: Diabetes in Africa in the 21st century: the unique and important challenge of diabetes in Africa, volume II.
@@ -9994,6 +9997,3 @@
 34758588	[The malaria breakthrough].
 34758414	The Angiopoietin-Tie2 axis contributes to placental vascular disruption and adverse birth outcomes in malaria in pregnancy.
 34757887	Tree Turmeric: A Super Food and Contemporary Nutraceutical of 21st Century - A Laconic Review.
-34757321	Validation of a Mobile Health Technology Platform (FeverTracker) for Malaria Surveillance in India: Development and Usability Study.
-34757090	How diseases caused by parasites allowed a wider understanding of disease in general: my encounters with parasitology in Australia and elsewhere over the last 50 years.
-34756988	The chaperone micronemal protein Hsp70-1 from Plasmodium berghei ookinetes is shed during gliding on solid surface sustrata.
