@@ -1,3 +1,4 @@
+38166422	Mosquito ageing modulates the development, virulence and transmission potential of pathogens.
 38165555	Antimalarial Drug Combination Predictions Using the Machine Learning Synergy Predictor (MLSyPred©) tool.
 38164459	Assessment of Hematological Profiles and Prognostic Role of Hemogram-Derived Novel Markers for Diabetes Mellitus and Its Complications Among Type 2 Diabetes Mellitus Adult Patients Attending Bishoftu General Hospital, Central, Ethiopia: A Comparative Cross-Sectional Study.
 38163694	Phenolic-rich extracts from toasted white and tannin sorghum flours have distinct profiles influencing their antioxidant, antiproliferative, anti-adhesive, anti-invasive, and antimalarial activities.
@@ -9996,4 +9997,3 @@
 34769254	Immunomodulatory Lectin-like Peptides for Fish Erythrocytes-Targeting as Potential Antiviral Drug Delivery Platforms.
 34768298	Preparation, Standardization and Anti-plasmodial Efficacy of Novel Malaria Nosodes.
 34768285	Antithrombin protects against Plasmodium falciparum histidine-rich protein II-mediated inflammation and coagulation.
-34768186	Sesquiterpenoids and their glycosides from Dobinea delavayi (Baill.) Baill.
