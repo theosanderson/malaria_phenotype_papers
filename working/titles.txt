@@ -1,3 +1,9 @@
+38174526	A rapid method for DNA Isolation from blood, dried blood spots and rapid diagnosis test.
+38174525	Evaluation of the knockdown resistance locus (kdr) in Anopheles stephensi (Diptera: Culicidae) in southeastern Iran.
+38174522	Clinical characteristics and outcome of severe malaria in Kapit, Sarawak, Malaysian Borneo.
+38174515	Effect of ultraviolet radiation on immature stages of Aedes aegypti, Anopheles stephensi and Culex quinquefasciatus mosquitoes.
+38174259	Myco-synthesis of multi-twinned silver nanoparticles as potential antibacterial and antimalarial agents.
+38173794	Novel stem cell technologies are powerful tools to understand the impact of human factors on Plasmodium falciparum malaria.
 38171008	Automatic patient-level recognition of four Plasmodium species on thin blood smear by a real-time detection transformer (RT-DETR) object detection algorithm: a proof-of-concept and evaluation.
 38170287	What's Hot This Year in ID Clinical Science.
 38169728	Implementation and impact of the global access principles at the University of British Columbia: current successes and future challenges.
@@ -15,6 +21,12 @@
 38166839	Expanding the roles of community health workers to sustain programmes during malaria elimination: a meeting report on operational research in Southeast Asia.
 38166711	Increasing the uptake of Intermittent Preventive Treatment of malaria in pregnancy using Sulfadoxine-Pyrimethamine (IPTp-SP) through seasonal malaria chemoprevention channel delivery: protocol of a multicenter cluster randomized implementation trial in Mali and Burkina Faso.
 38166653	Determinants and prevalence of symptomatic dengue fever among adults in the Central Region of Burkina Faso: a hospital-based cross-sectional study.
+38172860	Public health and research ethics education: the experience of developing a new cadre of bioethicists at a Ugandan institution.
+38172708	An imported malaria case with repeated episodes of neurological syndromes resulting from different Plasmodium species.
+38172621	Toxoplasma protein export and effector function.
+38172043	[Monitoring of adverse drug reactions during seasonal malaria chemoprevention campaigns in children aged 3–59 months in Burkina Faso].
+38172015	Biomechanics of parasite migration within hosts.
+38171145	Plasmodium falciparum topoisomerases: Emerging targets for anti-malarial therapy.
 38166422	Mosquito ageing modulates the development, virulence and transmission potential of pathogens.
 38165555	Antimalarial Drug Combination Predictions Using the Machine Learning Synergy Predictor (MLSyPred©) tool.
 38164459	Assessment of Hematological Profiles and Prognostic Role of Hemogram-Derived Novel Markers for Diabetes Mellitus and Its Complications Among Type 2 Diabetes Mellitus Adult Patients Attending Bishoftu General Hospital, Central, Ethiopia: A Comparative Cross-Sectional Study.
@@ -449,6 +461,7 @@
 38019895	Neuropilin-1 identifies a subset of highly activated CD8+ T cells during parasitic and viral infections.
 38019849	Role and effectiveness of telephone hotlines in outbreak response in Africa: A systematic review and meta-analysis.
 38019801	Predictors of multidrug-resistant tuberculosis in a teaching hospital in Ghana: A case-control study.
+38019671	Deciphering the signatures of artemisinin resistance.
 38018582	Recurrent diphtheria outbreaks in Nigeria: A review of the underlying factors and remedies.
 38018538	Architecture, domain organization, and functional signatures of trypanosomatid keIF4A1s and Plasmodium peIF4A1s suggest conserved functions.
 38018462	A novel mitigation strategy for the prevention of transfusion-transmitted malaria.
@@ -9984,16 +9997,3 @@
 34780512	Multi-site comparison of factors influencing progress of African insecticide testing facilities towards an international Quality Management System certification.
 34780503	Diagnostics to support elimination of lymphatic filariasis-Development of two target product profiles.
 34779650	Simultaneous estimation of ZY-19489 and its active metabolite ZY-20486 in human plasma using LC-MS/MS, a novel antimalarial compound.
-34779505	Unnexins: Homologs of innexin proteins in Trypanosomatidae parasites.
-34778983	Mistimed malaria parasites re-synchronize with host feeding-fasting rhythms by shortening the duration of intra-erythrocytic development.
-34778907	Synthesis and in silico ADME/Tox profiling studies of heterocyclic hybrids based on chloroquine scaffolds with potential antimalarial activity.
-34778098	Observation of the Gut Microbiota Profile in C57BL/6 Mice Induced by Plasmodium berghei ANKA Infection.
-34778072	Modification of EBV-Associated Pathologies and Immune Control by Coinfections.
-34777987	Malaria and COVID-19: A double battle for Burundi.
-36962107	Spatial targeting of Screening + Eave tubes (SET), a house-based malaria control intervention, in Côte d'Ivoire: A geostatistical modelling study.
-34775598	BCG-mediated protection against M. tuberculosis is sustained post-malaria infection independent of parasite virulence.
-34775497	Tropical diseases and risk of hypertension in the Amazon Basin: a cross-sectional study.
-34774764	Diversity and phylogenetic relationships of haemosporidian and hemogregarine parasites in Australian lizards.
-34774530	Derivatives of Dictyostelium differentiation-inducing factors suppress the growth of Plasmodium parasites in vitro and in vivo.
-34774513	Accessibility and availability of alcohol outlets around schools: An ecological study in the city of Madrid, Spain, according to socioeconomic area-level.
-34774255	Bayesian spatial modelling of geostatistical data using INLA and SPDE methods: A case study predicting malaria risk in Mozambique.
