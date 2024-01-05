@@ -1,3 +1,7 @@
+38179780	Feasibility and performance of in-house red blood cell reagents to detect unexpected antibodies in immunized patients in Burkina Faso.
+38179257	2,4-disubstituted 6-fluoroquinolines as potent antiplasmodial agents: QSAR, homology modeling, molecular docking and ADMET studies.
+38179191	Design, synthesis and modelling of photoreactive chemical probes for investigating target engagement of plasmepsin IX and X in Plasmodium falciparum.
+38179076	Joint quantile disease mapping with application to malaria and G6PD deficiency.
 38178249	Genomic surveillance of Anopheles mosquitoes on the Bijagós Archipelago using custom targeted amplicon sequencing identifies mutations associated with insecticide resistance.
 38178227	In vitro delayed response to dihydroartemisinin of malaria parasites infecting sickle cell erythocytes.
 38178161	The impact of pyrethroid-pyriproxyfen and pyrethroid-chlorfenapyr long-lasting insecticidal nets on density of primary malaria vectors Anopheles gambiae s.s. and Anopheles coluzzii in Benin: a secondary analysis of a cluster randomised controlled trial.
@@ -35,6 +39,7 @@
 38166839	Expanding the roles of community health workers to sustain programmes during malaria elimination: a meeting report on operational research in Southeast Asia.
 38166711	Increasing the uptake of Intermittent Preventive Treatment of malaria in pregnancy using Sulfadoxine-Pyrimethamine (IPTp-SP) through seasonal malaria chemoprevention channel delivery: protocol of a multicenter cluster randomized implementation trial in Mali and Burkina Faso.
 38166653	Determinants and prevalence of symptomatic dengue fever among adults in the Central Region of Burkina Faso: a hospital-based cross-sectional study.
+38166597	The urban-poor vaccination: Challenges and strategies in low-and-middle income countries.
 38166422	Mosquito ageing modulates the development, virulence and transmission potential of pathogens.
 38165555	Antimalarial Drug Combination Predictions Using the Machine Learning Synergy Predictor (MLSyPred©) tool.
 38164459	Assessment of Hematological Profiles and Prognostic Role of Hemogram-Derived Novel Markers for Diabetes Mellitus and Its Complications Among Type 2 Diabetes Mellitus Adult Patients Attending Bishoftu General Hospital, Central, Ethiopia: A Comparative Cross-Sectional Study.
@@ -9992,8 +9997,3 @@
 34782311	A typical babesiosis in an immunocompetent patient.
 34782182	Design, synthesis, and characterization of novel aminoalcohol quinolines with strong in vitro antimalarial activity.
 34781945	Acceptability of peer learning and education approach on malaria prevention (PLEA-malaria) through primary schools communities in rural Ethiopia: peer educators' perspectives.
-34781920	Antibacterial prescription and the associated factors among outpatients diagnosed with respiratory tract infections in Mbarara Municipality, Uganda.
-34781612	Evaluation of Expected Ventilatory Response to Metabolic Acidosis in Severely Ill Patients.
-34781260	Diagnostic Characteristics of Lactate Dehydrogenase on a Multiplex Assay for Malaria Detection Including the Zoonotic Parasite Plasmodium knowlesi.
-34781258	Epidemiological Isolation May Explain Differences in Historical Respiratory Infectious Disease Mortality.
-34781256	Effectiveness and Community Acceptance of Extending Seasonal Malaria Chemoprevention to Children 5 to 14 Years of Age in Dangassa, Mali.
