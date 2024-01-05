@@ -1,3 +1,4 @@
+38180033	Incompatibility of antimalarial drugs: challenges in formulating combination products for malaria.
 38179780	Feasibility and performance of in-house red blood cell reagents to detect unexpected antibodies in immunized patients in Burkina Faso.
 38179257	2,4-disubstituted 6-fluoroquinolines as potent antiplasmodial agents: QSAR, homology modeling, molecular docking and ADMET studies.
 38179191	Design, synthesis and modelling of photoreactive chemical probes for investigating target engagement of plasmepsin IX and X in Plasmodium falciparum.
@@ -9996,4 +9997,3 @@
 34782526	Connecting the dots to strengthen malaria elimination strategies in India: A Malaria Elimination Research Alliance - India initiative.
 34782311	A typical babesiosis in an immunocompetent patient.
 34782182	Design, synthesis, and characterization of novel aminoalcohol quinolines with strong in vitro antimalarial activity.
-34781945	Acceptability of peer learning and education approach on malaria prevention (PLEA-malaria) through primary schools communities in rural Ethiopia: peer educators' perspectives.
