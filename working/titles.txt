@@ -1,3 +1,5 @@
+38175901	Investing in Africa's scientific future.
+38175830	Impact of higher-income countries on child health in lower-income countries from a climate change perspective. A case study of the UK and Malawi.
 38174526	A rapid method for DNA Isolation from blood, dried blood spots and rapid diagnosis test.
 38174525	Evaluation of the knockdown resistance locus (kdr) in Anopheles stephensi (Diptera: Culicidae) in southeastern Iran.
 38174522	Clinical characteristics and outcome of severe malaria in Kapit, Sarawak, Malaysian Borneo.
@@ -9995,5 +9997,3 @@
 34780554	Malaria awareness of adults in high, moderate and low transmission settings: A cross-sectional study in rural East Nusa Tenggara Province, Indonesia.
 34780541	A conserved guided entry of tail-anchored pathway is involved in the trafficking of a subset of membrane proteins in Plasmodium falciparum.
 34780512	Multi-site comparison of factors influencing progress of African insecticide testing facilities towards an international Quality Management System certification.
-34780503	Diagnostics to support elimination of lymphatic filariasis-Development of two target product profiles.
-34779650	Simultaneous estimation of ZY-19489 and its active metabolite ZY-20486 in human plasma using LC-MS/MS, a novel antimalarial compound.
