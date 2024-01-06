@@ -1,8 +1,8 @@
 38183132	Disentangling detrimental sand fly-mite interactions in a closed laboratory sand fly colony: implications for vector-borne disease studies and guidelines for overcoming severe mite infestations.
 38183117	Immunofluorescence study of cytoskeleton in endothelial cells induced with malaria sera.
-38182815	Functional and structural asymmetry suggest a unifying principle for catalysis in membrane-bound pyrophosphatases.
 38182727	Human leukocyte antigen-DQA1*04:01 and rs2040406 variants are associated with elevated risk of childhood Burkitt lymphoma.
 38182650	Environmental and geographical factors influence the occurrence and abundance of the southern house mosquito, Culex quinquefasciatus, in Hawai'i.
+38182815	Functional and structural asymmetry suggest a unifying principle for catalysis in membrane-bound pyrophosphatases.
 38181532	Arteannuin B, a sesquiterpene lactone from Artemisia annua, attenuates inflammatory response by inhibiting the ubiquitin-conjugating enzyme UBE2D3-mediated NF-κB activation.
 38181246	Anemia among malaria patients with and without soil-transmitted helminths in Arba Minch town health facilities: A comparative cross-sectional study.
 38180033	Incompatibility of antimalarial drugs: challenges in formulating combination products for malaria.
