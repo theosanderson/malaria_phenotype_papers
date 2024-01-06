@@ -1,3 +1,9 @@
+38183132	Disentangling detrimental sand fly-mite interactions in a closed laboratory sand fly colony: implications for vector-borne disease studies and guidelines for overcoming severe mite infestations.
+38183117	Immunofluorescence study of cytoskeleton in endothelial cells induced with malaria sera.
+38182815	Functional and structural asymmetry suggest a unifying principle for catalysis in membrane-bound pyrophosphatases.
+38182727	Human leukocyte antigen-DQA1*04:01 and rs2040406 variants are associated with elevated risk of childhood Burkitt lymphoma.
+38182650	Environmental and geographical factors influence the occurrence and abundance of the southern house mosquito, Culex quinquefasciatus, in Hawai'i.
+38181532	Arteannuin B, a sesquiterpene lactone from Artemisia annua, attenuates inflammatory response by inhibiting the ubiquitin-conjugating enzyme UBE2D3-mediated NF-κB activation.
 38181246	Anemia among malaria patients with and without soil-transmitted helminths in Arba Minch town health facilities: A comparative cross-sectional study.
 38180033	Incompatibility of antimalarial drugs: challenges in formulating combination products for malaria.
 38179780	Feasibility and performance of in-house red blood cell reagents to detect unexpected antibodies in immunized patients in Burkina Faso.
@@ -9991,9 +9997,3 @@
 34784983	In vitro growth inhibitory activity of Medicines for Malaria Venture pathogen box compounds against Leishmania aethiopica.
 34784975	Finding the right balance: implementation of public-private partnership in artemisinin-based combination therapy provision in Manokwari, Indonesia.
 34784970	Role of small private drug shops in malaria and tuberculosis programs in Myanmar: a cross-sectional study.
-34784388	Knockout of Anopheles stephensi immune gene LRIM1 by CRISPR-Cas9 reveals its unexpected role in reproduction and vector competence.
-34784353	A nowcasting framework for correcting for reporting delays in malaria surveillance.
-34783187	A wide-field microscope utilizing two cellphones for health-care applications.
-34782951	NADPH Oxidase: a Possible Therapeutic Target for Cognitive Impairment in Experimental Cerebral Malaria.
-34782526	Connecting the dots to strengthen malaria elimination strategies in India: A Malaria Elimination Research Alliance - India initiative.
-34782311	A typical babesiosis in an immunocompetent patient.
