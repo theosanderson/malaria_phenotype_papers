@@ -2,8 +2,8 @@
 38184666	mRNA vaccines expressing malaria transmission-blocking antigens Pfs25 and Pfs230D1 induce a functional immune response.
 38184552	Demographic and socio-economic factors affecting bed net ownership, usage, and malaria transmission among adult patients seeking healthcare in two Ghanaian urban cities.
 38184363	Optimisation-based modelling for explainable lead discovery in malaria.
-38184026	Ethnobotanical study on medicinal plants used by the Yi people in Xiaoliangshan, Yunnan Province, SW China.
 38183894	Global prevalence of Plasmodium infection in wild birds: A systematic review and meta-analysis.
+38184026	Ethnobotanical study on medicinal plants used by the Yi people in Xiaoliangshan, Yunnan Province, SW China.
 38183416	Shotgun Characterization of the Circulating IgM Antigenome of an Infectious Pathogen by Immunocapture-LC-MS/MS from Dried Serum Spots.
 38183132	Disentangling detrimental sand fly-mite interactions in a closed laboratory sand fly colony: implications for vector-borne disease studies and guidelines for overcoming severe mite infestations.
 38183117	Immunofluorescence study of cytoskeleton in endothelial cells induced with malaria sera.
