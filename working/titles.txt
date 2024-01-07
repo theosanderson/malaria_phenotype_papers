@@ -1,8 +1,15 @@
+38184681	PvDBPII elicits multiple antibody-mediated mechanisms that reduce growth in a Plasmodium vivax challenge trial.
+38184666	mRNA vaccines expressing malaria transmission-blocking antigens Pfs25 and Pfs230D1 induce a functional immune response.
+38184552	Demographic and socio-economic factors affecting bed net ownership, usage, and malaria transmission among adult patients seeking healthcare in two Ghanaian urban cities.
+38184363	Optimisation-based modelling for explainable lead discovery in malaria.
+38184026	Ethnobotanical study on medicinal plants used by the Yi people in Xiaoliangshan, Yunnan Province, SW China.
+38183894	Global prevalence of Plasmodium infection in wild birds: A systematic review and meta-analysis.
+38183416	Shotgun Characterization of the Circulating IgM Antigenome of an Infectious Pathogen by Immunocapture-LC-MS/MS from Dried Serum Spots.
 38183132	Disentangling detrimental sand fly-mite interactions in a closed laboratory sand fly colony: implications for vector-borne disease studies and guidelines for overcoming severe mite infestations.
 38183117	Immunofluorescence study of cytoskeleton in endothelial cells induced with malaria sera.
+38182815	Functional and structural asymmetry suggest a unifying principle for catalysis in membrane-bound pyrophosphatases.
 38182727	Human leukocyte antigen-DQA1*04:01 and rs2040406 variants are associated with elevated risk of childhood Burkitt lymphoma.
 38182650	Environmental and geographical factors influence the occurrence and abundance of the southern house mosquito, Culex quinquefasciatus, in Hawai'i.
-38182815	Functional and structural asymmetry suggest a unifying principle for catalysis in membrane-bound pyrophosphatases.
 38181532	Arteannuin B, a sesquiterpene lactone from Artemisia annua, attenuates inflammatory response by inhibiting the ubiquitin-conjugating enzyme UBE2D3-mediated NF-κB activation.
 38181246	Anemia among malaria patients with and without soil-transmitted helminths in Arba Minch town health facilities: A comparative cross-sectional study.
 38180033	Incompatibility of antimalarial drugs: challenges in formulating combination products for malaria.
@@ -90,7 +97,7 @@
 38153595	Deciphering drug discovery and microbial pathogenesis research in tuberculosis during the two decades of postgenomic era using entity mining approach.
 38152401	Novel antibody competition binding assay identifies distinct serological profiles associated with protection.
 38151075	Research progress on phosphatidylinositol 4-kinase inhibitors.
-38151069	Evaluating the Genetic Diversity of the Plasmodium vivax siap2 Locus: A Promising Candidate for an Effective Malaria Vaccine?
+38151069	Evaluating the genetic diversity of the Plasmodium vivax siap2 locus: A promising candidate for an effective malaria vaccine?
 38151048	CO-INFECTION WITH MALARIA AND INTESTINAL PARASITES AND ITS ASSOCIATION WITH ANEMIA IN CHILDREN (ZERO TO TEN YEARS OLD) IN TIKO SUBDIVISION, CAMEROON.
 38150744	TLR7 enhancing follicular helper T (Tfh) cells response in C57BL/6 mice infected with Plasmodium yoelii NSM TLR7 mediated Tfh cells in P. yoelii infected mice.
 38150741	Challenges in Diagnosing and Treating Acutely Febrile Children with Suspected Malaria at Health Care Facilities in the Lake Mwanza Region of Tanzania.
@@ -9990,10 +9997,3 @@
 34786155	Age and genotype dependent erythropoietin protection in COVID-19.
 34785995	Service Use and Resilience among Adolescents Living with HIV in Blantyre, Malawi.
 34785968	A Rare Association of Thrombotic Thrombocytopenic Purpura with Systemic Lupus Erythematosus in a Sudanese Woman: Case Report.
-34785801	Link knowledge and action networks to tackle disasters.
-34785370	Characterization of Plasmodium falciparum macrophage migration inhibitory factor homologue and its cysteine deficient mutants.
-34785369	Antimalarials for children with Plasmodium vivax infection: Current status, challenges, and research priorities.
-34785019	Reflections on quinine and its importance in dermatology today.
-34784983	In vitro growth inhibitory activity of Medicines for Malaria Venture pathogen box compounds against Leishmania aethiopica.
-34784975	Finding the right balance: implementation of public-private partnership in artemisinin-based combination therapy provision in Manokwari, Indonesia.
-34784970	Role of small private drug shops in malaria and tuberculosis programs in Myanmar: a cross-sectional study.
