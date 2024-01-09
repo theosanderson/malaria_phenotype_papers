@@ -1,3 +1,7 @@
+38192891	A Comprehensive Comparison of Rapid RNA Extraction Methods for Detection of SARS-CoV-2 as the Infectious Agent of the Upper Respiratory Tract using Direct RT-LAMP Assay.
+38192518	The Programmed Cell Death Ligand 1 and Lipocalin 2 Expressions in Primary Breast Cancer and Their Associations with Molecular Subtypes and Prognostic Factors.
+38192127	Novel Benzotriazole-β-lactam Derivatives as Antimalarial Agents: Design, Synthesis, Biological Evaluation and Molecular Docking Studies.
+38191887	Genomic and panproteomic analysis of the development of infant immune responses to antigenically-diverse pneumococci.
 38191485	Synthesis, antileishmanial, antimalarial evaluation and molecular docking study of some hydrazine-coupled pyrazole derivatives.
 38191459	The impact of home-based management of malaria on clinical outcomes in sub-Saharan African populations: a systematic review and meta-analysis.
 38191421	Early warning systems for malaria outbreaks in Thailand: an anomaly detection approach.
@@ -9993,7 +9997,3 @@
 34792144	G-quadruplex RNA motifs influence gene expression in the malaria parasite Plasmodium falciparum.
 34791858	[Progress of researches on symbionts in the management of mosquito-borne infectious diseases].
 34791850	[Surveillance of Culex mosquitoes in Jiangsu Province from 2018 to 2019].
-34791848	[Susceptibility of Anopheles sinensis to insecticides in Puyang City, Henan Province].
-34791847	[Analysis of laboratory re-examination results in Sichuan Provincial Malaria Diagnostic Reference Laboratory from 2014 to 2020].
-34791841	[Development of a fluorescent recombinase-aided isothermal amplification-based nucleic acid assay for detection of Leishmania].
-34791458	Addressing high-risk antipoaching roles in Central Africa: lessons from delivery of remote advanced first-aid teaching for trauma care and snakebite first aid.
