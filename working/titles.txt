@@ -1,3 +1,4 @@
+38190748	Experiences in Improving the Quality of Community-Based Fever Management from Three Malaria-Endemic African Countries.
 38188691	One hundred malaria attacks since birth. A longitudinal study of African children and young adults exposed to high malaria transmission.
 38188518	Aedes aegypti saliva modulates inflammasome activation and facilitates flavivirus infection in vitro.
 38187525	Artemisinin resistance mutations in Pfcoronin impede hemoglobin uptake.
@@ -9996,4 +9997,3 @@
 34790829	Recent Advances in Understanding the Inflammatory Response in Malaria: A Review of the Dual Role of Cytokines.
 34790586	Molecular Surveillance and Ex Vivo Drug Susceptibilities of Plasmodium vivax Isolates From the China-Myanmar Border.
 34790216	Harnessing the Potential of Roots of Traditional Power Plant: Ocimum.
-34790129	Plasmodium falciparum Multidrug Resistance Proteins (pfMRPs).
