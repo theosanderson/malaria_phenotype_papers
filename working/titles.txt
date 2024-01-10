@@ -1,3 +1,9 @@
+38196949	Microscopic parasite malaria classification using best feature selection based on generalized normal distribution optimization.
+38196920	A hybrid effectiveness-implementation study protocol to assess the effectiveness and chemoprevention efficacy of implementing seasonal malaria chemoprevention in five districts in Karamoja region, Uganda.
+38196646	Development of an anti-Pfs230 monoclonal antibody as a Plasmodium falciparum gametocyte blocker.
+38196597	Mathematical assessment of the role of intervention programs for malaria control.
+38196596	Longitudinal changes in iron homeostasis in human experimental and clinical malaria.
+38196592	Expansion of Artemisinin Partial Resistance Mutations and Lack of Histidine Rich Protein-2 and -3 Deletions in Plasmodium falciparum infections from Rukara, Rwanda.
 38195563	Anopheles arabiensis continues to be the primary vector of Plasmodium falciparum after decades of malaria control in southwestern Ethiopia.
 38195546	Biting behaviour, spatio-temporal dynamics, and the insecticide resistance status of malaria vectors in different ecological zones in Ghana.
 38195484	Baseline susceptibility of Anopheles gambiae to clothianidin in northern Ghana.
@@ -9991,9 +9997,3 @@
 34798015	Ethical considerations for introducing RTS,S/AS01 in countries with moderate to high Plasmodium falciparum malaria transmission.
 34797884	Correction: Serologically Defined Variations in Malaria Endemicity in Pará State, Brazil.
 34797496	Potential Emergence of Plasmodium Resistance to Artemisinin Induced by the Use of Artemisia annua for Malaria and COVID-19 Prevention in Sub-African Region.
-34795860	Development of Potent 3-Br-isoxazoline-Based Antimalarial and Antileishmanial Compounds.
-34795717	Prevalence and factors associated with self medication with antibiotics among University students in Moshi Kilimanjaro Tanzania.
-34795714	Prevalence and density of malaria parasitaemia amongst HIV Individuals in Warri, Nigeria.
-34795704	Brucellosis and its associated risk factors to humans and domestic ruminants in Kagera Ecosystem, Tanzania.
-34795281	Identifying an optimal dihydroartemisinin-piperaquine dosing regimen for malaria prevention in young Ugandan children.
-34795213	Model-based assessment of Chikungunya and O'nyong-nyong virus circulation in Mali in a serological cross-reactivity context.
