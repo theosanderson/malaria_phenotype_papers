@@ -1,3 +1,4 @@
+38194420	Tafenoquine following G6PD screening versus primaquine for the treatment of vivax malaria in Brazil: A cost-effectiveness analysis using a transmission model.
 38194272	Safety and protective efficacy of PfSPZ vaccine administered to HIV negative and positive Tanzanian adults.
 38194048	Malaria Prevalence in Asymptomatic and Symptomatic Children Living in Rural, Semi-Urban and Urban Areas in Eastern Gabon.
 38193797	Nanoliposomes Embedded Nanocochleates for Codelivery of Artemether and Lumefantrine: An In Vitro and In Vivo Study.
@@ -9996,4 +9997,3 @@
 34794489	Correction to: The effect of irrigation on malaria vector bionomics and transmission intensity in western Ethiopia.
 34794445	Red blood cell blood group A antigen level affects the ability of heparin and PfEMP1 antibodies to disrupt Plasmodium falciparum rosettes.
 34794431	Evaluation of pilot implementation of seasonal malaria chemoprevention on morbidity in young children in Northern Sahelian Ghana.
-34794430	Insights from modelling malaria vaccines for policy decisions: the focus on RTS,S.
