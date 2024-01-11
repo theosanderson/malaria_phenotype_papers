@@ -3,8 +3,6 @@
 38204325	Survival of P. falciparum infected red blood cell aggregates in elongational shear flow.
 38202761	Aptamer-Based Imaging of Polyisoprenoids in the Malaria Parasite.
 38200989	Microbes and Mental Illness: Past, Present, and Future.
-38200727	[Medical check-up of the national football team of mali from may 2008 to january 2010].
-38200726	[Spatio-temporal analysis of the incidence of morbidity and mortality from severe malaria in the Sélingué health district, Mali].
 38200697	Editorial: Special Issue Avian Malaria.
 38200574	Understanding psychosocial determinants of malaria behaviours in low-transmission settings: a scoping review.
 38200257	Integrating vaccines and monoclonal antibodies into malaria prevention.
@@ -22,6 +20,7 @@
 38196597	Mathematical assessment of the role of intervention programs for malaria control.
 38196596	Longitudinal changes in iron homeostasis in human experimental and clinical malaria.
 38196592	Expansion of Artemisinin Partial Resistance Mutations and Lack of Histidine Rich Protein-2 and -3 Deletions in Plasmodium falciparum infections from Rukara, Rwanda.
+38195641	Characterizing the pathogenicity of genetic variants: the consequences of context.
 38195563	Anopheles arabiensis continues to be the primary vector of Plasmodium falciparum after decades of malaria control in southwestern Ethiopia.
 38195546	Biting behaviour, spatio-temporal dynamics, and the insecticide resistance status of malaria vectors in different ecological zones in Ghana.
 38195484	Baseline susceptibility of Anopheles gambiae to clothianidin in northern Ghana.
@@ -9997,3 +9996,4 @@
 34801714	Long-term safety of the tafenoquine antimalarial chemoprophylaxis regimen: A 12-month, randomized, double-blind, placebo-controlled trial.
 34801479	A comparative analysis of the dynamics of Plasmodium relictum (GRW4) development in the blood during single and co-infections.
 34801112	Safety and efficacy of a three-dose regimen of Plasmodium falciparum sporozoite vaccine in adults during an intense malaria transmission season in Mali: a randomised, controlled phase 1 trial.
+34801111	Assessment of experimental malaria vaccine induced protection in pre-exposed populations.
