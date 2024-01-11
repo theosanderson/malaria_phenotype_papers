@@ -1,3 +1,11 @@
+38205261	From TgO/GABA-AT, GABA, and T-263 Mutant to Conception of Toxoplasma.
+38204787	A multi-criteria framework for disease surveillance site selection: case study for Plasmodium knowlesi malaria in Indonesia.
+38204325	Survival of P. falciparum infected red blood cell aggregates in elongational shear flow.
+38202761	Aptamer-Based Imaging of Polyisoprenoids in the Malaria Parasite.
+38200989	Microbes and Mental Illness: Past, Present, and Future.
+38200727	[Medical check-up of the national football team of mali from may 2008 to january 2010].
+38200726	[Spatio-temporal analysis of the incidence of morbidity and mortality from severe malaria in the Sélingué health district, Mali].
+38200697	Editorial: Special Issue Avian Malaria.
 38200574	Understanding psychosocial determinants of malaria behaviours in low-transmission settings: a scoping review.
 38200257	Integrating vaccines and monoclonal antibodies into malaria prevention.
 38200222	Exploring genetic polymorphisms among Plasmodium vivax isolates from the Thai-Myanmar borders using circumsporozoite protein (pvcsp) and ookinete surface protein (pvs25) encoding genes.
@@ -9989,11 +9997,3 @@
 34801714	Long-term safety of the tafenoquine antimalarial chemoprophylaxis regimen: A 12-month, randomized, double-blind, placebo-controlled trial.
 34801479	A comparative analysis of the dynamics of Plasmodium relictum (GRW4) development in the blood during single and co-infections.
 34801112	Safety and efficacy of a three-dose regimen of Plasmodium falciparum sporozoite vaccine in adults during an intense malaria transmission season in Mali: a randomised, controlled phase 1 trial.
-34801111	Assessment of experimental malaria vaccine induced protection in pre-exposed populations.
-34801086	Evaluation of the interaction between insecticide resistance-associated genes and malaria transmission in Anopheles gambiae sensu lato in central Côte d'Ivoire.
-34801059	Safety and efficacy of intermittent presumptive treatment with sulfadoxine-pyrimethamine using rapid diagnostic test screening and treatment with dihydroartemisinin-piperaquine at the first antenatal care visit (IPTp-SP+): study protocol for a randomized controlled trial.
-34801056	Extracellular vesicles in malaria: an agglomeration of two decades of research.
-34800724	Genetic polymorphism of circumsporozoite protein (CSP) in Plasmodium malariae isolates from Malaysia.
-34800712	Genetic diversity of plasmodium falciparum isolates in Minna, North Central Nigeria inferred by PCR genotyping of Merozoite surface protein 1 and 2.
-34800693	Travel health study in commercial aircrew members.
-34800370	Global, regional, and national causes of under-5 mortality in 2000-19: an updated systematic analysis with implications for the Sustainable Development Goals.
