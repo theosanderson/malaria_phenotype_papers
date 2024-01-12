@@ -1,3 +1,5 @@
+38214911	Predicting the potential impact of scaling up four pneumonia interventions on under-five pneumonia mortality: A prospective Lives Saved Tool (LiST) analysis for Bangladesh, Chad, and Ethiopia.
+38214254	Discovery of Potent Antimalarial Type II Kinase Inhibitors with Selectivity over Human Kinases.
 38214060	A prospective cohort study linking migration, climate, and malaria risk in the Peruvian Amazon - CORRIGENDUM.
 38213983	Species composition and distribution of the Anopheles gambiae complex circulating in Kinshasa.
 38212934	Infections diagnosed in children and young people screened for malaria in UK emergency departments: a retrospective multi-centre study.
@@ -9995,5 +9997,3 @@
 34805213	Sickle Cell Disease: Thoughts for India From the Jamaican Cohort Study.
 34805091	Lipoic Acid Metabolism as a Potential Chemotherapeutic Target Against Plasmodium falciparum and Staphylococcus aureus.
 34804418	Thymoquinone against infectious diseases: Perspectives in recent pandemics and future therapeutics.
-34803570	Comparison of a New IgG-EIA for the Detection of Anti-Plasmodium Antibodies with Two Currently Used Assays.
-34802791	Immunogenicity of full-length P. vivax rPvs48/45 protein formulations in BALB/c mice.
