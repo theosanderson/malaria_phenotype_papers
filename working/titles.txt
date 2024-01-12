@@ -1,3 +1,8 @@
+38210934	Consumption and Malaria.
+38207595	Variations in Quantity of Rain-Malaria.
+38206958	Development of circulating isolates of Plasmodium falciparum is accelerated in Anopheles vectors with reduced reproductive output.
+38206944	Assessment of antimalarial activity of crude extract of Chan-Ta-Lee-La and Pra-Sa-Chan-Dang formulations and their plant ingredients for new drug candidates of malaria treatment: In vitro and in vivo experiments.
+38206875	Piloting delivery of PfSPZ vaccines for malaria through a cryogenic vaccine cold chain to travel and military medicine clinics.
 38205261	From TgO/GABA-AT, GABA, and T-263 Mutant to Conception of Toxoplasma.
 38204787	A multi-criteria framework for disease surveillance site selection: case study for Plasmodium knowlesi malaria in Indonesia.
 38204325	Survival of P. falciparum infected red blood cell aggregates in elongational shear flow.
@@ -9992,8 +9997,3 @@
 34802751	Cerebral malaria associated with mixed forms of acute macular neuroretinopathy and paracentral acute middle maculopathy.
 34802463	First report of the L1014F kdr mutation in wild populations of Anopheles arabiensis in Cabo Verde, West Africa.
 34802455	Effect of interventions to reduce malaria incidence among military personnel on active duty: study protocol for a cluster randomised controlled trial of the impact of etofenprox-treated uniforms, permethrin-treated uniforms and DEET insect repellent.
-34802442	Safety, infectivity and immunogenicity of a genetically attenuated blood-stage malaria vaccine.
-34801714	Long-term safety of the tafenoquine antimalarial chemoprophylaxis regimen: A 12-month, randomized, double-blind, placebo-controlled trial.
-34801479	A comparative analysis of the dynamics of Plasmodium relictum (GRW4) development in the blood during single and co-infections.
-34801112	Safety and efficacy of a three-dose regimen of Plasmodium falciparum sporozoite vaccine in adults during an intense malaria transmission season in Mali: a randomised, controlled phase 1 trial.
-34801111	Assessment of experimental malaria vaccine induced protection in pre-exposed populations.
