@@ -1,3 +1,6 @@
+38214060	A prospective cohort study linking migration, climate, and malaria risk in the Peruvian Amazon - CORRIGENDUM.
+38213983	Species composition and distribution of the Anopheles gambiae complex circulating in Kinshasa.
+38212934	Infections diagnosed in children and young people screened for malaria in UK emergency departments: a retrospective multi-centre study.
 38212448	Predicting the environmental suitability for Anopheles stephensi under the current conditions in Ghana.
 38212339	Author Correction: Impact of Plasmodium vivax malaria on executive and cognitive functions in elderlies in the Brazilian Amazon.
 38206958	Development of circulating isolates of Plasmodium falciparum is accelerated in Anopheles vectors with reduced reproductive output.
@@ -234,7 +237,7 @@
 38127909	Factors associated with malaria infection among children after distribution of PBO-pyrethroid synergist-treated nets and indoor residual spraying in north-western Tanzania.
 38127749	2024 looms.
 38127641	Imported malaria into Australia: surveillance insights and opportunities.
-38127359	Anopheles mosquitoes in Morocco: implication for public health and underlined challenges for Malaria re-establishment prevention under current and future climate conditions.
+38127359	Anopheles mosquitoes in Morocco: implication for public health and underlined challenges for malaria re-establishment prevention under current and future climate conditions.
 38127294	Structure-based virtual screening against multiple Plasmodium falciparum kinases reveals antimalarial compounds.
 38125540	Bat-associated microbes: Opportunities and perils, an overview.
 38125201	SEIRS model for malaria transmission dynamics incorporating seasonality and awareness campaign.
@@ -9994,6 +9997,3 @@
 34804418	Thymoquinone against infectious diseases: Perspectives in recent pandemics and future therapeutics.
 34803570	Comparison of a New IgG-EIA for the Detection of Anti-Plasmodium Antibodies with Two Currently Used Assays.
 34802791	Immunogenicity of full-length P. vivax rPvs48/45 protein formulations in BALB/c mice.
-34802751	Cerebral malaria associated with mixed forms of acute macular neuroretinopathy and paracentral acute middle maculopathy.
-34802463	First report of the L1014F kdr mutation in wild populations of Anopheles arabiensis in Cabo Verde, West Africa.
-34802455	Effect of interventions to reduce malaria incidence among military personnel on active duty: study protocol for a cluster randomised controlled trial of the impact of etofenprox-treated uniforms, permethrin-treated uniforms and DEET insect repellent.
