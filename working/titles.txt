@@ -1,3 +1,4 @@
+38215269	A Smartphone App for Real-Time Assessment of Malaria Prophylaxis Adverse Events.
 38214911	Predicting the potential impact of scaling up four pneumonia interventions on under-five pneumonia mortality: A prospective Lives Saved Tool (LiST) analysis for Bangladesh, Chad, and Ethiopia.
 38214254	Discovery of Potent Antimalarial Type II Kinase Inhibitors with Selectivity over Human Kinases.
 38214060	A prospective cohort study linking migration, climate, and malaria risk in the Peruvian Amazon - CORRIGENDUM.
@@ -739,7 +740,7 @@
 37951942	A Bayesian spatio-temporal framework to assess the effect of seasonal malaria chemoprevention on children under 5 years in Cameroon from 2016 to 2021 using routine data.
 37951562	Bradykinin produced during Plasmodium falciparum erythrocytic cycle drives monocyte adhesion to human brain microvascular endothelial cells.
 37950908	An Ill-bred Culture of Experimentation: Malaria Therapy and Race in the United States Public Health Service Laboratory at the South Carolina State Hospital, 1932-1952.
-37950625	Correspondence on 'Neurofilament light chain as a biomarker of neuronal damage in children with malaria'.
+37950625	Severe Malaria with Neurological Manifestations: What Contribution of Neurofilament Light Chain?
 37950315	Key considerations, target product profiles, and research gaps in the application of infrared spectroscopy and artificial intelligence for malaria surveillance and diagnosis.
 37950308	Rapid profiling of Plasmodium parasites from genome sequences to assist malaria control.
 37950227	Seasonal malaria chemoprevention in a context of high presumed sulfadoxine-pyrimethamine resistance: malaria morbidity and molecular drug resistance profiles in South Sudan.
@@ -1163,7 +1164,7 @@
 37806761	Diarylpentanoids, the privileged scaffolds in antimalarial and anti-infectives drug discovery: A review.
 37806729	Vaccine Preventable Disease and Vaccine Hesitancy.
 37805828	Cerebrospinal fluid tumor necrosis factor-alpha (TNF-α) levels in children with cerebral malaria.
-37804095	Profiling the PfEMP1-specific IgG response among Ghanaian children with hemoglobin S and C.
+37804095	Profiling the Plasmodium falciparum Erythrocyte Membrane Protein 1-Specific Immununoglobulin G Response Among Ghanaian Children With Hemoglobin S and C.
 37803424	Assembly and phylogeographical analysis of novel Taenia solium mitochondrial genomes suggest stratification within the African-American genotype.
 37803381	Increasing prevalence of malaria and acute dengue virus coinfection in Africa: a meta-analysis and meta-regression of cross-sectional studies.
 37803372	Social determination of malaria in pregnancy in Colombia: a critical ethnographic study.
@@ -1522,7 +1523,7 @@
 37683820	Limited Polymorphism in the Dihydrofolate Reductase (dhfr) and dihydropteroate synthase genes (dhps) of Plasmodium knowlesi isolate from Thailand.
 37683723	Reactive oxygen species trigger inflammasome activation after intracellular microbial interaction.
 37682947	Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages.
-37682871	Randomized field trial to assess the safety and efficacy of dihydroartemisinin-piperaquine for seasonal malaria chemoprevention in school-aged children in Bandiagara, Mali.
+37682871	Randomized Field Trial to Assess the Safety and Efficacy of Dihydroartemisinin-Piperaquine for Seasonal Malaria Chemoprevention in School-Aged Children in Bandiagara, Mali.
 37681888	Camillo Golgi's Impact on Malaria Studies.
 37681434	Investigation of new ferrocenyl-artesunate derivatives as antiparasitics.
 37681121	Sequence-dependent heterochromatin formation in the human malaria parasite Plasmodium falciparum.
@@ -1616,7 +1617,7 @@
 37648490	Role of MyD88-Adaptor-Like (MAL) Gene Polymorphism rs8177374 and Cytokine (IFN-γ, TNF-α, IL-10, TGF-β) Levels in Diverse Malaria Manifestations upon P. falciparum and P. vivax Infections.
 37648241	Genetic diversity of Plasmodium falciparum erythrocyte membrane protein 1 in field isolates: Correspondence.
 37648233	Evaluating the activity of N-89 as an oral antimalarial drug.
-37647876	Neurofilament light chain as a biomarker of neuronal damage in children with malaria.
+37647876	Neurofilament Light Chain as a Biomarker of Neuronal Damage in Children With Malaria.
 37647322	Knowledge, attitudes and practices regarding malaria prevention and control in communities in the Eastern Region, Ghana, 2020.
 37647275	Evaluation of KIR3DL1/KIR3DS1 allelic polymorphisms in Kenyan children with endemic Burkitt lymphoma.
 37647112	Timing of dense granule biogenesis in asexual malaria parasites.
@@ -1802,7 +1803,7 @@
 37585127	Assessment of diagnostic accuracy and adherence to maternal and child health guidelines as a measure of clinical competence of frontline healthcare workers in Nigeria.
 37584781	Development and application of fragment-based de novo inhibitor design approaches against Plasmodium falciparum GST.
 37584425	F-erythrocytes promote Plasmodium falciparum proliferation in sickle cell disease.
-37584317	Evolution of spatial risk of malaria infection after a pragmatic chemoprevention program in response to severe flooding in rural western Uganda.
+37584317	Evolution of Spatial Risk of Malaria Infection After a Pragmatic Chemoprevention Program in Response to Severe Flooding in Rural Western Uganda.
 37583960	A Retrospective Analysis of Malaria Trends in Leka Dulecha Health Center over the Last Ten Years (2013-2022), Western Oromia, East Wollega Zone.
 37583959	Antimalarial Efficacy and Safety of Senna occidentalis (L.) Link Root Extract in Plasmodium berghei-Infected BALB/c Mice.
 37583887	Pilot implementation of community health advocacy teams to improve the effectiveness of long-lasting insecticide net distribution through both campaigns and continuous channels in Ghana: a qualitative study of opportunities and barriers to implementation.
@@ -9996,4 +9997,3 @@
 34805272	Biosynthesis of α-Gal Epitopes (Galα1-3Galβ1-4GlcNAc-R) and Their Unique Potential in Future α-Gal Therapies.
 34805213	Sickle Cell Disease: Thoughts for India From the Jamaican Cohort Study.
 34805091	Lipoic Acid Metabolism as a Potential Chemotherapeutic Target Against Plasmodium falciparum and Staphylococcus aureus.
-34804418	Thymoquinone against infectious diseases: Perspectives in recent pandemics and future therapeutics.
