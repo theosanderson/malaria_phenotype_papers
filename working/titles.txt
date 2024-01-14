@@ -1,3 +1,6 @@
+38218860	Evaluation of malaria outbreak detection methods, Uganda, 2022.
+38218737	Naturally acquired antibodies against Plasmodium vivax pre-erythrocytic stage vaccine antigens inhibit sporozoite invasion of human hepatocytes in vitro.
+38218137	Soluble meso and deuteroporphyrin analogs of the malaria pigment hematin anhydride.
 38217641	Predictors of Comorbidity of Malaria and Septicemia in Children Living in Malaria-Endemic Communities in Nigeria.
 38217317	Identification, characterization, and CADD analysis of Plasmodium DMAP1 reveals it as a potential molecular target for new anti-malarial discovery.
 38217047	Phenotypic resistance not associated with knockdown mutations (kdr) in Anopheles albimanus exposed to deltamethrin in southern coastal Ecuador.
@@ -9994,6 +9997,3 @@
 34815242	Effect of mobile application user interface improvements on minimum expected home visit coverage by community health workers in Mali: a randomised controlled trial.
 34814578	[Introduction of World Health Organization Strategies and the Technical Advisory Committee actions on viral hepatitis control and status of the elimination of viral hepatitis in China].
 34814250	A model of malaria population dynamics with migrants.
-34813783	The influence of pH and ionic strength on the interactions between human serum albumin and magnetic iron oxide nanoparticles.
-34811647	Association of Health Insurance and Documentation with Stigma and Social Support Among Myanmar Migrants with Tuberculosis Before and During Thailand's Policy on Border Closure Due to COVID-19: a Cross-Sectional Study.
-34810735	A new species of Typhonoya Prozorov (Lepidoptera, Lasiocampidae, Lasiocampinae, Gastropachini) from the moist broadleaf forest of the Democratic Republic of the Congo.
