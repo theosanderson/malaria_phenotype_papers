@@ -1,9 +1,11 @@
+38217641	Predictors of Comorbidity of Malaria and Septicemia in Children Living in Malaria-Endemic Communities in Nigeria.
+38217317	Identification, characterization, and CADD analysis of Plasmodium DMAP1 reveals it as a potential molecular target for new anti-malarial discovery.
 38217047	Phenotypic resistance not associated with knockdown mutations (kdr) in Anopheles albimanus exposed to deltamethrin in southern coastal Ecuador.
 38216923	A perspective on Oxford's R21/Matrix-M™ malaria vaccine and the future of global eradication efforts.
+38216824	High Child Mortality and Interventions Coverage in the City of Dar es Salaam, Tanzania: Are the Poorest Paying an Urban Penalty?
 38216302	MRI-Based Brain Volume Scoring in Cerebral Malaria is Externally Valid and Applicable to Lower-Resolution Images.
 38215959	Hemin competitively inhibits HSPA8 ATPase activity mitigating its foldase function.
 38215581	Characterization of a cohort of Angolan children with sickle cell anemia treated with hydroxyurea.
-38216824	High Child Mortality and Interventions Coverage in the City of Dar es Salaam, Tanzania: Are the Poorest Paying an Urban Penalty?
 38215269	A Smartphone App for Real-Time Assessment of Malaria Prophylaxis Adverse Events.
 38214911	Predicting the potential impact of scaling up four pneumonia interventions on under-five pneumonia mortality: A prospective Lives Saved Tool (LiST) analysis for Bangladesh, Chad, and Ethiopia.
 38214254	Discovery of Potent Antimalarial Type II Kinase Inhibitors with Selectivity over Human Kinases.
@@ -19,6 +21,7 @@
 38204787	A multi-criteria framework for disease surveillance site selection: case study for Plasmodium knowlesi malaria in Indonesia.
 38204325	Survival of P. falciparum infected red blood cell aggregates in elongational shear flow.
 38202761	Aptamer-Based Imaging of Polyisoprenoids in the Malaria Parasite.
+38201276	"All for One and One for All": The Secreted Heat Shock Protein gp96-Ig Based Vaccines.
 38200989	Microbes and Mental Illness: Past, Present, and Future.
 38200697	Editorial: Special Issue Avian Malaria.
 38200574	Understanding psychosocial determinants of malaria behaviours in low-transmission settings: a scoping review.
@@ -9994,6 +9997,3 @@
 34813783	The influence of pH and ionic strength on the interactions between human serum albumin and magnetic iron oxide nanoparticles.
 34811647	Association of Health Insurance and Documentation with Stigma and Social Support Among Myanmar Migrants with Tuberculosis Before and During Thailand's Policy on Border Closure Due to COVID-19: a Cross-Sectional Study.
 34810735	A new species of Typhonoya Prozorov (Lepidoptera, Lasiocampidae, Lasiocampinae, Gastropachini) from the moist broadleaf forest of the Democratic Republic of the Congo.
-34809622	Health management information system (HMIS) data quality and associated factors in Massaguet district, Chad.
-34809465	Plasmodium falciparum YTH2 Domain Binds to m6A-Containing mRNA and Regulates Translation.
-34805551	Synchrony between daily rhythms of malaria parasites and hosts is driven by an essential amino acid.
