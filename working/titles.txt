@@ -1,3 +1,5 @@
+38223355	Private sector availability and affordability of under 5 malaria health commodities in selected states in Nigeria and the Federal Capital Territory.
+38223354	Development of Deltamethrin-Laced Attractive Toxic Sugar Bait to Control Aedes aegypti (Linnaeus) Population.
 38221606	Monoclonal antibody applications in travel medicine.
 38218860	Evaluation of malaria outbreak detection methods, Uganda, 2022.
 38218737	Naturally acquired antibodies against Plasmodium vivax pre-erythrocytic stage vaccine antigens inhibit sporozoite invasion of human hepatocytes in vitro.
@@ -9995,5 +9997,3 @@
 34815287	Protocol for a multicentre, parallel-group, open-label randomised controlled trial comparing ferric carboxymaltose with the standard of care in anaemic Malawian pregnant women: the REVAMP trial.
 34815285	Evaluation of the safety and efficacy of dihydroartemisinin-piperaquine for intermittent preventive treatment of malaria in HIV-infected pregnant women: protocol of a multicentre, two-arm, randomised, placebo-controlled, superiority clinical trial (MAMAH project).
 34815244	The impact of war on the health system of the Tigray region in Ethiopia: an assessment.
-34815242	Effect of mobile application user interface improvements on minimum expected home visit coverage by community health workers in Mali: a randomised controlled trial.
-34814578	[Introduction of World Health Organization Strategies and the Technical Advisory Committee actions on viral hepatitis control and status of the elimination of viral hepatitis in China].
