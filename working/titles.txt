@@ -1,9 +1,10 @@
+38226582	Practical approach to a patient with a fever after travelling to the tropics.
+38225627	Presence of Plasmodium vivax in Anopheles gambiae and absence in other malaria vectors in Cove-Zagnanando-Ouinhi health zone in southern Benin, West Africa.
+38225530	Evaluation of Malaria Microscopy Diagnostic Performance at 40 Public Health Facilities in Abidjan, Côte d'Ivoire in 2020.
 38224711	Dihydroartemisinin-piperaquine for prevention of malaria in pregnant women living with HIV.
 38224710	Chemoprevention for malaria with monthly intermittent preventive treatment with dihydroartemisinin-piperaquine in pregnant women living with HIV on daily co-trimoxazole in Kenya and Malawi: a randomised, double-blind, placebo-controlled trial.
 38224707	Malaria prevention: advancing clinical trials to policy.
 38224706	Safety and efficacy of dihydroartemisinin-piperaquine for intermittent preventive treatment of malaria in pregnant women with HIV from Gabon and Mozambique: a randomised, double-blind, placebo-controlled trial.
-38225627	Presence of Plasmodium vivax in Anopheles gambiae and absence in other malaria vectors in Cove-Zagnanando-Ouinhi health zone in southern Benin, West Africa.
-38225530	Evaluation of Malaria Microscopy Diagnostic Performance at 40 Public Health Facilities in Abidjan, Côte d'Ivoire in 2020.
 38224386	A Scoping Review on Malaria Prevention and Control Intervention in Fragile and Conflict-Affected States (FCAS): A Need for Renewed Focus to Enhance International Cooperation.
 38223355	Private sector availability and affordability of under 5 malaria health commodities in selected states in Nigeria and the Federal Capital Territory.
 38223354	Development of Deltamethrin-Laced Attractive Toxic Sugar Bait to Control Aedes aegypti (Linnaeus) Population.
@@ -9996,4 +9997,3 @@
 34819002	An Update on Recent Advances for the Treatment of Cerebral Malaria.
 34818870	Scrub typhus: A rare cause of secondary nephrotic syndrome.
 34818868	Prevalence of sibling-species of Anopheles (Cellia) fluviatilis complex in Himachal Pradesh, India.
-34818867	Characterization of midgut microbiome of Anopheles stephensi Liston.
