@@ -1,3 +1,4 @@
+38226700	Compliance of blood donors in Germany with non-sexual deferral criteria.
 38226582	Practical approach to a patient with a fever after travelling to the tropics.
 38225627	Presence of Plasmodium vivax in Anopheles gambiae and absence in other malaria vectors in Cove-Zagnanando-Ouinhi health zone in southern Benin, West Africa.
 38225530	Evaluation of Malaria Microscopy Diagnostic Performance at 40 Public Health Facilities in Abidjan, Côte d'Ivoire in 2020.
@@ -9996,4 +9997,3 @@
 34819025	Funding patterns for biomedical research and infectious diseases burden in Gabon.
 34819002	An Update on Recent Advances for the Treatment of Cerebral Malaria.
 34818870	Scrub typhus: A rare cause of secondary nephrotic syndrome.
-34818868	Prevalence of sibling-species of Anopheles (Cellia) fluviatilis complex in Himachal Pradesh, India.
