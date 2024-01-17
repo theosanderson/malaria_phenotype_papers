@@ -1,9 +1,11 @@
-38228183	A spatio-temporal model of multi-marker antimalarial resistance.
-38228150	Lack of affinity signature for germinal center cells that have initiated plasma cell differentiation.
+38229753	Discovery of Malarial Threonyl tRNA Synthetase Inhibitors by Screening of a Focused Fragment Library.
+38229676	A high-throughput LC-MS/MS assay for piperaquine from dried blood spots: Improving malaria treatment in resource-limited settings.
 38229204	Administration of ivermectin to cattle induced mortality, reduced fecundity and survivorship of Anopheles arabiensis in Ethiopia: an implication for expansion of vector control toolbox.
 38229097	Asymptomatic Plasmodium falciparum carriage at the end of the dry season is associated with subsequent infection and clinical malaria in Eastern Gambia.
 38229020	Entomological indicators of Plasmodium species transmission in Goma Tsé-Tsé and Madibou districts, in the Republic of Congo.
 38228783	A systematic review and meta-analysis of the relationship between magnesium levels and malaria severity.
+38228183	A spatio-temporal model of multi-marker antimalarial resistance.
+38228150	Lack of affinity signature for germinal center cells that have initiated plasma cell differentiation.
 38227960	Comparison of Three Methods to Extract Plasmodium falciparum DNA from Whole Blood and Dried Blood Spots.
 38227566	Factors associated with the use of long-lasting insecticidal nets in pregnant women and mothers with children under five years of age in Gaza province, Mozambique.
 38226700	Compliance of blood donors in Germany with non-sexual deferral criteria.
@@ -9995,5 +9997,3 @@
 34821465	In vivo functional validation of the V402L voltage gated sodium channel mutation in the malaria vector An. gambiae.
 34820155	Immediate pools of malaria infections at diagnosis combined with targeted deep sequencing accurately quantifies frequency of drug resistance mutations.
 34820128	Further evidence needed to change policy for the safe and effective radical cure of vivax malaria: Insights from the 2019 annual APMEN Vivax Working Group meeting.
-34820127	Eliminating again, for the last time: A case study of donor support for malaria in Solomon Islands.
-34819766	An annotated checklist of the eukaryotic parasites of humans, exclusive of fungi and algae.
