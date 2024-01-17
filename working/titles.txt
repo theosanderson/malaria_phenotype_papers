@@ -1,3 +1,5 @@
+38227960	Comparison of Three Methods to Extract Plasmodium falciparum DNA from Whole Blood and Dried Blood Spots.
+38227566	Factors associated with the use of long-lasting insecticidal nets in pregnant women and mothers with children under five years of age in Gaza province, Mozambique.
 38226700	Compliance of blood donors in Germany with non-sexual deferral criteria.
 38226582	Practical approach to a patient with a fever after travelling to the tropics.
 38225627	Presence of Plasmodium vivax in Anopheles gambiae and absence in other malaria vectors in Cove-Zagnanando-Ouinhi health zone in southern Benin, West Africa.
@@ -9995,5 +9997,3 @@
 34819151	Genetic diversity and immunogenicity of the merozoite surface protein 1 C-terminal 19-kDa fragment of Plasmodium ovale imported from Africa into China.
 34819092	Anopheles drivers of persisting malaria transmission in Guna Yala, Panamá: an operational investigation.
 34819025	Funding patterns for biomedical research and infectious diseases burden in Gabon.
-34819002	An Update on Recent Advances for the Treatment of Cerebral Malaria.
-34818870	Scrub typhus: A rare cause of secondary nephrotic syndrome.
