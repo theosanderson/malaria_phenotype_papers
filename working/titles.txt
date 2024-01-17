@@ -1,3 +1,7 @@
+38231057	Future Opportunities in Malaria Management Offered by Probiotics.
+38231055	Analyzing Interaction of Rhodacyanine Inhibitor 'MKT-077' with Plasmodium falciparum HSP70s.
+38230808	Evaluating evidence for co-geography in the Anopheles-Plasmodium host-parasite system.
+38230759	Correction: Future antimalarials from Artemisia? A rationale for natural product mining against drug-refractory Plasmodium stages.
 38229753	Discovery of Malarial Threonyl tRNA Synthetase Inhibitors by Screening of a Focused Fragment Library.
 38229676	A high-throughput LC-MS/MS assay for piperaquine from dried blood spots: Improving malaria treatment in resource-limited settings.
 38229204	Administration of ivermectin to cattle induced mortality, reduced fecundity and survivorship of Anopheles arabiensis in Ethiopia: an implication for expansion of vector control toolbox.
@@ -9993,7 +9997,3 @@
 34822508	Antiparasitic Effects of Sulfated Polysaccharides from Marine Hydrobionts.
 34822098	Correction to: Antiplasmodial Effect of Nano Dendrimer G2 Loaded with Chloroquine in Mice Infected with Plasmodium berghei.
 34821716	Deep Machine Learning Model Trade-Offs for Malaria Elimination in Resource-Constrained Locations.
-34821615	Chloroquine/Hydroxychloroquine Use and Suicide Risk: Hypotheses for Confluent Etiopathogenetic Mechanisms?
-34821465	In vivo functional validation of the V402L voltage gated sodium channel mutation in the malaria vector An. gambiae.
-34820155	Immediate pools of malaria infections at diagnosis combined with targeted deep sequencing accurately quantifies frequency of drug resistance mutations.
-34820128	Further evidence needed to change policy for the safe and effective radical cure of vivax malaria: Insights from the 2019 annual APMEN Vivax Working Group meeting.
