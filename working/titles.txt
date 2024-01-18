@@ -1,7 +1,12 @@
-38232762	Transforming malaria prevention and control: the prospects and challenges of gene drive technology for mosquito management.
+38235482	Alkaloidal Extracts from Avicennia africana P. Beauv. (Avicenniaceae) Leaf: An Antiplasmodial, Antioxidant, and Erythrocyte Viable.
+38234878	Effects of healthcare spending on public health status: An empirical investigation from Bangladesh.
+38234773	Chemical probes to interrogate the extreme environment of mosquito larval guts.
+38234751	Malaria species prevalence among asymptomatic individuals in four regions of Mainland Tanzania.
+38234699	Review of the India Adolescent Health Strategy in the context of disease burden among adolescents.
 38233841	Assessment of pre-referral treatment for malaria, diarrhea, and pneumonia by rural community health workers in Southwestern Uganda: a cross-sectional study.
 38233721	High human blood meal index of mosquitoes in Arba Minch town, southwest Ethiopia: an implication for urban mosquito-borne disease transmission.
 38233214	Malarial Encounters and Shifting Racial Recruitment Strategies by the Basel Mission on the Gold Coast, 1828-1849.
+38232762	Transforming malaria prevention and control: the prospects and challenges of gene drive technology for mosquito management.
 38231057	Future Opportunities in Malaria Management Offered by Probiotics.
 38231055	Analyzing Interaction of Rhodacyanine Inhibitor 'MKT-077' with Plasmodium falciparum HSP70s.
 38230808	Evaluating evidence for co-geography in the Anopheles-Plasmodium host-parasite system.
@@ -9992,8 +9997,3 @@
 34825630	3D-QSAR, molecular docking, DFT and ADMET studies on quinazoline derivatives to explore novel DHFR inhibitors.
 34825184	Phthalimide analogs for antimalarial drug discovery.
 34824938	Spontaneous Splenic Rupture as a Complication of Malaria and Incidental Acute Appendicitis: A Case Report.
-34823591	Serological responses to a soluble recombinant circumsporozoite protein-VK210 of Plasmodium vivax (rPvCSP-VK210) among Iranian malaria patients.
-34823528	The emergence of chloroquine-sensitive Plasmodium falciparum is influenced by selected communities in some parts of the Central Region of Ghana.
-34823527	Acceptability and feasibility of malaria prophylaxis for forest goers: findings from a qualitative study in Cambodia.
-34823523	Prediction of the CYP2D6 enzymatic activity based on investigating of the CYP2D6 genotypes around the vivax malaria patients in Yunnan Province, China.
-34823521	Causal effects on low Apgar at 5-min and stillbirth in a malaria maternal-fetal health outcome investigation: a large perinatal surveillance study in the Brazilian Amazon.
