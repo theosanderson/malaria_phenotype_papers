@@ -1,3 +1,4 @@
+38236068	Comparative assessment of a novel fan box trap for collecting Anopheles farauti and culicine mosquitoes alive in tropical north Queensland, Australia.
 38235482	Alkaloidal Extracts from Avicennia africana P. Beauv. (Avicenniaceae) Leaf: An Antiplasmodial, Antioxidant, and Erythrocyte Viable.
 38234878	Effects of healthcare spending on public health status: An empirical investigation from Bangladesh.
 38234773	Chemical probes to interrogate the extreme environment of mosquito larval guts.
@@ -9996,4 +9997,3 @@
 34826523	Comparison of in vitro transformation efficiency methods for Plasmodium falciparum.
 34825630	3D-QSAR, molecular docking, DFT and ADMET studies on quinazoline derivatives to explore novel DHFR inhibitors.
 34825184	Phthalimide analogs for antimalarial drug discovery.
-34824938	Spontaneous Splenic Rupture as a Complication of Malaria and Incidental Acute Appendicitis: A Case Report.
