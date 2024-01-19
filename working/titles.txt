@@ -1,3 +1,5 @@
+38240877	Genetic polymorphism and clustering of the Plasmodium cynomolgi Duffy binding protein 1 region II of recent macaque isolates from Peninsular Malaysia.
+38240324	Whole Genome Sequencing Unravels Cryptic Circulation of Divergent Dengue Virus Lineages in the Rainforest Region of Nigeria.
 38239295	Antimalarial target vulnerability of the putative Plasmodium falciparum methionine synthase.
 38238886	Endoplasmic reticulum localized TMEM33 domain-containing protein is crucial for all life cycle stages of the malaria parasite.
 38238851	Association between malaria parasite density and hematological profile in malaria infected children at a Nigerian Private hospital.
@@ -9995,5 +9997,3 @@
 34831198	Trogocytosis in Unicellular Eukaryotes.
 34831072	Inhibitors of the Plasmodium falciparum Hsp90 towards Selective Antimalarial Drug Design: The Past, Present and Future.
 34830263	Evidence of G-Protein-Coupled Receptors (GPCR) in the Parasitic Protozoa Plasmodium falciparum-Sensing the Host Environment and Coupling within Its Molecular Signaling Toolkit.
-34830022	Essential Oils from Annonaceae Species from Brazil: A Systematic Review of Their Phytochemistry, and Biological Activities.
-34829991	Phosphoproteomic Comparison of Four Eimeria tenella Life Cycle Stages.
