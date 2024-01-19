@@ -1,3 +1,6 @@
+38236930	Single cell RNA sequencing reveals endothelial cell killing and resolution pathways in experimental malaria-associated acute respiratory distress syndrome.
+38236812	Seasonal prediction of the distribution of three major malaria vectors in China: Based on an ecological niche model.
+38236793	Molecular speciation of Plasmodium and multiplicity of P. falciparum infection in the Central region of Ghana.
 38236068	Comparative assessment of a novel fan box trap for collecting Anopheles farauti and culicine mosquitoes alive in tropical north Queensland, Australia.
 38235482	Alkaloidal Extracts from Avicennia africana P. Beauv. (Avicenniaceae) Leaf: An Antiplasmodial, Antioxidant, and Erythrocyte Viable.
 38234878	Effects of healthcare spending on public health status: An empirical investigation from Bangladesh.
@@ -9994,6 +9997,3 @@
 34828264	Genetic Diversity of Plasmodium vivax Cysteine-Rich Protective Antigen (PvCyRPA) in Field Isolates from Five Different Areas of the Brazilian Amazon.
 34828022	Molecular Detection and Characterization of Intestinal and Blood Parasites in Wild Chimpanzees (Pan troglodytes verus) in Senegal.
 34827078	Alteration of Blood Lactate Levels in Severe Falciparum Malaria: A Systematic Review and Meta-Analysis.
-34826523	Comparison of in vitro transformation efficiency methods for Plasmodium falciparum.
-34825630	3D-QSAR, molecular docking, DFT and ADMET studies on quinazoline derivatives to explore novel DHFR inhibitors.
-34825184	Phthalimide analogs for antimalarial drug discovery.
