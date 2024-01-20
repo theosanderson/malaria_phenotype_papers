@@ -1,3 +1,9 @@
+38243247	Epidemiological behaviour and interventions of malaria in Niger, 2010-2019: a time-series analysis of national surveillance data.
+38243243	Post hospital admission blood lactate measurements are associated with mortality but not neurologic morbidity in children with cerebral malaria.
+38243165	In-depth transcriptomic analysis of Anopheles gambiae hemocytes uncovers novel genes and the oenocytoid developmental lineage.
+38243065	Malaria risk stratification in Lao PDR guides program planning in an elimination setting.
+38242636	Institutionalizing Innovation: From Pilot to Scale for Co-Packaged Oral Rehydration Salts and Zinc-A Case Study in Zambia.
+38243220	Dynamics of malaria vector composition and Plasmodium falciparum infection in mainland Tanzania: 2017-2021 data from the national malaria vector entomological surveillance.
 38241411	Association between arterial stiffness and Loa loa microfilaremia in a rural area of the Republic of Congo: A population-based cross-sectional study (the MorLo project).
 38241404	Child malaria vaccine uptake in Ghana: Factors influencing parents' willingness to allow vaccination of their children under five (5) years.
 38240877	Genetic polymorphism and clustering of the Plasmodium cynomolgi Duffy binding protein 1 region II of recent macaque isolates from Peninsular Malaysia.
@@ -9991,9 +9997,3 @@
 34832676	Entomological Surveillance in Former Malaria-endemic Areas of Southern Italy.
 34832620	Artemisinin Binds and Inhibits the Activity of Plasmodium falciparum Ddi1, a Retroviral Aspartyl Protease.
 34832608	Overexpression of Plasmodium falciparum M1 Aminopeptidase Promotes an Increase in Intracellular Proteolysis and Modifies the Asexual Erythrocytic Cycle Development.
-34832591	Sickle Cell Anemia and Babesia Infection.
-34832588	Evidence of a Recent Bottleneck in Plasmodium falciparum Populations on the Honduran-Nicaraguan Border.
-34832510	Genetic Evidence of the Black Death in the Abbey of San Leonardo (Apulia Region, Italy): Tracing the Cause of Death in Two Individuals Buried with Coins.
-34832380	Selected Derivatives of Erythromycin B-In Silico and Anti-Malarial Studies.
-34831610	The Effect of Socioeconomic Factors and Indoor Residual Spraying on Malaria in Mangaluru, India: A Case-Control Study.
-34831198	Trogocytosis in Unicellular Eukaryotes.
