@@ -1,3 +1,5 @@
+38241411	Association between arterial stiffness and Loa loa microfilaremia in a rural area of the Republic of Congo: A population-based cross-sectional study (the MorLo project).
+38241404	Child malaria vaccine uptake in Ghana: Factors influencing parents' willingness to allow vaccination of their children under five (5) years.
 38240877	Genetic polymorphism and clustering of the Plasmodium cynomolgi Duffy binding protein 1 region II of recent macaque isolates from Peninsular Malaysia.
 38240324	Whole Genome Sequencing Unravels Cryptic Circulation of Divergent Dengue Virus Lineages in the Rainforest Region of Nigeria.
 38239295	Antimalarial target vulnerability of the putative Plasmodium falciparum methionine synthase.
@@ -9995,5 +9997,3 @@
 34832380	Selected Derivatives of Erythromycin B-In Silico and Anti-Malarial Studies.
 34831610	The Effect of Socioeconomic Factors and Indoor Residual Spraying on Malaria in Mangaluru, India: A Case-Control Study.
 34831198	Trogocytosis in Unicellular Eukaryotes.
-34831072	Inhibitors of the Plasmodium falciparum Hsp90 towards Selective Antimalarial Drug Design: The Past, Present and Future.
-34830263	Evidence of G-Protein-Coupled Receptors (GPCR) in the Parasitic Protozoa Plasmodium falciparum-Sensing the Host Environment and Coupling within Its Molecular Signaling Toolkit.
