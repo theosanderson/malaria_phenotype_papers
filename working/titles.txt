@@ -1,3 +1,9 @@
+38245788	Evaluating the long-term impact of COVID-19-associated public health interventions on zoonotic and vector-borne diseases in China: an interrupted time series analysis.
+38245618	Trio fluorophore-based phenotypic assay for the detection of artemisinin-induced growth-arrested Plasmodium falciparum in human erythrocytes.
+38245108	Malaria guidelines fall short in diagnosing acute kidney injury.
+38244916	The regulatory role of CD36 in hematopoiesis beyond fatty acid uptake.
+38244749	Genetic polymorphisms of Plasmodium vivax ookinete (sexual stage) surface proteins (Pvs25 and Pvs28) from Thailand.
+38244673	The European Lead Factory: results from a decade of collaborative, public-private, drug discovery programs.
 38243611	Plasmodium malariae and Plasmodium ovale-prevalent and relevant.
 38243247	Epidemiological behaviour and interventions of malaria in Niger, 2010-2019: a time-series analysis of national surveillance data.
 38243243	Post hospital admission blood lactate measurements are associated with mortality but not neurologic morbidity in children with cerebral malaria.
@@ -9991,9 +9997,3 @@
 34834086	Extraction, Isolation and Characterization of Bioactive Compounds from Artemisia and Their Biological Significance: A Review.
 34834014	The Future of Carica papaya Leaf Extract as an Herbal Medicine Product.
 34832972	Discovery and Development of Inhibitors of the Plasmodial FNT-Type Lactate Transporter as Novel Antimalarials.
-34832956	Synthesis, Molecular Docking, and Antimalarial Activity of Hybrid 4-Aminoquinoline-pyrano[2,3-c]pyrazole Derivatives.
-34832911	Studies of Potency and Efficacy of an Optimized Artemisinin-Quinoline Hybrid against Multiple Stages of the Plasmodium Life Cycle.
-34832891	Synthesis and Structure-Activity Relationships of New 2-Phenoxybenzamides with Antiplasmodial Activity.
-34832844	Dynamic pH and Thermal Analysis of Paper-Based Microchip Electrophoresis.
-34832676	Entomological Surveillance in Former Malaria-endemic Areas of Southern Italy.
-34832620	Artemisinin Binds and Inhibits the Activity of Plasmodium falciparum Ddi1, a Retroviral Aspartyl Protease.
