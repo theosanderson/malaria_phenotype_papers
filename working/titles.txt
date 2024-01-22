@@ -1,3 +1,5 @@
+38252481	Seasonal Malaria Chemoprevention Therapy in Children Up To 9 Years of Age: Protocol for a Cluster-Randomized Trial Study.
+38252299	Ursolic acid acetate and iso-mukaadial acetate bind to Plasmodium falciparum Hsp90, abrogating its chaperone function in vitro.
 38251359	Mosquito Salivary Antigens and Their Relationship to Dengue and P. vivax Malaria.
 38251221	Situation Analysis of Early Implementation of Programmatic Management of Tuberculosis Preventive Treatment among Household Contacts of Pulmonary TB Patients in Delhi, India.
 38251217	House Screening Reduces Exposure to Indoor Host-Seeking and Biting Malaria Vectors: Evidence from Rural South-East Zambia.
@@ -9995,5 +9997,3 @@
 34838027	Assessing health-seeking behaviour and malaria prevention practices among communities in four districts of the Volta Region of Ghana.
 34838010	High prevalence of malaria in a non-endemic setting among febrile episodes in travellers and migrants coming from endemic areas: a retrospective analysis of a 2013-2018 cohort.
 34837922	Suppression of Cholangiocarcinoma Cell Growth and Proliferation by Atractylodes lancea (Thunb) DC. through ERK-Signaling Cascade.
-34837186	Sample-to-Answer Microfluidic Nucleic Acid Testing (NAT) on Lab-on-a-Disc for Malaria Detection at Point of Need.
-34837184	An Ultracompact Real-Time Fluorescence Loop-Mediated Isothermal Amplification (LAMP) Analyzer.
