@@ -1,5 +1,19 @@
-38246398	Phylogenetic congruence of Plasmodium spp. and wild ungulate hosts in the Peruvian Amazon.
+38251359	Mosquito Salivary Antigens and Their Relationship to Dengue and P. vivax Malaria.
+38251221	Situation Analysis of Early Implementation of Programmatic Management of Tuberculosis Preventive Treatment among Household Contacts of Pulmonary TB Patients in Delhi, India.
+38251217	House Screening Reduces Exposure to Indoor Host-Seeking and Biting Malaria Vectors: Evidence from Rural South-East Zambia.
+38251213	Spatiotemporal Distribution of Malaria in the Kingdom of Saudi Arabia.
+38251206	Meta-Analysis of Data from Four Clinical Trials in the Ivory Coast Assessing the Efficacy of Two Artemisinin-Based Combination Therapies (Artesunate-Amodiaquine and Artemether-Lumefantrine) between 2009 and 2016.
+38250850	Extraordinary Titer and Broad Anti-SARS-CoV-2 Neutralization Induced by Stabilized RBD Nanoparticles from Strain BA.5.
+38249804	Stakeholder engagement in the development of genetically modified mosquitoes for malaria control in West Africa: lessons learned from 10 years of Target Malaria's work in Mali.
+38249076	Assessment of Nano-Formulated Conventional Insecticide-Treated Sugar Baits on Mosquito Control and the Effect on Non-Target Aphidophagous Coccinella septempunctata.
+38248575	Correction: Suh Nchang et al. Knowledge about Asymptomatic Malaria and Acceptability of Using Artemisia afra Tea among Health Care Workers (HCWs) in Yaoundé, Cameroon: A Cross-Sectional Survey. Int. J. Environ. Res. Public Health 2023, 20, 6309.
+38248543	Socioeconomic, Demographic, and Environmental Factors May Inform Malaria Intervention Prioritization in Urban Nigeria.
+38247462	Oxidative Stress in Parasitic Diseases-Reactive Oxygen Species as Mediators of Interactions between the Host and the Parasites.
+38247354	Malaria Infection in Patients with Sickle Cell Disease in Nigeria: Association with Markers of Hyposplenism.
+38247316	Acute kidney injury in the tropics.
+38247229	Indole clubbed 2,4-thiazolidinedione linked 1,2,3-triazole as a potent antimalarial and antibacterial agent against drug-resistant strain and molecular modeling studies.
 38246860	Inhibition of vertebrate complement system by hematophagous arthropods: inhibitory molecules, mechanisms, physiological roles, and applications.
+38246398	Phylogenetic congruence of Plasmodium spp. and wild ungulate hosts in the Peruvian Amazon.
 38245788	Evaluating the long-term impact of COVID-19-associated public health interventions on zoonotic and vector-borne diseases in China: an interrupted time series analysis.
 38245618	Trio fluorophore-based phenotypic assay for the detection of artemisinin-induced growth-arrested Plasmodium falciparum in human erythrocytes.
 38245108	Malaria guidelines fall short in diagnosing acute kidney injury.
@@ -9983,17 +9997,3 @@
 34837922	Suppression of Cholangiocarcinoma Cell Growth and Proliferation by Atractylodes lancea (Thunb) DC. through ERK-Signaling Cascade.
 34837186	Sample-to-Answer Microfluidic Nucleic Acid Testing (NAT) on Lab-on-a-Disc for Malaria Detection at Point of Need.
 34837184	An Ultracompact Real-Time Fluorescence Loop-Mediated Isothermal Amplification (LAMP) Analyzer.
-34837020	Plasmodium falciparum pfhrp2 and pfhrp3 gene deletions among patients in the DRC enrolled from 2017 to 2018.
-34836913	Rethinking public health campaigns in the COVID-19 era: a call to improve effectiveness, equity and impact.
-34836817	The Batman and Robin of liver-stage immunity to malaria.
-34836505	Seasonality of confirmed malaria cases from 2008 to 2017 in Togo: a time series analysis by health district and target group.
-34835460	Bhalin, an Essential Cytoskeleton-Associated Protein of Trypanosoma brucei Linking TbBILBO1 of the Flagellar Pocket Collar with the Hook Complex.
-34835432	Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein.
-34835391	Malaria Diagnosis in Non-Endemic Settings: The European Experience in the Last 22 Years.
-34835379	Protective Efficacy in a Hamster Model of a Multivalent Vaccine for Human Visceral Leishmaniasis (MuLeVaClin) Consisting of the KMP11, LEISH-F3+, and LJL143 Antigens in Virosomes, Plus GLA-SE Adjuvant.
-34835365	The Impact of Temperature on the Sporogonic Development of the Tropical Avian Malaria Parasite Plasmodium relictum (Genetic Lineage pGRW4) in Culex pipiens Form molestus Mosquitoes.
-34835175	Alum Pickering Emulsion as Effective Adjuvant to Improve Malaria Vaccine Efficacy.
-34834955	Detection of Insect-Specific Flaviviruses in Mosquitoes (Diptera: Culicidae) in Northeastern Regions of South Africa.
-34834786	Chemical Diversity between Three Graminoid Plants Found in Western Kenya Analyzed by Headspace Solid-Phase Microextraction Gas Chromatography-Mass Spectrometry (HS-SPME-GC-MS).
-34834257	New Compounds with Bioisosteric Replacement of Classic Choline Kinase Inhibitors Show Potent Antiplasmodial Activity.
-34834086	Extraction, Isolation and Characterization of Bioactive Compounds from Artemisia and Their Biological Significance: A Review.
