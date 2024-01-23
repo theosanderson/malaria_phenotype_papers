@@ -1,3 +1,7 @@
+38252889	An artesunate pharmacometric model to explain therapeutic responses in falciparum malaria-authors' response.
+38252714	A systematic literature review on factors of socio-environmental vulnerability associated with water-borne diseases.
+38252650	Updating estimates of Plasmodium knowlesi malaria risk in response to changing land use patterns across Southeast Asia.
+38252559	Coordinated regulation of gene expression in Plasmodium female gametocytes by two transcription factors.
 38252481	Seasonal Malaria Chemoprevention Therapy in Children Up To 9 Years of Age: Protocol for a Cluster-Randomized Trial Study.
 38252299	Ursolic acid acetate and iso-mukaadial acetate bind to Plasmodium falciparum Hsp90, abrogating its chaperone function in vitro.
 38251359	Mosquito Salivary Antigens and Their Relationship to Dengue and P. vivax Malaria.
@@ -9993,7 +9997,3 @@
 34838192	Achieving malaria elimination in China.
 34838151	Artemether-lumefantrine and dihydroartemisinin-piperaquine treatment outcomes among children infected with uncomplicated Plasmodium falciparum malaria in Mwanza, Tanzania.
 34838107	Phylogenetic analysis of the Neotropical Albitarsis Complex based on mitogenome data.
-34838095	Comment on: Emergence of the invasive malaria vector Anopheles stephensi in Khartoum State, Central Sudan.
-34838027	Assessing health-seeking behaviour and malaria prevention practices among communities in four districts of the Volta Region of Ghana.
-34838010	High prevalence of malaria in a non-endemic setting among febrile episodes in travellers and migrants coming from endemic areas: a retrospective analysis of a 2013-2018 cohort.
-34837922	Suppression of Cholangiocarcinoma Cell Growth and Proliferation by Atractylodes lancea (Thunb) DC. through ERK-Signaling Cascade.
