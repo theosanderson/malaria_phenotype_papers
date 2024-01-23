@@ -1,3 +1,17 @@
+38257964	Detection of Developmental Asexual Stage-Specific RNA Editing Events in Plasmodium falciparum 3D7 Malaria Parasite.
+38257939	Fused Enzyme Glucose-6-Phosphate Dehydrogenase::6-Phosphogluconolactonase (G6PD::6PGL) as a Potential Drug Target in Giardia lamblia, Trichomonas vaginalis, and Plasmodium falciparum.
+38257932	Plasmodium chabaudi Merozoites Obtained through a Simpler Method Do Not Survive in Classically Activated Macrophages.
+38257922	First Report of Anopheles annularis s.l., An. maculatus s.s., and An. culicifacies s.l. as Malaria Vectors and a New Occurrence Record for An. pseudowillmori and An. sawadwongporni in Alipurduar District Villages, West Bengal, India.
+38257909	Revolutionizing Malaria Vector Control: The Importance of Accurate Species Identification through Enhanced Molecular Capacity.
+38256880	N-(coumarin-3-yl)cinnamamide Promotes Immunomodulatory, Neuroprotective, and Lung Function-Preserving Effects during Severe Malaria.
+38256856	Computer-Aided Drug Design and Drug Discovery: A Prospective Analysis.
+38255768	The Laboratory Diagnosis of Malaria: A Focus on the Diagnostic Assays in Non-Endemic Areas.
+38255246	Are pvcrt-o and pvmdr1 Gene Mutations Associated with Plasmodium vivax Chloroquine-Resistant Parasites?
+38254700	The Need for Novel Asexual Blood-Stage Malaria Vaccine Candidates for Plasmodium falciparum.
+38254646	Plasmodium, the Apicomplexa Outlier When It Comes to Protein Synthesis.
+38254131	Impact of a spatial repellent intervention on Anopheles kdr insecticide resistance allele in Sumba, Indonesia.
+38254128	Artemisinin-naphthoquine plus lower-dose primaquine to treat and prevent recurrence of Plasmodium vivax malaria: an open-label randomized and non-inferiority trial.
+38254075	Geospatial analysis of Plasmodium falciparum serological indicators: school versus community sampling in a low-transmission malaria setting.
 38253445	Understanding China's shifting priorities and priority-setting processes in development assistance for health.
 38253441	External technical assistance and its contribution to donor transition and long-term sustainability: experience from China and Georgia.
 38252889	An artesunate pharmacometric model to explain therapeutic responses in falciparum malaria-authors' response.
@@ -9983,17 +9997,3 @@
 34843674	Rates of viral suppression in a cohort of people with stable HIV from two community models of ART delivery versus facility-based HIV care in Lusaka, Zambia: a cluster-randomised, non-inferiority trial nested in the HPTN 071 (PopART) trial.
 34843584	Skeleton binding protein-1-mediated parasite sequestration inhibits spontaneous resolution of malaria-associated acute respiratory distress syndrome.
 34843560	Genetic diversity and population structure of the human malaria parasite Plasmodium falciparum surface protein Pfs47 in isolates from the lowlands in Western Kenya.
-34843453	Integrating deep learning with microfluidics for biophysical classification of sickle red blood cells adhered to laminin.
-34843390	Scoping Review of Antimalarial Drug Candidates in Phase I and II Drug Development.
-34842987	Cnidarians as a potential source of antiparasitic drugs.
-34842755	Effect of Silica Based Nanoparticles against Plasmodium falciparum and Leishmania infantum parasites.
-34842470	Complement component 3 mutations alter the longitudinal risk of pediatric malaria and severe malarial anemia.
-34841374	Harnessing the potentials of masters/mistresses of ceremony to promote community health and wellbeing amidst COVID-19 and other public health challenges.
-34841327	Malaria-induced bacteremia as a consequence of multiple parasite survival strategies.
-34841309	Malaria parasites and circadian rhythm: New insights into an old puzzle.
-34841167	Identification of a Novel Series of Potent Organosilicon Mosquito Repellents.
-34839568	What are the essential components of antenatal care? A systematic review of the literature and development of signal functions to guide monitoring and evaluation.
-34838227	WHO recommends malaria vaccine for children.
-34838225	Chloroquine-resistant Plasmodium falciparum in Pakistan.
-34838202	Child, maternal, and adult mortality in Sierra Leone: nationally representative mortality survey 2018-20.
-34838192	Achieving malaria elimination in China.
