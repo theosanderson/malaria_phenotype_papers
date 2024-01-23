@@ -1,3 +1,15 @@
+38260611	Red blood cell dynamics during malaria infection violate the assumptions of mathematical models of infection dynamics.
+38260604	Prevalence of Falciparum and non-Falciparum Malaria in the 2014-15 Rwanda Demographic Health Survey.
+38260474	Mixed Alkyl/Aryl Phosphonates Identify Metabolic Serine Hydrolases as Antimalarial Targets.
+38260260	Asymptomatic malaria parasitaemia and virological non-suppression among children living with HIV in Accra, Ghana: a cross-sectional study.
+38259795	Training-of-trainers program for community health workers involved in an innovative and community-based intervention against malaria among goldminers in the Guiana shield: a quality and effectiveness evaluation.
+38259757	Vivax malaria: a possible stumbling block for malaria elimination in India.
+38259428	Do Blood group and Sickle cell trait protect against placental malaria?
+38259296	Efficacies and ADME properties of redox active methylene blue and phenoxazine analogues for use in new antimalarial triple drug combinations with amino-artemisinins.
+38259197	Genus Monanthotaxis: a review on distribution, ethnomedicinal uses and phytochemistry.
+38259087	Genetic complexity alters drug susceptibility of asexual and gametocyte stages of Plasmodium falciparum to antimalarial candidates.
+38258892	Factors impacting sustained coverage in the context of donor transitions: experience from Sri Lanka.
+38258881	Detection of Plasmodium spp. in asymptomatic blood donors by the new Brazilian NAT PLUS HIV/HBV/HCV/Malaria Bio-Manguinhos kit.
 38257964	Detection of Developmental Asexual Stage-Specific RNA Editing Events in Plasmodium falciparum 3D7 Malaria Parasite.
 38257939	Fused Enzyme Glucose-6-Phosphate Dehydrogenase::6-Phosphogluconolactonase (G6PD::6PGL) as a Potential Drug Target in Giardia lamblia, Trichomonas vaginalis, and Plasmodium falciparum.
 38257932	Plasmodium chabaudi Merozoites Obtained through a Simpler Method Do Not Survive in Classically Activated Macrophages.
@@ -9985,15 +9997,3 @@
 34846704	World Health Organization recommends first malaria vaccine.
 34846541	Development of single- and multiplex immunoassays for rapid detection and quantitation of amodiaquine in ACT drugs and rat serum.
 34846232	Mass spectrometry based metabolomics for small molecule metabolites mining and confirmation as potential biomarkers for schistosomiasis - case of the Okavango Delta communities in Botswana.
-34846163	Successful Profiling of Plasmodium falciparum var Gene Expression in Clinical Samples via a Custom Capture Array.
-34845928	Availability and Utilization of the WHO-Recommended Lifesaving Medicines for Under-Five Children at University of Gondar Comprehensive Specialized Hospital, Amhara Region, Ethiopia.
-34845267	Epitope-coated polymer particles elicit neutralising antibodies against Plasmodium falciparum sporozoites.
-34845210	Molecular interactions between parasite and mosquito during midgut invasion as targets to block malaria transmission.
-34844601	Marked reduction in antibiotic usage following intensive malaria control in a cohort of Ugandan children.
-34844214	Mining-Associated Malaria Epidemics.
-34844194	Dysregulation of placental vascular development- a mechanism for adverse pregnancy outcomes in placental malaria.
-34844038	Antiplasmodial activity of constituents and their metabolites after in vitro gastrointestinal biotransformation of a Nauclea pobeguinii extract.
-34843689	Characterisation of the epigenetic architecture of the major malaria vector Anopheles arabiensis (Diptera: Culicidae) after treatment with epigenetic modulators and heavy metals.
-34843674	Rates of viral suppression in a cohort of people with stable HIV from two community models of ART delivery versus facility-based HIV care in Lusaka, Zambia: a cluster-randomised, non-inferiority trial nested in the HPTN 071 (PopART) trial.
-34843584	Skeleton binding protein-1-mediated parasite sequestration inhibits spontaneous resolution of malaria-associated acute respiratory distress syndrome.
-34843560	Genetic diversity and population structure of the human malaria parasite Plasmodium falciparum surface protein Pfs47 in isolates from the lowlands in Western Kenya.
