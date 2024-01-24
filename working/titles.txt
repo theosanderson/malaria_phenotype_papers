@@ -1,3 +1,5 @@
+38261617	Complement receptor 1 is the human erythrocyte receptor for Plasmodium vivax erythrocyte binding protein.
+38261578	Adverse Drug Reactions and Changes in Haematological and Clinical Chemistry to Two Acts among Nigerian Children with Acute Uncomplicated Malaria.
 38260611	Red blood cell dynamics during malaria infection violate the assumptions of mathematical models of infection dynamics.
 38260604	Prevalence of Falciparum and non-Falciparum Malaria in the 2014-15 Rwanda Demographic Health Survey.
 38260474	Mixed Alkyl/Aryl Phosphonates Identify Metabolic Serine Hydrolases as Antimalarial Targets.
@@ -9995,5 +9997,3 @@
 37585827	Community perspectives and caregivers' healthcare practices and responses to the four major childhood killer diseases in Nigeria.
 34847530	Missed Plasmodium falciparum and Plasmodium vivax Mixed Infections in Ethiopia Threaten Malaria Elimination.
 34846704	World Health Organization recommends first malaria vaccine.
-34846541	Development of single- and multiplex immunoassays for rapid detection and quantitation of amodiaquine in ACT drugs and rat serum.
-34846232	Mass spectrometry based metabolomics for small molecule metabolites mining and confirmation as potential biomarkers for schistosomiasis - case of the Okavango Delta communities in Botswana.
