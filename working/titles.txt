@@ -1,3 +1,6 @@
+38264168	Anopheles funestus sensu stricto Giles (Diptera:Culicidae) bites after sunrise at two rural villages in northern Malawi and its implications for malaria vector control.
+38263976	Diagnosis and management of malaria in the intensive care unit.
+38263972	Infectious causes of fever of unknown origin in developing countries: An international ID-IRI study.
 38263087	Analysing the six-year malaria trends at Metehara Health Centre in Central Ethiopia: the impact of resurgence on the 2030 elimination goals.
 38262985	High frequency of antimicrobial resistance in Salmonella and Escherichia coli causing diarrheal diseases at the Yirimadio community health facility, Mali.
 38262838	Glycosylation in malaria parasites: what do we know?
@@ -9994,6 +9997,3 @@
 34851998	Will Africans take COVID-19 vaccination?
 34851691	Repeated Plasmodium falciparum infection in humans drives the clonal expansion of an adaptive γδ T cell repertoire.
 34851355	Tetralogy of Fallot in the nascent open-heart surgical era in a tertiary hospital in south-west Nigeria: lessons learnt.
-34850571	In silico design, chemical synthesis and biological screening of novel 4-(1H)-pyridone-based antimalarial agents.
-34850311	The Impact of Maternal Depression and Parent-Child Interactions on Risk of Parasitic Infections in Early Childhood: A Prospective Cohort in Benin.
-34849822	CRISPR-mediated knock-in of transgenes into the malaria vector Anopheles funestus.
