@@ -1,3 +1,6 @@
+38265706	Host-Pathogen Interaction: Biology and Public Health.
+38265549	Characteristics of splenic PD-1(+) γδT cells in Plasmodium yoelii nigeriensis infection.
+38265385	Current Trends in Nanotechnology-based Drug Delivery Systems for the Diagnosis and Treatment of Malaria: A Review.
 38264168	Anopheles funestus sensu stricto Giles (Diptera:Culicidae) bites after sunrise at two rural villages in northern Malawi and its implications for malaria vector control.
 38263976	Diagnosis and management of malaria in the intensive care unit.
 38263972	Infectious causes of fever of unknown origin in developing countries: An international ID-IRI study.
@@ -364,7 +367,7 @@
 38132724	Apicomplexan phosphodiesterases in cyclic nucleotide turnover: conservation, function, and therapeutic potential.
 38132684	YOLO-PAM: Parasite-Attention-Based Model for Efficient Malaria Detection.
 38132614	Mosquitoes Possess Specialized Cuticular Proteins That Are Evolutionarily Related to the Elastic Protein Resilin.
-38132182	A computational method for predicting the most likely evolutionary trajectories in the step-wise accumulation of resistance mutations.
+38132182	A computational method for predicting the most likely evolutionary trajectories in the stepwise accumulation of resistance mutations.
 38131883	Effects of COVID-19-Associated Infection Control on the Pattern of Infections Imported by German Soldiers and Police Officers Returning from Predominantly Tropical Deployment Sites.
 38131664	Plasmodium female gamete surface HSP90 is a key determinant for fertilization.
 38131156	Disruption of a Plasmodium falciparum patatin-like phospholipase delays male gametocyte exflagellation.
@@ -9994,6 +9997,3 @@
 34852308	The impact of public health sector stockouts on private sector prices and access to healthcare: Evidence from the anti-malarial drug market.
 34852138	Prevalence of parasites in selected captive bird species.
 34852001	Peer- and community-led responses to HIV: A scoping review.
-34851998	Will Africans take COVID-19 vaccination?
-34851691	Repeated Plasmodium falciparum infection in humans drives the clonal expansion of an adaptive γδ T cell repertoire.
-34851355	Tetralogy of Fallot in the nascent open-heart surgical era in a tertiary hospital in south-west Nigeria: lessons learnt.
