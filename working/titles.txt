@@ -1,3 +1,7 @@
+38263087	Analysing the six-year malaria trends at Metehara Health Centre in Central Ethiopia: the impact of resurgence on the 2030 elimination goals.
+38262985	High frequency of antimicrobial resistance in Salmonella and Escherichia coli causing diarrheal diseases at the Yirimadio community health facility, Mali.
+38262838	Glycosylation in malaria parasites: what do we know?
+38262446	In Vitro Antimalarial Activity of Trichothecenes against Liver and Blood Stages of Plasmodium Species.
 38261617	Complement receptor 1 is the human erythrocyte receptor for Plasmodium vivax erythrocyte binding protein.
 38261578	Adverse Drug Reactions and Changes in Haematological and Clinical Chemistry to Two Acts among Nigerian Children with Acute Uncomplicated Malaria.
 38260611	Red blood cell dynamics during malaria infection violate the assumptions of mathematical models of infection dynamics.
@@ -9993,7 +9997,3 @@
 34850571	In silico design, chemical synthesis and biological screening of novel 4-(1H)-pyridone-based antimalarial agents.
 34850311	The Impact of Maternal Depression and Parent-Child Interactions on Risk of Parasitic Infections in Early Childhood: A Prospective Cohort in Benin.
 34849822	CRISPR-mediated knock-in of transgenes into the malaria vector Anopheles funestus.
-34849647	Performance of a Histidine Rich Protein-2 Based (First Response) and a p-Lactate Dehydrogenase-based (Optimal) Rapid Diagnostic Test for Diagnosis of Malaria in Patients With Pediatric Sickle Cell Disease.
-37585827	Community perspectives and caregivers' healthcare practices and responses to the four major childhood killer diseases in Nigeria.
-34847530	Missed Plasmodium falciparum and Plasmodium vivax Mixed Infections in Ethiopia Threaten Malaria Elimination.
-34846704	World Health Organization recommends first malaria vaccine.
