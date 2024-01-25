@@ -1,3 +1,8 @@
+38266305	Identifying Strengths and Gaps in Data Management and Reporting through Malaria Routine Data Quality Assessment: Results from Two Health Regions in Madagascar.
+38266300	Mass Drug Administration: Contextual Factor Considerations.
+38266296	Targeted Drug Administration to Reduce Malaria Transmission: A Systematic Review and Meta-Analysis.
+38266287	Improving the Quality and Use of Malaria Surveillance Data: Results from Evaluating an Integrated Malaria Information Storage System at the Health Facility Level in Selected Districts in Mozambique.
+38265982	Have there been efforts to integrate malaria and schistosomiasis prevention and control programs? A scoping review of the literature.
 38265706	Host-Pathogen Interaction: Biology and Public Health.
 38265549	Characteristics of splenic PD-1(+) γδT cells in Plasmodium yoelii nigeriensis infection.
 38265385	Current Trends in Nanotechnology-based Drug Delivery Systems for the Diagnosis and Treatment of Malaria: A Review.
@@ -9992,8 +9997,3 @@
 34856954	Distance matters: barriers to antenatal care and safe childbirth in a migrant population on the Thailand-Myanmar border from 2007 to 2015, a pregnancy cohort study.
 34856775	An Outbreak of Arboviral Infection in a Region with Background Malaria Endemicity from Northwestern Nigeria: An Investigation Report.
 34855919	"Reading" a new chapter in protozoan parasite transcriptional regulation.
-34855878	Malaria infection and anemia status in under-five children from Southern Tanzania where seasonal malaria chemoprevention is being implemented.
-34853193	Effects of Indoor Environmental Factors and House Structures on Vaporization of Active Ingredient from Spatial Repellent Devices in Rural Houses in Malawi.
-34852308	The impact of public health sector stockouts on private sector prices and access to healthcare: Evidence from the anti-malarial drug market.
-34852138	Prevalence of parasites in selected captive bird species.
-34852001	Peer- and community-led responses to HIV: A scoping review.
