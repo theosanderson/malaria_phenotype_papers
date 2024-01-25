@@ -1,3 +1,5 @@
+38269105	Evaluation of the administrative, coordination and financing capacity of the sub-national malaria elimination programs in Nigeria: a case study of cross river state.
+38268773	Highly Regioselective Protecting-Group-Free Synthesis of the Antimalarial Drug MMV693183.
 38267985	A quasi-experimental study to estimate effectiveness of seasonal malaria chemoprevention in Aweil South County in Northern Bahr El Ghazal, South Sudan.
 38267927	Community perceptions, acceptability, and the durability of house screening interventions against exposure to malaria vectors in Nyimba district, Zambia.
 38267916	Availability of antimalarial medicines and inventory management at the community level: a case study of Bugesera district in Rwanda.
@@ -174,6 +176,7 @@
 38200025	Accelerated prime-and-trap vaccine regimen in mice using repRNA-based CSP malaria vaccine.
 38199522	Histone H3.3 variant plays a critical role on zygote-to-oocyst development in malaria parasites.
 38199452	A visualized hybrid PCR-LAMP assay for the detection of human Plasmodium species.
+30725771	Chloroquine and Hydroxychloroquine Toxicity.
 38198596	Emerging Drug Targets for Antimalarial Drug Discovery: Validation and Insights into Molecular Mechanisms of Function.
 38198397	Updated Anopheles mosquitos abundance and distribution in north-eastern malaria-free area of Argentina.
 38197419	A computational strategy for systematic virtual screening of plasmodium falciparum heme detoxification protein inhibitors from the Drugbank database.
@@ -1938,7 +1941,6 @@
 37591916	Intelligent diagnostic model for malaria parasite detection and classification using imperative inception-based capsule neural networks.
 37591894	Elucidation of the low-expressing erythroid CR1 phenotype by bioinformatic mining of the GATA1-driven blood-group regulome.
 37591619	Classic illustration of Plasmodium vivax/Plasmodium falciparum coinfection.
-30725771	Chloroquine and Hydroxychloroquine Toxicity.
 37590506	Novel Methodological Perspectives In The Study Of Mosquito Biology.
 37590272	Burden and risk factors of snakebite in Mopeia, Mozambique: Leveraging larger malaria trials to generate data of this neglected tropical disease.
 37590198	Bacterial community structure of Anopheles hyrcanus group, Anopheles nivipes, Anopheles philippinensis, and Anopheles vagus from a malaria-endemic area in Thailand.
@@ -9995,5 +9997,3 @@
 34858510	In Vivo Antimalarial Activity of Polyalthia longifolia (Annonaceae) Leaf Extract and Assessment of Its Formulated Oral Dosage Forms.
 34857842	Low parasite connectivity among three malaria hotspots in Thailand.
 34857648	Artemisinin-independent inhibitory activity of Artemisia sp. infusions against different Plasmodium stages including relapse-causing hypnozoites.
-34857495	Making a good malaria vaccine better.
-34856982	Prevalence of potential mediators of artemisinin resistance in African isolates of Plasmodium falciparum.
