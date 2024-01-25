@@ -1,3 +1,8 @@
+38270670	Versatility of reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) from diagnosis of early pathological infection to mutation detection in organisms.
+38270599	Anti-microbial efficacy of a scientifically developed and standardized herbal-alcohol sanitizer.
+38270586	A novel computational pipeline for var gene expression augments the discovery of changes in the Plasmodium falciparum transcriptome during transition from in vivo to short-term in vitro culture.
+38270243	Elevation of free triiodothyronine (fT3) levels by Plasmodium falciparum independent of thyroid stimulating hormone (TSH) in children with uncomplicated malaria.
+38270178	A comprehensive review of antimalarial medicinal plants used by Tanzanians.
 38269105	Evaluation of the administrative, coordination and financing capacity of the sub-national malaria elimination programs in Nigeria: a case study of cross river state.
 38268773	Highly Regioselective Protecting-Group-Free Synthesis of the Antimalarial Drug MMV693183.
 38267985	A quasi-experimental study to estimate effectiveness of seasonal malaria chemoprevention in Aweil South County in Northern Bahr El Ghazal, South Sudan.
@@ -9992,8 +9997,3 @@
 34860850	Semiochemical signatures associated with differential attraction of Anopheles gambiae to human feet.
 34858979	Vascular Dysfunction in Malaria: Understanding the Role of the Endothelial Glycocalyx.
 34858976	Malaria Parasites Hijack Host Receptors From Exosomes to Capture Lipoproteins.
-34858905	Barriers and Proposed Solutions to a Successful Implementation of Pediatric Sepsis Protocols.
-34858885	Editorial: From Apicomplexan Genes to Drug Discovery.
-34858510	In Vivo Antimalarial Activity of Polyalthia longifolia (Annonaceae) Leaf Extract and Assessment of Its Formulated Oral Dosage Forms.
-34857842	Low parasite connectivity among three malaria hotspots in Thailand.
-34857648	Artemisinin-independent inhibitory activity of Artemisia sp. infusions against different Plasmodium stages including relapse-causing hypnozoites.
