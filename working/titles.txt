@@ -1,3 +1,9 @@
+38277032	A 14-year review (2007-2020) of helminthiasis epidemiology in a hospital in Southern Madrid, Spain.
+38276977	[Pretravel medical consultation].
+38276759	Phytochemicals from Pterocarpus angolensis DC and Their Cytotoxic Activities against Breast Cancer Cells.
+38276660	Multiplex Assays for Analysis of Antibody Responses to South Asian Plasmodium falciparum and Plasmodium vivax Malaria Infections.
+38276164	Impact of Plasmodium relictum Infection on the Colonization Resistance of Bird Gut Microbiota: A Preliminary Study.
+38275316	Short Antimicrobial Peptide Derived from the Venom Gland Transcriptome of Pamphobeteus verdolaga Increases Gentamicin Susceptibility of Multidrug-Resistant Klebsiella pneumoniae.
 38274822	Exposure to common infections may shape basal immunity and potentially HIV-1 acquisition amongst a high-risk population in Coastal Kenya.
 38274813	Tick innate immune responses to hematophagy and Ehrlichia infection at single-cell resolution.
 38274790	Acquisition of antibodies that block Plasmodium falciparum adhesion to placental receptor chondroitin sulfate A with increasing gravidity in Malian women.
@@ -9991,9 +9997,3 @@
 34868318	Standardization and Quality Control of the Herbal Medicine Mist Nibima, Employed to Treat Malaria and COVID-19, Using Physicochemical and Organoleptic Parameters and Quantification of Chemical Markers via UHPLC-MS/MS.
 34868223	Genetic Diversity of Polymorphic Marker Merozoite Surface Protein 1 (Msp-1) and 2 (Msp-2) Genes of Plasmodium falciparum Isolates From Malaria Endemic Region of Pakistan.
 34868193	Insilico Functional Analysis of Genome-Wide Dataset From 17,000 Individuals Identifies Candidate Malaria Resistance Genes Enriched in Malaria Pathogenic Pathways.
-34867919	Malaria in Pregnancy: From Placental Infection to Its Abnormal Development and Damage.
-34867888	Antitheilerial Activity of the Anticancer Histone Deacetylase Inhibitors.
-34867886	TatD DNases Contribute to Biofilm Formation and Virulence in Trueperella pyogenes.
-34866326	PI4-kinase and PfCDPK7 signaling regulate phospholipid biosynthesis in Plasmodium falciparum.
-34865711	Etiology and outcome of febrile children coming from the tropics.
-34865639	Preclinical evaluation of strasseriolides A-D, potent antiplasmodial macrolides isolated from Strasseria geniculata CF-247,251.
