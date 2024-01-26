@@ -1,4 +1,8 @@
-38271991	Enhanced Antimalarial and Antisequestration Activity of Methoxybenzenesulfonate-Modified Biopolymers and Nanoparticles for Tackling Severe Malaria.
+38274822	Exposure to common infections may shape basal immunity and potentially HIV-1 acquisition amongst a high-risk population in Coastal Kenya.
+38274813	Tick innate immune responses to hematophagy and Ehrlichia infection at single-cell resolution.
+38274790	Acquisition of antibodies that block Plasmodium falciparum adhesion to placental receptor chondroitin sulfate A with increasing gravidity in Malian women.
+38274735	A novel enemy of cancer: recent investigations into protozoan anti-tumor properties.
+38274703	Type 1 Gaucher's Disease. A Rare Genetic Lipid Metabolic Disorder Whose Diagnosis Was Concealed by Recurrent Malaria Infections in a 12-Year-Old Girl.
 38273386	Antibody selection strategies and their impact in predicting clinical malaria based on multi-sera data.
 38273372	Determinants of health care worker breastfeeding experience and practices and their association with provision of care for breastfeeding mothers: a mixed-methods study from Northern Thailand.
 38273363	The chromosome-scale genome assembly for the West Nile vector Culex quinquefasciatus uncovers patterns of genome evolution in mosquitoes.
@@ -9,6 +13,7 @@
 38272922	Strongyloidiasis.
 38272885	Investigating the etiologies of non-malarial febrile illness in Senegal using metagenomic sequencing.
 38272740	Appropriate naming of the two Plasmodium ovale species.
+38271991	Enhanced Antimalarial and Antisequestration Activity of Methoxybenzenesulfonate-Modified Biopolymers and Nanoparticles for Tackling Severe Malaria.
 38271704	Host transcriptional meta-signatures reveal diagnostic biomarkers for Plasmodium falciparum malaria.
 38270986	Vector Biology and Integrated Management of Malaria Vectors in China.
 38270670	Versatility of reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) from diagnosis of early pathological infection to mutation detection in organisms.
@@ -9992,8 +9997,3 @@
 34866326	PI4-kinase and PfCDPK7 signaling regulate phospholipid biosynthesis in Plasmodium falciparum.
 34865711	Etiology and outcome of febrile children coming from the tropics.
 34865639	Preclinical evaluation of strasseriolides A-D, potent antiplasmodial macrolides isolated from Strasseria geniculata CF-247,251.
-34865089	Detection of Leishmania donovani in Wild-Caught Phlebotomine Sand Flies in Endemic Focus of Leishmaniasis in Himachal Pradesh, India.
-34864925	Piperaquine-Induced QTc Prolongation Decreases With Repeated Monthly Dihydroartemisinin-Piperaquine Dosing in Pregnant Ugandan Women.
-34864128	Antiplasmodial and cytotoxic effects of the methanol extract, canthinone alkaloids, squalene- and protolimonoid-type triterpenes from Homalolepis suffruticosa roots.
-34863996	The bacterial thiopeptide thiostrepton. An update of its mode of action, pharmacological properties and applications.
-34863371	The parasitophorous vacuole nutrient channel is critical for drug access in malaria parasites and modulates the artemisinin resistance fitness cost.
