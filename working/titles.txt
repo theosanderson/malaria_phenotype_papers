@@ -1,3 +1,5 @@
+38271704	Host transcriptional meta-signatures reveal diagnostic biomarkers for Plasmodium falciparum malaria.
+38270986	Vector Biology and Integrated Management of Malaria Vectors in China.
 38270670	Versatility of reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) from diagnosis of early pathological infection to mutation detection in organisms.
 38270599	Anti-microbial efficacy of a scientifically developed and standardized herbal-alcohol sanitizer.
 38270586	A novel computational pipeline for var gene expression augments the discovery of changes in the Plasmodium falciparum transcriptome during transition from in vivo to short-term in vitro culture.
@@ -9995,5 +9997,3 @@
 34861863	Citizen science for monitoring the spatial and temporal dynamics of malaria vectors in relation to environmental risk factors in Ruhuha, Rwanda.
 34861860	Genetic population of Plasmodium knowlesi during pre-malaria elimination in Thailand.
 34860850	Semiochemical signatures associated with differential attraction of Anopheles gambiae to human feet.
-34858979	Vascular Dysfunction in Malaria: Understanding the Role of the Endothelial Glycocalyx.
-34858976	Malaria Parasites Hijack Host Receptors From Exosomes to Capture Lipoproteins.
