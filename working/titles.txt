@@ -1,3 +1,14 @@
+38271991	Enhanced Antimalarial and Antisequestration Activity of Methoxybenzenesulfonate-Modified Biopolymers and Nanoparticles for Tackling Severe Malaria.
+38273386	Antibody selection strategies and their impact in predicting clinical malaria based on multi-sera data.
+38273372	Determinants of health care worker breastfeeding experience and practices and their association with provision of care for breastfeeding mothers: a mixed-methods study from Northern Thailand.
+38273363	The chromosome-scale genome assembly for the West Nile vector Culex quinquefasciatus uncovers patterns of genome evolution in mosquitoes.
+38273360	Emergence of Plasmodium falciparum strains with artemisinin partial resistance in East Africa and the Horn of Africa: is there a need to panic?
+38273227	Clothianidin-resistant Anopheles gambiae adult mosquitoes from Yaoundé, Cameroon, display reduced susceptibility to SumiShield® 50WG, a neonicotinoid formulation for indoor residual spraying.
+38273019	Dihydroartemisinin-piperaquine effectiveness for seasonal malaria chemoprevention in settings with extended seasonal malaria transmission in Tanzania.
+38272943	Revisiting the Plasmodium sporozoite inoculum and elucidating the efficiency with which malaria parasites progress through the mosquito.
+38272922	Strongyloidiasis.
+38272885	Investigating the etiologies of non-malarial febrile illness in Senegal using metagenomic sequencing.
+38272740	Appropriate naming of the two Plasmodium ovale species.
 38271704	Host transcriptional meta-signatures reveal diagnostic biomarkers for Plasmodium falciparum malaria.
 38270986	Vector Biology and Integrated Management of Malaria Vectors in China.
 38270670	Versatility of reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) from diagnosis of early pathological infection to mutation detection in organisms.
@@ -9986,14 +9997,3 @@
 34864128	Antiplasmodial and cytotoxic effects of the methanol extract, canthinone alkaloids, squalene- and protolimonoid-type triterpenes from Homalolepis suffruticosa roots.
 34863996	The bacterial thiopeptide thiostrepton. An update of its mode of action, pharmacological properties and applications.
 34863371	The parasitophorous vacuole nutrient channel is critical for drug access in malaria parasites and modulates the artemisinin resistance fitness cost.
-34863336	Effect of preventive chemotherapy with praziquantel on schistosomiasis among school-aged children in sub-Saharan Africa: a spatiotemporal modelling study.
-34863172	Determinants of malaria testing at health facilities: the case of Uganda.
-34862707	A framework for assessing the impact of disease treatment.
-34862445	Antimicrobial resistance in commensal opportunistic pathogens isolated from non-sterile sites can be an effective proxy for surveillance in bloodstream infections.
-34862183	Build on HIV investments for future pandemic preparedness.
-34862145	Falciparum malaria mortality in sub-Saharan Africa in the pretreatment era.
-34862075	Tick immunity using mRNA, DNA and protein-based Salp14 delivery strategies.
-34861874	Guiding placement of health facilities using multiple malaria criteria and an interactive tool.
-34861863	Citizen science for monitoring the spatial and temporal dynamics of malaria vectors in relation to environmental risk factors in Ruhuha, Rwanda.
-34861860	Genetic population of Plasmodium knowlesi during pre-malaria elimination in Thailand.
-34860850	Semiochemical signatures associated with differential attraction of Anopheles gambiae to human feet.
