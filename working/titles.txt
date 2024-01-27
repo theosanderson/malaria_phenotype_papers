@@ -107,7 +107,7 @@
 38245108	Malaria guidelines fall short in diagnosing acute kidney injury.
 38244916	The regulatory role of CD36 in hematopoiesis beyond fatty acid uptake.
 38244749	Genetic polymorphisms of Plasmodium vivax ookinete (sexual stage) surface proteins (Pvs25 and Pvs28) from Thailand.
-38244673	The European Lead Factory: results from a decade of collaborative, public-private, drug discovery programs.
+38244673	The European Lead Factory: Results from a decade of collaborative, public-private, drug discovery programs.
 38243611	Plasmodium malariae and Plasmodium ovale-prevalent and relevant.
 38243247	Epidemiological behaviour and interventions of malaria in Niger, 2010-2019: a time-series analysis of national surveillance data.
 38243243	Post hospital admission blood lactate measurements are associated with mortality but not neurologic morbidity in children with cerebral malaria.
@@ -1192,7 +1192,7 @@
 37858577	Translating evidence into global impact: lessons for HIV research and policy development from the AMBITION trial.
 37858575	Fixed prevalence of sulfadoxine-pyrimethamine resistance markers after 3 years of drug pressure.
 37858569	An integrated chemical characterization based on FT-NIR, and GC-MS for the comparative metabolite profiling of 3 species of the genus Amomum.
-37858325	Impact of piperaquine resistance in Plasmodium falciparum on malaria treatment effectiveness in French Guiana: a descriptive epidemiological study.
+37858325	Impact of piperaquine resistance in Plasmodium falciparum on malaria treatment effectiveness in The Guianas: a descriptive epidemiological study.
 37858324	Determinants of piperaquine-resistant malaria in South America.
 37858202	Complete sources of cluster variation on the risk of under-five malaria in Uganda: a multilevel-weighted mixed effects logistic regression model approach.
 37858198	Culex modestus: the overlooked mosquito vector.
