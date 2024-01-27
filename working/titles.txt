@@ -1,3 +1,8 @@
+38279721	A Review on Synthetic Thiazole Derivatives as an Antimalarial Agent.
+38279554	Increased erythroferrone levels in malarial anaemia.
+38279124	DON in pediatric cerebral malaria, a phase I/IIA dose-escalation safety study: study protocol for a clinical trial.
+38278997	Complete biosynthesis of the potent vaccine adjuvant QS-21.
+38278579	A new dawn for malaria prevention.
 38277417	Beyond the MEP Pathway: A novel kinase required for prenol utilization by malaria parasites.
 38277340	Longitudinal analysis of antibody responses to Plasmodium vivax sporozoite antigens following natural infection.
 38277032	A 14-year review (2007-2020) of helminthiasis epidemiology in a hospital in Southern Madrid, Spain.
@@ -9992,8 +9997,3 @@
 34871040	Acquired Clinical Immunity to Malaria in Nonhuman Primates Coinfected with Schistosoma and Plasmodium Parasites.
 34871039	Identifying Targets of Protective Antibodies against Severe Malaria in Papua, Indonesia, Using Locally Expressed Domains of Plasmodium falciparum Erythrocyte Membrane Protein 1.
 34870373	Structural basis of transport and inhibition of the Plasmodium falciparum transporter PfFNT.
-34869444	Passive Surveillance of Malaria in Pregnant Women, Non-pregnant Women and Children Under 5 Years of Age in Bannu District, Khyber Pakhtunkhwa Pakistan.
-34869159	Brucella Seroprevalence and Associated Risk Factors in Occupationally Exposed Humans in Selected Districts of Southern Province, Zambia.
-34869086	Editorial: Malaria Targeting Toolkit: Host-Parasite Interactions.
-34869075	Characterization of Naturally Acquired Immunity to a Panel of Antigens Expressed in Mature P. falciparum Gametocytes.
-34868318	Standardization and Quality Control of the Herbal Medicine Mist Nibima, Employed to Treat Malaria and COVID-19, Using Physicochemical and Organoleptic Parameters and Quantification of Chemical Markers via UHPLC-MS/MS.
