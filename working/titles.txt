@@ -1,3 +1,7 @@
+38281067	Awakening the sleeping giant: Epstein-Barr Virus reactivation by biological agents.
+38281054	Changes in saliva protein profile throughout Rhipicephalus microplus blood feeding.
+38281044	msp1, msp2, and glurp genotyping to differentiate Plasmodium falciparum recrudescence from reinfections during prevention of reestablishment phase, Sri Lanka, 2014-2019.
+38280976	Despite structural identity, ace-1 heterogenous duplication resistance alleles are quite diverse in Anopheles mosquitoes.
 38279721	A Review on Synthetic Thiazole Derivatives as an Antimalarial Agent.
 38279554	Increased erythroferrone levels in malarial anaemia.
 38279124	DON in pediatric cerebral malaria, a phase I/IIA dose-escalation safety study: study protocol for a clinical trial.
@@ -9993,7 +9997,3 @@
 34872057	Ultrasensitive qPCR-Based Detection of Plasmodium falciparum in Pregnant Women Using Dried Blood or Whole Blood Pellet Samples Processed through Different DNA Extraction Methods.
 34871570	Tafenoquine exposure assessment, safety, and relapse prevention efficacy in children with Plasmodium vivax malaria: open-label, single-arm, non-comparative, multicentre, pharmacokinetic bridging, phase 2 trial.
 34871370	Plasma biomarkers of hemoglobin loss in Plasmodium falciparum-infected children identified by quantitative proteomics.
-34871332	Protective effects of combining monoclonal antibodies and vaccines against the Plasmodium falciparum circumsporozoite protein.
-34871040	Acquired Clinical Immunity to Malaria in Nonhuman Primates Coinfected with Schistosoma and Plasmodium Parasites.
-34871039	Identifying Targets of Protective Antibodies against Severe Malaria in Papua, Indonesia, Using Locally Expressed Domains of Plasmodium falciparum Erythrocyte Membrane Protein 1.
-34870373	Structural basis of transport and inhibition of the Plasmodium falciparum transporter PfFNT.
