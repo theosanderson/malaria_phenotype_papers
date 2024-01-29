@@ -1,3 +1,11 @@
+38283165	End-to-End n-ary Relation Extraction for Combination Drug Therapies.
+38283109	Unraveling Key Chloroquine Resistance-Associated Alleles Among Plasmodium falciparum Isolates in South Darfur State, Sudan Twelve Years After Drug Withdrawal.
+38283042	The dermal deposits in the finger of the Holy Roman Emperor Charles I of Spain and V of Germany.
+38283036	Structure-based design, and development of amidinyl, amidoximyl and hydroxamic acid based organic molecules as novel antimalarial drug candidates.
+38282931	Hydroxychloroquine-Induced Stevens-Johnson Syndrome in the Patient with Systemic Lupus Erythematosus: A Case Report in Kurdish Region - Iraq.
+38282913	Erratum: γδ T cells as immunotherapy for malaria: balancing challenges and opportunities.
+38282616	Dissecting EXP2 sequence requirements for protein export in malaria parasites.
+38282613	Functional characterization of Plasmodium vivax hexose transporter 1.
 38281908	Mosquito odour-baited mass trapping reduced malaria transmission intensity: a result from a controlled before-and-after intervention study.
 38281672	AaGL3-like is jasmonate-induced bHLH transcription factor that positively regulates trichome density in Artemisia annua.
 38281504	Cabo Verde eliminates malaria.
@@ -9989,11 +9997,3 @@
 34878291	The Basal Complex Protein PfMORN1 Is Not Required for Asexual Replication of Plasmodium falciparum.
 34877896	Exploring potential of Plasmodium RUVBL proteins as anti-malarial drug target.
 34877877	Potential molecular targets of Leishmania pathways in developing novel antileishmanials.
-34877373	Technical data on the inhibition properties of some medicinal plant extracts towards caseinolytic protease proteolytic subunit of Plasmodium knowlesi.
-34877363	Myositis Caused by Trachipleistophora hominis in a Person With Human Immunodeficiency Virus: The First Case in Thailand.
-34876911	Hepatitis B and Asymptomatic Malaria Infection among Pregnant Women in a Semiurban Community of North-Central Nigeria.
-34876133	Civilian-military malaria outbreak response in Thailand: an example of multi-stakeholder engagement for malaria elimination.
-34876036	Identification of bio-climatic determinants and potential risk areas for Kyasanur forest disease in Southern India using MaxEnt modelling approach.
-34874806	Performance-based Financing versus "Unconditional" Direct Facility Financing - False Dichotomy?
-34873849	The economic value of genetically engineered mosquitoes as a malaria control strategy depends on local transmission rates.
-34872600	Evaluating the efficacy, impact, and feasibility of community-based house screening as a complementary malaria control intervention in southern Africa: a study protocol for a household randomized trial.
