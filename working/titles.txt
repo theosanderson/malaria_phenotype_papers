@@ -1,3 +1,4 @@
+38284470	Effects of mosquito age and batch size on knockdown and mortality of laboratory-reared Anopheles dirus, Anopheles minimus, and wild-caught Anopheles harrisoni (Diptera: Culicidae) exposed to transfluthrin using WHO tube and CDC bottle bioassays.
 38283165	End-to-End n-ary Relation Extraction for Combination Drug Therapies.
 38283109	Unraveling Key Chloroquine Resistance-Associated Alleles Among Plasmodium falciparum Isolates in South Darfur State, Sudan Twelve Years After Drug Withdrawal.
 38283042	The dermal deposits in the finger of the Holy Roman Emperor Charles I of Spain and V of Germany.
@@ -9996,4 +9997,3 @@
 34878303	Plasmodium falciparum and Helminth Coinfections Increase IgE and Parasite-Specific IgG Responses.
 34878291	The Basal Complex Protein PfMORN1 Is Not Required for Asexual Replication of Plasmodium falciparum.
 34877896	Exploring potential of Plasmodium RUVBL proteins as anti-malarial drug target.
-34877877	Potential molecular targets of Leishmania pathways in developing novel antileishmanials.
