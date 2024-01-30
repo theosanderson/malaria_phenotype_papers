@@ -1,3 +1,8 @@
+38287956	Modeling the effect of climatic conditions and topography on malaria incidence using Poisson regression: a Retrospective study in Bannu, Khyber Pakhtunkhwa, Pakistan.
+38287772	Malaria infection and associated household level risks in an urban and rural areas of West Bengal.
+38287768	Structural Exploration of the PfBLM Helicase-ATP Binding Domain and Its Implications in the Quest for Antimalarial Therapies.
+38287455	Avian Plasmodium in invasive and native mosquitoes from southern Spain.
+38287419	Geospatial modelling of dry season habitats of the malaria vector, Anopheles funestus, in south-eastern Tanzania.
 38287365	Molecular surveillance of Kelch 13 polymorphisms in Plasmodium falciparum isolates from Kenya and Ethiopia.
 38287334	First identification of Microsporidia MB in Anopheles coluzzii from Zinder City, Niger.
 38287308	Knowledge, compliance, and challenges in anti-malarial products usage: a systematic review of at-risk communities for zoonotic malaria.
@@ -9992,8 +9997,3 @@
 34883497	Malaria protection due to sickle haemoglobin depends on parasite genotype.
 34883232	Prevalence and temporal changes of mutations linked to antimalarial drug resistance in Plasmodium falciparum and Plasmodium vivax in Palawan, Philippines.
 34883106	Using observed incidence to calibrate the transmission level of a mathematical model for Plasmodium vivax dynamics including case management and importation.
-34883062	Compensating P. falciparum artemisinin resistance.
-34882979	Drug-Derived Surface-Active Ionic Liquids: A Cost-Effective Way To Expressively Increase the Blood-Stage Antimalarial Activity of Primaquine.
-34882737	Microbial proteasomes as drug targets.
-34881783	Analysis of sex-specific lipid metabolism of Plasmodium falciparum points to the importance of sphingomyelin for gametocytogenesis.
-34881694	Larvae ecology and adult activity of Aedes mariae (Diptera: Culicidae) in a touristic rock-pool area of the Balearic Islands (Western Mediterranean).
