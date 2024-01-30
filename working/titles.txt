@@ -1,3 +1,5 @@
+38289473	Identifying Fast and Slow-Acting Antimalarial Compounds of Pandemic Response Box Against Blood-Stage Culture of Plasmodium falciparum 3D7.
+38289124	Transmission-reducing and -enhancing monoclonal antibodies against Plasmodium vivax gamete surface protein Pvs48/45.
 38287956	Modeling the effect of climatic conditions and topography on malaria incidence using Poisson regression: a Retrospective study in Bannu, Khyber Pakhtunkhwa, Pakistan.
 38287772	Malaria infection and associated household level risks in an urban and rural areas of West Bengal.
 38287768	Structural Exploration of the PfBLM Helicase-ATP Binding Domain and Its Implications in the Quest for Antimalarial Therapies.
@@ -9995,5 +9997,3 @@
 34884537	Aedes aegypti Piwi4 Structural Features Are Necessary for RNA Binding and Nuclear Localization.
 34883537	Histological technique to detect the physiological age of the malaria vector mosquito Anopheles pharoensis (Diptera: Culicidae).
 34883497	Malaria protection due to sickle haemoglobin depends on parasite genotype.
-34883232	Prevalence and temporal changes of mutations linked to antimalarial drug resistance in Plasmodium falciparum and Plasmodium vivax in Palawan, Philippines.
-34883106	Using observed incidence to calibrate the transmission level of a mathematical model for Plasmodium vivax dynamics including case management and importation.
