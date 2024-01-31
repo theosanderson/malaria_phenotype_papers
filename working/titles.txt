@@ -1,3 +1,9 @@
+38293736	Compound Activity Prediction with Dose-Dependent Transcriptomic Profiles and Deep Learning.
+38293001	Polymicrobial Infection in an Immigrant Female at the United States-Mexico Border.
+38292547	Correction to: R(H): a genetic metric for measuring intrahost Plasmodium falciparum relatedness and distinguishing cotransmission from superinfection.
+38292417	Cloning, expression and molecular analysis of recombinant Netrin-A protein of Lucilia sericata Meigen (Diptera: Calliphoridae) larvae.
+38291833	An automated slide scanning system for membrane filter imaging in diagnosis of urogenital schistosomiasis.
+38291803	Correlates of early child development among children with stunting: A cross-sectional study in Uganda.
 38291512	Association of the C allele of rs479200 in the EGLN1 gene with COVID-19 severity in Indian population: a novel finding.
 38291392	Forest-goers as a heterogeneous population at high-risk for malaria: a case-control study in Aceh Province, Indonesia.
 38290664	Burden of child mortality from malaria in high endemic areas: results from the CHAMPS Network using minimally invasive tissue sampling.
@@ -1175,7 +1181,7 @@
 37883328	The interdependence of isoprenoid synthesis and apicoplast biogenesis in malaria parasites.
 37882786	The P. falciparum alternative histones Pf H2A.Z and Pf H2B.Z are dynamically acetylated and antagonized by PfSir2 histone deacetylases at heterochromatin boundaries.
 37882543	A patatin-like phospholipase is important for mitochondrial function in malaria parasites.
-37881078	Murine Malaria Model: Ketoconazole Preventing Malaria while Proguanil and Sulfadoxine/Pyrimethamine Protected against Malaria-associated Anemia and Kidney Damage.
+37881078	Murine Malaria Model: Ketoconazole Prevented Malaria while Proguanil and Sulfadoxine/Pyrimethamine Protected against Malaria-associated Anemia and Kidney Damage.
 37880774	Assessing IRS performance in a gender-integrated vector control programme on Bioko Island, Equatorial Guinea, 2010-2021.
 37880730	Correction: Droplet digital polymerase chain reaction (ddPCR) for the detection of Plasmodium knowlesi and Plasmodium vivax.
 37880694	Severe malaria burden, clinical spectrum and outcomes at Apac district hospital, Uganda: a retrospective study of routine health facility-based data.
@@ -9991,9 +9997,3 @@
 34889201	Impact of the COVID-19 Duration on Neglected Parasitic Diseases.
 34889196	Adult Mosquito Fauna of Kura-Aras Basin.
 34888658	Predictors of Plasmodium falciparum Infection in the First Trimester Among Nulliparous Women From Kenya, Zambia, and the Democratic Republic of the Congo.
-34887992	The effect of a mass distribution of insecticide-treated nets on insecticide resistance and entomological inoculation rates of Anopheles gambiae s.l. in Bandundu City, Democratic Repub`lic of Congo.
-34887448	Malaria transmission-blocking conjugate vaccine in ALFQ adjuvant induces durable functional immune responses in rhesus macaques.
-34887149	Structural parasitology of the malaria parasite Plasmodium falciparum.
-34886848	Community knowledge, perceptions, and practices regarding malaria and its control in Jabi Tehnan district, Amhara Region, Northwest Ethiopia.
-34886507	Epidemiological Trends of Malaria in Five Years and under Children of Nsanje District in Malawi, 2015-2019.
-34885700	Compounds from the Medicines for Malaria Venture Box Inhibit In Vitro Growth of Babesia divergens, a Blood-Borne Parasite of Veterinary and Zoonotic Importance.
