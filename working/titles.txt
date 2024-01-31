@@ -1,3 +1,4 @@
+38290009	A randomized first-in-human Phase 1 trial of differentially adjuvanted Pfs48/45 malaria vaccines in Burkinabé adults.
 38289473	Identifying Fast and Slow-Acting Antimalarial Compounds of Pandemic Response Box Against Blood-Stage Culture of Plasmodium falciparum 3D7.
 38289124	Transmission-reducing and -enhancing monoclonal antibodies against Plasmodium vivax gamete surface protein Pvs48/45.
 38287956	Modeling the effect of climatic conditions and topography on malaria incidence using Poisson regression: a Retrospective study in Bannu, Khyber Pakhtunkhwa, Pakistan.
@@ -159,7 +160,7 @@
 38241411	Association between arterial stiffness and Loa loa microfilaremia in a rural area of the Republic of Congo: A population-based cross-sectional study (the MorLo project).
 38241404	Child malaria vaccine uptake in Ghana: Factors influencing parents' willingness to allow vaccination of their children under five (5) years.
 38240877	Genetic polymorphism and clustering of the Plasmodium cynomolgi Duffy binding protein 1 region II of recent macaque isolates from Peninsular Malaysia.
-38240324	Whole Genome Sequencing Unravels Cryptic Circulation of Divergent Dengue Virus Lineages in the Rainforest Region of Nigeria.
+38240324	Whole genome sequencing unravels cryptic circulation of divergent dengue virus lineages in the rainforest region of Nigeria.
 38239295	Antimalarial target vulnerability of the putative Plasmodium falciparum methionine synthase.
 38238886	Endoplasmic reticulum localized TMEM33 domain-containing protein is crucial for all life cycle stages of the malaria parasite.
 38238851	Association between malaria parasite density and hematological profile in malaria infected children at a Nigerian Private hospital.
@@ -9996,4 +9997,3 @@
 34884765	Primaquine Inhibits the Endosomal Trafficking and Nuclear Localization of EGFR and Induces the Apoptosis of Breast Cancer Cells by Nuclear EGFR/Stat3-Mediated c-Myc Downregulation.
 34884537	Aedes aegypti Piwi4 Structural Features Are Necessary for RNA Binding and Nuclear Localization.
 34883537	Histological technique to detect the physiological age of the malaria vector mosquito Anopheles pharoensis (Diptera: Culicidae).
-34883497	Malaria protection due to sickle haemoglobin depends on parasite genotype.
