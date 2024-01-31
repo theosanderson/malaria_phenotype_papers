@@ -1,3 +1,5 @@
+38294761	Molecular Survey of Haemosporidian Parasites in Procellariiformes Sampled in Southern Brazil, 2013-2022.
+38294233	The Association between Long-Term DDT or DDE Exposures and an Altered Sperm Epigenome-a Cross-Sectional Study of Greenlandic Inuit and South African VhaVenda Men.
 38293736	Compound Activity Prediction with Dose-Dependent Transcriptomic Profiles and Deep Learning.
 38293001	Polymicrobial Infection in an Immigrant Female at the United States-Mexico Border.
 38292547	Correction to: R(H): a genetic metric for measuring intrahost Plasmodium falciparum relatedness and distinguishing cotransmission from superinfection.
@@ -9995,5 +9997,3 @@
 34890056	Plasmodium falciparum HSP40 protein eCiJp traffics to the erythrocyte cytoskeleton and interacts with the human HSP70 chaperone HSPA1.
 34889945	Association of Plasma Tau With Mortality and Long-term Neurocognitive Impairment in Survivors of Pediatric Cerebral Malaria and Severe Malarial Anemia.
 34889201	Impact of the COVID-19 Duration on Neglected Parasitic Diseases.
-34889196	Adult Mosquito Fauna of Kura-Aras Basin.
-34888658	Predictors of Plasmodium falciparum Infection in the First Trimester Among Nulliparous Women From Kenya, Zambia, and the Democratic Republic of the Congo.
