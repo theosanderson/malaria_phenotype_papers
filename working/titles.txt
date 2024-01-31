@@ -1,3 +1,8 @@
+38291512	Association of the C allele of rs479200 in the EGLN1 gene with COVID-19 severity in Indian population: a novel finding.
+38291392	Forest-goers as a heterogeneous population at high-risk for malaria: a case-control study in Aceh Province, Indonesia.
+38290664	Burden of child mortality from malaria in high endemic areas: results from the CHAMPS Network using minimally invasive tissue sampling.
+38290351	Discovery of new piperaquine hybrid analogs linked by triazolopyrimidine and pyrazolopyrimidine scaffolds with antiplasmodial and transmission blocking activities.
+38290256	Subchronic doses of artemether-lumefantrine, ciprofloxacin and diclofenac precipitated inflammatory and immunological dysfunctions in female Wistar rats.
 38290009	A randomized first-in-human Phase 1 trial of differentially adjuvanted Pfs48/45 malaria vaccines in Burkinabé adults.
 38289473	Identifying Fast and Slow-Acting Antimalarial Compounds of Pandemic Response Box Against Blood-Stage Culture of Plasmodium falciparum 3D7.
 38289124	Transmission-reducing and -enhancing monoclonal antibodies against Plasmodium vivax gamete surface protein Pvs48/45.
@@ -9992,8 +9997,3 @@
 34886848	Community knowledge, perceptions, and practices regarding malaria and its control in Jabi Tehnan district, Amhara Region, Northwest Ethiopia.
 34886507	Epidemiological Trends of Malaria in Five Years and under Children of Nsanje District in Malawi, 2015-2019.
 34885700	Compounds from the Medicines for Malaria Venture Box Inhibit In Vitro Growth of Babesia divergens, a Blood-Borne Parasite of Veterinary and Zoonotic Importance.
-34884994	Detection of VAR2CSA-Captured Colorectal Cancer Cells from Blood Samples by Real-Time Reverse Transcription PCR.
-34884870	IFPTML Mapping of Drug Graphs with Protein and Chromosome Structural Networks vs. Pre-Clinical Assay Information for Discovery of Antimalarial Compounds.
-34884765	Primaquine Inhibits the Endosomal Trafficking and Nuclear Localization of EGFR and Induces the Apoptosis of Breast Cancer Cells by Nuclear EGFR/Stat3-Mediated c-Myc Downregulation.
-34884537	Aedes aegypti Piwi4 Structural Features Are Necessary for RNA Binding and Nuclear Localization.
-34883537	Histological technique to detect the physiological age of the malaria vector mosquito Anopheles pharoensis (Diptera: Culicidae).
