@@ -1,3 +1,6 @@
+38299986	Malaria prevention in children: an update.
+38299836	The intersection of host in vivo metabolism and immune responses to infection with kinetoplastid and apicomplexan parasites.
+38299826	Mast cell-derived IL-10 protects intestinal barrier integrity during malaria in mice and regulates parasite transmission to Anopheles stephensi with a female-biased immune response.
 38299155	Analyses of human vaccine-specific circulating and bone marrow-resident B cell populations reveal benefit of delayed vaccine booster dosing with blood-stage malaria antigens.
 38298128	New myxobacteria of the Myxococcaceae clade produce angiolams with antiparasitic activities.
 38298126	Plasmodium falciparum glutamic acid-rich protein (PfGARP)-independent polyclonal antibodies inhibit malaria parasite growth in human erythrocytes.
@@ -9994,6 +9997,3 @@
 34896314	B cell clonal expansion and mutation in the immunoglobulin heavy chain variable domain in response to Pfs230 and Pfs25 malaria vaccines.
 34896312	Plasmodium vivax - How hidden reservoirs hinder global malaria elimination.
 34896016	Live attenuated vaccines, a favorable strategy to provide long-term immunity against protozoan diseases.
-34895517	Global estimates of paediatric tuberculosis incidence in 2013-19: a mathematical modelling analysis.
-34895474	Monitoring inequalities is a key part of the efforts to end AIDS, tuberculosis, and malaria.
-34895319	Genetic diversity of Anopheles stephensi in Ethiopia provides insight into patterns of spread.
