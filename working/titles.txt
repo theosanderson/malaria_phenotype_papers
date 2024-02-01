@@ -1,3 +1,5 @@
+38295409	Dantu Blood Group Erythrocytes Form Large Plasmodium falciparum Rosettes Less Commonly.
+38295141	Is Brazil reaching malaria elimination? A time series analysis of malaria cases from 2011 to 2023.
 38294761	Molecular Survey of Haemosporidian Parasites in Procellariiformes Sampled in Southern Brazil, 2013-2022.
 38294233	The Association between Long-Term DDT or DDE Exposures and an Altered Sperm Epigenome-a Cross-Sectional Study of Greenlandic Inuit and South African VhaVenda Men.
 38293736	Compound Activity Prediction with Dose-Dependent Transcriptomic Profiles and Deep Learning.
@@ -84,6 +86,7 @@
 38270586	A novel computational pipeline for var gene expression augments the discovery of changes in the Plasmodium falciparum transcriptome during transition from in vivo to short-term in vitro culture.
 38270243	Elevation of free triiodothyronine (fT3) levels by Plasmodium falciparum independent of thyroid stimulating hormone (TSH) in children with uncomplicated malaria.
 38270178	A comprehensive review of antimalarial medicinal plants used by Tanzanians.
+38270070	[CONTRIBUTION TO THE UNDERSTANDING OF THE HEALTH SITUATION WITHIN THE POPULATION IN SLAVONIA AND SRIJEM DURING THE SECOND WORLD WAR WITH AN EMPHASIS ON INFECTIOUS DISEASES].
 38269105	Evaluation of the administrative, coordination and financing capacity of the sub-national malaria elimination programs in Nigeria: a case study of cross river state.
 38268773	Highly Regioselective Protecting-Group-Free Synthesis of the Antimalarial Drug MMV693183.
 38267985	A quasi-experimental study to estimate effectiveness of seasonal malaria chemoprevention in Aweil South County in Northern Bahr El Ghazal, South Sudan.
@@ -9994,6 +9997,3 @@
 34893600	Emulator-based Bayesian optimization for efficient multi-objective calibration of an individual-based model of malaria.
 34893334	Emergency splenectomy after spontaneous rupture in a patient with malaria.
 34890716	Identification of mRNA 5' cap-associated proteins in the human malaria parasite Plasmodium falciparum.
-34890056	Plasmodium falciparum HSP40 protein eCiJp traffics to the erythrocyte cytoskeleton and interacts with the human HSP70 chaperone HSPA1.
-34889945	Association of Plasma Tau With Mortality and Long-term Neurocognitive Impairment in Survivors of Pediatric Cerebral Malaria and Severe Malarial Anemia.
-34889201	Impact of the COVID-19 Duration on Neglected Parasitic Diseases.
