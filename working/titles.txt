@@ -1,3 +1,6 @@
+38302888	Clinical and immunological outcomes of HIV-exposed uninfected and HIV-unexposed uninfected children in the first 24 months of life in Western Kenya.
+38301983	Withanolides from the active extract of Physalis angulate and their anti-hepatic fibrosis effects.
+38301784	Association between prenatal exposure to indoor residual spraying insecticides and infection rates among South African children participating in the Venda Health Examination of Mothers, Babies and their Environment (VHEMBE).
 38301154	Spectrally Resolved and Highly Parallelized Raman Difference Spectroscopy for the Analysis of Drug-Target Interactions between the Antimalarial Drugs Chloroquine and Hematin.
 38300956	Using a mobile nanopore sequencing lab for end-to-end genomic surveillance of Plasmodium falciparum: A feasibility study.
 38300810	Three new dihydrochalcones from the leaves of Artocarpus sericicarpus Jarrett and their activity against Plasmodium falciparum.
@@ -9994,6 +9997,3 @@
 34899658	Microbiota Variation Across Life Stages of European Field-Caught Anopheles atroparvus and During Laboratory Colonization: New Insights for Malaria Research.
 34899347	Genetic Variation of G6PD and CYP2D6: Clinical Implications on the Use of Primaquine for Elimination of Plasmodium vivax.
 34897154	Chronic Infection with Hepatitis C Virus Subtype 1g in a Japanese Patient Successfully Treated with Glecaprevir/Pibrentasvir.
-34896615	Cryptic erythrocytic infections in Plasmodium vivax, another challenge to its elimination.
-34896614	Plasmodium vivax transmission-blocking vaccines: Progress, challenges and innovation.
-34896457	Magnetic Multiplex Loop Mediated Isothermal Amplification (MM-LAMP) technique for simultaneous detection of dengue and chikungunya virus.
