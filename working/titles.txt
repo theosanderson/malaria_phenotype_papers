@@ -1,3 +1,10 @@
+38304950	Investigation of an airport-associated cluster of falciparum malaria in Frankfurt, Germany, 2022.
+38304732	Co-occurrence of Overweight, Stunting, and Anemia among Adolescents (10-19 Years) in Tanzania Mainland: A School-Based Cross-Sectional Study.
+38304146	Inhibition of Plasmodium falciparum plasmepsins by drugs targeting HIV-1 protease: A way forward for antimalarial drug discovery.
+38303961	Science of malaria elimination: using knowledge of bottlenecks and enablers from the Malaria Elimination Demonstration Project in Central India for eliminating malaria in the Asia Pacific region.
+38303659	Distribution and insecticide resistance profile of the major malaria vector Anopheles funestus group across the African continent.
+38303455	A mathematical model for malaria disease dynamics with vaccination and infected immigrants.
+38303078	Blockage of mechanosensitive Piezo1 channel alleviates the severity of experimental malaria-associated acute lung injury.
 38302888	Clinical and immunological outcomes of HIV-exposed uninfected and HIV-unexposed uninfected children in the first 24 months of life in Western Kenya.
 38301983	Withanolides from the active extract of Physalis angulate and their anti-hepatic fibrosis effects.
 38301784	Association between prenatal exposure to indoor residual spraying insecticides and infection rates among South African children participating in the Venda Health Examination of Mothers, Babies and their Environment (VHEMBE).
@@ -13,6 +20,7 @@
 38298044	Ethanol extract of aloe vera ameliorates Artemether-Lumefantrine-induced reproductive toxicity in adult male Albino rats (Wistar Strain).
 38297098	Infected erythrocytes and plasma proteomics reveal a specific protein signature of severe malaria.
 38297033	Reaction hijacking inhibition of Plasmodium falciparum asparagine tRNA synthetase.
+38296981	Anti-CRISPR Anopheles mosquitoes inhibit gene drive spread under challenging behavioural conditions in large cages.
 38296395	Efficacy and safety of bedaquiline and delamanid in the treatment of drug-resistant tuberculosis in adults: A systematic review and meta-analysis.
 38296296	Exploring malaria prediction models in Togo: a time series forecasting by health district and target group.
 38295683	The fully automated Sysmex XN-31 hematology analyzer can detect bloodstream form Trypanosoma brucei.
@@ -9989,11 +9997,3 @@
 34903042	Immunomodulation by Mosquito Salivary Protein AgSAP Contributes to Early Host Infection by Plasmodium.
 34902534	Specific sub fractions from Terminalia mantaly (H. Perrier) extracts potently inhibit Plasmodium falciparum rings, merozoite egress and invasion.
 34901787	Analyzing gut microbiota composition in individual Anopheles mosquitoes after experimental treatment.
-34901504	In vivo antiplasmodial activity of hydromethanolic leaf extract and solvent fractions of Maytenus gracilipes (Celastraceae) against Plasmodium berghei in mice.
-34901322	Chikungunya virus non-structural protein nsP3 interacts with Aedes aegypti DEAD-box helicase RM62F.
-34900755	Profiling the Quality and Quantity of Naturally Induced Antibody Responses Against Pfs230 and Pfs48/45 Among Non-Febrile Children Living in Southern Ghana: A Longitudinal Study.
-34900503	Blackwater Fever in Pregnancy With Severe Falciparum Malaria: A Case of Imported Malaria From Nigeria to the United Kingdom During the COVID-19 Pandemic.
-34899708	Impact of Galectin-Receptor Interactions on Liver Pathology During the Erythrocytic Stage of Plasmodium berghei Malaria.
-34899658	Microbiota Variation Across Life Stages of European Field-Caught Anopheles atroparvus and During Laboratory Colonization: New Insights for Malaria Research.
-34899347	Genetic Variation of G6PD and CYP2D6: Clinical Implications on the Use of Primaquine for Elimination of Plasmodium vivax.
-34897154	Chronic Infection with Hepatitis C Virus Subtype 1g in a Japanese Patient Successfully Treated with Glecaprevir/Pibrentasvir.
