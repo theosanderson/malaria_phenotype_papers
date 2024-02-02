@@ -1,3 +1,6 @@
+38301154	Spectrally Resolved and Highly Parallelized Raman Difference Spectroscopy for the Analysis of Drug-Target Interactions between the Antimalarial Drugs Chloroquine and Hematin.
+38300956	Using a mobile nanopore sequencing lab for end-to-end genomic surveillance of Plasmodium falciparum: A feasibility study.
+38300810	Three new dihydrochalcones from the leaves of Artocarpus sericicarpus Jarrett and their activity against Plasmodium falciparum.
 38299986	Malaria prevention in children: an update.
 38299836	The intersection of host in vivo metabolism and immune responses to infection with kinetoplastid and apicomplexan parasites.
 38299826	Mast cell-derived IL-10 protects intestinal barrier integrity during malaria in mice and regulates parasite transmission to Anopheles stephensi with a female-biased immune response.
@@ -9994,6 +9997,3 @@
 34896615	Cryptic erythrocytic infections in Plasmodium vivax, another challenge to its elimination.
 34896614	Plasmodium vivax transmission-blocking vaccines: Progress, challenges and innovation.
 34896457	Magnetic Multiplex Loop Mediated Isothermal Amplification (MM-LAMP) technique for simultaneous detection of dengue and chikungunya virus.
-34896314	B cell clonal expansion and mutation in the immunoglobulin heavy chain variable domain in response to Pfs230 and Pfs25 malaria vaccines.
-34896312	Plasmodium vivax - How hidden reservoirs hinder global malaria elimination.
-34896016	Live attenuated vaccines, a favorable strategy to provide long-term immunity against protozoan diseases.
