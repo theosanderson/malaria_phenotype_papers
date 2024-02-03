@@ -1,3 +1,4 @@
+38308504	Disease-specific plasma protein profiles in patients with fever after traveling to tropical areas.
 38308288	From efficacy to effectiveness: a comprehensive framework for monitoring, evaluating and optimizing seasonal malaria chemoprevention programmes.
 38308253	Genetic analysis and molecular basis of G6PD deficiency among malaria patients in Thailand: implications for safe use of 8-aminoquinolines.
 38307966	Profiling the antibody response of humans protected by immunization with Plasmodium vivax radiation-attenuated sporozoites.
@@ -9996,4 +9997,3 @@
 34906092	Effectiveness of joint 3 + 1 malaria strategy along China-Myanmar cross border areas.
 34906083	Impact of malaria control interventions on malaria infection and anaemia in areas with irrigated schemes: a cross-sectional population-based study in Sudan.
 34905777	Evidence of Brain Alterations in Noncerebral Falciparum Malaria.
-34905655	Seasonal variation in maternal dietary diversity is reduced by small-scale irrigation practices: A longitudinal study.
