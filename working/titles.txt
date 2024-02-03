@@ -1,3 +1,5 @@
+38306342	Health systems impacts of the COVID-19 pandemic on malaria control program implementation and malaria burden in Benin: A mixed-method qualitative and mathematical modelling and study.
+38306208	How Racism and "Tropical Medicine" Built the Panama Canal.
 38305633	IL-15 Complex-Induced IL-10 Enhances Plasmodium-specific CD4+ T Follicular Helper Differentiation and Antibody Production.
 38304950	Investigation of an airport-associated cluster of falciparum malaria in Frankfurt, Germany, 2022.
 38304732	Co-occurrence of Overweight, Stunting, and Anemia among Adolescents (10-19 Years) in Tanzania Mainland: A School-Based Cross-Sectional Study.
@@ -9995,5 +9997,3 @@
 34903722	SARS-CoV-2 ferritin nanoparticle vaccine induces robust innate immune activity driving polyfunctional spike-specific T cell responses.
 34903551	Health-seeking behaviours in a malaria endemic district in Lao People's Democratic Republic: a mixed methods study.
 34903240	Genetic markers associated with insecticide resistance and resting behaviour in Anopheles gambiae mosquitoes in selected sites in Kenya.
-34903042	Immunomodulation by Mosquito Salivary Protein AgSAP Contributes to Early Host Infection by Plasmodium.
-34902534	Specific sub fractions from Terminalia mantaly (H. Perrier) extracts potently inhibit Plasmodium falciparum rings, merozoite egress and invasion.
