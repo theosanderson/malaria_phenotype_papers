@@ -1,11 +1,16 @@
+38313152	Evaluating global health initiatives to improve health equity.
+38313099	School and community driven dengue vector control and monitoring in Myanmar: Study protocol for a cluster randomized controlled trial.
+38313073	Ethnobotanical study of medicinal plants used by the people of Mosop, Nandi County in Kenya.
+38312850	Imported congenital malaria caused by Plasmodium ovale: A case report.
+38312496	Morbidity and Mortality of HIV-Exposed Uninfected Infants in a Tertiary Referral Facility in Yaoundé, Cameroon.
+38311678	Ultra-low volume intradermal administration of radiation-attenuated sporozoites with the glycolipid adjuvant 7DW8-5 completely protects mice against malaria.
+38311672	Therapeutic potential of antimicrobial peptides against pathogenic protozoa.
 38311002	Imported malaria: A 20-year retrospective study from a tertiary public hospital in Brussels, Belgium.
 38310984	The ethnopharmacological study of plant drugs used traditionally in Djibouti for malaria treatment.
 38310911	Malaria vaccines for children: and now there are two.
 38310910	Safety and efficacy of malaria vaccine candidate R21/Matrix-M in African children: a multicentre, double-blind, randomised, phase 3 trial.
 38310887	Routine malaria vaccinations begin.
 38310733	Neurological patients confronting climate change: A potential role for the glymphatic system and sleep.
-38311678	Ultra-low volume intradermal administration of radiation-attenuated sporozoites with the glycolipid adjuvant 7DW8-5 completely protects mice against malaria.
-38311672	Therapeutic potential of antimicrobial peptides against pathogenic protozoa.
 38310321	Development assistance, donor-recipient dynamic, and domestic policy: a case study of two health interventions supported by World Bank-UK and Global Fund in China.
 38310105	Artesunate treats obesity in male mice and non-human primates through GDF15/GFRAL signalling axis.
 38309743	WHO prequalifies a second malaria vaccine, a significant milestone in prevention of the disease.
@@ -310,7 +315,7 @@
 38202761	Aptamer-Based Imaging of Polyisoprenoids in the Malaria Parasite.
 38201276	"All for One and One for All": The Secreted Heat Shock Protein gp96-Ig Based Vaccines.
 38200989	Microbes and Mental Illness: Past, Present, and Future.
-38200697	Editorial: Special Issue Avian Malaria.
+38200697	Special issue: avian malaria.
 38200574	Understanding psychosocial determinants of malaria behaviours in low-transmission settings: a scoping review.
 38200257	Integrating vaccines and monoclonal antibodies into malaria prevention.
 38200222	Exploring genetic polymorphisms among Plasmodium vivax isolates from the Thai-Myanmar borders using circumsporozoite protein (pvcsp) and ookinete surface protein (pvs25) encoding genes.
@@ -9992,8 +9997,3 @@
 34910937	How to train your antibody to fight malaria.
 34910173	Minimally Invasive Tissue Sampling: A Tool to Guide Efforts to Reduce AIDS-Related Mortality in Resource-Limited Settings.
 34910106	B cell-intrinsic TBK1 is essential for germinal center formation during infection and vaccination in mice.
-34909498	Low awareness of venous thromboembolism among the general population: a call for increased public enlightenment programs.
-34909438	PfEMP1-Specific Immunoglobulin G Reactivity Among Beninese Pregnant Women With Sickle Cell Trait.
-34909073	Malaria amongst febrile children: call for a pediatric malaria assessment tool.
-34908849	Limited Polymorphism in Plasmodium falciparum Artemisinin Resistance Kelch13-Propeller Gene Among Clinical Isolates from Bushenyi District, Uganda.
-34908812	Investigations of socioeconomic factors associated with follow-up compliance with malaria treatment in Haiti.
