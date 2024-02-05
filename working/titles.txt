@@ -2,7 +2,6 @@
 38313099	School and community driven dengue vector control and monitoring in Myanmar: Study protocol for a cluster randomized controlled trial.
 38313073	Ethnobotanical study of medicinal plants used by the people of Mosop, Nandi County in Kenya.
 38312850	Imported congenital malaria caused by Plasmodium ovale: A case report.
-38312496	Morbidity and Mortality of HIV-Exposed Uninfected Infants in a Tertiary Referral Facility in Yaoundé, Cameroon.
 38311678	Ultra-low volume intradermal administration of radiation-attenuated sporozoites with the glycolipid adjuvant 7DW8-5 completely protects mice against malaria.
 38311672	Therapeutic potential of antimicrobial peptides against pathogenic protozoa.
 38311002	Imported malaria: A 20-year retrospective study from a tertiary public hospital in Brussels, Belgium.
@@ -4966,6 +4965,7 @@
 36587808	An insight into the female and male Sabethes cyaneus mosquito salivary glands transcriptome.
 36587755	Guidelines to prevent malarial transmission among interprovincial travelers to malaria endemic regions.
 36587274	Editorial: Current Status of Two Adjuvanted Malaria Vaccines and the World Health Organization (WHO) Strategy to Eradicate Malaria by 2030.
+38312496	Morbidity and Mortality of HIV-Exposed Uninfected Infants in a Tertiary Referral Facility in Yaoundé, Cameroon.
 36587210	Efficacy and safety of pyronaridine-artesunate (Pyramax(®)) for the treatment of uncomplicated Plasmodium vivax malaria in Northwest Ethiopia.
 36587191	Effectiveness of seasonal malaria chemoprevention in three regions of Togo: a population-based longitudinal study from 2013 to 2020.
 36585709	Who is protected? Determinants of hepatitis B infant vaccination completion among a prospective cohort of migrant workers in Thailand during the COVID-19 pandemic.
