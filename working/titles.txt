@@ -1,3 +1,9 @@
+38315724	Intra-lineage microevolution of Wolbachia leads to the emergence of new cytoplasmic incompatibility patterns.
+38315723	Basigin mediation of  Plasmodium falciparum red blood cell invasion does not require its transmembrane domain or interaction with monocarboxylate transporter 1.
+38315452	Synthesis, characterization and larvicidal studies of ethyl 3-benzoyl-7-(piperidin-1-yl)indolizine-1-carboxylate analogues against Anopheles arabiensis and cheminformatics approaches.
+38315362	Production and Purification of Plasmodium Circumsporozoite Protein in Lactococcus lactis.
+38315189	[Emergencies in infectious diseases].
+38314860	Surveillance for Selected Pathogens and Parasites of Northern Bobwhite (Colinus virginianus) from Western Oklahoma, USA, 2018-20.
 38313152	Evaluating global health initiatives to improve health equity.
 38313099	School and community driven dengue vector control and monitoring in Myanmar: Study protocol for a cluster randomized controlled trial.
 38313073	Ethnobotanical study of medicinal plants used by the people of Mosop, Nandi County in Kenya.
@@ -166,7 +172,7 @@
 38262838	Glycosylation in malaria parasites: what do we know?
 38262446	In Vitro Antimalarial Activity of Trichothecenes against Liver and Blood Stages of Plasmodium Species.
 38261617	Complement receptor 1 is the human erythrocyte receptor for Plasmodium vivax erythrocyte binding protein.
-38261578	Adverse Drug Reactions and Changes in Haematological and Clinical Chemistry to Two Acts among Nigerian Children with Acute Uncomplicated Malaria.
+38261578	Adverse Drug Reactions and Changes in Haematological and Clinical Chemistry to Two ACTs among Nigerian Children with Acute Uncomplicated Malaria.
 38260611	Red blood cell dynamics during malaria infection violate the assumptions of mathematical models of infection dynamics.
 38260604	Prevalence of Falciparum and non-Falciparum Malaria in the 2014-15 Rwanda Demographic Health Survey.
 38260474	Mixed Alkyl/Aryl Phosphonates Identify Metabolic Serine Hydrolases as Antimalarial Targets.
@@ -9991,9 +9997,3 @@
 34912418	Clinical and Lab profile of severe and uncomplicated malaria: A prospective study from Khuzdar Balochistan.
 34912313	Genetic Diversity and Natural Selection of Plasmodium vivax Duffy Binding Protein-II From China-Myanmar Border of Yunnan Province, China.
 34911505	Human-centered design process and solutions to promote malaria testing and treatment seeking behavior in Guyana hinterlands.
-34911501	Trends and predictive factors for treatment failure following artemisinin-based combination therapy among children with uncomplicated malaria in Ghana: 2005-2018.
-34911410	Preparation and Optimization of Peppermint (Mentha pipertia) Essential Oil Nanoemulsion with Effective Herbal Larvicidal, Pupicidal, and Ovicidal Activity against Anopheles stephensi.
-34910951	Contribution of Meliaceous plants in furnishing lead compounds for antiplasmodial and insecticidal drug development.
-34910937	How to train your antibody to fight malaria.
-34910173	Minimally Invasive Tissue Sampling: A Tool to Guide Efforts to Reduce AIDS-Related Mortality in Resource-Limited Settings.
-34910106	B cell-intrinsic TBK1 is essential for germinal center formation during infection and vaccination in mice.
