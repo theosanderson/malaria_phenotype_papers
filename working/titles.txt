@@ -1,3 +1,11 @@
+38311002	Imported malaria: A 20-year retrospective study from a tertiary public hospital in Brussels, Belgium.
+38310984	The ethnopharmacological study of plant drugs used traditionally in Djibouti for malaria treatment.
+38310911	Malaria vaccines for children: and now there are two.
+38310910	Safety and efficacy of malaria vaccine candidate R21/Matrix-M in African children: a multicentre, double-blind, randomised, phase 3 trial.
+38310887	Routine malaria vaccinations begin.
+38310733	Neurological patients confronting climate change: A potential role for the glymphatic system and sleep.
+38311678	Ultra-low volume intradermal administration of radiation-attenuated sporozoites with the glycolipid adjuvant 7DW8-5 completely protects mice against malaria.
+38311672	Therapeutic potential of antimicrobial peptides against pathogenic protozoa.
 38310321	Development assistance, donor-recipient dynamic, and domestic policy: a case study of two health interventions supported by World Bank-UK and Global Fund in China.
 38310105	Artesunate treats obesity in male mice and non-human primates through GDF15/GFRAL signalling axis.
 38309743	WHO prequalifies a second malaria vaccine, a significant milestone in prevention of the disease.
@@ -9989,11 +9997,3 @@
 34909073	Malaria amongst febrile children: call for a pediatric malaria assessment tool.
 34908849	Limited Polymorphism in Plasmodium falciparum Artemisinin Resistance Kelch13-Propeller Gene Among Clinical Isolates from Bushenyi District, Uganda.
 34908812	Investigations of socioeconomic factors associated with follow-up compliance with malaria treatment in Haiti.
-34908768	Positive/external control of rapid diagnostic tests: A step forward in malaria screening.
-34908464	Inactivating Effects of Common Laboratory Disinfectants, Fixatives, and Temperatures on the Eggs of Soil Transmitted Helminths.
-34908430	Combined Transcriptome and Proteome Profiling for Role of pfEMP1 in Antimalarial Mechanism of Action of Dihydroartemisinin.
-34907379	A malaria vaccine at last.
-34906368	Frequency of Electrocardiographic Alterations and Pericardial Effusion in Patients With Uncomplicated Malaria.
-34906159	Temporal evolution of the resistance genotypes of Plasmodium falciparum in isolates from Equatorial Guinea during 20 years (1999 to 2019).
-34906158	The association between acute fatty liver disease and nitric oxide during malaria in pregnancy.
-34906144	Assessment of Plasmodium falciparum anti-malarial drug resistance markers in pfcrt and pfmdr1 genes in isolates from Honduras and Nicaragua, 2018-2021.
