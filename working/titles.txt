@@ -1,3 +1,4 @@
+38316032	Detection of Invasive Anopheles stephensi Mosquitoes through Molecular Surveillance, Ghana.
 38315724	Intra-lineage microevolution of Wolbachia leads to the emergence of new cytoplasmic incompatibility patterns.
 38315723	Basigin mediation of  Plasmodium falciparum red blood cell invasion does not require its transmembrane domain or interaction with monocarboxylate transporter 1.
 38315452	Synthesis, characterization and larvicidal studies of ethyl 3-benzoyl-7-(piperidin-1-yl)indolizine-1-carboxylate analogues against Anopheles arabiensis and cheminformatics approaches.
@@ -9996,4 +9997,3 @@
 34912809	Insights Into the Regulation of Gynecological Inflammation-Mediated Malignancy by Metalloproteinases.
 34912418	Clinical and Lab profile of severe and uncomplicated malaria: A prospective study from Khuzdar Balochistan.
 34912313	Genetic Diversity and Natural Selection of Plasmodium vivax Duffy Binding Protein-II From China-Myanmar Border of Yunnan Province, China.
-34911505	Human-centered design process and solutions to promote malaria testing and treatment seeking behavior in Guyana hinterlands.
