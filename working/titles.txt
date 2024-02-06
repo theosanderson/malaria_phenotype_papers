@@ -1,3 +1,5 @@
+38318275	Chronic Infection by Plasmodium falciparum.
+38318178	CD8(+) Trms against malaria liver-stage: prospects and challenges.
 38317164	Effectiveness of artemether-lumefantrine for treating uncomplicated malaria in low- and high-transmission areas of Ghana.
 38316918	Epigenetic and transcriptional regulation of cytokine production by Plasmodium falciparum-exposed monocytes.
 38316392	Reading the epitranscriptome of the human malaria parasite.
@@ -70,6 +72,7 @@
 38294761	Molecular Survey of Haemosporidian Parasites in Procellariiformes Sampled in Southern Brazil, 2013-2022.
 38294233	The Association between Long-Term DDT or DDE Exposures and an Altered Sperm Epigenome-a Cross-Sectional Study of Greenlandic Inuit and South African VhaVenda Men.
 38293736	Compound Activity Prediction with Dose-Dependent Transcriptomic Profiles and Deep Learning.
+38293180	Nationwide surveillance identifies yellow fever and chikungunya viruses transmitted by various species of Aedes mosquitoes in Nigeria.
 38293001	Polymicrobial Infection in an Immigrant Female at the United States-Mexico Border.
 38292547	Correction to: R(H): a genetic metric for measuring intrahost Plasmodium falciparum relatedness and distinguishing cotransmission from superinfection.
 38292417	Cloning, expression and molecular analysis of recombinant Netrin-A protein of Lucilia sericata Meigen (Diptera: Calliphoridae) larvae.
@@ -1163,7 +1166,7 @@
 37915080	Unravelling the mosquito-haemosporidian parasite-bird host network in the southwestern Iberian Peninsula: insights into malaria infections, mosquito community and feeding preferences.
 37915065	Deforestation inhibits malaria transmission in Lao PDR: a spatial epidemiology using Earth observation satellites.
 37915028	Dietary pattern and other factors of breast cancer among women: a case control study in Northwest Ethiopia.
-37914527	A case of post-malaria neurological syndrome presenting with cortical tremor.
+37914527	A Case of Post-Malaria Neurological Syndrome Presenting With Cortical Tremor.
 37913775	Emulsion and liposome-based adjuvanted R21 vaccine formulations mediate protection against malaria through distinct immune mechanisms.
 37910592	A systematic review of neglected tropical diseases (NTDs) in Myanmar.
 37910577	Tumor necrosis factor-α (TNF-α) -308G >a promoter polymorphism (rs1800629) promotes Asians in susceptibility to Plasmodium falciparum severe malaria: A meta-analysis.
@@ -9994,6 +9997,3 @@
 34914068	Molecular Characterization of a Vector-Based Candidate Antigen Using the 3'-RACE and Genome Walking Methods and In Silico Analysis of the Correspondent Protein for Vaccine Design and Development.
 34914067	Plasmodium falciparum Antigen Expression in Leishmania Parasite: A Way Forward for Live Attenuated Vaccine Development.
 34914066	A Fast-Track Phenotypic Characterization of Plasmodium falciparum Vaccine Antigens through Lyse-Reseal Erythrocytes Mediated Delivery (LyRED) of RNA Interference for Targeted Translational Repression.
-34914040	Challenges for Vaccinologists in the First Half of the Twenty-First Century.
-34913053	Marine alkaloids as bioactive agents against protozoal neglected tropical diseases and malaria.
-34913035	Antimalarial, Antioxidant Activities and Chemoprofile of Sansevieria liberica Gerome and Labroy (Agavaceae) Leaf Extract.
