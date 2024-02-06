@@ -1,3 +1,7 @@
+38319556	Protective efficacy and safety of radiation-attenuated and chemo-attenuated Plasmodium Falciparum sporozoite vaccines against controlled and natural malaria infection: a systematic review and meta-analysis of randomized controlled trials.
+38319222	Where the Rubber Meets the Road - Research in the Amazon.
+38319102	Beyond schistosomiasis: unraveling co-infections and altered immunity.
+38319064	Primaquine in glucose-6-phosphate dehydrogenase deficiency: an adaptive pharmacometric assessment of ascending dose regimens in healthy volunteers.
 38318275	Chronic Infection by Plasmodium falciparum.
 38318178	CD8(+) Trms against malaria liver-stage: prospects and challenges.
 38317164	Effectiveness of artemether-lumefantrine for treating uncomplicated malaria in low- and high-transmission areas of Ghana.
@@ -9993,7 +9997,3 @@
 34914742	Insecticide-treated net (ITN) use, factors associated with non-use of ITNs, and occurrence of sand flies in three communities with reported cases of cutaneous leishmaniasis in Ghana.
 34914071	Standard Membrane Feeding Assay for Malaria Transmission Studies.
 34914070	Plasmodium berghei Infection in BALB/c Mice Model as an Animal Model for Malaria Disease Research.
-34914069	In Vitro Culture of Plasmodium falciparum for the Production of Mature Gametocytes for Performing Standard Membrane Feeding Assay and Infection of Anopheles spp.
-34914068	Molecular Characterization of a Vector-Based Candidate Antigen Using the 3'-RACE and Genome Walking Methods and In Silico Analysis of the Correspondent Protein for Vaccine Design and Development.
-34914067	Plasmodium falciparum Antigen Expression in Leishmania Parasite: A Way Forward for Live Attenuated Vaccine Development.
-34914066	A Fast-Track Phenotypic Characterization of Plasmodium falciparum Vaccine Antigens through Lyse-Reseal Erythrocytes Mediated Delivery (LyRED) of RNA Interference for Targeted Translational Repression.
