@@ -1,5 +1,11 @@
+38320315	Outreach, Training, and Supportive Supervision: A Package of Strategies That Improves the Quality of Malaria Services and Provides a Model for Monitoring and Evaluating Their Effective Implementation.
+38320314	Outreach Training and Supportive Supervision for Quality Malaria Service Delivery: A Qualitative Evaluation in 11 Sub-Saharan African Countries.
+38320312	How Outreach Training and Supportive Supervision (OTSS) Affect Health Facility Readiness and Health-Care Worker Competency to Prevent and Treat Malaria in Niger: A Secondary Analysis of OTSS Data.
+38320309	Understanding Antenatal Care Service Quality for Malaria in Pregnancy through Supportive Supervision Data in Tanzania.
+38320307	Impact of the Severe Malaria "Champions Program" on the Management of Severe Malaria Cases in 12 Hospitals of the North and Far North Regions of Cameroon.
+38320272	Extracellular Vesicles in Malaria: Shedding Light on Pathogenic Depths.
+38319929	A retrospective analysis of malaria deaths in the pre- and intra- COVID 19 pandemic era, Ghana, 2016-2021.
 38319556	Protective efficacy and safety of radiation-attenuated and chemo-attenuated Plasmodium Falciparum sporozoite vaccines against controlled and natural malaria infection: a systematic review and meta-analysis of randomized controlled trials.
-38319222	Where the Rubber Meets the Road - Research in the Amazon.
 38319102	Beyond schistosomiasis: unraveling co-infections and altered immunity.
 38319064	Primaquine in glucose-6-phosphate dehydrogenase deficiency: an adaptive pharmacometric assessment of ascending dose regimens in healthy volunteers.
 38318275	Chronic Infection by Plasmodium falciparum.
@@ -8253,6 +8259,7 @@
 35491421	Etiological spectrum of persistent fever in the tropics and predictors of ubiquitous infections: a prospective four-country study with pooled analysis.
 35490588	Protein kinase 9 is not required for completion of the Plasmodium berghei life cycle.
 35490317	Neglected Tropical Diseases (NTDs) and COVID-19 Pandemic in Africa: Special Focus on Control Strategies.
+38319222	Where the Rubber Meets the Road - Research in the Amazon.
 35490249	Infectious diseases and predominant travel-related syndromes among long-term expatriates living in low-and middle- income countries: a scoping review.
 35490212	Expert perspectives on the introduction of Triple Artemisinin-based Combination Therapies (TACTs) in Southeast Asia: a Delphi study.
 35489701	Potential role of vaccines in elimination of Plasmodium vivax.
@@ -9990,10 +9997,3 @@
 34917153	Pregnant Women and Malaria Preventive Measures: A Case of Tamale Teaching Hospital, Ghana.
 34917041	Bacteria Are New Targets for Inhibitors of Human Farnesyltransferase.
 34916935	Phytomedicine in Disease Management: In-Silico Analysis of the Binding Affinity of Artesunate and Azadirachtin for Malaria Treatment.
-34916893	Pharmacokinetic and molecular docking studies to design antimalarial compounds targeting Actin I.
-34916799	Co-infections and Comorbidities of Multiple Parasites and Hepatitis B Virus Infections in the Lowland Area of Western Ethiopia: Implications for Integrated Approaches.
-34916521	Harmonic convergence coordinates swarm mating by enhancing mate detection in the malaria mosquito Anopheles gambiae.
-34915170	Delayed haemolysis after IV artesunate therapy for P. falciparum infection.
-34914742	Insecticide-treated net (ITN) use, factors associated with non-use of ITNs, and occurrence of sand flies in three communities with reported cases of cutaneous leishmaniasis in Ghana.
-34914071	Standard Membrane Feeding Assay for Malaria Transmission Studies.
-34914070	Plasmodium berghei Infection in BALB/c Mice Model as an Animal Model for Malaria Disease Research.
