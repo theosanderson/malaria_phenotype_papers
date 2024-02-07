@@ -1,7 +1,6 @@
 38323191	Asymptomatic malaria infection and its associated factors among pregnant women in Ethiopia; a systematic review and meta-analysis.
 38322747	Obstetric referral processes and the role of inter-facility communication: the district-level experience in the Greater Accra region of Ghana.
 38322708	Insecticide treated eaves screens provide additional marginal protection compared to untreated eave screens under semi-field conditions in western Kenya.
-38322392	Referral of sick children and levels of adherence by carers: implications on quality health care in the middle belt of Ghana.
 38321572	Higher outdoor mosquito density and Plasmodium infection rates in and around malaria index case households in low transmission settings of Ethiopia: Implications for vector control.
 38321481	Molecular monitoring of insecticide resistance in major disease vectors in Armenia.
 38321459	Assessing availability, prices, and market share of quality-assured malaria ACT and RDT in the private retail sector in Nigeria and Uganda.
@@ -9997,3 +9996,4 @@
 34918125	A nationwide study of imported Plasmodium ovale and mixed infections in Israel 2008-2020.
 34918106	Malaria eradication revisited.
 34918097	Heterologous prime-boost strategies for COVID-19 vaccines.
+34918055	Evaluation of long-lasting insecticidal net distribution through schools in Southern Tanzania.
