@@ -1,3 +1,6 @@
+38324758	Changing Clinical Epidemiology of Plasmodium vivax Malaria as Transmission Decreases: Population-Based Prospective Panel Survey in the Brazilian Amazon.
+38324584	A cluster-randomized trial of client and provider-directed financial interventions to align incentives with appropriate case management in retail medicine outlets: Results of the TESTsmART Trial in western Kenya.
+38324542	Diversity and prevalence of zoonotic infections at the animal-human interface of primate trafficking in Peru.
 38324333	Africa's First Routine Malaria Vaccination Campaign Begins.
 38323831	Oxidative stress changes the effectiveness of artemisinin in Plasmodium falciparum.
 38323802	Comment on 'The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis'.
@@ -9994,6 +9997,3 @@
 34919861	Water, sanitation, and hygiene for control of trachoma in Ethiopia (WUHA): a two-arm, parallel-group, cluster-randomised trial.
 34919831	Mass drug administration of ivermectin and dihydroartemisinin-piperaquine against malaria in settings with high coverage of standard control interventions: a cluster-randomised controlled trial in The Gambia.
 34919830	Ivermectin for mass drug administration against malaria.
-34919258	Possible mechanistic insights into iron homeostasis role of the action of 4-aminoquinolines (chloroquine/hydroxychloroquine) on COVID-19 (SARS-CoV-2) infection.
-34918860	Targeting the IspD Enzyme in the MEP Pathway: Identification of a Novel Fragment Class.
-34918609	Post-malaria neurological syndrome manifesting as new onset psychosis with generalized encephalopathy: an analysis of two cases in children.
