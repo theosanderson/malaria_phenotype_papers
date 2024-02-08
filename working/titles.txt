@@ -1,3 +1,8 @@
+38328504	A protocol and training guidelines for mosquito sampling in remote areas with limited power supply.
+38328497	How to Detect Antibodies Against Babesia divergens in Human Blood Samples.
+38328068	Broadly inhibitory antibodies against severe malaria virulence proteins.
+38327574	Prevalence and factors associated with maternal and neonatal sepsis in sub-Saharan Africa: a systematic review and meta-analysis.
+38327451	Biological evaluation of novel side chain containing CQTrICh-analogs as antimalarials and their development as PfCDPK1 kinase inhibitors.
 38326871	Is qualitative social research in global health fulfilling its potential?: a systematic evidence mapping of research on point-of-care testing in low- and middle-income contexts.
 38326842	Artificial nighttime lighting impacts Plasmodium falciparum mature stage V gametocytes infectivity in Anopheles stephensi.
 38326823	Betulinic and ursolic acids from Nauclea latifolia roots mediate their antimalarial activities through docking with PfEMP-1 and PfPKG proteins.
@@ -9992,8 +9997,3 @@
 34928206	Identification and characterisation of mosquitoes from different locations in Qatar in 2017-2019.
 34927578	Community acceptance of environmental larviciding against malaria with Bacillus thuringiensis israelensis in rural Burkina Faso - A knowledge, attitudes and practices study.
 34926328	Stressed Out About Plasmodium falciparum Gametocytogenesis.
-34926171	Toxicological effect of Artemisinin-Based Combination Therapies plus Paracetamol in malaria patients.
-34925347	Antibody Targets and Properties for Complement-Fixation Against the Circumsporozoite Protein in Malaria Immunity.
-34925255	A Molecular Investigation of Malaria Infections From High-Transmission Areas of Southern Togo Reveals Different Species of Plasmodium Parasites.
-34923983	Population genetics of Anopheles arabiensis, the primary malaria vector in the Republic of Sudan.
-34923211	Wrong place, wrong time: The long-run effects of in-utero exposure to malaria on educational attainment.
