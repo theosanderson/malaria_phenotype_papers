@@ -1,3 +1,5 @@
+38329581	Genetics and metabolic responses of Artemisia annua L to the lake of phosphorus under the sparingly soluble phosphorus fertilizer: evidence from transcriptomics analysis.
+38329112	Modeling resource allocation strategies for insecticide-treated bed nets to achieve malaria eradication.
 38328504	A protocol and training guidelines for mosquito sampling in remote areas with limited power supply.
 38328497	How to Detect Antibodies Against Babesia divergens in Human Blood Samples.
 38328068	Broadly inhibitory antibodies against severe malaria virulence proteins.
@@ -976,7 +978,7 @@
 37993039	In vitro drug susceptibility using a parasite-rescue and transformation assay of Leishmania (Mundinia) martiniquensis and Leishmania (Mundinia) orientalis amastigotes against antileishmanial drugs.
 37992998	Redox modulating small molecules having antimalarial efficacy.
 37992781	The genus Canthium: A comprehensive summary on its traditional use, phytochemistry, and pharmacological activities.
-37992231	Platelets mediate the clearance of senescent red blood cells by forming pro-phagocytic platelet-cell complexes.
+37992231	Platelets mediate the clearance of senescent red blood cells by forming prophagocytic platelet-cell complexes.
 37992117	Malaria species positivity rates among symptomatic individuals across regions of differing transmission intensities in Mainland Tanzania.
 37992045	Assessing risk factors for malaria and schistosomiasis among children in Misungwi, Tanzania, an area of co-endemicity: A mixed methods study.
 37992017	Understanding reticence to occupy free, novel-design homes: A qualitative study in Mtwara, Southeast Tanzania.
@@ -9995,5 +9997,3 @@
 34928952	Barcoded Asaia bacteria enable mosquito in vivo screens and identify novel systemic insecticides and inhibitors of malaria transmission.
 34928370	GIP: an open-source computational pipeline for mapping genomic instability from protists to cancer cells.
 34928206	Identification and characterisation of mosquitoes from different locations in Qatar in 2017-2019.
-34927578	Community acceptance of environmental larviciding against malaria with Bacillus thuringiensis israelensis in rural Burkina Faso - A knowledge, attitudes and practices study.
-34926328	Stressed Out About Plasmodium falciparum Gametocytogenesis.
