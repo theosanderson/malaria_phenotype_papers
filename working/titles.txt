@@ -1,3 +1,6 @@
+38334685	Novel phylogenetic clade of avian Haemoproteus parasites (Haemosporida, Haemoproteidae) from Accipitridae raptors, with description of a new Haemoproteus species.
+38334391	PEXEL is a proteolytic maturation site for both exported and non-exported Plasmodium proteins.
+38334387	Intranasal SARS-CoV-2 RBD decorated nanoparticle vaccine enhances viral clearance in the Syrian hamster model.
 38333577	Accessibility of malaria commodities in Geita District Council, mainland Tanzania: the experiences from healthcare providers and clients.
 38333483	Knowledge and Awareness of Systemic Lupus Erythematosus Among the Population of Jeddah, Saudi Arabia: A Cross-Sectional Study.
 38333326	Disaster after disaster: the outbreak of infectious diseases in Pakistan in the wake of 2022 floods.
@@ -9994,6 +9997,3 @@
 34930317	Impact of COVID-19 on routine malaria indicators in rural Uganda: an interrupted time series analysis.
 34930312	The presence of circulating antibody secreting cells and long-lived memory B cell responses to reticulocyte binding protein 1a in Plasmodium vivax patients.
 34930300	Incidence of clinical malaria, acute respiratory illness, and diarrhoea in children in southern Malawi: a prospective cohort study.
-34930283	Hyper-prevalence of submicroscopic Plasmodium falciparum infections in a rural area of western Kenya with declining malaria cases.
-34930278	How radical is radical cure? Site-specific biases in clinical trials underestimate the effect of radical cure on Plasmodium vivax hypnozoites.
-34930272	Putative pleiotropic effects of the knockdown resistance (L1014F) allele on the life-history traits of Anopheles gambiae.
