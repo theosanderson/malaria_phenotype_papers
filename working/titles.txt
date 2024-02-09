@@ -1,3 +1,6 @@
+38330357	Recombinant full-length Plasmodium falciparum circumsporozoite protein-based vaccine adjuvanted with GLA-LSQ: Results of Phase 1 testing with malaria challenge.
+38330097	Zeb2 drives the formation of CD11c + atypical B cells to sustain germinal centers that control persistent infection.
+38329933	Antifungal and Antiparasitic Activities of Metallocene-Containing Fluconazole Derivatives.
 38329581	Genetics and metabolic responses of Artemisia annua L to the lake of phosphorus under the sparingly soluble phosphorus fertilizer: evidence from transcriptomics analysis.
 38329112	Modeling resource allocation strategies for insecticide-treated bed nets to achieve malaria eradication.
 38328504	A protocol and training guidelines for mosquito sampling in remote areas with limited power supply.
@@ -9994,6 +9997,3 @@
 34930029	New Insights into Antimalarial Chemopreventive Activity of Antifolates.
 34929669	Effect of Short-Term Heating on Bioefficacy of Deltamethrin-Coated Long-Lasting Insecticidal Nets.
 34928954	Distinguishing gene flow between malaria parasite populations.
-34928952	Barcoded Asaia bacteria enable mosquito in vivo screens and identify novel systemic insecticides and inhibitors of malaria transmission.
-34928370	GIP: an open-source computational pipeline for mapping genomic instability from protists to cancer cells.
-34928206	Identification and characterisation of mosquitoes from different locations in Qatar in 2017-2019.
