@@ -1,3 +1,8 @@
+38333577	Accessibility of malaria commodities in Geita District Council, mainland Tanzania: the experiences from healthcare providers and clients.
+38333483	Knowledge and Awareness of Systemic Lupus Erythematosus Among the Population of Jeddah, Saudi Arabia: A Cross-Sectional Study.
+38333326	Disaster after disaster: the outbreak of infectious diseases in Pakistan in the wake of 2022 floods.
+38333312	Atypical perforated appendicitis secondary to schistosomiasis: a rare case report.
+38333003	Computational Studies on 6-Pyruvoyl Tetrahydropterin Synthase (6-PTPS) of Plasmodium falciparum.
 38332023	Methemoglobin levels in malaria: a systematic review and meta-analysis of its association with Plasmodium falciparum and Plasmodium vivax infections and disease severity.
 38331989	Correction: Association of the C allele of rs479200 in the EGLN1 gene with COVID-19 severity in Indian population: a novel finding.
 38331887	First malaria in pregnancy followed in Philippine real-world setting: proof-of-concept of probabilistic record linkage between disease surveillance and hospital administrative data.
@@ -9992,8 +9997,3 @@
 34930283	Hyper-prevalence of submicroscopic Plasmodium falciparum infections in a rural area of western Kenya with declining malaria cases.
 34930278	How radical is radical cure? Site-specific biases in clinical trials underestimate the effect of radical cure on Plasmodium vivax hypnozoites.
 34930272	Putative pleiotropic effects of the knockdown resistance (L1014F) allele on the life-history traits of Anopheles gambiae.
-34930267	Hepatic safety and tolerability of cipargamin (KAE609), in adult patients with Plasmodium falciparum malaria: a randomized, phase II, controlled, dose-escalation trial in sub-Saharan Africa.
-34930265	Maplaria: a user friendly web-application for spatio-temporal malaria prevalence mapping.
-34930264	The use of respondent‑driven sampling to assess febrile illness treatment-seeking behaviours among forest-goers in Cambodia and Vietnam.
-34930260	Haematological response in experimental human Plasmodium falciparum and Plasmodium vivax malaria.
-34930254	Incidence and consequences of damage to insecticide-treated mosquito nets in Kenya.
