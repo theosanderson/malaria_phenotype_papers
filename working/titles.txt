@@ -1,3 +1,7 @@
+38335493	Gurbaxani et al. Respond.
+38335249	Delayed care-seeking in international migrant workers with imported malaria in China.
+38335219	Enhancing malaria detection in resource-limited areas: A high-performance colorimetric LAMP assay for Plasmodium falciparum screening.
+38335209	COVID-19 in patients presenting with malaria-like symptoms at a primary healthcare facility in Accra, Ghana.
 38334685	Novel phylogenetic clade of avian Haemoproteus parasites (Haemosporida, Haemoproteidae) from Accipitridae raptors, with description of a new Haemoproteus species.
 38334391	PEXEL is a proteolytic maturation site for both exported and non-exported Plasmodium proteins.
 38334387	Intranasal SARS-CoV-2 RBD decorated nanoparticle vaccine enhances viral clearance in the Syrian hamster model.
@@ -9993,7 +9997,3 @@
 34931614	Advax, as a Co-adjuvant, in Combination with Poly(I:C) Elicits Enhanced Th1 Immune Responses and Parasite Growth-Inhibitory Antibodies Against Plasmodium Falciparum Merozoite Surface Protein-1 (PfMSP-142) in BALB/c Mice.
 34931316	Non-lethal rodent malarial infection prevents collagen-induced arthritis in mice via anti-arthritic immunomodulation.
 34930459	Bioefficacy and durability of Olyset(®) Plus, a permethrin and piperonyl butoxide-treated insecticidal net in a 3-year long trial in Kenya.
-34930378	Malaria vector control tools in emergency settings: What do experts think? Results from a DELPHI survey.
-34930317	Impact of COVID-19 on routine malaria indicators in rural Uganda: an interrupted time series analysis.
-34930312	The presence of circulating antibody secreting cells and long-lived memory B cell responses to reticulocyte binding protein 1a in Plasmodium vivax patients.
-34930300	Incidence of clinical malaria, acute respiratory illness, and diarrhoea in children in southern Malawi: a prospective cohort study.
