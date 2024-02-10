@@ -3,6 +3,8 @@
 38337934	Vitex Genus as a Source of Antimicrobial Agents.
 38337778	Assessment of the Performance of Lactate Dehydrogenase-Based Rapid Diagnostic Test for Malaria in Djibouti in 2022-2023.
 38336647	Immune responses to P falciparum antibodies in symptomatic malaria patients with variant hemoglobin genotypes in Ghana.
+38336760	Malaria transmission potential of Anopheles gambiae s.l. in indoor residual spraying areas with clothianidin 50 WG in northern Benin.
+38335879	Nine years of imported malaria in a teaching hospital in Belgium: Demographics, clinical characteristics, and outcomes.
 38335493	Gurbaxani et al. Respond.
 38335249	Delayed care-seeking in international migrant workers with imported malaria in China.
 38335219	Enhancing malaria detection in resource-limited areas: A high-performance colorimetric LAMP assay for Plasmodium falciparum screening.
@@ -9995,5 +9997,3 @@
 34934829	Impact of meteorological parameters on mosquito population abundance and distribution in a former malaria endemic area, central Iran.
 34934652	Epidemiological study to assess the impact of COVID-19 pandemic on the occurrence of monsoon-related diseases in the city of Mumbai.
 34934127	Human blood type influences the host-seeking behavior and fecundity of the Asian malaria vector Anopheles stephensi.
-34933766	Rapid, high throughput protein estimation method for saponin and alhydrogel adjuvanted R21 VLP Malaria vaccine based on intrinsic fluorescence.
-34933121	Anti-malarial activity in a Chinese herbal supplement containing Inonotus obliquus and Panax notoginseng.
