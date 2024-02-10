@@ -1,3 +1,8 @@
+38339833	Plasmodium falciparum transmission in the highlands of Ethiopia is driven by closely related and clonal parasites.
+38338378	Drug Repurposing in the Chemotherapy of Infectious Diseases.
+38337934	Vitex Genus as a Source of Antimicrobial Agents.
+38337778	Assessment of the Performance of Lactate Dehydrogenase-Based Rapid Diagnostic Test for Malaria in Djibouti in 2022-2023.
+38336647	Immune responses to P falciparum antibodies in symptomatic malaria patients with variant hemoglobin genotypes in Ghana.
 38335493	Gurbaxani et al. Respond.
 38335249	Delayed care-seeking in international migrant workers with imported malaria in China.
 38335219	Enhancing malaria detection in resource-limited areas: A high-performance colorimetric LAMP assay for Plasmodium falciparum screening.
@@ -9992,8 +9997,3 @@
 34934127	Human blood type influences the host-seeking behavior and fecundity of the Asian malaria vector Anopheles stephensi.
 34933766	Rapid, high throughput protein estimation method for saponin and alhydrogel adjuvanted R21 VLP Malaria vaccine based on intrinsic fluorescence.
 34933121	Anti-malarial activity in a Chinese herbal supplement containing Inonotus obliquus and Panax notoginseng.
-34933065	In vivo antibabesial activity and bioinformatic analysis of compounds derived from the Medicines for Malaria Venture box against Babesia microti.
-34932816	Pipecolic Acid, a Putative Mediator of the Encephalopathy of Cerebral Malaria and the Experimental Model of Cerebral Malaria.
-34931614	Advax, as a Co-adjuvant, in Combination with Poly(I:C) Elicits Enhanced Th1 Immune Responses and Parasite Growth-Inhibitory Antibodies Against Plasmodium Falciparum Merozoite Surface Protein-1 (PfMSP-142) in BALB/c Mice.
-34931316	Non-lethal rodent malarial infection prevents collagen-induced arthritis in mice via anti-arthritic immunomodulation.
-34930459	Bioefficacy and durability of Olyset(®) Plus, a permethrin and piperonyl butoxide-treated insecticidal net in a 3-year long trial in Kenya.
