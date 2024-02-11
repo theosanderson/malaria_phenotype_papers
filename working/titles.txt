@@ -1,3 +1,9 @@
+38341502	Establishing RTS,S/AS01 as a benchmark for comparison to next-generation malaria vaccines in a mouse model.
+38341243	R21/Matrix-M vaccine: optimising supply, maximising impact.
+38341240	Malaria vaccines: a test for global health.
+38340890	Silent Acute Rheumatic Fever Unmasked by Using Handheld Echocardiography for Febrile Children Presenting in an RHD Endemic Area.
+38340876	Enhanced anti-malarial efficacy of mefloquine delivered via cationic liposome in a murine model of experimental cerebral malaria.
+38340779	Activity of alkoxyamide-based histone deacetylase inhibitors against Plasmodium falciparum malaria parasites.
 38339833	Plasmodium falciparum transmission in the highlands of Ethiopia is driven by closely related and clonal parasites.
 38338378	Drug Repurposing in the Chemotherapy of Infectious Diseases.
 38337934	Vitex Genus as a Source of Antimicrobial Agents.
@@ -9991,9 +9997,3 @@
 34939462	Predictors of prolonged hospitalisation and mortality among children admitted with blackwater fever in eastern Uganda.
 34939034	Epidemiology and Outcome of Sepsis in Adults and Children in a Rural, Sub-Sahara African Setting.
 34938733	Identification of the Recombinant Plasmodium vivax Surface-Related Antigen as a Possible Immune Evasion Factor Against Human Splenic Fibroblasts by Targeting ITGB1.
-34938707	Community Health Workers' Experiences in Strengthening the Uptake of Childhood Immunization and Malaria Prevention Services in Urban Sierra Leone.
-34936537	The blood-stage dynamics of malaria infection with immune response.
-34934836	In pursuit of new anti-malarial candidates: novel synthesized and characterized pyrano-benzodioxepin analogues attenuated Plasmodium berghei replication in malaria-infected mice.
-34934829	Impact of meteorological parameters on mosquito population abundance and distribution in a former malaria endemic area, central Iran.
-34934652	Epidemiological study to assess the impact of COVID-19 pandemic on the occurrence of monsoon-related diseases in the city of Mumbai.
-34934127	Human blood type influences the host-seeking behavior and fecundity of the Asian malaria vector Anopheles stephensi.
