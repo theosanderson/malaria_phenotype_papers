@@ -1,9 +1,9 @@
 38341502	Establishing RTS,S/AS01 as a benchmark for comparison to next-generation malaria vaccines in a mouse model.
+38340890	Silent Acute Rheumatic Fever Unmasked by Using Handheld Echocardiography for Febrile Children Presenting in an RHD Endemic Area.
+38340779	Activity of alkoxyamide-based histone deacetylase inhibitors against Plasmodium falciparum malaria parasites.
 38341243	R21/Matrix-M vaccine: optimising supply, maximising impact.
 38341240	Malaria vaccines: a test for global health.
-38340890	Silent Acute Rheumatic Fever Unmasked by Using Handheld Echocardiography for Febrile Children Presenting in an RHD Endemic Area.
 38340876	Enhanced anti-malarial efficacy of mefloquine delivered via cationic liposome in a murine model of experimental cerebral malaria.
-38340779	Activity of alkoxyamide-based histone deacetylase inhibitors against Plasmodium falciparum malaria parasites.
 38339833	Plasmodium falciparum transmission in the highlands of Ethiopia is driven by closely related and clonal parasites.
 38338378	Drug Repurposing in the Chemotherapy of Infectious Diseases.
 38337934	Vitex Genus as a Source of Antimicrobial Agents.
