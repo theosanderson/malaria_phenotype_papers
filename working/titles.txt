@@ -1,8 +1,8 @@
 38342415	Trained immunity-inducing vaccines: Harnessing innate memory for vaccine design and delivery.
-38342107	The public health impact and cost-effectiveness of the R21/Matrix-M malaria vaccine: a mathematical modelling study.
-38342074	Rapid and label-free A2 peptide epitope decorated CoFe(2)O(4)-C60 nanocomposite-based electrochemical immunosensor for detecting Visceral Leishmaniasis.
 38342407	A time point proteomic analysis reveals protein dynamics of Plasmodium oocysts.
+38342107	The public health impact and cost-effectiveness of the R21/Matrix-M malaria vaccine: a mathematical modelling study.
 38342103	R21/Matrix-M malaria vaccine: a vital tool in the arsenal against malaria, not a silver bullet.
+38342074	Rapid and label-free A2 peptide epitope decorated CoFe(2)O(4)-C60 nanocomposite-based electrochemical immunosensor for detecting Visceral Leishmaniasis.
 38341502	Establishing RTS,S/AS01 as a benchmark for comparison to next-generation malaria vaccines in a mouse model.
 38341243	R21/Matrix-M vaccine: optimising supply, maximising impact.
 38341240	Malaria vaccines: a test for global health.
@@ -4102,7 +4102,6 @@
 36949382	Tile-based microscopic image processing for malaria screening using a deep learning approach.
 36949289	Impact of MiraNet® long-lasting insecticidal net against Anopheles arabiensis wild population of Northern Tanzania.
 36949175	Parasites as potential targets for cancer immunotherapy.
-29262067	Dapsone.
 36948531	Effect of community health worker home visits on antenatal care and institutional delivery: an analysis of secondary outcomes from a cluster randomised trial in Mali.
 36948209	Accelerating Cryptic Pocket Discovery Using AlphaFold.
 36948075	Identification and characterisation of the tegument-expressed aldehyde dehydrogenase SmALDH_312 of Schistosoma mansoni, a target of disulfiram.
@@ -9997,3 +9996,4 @@
 34940164	Comparing Light-Emitting-Diodes Light Traps for Catching Anopheles Mosquitoes in a Forest Setting, Western Thailand.
 34940149	Vitex negundo L. Essential Oil: Odorant Binding Protein Efficiency Using Molecular Docking Approach and Studies of the Mosquito Repellent.
 34939934	Structural basis of malaria transmission blockade by a monoclonal antibody to gamete fusogen HAP2.
+34939933	Anopheles salivary antigens as serological biomarkers of vector exposure and malaria transmission: A systematic review with multilevel modelling.
