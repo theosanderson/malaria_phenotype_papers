@@ -1,3 +1,6 @@
+38345373	Repurposing FDA-approved drugs to target malaria through inhibition of dihydrofolate reductase in the folate biosynthesis pathway: A prospective approach.
+38343796	Genetic polymorphism and evidence of signatures of selection in the Plasmodium falciparum circumsporozoite protein gene in Tanzanian regions with different malaria endemicity.
+38343768	Protocol and statistical analysis plan for a randomized controlled trial of the effect of intravenous iron on anemia in Malawian pregnant women in their third trimester (REVAMP - TT).
 38342415	Trained immunity-inducing vaccines: Harnessing innate memory for vaccine design and delivery.
 38342407	A time point proteomic analysis reveals protein dynamics of Plasmodium oocysts.
 38342107	The public health impact and cost-effectiveness of the R21/Matrix-M malaria vaccine: a mathematical modelling study.
@@ -9994,6 +9997,3 @@
 34940291	Preclinical Trial of Traditional Plant Remedies for the Treatment of Complications of Gestational Malaria.
 34940221	Wolbachia Detection in Field-Collected Mosquitoes from Cameroon.
 34940164	Comparing Light-Emitting-Diodes Light Traps for Catching Anopheles Mosquitoes in a Forest Setting, Western Thailand.
-34940149	Vitex negundo L. Essential Oil: Odorant Binding Protein Efficiency Using Molecular Docking Approach and Studies of the Mosquito Repellent.
-34939934	Structural basis of malaria transmission blockade by a monoclonal antibody to gamete fusogen HAP2.
-34939933	Anopheles salivary antigens as serological biomarkers of vector exposure and malaria transmission: A systematic review with multilevel modelling.
