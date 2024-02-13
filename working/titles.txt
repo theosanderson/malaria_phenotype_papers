@@ -1,3 +1,7 @@
+38349649	Asymptomatic Low-Density Plasmodium falciparum Infections: Parasites Under the Host's Immune Radar?
+38349371	Mass Azithromycin Distribution to Prevent Child Mortality in Burkina Faso: The CHAT Randomized Clinical Trial.
+38349168	Toxoplasma and Plasmodium associate with host Arfs during infection.
+38349159	Effect of the aggregated protein dye YAT2150 on Leishmania parasite viability.
 38348378	Utilization of long-lasting insecticide-treated net and its associated factors among pregnant women in Dawo district, Southwest Shoa Zone, Oromia, Ethiopia, 2023.
 38348216	Upsurge in cases of travellers' malaria ex Zanzibar indicates that malaria is on the rebound in the archipelago.
 38347721	Malaria in Pregnancy: Meta-Analyses of Prevalence and Associated Complications.
@@ -9993,7 +9997,3 @@
 34943481	The Potential Use of Volatile Biomarkers for Malaria Diagnosis.
 34943459	Multi-Omics Advancements towards Plasmodium vivax Malaria Diagnosis.
 34943190	Alteration of Platelet Count in Patients with Severe Non-Plasmodium falciparum Malaria: A Systematic Review and Meta-Analysis.
-34942976	Reactive Oxygen Species as the Brainbox in Malaria Treatment.
-34942322	Antiplasmodial diterpenoid alkaloid from Aconitum heterophyllum Wall. ex Royle: Isolation, characterization, and UHPLC-DAD based quantification.
-34941884	Integration of whole genome sequencing and transcriptomics reveals a complex picture of the reestablishment of insecticide resistance in the major malaria vector Anopheles coluzzii.
-34941866	Morphological and genomic characterisation of the Schistosoma hybrid infecting humans in Europe reveals admixture between Schistosoma haematobium and Schistosoma bovis.
