@@ -1,3 +1,6 @@
+38348378	Utilization of long-lasting insecticide-treated net and its associated factors among pregnant women in Dawo district, Southwest Shoa Zone, Oromia, Ethiopia, 2023.
+38348216	Upsurge in cases of travellers' malaria ex Zanzibar indicates that malaria is on the rebound in the archipelago.
+38347721	Malaria in Pregnancy: Meta-Analyses of Prevalence and Associated Complications.
 38347633	Evaluation of the malaria elimination programme in Muara Enim Regency: a qualitative study from Indonesia.
 38347549	Epigenetic regulation as a therapeutic target in the malaria parasite Plasmodium falciparum.
 38347490	Towards an intelligent malaria outbreak warning model based intelligent malaria outbreak warning in the northern part of Benin, West Africa.
@@ -1079,6 +1082,7 @@
 37974248	Rice farmers' knowledge, attitudes and practices towards mosquitoes in irrigation schemes in Côte d'Ivoire: a qualitative study.
 37974079	Distribution of Plasmodium falciparum K13 gene polymorphisms across transmission settings in Ghana.
 37973970	Genetic polymorphism and natural selection of the erythrocyte binding antigen 175 region II in Plasmodium falciparum populations from Myanmar and Vietnam.
+37973547	Can knowledgeable experts assess costs and outcomes as if they were ignorant? An experiment within precision medicine evaluation.
 37972998	Isolation and In Vitro and In Vivo Activity of Secondary Metabolites from Clerodendrum polycephalum Baker against Plasmodium Malaria Parasites.
 37972848	Development and evaluation of the in vitro schistosomicidal activity of solid dispersions based on 2-(-5-bromo-1-H-indole-3-yl-methylene)-N-(naphthalene-1-ylhydrazine-carbothiamide.
 37972622	Major gaps in childhood pneumonia research priorities remain.
@@ -9993,7 +9997,3 @@
 34942322	Antiplasmodial diterpenoid alkaloid from Aconitum heterophyllum Wall. ex Royle: Isolation, characterization, and UHPLC-DAD based quantification.
 34941884	Integration of whole genome sequencing and transcriptomics reveals a complex picture of the reestablishment of insecticide resistance in the major malaria vector Anopheles coluzzii.
 34941866	Morphological and genomic characterisation of the Schistosoma hybrid infecting humans in Europe reveals admixture between Schistosoma haematobium and Schistosoma bovis.
-34941723	Cytotoxicity of an Innovative Pressurised Cyclic Solid-Liquid (PCSL) Extract from Artemisia annua.
-34941497	Wearables Detect Malaria Early in a Controlled Human-Infection Study.
-34940911	[Ocular changes as a diagnostic tool for malaria].
-34940444	Study of Tissue-Specific Reactive Oxygen Species Formation by Cell Membrane Microarrays for the Characterization of Bioactive Compounds.
