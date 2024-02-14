@@ -1,3 +1,10 @@
+38350158	Postintervention Immunological and Entomological Survey of Lymphatic Filariasis in the City of Olinda, Brazil, 2015-2016.
+38350139	Case Report: Plasmodium vivax Sporozoite Melanization in the Midgut and Salivary Gland of the Malaria Vector Anopheles darlingi.
+38350138	Prevalence and Correlates of Malnutrition in Nuh District, Haryana State, India.
+38350136	Benefits of Lot Testing to Improve the Quality of Malaria Rapid Diagnostic Tests in India.
+38350135	Mapping Potential Malaria Vector Larval Habitats for Larval Source Management in Western Kenya: Introduction to Multimodel Ensembling Approaches.
+38349936	Understanding the impact of mobility on Plasmodium spp. carriage in an Amazon cross-border area with low transmission rate.
+38349879	Metabolism of host lysophosphatidylcholine in Plasmodium falciparum-infected erythrocytes.
 38349649	Asymptomatic Low-Density Plasmodium falciparum Infections: Parasites Under the Host's Immune Radar?
 38349371	Mass Azithromycin Distribution to Prevent Child Mortality in Burkina Faso: The CHAT Randomized Clinical Trial.
 38349168	Toxoplasma and Plasmodium associate with host Arfs during infection.
@@ -9990,10 +9997,3 @@
 34946193	An Uninvited Seat at the Dinner Table: How Apicomplexan Parasites Scavenge Nutrients from the Host.
 34946106	Structural and Functional Insights into the Microtubule Organizing Centers of Toxoplasma gondii and Plasmodium spp.
 34946034	Microbiomes of Blood-Feeding Arthropods: Genes Coding for Essential Nutrients and Relation to Vector Fitness and Pathogenic Infections. A Review.
-34944394	Antimalarial Drug Predictions Using Molecular Descriptors and Machine Learning against Plasmodium Falciparum.
-34944267	Description and Molecular Characterization of Two Species of Avian Blood Parasites, with Remarks on Circadian Rhythms of Avian Haematozoa Infections.
-34943887	The Potentials of Methylene Blue as an Anti-Aging Drug.
-34943772	A Mitochondria-Penetrating Peptide Exerts Potent Anti-Plasmodium Activity and Localizes at Parasites' Mitochondria.
-34943481	The Potential Use of Volatile Biomarkers for Malaria Diagnosis.
-34943459	Multi-Omics Advancements towards Plasmodium vivax Malaria Diagnosis.
-34943190	Alteration of Platelet Count in Patients with Severe Non-Plasmodium falciparum Malaria: A Systematic Review and Meta-Analysis.
