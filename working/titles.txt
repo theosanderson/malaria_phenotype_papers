@@ -1,3 +1,16 @@
+38352867	Design of a targeted blood transcriptional panel for monitoring immunological changes accompanying pregnancy.
+38352669	Assessment of Availability of Tracer Drugs and Basic Diagnostics at Public Primary Health Care Facilities in Ethiopia During COVID-19 Pandemic.
+38352666	Communicable and Non-communicable Diseases Diagnosis and Treatment Service Availability at Primary Health Care Units During COVID-19 Outbreak in Ethiopia.
+38352547	Parallel evolution in mosquito vectors - a duplicated esterase locus is associated with resistance to pirimiphos-methyl in An. gambiae.
+38352505	Selection of artemisinin partial resistance Kelch13 mutations in Uganda in 2016-22 was at a rate comparable to that seen previously in South-East Asia.
+38352500	Plasmodium RON11 triggers biogenesis of the merozoite rhoptry pair and is essential for erythrocyte invasion.
+38352463	Biogenesis of cytochromes c and c(1) in the electron transport chain of malaria parasites.
+38352461	Temporal and spatial dynamics of Plasmodium falciparum clonal lineages in Guyana.
+38352447	Global Release of Translational Repression Across Plasmodium's Host-to-Vector Transmission Event.
+38352445	Detailing organelle division and segregation in Plasmodium falciparum.
+38352390	A cluster-randomized trial of client and provider directed financial interventions to align incentives with appropriate case management in private medicine retailers: results of the TESTsmART Trial in Lagos, Nigeria.
+38352311	Evidence of artemisinin partial resistance in North-western Tanzania: clinical and drug resistance markers study.
+38351420	Dihydroartemisinin abolishes cisplatin-induced nephrotoxicity in vivo.
 38351322	Distinct ontogenetic lineages dictate cDC2 heterogeneity.
 38351021	A machine learning approach for early identification of patients with severe imported malaria.
 38350952	Correction: Geospatial modelling of dry season habitats of the malaria vector, Anopheles funestus, in south-eastern Tanzania.
@@ -9984,16 +9997,3 @@
 34953537	Spend wisely to eliminate malaria.
 34953438	Evaluating the efficacy of rapid diagnostic tests for imported malaria in high income countries: A systematic review.
 34953384	Molecular mechanisms of hematological and biochemical alterations in malaria: A review.
-34953125	Malaria infection and associated risk factors in pregnant women attending antenatal care clinics in Al Jabalian Locality, White Nile state, Sudan.
-34952596	Risk factors associated with malaria infection identified through reactive case detection in Zanzibar, 2012-2019.
-34952581	In vivo efficacy of anti-malarial drugs against clinical Plasmodium vivax malaria in Ethiopia: a systematic review and meta-analysis.
-34952573	Efficacy and safety of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum malaria and prevalence of molecular markers associated with artemisinin and partner drug resistance in Uganda.
-34951445	Ecological Characterization of Mosquitoes (Diptera: Culicidae) at the Southern Coast of Mar Chiquita Lake, Argentina.
-34950624	Understanding Malaria Persistence: A Mixed-Methods Study on the Effectiveness of Malaria Elimination Strategies in South-Central Vietnam.
-34950282	Selective Hole Filling of Red Blood Cells for Improved Marker-Controlled Watershed Segmentation.
-34949251	Clinical aspects and outcomes of patients with malaria at Chris Hani Baragwanath Academic Hospital,Johannesburg, South Africa.
-34949219	Circulating dengue virus serotypes and vertical transmission in Aedes larvae during outbreak and inter-outbreak seasons in a high dengue risk area of Sri Lanka.
-34949205	Neglected malaria parasites in hard-to-reach areas of Odisha, India: implications in elimination programme.
-34948361	Synthesis, Molecular Docking and Antiplasmodial Activities of New Tetrahydro-β-Carbolines.
-34946944	Molecular Analysis Reveals a High Diversity of Anopheline Mosquitoes in Yanomami Lands and the Pantanal Region of Brazil.
-34946897	Evolution of the Pyrethroids Target-Site Resistance Mechanisms in Senegal: Early Stage of the Vgsc-1014F and Vgsc-1014S Allelic Frequencies Shift.
