@@ -1,3 +1,4 @@
+38355953	Molecular docking of bioactive compounds extracted and purified from selected medicinal plant species against covid-19 proteins and in vitro evaluation.
 38355719	Proteome-Wide Identification of RNA-dependent proteins and an emerging role for RNAs in Plasmodium falciparum protein complexes.
 38355290	Scoring systems for prediction of malaria and dengue fever in non-endemic areas among travellers arriving from tropical and subtropical areas.
 38355121	Usefulness of a new immunochromatographic assay using fluorescent silica nanoparticles for serodiagnosis of Thai patients with amebiasis.
@@ -9996,4 +9997,3 @@
 34956412	First total synthesis of hoshinoamide A.
 34956312	Absence of PEXEL-Dependent Protein Export in Plasmodium Liver Stages Cannot Be Restored by Gain of the HSP101 Protein Translocon ATPase.
 34956113	Extracts of Amazonian Fungi With Larvicidal Activities Against Aedes aegypti.
-34954824	Eugenol carbonate activity against Plasmodium falciparum, Leishmania braziliensis, and Trypanosoma cruzi.
