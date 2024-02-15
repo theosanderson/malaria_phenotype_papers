@@ -1,3 +1,6 @@
+38354186	The Anopheles leucine-rich repeat protein APL1C is a pathogen binding factor recognizing Plasmodium ookinetes and sporozoites.
+38354118	Evaluation of the DN-Mini (miniaturized double net) trap for sampling host-seeking Anopheles mosquitoes in malaria-endemic villages of southern Tanzania.
+38354086	Systemic inflammatory response syndrome triggered by blood-borne pathogens induces prolonged dendritic cell paralysis and immunosuppression.
 38353917	Dynamics of Malaria Incidence in Khyber Pakhtunkhwa, Pakistan: Unveiling Rapid Growth Patterns and Forecasting Future Trends.
 38353648	Combretum micranthum G. Don (Combretaceae): A Review on Traditional Uses, Phytochemistry, Pharmacology and Toxicology.
 38352867	Design of a targeted blood transcriptional panel for monitoring immunological changes accompanying pregnancy.
@@ -169,7 +172,7 @@
 38302888	Clinical and immunological outcomes of HIV-exposed uninfected and HIV-unexposed uninfected children in the first 24 months of life in Western Kenya.
 38301983	Withanolides from the active extract of Physalis angulate and their anti-hepatic fibrosis effects.
 38301784	Association between prenatal exposure to indoor residual spraying insecticides and infection rates among South African children participating in the Venda Health Examination of Mothers, Babies and their Environment (VHEMBE).
-38301154	Spectrally Resolved and Highly Parallelized Raman Difference Spectroscopy for the Analysis of Drug-Target Interactions between the Antimalarial Drugs Chloroquine and Hematin.
+38301154	Spectrally Resolved and Highly Parallelized Raman Difference Spectroscopy for the Analysis of Drug-Target Interactions between the Antimalarial Drug Chloroquine and Hematin.
 38300956	Using a mobile nanopore sequencing lab for end-to-end genomic surveillance of Plasmodium falciparum: A feasibility study.
 38300810	Three new dihydrochalcones from the leaves of Artocarpus sericicarpus Jarrett and their activity against Plasmodium falciparum.
 38299986	Malaria prevention in children: an update.
@@ -4918,7 +4921,6 @@
 36655935	Non-operative management of a pathological malaria splenic rupture A case report.
 36655234	Did malaria elimination begin to lose its way in 1925? "If you think education is expensive, try ignorance.".
 36655187	The Epidemiology and Clinical Features of Non-Keratitis Acanthamoeba Infections in the United States, 1956-2020.
-36654909	International Neurosurgery: The Role for Collaboration.
 36654730	Pastoral Community Malaria Prevention Practice and Associated Factors Among Households in Three Districts of the Borena Zone, Southern Ethiopia.
 36654682	Genomic epidemiology of SARS-CoV-2 in Cambodia, January 2020 to February 2021.
 36654597	Lessons Learned From a Case of Behcet's Disease Presenting With Fever and Life-Threatening Venous Thromboembolism.
@@ -9995,5 +9997,3 @@
 34953974	Single-round multiplex PCR with species-specific mitochondrial primers of P. falciparum, P. vivax/P. simium and P. malariae/P. brasilianum: Comparison with standard techniques.
 34953775	Opportunities and challenges to accurate diagnosis and management of acute febrile illness in adults and adolescents: A review.
 34953559	Arjen Dondorp-eliminating malaria in southeast Asia.
-34953558	Jeanne Rini Poespoprodjo-fighting malaria in conflict zones.
-34953537	Spend wisely to eliminate malaria.
