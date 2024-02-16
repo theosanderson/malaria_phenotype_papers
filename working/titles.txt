@@ -1,3 +1,9 @@
+38362806	Structure, cooperativity and inhibition of the inosine 5'-monophosphate-specific phosphatase from Saccharomyces cerevisiae.
+38362286	Development of rice farming: a cause of the emergence of multiple insecticide resistance in populations of Anopheles gambiae s.l and its impact on human health in Malanville, Bénin.
+38362230	MALARIA-WHY DO MOSTLY CHILDREN GET SICK?
+38361888	Evaluation of changes in the cognitive, affective, and psychomotor domains of learning following an interprofessional intervention for malaria and its control among the Bedia tribe, a particularly vulnerable tribal group, in rural Eastern India.
+38361592	Monitoring and evaluation practices and operational research during public health emergencies in southeast Asia region (2012-2022) - a systematic review.
+38361461	Naturally Acquired Immunity to Plasmodium pitheci in Bornean Orangutans (Pongo pygmaeus).
 38360879	New reference genomes to distinguish the sympatric malaria parasites, Plasmodium ovale curtisi and Plasmodium ovale wallikeri.
 38360803	Assessing emergence risk of double-resistant and triple-resistant genotypes of Plasmodium falciparum.
 38360754	Flexible and cost-effective genomic surveillance of P. falciparum malaria with targeted nanopore sequencing.
@@ -9991,9 +9997,3 @@
 34959685	Appraisal of Bioactive Compounds of Betel Fruit as Antimalarial Agents by Targeting Plasmepsin 1 and 2: A Computational Approach.
 34959639	Sterigmatocystin Limits Plasmodium falciparum Proliferation and Transmission.
 34959620	Discovery of New Chemical Tools against Leishmania amazonensis via the MMV Pathogen Box.
-34959491	Pb103 Regulates Zygote/Ookinete Development in Plasmodium berghei via Double Zinc Finger Domains.
-34959470	Review of the Current Landscape of the Potential of Nanotechnology for Future Malaria Diagnosis, Treatment, and Vaccination Strategies.
-34959347	The Artemiside-Artemisox-Artemisone-M1 Tetrad: Efficacies against Blood Stage P. falciparum Parasites, DMPK Properties, and the Case for Artemiside.
-34958877	Anti-varicella zoster virus and related anti-inflammation effects of ethanolic extract of Elaeocarpus sylvestris.
-34958768	Multiple insecticide resistance mechanisms in urban population of Anopheles coluzzii (Diptera: culicidae) from Lagos, South-West Nigeria.
-34958263	Long-Term Infectivity of Chikungunya Virus Stored in the Dark at 4°C.
