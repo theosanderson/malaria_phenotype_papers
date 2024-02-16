@@ -1,3 +1,5 @@
+38359365	The four most frequently diagnosed vector-borne diseases among service member and non-service member beneficiaries in the geographic combatant commands, 2010-2022.
+38358973	Challenges of proper disposal of old long-lasting insecticidal nets and its alternative uses in rural south-eastern Tanzania.
 38358164	Alternative first-line malaria treatment.
 38358148	SD-Bioline malaria rapid diagnostic test performance and time to become negative after treatment of malaria infection in Southwest Nigerian Children.
 38355953	Molecular docking of bioactive compounds extracted and purified from selected medicinal plant species against covid-19 proteins and in vitro evaluation.
@@ -9995,5 +9997,3 @@
 34957064	The Potential for a Released Autosomal X-Shredder Becoming a Driving-Y Chromosome and Invasively Suppressing Wild Populations of Malaria Mosquitoes.
 34956934	Plasmodium falciparum and Plasmodium vivax Adjust Investment in Transmission in Response to Change in Transmission Intensity: A Review of the Current State of Research.
 34956931	Merozoite Proteins Discovered by qRT-PCR-Based Transcriptome Screening of Plasmodium falciparum.
-34956929	Identification of Reticulocyte Binding Domain of Plasmodium ovale curtisi Duffy Binding Protein (PocDBP) Involved in Reticulocyte Invasion.
-34956412	First total synthesis of hoshinoamide A.
