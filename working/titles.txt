@@ -1,3 +1,6 @@
+38363508	Anti-dengue potential and mosquitocidal effect of marine green algae-stabilized Mn-doped superparamagnetic iron oxide nanoparticles (Mn-SPIONs): an eco-friendly approach.
+38363295	Antigenic strain diversity predicts different biogeographic patterns of maintenance and decline of antimalarial drug resistance.
+38363132	Drug-induced stress mediates Plasmodium falciparum ring-stage growth arrest and reduces in vitro parasite susceptibility to artemisinin.
 38362806	Structure, cooperativity and inhibition of the inosine 5'-monophosphate-specific phosphatase from Saccharomyces cerevisiae.
 38362286	Development of rice farming: a cause of the emergence of multiple insecticide resistance in populations of Anopheles gambiae s.l and its impact on human health in Malanville, Bénin.
 38362230	MALARIA-WHY DO MOSTLY CHILDREN GET SICK?
@@ -9994,6 +9997,3 @@
 34962803	Tetracycline Derivatives Inhibit Plasmodial Cysteine Protease Falcipain-2 through Binding to a Distal Allosteric Site.
 34961853	Comprehensive serologic profile and specificity of maternal and neonatal cord blood SARS-CoV-2 antibodies.
 34960641	The Contribution of Human Herpes Viruses to γδ T Cell Mobilisation in Co-Infections.
-34959685	Appraisal of Bioactive Compounds of Betel Fruit as Antimalarial Agents by Targeting Plasmepsin 1 and 2: A Computational Approach.
-34959639	Sterigmatocystin Limits Plasmodium falciparum Proliferation and Transmission.
-34959620	Discovery of New Chemical Tools against Leishmania amazonensis via the MMV Pathogen Box.
