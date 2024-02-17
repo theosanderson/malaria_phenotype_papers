@@ -1,3 +1,12 @@
+38365823	Mosquito midgut stem cell cellular defense response limits Plasmodium parasite infection.
+38365484	A Diversity Covering (DiCo) Plasmodium vivax apical membrane antigen-1 vaccine adjuvanted with RFASE/RSL10 yields high levels of growth-inhibitory antibodies.
+38365443	Epidemiology of Human Seasonal Coronaviruses Among People With Mild and Severe Acute Respiratory Illness in Blantyre, Malawi, 2011-2017.
+38365435	Hospital-acquired malaria in Catalonia: an unexpected post-surgical complication.
+38365418	Design and selection of drug properties to increase the public health impact of next-generation seasonal malaria chemoprevention: a modelling study.
+38365417	Operational feasibility of Plasmodium vivax radical cure with tafenoquine or primaquine following point-of-care, quantitative glucose-6-phosphate dehydrogenase testing in the Brazilian Amazon: a real-life retrospective analysis.
+38365403	Seasonal malaria chemoprevention: drug design and selection.
+38365402	Towards malaria elimination in Brazil.
+38365295	Community engagement approaches for malaria prevention, control and elimination: a scoping review.
 38363794	Elimination of lymphatic filariasis as a public health problem in Malawi.
 38363687	Protocol for analysis of intracellular conversion of artezomib molecules into new proteasome inhibitors in Plasmodium falciparum parasites.
 38363508	Anti-dengue potential and mosquitocidal effect of marine green algae-stabilized Mn-doped superparamagnetic iron oxide nanoparticles (Mn-SPIONs): an eco-friendly approach.
@@ -102,7 +111,7 @@
 38331989	Correction: Association of the C allele of rs479200 in the EGLN1 gene with COVID-19 severity in Indian population: a novel finding.
 38331887	First malaria in pregnancy followed in Philippine real-world setting: proof-of-concept of probabilistic record linkage between disease surveillance and hospital administrative data.
 38331312	Skeleton binding protein 1 localizes to the Maurer's cleft and interacts with PfHSP70-1 and PfHSP70-x in Plasmodium falciparum gametocyte-infected erythrocytes.
-38331084	Quinine and chloroquine: potential preclinical candidates for the treatment of tegumentary leishmaniasis.
+38331084	Quinine and chloroquine: Potential preclinical candidates for the treatment of tegumentary Leishmaniasis.
 38330786	Quantifying the impact of interventions against Plasmodium vivax: A model for country-specific use.
 38330357	Recombinant full-length Plasmodium falciparum circumsporozoite protein-based vaccine adjuvanted with GLA-LSQ: Results of Phase 1 testing with malaria challenge.
 38330097	Zeb2 drives the formation of CD11c + atypical B cells to sustain germinal centers that control persistent infection.
@@ -1226,7 +1235,7 @@
 37944586	One-year antibody durability induced by EuCorVac-19, a liposome-displayed COVID-19 receptor binding domain subunit vaccine, in healthy Korean subjects.
 37944271	Rapid diagnostic tests for malaria diagnosis in Cameroon: impact of histidine rich protein 2/3 deletions and lactate dehydrogenase gene polymorphism.
 37943884	Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria.
-37943633	Naturally acquired transmission-blocking immunity against different strains of Plasmodium vivax in a malaria endemic area in Thailand.
+37943633	Naturally Acquired Transmission-Blocking Immunity Against Different Strains of Plasmodium vivax in a Malaria-Endemic Area in Thailand.
 37943000	Artificial intelligence based de-novo design for novel Plasmodium falciparum plasmepsin (PM) X inhibitors.
 37942994	Pre-gelation staining expansion microscopy for visualisation of the Plasmodium liver stage.
 37942637	Recent advances on patents of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors as antimalarial agents.
@@ -2398,7 +2407,7 @@
 37537581	Genetic diversity and natural selection of Plasmodium vivax reticulocyte invasion genes in Ecuador.
 37537570	Interleukin-5 levels in relation to malaria severity: a systematic review.
 37537555	Association of severe malaria with cognitive and behavioural outcomes in low- and middle-income countries: a meta-analysis and systematic review.
-37536670	Plasmodium falciparum malaria is associated with increased KSHV seropositivity and higher KSHV antibody breadth and magnitude: results of a case-control study from rural Uganda.
+37536670	Plasmodium falciparum Malaria Is Associated With Increased Kaposi Sarcoma-Associated Herpesvirus (KSHV) Seropositivity and Higher KSHV Antibody Breadth and Magnitude: Results of a Case-Control Study From Rural Uganda.
 37536370	Effects of Maternal HIV Infection on Early Kaposi Sarcoma-Associated Herpesvirus Seroconversion in a Kenyan Mother-Infant Cohort.
 37535741	Delftia tsuruhatensis TC1 symbiont suppresses malaria transmission by anopheline mosquitoes.
 37535583	Environmental determinants and risk behaviour in the case of indigenous malaria in Muara Enim Regency, Indonesia: A case-control design.
@@ -9988,12 +9997,3 @@
 34967631	A Nanodrug Coated with Membrane from Brain Microvascular Endothelial Cells Protects against Experimental Cerebral Malaria.
 34967293	Plumbagin: A Potential Candidate for Future Research and Development.
 34966810	Discovery of New Microneme Proteins in Cryptosporidium parvum and Implication of the Roles of a Rhomboid Membrane Protein (CpROM1) in Host-Parasite Interaction.
-34966741	Glycogenes in Oncofetal Chondroitin Sulfate Biosynthesis are Differently Expressed and Correlated With Immune Response in Placenta and Colorectal Cancer.
-34966565	The Trend of Malaria Cases, Positivity Rate, and Determinant Factors in the Amhara Regional State, Ethiopia: A Mixed Method.
-34965939	Transposable element variants and their potential adaptive impact in urban populations of the malaria vector Anopheles coluzzii.
-37234466	Efficiency of malaria service delivery in selected district-level hospitals in Ghana.
-34965183	Effect of measles prevalence and vaccination coverage on other disease burden: evidence of measles immune amnesia in 46 African countries.
-34964641	Exploring the pH- and Ligand-Dependent Flap Dynamics of Malarial Plasmepsin II.
-34964129	The involvement of host circadian clocks in the regulation of the immune response to parasitic infections in mammals.
-34963170	[The role of the microcirculation in the pathogenesis of organ dysfunction].
-34962938	Quantitative cytokine level of TNF-α, IFN-γ, IL-10, TGF-β and circulating Epstein-Barr virus DNA load in individuals with acute Malaria due to P. falciparum or P. vivax or double infection in a Malaria endemic region in Indonesia.
