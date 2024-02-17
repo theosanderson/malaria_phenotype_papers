@@ -1,3 +1,5 @@
+38363794	Elimination of lymphatic filariasis as a public health problem in Malawi.
+38363687	Protocol for analysis of intracellular conversion of artezomib molecules into new proteasome inhibitors in Plasmodium falciparum parasites.
 38363508	Anti-dengue potential and mosquitocidal effect of marine green algae-stabilized Mn-doped superparamagnetic iron oxide nanoparticles (Mn-SPIONs): an eco-friendly approach.
 38363295	Antigenic strain diversity predicts different biogeographic patterns of maintenance and decline of antimalarial drug resistance.
 38363132	Drug-induced stress mediates Plasmodium falciparum ring-stage growth arrest and reduces in vitro parasite susceptibility to artemisinin.
@@ -26,6 +28,7 @@
 38354086	Systemic inflammatory response syndrome triggered by blood-borne pathogens induces prolonged dendritic cell paralysis and immunosuppression.
 38353917	Dynamics of Malaria Incidence in Khyber Pakhtunkhwa, Pakistan: Unveiling Rapid Growth Patterns and Forecasting Future Trends.
 38353648	Combretum micranthum G. Don (Combretaceae): A Review on Traditional Uses, Phytochemistry, Pharmacology and Toxicology.
+38353300	A global perspective on stepping down chronic spontaneous urticaria treatment: Results of the Urticaria Centers of Reference and Excellence SDown-CSU study.
 38352867	Design of a targeted blood transcriptional panel for monitoring immunological changes accompanying pregnancy.
 38352669	Assessment of Availability of Tracer Drugs and Basic Diagnostics at Public Primary Health Care Facilities in Ethiopia During COVID-19 Pandemic.
 38352666	Communicable and Non-communicable Diseases Diagnosis and Treatment Service Availability at Primary Health Care Units During COVID-19 Outbreak in Ethiopia.
@@ -9994,6 +9997,3 @@
 34964129	The involvement of host circadian clocks in the regulation of the immune response to parasitic infections in mammals.
 34963170	[The role of the microcirculation in the pathogenesis of organ dysfunction].
 34962938	Quantitative cytokine level of TNF-α, IFN-γ, IL-10, TGF-β and circulating Epstein-Barr virus DNA load in individuals with acute Malaria due to P. falciparum or P. vivax or double infection in a Malaria endemic region in Indonesia.
-34962803	Tetracycline Derivatives Inhibit Plasmodial Cysteine Protease Falcipain-2 through Binding to a Distal Allosteric Site.
-34961853	Comprehensive serologic profile and specificity of maternal and neonatal cord blood SARS-CoV-2 antibodies.
-34960641	The Contribution of Human Herpes Viruses to γδ T Cell Mobilisation in Co-Infections.
