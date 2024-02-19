@@ -1,3 +1,4 @@
+38368631	ATG5-regulated CCL2/MCP-1 production in myeloid cells selectively modulates anti-malarial CD4(+) Th1 responses.
 38368353	Response of the mosquito immune system and symbiotic bacteria to pathogen infection.
 38367843	Azithromycin disrupts apicoplast biogenesis in replicating and dormant liver stages of the relapsing malaria parasites Plasmodium vivax and P. cynomolgi.
 38367677	Polymorphisms in the human angiotensin converting enzyme gene (ACE) linked to susceptibility of COVID-19 and malaria infections in the Ghanaian population.
@@ -9996,4 +9997,3 @@
 34969544	Towards large-scale identification of HLA-restricted T cell epitopes from four vaccine candidate antigens in a malaria endemic community in Ghana.
 34969401	Clinical recovery of Macaca fascicularis infected with Plasmodium knowlesi.
 36644305	Evaluation of Nanoemulsion of Eucalyptus globulus Oil as Potent Botanical Larvicide against Malaria Vector, Anopheles stephensi and West Nile Vector, Culex pipiens Under Laboratory and Semi-Field Conditions.
-36644301	Insecticide Resistance in the West Nile Encephalitis, Japanese Encephalitis, Avian Malaria and Lymphatic Elephantiasis Vector, Culex pipiens complex (Diptera: Culicidae) in Iran.
