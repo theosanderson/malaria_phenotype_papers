@@ -1,3 +1,6 @@
+38372932	Public health spending in Sub-Saharan Africa: exploring transmission mechanisms using the latent growth curve mediation model.
+38372781	Structure-Activity Relationship of a Pyrrole Based Series of PfPKG Inhibitors as Anti-Malarials.
+38372324	Microfluidic systems for infectious disease diagnostics.
 38371913	A review of Brucea javanica: metabolites, pharmacology and clinical application.
 38371856	Genetic differentiation and bottleneck effects in the malaria vectors Anopheles farauti and Anopheles punctulatus after an LLIN-based vector control program in Papua New Guinea.
 38371747	Unraveling Dengue Dynamics: In-Depth Epidemiological and Entomological Analyses in Bengaluru, India.
@@ -9994,6 +9997,3 @@
 37573496	A review on Wickerhamomyces anomalus yeast: a promising eco-friendly approach to biological controlof malaria.
 37521844	Virtual screening and molecular dynamic simulations of the antimalarial derivatives of 2-anilino 4-amino substituted quinazolines docked against a Pf-DHODH protein target.
 37200864	Decrypting the complexity of the human malaria parasite biology through systems biology approaches.
-37017189	Challenges in diagnosing fever in traveler returning from tropical ares - is it dengue or chikungunya? Case report.
-36998722	Unravelling var complexity: Relationship between DBLα types and var genes in Plasmodium falciparum.
-36260729	Killing mosquitoes: Think before you swat.
