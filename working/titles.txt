@@ -1,8 +1,8 @@
 38375068	Myoglobin Cast Nephropathy Diagnosed on Renal Biopsy in a Patient Treated for Malarial Infection.
 38375029	Deciphering the immunological interactions: targeting preeclampsia with Hydroxychloroquine's biological mechanisms.
 38374393	CRISPR-mediated germline mutagenesis for genetic sterilization of Anopheles gambiae males.
-38374068	Malaria epidemics associated with low net use in preadolescent and young adult population in Dielmo (Senegal), a malaria pre-elimination area.
 38374221	Author Correction: A Pvs25 mRNA vaccine induces complete and durable transmission-blocking immunity to Plasmodium vivax.
+38374068	Malaria epidemics associated with low net use in preadolescent and young adult population in Dielmo (Senegal), a malaria pre-elimination area.
 38372932	Public health spending in Sub-Saharan Africa: exploring transmission mechanisms using the latent growth curve mediation model.
 38372781	Structure-Activity Relationship of a Pyrrole Based Series of PfPKG Inhibitors as Anti-Malarials.
 38372324	Microfluidic systems for infectious disease diagnostics.
