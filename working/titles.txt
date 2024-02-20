@@ -1,3 +1,8 @@
+38375068	Myoglobin Cast Nephropathy Diagnosed on Renal Biopsy in a Patient Treated for Malarial Infection.
+38375029	Deciphering the immunological interactions: targeting preeclampsia with Hydroxychloroquine's biological mechanisms.
+38374393	CRISPR-mediated germline mutagenesis for genetic sterilization of Anopheles gambiae males.
+38374068	Malaria epidemics associated with low net use in preadolescent and young adult population in Dielmo (Senegal), a malaria pre-elimination area.
+38374221	Author Correction: A Pvs25 mRNA vaccine induces complete and durable transmission-blocking immunity to Plasmodium vivax.
 38372932	Public health spending in Sub-Saharan Africa: exploring transmission mechanisms using the latent growth curve mediation model.
 38372781	Structure-Activity Relationship of a Pyrrole Based Series of PfPKG Inhibitors as Anti-Malarials.
 38372324	Microfluidic systems for infectious disease diagnostics.
@@ -9992,8 +9997,3 @@
 34973333	Enzymatic and structural characterization of HAD5, an essential phosphomannomutase of malaria-causing parasites.
 37854770	Remote bednet use monitoring to describe patterns of use and exposure to female Anopheles mosquitoes in an Ugandan cohort.
 37711180	Costing and cost-effectiveness of Cepheid Xpert HIV -1 Qual Assay using whole blood protocol versus PCR by Abbott Systems in Malawi.
-37585019	Factors affecting usage of insecticide treated nets for malaria control by pregnant women in Enugu, South East Nigeria.
-37585012	Fostering sustainable malaria prevention and elimination in Africa.
-37573496	A review on Wickerhamomyces anomalus yeast: a promising eco-friendly approach to biological controlof malaria.
-37521844	Virtual screening and molecular dynamic simulations of the antimalarial derivatives of 2-anilino 4-amino substituted quinazolines docked against a Pf-DHODH protein target.
-37200864	Decrypting the complexity of the human malaria parasite biology through systems biology approaches.
