@@ -1,3 +1,5 @@
+38380127	N-Substituted Phenylhydrazones Kill the Ring Stage of Plasmodium falciparum.
+38378659	Chemoproteomics-based profiling reveals potential antimalarial mechanism of Celastrol by disrupting spermidine and protein synthesis.
 38377613	Burden of Submicroscopic Plasmodium Infections and Detection of kelch13 Mutant Parasites in Military and Civilian Populations in Papua New Guinea.
 38377612	Detection of Artemisinin Resistance Marker Kelch-13 469Y in Plasmodium falciparum, South Kivu, Democratic Republic of the Congo, 2022.
 38377600	Etiology of Acute Febrile Illnesses in Adults in the Defense Community in French Guiana.
@@ -3499,6 +3501,7 @@
 37175612	Molecular Research on Vector-Borne Diseases of Medical Interest: From Bench to Application 2.0.
 37175551	Anti-Cancer Effects of Artesunate in Human 3D Tumor Models of Different Complexity.
 37174948	Endometrial Staining of CD56 (Uterine Natural Killer), BCL-6, and CD138 (Plasma Cells) Improve Diagnosis and Clinical Pregnancy Outcomes in Unexplained Infertility and Recurrent IVF Failures: Standardization of Diagnosis with Digital Pathology.
+37173829	Identification of terpenoids as dihydropteroate synthase and dihydrofolate reductase inhibitors through structure-based virtual screening and molecular dynamic simulations.
 37173754	Evaluation of Long-lasting insecticidal nets (LLINs) for malaria control in an endemic area in Brazil.
 37173726	Post-malarial neurological syndrome in a Gambian adult residing in the Gambia: a case report and a review of literature.
 37173361	Characterization of Duffy Binding Protein II-specific CD4(+)T cell responses in Plasmodium vivax patients.
@@ -9994,6 +9997,3 @@
 34975987	Indirect in vitro Regeneration of the Medicinal Plant, Aspilia africana, and Histological Assessment at Different Developmental Stages.
 34975925	Editorial: Immunity to Parasitic Infections in Pregnancy.
 34975479	Ameliorative Effects of Dietary Ellagic Acid Against Severe Malaria Pathogenesis by Reducing Cytokine Storms and Oxidative Stress.
-34974837	A data quality assessment of the first four years of malaria reporting in the Senegal DHIS2, 2014-2017.
-34974666	Knowledge, Attitudes and Perceptions Regarding Endemic Vivax Malaria in Inhabitants and Patients in Two Cities of Northern Gyeonggi-do, Korea, 2020.
-34974665	Recent Spatial and Temporal Trends of Malaria in Korea.
