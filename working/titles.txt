@@ -1,3 +1,10 @@
+38377613	Burden of Submicroscopic Plasmodium Infections and Detection of kelch13 Mutant Parasites in Military and Civilian Populations in Papua New Guinea.
+38377612	Detection of Artemisinin Resistance Marker Kelch-13 469Y in Plasmodium falciparum, South Kivu, Democratic Republic of the Congo, 2022.
+38377600	Etiology of Acute Febrile Illnesses in Adults in the Defense Community in French Guiana.
+38377214	Comparative chemical genomics in Babesia species identifies the alkaline phosphatase PhoD as a determinant of antiparasitic resistance.
+38377131	Aedes aegypti CCEae3A carboxylase expression confers carbamate, organophosphate and limited pyrethroid resistance in a model transgenic mosquito.
+38377123	Conducting active screening for human African trypanosomiasis with rapid diagnostic tests: The Guinean experience (2016-2021).
+38376987	The genome of Plasmodium gonderi: Insights into the evolution of human malaria parasites.
 38375068	Myoglobin Cast Nephropathy Diagnosed on Renal Biopsy in a Patient Treated for Malarial Infection.
 38375029	Deciphering the immunological interactions: targeting preeclampsia with Hydroxychloroquine's biological mechanisms.
 38374393	CRISPR-mediated germline mutagenesis for genetic sterilization of Anopheles gambiae males.
@@ -9990,10 +9997,3 @@
 34974837	A data quality assessment of the first four years of malaria reporting in the Senegal DHIS2, 2014-2017.
 34974666	Knowledge, Attitudes and Perceptions Regarding Endemic Vivax Malaria in Inhabitants and Patients in Two Cities of Northern Gyeonggi-do, Korea, 2020.
 34974665	Recent Spatial and Temporal Trends of Malaria in Korea.
-34974303	New insights of falcipain 2 structure from Plasmodium falciparum 3D7 strain.
-34974111	Novel hydrazone derivatives of N-amino-11-azaartemisinin with high order of antimalarial activity against multidrug-resistant Plasmodium yoelii nigeriensis in Swiss mice via intramuscular route.
-34973474	Comparative performance of WANTAI ELISA for total immunoglobulin to receptor binding protein and an ELISA for IgG to spike protein in detecting SARS-CoV-2 antibodies in Kenyan populations.
-34973453	Imported malaria in Switzerland, (1990-2019): A retrospective analysis.
-34973333	Enzymatic and structural characterization of HAD5, an essential phosphomannomutase of malaria-causing parasites.
-37854770	Remote bednet use monitoring to describe patterns of use and exposure to female Anopheles mosquitoes in an Ugandan cohort.
-37711180	Costing and cost-effectiveness of Cepheid Xpert HIV -1 Qual Assay using whole blood protocol versus PCR by Abbott Systems in Malawi.
