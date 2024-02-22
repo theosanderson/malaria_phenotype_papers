@@ -1,3 +1,7 @@
+38384896	A conversation with Peter Crompton, MD, MPH, Chief, Malaria Infection Biology and Immunity Section, National Institute of Allergy and Infectious Diseases.
+38384556	Molecular structure, vibrational spectral, electron density analysis on linaloe oil and molecular docking efficacy against the therapeutic target on human immunodeficiency virus-1 organism (VIRAL protein).
+38383887	DUSP4 modulates RIG-I- and STING-mediated IRF3-type I IFN response.
+38383841	Network analysis-guided drug repurposing strategies targeting LPAR receptor in the interplay of COVID, Alzheimer's, and diabetes.
 38383705	A machine learning approach for modeling the occurrence of the major intermediate hosts for schistosomiasis in East Africa.
 38383417	Correlative light-electron microscopy methods to characterize the ultrastructural features of the replicative and dormant liver stages of Plasmodium parasites.
 38383367	Risk factors for non-participation in ivermectin and dihydroartemisinin-piperaquine mass drug administration for malaria control in the MASSIV trial.
@@ -1933,7 +1937,7 @@
 37720045	Interventions for promoting patients' adherence to 14-day primaquine treatment in a highly malaria-endemic township in Myanmar: A qualitative study among key stakeholders.
 37719169	Interventions for malaria prevention in pregnancy; factors influencing uptake and their effect on pregnancy outcomes among post-natal women in a tertiary facility in the Volta Region of Ghana.
 37719166	Evidence-based interventions for reducing sickle cell disease-associated morbidity and mortality in sub-Saharan Africa: A scoping review.
-37718524	State-of-the-art Review on the Antiparasitic Activity of Benzimidazole-based Derivatives: Facing Malaria, Leishmaniasis, and Trypanosomiasis.
+37718524	State-of-the-art Review on the Antiparasitic Activity of Benzimidazolebased Derivatives: Facing Malaria, Leishmaniasis, and Trypanosomiasis.
 37717797	Epidemiological and clinical analysis of polish short-term and long-term travelers returning from tropical countries.
 37717525	Baseline immune states (BIS) associated with vaccine responsiveness and factors that shape the BIS.
 37717079	Zoonotic malaria requires new policy approaches to malaria elimination.
@@ -9993,7 +9997,3 @@
 34981216	Surveillance of Plasmodium malariae infection among inhabitants of rural areas in Ouidah-Kpomasse-Tori Bossito health district, Benin.
 34980187	Charting the evidence for climate change impacts on the global spread of malaria and dengue and adaptive responses: a scoping review of reviews.
 34980109	A threshold-free approach with age-dependency for estimating malaria seroprevalence.
-36962137	Modelling the epidemiology of malaria and spread of HRP2-negative Plasmodium falciparum following the replacement of HRP2-detecting rapid diagnostic tests.
-34978892	Measurements of 5,6-Orthoquinone, a Surrogate for the Presumed Active Primaquine Metabolite 5-Hydroxyprimaquine, in the Urine of Cambodian Adults.
-34978886	Assessment In Vitro of the Antimalarial and Transmission-Blocking Activities of Cipargamin and Ganaplacide in Artemisinin-Resistant Plasmodium falciparum.
-34978744	Are national treatment guidelines for falciparum malaria in line with WHO recommendations and is antimalarial resistance taken into consideration? - A review of guidelines in non-endemic countries.
