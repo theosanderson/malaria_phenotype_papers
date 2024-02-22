@@ -1,4 +1,5 @@
-38384896	A conversation with Peter Crompton, MD, MPH, Chief, Malaria Infection Biology and Immunity Section, National Institute of Allergy and Infectious Diseases.
+38386290	An Investigation into the Larvicidal Activity of Biologically Synthesized Silver and Copper Oxide Nanoparticles Against Mosquito Larvae.
+38385445	Association of temperature and precipitation with malaria incidence in 57 countries and territories from 2000 to 2019: A worldwide observational study.
 38384556	Molecular structure, vibrational spectral, electron density analysis on linaloe oil and molecular docking efficacy against the therapeutic target on human immunodeficiency virus-1 organism (VIRAL protein).
 38383887	DUSP4 modulates RIG-I- and STING-mediated IRF3-type I IFN response.
 38383841	Network analysis-guided drug repurposing strategies targeting LPAR receptor in the interplay of COVID, Alzheimer's, and diabetes.
@@ -5033,6 +5034,7 @@
 36649293	Revisiting the sialome of the cat flea Ctenocephalides felis.
 36649040	An Overview of Malaria Transmission Mechanisms, Control, and Modeling.
 36648839	Assessment of the Antimalarial Treatment Failure in Ebonyi State, Southeast Nigeria.
+38384896	A conversation with Peter Crompton, MD, MPH, Chief, Malaria Infection Biology and Immunity Section, National Institute of Allergy and Infectious Diseases.
 36647056	Erythrocyte membrane with CLIPPKF as biomimetic nanodecoy traps merozoites and attaches to infected red blood cells to prevent Plasmodium infection.
 36646927	Dihydroartemisinin imposes positive and negative regulation on Treg and plasma cells via direct interaction and activation of c-Fos.
 36645283	Oral Microbiota Alteration and Roles in Epstein-Barr Virus Reactivation in Nasopharyngeal Carcinoma.
@@ -9995,5 +9997,3 @@
 34982010	Ecological Predictors of Human Malaria Risk During Different Phases of the Elimination: An Analysis of Historical Data.
 34981788	RTS,S: the first malaria vaccine.
 34981216	Surveillance of Plasmodium malariae infection among inhabitants of rural areas in Ouidah-Kpomasse-Tori Bossito health district, Benin.
-34980187	Charting the evidence for climate change impacts on the global spread of malaria and dengue and adaptive responses: a scoping review of reviews.
-34980109	A threshold-free approach with age-dependency for estimating malaria seroprevalence.
