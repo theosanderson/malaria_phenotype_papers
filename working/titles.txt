@@ -1,3 +1,6 @@
+38381957	Complicated Falciparum Malarial ARDS Requiring Noninvasive Support.
+38381609	Assessing viral metagenomics for the diagnosis of acute undifferentiated fever in returned travellers: a multicenter cohort study.
+38381594	Using artificial odors to optimize attractiveness of host decoy traps to malaria vectors.
 38381048	Enhancing healthcare access and malaria management via mobile clinics and phone call services in Nuh district of Haryana, India.
 38380127	N-Substituted Phenylhydrazones Kill the Ring Stage of Plasmodium falciparum.
 38378659	Chemoproteomics-based profiling reveals potential antimalarial mechanism of Celastrol by disrupting spermidine and protein synthesis.
@@ -9994,6 +9997,3 @@
 34976869	Harnessing the Potential of miRNAs in Malaria Diagnostic and Prevention.
 34976861	AGIA Tag System for Ultrastructural Protein Localization Analysis in Blood-Stage Plasmodium falciparum.
 34976449	Co-infection With Dengue Virus and Extensively Drug-Resistant Salmonella typhi.
-34976405	Knowledge, Attitude, and Practice towards Malaria among People Attending Mekaneeyesus Primary Hospital, South Gondar, Northwestern Ethiopia: A Cross-Sectional Study.
-34975987	Indirect in vitro Regeneration of the Medicinal Plant, Aspilia africana, and Histological Assessment at Different Developmental Stages.
-34975925	Editorial: Immunity to Parasitic Infections in Pregnancy.
