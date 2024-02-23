@@ -1,3 +1,10 @@
+38392910	A Comparative Study of Genetic Diversity and Multiplicity of Infection in Uncomplicated Plasmodium falciparum Infections in Selected Regions of Pre-Elimination and High Transmission Settings Using MSP1 and MSP2 Genes.
+38392762	Specifically Targeting Metacaspases of Candida: A New Therapeutic Opportunity.
+38392690	Assessment of the Integrity and Function of Human Term Placental Explants in Short-Term Culture.
+38392527	Monitoring of Fabric Integrity and Attrition Rate of Dual-Active Ingredient Long-Lasting Insecticidal Nets in Tanzania: A Prospective Cohort Study Nested in a Cluster Randomized Controlled Trial.
+38392307	Long-Read Sequencing and De Novo Genome Assembly Pipeline of Two Plasmodium falciparum Clones (Pf3D7, PfW2) Using Only the PromethION Sequencer from Oxford Nanopore Technologies without Whole-Genome Amplification.
+38391947	P. falciparum Invasion and Erythrocyte Aging.
+38391528	Synthesis of Novel Artemisinin, Ciprofloxacin, and Norfloxacin Hybrids with Potent Antiplasmodial Activity.
 38390819	International review of blood donation nucleic acid amplification testing.
 38389888	Novel quinolinepiperazinyl-aryltetrazoles targeting the blood stage of Plasmodium falciparum.
 38389080	Application of gold immunochromatographic assay strip combined with digital evaluation for early detection of Toxoplasma gondii infection in multiple species.
@@ -9990,10 +9997,3 @@
 34985283	FIT-PNAs as RNA-Sensing Probes for Drug-Resistant Plasmodium falciparum.
 34985259	QSAR Classification Models for Prediction of Hydroxamate Histone Deacetylase Inhibitor Activity against Malaria Parasites.
 34984733	Determinants of willingness to accept child vaccination against malaria in Ghana.
-34984673	On-chip magnetophoretic capture in a model of malaria-infected red blood cells.
-34983983	The science events to watch for in 2022.
-34983788	Should India be considering deployment of the first malaria vaccine RTS,S/AS01?
-34983662	Prevalence of Schistosoma mono- and co-infections with multiple common parasites and associated risk factors and morbidity profile among adults in the Taabo health and demographic surveillance system, South-Central Côte d'Ivoire.
-34983601	Vector microbiota manipulation by host antibodies: the forgotten strategy to develop transmission-blocking vaccines.
-34983558	A practical approach for geographic prioritization and targeting of insecticide-treated net distribution campaigns during public health emergencies and in resource-limited settings.
-34983552	Safety of dihydroartemisinin-piperaquine versus artemether-lumefantrine for the treatment of uncomplicated Plasmodium falciparum malaria among children in Africa: a systematic review and meta-analysis of randomized control trials.
