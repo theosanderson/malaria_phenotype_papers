@@ -1,3 +1,8 @@
+38388820	ApoE: A new piece to the severe malaria puzzle.
+38388369	Enteric bacterial agents associated with diarrhea and their antimicrobial sensitivity profiles in children under 5 years from mukuru informal settlement, Nairobi, Kenya.
+38388238	Clinical formulation development of Plasmodium falciparum malaria vaccine candidates based on Pfs48/45, Pfs230, and PfCSP.
+38387679	Prevalence of glucose-6-phosphate dehydrogenase (G6PD) deficiency in Gia Lai Province, Vietnam.
+38387476	Chronic malaria exposure is associated with inhibitory markers on T cells that correlate with atypical memory and marginal zone-like B cells.
 38386689	Wait and watch: A trachoma surveillance strategy from Amhara region, Ethiopia.
 38386597	Prodomain-driven enzyme dimerization: a pH-dependent autoinhibition mechanism that controls Plasmodium Sub1 activity before merozoite egress.
 38386447	Preventing malaria spread in the US.
@@ -9992,8 +9997,3 @@
 34983549	Forest malaria and prospects for anti-malarial chemoprophylaxis among forest goers: findings from a qualitative study in Lao PDR.
 34983540	Naturally acquired antibody response to a Plasmodium falciparum chimeric vaccine candidate GMZ2.6c and its components (MSP-3, GLURP, and Pfs48/45) in individuals living in Brazilian malaria-endemic areas.
 34983534	Trends of malaria infection in pregnancy in Ghana over the past two decades: a review.
-34983530	Vector composition, abundance, biting patterns and malaria transmission intensity in Madang, Papua New Guinea: assessment after 7 years of an LLIN-based malaria control programme.
-34983529	Plasmodium falciparum histidine rich protein 2 (pfhrp2): an additional genetic marker suitable for anti-malarial drug efficacy trials.
-34983455	Household solid waste management practices and perceptions among residents in the East Coast of Malaysia.
-34983312	Artemisinin displays bactericidal activity via copper-mediated DNA damage.
-34983306	The value of lamp to rule out imported malaria diagnosis: a retrospective observational study in Milan, Italy.
