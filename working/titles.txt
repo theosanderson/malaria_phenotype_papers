@@ -1,3 +1,7 @@
+38386689	Wait and watch: A trachoma surveillance strategy from Amhara region, Ethiopia.
+38386597	Prodomain-driven enzyme dimerization: a pH-dependent autoinhibition mechanism that controls Plasmodium Sub1 activity before merozoite egress.
+38386447	Preventing malaria spread in the US.
+38386446	Preventing malaria spread in the US.
 38386290	An Investigation into the Larvicidal Activity of Biologically Synthesized Silver and Copper Oxide Nanoparticles Against Mosquito Larvae.
 38385445	Association of temperature and precipitation with malaria incidence in 57 countries and territories from 2000 to 2019: A worldwide observational study.
 38384556	Molecular structure, vibrational spectral, electron density analysis on linaloe oil and molecular docking efficacy against the therapeutic target on human immunodeficiency virus-1 organism (VIRAL protein).
@@ -9993,7 +9997,3 @@
 34983455	Household solid waste management practices and perceptions among residents in the East Coast of Malaysia.
 34983312	Artemisinin displays bactericidal activity via copper-mediated DNA damage.
 34983306	The value of lamp to rule out imported malaria diagnosis: a retrospective observational study in Milan, Italy.
-34982514	An Allosteric Inhibitory Potential of Triterpenes from Combretum racemosum on the Structural and Functional Dynamics of Plasmodium falciparum Lactate Dehydrogenase Binding Landscape.
-34982010	Ecological Predictors of Human Malaria Risk During Different Phases of the Elimination: An Analysis of Historical Data.
-34981788	RTS,S: the first malaria vaccine.
-34981216	Surveillance of Plasmodium malariae infection among inhabitants of rural areas in Ouidah-Kpomasse-Tori Bossito health district, Benin.
