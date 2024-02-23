@@ -1,3 +1,7 @@
+38390819	International review of blood donation nucleic acid amplification testing.
+38389888	Novel quinolinepiperazinyl-aryltetrazoles targeting the blood stage of Plasmodium falciparum.
+38389080	Application of gold immunochromatographic assay strip combined with digital evaluation for early detection of Toxoplasma gondii infection in multiple species.
+38389031	AsOBP1 is required for bioallethrin repellency in the malaria vector mosquito Anopheles sinensis.
 38388820	ApoE: A new piece to the severe malaria puzzle.
 38388369	Enteric bacterial agents associated with diarrhea and their antimicrobial sensitivity profiles in children under 5 years from mukuru informal settlement, Nairobi, Kenya.
 38388238	Clinical formulation development of Plasmodium falciparum malaria vaccine candidates based on Pfs48/45, Pfs230, and PfCSP.
@@ -9993,7 +9997,3 @@
 34983601	Vector microbiota manipulation by host antibodies: the forgotten strategy to develop transmission-blocking vaccines.
 34983558	A practical approach for geographic prioritization and targeting of insecticide-treated net distribution campaigns during public health emergencies and in resource-limited settings.
 34983552	Safety of dihydroartemisinin-piperaquine versus artemether-lumefantrine for the treatment of uncomplicated Plasmodium falciparum malaria among children in Africa: a systematic review and meta-analysis of randomized control trials.
-34983550	A quasi-experimental study estimating the impact of long-lasting insecticidal nets with and without piperonyl butoxide on pregnancy outcomes.
-34983549	Forest malaria and prospects for anti-malarial chemoprophylaxis among forest goers: findings from a qualitative study in Lao PDR.
-34983540	Naturally acquired antibody response to a Plasmodium falciparum chimeric vaccine candidate GMZ2.6c and its components (MSP-3, GLURP, and Pfs48/45) in individuals living in Brazilian malaria-endemic areas.
-34983534	Trends of malaria infection in pregnancy in Ghana over the past two decades: a review.
