@@ -1,3 +1,5 @@
+38394375	Methods of sampling malaria vectors and their reliability in estimating entomological indices in Africa.
+38393970	Noncanonical usage of stop codons in ciliates expands proteins with structurally flexible Q-rich motifs.
 38392910	A Comparative Study of Genetic Diversity and Multiplicity of Infection in Uncomplicated Plasmodium falciparum Infections in Selected Regions of Pre-Elimination and High Transmission Settings Using MSP1 and MSP2 Genes.
 38392762	Specifically Targeting Metacaspases of Candida: A New Therapeutic Opportunity.
 38392690	Assessment of the Integrity and Function of Human Term Placental Explants in Short-Term Culture.
@@ -9995,5 +9997,3 @@
 34985858	Peroxide Antimalarial Drugs Target Redox Homeostasis in Plasmodium falciparum Infected Red Blood Cells.
 34985837	Malaria among Croatian seafarers between 2004 and 2014: evaluation of chemoprophylaxis use and occupational disease reporting.
 34985283	FIT-PNAs as RNA-Sensing Probes for Drug-Resistant Plasmodium falciparum.
-34985259	QSAR Classification Models for Prediction of Hydroxamate Histone Deacetylase Inhibitor Activity against Malaria Parasites.
-34984733	Determinants of willingness to accept child vaccination against malaria in Ghana.
