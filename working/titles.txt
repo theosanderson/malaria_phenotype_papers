@@ -1,3 +1,6 @@
+38401759	A malaria elimination milestone reached on Mayotte Island.
+38401561	Climate change recognised in World malaria report 2023.
+38401551	Effectiveness of pyriproxyfen-pyrethroid and chlorfenapyr-pyrethroid long-lasting insecticidal nets (LLINs) compared with pyrethroid-only LLINs for malaria control in the third year post-distribution: a secondary analysis of a cluster-randomised controlled trial in Benin.
 38400193	Long-Term Clinical Safety of the Ad26.ZEBOV and MVA-BN-Filo Ebola Vaccines: A Prospective, Multi-Country, Observational Study.
 38400191	IgG Subclass Switch in Volunteers Repeatedly Immunized with the Full-Length Plasmodium falciparum Merozoite Surface Protein 1 (MSP1).
 38400186	Antibody-Dependent Respiratory Burst against Plasmodium falciparum Merozoites in Individuals Living in an Area with Declining Malaria Transmission.
@@ -9994,6 +9997,3 @@
 34993638	Selenium and protozoan parasitic infections: selenocompounds and selenoproteins potential.
 34993632	Plasmodium falciparum msp1 and msp2 genetic diversity in parasites isolated from symptomatic and asymptomatic malaria subjects in the South of Benin.
 34993631	Preparation, characterization, and evaluation of eosin B-loaded nano-liposomes for growth inhibition of Plasmodium falciparum.
-34993279	Prevalence of Malaria and Associated Factors Among Children Attending Health Institutions at South Gondar Zone, Northwest Ethiopia: A Cross-Sectional Study.
-34992661	Challenges in Laboratory Diagnosis of Malaria in a Low-Resource Country at Tertiary Care in Eastern Nepal: A Comparative Study of Conventional vs. Molecular Methodologies.
-34992211	Addendum: Transcriptomics and proteomics reveal two waves of translational repression during the maturation of malaria parasite sporozoites.
