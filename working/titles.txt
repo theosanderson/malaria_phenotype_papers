@@ -1,3 +1,15 @@
+38406770	Species abundance and density of malaria vectors in Western Thailand and implications for disease transmission.
+38406638	Limited genetic variations of the Rh5-CyRPA-Ripr invasion complex in Plasmodium falciparum parasite population in selected malaria-endemic regions, Kenya.
+38406635	Laboratory and Semi-Field Evaluation on S-Methoprene Formulations Against Anopheles sinensis (Diptera: Culicidae) - Yuxi City, Yunnan Province, China.
+38406536	Transcranial Doppler ultrasound velocities in a population of unstudied African children with sickle cell anemia.
+38406309	Reference spectrophotometric values for glucose-6-phosphate dehydrogenase activity in two-to six-month-old infants on the Thailand-Myanmar border.
+38405969	Development of subunit selective proteasome substrates for Schistosoma species.
+38405848	Chromatin structure and var2csa - a tango in regulation of var gene expression in the human malaria parasite, Plasmodium falciparum ?
+38405843	Nuclear pore complexes undergo Nup221 exchange during blood stage asexual replication of Plasmodium parasites.
+38404582	Cytokine gene polymorphisms implicated in the pathogenesis of Plasmodium falciparum infection outcome.
+38404581	Identification of conserved cross-species B-cell linear epitopes in human malaria: a subtractive proteomics and immuno-informatics approach targeting merozoite stage proteins.
+38404287	Mutation in the 26S proteasome regulatory subunit rpn2 gene in Plasmodium falciparum confers resistance to artemisinin.
+38404090	Aerobic Bacterial Contamination In Platelet Concentrates At The Regional Blood Centre, Peshawar.
 38402953	Identification of gaps in the performance of routine microscopy for the diagnosis of parasitic infections revealed by the Dutch laboratory quality assessment scheme.
 38402756	Clinical description of dengue and chikungunya virus infections amongst acute febrile patients in a malaria endemic area of Mfou, the Centre region of Cameroon.
 38401759	A malaria elimination milestone reached on Mayotte Island.
@@ -9985,15 +9997,3 @@
 34998282	RETROSPECTIVE STUDY OF MORBIDITY AND MORTALITY OF AFRICAN PENGUINS (SPHENISCUS DEMERSUS) UNDER MANAGED CARE IN NORTH AMERICA: 2007-2018.
 34997616	Methaemoglobinaemia and the radical curative efficacy of 8-aminoquinoline antimalarials.
 34997149	Temporally consistent predominance and distribution of secondary malaria vectors in the Anopheles community of the upper Zambezi floodplain.
-34997079	Cryopreservation of Anopheles stephensi embryos.
-34997002	DNA binding by the antimalarial compound artemisinin.
-34996998	Spontaneous mutation rate estimates for the principal malaria vectors Anopheles coluzzii and Anopheles stephensi.
-34996791	Cross-sectional study of nutritional intake among patients undergoing tuberculosis treatment along the Myanmar-Thailand border.
-34996508	Characterization of Anopheles gambiae D7 salivary proteins as markers of human-mosquito bite contact.
-34995319	An evaluation of the diagnostic performance characteristics of the Yellow Fever IgM immunochromatographic rapid diagnostic test kit from SD Biosensor in Ghana.
-34995295	Retrospective study of toxoplasmosis prevalence in pregnant women in Benin and its relation with malaria.
-34995157	Preparing an Insectary in Burkina Faso to Support Research in Genetic Technologies for Malaria Control.
-34994283	What make malarial adenosine deaminase from PLASMODIUM VIVAX recognise adenosine and 5'-methylthioadenosine: simulation studies.
-34994164	Heterogeneity in susceptibility to hydroxychloroquine of SARS-CoV-2 isolates.
-34994122	[Traditional medicinal plants for arthropod-borne diseases of five countries in Lancang-Mekong region:a review].
-34993638	Selenium and protozoan parasitic infections: selenocompounds and selenoproteins potential.
