@@ -1,3 +1,12 @@
+38410724	Exploring adjunctive therapies for cerebral malaria.
+38410722	Bibliometric analysis of antimalarial drug resistance.
+38410533	Exploring the molecular mechanisms of increased intensity of pyrethroid resistance in Central African population of a major malaria vector Anopheles coluzzii.
+38410472	Genomic Profiling of Insecticide Resistance in Malaria Vectors: Insights into Molecular Mechanisms.
+38410447	The Anopheles coluzzii range extends into Kenya: Detection, insecticide resistance profiles and population genetic structure in relation to conspecific populations in West and Central Africa.
+38410435	Progressive heterogeneity of enlarged and irregularly shaped apicoplasts in P. falciparum persister blood stages after drug treatment.
+38410426	Single-cell analyses of polyclonal Plasmodium vivax infections and their consequences on parasite transmission.
+38409726	Molecular Players at the Sorting Stations of Malaria Parasite 'Plasmodium falciparum'.
+38409563	Autoimmune Hemolytic Anemia in a Pediatric Patient with Chronic Vivax Malaria.
 38409325	A homoeostatic switch causing glycerol-3-phosphate and phosphoethanolamine accumulation triggers senescence by rewiring lipid metabolism.
 38409212	Deciphering the mechanism of glutaredoxin-catalyzed roGFP2 redox sensing reveals a ternary complex with glutathione for protein disulfide reduction.
 38409185	Synthetic angiotensin II peptide derivatives confer protection against cerebral and severe non-cerebral malaria in murine models.
@@ -9988,12 +9997,3 @@
 35003624	Demography, education, and research trends in the interdisciplinary field of disease ecology.
 35003194	AaCycTL Regulates Cuticle and Trichome Development in Arabidopsis and Artemisia annua L.
 35003072	Physical Interactions With Bacteria and Protozoan Parasites Establish the Scavenger Receptor SSC4D as a Broad-Spectrum Pattern Recognition Receptor.
-35002582	Linking phytochemistry to traditional uses and pharmacology of an underexplored genus - Psydrax: a review.
-35002548	Revealing the Therapeutic Uses of Garlic (Allium sativum) and Its Potential for Drug Discovery.
-35002443	In-vitro examination and isolation of antidiarrheal compounds using five bacterial strains from invasive species Bidens bipinnata L.
-35002412	Promising antiparasitic agents from marine sponges.
-35002178	AYUSH- 64: A potential therapeutic agent in COVID-19.
-35001920	Can Costus afer be used for co-treatment of COVID-19, its symptoms and comorbidities? A novel approach for combating the pandemic and implications for sub-Saharan Africa.
-35001918	Larvicidal activity of the skin secretion ofRhinella marina and Rhaebo guttatus (Anura: Bufonidae) against the Brazilian malaria vector, Anopheles darlingi (Diptera: Culicidae).
-35000113	Variations in the Serum Sialic Acid Profiles of Malaria Patients in Zaria, Nigeria: A Cross-Sectional Study.
-34998927	Plasmodium falciparum Cysteine Rich Secretory Protein uniquely localizes to one end of male gametes.
