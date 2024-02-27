@@ -1,3 +1,5 @@
+38408353	A novel ex vivo assay to evaluate functional effectiveness of Plasmodium vivax transmission blocking vaccine using Pvs25 transgenic P. berghei.
+38408128	Mapping the incidence rate of typhoid fever in sub-Saharan Africa.
 38407577	Association between asymptomatic Plasmodium falciparum malaria infection, anaemia and mean corpuscular volume of school children in the Volta Region of Ghana.
 38406770	Species abundance and density of malaria vectors in Western Thailand and implications for disease transmission.
 38406638	Limited genetic variations of the Rh5-CyRPA-Ripr invasion complex in Plasmodium falciparum parasite population in selected malaria-endemic regions, Kenya.
@@ -9995,5 +9997,3 @@
 34998402	Presence and potential distribution of malaria-infected New World primates of Costa Rica.
 34998397	Monitoring of the Village Malaria Workers to conduct activities of Malaria Elimination Demonstration Project in Mandla, Madhya Pradesh.
 34998391	Pharmacokinetics of chloroquine and primaquine in healthy volunteers.
-34998282	RETROSPECTIVE STUDY OF MORBIDITY AND MORTALITY OF AFRICAN PENGUINS (SPHENISCUS DEMERSUS) UNDER MANAGED CARE IN NORTH AMERICA: 2007-2018.
-34997616	Methaemoglobinaemia and the radical curative efficacy of 8-aminoquinoline antimalarials.
