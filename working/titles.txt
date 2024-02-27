@@ -1,3 +1,9 @@
+38411954	Neddylation is essential for malaria transmission in Plasmodium berghei.
+38411846	Forest Restoration and the Zoonotic Vector Anopheles balabacensis in Sabah, Malaysia.
+38411718	The role of natural recovery category in malaria dynamics under saturated treatment.
+38411120	The dCas9-based genome editing in Plasmodium yoelii.
+38411062	Ex vivo drug susceptibility and resistance mediating genetic polymorphisms of Plasmodium falciparum in Bobo-Dioulasso, Burkina Faso.
+38411047	Delayed gametocyte clearance in Plasmodium vivax malaria is associated with polymorphisms in the cytochrome P450 reductase (CPR).
 38410724	Exploring adjunctive therapies for cerebral malaria.
 38410722	Bibliometric analysis of antimalarial drug resistance.
 38410533	Exploring the molecular mechanisms of increased intensity of pyrethroid resistance in Central African population of a major malaria vector Anopheles coluzzii.
@@ -9991,9 +9997,3 @@
 35005674	Artemisinin resistance in Africa: How urgent is the threat?
 35005096	A Phenotypic Screen for the Liver Stages of Plasmodium vivax.
 35004357	Multipurpose Drugs Active Against Both Plasmodium spp. and Microorganisms: Potential Application for New Drug Development.
-35004348	Infectivity of Symptomatic Malaria Patients to Anopheles farauti Colony Mosquitoes in Papua New Guinea.
-35003692	Beyond illness: Variation in haemosporidian load explains differences in vocal performance in a songbird.
-35003681	Avian disease surveillance on the island of San Cristóbal, Galápagos.
-35003624	Demography, education, and research trends in the interdisciplinary field of disease ecology.
-35003194	AaCycTL Regulates Cuticle and Trichome Development in Arabidopsis and Artemisia annua L.
-35003072	Physical Interactions With Bacteria and Protozoan Parasites Establish the Scavenger Receptor SSC4D as a Broad-Spectrum Pattern Recognition Receptor.
