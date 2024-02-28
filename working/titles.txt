@@ -1,3 +1,7 @@
+38412548	Recombinase-Aided Loop-Mediated Isothermal Amplification on Human Plasmodium knowlesi.
+38412461	A comparative untargeted metabolomic analysis and assessment of antiplasmodial potential of nine Albizia species.
+38412279	Multifunctional Deep Eutectic Solvent-Based Microemulsion for Transdermal Delivery of Artemisinin.
+38412205	Compliance With Guidelines on Seasonal Malaria Chemoprevention in Kwara State, Northcentral Nigeria.
 38411954	Neddylation is essential for malaria transmission in Plasmodium berghei.
 38411846	Forest Restoration and the Zoonotic Vector Anopheles balabacensis in Sabah, Malaysia.
 38411718	The role of natural recovery category in malaria dynamics under saturated treatment.
@@ -9993,7 +9997,3 @@
 35007126	ICOS Expression Is Required for Maintenance but Not the Formation of Germinal Centers in the Spleen in Response to Plasmodium yoelii Infection.
 35006689	Polymeric Nanoparticle Based Diagnosis and Nanomedicine for Treatment and Development of Vaccines for Cerebral Malaria: A Review on Recent Advancement.
 35006242	How to induce protective humoral immunity against Plasmodium falciparum circumsporozoite protein.
-35006075	Comparative transcriptomic analysis reveals translationally relevant processes in mouse models of malaria.
-35005674	Artemisinin resistance in Africa: How urgent is the threat?
-35005096	A Phenotypic Screen for the Liver Stages of Plasmodium vivax.
-35004357	Multipurpose Drugs Active Against Both Plasmodium spp. and Microorganisms: Potential Application for New Drug Development.
