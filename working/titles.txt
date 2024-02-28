@@ -1,3 +1,4 @@
+38416027	Chemical and Antiplasmodial Investigations on Eremophila-Derived Alkaloids and Semisynthetic Ether Analogues.
 38415336	Challenges and epidemiological implications of the first outbreak of dengue and chikungunya in Sudan.
 38414837	Advanced metabolic engineering strategies for increasing artemisinin yield in Artemisia annua L.
 38413961	Sibling species of the major malaria vector Anopheles gambiae display divergent preferences for aquatic breeding sites in southern Nigeria.
@@ -9996,4 +9997,3 @@
 35009125	Mineral Fertilization Influences the Growth, Cryptolepine Yield, and Bioefficacy of Cryptolepis sanguinolenta (Lindl.) Schlt.
 35009051	Synergism in Antiplasmodial Activities of Artemether and Lumefantrine in Combination with Securidaca longipedunculata Fresen (Polygalaceae).
 35008492	Systematic Analysis of Clemastine, a Candidate Apicomplexan Parasite-Selective Tubulin-Targeting Agent.
-35008062	Active Pharmacovigilance for Primaquine Radical Cure of Plasmodium vivax Malaria in Odisha, India.
