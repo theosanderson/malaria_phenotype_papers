@@ -1,12 +1,14 @@
+38415336	Challenges and epidemiological implications of the first outbreak of dengue and chikungunya in Sudan.
+38414837	Advanced metabolic engineering strategies for increasing artemisinin yield in Artemisia annua L.
+38413961	Sibling species of the major malaria vector Anopheles gambiae display divergent preferences for aquatic breeding sites in southern Nigeria.
+38413921	How using light touch immersion research revealed important insights into the lack of progress in malaria elimination in Eastern Indonesia.
+38413816	Author Correction: Emergence, transmission dynamics and mechanisms of artemisinin partial resistance in malaria parasites in Africa.
+38413566	Deaggregation of mutant Plasmodium yoelii de-ubiquitinase UBP1 alters MDR1 localization to confer multidrug resistance.
 38413098	Malaria trends in districts that were targeted and not-targeted for seasonal malaria chemoprevention in children under 5 years of age in Guinea, 2014-2021.
 38413021	[Quantitative analysis of risk assessment indicators for re-introduction of imported malaria in China].
 38413017	[Species and population density of malaria vector Anopheles in Sichuan Province from 2011 to 2021].
 38413016	[Single - nucleotide polymorphisms of artemisinin resistance - related Pfubp1 and Pfap2mu genes in Bioko Island, Equatorial Guinea from 2018 to 2020].
 38412833	An expanded neurogenetic toolkit to decode olfaction in the African malaria mosquito Anopheles gambiae.
-38413961	Sibling species of the major malaria vector Anopheles gambiae display divergent preferences for aquatic breeding sites in southern Nigeria.
-38413921	How using light touch immersion research revealed important insights into the lack of progress in malaria elimination in Eastern Indonesia.
-38413816	Author Correction: Emergence, transmission dynamics and mechanisms of artemisinin partial resistance in malaria parasites in Africa.
-38413566	Deaggregation of mutant Plasmodium yoelii de-ubiquitinase UBP1 alters MDR1 localization to confer multidrug resistance.
 38412548	Recombinase-Aided Loop-Mediated Isothermal Amplification on Human Plasmodium knowlesi.
 38412461	A comparative untargeted metabolomic analysis and assessment of antiplasmodial potential of nine Albizia species.
 38412279	Multifunctional Deep Eutectic Solvent-Based Microemulsion for Transdermal Delivery of Artemisinin.
@@ -9995,5 +9997,3 @@
 35009051	Synergism in Antiplasmodial Activities of Artemether and Lumefantrine in Combination with Securidaca longipedunculata Fresen (Polygalaceae).
 35008492	Systematic Analysis of Clemastine, a Candidate Apicomplexan Parasite-Selective Tubulin-Targeting Agent.
 35008062	Active Pharmacovigilance for Primaquine Radical Cure of Plasmodium vivax Malaria in Odisha, India.
-35008060	Health Problems Encountered by Short-Term European Volunteers in a Nongovernmental Organization in Cambodia.
-35008054	Analysis of the Knockdown Resistance Locus (kdr) in Anopheles stephensi, An. arabiensis, and Culex pipiens s.l. for Insight Into the Evolution of Target-site Pyrethroid Resistance in Eastern Ethiopia.
