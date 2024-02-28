@@ -1,3 +1,12 @@
+38413098	Malaria trends in districts that were targeted and not-targeted for seasonal malaria chemoprevention in children under 5 years of age in Guinea, 2014-2021.
+38413021	[Quantitative analysis of risk assessment indicators for re-introduction of imported malaria in China].
+38413017	[Species and population density of malaria vector Anopheles in Sichuan Province from 2011 to 2021].
+38413016	[Single - nucleotide polymorphisms of artemisinin resistance - related Pfubp1 and Pfap2mu genes in Bioko Island, Equatorial Guinea from 2018 to 2020].
+38412833	An expanded neurogenetic toolkit to decode olfaction in the African malaria mosquito Anopheles gambiae.
+38413961	Sibling species of the major malaria vector Anopheles gambiae display divergent preferences for aquatic breeding sites in southern Nigeria.
+38413921	How using light touch immersion research revealed important insights into the lack of progress in malaria elimination in Eastern Indonesia.
+38413816	Author Correction: Emergence, transmission dynamics and mechanisms of artemisinin partial resistance in malaria parasites in Africa.
+38413566	Deaggregation of mutant Plasmodium yoelii de-ubiquitinase UBP1 alters MDR1 localization to confer multidrug resistance.
 38412548	Recombinase-Aided Loop-Mediated Isothermal Amplification on Human Plasmodium knowlesi.
 38412461	A comparative untargeted metabolomic analysis and assessment of antiplasmodial potential of nine Albizia species.
 38412279	Multifunctional Deep Eutectic Solvent-Based Microemulsion for Transdermal Delivery of Artemisinin.
@@ -9988,12 +9997,3 @@
 35008062	Active Pharmacovigilance for Primaquine Radical Cure of Plasmodium vivax Malaria in Odisha, India.
 35008060	Health Problems Encountered by Short-Term European Volunteers in a Nongovernmental Organization in Cambodia.
 35008054	Analysis of the Knockdown Resistance Locus (kdr) in Anopheles stephensi, An. arabiensis, and Culex pipiens s.l. for Insight Into the Evolution of Target-site Pyrethroid Resistance in Eastern Ethiopia.
-35008050	Effects of Host Genetic Polymorphisms on the Efficacy of the Radical Cure Malaria Drug Primaquine.
-35007708	Deoxyhypusine hydroxylase as a novel pharmacological target for ischemic stroke via inducing a unique post-translational hypusination modification.
-35007669	Acute and subacute oral toxicity of artemisinin-hydroxychloroquine sulfate tablets in rats.
-35007283	Clinical presentations, diagnostics, treatments and treatment costs of children and adults with febrile illness in a tertiary referral hospital in south-eastern Guinea: A retrospective longitudinal cohort study.
-35007277	Population-level genome-wide STR discovery and validation for population structure and genetic diversity assessment of Plasmodium species.
-35007183	A new antiprotozoal compound from Calendula officinalis.
-35007126	ICOS Expression Is Required for Maintenance but Not the Formation of Germinal Centers in the Spleen in Response to Plasmodium yoelii Infection.
-35006689	Polymeric Nanoparticle Based Diagnosis and Nanomedicine for Treatment and Development of Vaccines for Cerebral Malaria: A Review on Recent Advancement.
-35006242	How to induce protective humoral immunity against Plasmodium falciparum circumsporozoite protein.
