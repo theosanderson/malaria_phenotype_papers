@@ -1,3 +1,8 @@
+38421618	Akedanones A-C, In Vitro and In Vivo Antiplasmodial 2,3-Dihydronaphthoquinones Produced by Streptomyces sp. K20-0187.
+38421495	Correction to: Characteristics of splenic PD-1(+) γδT cells in Plasmodium yoelii nigeriensis infection.
+38421191	Identification of fungal natural products with potent inhibition in Toxoplasma gondii.
+38421163	Therapeutic response to four artemisinin-based combination therapies in Angola, 2021.
+38421063	The malarial blood transcriptome: translational applications.
 38420413	An integrated human behavioral model for mosquito-borne disease control: A scoping review of behavior change theories used to identify key behavioral determinants.
 38419622	Editorial: Emerging fungal pathogens: perspectives.
 38419272	Stearoyl-CoA desaturase regulates organelle biogenesis and hepatic merozoite formation in Plasmodium berghei.
@@ -9992,8 +9997,3 @@
 35017211	Altered Offspring Immunity in Maternal Parasitic Infections.
 35016895	Hypnozoite dynamics for Plasmodium vivax malaria: The epidemiological effects of radical cure.
 35016722	Effects of deworming medication on anaemia among children aged 6-59 months in sub-Saharan Africa.
-35016684	Price, quality, and market dynamics of malaria rapid diagnostic tests: analysis of Global Fund 2009-2018 data.
-35016676	Comparative efficacy of two pyrethroid-piperonyl butoxide nets (Olyset Plus and PermaNet 3.0) against pyrethroid resistant malaria vectors: a non-inferiority assessment.
-35016657	Euterpe oleracea fruit (Açai)-enriched diet suppresses the development of experimental cerebral malaria induced by Plasmodium berghei (ANKA) infection.
-35016656	Village health workers as health diplomats: negotiating health and study participation in a malaria elimination trial in The Gambia.
-35016599	Promising New Antimalarial Combination Drugs: Garlic and Arteether in Pregnant Mice Infected with Plasmodium berghei.
