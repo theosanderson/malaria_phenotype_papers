@@ -1,3 +1,4 @@
+38416790	Plasmodium falciparum contains functional SCF and CRL4 ubiquitin E3 ligases, and CRL4 is critical for cell division and membrane integrity.
 38416027	Chemical and Antiplasmodial Investigations on Eremophila-Derived Alkaloids and Semisynthetic Ether Analogues.
 38415336	Challenges and epidemiological implications of the first outbreak of dengue and chikungunya in Sudan.
 38414837	Advanced metabolic engineering strategies for increasing artemisinin yield in Artemisia annua L.
@@ -243,7 +244,7 @@
 38341502	Establishing RTS,S/AS01 as a benchmark for comparison to next-generation malaria vaccines in a mouse model.
 38341243	R21/Matrix-M vaccine: optimising supply, maximising impact.
 38341240	Malaria vaccines: a test for global health.
-38340890	Silent Acute Rheumatic Fever Unmasked by Using Handheld Echocardiography for Febrile Children Presenting in an RHD Endemic Area.
+38340890	Silent Acute Rheumatic Fever Unmasked by Using Handheld Echocardiography for Febrile Children Presenting in a Rheumatic Heart Disease-Endemic Area.
 38340876	Enhanced anti-malarial efficacy of mefloquine delivered via cationic liposome in a murine model of experimental cerebral malaria.
 38340779	Activity of alkoxyamide-based histone deacetylase inhibitors against Plasmodium falciparum malaria parasites.
 38339833	Plasmodium falciparum transmission in the highlands of Ethiopia is driven by closely related and clonal parasites.
@@ -9996,4 +9997,3 @@
 35011298	Stereoelectronic Features of a Complex Ketene Dimerization Reaction.
 35009125	Mineral Fertilization Influences the Growth, Cryptolepine Yield, and Bioefficacy of Cryptolepis sanguinolenta (Lindl.) Schlt.
 35009051	Synergism in Antiplasmodial Activities of Artemether and Lumefantrine in Combination with Securidaca longipedunculata Fresen (Polygalaceae).
-35008492	Systematic Analysis of Clemastine, a Candidate Apicomplexan Parasite-Selective Tubulin-Targeting Agent.
