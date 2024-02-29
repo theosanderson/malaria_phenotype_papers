@@ -1,10 +1,13 @@
-38417441	Ancient genomes illuminate Eastern Arabian population history and adaptation against malaria.
-38417201	[Initial assessment of immigrant patients in primary care].
+38420413	An integrated human behavioral model for mosquito-borne disease control: A scoping review of behavior change theories used to identify key behavioral determinants.
+38419622	Editorial: Emerging fungal pathogens: perspectives.
+38419272	Stearoyl-CoA desaturase regulates organelle biogenesis and hepatic merozoite formation in Plasmodium berghei.
 38419105	Malaria elimination and the need for intensive inter-country cooperation. a critical evaluation of regional technical co-operation in Southern Africa.
 38419075	Efficacy of chlorfenapyr-pyrethroid and piperonyl butoxide-pyrethroid long-lasting insecticidal nets (LLINs) compared to pyrethroid-only LLINs for malaria control in Côte d'Ivoire: a three group, cluster randomised trial.
 38418982	Safety and efficacy of pyronaridine-artesunate paediatric granules in the treatment of uncomplicated malaria in children: insights from randomized clinical trials and a real-world study.
 38418831	Atypical memory B cell frequency correlates with antibody breadth and function in malaria immune adults.
 38418371	Plasmodium falciparum J-dot localized J domain protein A8iJp modulates the chaperone activity of human HSPA8.
+38417441	Ancient genomes illuminate Eastern Arabian population history and adaptation against malaria.
+38417201	[Initial assessment of immigrant patients in primary care].
 38416790	Plasmodium falciparum contains functional SCF and CRL4 ubiquitin E3 ligases, and CRL4 is critical for cell division and membrane integrity.
 38416027	Chemical and Antiplasmodial Investigations on Eremophila-Derived Alkaloids and Semisynthetic Ether Analogues.
 38415336	Challenges and epidemiological implications of the first outbreak of dengue and chikungunya in Sudan.
@@ -9994,6 +9997,3 @@
 35016657	Euterpe oleracea fruit (Açai)-enriched diet suppresses the development of experimental cerebral malaria induced by Plasmodium berghei (ANKA) infection.
 35016656	Village health workers as health diplomats: negotiating health and study participation in a malaria elimination trial in The Gambia.
 35016599	Promising New Antimalarial Combination Drugs: Garlic and Arteether in Pregnant Mice Infected with Plasmodium berghei.
-37332492	Anti-malarial plants in Ethiopia and their activities on drug-resistant malaria.
-35015299	Effect of larval density and additional anchoring surface on the life-history traits of a laboratory colonized Anopheles funestus strain.
-35013403	Blood meal analysis of Anopheles vectors of simian malaria based on laboratory and field studies.
