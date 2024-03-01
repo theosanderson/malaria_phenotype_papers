@@ -1,8 +1,13 @@
-38423519	Schistosomiasis in Burkina Faso: review on 60 years' research.
-38423334	Urbanization correlates with the prevalence and richness of blood parasites in Eurasian Blackbirds (Turdus merula).
+38426407	Nanotherapeutics against malaria: A decade of advancements in experimental models.
+38426210	Proteomic analyses of urinary exosomes identify novel potential biomarkers for early diagnosis of sickle cell nephropathy, a sex-based study.
+38425660	Optic nerve sheath diameter and its association with brain swelling in pediatric cerebral malaria: a retrospective study.
+38425456	Anopheles stephensi and the impending challenge to malaria eradication in Africa.
+38425366	Impacts of Deforestation on Childhood Malaria Depend on Wealth and Vector Biology.
+38425089	Recolonization of secondary forests by a locally extinct Caribbean anole through the lens of range expansion theory.
 38424577	A randomised controlled trial to compare the efficacy, safety, and tolerability of low dose, short course primaquine in adults with uncomplicated P. vivax malaria in two hospitals in India.
 38424312	Severe COVID-19 and long COVID are associated with high expression of STING, cGAS and IFN-α.
-38423956	Surveillance des effets indésirables lors des campagnes de la chimioprévention du paludisme saisonnier chez les enfants de 3-59 mois au Burkina Faso.
+38423519	Schistosomiasis in Burkina Faso: review on 60 years' research.
+38423334	Urbanization correlates with the prevalence and richness of blood parasites in Eurasian Blackbirds (Turdus merula).
 38422345	Expression and purification of active shikimate dehydrogenase from Plasmodium falciparum.
 38422335	Prevalence and correlates of childhood anemia in the MINA-Brazil birth cohort study.
 38421807	Protein O-Fucosyltransferase Is Required for the Efficient Invasion of Hepatocytes by Plasmodium berghei Sporozoites.
@@ -5319,6 +5324,7 @@
 36587808	An insight into the female and male Sabethes cyaneus mosquito salivary glands transcriptome.
 36587755	Guidelines to prevent malarial transmission among interprovincial travelers to malaria endemic regions.
 36587274	Editorial: Current Status of Two Adjuvanted Malaria Vaccines and the World Health Organization (WHO) Strategy to Eradicate Malaria by 2030.
+38423956	Surveillance des effets indésirables lors des campagnes de la chimioprévention du paludisme saisonnier chez les enfants de 3-59 mois au Burkina Faso.
 38312496	Morbidity and Mortality of HIV-Exposed Uninfected Infants in a Tertiary Referral Facility in Yaoundé, Cameroon.
 36587210	Efficacy and safety of pyronaridine-artesunate (Pyramax(®)) for the treatment of uncomplicated Plasmodium vivax malaria in Northwest Ethiopia.
 36587191	Effectiveness of seasonal malaria chemoprevention in three regions of Togo: a population-based longitudinal study from 2013 to 2020.
@@ -9991,9 +9997,3 @@
 35022455	Synthesis and antiplasmodial activity of regioisomers and epimers of second-generation dual acting ivermectin hybrids.
 35022402	Reversing insecticide resistance with allelic-drive in Drosophila melanogaster.
 35022031	A machine learning-based system for detecting leishmaniasis in microscopic images.
-35021974	Contribution of Transcriptome to Elucidate the Biology of Plasmodium spp.
-37621950	'Working relationships' across difference - a realist review of community engagement with malaria research.
-35020973	Ecdysis triggering hormone peptide in the African malaria mosquito Anopheles gambiae: The peptide structure for receptor activation.
-35020841	Deciphering the Plasmodium falciparum malaria-specific CD4+ T-cell response: ex vivo detection of high frequencies of PD-1+TIGIT+ EXP1-specific CD4+ T cells using a novel HLA-DR11-restricted MHC class II tetramer.
-35020428	Hitting the right note at the right time: Circadian control of audibility in Anopheles mosquito mating swarms is mediated by flight tones.
-35018127	Expression of CD11a, CD11b, CD11c, and CD18 on Neutrophils from Different Clinical Types of Malaria in Malawian Children.
