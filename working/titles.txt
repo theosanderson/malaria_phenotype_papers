@@ -1,3 +1,6 @@
+38422345	Expression and purification of active shikimate dehydrogenase from Plasmodium falciparum.
+38422335	Prevalence and correlates of childhood anemia in the MINA-Brazil birth cohort study.
+38421807	Protein O-Fucosyltransferase Is Required for the Efficient Invasion of Hepatocytes by Plasmodium berghei Sporozoites.
 38421618	Akedanones A-C, In Vitro and In Vivo Antiplasmodial 2,3-Dihydronaphthoquinones Produced by Streptomyces sp. K20-0187.
 38421495	Correction to: Characteristics of splenic PD-1(+) γδT cells in Plasmodium yoelii nigeriensis infection.
 38421191	Identification of fungal natural products with potent inhibition in Toxoplasma gondii.
@@ -9994,6 +9997,3 @@
 35017752	Rose Gana Fomban Leke: rethinking malaria.
 35017593	Polymorphism analysis of pfmdr1 gene in Plasmodium falciparum isolates 11 years post-adoption of artemisinin-based combination therapy in Saudi Arabia.
 35017337	Epidemiology of community-acquired acute kidney injury in children as seen in an emergency room of Tertiary Hospital in South-South Nigeria.
-35017211	Altered Offspring Immunity in Maternal Parasitic Infections.
-35016895	Hypnozoite dynamics for Plasmodium vivax malaria: The epidemiological effects of radical cure.
-35016722	Effects of deworming medication on anaemia among children aged 6-59 months in sub-Saharan Africa.
