@@ -1,3 +1,4 @@
+38427079	A dot-blot ELISA preliminary evaluation using PvMSP1-42 recombinant protein as antigen for serological diagnosis of Plasmodium vivax infection in Thailand.
 38426407	Nanotherapeutics against malaria: A decade of advancements in experimental models.
 38426210	Proteomic analyses of urinary exosomes identify novel potential biomarkers for early diagnosis of sickle cell nephropathy, a sex-based study.
 38425660	Optic nerve sheath diameter and its association with brain swelling in pediatric cerebral malaria: a retrospective study.
@@ -9996,4 +9997,3 @@
 35022476	Study of epidemiological behaviour of malaria and its control in the Purulia district of West Bengal, India (2016-2020).
 35022455	Synthesis and antiplasmodial activity of regioisomers and epimers of second-generation dual acting ivermectin hybrids.
 35022402	Reversing insecticide resistance with allelic-drive in Drosophila melanogaster.
-35022031	A machine learning-based system for detecting leishmaniasis in microscopic images.
