@@ -1,3 +1,9 @@
+38429846	Anopheles gambiae larvae's ability to grow and emerge in water containing lethal concentrations of clothianidin, acetamiprid, or imidacloprid is consistent with cross-resistance to neonicotinoids.
+38429807	Progress towards malaria elimination in the Greater Mekong Subregion: perspectives from the World Health Organization.
+38429746	Correction: Testing and treatment for malaria elimination: a systematic review.
+38429196	Comparative evaluation of rapid plasma reagin and ELISA with Treponema pallidum hemagglutination assay for the detection of syphilis in blood donors: a single center experience.
+38428566	Lycopene possess an antimalarial effect on chloroquine-resistant malaria and its hematological aberrations in murine model.
+38428508	Structural and functional comparisons of salivary α-glucosidases from the mosquito vectors Aedes aegypti, Anopheles gambiae, and Culex quinquefasciatus.
 38427625	Role of riboflavin deficiency in malaria pathophysiology.
 38427618	Preventing zoonotic and zooanthroponotic disease transmission at wild great ape sites: Recommendations from qualitative research at Bwindi Impenetrable National Park.
 38427079	A dot-blot ELISA preliminary evaluation using PvMSP1-42 recombinant protein as antigen for serological diagnosis of Plasmodium vivax infection in Thailand.
@@ -183,7 +189,7 @@
 38368353	Response of the mosquito immune system and symbiotic bacteria to pathogen infection.
 38367843	Azithromycin disrupts apicoplast biogenesis in replicating and dormant liver stages of the relapsing malaria parasites Plasmodium vivax and P. cynomolgi.
 38367677	Polymorphisms in the human angiotensin converting enzyme gene (ACE) linked to susceptibility of COVID-19 and malaria infections in the Ghanaian population.
-38367661	SUBCELLULAR PARTICLES for CHARACTERIZATION of HOST-PARASITE INTERACTIONS.
+38367661	Subcellular particles for characterization of host-parasite interactions.
 38367632	Under-representation of the WHO African region in clinical trials of interventions against hepatitis B virus infection.
 38367617	Mosquitoes escape looming threats by actively flying with the bow wave induced by the attacker.
 38367514	Comparison of extraction methods in vitro Plasmodium falciparum: A (1)H NMR and LC-MS joined approach.
@@ -9991,9 +9997,3 @@
 35025988	An accurate method for identifying recent recombinants from unaligned sequences.
 35025886	C-type lectin 4 regulates broad-spectrum melanization-based refractoriness to malaria parasites.
 35024140	Differentials in prevalence and correlates on uptake of tetanus toxoid and intermittent preventive treatment with sulfadoxine-pyrimethamine during pregnancy: A community-based cross-sectional study in The Gambia.
-35023832	Structural basis of Plasmodium vivax inhibition by antibodies binding to the circumsporozoite protein repeats.
-35023668	Detection of Plasmodium vivax using Automated Hematology Analyzer in the Korean Army.
-35023554	N-terminal phosphorylation regulates the activity of glycogen synthase kinase 3 from Plasmodium falciparum.
-35023549	Severe Malaria, Pascalian Therapeutics, and the US Food and Drug Administration (FDA).
-35022496	Local adaptation and colonization are potential factors affecting sexual competitiveness and mating choice in Anopheles coluzzii populations.
-35022476	Study of epidemiological behaviour of malaria and its control in the Purulia district of West Bengal, India (2016-2020).
