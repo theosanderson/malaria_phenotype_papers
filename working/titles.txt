@@ -1,3 +1,5 @@
+38427625	Role of riboflavin deficiency in malaria pathophysiology.
+38427618	Preventing zoonotic and zooanthroponotic disease transmission at wild great ape sites: Recommendations from qualitative research at Bwindi Impenetrable National Park.
 38427079	A dot-blot ELISA preliminary evaluation using PvMSP1-42 recombinant protein as antigen for serological diagnosis of Plasmodium vivax infection in Thailand.
 38426407	Nanotherapeutics against malaria: A decade of advancements in experimental models.
 38426210	Proteomic analyses of urinary exosomes identify novel potential biomarkers for early diagnosis of sickle cell nephropathy, a sex-based study.
@@ -9995,5 +9997,3 @@
 35023549	Severe Malaria, Pascalian Therapeutics, and the US Food and Drug Administration (FDA).
 35022496	Local adaptation and colonization are potential factors affecting sexual competitiveness and mating choice in Anopheles coluzzii populations.
 35022476	Study of epidemiological behaviour of malaria and its control in the Purulia district of West Bengal, India (2016-2020).
-35022455	Synthesis and antiplasmodial activity of regioisomers and epimers of second-generation dual acting ivermectin hybrids.
-35022402	Reversing insecticide resistance with allelic-drive in Drosophila melanogaster.
