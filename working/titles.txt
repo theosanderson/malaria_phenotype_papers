@@ -1,3 +1,4 @@
+38430523	Acute malaria suppresses the B lymphocytic niche in the bone marrow through the alteration of CXCL12-abundant reticular cells.
 38429846	Anopheles gambiae larvae's ability to grow and emerge in water containing lethal concentrations of clothianidin, acetamiprid, or imidacloprid is consistent with cross-resistance to neonicotinoids.
 38429807	Progress towards malaria elimination in the Greater Mekong Subregion: perspectives from the World Health Organization.
 38429746	Correction: Testing and treatment for malaria elimination: a systematic review.
@@ -9996,4 +9997,3 @@
 35026318	Artesunate Reduces Remifentanil-induced Hyperalgesia and Peroxiredoxin-3 Hyperacetylation via Modulating Spinal Metabotropic Glutamate Receptor 5 in Rats.
 35025988	An accurate method for identifying recent recombinants from unaligned sequences.
 35025886	C-type lectin 4 regulates broad-spectrum melanization-based refractoriness to malaria parasites.
-35024140	Differentials in prevalence and correlates on uptake of tetanus toxoid and intermittent preventive treatment with sulfadoxine-pyrimethamine during pregnancy: A community-based cross-sectional study in The Gambia.
