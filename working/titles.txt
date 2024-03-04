@@ -1,3 +1,10 @@
+38435417	Factors associated with acute watery diarrhea among children aged 0-59 months in Obongi District, Uganda, April 2022: A case-control study.
+38435356	Human-driven global nutrient imbalances increase risks to health.
+38434927	Magnitude, Associated Factors and Morphological Types of Anemia Among Hospitalized 6-59 Months Age Children at Jimma Medical Center, Southwest Ethiopia - A Hospital-Based Cross-Sectional Study.
+38434799	Enhanced Antimalarial Activity of Extracts of Artemisia annua L. Achieved with Aqueous Solutions of Salicylate Salts and Ionic Liquids.
+38434493	The Malaria Burden: A South African Perspective.
+38434236	Community engagement and antimalarial drugs medication as the first line of defense in the fight against antimalarial drug resistance in some endemic localities in Cameroon.
+38433892	Landscape and mosquito community impact the avian Plasmodium infection in Culex pipiens.
 38431851	Usefulness of serial testing for the diagnosis of malaria in cases of fever upon return from travel.
 38431686	Contribution of Anopheles gambiae sensu lato mosquitoes to malaria transmission during the dry season in Djoumouna and Ntoula villages in the Republic of the Congo.
 38431631	Time of exposure and assessment influence the mortality induced by insecticides against metabolic resistant mosquitoes.
@@ -89,7 +96,7 @@
 38406536	Transcranial Doppler ultrasound velocities in a population of unstudied African children with sickle cell anemia.
 38406309	Reference spectrophotometric values for glucose-6-phosphate dehydrogenase activity in two-to six-month-old infants on the Thailand-Myanmar border.
 38405969	Development of subunit selective proteasome substrates for Schistosoma species.
-38405848	Chromatin structure and var2csa - a tango in regulation of var gene expression in the human malaria parasite, Plasmodium falciparum ?
+38405848	Chromatin structure and var2csa - a tango in regulation of var gene expression in the human malaria parasite, Plasmodium falciparum?
 38405843	Nuclear pore complexes undergo Nup221 exchange during blood stage asexual replication of Plasmodium parasites.
 38404582	Cytokine gene polymorphisms implicated in the pathogenesis of Plasmodium falciparum infection outcome.
 38404581	Identification of conserved cross-species B-cell linear epitopes in human malaria: a subtractive proteomics and immuno-informatics approach targeting merozoite stage proteins.
@@ -9990,10 +9997,3 @@
 35031571	De novo mutation rates at the single-mutation resolution in a human HBB gene region associated with adaptation and genetic disease.
 35031509	Emerging role of γδ T cells in protozoan infection and their potential clinical application.
 35031386	Alteration of the expression of sirtuins and var genes by heat shock in the malaria parasite Plasmodium falciparum.
-35030215	Evaluation of a parasite-density based pooled targeted amplicon deep sequencing (TADS) method for molecular surveillance of Plasmodium falciparum drug resistance genes in Haiti.
-35030201	Evidence of pyrethroid resistance in Anopheles amharicus and Anopheles arabiensis from Arjo-Didessa irrigation scheme, Ethiopia.
-35030048	Pyrethroid Resistance Intensity in Anopheles gambiae s.l. from Different Agricultural Production Zones in Benin, West Africa.
-35029122	Willingness to pay for a hypothetical malaria vaccine in Brazil: a cross-sectional study and the implications.
-35029010	Aetiologies of acute undifferentiated febrile illness at the emergency ward of the University of Gondar Hospital, Ethiopia.
-35028628	Pyronaridine-artesunate or dihydroartemisinin-piperaquine combined with single low-dose primaquine to prevent Plasmodium falciparum malaria transmission in Ouélessébougou, Mali: a four-arm, single-blind, phase 2/3, randomised trial.
-35028230	Spontaneous Splenic Rupture in Malaria Patients: Two Case Reports.
