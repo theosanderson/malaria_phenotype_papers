@@ -1,3 +1,5 @@
+38437566	Reply to Kaestner et al.: Pioneering quantitative platforms for stored red blood cell assessment open the door for precision transfusion medicine.
+38437239	Structure-guided design of VAR2CSA-based immunogens and a cocktail strategy for a placental malaria vaccine.
 38435417	Factors associated with acute watery diarrhea among children aged 0-59 months in Obongi District, Uganda, April 2022: A case-control study.
 38435356	Human-driven global nutrient imbalances increase risks to health.
 38434927	Magnitude, Associated Factors and Morphological Types of Anemia Among Hospitalized 6-59 Months Age Children at Jimma Medical Center, Southwest Ethiopia - A Hospital-Based Cross-Sectional Study.
@@ -9995,5 +9997,3 @@
 35032948	MMV560185 from pathogen box induces extrinsic pathway of apoptosis in Theileria annulata infected bovine leucocytes.
 35031601	Preimmunization correlates of protection shared across malaria vaccine trials in adults.
 35031571	De novo mutation rates at the single-mutation resolution in a human HBB gene region associated with adaptation and genetic disease.
-35031509	Emerging role of γδ T cells in protozoan infection and their potential clinical application.
-35031386	Alteration of the expression of sirtuins and var genes by heat shock in the malaria parasite Plasmodium falciparum.
