@@ -1,3 +1,5 @@
+38441731	Malaria vaccine efficacy, safety, and community perception in Africa: a scoping review of recent empirical studies.
+38441336	Functional and immunological mapping of domains of the reticulocyte binding protein, Plasmodium vivax PvRBP2a.
 38440935	Molecular modelling approaches can reveal the Molecular interactions established between antimalarial targets of hemozoin pathway and the organic phytochemicals of Artocarpus species.
 38440764	Increase of Plasmodium falciparum parasites carrying lumefantrine-tolerance molecular markers and lack of South East Asian pfk13 artemisinin-resistance mutations in samples collected from 2013 to 2016 in Côte d'Ivoire.
 38440360	Age-specific malaria vulnerability and transmission reservoir among children.
@@ -9995,5 +9997,3 @@
 35038160	Deduction and exploration of the evolution and function of vertebrate GFPT family.
 35037831	Inflammatory activation and immune cell infiltration are main biological characteristics of SARS-CoV-2 infected myocardium.
 35037519	Anti-plasmodial, Cytotoxic and Antioxidant Activities of Selected Ghanaian Medicinal Plants.
-35037448	Prevalence of Molecular Markers of Plasmodium Falciparum Resistance to Proguanil and Pyrimethamine in Children with Haemoglobin Phenotypes SS and AA in Benin City, Nigeria.
-35036920	Automated detection and staging of malaria parasites from cytological smears using convolutional neural networks.
