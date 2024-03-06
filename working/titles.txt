@@ -1,3 +1,4 @@
+38442424	Previous Malaria Exposures and Immune Dysregulation: Developing Strategies To Improve Malaria Vaccine Efficacy in Young Children.
 38441731	Malaria vaccine efficacy, safety, and community perception in Africa: a scoping review of recent empirical studies.
 38441336	Functional and immunological mapping of domains of the reticulocyte binding protein, Plasmodium vivax PvRBP2a.
 38440935	Molecular modelling approaches can reveal the Molecular interactions established between antimalarial targets of hemozoin pathway and the organic phytochemicals of Artocarpus species.
@@ -374,7 +375,7 @@
 38321459	Assessing availability, prices, and market share of quality-assured malaria ACT and RDT in the private retail sector in Nigeria and Uganda.
 38321292	Emergence, transmission dynamics and mechanisms of artemisinin partial resistance in malaria parasites in Africa.
 38321047	Skin muscle is the initial site of viral replication for arboviral bunyavirus infection.
-38320315	Outreach, Training, and Supportive Supervision: A Package of Strategies That Improves the Quality of Malaria Services and Provides a Model for Monitoring and Evaluating Their Effective Implementation.
+38320315	Outreach Training and Supportive Supervision: A Package of Strategies That Improves the Quality of Malaria Services and Provides a Model for Monitoring and Evaluating Their Effective Implementation.
 38320314	Outreach Training and Supportive Supervision for Quality Malaria Service Delivery: A Qualitative Evaluation in 11 Sub-Saharan African Countries.
 38320312	How Outreach Training and Supportive Supervision (OTSS) Affect Health Facility Readiness and Health-Care Worker Competency to Prevent and Treat Malaria in Niger: A Secondary Analysis of OTSS Data.
 38320309	Understanding Antenatal Care Service Quality for Malaria in Pregnancy through Supportive Supervision Data in Tanzania.
@@ -9996,4 +9997,3 @@
 35038163	Indoor residual spraying for preventing malaria in communities using insecticide-treated nets.
 35038160	Deduction and exploration of the evolution and function of vertebrate GFPT family.
 35037831	Inflammatory activation and immune cell infiltration are main biological characteristics of SARS-CoV-2 infected myocardium.
-35037519	Anti-plasmodial, Cytotoxic and Antioxidant Activities of Selected Ghanaian Medicinal Plants.
