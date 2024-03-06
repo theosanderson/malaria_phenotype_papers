@@ -1,3 +1,11 @@
+38445294	Identification of putative promoter elements for epsilon glutathione s-transferases genes associated with resistance to DDT in the malaria vector mosquito anopheles arabiensis.
+38444984	Is Anopheles gambiae (sensu stricto), the principal malaria vector in Africa prone to resistance development against new insecticides? Outcomes from laboratory exposure of An. gambiae (s.s.) to sub-lethal concentrations of chlorfenapyr and clothianidin.
+38444799	Prevalence of polymorphisms in marker genes associated with antimalarial drug resistance in Plasmodium falciparum following 10 years of artemisinin-based combination therapy implementation in urban Kolkata.
+38444798	Artificial intelligence in parasitic disease control: A paradigm shift in health care.
+38444796	Antimalarial prophylaxis failure: Malaria in a returning traveler despite mefloquine prophylaxis.
+38444788	Comparative evaluation of traditional and molecular diagnostic methods for malaria: An analysis of performance.
+38444515	Malaria prevalence in Commune 5 in Tumaco (Nariño, Colombia).
+38444334	Energy input, habitat heterogeneity and host specificity drive avian haemosporidian diversity at continental scales.
 38443984	The impact of agrochemical pollutant mixtures on the selection of insecticide resistance in the malaria vector Anopheles gambiae: insights from experimental evolution and transcriptomics.
 38443974	Development of innovative tripartite partnership for China's engagement in global health: recommendations from China-Tanzania Cooperation Project on Malaria Control.
 38443939	Evaluating the performance of Plasmodium falciparum genetic metrics for inferring National Malaria Control Programme reported incidence in Senegal.
@@ -9989,11 +9997,3 @@
 35042432	Higher risk of COVID-19 infection among internally displaced persons (IDPs) in Myanmar under the military coup.
 35042410	Parasite co-infection: an ecological, molecular and experimental perspective.
 35042143	Quantitative (1)H NMR method for analyzing primaquine diphosphate in active pharmaceutical ingredients.
-35041968	TSS-seq of Toxoplasma gondii sporozoites revealed a novel motif in stage-specific promoters.
-35041939	A potent HDAC inhibitor blocks Toxoplasma gondii tachyzoite growth and profoundly disrupts parasite gene expression.
-35041650	Clinical impact of vivax malaria: A collection review.
-35040553	Tandem Thio-Michael Addition/Remote Lactone Activation of 5-Hydroxymethylfurfural-Derived δ-Lactone-Fused Cyclopentenones.
-35040473	Causes of fever in returning travelers: a European multicenter prospective cohort study.
-35040394	Antimalarial Hemozoin Inhibitors (β-Hematin Formation Inhibition): Latest Updates.
-35040004	Effects of dihydroartemisinin, a metabolite of artemisinin, on colon cancer chemoprevention and adaptive immune regulation.
-35039519	Distinct kinetics of antibodies to 111 Plasmodium falciparum proteins identifies markers of recent malaria exposure.
