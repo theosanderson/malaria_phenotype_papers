@@ -1,3 +1,5 @@
+38446423	A Biotinylated cpFIT-PNA Platform for the Facile Detection of Drug Resistance to Artemisinin in Plasmodium falciparum.
+38446268	Nanoparticles-mediated entomotoxicology: lessons from biologica.
 38445294	Identification of putative promoter elements for epsilon glutathione s-transferases genes associated with resistance to DDT in the malaria vector mosquito anopheles arabiensis.
 38444984	Is Anopheles gambiae (sensu stricto), the principal malaria vector in Africa prone to resistance development against new insecticides? Outcomes from laboratory exposure of An. gambiae (s.s.) to sub-lethal concentrations of chlorfenapyr and clothianidin.
 38444799	Prevalence of polymorphisms in marker genes associated with antimalarial drug resistance in Plasmodium falciparum following 10 years of artemisinin-based combination therapy implementation in urban Kolkata.
@@ -9995,5 +9997,3 @@
 35042884	Repurposing the Pathogen Box compounds for identification of potent anti-malarials against blood stages of Plasmodium falciparum with PfUCHL3 inhibitory activity.
 35042879	Plasmodium falciparum genomic surveillance reveals spatial and temporal trends, association of genetic and physical distance, and household clustering.
 35042432	Higher risk of COVID-19 infection among internally displaced persons (IDPs) in Myanmar under the military coup.
-35042410	Parasite co-infection: an ecological, molecular and experimental perspective.
-35042143	Quantitative (1)H NMR method for analyzing primaquine diphosphate in active pharmaceutical ingredients.
