@@ -1,3 +1,4 @@
+38447189	Ganglioside GM1 Drives Hemin and Protoporphyrin Adsorption in Phospholipid Membranes: A Structural Study.
 38446423	A Biotinylated cpFIT-PNA Platform for the Facile Detection of Drug Resistance to Artemisinin in Plasmodium falciparum.
 38446268	Nanoparticles-mediated entomotoxicology: lessons from biologica.
 38445294	Identification of putative promoter elements for epsilon glutathione s-transferases genes associated with resistance to DDT in the malaria vector mosquito anopheles arabiensis.
@@ -9996,4 +9997,3 @@
 35043209	Vector Competence and the Susceptibility of Anopheles pullus and Anopheles belenrae to Plasmodium vivax-Infected Blood From Thai Patients.
 35042884	Repurposing the Pathogen Box compounds for identification of potent anti-malarials against blood stages of Plasmodium falciparum with PfUCHL3 inhibitory activity.
 35042879	Plasmodium falciparum genomic surveillance reveals spatial and temporal trends, association of genetic and physical distance, and household clustering.
-35042432	Higher risk of COVID-19 infection among internally displaced persons (IDPs) in Myanmar under the military coup.
