@@ -1,11 +1,15 @@
-38448147	Parasites in ancient Egypt and Nubia: Malaria, schistosomiasis and the pharaohs.
-38447526	Itaconate boosts malaria via induction of PD-L1.
-38447332	Modified peptides and organic metabolites of cyanobacterial origin with antiplasmodial properties.
+38449588	Advancing Malaria Vaccination in Africa: Cameroon's Pioneering Effort and the Path Forward.
+38449369	A Dangerous Relationship: A Case of Imported Plasmodium falciparum and Salmonella Typhi Coinfection.
+38449360	Investigation of Sensitivity of Rapid Diagnosis Tests in Patients with Suspected Malaria.
+38449104	Phytochemical profiling of Striga asiatica; characterisation and anti-microbial assessment of the isolates.
 38449059	Characterization of environmental drivers influencing the abundance of Anopheles maculipennis complex in Northern Italy.
 38448968	Molecular and entomological surveillance of malaria vectors in urban and rural communities of Benguela Province, Angola.
 38448908	Differentiated adaptative genetic architecture and language-related demographical history in South China inferred from 619 genomes from 56 populations.
 38448421	Gene expression analyses reveal differences in children's response to malaria according to their age.
 38448321	Non-clinical toxicity and immunogenicity evaluation of a Plasmodium vivax malaria vaccine using Poly-ICLC (Hiltonol®) as adjuvant.
+38448147	Parasites in ancient Egypt and Nubia: Malaria, schistosomiasis and the pharaohs.
+38447526	Itaconate boosts malaria via induction of PD-L1.
+38447332	Modified peptides and organic metabolites of cyanobacterial origin with antiplasmodial properties.
 38447189	Ganglioside GM1 Drives Hemin and Protoporphyrin Adsorption in Phospholipid Membranes: A Structural Study.
 38446423	A Biotinylated cpFIT-PNA Platform for the Facile Detection of Drug Resistance to Artemisinin in Plasmodium falciparum.
 38446268	Nanoparticles-mediated entomotoxicology: lessons from biologica.
@@ -9993,7 +9997,3 @@
 35047218	A retrospective case study of successful translational research: Gazelle Hb variant point-of-care diagnostic device for sickle cell disease.
 35046734	Antimalarial Activity of Solvent Fractions of the Stem Bark of Periploca linearifolia Quart.-Dill. & A.Rich. (Asclepiadaceae) Against Plasmodium berghei in Mice.
 35046454	A decade of travel-associated malaria at King Fahad Hospital of the University in the Eastern Province of Saudi Arabia.
-35045848	Schistosomiasis, soil transmitted helminthiasis, and malaria co-infections among women of reproductive age in rural communities of Kwale County, coastal Kenya.
-35045422	Prevalence and Risk Factors Associated with Epilepsy in Six Health Districts of Mali: A Community-Based Cross-Sectional and Nested Case-Control Study.
-35045119	Effect of adverse events on non-adherence and study non-completion in malaria chemoprevention during pregnancy trial: A nested case control study.
-35044908	Both consumptive and non-consumptive effects of predators impact mosquito populations and have implications for disease transmission.
