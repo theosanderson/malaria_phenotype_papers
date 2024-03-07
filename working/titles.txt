@@ -1,3 +1,5 @@
+38451383	Viral hepatitis-induced acute liver failure.
+38451073	A man in his sixties with life-threatening febrile illness after travel abroad.
 38449588	Advancing Malaria Vaccination in Africa: Cameroon's Pioneering Effort and the Path Forward.
 38449369	A Dangerous Relationship: A Case of Imported Plasmodium falciparum and Salmonella Typhi Coinfection.
 38449360	Investigation of Sensitivity of Rapid Diagnosis Tests in Patients with Suspected Malaria.
@@ -9995,5 +9997,3 @@
 35047638	Adult Anopheles Mosquito Distribution at a Low and High Malaria Transmission Site in Tanzania.
 35047420	An Integrative Sialomic Analysis Reveals Molecules From Triatoma sordida (Hemiptera: Reduviidae).
 35047218	A retrospective case study of successful translational research: Gazelle Hb variant point-of-care diagnostic device for sickle cell disease.
-35046734	Antimalarial Activity of Solvent Fractions of the Stem Bark of Periploca linearifolia Quart.-Dill. & A.Rich. (Asclepiadaceae) Against Plasmodium berghei in Mice.
-35046454	A decade of travel-associated malaria at King Fahad Hospital of the University in the Eastern Province of Saudi Arabia.
