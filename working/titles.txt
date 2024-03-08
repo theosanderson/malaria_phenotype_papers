@@ -1,3 +1,4 @@
+38456679	Cryogenic electron tomography reveals novel structures in the apical complex of Plasmodium falciparum.
 38456216	Green cities and vector-borne diseases: emerging concerns and opportunities.
 38456097	Quercetin as a Promising Antiprotozoan Phytochemical: Current Knowledge and Future Research Avenues.
 38456076	Putative molecular markers of Plasmodium falciparum resistance to antimalarial drugs in malaria parasites from Ghana.
@@ -11,7 +12,6 @@
 38455628	Grasp of dihydroartemisinin resistance in Indonesia: Focused on genetic polymorphisms and new antimalarial.
 38455618	Designing hybrid CRISPR-Cas12 and LAMP detection systems for treatment-resistant Plasmodium falciparum with in silico method.
 38455613	Treatment-seeking behavior for malaria among communities in Indonesia: A systematic review.
-38455307	Breaking the cycle of malaria treatment failure.
 38454517	Behavioral responses and life history traits of Taiwanese and Indonesian populations of Aedes aegypti surviving deltamethrin-clothianidin treatment.
 38454494	The frequency of kdr and ace-1 alleles in Anopheles gambiae s.l. before and during indoor residual spraying (IRS) implementation and four years after IRS withdrawal in three districts in Atacora, Benin.
 38454320	Tamarind genus chemical composition and biological activities.
@@ -5641,6 +5641,7 @@
 36515978	A coordinated transcriptional switching network mediates antigenic variation of human malaria parasites.
 36515553	Patterns of Heterochromatin Transitions Linked to Changes in the Expression of Plasmodium falciparum Clonally Variant Genes.
 36515128	Development of Mitochondria Targeting AIE-Active Cyclometalated Iridium Complexes as Potent Antimalarial Agents.
+38455307	Breaking the cycle of malaria treatment failure.
 36514171	Using social media for health education and promotion: a pilot of WeChat-based prize quizzes on China national malaria day.
 36514125	Molecular characterization and genetic authentication assay for Anopheles 'hemocyte-like' cell lines 4a-3A and 4a-3B.
 36513700	Overexpression of hepatocyte EphA2 enhances liver-stage infection by Plasmodium vivax.
@@ -9996,4 +9997,3 @@
 35061819	Assessing fetal growth in Africa: Application of the international WHO and INTERGROWTH-21st standards in a Beninese pregnancy cohort.
 35060875	[To stick or not to stick: A Plasmodium falciparum adaptive strategy to persist during the dry season].
 35060479	Transcriptional correlates of malaria in RTS,S/AS01-vaccinated African children: a matched case-control study.
-35060277	Back to the future: lethal respiratory pandemics in New Guinea.
