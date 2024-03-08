@@ -1,3 +1,4 @@
+38451924	Role for gene conversion in the evolution of cell-surface antigens of the malaria parasite Plasmodium falciparum.
 38451383	Viral hepatitis-induced acute liver failure.
 38451073	A man in his sixties with life-threatening febrile illness after travel abroad.
 38449588	Advancing Malaria Vaccination in Africa: Cameroon's Pioneering Effort and the Path Forward.
@@ -9996,4 +9997,3 @@
 35047726	THE USE OF ARCHIVED GIEMSA-STAINED BLOOD SMEARS AND RDT FOR PCR-BASED GENOTYPING OF Plasmodium vivax MEROZOITE SURFACE PROTEIN-1 IN CENTRAL KALIMANTAN PROVINCE, INDONESIA.
 35047638	Adult Anopheles Mosquito Distribution at a Low and High Malaria Transmission Site in Tanzania.
 35047420	An Integrative Sialomic Analysis Reveals Molecules From Triatoma sordida (Hemiptera: Reduviidae).
-35047218	A retrospective case study of successful translational research: Gazelle Hb variant point-of-care diagnostic device for sickle cell disease.
