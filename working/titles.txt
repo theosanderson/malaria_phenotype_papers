@@ -1,3 +1,8 @@
+38459581	Heterogeneity in the prevalence of subclinical malaria, other co-infections and anemia among pregnant women in rural areas of Myanmar: a community-based longitudinal study.
+38459560	RNAscope in situ hybridization reveals microvascular sequestration of Plasmodium relictum pSGS1 blood stages but absence of exo-erythrocytic dormant stages during latent infection of Serinus canaria.
+38459499	Predictors of birth weight in pregnant women with malaria: a prospective cohort facility-based study in Webuye-Kenya.
+38459096	Enhancing parasitic organism detection in microscopy images through deep learning and fine-tuned optimizer.
+38458223	Uncovering HIV and malaria interactions: the latest evidence and knowledge gaps.
 38457638	Diagnostic challenges of recurrent malaria in non-endemic areas.
 38457636	Dihydroartemisinin-piperaquine treatment failure of uncomplicated plasmodium falciparum malaria infection in a traveller.
 38456679	Cryogenic electron tomography reveals novel structures in the apical complex of Plasmodium falciparum.
@@ -9992,8 +9997,3 @@
 35063657	E3 ubiquitin ligase RNF123-deficient mice exhibit reduced parasitemia and mortality in rodent malaria (Plasmodium yoelii 17XL) infection.
 35063103	Challenges on the road to achieving the SDG 3.2 targets in resource-limited settings.
 35062966	Global research activity on mathematical modeling of transmission and control of 23 selected infectious disease outbreak.
-35062952	Gender difference in the incidence of malaria diagnosed at public health facilities in Uganda.
-35062785	Immunoprofiling Identifies Functional B and T Cell Subsets Induced by an Attenuated Whole Parasite Malaria Vaccine as Correlates of Sterile Immunity.
-35062784	Harnessing Mycobacterium bovis BCG Trained Immunity to Control Human and Bovine Babesiosis.
-35062336	Molecular Epidemiology of Rotavirus Strains in Symptomatic and Asymptomatic Children in Manhiça District, Southern Mozambique 2008-2019.
-35061819	Assessing fetal growth in Africa: Application of the international WHO and INTERGROWTH-21st standards in a Beninese pregnancy cohort.
