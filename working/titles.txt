@@ -1,3 +1,5 @@
+38457638	Diagnostic challenges of recurrent malaria in non-endemic areas.
+38457636	Dihydroartemisinin-piperaquine treatment failure of uncomplicated plasmodium falciparum malaria infection in a traveller.
 38456679	Cryogenic electron tomography reveals novel structures in the apical complex of Plasmodium falciparum.
 38456216	Green cities and vector-borne diseases: emerging concerns and opportunities.
 38456097	Quercetin as a Promising Antiprotozoan Phytochemical: Current Knowledge and Future Research Avenues.
@@ -9995,5 +9997,3 @@
 35062784	Harnessing Mycobacterium bovis BCG Trained Immunity to Control Human and Bovine Babesiosis.
 35062336	Molecular Epidemiology of Rotavirus Strains in Symptomatic and Asymptomatic Children in Manhiça District, Southern Mozambique 2008-2019.
 35061819	Assessing fetal growth in Africa: Application of the international WHO and INTERGROWTH-21st standards in a Beninese pregnancy cohort.
-35060875	[To stick or not to stick: A Plasmodium falciparum adaptive strategy to persist during the dry season].
-35060479	Transcriptional correlates of malaria in RTS,S/AS01-vaccinated African children: a matched case-control study.
