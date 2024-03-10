@@ -1,10 +1,11 @@
+38461372	Alterations of Lacrimal Sac Microbiota in Failed Dacryocystorhinostomy: The Lacriome Paper 6.
 38461329	Quality assessment of malaria microscopic diagnosis at the Aristide Le Dantec University Hospital of Dakar, Senegal, in 2020.
 38461305	On the feasibility of malaria hypothesis.
 38461239	Trends of Plasmodium falciparum molecular markers associated with resistance to artemisinins and reduced susceptibility to lumefantrine in Mainland Tanzania from 2016 to 2021.
 38461146	Physical integrity and bioefficacy of used long-lasting insecticidal nets in Makenene, Centre Region of Cameroon.
-38460299	Evaluation of different types of adjuvants in a malaria transmission-blocking vaccine.
 38460721	Sympatry in a nightingale contact zone has no effect on host-specific blood parasite prevalence and lineage diversity.
 38460641	Understanding the complex formation of falstatin; an endogenous macromolecular inhibitor of falcipains.
+38460299	Evaluation of different types of adjuvants in a malaria transmission-blocking vaccine.
 38459581	Heterogeneity in the prevalence of subclinical malaria, other co-infections and anemia among pregnant women in rural areas of Myanmar: a community-based longitudinal study.
 38459560	RNAscope in situ hybridization reveals microvascular sequestration of Plasmodium relictum pSGS1 blood stages but absence of exo-erythrocytic dormant stages during latent infection of Serinus canaria.
 38459499	Predictors of birth weight in pregnant women with malaria: a prospective cohort facility-based study in Webuye-Kenya.
@@ -9996,4 +9997,3 @@
 35065622	Factors associated with the use of deworming drugs during pregnancy in Tanzania; an analysis from the 2015-16 Tanzanian HIV and malaria indicators survey.
 35065613	Low incidence of COVID-19 case severity and mortality in Africa; Could malaria co-infection provide the missing link?
 35064966	Determinants of the use of insecticide-treated mosquito nets in pregnant women: a mixed-methods study in Ghana.
-35064444	Systematic review on the application of machine learning to quantitative structure-activity relationship modeling against Plasmodium falciparum.
