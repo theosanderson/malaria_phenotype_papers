@@ -1,3 +1,14 @@
+38465236	Characterization of merozoite-specific thrombospondin-related anonymous protein (MTRAP) in Plasmodium vivax and P. knowlesi parasites.
+38464937	An Optimized P. berghei Liver Stage-HepG2 Infection Model for Simultaneous Quantitative Bioimaging of Host and Parasite Nascent Proteomes.
+38464900	Practice patterns in pediatric infectious encephalopathy in four centers in Africa.
+38464321	Prevalence and risk factors of gross neurologic deficits in children after severe malaria: a systematic review protocol.
+38464281	PfCAP-H is essential for assembly of condensin I complex and karyokinesis during asexual proliferation of Plasmodium falciparum.
+38464220	Bicyclic pyrrolidine inhibitors of Toxoplasma gondii phenylalanine t-RNA synthetase with antiparasitic potency in vitro and brain exposure.
+38464169	Genomic surveillance of malaria parasites in an indigenous community in the Peruvian Amazon.
+38464038	Non-Coding RNAs Potentially Involved in Pyrethroid Resistance of Anopheles funestus Population in Western Kenya.
+38463971	Selective Bias Virtual Screening for Discovery of Promising Antimalarial Candidates targeting Plasmodium N-Myristoyltransferase.
+38463810	Evaluation of packaging, labels, and some physicochemical properties of herbal antimalarial products on the Ghanaian market.
+38463717	Does food biodiversity protect against malnutrition and favour the resilience to climate change-related events in Amazon Indigenous communities? A protocol for a mixed methods study.
 38461835	Delivering health for all: the critical role of gender-responsive health systems.
 38461372	Alterations of Lacrimal Sac Microbiota in Failed Dacryocystorhinostomy: The Lacriome Paper 6.
 38461329	Quality assessment of malaria microscopic diagnosis at the Aristide Le Dantec University Hospital of Dakar, Senegal, in 2020.
@@ -9986,14 +9997,3 @@
 35071798	Detection of SARS-CoV-2 variant 501Y.V2 in Comoros Islands in January 2021.
 35071390	Next-Generation Technologies and Systems Biology for the Design of Novel Vaccines Against Apicomplexan Parasites.
 35071043	The Structural Basis of Babesia orientalis Lactate Dehydrogenase.
-35071030	Genetic Diversity and Selection of Plasmodium vivax Apical Membrane Antigen-1 in China-Myanmar Border of Yunnan Province, China, 2009-2016.
-35070549	Disseminated Intravascular Coagulation Due to Drinking Tonic Water.
-35069511	Cytoadherence Properties of Plasmodium knowlesi-Infected Erythrocytes.
-35069184	The Effect of Artemisinin-Based Drugs vs Non-artemisinin-based Drugs on Gametophyte Carrying in the Body After the Treatment of Uncomplicated Falciparum Malaria: A Systematic Review and Meta-analysis.
-35068664	Insights on Epidemiology, Pathogenesis, Diagnosis and Possible Treatment of COVID-19 Infection.
-35066068	Brusatol inhibits the growth of renal cell carcinoma by regulating the PTEN/PI3K/AKT pathway.
-35065882	Revisiting the malaria hypothesis: accounting for polygenicity and pleiotropy.
-35065707	Optimising the deployment of vector control tools against malaria: a data-informed modelling study.
-35065622	Factors associated with the use of deworming drugs during pregnancy in Tanzania; an analysis from the 2015-16 Tanzanian HIV and malaria indicators survey.
-35065613	Low incidence of COVID-19 case severity and mortality in Africa; Could malaria co-infection provide the missing link?
-35064966	Determinants of the use of insecticide-treated mosquito nets in pregnant women: a mixed-methods study in Ghana.
