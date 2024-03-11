@@ -8,7 +8,6 @@
 38464038	Non-Coding RNAs Potentially Involved in Pyrethroid Resistance of Anopheles funestus Population in Western Kenya.
 38463971	Selective Bias Virtual Screening for Discovery of Promising Antimalarial Candidates targeting Plasmodium N-Myristoyltransferase.
 38463810	Evaluation of packaging, labels, and some physicochemical properties of herbal antimalarial products on the Ghanaian market.
-38463717	Does food biodiversity protect against malnutrition and favour the resilience to climate change-related events in Amazon Indigenous communities? A protocol for a mixed methods study.
 38461835	Delivering health for all: the critical role of gender-responsive health systems.
 38461372	Alterations of Lacrimal Sac Microbiota in Failed Dacryocystorhinostomy: The Lacriome Paper 6.
 38461329	Quality assessment of malaria microscopic diagnosis at the Aristide Le Dantec University Hospital of Dakar, Senegal, in 2020.
@@ -6628,6 +6627,7 @@
 36193631	Kinetic Characterization and Inhibition of Trypanosoma cruzi Hypoxanthine-Guanine Phosphoribosyltransferases.
 36193319	The Role of Community Participation in Planning and Executing Malaria Interventions: Experience from Implementation of Biolarviciding for Malaria Vector Control in Southern Tanzania.
 36193307	Identification of Novel miRNAs, Targeting Genes, Signaling Pathway, and the Small Molecule for Overcoming Oxaliplatin Resistance of Metastatic Colorectal Cancer.
+38463717	Does food biodiversity protect against malnutrition and favour the resilience to climate change-related events in Amazon Indigenous communities? A protocol for a mixed methods study.
 36192774	Proactive community case management decreased malaria prevalence in rural Madagascar: results from a cluster randomized trial.
 36192733	Sero-prevalence of malaria and the knowledge, attitudes and practices relating to the prevention of malaria among indigenous people living in the central forest spine in Peninsular Malaysia: a mixed-methods study.
 36192672	Clinical malaria incidence and health seeking pattern in geographically heterogeneous landscape of western Kenya.
