@@ -1,3 +1,4 @@
+38461835	Delivering health for all: the critical role of gender-responsive health systems.
 38461372	Alterations of Lacrimal Sac Microbiota in Failed Dacryocystorhinostomy: The Lacriome Paper 6.
 38461329	Quality assessment of malaria microscopic diagnosis at the Aristide Le Dantec University Hospital of Dakar, Senegal, in 2020.
 38461305	On the feasibility of malaria hypothesis.
@@ -192,7 +193,6 @@
 38404581	Identification of conserved cross-species B-cell linear epitopes in human malaria: a subtractive proteomics and immuno-informatics approach targeting merozoite stage proteins.
 38404287	Mutation in the 26S proteasome regulatory subunit rpn2 gene in Plasmodium falciparum confers resistance to artemisinin.
 38404090	Aerobic Bacterial Contamination In Platelet Concentrates At The Regional Blood Centre, Peshawar.
-38402953	Identification of gaps in the performance of routine microscopy for the diagnosis of parasitic infections revealed by the Dutch laboratory quality assessment scheme.
 38402756	Clinical description of dengue and chikungunya virus infections amongst acute febrile patients in a malaria endemic area of Mfou, the Centre region of Cameroon.
 38401759	A malaria elimination milestone reached on Mayotte Island.
 38401561	Climate change recognised in World malaria report 2023.
