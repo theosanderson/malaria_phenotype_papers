@@ -1,3 +1,4 @@
+38466648	Effect of a mother-baby delivery pack on institutional deliveries: A community intervention trial to address maternal mortality in rural Zambia.
 38465236	Characterization of merozoite-specific thrombospondin-related anonymous protein (MTRAP) in Plasmodium vivax and P. knowlesi parasites.
 38464937	An Optimized P. berghei Liver Stage-HepG2 Infection Model for Simultaneous Quantitative Bioimaging of Host and Parasite Nascent Proteomes.
 38464900	Practice patterns in pediatric infectious encephalopathy in four centers in Africa.
@@ -9996,4 +9997,3 @@
 35071802	Ingestion of hemozoin by peripheral blood mononuclear cells alters temporal gene expression of ubiquitination processes.
 35071798	Detection of SARS-CoV-2 variant 501Y.V2 in Comoros Islands in January 2021.
 35071390	Next-Generation Technologies and Systems Biology for the Design of Novel Vaccines Against Apicomplexan Parasites.
-35071043	The Structural Basis of Babesia orientalis Lactate Dehydrogenase.
