@@ -1,3 +1,8 @@
+38468520	Antimalarial Effects of Nano Chloroquine Loaded Curcumin In vivo.
+38468296	Factors affecting delays in seeking treatment among malaria patients during the pre-certification phase in China.
+38468292	First report of natural infection of Anopheles gambiae s.s. and Anopheles coluzzii by Wolbachia and Microsporidia in Benin: a cross-sectional study.
+38468243	Prevention of malaria in pregnancy through health education intervention programs on insecticide-treated nets use: a systematic review.
+38468205	Distribution patterns of molecular markers of antimalarial drug resistance in Plasmodium falciparum isolates on the Thai-Myanmar border during the periods of 1993-1998 and 2002-2008.
 38466648	Effect of a mother-baby delivery pack on institutional deliveries: A community intervention trial to address maternal mortality in rural Zambia.
 38465236	Characterization of merozoite-specific thrombospondin-related anonymous protein (MTRAP) in Plasmodium vivax and P. knowlesi parasites.
 38464937	An Optimized P. berghei Liver Stage-HepG2 Infection Model for Simultaneous Quantitative Bioimaging of Host and Parasite Nascent Proteomes.
@@ -382,7 +387,7 @@
 38349159	Effect of the aggregated protein dye YAT2150 on Leishmania parasite viability.
 38348378	Utilization of long-lasting insecticide-treated net and its associated factors among pregnant women in Dawo district, Southwest Shoa Zone, Oromia, Ethiopia, 2023.
 38348216	Upsurge in cases of travellers' malaria ex Zanzibar indicates that malaria is on the rebound in the archipelago.
-38347721	Malaria in Pregnancy: Meta-Analyses of Prevalence and Associated Complications.
+38347721	Malaria in pregnancy: Meta-analyses of prevalence and associated complications.
 38347633	Evaluation of the malaria elimination programme in Muara Enim Regency: a qualitative study from Indonesia.
 38347549	Epigenetic regulation as a therapeutic target in the malaria parasite Plasmodium falciparum.
 38347490	Towards an intelligent malaria outbreak warning model based intelligent malaria outbreak warning in the northern part of Benin, West Africa.
@@ -9992,8 +9997,3 @@
 35073748	Identification of Key Determinants of Cerebral Malaria Development and Inhibition Pathways.
 35073674	[Performance evaluation and validation of automated digital image analysis in peripheral blood cells morphology examination].
 35073454	The roadmap to micro: Generation of micron-sized polymeric particles using a commercial microfluidic system.
-35073324	Expression of pyrethroid metabolizing P450 enzymes characterizes highly resistant Anopheles vector species targeted by successful deployment of PBO-treated bednets in Tanzania.
-35072524	Structure and Function of Redox-Sensitive Superfolder Green Fluorescent Protein Variant.
-35071802	Ingestion of hemozoin by peripheral blood mononuclear cells alters temporal gene expression of ubiquitination processes.
-35071798	Detection of SARS-CoV-2 variant 501Y.V2 in Comoros Islands in January 2021.
-35071390	Next-Generation Technologies and Systems Biology for the Design of Novel Vaccines Against Apicomplexan Parasites.
