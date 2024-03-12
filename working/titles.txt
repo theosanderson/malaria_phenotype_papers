@@ -1,3 +1,6 @@
+38470296	Presence of anti-RBC antibodies correlates with parasitaemia and once-infected RBCs but not the extent of post-malaria haemolysis.
+38470053	Plasmodium falciparum selectively degrades α-spectrin of infected erythrocytes after invasion.
+38469856	Scientism, trust, value alignment, views of nature, and U.S. public opinion about gene drive mosquitos.
 38468520	Antimalarial Effects of Nano Chloroquine Loaded Curcumin In vivo.
 38468296	Factors affecting delays in seeking treatment among malaria patients during the pre-certification phase in China.
 38468292	First report of natural infection of Anopheles gambiae s.s. and Anopheles coluzzii by Wolbachia and Microsporidia in Benin: a cross-sectional study.
@@ -9994,6 +9997,3 @@
 35073864	Controlled human malaria infection (CHMI) outcomes in Kenyan adults is associated with prior history of malaria exposure and anti-schizont antibody response.
 35073845	Varia: a tool for prediction, analysis and visualisation of variable genes.
 35073756	Assessment of Plasmodium falciparum Artemisinin Resistance Independent of kelch13 Polymorphisms and with Escalating Malaria in Bangladesh.
-35073748	Identification of Key Determinants of Cerebral Malaria Development and Inhibition Pathways.
-35073674	[Performance evaluation and validation of automated digital image analysis in peripheral blood cells morphology examination].
-35073454	The roadmap to micro: Generation of micron-sized polymeric particles using a commercial microfluidic system.
