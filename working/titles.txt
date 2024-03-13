@@ -1,3 +1,13 @@
+38477614	CD4 T Cell-Derived IL-21 Is Critical for Sustaining Plasmodium Infection-Induced Germinal Center Responses and Promoting the Selection of Memory B Cells with Recall Potential.
+38476939	Peptide selection via phage display to inhibit Leishmania-macrophage interactions.
+38476708	Malaria parasitaemia and its impact on biological parameters among children <16 years old attending the Nkwen District Hospital, Cameroon.
+38475922	Natural variables separate the endemic areas of Clonorchis sinensis and Opisthorchis viverrini along a continuous, straight zone in Southeast Asia.
+38475863	The early history of dengue in Australia.
+38475843	Comparing malaria risk exposure in rural Cambodia population using GPS tracking and questionnaires.
+38475793	Malaria transmission heterogeneity in different eco-epidemiological areas of western Kenya: a region-wide observational and risk classification study for adaptive intervention planning.
+38475775	Malaria vaccination: hurdles to reach high-risk children.
+38472520	Host-parasite interaction in severe and uncomplicated malaria infection in ghanaian children.
+38472278	The prevalence of simian malaria in wild long-tailed macaques throughout Peninsular Malaysia.
 38471353	Unveiling potential repurposed drug candidates for Plasmodium falciparum through in silico evaluation: A synergy of structure-based approaches, structure prediction, and molecular dynamics simulations.
 38471168	Mass Testing and Treatment to Accelerate Malaria Elimination: A Systematic Review and Meta-Analysis.
 38471159	Targeted Testing and Treatment To Reduce Human Malaria Transmission in High-Risk Populations: A Systematic Review.
@@ -9987,13 +9997,3 @@
 35076817	Density-functional theory of the catnip molecule, nepetalactone.
 35076009	SARS-CoV-2 Cross-Reactivity in Prepandemic Serum from Rural Malaria-Infected Persons, Cambodia.
 35075686	Methyl benzoate derivatives as inhibitors of pentose phosphate pathway, which promotes cancer progression and drug resistance: An in silico study supported by in vitro results.
-35075191	Cross-border malaria in the triple border region between Brazil, Venezuela and Guyana.
-35075105	Bicyclic azetidines target acute and chronic stages of Toxoplasma gondii by inhibiting parasite phenylalanyl t-RNA synthetase.
-35075003	Artifacts in peripheral smear - A peculiar likeness to Plasmodium falciparum gametocyte.
-35074954	A case of co-infection with malaria and chikungunya in a returning traveler from Nigeria.
-35074952	Diversity of native larvivorous fish fauna during pre- and post-tsunami in Car Nicobar, Andaman & Nicobar Islands, India.
-35074945	Seasonal Diversity of mosquito species in Dakshina Kannada district, Karnataka, India.
-35074306	South American rattlesnake cationic polypeptide crotamine trafficking dynamic in Plasmodium falciparum-infected erythrocytes: Pharmacological inhibitors, parasite cycle and incubation time influences in uptake.
-35074135	Redoubling efforts to sustain seasonal malaria chemoprevention.
-35073934	Analysis of nucleic acids extracted from rapid diagnostic tests reveals a significant proportion of false positive test results associated with recent malaria treatment.
-35073922	Decoquinate liposomes: highly effective clearance of Plasmodium parasites causing severe malaria.
