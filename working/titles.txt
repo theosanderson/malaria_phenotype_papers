@@ -1,3 +1,6 @@
+38471353	Unveiling potential repurposed drug candidates for Plasmodium falciparum through in silico evaluation: A synergy of structure-based approaches, structure prediction, and molecular dynamics simulations.
+38471168	Mass Testing and Treatment to Accelerate Malaria Elimination: A Systematic Review and Meta-Analysis.
+38471159	Targeted Testing and Treatment To Reduce Human Malaria Transmission in High-Risk Populations: A Systematic Review.
 38470296	Presence of anti-RBC antibodies correlates with parasitaemia and once-infected RBCs but not the extent of post-malaria haemolysis.
 38470053	Plasmodium falciparum selectively degrades α-spectrin of infected erythrocytes after invasion.
 38469856	Scientism, trust, value alignment, views of nature, and U.S. public opinion about gene drive mosquitos.
@@ -9994,6 +9997,3 @@
 35074135	Redoubling efforts to sustain seasonal malaria chemoprevention.
 35073934	Analysis of nucleic acids extracted from rapid diagnostic tests reveals a significant proportion of false positive test results associated with recent malaria treatment.
 35073922	Decoquinate liposomes: highly effective clearance of Plasmodium parasites causing severe malaria.
-35073864	Controlled human malaria infection (CHMI) outcomes in Kenyan adults is associated with prior history of malaria exposure and anti-schizont antibody response.
-35073845	Varia: a tool for prediction, analysis and visualisation of variable genes.
-35073756	Assessment of Plasmodium falciparum Artemisinin Resistance Independent of kelch13 Polymorphisms and with Escalating Malaria in Bangladesh.
