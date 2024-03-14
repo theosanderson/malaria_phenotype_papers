@@ -1,3 +1,6 @@
+38479776	Identification and management of co-infections in people with malaria.
+38479748	Understanding and maximising the community impact of seasonal malaria chemoprevention in Burkina Faso (INDIE-SMC): study protocol for a cluster randomised evaluation trial.
+38479483	Novel ether derivatives of 11-azaartemisinins with high order antimalarial activity against multidrug-resistant Plasmodium yoelii in Swiss mice.
 38478562	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
 38478177	Characterization of Plasmodium Falciparum Resistance Genes to Common Antimalarial Drugs in Semi-urban Areas of Burkina Faso.
 38477614	CD4 T Cell-Derived IL-21 Is Critical for Sustaining Plasmodium Infection-Induced Germinal Center Responses and Promoting the Selection of Memory B Cells with Recall Potential.
@@ -9994,6 +9997,3 @@
 35078852	Practices and trends in clinical trial registration in the Pan African Clinical Trials Registry (PACTR): a descriptive analysis of registration data.
 35078479	Adherence to malaria management guidelines by health care workers in the Busoga sub-region, eastern Uganda.
 35077516	Placental malaria caused by Plasmodium vivax or P. falciparum in Colombia: Histopathology and mediators in placental processes.
-35077503	Expansion microscopy of Plasmodium gametocytes reveals the molecular architecture of a bipartite microtubule organisation centre coordinating mitosis with axoneme assembly.
-35077452	Entomological outcomes of cluster-randomised, community-driven dengue vector-suppression interventions in Kampong Cham province, Cambodia.
-35076817	Density-functional theory of the catnip molecule, nepetalactone.
