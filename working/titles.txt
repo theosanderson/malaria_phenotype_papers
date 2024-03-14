@@ -1,5 +1,11 @@
-38479748	Understanding and maximising the community impact of seasonal malaria chemoprevention in Burkina Faso (INDIE-SMC): study protocol for a cluster randomised evaluation trial.
+38482158	Molecular confirmation of Anopheles melas (Diptera: Culicidae) in Democratic Republic of Congo.
+38482138	Utilization of iron-folic acid supplementation and related factors in pregnant women in Leka Dulecha District, East Wollega Zone, Western Ethiopia: The case study.
+38482092	A Stitch in Time Saves Nine: Planning for Artesunate Supply with Malaria on the Rise.
+38481760	Using capillary electrophoresis to identify Anopheline species in routine sampling sites.
+38481292	The epidemiological profile of incidence and mortality from epidemics in complex humanitarian emergencies from 1990 to 2022 - A scoping review.
+38480873	Status of selected biochemical and coagulation profiles and platelet count in malaria and malaria-Schistosoma mansoni co-infection among patients attending at Dembiya selected Health Institutions, Northwest Ethiopia.
 38479776	Identification and management of co-infections in people with malaria.
+38479748	Understanding and maximising the community impact of seasonal malaria chemoprevention in Burkina Faso (INDIE-SMC): study protocol for a cluster randomised evaluation trial.
 38479483	Novel ether derivatives of 11-azaartemisinins with high order antimalarial activity against multidrug-resistant Plasmodium yoelii in Swiss mice.
 38478562	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
 38478177	Characterization of Plasmodium Falciparum Resistance Genes to Common Antimalarial Drugs in Semi-urban Areas of Burkina Faso.
@@ -1722,7 +1728,7 @@
 37891207	Starvation induces changes in abundance and small RNA cargo of extracellular vesicles released from Plasmodium falciparum infected red blood cells.
 37890672	Association of maternal prenatal copper concentration with gestational duration and preterm birth: a multicountry meta-analysis.
 37890619	Length of stay in at-risk areas and time to malaria attack on return.
-37889513	RTS, S/AS02A malaria vaccine-induced IgG responses equally recognize native-like fucosylated and non-fucosylated Plasmodium falciparum circumsporozoite proteins.
+37889513	RTS,S/AS02A Malaria Vaccine-Induced IgG Responses Equally Recognize Native-Like Fucosylated and Nonfucosylated Plasmodium falciparum Circumsporozoite Proteins.
 37889376	Coinfections and antimicrobial treatment in a cohort of falciparum malaria in a non-endemic country: a 10-year experience.
 37889073	Evolution of Orthonectida body plan.
 37888607	Bioecological Aspects of Species of the Subgenus Mansonia (Mansonia) (Diptera: Culicidae) Prior to the Installation of Hydroelectric Dams on the Madeira River, Rondônia State, Brazil.
@@ -9991,9 +9997,3 @@
 35082312	Risk of Plasmodium falciparum infection in south-west Burkina Faso: potential impact of expanding eligibility for seasonal malaria chemoprevention.
 35081974	Malaria hospitalisation in East Africa: age, phenotype and transmission intensity.
 35081964	Boosting the impact of seasonal malaria chemoprevention (SMC) through simultaneous screening and treatment of household members of children receiving SMC in Burkina Faso: a protocol for a randomized open label trial.
-35080108	Re-thinking cheat-proof and supervision-free exams: A perspective in view of Covid-19 situation in developing economies.
-35079351	Light People: Elizabeth Rogan.
-35079145	DOCK2 regulates antifungal immunity by regulating RAC GTPase activity.
-35078852	Practices and trends in clinical trial registration in the Pan African Clinical Trials Registry (PACTR): a descriptive analysis of registration data.
-35078479	Adherence to malaria management guidelines by health care workers in the Busoga sub-region, eastern Uganda.
-35077516	Placental malaria caused by Plasmodium vivax or P. falciparum in Colombia: Histopathology and mediators in placental processes.
