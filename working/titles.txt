@@ -1,4 +1,3 @@
-38482158	Molecular confirmation of Anopheles melas (Diptera: Culicidae) in Democratic Republic of Congo.
 38482138	Utilization of iron-folic acid supplementation and related factors in pregnant women in Leka Dulecha District, East Wollega Zone, Western Ethiopia: The case study.
 38482092	A Stitch in Time Saves Nine: Planning for Artesunate Supply with Malaria on the Rise.
 38481760	Using capillary electrophoresis to identify Anopheline species in routine sampling sites.
@@ -9997,3 +9996,4 @@
 35082312	Risk of Plasmodium falciparum infection in south-west Burkina Faso: potential impact of expanding eligibility for seasonal malaria chemoprevention.
 35081974	Malaria hospitalisation in East Africa: age, phenotype and transmission intensity.
 35081964	Boosting the impact of seasonal malaria chemoprevention (SMC) through simultaneous screening and treatment of household members of children receiving SMC in Burkina Faso: a protocol for a randomized open label trial.
+35080108	Re-thinking cheat-proof and supervision-free exams: A perspective in view of Covid-19 situation in developing economies.
