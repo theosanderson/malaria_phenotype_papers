@@ -1,3 +1,5 @@
+38478562	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
+38478177	Characterization of Plasmodium Falciparum Resistance Genes to Common Antimalarial Drugs in Semi-urban Areas of Burkina Faso.
 38477614	CD4 T Cell-Derived IL-21 Is Critical for Sustaining Plasmodium Infection-Induced Germinal Center Responses and Promoting the Selection of Memory B Cells with Recall Potential.
 38476939	Peptide selection via phage display to inhibit Leishmania-macrophage interactions.
 38476708	Malaria parasitaemia and its impact on biological parameters among children <16 years old attending the Nkwen District Hospital, Cameroon.
@@ -9995,5 +9997,3 @@
 35077503	Expansion microscopy of Plasmodium gametocytes reveals the molecular architecture of a bipartite microtubule organisation centre coordinating mitosis with axoneme assembly.
 35077452	Entomological outcomes of cluster-randomised, community-driven dengue vector-suppression interventions in Kampong Cham province, Cambodia.
 35076817	Density-functional theory of the catnip molecule, nepetalactone.
-35076009	SARS-CoV-2 Cross-Reactivity in Prepandemic Serum from Rural Malaria-Infected Persons, Cambodia.
-35075686	Methyl benzoate derivatives as inhibitors of pentose phosphate pathway, which promotes cancer progression and drug resistance: An in silico study supported by in vitro results.
