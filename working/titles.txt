@@ -1,10 +1,10 @@
-38485580	Navigating the terrain of neutrophil extracellular traps in severe malaria pathogenesis.
-38485579	Itaconate as a potential target for antimalarial therapy.
 38485477	Examining geospatial and temporal distribution of invasive non-typhoidal Salmonella disease occurrence in sub-Saharan Africa: a systematic review and modelling study.
 38485430	Does acute malnutrition in young children increase the risk of treatment failure following artemisinin-based combination therapy? A WWARN individual patient data meta-analysis.
 38485105	Phylogenomics reveals Adeleorina are an ancient and distinct subgroup of Apicomplexa.
 38484804	Synthesis and biological evaluation of hydantoin derivatives as potent antiplasmodial agents.
 38484471	Chemical Probes to Interrogate the Extreme Environment of Mosquito Larval Guts.
+38485580	Navigating the terrain of neutrophil extracellular traps in severe malaria pathogenesis.
+38485579	Itaconate as a potential target for antimalarial therapy.
 38484022	An analytically tractable, age-structured model of the impact of vector control on mosquito-transmitted infections.
 38483975	Mathematical models of Plasmodium vivax transmission: A scoping review.
 38483936	Evidence uptake is only part of the process: Stakeholders' insights on WHO treatment guideline recommendation processes for radical cure of P. vivax malaria.
