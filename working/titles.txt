@@ -1,3 +1,10 @@
+38485580	Navigating the terrain of neutrophil extracellular traps in severe malaria pathogenesis.
+38485579	Itaconate as a potential target for antimalarial therapy.
+38485477	Examining geospatial and temporal distribution of invasive non-typhoidal Salmonella disease occurrence in sub-Saharan Africa: a systematic review and modelling study.
+38485430	Does acute malnutrition in young children increase the risk of treatment failure following artemisinin-based combination therapy? A WWARN individual patient data meta-analysis.
+38485105	Phylogenomics reveals Adeleorina are an ancient and distinct subgroup of Apicomplexa.
+38484804	Synthesis and biological evaluation of hydantoin derivatives as potent antiplasmodial agents.
+38484471	Chemical Probes to Interrogate the Extreme Environment of Mosquito Larval Guts.
 38484022	An analytically tractable, age-structured model of the impact of vector control on mosquito-transmitted infections.
 38483975	Mathematical models of Plasmodium vivax transmission: A scoping review.
 38483936	Evidence uptake is only part of the process: Stakeholders' insights on WHO treatment guideline recommendation processes for radical cure of P. vivax malaria.
@@ -9990,10 +9997,3 @@
 35086643	Primate malarias as a model for cross-species parasite transmission.
 35085641	Global assessment of the distribution and conservation status of a key medicinal plant (Artemisia annua L.): The roles of climate and anthropogenic activities.
 35085399	Using social media listening and data mining to understand travellers' perspectives on travel disease risks and vaccine-related attitudes and behaviours.
-35083215	PfAP2-EXP2, an Essential Transcription Factor for the Intraerythrocytic Development of Plasmodium falciparum.
-35082891	Development of a Quantitative Real-Time PCR Assay for Detection of Toxoplasma gondii in Brain Samples.
-35082883	Plasmodium falciparum Allelic Diversity: A Comparison of DNA Extraction from Isolates Collected on Rapid Diagnostic Tests (Rdts) and Filter Paper.
-35082881	Clinical and Laboratory Findings among Patients with Toxocariasis in Medic Medical Center, Ho Chi Minh City, Vietnam in 2017-2019.
-35082832	Comprehensive Genomic Discovery of Non-Coding Transcriptional Enhancers in the African Malaria Vector Anopheles coluzzii.
-35082339	Six-year trend analysis of malaria prevalence at University of Gondar Specialized Referral Hospital, Northwest Ethiopia, from 2014 to 2019.
-35082312	Risk of Plasmodium falciparum infection in south-west Burkina Faso: potential impact of expanding eligibility for seasonal malaria chemoprevention.
