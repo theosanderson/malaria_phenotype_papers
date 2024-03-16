@@ -1,3 +1,5 @@
+38490237	Prevalence of subclinical pulmonary tuberculosis in adults in community settings: an individual participant data meta-analysis.
+38490637	Dynamics of asymptomatic Plasmodium falciparum and Plasmodium vivax infections and their infectiousness to mosquitoes in a low transmission setting of Ethiopia: a longitudinal observational study.
 38489011	The Parasitism and Tumors Carcinogenesis: A Review Subject.
 38488696	Causal effect of severe and non-severe malaria on dyslipidemia in African Ancestry individuals: A Mendelian randomization study.
 38487745	Differences in haemosporidian parasite prevalence and diversity in migratory and resident birds of prey species revealed by a non-invasive sampling method.
@@ -9995,5 +9997,3 @@
 35088657	Multifaceted Applications of Genetically Modified Micro-organisms: A Biotechnological Revolution.
 35087704	The Association Between Early Antenatal Care and Intermittent Preventive Treatment of Malaria in Pregnancy in Sub-Saharan Africa: Effect Modification by Planned Pregnancy Status.
 35087686	Community Malaria Knowledge, Experiences, Perceived Roles, and Acceptability of Community-Directed Distribution of Intermittent Preventive Therapy for Pregnancy in Rural Southeast Nigeria.
-35087230	A new malaria gene regulator.
-35087229	The transcriptional regulator HDP1 controls expansion of the inner membrane complex during early sexual differentiation of malaria parasites.
