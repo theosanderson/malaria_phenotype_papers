@@ -1,3 +1,4 @@
+38489011	The Parasitism and Tumors Carcinogenesis: A Review Subject.
 38488696	Causal effect of severe and non-severe malaria on dyslipidemia in African Ancestry individuals: A Mendelian randomization study.
 38487745	Differences in haemosporidian parasite prevalence and diversity in migratory and resident birds of prey species revealed by a non-invasive sampling method.
 38486340	Climate-influenced vector-borne diseases in Africa: a call to empower the next generation of African researchers for sustainable solutions.
@@ -9996,4 +9997,3 @@
 35087686	Community Malaria Knowledge, Experiences, Perceived Roles, and Acceptability of Community-Directed Distribution of Intermittent Preventive Therapy for Pregnancy in Rural Southeast Nigeria.
 35087230	A new malaria gene regulator.
 35087229	The transcriptional regulator HDP1 controls expansion of the inner membrane complex during early sexual differentiation of malaria parasites.
-35087127	The dynamic gut microbiota of zoophilic members of the Anopheles gambiae complex (Diptera: Culicidae).
