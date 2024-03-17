@@ -1,3 +1,6 @@
+38493187	Beyond the microcirculation: sequestration of infected red blood cells and reduced flow in large draining veins in experimental cerebral malaria.
+38493162	Genomic malaria surveillance of antenatal care users detects reduced transmission following elimination interventions in Mozambique.
+38493098	Comparison of different trapping methods to collect malaria vectors indoors and outdoors in western Kenya.
 38492573	Selective targeting of Plasmodium falciparum Hsp90 disrupts the 26S proteasome.
 38491925	A case of transfusion-transmission Anaplasma phagocytophilum from leukoreduced red blood cells.
 38491547	Impact of climate change on temperature variations and extrinsic incubation period of malaria parasites in Chennai, India: implications for its disease transmission potential.
@@ -9994,6 +9997,3 @@
 35091295	MMV020275 and MMV020490, promising compounds from malaria box for the treatment of equine piroplasmosis.
 35091169	Structure-activity and structure-property relationship studies of spirocyclic chromanes with antimalarial activity.
 35090545	Nationwide molecular surveillance of three Plasmodium species harboured by symptomatic malaria patients living in Ghana.
-35090003	An International Survey of Glucose-6-Phosphate Dehydrogenase Laboratory Reporting Practices.
-35089991	An International Survey of Glucose-6-Phosphate Dehydrogenase Laboratory Reporting Practices: Implications for Tafenoquine Eligibility Assessment.
-35089925	Simulating the effect of evaluation unit size on eligibility to stop mass drug administration for lymphatic filariasis in Haiti.
