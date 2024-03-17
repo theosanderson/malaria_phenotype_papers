@@ -1,3 +1,12 @@
+38492573	Selective targeting of Plasmodium falciparum Hsp90 disrupts the 26S proteasome.
+38491925	A case of transfusion-transmission Anaplasma phagocytophilum from leukoreduced red blood cells.
+38491547	Impact of climate change on temperature variations and extrinsic incubation period of malaria parasites in Chennai, India: implications for its disease transmission potential.
+38491524	A genome-wide association study of neutrophil count in individuals associated to an African continental ancestry group facilitates studies of malaria pathogenesis.
+38491502	Correction: Avian Plasmodium in invasive and native mosquitoes from southern Spain.
+38491492	Cost effectiveness of malaria vector control activities in Sudan.
+38491483	Under utilization of long-lasting insecticidal nets (LLINs) is challenging malaria elimination program in Ethiopia: a systematic review and meta-analysis.
+38491359	Microsatellites reveal high polymorphism and high potential for use in anti-malarial efficacy studies in areas with different transmission intensities in mainland Tanzania.
+38491345	Application of advanced very high-resolution radiometer (AVHRR)-based vegetation health indices for modelling and predicting malaria in Northern Benin, West Africa.
 38490637	Dynamics of asymptomatic Plasmodium falciparum and Plasmodium vivax infections and their infectiousness to mosquitoes in a low transmission setting of Ethiopia: a longitudinal observational study.
 38490237	Prevalence of subclinical pulmonary tuberculosis in adults in community settings: an individual participant data meta-analysis.
 38489011	The Parasitism and Tumors Carcinogenesis: A Review Subject.
@@ -9988,12 +9997,3 @@
 35090003	An International Survey of Glucose-6-Phosphate Dehydrogenase Laboratory Reporting Practices.
 35089991	An International Survey of Glucose-6-Phosphate Dehydrogenase Laboratory Reporting Practices: Implications for Tafenoquine Eligibility Assessment.
 35089925	Simulating the effect of evaluation unit size on eligibility to stop mass drug administration for lymphatic filariasis in Haiti.
-35089707	Double-Resonant Nanostructured Gold Surface for Multiplexed Detection.
-35089558	Method for Production of Cysteine-Rich Proteins in Lactococcus lactis Expression System.
-35089337	Malaria in the First Trimester of Pregnancy and Fetal Growth: Results from a Beninese Preconceptional Cohort.
-35089163	Supplementary studies on Myxobolus talievi Dogiel, 1957 (Cnidaria, Myxozoa) from the skeletal muscle of the cottoid fish Cyphocottus eurystomus in Lake Baikal: Morphological, histological and molecular characterisations.
-35089017	Assessing the External Exposome Using Wearable Passive Samplers and High-Resolution Mass Spectrometry among South African Children Participating in the VHEMBE Study.
-35088856	Unreported mixed Plasmodium species infection may increase vivax malaria in India: a challenge for malaria elimination.
-35088657	Multifaceted Applications of Genetically Modified Micro-organisms: A Biotechnological Revolution.
-35087704	The Association Between Early Antenatal Care and Intermittent Preventive Treatment of Malaria in Pregnancy in Sub-Saharan Africa: Effect Modification by Planned Pregnancy Status.
-35087686	Community Malaria Knowledge, Experiences, Perceived Roles, and Acceptability of Community-Directed Distribution of Intermittent Preventive Therapy for Pregnancy in Rural Southeast Nigeria.
