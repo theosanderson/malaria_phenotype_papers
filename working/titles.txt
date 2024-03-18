@@ -1,3 +1,5 @@
+38493795	Global, regional, and national burden of disorders affecting the nervous system, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.
+38493638	A comprehensive review of synthetic strategies and SAR studies for the discovery of PfDHODH inhibitors as antimalarial agents. Part 1: triazolopyrimidine, isoxazolopyrimidine and pyrrole-based (DSM) compounds.
 38493187	Beyond the microcirculation: sequestration of infected red blood cells and reduced flow in large draining veins in experimental cerebral malaria.
 38493162	Genomic malaria surveillance of antenatal care users detects reduced transmission following elimination interventions in Mozambique.
 38493098	Comparison of different trapping methods to collect malaria vectors indoors and outdoors in western Kenya.
@@ -291,7 +293,7 @@
 38395925	Radical cure for Plasmodium vivax malaria after G6PD qualitative testing in four provinces in Cambodia, results from Phase I implementation.
 38395885	Genetic differentiation of Plasmodium vivax duffy binding protein in Ethiopia and comparison with other geographical isolates.
 38395876	Bayesian spatio-temporal analysis of malaria prevalence in children between 2 and 10 years of age in Gabon.
-38395256	Circadian and Daily Rhythms of Disease Vector Mosquitoes.
+38395256	Circadian and daily rhythms of disease vector mosquitoes.
 38394375	Methods of sampling malaria vectors and their reliability in estimating entomological indices in Africa.
 38393970	Noncanonical usage of stop codons in ciliates expands proteins with structurally flexible Q-rich motifs.
 38392910	A Comparative Study of Genetic Diversity and Multiplicity of Infection in Uncomplicated Plasmodium falciparum Infections in Selected Regions of Pre-Elimination and High Transmission Settings Using MSP1 and MSP2 Genes.
@@ -9995,5 +9997,3 @@
 35092154	Plasmodium falciparum Kelch13 and its artemisinin-resistant mutants assemble as hexamers in solution: a SAXS data-driven modelling study.
 35091761	Automated liquid handling robot for rapid lateral flow assay development.
 35091295	MMV020275 and MMV020490, promising compounds from malaria box for the treatment of equine piroplasmosis.
-35091169	Structure-activity and structure-property relationship studies of spirocyclic chromanes with antimalarial activity.
-35090545	Nationwide molecular surveillance of three Plasmodium species harboured by symptomatic malaria patients living in Ghana.
