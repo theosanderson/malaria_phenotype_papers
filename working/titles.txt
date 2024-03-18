@@ -1,3 +1,4 @@
+38497359	In vitro inhibition potency of malononitrile derivatives on the activity of two pentose phosphate pathway enzymes: accompanied by molecular docking evaluation.
 38497278	A lupeol derivative and other isolates with antiplasmodial activity from the stem root of Rauvolfia mannii Stapf. (Apocynaceae).
 38497256	Innate immunity in Aedes mosquitoes: from pathogen resistance to shaping the microbiota.
 38496509	Transcriptional plasticity of virulence genes provides malaria parasites with greater adaptive capacity for avoiding host immunity.
@@ -1875,7 +1876,7 @@
 37857762	Community evaluation of VECTRON™ T500, a broflanilide insecticide, for indoor residual spraying for malaria vector control in central Benin; a two arm non-inferiority cluster randomised trial.
 37857597	Epidemiology of Plasmodium malariae and Plasmodium ovale spp. in Kinshasa Province, Democratic Republic of Congo.
 37857143	Novel thienopyrimidones targeting hepatic and erythrocytic stages of Plasmodium parasites with increased microsomal stability.
-37856690	Starch plays a key role in sporosorus formation by the powdery scab pathogen Spongospora subterranea.
+37856690	Starch Plays a Key Role in Sporosorus Formation by the Powdery Scab Pathogen Spongospora subterranea.
 37856519	Non-human primate malaria in travellers.
 37856470	Intestinal injury and the gut microbiota in patients with Plasmodium falciparum malaria.
 37856468	Placental characteristics and neonatal weights among women with malaria-preeclampsia comorbidity and healthy pregnancies.
@@ -9996,4 +9997,3 @@
 35094508	Total Syntheses of Strasseriolide A and B, Antimalarial Macrolide Natural Products.
 35094454	Readiness of the Kenyan public health sector to provide pre-referral care for severe paediatric malaria.
 35094036	Size and density measurements of single sickle red blood cells using microfluidic magnetic levitation.
-35093396	Age-specific patterns of DBLα var diversity can explain why residents of high malaria transmission areas remain susceptible to Plasmodium falciparum blood stage infection throughout life.
