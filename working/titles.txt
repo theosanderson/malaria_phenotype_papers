@@ -1,3 +1,13 @@
+38497278	A lupeol derivative and other isolates with antiplasmodial activity from the stem root of Rauvolfia mannii Stapf. (Apocynaceae).
+38497256	Innate immunity in Aedes mosquitoes: from pathogen resistance to shaping the microbiota.
+38496509	Transcriptional plasticity of virulence genes provides malaria parasites with greater adaptive capacity for avoiding host immunity.
+38496301	PFAS raise their ugly head in malaria control: Diverging views on risk substitution.
+38495806	A Case Series: A Mother and Daughter with a Critically Low Hemoglobin Level Resulting from Severe Anemia Secondary to Malaria.
+38495651	Whole genome sequencing identifies novel mutations in malaria parasites resistant to artesunate (ATN) and to ATN + mefloquine combination.
+38495269	Epidemiological survey of cystic echinococcosis in southwest China: From the Qinghai-Tibet plateau to the area of Yunnan.
+38495201	Preliminary insight on diarylpentanoids as potential antimalarials: In silico, in vitro pLDH and in vivo zebrafish toxicity assessment.
+38495096	Research progress on arsenic, arsenic-containing medicinal materials, and arsenic-containing preparations: clinical application, pharmacological effects, and toxicity.
+38494530	Genetic and geographic population structure in the malaria vector, Anopheles farauti, provides a candidate system for pioneering confinable gene-drive releases.
 38493795	Global, regional, and national burden of disorders affecting the nervous system, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.
 38493638	A comprehensive review of synthetic strategies and SAR studies for the discovery of PfDHODH inhibitors as antimalarial agents. Part 1: triazolopyrimidine, isoxazolopyrimidine and pyrrole-based (DSM) compounds.
 38493187	Beyond the microcirculation: sequestration of infected red blood cells and reduced flow in large draining veins in experimental cerebral malaria.
@@ -9987,13 +9997,3 @@
 35094454	Readiness of the Kenyan public health sector to provide pre-referral care for severe paediatric malaria.
 35094036	Size and density measurements of single sickle red blood cells using microfluidic magnetic levitation.
 35093396	Age-specific patterns of DBLα var diversity can explain why residents of high malaria transmission areas remain susceptible to Plasmodium falciparum blood stage infection throughout life.
-35093092	Plasmodium falciparum histidine-rich protein 2 and 3 genes deletion in global settings (2010-2021): a systematic review and meta-analysis.
-35093070	Strengthening therapeutic adherence and pharmacovigilance to antimalarial treatment in Manaus, Brazil: a multicomponent strategy using mHealth.
-35093067	Comparison of the performance of the CareStart Malaria Pf/Pan Combo test and field microscopy in the diagnosis of Plasmodium vivax malaria in North Sumatera, Indonesia.
-35093055	Burden of malaria, impact of interventions and climate variability in Western Ethiopia: an area with large irrigation based farming.
-35092864	Identification of lobetyolin as a major antimalarial constituent of the roots of Lobelia giberroa Hemsl.
-35092842	Tafenoquine for malaria chemoprophylaxis - Status quo 2022.
-35092793	A new strategy is required for malaria elimination in Africa.
-35092154	Plasmodium falciparum Kelch13 and its artemisinin-resistant mutants assemble as hexamers in solution: a SAXS data-driven modelling study.
-35091761	Automated liquid handling robot for rapid lateral flow assay development.
-35091295	MMV020275 and MMV020490, promising compounds from malaria box for the treatment of equine piroplasmosis.
