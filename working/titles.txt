@@ -1,3 +1,6 @@
+38502093	Functionalization of Chlorotonils: Dehalogenil as Promising Lead Compound for In Vivo Application.
+38501871	The acyl-CoA synthetase TgACS1 allows neutral lipid metabolism and extracellular motility in Toxoplasma gondii through relocation via its peroxisomal targeting sequence (PTS) under low nutrient conditions.
+38501806	Real-time measurements of ATP dynamics via ATeams in Plasmodium falciparum reveal drug-class-specific response patterns.
 38501019	NANOPARTICLE-BASED formulation of dihydroartemisinin-lumefantrine duo-drugs: Preclinical Evaluation and enhanced antimalarial efficacy in a mouse model.
 38500231	Rapid classification of epidemiologically relevant age categories of the malaria vector, Anopheles funestus.
 38500196	The plant-like protein phosphatase PPKL regulates parasite replication and morphology in Toxoplasma gondii.
@@ -9994,6 +9997,3 @@
 35101036	Malaria care-seeking and treatment ideation among gold miners in Guyana.
 35100562	Evaluation of Multiplex/Nested Polymerase Chain Reaction and Loop-Mediated Isothermal Amplification for Malaria Diagnosis in Southeastern Iran.
 35100277	Characterising co-infections with Plasmodium spp., Mansonella perstans or Loa loa in asymptomatic children, adults and elderly people living on Bioko Island using nucleic acids extracted from malaria rapid diagnostic tests.
-35099976	Total Synthesis of (±)-Spiroaxillarone A via a Reversible Sulfa-Michael Addition.
-35098475	Spatio-temporal variability of malaria infection in Chahbahar County, Iran: association with the ENSO and rainfall variability.
-35098134	Ethnomedicinal Studies, Chemical Composition, and Antibacterial Activity of the Mammea americana L. Bark in the Municipality of Cértegui, Chocó, Colombia.
