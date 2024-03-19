@@ -1,9 +1,17 @@
-38498330	Effect of textile colour on vector mosquito host selection: a simulated field study in Mali, West Africa.
-38498250	Confirmatory Assay for Laboratory Diagnosis of Malaria Using Molecular Approach.
+38501019	NANOPARTICLE-BASED formulation of dihydroartemisinin-lumefantrine duo-drugs: Preclinical Evaluation and enhanced antimalarial efficacy in a mouse model.
+38500231	Rapid classification of epidemiologically relevant age categories of the malaria vector, Anopheles funestus.
+38500196	The plant-like protein phosphatase PPKL regulates parasite replication and morphology in Toxoplasma gondii.
+38500145	Iso-mukaadial acetate and ursolic acid acetate bind to Plasmodium Falciparum heat shock protein 70: towards targeting parasite protein folding pathway.
+38500097	Community and health worker perspectives on malaria in Meghalaya, India: covering the last mile of elimination by 2030.
+38500094	Malaria infection among adults residing in a highly endemic region from the Democratic Republic of the Congo.
+38500090	Cerebral malaria presenting as nonconvulsive status epilepticus: a case report.
+38499823	The AI-driven Drug Design (AIDD) platform: an interactive multi-parameter optimization system integrating molecular evolution with physiologically based pharmacokinetic simulations.
 38499199	A pH Fingerprint Assay to Identify Inhibitors of Multiple Validated and Potential Antimalarial Drug Targets.
 38499058	Next-Generation Vaccines for Tropical Infectious Diseases.
 38499057	Dynamics of Plasmodium species and genotype diversity in adults with asymptomatic infection in Gabon.
 38498364	In silico screening of selective ATP mimicking inhibitors targeting the Plasmodium falciparum Grp94.
+38498330	Effect of textile colour on vector mosquito host selection: a simulated field study in Mali, West Africa.
+38498250	Confirmatory Assay for Laboratory Diagnosis of Malaria Using Molecular Approach.
 38497359	In vitro inhibition potency of malononitrile derivatives on the activity of two pentose phosphate pathway enzymes: accompanied by molecular docking evaluation.
 38497278	A lupeol derivative and other isolates with antiplasmodial activity from the stem root of Rauvolfia mannii Stapf. (Apocynaceae).
 38497256	Innate immunity in Aedes mosquitoes: from pathogen resistance to shaping the microbiota.
@@ -439,7 +447,7 @@
 38352500	Plasmodium RON11 triggers biogenesis of the merozoite rhoptry pair and is essential for erythrocyte invasion.
 38352463	Biogenesis of cytochromes c and c(1) in the electron transport chain of malaria parasites.
 38352461	Temporal and spatial dynamics of Plasmodium falciparum clonal lineages in Guyana.
-38352447	Global Release of Translational Repression Across Plasmodium's Host-to-Vector Transmission Event.
+38352447	Global Release of Translational Repression Across Plasmodiums Host-to-Vector Transmission Event.
 38352445	Detailing organelle division and segregation in Plasmodium falciparum.
 38352390	A cluster-randomized trial of client and provider directed financial interventions to align incentives with appropriate case management in private medicine retailers: results of the TESTsmART Trial in Lagos, Nigeria.
 38352311	Evidence of artemisinin partial resistance in North-western Tanzania: clinical and drug resistance markers study.
@@ -9989,11 +9997,3 @@
 35099976	Total Synthesis of (±)-Spiroaxillarone A via a Reversible Sulfa-Michael Addition.
 35098475	Spatio-temporal variability of malaria infection in Chahbahar County, Iran: association with the ENSO and rainfall variability.
 35098134	Ethnomedicinal Studies, Chemical Composition, and Antibacterial Activity of the Mammea americana L. Bark in the Municipality of Cértegui, Chocó, Colombia.
-35096732	Senior High School Students' Knowledge and Attitudes Toward Information on Their Health in the Kumasi Metropolis.
-35096663	Methods Used to Investigate the Plasmodium falciparum Digestive Vacuole.
-35096656	Identification, Mapping, and Genetic Diversity of Novel Conserved Cross-Species Epitopes of RhopH2 in Plasmodium knowlesi With Plasmodium vivax.
-35096650	Boromycin has Rapid-Onset Antibiotic Activity Against Asexual and Sexual Blood Stages of Plasmodium falciparum.
-35096643	Gene Polymorphisms Among Plasmodium vivax Geographical Isolates and the Potential as New Biomarkers for Gametocyte Detection.
-35096512	Hemozoin: a Complex Molecule with Complex Activities.
-35096117	Insecticidal, Antimalarial, and Antileishmanial Effects of Royal Jelly and Its Three Main Fatty Acids, trans-10-Hydroxy-2-decenoic Acid, 10-Hydroxydecanoic Acid, and Sebacic Acid.
-35095923	Oral Therapy Using a Combination of Nanotized Antimalarials and Immunomodulatory Molecules Reduces Inflammation and Prevents Parasite Induced Pathology in the Brain and Spleen of P. berghei ANKA Infected C57BL/6 Mice.
