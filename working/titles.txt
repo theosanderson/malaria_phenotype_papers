@@ -1,9 +1,9 @@
+38498330	Effect of textile colour on vector mosquito host selection: a simulated field study in Mali, West Africa.
+38498250	Confirmatory Assay for Laboratory Diagnosis of Malaria Using Molecular Approach.
 38499199	A pH Fingerprint Assay to Identify Inhibitors of Multiple Validated and Potential Antimalarial Drug Targets.
 38499058	Next-Generation Vaccines for Tropical Infectious Diseases.
 38499057	Dynamics of Plasmodium species and genotype diversity in adults with asymptomatic infection in Gabon.
 38498364	In silico screening of selective ATP mimicking inhibitors targeting the Plasmodium falciparum Grp94.
-38498330	Effect of textile colour on vector mosquito host selection: a simulated field study in Mali, West Africa.
-38498250	Confirmatory Assay for Laboratory Diagnosis of Malaria Using Molecular Approach.
 38497359	In vitro inhibition potency of malononitrile derivatives on the activity of two pentose phosphate pathway enzymes: accompanied by molecular docking evaluation.
 38497278	A lupeol derivative and other isolates with antiplasmodial activity from the stem root of Rauvolfia mannii Stapf. (Apocynaceae).
 38497256	Innate immunity in Aedes mosquitoes: from pathogen resistance to shaping the microbiota.
