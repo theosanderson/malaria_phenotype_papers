@@ -1,3 +1,5 @@
+38503234	Simple ammonium salt and sigma-1 receptor ligand dipentylammonium provides neuroprotective effects in cell culture and Caenorhabditis elegans models of Alzheimer's disease.
+38503166	Insights from structure-activity relationships and the binding mode of peptidic α-ketoamide inhibitors of the malaria drug target subtilisin-like SUB1.
 38502783	PHARE: a bioinformatics pipeline for compositional profiling of multiclonal Plasmodium falciparum infections from long-read Nanopore sequencing data.
 38502506	Monitoring of Lipid Fluxes Between Host and Plastid-Bearing Apicomplexan Parasites.
 38502497	Complex Endosymbiosis II: The Nonphotosynthetic Plastid of Apicomplexa Parasites (The Apicoplast) and Its Integrated Metabolism.
@@ -9995,5 +9997,3 @@
 35101841	Community knowledge, attitudes, and practices regarding epilepsy in Mahenge, Tanzania: A socio-anthropological study in an onchocerciasis-endemic area with a high prevalence of epilepsy.
 35101449	Tafenoquine and its derivatives as inhibitors for the severe acute respiratory syndrome coronavirus 2.
 35101385	Cerebral microvascular endothelial glycocalyx damage, its implications on the blood-brain barrier and a possible contributor to cognitive impairment.
-35101123	Characteristics and potential quality indicators for evaluating pre-travel consultations in Japan hospitals: the Japan Pretravel consultation registry (J-PRECOR).
-35101106	Baseline susceptibility of a wild strain of main vectors of leishmaniasis to WHO-recommended insecticides in southeastern Iran.
