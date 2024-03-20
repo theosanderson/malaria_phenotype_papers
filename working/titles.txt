@@ -1,3 +1,6 @@
+38502783	PHARE: a bioinformatics pipeline for compositional profiling of multiclonal Plasmodium falciparum infections from long-read Nanopore sequencing data.
+38502506	Monitoring of Lipid Fluxes Between Host and Plastid-Bearing Apicomplexan Parasites.
+38502497	Complex Endosymbiosis II: The Nonphotosynthetic Plastid of Apicomplexa Parasites (The Apicoplast) and Its Integrated Metabolism.
 38502093	Functionalization of Chlorotonils: Dehalogenil as Promising Lead Compound for In Vivo Application.
 38501871	The acyl-CoA synthetase TgACS1 allows neutral lipid metabolism and extracellular motility in Toxoplasma gondii through relocation via its peroxisomal targeting sequence (PTS) under low nutrient conditions.
 38501806	Real-time measurements of ATP dynamics via ATeams in Plasmodium falciparum reveal drug-class-specific response patterns.
@@ -9994,6 +9997,3 @@
 35101385	Cerebral microvascular endothelial glycocalyx damage, its implications on the blood-brain barrier and a possible contributor to cognitive impairment.
 35101123	Characteristics and potential quality indicators for evaluating pre-travel consultations in Japan hospitals: the Japan Pretravel consultation registry (J-PRECOR).
 35101106	Baseline susceptibility of a wild strain of main vectors of leishmaniasis to WHO-recommended insecticides in southeastern Iran.
-35101036	Malaria care-seeking and treatment ideation among gold miners in Guyana.
-35100562	Evaluation of Multiplex/Nested Polymerase Chain Reaction and Loop-Mediated Isothermal Amplification for Malaria Diagnosis in Southeastern Iran.
-35100277	Characterising co-infections with Plasmodium spp., Mansonella perstans or Loa loa in asymptomatic children, adults and elderly people living on Bioko Island using nucleic acids extracted from malaria rapid diagnostic tests.
