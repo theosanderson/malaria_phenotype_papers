@@ -1,3 +1,5 @@
+38506179	[Nutritional Status Of Children Under Five During Seasonal Malaria Chemoprevention In 2018 At Kita, Mali: Household Survey].
+38506165	Describing the ligandin properties of Plasmodium falciparum and vivax glutathione transferase towards bromosulfophthalein from empirical and computational modelling viewpoints.
 38505576	Unravelling the quality of malaria microscopy across Kinshasa, DR Congo.
 38504722	Plasmodium Vivax as a Causative Agent for Cerebral Malaria in a Group of Adults at Mizan Tepi Teaching Hospital: Case Series.
 38504013	Making genome editing a success story in Africa.
@@ -9995,5 +9997,3 @@
 35104964	autohaem: 3D printed devices for automated preparation of blood smears.
 35104496	Hemin acts as CD36 ligand to activate down-stream signalling to disturb immune responses and cytokine secretion from macrophages.
 35104018	Role of automated red blood cell exchange in the treatment of aluminum phosphide poisoning: A case report and review of the literature.
-35103596	A single full-length VAR2CSA ectodomain variant purifies broadly neutralizing antibodies against placental malaria isolates.
-35103097	Artemisinin resistance: an important emerging clinical problem in tropical medicine.
