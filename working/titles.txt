@@ -1,3 +1,8 @@
+38505576	Unravelling the quality of malaria microscopy across Kinshasa, DR Congo.
+38504722	Plasmodium Vivax as a Causative Agent for Cerebral Malaria in a Group of Adults at Mizan Tepi Teaching Hospital: Case Series.
+38504013	Making genome editing a success story in Africa.
+38504009	A History of Malaria and Conflict.
+38503838	Factors influencing delay in malaria treatment seeking at selected public health facilities in South Gonder, Ethiopia.
 38503234	Simple ammonium salt and sigma-1 receptor ligand dipentylammonium provides neuroprotective effects in cell culture and Caenorhabditis elegans models of Alzheimer's disease.
 38503166	Insights from structure-activity relationships and the binding mode of peptidic α-ketoamide inhibitors of the malaria drug target subtilisin-like SUB1.
 38502783	PHARE: a bioinformatics pipeline for compositional profiling of multiclonal Plasmodium falciparum infections from long-read Nanopore sequencing data.
@@ -101,7 +106,6 @@
 38464900	Practice patterns in pediatric infectious encephalopathy in four centers in Africa.
 38464321	Prevalence and risk factors of gross neurologic deficits in children after severe malaria: a systematic review protocol.
 38464281	PfCAP-H is essential for assembly of condensin I complex and karyokinesis during asexual proliferation of Plasmodium falciparum.
-38464220	Bicyclic pyrrolidine inhibitors of Toxoplasma gondii phenylalanine t-RNA synthetase with antiparasitic potency in vitro and brain exposure.
 38464169	Genomic surveillance of malaria parasites in an indigenous community in the Peruvian Amazon.
 38464038	Non-Coding RNAs Potentially Involved in Pyrethroid Resistance of Anopheles funestus Population in Western Kenya.
 38463971	Selective Bias Virtual Screening for Discovery of Promising Antimalarial Candidates targeting Plasmodium N-Myristoyltransferase.
@@ -9993,7 +9997,3 @@
 35104018	Role of automated red blood cell exchange in the treatment of aluminum phosphide poisoning: A case report and review of the literature.
 35103596	A single full-length VAR2CSA ectodomain variant purifies broadly neutralizing antibodies against placental malaria isolates.
 35103097	Artemisinin resistance: an important emerging clinical problem in tropical medicine.
-35102852	When Spider Webs Unite, They Can Tie Up a Lion: NLM's Work in Information Technology and Health in Africa, 1997-20111.
-35101841	Community knowledge, attitudes, and practices regarding epilepsy in Mahenge, Tanzania: A socio-anthropological study in an onchocerciasis-endemic area with a high prevalence of epilepsy.
-35101449	Tafenoquine and its derivatives as inhibitors for the severe acute respiratory syndrome coronavirus 2.
-35101385	Cerebral microvascular endothelial glycocalyx damage, its implications on the blood-brain barrier and a possible contributor to cognitive impairment.
