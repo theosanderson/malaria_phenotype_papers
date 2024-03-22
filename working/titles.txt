@@ -1,3 +1,24 @@
+38517190	A nanochitosan-D-galactose formulation increases the accumulation of primaquine in the liver.
+38516592	Reinvestigation of diphenylmethylpiperazine analogues of pyrazine as new class of Plasmodial cysteine protease inhibitors for the treatment of malaria.
+38515660	Nutritive value, biological properties, health benefits and applications of Tetrapleura tetraptera: An updated comprehensive review.
+38515495	Determinants of semantic and episodic memory decline among older adults in Ghana: Evidence from the WHO study on global AGEing and adult health Ghana wave 2.
+38515494	The bibliometric landscape of infectious disease research in Panama (1990-2019).
+38515191	Attributes of Anopheles gambiae swarms in South Central Uganda.
+38514798	Pregnenolone sulfate induces transcriptional and immunoregulatory effects on T cells.
+38514792	A new malaria vaccination tool based on replication-competent Plasmodium falciparum parasites.
+38514791	A replication competent Plasmodium falciparum parasite completely attenuated by dual gene deletion.
+38513677	Routine malaria vaccinations start in Africa.
+38512855	Prevalence of unqualified sources of antimalarial drug prescription for children under the age of five: A study in 19 low- and middle-income countries.
+38512826	Estimating multiplicity of infection, allele frequencies, and prevalences accounting for incomplete data.
+38512550	Chemical Exposure of Synthetic Pyrethroid on Deltamethrin Under the Selection Pressure over the Generations: A Reproductive Potential Study of Anopheles stephensi.
+38512283	Subclinical inflammation in asymptomatic schoolchildren with Plasmodium falciparum parasitemia correlates with impaired cognition.
+38511493	The population genetics of partial diapause, with applications to the aestivating malaria mosquito Anopheles coluzzii.
+38511329	An aquaporin and an aquaglyceroporin have roles in low temperature adaptation of mosquitoes (Anopheles sinensis).
+38510530	A Systematic Literature Review of Mathematical Models for Coinfections: Tuberculosis, Malaria, and HIV/AIDS.
+38509529	Risk assessment of imported malaria in China: a machine learning perspective.
+38509457	Possible potential spread of Anopheles stephensi, the Asian malaria vector.
+38509066	Strong positive selection biases identity-by-descent-based inferences of recent demography and population structure in Plasmodium falciparum.
+38509052	Draft genome of Microsporidia sp. MB-a malaria-blocking microsporidian symbiont of the Anopheles arabiensis.
 38508901	Exploiting integrative metabolomics to study host-parasite interactions in Plasmodium infections.
 38507797	Evaluation of Malaria Rapid Diagnostic Test Performance and pfhrp2 Deletion in Tanzania School Surveys, 2017.
 38506165	Describing the ligandin properties of Plasmodium falciparum and vivax glutathione transferase towards bromosulfophthalein from empirical and computational modelling viewpoints.
@@ -153,6 +174,7 @@
 38452992	First experimental observation on biology of the avian malaria parasite Plasmodium (Novyella) homonucleophilum (lineage pSW2), with remarks on virulence and distribution.
 38452779	Operational effectiveness of tafenoquine and primaquine for the prevention of Plasmodium vivax recurrence in Brazil: a retrospective observational study.
 38452775	Progress towards safer and more effective radical cure of Plasmodium vivax.
+38452406	Target fishing reveals PfPYK-1 and PfRab6 as potential targets of an antiplasmodial 4-anilino-2-trichloromethylquinazoline hit compound.
 38451924	Role for gene conversion in the evolution of cell-surface antigens of the malaria parasite Plasmodium falciparum.
 38451383	Viral hepatitis-induced acute liver failure.
 38451073	A man in his sixties with life-threatening febrile illness after travel abroad.
@@ -5014,6 +5036,7 @@
 36798264	Ex vivo RSA and Pfkelch13 targeted-amplicon deep sequencing reveal parasites susceptibility to artemisinin in Senegal, 2017.
 36798251	Seroreversion to Chlamydia trachomatis Pgp3 antigen among children in a hyperendemic region of Amhara, Ethiopia.
 36798191	Plasmodium ARK2-EB1 axis drives the unconventional spindle dynamics, scaffold formation and chromosome segregation of sexual transmission stages.
+38516334	Exploring how space, time, and sampling impact our ability to measure genetic structure across Plasmodium falciparum populations.
 36797290	Native structure of mosquito salivary protein uncovers domains relevant to pathogen transmission.
 36795547	Malaria in Children: Updates on Management and Prevention.
 36795503	Arthropod-borne diseases among travellers arriving in Europe from Africa, 2015 to 2019.
@@ -7396,6 +7419,7 @@
 35954703	Low Interleukin-12 Levels concerning Severe Malaria: A Systematic Review and Meta-Analysis.
 35954518	Health Status of Afghan Refugees in Europe: Policy and Practice Implications for an Optimised Healthcare.
 35950163	Laboratory and experimental hut trial evaluation of VECTRON (™) T500 for indoor residual spraying (IRS) against insecticide resistant malaria vectors in Burkina Faso.
+38515900	Incidence of malarial infection and response to antimalarial drugs at Districts Lower Dir and Swat of Khyber Pakhtunkhwa, Pakistan.
 35952758	The nepenthesin insert in the Plasmodium falciparum aspartic protease plasmepsin V is necessary for enzyme function.
 35952683	Dihydroartemesinin and Curcumin Based Self-Microemulsifying Drug Delivery System for Antimalarial Activity.
 35952645	Adenosine sulfamates: Next generation of antimalarials.
@@ -9973,27 +9997,3 @@
 35114396	Pfhrp2/3 gene deletion and genetic variation in PfHRP2-based RDTs with P. falciparum positive samples from India and its implication on malaria control.
 35113955	Prevalence of post-partum anemia and associated factors among women attending public primary health care facilities: An institutional based cross-sectional study.
 35111858	Current Status of Insecticide Susceptibility in the Principal Malaria Vector, Anopheles gambiae in Three Northern States of Nigeria.
-35111855	Resistance Status of Anopheles maculipennis and Anopheles superpictus to the Conventional Insecticides in Northeastern Caspian Littoral, Iran.
-35111854	Species Variety of the Calf and Human-Attracted Mosquitoes in Southwest Iran.
-35111773	Case Report: Autoimmune Hemolysis Anemia After Dihydroartemisinin and Piperaquine for Uncomplicated Plasmodium falciparum Malaria.
-35111697	Elucidating Spatially-Resolved Changes in Host Signaling During Plasmodium Liver-Stage Infection.
-35110959	A New Scalable Synthesis of ELQ-300, ELQ-316, and other Antiparasitic Quinolones.
-35110854	Analysis of Causes of Hepatic Dysfunction in Obstetric Patients in India: A Systematic Review.
-35110721	Comparing mouse models of malaria.
-35110617	Impact of extractive industries on malaria prevalence in the Democratic Republic of the Congo: a population-based cross-sectional study.
-35109868	CD4(+)ICOS(+)Foxp3(+): a sub-population of regulatory T cells contribute to malaria pathogenesis.
-35109848	Malaria prevention interventions beyond long-lasting insecticidal nets and indoor residual spraying in low- and middle-income countries: a scoping review.
-35109841	Efficacy of 3-day low dose quinine plus clindamycin versus artemether-lumefantrine for the treatment of uncomplicated Plasmodium falciparum malaria in Kenyan children (CLINDAQUINE): an open-label randomized trial.
-35108609	COVID-19 and Lassa fever in Nigeria: A deadly alliance?
-35108476	Insecticide-Treated Nets and the Persistence of Childhood Survival Gains to Adulthood.
-35108469	Mosquito Net Use in Early Childhood and Survival to Adulthood in Tanzania.
-35108339	Systems analysis of immune responses to attenuated P. falciparum malaria sporozoite vaccination reveals excessive inflammatory signatures correlating with impaired immunity.
-35108259	Global diversity and balancing selection of 23 leading Plasmodium falciparum candidate vaccine antigens.
-35107980	Rapid, Highly Sensitive, and Label-Free Pathogen Assay System Using a Solid-Phase Self-Interference Recombinase Polymerase Amplification Chip and Hyperspectral Interferometry.
-35106907	Where is the 'C' in antenatal care and postnatal care: A multi-country survey of availability of antenatal and postnatal care in low- and middle-income settings.
-35106653	Host foraging behavior and nest type influence prevalence of avian haemosporidian parasites in the Pantanal.
-35106283	Lord of the "rings": A case of Plasmodium falciparum.
-35106274	Market Formation in a Global Health Transition.
-35106047	Synthesis and antiplasmodial assessment of nitazoxanide and analogs as new antimalarial candidates.
-35104964	autohaem: 3D printed devices for automated preparation of blood smears.
-35104496	Hemin acts as CD36 ligand to activate down-stream signalling to disturb immune responses and cytokine secretion from macrophages.
