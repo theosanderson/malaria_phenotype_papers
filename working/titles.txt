@@ -1,8 +1,8 @@
 38519096	Reduction of malaria case incidence following the introduction of clothianidin-based indoor residual spraying in previously unsprayed districts: an observational analysis using health facility register data from Côte d'Ivoire, 2018-2022.
 38519039	Endothelial LAT1 (SLC7A5) Mediates S-Nitrosothiol Import and Modulates Respiratory Sequelae of Red Blood Cell Transfusion In Vivo.
-38518834	Prevalence and Genetic Diversity of Simian Malaria in Wild Macaque Populations Across Thailand: Implications for Human Health.
 38519002	Biomolecular interactions between Plasmodium and human host: A basis of targeted antimalarial therapy.
 38518861	Plasmodium falciparum heat shock proteins as anti-malarial drug targets: An update.
+38518834	Prevalence and Genetic Diversity of Simian Malaria in Wild Macaque Populations Across Thailand: Implications for Human Health.
 38517977	Size-dependent self-avoidance enables superdiffusive migration in macroscopic unicellulars.
 38517746	Quantification of sporozoite expelling by Anopheles mosquitoes infected with laboratory and naturally circulating P. falciparum gametocytes.
 38517190	A nanochitosan-D-galactose formulation increases the accumulation of primaquine in the liver.
