@@ -1,3 +1,5 @@
+38517977	Size-dependent self-avoidance enables superdiffusive migration in macroscopic unicellulars.
+38517746	Quantification of sporozoite expelling by Anopheles mosquitoes infected with laboratory and naturally circulating P. falciparum gametocytes.
 38517190	A nanochitosan-D-galactose formulation increases the accumulation of primaquine in the liver.
 38516592	Reinvestigation of diphenylmethylpiperazine analogues of pyrazine as new class of Plasmodial cysteine protease inhibitors for the treatment of malaria.
 38515660	Nutritive value, biological properties, health benefits and applications of Tetrapleura tetraptera: An updated comprehensive review.
@@ -9995,5 +9997,3 @@
 35116014	Editorial: Microbiota: A Consequential Third Wheel in the Mosquito-Pathogen Relationship.
 35115887	Seroprevalence of Hepatitis B Virus Infection and Its Associated Factors Among Blood Donors in Yemen.
 35114396	Pfhrp2/3 gene deletion and genetic variation in PfHRP2-based RDTs with P. falciparum positive samples from India and its implication on malaria control.
-35113955	Prevalence of post-partum anemia and associated factors among women attending public primary health care facilities: An institutional based cross-sectional study.
-35111858	Current Status of Insecticide Susceptibility in the Principal Malaria Vector, Anopheles gambiae in Three Northern States of Nigeria.
