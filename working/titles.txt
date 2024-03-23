@@ -1,3 +1,8 @@
+38519096	Reduction of malaria case incidence following the introduction of clothianidin-based indoor residual spraying in previously unsprayed districts: an observational analysis using health facility register data from Côte d'Ivoire, 2018-2022.
+38519039	Endothelial LAT1 (SLC7A5) Mediates S-Nitrosothiol Import and Modulates Respiratory Sequelae of Red Blood Cell Transfusion In Vivo.
+38518834	Prevalence and Genetic Diversity of Simian Malaria in Wild Macaque Populations Across Thailand: Implications for Human Health.
+38519002	Biomolecular interactions between Plasmodium and human host: A basis of targeted antimalarial therapy.
+38518861	Plasmodium falciparum heat shock proteins as anti-malarial drug targets: An update.
 38517977	Size-dependent self-avoidance enables superdiffusive migration in macroscopic unicellulars.
 38517746	Quantification of sporozoite expelling by Anopheles mosquitoes infected with laboratory and naturally circulating P. falciparum gametocytes.
 38517190	A nanochitosan-D-galactose formulation increases the accumulation of primaquine in the liver.
@@ -9992,8 +9997,3 @@
 35120146	Parous rate and longevity of anophelines mosquitoes in bure district, northwestern Ethiopia.
 35120136	Malaria treatment-seeking behaviour and its associated factors: A cross-sectional study in rural East Nusa Tenggara Province, Indonesia.
 35120135	Current knowledge of vector-borne zoonotic pathogens in Zambia: A clarion call to scaling-up "One Health" research in the wake of emerging and re-emerging infectious diseases.
-35120131	Screening the pandemic response box identified benzimidazole carbamates, Olorofim and ravuconazole as promising drug candidates for the treatment of eumycetoma.
-35119479	Malaria : Stellungnahmen des Arbeitskreises Blut des Bundesministeriums für Gesundheit.
-35116014	Editorial: Microbiota: A Consequential Third Wheel in the Mosquito-Pathogen Relationship.
-35115887	Seroprevalence of Hepatitis B Virus Infection and Its Associated Factors Among Blood Donors in Yemen.
-35114396	Pfhrp2/3 gene deletion and genetic variation in PfHRP2-based RDTs with P. falciparum positive samples from India and its implication on malaria control.
