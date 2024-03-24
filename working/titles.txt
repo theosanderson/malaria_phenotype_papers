@@ -1,3 +1,6 @@
+38521610	Evaluating the carnivorous efficacy of Utricularia aurea (Lamiales: Lentibulariaceae) on the larval stages of Anopheles stephensi, Culex quinquefasciatus, and Aedes aegypti (Diptera: Culicidae).
+38521526	Defining the hidden burden of disease in rural communities in Bangladesh, Cambodia and Thailand: a cross-sectional household health survey protocol.
+38520842	Absence of association between Pfnfs1 mutation and in vitro susceptibility to lumefantrine in Plasmodium falciparum.
 38520119	Hospital admission and its common causes in children on antiretroviral therapy (ART) in Lilongwe Malawi between 2001 and 2016: a retrospective cross-sectional study.
 38519992	Prevalence of non-falciparum malaria infections among asymptomatic individuals in four regions of Mainland Tanzania.
 38519966	New insight into avian malaria vectors in New Zealand.
@@ -9994,6 +9997,3 @@
 35123054	Detection and population genetic analysis of kdr L1014F variant in eastern Ethiopian Anopheles stephensi.
 35123038	Coronavirus Disease 2019 Diagnosis in Low- and Middle-Income Countries: The Big New Bully Disrupting TB and HIV Diagnostic Services.
 35122935	Will the in situ activator(s) of artemisinin please stand up?
-35122718	Considerations for simultaneous testing of COVID-19 and tuberculosis in high-burden countries.
-35122310	Atomic structure of the Leishmania spp. Hsp100 N-domain.
-35121230	Neuropeptides in Rhipicephalus microplus and other hard ticks.
