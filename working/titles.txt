@@ -1,3 +1,9 @@
+38520119	Hospital admission and its common causes in children on antiretroviral therapy (ART) in Lilongwe Malawi between 2001 and 2016: a retrospective cross-sectional study.
+38519992	Prevalence of non-falciparum malaria infections among asymptomatic individuals in four regions of Mainland Tanzania.
+38519966	New insight into avian malaria vectors in New Zealand.
+38519929	The effect of COVID-19 on malaria cases in Zambia: a mixed effect multilevel analysis.
+38519588	Characterisation of Plasmodium vivax lactate dehydrogenase dynamics in P. vivax infections.
+38519474	Quality-by-design ecofriendly potentiometric sensor for rapid monitoring of hydroxychloroquine purity in the presence of toxic impurities.
 38519096	Reduction of malaria case incidence following the introduction of clothianidin-based indoor residual spraying in previously unsprayed districts: an observational analysis using health facility register data from Côte d'Ivoire, 2018-2022.
 38519039	Endothelial LAT1 (SLC7A5) Mediates S-Nitrosothiol Import and Modulates Respiratory Sequelae of Red Blood Cell Transfusion In Vivo.
 38519002	Biomolecular interactions between Plasmodium and human host: A basis of targeted antimalarial therapy.
@@ -9991,9 +9997,3 @@
 35122718	Considerations for simultaneous testing of COVID-19 and tuberculosis in high-burden countries.
 35122310	Atomic structure of the Leishmania spp. Hsp100 N-domain.
 35121230	Neuropeptides in Rhipicephalus microplus and other hard ticks.
-35120815	The tangled web of autoreactive B cells in malaria immunity and autoimmune disease.
-35120677	Effects of climate variability and environmental factors on the spatiotemporal distribution of malaria incidence in the Amhara national regional state, Ethiopia.
-35120441	Performance and utility of more highly sensitive malaria rapid diagnostic tests.
-35120146	Parous rate and longevity of anophelines mosquitoes in bure district, northwestern Ethiopia.
-35120136	Malaria treatment-seeking behaviour and its associated factors: A cross-sectional study in rural East Nusa Tenggara Province, Indonesia.
-35120135	Current knowledge of vector-borne zoonotic pathogens in Zambia: A clarion call to scaling-up "One Health" research in the wake of emerging and re-emerging infectious diseases.
