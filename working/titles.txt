@@ -1,3 +1,4 @@
+38526170	Correction to: The Genome of Plasmodium gonderi: Insights into the Evolution of Human Malaria Parasites.
 38525236	Molecular survey and genetic diversity of Plasmodium sp. infesting domestic poultry in northeastern Thailand.
 38524376	IPIAD- an augmentation regimen added to standard treatment of pancreatic ductal adenocarcinoma using already-marketed repurposed drugs irbesartan, pyrimethamine, itraconazole, azithromycin, and dapsone.
 38523360	Evaluation of new haematology analyser, XN-31, for malaria detection in blood donors: A single-centre study from India.
@@ -9996,4 +9997,3 @@
 35123482	Economic evaluation of severe malaria in children under 14 years in Zambia.
 35123479	Congenital cerebral malaria: a masquerader in a neonate.
 35123453	Comparative pharmacokinetics and tissue distribution of primaquine enantiomers in mice.
-35123372	In a life full of risks, COVID-19 makes little difference. Responses to COVID-19 among mobile migrants in gold mining areas in Suriname and French Guiana.
