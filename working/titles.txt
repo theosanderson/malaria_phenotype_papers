@@ -1,3 +1,6 @@
+38525236	Molecular survey and genetic diversity of Plasmodium sp. infesting domestic poultry in northeastern Thailand.
+38524376	IPIAD- an augmentation regimen added to standard treatment of pancreatic ductal adenocarcinoma using already-marketed repurposed drugs irbesartan, pyrimethamine, itraconazole, azithromycin, and dapsone.
+38523360	Evaluation of new haematology analyser, XN-31, for malaria detection in blood donors: A single-centre study from India.
 38521901	In vivo antimalarial effect of 1-hydroxy-5,6,7-trimethoxyxanthone isolated from Mammea siamensis T. Anders. flowers: pharmacokinetic and acute toxicity studies.
 38521610	Evaluating the carnivorous efficacy of Utricularia aurea (Lamiales: Lentibulariaceae) on the larval stages of Anopheles stephensi, Culex quinquefasciatus, and Aedes aegypti (Diptera: Culicidae).
 38521526	Defining the hidden burden of disease in rural communities in Bangladesh, Cambodia and Thailand: a cross-sectional household health survey protocol.
@@ -472,7 +475,7 @@
 38362230	MALARIA-WHY DO MOSTLY CHILDREN GET SICK?
 38361888	Evaluation of changes in the cognitive, affective, and psychomotor domains of learning following an interprofessional intervention for malaria and its control among the Bedia tribe, a particularly vulnerable tribal group, in rural Eastern India.
 38361592	Monitoring and evaluation practices and operational research during public health emergencies in southeast Asia region (2012-2022) - a systematic review.
-38361461	Naturally Acquired Immunity to Plasmodium pitheci in Bornean Orangutans (Pongo pygmaeus).
+38361461	Naturally acquired immunity to Plasmodium pitheci in Bornean orangutans (Pongo pygmaeus).
 38360879	New reference genomes to distinguish the sympatric malaria parasites, Plasmodium ovale curtisi and Plasmodium ovale wallikeri.
 38360803	Assessing emergence risk of double-resistant and triple-resistant genotypes of Plasmodium falciparum.
 38360754	Flexible and cost-effective genomic surveillance of P. falciparum malaria with targeted nanopore sequencing.
@@ -9994,6 +9997,3 @@
 35123479	Congenital cerebral malaria: a masquerader in a neonate.
 35123453	Comparative pharmacokinetics and tissue distribution of primaquine enantiomers in mice.
 35123372	In a life full of risks, COVID-19 makes little difference. Responses to COVID-19 among mobile migrants in gold mining areas in Suriname and French Guiana.
-35123068	SARS-CoV-2 RT-PCR positivity of individuals subsequent to completing quarantine upon entry into a country during a transmission-free period.
-35123054	Detection and population genetic analysis of kdr L1014F variant in eastern Ethiopian Anopheles stephensi.
-35123038	Coronavirus Disease 2019 Diagnosis in Low- and Middle-Income Countries: The Big New Bully Disrupting TB and HIV Diagnostic Services.
