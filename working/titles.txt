@@ -1,3 +1,4 @@
+38527476	Post-tuberculosis lung disease: is there a light at the end of tunnel?
 38527214	Pathogen prospecting of museums: Reconstructing malaria epidemiology.
 38527083	Phenotypic screening reveals a highly selective phthalimide-based compound with antileishmanial activity.
 38527002	Rapid and non-invasive detection of malaria parasites using near-infrared spectroscopy and machine learning.
@@ -9996,4 +9997,3 @@
 35125986	[Vaccinations for pregnant women and women attempting to become pregnant].
 35124028	Crop protection practices and risks associated with infectious tropical parasitic diseases.
 35123497	The effect of light and ventilation on house entry by Anopheles arabiensis sampled using light traps in Tanzania: an experimental hut study.
-35123487	Articulating ethical principles guiding Target Malaria's engagement strategy.
