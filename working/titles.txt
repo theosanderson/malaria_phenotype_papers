@@ -1,3 +1,6 @@
+38527214	Pathogen prospecting of museums: Reconstructing malaria epidemiology.
+38527083	Phenotypic screening reveals a highly selective phthalimide-based compound with antileishmanial activity.
+38527002	Rapid and non-invasive detection of malaria parasites using near-infrared spectroscopy and machine learning.
 38526170	Correction to: The Genome of Plasmodium gonderi: Insights into the Evolution of Human Malaria Parasites.
 38525236	Molecular survey and genetic diversity of Plasmodium sp. infesting domestic poultry in northeastern Thailand.
 38524376	IPIAD- an augmentation regimen added to standard treatment of pancreatic ductal adenocarcinoma using already-marketed repurposed drugs irbesartan, pyrimethamine, itraconazole, azithromycin, and dapsone.
@@ -9994,6 +9997,3 @@
 35124028	Crop protection practices and risks associated with infectious tropical parasitic diseases.
 35123497	The effect of light and ventilation on house entry by Anopheles arabiensis sampled using light traps in Tanzania: an experimental hut study.
 35123487	Articulating ethical principles guiding Target Malaria's engagement strategy.
-35123482	Economic evaluation of severe malaria in children under 14 years in Zambia.
-35123479	Congenital cerebral malaria: a masquerader in a neonate.
-35123453	Comparative pharmacokinetics and tissue distribution of primaquine enantiomers in mice.
