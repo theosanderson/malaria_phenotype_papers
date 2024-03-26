@@ -1,3 +1,6 @@
+38529311	Malaria: biochemical, physiological, diagnostic, and therapeutic updates.
+38529021	Population genomic evidence of structured and connected Plasmodium vivax populations under host selection in Latin America.
+38528616	Clinical and economic burden of respiratory syncytial virus in children aged 0-5 years in Italy.
 38527476	Post-tuberculosis lung disease: is there a light at the end of tunnel?
 38527214	Pathogen prospecting of museums: Reconstructing malaria epidemiology.
 38527083	Phenotypic screening reveals a highly selective phthalimide-based compound with antileishmanial activity.
@@ -9994,6 +9997,3 @@
 35127177	Incidence of Mortality among Under-Five-Year-Old Children Born to Women Living with HIV and Those Born to Women Not Living with HIV in Botswana: A 5-Year Retrospective Study.
 35126891	Development of the first edition of African treatment guidelines for common bacterial infections and syndromes.
 35126652	Modeling impact and cost-effectiveness of driving-Y gene drives for malaria elimination in the Democratic Republic of the Congo.
-35125986	[Vaccinations for pregnant women and women attempting to become pregnant].
-35124028	Crop protection practices and risks associated with infectious tropical parasitic diseases.
-35123497	The effect of light and ventilation on house entry by Anopheles arabiensis sampled using light traps in Tanzania: an experimental hut study.
