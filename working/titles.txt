@@ -1,3 +1,5 @@
+38530227	Methylene blue and its potential in the treatment of traumatic brain injury, brain ischemia, and Alzheimer's disease.
+38530030	Expression of the MSPDBL2 antigen in a discrete subset of Plasmodium falciparum schizonts is regulated by GDV1 but may not be linked to sexual commitment.
 38529311	Malaria: biochemical, physiological, diagnostic, and therapeutic updates.
 38529021	Population genomic evidence of structured and connected Plasmodium vivax populations under host selection in Latin America.
 38528616	Clinical and economic burden of respiratory syncytial virus in children aged 0-5 years in Italy.
@@ -9995,5 +9997,3 @@
 35127555	Properties and Roles of γδT Cells in Plasmodium yoelii nigeriensis NSM Infected C57BL/6 Mice.
 35127446	An atypical presentation of malaria in a 19-year-old woman.
 35127177	Incidence of Mortality among Under-Five-Year-Old Children Born to Women Living with HIV and Those Born to Women Not Living with HIV in Botswana: A 5-Year Retrospective Study.
-35126891	Development of the first edition of African treatment guidelines for common bacterial infections and syndromes.
-35126652	Modeling impact and cost-effectiveness of driving-Y gene drives for malaria elimination in the Democratic Republic of the Congo.
