@@ -1,8 +1,14 @@
+38533502	5,6-dimethylxanthenone-4-acetic acid (DMXAA), a partial STING agonist, competes for human STING activation.
+38533352	The paradox of plant preference: The malaria vectors Anopheles gambiae and Anopheles coluzzii select suboptimal food sources for their survival and reproduction.
+38532416	An evaluation of LLIN physical integrity and population attitudes towards net use, care and handling during the Magude project in southern Mozambique.
+38532415	Rapid assessment of the blood-feeding histories of wild-caught malaria mosquitoes using mid-infrared spectroscopy and machine learning.
+38532318	Whole transcriptomic analysis reveals overexpression of salivary gland and cuticular proteins genes in insecticide-resistant Anopheles arabiensis from Western Kenya.
+38531921	Estimating the size of populations at risk for malaria: a case study in cattle herders and agricultural workers in Northern Namibia.
+38531688	From GWAS to functional variants: ARL14 cis-regulatory variants are associated with severe malaria.
 38531105	Evaluating Malaria Rapid Diagnostic Tests and Microscopy for Detecting Plasmodium Infection and Status of Plasmodium falciparum Histidine-Rich Protein 2/3 Gene Deletions in Southeastern Nigeria.
 38531104	Normal Clinical Laboratory Ranges by Age and Sex, and Impact on Study Screening Outcomes in Rural Mali.
 38531102	Implementation of a Randomized, Placebo-Controlled Trial of Live Attenuated Malaria Sporozoite Vaccines in an Indonesian Military Study Population.
 38531097	SARS-CoV-2 Seroprevalence and Vaccine Uptake among Pregnant Women at First Antenatal Care Visits in Malawi.
-38531688	From GWAS to functional variants: ARL14 cis-regulatory variants are associated with severe malaria.
 38530827	Use of a health worker-targeted smartphone app to support quality malaria RDT implementation in Busia County, Kenya: A feasibility and acceptability study.
 38530429	Insights into the mitochondrial cytochrome oxidase I (mt-COI) gene and wing morphometrics of Anopheles baimaii (Diptera: Culicidae) in malaria-endemic islands of Thailand.
 38530227	Methylene blue and its potential in the treatment of traumatic brain injury, brain ischemia, and Alzheimer's disease.
@@ -521,7 +527,7 @@
 38352500	Plasmodium RON11 triggers biogenesis of the merozoite rhoptry pair and is essential for erythrocyte invasion.
 38352463	Biogenesis of cytochromes c and c(1) in the electron transport chain of malaria parasites.
 38352461	Temporal and spatial dynamics of Plasmodium falciparum clonal lineages in Guyana.
-38352447	Global Release of Translational Repression Across Plasmodiums Host-to-Vector Transmission Event.
+38352447	Global Release of Translational Repression Across Plasmodium's Host-to-Vector Transmission Event.
 38352445	Detailing organelle division and segregation in Plasmodium falciparum.
 38352390	A cluster-randomized trial of client and provider directed financial interventions to align incentives with appropriate case management in private medicine retailers: results of the TESTsmART Trial in Lagos, Nigeria.
 38352311	Evidence of artemisinin partial resistance in North-western Tanzania: clinical and drug resistance markers study.
@@ -9991,9 +9997,3 @@
 35130301	Live-cell fluorescence imaging of microgametogenesis in the human malaria parasite Plasmodium falciparum.
 35129417	Achieving SDGs and addressing health emergencies in Africa: strengthening health promotion.
 35129342	Selenium Vacancies and Synergistic Effect of Near- and Far-Field-Enabled Ultrasensitive Surface-Enhanced Raman-Scattering-Active Substrates for Malaria Detection.
-35128894	[Epidemiological features and diagnosis of malaria cases in Nantong City from 2015 to 2020].
-35128891	[Epidemiological characteristics of imported malaria in Zhengzhou City from 2016 to 2020].
-35128884	[The world's first malaria vaccine: Hope and challenge].
-35128883	[Development and application of the world's first malaria subunit vaccine RTS, S/AS01].
-35128882	[Prospects and reflections on the research and development of next-generation malaria vaccines].
-35128881	[Potential challenges for large-scale uses of RTS, S/AS01 vaccine in malaria-endemic areas].
