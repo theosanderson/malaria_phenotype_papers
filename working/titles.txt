@@ -1,3 +1,8 @@
+38531688	From GWAS to functional variants: ARL14 cis-regulatory variants are associated with severe malaria.
+38531105	Evaluating Malaria Rapid Diagnostic Tests and Microscopy for Detecting Plasmodium Infection and Status of Plasmodium falciparum Histidine-Rich Protein 2/3 Gene Deletions in Southeastern Nigeria.
+38531104	Normal Clinical Laboratory Ranges by Age and Sex, and Impact on Study Screening Outcomes in Rural Mali.
+38531102	Implementation of a Randomized, Placebo-Controlled Trial of Live Attenuated Malaria Sporozoite Vaccines in an Indonesian Military Study Population.
+38531097	SARS-CoV-2 Seroprevalence and Vaccine Uptake among Pregnant Women at First Antenatal Care Visits in Malawi.
 38530827	Use of a health worker-targeted smartphone app to support quality malaria RDT implementation in Busia County, Kenya: A feasibility and acceptability study.
 38530429	Insights into the mitochondrial cytochrome oxidase I (mt-COI) gene and wing morphometrics of Anopheles baimaii (Diptera: Culicidae) in malaria-endemic islands of Thailand.
 38530227	Methylene blue and its potential in the treatment of traumatic brain injury, brain ischemia, and Alzheimer's disease.
@@ -9992,8 +9997,3 @@
 35128883	[Development and application of the world's first malaria subunit vaccine RTS, S/AS01].
 35128882	[Prospects and reflections on the research and development of next-generation malaria vaccines].
 35128881	[Potential challenges for large-scale uses of RTS, S/AS01 vaccine in malaria-endemic areas].
-35128880	[Field evaluation and future applications of the world's first malaria vaccine].
-35128812	Emerging quinoline- and quinolone-based antibiotics in the light of epidemics.
-35128300	The von Willebrand factor - ADAMTS-13 axis in malaria.
-35128113	Monitoring of synthetic insecticides resistance and mechanisms among malaria vector mosquitoes in Iran: A systematic review.
-35127555	Properties and Roles of γδT Cells in Plasmodium yoelii nigeriensis NSM Infected C57BL/6 Mice.
