@@ -1,3 +1,5 @@
+38530827	Use of a health worker-targeted smartphone app to support quality malaria RDT implementation in Busia County, Kenya: A feasibility and acceptability study.
+38530429	Insights into the mitochondrial cytochrome oxidase I (mt-COI) gene and wing morphometrics of Anopheles baimaii (Diptera: Culicidae) in malaria-endemic islands of Thailand.
 38530227	Methylene blue and its potential in the treatment of traumatic brain injury, brain ischemia, and Alzheimer's disease.
 38530030	Expression of the MSPDBL2 antigen in a discrete subset of Plasmodium falciparum schizonts is regulated by GDV1 but may not be linked to sexual commitment.
 38529311	Malaria: biochemical, physiological, diagnostic, and therapeutic updates.
@@ -9995,5 +9997,3 @@
 35128300	The von Willebrand factor - ADAMTS-13 axis in malaria.
 35128113	Monitoring of synthetic insecticides resistance and mechanisms among malaria vector mosquitoes in Iran: A systematic review.
 35127555	Properties and Roles of γδT Cells in Plasmodium yoelii nigeriensis NSM Infected C57BL/6 Mice.
-35127446	An atypical presentation of malaria in a 19-year-old woman.
-35127177	Incidence of Mortality among Under-Five-Year-Old Children Born to Women Living with HIV and Those Born to Women Not Living with HIV in Botswana: A 5-Year Retrospective Study.
