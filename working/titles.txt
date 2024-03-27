@@ -1,8 +1,8 @@
-38531688	From GWAS to functional variants: ARL14 cis-regulatory variants are associated with severe malaria.
 38531105	Evaluating Malaria Rapid Diagnostic Tests and Microscopy for Detecting Plasmodium Infection and Status of Plasmodium falciparum Histidine-Rich Protein 2/3 Gene Deletions in Southeastern Nigeria.
 38531104	Normal Clinical Laboratory Ranges by Age and Sex, and Impact on Study Screening Outcomes in Rural Mali.
 38531102	Implementation of a Randomized, Placebo-Controlled Trial of Live Attenuated Malaria Sporozoite Vaccines in an Indonesian Military Study Population.
 38531097	SARS-CoV-2 Seroprevalence and Vaccine Uptake among Pregnant Women at First Antenatal Care Visits in Malawi.
+38531688	From GWAS to functional variants: ARL14 cis-regulatory variants are associated with severe malaria.
 38530827	Use of a health worker-targeted smartphone app to support quality malaria RDT implementation in Busia County, Kenya: A feasibility and acceptability study.
 38530429	Insights into the mitochondrial cytochrome oxidase I (mt-COI) gene and wing morphometrics of Anopheles baimaii (Diptera: Culicidae) in malaria-endemic islands of Thailand.
 38530227	Methylene blue and its potential in the treatment of traumatic brain injury, brain ischemia, and Alzheimer's disease.
