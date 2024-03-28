@@ -1,3 +1,9 @@
+38537135	First Report of White Mucus Disease Caused by Fuligo gyrosa on Agrocybe chaxingu in China.
+38537079	Amino acid supplementation confers protection to red blood cells prior to Plasmodium falciparum bystander stress.
+38537036	Characterisation of the merozoite thrombospondin related anonymous protein (MTRAP) of Plasmodium berghei as a transmission-blocking antigen.
+38536856	Factors associated with the uptake of intermittent preventive treatment for malaria during pregnancy in Cameroon: An analysis of data from the 2018 Cameroon Demographic and Health Survey.
+38536824	Copayment mechanism in selected districts of Uganda: Availability, market share and price of quality assured artemisinin-based combination therapies in private drug outlets.
+38536795	Why do people sell their kidneys? A thematic synthesis of qualitative evidence.
 38535526	The Digestive Vacuole of the Malaria Parasite: A Specialized Lysosome.
 38534398	Hematin- and Hemin-Induced Spherization and Hemolysis of Human Erythrocytes Are Independent of Extracellular Calcium Concentration.
 38534252	Detection of Parasites in the Field: The Ever-Innovating CRISPR/Cas12a.
@@ -9991,9 +9997,3 @@
 35133414	Malaria.
 35132495	Structure and function of an atypical homodimeric actin capping protein from the malaria parasite.
 35131868	Liver Environment-Imposed Constraints Diversify Movement Strategies of Liver-Localized CD8 T Cells.
-35131427	Health and security risks of humanitarian aid workers during field missions: Experience of the International Red Cross.
-35131233	Recent progress in electrochemical sensors for detection and quantification of malaria.
-35130919	Correction to: Efficacy and safety of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum malaria and prevalence of molecular markers associated with artemisinin and partner drug resistance in Uganda.
-35130732	Multivalent Interactions Drive the Toxoplasma AC9:AC10:ERK7 Complex To Concentrate ERK7 in the Apical Cap.
-35130488	Polymerase Chain Reaction-Based Malaria Diagnosis Can Be Increasingly Adopted during Current Phase of Malaria Elimination in India.
-35130487	Multi-Dose Priming Regimens of PfSPZ Vaccine: Safety and Efficacy against Controlled Human Malaria Infection in Equatoguinean Adults.
