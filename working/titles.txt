@@ -1,3 +1,8 @@
+38538074	Severe antigen excess confounding the detection of Plasmodium falciparum via rapid antigen assay.
+38538037	Child Health and Infection with Low Density (CHILD) malaria: a protocol for a randomised controlled trial to assess the long-term health and socioeconomic impacts of testing and treating low-density malaria infection among children in Tanzania.
+38537842	Dichroa febrifuga Lour.: A review of its botany, traditional use, phytochemistry, pharmacological activities, toxicology, and progress in reducing toxicity.
+38537686	Ultrasensitive malaria detection system for Anopheles mosquito field surveillance using droplet digital PCR.
+38537337	Design, synthesis and Anti-Plasmodial activity of Mortiamide-Lugdunin conjugates.
 38537135	First Report of White Mucus Disease Caused by Fuligo gyrosa on Agrocybe chaxingu in China.
 38537079	Amino acid supplementation confers protection to red blood cells prior to Plasmodium falciparum bystander stress.
 38537036	Characterisation of the merozoite thrombospondin related anonymous protein (MTRAP) of Plasmodium berghei as a transmission-blocking antigen.
@@ -9992,8 +9997,3 @@
 35135050	Ethnic Variation and Its Association With Malaria Awareness: A Cross-sectional Study in East Nusa Tenggara Province, Indonesia.
 35134546	Imported malaria in children: A 13 years retrospective study.
 35134517	Tetrahymena thermophila granule lattice protein 3 improves solubility of sexual stage malaria antigens expressed in Escherichia coli.
-35134242	Towards improvement in malaria policy implementation in Nigeria: a qualitative study on factors influencing the translation of malaria policies to practice.
-35134206	The Fauna, Diversity, and Bionomics of Culicinae (Diptera: Culicidae) in Hormozgan Province, Southern Iran.
-35133414	Malaria.
-35132495	Structure and function of an atypical homodimeric actin capping protein from the malaria parasite.
-35131868	Liver Environment-Imposed Constraints Diversify Movement Strategies of Liver-Localized CD8 T Cells.
