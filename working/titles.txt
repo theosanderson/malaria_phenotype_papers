@@ -1,3 +1,17 @@
+38545439	Clockwork intruders: Do parasites manipulate their hosts' circadian rhythms?
+38543750	Potential Serological Misdiagnosis of Barmah Forest Virus and Ross River Virus Diseases as Chikungunya Virus Infections in Australia: Comparison of ELISA with Neutralization Assay Results.
+38543619	Immune Reactions of Vector Insects to Parasites and Pathogens.
+38543596	Wolbachia and Asaia Distribution among Different Mosquito Vectors Is Affected by Tissue Localization and Host Species.
+38543531	Killing of Plasmodium Sporozoites by Basic Amphipathic α-Helical Fusion Peptides.
+38543251	Magnetic Mesoporous Silica for Targeted Drug Delivery of Chloroquine: Synthesis, Characterization, and In Vitro Evaluation.
+38543034	Hybrid Peptide-Alkoxyamine Drugs: A Strategy for the Development of a New Family of Antiplasmodial Drugs.
+38540582	An Integrated Sample Referral System for HIV Viral Load and Early Infant Diagnosis in North-Western Province, Zambia-A Retrospective Cross-Sectional Study.
+38540355	Novel Ion Channel Genes in Malaria Parasites.
+38540118	An In Silico and In Vitro Assessment of the Neurotoxicity of Mefloquine.
+38539181	Implementation of post-discharge malaria chemoprevention (PDMC) in Benin, Kenya, Malawi, and Uganda: stakeholder engagement meeting report.
+38539155	A systematic review: is Anopheles vagus a species complex?
+38539129	Four antenatal care visits by four months of pregnancy and four vital tests for pregnant mothers: impact of a community-facility health systems strengthening intervention in Migori County, Kenya.
+38538661	Host metabolomic responses in recurrent P. vivax malaria.
 38538074	Severe antigen excess confounding the detection of Plasmodium falciparum via rapid antigen assay.
 38538037	Child Health and Infection with Low Density (CHILD) malaria: a protocol for a randomised controlled trial to assess the long-term health and socioeconomic impacts of testing and treating low-density malaria infection among children in Tanzania.
 38537842	Dichroa febrifuga Lour.: A review of its botany, traditional use, phytochemistry, pharmacological activities, toxicology, and progress in reducing toxicity.
@@ -9983,17 +9997,3 @@
 35139770	Spectroscopic observations of β-eudesmol binding to human cytochrome P450 isoforms 3A4 and 1A2, but not to isoforms 2C9, 2C19, and 2D6.
 35139744	Coumarins inhibit η-class carbonic anhydrase from Plasmodium falciparum.
 35139708	A new C-C linked benzophenathridine-2-quinoline dimer, and the antiplasmodial activity of alkaloids from Zanthoxylum holstzianum.
-35136568	Current status of insecticide resistance in malaria vectors in the Asian countries: a systematic review.
-35139212	Discrimination of 15 Amazonian Anopheline Mosquito Species by Polymerase Chain Reaction-Restriction Fragment Length Polymorphism.
-35137905	Antigenicity and adhesiveness of a Plasmodium vivax VIR-E protein from Brazilian isolates.
-35137095	A random survey of the prevalence of falsified and substandard antibiotics in the Lao PDR.
-35137072	Chloroquine-susceptible and -resistant Plasmodium falciparum strains survive high chloroquine concentrations by becoming dormant but are eliminated by prolonged exposure.
-35136229	Publisher Correction: The transcriptional regulator HDP1 controls expansion of the inner membrane complex during early sexual differentiation of malaria parasites.
-35136077	Untargeted metabolomics-based response analysis of temperature and insecticide exposure in Aedes aegypti.
-35135589	Evaluation of the effectiveness of BG-Sentinel and CDC light traps in assessing the abundance, richness, and community composition of mosquitoes in rural and natural areas.
-35135546	Effect of three years' seasonal malaria chemoprevention on molecular markers of resistance of Plasmodium falciparum to sulfadoxine-pyrimethamine and amodiaquine in Ouelessebougou, Mali.
-35135540	China's long march to malaria elimination: a case of adaptive management.
-35135536	Cross-sectional study of asymptomatic malaria and seroepidemiological surveillance of seven districts in Gia Lai province, Vietnam.
-35135050	Ethnic Variation and Its Association With Malaria Awareness: A Cross-sectional Study in East Nusa Tenggara Province, Indonesia.
-35134546	Imported malaria in children: A 13 years retrospective study.
-35134517	Tetrahymena thermophila granule lattice protein 3 improves solubility of sexual stage malaria antigens expressed in Escherichia coli.
