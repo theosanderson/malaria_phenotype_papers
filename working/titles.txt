@@ -1,3 +1,4 @@
+38548680	New pyridine-based chalcones and pyrazolines with anticancer, antibacterial, and antiplasmodial activities.
 38546223	Population-specific variations in KCNH2 predispose patients to delayed ventricular repolarization upon dihydroartemisinin-piperaquine therapy.
 38545439	Clockwork intruders: Do parasites manipulate their hosts' circadian rhythms?
 38543750	Potential Serological Misdiagnosis of Barmah Forest Virus and Ross River Virus Diseases as Chikungunya Virus Infections in Australia: Comparison of ELISA with Neutralization Assay Results.
@@ -9996,4 +9997,3 @@
 35140336	Cell biological analysis reveals an essential role for Pfcerli2 in erythrocyte invasion by malaria parasites.
 35140283	The fabrication and assessment of mosquito repellent cream for outdoor protection.
 35139770	Spectroscopic observations of β-eudesmol binding to human cytochrome P450 isoforms 3A4 and 1A2, but not to isoforms 2C9, 2C19, and 2D6.
-35139744	Coumarins inhibit η-class carbonic anhydrase from Plasmodium falciparum.
