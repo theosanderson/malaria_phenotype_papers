@@ -1,3 +1,13 @@
+38552155	Health problems and exposure to infectious risks in returning humanitarian aid workers.
+38551982	Assessment of Culicidae collection methods for xenomonitoring lymphatic filariasis in malaria co-infection context in Burkina Faso.
+38551457	Sex peptide receptor is not required for refractoriness to remating or induction of egg laying in Aedes aegypti.
+38551313	Uptake and challenges with daily oral pre-exposure prophylaxis among men who have sex with men and transgender women, suburban Yangon, Myanmar.
+38551013	Beninese Plant Extracts with Antiplasmodial Activity Select New Allele Variants Msp1 and Msp2 in Plasmodium falciparum.
+38550476	Health Problems Among Under-Five Age Group Children in Developing Countries: A Narrative Review.
+38549844	Cross-population applications of genomics to understand the risk of multifactorial traits involving inflammation and immunity.
+38549565	Effect of Malaria and Schistosoma mansoni Coinfection on Selected Biochemical Profiles among Patients Attending Selected Health Institutions at Dembiya, Northwest Ethiopia.
+38549091	Malaria infection and predictor factors among Chadian nomads' children.
+38548772	shinyMBA: a novel R shiny application for quality control of the multiplex bead assay for serosurveillance studies.
 38548680	New pyridine-based chalcones and pyrazolines with anticancer, antibacterial, and antiplasmodial activities.
 38546223	Population-specific variations in KCNH2 predispose patients to delayed ventricular repolarization upon dihydroartemisinin-piperaquine therapy.
 38545439	Clockwork intruders: Do parasites manipulate their hosts' circadian rhythms?
@@ -626,7 +636,7 @@
 38331084	Quinine and chloroquine: Potential preclinical candidates for the treatment of tegumentary Leishmaniasis.
 38330786	Quantifying the impact of interventions against Plasmodium vivax: A model for country-specific use.
 38330357	Recombinant full-length Plasmodium falciparum circumsporozoite protein-based vaccine adjuvanted with GLA-LSQ: Results of Phase 1 testing with malaria challenge.
-38330097	Zeb2 drives the formation of CD11c + atypical B cells to sustain germinal centers that control persistent infection.
+38330097	Zeb2 drives the formation of CD11c(+) atypical B cells to sustain germinal centers that control persistent infection.
 38329933	Antifungal and Antiparasitic Activities of Metallocene-Containing Fluconazole Derivatives.
 38329581	Genetics and metabolic responses of Artemisia annua L to the lake of phosphorus under the sparingly soluble phosphorus fertilizer: evidence from transcriptomics analysis.
 38329112	Modeling resource allocation strategies for insecticide-treated bed nets to achieve malaria eradication.
@@ -9987,13 +9997,3 @@
 35143565	Comparison of diagnostic performance between conventional and ultrasensitive rapid diagnostic tests for diagnosis of malaria: A systematic review and meta-analysis.
 35143523	Dynamics of Triatoma infestans populations in the Paraguayan Chaco: Population genetic analysis of household reinfestation following vector control.
 35143507	Awareness and perception of malaria and dengue at school and college level in the district of Multan.
-35143477	Multi-insecticide resistant malaria vectors in the field remain susceptible to malathion, despite the presence of Ace1 point mutations.
-35142775	N,N'-Substituted thioureas and their metal complexes: syntheses, structures and electronic properties.
-35142552	Draft Genome Sequence of Bacillus wiedmannii Biovar thuringiensis ZZQ-138, Isolated from a Saline Lake.
-35141436	Antiplasmodial activity and cytotoxicity of plant extracts from the Asteraceae and Rubiaceae families.
-35141172	Antigen Discovery in Circulating Extracellular Vesicles From Plasmodium vivax Patients.
-35140944	Bilateral basal ganglia infarction and bilateral thalamic lesions in sudanese pediatric patient with COVID-19 and malaria co-infection, a case report.
-35140633	Anopheles gambiae Actively Metabolizes Uric Acid Following Plasmodium Infection to Limit Malaria Parasite Survival.
-35140336	Cell biological analysis reveals an essential role for Pfcerli2 in erythrocyte invasion by malaria parasites.
-35140283	The fabrication and assessment of mosquito repellent cream for outdoor protection.
-35139770	Spectroscopic observations of β-eudesmol binding to human cytochrome P450 isoforms 3A4 and 1A2, but not to isoforms 2C9, 2C19, and 2D6.
