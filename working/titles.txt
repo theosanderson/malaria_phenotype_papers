@@ -1,3 +1,7 @@
+38553759	Optimizing malaria vector control in the Greater Mekong Subregion: a systematic review and mathematical modelling study to identify desirable intervention characteristics.
+38553737	Efficacy of artesunate-amodiaquine for treatment of uncomplicated Plasmodium falciparum malaria in mainland Tanzania.
+38552792	Immune interactions between mosquitoes and microbes during midgut colonization.
+38552654	The emergence of artemisinin partial resistance in Africa: how do we respond?
 38552155	Health problems and exposure to infectious risks in returning humanitarian aid workers.
 38551982	Assessment of Culicidae collection methods for xenomonitoring lymphatic filariasis in malaria co-infection context in Burkina Faso.
 38551457	Sex peptide receptor is not required for refractoriness to remating or induction of egg laying in Aedes aegypti.
@@ -513,7 +517,7 @@
 38369008	Unraveling the intricacies of host-pathogen interaction through single-cell genomics.
 38368631	ATG5-regulated CCL2/MCP-1 production in myeloid cells selectively modulates anti-malarial CD4(+) Th1 responses.
 38368353	Response of the mosquito immune system and symbiotic bacteria to pathogen infection.
-38367843	Azithromycin disrupts apicoplast biogenesis in replicating and dormant liver stages of the relapsing malaria parasites Plasmodium vivax and P. cynomolgi.
+38367843	Azithromycin disrupts apicoplast biogenesis in replicating and dormant liver stages of the relapsing malaria parasites Plasmodium vivax and Plasmodium cynomolgi.
 38367677	Polymorphisms in the human angiotensin converting enzyme gene (ACE) linked to susceptibility of COVID-19 and malaria infections in the Ghanaian population.
 38367661	Subcellular particles for characterization of host-parasite interactions.
 38367632	Under-representation of the WHO African region in clinical trials of interventions against hepatitis B virus infection.
@@ -9993,7 +9997,3 @@
 35143995	Morphological, ultrastructural, and molecular analysis of a new species of Myxobolus (Cnidaria, Myxosporea) parasitizing Apareiodon piracicabae (Characiformes, Parodontidae) from Brazil.
 35143840	Divergent allostery reveals critical differences between structurally homologous regulatory domains of Plasmodium falciparum and human protein kinase G.
 35143762	Evolutionary race: Malaria evolves to evade sickle cell protection.
-35143581	Correction: Balancing selection and high genetic diversity of Plasmodium vivax circumsporozoite central region in parasites from Brazilian Amazon and Rio de Janeiro Atlantic Forest.
-35143565	Comparison of diagnostic performance between conventional and ultrasensitive rapid diagnostic tests for diagnosis of malaria: A systematic review and meta-analysis.
-35143523	Dynamics of Triatoma infestans populations in the Paraguayan Chaco: Population genetic analysis of household reinfestation following vector control.
-35143507	Awareness and perception of malaria and dengue at school and college level in the district of Multan.
