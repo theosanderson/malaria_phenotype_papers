@@ -1,8 +1,8 @@
-38554736	Plasmodium falciparum Proteases as new drug targets with special focus on Metalloproteases.
 38555456	Antiplasmodial potential of phytochemicals from Citrus aurantifolia peels: a comprehensive in vitro and in silico study.
 38555455	Receipt of seasonal malaria chemoprevention by age-ineligible children and associated factors in nine implementation states in Nigeria.
 38554994	Ready for Renascence in Mosquito: The Regulation of Gene Expression in Plasmodium Sexual Development.
 38554852	Acute and subacute toxicological evaluation of the ethanol leaf extract of Morus mesozygia stapf. (Moraceae) in rodents.
+38554736	Plasmodium falciparum Proteases as new drug targets with special focus on Metalloproteases.
 38554474	Activity refinement of aryl amino acetamides that target the P. falciparum STAR-related lipid transfer 1 protein.
 38554166	Marine Natural Products as Novel Treatments for Parasitic Diseases.
 38554111	PbARID-associated chromatin remodeling events are essential for gametocyte development in Plasmodium.
