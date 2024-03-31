@@ -1,3 +1,5 @@
+38554166	Marine Natural Products as Novel Treatments for Parasitic Diseases.
+38554111	PbARID-associated chromatin remodeling events are essential for gametocyte development in Plasmodium.
 38553759	Optimizing malaria vector control in the Greater Mekong Subregion: a systematic review and mathematical modelling study to identify desirable intervention characteristics.
 38553737	Efficacy of artesunate-amodiaquine for treatment of uncomplicated Plasmodium falciparum malaria in mainland Tanzania.
 38552792	Immune interactions between mosquitoes and microbes during midgut colonization.
@@ -9995,5 +9997,3 @@
 35144535	Biennial surveillance of Plasmodium falciparum anti-malarial drug resistance markers in Democratic Republic of Congo, 2017 and 2019.
 35141425	10-year longitudinal study of malaria in children: Insights into acquisition and maintenance of naturally acquired immunity.
 35143995	Morphological, ultrastructural, and molecular analysis of a new species of Myxobolus (Cnidaria, Myxosporea) parasitizing Apareiodon piracicabae (Characiformes, Parodontidae) from Brazil.
-35143840	Divergent allostery reveals critical differences between structurally homologous regulatory domains of Plasmodium falciparum and human protein kinase G.
-35143762	Evolutionary race: Malaria evolves to evade sickle cell protection.
