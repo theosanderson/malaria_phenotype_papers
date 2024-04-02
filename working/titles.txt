@@ -1,3 +1,10 @@
+38563132	Effectiveness of Two New Endochin-like Quinolones, ELQ-596 and ELQ-650, in Experimental Mouse Models of Human Babesiosis.
+38563018	Higher body condition with infection by Haemoproteus parasites in Bananaquits (Coereba flaveola).
+38562903	Speciation within the Anopheles gambiae complex: high-throughput whole genome sequencing reveals evidence of a putative new cryptic taxon in 'far-west' Africa.
+38562697	Relationship between malaria vector survival, infectivity and insecticide treated net use in western Kenya.
+38562542	Investigating the Presence of Falsified and Poor-Quality Fixed-Dose Combination Artemether-Lumefantrine Pharmaceutical Dosage Forms in Kumasi, Ghana.
+38562219	Epstein - Barr Virus Salivary Shedding in Patients with Acute Infectious Diseases: A Pilot Study.
+38562204	Age-group associations of schistosomiasis prevalence from trial data, Côte d'Ivoire, Kenya and the United Republic of Tanzania.
 38560593	Food insecurity and associated health and social determinants among older adults in Ghana: Analysis of the WHO's study on global AGEing and adult health (SAGE), 2014-2015.
 38560466	Variation and trade-offs in life history traits of the protist parasite Monocystis perplexa (Apicomplexa) in its earthworm host Amynthas agrestis.
 38560365	Audit of essential medicine listing and registration status of medicines on standard treatment guidelines in Kenya, Tanzania and Uganda: Case study of malaria, tuberculosis, hypertension and type 2 diabetes mellitus.
@@ -9990,10 +9997,3 @@
 35155269	Monitoring Distribution Dynamics of EV RNA Cargo Within Recipient Monocytes and Macrophages.
 35154706	Notch signaling in the pathogenesis, progression and identification of potential targets for cholangiocarcinoma (Review).
 35154348	Chemical Composition and Insecticidal, Antiplasmodial, and Anti-Leishmanial Activity of Capparis spinosa Essential Oil and Its Main Constituents.
-35154114	Mast Cell Chymase/Mcpt4 Suppresses the Host Immune Response to Plasmodium yoelii, Limits Malaria-Associated Disruption of Intestinal Barrier Integrity and Reduces Parasite Transmission to Anopheles stephensi.
-35154104	'Bouncing Back' From Subclinical Malaria: Inflammation and Erythrocytosis After Resolution of P. falciparum Infection in Gambian Children.
-35153750	Anti-HCV Tannins From Plants Traditionally Used in West Africa and Extracted With Green Solvents.
-35153639	Momordica balsamina: phytochemistry and pharmacological potential of a gifted species.
-35151570	Pas-de-deux: African Plasmodium falciparum adaptations to sickle hemoglobin.
-35151337	Apoptotic changes and aquaporin-1 expression in the choroid plexus of cerebral malaria patients.
-35151332	The impact of the private sector co-payment mechanism (PSCM) on the private market for ACT in Nigeria: results of the 2018 cross-sectional outlet and household market surveys.
