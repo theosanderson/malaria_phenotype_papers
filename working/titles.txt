@@ -1,3 +1,19 @@
+38560593	Food insecurity and associated health and social determinants among older adults in Ghana: Analysis of the WHO's study on global AGEing and adult health (SAGE), 2014-2015.
+38560466	Variation and trade-offs in life history traits of the protist parasite Monocystis perplexa (Apicomplexa) in its earthworm host Amynthas agrestis.
+38560365	Audit of essential medicine listing and registration status of medicines on standard treatment guidelines in Kenya, Tanzania and Uganda: Case study of malaria, tuberculosis, hypertension and type 2 diabetes mellitus.
+38560195	DDT contamination in water resources of some African countries and its impact on water quality and human health.
+38560112	Machine learning approach to identify malaria risk in travelers using real-world evidence.
+38559731	Access to Artemisinin-Triazole Antimalarials via Organo-Click Reaction: High In Vitro/In Vivo Activity against Multi-Drug-Resistant Malaria Parasites.
+38559241	The dynamin-related protein Dyn2 is essential for both apicoplast and mitochondrial fission in Plasmodium falciparum.
+38559091	Dramatic resurgence of malaria after 7 years of intensive vector control interventions in Eastern Uganda.
+38559088	Copy number variants underlie the major selective sweeps in insecticide resistance genes in Anopheles arabiensis from Tanzania.
+38559068	The effect of single low-dose primaquine treatment for uncomplicated Plasmodium falciparum malaria on hemoglobin levels in Ethiopia: a longitudinal cohort study.
+38558939	Plasmodium falciparum Alba6 exhibits DNase activity and participates in stress response.
+38558553	Comparative prevalence of diarrheagenic Escherichia coli between children below five years with close contact to food animals in Kisumu County, Kenya.
+38558084	Structure-based identification of salicylic acid derivatives as malarial threonyl tRNA-synthetase inhibitors.
+38557578	Implementation and effectiveness outcomes of Community Health Advocacy Teams to improve long-lasting insecticide net distribution and use in six districts in Ghana: A one-group pre-post-test study.
+38557184	Spatial spillovers of violent conflict amplify the impacts of climate variability on malaria risk in sub-Saharan Africa.
+38556981	Next Generation Chemiluminescent Probes for Antimalarial Drug Discovery.
 38556881	Spatiotemporal distribution and bionomics of Anopheles stephensi in different eco-epidemiological settings in Ethiopia.
 38556861	Challenges of diagnosing severe malaria with complications in adult patients: a case report.
 38555456	Antiplasmodial potential of phytochemicals from Citrus aurantifolia peels: a comprehensive in vitro and in silico study.
@@ -777,7 +793,7 @@
 38290664	Burden of child mortality from malaria in high endemic areas: Results from the CHAMPS network using minimally invasive tissue sampling.
 38290351	Discovery of new piperaquine hybrid analogs linked by triazolopyrimidine and pyrazolopyrimidine scaffolds with antiplasmodial and transmission blocking activities.
 38290256	Subchronic doses of artemether-lumefantrine, ciprofloxacin and diclofenac precipitated inflammatory and immunological dysfunctions in female Wistar rats.
-38290009	A randomized first-in-human Phase 1 trial of differentially adjuvanted Pfs48/45 malaria vaccines in Burkinabé adults.
+38290009	A randomized first-in-human phase I trial of differentially adjuvanted Pfs48/45 malaria vaccines in Burkinabé adults.
 38289473	Identifying Fast and Slow-Acting Antimalarial Compounds of Pandemic Response Box Against Blood-Stage Culture of Plasmodium falciparum 3D7.
 38289124	Transmission-reducing and -enhancing monoclonal antibodies against Plasmodium vivax gamete surface protein Pvs48/45.
 38287956	Modeling the effect of climatic conditions and topography on malaria incidence using Poisson regression: a Retrospective study in Bannu, Khyber Pakhtunkhwa, Pakistan.
@@ -9981,19 +9997,3 @@
 35151570	Pas-de-deux: African Plasmodium falciparum adaptations to sickle hemoglobin.
 35151337	Apoptotic changes and aquaporin-1 expression in the choroid plexus of cerebral malaria patients.
 35151332	The impact of the private sector co-payment mechanism (PSCM) on the private market for ACT in Nigeria: results of the 2018 cross-sectional outlet and household market surveys.
-35150913	Potential use of antibodies to provide an earlier indication of lymphatic filariasis resurgence in post-mass drug ad ministration surveillance in American Samoa.
-35150882	IDSA guidance and ESCMID guidelines: complementary approaches toward a care standard for MDR Gram-negative infections.
-35150741	The tetrameric structure of Plasmodium falciparum phosphoglycerate mutase is critical for optimal enzymatic activity.
-35150720	Understanding dynamics of Plasmodium falciparum gametocytes production: Insights from an age-structured model.
-35149084	A simple quinoline salt derivative is active in vitro against Plasmodiumfalciparum asexual blood stages and inhibits the development of cerebral malaria in murine model.
-35148353	Residual efficacy of Fludora Fusion against Anopheles arabiensis in simple huts in Ethiopia.
-35147468	A Field Placement Approach to Enhance State and Local Capacity for Opioid-Related Issues Affecting Pregnant and Postpartum People and Infants Prenatally Exposed to Opioids and Other Substances.
-35147242	A predictive algorithm for identifying children with sickle cell anemia among children admitted to hospital with severe anemia in Africa.
-35146610	Promising effects of parasite-derived compounds on tumor regression: a systematic review of in vitro and in vivo studies.
-35146359	Neglected and (re-)emergent infections of the CNS i n low-/middle-income countries.
-35146354	Epidemiological and clinical features of Spanish flu in the city of Ferrara and in Italy. Containment rules and health measures adopted in the past to fight the pandemic.
-35146341	Clinical, epidemiological, and laboratory features of Rickettsia africae infection, African tick-bite fever: A systematic review.
-35146340	Loop-mediated isothermal amplification (LAMP) assay for the diagnosis of imported malaria: a narrative review.
-35145859	Post-artesunate delayed hemolysis after treatment of malaria with intravenous artesunate: A case study.
-35145217	Author Correction: Human blood type influences the host-seeking behavior and fecundity of the Asian malaria vector Anopheles stephensi.
-35145082	Mark-release-recapture experiment in Burkina Faso demonstrates reduced fitness and dispersal of genetically-modified sterile malaria mosquitoes.
