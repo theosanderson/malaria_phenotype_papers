@@ -1,3 +1,5 @@
+38568535	Numerical analysis and early detection of Plasmodium falciparum using a high performance plasmonic biosensor with an external sensing approach.
+38567972	mSphere of Influence: Deciphering purine auxotrophy in protozoan parasites.
 38566916	Antimalarial Efficacy of Ethanol Extract of Bridelia micrantha Stem Bark against Plasmodium berghei-Infected Mice.
 38566232	Factors associated with anemia among reproductive age women in Nigeria; evidenced by the Nigeria malaria indicators survey: spatial and multilevel model analysis.
 38566043	Assessing the implementation fidelity, feasibility, and sustainability of community-based house improvement for malaria control in southern Malawi: a mixed-methods study.
@@ -9995,5 +9997,3 @@
 35163118	Suitability of GRK Antibodies for Individual Detection and Quantification of GRK Isoforms in Western Blots.
 35162991	Mapping PP1c and Its Inhibitor 2 Interactomes Reveals Conserved and Specific Networks in Asexual and Sexual Stages of Plasmodium.
 35162917	Predicting Infectious Diseases: A Bibliometric Review on Africa.
-35162229	Prevalence of Signs of Severity Identified in the Thai Population with Malaria: A Systematic Review and Meta-Analysis.
-35160232	Resistance to Antimalarial Monotherapy Is Cyclic.
