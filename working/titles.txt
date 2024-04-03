@@ -1,7 +1,8 @@
+38566916	Antimalarial Efficacy of Ethanol Extract of Bridelia micrantha Stem Bark against Plasmodium berghei-Infected Mice.
 38566232	Factors associated with anemia among reproductive age women in Nigeria; evidenced by the Nigeria malaria indicators survey: spatial and multilevel model analysis.
 38566043	Assessing the implementation fidelity, feasibility, and sustainability of community-based house improvement for malaria control in southern Malawi: a mixed-methods study.
-38565119	[Gastrointestinal symptoms may reflect complicated falciparum malaria].
 38565335	Identification of a novel protein localized to the crystalloid of the plasmodium ookinete.
+38565119	[Gastrointestinal symptoms may reflect complicated falciparum malaria].
 38564734	MYST regulates DNA repair and forms a NuA4-like complex in the malaria parasite Plasmodium falciparum.
 38564676	PfCAP-H is essential for assembly of condensin I complex and karyokinesis during asexual proliferation of Plasmodium falciparum.
 38564425	A data browsing application for accessing gene and module-level blood transcriptome profiles of healthy pregnant women from high- and low-resource settings.
@@ -9996,4 +9997,3 @@
 35162917	Predicting Infectious Diseases: A Bibliometric Review on Africa.
 35162229	Prevalence of Signs of Severity Identified in the Thai Population with Malaria: A Systematic Review and Meta-Analysis.
 35160232	Resistance to Antimalarial Monotherapy Is Cyclic.
-35159951	MicroRNAs miR-451a and Let-7i-5p Profiles in Circulating Exosomes Vary among Individuals with Different Sickle Hemoglobin Genotypes and Malaria.
