@@ -1,3 +1,4 @@
+38573213	A Framework for Unsupervised Profiling of Malaria Vectors' Insecticide Resistance Using Machine Learning Technique.
 38572444	Deferiprone-resveratrol hybrid attenuates iron accumulation, oxidative stress, and antioxidant defenses in iron-loaded human Huh7 hepatic cells.
 38572319	Inhibition of malaria and babesiosis parasites by putative red blood cell targeting small molecules.
 38571392	YF17D-based vaccines - standing on the shoulders of a giant.
@@ -9996,4 +9997,3 @@
 35164781	The impact of Covid-19 on malaria services in three high endemic districts in Rwanda: a mixed-method study.
 35164770	Community engagement for malaria elimination in the Greater Mekong Sub-region: a qualitative study among malaria researchers and policymakers.
 35164768	Dry-season transmission and determinants of Plasmodium infections in Jawi district, northwest Ethiopia.
-35164759	Forest malaria and prospects for anti-malarial chemoprophylaxis among forest goers: findings from a qualitative study in Thailand.
