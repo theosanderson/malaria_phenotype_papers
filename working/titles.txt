@@ -1,3 +1,10 @@
+38570854	Insights and challenges of insecticide resistance modelling in malaria vectors: a review.
+38570791	Efficacy of artemether-lumefantrine and dihydroartemisinin-piperaquine and prevalence of molecular markers of anti-malarial drug resistance in children in Togo in 2021.
+38570086	Role of angiotensin pathway and its target therapy to rescue from experimental cerebral malaria.
+38569883	Searching for new molecules involved in Anopheles mosquitoes' response to Plasmodium infection.
+38569742	Public health relevance of medicines developed under paediatric legislation in Europe and the USA: a systematic mapping study.
+38569659	Effect of the COVID-19 pandemic on HIV, malaria and tuberculosis indicators in Togo: an interrupted time series analysis.
+38569430	Extracellular vesicles derived from plasmodium-infected red blood cells alleviate cerebral malaria in plasmodium berghei ANKA-infected C57BL/6J mice.
 38569001	Level of and factors associated with optimal uptake of intermittent preventive treatment for malaria in pregnancy at private-not-for-profit health facilities in Kasese district.
 38568905	Trends in SARS-CoV-2 seroprevalence among pregnant women attending first antenatal care visits in Zambia: A repeated cross-sectional survey, 2021-2022.
 38568535	Numerical analysis and early detection of Plasmodium falciparum using a high performance plasmonic biosensor with an external sensing approach.
@@ -9990,10 +9997,3 @@
 35164748	Scientific achievements and reflections after 20 years of vector biology and control research at the Pu Teuy mosquito field research station, Thailand.
 35164747	Modelling spatiotemporal trends in the frequency of genetic mutations conferring insecticide target-site resistance in African mosquito malaria vector species.
 35164549	Roles of Ferredoxin-Dependent Proteins in the Apicoplast of Plasmodium falciparum Parasites.
-35164267	A Review of Modifications of Quinoline Antimalarials: Mefloquine and (hydroxy)Chloroquine.
-35163977	Naphthoquine: A Potent Broad-Spectrum Anti-Coronavirus Drug In Vitro.
-35163971	The Reductive Dehydroxylation Catalyzed by IspH, a Source of Inspiration for the Development of Novel Anti-Infectives.
-35163774	Evolutionary Analysis of Dipeptidyl Peptidase I.
-35163439	Slipknot or Crystallographic Error: A Computational Analysis of the Plasmodium falciparum DHFR Structural Folds.
-35163118	Suitability of GRK Antibodies for Individual Detection and Quantification of GRK Isoforms in Western Blots.
-35162991	Mapping PP1c and Its Inhibitor 2 Interactomes Reveals Conserved and Specific Networks in Asexual and Sexual Stages of Plasmodium.
