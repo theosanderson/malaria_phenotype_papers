@@ -1,3 +1,5 @@
+38569001	Level of and factors associated with optimal uptake of intermittent preventive treatment for malaria in pregnancy at private-not-for-profit health facilities in Kasese district.
+38568905	Trends in SARS-CoV-2 seroprevalence among pregnant women attending first antenatal care visits in Zambia: A repeated cross-sectional survey, 2021-2022.
 38568535	Numerical analysis and early detection of Plasmodium falciparum using a high performance plasmonic biosensor with an external sensing approach.
 38567972	mSphere of Influence: Deciphering purine auxotrophy in protozoan parasites.
 38566916	Antimalarial Efficacy of Ethanol Extract of Bridelia micrantha Stem Bark against Plasmodium berghei-Infected Mice.
@@ -511,7 +513,6 @@
 38387476	Chronic malaria exposure is associated with inhibitory markers on T cells that correlate with atypical memory and marginal zone-like B cells.
 38386689	Wait and watch: A trachoma surveillance strategy from Amhara region, Ethiopia.
 38386597	Prodomain-driven enzyme dimerization: a pH-dependent autoinhibition mechanism that controls Plasmodium Sub1 activity before merozoite egress.
-38386447	Preventing malaria spread in the US.
 38386446	Preventing malaria spread in the US.
 38386290	An Investigation into the Larvicidal Activity of Biologically Synthesized Silver and Copper Oxide Nanoparticles Against Mosquito Larvae.
 38385445	Association of temperature and precipitation with malaria incidence in 57 countries and territories from 2000 to 2019: A worldwide observational study.
@@ -9996,4 +9997,3 @@
 35163439	Slipknot or Crystallographic Error: A Computational Analysis of the Plasmodium falciparum DHFR Structural Folds.
 35163118	Suitability of GRK Antibodies for Individual Detection and Quantification of GRK Isoforms in Western Blots.
 35162991	Mapping PP1c and Its Inhibitor 2 Interactomes Reveals Conserved and Specific Networks in Asexual and Sexual Stages of Plasmodium.
-35162917	Predicting Infectious Diseases: A Bibliometric Review on Africa.
