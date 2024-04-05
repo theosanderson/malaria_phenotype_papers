@@ -1,3 +1,10 @@
+38575937	Low long-lasting insecticidal net use in malaria elimination areas in Southern Ethiopia: results from community based cross-sectional study.
+38575935	A case of severe Plasmodium ovale malaria with acute respiratory distress syndrome and splenic infarction in a male traveller presenting in Italy.
+38575357	Differential effects of translation inhibitors on Plasmodium berghei liver stage parasites.
+38574776	Parasitological and clinical effects of malaria chemoprevention with sulfadoxine-pyrimethamine in pregnant women from southern Mozambique.
+38574553	Systematic Reviews and Meta-Analyses to Inform Recommendations for the Final Phase of Elimination and Prevention of Re-Establishment of Malaria.
+38574550	Systematic Review and Geospatial Modeling of Molecular Markers of Resistance to Artemisinins and Sulfadoxine-Pyrimethamine in Plasmodium falciparum in India.
+38574448	Regulation of sexual commitment in malaria parasites - a complex affair.
 38574236	LC3B labeling of the parasitophorous vacuole membrane of Plasmodium berghei liver stage parasites depends on the V-ATPase and ATG16L1.
 38573967	Correction for Day et al., Evidence of strain structure in Plasmodium falciparum var gene repertoires in children from Gabon, West Africa.
 38573856	The essential malaria protein PfCyRPA targets glycans to invade erythrocytes.
@@ -9990,10 +9997,3 @@
 35168517	No Effect of PXR (8055C>T) Polymorphism on the Pharmacokinetic Profiles of Piperaquine in Healthy Chinese Subjects.
 35168120	Synthesis, biological evaluation, Structure - Activity relationship studies of quinoline-imidazole derivatives as potent antimalarial agents.
 35167765	Lyme disease transmission by severely impaired ticks.
-35167490	Human antibodies against noncircumsporozoite proteins block Plasmodium falciparum parasite development in hepatocytes.
-35166000	Asymmetric Synthesis of N-Substituted 1,2-Amino Alcohols from Simple Aldehydes and Amines by One-Pot Sequential Enzymatic Hydroxymethylation and Asymmetric Reductive Amination.
-35165872	Addressing the health-related SDGs in the Eastern Mediterranean Region: Regional Health Alliance strengthens collaboration towards better health.
-35165557	An Unusual Case of Persistent Hypoglycemia in Scrub Typhus.
-35164890	Regional variations in child and mother's characteristics influencing the use of insecticide treated net in Nigeria.
-35164867	Seasonality and transmissibility of Plasmodium ovale in Bagamoyo District, Tanzania.
-35164852	Distribution of acetylcholinesterase (Ace-1(R)) target-site G119S mutation and resistance to carbamates and organophosphates in Anopheles gambiae sensu lato populations from Cameroon.
