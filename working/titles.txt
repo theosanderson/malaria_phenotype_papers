@@ -1,3 +1,6 @@
+38574236	LC3B labeling of the parasitophorous vacuole membrane of Plasmodium berghei liver stage parasites depends on the V-ATPase and ATG16L1.
+38573967	Correction for Day et al., Evidence of strain structure in Plasmodium falciparum var gene repertoires in children from Gabon, West Africa.
+38573856	The essential malaria protein PfCyRPA targets glycans to invade erythrocytes.
 38573213	A Framework for Unsupervised Profiling of Malaria Vectors' Insecticide Resistance Using Machine Learning Technique.
 38572444	Deferiprone-resveratrol hybrid attenuates iron accumulation, oxidative stress, and antioxidant defenses in iron-loaded human Huh7 hepatic cells.
 38572319	Inhibition of malaria and babesiosis parasites by putative red blood cell targeting small molecules.
@@ -9994,6 +9997,3 @@
 35164890	Regional variations in child and mother's characteristics influencing the use of insecticide treated net in Nigeria.
 35164867	Seasonality and transmissibility of Plasmodium ovale in Bagamoyo District, Tanzania.
 35164852	Distribution of acetylcholinesterase (Ace-1(R)) target-site G119S mutation and resistance to carbamates and organophosphates in Anopheles gambiae sensu lato populations from Cameroon.
-35164781	The impact of Covid-19 on malaria services in three high endemic districts in Rwanda: a mixed-method study.
-35164770	Community engagement for malaria elimination in the Greater Mekong Sub-region: a qualitative study among malaria researchers and policymakers.
-35164768	Dry-season transmission and determinants of Plasmodium infections in Jawi district, northwest Ethiopia.
