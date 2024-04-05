@@ -1,10 +1,19 @@
+38577653	Aetiology of non-malaria acute febrile illness fever in children in rural Guinea-Bissau: a prospective cross-sectional investigation.
+38577386	Global malaria eradication: Insights from Cabo Verde and implications for sub-Saharan Africa.
+38577385	Elimination of malaria in Cabo Verde: Lessons for Nigeria.
+38576926	Breaking the malaria barrier: the WHO-approved R21/Matrix-M vaccine and its global impact - an editorial.
+38576602	Incidence of Helminthic and Viral Coinfections in Malaria Patients in the Tertiary Care Hospital Setup.
+38576584	Determinants of malaria prevention and control at household level in Assam: An analysis of data using composite index.
+38576489	A comprehensive review of ethnomedicinal approaches, phytochemical analysis, and pharmacological potential of Vitex trifolia L.
+38576479	The ethnomedicine, phytochemistry, and pharmacological properties of the genus Bersama: current review and future perspectives.
+38576391	Comprehensive Proteomics Analysis of the Hemolymph Composition of Sugar-Fed Aedes aegypti Female and Male Mosquitoes.
+38575937	Low long-lasting insecticidal net use in malaria elimination areas in Southern Ethiopia: results from community based cross-sectional study.
+38575935	A case of severe Plasmodium ovale malaria with acute respiratory distress syndrome and splenic infarction in a male traveller presenting in Italy.
+38575357	Differential effects of translation inhibitors on Plasmodium berghei liver stage parasites.
 38574776	Parasitological and clinical effects of malaria chemoprevention with sulfadoxine-pyrimethamine in pregnant women from southern Mozambique.
 38574553	Systematic Reviews and Meta-Analyses to Inform Recommendations for the Final Phase of Elimination and Prevention of Re-Establishment of Malaria.
 38574550	Systematic Review and Geospatial Modeling of Molecular Markers of Resistance to Artemisinins and Sulfadoxine-Pyrimethamine in Plasmodium falciparum in India.
 38574448	Regulation of sexual commitment in malaria parasites - a complex affair.
-38575937	Low long-lasting insecticidal net use in malaria elimination areas in Southern Ethiopia: results from community based cross-sectional study.
-38575935	A case of severe Plasmodium ovale malaria with acute respiratory distress syndrome and splenic infarction in a male traveller presenting in Italy.
-38575357	Differential effects of translation inhibitors on Plasmodium berghei liver stage parasites.
 38574236	LC3B labeling of the parasitophorous vacuole membrane of Plasmodium berghei liver stage parasites depends on the V-ATPase and ATG16L1.
 38573967	Correction for Day et al., Evidence of strain structure in Plasmodium falciparum var gene repertoires in children from Gabon, West Africa.
 38573856	The essential malaria protein PfCyRPA targets glycans to invade erythrocytes.
@@ -9988,12 +9997,3 @@
 35170466	Prevalence of Pfhrp2/3 gene deletions among false negative rapid antigen test results in central India.
 35170464	Pretreatment gametocyte carriage in symptomatic patients with Plasmodium falciparum and Plasmodium vivax infections on the Thai-Myanmar border.
 35170463	Early indicators of high disease severity in imported falciparum malaria and their implications for supportive therapy.
-35170459	Durability, household usage and washing pattern of DuraNet(©) and Interceptor(®) long-lasting insecticidal nets in long-term field trials in India.
-35170457	Community sensitization to improve acceptability of indoor residual spraying (IRS) in Mewat district of Haryana, India: A community-based interventional study.
-35169627	Diversity and host assemblage of avian haemosporidians in different terrestrial ecoregions of Peru.
-35169368	Redesigning Primer of ITS2 (Internal Transcribed Spacer 2) for Specific Molecular Characterization of Malaria Vectors Anopheles Species.
-35168980	Identifying forms of interventions towards cross border malaria in the Asia-Pacific region: a scoping review protocol.
-35168649	Development and optimizing a simple and cost-effective medium for in vitro culture of Plasmodium berghei-ANKA strain with conserving its infectivity in BALB/c mice.
-35168517	No Effect of PXR (8055C>T) Polymorphism on the Pharmacokinetic Profiles of Piperaquine in Healthy Chinese Subjects.
-35168120	Synthesis, biological evaluation, Structure - Activity relationship studies of quinoline-imidazole derivatives as potent antimalarial agents.
-35167765	Lyme disease transmission by severely impaired ticks.
