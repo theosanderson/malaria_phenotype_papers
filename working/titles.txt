@@ -830,7 +830,7 @@
 38295480	Enhancing medical image analysis with unsupervised domain adaptation approach across microscopes and magnifications.
 38295409	Dantu Blood Group Erythrocytes Form Large Plasmodium falciparum Rosettes Less Commonly.
 38295141	Is Brazil reaching malaria elimination? A time series analysis of malaria cases from 2011 to 2023.
-38294761	Molecular Survey of Haemosporidian Parasites in Procellariiformes Sampled in Southern Brazil, 2013-2022.
+38294761	Molecular Survey of Haemosporidian Parasites in Procellariiformes Sampled in Southern Brazil, 2013-22.
 38294233	The Association between Long-Term DDT or DDE Exposures and an Altered Sperm Epigenome-a Cross-Sectional Study of Greenlandic Inuit and South African VhaVenda Men.
 38293736	Compound Activity Prediction with Dose-Dependent Transcriptomic Profiles and Deep Learning.
 38293180	Nationwide surveillance identifies yellow fever and chikungunya viruses transmitted by various species of Aedes mosquitoes in Nigeria.
