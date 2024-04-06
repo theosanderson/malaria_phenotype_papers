@@ -1,3 +1,5 @@
+38579091	Concurrent management of HIV and malaria: A comprehensive review of strategies to enhance quality of life.
+38578987	MALrisk: a machne-learning based tool to predict imported malaria in returned travellers with fever.
 38577653	Aetiology of non-malaria acute febrile illness fever in children in rural Guinea-Bissau: a prospective cross-sectional investigation.
 38577386	Global malaria eradication: Insights from Cabo Verde and implications for sub-Saharan Africa.
 38577385	Elimination of malaria in Cabo Verde: Lessons for Nigeria.
@@ -161,7 +163,7 @@
 38519039	Endothelial LAT1 (SLC7A5) Mediates S-Nitrosothiol Import and Modulates Respiratory Sequelae of Red Blood Cell Transfusion In Vivo.
 38519002	Biomolecular interactions between Plasmodium and human host: A basis of targeted antimalarial therapy.
 38518861	Plasmodium falciparum heat shock proteins as antimalarial drug targets: An update.
-38518834	Prevalence and Genetic Diversity of Simian Malaria in Wild Macaque Populations Across Thailand: Implications for Human Health.
+38518834	Prevalence and genetic diversity of simian malaria in wild macaque populations across Thailand: Implications for human health.
 38517977	Size-dependent self-avoidance enables superdiffusive migration in macroscopic unicellulars.
 38517746	Quantification of sporozoite expelling by Anopheles mosquitoes infected with laboratory and naturally circulating P. falciparum gametocytes.
 38517190	A nanochitosan-D-galactose formulation increases the accumulation of primaquine in the liver.
@@ -9995,5 +9997,3 @@
 35170676	Evaluation of LAMP for the diagnosis of Loa loa infection in dried blood spots compared to PCR-based assays and microscopy.
 35170467	Reappearance and disappearance of Anopheles minimus Theobald (Diptera: Culicidae) in West Singhbhum hills of Eastern India.
 35170466	Prevalence of Pfhrp2/3 gene deletions among false negative rapid antigen test results in central India.
-35170464	Pretreatment gametocyte carriage in symptomatic patients with Plasmodium falciparum and Plasmodium vivax infections on the Thai-Myanmar border.
-35170463	Early indicators of high disease severity in imported falciparum malaria and their implications for supportive therapy.
