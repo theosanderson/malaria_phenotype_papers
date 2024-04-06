@@ -1,3 +1,6 @@
+38580377	Setting up a data system for monitoring malaria vaccine introduction readiness and uptake in 42 health districts in Cameroon.
+38580079	Modeling the synergistic interplay between malaria dynamics and economic growth.
+38579702	Malaria Slide Bank to Strengthen and Improve the Quality of Malaria Diagnosis: A National Slide Repository in India.
 38579091	Concurrent management of HIV and malaria: A comprehensive review of strategies to enhance quality of life.
 38578987	MALrisk: a machne-learning based tool to predict imported malaria in returned travellers with fever.
 38577653	Aetiology of non-malaria acute febrile illness fever in children in rural Guinea-Bissau: a prospective cross-sectional investigation.
@@ -37,7 +40,7 @@
 38566916	Antimalarial Efficacy of Ethanol Extract of Bridelia micrantha Stem Bark against Plasmodium berghei-Infected Mice.
 38566232	Factors associated with anemia among reproductive age women in Nigeria; evidenced by the Nigeria malaria indicators survey: spatial and multilevel model analysis.
 38566043	Assessing the implementation fidelity, feasibility, and sustainability of community-based house improvement for malaria control in southern Malawi: a mixed-methods study.
-38565335	Identification of a novel protein localized to the crystalloid of the plasmodium ookinete.
+38565335	Identification of a novel protein localized to the crystalloid of the Plasmodium ookinete.
 38565119	[Gastrointestinal symptoms may reflect complicated falciparum malaria].
 38564734	MYST regulates DNA repair and forms a NuA4-like complex in the malaria parasite Plasmodium falciparum.
 38564676	PfCAP-H is essential for assembly of condensin I complex and karyokinesis during asexual proliferation of Plasmodium falciparum.
@@ -9994,6 +9997,3 @@
 35172584	Perceptions of long-term impact and change following a midwife-led biomass smoke education program for mothers in rural Uganda: a qualitative study.
 35172158	The light chain of the L9 antibody is critical for binding circumsporozoite protein minor repeats and preventing malaria.
 35172107	New Insights on Drug-Resistant Clinical Isolates of Leishmania infantum-Infected Human Macrophages as Determined by Comparative Transcriptome Analyses.
-35170676	Evaluation of LAMP for the diagnosis of Loa loa infection in dried blood spots compared to PCR-based assays and microscopy.
-35170467	Reappearance and disappearance of Anopheles minimus Theobald (Diptera: Culicidae) in West Singhbhum hills of Eastern India.
-35170466	Prevalence of Pfhrp2/3 gene deletions among false negative rapid antigen test results in central India.
