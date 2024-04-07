@@ -1,3 +1,13 @@
+38582941	Genomics reveals heterogeneous Plasmodium falciparum transmission and selection signals in Zambia.
+38582837	Genotyping Plasmodium falciparum gametocytes using amplicon deep sequencing.
+38582836	Transcriptomic analysis of Anopheles gambiae from Benin reveals overexpression of salivary and cuticular proteins associated with cross-resistance to pyrethroids and organophosphates.
+38582830	Efficacy and safety of artemether-lumefantrine for the treatment of uncomplicated falciparum malaria in mainland Tanzania, 2018.
+38582683	A paradigm for Africa-centric vaccine development in Equatorial Guinea.
+38582581	Oxidative stress induction by essential oil from Piper alatipetiolatum (Piperaceae) triggers lethality in the larvae of Culex quinquefasciatus (Diptera: Culicidae).
+38582533	Public health surveillance through community health workers: a scoping review of evidence from 25 low-income and middle-income countries.
+38582094	Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.
+38582046	Disclosure of cinnamic acid/4,9-diaminoacridine conjugates as multi-stage antiplasmodial hits.
+38581661	Proliferation in malaria parasites: how resource limitation can prevent evolution of greater virulence.
 38580377	Setting up a data system for monitoring malaria vaccine introduction readiness and uptake in 42 health districts in Cameroon.
 38580079	Modeling the synergistic interplay between malaria dynamics and economic growth.
 38579702	Malaria Slide Bank to Strengthen and Improve the Quality of Malaria Diagnosis: A National Slide Repository in India.
@@ -9987,13 +9997,3 @@
 35175749	Stereo-Defined Acyclic Nucleoside Phosphonates are Selective and Potent Inhibitors of Parasite 6-Oxopurine Phosphoribosyltransferases.
 35175636	Neutrophils in malaria: The good, the bad or the ugly?
 35175513	An Ethical Overview of the CRISPR-Based Elimination of Anopheles gambiae to Combat Malaria.
-35174629	Quinoline-Dihydropyrimidin-2(1H)-one Hybrids: Synthesis, Biological Activity, and Mechanistic Studies.
-35173966	Environmental and health risks posed to children by artisanal gold mining: A systematic review.
-35173215	A testis-expressing heme peroxidase HPX12 regulates male fertility in the mosquito Anopheles stephensi.
-35173157	Early alveolar macrophage response and IL-1R-dependent T cell priming determine transmissibility of Mycobacterium tuberculosis strains.
-35172833	Detection of asymptomatic malaria in Asian countries: a meta-analysis of diagnostic accuracy.
-35172826	Similarly efficacious anti-malarial drugs SJ733 and pyronaridine differ in their ability to remove circulating parasites in mice.
-35172825	5WBF: a low-cost and straightforward whole blood filtration method suitable for whole-genome sequencing of Plasmodium falciparum clinical isolates.
-35172584	Perceptions of long-term impact and change following a midwife-led biomass smoke education program for mothers in rural Uganda: a qualitative study.
-35172158	The light chain of the L9 antibody is critical for binding circumsporozoite protein minor repeats and preventing malaria.
-35172107	New Insights on Drug-Resistant Clinical Isolates of Leishmania infantum-Infected Human Macrophages as Determined by Comparative Transcriptome Analyses.
