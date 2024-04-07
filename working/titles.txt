@@ -319,8 +319,8 @@
 38459499	Predictors of birth weight in pregnant women with malaria: a prospective cohort facility-based study in Webuye-Kenya.
 38459096	Enhancing parasitic organism detection in microscopy images through deep learning and fine-tuned optimizer.
 38458223	Uncovering HIV and malaria interactions: the latest evidence and knowledge gaps.
-38457638	Diagnostic challenges of recurrent malaria in non-endemic areas.
-38457636	Dihydroartemisinin-piperaquine treatment failure of uncomplicated plasmodium falciparum malaria infection in a traveller.
+38457638	Diagnostic challenges of recurrent malaria in non-endemic areas†.
+38457636	Dihydroartemisinin-piperaquine treatment failure of uncomplicated Plasmodium falciparum malaria infection in a traveller.
 38456679	Cryogenic electron tomography reveals novel structures in the apical complex of Plasmodium falciparum.
 38456216	Green cities and vector-borne diseases: emerging concerns and opportunities.
 38456097	Quercetin as a Promising Antiprotozoan Phytochemical: Current Knowledge and Future Research Avenues.
@@ -800,7 +800,7 @@
 38307966	Profiling the antibody response of humans protected by immunization with Plasmodium vivax radiation-attenuated sporozoites.
 38307878	Malaria seroepidemiology in very low transmission settings in the Peruvian Amazon.
 38307624	Targeting circulating labile heme as a defense strategy against malaria.
-38307519	Leveraging community advisory boards within travel medicine to help reduce malaria incidence in refugees, immigrants and migrants visiting friends and relatives abroad: reflections from the Minnesota malaria community advisory board on patient-provider interactions.
+38307519	Leveraging community advisory boards within travel medicine to help reduce malaria incidence in refugees, immigrants and migrants visiting friends and relatives abroad: reflections from the Minnesota Malaria Community Advisory Board on patient-provider interactions.
 38306915	Hungry for control: metabolite signaling to chromatin in Plasmodium falciparum.
 38306342	Health systems impacts of the COVID-19 pandemic on malaria control program implementation and malaria burden in Benin: A mixed-method qualitative and mathematical modelling and study.
 38306208	How Racism and "Tropical Medicine" Built the Panama Canal.
@@ -1233,7 +1233,7 @@
 38157646	Concomitant assessment of PD-1 and CD56 expression identifies subsets of resting cord blood Vδ2 T cells with disparate cytotoxic potential.
 38157513	Artemisinin-Resistant HRP2-Negative Malaria in Eritrea. Reply.
 38157512	Artemisinin-Resistant HRP2-Negative Malaria in Eritrea.
-38157311	Failure of artemether-lumefantrine therapy in travellers returning to Belgium with plasmodium falciparum malaria: an observational case series with genomic analysis.
+38157311	Failure of artemether-lumefantrine therapy in travellers returning to Belgium with Plasmodium falciparum malaria: an observational case series with genomic analysis.
 38157022	Relative importance of VECTRI model parameters in the malaria disease transmission and prevalence.
 38156320	SARS-CoV-2 decreases malaria severity in co-infected rodent models.
 38156001	Comparative analysis of codon usage patterns of Plasmodium helical interspersed subtelomeric (PHIST) proteins.
