@@ -1,3 +1,9 @@
+38584269	The impact of conflict on infectious disease: a systematic literature review.
+38584058	A phase IIa, randomized, double-blind, safety, immunogenicity and efficacy trial of Plasmodium falciparum vaccine antigens merozoite surface protein 1 and RTS,S formulated with AS02 adjuvant in healthy, malaria-naïve adults.
+38583823	A severe case of Plasmodium falciparum malaria in a traveler returning from Kazakhstan, a malaria-free country.
+38583454	Feasibility, safety, and impact of the RTS,S/AS01(E) malaria vaccine when implemented through national immunisation programmes: evaluation of cluster-randomised introduction of the vaccine in Ghana, Kenya, and Malawi.
+38583452	First-generation malaria vaccine successfully implemented in three African countries.
+38583359	Serodiagnosis of paucibacillary and multibacillary leprosy using a recombinant chimeric protein composed of specific B-cell epitopes derived from Mycobacterium leprae proteins.
 38582941	Genomics reveals heterogeneous Plasmodium falciparum transmission and selection signals in Zambia.
 38582837	Genotyping Plasmodium falciparum gametocytes using amplicon deep sequencing.
 38582836	Transcriptomic analysis of Anopheles gambiae from Benin reveals overexpression of salivary and cuticular proteins associated with cross-resistance to pyrethroids and organophosphates.
@@ -87,7 +93,7 @@
 38555455	Receipt of seasonal malaria chemoprevention by age-ineligible children and associated factors in nine implementation states in Nigeria.
 38554994	Ready for renascence in mosquito: The regulation of gene expression in Plasmodium sexual development.
 38554852	Acute and subacute toxicological evaluation of the ethanol leaf extract of Morus mesozygia stapf. (Moraceae) in rodents.
-38554736	Plasmodium falciparum Proteases as new drug targets with special focus on Metalloproteases.
+38554736	Plasmodium falciparum proteases as new drug targets with special focus on metalloproteases.
 38554474	Activity refinement of aryl amino acetamides that target the P. falciparum STAR-related lipid transfer 1 protein.
 38554166	Marine Natural Products as Novel Treatments for Parasitic Diseases.
 38554111	PbARID-associated chromatin remodeling events are essential for gametocyte development in Plasmodium.
@@ -225,7 +231,7 @@
 38500090	Cerebral malaria presenting as nonconvulsive status epilepticus: a case report.
 38499823	The AI-driven Drug Design (AIDD) platform: an interactive multi-parameter optimization system integrating molecular evolution with physiologically based pharmacokinetic simulations.
 38499199	A pH Fingerprint Assay to Identify Inhibitors of Multiple Validated and Potential Antimalarial Drug Targets.
-38499058	Next-Generation Vaccines for Tropical Infectious Diseases.
+38499058	Next-generation vaccines for tropical infectious diseases.
 38499057	Dynamics of Plasmodium species and genotype diversity in adults with asymptomatic infection in Gabon.
 38498364	In silico screening of selective ATP mimicking inhibitors targeting the Plasmodium falciparum Grp94.
 38498330	Effect of textile colour on vector mosquito host selection: a simulated field study in Mali, West Africa.
@@ -3651,7 +3657,7 @@
 37333247	Dengue in Cambodia 2002-2020: Cases, Characteristics and Capture by National Surveillance.
 37332721	The use of chitosan oligosaccharide to improve artemisinin yield in well-watered and drought-stressed plants.
 37331883	Ifakara MasterClasses: lessons from leading experts on the battle against malaria.
-37331795	Epidemiologic trends and distributions of imported infectious diseases among travelers to Japan before and during the COVID-19 pandemic, 2016 to 2021: a descriptive study.
+37331795	Epidemiologic Trends and Distributions of Imported Infectious Diseases Among Travelers to Japan Before and During the COVID-19 Pandemic, 2016 to 2021: A Descriptive Study.
 37331759	Antenatal interventions to reduce risk of low birth weight related to maternal infections during pregnancy.
 37330477	A systematic review of mixed studies on malaria in Colombia 1980-2022: what the "bifocal vision" discovers.
 37330475	Therapeutic efficacy of pyronaridine-artesunate (Pyramax(®)) against uncomplicated Plasmodium falciparum infection at Hamusit Health Centre, Northwest Ethiopia.
@@ -9991,9 +9997,3 @@
 35177095	On multifactorial drivers for malaria rebound in Brazil: a spatio-temporal analysis.
 35177086	Ideational factors associated with net care behaviour: a multi-country analysis.
 35344308	
-35176044	How media presence triggers participation in citizen science-The case of the mosquito monitoring project 'Mückenatlas'.
-35176015	Repeatability and reproducibility of a handheld quantitative G6PD diagnostic.
-35175762	Drug Repurposing of Quisinostat to Discover Novel Plasmodium falciparum HDAC1 Inhibitors with Enhanced Triple-Stage Antimalarial Activity and Improved Safety.
-35175749	Stereo-Defined Acyclic Nucleoside Phosphonates are Selective and Potent Inhibitors of Parasite 6-Oxopurine Phosphoribosyltransferases.
-35175636	Neutrophils in malaria: The good, the bad or the ugly?
-35175513	An Ethical Overview of the CRISPR-Based Elimination of Anopheles gambiae to Combat Malaria.
