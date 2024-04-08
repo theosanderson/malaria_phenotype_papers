@@ -1,3 +1,11 @@
+38586242	Larvicidal, Ovicidal, and Repellent Activities of Leucas stachydiformis (Hochst. ex Benth.) Briq Essential Oil against Anopheles arabiensis.
+38586160	Trapping and killing performance of a PermaNet 2.0 hybrid mosquito trapping bednet: an experimental hut evaluation.
+38585766	A Set of Diagnostic Tests for Detection of Active Babesia duncani Infection.
+38585183	Monthly Sulfadoxine-Pyrimethamine During Pregnancy Prevents Febrile Respiratory Illnesses: A Secondary Analysis of a Malaria Chemoprevention Trial in Uganda.
+38584980	Malaria-induced Coagulopathy: Complexities and Treatment Challenges in Intracranial Hemorrhage.
+38584870	Properties and predicted functions of large genes and proteins of apicomplexan parasites.
+38584697	Moleculargenetic and in Addition Partly Discrepant Infection Serological Malaria Testing in Two Blood Donors.
+38584506	Revisiting the antigen markers of vector-borne parasitic diseases identified by immunomics: identification and application to disease control.
 38584269	The impact of conflict on infectious disease: a systematic literature review.
 38584058	A phase IIa, randomized, double-blind, safety, immunogenicity and efficacy trial of Plasmodium falciparum vaccine antigens merozoite surface protein 1 and RTS,S formulated with AS02 adjuvant in healthy, malaria-naïve adults.
 38583823	A severe case of Plasmodium falciparum malaria in a traveler returning from Kazakhstan, a malaria-free country.
@@ -9989,11 +9997,3 @@
 35179469	[Dengue virus circulation in West Africa: An emerging public health issue].
 35178460	New Insights into Artesunate as a Pleiotropic Regulator of Innate and Adaptive Immune Cells.
 35178325	Community Needs Assessment of Low-Income Sections of 10 Rural Villages in Karnataka and Tamil Nadu, India.
-35178179	Indole-Containing Pyrazino[2,1-b]quinazoline-3,6-diones Active against Plasmodium and Trypanosomatids.
-35178148	Five-year trend analysis of malaria prevalence in Shewarobit, Amhara Regional State, North-central Ethiopia.
-35177912	Five-Year Trend of Malaria Prevalence in Mojo Town, Central Ethiopia: Shifting Burden of the Disease and Its Implication for Malaria Elimination: A Retrospective Study.
-35177602	Heterotypic interactions drive antibody synergy against a malaria vaccine candidate.
-35177299	How frequent are acute reactions to COVID-19 vaccination and who is at risk?
-35177095	On multifactorial drivers for malaria rebound in Brazil: a spatio-temporal analysis.
-35177086	Ideational factors associated with net care behaviour: a multi-country analysis.
-35344308	
