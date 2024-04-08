@@ -1,3 +1,4 @@
+38587391	Extended blood stage sensitivity profiles of Plasmodium cynomolgi to doxycycline and tafenoquine, as a model for Plasmodium vivax.
 38586242	Larvicidal, Ovicidal, and Repellent Activities of Leucas stachydiformis (Hochst. ex Benth.) Briq Essential Oil against Anopheles arabiensis.
 38586160	Trapping and killing performance of a PermaNet 2.0 hybrid mosquito trapping bednet: an experimental hut evaluation.
 38585766	A Set of Diagnostic Tests for Detection of Active Babesia duncani Infection.
@@ -298,6 +299,7 @@
 38479483	Novel ether derivatives of 11-azaartemisinins with high order antimalarial activity against multidrug-resistant Plasmodium yoelii in Swiss mice.
 38478562	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
 38478177	Characterization of Plasmodium Falciparum Resistance Genes to Common Antimalarial Drugs in Semi-urban Areas of Burkina Faso.
+38477912	Consequence of Red Blood Cells Deformability on Heat Sink Effect of Blood in a Three-Dimensional Bifurcated Vessel.
 38477614	CD4 T Cell-Derived IL-21 Is Critical for Sustaining Plasmodium Infection-Induced Germinal Center Responses and Promoting the Selection of Memory B Cells with Recall Potential.
 38476939	Peptide selection via phage display to inhibit Leishmania-macrophage interactions.
 38476708	Malaria parasitaemia and its impact on biological parameters among children <16 years old attending the Nkwen District Hospital, Cameroon.
@@ -9995,5 +9997,3 @@
 35180230	Congenital malaria: Frequency and epidemiology in Colombia, 2009-2020.
 35179689	Essential oil of Piper purusanum C.DC (Piperaceae) and its main sesquiterpenes: biodefensives against malaria and dengue vectors, without lethal effect on non-target aquatic fauna.
 35179469	[Dengue virus circulation in West Africa: An emerging public health issue].
-35178460	New Insights into Artesunate as a Pleiotropic Regulator of Innate and Adaptive Immune Cells.
-35178325	Community Needs Assessment of Low-Income Sections of 10 Rural Villages in Karnataka and Tamil Nadu, India.
