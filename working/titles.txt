@@ -1,4 +1,11 @@
-38588205	Once Bitten: Mosquito-Borne Malariotherapy and the Emergence of Ecological Malariology Within and Beyond Imperial Britain.
+38589949	Correction: Malaria elimination and the need for intensive inter-country cooperation: a critical evaluation of regional technical co-operation in Southern Africa.
+38589884	The effect of physical barriers under a raised house on mosquito entry: an experimental study in rural Gambia.
+38589874	Plasmodium falciparum genetic diversity and multiplicity of infection based on msp-1, msp-2, glurp and microsatellite genetic markers in sub-Saharan Africa: a systematic review and meta-analysis.
+38589868	A formative cross-sectional study to assess caregiver's health-seeking behaviour and knowledge surrounding malaria, and understand the burden of malaria among children under-five in conflict-affected communities of Cameroon.
+38589576	Malaria risk mapping among children under five in Togo.
+38589477	Plasmodium falciparum pfhrp2 and pfhrp3 gene deletions among patients enrolled at 100 health facilities throughout Tanzania: February to July 2021.
+38588986	Metabolomic and chemometric analyses of St. John's wort and related Asian Hypericum species linked to bioactivity.
+38588812	Immunometabolic crosstalk in Aedes fluviatilis Wolbachia pipientis symbiosis.
 38587985	Antibody response to malaria vaccine candidates in pregnant women with Plasmodium falciparum and Schistosoma haematobium infections.
 38587391	Extended blood stage sensitivity profiles of Plasmodium cynomolgi to doxycycline and tafenoquine, as a model for Plasmodium vivax.
 38586242	Larvicidal, Ovicidal, and Repellent Activities of Leucas stachydiformis (Hochst. ex Benth.) Briq Essential Oil against Anopheles arabiensis.
@@ -5774,6 +5781,7 @@
 36587808	An insight into the female and male Sabethes cyaneus mosquito salivary glands transcriptome.
 36587755	Guidelines to prevent malarial transmission among interprovincial travelers to malaria endemic regions.
 36587274	Editorial: Current Status of Two Adjuvanted Malaria Vaccines and the World Health Organization (WHO) Strategy to Eradicate Malaria by 2030.
+38588205	Once Bitten: Mosquito-Borne Malariotherapy and the Emergence of Ecological Malariology Within and Beyond Imperial Britain.
 38423956	Surveillance des effets indésirables lors des campagnes de la chimioprévention du paludisme saisonnier chez les enfants de 3-59 mois au Burkina Faso.
 38312496	Morbidity and Mortality of HIV-Exposed Uninfected Infants in a Tertiary Referral Facility in Yaoundé, Cameroon.
 36587210	Efficacy and safety of pyronaridine-artesunate (Pyramax(®)) for the treatment of uncomplicated Plasmodium vivax malaria in Northwest Ethiopia.
@@ -9989,11 +9997,3 @@
 35183231	Evaluation of anti-malaria potency of wild and genetically modified Enterobacter cloacae expressing effector proteins in Anopheles stephensi.
 35183190	District-led malaria surveillance and response as an effective way to manage malaria upsurges following the withdrawal of indoor residual spraying: a case study from Nwoya District, northern Uganda.
 35183188	Malaria prevalence and performance of diagnostic tests among patients hospitalized with acute undifferentiated fever in Zanzibar.
-35183185	Knowledge and social beliefs of malaria and prevention strategies among itinerant Nomadic Arabs, Fulanis and Dagazada groups in Chad: a mixed method study.
-35183178	Detecting asymptomatic carriage of Plasmodium falciparum in southern Ghana: utility of molecular and serological diagnostic tools.
-35182483	Bacterial infection disrupts established germinal center reactions through monocyte recruitment and impaired metabolic adaptation.
-35182085	Population genetic structure of the malaria vector Anopheles fluviatilis species T (Diptera: Culicidae) in India.
-35180431	No acetyl-CoA keeps Plasmodium at bay.
-35180417	National, regional, and global causes of mortality in 5-19-year-olds from 2000 to 2019: a systematic analysis.
-35180298	The Effect of Regularly Dosed Acetaminophen vs No Acetaminophen on Renal Function in Plasmodium knowlesi Malaria (PACKNOW): A Randomized, Controlled Trial.
-35180230	Congenital malaria: Frequency and epidemiology in Colombia, 2009-2020.
