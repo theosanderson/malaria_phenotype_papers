@@ -1,3 +1,4 @@
+38591791	Malaria cases in China acquired through international travel, 2013-2022.
 38590917	Lessons on malaria vector control from Bashful, Doc, Dopey, Grumpy, Happy, Sneezy, and Sleepy.
 38590385	In Silico Approach Triterpene Glycoside of H. atra Targeting Orotidine 5-Monophosphate Decarboxylase Protein (PfOMPDC) in P. falciparum Infection Mechanism.
 38589949	Correction: Malaria elimination and the need for intensive inter-country cooperation: a critical evaluation of regional technical co-operation in Southern Africa.
@@ -9996,4 +9997,3 @@
 35184256	Adverse Reactions in a Phase 1 Trial of the Anti-Malarial DM1157: An Example of Pharmacokinetic Modeling and Simulation Guiding Clinical Trial Decisions.
 35183684	Xeno-monitoring of molecular drivers of artemisinin and partner drug resistance in P. falciparum populations in malaria vectors across Cameroon.
 35183247	Evaluation of HIV infection in febrile patients visiting health centers in Lagos, Nigeria.
-35183231	Evaluation of anti-malaria potency of wild and genetically modified Enterobacter cloacae expressing effector proteins in Anopheles stephensi.
