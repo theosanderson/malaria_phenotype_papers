@@ -1,11 +1,13 @@
+38590917	Lessons on malaria vector control from Bashful, Doc, Dopey, Grumpy, Happy, Sneezy, and Sleepy.
+38590385	In Silico Approach Triterpene Glycoside of H. atra Targeting Orotidine 5-Monophosphate Decarboxylase Protein (PfOMPDC) in P. falciparum Infection Mechanism.
+38589949	Correction: Malaria elimination and the need for intensive inter-country cooperation: a critical evaluation of regional technical co-operation in Southern Africa.
+38589884	The effect of physical barriers under a raised house on mosquito entry: an experimental study in rural Gambia.
 38589874	Plasmodium falciparum genetic diversity and multiplicity of infection based on msp-1, msp-2, glurp and microsatellite genetic markers in sub-Saharan Africa: a systematic review and meta-analysis.
 38589868	A formative cross-sectional study to assess caregiver's health-seeking behaviour and knowledge surrounding malaria, and understand the burden of malaria among children under-five in conflict-affected communities of Cameroon.
 38589576	Malaria risk mapping among children under five in Togo.
 38589477	Plasmodium falciparum pfhrp2 and pfhrp3 gene deletions among patients enrolled at 100 health facilities throughout Tanzania: February to July 2021.
 38588986	Metabolomic and chemometric analyses of St. John's wort and related Asian Hypericum species linked to bioactivity.
 38588812	Immunometabolic crosstalk in Aedes fluviatilis Wolbachia pipientis symbiosis.
-38589949	Correction: Malaria elimination and the need for intensive inter-country cooperation: a critical evaluation of regional technical co-operation in Southern Africa.
-38589884	The effect of physical barriers under a raised house on mosquito entry: an experimental study in rural Gambia.
 38587985	Antibody response to malaria vaccine candidates in pregnant women with Plasmodium falciparum and Schistosoma haematobium infections.
 38587391	Extended blood stage sensitivity profiles of Plasmodium cynomolgi to doxycycline and tafenoquine, as a model for Plasmodium vivax.
 38586242	Larvicidal, Ovicidal, and Repellent Activities of Leucas stachydiformis (Hochst. ex Benth.) Briq Essential Oil against Anopheles arabiensis.
@@ -9995,5 +9997,3 @@
 35183684	Xeno-monitoring of molecular drivers of artemisinin and partner drug resistance in P. falciparum populations in malaria vectors across Cameroon.
 35183247	Evaluation of HIV infection in febrile patients visiting health centers in Lagos, Nigeria.
 35183231	Evaluation of anti-malaria potency of wild and genetically modified Enterobacter cloacae expressing effector proteins in Anopheles stephensi.
-35183190	District-led malaria surveillance and response as an effective way to manage malaria upsurges following the withdrawal of indoor residual spraying: a case study from Nwoya District, northern Uganda.
-35183188	Malaria prevalence and performance of diagnostic tests among patients hospitalized with acute undifferentiated fever in Zanzibar.
