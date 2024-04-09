@@ -1,3 +1,5 @@
+38588205	Once Bitten: Mosquito-Borne Malariotherapy and the Emergence of Ecological Malariology Within and Beyond Imperial Britain.
+38587985	Antibody response to malaria vaccine candidates in pregnant women with Plasmodium falciparum and Schistosoma haematobium infections.
 38587391	Extended blood stage sensitivity profiles of Plasmodium cynomolgi to doxycycline and tafenoquine, as a model for Plasmodium vivax.
 38586242	Larvicidal, Ovicidal, and Repellent Activities of Leucas stachydiformis (Hochst. ex Benth.) Briq Essential Oil against Anopheles arabiensis.
 38586160	Trapping and killing performance of a PermaNet 2.0 hybrid mosquito trapping bednet: an experimental hut evaluation.
@@ -9995,5 +9997,3 @@
 35180417	National, regional, and global causes of mortality in 5-19-year-olds from 2000 to 2019: a systematic analysis.
 35180298	The Effect of Regularly Dosed Acetaminophen vs No Acetaminophen on Renal Function in Plasmodium knowlesi Malaria (PACKNOW): A Randomized, Controlled Trial.
 35180230	Congenital malaria: Frequency and epidemiology in Colombia, 2009-2020.
-35179689	Essential oil of Piper purusanum C.DC (Piperaceae) and its main sesquiterpenes: biodefensives against malaria and dengue vectors, without lethal effect on non-target aquatic fauna.
-35179469	[Dengue virus circulation in West Africa: An emerging public health issue].
