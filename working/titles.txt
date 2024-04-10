@@ -1,8 +1,5 @@
-38596776	Utilization of health facilities and maternal malaria prevention strategies by pregnant women in Kajiado County, a highland pastoral area of Kenya with low malaria transmission.
-38596775	Malaria chemoprophylaxis: cross-sectional study of use among air travellers departing from Accra, Ghana.
-38596774	Antimalarial medicine preference and usage in rural and peri-urban communities in Lagos and Osun states in southwestern Nigeria.
-38596773	Optimization of BeWo model to investigate placental responses to Plasmodium falciparum infected erythrocytes.
-38596772	Effect of antimalarial prophylaxis with sulphadoxine-pyrimethamine on pregnancy outcomes in Nsukka, Nigeria.
+38597636	Comparison of lumefantrine, mefloquine, and piperaquine concentrations between capillary plasma and venous plasma samples in pregnant women with uncomplicated falciparum and vivax malaria.
+38597525	Morphometry of the wings of Anopheles aquasalis in simulated scenarios of climate change.
 38596532	Experiences of young mothers with the uptake of Sulfadoxine-Pyrimethamine for intermittent preventive treatment of malaria in pregnancy: a cross-sectional study in the Lake endemic region, Kenya.
 38595655	Molecular detection and identification of Plasmodium spp. isolated from captive-bred cynomolgus monkeys in Bogor, Indonesia.
 38594824	Randomized, placebo-controlled, double-blind phase I trial of co-administered pyronaridine and piperaquine in healthy adults of sub-Saharan origin.
@@ -9997,3 +9994,6 @@
 35190283	Transmission-blocking drugs for malaria elimination.
 35189905	Inferring person-to-person networks of Plasmodium falciparum transmission: are analyses of routine surveillance data up to the task?
 35189865	Treatment-seeking and uptake of malaria prevention strategies among pregnant women and caregivers of children under-five years during COVID-19 pandemic in rural communities in South West Uganda: a qualitative study.
+35189830	Large-scale (Phase III) evaluation of broflanilide 50WP (VECTRON™ T500) for indoor residual spraying for malaria vector control in Northeast Tanzania: study protocol for a two-arm, non-inferiority, cluster-randomised community trial.
+35189818	Effectiveness and safety of artesunate-amodiaquine versus artemether-lumefantrine for home-based treatment of uncomplicated Plasmodium falciparum malaria among children 6-120 months in Yaoundé, Cameroon: a randomized trial.
+35189594	Assessing the Effects of Cooking Fuels on Anopheles Mosquito Behavior: An Experimental Study in Rural Rwanda.
