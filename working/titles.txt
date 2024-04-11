@@ -1,3 +1,8 @@
+38600596	Who was the first to visualize the malaria parasite?
+38600589	Anopheles sacharovi in Italy: first record of the historical malaria vector after over 50 years.
+38600549	Laboratory evaluation of the contact irritancy of a clothianidin solo formulation vs. clothianidin-deltamethrin mixture formulations for indoor residual spraying against pyrethroid-resistant Anopheles gambiae sensu lato.
+38599663	The reported impact of non-communicable disease investment cases in 13 countries.
+38599015	[Syndromic approach in migrant patients: Fever, diarrhea, anemia, eosinophilia and chronic cough].
 38598552	Wolbachia infection-responsive immune genes suppress Plasmodium falciparum infection in Anopheles stephensi.
 38598549	Diagnostic accuracy of DPP Fever Panel II Asia tests for tropical fever diagnosis.
 38598547	Assessing and managing the risk of Aedes mosquito introductions via the global maritime trade network.
@@ -9992,8 +9997,3 @@
 35192602	Global assessment of existing HIV and key population stigma indicators: A data mapping exercise to inform country-level stigma measurement.
 35192539	Spatial distribution of malaria and primary healthcare in Cametá and Tucuruí, Pará state, Brazil.
 35191751	GeneTargeter: Automated In Silico Design for Genome Editing in the Malaria Parasite, Plasmodium falciparum.
-35190534	Effect of biannual azithromycin distribution on antibody responses to malaria, bacterial, and protozoan pathogens in Niger.
-35190429	Evaluations of training and education interventions for improved infectious disease management in low-income and middle-income countries: a systematic literature review.
-35190283	Transmission-blocking drugs for malaria elimination.
-35189905	Inferring person-to-person networks of Plasmodium falciparum transmission: are analyses of routine surveillance data up to the task?
-35189865	Treatment-seeking and uptake of malaria prevention strategies among pregnant women and caregivers of children under-five years during COVID-19 pandemic in rural communities in South West Uganda: a qualitative study.
