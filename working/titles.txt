@@ -1,8 +1,8 @@
-38600596	Who was the first to visualize the malaria parasite?
 38600589	Anopheles sacharovi in Italy: first record of the historical malaria vector after over 50 years.
-38600549	Laboratory evaluation of the contact irritancy of a clothianidin solo formulation vs. clothianidin-deltamethrin mixture formulations for indoor residual spraying against pyrethroid-resistant Anopheles gambiae sensu lato.
 38599663	The reported impact of non-communicable disease investment cases in 13 countries.
 38599015	[Syndromic approach in migrant patients: Fever, diarrhea, anemia, eosinophilia and chronic cough].
+38600596	Who was the first to visualize the malaria parasite?
+38600549	Laboratory evaluation of the contact irritancy of a clothianidin solo formulation vs. clothianidin-deltamethrin mixture formulations for indoor residual spraying against pyrethroid-resistant Anopheles gambiae sensu lato.
 38598552	Wolbachia infection-responsive immune genes suppress Plasmodium falciparum infection in Anopheles stephensi.
 38598549	Diagnostic accuracy of DPP Fever Panel II Asia tests for tropical fever diagnosis.
 38598547	Assessing and managing the risk of Aedes mosquito introductions via the global maritime trade network.
