@@ -1,3 +1,8 @@
+38606261	Ivermectin: A Multifaceted Drug With a Potential Beyond Anti-parasitic Therapy.
+38606205	Analyzing and engineering of the biosynthetic pathway of mollemycin A for enhancing its production.
+38606055	Regaining the path to malaria elimination: Lessons from the pandemic.
+38605974	Plasmodium Parasitaemia and Urine Alterations among Pregnant Women Attending Antenatal Care in Aba Metropolis, Abia State, Nigeria.
+38605749	Awareness of sickle cell disease among nursing undergraduates in Farasan: Its interference with malaria.
 38604871	A targetable receptor-binding site on PfCyRPA to aid in the fight against malaria.
 38604368	From erosion to epidemics: Understanding the overlapping vulnerability of hydrogeomorphic hotspots, malaria affliction, and poverty in Nigeria.
 38602074	A systematic review on malaria and dengue vaccines for the effective management of these mosquito borne diseases: Improving public health.
@@ -9992,8 +9997,3 @@
 35193607	Genetic diversity of Plasmodium falciparum AMA-1 antigen from the Northeast Indian state of Tripura and comparison with global sequences: implications for vaccine development.
 35193586	Challenges in the clinical development pathway for triple and multiple drug combinations in the treatment of uncomplicated falciparum malaria.
 35193585	Delayed presentation to hospital care is associated with sequelae but not mortality in children with cerebral malaria in Malawi.
-35193447	Human lymph node immune dynamics as driver of vaccine efficacy: an understudied aspect of immune responses.
-35192759	Algorithm for laboratory diagnostics of parvoviral infection in risk groups.
-35192672	A revised mechanism for how Plasmodium falciparum recruits and exports proteins into its erythrocytic host cell.
-35192663	Removing the societal and legal impediments to the HIV response: An evidence-based framework for 2025 and beyond.
-35192647	Identification of a biological form in the Anopheles stephensi laboratory colony using the odorant-binding protein 1 intron I sequence.
