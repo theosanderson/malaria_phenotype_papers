@@ -1068,7 +1068,7 @@
 38244916	The regulatory role of CD36 in hematopoiesis beyond fatty acid uptake.
 38244749	Genetic polymorphisms of Plasmodium vivax ookinete (sexual stage) surface proteins (Pvs25 and Pvs28) from Thailand.
 38244673	The European Lead Factory: Results from a decade of collaborative, public-private, drug discovery programs.
-38243611	Plasmodium malariae and Plasmodium ovale-prevalent and relevant.
+38243611	Plasmodium malariae and Plasmodium ovale-Prevalent and Relevant.
 38243247	Epidemiological behaviour and interventions of malaria in Niger, 2010-2019: a time-series analysis of national surveillance data.
 38243243	Post hospital admission blood lactate measurements are associated with mortality but not neurologic morbidity in children with cerebral malaria.
 38243220	Dynamics of malaria vector composition and Plasmodium falciparum infection in mainland Tanzania: 2017-2021 data from the national malaria vector entomological surveillance.
@@ -1531,9 +1531,9 @@
 38079215	Economic Burden of Mosquito-Borne Diseases in Low- and Middle-Income Countries: Protocol for a Systematic Review.
 38078758	Identification of a non-exported Plasmepsin V substrate that functions in the parasitophorous vacuole of malaria parasites.
 38078744	Signaling between mammalian adiponectin and a mosquito adiponectin receptor reduces Plasmodium transmission.
-38078677	sTREM-1: a biomarker of mortality in severe malaria impacted by acute kidney injury.
+38078677	sTREM-1: A Biomarker of Mortality in Severe Malaria Impacted by Acute Kidney Injury.
 38078638	[Optimizing primary health care in Burkina Faso: an approach informed by EQUIST].
-38078563	sTREM-1 to risk-stratify patients with malaria: A functional crystal ball to improve outcomes and save lifes.
+38078563	sTREM-1 to Risk-Stratify Patients With Malaria: A Functional Crystal Ball to Improve Outcomes and Save Lives.
 38078518	Histone globular domain epigenetic modifications: The regulators of chromatin dynamics in malaria parasite.
 38078512	Laboratory Evaluation of Efficacy of the Larvicide Spinosad Against AnophelesStephensi in Jigjiga, Ethiopia.
 38076990	First detection of Anopheles stephensi in Ghana using molecular surveillance.
@@ -1771,7 +1771,7 @@
 37992998	Redox modulating small molecules having antimalarial efficacy.
 37992781	The genus Canthium: A comprehensive summary on its traditional use, phytochemistry, and pharmacological activities.
 37992231	Platelets mediate the clearance of senescent red blood cells by forming prophagocytic platelet-cell complexes.
-37992117	Malaria species positivity rates among symptomatic individuals across regions of differing transmission intensities in Mainland Tanzania.
+37992117	Malaria Species Positivity Rates Among Symptomatic Individuals Across Regions of Differing Transmission Intensities in Mainland Tanzania.
 37992045	Assessing risk factors for malaria and schistosomiasis among children in Misungwi, Tanzania, an area of co-endemicity: A mixed methods study.
 37992017	Understanding reticence to occupy free, novel-design homes: A qualitative study in Mtwara, Southeast Tanzania.
 37992012	Perceptions of youth-friendly sexual and reproductive health services in selected Higher and Tertiary Education Institutions of Zambia: A qualitative study on the perspectives of young people and healthcare providers.
@@ -2571,7 +2571,7 @@
 37715245	Assessing the impact of the "malaria supporters project" intervention to malaria control in the Brazilian Amazon: an interrupted time-series analysis.
 37714843	First fully-automated AI/ML virtual screening cascade implemented at a drug discovery centre in Africa.
 37714564	Misguided charity: the bane of global health.
-37713614	Risk of malaria following untreated sub-patent Plasmodium falciparum infections: Results over 4 years from a cohort in a high transmission area in Western Kenya.
+37713614	Risk of Malaria Following Untreated Subpatent Plasmodium falciparum Infections: Results Over 4 Years From a Cohort in a High-Transmission Area in Western Kenya.
 37713419	The dual action of human antibodies specific to Plasmodium falciparum PfRH5 and PfCyRPA: Blocking invasion and inactivating extracellular merozoites.
 37712738	Essential function of alveolin PfIMC1g in the Plasmodium falciparum asexual blood stage.
 37712594	Covalent Macrocyclic Proteasome Inhibitors Mitigate Resistance in Plasmodium falciparum.
