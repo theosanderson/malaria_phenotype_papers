@@ -1,3 +1,15 @@
+38612941	Molecular Research on Plasmodium Infection and Immunity.
+38611637	Comparison of SD Bioline Malaria Ag Pf/Pan and Acro Malaria P.f./P.v./Pan with Microscopy and Real Time PCR for the Diagnosis of Human Plasmodium Species.
+38611603	Supporting Malaria Diagnosis Using Deep Learning and Data Augmentation.
+38610999	Antineoplastic Drug Synergy of Artesunate with Navitoclax in Models of High-Grade Serous Ovarian Cancer.
+38610795	Endothelial Protein C Receptor and Its Impact on Rheumatic Disease.
+38609987	The effect of an anti-malarial herbal remedy, Maytenus senegalensis, on electrocardiograms of healthy Tanzanian volunteers.
+38609964	Detection of P. malariae using a new rapid isothermal amplification lateral flow assay.
+38609848	Stillbirth rate and associated factors at the Bamenda Regional hospital, North-West region, Cameroon, from 2018 to 2022: a case control study.
+38609740	MAM 2024: Malaria in a changing world.
+38609179	Predictors of nutritional recovery time in children aged 6-59 months with severe acute malnutrition in Sofala Province, Mozambique: survival analysis approach.
+38608678	Coral-infecting parasites in cold marine ecosystems.
+38608320	Efficient leukocytes detection and classification in microscopic blood images using convolutional neural network coupled with a dual attention network.
 38606261	Ivermectin: A Multifaceted Drug With a Potential Beyond Anti-parasitic Therapy.
 38606205	Analyzing and engineering of the biosynthetic pathway of mollemycin A for enhancing its production.
 38606055	Regaining the path to malaria elimination: Lessons from the pandemic.
@@ -9985,15 +9997,3 @@
 35197053	Trends in malaria epidemiological factors following the implementation of current control strategies in Dangassa, Mali.
 35196803	Dramatic Consequences of Reducing Erythrocyte Membrane Cholesterol on Plasmodium falciparum.
 35196797	Toxoplasma TgAtg8-TgAtg3 Interaction Primarily Contributes to Apicoplast Inheritance and Parasite Growth in Tachyzoite.
-35196325	Comparative analyses of parasites with a comprehensive database of genome-scale metabolic models.
-35196022	Therapeutic efficacy of antimalarial drugs targeting DosRS signaling in Mycobacterium abscessus.
-35195955	Rational Optimization of Dihydropyrimidinone-Quinoline Hybrids as Plasmodium falciparum Glutathione Reductase Inhibitors.
-35195068	Spatial transcriptomic and single-nucleus analysis reveals heterogeneity in a gigantic single-celled syncytium.
-35195008	Peptides for Vaccine Development.
-35193978	Bacteriophage protein Gp46 is a cross-species inhibitor of nucleoid-associated HU proteins.
-35193716	ABO blood group and risk of malaria during pregnancy: a systematic review and meta-analysis.
-35193663	A fluorometric assay to determine the protective effect of glucose-6-phosphate dehydrogenase (G6PD) against a Plasmodium spp. infection in females heterozygous for the G6PD gene: proof of concept in Plasmodium falciparum.
-35193608	Impact of seasonal RTS,S/AS01(E) vaccination plus seasonal malaria chemoprevention on the nutritional status of children in Burkina Faso and Mali.
-35193607	Genetic diversity of Plasmodium falciparum AMA-1 antigen from the Northeast Indian state of Tripura and comparison with global sequences: implications for vaccine development.
-35193586	Challenges in the clinical development pathway for triple and multiple drug combinations in the treatment of uncomplicated falciparum malaria.
-35193585	Delayed presentation to hospital care is associated with sequelae but not mortality in children with cerebral malaria in Malawi.
