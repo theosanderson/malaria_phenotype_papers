@@ -1,3 +1,4 @@
+38613442	A case of possible transfusion-acquired malaria in Zaragoza, Spain.
 38612941	Molecular Research on Plasmodium Infection and Immunity.
 38611637	Comparison of SD Bioline Malaria Ag Pf/Pan and Acro Malaria P.f./P.v./Pan with Microscopy and Real Time PCR for the Diagnosis of Human Plasmodium Species.
 38611603	Supporting Malaria Diagnosis Using Deep Learning and Data Augmentation.
@@ -6,10 +7,10 @@
 38609987	The effect of an anti-malarial herbal remedy, Maytenus senegalensis, on electrocardiograms of healthy Tanzanian volunteers.
 38609964	Detection of P. malariae using a new rapid isothermal amplification lateral flow assay.
 38609848	Stillbirth rate and associated factors at the Bamenda Regional hospital, North-West region, Cameroon, from 2018 to 2022: a case control study.
-38608320	Efficient leukocytes detection and classification in microscopic blood images using convolutional neural network coupled with a dual attention network.
 38609740	MAM 2024: Malaria in a changing world.
 38609179	Predictors of nutritional recovery time in children aged 6-59 months with severe acute malnutrition in Sofala Province, Mozambique: survival analysis approach.
 38608678	Coral-infecting parasites in cold marine ecosystems.
+38608320	Efficient leukocytes detection and classification in microscopic blood images using convolutional neural network coupled with a dual attention network.
 38606261	Ivermectin: A Multifaceted Drug With a Potential Beyond Anti-parasitic Therapy.
 38606205	Analyzing and engineering of the biosynthetic pathway of mollemycin A for enhancing its production.
 38606055	Regaining the path to malaria elimination: Lessons from the pandemic.
@@ -9996,4 +9997,3 @@
 35197060	Permethrin-treated baby wraps for the prevention of malaria: results of a randomized controlled pilot study in rural Uganda.
 35197053	Trends in malaria epidemiological factors following the implementation of current control strategies in Dangassa, Mali.
 35196803	Dramatic Consequences of Reducing Erythrocyte Membrane Cholesterol on Plasmodium falciparum.
-35196797	Toxoplasma TgAtg8-TgAtg3 Interaction Primarily Contributes to Apicoplast Inheritance and Parasite Growth in Tachyzoite.
