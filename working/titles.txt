@@ -1,3 +1,6 @@
+38614930	Plasmodium ovale gametocytes in peripheral blood.
+38614635	Cooperation for malaria control and elimination in the Guiana Shield.
+38614624	Introduction and rollout of malaria vaccines in Cameroon and Burkina Faso: early lessons learned.
 38613442	A case of possible transfusion-acquired malaria in Zaragoza, Spain.
 38612941	Molecular Research on Plasmodium Infection and Immunity.
 38611637	Comparison of SD Bioline Malaria Ag Pf/Pan and Acro Malaria P.f./P.v./Pan with Microscopy and Real Time PCR for the Diagnosis of Human Plasmodium Species.
@@ -9994,6 +9997,3 @@
 35197971	Deep Immune Phenotyping and Single-Cell Transcriptomics Allow Identification of Circulating TRM-Like Cells Which Correlate With Liver-Stage Immunity and Vaccine-Induced Protection From Malaria.
 35197516	Enhancing neutralization of Plasmodium falciparum using a novel monoclonal antibody against the rhoptry-associated membrane antigen.
 35197072	The durability, functionality and acceptability of novel screened doors and windows after 4 years of use in a Gambian village: a cross-sectional survey.
-35197060	Permethrin-treated baby wraps for the prevention of malaria: results of a randomized controlled pilot study in rural Uganda.
-35197053	Trends in malaria epidemiological factors following the implementation of current control strategies in Dangassa, Mali.
-35196803	Dramatic Consequences of Reducing Erythrocyte Membrane Cholesterol on Plasmodium falciparum.
