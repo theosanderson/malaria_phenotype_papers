@@ -1,3 +1,11 @@
+38618930	Modeling the spatial risk of malaria through probability distribution of Anopheles maculipennis s.l. and imported cases.
+38618882	1,2,4,5-Tetraoxane derivatives/hybrids as potent antimalarial endoperoxides: Chronological advancements, structure-activity relationship (SAR) studies and future perspectives.
+38618863	Cerebral malaria pathogenesis: Dissecting the role of CD4(+) and CD8(+) T-cells as major effectors in disease pathology.
+38618809	The Macroeconomic Impact of Increasing Investments in Malaria Control in 26 High Malaria Burden Countries: An Application of the Updated EPIC Model.
+38618444	Plasmodium falciparum Malaria Presenting as a Thrombotic Thrombocytopenic Purpura (TTP) Mimic: A Case Report.
+38617559	Transforming the CRISPR/dCas9-based gene regulation technique into a forward screening tool in Plasmodium falciparum.
+38617306	A mechanism that transduces lysosomal damage signals to stress granule formation for cell survival.
+38616822	Citizen Science as an Approach for Responding to the Threat of Anopheles stephensi in Africa.
 38615989	Malaria in Travelers: Childhood Vaccination and Focus on Endemic Regions.
 38614930	Plasmodium ovale gametocytes in peripheral blood.
 38614635	Cooperation for malaria control and elimination in the Guiana Shield.
@@ -9989,11 +9997,3 @@
 35201599	Mosquito Larvicidal Activity of Compounds from Unripe Fruit Peel of Avocado (Persea americana Mill.).
 35200752	In Vitro and In Silico Antimalarial Evaluation of FM-AZ, a New Artemisinin Derivative.
 35200635	Biomedical Potential of the Neglected Molluscivorous and Vermivorous Conus Species.
-35200370	Review of Microdevices for Hemozoin-Based Malaria Detection.
-35199969	Efficient simulation of clinical target response surfaces.
-35198918	Acute kidney injury, persistent kidney disease, and post-discharge morbidity and mortality in severe malaria in children: A prospective cohort study.
-35198913	Serological evaluation of the effectiveness of reactive focal mass drug administration and reactive vector control to reduce malaria transmission in Zambezi Region, Namibia: Results from a secondary analysis of a cluster randomised trial.
-35198789	Coumaro-chalcones synthesized under solvent-free conditions as potential agents against malaria, leishmania and trypanosomiasis.
-35197994	Artemisinins in Combating Viral Infections Like SARS-CoV-2, Inflammation and Cancers and Options to Meet Increased Global Demand.
-35197971	Deep Immune Phenotyping and Single-Cell Transcriptomics Allow Identification of Circulating TRM-Like Cells Which Correlate With Liver-Stage Immunity and Vaccine-Induced Protection From Malaria.
-35197516	Enhancing neutralization of Plasmodium falciparum using a novel monoclonal antibody against the rhoptry-associated membrane antigen.
