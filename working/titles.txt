@@ -1,11 +1,9 @@
 38618930	Modeling the spatial risk of malaria through probability distribution of Anopheles maculipennis s.l. and imported cases.
 38618882	1,2,4,5-Tetraoxane derivatives/hybrids as potent antimalarial endoperoxides: Chronological advancements, structure-activity relationship (SAR) studies and future perspectives.
 38618863	Cerebral malaria pathogenesis: Dissecting the role of CD4(+) and CD8(+) T-cells as major effectors in disease pathology.
-38618809	The Macroeconomic Impact of Increasing Investments in Malaria Control in 26 High Malaria Burden Countries: An Application of the Updated EPIC Model.
 38618444	Plasmodium falciparum Malaria Presenting as a Thrombotic Thrombocytopenic Purpura (TTP) Mimic: A Case Report.
 38617559	Transforming the CRISPR/dCas9-based gene regulation technique into a forward screening tool in Plasmodium falciparum.
 38617306	A mechanism that transduces lysosomal damage signals to stress granule formation for cell survival.
-38616822	Citizen Science as an Approach for Responding to the Threat of Anopheles stephensi in Africa.
 38615989	Malaria in Travelers: Childhood Vaccination and Focus on Endemic Regions.
 38614930	Plasmodium ovale gametocytes in peripheral blood.
 38614635	Cooperation for malaria control and elimination in the Guiana Shield.
@@ -5837,6 +5835,8 @@
 36587808	An insight into the female and male Sabethes cyaneus mosquito salivary glands transcriptome.
 36587755	Guidelines to prevent malarial transmission among interprovincial travelers to malaria endemic regions.
 36587274	Editorial: Current Status of Two Adjuvanted Malaria Vaccines and the World Health Organization (WHO) Strategy to Eradicate Malaria by 2030.
+38618809	The Macroeconomic Impact of Increasing Investments in Malaria Control in 26 High Malaria Burden Countries: An Application of the Updated EPIC Model.
+38616822	Citizen Science as an Approach for Responding to the Threat of Anopheles stephensi in Africa.
 38588205	Once Bitten: Mosquito-Borne Malariotherapy and the Emergence of Ecological Malariology Within and Beyond Imperial Britain.
 38423956	Surveillance des effets indésirables lors des campagnes de la chimioprévention du paludisme saisonnier chez les enfants de 3-59 mois au Burkina Faso.
 38312496	Morbidity and Mortality of HIV-Exposed Uninfected Infants in a Tertiary Referral Facility in Yaoundé, Cameroon.
