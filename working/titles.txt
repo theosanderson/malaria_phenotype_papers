@@ -1,3 +1,9 @@
+38625416	New insights into avian malaria infections in New Zealand seabirds.
+38624215	Plasmodium yoelii surface-related antigen (PySRA) modulates the host pro-inflammatory responses via binding to CD68 on macrophage membrane.
+38623843	Molecular Regulation of NLRP3 Inflammasome Activation During Parasitic Infection.
+38623419	Concurrent infection of dengue virus with malaria parasites among outpatients attending healthcare facilities in Benin city, Nigeria.
+38623396	Global Health Commodities Supply Chain in the Era of COVID-19 Pandemic: Challenges, Impacts, and Prospects: A Systematic Review.
+38623173	Association of anthelmintic treatment with malaria prevalence in Rural Sussundenga, Mozambique.
 38622499	Unexpected severe malaria in a postoperative patient, New York, USA.
 38622257	High prevalence of haemosporidian parasites in Eurasian jays.
 38621761	Factors associated with the timely diagnosis of malaria and the utilization of types of healthcare facilities: a retrospective study in the Republic of Korea.
@@ -9991,9 +9997,3 @@
 35205173	Plant Terpenoids as the Promising Source of Cholinesterase Inhibitors for Anti-AD Therapy.
 35204759	Immunomodulatory Potential of Non-Classical HLA-G in Infections including COVID-19 and Parasitic Diseases.
 35204613	Specific Combinations of Inflammatory, Angiogenesis and Vascular Integrity Biomarkers Are Associated with Clinical Severity, Coma and Mortality in Beninese Children with Plasmodium Falciparum Malaria.
-35204566	Performance Evaluation of the STANDARD(TM) Q COVID-19 and Panbio(TM) COVID-19 Antigen Tests in Detecting SARS-CoV-2 during High Transmission Period in Mozambique.
-35204453	Diagnosis of Indigenous Non-Malarial Vector-Borne Infections from Malaria Negative Samples from Community and Rural Hospital Surveillance in Dhalai District, Tripura, North-East India.
-35204156	Effect of Artemisinin on the Redox System of NADPH/FNR/Ferredoxin from Malaria Parasites.
-35202734	Lifetime pathogen burden, inflammatory markers, and depression in community-dwelling older adults.
-35202655	Glycosylphosphatidylinositol-anchored micronemal antigen (GAMA) interacts with the band 3 receptor to promote erythrocyte invasion by malaria parasites.
-35202423	Chromosome splitting of Plasmodium berghei using the CRISPR/Cas9 system.
