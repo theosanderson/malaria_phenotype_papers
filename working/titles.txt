@@ -1,4 +1,8 @@
-38620969	COVID-19 cases and their outcome among patients with uncommon co-existing illnesses: A lesson from Northern India.
+38622499	Unexpected severe malaria in a postoperative patient, New York, USA.
+38622257	High prevalence of haemosporidian parasites in Eurasian jays.
+38621761	Factors associated with the timely diagnosis of malaria and the utilization of types of healthcare facilities: a retrospective study in the Republic of Korea.
+38621467	Oral Acute Toxicity Study and In Vivo Antimalarial Activity of Strychnos lucislkeda R. Br. Tablet.
+38621317	Oral administration of IPI549 protects mice from neuropathology and an overwhelming inflammatory response during experimental cerebral malaria.
 38618930	Modeling the spatial risk of malaria through probability distribution of Anopheles maculipennis s.l. and imported cases.
 38618882	1,2,4,5-Tetraoxane derivatives/hybrids as potent antimalarial endoperoxides: Chronological advancements, structure-activity relationship (SAR) studies and future perspectives.
 38618863	Cerebral malaria pathogenesis: Dissecting the role of CD4(+) and CD8(+) T-cells as major effectors in disease pathology.
@@ -9125,6 +9129,7 @@
 35491421	Etiological spectrum of persistent fever in the tropics and predictors of ubiquitous infections: a prospective four-country study with pooled analysis.
 35490588	Protein kinase 9 is not required for completion of the Plasmodium berghei life cycle.
 35490317	Neglected Tropical Diseases (NTDs) and COVID-19 Pandemic in Africa: Special Focus on Control Strategies.
+38620969	COVID-19 cases and their outcome among patients with uncommon co-existing illnesses: A lesson from Northern India.
 38319222	Where the Rubber Meets the Road - Research in the Amazon.
 35490249	Infectious diseases and predominant travel-related syndromes among long-term expatriates living in low-and middle- income countries: a scoping review.
 35490212	Expert perspectives on the introduction of Triple Artemisinin-based Combination Therapies (TACTs) in Southeast Asia: a Delphi study.
@@ -9992,8 +9997,3 @@
 35202734	Lifetime pathogen burden, inflammatory markers, and depression in community-dwelling older adults.
 35202655	Glycosylphosphatidylinositol-anchored micronemal antigen (GAMA) interacts with the band 3 receptor to promote erythrocyte invasion by malaria parasites.
 35202423	Chromosome splitting of Plasmodium berghei using the CRISPR/Cas9 system.
-35202223	Exposure of South African Abattoir Workers to Coxiella burnetii.
-35202219	Clinical Improvement of Disseminated Acanthamoeba Infection in a Patient with Advanced HIV Using a Non-Miltefosine-Based Treatment Regimen in a Low-Resource Setting.
-35201739	Plasmodium falciparum pfhrp2 and pfhrp3 Gene Deletions from Persons with Symptomatic Malaria Infection in Ethiopia, Kenya, Madagascar, and Rwanda.
-35201599	Mosquito Larvicidal Activity of Compounds from Unripe Fruit Peel of Avocado (Persea americana Mill.).
-35200752	In Vitro and In Silico Antimalarial Evaluation of FM-AZ, a New Artemisinin Derivative.
