@@ -1,3 +1,4 @@
+38620969	COVID-19 cases and their outcome among patients with uncommon co-existing illnesses: A lesson from Northern India.
 38618930	Modeling the spatial risk of malaria through probability distribution of Anopheles maculipennis s.l. and imported cases.
 38618882	1,2,4,5-Tetraoxane derivatives/hybrids as potent antimalarial endoperoxides: Chronological advancements, structure-activity relationship (SAR) studies and future perspectives.
 38618863	Cerebral malaria pathogenesis: Dissecting the role of CD4(+) and CD8(+) T-cells as major effectors in disease pathology.
@@ -9996,4 +9997,3 @@
 35201739	Plasmodium falciparum pfhrp2 and pfhrp3 Gene Deletions from Persons with Symptomatic Malaria Infection in Ethiopia, Kenya, Madagascar, and Rwanda.
 35201599	Mosquito Larvicidal Activity of Compounds from Unripe Fruit Peel of Avocado (Persea americana Mill.).
 35200752	In Vitro and In Silico Antimalarial Evaluation of FM-AZ, a New Artemisinin Derivative.
-35200635	Biomedical Potential of the Neglected Molluscivorous and Vermivorous Conus Species.
