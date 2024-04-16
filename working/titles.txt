@@ -1,8 +1,8 @@
-38622499	Unexpected severe malaria in a postoperative patient, New York, USA.
-38622257	High prevalence of haemosporidian parasites in Eurasian jays.
 38621761	Factors associated with the timely diagnosis of malaria and the utilization of types of healthcare facilities: a retrospective study in the Republic of Korea.
 38621467	Oral Acute Toxicity Study and In Vivo Antimalarial Activity of Strychnos lucislkeda R. Br. Tablet.
 38621317	Oral administration of IPI549 protects mice from neuropathology and an overwhelming inflammatory response during experimental cerebral malaria.
+38622499	Unexpected severe malaria in a postoperative patient, New York, USA.
+38622257	High prevalence of haemosporidian parasites in Eurasian jays.
 38618930	Modeling the spatial risk of malaria through probability distribution of Anopheles maculipennis s.l. and imported cases.
 38618882	1,2,4,5-Tetraoxane derivatives/hybrids as potent antimalarial endoperoxides: Chronological advancements, structure-activity relationship (SAR) studies and future perspectives.
 38618863	Cerebral malaria pathogenesis: Dissecting the role of CD4(+) and CD8(+) T-cells as major effectors in disease pathology.
