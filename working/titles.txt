@@ -1,10 +1,10 @@
 38627870	An optimised YOLOv4 deep learning model for efficient malarial cell detection in thin blood smear images.
-38627704	Factors associated with malaria vaccine uptake in Nsanje district, Malawi.
 38627641	Multi-trait GWAS for diverse ancestries: mapping the knowledge gap.
 38626977	Study protocol: improving response to malaria in the Amazon through identification of inter-community networks and human mobility in border regions of Ecuador, Peru and Brazil.
 38626854	Indirect interaction between an endemic and an invading pathogen: A case study of Plasmodium and Usutu virus dynamics in a shared bird host population.
 38626820	Efficacy of Maturase K and rpL20 protein extracted from C. procera leaves on Anopheles stephensi.
 38626749	Prevalence and Characteristics of Plasmodium vivax Gametocytes in Duffy-Positive and Duffy-Negative Populations across Ethiopia.
+38627704	Factors associated with malaria vaccine uptake in Nsanje district, Malawi.
 38626207	Spatio-temporal spread of artemisinin resistance in Southeast Asia.
 38626187	Babesia duncani, A Model Organism for Investigating Intraerythrocytic Parasitism and Novel Anti-Parasitic Therapeutic Strategies.
 38626091	Facilitators and barriers to integrated malaria prevention in Wakiso district, Uganda: A photovoice study.
