@@ -1,3 +1,11 @@
+38626281	Recent advances in immunotherapies against infectious diseases.
+38626250	The Effects of Chloroquine and Hydroxychloroquine on ACE2-Related Coronavirus Pathology and the Cardiovascular System: An Evidence-Based Review.
+38626207	Spatio-temporal spread of artemisinin resistance in Southeast Asia.
+38626187	Babesia duncani, A Model Organism for Investigating Intraerythrocytic Parasitism and Novel Anti-Parasitic Therapeutic Strategies.
+38626091	Facilitators and barriers to integrated malaria prevention in Wakiso district, Uganda: A photovoice study.
+38626086	A Theileria annulata parasite with a single mutation, methionine 128 to isoleucine (M128I), in cytochrome B is resistant to buparvaquone.
+38626035	Exploring coagulation parameters as predictive biomarkers of Plasmodium infection: A comprehensive analysis of coagulation parameters.
+38625879	The effect of explicit convection on simulated malaria transmission across Africa.
 38625416	New insights into avian malaria infections in New Zealand seabirds.
 38624215	Plasmodium yoelii surface-related antigen (PySRA) modulates the host pro-inflammatory responses via binding to CD68 on macrophage membrane.
 38623843	Molecular Regulation of NLRP3 Inflammasome Activation During Parasitic Infection.
@@ -9989,11 +9997,3 @@
 35208983	Antiparasitic Ovalicin Derivatives from Pseudallescheria boydii, a Mutualistic Fungus of French Guiana Termites.
 35208861	Limited Reliability of the Molecular Detection of Plasmodium spp. from Incubated Blood Culture Samples for Forensic Purposes.
 35206794	Disparities in Health Financing Allocation among Infectious Diseases in Ebola Virus Disease (EVD)-Affected Countries, 2005-2017.
-35206789	Wolbachia in Aedes koreicus: Rare Detections and Possible Implications.
-35206778	Mosquitoes Larvicidal Activity of Ocimum kilimandscharicum Oil Formulation under Laboratory and Field-Simulated Conditions.
-35206768	Multiplex PCR Assay for the Identification of Four Species of the Anopheles Leucosphyrus Sub-Group in Malaysia.
-35206686	The Residual Efficacy of SumiShield™ 50WG and K-Othrine(®) WG250 IRS Formulations Applied to Different Building Materials against Anopheles and Aedes Mosquitoes.
-35206583	MiRNA: Biological Regulator in Host-Parasite Interaction during Malaria Infection.
-35205173	Plant Terpenoids as the Promising Source of Cholinesterase Inhibitors for Anti-AD Therapy.
-35204759	Immunomodulatory Potential of Non-Classical HLA-G in Infections including COVID-19 and Parasitic Diseases.
-35204613	Specific Combinations of Inflammatory, Angiogenesis and Vascular Integrity Biomarkers Are Associated with Clinical Severity, Coma and Mortality in Beninese Children with Plasmodium Falciparum Malaria.
