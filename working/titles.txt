@@ -1,5 +1,10 @@
-38626281	Recent advances in immunotherapies against infectious diseases.
-38626250	The Effects of Chloroquine and Hydroxychloroquine on ACE2-Related Coronavirus Pathology and the Cardiovascular System: An Evidence-Based Review.
+38627870	An optimised YOLOv4 deep learning model for efficient malarial cell detection in thin blood smear images.
+38627704	Factors associated with malaria vaccine uptake in Nsanje district, Malawi.
+38627641	Multi-trait GWAS for diverse ancestries: mapping the knowledge gap.
+38626977	Study protocol: improving response to malaria in the Amazon through identification of inter-community networks and human mobility in border regions of Ecuador, Peru and Brazil.
+38626854	Indirect interaction between an endemic and an invading pathogen: A case study of Plasmodium and Usutu virus dynamics in a shared bird host population.
+38626820	Efficacy of Maturase K and rpL20 protein extracted from C. procera leaves on Anopheles stephensi.
+38626749	Prevalence and Characteristics of Plasmodium vivax Gametocytes in Duffy-Positive and Duffy-Negative Populations across Ethiopia.
 38626207	Spatio-temporal spread of artemisinin resistance in Southeast Asia.
 38626187	Babesia duncani, A Model Organism for Investigating Intraerythrocytic Parasitism and Novel Anti-Parasitic Therapeutic Strategies.
 38626091	Facilitators and barriers to integrated malaria prevention in Wakiso district, Uganda: A photovoice study.
@@ -9992,8 +9997,3 @@
 35211700	Plasmodium falciparum parasite prevalence in East Africa: Updating data for malaria stratification.
 35211424	Maria M. Mota: Bringing Plasmodium Liver Infection to the Centre Stage of Malaria Research.
 35211286	Toxicological Evaluation and Protective Effects of Ethanolic Leaf Extract of Cassia spectabilis DC on Liver and Kidney Function of Plasmodium berghei-Infected Mice.
-35210361	5-methylcytosine modification by Plasmodium NSUN2 stabilizes mRNA and mediates the development of gametocytes.
-35209329	Increasing a microscope's effective field of view via overlapped imaging and machine learning.
-35208983	Antiparasitic Ovalicin Derivatives from Pseudallescheria boydii, a Mutualistic Fungus of French Guiana Termites.
-35208861	Limited Reliability of the Molecular Detection of Plasmodium spp. from Incubated Blood Culture Samples for Forensic Purposes.
-35206794	Disparities in Health Financing Allocation among Infectious Diseases in Ebola Virus Disease (EVD)-Affected Countries, 2005-2017.
