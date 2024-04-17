@@ -1,3 +1,4 @@
+38629580	Extracellular Vesicles: Translational Agenda Questions for Three Protozoan Parasites.
 38629357	Lipase and Protease Production Ability of Multi-drug Resistant Bacteria Worsens the Outcomes of Wound Infections.
 38629185	Dihydrostilbenes from Macaranga javanica (Blume) Müll. Arg. and their antiplasmodial activity.
 38628794	hERG, Plasmodium Life Cycle, and Cross Resistance Profiling of New Azabenzimidazole Analogues of Astemizole.
@@ -9996,4 +9997,3 @@
 35214745	Vaccination Accelerates Liver-Intrinsic Expression of Megakaryocyte-Related Genes in Response to Blood-Stage Malaria.
 35214662	Protection and Alleviated Inflammation Induced by Virus-like Particle Vaccines Containing Plasmodium berghei MSP-8, MSP-9 and RAP1.
 35214127	Artemisinin-Type Drugs in Tumor Cell Death: Mechanisms, Combination Treatment with Biologics and Nanoparticle Delivery.
-35214104	Potent Antiplasmodial Derivatives of Dextromethorphan Reveal the Ent-Morphinan Pharmacophore of Tazopsine-Type Alkaloids.
