@@ -1,3 +1,13 @@
+38634370	Social, behavioral and environmental determinants of vector-borne diseases: A narrative review of evidence and implications for integrated control approaches.
+38634366	Nanotechnology and malaria: Evaluation of efficacy and toxicity of green nanoparticles.
+38634315	Assessing global drivers of parasite diversity: host diversity and body mass boost avian haemosporidian diversity.
+38634071	SARS-CoV-2 variant typing using real-time reverse transcription-polymerase chain reaction-based assays in Addis Ababa, Ethiopia.
+38633782	Improved limit of detection for zoonotic Plasmodium knowlesi and P. cynomolgi surveillance using reverse transcription for total nucleic acid preserved samples or dried blood spots.
+38633260	Immune response profiles from humans experimentally exposed to Phlebotomus duboscqi bites.
+38633251	Omega-3 and omega-6 polyunsaturated fatty acids and their potential therapeutic role in protozoan infections.
+38633210	Editorial: Malaria molecular epidemiology current situation in Africa.
+38632931	Addressing low-density malaria infections in India and other endemic part of the world-the opportune time?
+38632912	Predicting malaria outbreaks using earth observation measurements and spatiotemporal deep learning modelling: a South Asian case study from 2000 to 2017.
 38632650	Mapping malaria vectors and insecticide resistance in a high-endemic district of Haryana, India: implications for vector control strategies.
 38632640	Widespread pfhrp2/3 deletions and HRP2-based false-negative results in southern Ethiopia.
 38632607	Superior protection in a relapsing Plasmodium cynomolgi rhesus macaque model by a chemoprophylaxis with sporozoite immunization regimen with atovaquone-proguanil followed by primaquine.
@@ -9987,13 +9997,3 @@
 35221205	Economic Evaluation of Vaccination Programs: A Guide for Selecting Modeling Approaches.
 35220686	Pfprex from Plasmodium falciparum can bypass oxidative stress-induced DNA lesions.
 35220555	Artesunate monotherapy versus artesunate plus quinine combination therapy for treatment of imported severe malaria: a TropNet retrospective cohort study.
-35220138	The dynamic landscape of parasitemia dependent intestinal microbiota shifting and the correlated gut transcriptome during Plasmodium yoelii infection.
-35219406	COVID-19 vaccine results might inform malaria vaccine strategies.
-35219391	Have we really failed to roll back malaria?
-35219319	Evaluation of the antimalarial activity and toxicity of Mahanil-Tang-Thong formulation and its plant ingredients.
-35217531	Spatial codistribution of HIV, tuberculosis and malaria in Ethiopia.
-35217408	The positive effect of malaria IPTp-SP on birthweight is mediated by gestational weight gain but modifiable by maternal carriage of enteric pathogens.
-35216627	The simultaneous crises of dengue and COVID-19 in Pakistan: a double hazard for the country's debilitated healthcare system.
-35216617	Is it time for Africa to adopt primaquine in the era of malaria control and elimination?
-35215827	Uncovering the Burden of Dengue in Africa: Considerations on Magnitude, Misdiagnosis, and Ancestry.
-35215815	Multiple Salivary Proteins from Aedes aegypti Mosquito Bind to the Zika Virus Envelope Protein.
