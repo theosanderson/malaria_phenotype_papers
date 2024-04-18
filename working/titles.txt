@@ -1,3 +1,6 @@
+38635267	Mosquito Bed Net Use and Burkitt Lymphoma Incidence in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.
+38634464	Antimalarial potential of Kerala Ayurvedic Water.
+38634456	A comparative study on vector competence of Anopheles stephensi from geographically distinct malarious and a non-malarious urban area to Plasmodium vivax.
 38634370	Social, behavioral and environmental determinants of vector-borne diseases: A narrative review of evidence and implications for integrated control approaches.
 38634366	Nanotechnology and malaria: Evaluation of efficacy and toxicity of green nanoparticles.
 38634315	Assessing global drivers of parasite diversity: host diversity and body mass boost avian haemosporidian diversity.
@@ -9994,6 +9997,3 @@
 35222377	Neuroimmunology of Common Parasitic Infections in Africa.
 35221834	Conducting polymers/zinc oxide-based photocatalysts for environmental remediation: a review.
 35221688	Efficacy and Safety of Artemisinin-Based Combination Therapy for the Treatment of Uncomplicated Malaria in Pregnant Women: A Systematic Review and Meta-Analysis.
-35221205	Economic Evaluation of Vaccination Programs: A Guide for Selecting Modeling Approaches.
-35220686	Pfprex from Plasmodium falciparum can bypass oxidative stress-induced DNA lesions.
-35220555	Artesunate monotherapy versus artesunate plus quinine combination therapy for treatment of imported severe malaria: a TropNet retrospective cohort study.
