@@ -1,3 +1,10 @@
+38632650	Mapping malaria vectors and insecticide resistance in a high-endemic district of Haryana, India: implications for vector control strategies.
+38632640	Widespread pfhrp2/3 deletions and HRP2-based false-negative results in southern Ethiopia.
+38632607	Superior protection in a relapsing Plasmodium cynomolgi rhesus macaque model by a chemoprophylaxis with sporozoite immunization regimen with atovaquone-proguanil followed by primaquine.
+38632581	Factors associated with the risk of malaria among children: analysis of 2021 Nigeria Malaria Indicator Survey.
+38632343	tRNA modification reprogramming contributes to artemisinin resistance in Plasmodium falciparum.
+38631508	Comparison of prevalence estimates of pfhrp2 and pfhrp3 deletions in Plasmodium falciparum determined by conventional PCR and multiplex qPCR and implications for surveillance and monitoring.
+38631486	Longistylin A from Cajanus cajan (L.) Millsp. disturbs glycerophospholipid metabolism and cytokinin biosynthesis of Nocardia seriolae.
 38630833	Edge Artificial Intelligence (AI) for real-time automatic quantification of filariasis in mobile microscopy.
 38630832	Perceived needs of disease vector control programs: A review and synthesis of (sub)national assessments from South Asia and the Middle East.
 38630671	Eliminating malaria in our time.
@@ -38,7 +45,7 @@
 38618444	Plasmodium falciparum Malaria Presenting as a Thrombotic Thrombocytopenic Purpura (TTP) Mimic: A Case Report.
 38617559	Transforming the CRISPR/dCas9-based gene regulation technique into a forward screening tool in Plasmodium falciparum.
 38617306	A mechanism that transduces lysosomal damage signals to stress granule formation for cell survival.
-38615989	Malaria in Travelers: Childhood Vaccination and Focus on Endemic Regions.
+38615989	Malaria in travelers: Childhood vaccination and focus on endemic regions.
 38614930	Plasmodium ovale gametocytes in peripheral blood.
 38614635	Cooperation for malaria control and elimination in the Guiana Shield.
 38614624	Introduction and rollout of malaria vaccines in Cameroon and Burkina Faso: early lessons learned.
@@ -9990,10 +9997,3 @@
 35216617	Is it time for Africa to adopt primaquine in the era of malaria control and elimination?
 35215827	Uncovering the Burden of Dengue in Africa: Considerations on Magnitude, Misdiagnosis, and Ancestry.
 35215815	Multiple Salivary Proteins from Aedes aegypti Mosquito Bind to the Zika Virus Envelope Protein.
-35215369	A High-Throughput Phenotypic Screen of the 'Pandemic Response Box' Identifies a Quinoline Derivative with Significant Anthelmintic Activity.
-35215316	PfMDR1 Transport Rates Assessed in Intact Isolated Plasmodium falciparum Digestive Vacuoles Reflect Functional Drug Resistance Relationship with pfmdr1 Mutations.
-35215282	The Nitrobenzoxadiazole Derivative NBDHEX Behaves as Plasmodium falciparum Gametocyte Selective Inhibitor with Malaria Parasite Transmission Blocking Activity.
-35215233	Solidification of Self-Emulsifying Drug Delivery Systems as a Novel Approach to the Management of Uncomplicated Malaria.
-35215196	Patterns of Kdr-L995F Allele Emergence Alongside Detoxifying Enzymes Associated with Deltamethrin Resistance in Anopheles gambiae s.l. from North Cameroon.
-35215073	Pediatric Tuberculosis Research and Development: Progress, Priorities and Funding Opportunities.
-35214758	An Attenuated HSV-1-Derived Malaria Vaccine Expressing Liver-Stage Exported Proteins Induces Sterilizing Protection against Infectious Sporozoite Challenge.
