@@ -1,9 +1,9 @@
-38637828	Aspecific binding of anti-NK1.1 antibodies on myeloid cells in an experimental model for malaria-associated acute respiratory distress syndrome.
 38637742	Attitudes and perceptions towards developing a health educational video to enhance optimal uptake of malaria preventive therapy among pregnant women in Uganda: a qualitative study involving pregnant women, health workers, and Ministry of health officials.
-38637184	Apicomplexa micropore: history, function, and formation.
 38636656	The Plasmodium vivax MSP1P-19 is involved in binding of reticulocytes through interactions with the membrane proteins band3 and CD71.
 38636585	Characterization of drug resistance genes in Indian Plasmodium falciparum and Plasmodium vivax field isolates.
 38636200	Sanger sequencing and deconvolution of polyclonal infections: a quantitative approach to monitor drug-resistant Plasmodium falciparum.
+38637828	Aspecific binding of anti-NK1.1 antibodies on myeloid cells in an experimental model for malaria-associated acute respiratory distress syndrome.
+38637184	Apicomplexa micropore: history, function, and formation.
 38635671	Comparison of perinatal outcome and mode of birth of twin and singleton pregnancies in migrant and refugee populations on the Thai Myanmar border: A population cohort.
 38635664	Solution structure and pressure response of thioredoxin-1 of Plasmodium falciparum.
 38635576	Design of a novel intelligent computing framework for predictive solutions of malaria propagation model.
