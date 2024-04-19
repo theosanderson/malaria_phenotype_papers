@@ -1,3 +1,5 @@
+38639491	Novel hydrazone compounds with broad-spectrum antiplasmodial activity and synergistic interactions with antimalarial drugs.
+38639212	Proteomic Profiling of Antimalarial Plasmodione Using 3-Benz(o)ylmenadione Affinity-Based Probes.
 38637828	Aspecific binding of anti-NK1.1 antibodies on myeloid cells in an experimental model for malaria-associated acute respiratory distress syndrome.
 38637742	Attitudes and perceptions towards developing a health educational video to enhance optimal uptake of malaria preventive therapy among pregnant women in Uganda: a qualitative study involving pregnant women, health workers, and Ministry of health officials.
 38637184	Apicomplexa micropore: history, function, and formation.
@@ -9995,5 +9997,3 @@
 35225943	Preliminary Investigation into Plasmodium-like Piroplasms (Babesia/Theileria) among Cattle, Dogs and Humans in A Malaria-Endemic, Resource-Limited Sub-Saharan African City.
 35224347	Functionalized Boron Nanoparticles as Potential Promising Antimalarial Agents.
 35223759	The Outbreaks of Acute Encephalitis Syndrome in Uttar Pradesh, India (1978-2020) and Its Effective Management: A Remarkable Public Health Success Story.
-35223616	A Seroepidemiological Study on Vivax Malaria in Children of Less Than 9 Years Old Using Indirect Fluorescent Antibody Test in Southeastern Iran.
-35223540	Revisiting the Effect of Pharmaceuticals on Transmission Stage Formation in the Malaria Parasite Plasmodium falciparum.
