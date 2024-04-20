@@ -1,3 +1,9 @@
+38641838	Ageing of Plasmodium falciparum malaria sporozoites alters their motility, infectivity and reduces immune activation in vitro.
+38641670	Physical durability and insecticidal activity of long-lasting insecticidal nets in Cruzeiro do Sul, Brazil.
+38641572	Effect of spatiotemporal variables on abundance, biting activity and parity of Nyssorhynchus darlingi (Diptera: Culicidae) in peri-Iquitos, Peru.
+38641142	Cyclic Peroxides and Analogs: Antibacterial, Antimalarial, and Cytotoxic Marine Products from Xisha Sponge Diacarnus sp.
+38640940	Global burden associated with 85 pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.
+38640899	Meet the Authors: Christopher R. Mansfield and Emily R. Derbyshire.
 38640243	Liver-targeted polymeric prodrugs delivered subcutaneously improve tafenoquine therapeutic window for malaria radical cure.
 38640099	Protocol for a magnetic resonance imaging study of participants in the fever RCT: Does fever control prevent brain injury in malaria?
 38639491	Novel hydrazone compounds with broad-spectrum antiplasmodial activity and synergistic interactions with antimalarial drugs.
@@ -9991,9 +9997,3 @@
 35227865	Factors related to long-lasting insecticidal net (LLIN) use during travel in western Kenya: A descriptive analysis.
 35227350	Access to chloroquine in patients with rheumatic and musculoskeletal diseases attending rheumatology outpatient clinics during the COVID-19 pandemic.
 35226874	Differential Incidence of Malaria in Neighboring Villages in a High-Transmission Setting of Southern Mali.
-35226868	Cryopreserved Sporozoites with and without the Glycolipid Adjuvant 7DW8-5 Protect in Prime-and-Trap Malaria Vaccination.
-35226867	Malaria Relapses Following Parasite-Free Blood Transfusions in the U.S. Army during the Korean War.
-35226866	Comparison of Different Sampling Methods to Catch Lymphatic Filariasis Vectors in a Sudan Savannah Area of Mali.
-35226694	Molecular profiling of the artemisinin resistance Kelch 13 gene in Plasmodium falciparum from Nigeria.
-35226298	Laboratory diagnosis for malaria in the elimination phase in China: efforts and challenges.
-35225943	Preliminary Investigation into Plasmodium-like Piroplasms (Babesia/Theileria) among Cattle, Dogs and Humans in A Malaria-Endemic, Resource-Limited Sub-Saharan African City.
