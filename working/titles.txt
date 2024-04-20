@@ -1,3 +1,5 @@
+38642192	Molecular tools are crucial for malaria elimination.
+38642134	MyD88 in osteoclast- and osteoblast-lineages differentially controls bone remodeling in homeostasis and malaria.
 38641838	Ageing of Plasmodium falciparum malaria sporozoites alters their motility, infectivity and reduces immune activation in vitro.
 38641670	Physical durability and insecticidal activity of long-lasting insecticidal nets in Cruzeiro do Sul, Brazil.
 38641572	Effect of spatiotemporal variables on abundance, biting activity and parity of Nyssorhynchus darlingi (Diptera: Culicidae) in peri-Iquitos, Peru.
@@ -9995,5 +9997,3 @@
 35228904	Animal trait variation at the within-individual level: erythrocyte size variation and malaria infection in a tropical lizard.
 35228063	Ferroptosis plays an essential role in the antimalarial mechanism of low-dose dihydroartemisinin.
 35227865	Factors related to long-lasting insecticidal net (LLIN) use during travel in western Kenya: A descriptive analysis.
-35227350	Access to chloroquine in patients with rheumatic and musculoskeletal diseases attending rheumatology outpatient clinics during the COVID-19 pandemic.
-35226874	Differential Incidence of Malaria in Neighboring Villages in a High-Transmission Setting of Southern Mali.
