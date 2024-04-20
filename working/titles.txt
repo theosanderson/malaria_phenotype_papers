@@ -1,3 +1,5 @@
+38640243	Liver-targeted polymeric prodrugs delivered subcutaneously improve tafenoquine therapeutic window for malaria radical cure.
+38640099	Protocol for a magnetic resonance imaging study of participants in the fever RCT: Does fever control prevent brain injury in malaria?
 38639491	Novel hydrazone compounds with broad-spectrum antiplasmodial activity and synergistic interactions with antimalarial drugs.
 38639212	Proteomic Profiling of Antimalarial Plasmodione Using 3-Benz(o)ylmenadione Affinity-Based Probes.
 38637828	Aspecific binding of anti-NK1.1 antibodies on myeloid cells in an experimental model for malaria-associated acute respiratory distress syndrome.
@@ -9995,5 +9997,3 @@
 35226694	Molecular profiling of the artemisinin resistance Kelch 13 gene in Plasmodium falciparum from Nigeria.
 35226298	Laboratory diagnosis for malaria in the elimination phase in China: efforts and challenges.
 35225943	Preliminary Investigation into Plasmodium-like Piroplasms (Babesia/Theileria) among Cattle, Dogs and Humans in A Malaria-Endemic, Resource-Limited Sub-Saharan African City.
-35224347	Functionalized Boron Nanoparticles as Potential Promising Antimalarial Agents.
-35223759	The Outbreaks of Acute Encephalitis Syndrome in Uttar Pradesh, India (1978-2020) and Its Effective Management: A Remarkable Public Health Success Story.
