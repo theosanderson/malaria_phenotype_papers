@@ -1,3 +1,6 @@
+38643165	Willingness to accept and participate in a Microsporidia MB-based mosquito release strategy: a community-based rapid assessment in western Kenya.
+38643106	Let it glow: genetically encoded fluorescent reporters in Plasmodium.
+38642694	Effect of nanoformulation Azadirachta indica on some factors associated with the vectorial capacity and competence of Anopheles aquasalis experimentally infected with Plasmodium vivax.
 38642192	Molecular tools are crucial for malaria elimination.
 38642134	MyD88 in osteoclast- and osteoblast-lineages differentially controls bone remodeling in homeostasis and malaria.
 38641838	Ageing of Plasmodium falciparum malaria sporozoites alters their motility, infectivity and reduces immune activation in vitro.
@@ -9994,6 +9997,3 @@
 35229578	Characterization of life-history parameters of an Anopheles funestus (Diptera: Culicidae) laboratory strain.
 35229216	Synthesis and antimalarial activity of amide and ester conjugates of siderophores and ozonides.
 35229055	Revival of the heterologous prime-boost technique in COVID-19: An outlook from the history of outbreaks.
-35228904	Animal trait variation at the within-individual level: erythrocyte size variation and malaria infection in a tropical lizard.
-35228063	Ferroptosis plays an essential role in the antimalarial mechanism of low-dose dihydroartemisinin.
-35227865	Factors related to long-lasting insecticidal net (LLIN) use during travel in western Kenya: A descriptive analysis.
