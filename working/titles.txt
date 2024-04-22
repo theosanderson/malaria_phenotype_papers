@@ -1,3 +1,11 @@
+38646508	Epidemiology of rare bacterial, parasitic, and fungal pathogens in India.
+38646476	COVID-19 and malaria co-infection: a systematic review of clinical outcomes in endemic areas.
+38646147	Palestine 100 years ago seen through the malaria lens: an examination of successful malaria elimination, and of where the malaria community seems to have taken a wrong turning.
+38645298	Malaria vaccine acceptance among next of kin of children under 5 years of age in Gulu, northern Uganda in 2023: a community-based study.
+38645156	The challenge of improving long-lasting insecticidal nets coverage on Bioko Island: using data to adapt distribution strategies.
+38645126	Susceptibility to febrile malaria is associated with an inflammatory gut microbiome.
+38645047	Transcriptome- and DNA methylation-based cell-type deconvolutions produce similar estimates of differential gene expression and differential methylation.
+38644931	The Shockwè trap: a human-baited exposure-free device for surveillance and behaviour studies of anthropophilic vectors.
 38643165	Willingness to accept and participate in a Microsporidia MB-based mosquito release strategy: a community-based rapid assessment in western Kenya.
 38643106	Let it glow: genetically encoded fluorescent reporters in Plasmodium.
 38642694	Effect of nanoformulation Azadirachta indica on some factors associated with the vectorial capacity and competence of Anopheles aquasalis experimentally infected with Plasmodium vivax.
@@ -9989,11 +9997,3 @@
 35232369	Characterization of Human-malarial Parasite Species based on DHFR and GST Targets Resulting in Changes in Anti-malarial Drug Binding Conformations.
 35232355	Pyrazole based Furanone Hybrids as Novel Antimalarial: A Combined Experimental, Pharmacological and Computational Study.
 35231438	The many faces of membrane tension: Challenges across systems and scales.
-35230548	Immunochromatographic and microscopic detection of Plasmodium falciparum in recipients of P. falciparum-infected donor blood.
-35230160	CYP2D6 gene resequencing in the Malagasy, a population at the crossroads between Asia and Africa: a pilot study.
-35229925	The role of plant-derived natural antioxidants in reduction of oxidative stress.
-35229610	Discovery and Preclinical Pharmacology of INE963, a Potent and Fast-Acting Blood-Stage Antimalarial with a High Barrier to Resistance and Potential for Single-Dose Cures in Uncomplicated Malaria.
-35229579	Evaluation of Bacillus thuringiensis israelensis as toxic sugar bait against adult Aedes aegypti, Aedes albopictus, and Culex quinquefasciatus mosquitoes.
-35229578	Characterization of life-history parameters of an Anopheles funestus (Diptera: Culicidae) laboratory strain.
-35229216	Synthesis and antimalarial activity of amide and ester conjugates of siderophores and ozonides.
-35229055	Revival of the heterologous prime-boost technique in COVID-19: An outlook from the history of outbreaks.
