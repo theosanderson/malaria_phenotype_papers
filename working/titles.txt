@@ -1,3 +1,6 @@
+38647704	Global profiling of protein S-palmitoylation in the second-generation merozoites of Eimeria tenella.
+38647213	Reverse N-Substituted Hydroxamic Acid Derivatives of Fosmidomycin Target a Previously Unknown Subpocket of 1-Deoxy-d-xylulose 5-Phosphate Reductoisomerase (DXR).
+38647110	Solution-State Structure of a Long-Loop G-quadruplex Formed within Promoters of Plasmodium falciparum B var Genes.
 38646508	Epidemiology of rare bacterial, parasitic, and fungal pathogens in India.
 38646476	COVID-19 and malaria co-infection: a systematic review of clinical outcomes in endemic areas.
 38646147	Palestine 100 years ago seen through the malaria lens: an examination of successful malaria elimination, and of where the malaria community seems to have taken a wrong turning.
@@ -9994,6 +9997,3 @@
 35232713	Malaria and COVID-19 in Malarial Endemic Area: Incidence and Coincidence.
 35232621	Corrigendum to article "Clotrimazole nanoemulsion for malaria chemotherapy. Part II: Stability assessment, in vivo pharmacodynamic evaluations and toxicological studies" [Int. J. Pharm. 431(1-2) (2012) 149-160].
 35232492	Reduction in Plasmodium falciparum Pfk13 and pfg377 allele diversity through time in southern Vietnam.
-35232369	Characterization of Human-malarial Parasite Species based on DHFR and GST Targets Resulting in Changes in Anti-malarial Drug Binding Conformations.
-35232355	Pyrazole based Furanone Hybrids as Novel Antimalarial: A Combined Experimental, Pharmacological and Computational Study.
-35231438	The many faces of membrane tension: Challenges across systems and scales.
