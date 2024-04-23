@@ -1,3 +1,13 @@
+38652205	Environmental Justice and Health in Nigeria.
+38652143	[Emergencies in infectious diseases].
+38651522	Development of Prolinol Containing Inhibitors of Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase: Rational Structure-Based Drug Design.
+38650939	Poly I:C elicits broader and stronger humoral and cellular responses to a Plasmodium vivax circumsporozoite protein malaria vaccine than Alhydrogel in mice.
+38650925	Bi-isotype immunoglobulins enhance antibody-mediated neutrophil activity against Plasmodium falciparum parasites.
+38650044	Current advances in serological and molecular diagnosis of Schistosoma mekongi infection.
+38650020	Meta-analysis of the global distribution of clinically relevant CYP2C8 alleles and their inferred functional consequences.
+38649867	A Pfs48/45-based vaccine to block Plasmodium falciparum transmission: phase 1, open-label, clinical trial.
+38649361	Estimating the effects of temperature on transmission of the human malaria parasite, Plasmodium falciparum.
+38648699	Race, immunity, and lifespan: Unraveling the effect of early-life exposure to malaria risk on lifespan.
 38648666	Best Practice for Therapeutic Drug Monitoring of Infliximab: Position Statement from the International Association of Therapeutic Drug Monitoring and Clinical Toxicology.
 38648410	Repellent and larvicidal properties of selected indigenous plants in the control of Anopheles mosquitoes.
 38648409	Efficacy and safety of Artemisinin Combination Therapy for the treatment of uncomplicated Plasmodium falciparum malaria across international borders of India.
@@ -5,7 +15,7 @@
 38648406	MBORS: Mosquito vector Biocontrol Ontology and Recommendation System.
 38648404	Impact of urbanization on the abundance and distribution of Anophelines population in Ghaziabad district, Uttar Pradesh, India.
 38648401	Kenya must wake up to the threat of cryptic Anopheles species and their impact on residual malaria transmission.
-38648350	Tamizaje neonatal en Colombia: la experiencia de un programa privado en Bogotá.
+38648350	Newborn screening in Colombia: The experience of a private program in Bogotá.
 38648210	Modeling the shared risks of malaria and anemia in Rwanda.
 38647704	Global profiling of protein S-palmitoylation in the second-generation merozoites of Eimeria tenella.
 38647213	Reverse N-Substituted Hydroxamic Acid Derivatives of Fosmidomycin Target a Previously Unknown Subpocket of 1-Deoxy-d-xylulose 5-Phosphate Reductoisomerase (DXR).
@@ -103,6 +113,7 @@
 38617559	Transforming the CRISPR/dCas9-based gene regulation technique into a forward screening tool in Plasmodium falciparum.
 38617306	A mechanism that transduces lysosomal damage signals to stress granule formation for cell survival.
 38615989	Malaria in travelers: Childhood vaccination and focus on endemic regions.
+30000766	Primaquine.
 38614930	Plasmodium ovale gametocytes in peripheral blood.
 38614635	Cooperation for malaria control and elimination in the Guiana Shield.
 38614624	Introduction and rollout of malaria vaccines in Cameroon and Burkina Faso: early lessons learned.
@@ -1597,7 +1608,6 @@
 38096889	Universal health coverage is fundamental to preparing for a healthier and better tomorrow.
 38096790	Vivax malaria and Duffy antigen: Stop being so negative.
 38096639	Malaria: A focused review for the emergency medicine clinician.
-30000766	Primaquine.
 38096210	MosChito rafts as a promising biocontrol tool against larvae of the common house mosquito, Culex pipiens.
 38095048	Pre-erythrocytic malaria vaccines: RTS,S, R21, and beyond.
 38094863	Applicability of Redirecting Artemisinins for New Targets.
@@ -9987,13 +9997,3 @@
 35241045	Network pharmacology-based predictions of active components and pharmacological mechanisms of Artemisia annua L. for the treatment of the novel Corona virus disease 2019 (COVID-19).
 35240963	Synthesis and In vitro Evaluation of Hydrazonomethyl-Quinolin-8-ol and Pyrazol-3-yl-Quinolin-8-ol Derivatives for Antimicrobial and Antimalarial Potential.
 35240899	Malaria transmission blocking compounds: a patent review.
-35240796	Dynamic analysis of a malaria reaction-diffusion model with periodic delays and vector bias.
-35240242	From wandering weeds to pharmacy: An insight into traditional uses, phytochemicals and pharmacology of genus Chromolaena (Asteraceae).
-35239903	Malaria in Haiti: A descriptive study on spatial and temporal profile from 2009 to 2018.
-35239862	An algorithm based on molecular protocols to improve the detection of Plasmodium in autochthonous malarial areas in the Atlantic Forest biome.
-35239718	COVID-19 related knowledge, attitudes, and practices in Indian Population: An online national cross-sectional survey.
-35238677	Discovering disease-causing pathogens in resource-scarce Southeast Asia using a global metagenomic pathogen monitoring system.
-35238288	Traditional Kenyan herbal medicine: exploring natural products' therapeutics against schistosomiasis.
-35237407	Situation of insecticide resistance in malaria vectors in the World Health Organization of Eastern Mediterranean region 1990-2020.
-35237045	Insecticide-Treated Bed Net Utilization and Associated Factors Among Households in Ilu Galan District, Oromia Region, Ethiopia.
-35236400	In-depth biological analysis of alteration in Plasmodium knowlesi-infected red blood cells using a noninvasive optical imaging technique.
