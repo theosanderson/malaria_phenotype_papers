@@ -1,3 +1,7 @@
+38653233	The Walter Reed Project, Kisumu Field Station: Impact of Research on Malaria Policy, Management, and Prevention.
+38653216	Surveillance for Action: Operationalizing Private Sector Surveillance and Service Delivery across the Malaria Transmission Continuum.
+38654294	Correction: Receipt of seasonal malaria chemoprevention by age-ineligible children and associated factors in nine implementation states in Nigeria.
+38653016	Sustainable Development Goals' health-related indicators for Brazil and Ecuador: an analysis for the period of 1990-2019.
 38652684	Expression of Syo_1.56 SARP Regulator Unveils Potent Elasnin Derivatives with Antibacterial Activity.
 38652559	Pro-thrombotic autoantibodies targeting Platelet Factor 4/polyanion are associated with pediatric cerebral malaria.
 38652205	Environmental Justice and Health in Nigeria.
@@ -9993,7 +9997,3 @@
 35241964	Fabrication and characterization of noble crystalline silver nanoparticles from Pimenta dioica leave extract and analysis of chemical constituents for larvicidal applications.
 35241171	Knowledge and perception on antimicrobial resistance and antibiotics prescribing attitude among physicians and nurses in Lambaréné region, Gabon: a call for setting-up an antimicrobial stewardship program.
 35241083	Blood-feeding patterns of Anopheles vectors of human malaria in Malawi: implications for malaria transmission and effectiveness of LLIN interventions.
-35241080	Genetic polymorphisms in genes associated with drug resistance in Plasmodium vivax parasites from northeastern Myanmar.
-35241079	Surveillance of Plasmodium vivax transmission using serological models in the border areas of China-Myanmar.
-35241074	Factors influencing health workers' compliance with outpatient malaria 'test and treat' guidelines during the plateauing performance phase in Kenya, 2014-2016.
-35241045	Network pharmacology-based predictions of active components and pharmacological mechanisms of Artemisia annua L. for the treatment of the novel Corona virus disease 2019 (COVID-19).
