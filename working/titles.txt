@@ -1,3 +1,12 @@
+38656453	Field comparison of broad-spectrum white LED-baited traps with narrow-spectrum green LED-baited traps in the capture of Anopheles mosquitoes (Diptera: Culicidae).
+38656211	Vaccines and monoclonal antibodies: new tools for malaria control.
+38656180	Ending Malaria: Where Are We?
+38656041	Malaria in a vulnerable population living in quilombo remnant communities in the Brazilian Amazon: a cross-sectional study from 2005-2020.
+38655991	Changes in the endemic-epidemic pattern of malaria in Colombia, 1978-2021.
+38655519	Malaria elimination: situation analysis of cases in India, the state of Madhya Pradesh in central India, and district Mandla of Madhya Pradesh.
+38655180	Traditional uses, phytochemistry, pharmacology, toxicity and clinical application of traditional Chinese medicine Cynoglossum amabile: a review.
+38655084	Next-generation sequencing survey of acute febrile illness in Senegal (2020-2022).
+38654751	A Comprehensive Review of Ethnomedicinal Uses, Phytochemistry, Pharmacology, and Toxicity of Prunus africana (Hook. F.) Kalkman from Africa.
 38654294	Correction: Receipt of seasonal malaria chemoprevention by age-ineligible children and associated factors in nine implementation states in Nigeria.
 38653233	The Walter Reed Project, Kisumu Field Station: Impact of Research on Malaria Policy, Management, and Prevention.
 38653216	Surveillance for Action: Operationalizing Private Sector Surveillance and Service Delivery across the Malaria Transmission Continuum.
@@ -9988,12 +9997,3 @@
 35245289	Effect of malaria and HIV/AIDS co-infection on red blood cell indices and its relation with the CD4 level of patients on HAART in Bench Sheko Zone, Southwest Ethiopia.
 35244737	[Potential of tropical diseases in Germany : Important pathogens in travelers and migrants].
 35243806	Prevention of Tumor Growth and Dissemination by In Situ Vaccination with Mitochondria-Targeted Atovaquone.
-35243458	Prevalence and risk factors of adverse birth outcomes in the Pacific Island region: A scoping review.
-35243261	Machine learning for artemisinin resistance in malaria treatment across in vivo-in vitro platforms.
-35243049	Current challenges and nanotechnology-based pharmaceutical strategies for the treatment and control of malaria.
-35242841	Identification of CCp5 and FNPA as Novel Non-canonical Members of the CCp Protein Family in Babesia bovis.
-35242812	Dynamic Control Balancing Cell Proliferation and Inflammation is Crucial for an Effective Immune Response to Malaria.
-35242146	A First for Human Vaccinology: GMP Compliant Radiation Attenuation of Plasmodium falciparum Sporozoites for Production of a Vaccine Against Malaria.
-35241964	Fabrication and characterization of noble crystalline silver nanoparticles from Pimenta dioica leave extract and analysis of chemical constituents for larvicidal applications.
-35241171	Knowledge and perception on antimicrobial resistance and antibiotics prescribing attitude among physicians and nurses in Lambaréné region, Gabon: a call for setting-up an antimicrobial stewardship program.
-35241083	Blood-feeding patterns of Anopheles vectors of human malaria in Malawi: implications for malaria transmission and effectiveness of LLIN interventions.
