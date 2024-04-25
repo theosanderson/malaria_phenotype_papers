@@ -1,6 +1,11 @@
+38660623	Molecular mechanisms of mitochondria-mediated ferroptosis: a potential target for antimalarial interventions.
+38660580	Pakistan's HIV high-risk populations: Critical appraisal of failure to curtail spread beyond key populations.
+38659832	Cross-reactivity of r Pvs 48/45, a recombinant Plasmodium vivax protein, with sera from Plasmodium falciparum endemic areas of Africa.
+38659768	T follicular helper cell profiles differ by malaria antigen and for children compared to adults.
+38659513	Management of Hyperparasitaemia in Severe Malaria: A Sea Change With the Availability of Artesunate.
 38657987	Association of ABO, Rh-D and Kell blood groups with transfusion transmitted infections among blood donors from the Asir Region, Saudi Arabia: A retrospective observational study.
-38657367	Development and validation of an ultra-performance liquid chromatography-tandem mass spectrometry method for the quantification of the antimalarial drug pyronaridine in human whole blood.
 38657981	African health ministers commit to end malaria deaths.
+38657367	Development and validation of an ultra-performance liquid chromatography-tandem mass spectrometry method for the quantification of the antimalarial drug pyronaridine in human whole blood.
 38657074	Autonomous circadian rhythms in the human hepatocyte regulate hepatic drug metabolism and inflammatory responses.
 38656965	Impact of four years of annually repeated indoor residual spraying (IRS) with Actellic 300CS on routinely reported malaria cases in an agricultural setting in Malawi.
 38656731	Current Status of Malaria Control and Elimination in Africa: Epidemiology, Diagnosis, Treatment, Progress and Challenges.
@@ -9992,8 +9997,3 @@
 35247002	Malaria diagnostic update: From conventional to advanced method.
 35246653	From mink to malaria.
 35246568	The genome trilogy of Anopheles stephensi, an urban malaria vector, reveals structure of a locus associated with adaptation to environmental heterogeneity.
-35246189	Food and medicinal uses of Annona senegalensis Pers.: a country-wide assessment of traditional theoretical knowledge and actual uses in Benin, West Africa.
-35246151	Investigation of Plasmodium falciparum pfhrp2 and pfhrp3 gene deletions and performance of a rapid diagnostic test for identifying asymptomatic malaria infection in northern Ethiopia, 2015.
-35246147	Oral susceptibility to ivermectin is over fifty times greater in a wild population of Anopheles albimanus mosquitoes from Belize than the STECLA laboratory reference strain of this mosquito.
-35246142	Comparison of total immunoglobulin G antibody responses to different protein fragments of Plasmodium vivax Reticulocyte binding protein 2b.
-35245932	Infection History and Current Coinfection With Schistosoma mansoni Decreases Plasmodium Species Intensities in Preschool Children in Uganda.
