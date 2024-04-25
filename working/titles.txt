@@ -1,3 +1,7 @@
+38657074	Autonomous circadian rhythms in the human hepatocyte regulate hepatic drug metabolism and inflammatory responses.
+38656965	Impact of four years of annually repeated indoor residual spraying (IRS) with Actellic 300CS on routinely reported malaria cases in an agricultural setting in Malawi.
+38656731	Current Status of Malaria Control and Elimination in Africa: Epidemiology, Diagnosis, Treatment, Progress and Challenges.
+38656566	Correlation between antifungal clinical practices and a new clinical decision support system ANTIFON-CLIC® for the treatment of invasive candidiasis: a retrospective multicentre study.
 38656453	Field comparison of broad-spectrum white LED-baited traps with narrow-spectrum green LED-baited traps in the capture of Anopheles mosquitoes (Diptera: Culicidae).
 38656211	Vaccines and monoclonal antibodies: new tools for malaria control.
 38656180	Ending Malaria: Where Are We?
@@ -102,7 +106,7 @@
 38627641	Multi-trait GWAS for diverse ancestries: mapping the knowledge gap.
 38626977	Study protocol: improving response to malaria in the Amazon through identification of inter-community networks and human mobility in border regions of Ecuador, Peru and Brazil.
 38626854	Indirect interaction between an endemic and an invading pathogen: A case study of Plasmodium and Usutu virus dynamics in a shared bird host population.
-38626820	Efficacy of Maturase K and rpL20 protein extracted from C. procera leaves on Anopheles stephensi.
+38626820	Efficacy of maturase K and rpL20 protein extracted from C. procera leaves on Anophelesstephensi.
 38626749	Prevalence and Characteristics of Plasmodium vivax Gametocytes in Duffy-Positive and Duffy-Negative Populations across Ethiopia.
 38626207	Spatio-temporal spread of artemisinin resistance in Southeast Asia.
 38626187	Babesia duncani, A Model Organism for Investigating Intraerythrocytic Parasitism and Novel Anti-Parasitic Therapeutic Strategies.
@@ -9993,7 +9997,3 @@
 35245629	Artemisia annua water extract attenuates DNCB-induced atopic dermatitis by restraining Th2 cell mediated inflammatory responses in BALB/c mice.
 35245476	The RTS,S vaccine-a chance to regain the upper hand against malaria?
 35245324	Functional disruption of transferrin expression alters reproductive physiology in Anopheles culicifacies.
-35245314	Malnutrition, anemia, micronutrient deficiency and parasitic infections among schoolchildren in rural Tanzania.
-35245289	Effect of malaria and HIV/AIDS co-infection on red blood cell indices and its relation with the CD4 level of patients on HAART in Bench Sheko Zone, Southwest Ethiopia.
-35244737	[Potential of tropical diseases in Germany : Important pathogens in travelers and migrants].
-35243806	Prevention of Tumor Growth and Dissemination by In Situ Vaccination with Mitochondria-Targeted Atovaquone.
