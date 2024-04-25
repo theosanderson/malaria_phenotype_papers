@@ -1,3 +1,5 @@
+38661253	Synthesis of Deuterated Endochin-Like Quinolones.
+38661223	Detection of drug-resistant malaria in resource-limited settings: efficient and high-throughput surveillance of artemisinin and partner drug resistance.
 38660623	Molecular mechanisms of mitochondria-mediated ferroptosis: a potential target for antimalarial interventions.
 38660580	Pakistan's HIV high-risk populations: Critical appraisal of failure to curtail spread beyond key populations.
 38659832	Cross-reactivity of r Pvs 48/45, a recombinant Plasmodium vivax protein, with sera from Plasmodium falciparum endemic areas of Africa.
@@ -9995,5 +9997,3 @@
 35247323	Volunteer infection studies accelerate the clinical development of novel drugs against malaria.
 35247321	Safety, pharmacokinetics, and antimalarial activity of the novel triaminopyrimidine ZY-19489: a first-in-human, randomised, placebo-controlled, double-blind, single ascending dose study, pilot food-effect study, and volunteer infection study.
 35247002	Malaria diagnostic update: From conventional to advanced method.
-35246653	From mink to malaria.
-35246568	The genome trilogy of Anopheles stephensi, an urban malaria vector, reveals structure of a locus associated with adaptation to environmental heterogeneity.
