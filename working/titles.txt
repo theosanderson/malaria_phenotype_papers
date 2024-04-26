@@ -1,3 +1,8 @@
+38668551	Spatiotemporal Analysis of Malaria Transmission in the Autonomous Indigenous Regions of Panama, Central America, 2015-2022.
+38668545	Characterization of the Tissue and Strain-Specific Microbiota of Anopheles funestus Giles (Diptera: Culicidae).
+38668253	Role of TAM Receptors in Antimalarial Humoral Immune Response.
+38667755	Narrative Review Explaining the Role of HLA-A, -B, and -C Molecules in COVID-19 Disease in and around Africa.
+38667370	Effects of Carbohydrate Intake on Anopheles darlingi and Anopheles deaneorum Fitness under Lab-Reared Conditions.
 38665915	The causes and consequences of trained immunity in myeloid cells.
 38665582	Malaria resistance-related biological adaptation and complex evolutionary footprints inferred from one integrative Tai-Kadai-related genomic resource.
 38665056	COVID-19 epidemiology, health services utilisation and health care seeking behaviour during the first year of the COVID-19 pandemic in Mweso health zone, Democratic Republic of Congo.
@@ -9992,8 +9997,3 @@
 35252506	Malaria research supported with open access data.
 35252038	Mid-Liver Stage Arrest of Plasmodium falciparum Schizonts in Primary Porcine Hepatocytes.
 35252033	Transmission-Blocking Strategies Against Malaria Parasites During Their Mosquito Stages.
-35250979	Evidence for an Adult-Like Type 1-Immunity Phenotype of Vδ1, Vδ2 and Vδ3 T Cells in Ghanaian Children With Repeated Exposure to Malaria.
-35250978	Exploring the Ecological Implications of Microbiota Diversity in Birds: Natural Barriers Against Avian Malaria.
-35250958	The Dynamic Change of Immune Responses Between Acute and Recurrence Stages of Rodent Malaria Infection.
-35250433	Systemic Response to Infection Induces Long-Term Cognitive Decline: Neuroinflammation and Oxidative Stress as Therapeutical Targets.
-35250217	Rural-Urban Differentials in Access to Behaviour Change Communication and Use of Long-Lasting Insecticide-Treated Nets and Artemisinin-Based Combination Therapy in Southeast Nigeria.
