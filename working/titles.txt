@@ -1,13 +1,13 @@
 38664837	Identifying and characterizing high-risk populations in pilot malaria elimination districts in Madagascar: a mixed-methods study.
-38664818	Ontological representation, modeling, and analysis of parasite vaccines.
-38664783	Willingness to accept malaria vaccines amongst women presenting at outpatient and immunization clinics in Enugu state, Southeast Nigeria.
-38664751	Harnessing the potential of African youth for transforming health research in Africa.
-38664740	Publisher Correction: Progress towards malaria elimination in the Greater Mekong Subregion: perspectives from the World Health Organization.
 38664703	Did the prolonged residual efficacy of clothianidin products lead to a greater reduction in vector populations and subsequent malaria transmission compared to the shorter residual efficacy of pirimiphos-methyl?
 38664687	Prospective study of malaria in pregnancy, placental and congenital malaria in Northwest Colombia.
 38664678	A qualitative study on determinants of the use of malaria rapid diagnostic test and anti-malarial drug prescription practices by primary healthcare workers in Ebonyi state, Nigeria.
 38663284	Exploring the modulatory influence on the antimalarial activity of amodiaquine using scaffold hybridisation with ferrocene integration.
 38663046	Discovery of antiplasmodial pyridine carboxamides and thiocarboxamides.
+38664818	Ontological representation, modeling, and analysis of parasite vaccines.
+38664783	Willingness to accept malaria vaccines amongst women presenting at outpatient and immunization clinics in Enugu state, Southeast Nigeria.
+38664751	Harnessing the potential of African youth for transforming health research in Africa.
+38664740	Publisher Correction: Progress towards malaria elimination in the Greater Mekong Subregion: perspectives from the World Health Organization.
 38662728	Autochthonous Plasmodium vivax Infections, Florida, USA, 2023.
 38662702	Subnational Projections of Lymphatic Filariasis Elimination Targets in Ethiopia to Support National Level Policy.
 38661253	Synthesis of Deuterated Endochin-Like Quinolones.
