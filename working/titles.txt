@@ -1,3 +1,13 @@
+38664837	Identifying and characterizing high-risk populations in pilot malaria elimination districts in Madagascar: a mixed-methods study.
+38664818	Ontological representation, modeling, and analysis of parasite vaccines.
+38664783	Willingness to accept malaria vaccines amongst women presenting at outpatient and immunization clinics in Enugu state, Southeast Nigeria.
+38664751	Harnessing the potential of African youth for transforming health research in Africa.
+38664740	Publisher Correction: Progress towards malaria elimination in the Greater Mekong Subregion: perspectives from the World Health Organization.
+38664703	Did the prolonged residual efficacy of clothianidin products lead to a greater reduction in vector populations and subsequent malaria transmission compared to the shorter residual efficacy of pirimiphos-methyl?
+38664687	Prospective study of malaria in pregnancy, placental and congenital malaria in Northwest Colombia.
+38664678	A qualitative study on determinants of the use of malaria rapid diagnostic test and anti-malarial drug prescription practices by primary healthcare workers in Ebonyi state, Nigeria.
+38663284	Exploring the modulatory influence on the antimalarial activity of amodiaquine using scaffold hybridisation with ferrocene integration.
+38663046	Discovery of antiplasmodial pyridine carboxamides and thiocarboxamides.
 38662728	Autochthonous Plasmodium vivax Infections, Florida, USA, 2023.
 38662702	Subnational Projections of Lymphatic Filariasis Elimination Targets in Ethiopia to Support National Level Policy.
 38661253	Synthesis of Deuterated Endochin-Like Quinolones.
@@ -9987,13 +9997,3 @@
 35249546	Haematological consequences of acute uncomplicated falciparum malaria: a WorldWide Antimalarial Resistance Network pooled analysis of individual patient data.
 35249526	The Potential Role of the Serotonin Transporter as a Drug Target against Parasitic Infections: A Scoping Review of the Literature.
 35248600	Methodology to streamline flow cytometric-based detection of early stage Plasmodium parasitemia in mice.
-35248402	A review on point of care tests in parasitology.
-35248084	Quantification of the dynamics of antibody response to malaria to inform sero-surveillance in pregnant women.
-35248078	Factors associated with knowledge about malaria prevention among women of reproductive age, Tete Province, Mozambique, 2019-2020.
-35248055	Implementation of community case management of malaria in malaria endemic counties of western Kenya: are community health volunteers up to the task in diagnosing malaria?
-35247990	Extending seasonal malaria chemoprevention to five cycles: a pilot study of feasibility and acceptability in Mangodara district, Burkina Faso.
-35247977	Cyclical regression covariates remove the major confounding effect of cyclical developmental gene expression with strain-specific drug response in the malaria parasite Plasmodium falciparum.
-35247953	Four Times of Relapse of Plasmodium vivax Malaria Despite Primaquine Treatment in a Patient with Impaired Cytochrome P450 2D6 Function.
-35247950	Prevalence of Glucose-6-Phosphate Dehydrogenase (G6PD) Deficiency among Malaria Patients in Southern Thailand: 8 Years Retrospective Study.
-35247432	The in-vitro study of novel phospholipid micelles loaded with amphotericin B on plasmodium falciparum protozoan.
-35247323	Volunteer infection studies accelerate the clinical development of novel drugs against malaria.
