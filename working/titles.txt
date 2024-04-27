@@ -1,3 +1,5 @@
+38669440	The Quest for Transformative Tools to Eradicate Malaria.
+38669354	Subcutaneous Administration of a Monoclonal Antibody to Prevent Malaria.
 38668551	Spatiotemporal Analysis of Malaria Transmission in the Autonomous Indigenous Regions of Panama, Central America, 2015-2022.
 38668545	Characterization of the Tissue and Strain-Specific Microbiota of Anopheles funestus Giles (Diptera: Culicidae).
 38668253	Role of TAM Receptors in Antimalarial Humoral Immune Response.
@@ -9995,5 +9997,3 @@
 35254426	A new mass spectral library for high-coverage and reproducible analysis of the Plasmodium falciparum-infected red blood cell proteome.
 35253998	Erythropoiesis signature and ubiquitin-mediated proteolysis are enriched in systematic juvenile idiopathic arthritis.
 35252506	Malaria research supported with open access data.
-35252038	Mid-Liver Stage Arrest of Plasmodium falciparum Schizonts in Primary Porcine Hepatocytes.
-35252033	Transmission-Blocking Strategies Against Malaria Parasites During Their Mosquito Stages.
