@@ -1,3 +1,24 @@
+38675991	Association of the IFNG +874T/A Polymorphism with Symptomatic COVID-19 Susceptibility.
+38675762	Socio-Demographic Factors Influencing Malaria Vaccine Acceptance for Under-Five Children in a Malaria-Endemic Region: A Community-Based Study in the Democratic Republic of Congo.
+38675734	Design and Evaluation of Chimeric Plasmodium falciparum Circumsporozoite Protein-Based Malaria Vaccines.
+38675731	Global Disparities in Access to Vaccine Clinical Trials: A Review of the Literature.
+38675729	Malaria Vaccine Introduction in Cameroon: Early Results 30 Days into Rollout.
+38675640	The Synthesis of 2'-Hydroxychalcones under Ball Mill Conditions and Their Biological Activities.
+38675598	Gas Chromatography-Mass Spectrometry Chemical Profiling of Commiphora myrrha Resin Extracts and Evaluation of Larvicidal, Antioxidant, and Cytotoxic Activities.
+38675426	Pharmacokinetics and Pharmacodynamics of a Nanostructured Lipid Carrier Co-Encapsulating Artemether and miRNA for Mitigating Cerebral Malaria.
+38674898	Analysis of Malnutrition among Children under Five Years across Contrasting Agroecosystems of Northwest Ethiopia: Application of Structural Equation Modeling.
+38674770	Neutrophils versus Protozoan Parasites: Plasmodium, Trichomonas, Leishmania, Trypanosoma, and Entameoba.
+38673995	Development of Novel Peptidyl Nitriles Targeting Rhodesain and Falcipain-2 for the Treatment of Sleeping Sickness and Malaria.
+38672371	Avian Haemosporidian Infection in Wildlife Rehabilitation Centres of Portugal: Causes, Consequences, and Genetic Diversity.
+38672199	Interleukin-6 and Lymphocyte-to-Monocyte Ratio Indices Identify Patients with Intrahepatic Cholangiocarcinoma.
+38671762	A Privacy-Preserving Approach to Effectively Utilize Distributed Data for Malaria Image Detection.
+38671462	The Anopheles coluzzii range extends into Kenya: detection, insecticide resistance profiles and population genetic structure in relation to conspecific populations in West and Central Africa.
+38671268	Essential oil and fenchone extracted from Tetradenia riparia (Hochstetter.) Codd (Lamiaceae) induce oxidative stress in Culex quinquefasciatus larvae (Diptera: Culicidae) without causing lethal effects on non-target animals.
+38671079	Vegetation index and livestock practices as predictors of malaria transmission in Nigeria.
+38671033	Anti-Plasmodium vivax merozoite surface protein 3 ϒ (PvMSP3 ϒ) antibodies upon natural infection.
+38670400	Mechanism of antimalarial action and mitigation of infection-mediated mitochondrial dysfunction by phyto-constituents of Andrographis paniculata ((Burm f.) Wall. ex Nees) in Plasmodium berghei-infected mice.
+38670216	Hemozoin-induced IFN-γ production mediates innate immune protection against sporozoite infection.
+38669897	Leishmania vaccine development: A comprehensive review.
 38669440	The Quest for Transformative Tools to Eradicate Malaria.
 38669354	Subcutaneous Administration of a Monoclonal Antibody to Prevent Malaria.
 38668551	Spatiotemporal Analysis of Malaria Transmission in the Autonomous Indigenous Regions of Panama, Central America, 2015-2022.
@@ -9976,24 +9997,3 @@
 35260593	A vaccine targeting the L9 epitope of the malaria circumsporozoite protein confers protection from blood-stage infection in a mouse challenge model.
 35260473	Transcellular blood-brain barrier disruption in malaria-induced reversible brain edema.
 35260210	Measuring the impact of malaria infection on indicators of iron and vitamin A status: a systematic literature review and meta-analysis.
-35260169	Naturally acquired antibody kinetics against Plasmodium vivax antigens in people from a low malaria transmission region in western Thailand.
-35259963	Magnitude of urban malaria and its associated risk factors: the case of Batu town, Oromia Regional State, Ethiopia.
-35259693	Recalibrating the notion of modelling for policymaking during pandemics.
-35259336	The genomic signatures of natural selection in admixed human populations.
-35259187	Genomic miscellany and allelic frequencies of Plasmodium falciparum msp-1, msp-2 and glurp in parasite isolates.
-35259153	Characterising spatial patterns of neglected tropical disease transmission using integrated sero-surveillance in Northern Ghana.
-35257658	Critical role for isoprenoids in apicoplast biogenesis by malaria parasites.
-35257625	Ulysses S. Grant: Chronic Malaria and the myth of his alcoholism.
-35257293	Prevalence of antifolate drug resistance markers in Plasmodium vivax in China.
-35256885	The Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) Pandemic: Are Africa's Prevalence and Mortality Rates Relatively Low?
-35256789	Author Correction: Wolbachia cifB induces cytoplasmic incompatibility in the malaria mosquito vector.
-35256698	Detection of temporal, spatial and spatiotemporal clustering of malaria incidence in northwest Ethiopia, 2012-2020.
-35256675	Prevalence and risk of Plasmodium vivax infection among Duffy-negative individuals: a systematic review and meta-analysis.
-35256255	Can malaria parasites be spontaneously cleared?
-35255983	A direct, sensitive and high-throughput genus and species-specific molecular assay for large-scale malaria screening.
-35255896	Image features for quality analysis of thick blood smears employed in malaria diagnosis.
-35255125	Transcriptome Analysis of Plasmodium falciparum Isolates From Benin Reveals Specific Gene Expression Associated With Cerebral Malaria.
-35255096	A phase II multicenter randomized study to evaluate the safety and efficacy of combining thermotherapy and a short course of miltefosine for the treatment of uncomplicated cutaneous leishmaniasis in the New World.
-35254426	A new mass spectral library for high-coverage and reproducible analysis of the Plasmodium falciparum-infected red blood cell proteome.
-35253998	Erythropoiesis signature and ubiquitin-mediated proteolysis are enriched in systematic juvenile idiopathic arthritis.
-35252506	Malaria research supported with open access data.
