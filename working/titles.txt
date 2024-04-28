@@ -1,3 +1,11 @@
+38678279	Fidelity of implementation of national guidelines on malaria diagnosis for children under-five years in Rivers State, Nigeria.
+38678245	Factors influencing fever care-seeking for children under five years of age in The Gambia: a secondary analysis of 2019-20 DHS data.
+38678051	Positive-unlabeled learning identifies vaccine candidate antigens in the malaria parasite Plasmodium falciparum.
+38676907	Changing etiological spectrum of acute liver failure.
+38677361	Chemical control of medically important arthropods in Panama: A systematic literature review of historical efforts.
+38677112	Discovery of harmiprims, harmine-primaquine hybrids, as potent and selective anticancer and antimalarial compounds.
+38676995	Evaluation of the antiplasmodial efficacy of synthetic 2,5-diphenyloxazole analogs of compounds naturally derived from Oxytropis lanata.
+38676494	A Review of the Association between Infections, Seizures, and Drugs.
 38675991	Association of the IFNG +874T/A Polymorphism with Symptomatic COVID-19 Susceptibility.
 38675762	Socio-Demographic Factors Influencing Malaria Vaccine Acceptance for Under-Five Children in a Malaria-Endemic Region: A Community-Based Study in the Democratic Republic of Congo.
 38675734	Design and Evaluation of Chimeric Plasmodium falciparum Circumsporozoite Protein-Based Malaria Vaccines.
@@ -9989,11 +9997,3 @@
 35264152	Evaluating malaria prevalence and land cover across varying transmission intensity in Tanzania using a cross-sectional survey of school-aged children.
 35264103	Utilization of point-of-care tests among general practitioners, a cross-sectional study.
 35264080	Dissecting The role of Plasmodium metacaspase-2 in malaria gametogenesis and sporogony.
-35263579	Odorant-receptor-mediated regulation of chemosensory gene expression in the malaria mosquito Anopheles gambiae.
-35262915	British Society for Haematology guidelines for the laboratory diagnosis of malaria.
-35262340	Identification, Characterization, and Synthesis of Natural Parasitic Cysteine Protease Inhibitors: Pentacitidins Are More Potent Falcitidin Analogues.
-35260722	Exploring agricultural land-use and childhood malaria associations in sub-Saharan Africa.
-35260653	Differential location of NKT and MAIT cells within lymphoid tissue.
-35260593	A vaccine targeting the L9 epitope of the malaria circumsporozoite protein confers protection from blood-stage infection in a mouse challenge model.
-35260473	Transcellular blood-brain barrier disruption in malaria-induced reversible brain edema.
-35260210	Measuring the impact of malaria infection on indicators of iron and vitamin A status: a systematic literature review and meta-analysis.
