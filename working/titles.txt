@@ -2,10 +2,10 @@
 38678245	Factors influencing fever care-seeking for children under five years of age in The Gambia: a secondary analysis of 2019-20 DHS data.
 38678051	Positive-unlabeled learning identifies vaccine candidate antigens in the malaria parasite Plasmodium falciparum.
 38677361	Chemical control of medically important arthropods in Panama: A systematic literature review of historical efforts.
+38677112	Discovery of harmiprims, harmine-primaquine hybrids, as potent and selective anticancer and antimalarial compounds.
 38676995	Evaluation of the antiplasmodial efficacy of synthetic 2,5-diphenyloxazole analogs of compounds naturally derived from Oxytropis lanata.
 38676907	Changing etiological spectrum of acute liver failure.
 38676494	A Review of the Association between Infections, Seizures, and Drugs.
-38677112	Discovery of harmiprims, harmine-primaquine hybrids, as potent and selective anticancer and antimalarial compounds.
 38675991	Association of the IFNG +874T/A Polymorphism with Symptomatic COVID-19 Susceptibility.
 38675762	Socio-Demographic Factors Influencing Malaria Vaccine Acceptance for Under-Five Children in a Malaria-Endemic Region: A Community-Based Study in the Democratic Republic of Congo.
 38675734	Design and Evaluation of Chimeric Plasmodium falciparum Circumsporozoite Protein-Based Malaria Vaccines.
