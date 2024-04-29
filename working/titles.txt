@@ -1,3 +1,4 @@
+38679125	Design, In silico study, Synthesis and Evaluation of Hybrid Pyrazole Substituted 1,3,5-Triazine Derivatives for Antimalarial Activity.
 38678279	Fidelity of implementation of national guidelines on malaria diagnosis for children under-five years in Rivers State, Nigeria.
 38678245	Factors influencing fever care-seeking for children under five years of age in The Gambia: a secondary analysis of 2019-20 DHS data.
 38678051	Positive-unlabeled learning identifies vaccine candidate antigens in the malaria parasite Plasmodium falciparum.
@@ -9996,4 +9997,3 @@
 35264153	Addressing child health inequity through case management of under-five malaria in Nigeria: an extended cost-effectiveness analysis.
 35264152	Evaluating malaria prevalence and land cover across varying transmission intensity in Tanzania using a cross-sectional survey of school-aged children.
 35264103	Utilization of point-of-care tests among general practitioners, a cross-sectional study.
-35264080	Dissecting The role of Plasmodium metacaspase-2 in malaria gametogenesis and sporogony.
