@@ -1,3 +1,5 @@
+38683374	Profile of metacaspase gene expression in Plasmodium vivax field isolates from the Brazilian Amazon.
+38683072	[Molecular mimicry between Plasmodium sp and Guillain-Barre syndrome antigens].
 38682320	Safety assessment of crude aqueous methanol extract of Annona senegalensis stem bark: acute and sub-chronic toxicity studies.
 38681005	Plasmodium vivax Malaria Presenting as TMA and Acute Cortical Necrosis: A Case Series.
 38680770	Co-infection with plasmodium falciparum and COVID-19 with lethal outcome. First clinical case from Bulgaria.
@@ -9995,5 +9997,3 @@
 35265429	Viral Hepatitis as a Public Health Concern: A Narrative Review About the Current Scenario and the Way Forward.
 35265333	Paediatric pneumonia research priorities in the context of COVID-19: An eDelphi study.
 35265331	Paediatric pneumonia research priorities in the context of COVID-19: A eDelphi study.
-35264751	African leadership underpins success of malaria drug trial.
-35264696	The effect of blood feeding on insecticide resistance intensity and adult longevity in the major malaria vector Anopheles funestus (Diptera: Culicidae).
