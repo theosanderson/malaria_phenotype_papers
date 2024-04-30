@@ -1,3 +1,8 @@
+38685081	Blood count changes in malaria patients according to blood groups (ABO/Rh) and sickle cell trait.
+38685044	Therapeutic efficacy of generic artemether-lumefantrine in the treatment of uncomplicated malaria in Ghana: assessing anti-malarial efficacy amidst pharmacogenetic variations.
+38684842	A mathematical model for mapping the insecticide resistance trend in the Anopheles gambiae mosquito population under climate variability in Africa.
+38684775	Exploring mosquito abundance and Plasmodium infection through nested-PCR: implications for disease surveillance and control.
+38684608	Essential oil from Piper tuberculatum Jacq. (Piperaceae) and its majority compound β-caryophyllene: mechanism of larvicidal action against Aedes aegypti (Diptera: Culicidae) and selective toxicity.
 38683855	Measuring effects of ivermectin-treated cattle on potential malaria vectors in Vietnam: A cluster-randomized trial.
 38683374	Profile of metacaspase gene expression in Plasmodium vivax field isolates from the Brazilian Amazon.
 38683072	[Molecular mimicry between Plasmodium sp and Guillain-Barre syndrome antigens].
@@ -2241,6 +2246,8 @@
 37907627	Very low prevalence of haemosporidian parasites in two species of marsh terns.
 37907431	Implications of mosquito metabolism on vector competence.
 37906965	A Review on the Health Impact of Self-medication for Malaria on Port Harcourt Residents.
+35952086	Paludismo (Malaria).
+35952085	Malaria.
 37906581	Correction: Identification of Plasmodium falciparum DNA Repair Protein Mre11 with an Evolutionarily Conserved Nuclease Function.
 37906030	Missed opportunities for Intermittent Preventive Treatment of Malaria among pregnant women with the recommended number of antenatal care visits in Nigeria: Secondary Analysis of Malaria Indicator Survey 2021.
 37905102	Global risk of selection and spread of Plasmodium falciparum histidine-rich protein 2 and 3 gene deletions.
@@ -9990,10 +9997,3 @@
 35266823	Targeted Amplicon Deep Sequencing for Monitoring Antimalarial Resistance Markers in Western Kenya.
 35266475	Technologies for measuring red blood cell deformability.
 35266366	[Progress of researches on approaches for estimating the burden of vector-borne diseases].
-35266363	[Effects of nitroquine on the development of Plasmodium yoelii at different stages in Anopheles stephensi].
-35266359	[Epidemiological characteristics of imported Plasmodium ovale malaria in Jiangsu Province from 2012 to 2020].
-35266354	[Analysis of lactate dehydrogenase gene polymorphisms and prediction of B cell epitopes in four human Plasmodium species].
-35265869	Mapping genetic markers of artemisinin resistance in Plasmodium falciparum malaria in Asia: a systematic review and spatiotemporal analysis.
-35265764	Key plasma microRNAs variations in patients with Plasmodium vivax malaria in Iran.
-35265429	Viral Hepatitis as a Public Health Concern: A Narrative Review About the Current Scenario and the Way Forward.
-35265333	Paediatric pneumonia research priorities in the context of COVID-19: An eDelphi study.
