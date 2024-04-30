@@ -1,3 +1,4 @@
+38683855	Measuring effects of ivermectin-treated cattle on potential malaria vectors in Vietnam: A cluster-randomized trial.
 38683374	Profile of metacaspase gene expression in Plasmodium vivax field isolates from the Brazilian Amazon.
 38683072	[Molecular mimicry between Plasmodium sp and Guillain-Barre syndrome antigens].
 38682320	Safety assessment of crude aqueous methanol extract of Annona senegalensis stem bark: acute and sub-chronic toxicity studies.
@@ -9996,4 +9997,3 @@
 35265764	Key plasma microRNAs variations in patients with Plasmodium vivax malaria in Iran.
 35265429	Viral Hepatitis as a Public Health Concern: A Narrative Review About the Current Scenario and the Way Forward.
 35265333	Paediatric pneumonia research priorities in the context of COVID-19: An eDelphi study.
-35265331	Paediatric pneumonia research priorities in the context of COVID-19: A eDelphi study.
