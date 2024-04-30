@@ -1,3 +1,6 @@
+38687434	ZAP70: A Key Gene Identified by Differential Expression Analysis for Early Diagnosis of Fetuses with Emanuel Syndrome.
+38687328	In vitro Testing of Trichomonas vaginalis Drug Susceptibility: Evaluation of Minimal Lethal Concentration for Secnidazole that Correlates with Treatment Success.
+38686916	Identification of novel peptide inhibitors of Plasmodium falciparum dihydrofolate reductase (PfDHFR): molecular docking and MD simulation studies.
 38686539	Incorporation of Three Different Optical Trains into the IR-MALDESI Mass Spectrometry Imaging Platform to Characterize Artemisia annua.
 38686096	Editorial: Identification and characterization of novel antigens of malarial parasites, volume II.
 38685826	Malaria Prevalence and Macroeconomic Output in Ghana, 1990 to 2019.
@@ -9994,6 +9997,3 @@
 35270126	Genome-Wide Identification, Characterization and Expression Analysis of Lipoxygenase Gene Family in Artemisia annua L.
 35270103	Ethnobotanical Survey of Local Flora Used for Medicinal Purposes among Indigenous People in Five Areas in Lagos State, Nigeria.
 35269594	Emerging Glycation-Based Therapeutics-Glyoxalase 1 Inducers and Glyoxalase 1 Inhibitors.
-35268235	Learning Ability and Hippocampal Transcriptome Responses to Early and Later Life Environmental Complexities in Dual-Purpose Chicks.
-35268169	Avian Malaria in Penguins: Diagnostics and Future Direction in the Context of Climate Change.
-35267594	Epigenetic Alteration of the Cancer-Related Gene TGFBI in B Cells Infected with Epstein-Barr Virus and Exposed to Aflatoxin B1: Potential Role in Burkitt Lymphoma Development.
