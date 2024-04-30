@@ -1,3 +1,8 @@
+38686539	Incorporation of Three Different Optical Trains into the IR-MALDESI Mass Spectrometry Imaging Platform to Characterize Artemisia annua.
+38686096	Editorial: Identification and characterization of novel antigens of malarial parasites, volume II.
+38685826	Malaria Prevalence and Macroeconomic Output in Ghana, 1990 to 2019.
+38685340	Exploring the genetic diversity pattern of PvEBP/DBP2: A promising candidate for an effective Plasmodium vivax vaccine.
+38685249	Characteristics of Trypsin genes and their roles in insecticide resistance based on omics and functional analyses in the malaria vector Anopheles sinensis.
 38685081	Blood count changes in malaria patients according to blood groups (ABO/Rh) and sickle cell trait.
 38685044	Therapeutic efficacy of generic artemether-lumefantrine in the treatment of uncomplicated malaria in Ghana: assessing anti-malarial efficacy amidst pharmacogenetic variations.
 38684842	A mathematical model for mapping the insecticide resistance trend in the Anopheles gambiae mosquito population under climate variability in Africa.
@@ -9992,8 +9997,3 @@
 35268235	Learning Ability and Hippocampal Transcriptome Responses to Early and Later Life Environmental Complexities in Dual-Purpose Chicks.
 35268169	Avian Malaria in Penguins: Diagnostics and Future Direction in the Context of Climate Change.
 35267594	Epigenetic Alteration of the Cancer-Related Gene TGFBI in B Cells Infected with Epstein-Barr Virus and Exposed to Aflatoxin B1: Potential Role in Burkitt Lymphoma Development.
-35266828	Impact of Short-Term Storage on Ex Vivo Antimalarial Susceptibilities of Fresh Ugandan Plasmodium falciparum Isolates.
-35266827	An Optimized Dihydrodibenzothiazepine Lead Compound (SBI-0797750) as a Potent and Selective Inhibitor of Plasmodium falciparum and P. vivax Glucose 6-Phosphate Dehydrogenase 6-Phosphogluconolactonase.
-35266823	Targeted Amplicon Deep Sequencing for Monitoring Antimalarial Resistance Markers in Western Kenya.
-35266475	Technologies for measuring red blood cell deformability.
-35266366	[Progress of researches on approaches for estimating the burden of vector-borne diseases].
