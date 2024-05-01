@@ -1,3 +1,6 @@
+38687748	Field evaluation of a novel semi-quantitative point-of-care diagnostic for G6PD deficiency in Indonesia.
+38687673	Update on the composition and distribution of the mosquito fauna (Diptera: Culicidae) in Cabo Verde, a country at risk for mosquito-borne diseases.
+38687615	Innate immune activation restricts priming and protective efficacy of the radiation-attenuated PfSPZ malaria vaccine.
 38687434	ZAP70: A Key Gene Identified by Differential Expression Analysis for Early Diagnosis of Fetuses with Emanuel Syndrome.
 38687328	In vitro Testing of Trichomonas vaginalis Drug Susceptibility: Evaluation of Minimal Lethal Concentration for Secnidazole that Correlates with Treatment Success.
 38686916	Identification of novel peptide inhibitors of Plasmodium falciparum dihydrofolate reductase (PfDHFR): molecular docking and MD simulation studies.
@@ -9994,6 +9997,3 @@
 35271226	Malaria - Are We Winning The War.
 35271089	Temporal Monitoring and Predicting of the Abundance of Malaria Vectors Using Time Series Analysis of Remote Sensing Data through Google Earth Engine.
 35270256	Development and On-Field Deployment of a Mobile-Based Application 'MoSQuIT' for Malaria Surveillance in International Border Districts of Northeast India-Challenges and Opportunities.
-35270126	Genome-Wide Identification, Characterization and Expression Analysis of Lipoxygenase Gene Family in Artemisia annua L.
-35270103	Ethnobotanical Survey of Local Flora Used for Medicinal Purposes among Indigenous People in Five Areas in Lagos State, Nigeria.
-35269594	Emerging Glycation-Based Therapeutics-Glyoxalase 1 Inducers and Glyoxalase 1 Inhibitors.
