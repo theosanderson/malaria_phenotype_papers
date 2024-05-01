@@ -1,9 +1,11 @@
+38690550	Machine learning for predicting Plasmodium liver stage development in vitro using microscopy imaging.
+38690211	Advancing liposome technology for innovative strategies against malaria.
+38689283	Field evaluation of the residual efficacy of new generation insecticides for potential use in indoor residual spray programmes in South Africa.
 38689274	Exploring the role of spending on malaria incidence in Uganda using the auto-regressive distributed lag approach.
 38689257	Access to quality-assured artemisinin-based combination therapy and associated factors among clients of selected private drug outlets in Uganda.
+38689233	The influence of neonatal BCG vaccination on in vitro cytokine responses to Plasmodium falciparum.
 38688566	Policy uptake and implementation of the RTS,S/AS01 malaria vaccine in sub-Saharan African countries: status 2 years following the WHO recommendation.
 38688260	Deletions of Histidine-Rich Protein 2/3 Genes in Natural Plasmodium falciparum Populations from Cameroon and India: Role of Asymptomatic and Submicroscopic Infections.
-38689283	Field evaluation of the residual efficacy of new generation insecticides for potential use in indoor residual spray programmes in South Africa.
-38689233	The influence of neonatal BCG vaccination on in vitro cytokine responses to Plasmodium falciparum.
 38687748	Field evaluation of a novel semi-quantitative point-of-care diagnostic for G6PD deficiency in Indonesia.
 38687673	Update on the composition and distribution of the mosquito fauna (Diptera: Culicidae) in Cabo Verde, a country at risk for mosquito-borne diseases.
 38687615	Innate immune activation restricts priming and protective efficacy of the radiation-attenuated PfSPZ malaria vaccine.
@@ -9995,5 +9997,3 @@
 35276063	Triple artemisinin-based combination therapies for malaria: a timely solution to counter antimalarial drug resistance.
 35275957	Investigation of liposomal self-adjuvanting peptide epitopes derived from conserved blood-stage Plasmodium antigens.
 35275911	Predicting future community-level ocular Chlamydia trachomatis infection prevalence using serological, clinical, molecular, and geospatial data.
-35275477	A Malaria Vaccine for Africa - An Important Step in a Century-Long Quest.
-35273922	Plasmodium falciparum GBP2 Is a Telomere-Associated Protein That Binds to G-Quadruplex DNA and RNA.
