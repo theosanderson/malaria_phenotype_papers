@@ -1,7 +1,9 @@
+38694310	Role of cytokines in immunomodulation during malaria clearance.
+38693799	[Malaria vaccines: a new tool for elimination?].
 38693577	A human pluripotent stem cell-derived in vitro model of the blood-brain barrier in cerebral malaria.
+38693572	Plasmodium falciparum alters the trophoblastic barrier and stroma villi organization of human placental villi explants.
 38693548	Health system lessons from the global fund-supported procurement and supply chain investments in Zimbabwe: a mixed methods study.
 38692415	Anogeissus leiocarpus (DC.) Guill. & Perr. (Combretaceae): A review of the traditional uses, phytochemistry and pharmacology of African birch.
-38693572	Plasmodium falciparum alters the trophoblastic barrier and stroma villi organization of human placental villi explants.
 38691427	Trends in imported infections among migrants and travellers to Spain: a decade of analysis through the +Redivi network (2012-2022).
 38691215	Mosquito Microbiomes of Rwanda: Characterizing Mosquito Host and Microbial Communities in the Land of a Thousand Hills.
 38690550	Machine learning for predicting Plasmodium liver stage development in vitro using microscopy imaging.
@@ -9995,5 +9997,3 @@
 35279140	Molecular surveillance for operationally relevant genetic polymorphisms in Plasmodium falciparum in Southern Chad, 2016-2017.
 35278741	Controlled human malaria infections by mosquito bites induce more severe clinical symptoms than asexual blood-stage challenge infections.
 35278391	Malaria transmission and prevalence in rice-growing versus non-rice-growing villages in Africa: a systematic review and meta-analysis.
-35278052	Heavy Malaria Parasitaemia in Young Nigerian Infants: Prevalence, Determinants and Implication for the Health System.
-35277503	Functional genomics of RAP proteins and their role in mitoribosome regulation in Plasmodium falciparum.
