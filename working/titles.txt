@@ -1,3 +1,7 @@
+38696111	Green synthesized silver nanoparticles of Terminalia bellirica leaves extract: synthesis, characterization, in-silico studies, and antimalarial activity.
+38696024	Analyzing the impact of pesticides on the indus river: contamination levels in water, sediment, fish, and associated human health risks.
+38695755	Dual CRISPR/Cas13a Cascade Strand Displacement-Triggered Transcription for Point-of-Care Detection of Plasmodium in Asymptomatic Malaria.
+38695359	The Prevalence and Determinants of Anemia Among Indigenous (Orang Asli) Children in Peninsular Malaysia: A Systematic Review.
 38694310	Role of cytokines in immunomodulation during malaria clearance.
 38693799	[Malaria vaccines: a new tool for elimination?].
 38693577	A human pluripotent stem cell-derived in vitro model of the blood-brain barrier in cerebral malaria.
@@ -9993,7 +9997,3 @@
 35281436	Malaria Related Neurocognitive Deficits and Behavioral Alterations.
 35279381	No sweet deal: the antibody-mediated immune response to malaria.
 35279149	Evaluation of an accelerometer-based monitor for detecting bed net use and human entry/exit using a machine learning algorithm.
-35279143	A single low dose of primaquine is safe and sufficient to reduce transmission of Plasmodium falciparum gametocytes regardless of cytochrome P450 2D6 enzyme activity in Bagamoyo district, Tanzania.
-35279140	Molecular surveillance for operationally relevant genetic polymorphisms in Plasmodium falciparum in Southern Chad, 2016-2017.
-35278741	Controlled human malaria infections by mosquito bites induce more severe clinical symptoms than asexual blood-stage challenge infections.
-35278391	Malaria transmission and prevalence in rice-growing versus non-rice-growing villages in Africa: a systematic review and meta-analysis.
