@@ -2,10 +2,10 @@
 38698290	Oncology Education in Angola: Current Status and Recommendations for Improvement.
 38698102	Alteration of prothrombin time in Plasmodium falciparum and Plasmodium vivax infections with different levels of severity: a systematic review and meta-analysis.
 38698066	Level of awareness and utilization of insecticide-treated bed nets among medical students as measures for reducing malaria episodes.
+38698007	Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan.
 38697756	System-wide governance challenges of the Ebonyi State Malaria Elimination Programme and recommendations for malaria health system strengthening: a qualitative study among stakeholders in Ebonyi state, Nigeria.
 38697409	Evaluation of the antiplasmodial and anti-Toxoplasma activities of several Indonesian medicinal plant extracts.
 38697310	A longer-chain acylated derivative of Dictyostelium differentiation-inducing factor-1 enhances the antimalarial activity against Plasmodium parasites.
-38698007	Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan.
 38696832	Health impacts of war: case studies of New Zealand veterans of the First World War.
 38696584	Zombie malaria parasites.
 38696552	A single cell atlas of sexual development in Plasmodium falciparum.
@@ -246,7 +246,7 @@
 38621761	Factors associated with the timely diagnosis of malaria and the utilization of types of healthcare facilities: a retrospective study in the Republic of Korea.
 38621467	Oral acute toxicity study and in vivo antimalarial activity of Strychnos lucida R. Br. tablet.
 38621317	Oral administration of IPI549 protects mice from neuropathology and an overwhelming inflammatory response during experimental cerebral malaria.
-38618930	Modeling the spatial risk of malaria through probability distribution of Anopheles maculipennis s.l. and imported cases.
+38618930	Modelling the spatial risk of malaria through probability distribution of Anopheles maculipennis s.l. and imported cases.
 38618882	1,2,4,5-Tetraoxane derivatives/hybrids as potent antimalarial endoperoxides: Chronological advancements, structure-activity relationship (SAR) studies and future perspectives.
 38618863	Cerebral malaria pathogenesis: Dissecting the role of CD4(+) and CD8(+) T-cells as major effectors in disease pathology.
 38618444	Plasmodium falciparum Malaria Presenting as a Thrombotic Thrombocytopenic Purpura (TTP) Mimic: A Case Report.
