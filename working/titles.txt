@@ -1,3 +1,11 @@
+38698437	Leveraging computational tools to combat malaria: assessment and development of new therapeutics.
+38698290	Oncology Education in Angola: Current Status and Recommendations for Improvement.
+38698102	Alteration of prothrombin time in Plasmodium falciparum and Plasmodium vivax infections with different levels of severity: a systematic review and meta-analysis.
+38698066	Level of awareness and utilization of insecticide-treated bed nets among medical students as measures for reducing malaria episodes.
+38698007	Active self-treatment of a facial wound with a biologically active plant by a male Sumatran orangutan.
+38697756	System-wide governance challenges of the Ebonyi State Malaria Elimination Programme and recommendations for malaria health system strengthening: a qualitative study among stakeholders in Ebonyi state, Nigeria.
+38697409	Evaluation of the antiplasmodial and anti-Toxoplasma activities of several Indonesian medicinal plant extracts.
+38697310	A longer-chain acylated derivative of Dictyostelium differentiation-inducing factor-1 enhances the antimalarial activity against Plasmodium parasites.
 38696832	Health impacts of war: case studies of New Zealand veterans of the First World War.
 38696584	Zombie malaria parasites.
 38696552	A single cell atlas of sexual development in Plasmodium falciparum.
@@ -49,7 +57,7 @@
 38680755	State of the Globe: Deciphering the Puzzle of Cerebral Malaria in Children.
 38680656	Time of day and circadian disruption influence host response and parasite growth in a mouse model of cerebral malaria.
 38680035	Exploring Subsite Selectivity within Plasmodium vivax N-Myristoyltransferase Using Pyrazole-Derived Inhibitors.
-38679125	Design, In silico study, Synthesis and Evaluation of Hybrid Pyrazole Substituted 1,3,5-Triazine Derivatives for Antimalarial Activity.
+38679125	Design, in silico study, synthesis and evaluation of hybrid pyrazole substituted 1,3,5-triazine derivatives for antimalarial activity.
 38678279	Fidelity of implementation of national guidelines on malaria diagnosis for children under-five years in Rivers State, Nigeria.
 38678245	Factors influencing fever care-seeking for children under five years of age in The Gambia: a secondary analysis of 2019-20 DHS data.
 38678051	Positive-unlabeled learning identifies vaccine candidate antigens in the malaria parasite Plasmodium falciparum.
@@ -9989,11 +9997,3 @@
 35284879	Biolarviciding for malaria vector control: Acceptance and associated factors in southern Tanzania.
 35284856	Systematic review of the entomological impact of insecticide-treated nets evaluated using experimental hut trials in Africa.
 35284702	Antimalarial Activity of Highly Coordinative Fused Heterocycles Targeting β-Hematin Crystallization.
-35284640	A protocol for a longitudinal, observational cohort study of infection and exposure to zoonotic and vector-borne diseases across a land-use gradient in Sabah, Malaysian Borneo: a socio-ecological systems approach.
-35284357	Community Health Workers. Reinforcement of an Outreach Strategy in Rural Areas Aimed at Improving the Integration of HIV, Tuberculosis and Malaria Prevention, Screening and Care Into the Health Systems. "Proxy-Santé" Study.
-35284186	Content aware multi-focus image fusion for high-magnification blood film microscopy.
-35284048	Deep learning for microscopic examination of protozoan parasites.
-35283976	Malaria health seeking practices for children, and intermittent preventive treatment in pregnancy in Wakiso District, Uganda.
-35283958	Trauma unit management and outcomes at an urban tertiary hospital in sub-Saharan Africa: a descriptive study.
-35282805	The Changing Global Landscape in the Development of Artemisinin-Based Treatments: A Clinical Trial Perspective.
-35282387	Analytical mapping of information and communication technology in emerging infectious diseases using CiteSpace.
