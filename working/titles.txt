@@ -1,3 +1,8 @@
+38696832	Health impacts of war: case studies of New Zealand veterans of the First World War.
+38696584	Zombie malaria parasites.
+38696552	A single cell atlas of sexual development in Plasmodium falciparum.
+38696387	The relationship between anaemia and the use of treated bed nets among pregnant and non-pregnant women in Ghana.
+38696368	Perceptions and behaviors of healthcare providers towards rehabilitation support to children with severe malaria-related disability in Ethiopia: A qualitative descriptive study using the Theoretical Domains Framework.
 38696111	Green synthesized silver nanoparticles of Terminalia bellirica leaves extract: synthesis, characterization, in-silico studies, and antimalarial activity.
 38696024	Analyzing the impact of pesticides on the indus river: contamination levels in water, sediment, fish, and associated human health risks.
 38695755	Dual CRISPR/Cas13a Cascade Strand Displacement-Triggered Transcription for Point-of-Care Detection of Plasmodium in Asymptomatic Malaria.
@@ -9992,8 +9997,3 @@
 35283958	Trauma unit management and outcomes at an urban tertiary hospital in sub-Saharan Africa: a descriptive study.
 35282805	The Changing Global Landscape in the Development of Artemisinin-Based Treatments: A Clinical Trial Perspective.
 35282387	Analytical mapping of information and communication technology in emerging infectious diseases using CiteSpace.
-35281668	Factors Associated With Resistance to In-Hospital Treatment of Malaria in Angolan Patients.
-35281450	Some Good and Some Bad: Sand Fly Salivary Proteins in the Control of Leishmaniasis and in Autoimmunity.
-35281436	Malaria Related Neurocognitive Deficits and Behavioral Alterations.
-35279381	No sweet deal: the antibody-mediated immune response to malaria.
-35279149	Evaluation of an accelerometer-based monitor for detecting bed net use and human entry/exit using a machine learning algorithm.
