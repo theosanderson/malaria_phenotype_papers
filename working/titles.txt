@@ -1,3 +1,6 @@
+38700378	Regulation of B-cell function and expression of CD11c, T-bet, and FcRL5 in response to different activation signals.
+38700363	Impact of different mutations on Kelch13 protein levels, ART resistance, and fitness cost in Plasmodium falciparum parasites.
+38700078	Care seeking for childhood illnesses in rural Mtwara, south-east Tanzania: a mixed methods study.
 38698437	Leveraging computational tools to combat malaria: assessment and development of new therapeutics.
 38698290	Oncology Education in Angola: Current Status and Recommendations for Improvement.
 38698102	Alteration of prothrombin time in Plasmodium falciparum and Plasmodium vivax infections with different levels of severity: a systematic review and meta-analysis.
@@ -9994,6 +9997,3 @@
 35284893	Towards understanding transfluthrin efficacy in a pyrethroid-resistant strain of the malaria vector Anopheles funestus with special reference to cytochrome P450-mediated detoxification.
 35284890	Vapor phase repellency and insecticidal activity of pyridinyl amides against anopheline mosquitoes.
 35284885	Variability in human attractiveness to mosquitoes.
-35284879	Biolarviciding for malaria vector control: Acceptance and associated factors in southern Tanzania.
-35284856	Systematic review of the entomological impact of insecticide-treated nets evaluated using experimental hut trials in Africa.
-35284702	Antimalarial Activity of Highly Coordinative Fused Heterocycles Targeting β-Hematin Crystallization.
