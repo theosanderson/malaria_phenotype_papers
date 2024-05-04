@@ -1,3 +1,10 @@
+38702775	Statistical design and analysis of controlled human malaria infection trials.
+38702672	Predictors of accessing seasonal malaria chemoprevention medicines through non-door-to-door distribution in Nigeria.
+38702649	Repurposing of anti-malarial drugs for the treatment of tuberculosis: realistic strategy or fanciful dead end?
+38702420	Albumin levels in malaria patients: a systematic review and meta-analysis of their association with disease severity.
+38702310	The DEAD-box RNA helicase PfDOZI imposes opposing actions on RNA metabolism in Plasmodium falciparum.
+38701812	Hydroxyurea dose optimisation for children with sickle cell anaemia in sub-Saharan Africa (REACH): extended follow-up of a multicentre, open-label, phase 1/2 trial.
+38701745	Association between telomere length and Plasmodium falciparum malaria endemicity in sub-Saharan Africans.
 38700378	Regulation of B-cell function and expression of CD11c, T-bet, and FcRL5 in response to different activation signals.
 38700363	Impact of different mutations on Kelch13 protein levels, ART resistance, and fitness cost in Plasmodium falciparum parasites.
 38700078	Care seeking for childhood illnesses in rural Mtwara, south-east Tanzania: a mixed methods study.
@@ -9990,10 +9997,3 @@
 35286809	The Pandemic Response Box─Accelerating Drug Discovery Efforts after Disease Outbreaks.
 35285813	Assessing Determinants of Programmatic Performance of Community Management of Malaria, Pneumonia, and Diarrhea in Children in Africa: Protocol and Data Collection for a Mixed Methods Evaluation of Integrated Community Case Management.
 35285479	Drug repurposing in silico screening platforms.
-35285373	An update on pharmacogenetic factors influencing the metabolism and toxicity of artemisinin-based combination therapy in the treatment of malaria.
-35285348	Pseudoreticulocytosis by the ADVIA 2120 Hematology Analyzer and Other Hematologic Changes in a Cynomolgus Macaque (Macaca fascicularis) With Malaria.
-35284898	Field evaluation of Veeralin, an alpha-cypermethrin + PBO long-lasting insecticidal net, against natural populations of Anopheles funestus in experimental huts in Muheza, Tanzania.
-35284897	Complexity of malaria transmission dynamics in the Brazilian Atlantic Forest.
-35284893	Towards understanding transfluthrin efficacy in a pyrethroid-resistant strain of the malaria vector Anopheles funestus with special reference to cytochrome P450-mediated detoxification.
-35284890	Vapor phase repellency and insecticidal activity of pyridinyl amides against anopheline mosquitoes.
-35284885	Variability in human attractiveness to mosquitoes.
