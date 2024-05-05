@@ -1,8 +1,8 @@
 38704592	A new long-read mitochondrial-genome protocol (PacBio HiFi) for haemosporidian parasites: a tool for population and biodiversity studies.
 38704253	Evaluation of the precision of the Plasmodium knowlesi growth inhibition assay for Plasmodium vivax Duffy-binding protein-based malaria vaccine development.
 38704250	Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 26 February-1 March 2024.
-38703772	Acute response to pathogens in the early human placenta at single-cell resolution.
 38703420	DCDLN: A densely connected convolutional dynamic learning network for malaria disease diagnosis.
+38703772	Acute response to pathogens in the early human placenta at single-cell resolution.
 38702775	Statistical design and analysis of controlled human malaria infection trials.
 38702672	Predictors of accessing seasonal malaria chemoprevention medicines through non-door-to-door distribution in Nigeria.
 38702649	Repurposing of anti-malarial drugs for the treatment of tuberculosis: realistic strategy or fanciful dead end?
