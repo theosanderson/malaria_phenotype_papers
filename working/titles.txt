@@ -1,3 +1,8 @@
+38704592	A new long-read mitochondrial-genome protocol (PacBio HiFi) for haemosporidian parasites: a tool for population and biodiversity studies.
+38704253	Evaluation of the precision of the Plasmodium knowlesi growth inhibition assay for Plasmodium vivax Duffy-binding protein-based malaria vaccine development.
+38704250	Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 26 February-1 March 2024.
+38703772	Acute response to pathogens in the early human placenta at single-cell resolution.
+38703420	DCDLN: A densely connected convolutional dynamic learning network for malaria disease diagnosis.
 38702775	Statistical design and analysis of controlled human malaria infection trials.
 38702672	Predictors of accessing seasonal malaria chemoprevention medicines through non-door-to-door distribution in Nigeria.
 38702649	Repurposing of anti-malarial drugs for the treatment of tuberculosis: realistic strategy or fanciful dead end?
@@ -186,7 +191,7 @@
 38641838	Ageing of Plasmodium falciparum malaria sporozoites alters their motility, infectivity and reduces immune activation in vitro.
 38641670	Physical durability and insecticidal activity of long-lasting insecticidal nets in Cruzeiro do Sul, Brazil.
 38641572	Effect of spatiotemporal variables on abundance, biting activity and parity of Nyssorhynchus darlingi (Diptera: Culicidae) in peri-Iquitos, Peru.
-38641142	Cyclic Peroxides and Analogs: Antibacterial, Antimalarial, and Cytotoxic Marine Products from Xisha Sponge Diacarnus sp.
+38641142	Cyclic peroxides and analogs: Antibacterial, antimalarial, and cytotoxic marine products from Xisha sponge Diacarnus sp.
 38640940	Global burden associated with 85 pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.
 38640899	Meet the Authors: Christopher R. Mansfield and Emily R. Derbyshire.
 38640243	Liver-targeted polymeric prodrugs delivered subcutaneously improve tafenoquine therapeutic window for malaria radical cure.
@@ -9992,8 +9997,3 @@
 35288700	Dynamical malaria modeling as a tool for bold policy-making.
 35288223	Design of red blood cell membrane-cloaked dihydroartemisinin nanoparticles with enhanced antimalarial efficacy.
 35288027	Severe imported malaria involving hyperparasitemia (≥ 10%) in non-immune children: Assessment of French practices.
-35287734	Procalcitonin levels in children affected by severe malaria compared to those with uncomplicated malaria in the absence of bacterial infection: a cross-sectional study.
-35287726	Non-traumatic coma in young children in Benin: are viral and bacterial infections gaining ground on cerebral malaria?
-35286809	The Pandemic Response Box─Accelerating Drug Discovery Efforts after Disease Outbreaks.
-35285813	Assessing Determinants of Programmatic Performance of Community Management of Malaria, Pneumonia, and Diarrhea in Children in Africa: Protocol and Data Collection for a Mixed Methods Evaluation of Integrated Community Case Management.
-35285479	Drug repurposing in silico screening platforms.
