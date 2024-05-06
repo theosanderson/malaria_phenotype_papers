@@ -1,7 +1,7 @@
-38705947	Piperine Enhances Antimalarial Activity of Methyl Gallate and Palmatine Combination.
 38705539	Can artemisinin and its derivatives treat malaria in a host-directed manner?
 38705163	Artemether-lumefantrine with or without single-dose primaquine and sulfadoxine-pyrimethamine plus amodiaquine with or without single-dose tafenoquine to reduce Plasmodium falciparum transmission: a phase 2, single-blind, randomised clinical trial in Ouelessebougou, Mali.
 38705093	Early life ambient air pollution, household fuel use, and under-5 mortality in Ghana.
+38705947	Piperine Enhances Antimalarial Activity of Methyl Gallate and Palmatine Combination.
 38704592	A new long-read mitochondrial-genome protocol (PacBio HiFi) for haemosporidian parasites: a tool for population and biodiversity studies.
 38704253	Evaluation of the precision of the Plasmodium knowlesi growth inhibition assay for Plasmodium vivax Duffy-binding protein-based malaria vaccine development.
 38704250	Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 26 February-1 March 2024.
