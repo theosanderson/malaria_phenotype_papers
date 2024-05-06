@@ -1,3 +1,7 @@
+38705947	Piperine Enhances Antimalarial Activity of Methyl Gallate and Palmatine Combination.
+38705539	Can artemisinin and its derivatives treat malaria in a host-directed manner?
+38705163	Artemether-lumefantrine with or without single-dose primaquine and sulfadoxine-pyrimethamine plus amodiaquine with or without single-dose tafenoquine to reduce Plasmodium falciparum transmission: a phase 2, single-blind, randomised clinical trial in Ouelessebougou, Mali.
+38705093	Early life ambient air pollution, household fuel use, and under-5 mortality in Ghana.
 38704592	A new long-read mitochondrial-genome protocol (PacBio HiFi) for haemosporidian parasites: a tool for population and biodiversity studies.
 38704253	Evaluation of the precision of the Plasmodium knowlesi growth inhibition assay for Plasmodium vivax Duffy-binding protein-based malaria vaccine development.
 38704250	Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 26 February-1 March 2024.
@@ -9993,7 +9997,3 @@
 35289971	Selection of O-negative induced pluripotent stem cell clones for high-density red blood cell production in a scalable perfusion bioreactor system.
 35289760	Acceptance of the District Health Information System Version 2 Platform for Malaria Case-Based Surveillance By Health Care Workers in Botswana: Web-Based Survey.
 35288749	Genome-wide landscape of ApiAP2 transcription factors reveals a heterochromatin-associated regulatory network during Plasmodium falciparum blood-stage development.
-35288747	Effect of dihydroartemisinin/piperaquine for malaria intermittent preventive treatment on dolutegravir exposure in pregnant women living with HIV.
-35288700	Dynamical malaria modeling as a tool for bold policy-making.
-35288223	Design of red blood cell membrane-cloaked dihydroartemisinin nanoparticles with enhanced antimalarial efficacy.
-35288027	Severe imported malaria involving hyperparasitemia (≥ 10%) in non-immune children: Assessment of French practices.
