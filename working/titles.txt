@@ -1,3 +1,5 @@
+38709459	Synthetic account on indoles and their analogues as potential anti-plasmodial agents.
+38709067	PfHDAC1 is an essential regulator of P. falciparum asexual proliferation and host cell invasion genes with a dynamic genomic occupancy responsive to artemisinin stress.
 38708567	Biodiversity of mosquitoes (Diptera: Culicidae) in phytotelmata from Car Nicobar Island, India.
 38708136	Modeling the effect of imported malaria on the elimination programme in KwaZulu-Natal province of South Africa.
 38707424	Swapping the linkers of canonical Hsp70 and Hsp110 chaperones compromises both self-association and client selection.
@@ -9995,5 +9997,3 @@
 35291445	Olfactomedin 4 Is a Biomarker for the Severity of Infectious Diseases.
 35291391	Adolescent pregnancy outcomes at Queen Elizabeth Central Hospital, Malawi: a cross-sectional study.
 35290595	Discovery and repurposing of artemisinin.
-35290467	Plasmodium falciparum in Aotus nancymaae: A New Model for Placental Malaria.
-35290461	School-Based Malaria Screening and Treatment Reduces Plasmodium falciparum Infection and Anemia Prevalence in Two Transmission Settings in Malawi.
