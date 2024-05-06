@@ -1,7 +1,12 @@
+38708567	Biodiversity of mosquitoes (Diptera: Culicidae) in phytotelmata from Car Nicobar Island, India.
+38708136	Modeling the effect of imported malaria on the elimination programme in KwaZulu-Natal province of South Africa.
+38707424	Swapping the linkers of canonical Hsp70 and Hsp110 chaperones compromises both self-association and client selection.
+38706961	Hypertension Increases Susceptibility to Experimental Malaria in Mice.
+38706942	Cabo Verde's malaria-free certification: A blueprint for eradicating malaria in Africa.
+38705947	Piperine Enhances Antimalarial Activity of Methyl Gallate and Palmatine Combination.
 38705539	Can artemisinin and its derivatives treat malaria in a host-directed manner?
 38705163	Artemether-lumefantrine with or without single-dose primaquine and sulfadoxine-pyrimethamine plus amodiaquine with or without single-dose tafenoquine to reduce Plasmodium falciparum transmission: a phase 2, single-blind, randomised clinical trial in Ouelessebougou, Mali.
 38705093	Early life ambient air pollution, household fuel use, and under-5 mortality in Ghana.
-38705947	Piperine Enhances Antimalarial Activity of Methyl Gallate and Palmatine Combination.
 38704592	A new long-read mitochondrial-genome protocol (PacBio HiFi) for haemosporidian parasites: a tool for population and biodiversity studies.
 38704253	Evaluation of the precision of the Plasmodium knowlesi growth inhibition assay for Plasmodium vivax Duffy-binding protein-based malaria vaccine development.
 38704250	Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 26 February-1 March 2024.
@@ -9992,8 +9997,3 @@
 35290595	Discovery and repurposing of artemisinin.
 35290467	Plasmodium falciparum in Aotus nancymaae: A New Model for Placental Malaria.
 35290461	School-Based Malaria Screening and Treatment Reduces Plasmodium falciparum Infection and Anemia Prevalence in Two Transmission Settings in Malawi.
-35290214	Prediction and comparative analysis of CTCF binding sites based on a first principle approach.
-35290171	Wealth inequalities in reproductive and child health preventive care in Mozambique: a decomposition analysis.
-35289971	Selection of O-negative induced pluripotent stem cell clones for high-density red blood cell production in a scalable perfusion bioreactor system.
-35289760	Acceptance of the District Health Information System Version 2 Platform for Malaria Case-Based Surveillance By Health Care Workers in Botswana: Web-Based Survey.
-35288749	Genome-wide landscape of ApiAP2 transcription factors reveals a heterochromatin-associated regulatory network during Plasmodium falciparum blood-stage development.
