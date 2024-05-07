@@ -1,3 +1,8 @@
+38711053	Leveraging malaria vaccines and mRNA technology to tackle the global inequity in pharmaceutical research and production towards disease elimination.
+38711028	A simple, field-applicable method to increase the infectivity of wild isolates of Plasmodium falciparum to mosquito vectors.
+38710833	Urgent action is needed to confront artemisinin partial resistance in African malaria parasites.
+38710297	3D printing of multi-unit gastro-retentive tablets for the pulsatile release of artesunate.
+38710182	Plasmodium vivax Infections among Immigrants from China Traveling to the United States.
 38709803	Effect of multiple micronutrient-fortified bouillon on micronutrient status among women and children in the Northern Region of Ghana: Protocol for the Condiment Micronutrient Innovation Trial (CoMIT), a community-based randomized controlled trial.
 38709459	Synthetic account on indoles and their analogues as potential anti-plasmodial agents.
 38709067	PfHDAC1 is an essential regulator of P. falciparum asexual proliferation and host cell invasion genes with a dynamic genomic occupancy responsive to artemisinin stress.
@@ -9992,8 +9997,3 @@
 35292042	Key factors associated with malaria infection among patients seeking care through the public sector in endemic townships of Ayeyarwady Region, Myanmar.
 35292038	Tenfold difference in DNA recovery rate: systematic comparison of whole blood vs. dried blood spot sample collection for malaria molecular surveillance.
 35292018	Why using bed nets is a challenge among minority populations in Central Vietnam.
-35291880	Improvement of the antibody-dependent respiratory burst assay for assessing protective immune responses to malaria.
-35291755	Association of TNF-Alpha, MBL2, NOS2, and G6PD with Malaria Outcomes in People in Southern Ghana.
-35291581	Zoonotic pathogens survey in free-living long-tailed macaques in Thailand.
-35291445	Olfactomedin 4 Is a Biomarker for the Severity of Infectious Diseases.
-35291391	Adolescent pregnancy outcomes at Queen Elizabeth Central Hospital, Malawi: a cross-sectional study.
