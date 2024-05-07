@@ -1,3 +1,4 @@
+38709803	Effect of multiple micronutrient-fortified bouillon on micronutrient status among women and children in the Northern Region of Ghana: Protocol for the Condiment Micronutrient Innovation Trial (CoMIT), a community-based randomized controlled trial.
 38709459	Synthetic account on indoles and their analogues as potential anti-plasmodial agents.
 38709067	PfHDAC1 is an essential regulator of P. falciparum asexual proliferation and host cell invasion genes with a dynamic genomic occupancy responsive to artemisinin stress.
 38708567	Biodiversity of mosquitoes (Diptera: Culicidae) in phytotelmata from Car Nicobar Island, India.
@@ -9996,4 +9997,3 @@
 35291581	Zoonotic pathogens survey in free-living long-tailed macaques in Thailand.
 35291445	Olfactomedin 4 Is a Biomarker for the Severity of Infectious Diseases.
 35291391	Adolescent pregnancy outcomes at Queen Elizabeth Central Hospital, Malawi: a cross-sectional study.
-35290595	Discovery and repurposing of artemisinin.
