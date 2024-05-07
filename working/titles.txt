@@ -1,3 +1,9 @@
+38712295	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
+38712209	Multisensory integration in Anopheles mosquito swarms: The role of visual and acoustic information in mate tracking and collision avoidance.
+38712186	Day 3 parasitemia and Plasmodium falciparum Kelch 13 mutations among uncomplicated malaria patients treated with artemether-lumefantrine in Adjumani district, Uganda.
+38712185	Quinoxaline-Based Anti-Schistosomal Compounds Have Potent Anti-Malarial Activity.
+38712121	Plasmodium knowlesi infection is associated with elevated circulating biomarkers of brain injury and endothelial activation.
+38711910	Uneasy bedfellows: Public-Private partnerships for malaria control.
 38711053	Leveraging malaria vaccines and mRNA technology to tackle the global inequity in pharmaceutical research and production towards disease elimination.
 38711028	A simple, field-applicable method to increase the infectivity of wild isolates of Plasmodium falciparum to mosquito vectors.
 38710833	Urgent action is needed to confront artemisinin partial resistance in African malaria parasites.
@@ -9991,9 +9997,3 @@
 35293204	Automated Immunoassay Performed on a 3D Microfluidic Paper-Based Device for Malaria Detection by Ambient Mass Spectrometry.
 35293092	Ultrafast Electrothermal Flow-Enhanced Magneto Biosensor for Highly Sensitive Protein Detection in Whole Blood.
 35292664	Author Correction: Genome-wide real-time in vivo transcriptional dynamics during Plasmodium falciparum blood-stage development.
-35292598	India Needs to Consider Planning a Change to Artemether-Lumefantrine to Treat Plasmodium falciparum Malaria.
-35292597	Usefulness of Malachite-Green LAMP for Diagnosis of Plasmodium and Five Human Malaria Species in a Nonendemic Setting.
-35292106	Updated occurrence and bionomics of potential malaria vectors in Europe: a systematic review (2000-2021).
-35292042	Key factors associated with malaria infection among patients seeking care through the public sector in endemic townships of Ayeyarwady Region, Myanmar.
-35292038	Tenfold difference in DNA recovery rate: systematic comparison of whole blood vs. dried blood spot sample collection for malaria molecular surveillance.
-35292018	Why using bed nets is a challenge among minority populations in Central Vietnam.
