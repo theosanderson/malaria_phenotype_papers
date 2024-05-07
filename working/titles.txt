@@ -1,3 +1,6 @@
+38713306	Unresolved haemosporidia of the Australian skink, Egernia stokesii.
+38712726	Malaria and dengue outbreaks: a double health threat in southeastern Iran.
+38712708	Status of vector protection measures and awareness regarding vector borne diseases in families residing in a Nirmal Gram Puraskar village in India.
 38712295	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
 38712209	Multisensory integration in Anopheles mosquito swarms: The role of visual and acoustic information in mate tracking and collision avoidance.
 38712186	Day 3 parasitemia and Plasmodium falciparum Kelch 13 mutations among uncomplicated malaria patients treated with artemether-lumefantrine in Adjumani district, Uganda.
@@ -9994,6 +9997,3 @@
 35294281	The possible modes of microbial reproduction are fundamentally restricted by distribution of mass between parent and offspring.
 35293561	Plasmodium falciparum merozoite surface protein 3 as a vaccine candidate: a brief review.
 35293297	A Systematic Review on Curcumin and Anti-Plasmodium berghei Effects.
-35293204	Automated Immunoassay Performed on a 3D Microfluidic Paper-Based Device for Malaria Detection by Ambient Mass Spectrometry.
-35293092	Ultrafast Electrothermal Flow-Enhanced Magneto Biosensor for Highly Sensitive Protein Detection in Whole Blood.
-35292664	Author Correction: Genome-wide real-time in vivo transcriptional dynamics during Plasmodium falciparum blood-stage development.
