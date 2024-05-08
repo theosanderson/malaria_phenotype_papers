@@ -1,8 +1,17 @@
+38716193	Updates on traditional methods for combating malaria and emerging Wolbachia-based interventions.
+38716192	Detection of novel Plasmodium falciparum coronin gene mutations in a recrudescent ACT-treated patient in South-Western Nigeria.
+38716056	Quantitative age grading of mosquitoes using surface-enhanced Raman spectroscopy.
+38715860	A conversation between hyphenated spectroscopic techniques and phytometabolites from medicinal plants.
+38715727	Human-aided dispersal and population bottlenecks facilitate parasitism escape in the most invasive mosquito species.
+38715592	Hyper-Reactive Malarial Splenomegaly Syndrome (HMSS).
+38715309	Risk factors for severe malaria among hospitalized patients in the United States, 2000-2014.
+38715304	The unprecedented magnitude of the 2017 dengue outbreak in Sri Lanka provides lessons for future mosquito-borne infection control and prevention.
+38715199	International Partnerships to Develop Evidence-informed Priority Setting Institutions: Ten Years of Experience from the International Decision Support Initiative (iDSI).
+38715061	Neurons upregulate PD-L1 via IFN/STAT1/IRF1 to alleviate damage by CD8(+) T cells in cerebral malaria.
 38715035	A qualitative look at bed net access and use in Burkina Faso, Mozambique, Nigeria, and Rwanda following piloted distributions of dual-active ingredient insecticide-treated nets.
 38714692	Persistent and multiclonal malaria parasite dynamics despite extended artemether-lumefantrine treatment in children.
-38714193	Descriptive, Hospital-Based, 10-Year Study of Malaria Transmission in Goa, a Southwest Indian State in the Malaria Elimination Phase.
-38715061	Neurons upregulate PD-L1 via IFN/STAT1/IRF1 to alleviate damage by CD8(+) T cells in cerebral malaria.
 38714463	Hepatocytes and the art of killing Plasmodium softly.
+38714193	Descriptive, Hospital-Based, 10-Year Study of Malaria Transmission in Goa, a Southwest Indian State in the Malaria Elimination Phase.
 38713739	Systematic characterization of all Toxoplasma gondii TBC domain-containing proteins identifies an essential regulator of Rab2 in the secretory pathway.
 38713730	Rationalizing artemisinin-based combination therapies use for treatment of uncomplicated malaria: A situation analysis in health facilities and private pharmacies of Douala 5e-Cameroon.
 38713676	Comparative evaluation of the diagnostic accuracies of four different malaria rapid diagnostic test kits available in Ghana.
@@ -163,7 +172,7 @@
 38661223	Detection of drug-resistant malaria in resource-limited settings: efficient and high-throughput surveillance of artemisinin and partner drug resistance.
 38660623	Molecular mechanisms of mitochondria-mediated ferroptosis: a potential target for antimalarial interventions.
 38660580	Pakistan's HIV high-risk populations: Critical appraisal of failure to curtail spread beyond key populations.
-38659832	Cross-reactivity of r Pvs 48/45, a recombinant Plasmodium vivax protein, with sera from Plasmodium falciparum endemic areas of Africa.
+38659832	Cross-reactivity of rPvs48/45, a recombinant Plasmodium vivax protein, with sera from Plasmodium falciparum endemic areas of Africa.
 38659768	T follicular helper cell profiles differ by malaria antigen and for children compared to adults.
 38659513	Management of Hyperparasitaemia in Severe Malaria: A Sea Change With the Availability of Artesunate.
 38657987	Association of ABO, Rh-D and Kell blood groups with transfusion transmitted infections among blood donors from the Asir Region, Saudi Arabia: A retrospective observational study.
@@ -9988,12 +9997,3 @@
 35300707	Sub-national tailoring of malaria interventions in Mainland Tanzania: simulation of the impact of strata-specific intervention combinations using modelling.
 35300704	Molecular phylogeny of Anopheles nivipes based on mtDNA-COII and mosquito diversity in Cambodia-Laos border.
 35300703	Is there evidence of sustained human-mosquito-human transmission of the zoonotic malaria Plasmodium knowlesi? A systematic literature review.
-35300700	Developing sero-diagnostic tests to facilitate Plasmodium vivax Serological Test-and-Treat approaches: modeling the balance between public health impact and overtreatment.
-35300096	Malaria Box-Inspired Discovery of N-Aminoalkyl-β-carboline-3-carboxamides, a Novel Orally Active Class of Antimalarials.
-35300082	Enantiopure Benzofuran-2-carboxamides of 1-Aryltetrahydro-β-carbolines Are Potent Antimalarials In Vitro.
-35299933	The roles of betulinic acid on circulating concentrations of creatine kinase and immunomodulation in mice infected with chloroquine-susceptible and resistant strains of Plasmodium berghei.
-35299922	An analysis of Plasmodium falciparum-K13 mutations in India.
-35299921	Genotyping of ABO and Duffy blood groups among malaria patients in Thailand.
-35299834	Conditional trust: Community perceptions of drone use in malaria control in Zanzibar.
-35298991	Echinococcus granulosus sensu lato in animal intermediate hosts: What is with the organ location?
-35298557	The flexibility of Apicomplexa parasites in lipid metabolism.
