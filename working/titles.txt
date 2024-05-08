@@ -1,3 +1,8 @@
+38715035	A qualitative look at bed net access and use in Burkina Faso, Mozambique, Nigeria, and Rwanda following piloted distributions of dual-active ingredient insecticide-treated nets.
+38714692	Persistent and multiclonal malaria parasite dynamics despite extended artemether-lumefantrine treatment in children.
+38714193	Descriptive, Hospital-Based, 10-Year Study of Malaria Transmission in Goa, a Southwest Indian State in the Malaria Elimination Phase.
+38715061	Neurons upregulate PD-L1 via IFN/STAT1/IRF1 to alleviate damage by CD8(+) T cells in cerebral malaria.
+38714463	Hepatocytes and the art of killing Plasmodium softly.
 38713739	Systematic characterization of all Toxoplasma gondii TBC domain-containing proteins identifies an essential regulator of Rab2 in the secretory pathway.
 38713730	Rationalizing artemisinin-based combination therapies use for treatment of uncomplicated malaria: A situation analysis in health facilities and private pharmacies of Douala 5e-Cameroon.
 38713676	Comparative evaluation of the diagnostic accuracies of four different malaria rapid diagnostic test kits available in Ghana.
@@ -9992,8 +9997,3 @@
 35299834	Conditional trust: Community perceptions of drone use in malaria control in Zanzibar.
 35298991	Echinococcus granulosus sensu lato in animal intermediate hosts: What is with the organ location?
 35298557	The flexibility of Apicomplexa parasites in lipid metabolism.
-35298432	Malaria prevention practices and malaria prevalence among children living in a rural community in Southwest Nigeria.
-35296463	Introducing field digital data collection systems into seasonal malaria chemoprevention campaigns: opportunities for robust evidence development and national e-health strategies.
-35296314	In vivo assessment of the antimalarial activity and acute oral toxicity of an ethanolic seed extract of Spondias pinnata (L.f.) Kurz.
-35296298	Determinants of pentavalent and measles vaccination dropouts among children aged 12-23 months in The Gambia.
-35294375	Extending Delivery of Seasonal Malaria Chemoprevention to Children Aged 5-10 Years in Chad: A Mixed-Methods Study.
