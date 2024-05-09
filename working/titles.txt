@@ -1,3 +1,5 @@
+38718075	Factors associated with mosquito control among construction workers: A systematic review.
+38717826	Estimation of cause-specific mortality in Rakai, Uganda, using verbal autopsy 1999-2019.
 38717217	Three novel dihydrochalcones from Flemingia lineata (L.) W.T. Aiton and their antiplasmodial activity.
 38717141	On-target, dual aminopeptidase inhibition provides cross-species antimalarial activity.
 38717116	Discovery of 1,3,4-Oxadiazole Derivatives as Broad-Spectrum Antiparasitic Agents.
@@ -9995,5 +9997,3 @@
 35300715	Spatio-temporal modelling of malaria mortality in India from 2004 to 2013 from the Million Death Study.
 35300707	Sub-national tailoring of malaria interventions in Mainland Tanzania: simulation of the impact of strata-specific intervention combinations using modelling.
 35300704	Molecular phylogeny of Anopheles nivipes based on mtDNA-COII and mosquito diversity in Cambodia-Laos border.
-35300703	Is there evidence of sustained human-mosquito-human transmission of the zoonotic malaria Plasmodium knowlesi? A systematic literature review.
-35300700	Developing sero-diagnostic tests to facilitate Plasmodium vivax Serological Test-and-Treat approaches: modeling the balance between public health impact and overtreatment.
