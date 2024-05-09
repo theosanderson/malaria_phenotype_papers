@@ -1,11 +1,11 @@
 38719885	Identification of domains in Plasmodium falciparum proteins of unknown function using DALI search on AlphaFold predictions.
 38719858	Temporal shifts in 24 notifiable infectious diseases in China before and during the COVID-19 pandemic.
 38719803	Population pharmacokinetic modelling of primaquine exposures in lactating women and breastfed infants.
-38719615	Microalgae-made human vaccines and therapeutics: A decade of advances.
 38719563	Comprehensive assessment of pediatric acute and inpatient care at a tertiary referral hospital in Malawi: opportunities for quality improvement.
 38719176	Optimized plasmid loading of human erythrocytes for Plasmodium falciparum DNA transfections.
 38719028	TKL family kinases in Human Apicomplexan pathogens.
 38718661	A recombinant chimeric antigen constructed with B-cell epitopes from Mycobacterium leprae hypothetical proteins is effective for the diagnosis of leprosy.
+38719615	Microalgae-made human vaccines and therapeutics: A decade of advances.
 38718075	Factors associated with mosquito control among construction workers: A systematic review.
 38717826	Estimation of cause-specific mortality in Rakai, Uganda, using verbal autopsy 1999-2019.
 38717217	Three novel dihydrochalcones from Flemingia lineata (L.) W.T. Aiton and their antiplasmodial activity.
