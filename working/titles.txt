@@ -1,3 +1,11 @@
+38719885	Identification of domains in Plasmodium falciparum proteins of unknown function using DALI search on AlphaFold predictions.
+38719858	Temporal shifts in 24 notifiable infectious diseases in China before and during the COVID-19 pandemic.
+38719803	Population pharmacokinetic modelling of primaquine exposures in lactating women and breastfed infants.
+38719615	Microalgae-made human vaccines and therapeutics: A decade of advances.
+38719563	Comprehensive assessment of pediatric acute and inpatient care at a tertiary referral hospital in Malawi: opportunities for quality improvement.
+38719176	Optimized plasmid loading of human erythrocytes for Plasmodium falciparum DNA transfections.
+38719028	TKL family kinases in Human Apicomplexan pathogens.
+38718661	A recombinant chimeric antigen constructed with B-cell epitopes from Mycobacterium leprae hypothetical proteins is effective for the diagnosis of leprosy.
 38718075	Factors associated with mosquito control among construction workers: A systematic review.
 38717826	Estimation of cause-specific mortality in Rakai, Uganda, using verbal autopsy 1999-2019.
 38717217	Three novel dihydrochalcones from Flemingia lineata (L.) W.T. Aiton and their antiplasmodial activity.
@@ -9989,11 +9997,3 @@
 35303898	Using experience to create evidence: a mixed methods process evaluation of the new free family planning policy in Burkina Faso.
 35303892	Fasting blood glucose in a Ghanaian adult is causally affected by malaria parasite load: a mechanistic case study using convergent cross mapping.
 35303803	Acute kidney injury in hospitalized children with sickle cell anemia.
-35303469	Population health outcomes in Nigeria compared with other west African countries, 1998-2019: a systematic analysis for the Global Burden of Disease Study.
-35303022	A qualitative study of knowledge, attitudes and perceptions towards malaria prevention among people living in rural upper river valleys of Nepal.
-35301987	Malaria parasites do respond to heat.
-35301756	A conserved Plasmodium structural integrity maintenance protein (SIMP) is associated with sporozoite membrane and is essential for maintaining shape and infectivity.
-35301532	Association between indoor residual spraying and pregnancy outcomes: a quasi-experimental study from Uganda.
-35300715	Spatio-temporal modelling of malaria mortality in India from 2004 to 2013 from the Million Death Study.
-35300707	Sub-national tailoring of malaria interventions in Mainland Tanzania: simulation of the impact of strata-specific intervention combinations using modelling.
-35300704	Molecular phylogeny of Anopheles nivipes based on mtDNA-COII and mosquito diversity in Cambodia-Laos border.
