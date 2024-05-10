@@ -1,3 +1,4 @@
+38727797	Urinary liver-Ttype fatty acid-binding protein level as a prognostic indicator of acute kidney injury secondary to severe falciparum malaria.
 38726590	G-formula for observational studies under stratified interference, with application to bed net use on malaria.
 38726546	Functional availability of medical oxygen for the management of hypoxaemia in Cameroon: A nationwide facility-based cross-sectional survey.
 38726364	M-O-M mediated denaturation resistant P2 tetramer on the infected erythrocyte surface of malaria parasite imports serum fatty acids.
@@ -9996,4 +9997,3 @@
 35313811	Variation in terpenoids in leaves of Artemisia annua grown under different LED spectra resulting in diverse antimalarial activities against Plasmodium falciparum.
 35313628	Evaluation of Antischistosomal Activities of Crude Aqueous Extracts of Artemisia annua, Nigella sativa, and Allium sativum against Schistosoma mansoni in Hamsters.
 35310901	Individual-level variations in malaria susceptibility and acquisition of clinical protection.
-35312689	An inventory of human night-biting mosquitoes and their bionomics in Sumba, Indonesia.
