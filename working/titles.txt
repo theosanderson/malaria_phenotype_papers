@@ -1,10 +1,17 @@
 38725027	Kinetics of glucose-6-phosphate dehydrogenase (G6PD) activity during Plasmodium vivax infection: implications for early radical malaria treatment.
 38725016	Sub-microscopic Plasmodium falciparum infections and multiple drug resistant single nucleotide polymorphic alleles in pregnant women from southwestern Nigeria.
-38724629	Antimalarial 9-methoxystrobilurin derivatives from cultures of the basidiomycete Favolaschia minutissima.
 38724105	Interactions of Nutrition and Infection: The Role of Micronutrient Deficiencies in the Immune Response to Pathogens and Implications for Child Health.
 38724044	Climate change, malaria and neglected tropical diseases: a scoping review.
 38723650	Genotypic analysis of RTS,S/AS01(E) malaria vaccine efficacy against parasite infection as a function of dosage regimen and baseline malaria infection status in children aged 5-17 months in Ghana and Kenya: a longitudinal phase 2b randomised controlled trial.
 38723649	Asymptomatic parasitemia and RTS,S vaccine efficacy.
+38724629	Antimalarial 9-methoxystrobilurin derivatives from cultures of the basidiomycete Favolaschia minutissima.
+38723199	Preparing for future pandemics while responding to the current ones in the midst of a planetary climate crisis: Can we face this triple global health challenge?
+38723177	Declining antibody affinity over time after human vaccination with a Plasmodium falciparum merozoite vaccine candidate.
+38723080	Future malaria environmental suitability in Africa is sensitive to hydrology.
+38723040	Measuring protective efficacy and quantifying the impact of drug resistance: A novel malaria chemoprevention trial design and methodology.
+38722891	Quality assessment of oral antimalarial and antiretroviral medicines used by public health systems in Sahel countries.
+38722800	Notes from the Field: Increases in Imported Malaria Cases - Three Southern U.S. Border Jurisdictions, 2023.
+38722757	Discovery and Optimization of Tambjamines as a Novel Class of Antileishmanial Agents.
 38721695	Mother, child and adolescent health outcomes in two long-term refugee camp settings at the Thai-Myanmar border 2000-2018: a retrospective analysis.
 38721660	Mortality Associated with Priority Diseases in Flood-Affected Areas Using District Health Information System (DHIS2) During September-December 2022: Pakistan Experience.
 38721594	Virulence is associated with daily rhythms in the within-host replication of the malaria parasite Plasmodium chabaudi.
@@ -9990,10 +9997,3 @@
 35311819	Effective Oral RNA Interference (RNAi) Administration to Adult Anopheles gambiae Mosquitoes.
 35311202	The complete mitochondrial genome of major malaria vector Anopheles anthropophagus (Diptera: Culicidae) in China.
 35310840	Novel Highlight in Malarial Drug Discovery: Aspartate Transcarbamoylase.
-35310784	Knowledge Attitude and Practices of Mitanin's (Community Health Workers) in Chhattisgarh: Malaria Elimination Perspective.
-35310748	Endoscopic retrograde cholangiopancreatography in a patient with complete situs inversus viscerum: A case report and literature review.
-35310010	Effects of Gymnema inodorum Leaf Extract on the Alteration of Blood Coagulation Parameters and Platelet Count in Plasmodium berghei-Infected Mice.
-35309871	Adherence to Dihydroartemisinin + Piperaquine Treatment Regimen in Low and High Endemic Areas in Indonesia.
-35309496	Slow-DEET-Release Mosquito-Repellent System Based on Poly(butylene succinate).
-35309442	Dissecting Plasmodium yoelii Pathobiology: Proteomic Approaches for Decoding Novel Translational and Post-Translational Modifications.
-35309317	Anti-Microbiota Vaccine Reduces Avian Malaria Infection Within Mosquito Vectors.
