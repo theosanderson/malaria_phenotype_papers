@@ -1,3 +1,10 @@
+38725027	Kinetics of glucose-6-phosphate dehydrogenase (G6PD) activity during Plasmodium vivax infection: implications for early radical malaria treatment.
+38725016	Sub-microscopic Plasmodium falciparum infections and multiple drug resistant single nucleotide polymorphic alleles in pregnant women from southwestern Nigeria.
+38724629	Antimalarial 9-methoxystrobilurin derivatives from cultures of the basidiomycete Favolaschia minutissima.
+38724105	Interactions of Nutrition and Infection: The Role of Micronutrient Deficiencies in the Immune Response to Pathogens and Implications for Child Health.
+38724044	Climate change, malaria and neglected tropical diseases: a scoping review.
+38723650	Genotypic analysis of RTS,S/AS01(E) malaria vaccine efficacy against parasite infection as a function of dosage regimen and baseline malaria infection status in children aged 5-17 months in Ghana and Kenya: a longitudinal phase 2b randomised controlled trial.
+38723649	Asymptomatic parasitemia and RTS,S vaccine efficacy.
 38721695	Mother, child and adolescent health outcomes in two long-term refugee camp settings at the Thai-Myanmar border 2000-2018: a retrospective analysis.
 38721660	Mortality Associated with Priority Diseases in Flood-Affected Areas Using District Health Information System (DHIS2) During September-December 2022: Pakistan Experience.
 38721594	Virulence is associated with daily rhythms in the within-host replication of the malaria parasite Plasmodium chabaudi.
@@ -9990,10 +9997,3 @@
 35309496	Slow-DEET-Release Mosquito-Repellent System Based on Poly(butylene succinate).
 35309442	Dissecting Plasmodium yoelii Pathobiology: Proteomic Approaches for Decoding Novel Translational and Post-Translational Modifications.
 35309317	Anti-Microbiota Vaccine Reduces Avian Malaria Infection Within Mosquito Vectors.
-35309076	A New Method to Address the Importance of Detoxified Enzyme in Insecticide Resistance - Meta-Analysis.
-35308105	Structure of the Pf12 and Pf41 heterodimeric complex of Plasmodium falciparum 6-cysteine proteins.
-35307541	Destination based errors in chloroquine malaria chemoprophylaxis vary based on provider specialty and credentials.
-35307401	Iloneoside, an antimalarial pregnane glycoside isolated from Gongronema latifolium leaf, potentiates the activity of chloroquine against multidrug resistant Plasmodium falciparum.
-34017924	Defining the burden of febrile illness in rural South and Southeast Asia: an open letter to announce the launch of the Rural Febrile Illness project.
-35306526	Synthesis of new series of quinoline derivatives with insecticidal effects on larval vectors of malaria and dengue diseases.
-35305668	The ecdysone receptor regulates several key physiological factors in Anopheles funestus.
