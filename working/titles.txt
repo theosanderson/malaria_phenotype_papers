@@ -1,10 +1,15 @@
+38726590	G-formula for observational studies under stratified interference, with application to bed net use on malaria.
+38726546	Functional availability of medical oxygen for the management of hypoxaemia in Cameroon: A nationwide facility-based cross-sectional survey.
+38726364	M-O-M mediated denaturation resistant P2 tetramer on the infected erythrocyte surface of malaria parasite imports serum fatty acids.
+38725654	Mefloquine-curcumin combinations improve host mitochondrial respiration and decrease mitotoxic effects of mefloquine in Plasmodium berghei-infected mice.
+38725580	Landolphia (P. Beauv.) genus: Ethnobotanical, phytochemical and pharmacological studies.
 38725027	Kinetics of glucose-6-phosphate dehydrogenase (G6PD) activity during Plasmodium vivax infection: implications for early radical malaria treatment.
 38725016	Sub-microscopic Plasmodium falciparum infections and multiple drug resistant single nucleotide polymorphic alleles in pregnant women from southwestern Nigeria.
+38724629	Antimalarial 9-methoxystrobilurin derivatives from cultures of the basidiomycete Favolaschia minutissima.
 38724105	Interactions of Nutrition and Infection: The Role of Micronutrient Deficiencies in the Immune Response to Pathogens and Implications for Child Health.
 38724044	Climate change, malaria and neglected tropical diseases: a scoping review.
 38723650	Genotypic analysis of RTS,S/AS01(E) malaria vaccine efficacy against parasite infection as a function of dosage regimen and baseline malaria infection status in children aged 5-17 months in Ghana and Kenya: a longitudinal phase 2b randomised controlled trial.
 38723649	Asymptomatic parasitemia and RTS,S vaccine efficacy.
-38724629	Antimalarial 9-methoxystrobilurin derivatives from cultures of the basidiomycete Favolaschia minutissima.
 38723199	Preparing for future pandemics while responding to the current ones in the midst of a planetary climate crisis: Can we face this triple global health challenge?
 38723177	Declining antibody affinity over time after human vaccination with a Plasmodium falciparum merozoite vaccine candidate.
 38723080	Future malaria environmental suitability in Africa is sensitive to hydrology.
@@ -9992,8 +9997,3 @@
 35313628	Evaluation of Antischistosomal Activities of Crude Aqueous Extracts of Artemisia annua, Nigella sativa, and Allium sativum against Schistosoma mansoni in Hamsters.
 35310901	Individual-level variations in malaria susceptibility and acquisition of clinical protection.
 35312689	An inventory of human night-biting mosquitoes and their bionomics in Sumba, Indonesia.
-35312688	A novel murine model of post-implantation malaria-induced preterm birth.
-35312290	Pre-erythrocytic Activity of M5717 in Monotherapy and Combination in Preclinical Plasmodium Infection Models.
-35311819	Effective Oral RNA Interference (RNAi) Administration to Adult Anopheles gambiae Mosquitoes.
-35311202	The complete mitochondrial genome of major malaria vector Anopheles anthropophagus (Diptera: Culicidae) in China.
-35310840	Novel Highlight in Malarial Drug Discovery: Aspartate Transcarbamoylase.
