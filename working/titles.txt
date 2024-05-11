@@ -1,3 +1,9 @@
+38728650	Assessment of the impact of pregnancy and malaria infection on the variation of neutrophil levels in women from San, Mali.
+38728426	Novel functions for Von Willebrand factor.
+38728418	Neutrophil Extracellular Traps (NETs): An Emerging Therapeutic Target to Improve Infectious Diseases Outcomes.
+38728404	Predicting the age of field Anopheles mosquitoes using mass spectrometry and deep learning.
+38728310	The PreQuine Platform: A novel diagnostic tool for measuring glucose-6-phosphate dehydrogenase (G6PD) activity and hemoglobin concentration.
+38728141	Lymphatic network drainage resolves cerebral edema and facilitates recovery from experimental cerebral malaria.
 38727797	Urinary liver-Ttype fatty acid-binding protein level as a prognostic indicator of acute kidney injury secondary to severe falciparum malaria.
 38726590	G-formula for observational studies under stratified interference, with application to bed net use on malaria.
 38726546	Functional availability of medical oxygen for the management of hypoxaemia in Cameroon: A nationwide facility-based cross-sectional survey.
@@ -9991,9 +9997,3 @@
 35315277	Structural Analysis of the Plasmodial Proteins ZNHIT3 and NUFIP1 Provides Insights into the Selectivity of a Conserved Interaction.
 35314683	Rapid age-grading and species identification of natural mosquitoes for malaria surveillance.
 35314344	Pregnancy-associated malaria: Effects of cytokine and chemokine expression.
-35314082	Symbionts and gene drive: two strategies to combat vector-borne disease.
-35314017	Integrated primary health care services in two protracted refugee camp settings at the Thai-Myanmar border 2000-2018: trends on mortality and incidence of infectious diseases.
-35313840	Low birth weight and its associated risk factors in a rural health district of Burkina Faso: a cross sectional study.
-35313811	Variation in terpenoids in leaves of Artemisia annua grown under different LED spectra resulting in diverse antimalarial activities against Plasmodium falciparum.
-35313628	Evaluation of Antischistosomal Activities of Crude Aqueous Extracts of Artemisia annua, Nigella sativa, and Allium sativum against Schistosoma mansoni in Hamsters.
-35310901	Individual-level variations in malaria susceptibility and acquisition of clinical protection.
