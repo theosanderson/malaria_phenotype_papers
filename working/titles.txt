@@ -1,3 +1,7 @@
+38733173	The role of the major chemosensory organs in the host-seeking activity of Anopheles coluzzii (Diptera: Culicidae).
+38732642	Traditional Uses, Phytochemistry, and Pharmacological Activities of Vernonia cinerea (L.) Less.: An Updated Review.
+38731970	Competitive Inhibition of Okanin against Plasmodium falciparum Tyrosyl-tRNA Synthetase.
+38731597	Differential Anti-Fibrotic and Remodeling Responses of Human Dermal Fibroblasts to Artemisia sp., Artemisinin, and Its Derivatives.
 38730340	Determination of birth prevalence of sickle cell disease using point of care test HemotypeSC™ at Rundu Hospital, Namibia.
 38730052	Efficient transplacental transfer of SARS-CoV-2 antibodies between naturally exposed mothers and infants in Accra, Ghana.
 38729224	Long-acting intramuscular injections of ELQ-331, an antimalarial agent.
@@ -9993,7 +9997,3 @@
 35317867	Common childhood illnesses: a cross-sectional study of commodity stocking patterns and management knowledge among patent and proprietary medicine vendors in Nigeria.
 35317835	Do socio-demographic factors modify the effect of weather on malaria in Kanungu District, Uganda?
 35317539	TB training in Kenya: building capacity for care and prevention.
-35317002	Dengue and malaria coinfection: the first case report in Nepal.
-35316467	Caloforines A-G, coumarins from the bark of Calophyllum scriblitifolium.
-35316281	Odorant Binding Proteins (OBPs) and Odorant Receptors (ORs) of Anopheles stephensi: Identification and comparative insights.
-35315521	Temperature impacts the environmental suitability for malaria transmission by Anopheles gambiae and Anopheles stephensi.
