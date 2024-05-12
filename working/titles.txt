@@ -1,3 +1,4 @@
+38735012	Functional characterisation of Artemisia annua jasmonic acid carboxyl methyltransferase: a key enzyme enhancing artemisinin biosynthesis.
 38734664	Hesitancy towards R21/Matrix-M malaria vaccine among Ghanaian parents and attitudes towards immunizing non-eligible children: a cross-sectional survey.
 38734650	Phytochemical evaluation of Ziziphus mucronata and Xysmalobium undulutum towards the discovery and development of anti-malarial drugs.
 38734409	Charting new territory: The Plasmodium falciparum tRNA modification landscape.
@@ -9996,4 +9997,3 @@
 35318950	Schistosoma japonicum translationally controlled tumour protein, which is associated with the development of female worms, as a target for control of schistosomiasis.
 35318931	In Vitro Confirmation of Artemisinin Resistance in Plasmodium falciparum from Patient Isolates, Southern Rwanda, 2019.
 35318914	Molecular Surveillance for Imported Antimicrobial Resistant Plasmodium falciparum, Ontario, Canada.
-35318412	Interferon-γ signal drives differentiation of T-bet(hi) atypical memory B cells into plasma cells following Plasmodium vivax infection.
