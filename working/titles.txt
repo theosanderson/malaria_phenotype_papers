@@ -1,3 +1,9 @@
+38734664	Hesitancy towards R21/Matrix-M malaria vaccine among Ghanaian parents and attitudes towards immunizing non-eligible children: a cross-sectional survey.
+38734650	Phytochemical evaluation of Ziziphus mucronata and Xysmalobium undulutum towards the discovery and development of anti-malarial drugs.
+38734409	Charting new territory: The Plasmodium falciparum tRNA modification landscape.
+38734396	Evaluation of genotoxic damage, production reactive oxygen and nitrogen species in Plasmodium yoelii yoelii exposed to sodium metavanadate.
+38734217	Characterizing the blood stage antimalarial activity of pyronaridine in healthy volunteers experimentally infected with Plasmodium falciparum.
+38733883	Robenidine derivatives as potential antischistosomal drug candidates.
 38733173	The role of the major chemosensory organs in the host-seeking activity of Anopheles coluzzii (Diptera: Culicidae).
 38732642	Traditional Uses, Phytochemistry, and Pharmacological Activities of Vernonia cinerea (L.) Less.: An Updated Review.
 38731970	Competitive Inhibition of Okanin against Plasmodium falciparum Tyrosyl-tRNA Synthetase.
@@ -9991,9 +9997,3 @@
 35318931	In Vitro Confirmation of Artemisinin Resistance in Plasmodium falciparum from Patient Isolates, Southern Rwanda, 2019.
 35318914	Molecular Surveillance for Imported Antimicrobial Resistant Plasmodium falciparum, Ontario, Canada.
 35318412	Interferon-γ signal drives differentiation of T-bet(hi) atypical memory B cells into plasma cells following Plasmodium vivax infection.
-35318227	Modelling study of the ability to diagnose acute rheumatic fever at different levels of the Ugandan healthcare system.
-35318066	In vitro antileishmanial efficacy of antiplasmodial active aminoquinoline-chalcone hybrids.
-35317985	Plasmodium's bottomless pit: properties and functions of the malaria parasite's digestive vacuole.
-35317867	Common childhood illnesses: a cross-sectional study of commodity stocking patterns and management knowledge among patent and proprietary medicine vendors in Nigeria.
-35317835	Do socio-demographic factors modify the effect of weather on malaria in Kanungu District, Uganda?
-35317539	TB training in Kenya: building capacity for care and prevention.
