@@ -1,3 +1,11 @@
+38737941	In-vitro assessment of cutaneous immune responses to aedes mosquito salivary gland extract and dengue virus in Cambodian individuals.
+38737825	Situational Analysis of Malaria Incidence Under Integrated Malaria Service in Hotspot Township - Minbya Township, Rakhine State, Myanmar, 2017-2020.
+38737824	Cooperative Sentinel Surveillance of Malaria in Laiza and Nearby Areas of Myanmar and Importation Threat Monitoring - China, 2019-2023.
+38737823	Genome Analysis of Plasmodium falciparum: A Preliminary Observation - Sierra Leone, 2022-2023.
+38737821	Neglected Time Intervals Before "1-3-7" Approach About Imported Malaria Cases - China, 2014-2021.
+38737795	From pole to pole, life-long research of sleep in extreme environments.
+38737204	Drug targeting of aminopeptidases: importance of deploying a right metal cofactor.
+38737169	Relapsing Plasmodium vivax malaria in a 12-year-old Brazilian girl: A case report.
 38735957	Prevalence of malaria and associated risk factors among household members in South Ethiopia: a multi-site cross-sectional study.
 38735012	Functional characterisation of Artemisia annua jasmonic acid carboxyl methyltransferase: a key enzyme enhancing artemisinin biosynthesis.
 38734664	Hesitancy towards R21/Matrix-M malaria vaccine among Ghanaian parents and attitudes towards immunizing non-eligible children: a cross-sectional survey.
@@ -9989,11 +9997,3 @@
 35324892	Real-life quantitative G6PD screening in Plasmodium vivax patients in the Brazilian Amazon: A cost-effectiveness analysis.
 35324621	An Empirical Evaluation of Convolutional Networks for Malaria Diagnosis.
 35324596	Digital Storytelling and Community Engagement to Find Missing TB Cases in Rural Nuh, India.
-35323590	Crystallography of Contemporary Contact Insecticides.
-35323544	Sympatric Populations of the Anopheles gambiae Complex in Southwest Burkina Faso Evolve Multiple Diverse Resistance Mechanisms in Response to Intense Selection Pressure with Pyrethroids.
-35323519	Anopheles albimanus (Diptera: Culicidae) Ensemble Distribution Modeling: Applications for Malaria Elimination.
-35321819	Implementation and continued validation of the malaria Plasmodium falciparum lactate dehydrogenase-based colorimetric assay for use in antiplasmodial drug screening.
-35321643	Sex-specific genetic modifiers identified susceptibility of cold stored red blood cells to osmotic hemolysis.
-35320403	Exploration of the relationship between anemia and iron and zinc deficiencies in children under 5 years of age living in the malaria endemic area of South Kivu/Democratic Republic of Congo.
-35318950	Schistosoma japonicum translationally controlled tumour protein, which is associated with the development of female worms, as a target for control of schistosomiasis.
-35318931	In Vitro Confirmation of Artemisinin Resistance in Plasmodium falciparum from Patient Isolates, Southern Rwanda, 2019.
