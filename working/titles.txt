@@ -1,3 +1,4 @@
+38735957	Prevalence of malaria and associated risk factors among household members in South Ethiopia: a multi-site cross-sectional study.
 38735012	Functional characterisation of Artemisia annua jasmonic acid carboxyl methyltransferase: a key enzyme enhancing artemisinin biosynthesis.
 38734664	Hesitancy towards R21/Matrix-M malaria vaccine among Ghanaian parents and attitudes towards immunizing non-eligible children: a cross-sectional survey.
 38734650	Phytochemical evaluation of Ziziphus mucronata and Xysmalobium undulutum towards the discovery and development of anti-malarial drugs.
@@ -9996,4 +9997,3 @@
 35320403	Exploration of the relationship between anemia and iron and zinc deficiencies in children under 5 years of age living in the malaria endemic area of South Kivu/Democratic Republic of Congo.
 35318950	Schistosoma japonicum translationally controlled tumour protein, which is associated with the development of female worms, as a target for control of schistosomiasis.
 35318931	In Vitro Confirmation of Artemisinin Resistance in Plasmodium falciparum from Patient Isolates, Southern Rwanda, 2019.
-35318914	Molecular Surveillance for Imported Antimicrobial Resistant Plasmodium falciparum, Ontario, Canada.
