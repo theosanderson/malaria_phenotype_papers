@@ -1,3 +1,7 @@
+38741893	Raising the bar: genus-specific nested PCR improves detection and lineage identification of avian haemosporidian parasites.
+38741399	Binary and ternary complex formation and characterization of artemisinin with sulfobutyl ether β-cyclodextrin and oleic acid.
+38741368	Correlates of Co-Infection with Coccidiosis and Avian Malaria in House Finches (Haemorhous mexicanus).
+38741212	Onchocerciasis in the Cameroon-Chad border area after more than 20 years of annual mass ivermectin distribution.
 38741101	Therapeutic efficacy and tolerability of artemether-lumefantrine for uncomplicated Plasmodium falciparum malaria in Niger, 2020.
 38741094	Optimal balance of benefit versus risk for tafenoquine in the treatment of Plasmodium vivax malaria.
 38740839	Pradimicin U, a promising antimicrobial agent isolated from a newly found Nonomuraea composti sp. nov.
@@ -9993,7 +9997,3 @@
 35331181	Age-modified factors associated with placental malaria in rural Burkina Faso.
 35330888	PARASITE-BASED DIAGNOSIS OF MALARIA IN PREGNANT WOMEN IN A TERTIARY HOSPITAL IN SOUTHWEST NIGERIA.
 35330886	PERSISTENCE OF PLASMODIUM FALCIPARUM HRP2 ANTIGEN AFTER EFFECTIVE ANTIMALARIAL THERAPY.
-35330697	Influence of α(2)-Macroglobulin, Anti-Parasite IgM and ABO Blood Group on Rosetting in Plasmodium falciparum Clinical Isolates and Their Associations with Disease Severity in a Ghanaian Population.
-35330166	Autophagy Pathways in the Genesis of Plasmodium-Derived Microvesicles: A Double-Edged Sword?
-35329359	The Role of Human Behavior in Plasmodium knowlesi Malaria Infection: A Systematic Review.
-35329229	Asymptomatic Malaria Infections in the Time of COVID-19 Pandemic: Experience from the Central African Republic.
