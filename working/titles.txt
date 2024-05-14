@@ -1,3 +1,5 @@
+38739798	Targeting the Plasmodium falciparum UCHL3 ubiquitin hydrolase using chemically constrained peptides.
+38739632	Influence of hydrometeorological risk factors on child diarrhea and enteropathogens in rural Bangladesh.
 38737941	In-vitro assessment of cutaneous immune responses to aedes mosquito salivary gland extract and dengue virus in Cambodian individuals.
 38737825	Situational Analysis of Malaria Incidence Under Integrated Malaria Service in Hotspot Township - Minbya Township, Rakhine State, Myanmar, 2017-2020.
 38737824	Cooperative Sentinel Surveillance of Malaria in Laiza and Nearby Areas of Myanmar and Importation Threat Monitoring - China, 2019-2023.
@@ -9995,5 +9997,3 @@
 35324929	An evidence synthesis approach for combining different data sources illustrated using entomological efficacy of insecticides for indoor residual spraying.
 35324920	Impact of the malaria comprehensive case management programme in Odisha, India.
 35324892	Real-life quantitative G6PD screening in Plasmodium vivax patients in the Brazilian Amazon: A cost-effectiveness analysis.
-35324621	An Empirical Evaluation of Convolutional Networks for Malaria Diagnosis.
-35324596	Digital Storytelling and Community Engagement to Find Missing TB Cases in Rural Nuh, India.
