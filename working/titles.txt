@@ -1,3 +1,9 @@
+38741101	Therapeutic efficacy and tolerability of artemether-lumefantrine for uncomplicated Plasmodium falciparum malaria in Niger, 2020.
+38741094	Optimal balance of benefit versus risk for tafenoquine in the treatment of Plasmodium vivax malaria.
+38740839	Pradimicin U, a promising antimicrobial agent isolated from a newly found Nonomuraea composti sp. nov.
+38740597	The prevalence of Pfk13 polymorphism in malaria patients treated with artemisinin-based therapy: a systematic review and meta-analysis.
+38740402	WHO prequalifies a second malaria vaccine, a significant milestone in prevention of the disease.
+38740319	Real-time fluorescence loop-mediated isothermal amplification assays for detection of zoonotic malaria Plasmodium parasites.
 38739798	Targeting the Plasmodium falciparum UCHL3 ubiquitin hydrolase using chemically constrained peptides.
 38739632	Influence of hydrometeorological risk factors on child diarrhea and enteropathogens in rural Bangladesh.
 38737941	In-vitro assessment of cutaneous immune responses to aedes mosquito salivary gland extract and dengue virus in Cambodian individuals.
@@ -9991,9 +9997,3 @@
 35330166	Autophagy Pathways in the Genesis of Plasmodium-Derived Microvesicles: A Double-Edged Sword?
 35329359	The Role of Human Behavior in Plasmodium knowlesi Malaria Infection: A Systematic Review.
 35329229	Asymptomatic Malaria Infections in the Time of COVID-19 Pandemic: Experience from the Central African Republic.
-35328672	A Histone Deacetylase (HDAC) Inhibitor with Pleiotropic In Vitro Anti-Toxoplasma and Anti-Plasmodium Activities Controls Acute and Chronic Toxoplasma Infection in Mice.
-35326891	Treatment for Severe Malaria: Post-Artesunate Delayed Haemolysis and Neutropenia.
-35325172	Parvovirus B19-associated transient aplastic crisis following P. falciparum malaria and post-artesunate delayed haemolysis in a returning traveller.
-35324929	An evidence synthesis approach for combining different data sources illustrated using entomological efficacy of insecticides for indoor residual spraying.
-35324920	Impact of the malaria comprehensive case management programme in Odisha, India.
-35324892	Real-life quantitative G6PD screening in Plasmodium vivax patients in the Brazilian Amazon: A cost-effectiveness analysis.
