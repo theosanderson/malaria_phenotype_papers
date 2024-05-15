@@ -1,3 +1,20 @@
+38746786	Incomplete Plasmodium falciparum growth inhibition following piperaquine treatment translates into increased parasite viability in the in vitro parasite reduction ratio assay.
+38746440	High frequency of artemisinin partial resistance mutations in the great lake region revealed through rapid pooled deep sequencing.
+38746424	Chemoproteomics validates selective targeting of Plasmodium M1 alanyl aminopeptidase as an antimalarial strategy.
+38746392	Benchmarking and Optimization of Methods for the Detection of Identity-By-Descent in Plasmodium falciparum.
+38746363	TNF signaling mediates cellular immune function and promotes malaria parasite killing in the mosquito Anopheles gambiae.
+38746350	The economic burden of zoonotic Plasmodium knowlesi malaria on households in Sabah, Malaysia compared to malaria from human-only Plasmodium species.
+38746342	Reversible host cell surface remodelling limits immune recognition and maximizes transmission of Plasmodium falciparum gametocytes.
+38746301	Investigating the Yanomami malaria outbreak puzzle: surge in mining during Bolsonaro's government triggered peak in malaria burden.
+38745665	A two-dose viral-vectored Plasmodium vivax multistage vaccine confers durable protection and transmission-blockade in a pre-clinical study.
+38745311	Gestational glucose intolerance among pregnant women at the Cape Coast Teaching Hospital.
+38745210	Blood smears examination and prevalence of malaria in Addis Zemen Town, Northwest Ethiopia (2013-2021): a retrospective study.
+38745114	Comparison of malaria diagnostic methods for detection of asymptomatic Plasmodium infections among pregnant women in northwest Ethiopia.
+38744969	Author Correction: Trio fluorophore-based phenotypic assay for the detection of artemisinin-induced growth-arrested Plasmodium falciparum in human erythrocytes.
+38744878	Severe outcomes of malaria in children under time-varying exposure.
+38743768	Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence.
+38742896	Safety, pharmacokinetics, and potential neurological interactions of ivermectin, tafenoquine, and chloroquine in Rhesus macaques.
+38742852	Correction: Chorismate synthase mediates cerebral malaria pathogenesis by eliciting salicylic acid-dependent autophagy response in parasite.
 38741893	Raising the bar: genus-specific nested PCR improves detection and lineage identification of avian haemosporidian parasites.
 38741399	Binary and ternary complex formation and characterization of artemisinin with sulfobutyl ether β-cyclodextrin and oleic acid.
 38741368	Correlates of Co-Infection with Coccidiosis and Avian Malaria in House Finches (Haemorhous mexicanus).
@@ -1664,7 +1681,7 @@
 38172015	Biomechanics of parasite migration within hosts.
 38171145	Plasmodium falciparum topoisomerases: Emerging targets for anti-malarial therapy.
 38171008	Automatic patient-level recognition of four Plasmodium species on thin blood smear by a real-time detection transformer (RT-DETR) object detection algorithm: a proof-of-concept and evaluation.
-38170287	What's Hot This Year in ID Clinical Science.
+38170287	What's Hot This Year in Infectious Diseases Clinical Science.
 38169728	Implementation and impact of the global access principles at the University of British Columbia: current successes and future challenges.
 38169593	Induction of Artesunate Resistance in Plasmodium falciparum 3D7 Strain Using Intermittent Exposure Method and Comparing P.fk13 Sequence between Susceptible and Resistant Strains.
 38169476	Hydroxyurea reduces infections in children with sickle cell anemia in Uganda.
@@ -2996,7 +3013,7 @@
 37711239	Molecular markers associated with drug resistance in Plasmodium falciparum parasites in central Africa between 2016 and 2021.
 37711230	Transcriptomic approaches for identifying potential transmission blocking vaccine candidates in Plasmodium falciparum: a review of current knowledge and future directions.
 37711130	Three decades targeting falcipains to develop antiplasmodial agents: what have we learned and what can be done next?
-37711006	Traditional uses, phytochemistry, pharmacology, and toxicology of the genus Artemisia L. (Asteraceae): A high-value medicinal plant.
+37711006	Traditional uses, Phytochemistry, Pharmacology, and Toxicology of the Genus Artemisia L. (Asteraceae): A High-value Medicinal Plant.
 37710323	Surveillance of wild animals carrying infectious agents based on high-throughput screening platform in the Republic of Korea.
 37710288	The temporal dynamics of Plasmodium species infection after artemisinin-based combination therapy (ACT) among asymptomatic children in the Hohoe municipality, Ghana.
 37710279	Co-infection of Plasmodium falciparum and Schistosoma mansoni is associated with anaemia.
@@ -9980,20 +9997,3 @@
 35335120	The Antagonizing Role of Heme in the Antimalarial Function of Artemisinin: Elevating Intracellular Free Heme Negatively Impacts Artemisinin Activity in Plasmodium falciparum.
 35333915	Double drugging of prolyl-tRNA synthetase provides a new paradigm for anti-infective drug development.
 35333899	Anthropogenic landscape alteration promotes higher disease risk in wild New Zealand avian communities.
-35333897	Role of sphingosine kinase and sphingosine-1-phosphate receptor in the liver pathology of mice infected with Plasmodium berghei ANKA.
-35333335	Power across the global health landscape: a network analysis of development assistance 1990-2015.
-35332514	Epileptogenesis in Common Parasitic Infections.
-35332029	Ukrainian war: an economic crisis in Eastern Europe and Central Asia will lead to a health crisis.
-35331687	Implications of critical node-dependent unidirectional cross-talk of Plasmodium SUMO pathway proteins.
-35331319	Fragment-based virtual screening discovers potential new Plasmodium PI4KIIIβ ligands.
-35331251	Diagnostic performance and comparison of ultrasensitive and conventional rapid diagnostic test, thick blood smear and quantitative PCR for detection of low-density Plasmodium falciparum infections during a controlled human malaria infection study in Equatorial Guinea.
-35331248	Delivery of seasonal malaria chemoprevention with enhanced infection prevention and control measures during the COVID-19 pandemic in Nigeria, Burkina Faso and Chad: a cross-sectional study.
-35331247	Factors associated with malaria care seeking among children under 5 years of age in Mozambique: a secondary analysis of the 2018 Malaria Indicator Survey.
-35331243	Temporal distribution of Plasmodium falciparum recrudescence following artemisinin-based combination therapy: an individual participant data meta-analysis.
-35331242	"In starvation, a bone can also be meat": a mixed methods evaluation of factors associated with discarding of long-lasting insecticidal nets in Bagamoyo, Tanzania.
-35331241	Increase of avian Plasmodium circumflexum prevalence, but not of other malaria parasites and related haemosporidians in northern Europe during the past 40 years.
-35331237	Modelling new insecticide-treated bed nets for malaria-vector control: how to strategically manage resistance?
-35331231	Malaria chemoprevention and drug resistance: a review of the literature and policy implications.
-35331181	Age-modified factors associated with placental malaria in rural Burkina Faso.
-35330888	PARASITE-BASED DIAGNOSIS OF MALARIA IN PREGNANT WOMEN IN A TERTIARY HOSPITAL IN SOUTHWEST NIGERIA.
-35330886	PERSISTENCE OF PLASMODIUM FALCIPARUM HRP2 ANTIGEN AFTER EFFECTIVE ANTIMALARIAL THERAPY.
