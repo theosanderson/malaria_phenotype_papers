@@ -1,3 +1,5 @@
+38747850	Challenging diagnosis of Plasmodium ovale malaria in a Colombian traveler: the importance of including P. ovale wallikeri in molecular screening.
+38747635	TurboID mapping reveals the exportome of secreted intrinsically disordered proteins in the transforming parasite Theileria annulata.
 38746786	Incomplete Plasmodium falciparum growth inhibition following piperaquine treatment translates into increased parasite viability in the in vitro parasite reduction ratio assay.
 38746440	High frequency of artemisinin partial resistance mutations in the great lake region revealed through rapid pooled deep sequencing.
 38746424	Chemoproteomics validates selective targeting of Plasmodium M1 alanyl aminopeptidase as an antimalarial strategy.
@@ -393,7 +395,7 @@
 38625879	The effect of explicit convection on simulated malaria transmission across Africa.
 38625416	New insights into avian malaria infections in New Zealand seabirds.
 38624215	Plasmodium yoelii surface-related antigen (PySRA) modulates the host pro-inflammatory responses via binding to CD68 on macrophage membrane.
-38623843	Molecular Regulation of NLRP3 Inflammasome Activation During Parasitic Infection.
+38623843	Molecular regulation of NLRP3 inflammasome activation during parasitic infection.
 38623419	Concurrent infection of dengue virus with malaria parasites among outpatients attending healthcare facilities in Benin city, Nigeria.
 38623396	Global Health Commodities Supply Chain in the Era of COVID-19 Pandemic: Challenges, Impacts, and Prospects: A Systematic Review.
 38623173	Association of anthelmintic treatment with malaria prevalence in Rural Sussundenga, Mozambique.
@@ -9995,5 +9997,3 @@
 35335333	Anti-Neuroinflammatory Components from Clausena lenis Drake.
 35335288	In Vitro Pharmacological Screening of Essential Oils from Baccharis parvidentata and Lippia origanoides Growing in Brazil.
 35335120	The Antagonizing Role of Heme in the Antimalarial Function of Artemisinin: Elevating Intracellular Free Heme Negatively Impacts Artemisinin Activity in Plasmodium falciparum.
-35333915	Double drugging of prolyl-tRNA synthetase provides a new paradigm for anti-infective drug development.
-35333899	Anthropogenic landscape alteration promotes higher disease risk in wild New Zealand avian communities.
