@@ -1,3 +1,7 @@
+38753426	Landscape drives zoonotic malaria prevalence in non-human primates.
+38753344	Shifting patterns and competing explanations for infectious disease priority in global health agenda setting arenas.
+38752830	Mature beyond their years: young children who escape detection of parasitemia despite living in settings of intense malaria transmission.
+38752809	An ApiAp2 Transcription Factor with a Dispensable Role in Plasmodium berghei Life Cycle.
 38752001	Evaluating the knowledge, attitude, perception, and readiness of caregivers of under 5-year-old children to accept malaria vaccine in Nigeria.
 38751985	Patient with suspected co-infection of hemorrhagic fever with renal syndrome and malaria: a case report.
 38751433	Antibodies to Aedes aegypti D7L salivary proteins as a new serological tool to estimate human exposure to Aedes mosquitoes.
@@ -9993,7 +9997,3 @@
 35338869	Ivermectin for malaria control in mass drug administration programmes - Authors' reply.
 35338868	Ivermectin for malaria control in mass drug administration programmes.
 35338843	Optimising tuberculosis care for refugees affected by armed conflicts.
-35338790	A discrete dielectrophoresis device for the separation of malaria-infected cells.
-35338131	Randomized clinical trial to assess the protective efficacy of a Plasmodium vivax CS synthetic vaccine.
-35337896	Identification of novel Ebola virus inhibitors using biologically contained virus.
-35337289	Malaria positivity following a single oral dose of azithromycin among children in Burkina Faso: a randomized controlled trial.
