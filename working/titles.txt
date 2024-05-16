@@ -1,3 +1,11 @@
+38750608	Impact of ivermectin components on Anopheles dirus and Anopheles minimus mosquito survival.
+38750583	Evidence of Plasmodium vivax circulation in western and eastern regions of Senegal: implications for malaria control.
+38750517	Mixed-method evaluation study of a targeted mass drug administration of long-acting anti-malarials among children aged 3 months to 15 years in the Bossangoa sub-prefecture, Ouham, Central African Republic, during the COVID-19 pandemic.
+38750488	Cost-effectiveness of village health worker-led integrated community case management (iCCM) versus health facility based management for childhood illnesses in rural southwestern Uganda.
+38750468	Efficacy of Pirikool® 300 CS used for indoor residual spraying on three different substrates in semi-field experimental conditions.
+38750260	Combating antimicrobial resistance in malaria, HIV and tuberculosis.
+38749866	The biology and pathogenesis of vivax malaria.
+38748721	A systematic review of the factors associated with malaria infection among forest rangers.
 38747850	Challenging diagnosis of Plasmodium ovale malaria in a Colombian traveler: the importance of including P. ovale wallikeri in molecular screening.
 38747635	TurboID mapping reveals the exportome of secreted intrinsically disordered proteins in the transforming parasite Theileria annulata.
 38746786	Incomplete Plasmodium falciparum growth inhibition following piperaquine treatment translates into increased parasite viability in the in vitro parasite reduction ratio assay.
@@ -1320,7 +1328,7 @@
 38299826	Mast cell-derived IL-10 protects intestinal barrier integrity during malaria in mice and regulates parasite transmission to Anopheles stephensi with a female-biased immune response.
 38299155	Analyses of human vaccine-specific circulating and bone marrow-resident B cell populations reveal benefit of delayed vaccine booster dosing with blood-stage malaria antigens.
 38298128	New myxobacteria of the Myxococcaceae clade produce angiolams with antiparasitic activities.
-38298126	Plasmodium falciparum glutamic acid-rich protein (PfGARP)-independent polyclonal antibodies inhibit malaria parasite growth in human erythrocytes.
+38298126	Plasmodium falciparum Glutamic Acid-Rich Protein-Independent Polyclonal Antibodies Inhibit Malaria Parasite Growth in Human Erythrocytes.
 38298044	Ethanol extract of aloe vera ameliorates Artemether-Lumefantrine-induced reproductive toxicity in adult male Albino rats (Wistar Strain).
 38297098	Infected erythrocytes and plasma proteomics reveal a specific protein signature of severe malaria.
 38297033	Reaction hijacking inhibition of Plasmodium falciparum asparagine tRNA synthetase.
@@ -2069,8 +2077,8 @@
 38043141	Transcriptome analysis of Huh7 cells upon Chikungunya virus infection and capsid transfection reveals regulation of distinct cellular and metabolic pathways.
 38042891	Applying a zero-corrected, gravity model estimator reduces bias due to heterogeneity in healthcare utilization in community-scale, passive surveillance datasets of endemic diseases.
 38041930	Effects of the G-quadruplex-binding drugs quarfloxin and CX-5461 on the malaria parasite Plasmodium falciparum.
-38041857	Effectiveness of unsupervised primaquine regimen for preventing Plasmodium vivax malaria relapses in northeast Myanmar, a single-arm non-randomized observational study.
-38041852	Low prevalence of antimalarial-resistance mutations in India during 2014-15: Impact of combining first-line therapy with primaquine.
+38041857	Effectiveness of an Unsupervised Primaquine Regimen for Preventing Plasmodium vivax Malaria Relapses in Northeast Myanmar: A Single-Arm Nonrandomized Observational Study.
+38041852	Low Prevalence of Antimalarial Resistance Mutations in India During 2014-2015: Impact of Combining First-line Therapy With Primaquine.
 38041520	Hypertensive disorders of pregnancy in Western Brazilian Amazon: Associated factors and neonatal outcomes.
 38041142	UPLC/ESI/MS profiling of red algae Galaxaura rugosa extracts and its activity against malaria mosquito vector, Anopheles pharoensis, with reference to Danio rerio and Daphnia magna as bioindicators.
 38040981	Superinfection and the hypnozoite reservoir for Plasmodium vivax: a general framework.
@@ -2945,6 +2953,7 @@
 37738984	Quorum sensing-activated phenylalanine metabolism drives OMV biogenesis to enhance mosquito commensal colonization resistance to Plasmodium.
 37738885	Genetic Neuromuscular Disorders and Health Services Access, Utilization, and Needs in Zambia.
 37738476	Development of a degree-day model to predict the growth of Anopheles stephensi (Diptera: Culicidae): implication for vector control management.
+37738417	Thinking Small, Stinking Big: The World of Microbial Odors.
 37738317	Characterization of the swarming behavior of Anopheles coluzzii and Anopheles gambiae (Diptera: Culicidae) populations in a hybrid zone of Senegal.
 37737828	When malaria imitates thrombotic thrombocytopenic purpura: importance of patient history and physician awareness of uncommon diseases.
 37737323	Life expectancy of Anopheles funestus is double that of Anopheles arabiensis in southeast Tanzania based on mark-release-recapture method.
@@ -9988,12 +9997,3 @@
 35337131	Synthesis, Antiplasmodial, and Antileukemia Activity of Dihydroartemisinin-HDAC Inhibitor Hybrids as Multitarget Drugs.
 35337098	Major Achievements in the Design of Quadruplex-Interactive Small Molecules.
 35336783	The Phylodynamic and Spread of the Invasive Asian Malaria Vectors, Anopheles stephensi, in Sudan.
-35336160	Deciphering the Role of Protein Phosphatases in Apicomplexa: The Future of Innovative Therapeutics?
-35335918	Sparsomycin Exhibits Potent Antiplasmodial Activity In Vitro and In Vivo.
-35335880	Recent Advances in the Therapeutic Efficacy of Artesunate.
-35335878	Enhanced Antioxidant Effects of the Anti-Inflammatory Compound Probucol When Released from Mesoporous Silica Particles.
-35335668	Unraveling the Complexity of the Rhomboid Serine Protease 4 Family of Babesia bovis Using Bioinformatics and Experimental Studies.
-35335612	From Inflammation to Fibrosis: Novel Insights into the Roles of High Mobility Group Protein Box 1 in Schistosome-Induced Liver Damage.
-35335333	Anti-Neuroinflammatory Components from Clausena lenis Drake.
-35335288	In Vitro Pharmacological Screening of Essential Oils from Baccharis parvidentata and Lippia origanoides Growing in Brazil.
-35335120	The Antagonizing Role of Heme in the Antimalarial Function of Artemisinin: Elevating Intracellular Free Heme Negatively Impacts Artemisinin Activity in Plasmodium falciparum.
