@@ -1,3 +1,6 @@
+38752001	Evaluating the knowledge, attitude, perception, and readiness of caregivers of under 5-year-old children to accept malaria vaccine in Nigeria.
+38751985	Patient with suspected co-infection of hemorrhagic fever with renal syndrome and malaria: a case report.
+38751433	Antibodies to Aedes aegypti D7L salivary proteins as a new serological tool to estimate human exposure to Aedes mosquitoes.
 38750608	Impact of ivermectin components on Anopheles dirus and Anopheles minimus mosquito survival.
 38750583	Evidence of Plasmodium vivax circulation in western and eastern regions of Senegal: implications for malaria control.
 38750517	Mixed-method evaluation study of a targeted mass drug administration of long-acting anti-malarials among children aged 3 months to 15 years in the Bossangoa sub-prefecture, Ouham, Central African Republic, during the COVID-19 pandemic.
@@ -703,6 +706,7 @@
 38503838	Factors influencing delay in malaria treatment seeking at selected public health facilities in South Gonder, Ethiopia.
 38503234	Simple ammonium salt and sigma-1 receptor ligand dipentylammonium provides neuroprotective effects in cell culture and Caenorhabditis elegans models of Alzheimer's disease.
 38503166	Insights from structure-activity relationships and the binding mode of peptidic α-ketoamide inhibitors of the malaria drug target subtilisin-like SUB1.
+30860698	Transfusion Transmitted Disease.
 38502783	PHARE: a bioinformatics pipeline for compositional profiling of multiclonal Plasmodium falciparum infections from long-read Nanopore sequencing data.
 38502506	Monitoring of Lipid Fluxes Between Host and Plastid-Bearing Apicomplexan Parasites.
 38502497	Complex Endosymbiosis II: The Nonphotosynthetic Plastid of Apicomplexa Parasites (The Apicoplast) and Its Integrated Metabolism.
@@ -4083,7 +4087,6 @@
 37356628	Asymptomatic Plasmodium falciparum infection evades triggering a host transcriptomic response.
 37356261	Polymorphisms in Toll-Like receptors genes and their associations with immunological parameters in Plasmodium vivax malaria in the Brazil-French Guiana Border.
 32491525	Methylene Blue.
-30860698	Transfusion Transmitted Disease.
 37356002	Plasmodium knowlesi circumsporozoite protein: genetic characterisation and predicted antigenicity of the central repeat region.
 37355866	Clinicopathological Study of Chronic Kidney Disease of Unknown Etiology in Odisha.
 37355627	El Niño and other climatic drivers of epidemic malaria in Ethiopia: new tools for national health adaptation plans.
@@ -9994,6 +9997,3 @@
 35338131	Randomized clinical trial to assess the protective efficacy of a Plasmodium vivax CS synthetic vaccine.
 35337896	Identification of novel Ebola virus inhibitors using biologically contained virus.
 35337289	Malaria positivity following a single oral dose of azithromycin among children in Burkina Faso: a randomized controlled trial.
-35337131	Synthesis, Antiplasmodial, and Antileukemia Activity of Dihydroartemisinin-HDAC Inhibitor Hybrids as Multitarget Drugs.
-35337098	Major Achievements in the Design of Quadruplex-Interactive Small Molecules.
-35336783	The Phylodynamic and Spread of the Invasive Asian Malaria Vectors, Anopheles stephensi, in Sudan.
