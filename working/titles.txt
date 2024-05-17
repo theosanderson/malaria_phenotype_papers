@@ -1,3 +1,9 @@
+38753813	Intermittent preventive treatment with sulphadoxine-pyrimethamine but not dihydroartemisinin-piperaquine modulates the relationship between inflammatory markers and adverse pregnancy outcomes in Malawi.
+38753739	Defining a malaria diagnostic pathway from innovation to adoption: Stakeholder perspectives on data and evidence gaps.
+38753678	Predicting malaria outbreak in The Gambia using machine learning techniques.
+38753676	Prompt treatment of fever and its associated factors among under-five children in sub-Saharan Africa: A multilevel analysis of evidence from 36 countries.
+38753670	Malaria prevalence and use of control measures in an area with persistent transmission in Senegal.
+38753447	Influence of climatic factors on the life stages of Aedes mosquitoes and vectorial transmission: A review.
 38753426	Landscape drives zoonotic malaria prevalence in non-human primates.
 38753344	Shifting patterns and competing explanations for infectious disease priority in global health agenda setting arenas.
 38752830	Mature beyond their years: young children who escape detection of parasitemia despite living in settings of intense malaria transmission.
@@ -653,6 +659,7 @@
 38530030	Expression of the MSPDBL2 antigen in a discrete subset of Plasmodium falciparum schizonts is regulated by GDV1 but may not be linked to sexual commitment.
 38529311	Malaria: biochemical, physiological, diagnostic, and therapeutic updates.
 38529021	Population genomic evidence of structured and connected Plasmodium vivax populations under host selection in Latin America.
+38528724	Medication adherence framework: A population-based pharmacokinetic approach and its application in antimalarial treatment assessments.
 38528616	Clinical and economic burden of respiratory syncytial virus in children aged 0-5 years in Italy.
 38527476	Post-tuberculosis lung disease: is there a light at the end of tunnel?
 38527214	Pathogen prospecting of museums: Reconstructing malaria epidemiology.
@@ -9990,10 +9997,3 @@
 35340596	Computational studies of Piezo1 yield insights into key lipid-protein interactions, channel activation, and agonist binding.
 35340480	Tropical Infections Induced Fulminant Hepatitis in Peripartum Managed Successfully: Tales of Fate.
 35340427	Retracted: Exploring Drug Targets in Isoprenoid Biosynthetic Pathway for Plasmodium falciparum.
-35340291	Activity-based Crosslinking to Identify Substrates of Thioredoxin-domain Proteinsin Malaria Parasites.
-35339698	Positive selection in multiple salivary gland proteins of Anophelinae reveals potential targets for vector control.
-35339225	Effectiveness and cost-effectiveness against malaria of three types of dual-active-ingredient long-lasting insecticidal nets (LLINs) compared with pyrethroid-only LLINs in Tanzania: a four-arm, cluster-randomised trial.
-35338970	Dihydroartemisinin alleviates steatosis and inflammation in nonalcoholic steatohepatitis by decreasing endoplasmic reticulum stress and oxidative stress.
-35338869	Ivermectin for malaria control in mass drug administration programmes - Authors' reply.
-35338868	Ivermectin for malaria control in mass drug administration programmes.
-35338843	Optimising tuberculosis care for refugees affected by armed conflicts.
