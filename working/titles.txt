@@ -1,3 +1,5 @@
+38757533	Flucofuron as a Promising Therapeutic Agent against Brain-Eating Amoeba.
+38757481	Toxoplasma replication is inhibited by MMV676477 without development of resistance.
 38756913	Two decades of malaria control in Malawi: Geostatistical Analysis of the changing malaria prevalence from 2000-2022.
 38756775	Intestinal microflora promotes Th2-mediated immunity through NLRP3 in damp and heat environments.
 38755646	Smelly interactions: host-borne volatile organic compounds triggering behavioural responses in mosquitoes, sand flies, and ticks.
@@ -9995,5 +9997,3 @@
 35346035	Comparative analysis of the kinomes of Plasmodium falciparum, Plasmodium vivax and their host Homo sapiens.
 35345405	Ileum transcriptional response to prolonged supplementation with phytogenic product containing menthol, carvacrol and carvone.
 35344932	Understudied Anophelines Contribute to Malaria Transmission in a Low-Transmission Setting in the Choma District, Southern Province, Zambia.
-35344929	Post-Validation Survey in Two Districts of Morocco after the Elimination of Trachoma as a Public Health Problem.
-35344575	A novel CSP C-terminal epitope targeted by an antibody with protective activity against Plasmodium falciparum.
