@@ -1,3 +1,11 @@
+38755646	Smelly interactions: host-borne volatile organic compounds triggering behavioural responses in mosquitoes, sand flies, and ticks.
+38755640	Lethal and sublethal impacts of membrane-fed ivermectin are concentration dependent in Anopheles coluzzii.
+38755638	Ten-year trend analysis of malaria prevalence in Gindabarat district, West Shawa Zone, Oromia Regional State, Western Ethiopia.
+38755636	A screen for Plasmodium falciparum sporozoite surface protein binding to human hepatocyte surface receptors identifies novel host-pathogen interactions.
+38755607	Expansion of artemisinin partial resistance mutations and lack of histidine rich protein-2 and -3 deletions in Plasmodium falciparum infections from Rukara, Rwanda.
+38755230	APEX2-based proximity proteomic analysis identifies candidate interactors for Plasmodium falciparum knob-associated histidine-rich protein in infected erythrocytes.
+38755147	Serological evidence of zoonotic filovirus exposure among bushmeat hunters in Guinea.
+38755024	A decade of invasive Anopheles stephensi sequence-based identification: toward a global standard.
 38753813	Intermittent preventive treatment with sulphadoxine-pyrimethamine but not dihydroartemisinin-piperaquine modulates the relationship between inflammatory markers and adverse pregnancy outcomes in Malawi.
 38753739	Defining a malaria diagnostic pathway from innovation to adoption: Stakeholder perspectives on data and evidence gaps.
 38753678	Predicting malaria outbreak in The Gambia using machine learning techniques.
@@ -115,7 +123,7 @@
 38719615	Microalgae-made human vaccines and therapeutics: A decade of advances.
 38719563	Comprehensive assessment of pediatric acute and inpatient care at a tertiary referral hospital in Malawi: opportunities for quality improvement.
 38719176	Optimized plasmid loading of human erythrocytes for Plasmodium falciparum DNA transfections.
-38719028	TKL family kinases in Human Apicomplexan pathogens.
+38719028	TKL family kinases in human apicomplexan pathogens.
 38718661	A recombinant chimeric antigen constructed with B-cell epitopes from Mycobacterium leprae hypothetical proteins is effective for the diagnosis of leprosy.
 38718075	Factors associated with mosquito control among construction workers: A systematic review.
 38717826	Estimation of cause-specific mortality in Rakai, Uganda, using verbal autopsy 1999-2019.
@@ -9989,11 +9997,3 @@
 35344575	A novel CSP C-terminal epitope targeted by an antibody with protective activity against Plasmodium falciparum.
 35344481	Tackling variants with antibodies.
 35344160	Highland Malaria Transmission Dynamics in Space and Time Before Pre-elimination Era, Northwest Ethiopia.
-35342649	Prevalence and Factors Associated with Acute Kidney Injury in Sub-Saharan African Adults: A Review of the Current Literature.
-35342429	Estimating the Risk of Maternal Death at Admission: A Predictive Model from a 5-Year Case Reference Study in Northern Uganda.
-35342268	Epidemic of Mucormycosis in COVID-19 Pandemic: A Position Paper.
-35341998	Tuberculosis, HIV/AIDS and Malaria Health Services in sub-Saharan Africa - A Situation Analysis of the Disruptions and Impact of the COVID-19 Pandemic.
-35340707	Assessment of the Teratogenic Effect of Sulfadoxine-Pyrimethamine on the Chicken Embryo.
-35340596	Computational studies of Piezo1 yield insights into key lipid-protein interactions, channel activation, and agonist binding.
-35340480	Tropical Infections Induced Fulminant Hepatitis in Peripartum Managed Successfully: Tales of Fate.
-35340427	Retracted: Exploring Drug Targets in Isoprenoid Biosynthetic Pathway for Plasmodium falciparum.
