@@ -1,3 +1,5 @@
+38756913	Two decades of malaria control in Malawi: Geostatistical Analysis of the changing malaria prevalence from 2000-2022.
+38756775	Intestinal microflora promotes Th2-mediated immunity through NLRP3 in damp and heat environments.
 38755646	Smelly interactions: host-borne volatile organic compounds triggering behavioural responses in mosquitoes, sand flies, and ticks.
 38755640	Lethal and sublethal impacts of membrane-fed ivermectin are concentration dependent in Anopheles coluzzii.
 38755638	Ten-year trend analysis of malaria prevalence in Gindabarat district, West Shawa Zone, Oromia Regional State, Western Ethiopia.
@@ -9995,5 +9997,3 @@
 35344932	Understudied Anophelines Contribute to Malaria Transmission in a Low-Transmission Setting in the Choma District, Southern Province, Zambia.
 35344929	Post-Validation Survey in Two Districts of Morocco after the Elimination of Trachoma as a Public Health Problem.
 35344575	A novel CSP C-terminal epitope targeted by an antibody with protective activity against Plasmodium falciparum.
-35344481	Tackling variants with antibodies.
-35344160	Highland Malaria Transmission Dynamics in Space and Time Before Pre-elimination Era, Northwest Ethiopia.
