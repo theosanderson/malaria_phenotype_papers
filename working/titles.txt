@@ -1,3 +1,8 @@
+38759952	Proteomes of plasmodium knowlesi early and late ring-stage parasites and infected host erythrocytes.
+38759940	Genetic diversity and natural selection of plasmodium vivax Merozoite surface protein 8 in global populations.
+38760849	Genetic markers associated with the widespread insecticide resistance in malaria vector Anopheles funestus populations across Tanzania.
+38760258	Genetic surveillance of insecticide resistance in African Anopheles populations to inform malaria vector control.
+38760256	Curing mosquitoes with genetic approaches for malaria control.
 38759144	Exploring the recent pioneering developments of small molecules in antimalarial drug armamentarium: A chemistry prospective appraisal.
 38758832	Experience of healthcare personnel on Co-payment mechanism and the implications on its use in private drug outlets in Uganda.
 38757533	Flucofuron as a Promising Therapeutic Agent against Brain-Eating Amoeba.
@@ -9992,8 +9997,3 @@
 35346598	Affinity-purified Plasmodium tubulin provides a key reagent for antimalarial drug development.
 35346342	Nyssorhynchus darlingi genome-wide studies related to microgeographic dispersion and blood-seeking behavior.
 35346334	Use of novel lab assays to examine the effect of pyrethroid-treated bed nets on blood-feeding success and longevity of highly insecticide-resistant Anopheles gambiae s.l. mosquitoes.
-35346216	Susceptibility to malaria during the prevention of re-establishment phase in Sri Lanka.
-35346205	Intermittent preventive treatment in pregnancy with sulfadoxine-pyrimethamine and parasite resistance: cross-sectional surveys from antenatal care visit and delivery in rural Ghana.
-35346120	Time to recovery and its predictors among children aged 6-59 months with severe acute malnutrition admitted to outpatient therapeutic program in Southwest Ethiopia: retrospective cohort study.
-35346098	Mixed effect analysis of factors influencing the use of insecticides treated bed nets among pregnant women in Ghana: evidence from the 2019 Malaria Indicator Survey.
-35346035	Comparative analysis of the kinomes of Plasmodium falciparum, Plasmodium vivax and their host Homo sapiens.
