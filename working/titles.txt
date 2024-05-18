@@ -1,8 +1,8 @@
-38759952	Proteomes of plasmodium knowlesi early and late ring-stage parasites and infected host erythrocytes.
-38759940	Genetic diversity and natural selection of plasmodium vivax Merozoite surface protein 8 in global populations.
 38760849	Genetic markers associated with the widespread insecticide resistance in malaria vector Anopheles funestus populations across Tanzania.
 38760258	Genetic surveillance of insecticide resistance in African Anopheles populations to inform malaria vector control.
 38760256	Curing mosquitoes with genetic approaches for malaria control.
+38759952	Proteomes of plasmodium knowlesi early and late ring-stage parasites and infected host erythrocytes.
+38759940	Genetic diversity and natural selection of plasmodium vivax Merozoite surface protein 8 in global populations.
 38759144	Exploring the recent pioneering developments of small molecules in antimalarial drug armamentarium: A chemistry prospective appraisal.
 38758832	Experience of healthcare personnel on Co-payment mechanism and the implications on its use in private drug outlets in Uganda.
 38757533	Flucofuron as a Promising Therapeutic Agent against Brain-Eating Amoeba.
