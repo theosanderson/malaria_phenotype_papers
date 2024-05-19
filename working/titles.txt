@@ -1,3 +1,11 @@
+38762604	Tracing the origins of Plasmodium vivax resurgence after malaria elimination on Aneityum Island in Vanuatu.
+38762448	Characteristics of the Western Province, Zambia, trial site for evaluation of attractive targeted sugar baits for malaria vector control.
+38762379	The emergency burden in low and middle-income countries.
+38762159	New member of Plasmodium (Vinckeia) and Plasmodium cyclopsi discovered in bats in Sierra Leone - nuclear sequence and complete mitochondrial genome analyses.
+38761871	The Effect of Malaria-Induced Alteration of Metabolism on Piperaquine Disposition in Plasmodium yoelii-Infected mice, as Well as Predicted in Malaria Patients.
+38761865	Genetic variability of histidine-rich protein 2 repeat sequences: Misleading factor in true determination of Plasmodium falciparum in different population.
+38761813	Plasmodium ovale spp dhfr mutations associated with reduced susceptibility to pyrimethamine in sub-Saharan Africa: a retrospective genetic epidemiology and functional study.
+38761524	In vivo antimalarial efficacy of Artemisia afra powder suspensions.
 38760849	Genetic markers associated with the widespread insecticide resistance in malaria vector Anopheles funestus populations across Tanzania.
 38760258	Genetic surveillance of insecticide resistance in African Anopheles populations to inform malaria vector control.
 38760256	Curing mosquitoes with genetic approaches for malaria control.
@@ -9989,11 +9997,3 @@
 35349634	Malaria-associated adhesion molecule activation facilitates the destruction of uninfected red blood cells.
 35349633	Acute Kidney Injury Interacts With Coma, Acidosis, and Impaired Perfusion to Significantly Increase Risk of Death in Children With Severe Malaria.
 35349608	Untangling population structure and genetic diversity of reticulocyte binding protein 2b (PvRBP2b) erythrocytic stage vaccine candidate in worldwide Plasmodium vivax isolates.
-35348796	Trends in Pediatric Hospitalizations and Mortality during the COVID-19 Pandemic in an Urban Setting in Cameroon.
-35348455	Assessment of quantitative and semi-quantitative biological test methods of artesunate in vitro.
-35347315	Kidney complications of parasitic diseases.
-35347215	Artemisinin resistance in the malaria parasite, Plasmodium falciparum, originates from its initial transcriptional response.
-35346667	Molluskicidal activity of 3-aryl-2-hydroxy-1,4-naphthoquinones against Biomphalaria glabrata.
-35346598	Affinity-purified Plasmodium tubulin provides a key reagent for antimalarial drug development.
-35346342	Nyssorhynchus darlingi genome-wide studies related to microgeographic dispersion and blood-seeking behavior.
-35346334	Use of novel lab assays to examine the effect of pyrethroid-treated bed nets on blood-feeding success and longevity of highly insecticide-resistant Anopheles gambiae s.l. mosquitoes.
