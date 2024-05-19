@@ -1,10 +1,10 @@
 38762604	Tracing the origins of Plasmodium vivax resurgence after malaria elimination on Aneityum Island in Vanuatu.
-38762448	Characteristics of the Western Province, Zambia, trial site for evaluation of attractive targeted sugar baits for malaria vector control.
-38762379	The emergency burden in low and middle-income countries.
 38762159	New member of Plasmodium (Vinckeia) and Plasmodium cyclopsi discovered in bats in Sierra Leone - nuclear sequence and complete mitochondrial genome analyses.
-38761871	The Effect of Malaria-Induced Alteration of Metabolism on Piperaquine Disposition in Plasmodium yoelii-Infected mice, as Well as Predicted in Malaria Patients.
 38761865	Genetic variability of histidine-rich protein 2 repeat sequences: Misleading factor in true determination of Plasmodium falciparum in different population.
 38761813	Plasmodium ovale spp dhfr mutations associated with reduced susceptibility to pyrimethamine in sub-Saharan Africa: a retrospective genetic epidemiology and functional study.
+38762448	Characteristics of the Western Province, Zambia, trial site for evaluation of attractive targeted sugar baits for malaria vector control.
+38762379	The emergency burden in low and middle-income countries.
+38761871	The Effect of Malaria-Induced Alteration of Metabolism on Piperaquine Disposition in Plasmodium yoelii-Infected mice, as Well as Predicted in Malaria Patients.
 38761524	In vivo antimalarial efficacy of Artemisia afra powder suspensions.
 38760849	Genetic markers associated with the widespread insecticide resistance in malaria vector Anopheles funestus populations across Tanzania.
 38760258	Genetic surveillance of insecticide resistance in African Anopheles populations to inform malaria vector control.
