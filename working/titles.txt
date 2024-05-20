@@ -1,3 +1,20 @@
+38766239	Diversity and selection analyses identify transmission-blocking antigens as the optimal vaccine candidates in Plasmodium falciparum.
+38765680	Detection of florfenicol resistance in opportunistic Acinetobacter spp. infections in rural Thailand.
+38765186	Apicoplast-Resident Processes: Exploiting the Chink in the Armour of Plasmodium falciparum Parasites.
+38764805	High acceptance of artemisinin-based combination therapy for the home management of malaria in rural communities in southwest Nigeria.
+38764804	Performance and clinical usefulness of the Optimal-IT(®) test in the treatment of confirmed malaria cases in rural areas in Côte d'Ivoire.
+38764803	Impact of malaria rapid diagnostic tests on prescription patterns of artemisinin-based combination therapy in Oyo State, Nigeria.
+38764802	How well do malaria tests correlate with disease severity? Comparison of parasite density in children with mild and severe malaria.
+38764801	Suppression of malaria transmission and increases in economic productivity in African countries from 2007 to 2011.
+38764800	The current status of infrastructure for monitoring the efficacy of antimalarial therapeutics in Zambia.
+38764799	Enabling factors facilitating the use of neem-based remedies for the management of malaria in the Lower Shire District of Chikwawa, Malawi.
+38764798	Misdiagnosis of malaria using wrong buffer substitutes for rapid diagnostic tests in poor resource setting in Enugu, southeast Nigeria.
+38764797	Economic aspects of suppressing malaria in Africa.
+38764796	Malaria and respiratory syncytial virus as causes of acute febrile illness in an urban paediatric population in Ghana.
+38764795	Persistence of markers of chloroquine resistance among P. falciparum isolates recovered from two Nigerian communities.
+38764794	HPLC separation and in vitro antimalarial studies of Artemisia annua plants from two different origins: Cameroon versus Luxembourg.
+38764661	Insights into the Mechanism of Catalytic Activity of Plasmodium Parasite Malate-Quinone Oxidoreductase.
+38764536	Knowledge, attitude, and practices toward malaria among hospital outpatients in Nangarhar, Afghanistan: A cross-sectional study.
 38764069	IgG and IgM responses to the Plasmodium falciparum asexual stage antigens reflect respectively protection against malaria during pregnancy and infanthood.
 38764024	Using image segmentation models to analyse high-resolution earth observation data: new tools to monitor disease risks in changing environments.
 38764011	Spatio-temporal characterization of phenotypic resistance in malaria vector species.
@@ -9980,20 +9997,3 @@
 35358721	Plasmodium malariae after successful treatment of P. falciparum malaria with artemether-lumefantrine.
 35358364	Anopheles gambiae strain (Ag55) cultured cells originated from Anopheles coluzzii and are phagocytic with hemocyte-like gene expression.
 35358236	Primary care physicians' knowledge of travel vaccine and malaria chemoprophylaxis and associated predictors in Qatar.
-35357832	Autoxidation of a C2-Olefinated Dihydroartemisinic Acid Analogue to Form an Aromatic Ring: Application to Serrulatene Biosynthesis.
-35357277	Current status of experimental models for the study of malaria.
-35357271	Current status of 4-aminoquinoline resistance markers 18 years after cessation of chloroquine use for the treatment of uncomplicated falciparum malaria in the littoral coastline region of Cameroon.
-35357052	Pharmacological and molecular characterization of the A-type muscarinic acetylcholine receptor from Anopheles gambiae.
-35356662	Associations between women's empowerment, care seeking, and quality of malaria care for children: A cross-sectional analysis of demographic and health surveys in 16 sub-Saharan African countries.
-35356649	Health disparity and mortality trends of infectious diseases in BRICS from 1990 to 2019.
-35356431	Editorial: Genetics of Apicomplexans and Apicomplexan-Related Parasitic Diseases.
-35355994	Plasmodium falciparum-Specific Memory B-Cell and Antibody Responses Are Associated With Immunity in Children Living in an Endemic Area of Kenya.
-35355692	Ultrasensitive molecular tests for Plasmodium detection: applicability in control and elimination programs and reference laboratories.
-35355096	Biotransformation of artemisinin to a novel derivative via ring rearrangement by Aspergillus niger.
-36445950	
-35353968	Primaquine and Plasmodium vivax Malaria Recurrence in Brazil.
-35353962	Higher-Dose Primaquine to Prevent Relapse of Plasmodium vivax Malaria.
-35353560	Asynchronous nuclear cycles in multinucleated Plasmodium falciparum facilitate rapid proliferation.
-35351963	Repellency and insecticidal activity of seven Mugwort (Artemisia argyi) essential oils against the malaria vector Anopheles sinensis.
-35350863	Killing the competition: a theoretical framework for liver-stage malaria.
-35350381	Shared Mechanisms for Mutually Exclusive Expression and Antigenic Variation by Protozoan Parasites.
