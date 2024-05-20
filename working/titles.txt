@@ -1,3 +1,7 @@
+38764069	IgG and IgM responses to the Plasmodium falciparum asexual stage antigens reflect respectively protection against malaria during pregnancy and infanthood.
+38764024	Using image segmentation models to analyse high-resolution earth observation data: new tools to monitor disease risks in changing environments.
+38764011	Spatio-temporal characterization of phenotypic resistance in malaria vector species.
+38763480	Design, synthesis and molecular docking study of novel triazole-quinazolinone hybrids as antimalarial and antitubercular agents.
 38762604	Tracing the origins of Plasmodium vivax resurgence after malaria elimination on Aneityum Island in Vanuatu.
 38762448	Characteristics of the Western Province, Zambia, trial site for evaluation of attractive targeted sugar baits for malaria vector control.
 38762379	The emergency burden in low and middle-income countries.
@@ -395,6 +399,7 @@
 38636656	The Plasmodium vivax MSP1P-19 is involved in binding of reticulocytes through interactions with the membrane proteins band3 and CD71.
 38636585	Characterization of drug resistance genes in Indian Plasmodium falciparum and Plasmodium vivax field isolates.
 38636200	Sanger sequencing and deconvolution of polyclonal infections: a quantitative approach to monitor drug-resistant Plasmodium falciparum.
+32491445	Typhoid Fever.
 38635671	Comparison of perinatal outcome and mode of birth of twin and singleton pregnancies in migrant and refugee populations on the Thai Myanmar border: A population cohort.
 38635664	Solution structure and pressure response of thioredoxin-1 of Plasmodium falciparum.
 38635576	Design of a novel intelligent computing framework for predictive solutions of malaria propagation model.
@@ -9992,8 +9997,3 @@
 35351963	Repellency and insecticidal activity of seven Mugwort (Artemisia argyi) essential oils against the malaria vector Anopheles sinensis.
 35350863	Killing the competition: a theoretical framework for liver-stage malaria.
 35350381	Shared Mechanisms for Mutually Exclusive Expression and Antigenic Variation by Protozoan Parasites.
-35350264	The impact of COVID-19 on communicable and non-communicable diseases in Africa: a narrative review.
-35350253	Mortality and morbidity from infectious and non-communicable diseases in Greece during Axis/Nazi military occupation (1941-1944).
-35349634	Malaria-associated adhesion molecule activation facilitates the destruction of uninfected red blood cells.
-35349633	Acute Kidney Injury Interacts With Coma, Acidosis, and Impaired Perfusion to Significantly Increase Risk of Death in Children With Severe Malaria.
-35349608	Untangling population structure and genetic diversity of reticulocyte binding protein 2b (PvRBP2b) erythrocytic stage vaccine candidate in worldwide Plasmodium vivax isolates.
