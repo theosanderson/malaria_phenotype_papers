@@ -1,7 +1,10 @@
+38770342	A 3D organoid platform that supports liver-stage P.falciparum infection can be used to identify intrahepatic antimalarial drugs.
+38770341	Increasing the planting density of Cryptolepis sanguinolenta (Lindl.) Schlt increased root biomass and cryptolepine yield.
+38769632	Species Composition and Feeding Behaviors of Vector Mosquitoes of Avian Infectious Diseases at a Wild Bird Rehabilitation Facility in Japan.
 38769514	Exploring existing malaria services and the feasibility of implementing community engagement approaches amongst conflict-affected communities in Cameroon: a qualitative study.
+38769513	Spatial distribution and determinants of intermittent preventive treatment for malaria during pregnancy: a secondary data analysis of the 2019 Ghana malaria indicators survey.
 38769342	Evaluating human landing catches as a measure of mosquito biting and the importance of considering additional modes of action.
 38768905	Pregnancy outcomes in women with imported malaria in mainland France: A retrospective study from 2004 to 2014.
-38769513	Spatial distribution and determinants of intermittent preventive treatment for malaria during pregnancy: a secondary data analysis of the 2019 Ghana malaria indicators survey.
 38768243	A digital microscope for the diagnosis of Plasmodium falciparum and Plasmodium vivax, including P. falciparum with hrp2/hrp3 deletion.
 38768107	Cost analyses for malaria molecular diagnosis for research planners in India and beyond.
 38767928	Biochemical, Bioinformatic, and Structural Comparisons of Transketolases and Position of Human Transketolase in the Enzyme Evolution.
@@ -183,7 +186,6 @@
 38712726	Malaria and dengue outbreaks: a double health threat in southeastern Iran.
 38712708	Status of vector protection measures and awareness regarding vector borne diseases in families residing in a Nirmal Gram Puraskar village in India.
 38712295	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
-38712209	Multisensory integration in Anopheles mosquito swarms: The role of visual and acoustic information in mate tracking and collision avoidance.
 38712186	Day 3 parasitemia and Plasmodium falciparum Kelch 13 mutations among uncomplicated malaria patients treated with artemether-lumefantrine in Adjumani district, Uganda.
 38712185	Quinoxaline-Based Anti-Schistosomal Compounds Have Potent Anti-Malarial Activity.
 38712121	Plasmodium knowlesi infection is associated with elevated circulating biomarkers of brain injury and endothelial activation.
@@ -9995,5 +9997,3 @@
 35357832	Autoxidation of a C2-Olefinated Dihydroartemisinic Acid Analogue to Form an Aromatic Ring: Application to Serrulatene Biosynthesis.
 35357277	Current status of experimental models for the study of malaria.
 35357271	Current status of 4-aminoquinoline resistance markers 18 years after cessation of chloroquine use for the treatment of uncomplicated falciparum malaria in the littoral coastline region of Cameroon.
-35357052	Pharmacological and molecular characterization of the A-type muscarinic acetylcholine receptor from Anopheles gambiae.
-35356662	Associations between women's empowerment, care seeking, and quality of malaria care for children: A cross-sectional analysis of demographic and health surveys in 16 sub-Saharan African countries.
