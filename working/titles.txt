@@ -1,3 +1,5 @@
+38771031	Antimalarial resistance risk in Mozambique detected by a novel quadruplex droplet digital PCR assay.
+38770814	Lessons learnt from daily oral PrEP delivery to inform national planning for PrEP ring introduction for women in low-income and middle-income countries: a qualitative inquiry of international stakeholders.
 38770342	A 3D organoid platform that supports liver-stage P.falciparum infection can be used to identify intrahepatic antimalarial drugs.
 38770341	Increasing the planting density of Cryptolepis sanguinolenta (Lindl.) Schlt increased root biomass and cryptolepine yield.
 38769632	Species Composition and Feeding Behaviors of Vector Mosquitoes of Avian Infectious Diseases at a Wild Bird Rehabilitation Facility in Japan.
@@ -9995,5 +9997,3 @@
 35358364	Anopheles gambiae strain (Ag55) cultured cells originated from Anopheles coluzzii and are phagocytic with hemocyte-like gene expression.
 35358236	Primary care physicians' knowledge of travel vaccine and malaria chemoprophylaxis and associated predictors in Qatar.
 35357832	Autoxidation of a C2-Olefinated Dihydroartemisinic Acid Analogue to Form an Aromatic Ring: Application to Serrulatene Biosynthesis.
-35357277	Current status of experimental models for the study of malaria.
-35357271	Current status of 4-aminoquinoline resistance markers 18 years after cessation of chloroquine use for the treatment of uncomplicated falciparum malaria in the littoral coastline region of Cameroon.
