@@ -1,3 +1,5 @@
+38768243	A digital microscope for the diagnosis of Plasmodium falciparum and Plasmodium vivax, including P. falciparum with hrp2/hrp3 deletion.
+38768107	Cost analyses for malaria molecular diagnosis for research planners in India and beyond.
 38767928	Biochemical, Bioinformatic, and Structural Comparisons of Transketolases and Position of Human Transketolase in the Enzyme Evolution.
 38766239	Diversity and selection analyses identify transmission-blocking antigens as the optimal vaccine candidates in Plasmodium falciparum.
 38765680	Detection of florfenicol resistance in opportunistic Acinetobacter spp. infections in rural Thailand.
@@ -9995,5 +9997,3 @@
 35356431	Editorial: Genetics of Apicomplexans and Apicomplexan-Related Parasitic Diseases.
 35355994	Plasmodium falciparum-Specific Memory B-Cell and Antibody Responses Are Associated With Immunity in Children Living in an Endemic Area of Kenya.
 35355692	Ultrasensitive molecular tests for Plasmodium detection: applicability in control and elimination programs and reference laboratories.
-35355096	Biotransformation of artemisinin to a novel derivative via ring rearrangement by Aspergillus niger.
-36445950	
