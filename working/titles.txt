@@ -1,3 +1,5 @@
+38772047	Towards development of new antimalarial compounds through in silico and in vitro assays.
+38771862	The politics and governance of drug production in public-private partnerships: Brazil's response to hepatitis C.
 38771031	Antimalarial resistance risk in Mozambique detected by a novel quadruplex droplet digital PCR assay.
 38770814	Lessons learnt from daily oral PrEP delivery to inform national planning for PrEP ring introduction for women in low-income and middle-income countries: a qualitative inquiry of international stakeholders.
 38770342	A 3D organoid platform that supports liver-stage P.falciparum infection can be used to identify intrahepatic antimalarial drugs.
@@ -86,6 +88,7 @@
 38743768	Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence.
 38742896	Safety, pharmacokinetics, and potential neurological interactions of ivermectin, tafenoquine, and chloroquine in Rhesus macaques.
 38742852	Correction: Chorismate synthase mediates cerebral malaria pathogenesis by eliciting salicylic acid-dependent autophagy response in parasite.
+30000766	Primaquine.
 38741893	Raising the bar: genus-specific nested PCR improves detection and lineage identification of avian haemosporidian parasites.
 38741399	Binary and ternary complex formation and characterization of artemisinin with sulfobutyl ether β-cyclodextrin and oleic acid.
 38741368	Correlates of Co-Infection with Coccidiosis and Avian Malaria in House Finches (Haemorhous mexicanus).
@@ -480,7 +483,6 @@
 38617559	Transforming the CRISPR/dCas9-based gene regulation technique into a forward screening tool in Plasmodium falciparum.
 38617306	A mechanism that transduces lysosomal damage signals to stress granule formation for cell survival.
 38615989	Malaria in travelers: Childhood vaccination and focus on endemic regions.
-30000766	Primaquine.
 38614930	Plasmodium ovale gametocytes in peripheral blood.
 38614635	Cooperation for malaria control and elimination in the Guiana Shield.
 38614624	Introduction and rollout of malaria vaccines in Cameroon and Burkina Faso: early lessons learned.
@@ -681,7 +683,7 @@
 38537686	Ultrasensitive malaria detection system for Anopheles mosquito field surveillance using droplet digital PCR.
 38537337	Design, synthesis and Anti-Plasmodial activity of Mortiamide-Lugdunin conjugates.
 38537135	First Report of White Mucus Disease Caused by Fuligo gyrosa on Agrocybe chaxingu in China.
-38537079	Amino acid supplementation confers protection to red blood cells prior to Plasmodium falciparum bystander stress.
+38537079	Amino acid supplementation confers protection to red blood cells before Plasmodium falciparum bystander stress.
 38537036	Characterisation of the merozoite thrombospondin related anonymous protein (MTRAP) of Plasmodium berghei as a transmission-blocking antigen.
 38536856	Factors associated with the uptake of intermittent preventive treatment for malaria during pregnancy in Cameroon: An analysis of data from the 2018 Cameroon Demographic and Health Survey.
 38536824	Copayment mechanism in selected districts of Uganda: Availability, market share and price of quality assured artemisinin-based combination therapies in private drug outlets.
@@ -9995,5 +9997,3 @@
 35359031	Synthesis, in silico docking studies, and antiplasmodial activity of hybrid molecules bearing 7-substituted 4-aminoquinoline moiety and cinnamic acid derivatives.
 35358721	Plasmodium malariae after successful treatment of P. falciparum malaria with artemether-lumefantrine.
 35358364	Anopheles gambiae strain (Ag55) cultured cells originated from Anopheles coluzzii and are phagocytic with hemocyte-like gene expression.
-35358236	Primary care physicians' knowledge of travel vaccine and malaria chemoprophylaxis and associated predictors in Qatar.
-35357832	Autoxidation of a C2-Olefinated Dihydroartemisinic Acid Analogue to Form an Aromatic Ring: Application to Serrulatene Biosynthesis.
