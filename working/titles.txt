@@ -1,3 +1,10 @@
+38773567	Field testing of user-friendly perennial malaria chemoprevention packaging in Benin, Côte d'Ivoire and Mozambique.
+38773528	Population pharmacokinetics of primaquine and its metabolites in African males.
+38773487	Considerations for first field trials of low-threshold gene drive for malaria vector control.
+38772359	Spatiotemporal Epidemiology of Malaria in India from 2007 to 2022.
+38772357	Malaria Transmission at The Zimbabwe-Mozambique Border: An Observational Study of Parasitemia by Travel History and Household Location.
+38773512	Assessment of environmental and spatial factors influencing the establishment of Anopheles gambiae larval habitats in the malaria endemic province of Woleu-Ntem, northern Gabon.
+38772937	A hybrid transmission model for Plasmodium vivax accounting for superinfection, immunity and the hypnozoite reservoir.
 38772047	Towards development of new antimalarial compounds through in silico and in vitro assays.
 38771862	The politics and governance of drug production in public-private partnerships: Brazil's response to hepatitis C.
 38771031	Antimalarial resistance risk in Mozambique detected by a novel quadruplex droplet digital PCR assay.
@@ -9990,10 +9997,3 @@
 35360788	Assessment of knowledge and their practices regarding malaria among members of Village Health Sanitation Committee in rural Uttar Pradesh: A cross-sectional study.
 35360675	Prevalence of Malaria and Associated Factors among Malaria-Suspected Patients Attending Hamusit Health Center, Northwest Ethiopia: A Cross-Sectional Study.
 35360190	Oral Administration of Piperine as Curative and Prophylaxis Reduces Parasitaemia in Plasmodium berghei ANKA-Infected Mice.
-35360189	Impact of Malaria Diagnostic Technologies on the Disease Burden in the Sub-Saharan Africa.
-35359831	Oral Lisinopril Raises Tissue Levels of ACE2, the SARS-CoV-2 Receptor, in Healthy Male and Female Mice.
-35359712	The Screen of a Phage Display Library Identifies a Peptide That Binds to the Surface of Trypanosoma cruzi Trypomastigotes and Impairs Their Infection of Mammalian Cells.
-37655172	Antioxidant content and activity of stem and leaf extracts of Gouania longipetala Hemsl. (Rhamnaceae).
-35359031	Synthesis, in silico docking studies, and antiplasmodial activity of hybrid molecules bearing 7-substituted 4-aminoquinoline moiety and cinnamic acid derivatives.
-35358721	Plasmodium malariae after successful treatment of P. falciparum malaria with artemether-lumefantrine.
-35358364	Anopheles gambiae strain (Ag55) cultured cells originated from Anopheles coluzzii and are phagocytic with hemocyte-like gene expression.
