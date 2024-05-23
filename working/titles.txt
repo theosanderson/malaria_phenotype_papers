@@ -1,7 +1,24 @@
+38779633	Risk factors associated with occurrence of placental malaria in a population of parturients in Abeokuta, Ogun State, Nigeria.
+38779632	Mosquito control via inbuilt net hoisting windows: the inverted S/O channel/grip device option.
+38779631	Modelling the impact of declining insecticide resistance with mosquito age on malaria transmission.
+38779630	Malaria epidemic outbreaks in the Democratic Republic of Congo, part I: cross-sectional survey in Mweka District.
+38779629	Willingness to accept malaria vaccine among caregivers of under-5 children in Ibadan North Local Government Area, Nigeria.
+38779628	Buthionine sulfoximine increases the efficacy of arteether antimalarial activity in arteether-resistant Plasmodium vinckei by glutathione depletion.
+38779627	Diversity, resistance and vector competence of endophilic anophelines from southern Ghana.
+38779626	Inhibitory effect of deltorphin-II on development of malaria in Plasmodium berghei-infected mice.
+38779625	Effect of the Affordable Medicines Facility for malaria (AMFm) on the availability of antimalarials in Nigeria.
+38779624	Knowledge and practice on malaria diagnosis and treatment among healthcare providers working in private health facilities in Ethiopia: A cross-sectional facility-based survey.
+38779623	Qualitative assessment of rural health workers' management of malaria in sick children.
+38779622	Assessment of competence of participants before and after 7-day intensive malaria microscopy training courses in Nigeria.
+38779621	Large-scale production of the malaria vector biocontrol agent Romanomermis iyengari (Nematoda: Mermithidae) in Benin, West Africa.
+38779248	Gaucher's Disease in an Adult Male: A Case Report of a Rare Mutation.
+38779142	Generation of specific immune memory by bacterial exposure in the major malaria vector Anopheles arabiensis (Diptera: Culicidae).
+38779045	Antenatal corticosteroids reduce neonatal mortality in settings without assisted ventilatory support: a retrospective cohort study of early preterm births on the Thailand-Myanmar border.
+38778463	Intradermal Lactate Monitoring Based on a Microneedle Sensor Patch for Enhanced In Vivo Accuracy.
+38778423	Complete series method (CSM): a convenient method to reduce daily heterogeneity when evaluating the regeneration time (RT) of insecticide-treated nets (ITNs).
 38778399	Can neonicotinoid and pyrrole insecticides manage malaria vector resistance in high pyrethroid resistance areas in Côte d'Ivoire?
 38778226	Household-level effects of seasonal malaria chemoprevention in the Gambia.
 38777279	Novel saturated 1,2,4-trioxanes and their antimalarial activity against multidrug resistant Plasmodium yoelii nigeriensis in Swiss mice model via oral route.
-38778423	Complete series method (CSM): a convenient method to reduce daily heterogeneity when evaluating the regeneration time (RT) of insecticide-treated nets (ITNs).
 38776349	Optimizing test and treat options for vivax malaria: An options assessment toolkit (OAT) for Asia Pacific national malaria control programs.
 38774844	Association between Elevated TNF-α Levels and Severe Malaria.
 38774541	The Nociceptive and Inflammatory Responses Induced by the Ehrlich Solid Tumor Are Changed in Mice Healed of Plasmodium berghei Strain ANKA Infection after Chloroquine Treatment.
@@ -9980,20 +9997,3 @@
 35368860	An ensemble-based approach for automated medical diagnosis of malaria using EfficientNet.
 35367761	Spiraea prunifolia leaves extract inhibits adipogenesis and lipogenesis by promoting β-oxidation in high fat diet-induced obese mice.
 35367704	Delineating charge and capacitance transduction in system-integrated graphene-based BioFETs used as aptasensors for malaria detection.
-35367585	A modified thin film method for large scale production of dimeric artesunate phospholipid liposomes and comparison with conventional approaches.
-35367383	Malaria surveillance system and Hospital Discharge Records: Assessing differences in Italy, 2011-2017 database analysis.
-35367364	Impact of COVID-19 and malaria coinfection on clinical outcomes: a retrospective cohort study.
-35367236	An innovative study design with intermittent dosing to generate a GLP-regulatory package in preclinical species for long lasting molecule M5717, inhibitor of Plasmodium eukaryotic translation elongation factor 2.
-35367213	The reciprocal influence of the liver and blood stages of the malaria parasite's life cycle.
-35366903	STRIVE PNG: using a partnership-based approach in implementation research to strengthen surveillance and health systems in Papua New Guinea.
-35366887	Could a culturally and age-appropriate song contribute towards malaria prevention in primary school learners?
-35366883	Accuracy of a rapid diagnosis test, microscopy and loop-mediated isothermal amplification in the detection of asymptomatic Plasmodium infections in Korhogo, Northern Côte d'Ivoire.
-35366882	Plasmodium falciparum multiplicity of infection and pregnancy outcomes in Congolese women from southern Brazzaville, Republic of Congo.
-35366878	Using the Ghana malaria indicator survey to understand the difference between female and male-headed households and their prevention and testing for malaria among children under 5.
-35366778	Knowlesi Malaria in Children.
-35366762	Ruthenium Metallotherapeutics: Novel Approaches to Combatting Parasitic Infections.
-35365711	Comparative analysis of targeted next-generation sequencing for Plasmodium falciparum drug resistance markers.
-35364056	Mathematical modelling to assess the feasibility of Wolbachia in malaria vector biocontrol.
-35363818	Validation of xMAP SARS-CoV-2 Multi-Antigen IgG assay in Nigeria.
-35362944	Listeria monocytogenes Inoculation Impedes the Development of Brain Pathology in Experimental Cerebral Malaria by Inhibition of Parasitemia.
-35362739	Prevalence and diversity of avian haemosporidian parasites across islands of Milne Bay Province, Papua New Guinea.
