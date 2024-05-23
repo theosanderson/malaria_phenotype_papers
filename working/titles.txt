@@ -1,7 +1,7 @@
-38778423	Complete series method (CSM): a convenient method to reduce daily heterogeneity when evaluating the regeneration time (RT) of insecticide-treated nets (ITNs).
 38778399	Can neonicotinoid and pyrrole insecticides manage malaria vector resistance in high pyrethroid resistance areas in Côte d'Ivoire?
 38778226	Household-level effects of seasonal malaria chemoprevention in the Gambia.
 38777279	Novel saturated 1,2,4-trioxanes and their antimalarial activity against multidrug resistant Plasmodium yoelii nigeriensis in Swiss mice model via oral route.
+38778423	Complete series method (CSM): a convenient method to reduce daily heterogeneity when evaluating the regeneration time (RT) of insecticide-treated nets (ITNs).
 38776349	Optimizing test and treat options for vivax malaria: An options assessment toolkit (OAT) for Asia Pacific national malaria control programs.
 38774844	Association between Elevated TNF-α Levels and Severe Malaria.
 38774541	The Nociceptive and Inflammatory Responses Induced by the Ehrlich Solid Tumor Are Changed in Mice Healed of Plasmodium berghei Strain ANKA Infection after Chloroquine Treatment.
