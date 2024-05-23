@@ -1,3 +1,4 @@
+38776349	Optimizing test and treat options for vivax malaria: An options assessment toolkit (OAT) for Asia Pacific national malaria control programs.
 38774844	Association between Elevated TNF-α Levels and Severe Malaria.
 38774541	The Nociceptive and Inflammatory Responses Induced by the Ehrlich Solid Tumor Are Changed in Mice Healed of Plasmodium berghei Strain ANKA Infection after Chloroquine Treatment.
 38774540	Prevalence of Malaria and Associated Factors during the Minor Malaria Season among Febrile Under-Five Children Attending Mohammed Akile Memorial General Hospital.
@@ -9996,4 +9997,3 @@
 35361660	The impact of war on the health system of the Tigray region in Ethiopia: a response to complaints.
 35361642	Predicting the impact of climate change on the re-emergence of malaria cases in China using LSTMSeq2Seq deep learning model: a modelling and prediction analysis study.
 35361266	Anopheles stephensi: a guest to watch in urban Africa.
-35361218	Zoonotic malaria transmission and land use change in Southeast Asia: what is known about the vectors.
