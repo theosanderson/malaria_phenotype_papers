@@ -1,3 +1,7 @@
+38778423	Complete series method (CSM): a convenient method to reduce daily heterogeneity when evaluating the regeneration time (RT) of insecticide-treated nets (ITNs).
+38778399	Can neonicotinoid and pyrrole insecticides manage malaria vector resistance in high pyrethroid resistance areas in Côte d'Ivoire?
+38778226	Household-level effects of seasonal malaria chemoprevention in the Gambia.
+38777279	Novel saturated 1,2,4-trioxanes and their antimalarial activity against multidrug resistant Plasmodium yoelii nigeriensis in Swiss mice model via oral route.
 38776349	Optimizing test and treat options for vivax malaria: An options assessment toolkit (OAT) for Asia Pacific national malaria control programs.
 38774844	Association between Elevated TNF-α Levels and Severe Malaria.
 38774541	The Nociceptive and Inflammatory Responses Induced by the Ehrlich Solid Tumor Are Changed in Mice Healed of Plasmodium berghei Strain ANKA Infection after Chloroquine Treatment.
@@ -9993,7 +9997,3 @@
 35363818	Validation of xMAP SARS-CoV-2 Multi-Antigen IgG assay in Nigeria.
 35362944	Listeria monocytogenes Inoculation Impedes the Development of Brain Pathology in Experimental Cerebral Malaria by Inhibition of Parasitemia.
 35362739	Prevalence and diversity of avian haemosporidian parasites across islands of Milne Bay Province, Papua New Guinea.
-35362462	Intraspecific morphological variation in myxosporeans: high pleomorphic myxospores in the same plasmodium of Myxobolus drjagini (Akhmerov, 1954).
-35361660	The impact of war on the health system of the Tigray region in Ethiopia: a response to complaints.
-35361642	Predicting the impact of climate change on the re-emergence of malaria cases in China using LSTMSeq2Seq deep learning model: a modelling and prediction analysis study.
-35361266	Anopheles stephensi: a guest to watch in urban Africa.
