@@ -1,3 +1,4 @@
+38781438	Micro-heterogeneity of transmission shapes submicroscopic malaria carriage in coastal Tanzania.
 38780838	Analysis of the interaction of antimalarial agents with Plasmodium falciparum glutathione reductase through molecular mechanical calculations.
 38780542	Basophil-Derived IL-4 and IL-13 Protect Intestinal Barrier Integrity and Control Bacterial Translocation during Malaria.
 38780257	In vitro interaction of naphthoquine with ivermectin, atovaquone, curcumin, and ketotifen in the asexual blood stage of Plasmodium falciparum 3D7.
@@ -9996,4 +9997,3 @@
 35366887	Could a culturally and age-appropriate song contribute towards malaria prevention in primary school learners?
 35366883	Accuracy of a rapid diagnosis test, microscopy and loop-mediated isothermal amplification in the detection of asymptomatic Plasmodium infections in Korhogo, Northern Côte d'Ivoire.
 35366882	Plasmodium falciparum multiplicity of infection and pregnancy outcomes in Congolese women from southern Brazzaville, Republic of Congo.
-35366878	Using the Ghana malaria indicator survey to understand the difference between female and male-headed households and their prevention and testing for malaria among children under 5.
