@@ -1,3 +1,14 @@
+38787552	Monoclonal Antibody Protected Majority of Children From Malaria.
+38787430	Ivermectin resistance mechanisms in ectoparasites: a scoping review.
+38787228	Involvement of Inflammatory Cytokines, Renal NaPi-IIa Cotransporter, and TRAIL Induced-Apoptosis in Experimental Malaria-Associated Acute Kidney Injury.
+38787045	Malaria during COVID-19 Travel Restrictions in Makkah, Saudi Arabia.
+38787035	Genetic Structure of Introduced Plasmodium vivax Malaria Isolates in Greece, 2015-2019.
+38787029	Prevalence and Determinants of Undernutrition in Schoolchildren in the Kilombero District, South-Eastern Tanzania.
+38787027	Low Genetic Diversity of Plasmodium vivax Circumsporozoite Surface Protein in Clinical Isolates from Southern Thailand.
+38787026	Evaluation of Segmentation, Rotation, and Geographic Delivery Approaches for Deployment of Multiple First-Line Treatment (MFT) to Respond to Antimalarial Drug Resistance in Africa: A Qualitative Study in Seven Sub-Sahara Countries.
+38787025	Prevention of Malaria in Pregnant Women and Its Effects on Maternal and Child Health, the Case of Centre Hospitalier de Kingasani II in the Democratic Republic of the Congo.
+38786868	Two Nested Inversions in the X Chromosome Differentiate the Dominant Malaria Vectors in Europe, Anopheles atroparvus and Anopheles messeae.
+38785610	Stochastic Compartment Model with Mortality and Its Application to Epidemic Spreading in Complex Networks.
 38784596	Investing in health preparedness, response and resilience: a genomics costing tool focused on next generation sequencing.
 38784501	Assessment of Liver Antioxidant Profile in Plasmodium Berghei Infected Mice Treated with Curative Ethanol Leaf extract of Musa paradisiaca.
 38784487	Assessment of Epidemiological Indicators for Evaluation of National Malaria Elimination Programme: A Retrospective Study.
@@ -3128,7 +3139,7 @@
 37711279	Distribution of mosquitoes (Diptera: Culicidae) in Thailand: a ﻿dataset.
 37711239	Molecular markers associated with drug resistance in Plasmodium falciparum parasites in central Africa between 2016 and 2021.
 37711230	Transcriptomic approaches for identifying potential transmission blocking vaccine candidates in Plasmodium falciparum: a review of current knowledge and future directions.
-37711130	Three decades targeting falcipains to develop antiplasmodial agents: what have we learned and what can be done next?
+37711130	Three Decades of Targeting Falcipains to Develop Antiplasmodial Agents: What have we Learned and What can be Done Next?
 37711006	Traditional uses, Phytochemistry, Pharmacology, and Toxicology of the Genus Artemisia L. (Asteraceae): A High-value Medicinal Plant.
 37710323	Surveillance of wild animals carrying infectious agents based on high-throughput screening platform in the Republic of Korea.
 37710288	The temporal dynamics of Plasmodium species infection after artemisinin-based combination therapy (ACT) among asymptomatic children in the Hohoe municipality, Ghana.
@@ -9986,14 +9997,3 @@
 35379070	Tafenoquine for the treatment of Plasmodium vivax malaria.
 35378510	Active Engagement of Private Healthcare Providers Is Needed to Propel Malaria Elimination in India.
 35378134	Antiplasmodial activity of alkaloids from Croton linearis leaves.
-35377914	High-resolution structures of malaria parasite actomyosin and actin filaments.
-35377897	Development of the Sterile Insect Technique to control the dengue vector Aedes aegypti (Linnaeus) in Sri Lanka.
-35377125	Intelligent modeling of dye removal by aluminized activated carbon.
-35373382	Beta-thalassemia and the advent of new interventions beyond transfusion and iron chelation.
-35373072	Evidence for SARS-CoV-2 Spike Protein in the Urine of COVID-19 Patients.
-35372813	Optimizing bulk segregant analysis of drug resistance using Plasmodium falciparum genetic crosses conducted in humanized mice.
-35372211	Spoligotyping of Clinical Isolates of Mycobacterium tuberculosis Complex Species in the Oromia Region of Ethiopia.
-35372095	Synthetic Red Blood Cell-Specific Glycolytic Intermediate 2,3-Diphosphoglycerate (2,3-DPG) Inhibits Plasmodium falciparum Development In Vitro.
-35371564	Plasmodium falciparum Clinical Isolates Reveal Analogous Circulation of 3D7 and FC27 Allelic Variants and Multiplicity of Infection in Urban and Rural Settings: The Case of Adama and Its Surroundings, Oromia, Ethiopia.
-35371267	Prevalence and Associated Factors of Malaria Infection among Outpatients Visiting Shewa Robit Health Center, Northcentral Ethiopia.
-35370717	Transporter-Mediated Solutes Uptake as Drug Target in Plasmodium falciparum.
