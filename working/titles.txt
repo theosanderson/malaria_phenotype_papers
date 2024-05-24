@@ -1,13 +1,18 @@
+38784596	Investing in health preparedness, response and resilience: a genomics costing tool focused on next generation sequencing.
+38784501	Assessment of Liver Antioxidant Profile in Plasmodium Berghei Infected Mice Treated with Curative Ethanol Leaf extract of Musa paradisiaca.
+38784487	Assessment of Epidemiological Indicators for Evaluation of National Malaria Elimination Programme: A Retrospective Study.
+38784252	Trends of malaria cases (plasmodium species) in Gute Health Center, Wayu Tuka District, East Wollega Zone, (2013-2022): A cross-sectional study.
+38783391	Structure of an internal loop motif with three consecutive U•U mismatches from stem-loop 1 in the 3'-UTR of the SARS-CoV-2 genomic RNA.
 38783378	Geography and health: role of human translocation and access to care.
-38782110	Avian haemosporidian parasites from wild-caught mosquitoes with new evidence on vectors of Plasmodium matutinum.
-38781994	[The new guideline for gastrointestinal infections].
-38781850	Dissimilar effect of organometallic ruthenium complexes on the viability of MDR and non-MDR experimental models.
 38783374	Malaria epidemiology, surveillance and response for elimination in Lao PDR.
 38783366	The influence of oviposition status on measures of transmission potential in malaria-infected mosquitoes depends on sugar availability.
 38783349	A proposed One Health approach to control yellow fever outbreaks in Uganda.
 38783348	The behaviour of adult Anopheles gambiae, sub-Saharan Africa's principal malaria vector, and its relevance to malaria control: a review.
 38783318	Towards malaria elimination: a reflection about digital notification modules to improve malaria cases notification speed and follow-up in the Brazilian Amazon region.
 38783317	Evaluation of naturally acquired immune responses against novel pre-erythrocytic Plasmodium vivax proteins in a low endemic malaria population located in the Peruvian Amazon Basin.
+38782110	Avian haemosporidian parasites from wild-caught mosquitoes with new evidence on vectors of Plasmodium matutinum.
+38781994	[The new guideline for gastrointestinal infections].
+38781850	Dissimilar effect of organometallic ruthenium complexes on the viability of MDR and non-MDR experimental models.
 38781438	Micro-heterogeneity of transmission shapes submicroscopic malaria carriage in coastal Tanzania.
 38780838	Analysis of the interaction of antimalarial agents with Plasmodium falciparum glutathione reductase through molecular mechanical calculations.
 38780542	Basophil-Derived IL-4 and IL-13 Protect Intestinal Barrier Integrity and Control Bacterial Translocation during Malaria.
@@ -9992,8 +9997,3 @@
 35371564	Plasmodium falciparum Clinical Isolates Reveal Analogous Circulation of 3D7 and FC27 Allelic Variants and Multiplicity of Infection in Urban and Rural Settings: The Case of Adama and Its Surroundings, Oromia, Ethiopia.
 35371267	Prevalence and Associated Factors of Malaria Infection among Outpatients Visiting Shewa Robit Health Center, Northcentral Ethiopia.
 35370717	Transporter-Mediated Solutes Uptake as Drug Target in Plasmodium falciparum.
-35370639	Major Constituents From Brucea javanica and Their Pharmacological Actions.
-35370434	Liver Enzymes and Lipid Profile of Malaria Patients Before and After Antimalarial Drug Treatment at Dembia Primary Hospital and Teda Health Center, Northwest, Ethiopia.
-35369725	CORRIGENDUM to Developing a Predictive Model for Plasmodium Knowlesi Susceptible Area in Malaysia Using Geospatial Data and Artificial Neural Network.
-35368860	An ensemble-based approach for automated medical diagnosis of malaria using EfficientNet.
-35367761	Spiraea prunifolia leaves extract inhibits adipogenesis and lipogenesis by promoting β-oxidation in high fat diet-induced obese mice.
