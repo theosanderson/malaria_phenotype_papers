@@ -1,3 +1,13 @@
+38783378	Geography and health: role of human translocation and access to care.
+38783374	Malaria epidemiology, surveillance and response for elimination in Lao PDR.
+38783366	The influence of oviposition status on measures of transmission potential in malaria-infected mosquitoes depends on sugar availability.
+38783349	A proposed One Health approach to control yellow fever outbreaks in Uganda.
+38783348	The behaviour of adult Anopheles gambiae, sub-Saharan Africa's principal malaria vector, and its relevance to malaria control: a review.
+38783318	Towards malaria elimination: a reflection about digital notification modules to improve malaria cases notification speed and follow-up in the Brazilian Amazon region.
+38783317	Evaluation of naturally acquired immune responses against novel pre-erythrocytic Plasmodium vivax proteins in a low endemic malaria population located in the Peruvian Amazon Basin.
+38782110	Avian haemosporidian parasites from wild-caught mosquitoes with new evidence on vectors of Plasmodium matutinum.
+38781994	[The new guideline for gastrointestinal infections].
+38781850	Dissimilar effect of organometallic ruthenium complexes on the viability of MDR and non-MDR experimental models.
 38781438	Micro-heterogeneity of transmission shapes submicroscopic malaria carriage in coastal Tanzania.
 38780838	Analysis of the interaction of antimalarial agents with Plasmodium falciparum glutathione reductase through molecular mechanical calculations.
 38780542	Basophil-Derived IL-4 and IL-13 Protect Intestinal Barrier Integrity and Control Bacterial Translocation during Malaria.
@@ -9987,13 +9997,3 @@
 35369725	CORRIGENDUM to Developing a Predictive Model for Plasmodium Knowlesi Susceptible Area in Malaysia Using Geospatial Data and Artificial Neural Network.
 35368860	An ensemble-based approach for automated medical diagnosis of malaria using EfficientNet.
 35367761	Spiraea prunifolia leaves extract inhibits adipogenesis and lipogenesis by promoting β-oxidation in high fat diet-induced obese mice.
-35367704	Delineating charge and capacitance transduction in system-integrated graphene-based BioFETs used as aptasensors for malaria detection.
-35367585	A modified thin film method for large scale production of dimeric artesunate phospholipid liposomes and comparison with conventional approaches.
-35367383	Malaria surveillance system and Hospital Discharge Records: Assessing differences in Italy, 2011-2017 database analysis.
-35367364	Impact of COVID-19 and malaria coinfection on clinical outcomes: a retrospective cohort study.
-35367236	An innovative study design with intermittent dosing to generate a GLP-regulatory package in preclinical species for long lasting molecule M5717, inhibitor of Plasmodium eukaryotic translation elongation factor 2.
-35367213	The reciprocal influence of the liver and blood stages of the malaria parasite's life cycle.
-35366903	STRIVE PNG: using a partnership-based approach in implementation research to strengthen surveillance and health systems in Papua New Guinea.
-35366887	Could a culturally and age-appropriate song contribute towards malaria prevention in primary school learners?
-35366883	Accuracy of a rapid diagnosis test, microscopy and loop-mediated isothermal amplification in the detection of asymptomatic Plasmodium infections in Korhogo, Northern Côte d'Ivoire.
-35366882	Plasmodium falciparum multiplicity of infection and pregnancy outcomes in Congolese women from southern Brazzaville, Republic of Congo.
