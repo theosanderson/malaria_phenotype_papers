@@ -1,13 +1,13 @@
 38783378	Geography and health: role of human translocation and access to care.
+38782110	Avian haemosporidian parasites from wild-caught mosquitoes with new evidence on vectors of Plasmodium matutinum.
+38781994	[The new guideline for gastrointestinal infections].
+38781850	Dissimilar effect of organometallic ruthenium complexes on the viability of MDR and non-MDR experimental models.
 38783374	Malaria epidemiology, surveillance and response for elimination in Lao PDR.
 38783366	The influence of oviposition status on measures of transmission potential in malaria-infected mosquitoes depends on sugar availability.
 38783349	A proposed One Health approach to control yellow fever outbreaks in Uganda.
 38783348	The behaviour of adult Anopheles gambiae, sub-Saharan Africa's principal malaria vector, and its relevance to malaria control: a review.
 38783318	Towards malaria elimination: a reflection about digital notification modules to improve malaria cases notification speed and follow-up in the Brazilian Amazon region.
 38783317	Evaluation of naturally acquired immune responses against novel pre-erythrocytic Plasmodium vivax proteins in a low endemic malaria population located in the Peruvian Amazon Basin.
-38782110	Avian haemosporidian parasites from wild-caught mosquitoes with new evidence on vectors of Plasmodium matutinum.
-38781994	[The new guideline for gastrointestinal infections].
-38781850	Dissimilar effect of organometallic ruthenium complexes on the viability of MDR and non-MDR experimental models.
 38781438	Micro-heterogeneity of transmission shapes submicroscopic malaria carriage in coastal Tanzania.
 38780838	Analysis of the interaction of antimalarial agents with Plasmodium falciparum glutathione reductase through molecular mechanical calculations.
 38780542	Basophil-Derived IL-4 and IL-13 Protect Intestinal Barrier Integrity and Control Bacterial Translocation during Malaria.
