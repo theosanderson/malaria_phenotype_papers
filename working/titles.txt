@@ -1,3 +1,7 @@
+38790075	Critical insights on "Association of the C allele of rs479200 in the EGLN1 gene with COVID‑19 severity in Indian population: a novel finding".
+38789998	Identifying suitable methods for evaluating the sterilizing effects of pyriproxyfen on adult malaria vectors: a comparison of the oviposition and ovary dissection methods.
+38788711	Breadth of Fc-mediated effector function correlates with clinical immunity following human malaria challenge.
+38788364	Exploring the unexplored chemical space: Rational identification of new Tafenoquine analogs with antimalarial properties.
 38787552	Monoclonal Antibody Protected Majority of Children From Malaria.
 38787430	Ivermectin resistance mechanisms in ectoparasites: a scoping review.
 38787228	Involvement of Inflammatory Cytokines, Renal NaPi-IIa Cotransporter, and TRAIL Induced-Apoptosis in Experimental Malaria-Associated Acute Kidney Injury.
@@ -1125,6 +1129,7 @@
 38402756	Clinical description of dengue and chikungunya virus infections amongst acute febrile patients in a malaria endemic area of Mfou, the Centre region of Cameroon.
 38401759	A malaria elimination milestone reached on Mayotte Island.
 38401561	Climate change recognised in World malaria report 2023.
+38401553	Is the next generation of mosquito nets surviving expectations?
 38401551	Effectiveness of pyriproxyfen-pyrethroid and chlorfenapyr-pyrethroid long-lasting insecticidal nets (LLINs) compared with pyrethroid-only LLINs for malaria control in the third year post-distribution: a secondary analysis of a cluster-randomised controlled trial in Benin.
 38400193	Long-Term Clinical Safety of the Ad26.ZEBOV and MVA-BN-Filo Ebola Vaccines: A Prospective, Multi-Country, Observational Study.
 38400191	IgG Subclass Switch in Volunteers Repeatedly Immunized with the Full-Length Plasmodium falciparum Merozoite Surface Protein 1 (MSP1).
@@ -9992,8 +9997,3 @@
 35380173	Challenges in the diagnosis and treatment of malaria in Polish workers returning from Africa: a case series and review of literature.
 35379881	Sand flies: Basic information on the vectors of leishmaniasis and their interactions with Leishmania parasites.
 35379692	Influence of placental and peripheral malaria exposure in fetal life on cardiometabolic traits in adult offspring.
-35379302	The Mirasol Evaluation of Reduction in Infections Trial (MERIT): study protocol for a randomized controlled clinical trial.
-35379236	ICAM-1 (Kilifi) variant is not associated with cerebral and severe malaria pathogenesis in Beninese children.
-35379070	Tafenoquine for the treatment of Plasmodium vivax malaria.
-35378510	Active Engagement of Private Healthcare Providers Is Needed to Propel Malaria Elimination in India.
-35378134	Antiplasmodial activity of alkaloids from Croton linearis leaves.
