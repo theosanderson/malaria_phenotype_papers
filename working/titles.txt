@@ -1,3 +1,16 @@
+38794125	Global Health Priority Box: Discovering Flucofuron as a Promising Antikinetoplastid Compound.
+38794040	On-Chip Impedance Spectroscopy of Malaria-Infected Red Blood Cells.
+38793797	A Self-Assembling Pfs230D1-Ferritin Nanoparticle Vaccine Has Potent and Durable Malaria Transmission-Reducing Activity.
+38793735	Targeting Plasmodium Life Cycle with Novel Parasite Ligands as Vaccine Antigens.
+38793606	Hepatitis B Virus Infection: A Mini Review.
+38792756	Malian Children's Core Gut Mycobiome.
+38792706	Characterization of Escherichia coli Strains for Novel Production of Plasmodium ovale Lactate Dehydrogenase.
+38792677	Evaluation of the Increased Genetic Resolution and Utility for Source Tracking of a Recently Developed Method for Genotyping Cyclospora cayetanensis.
+38792178	Antimalarial Activity of Aqueous Extracts of Nasturtium (Tropaeolum majus L.) and Benzyl Isothiocyanate.
+38791859	The Intersection of a Child's Demographics and Household Socioeconomic Status in the Multimorbidity of Malaria, Anaemia, and Malnutrition among Children Aged 6-59 Months in Nigeria.
+38791790	Landscape and Socioeconomic Factors Determine Malaria Incidence in Tropical Forest Countries.
+38791773	The Impact of Climatic Factors on Temporal Mosquito Distribution and Population Dynamics in an Area Targeted for Sterile Insect Technique Pilot Trials.
+38791567	Peptides with Antimicrobial Activity in the Saliva of the Malaria Vector Anopheles coluzzii.
 38790075	Critical insights on "Association of the C allele of rs479200 in the EGLN1 gene with COVID‑19 severity in Indian population: a novel finding".
 38789998	Identifying suitable methods for evaluating the sterilizing effects of pyriproxyfen on adult malaria vectors: a comparison of the oviposition and ovary dissection methods.
 38788711	Breadth of Fc-mediated effector function correlates with clinical immunity following human malaria challenge.
@@ -9984,16 +9997,3 @@
 35382261	Imported malaria in adults: about a case of cerebral malaria.
 35381830	Co-distribution of dengue and Chikungunya viruses in Aedes mosquitoes of Delhi, India.
 35381828	Insecticide susceptibility status of malaria vectors, Anopheles culicifacies, Anopheles fluviatilis and Anopheles minimus in the tribal districts of Jharkhand state of India.
-35381821	Scrub typhus: An under-reported and emerging threat - hospital based study from central and eastern Uttar Pradesh, India.
-35381820	Current status of malaria elimination in Koraput district of Odisha, India.
-35381819	Malaria parasite density and plasma apolipoprotein A1 in symptomatic and asymptomatic infections in Nigerian children.
-35381818	Mobile app based pictorial identification key for Indian anophelines.
-35381467	Environmental determinants of Kaposi's sarcoma-associated herpesvirus (KSHV) transmission in rural Uganda (ENDKU study): Contributions to research on KSHV infection and reactivation in African children; A longitudinal cohort study.
-35381398	NIR-responsive polydopamine-based calcium carbonate hybrid nanoparticles delivering artesunate for cancer chemo-photothermal therapy.
-35381308	Ethyl acetate fraction of Fagara zanthoxyloides root-bark possess antidiabetic property against alloxan-induced diabetes and its complications in Wistar rat model.
-35380754	Malaria Parasitaemia and its Associated Factors among Febrile Children in a Tertiary Hospital in Southwest Nigeria.
-35380684	A Cohort Study on the Duration of Plasmodium falciparum Infections During the Dry Season in The Gambia.
-35380576	A star shaped acoustofluidic mixer enhances rapid malaria diagnostics via cell lysis and whole blood homogenisation in 2 seconds.
-35380173	Challenges in the diagnosis and treatment of malaria in Polish workers returning from Africa: a case series and review of literature.
-35379881	Sand flies: Basic information on the vectors of leishmaniasis and their interactions with Leishmania parasites.
-35379692	Influence of placental and peripheral malaria exposure in fetal life on cardiometabolic traits in adult offspring.
