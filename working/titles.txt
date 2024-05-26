@@ -1,3 +1,4 @@
+38795212	Swertiamarin relieves radiation-induced intestinal injury by limiting DNA damage.
 38794125	Global Health Priority Box: Discovering Flucofuron as a Promising Antikinetoplastid Compound.
 38794040	On-Chip Impedance Spectroscopy of Malaria-Infected Red Blood Cells.
 38793797	A Self-Assembling Pfs230D1-Ferritin Nanoparticle Vaccine Has Potent and Durable Malaria Transmission-Reducing Activity.
@@ -9996,4 +9997,3 @@
 35382719	Exploring the Role of Antioxidants to Combat Oxidative Stress in Malaria Parasites.
 35382261	Imported malaria in adults: about a case of cerebral malaria.
 35381830	Co-distribution of dengue and Chikungunya viruses in Aedes mosquitoes of Delhi, India.
-35381828	Insecticide susceptibility status of malaria vectors, Anopheles culicifacies, Anopheles fluviatilis and Anopheles minimus in the tribal districts of Jharkhand state of India.
