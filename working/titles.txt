@@ -1,3 +1,6 @@
+38796689	Reasons for mosquito net non-use in malaria-endemic countries: A review of qualitative research published between 2011 and 2021.
+38796659	Cost-Effectiveness of Test-and-Treat Strategies to Reduce the Antibiotic Prescription Rate for Acute Febrile Illness in Primary Healthcare Clinics in Africa.
+38796456	Insecticide susceptibility status of Anopheles albimanus populations in historical malaria foci in Quintana Roo, Mexico.
 38795212	Swertiamarin relieves radiation-induced intestinal injury by limiting DNA damage.
 38794125	Global Health Priority Box: Discovering Flucofuron as a Promising Antikinetoplastid Compound.
 38794040	On-Chip Impedance Spectroscopy of Malaria-Infected Red Blood Cells.
@@ -9994,6 +9997,3 @@
 35382896	Reaching the malaria elimination goal in Brazil: a spatial analysis and time-series study.
 35382858	Evaluation of the protective efficacy of a spatial repellent to reduce malaria incidence in children in western Kenya compared to placebo: study protocol for a cluster-randomized double-blinded control trial (the AEGIS program).
 35382856	Evaluation of the protective efficacy of a spatial repellent to reduce malaria incidence in children in Mali compared to placebo: study protocol for a cluster-randomized double-blinded control trial (the AEGIS program).
-35382719	Exploring the Role of Antioxidants to Combat Oxidative Stress in Malaria Parasites.
-35382261	Imported malaria in adults: about a case of cerebral malaria.
-35381830	Co-distribution of dengue and Chikungunya viruses in Aedes mosquitoes of Delhi, India.
