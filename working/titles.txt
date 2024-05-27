@@ -1,5 +1,15 @@
-38797552	Exploring malaria parasite surface proteins to devise highly immunogenic multi-epitope subunit vaccine for Plasmodium falciparum.
+38800690	Low prevalence of viable Toxoplasma gondii in fresh, unfrozen American pasture-raised pork and lamb from retail meat stores in the United States.
+38800144	Malaria Parasitemia and Severe Health Complications in Children Under Five Years of Age in Nigeria: A Study Using the Demographic and Health Survey (DHS) Malaria Indicator Survey (MIS) 2021.
+38799614	Intermittent preventive treatment for forest goers by forest malaria workers: an observational study on a key intervention for malaria elimination in Cambodia.
+38799187	HIV prevalence and associated factors among married women, Mozambique, 2015: analysis of the 2015 National AIDS Indicator Survey (IMASIDA).
+38798832	Effect of moringa extract on parasitemia, monocyte activation and organomegaly among Mus musculus infected by Plasmodium berghei ANKA.
+38798622	Circadian rhythms mediate malaria transmission potential.
+38798500	Placental Malaria Induces a Unique Placental Methylation Profile Associated with Fetal Growth Restriction.
+38798484	Unraveling mechanisms of iron acquisition in malaria parasites.
+38798379	Genomic Signatures of Microgeographic Adaptation in Anopheles coluzzii Along an Anthropogenic Gradient in Gabon.
+38798324	Phenotype and function of IL-10 producing NK cells in individuals with malaria experience.
 38797655	Murine model captures evolution of edema in experimental cerebral malaria.
+38797552	Exploring malaria parasite surface proteins to devise highly immunogenic multi-epitope subunit vaccine for Plasmodium falciparum.
 38796689	Reasons for mosquito net non-use in malaria-endemic countries: A review of qualitative research published between 2011 and 2021.
 38796659	Cost-Effectiveness of Test-and-Treat Strategies to Reduce the Antibiotic Prescription Rate for Acute Febrile Illness in Primary Healthcare Clinics in Africa.
 38796456	Insecticide susceptibility status of Anopheles albimanus populations in historical malaria foci in Quintana Roo, Mexico.
@@ -9987,13 +9997,3 @@
 35387497	Development of a Bead-Based Multiplex Assay for Use in Multianalyte Screening and Surveillance of HIV, Viral Hepatitis, Syphilis, and Herpes.
 35387278	Genetic Diversity, Repeat Motifs, and Natural Selection at the C-Terminal Knob-Associated Histidine Rich Protein (KAHRP) of Plasmodium falciparum Clinical Samples from Saudi Arabia.
 35386659	Mapping Allergic Diseases in Sub-Saharan Africa.
-35386555	Normalizing the political economy of improving health.
-35385811	Clinical accuracy of malaria loop-mediated isothermal amplification assay as a stand-alone screening tool at a non-endemic Northern California regional health system.
-35385578	Immune Response to LinB13, a Lutzomyia Intermedia Salivary Protein Correlates With Disease Severity in Tegumentary Leishmaniasis.
-35385300	Hypothyroidism confers tolerance to cerebral malaria.
-35385211	Adsorption to the Surface of Hemozoin Crystals: Structure-Based Design and Synthesis of Amino-Phenoxazine β-Hematin Inhibitors.
-35385146	Robust inactivation of Plasmodium falciparum in red blood cell concentrates using amustaline and glutathione pathogen reduction.
-35384960	Malaria at international borders: challenges for elimination on the remote Brazil-Peru border.
-35384956	Silent circulation of Chikungunya virus among pregnant women and newborns in the Western Brazilian Amazon before the first outbreak of chikungunya fever.
-35383257	Positron emission tomography and magnetic resonance imaging of the brain in experimental human malaria, a prospective cohort study.
-35382896	Reaching the malaria elimination goal in Brazil: a spatial analysis and time-series study.
