@@ -1,3 +1,7 @@
+38802961	Plasmodium vivax tryptophan-rich antigen reduces type I collagen secretion via the NF-κBp65 pathway in splenic fibroblasts.
+38802937	Size-dependent enhancement of gene expression by Plasmodium 5'UTR introns.
+38802531	Mechanism of complement inhibition by a mosquito protein revealed through cryo-EM.
+38802488	Reagent-free detection of Plasmodium falciparum malaria infections in field-collected mosquitoes using mid-infrared spectroscopy and machine learning.
 38801767	Modeling the Regional Distribution of International Travelers in Spain to Estimate Imported Cases of Dengue and Malaria: Statistical Inference and Validation Study.
 38801202	The effect of larval exposure to acids and detergents on the life history of the major malaria vector Anopheles arabiensis Patton (Diptera: Culicidae).
 38800144	Malaria Parasitemia and Severe Health Complications in Children Under Five Years of Age in Nigeria: A Study Using the Demographic and Health Survey (DHS) Malaria Indicator Survey (MIS) 2021.
@@ -9993,7 +9997,3 @@
 35388499	The antimalarial activity of 1,2,4-trioxolane/trioxane hybrids and dimers: A review.
 35388371	Exploring predictive frameworks for malaria in Burundi.
 35388127	Deletions of the Plasmodium falciparum histidine-rich protein 2/3 genes are common in field isolates from north-eastern Tanzania.
-35388073	Myzorhynchus series of Anopheles mosquitoes as potential vectors of Plasmodium bubalis in Thailand.
-35387986	Zoonotic origin of the human malaria parasite Plasmodium malariae from African apes.
-35387497	Development of a Bead-Based Multiplex Assay for Use in Multianalyte Screening and Surveillance of HIV, Viral Hepatitis, Syphilis, and Herpes.
-35387278	Genetic Diversity, Repeat Motifs, and Natural Selection at the C-Terminal Knob-Associated Histidine Rich Protein (KAHRP) of Plasmodium falciparum Clinical Samples from Saudi Arabia.
