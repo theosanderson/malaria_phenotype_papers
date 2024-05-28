@@ -1,3 +1,6 @@
+38804866	Anti-inflammatory and immunomodulatory effects of mesenchymal stem cell therapy on parasitic drug resistance.
+38804698	Spliced-Leader RNA as a Dynamic Marker for Monitoring Viable Leishmania Parasites During and After Treatment.
+38804510	Red-Cell Rosette Formation in Malaria.
 38803222	Full-length MSP1 is a major target of protective immunity after controlled human malaria infection.
 38802961	Plasmodium vivax tryptophan-rich antigen reduces type I collagen secretion via the NF-κBp65 pathway in splenic fibroblasts.
 38802937	Size-dependent enhancement of gene expression by Plasmodium 5'UTR introns.
@@ -4210,7 +4213,7 @@
 37367359	Effects of Temperature and Nutrition during the Larval Period on Life History Traits in an Invasive Malaria Vector Anopheles stephensi.
 37366629	Nonsense-mediated decay machinery in Plasmodium falciparum is inefficient and non-essential.
 37366613	SHIP1 modulates antimalarial immunity by bridging the crosstalk between type I IFN signaling and autophagy.
-37365785	﻿Virtual screening of flavonoids against Plasmodium vivax Duffy binding protein utilizing molecular docking and molecular dynamic simulation.
+37365785	Virtual Screening of Flavonoids against Plasmodium vivax Duffy Binding Protein Utilizing Molecular Docking and Molecular Dynamic Simulation.
 37365602	Predictors of mosquito bed net use among children under-fives in Ghana: a multilevel analysis of the 2019 malaria indicator survey.
 37365595	Comparing field-collected versus remotely-sensed variables to model malaria risk in the highlands of western Uganda.
 37365258	Fetal sex and risk of pregnancy-associated malaria in Plasmodium falciparum-endemic regions: a meta-analysis.
@@ -9994,6 +9997,3 @@
 35388913	Life-history attributes of juvenile Anopheles gambiae s.s. in central Uganda; implications for malaria control interventions.
 35388763	Co-infections of Schistosoma spp. and Malaria with Hepatitis Viruses from Endemic Countries: A Systematic Review and Meta-Analysis.
 35388683	Evidence of Artemisinin-Resistant Malaria in Africa. Reply.
-35388682	Evidence of Artemisinin-Resistant Malaria in Africa.
-35388499	The antimalarial activity of 1,2,4-trioxolane/trioxane hybrids and dimers: A review.
-35388371	Exploring predictive frameworks for malaria in Burundi.
