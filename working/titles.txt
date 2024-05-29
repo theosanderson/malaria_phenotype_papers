@@ -1,3 +1,5 @@
+38805562	MGDrivE 3: A decoupled vector-human framework for epidemiological simulation of mosquito genetic control tools and their surveillance.
+38805442	Entomological assessment of hessian fabric transfluthrin vapour emanators as a means to protect against outdoor-biting Aedes after providing them to households for routine use in Port-au-Prince, Haiti.
 38804866	Anti-inflammatory and immunomodulatory effects of mesenchymal stem cell therapy on parasitic drug resistance.
 38804698	Spliced-Leader RNA as a Dynamic Marker for Monitoring Viable Leishmania Parasites During and After Treatment.
 38804510	Red-Cell Rosette Formation in Malaria.
@@ -9995,5 +9997,3 @@
 35389486	Fitness Cost of Sequential Selection with Deltamethrin in Aedes aegypti (Diptera: Culicidae).
 35389376	Associations Between Mobility, Food Insecurity, and Transactional Sex Among Women in Cohabitating Partnerships: An Analysis From 6 African Countries 2016-2017.
 35388913	Life-history attributes of juvenile Anopheles gambiae s.s. in central Uganda; implications for malaria control interventions.
-35388763	Co-infections of Schistosoma spp. and Malaria with Hepatitis Viruses from Endemic Countries: A Systematic Review and Meta-Analysis.
-35388683	Evidence of Artemisinin-Resistant Malaria in Africa. Reply.
