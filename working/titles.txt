@@ -1,10 +1,13 @@
+38808064	Plasmodium falciparum AMA1 and CSP antigen diversity in parasite isolates from southern Ghana.
+38807754	Trimethoprim-Sulfamethoxazole Plus Azithromycin to Prevent Malaria and Sexually Transmitted Infections in Pregnant Women With HIV (PREMISE): A Randomized, Double-Masked, Placebo-Controlled, Phase IIB Clinical Trial.
+38807609	Corrigendum to "Discovery of small molecules through pharmacophore modeling, docking and molecular dynamics simulation against Plasmodium vivax Vivapain-3 (VP-3)" [Heliyon 4(5), May 2018, Article e00612].
+38807175	Ownership and use of insecticide-treated nets in Myanmar: insights from a nationally representative demographic and health survey.
 38807105	Forest cover percentage drives the peak biting time of Nyssorhynchus darlingi (Diptera: Culicidae) in the Brazilian Amazon.
 38806590	Discovery of potent antimycobacterial agents targeting lumazine synthase (RibH) of Mycobacterium tuberculosis.
 38806576	Molecular and serological diagnosis of multiple bacterial zoonoses in febrile outpatients in Garissa County, north-eastern Kenya.
+38806300	Origin of the human malaria parasite Plasmodium vivax.
 38806022	Impact of Sulfadoxine-Pyrimethamine and Dihydroartemisinin-Piperaquine as Intermittent Preventive Treatment in Pregnancy on Stool Antimicrobial Resistance Gene Abundance.
 38805932	Repurposing DrugBank compounds as potential Plasmodium falciparum class 1a aminoacyl tRNA synthetase multi-stage pan-inhibitors with a specific focus on mitomycin.
-38807175	Ownership and use of insecticide-treated nets in Myanmar: insights from a nationally representative demographic and health survey.
-38806300	Origin of the human malaria parasite Plasmodium vivax.
 38805562	MGDrivE 3: A decoupled vector-human framework for epidemiological simulation of mosquito genetic control tools and their surveillance.
 38805442	Entomological assessment of hessian fabric transfluthrin vapour emanators as a means to protect against outdoor-biting Aedes after providing them to households for routine use in Port-au-Prince, Haiti.
 38804866	Anti-inflammatory and immunomodulatory effects of mesenchymal stem cell therapy on parasitic drug resistance.
@@ -2688,6 +2691,7 @@
 37886140	Prevalence of TTI among Indian blood donors.
 37885398	[Autochthonous Case of Malaria Prediagnosed as Leukemia].
 37885389	[Investigation of the Efficacy of Cinnamaldehyde, Cannabidiol and Eravacycline in a Malaria Model].
+37885108	Antibacterial and Antimalarial Therapeutic Agents: A Patent Perspective.
 37884813	DNA-binding protein PfAP2-P regulates parasite pathogenesis during malaria parasite blood stages.
 37884028	Evidence for a role of Anopheles stephensi in the spread of drug- and diagnosis-resistant malaria in Africa.
 37883602	The epidemiology of fecal carriage of nontyphoidal Salmonella among healthy children and adults in three sites in Kenya.
@@ -9993,7 +9997,3 @@
 35392641	Antimalarial Efficacy of Hydromethanolic Root Extract and Solvent Fractions of Urtica simensis Hochst. ex. A. Rich. (Urticaceae): An Experimental Study on Plasmodium berghei-Infected Mice.
 35392502	Insecticide-Treated Nets Utilization and Associated Factors Among Pregnant Women in Miesso Woreda, Eastern Ethiopia: Observational Study.
 35392345	Five-Year Trend Analysis of Malaria Cases in East Shawa Zone, Ethiopia.
-35390711	Discovery of spirooxadiazoline oxindoles with dual-stage antimalarial activity.
-35390060	Chloroquine and COVID-19-A systems biology model uncovers the drug's detrimental effect on autophagy and explains its failure.
-35390054	A portable brightfield and fluorescence microscope toward automated malarial parasitemia quantification in thin blood smears.
-35390051	Prevalence of malaria and associated factors among symptomatic pregnant women attending antenatal care at three health centers in north-west Ethiopia.
