@@ -1,3 +1,7 @@
+38810215	Understanding the Antiplasmodial Action of Resistance-Refractory Xanthoquinodin A1.
+38809841	Entomological assessment of hessian fabric transfluthrin vapour emanators for protecting against outdoor-biting Aedes aegypti in coastal Tanzania.
+38809835	Correction: Limitations of rapid diagnostic tests in malaria surveys in areas with varied transmission intensity in Uganda 2017-2019: Implications for selection and use of HRP2 RDTs.
+38809710	NAD activates olfactory receptor 1386 to regulate type I interferon responses in Plasmodium yoelii YM infection.
 38808064	Plasmodium falciparum AMA1 and CSP antigen diversity in parasite isolates from southern Ghana.
 38807754	Trimethoprim-Sulfamethoxazole Plus Azithromycin to Prevent Malaria and Sexually Transmitted Infections in Pregnant Women With HIV (PREMISE): A Randomized, Double-Masked, Placebo-Controlled, Phase IIB Clinical Trial.
 38807609	Corrigendum to "Discovery of small molecules through pharmacophore modeling, docking and molecular dynamics simulation against Plasmodium vivax Vivapain-3 (VP-3)" [Heliyon 4(5), May 2018, Article e00612].
@@ -9993,7 +9997,3 @@
 35392979	Evaluation of the effect of targeted Mass Drug Administration and Reactive Case Detection on malaria transmission and elimination in Eastern Hararghe zone, Oromia, Ethiopia: a cluster randomized control trial.
 35392920	Correction to: Malaria causes long-term effects on markers of iron status in children: a critical assessment of existing clinical and epidemiological tools.
 35392918	Infection age as a predictor of epidemiological metrics for malaria.
-35392742	A new gnidiflavanone-flavonol dimer and other constituents from Gnidia apiculata.
-35392641	Antimalarial Efficacy of Hydromethanolic Root Extract and Solvent Fractions of Urtica simensis Hochst. ex. A. Rich. (Urticaceae): An Experimental Study on Plasmodium berghei-Infected Mice.
-35392502	Insecticide-Treated Nets Utilization and Associated Factors Among Pregnant Women in Miesso Woreda, Eastern Ethiopia: Observational Study.
-35392345	Five-Year Trend Analysis of Malaria Cases in East Shawa Zone, Ethiopia.
