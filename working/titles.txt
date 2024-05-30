@@ -1,3 +1,11 @@
+38813551	Safety and immunogenicity of varied doses of R21/Matrix-M™ vaccine at three years follow-up: A phase 1b age de-escalation, dose-escalation trial in adults, children, and infants in Kilifi-Kenya.
+38813503	Positive effects of health behaviors acquired during the COVID-19 pandemic process on the prevention of other infectious diseases.
+38813135	Analysis of a diffusive two-strain malaria model with the carrying capacity of the environment for mosquitoes.
+38812715	Assessing the survival time of hospitalized patients in Eastern Ethiopia during 2019-2020 using the Bayesian approach: A retrospective cohort study.
+38812541	Targeting PfProhibitin 2-Hu-Hsp70A1A complex as a unique approach towards malaria vaccine development.
+38812003	Combined use of long-lasting insecticidal nets and Bacillus thuringiensis israelensis larviciding, a promising integrated approach against malaria transmission in northern Côte d'Ivoire.
+38811947	Residual bioefficacy of attractive targeted sugar bait stations targeting malaria vectors during seasonal deployment in Western Province of Zambia.
+38810336	Plasmodium RNA triphosphatase validation as antimalarial target.
 38810215	Understanding the Antiplasmodial Action of Resistance-Refractory Xanthoquinodin A1.
 38809841	Entomological assessment of hessian fabric transfluthrin vapour emanators for protecting against outdoor-biting Aedes aegypti in coastal Tanzania.
 38809835	Correction: Limitations of rapid diagnostic tests in malaria surveys in areas with varied transmission intensity in Uganda 2017-2019: Implications for selection and use of HRP2 RDTs.
@@ -9989,11 +9997,3 @@
 35395399	Monoclonal antibodies for malaria prevention.
 35395394	Docosahexaenoic acid is potent against the growth of mature stages of Plasmodium falciparum; inhibition of hematin polymerization a possible target.
 35394999	Comparison of PvLAP5 and Pvs25 qRT-PCR assays for the detection of Plasmodium vivax gametocytes in field samples preserved at ambient temperature from remote malaria endemic regions of Panama.
-35394995	A particle-based computational model to analyse remodelling of the red blood cell cytoskeleton during malaria infections.
-35394964	Prenatal Exposure to Insecticides and Weight Trajectories Among South African Children in the VHEMBE Birth Cohort.
-35394695	Role of hemoglobin alpha and hemoglobin beta in non-small-cell lung cancer based on bioinformatics analysis.
-35394038	The impact of Loa loa microfilaraemia on research subject retention during a whole sporozoite malaria vaccine trial in Equatorial Guinea.
-35393572	RhopH2 and RhopH3 export enables assembly of the RhopH complex on P. falciparum-infected erythrocyte membranes.
-35392979	Evaluation of the effect of targeted Mass Drug Administration and Reactive Case Detection on malaria transmission and elimination in Eastern Hararghe zone, Oromia, Ethiopia: a cluster randomized control trial.
-35392920	Correction to: Malaria causes long-term effects on markers of iron status in children: a critical assessment of existing clinical and epidemiological tools.
-35392918	Infection age as a predictor of epidemiological metrics for malaria.
