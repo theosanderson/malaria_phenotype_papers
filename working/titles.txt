@@ -1,3 +1,4 @@
+38814096	Tafenoquine for Relapsing Babesiosis: A Case Series.
 38813551	Safety and immunogenicity of varied doses of R21/Matrix-M™ vaccine at three years follow-up: A phase 1b age de-escalation, dose-escalation trial in adults, children, and infants in Kilifi-Kenya.
 38813503	Positive effects of health behaviors acquired during the COVID-19 pandemic process on the prevention of other infectious diseases.
 38813135	Analysis of a diffusive two-strain malaria model with the carrying capacity of the environment for mosquitoes.
@@ -9996,4 +9997,3 @@
 35395422	Sources of transcription variation in Plasmodium falciparum.
 35395399	Monoclonal antibodies for malaria prevention.
 35395394	Docosahexaenoic acid is potent against the growth of mature stages of Plasmodium falciparum; inhibition of hematin polymerization a possible target.
-35394999	Comparison of PvLAP5 and Pvs25 qRT-PCR assays for the detection of Plasmodium vivax gametocytes in field samples preserved at ambient temperature from remote malaria endemic regions of Panama.
