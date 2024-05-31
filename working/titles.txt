@@ -1,3 +1,5 @@
+38814949	Urbanization and malaria have a contextual relationship in endemic areas: A temporal and spatial study in Ghana.
+38814915	Analytic optimization of Plasmodium falciparum marker gene haplotype recovery from amplicon deep sequencing of complex mixtures.
 38814096	Tafenoquine for Relapsing Babesiosis: A Case Series.
 38813551	Safety and immunogenicity of varied doses of R21/Matrix-M™ vaccine at three years follow-up: A phase 1b age de-escalation, dose-escalation trial in adults, children, and infants in Kilifi-Kenya.
 38813503	Positive effects of health behaviors acquired during the COVID-19 pandemic process on the prevention of other infectious diseases.
@@ -867,7 +869,7 @@
 38512855	Prevalence of unqualified sources of antimalarial drug prescription for children under the age of five: A study in 19 low- and middle-income countries.
 38512826	Estimating multiplicity of infection, allele frequencies, and prevalences accounting for incomplete data.
 38512550	Chemical Exposure of Synthetic Pyrethroid on Deltamethrin Under the Selection Pressure over the Generations: A Reproductive Potential Study of Anopheles stephensi.
-38512283	Subclinical inflammation in asymptomatic schoolchildren with Plasmodium falciparum parasitemia correlates with impaired cognition.
+38512283	Subclinical Inflammation in Asymptomatic Schoolchildren With Plasmodium falciparum Parasitemia Correlates With Impaired Cognition.
 38511493	The population genetics of partial diapause, with applications to the aestivating malaria mosquito Anopheles coluzzii.
 38511329	An aquaporin and an aquaglyceroporin have roles in low temperature adaptation of mosquitoes (Anopheles sinensis).
 38510530	A Systematic Literature Review of Mathematical Models for Coinfections: Tuberculosis, Malaria, and HIV/AIDS.
@@ -9995,5 +9997,3 @@
 35395800	Correction to: Do socio-demographic factors modify the effect of weather on malaria in Kanungu District, Uganda?
 35395703	Cycloserine enantiomers inhibit PLP-dependent cysteine desulfurase SufS via distinct mechanisms.
 35395422	Sources of transcription variation in Plasmodium falciparum.
-35395399	Monoclonal antibodies for malaria prevention.
-35395394	Docosahexaenoic acid is potent against the growth of mature stages of Plasmodium falciparum; inhibition of hematin polymerization a possible target.
