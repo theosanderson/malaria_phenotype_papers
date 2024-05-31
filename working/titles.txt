@@ -1,11 +1,13 @@
+38818583	Development of an alcoholic liver disease model for drug evaluation from human induced pluripotent stem cell-derived liver organoids.
+38818245	Analysis of inpatient data on dengue fever, malaria and leishmaniasis in Ecuador: A cross-sectional national study, 2015-2022.
 38816783	Examining the paradox: increased malaria risk in children under 5 in female-headed households in Nigeria.
 38816778	Health workers' adherence to malaria case management protocols in Northern Sudan: a qualitative study.
+38816702	Physico-chemical characterization of Anopheles gambiae s.l. breeding sites and kdr mutations in urban areas of Cotonou and Natitingou, Benin.
 38816486	A metagenomic analysis of the phase 2 Anopheles gambiae 1000 genomes dataset reveals a wide diversity of cobionts associated with field collected mosquitoes.
 38816418	Exploring the transcriptome of immature stages of Ornithodoros hermsi, the soft-tick vector of tick-borne relapsing fever.
 38816383	Plasmodium falciparum infection in humans and mosquitoes influence natural Anopheline biting behavior and transmission.
 38815883	Stereochemical insights into enantioselective antiplasmodial lignanamides from the twigs and leaves of Solanum erianthum.
 38815808	Sources and Prevalence of Cyclospora cayetanensis in Southeastern U.S. Growing Environments.
-38816702	Physico-chemical characterization of Anopheles gambiae s.l. breeding sites and kdr mutations in urban areas of Cotonou and Natitingou, Benin.
 38814949	Urbanization and malaria have a contextual relationship in endemic areas: A temporal and spatial study in Ghana.
 38814915	Analytic optimization of Plasmodium falciparum marker gene haplotype recovery from amplicon deep sequencing of complex mixtures.
 38814096	Tafenoquine for Relapsing Babesiosis: A Case Series.
@@ -9995,5 +9997,3 @@
 35402201	Microbiology laboratories involved in disease and antimicrobial resistance surveillance: Strengths and challenges of the central African states.
 35401758	Spatiotemporal Trends and Distributions of Malaria Incidence in the Northwest Ethiopia.
 35400234	A systematic analysis of ultrastructural lesions in the Plasmodium coatneyi splenectomized rhesus macaque model of severe malaria.
-35400071	Role of Environmental Degradation, Institutional Quality, and Government Health Expenditures for Human Health: Evidence From Emerging Seven Countries.
-35399588	A new haemosporidian parasite from the Red-legged Seriema Cariama cristata (Cariamiformes, Cariamidae).
