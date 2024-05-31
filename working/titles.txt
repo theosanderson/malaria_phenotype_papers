@@ -1,3 +1,5 @@
+38819229	Plasmodium yoelii Infection Enhances the Expansion of Myeloid-Derived Suppressor Cells via JAK/STAT3 Pathway.
+38818916	Antimalarial Drug Discovery from Natural and Synthetic Sources.
 38818583	Development of an alcoholic liver disease model for drug evaluation from human induced pluripotent stem cell-derived liver organoids.
 38818245	Analysis of inpatient data on dengue fever, malaria and leishmaniasis in Ecuador: A cross-sectional national study, 2015-2022.
 38816783	Examining the paradox: increased malaria risk in children under 5 in female-headed households in Nigeria.
@@ -2745,6 +2747,7 @@
 37874849	Geospatial based model for malaria risk prediction in Kilombero valley, South-eastern, Tanzania.
 37874152	Human ApoE2 protects mice against Plasmodium berghei ANKA experimental cerebral malaria.
 37873636	CRISPR-Cas Technology as a Revolutionary Genome Editing tool: Mechanisms and Biomedical Applications.
+37873474	Motion Blur Microscopy.
 37873322	MOIRE: A software package for the estimation of allele frequencies and effective multiplicity of infection from polyallelic data.
 37873198	A methoxylated flavone from Artemisia afra kills Mycobacterium tuberculosis.
 37872763	Impact of the COVID-19 pandemic on malaria in pregnancy indicators in Northern Uganda: a joinpoint regression analysis.
@@ -9994,6 +9997,3 @@
 35403820	Plasmodium sporozoite disintegration during skin passage limits malaria parasite transmission.
 35403274	The Plasmodium falciparum parasitophorous vacuole protein P113 interacts with the parasite protein export machinery and maintains normal vacuole architecture.
 35402895	Non-compartmental toxicokinetic studies of the Nigerian Naja nigricollis venom.
-35402201	Microbiology laboratories involved in disease and antimicrobial resistance surveillance: Strengths and challenges of the central African states.
-35401758	Spatiotemporal Trends and Distributions of Malaria Incidence in the Northwest Ethiopia.
-35400234	A systematic analysis of ultrastructural lesions in the Plasmodium coatneyi splenectomized rhesus macaque model of severe malaria.
