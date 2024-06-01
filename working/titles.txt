@@ -1,3 +1,6 @@
+38821330	Might Procalcitonin help predict imported falciparum malaria in children?
+38821187	Proteomic approaches for protein kinase substrate identification in Apicomplexa.
+38821147	Assessing the Potential of Nano-Formulated Chlorfenapyr and Clothianidin Insecticides-Treated Sugar Baits against Anopheles funestus, Anopeles coluzzii and Culex quinquefasciatus Mosquitoes.
 38820542	Molecular prevalence, phylogeny and hematological impact of Toxoplasma gondii and Plasmodium spp. in common quails from Punjab, Pakistan.
 38820535	Role of Rabenosyn-5 and Rab5b in host cell cytosol uptake reveals conservation of endosomal transport in malaria parasites.
 38819229	Plasmodium yoelii Infection Enhances the Expansion of Myeloid-Derived Suppressor Cells via JAK/STAT3 Pathway.
@@ -9994,6 +9997,3 @@
 35405024	DNA testing for sickle cell anemia in Africa: Implementation choices for the Democratic Republic of Congo.
 35404863	Genetic diversity and allelic frequency of antigenic markers in Plasmodium falciparum isolates from Nnewi district in Nigeria.
 35404686	Malaria Epidemiology and COVID-19 Pandemic: Are They Interrelated?
-35404116	PMRT1, a Plasmodium-Specific Parasite Plasma Membrane Transporter, Is Essential for Asexual and Sexual Blood Stage Development.
-35404079	A G-Protein-Coupled Receptor Modulates Gametogenesis via PKG-Mediated Signaling Cascade in Plasmodium berghei.
-35403820	Plasmodium sporozoite disintegration during skin passage limits malaria parasite transmission.
