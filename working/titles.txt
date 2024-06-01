@@ -1,3 +1,5 @@
+38820542	Molecular prevalence, phylogeny and hematological impact of Toxoplasma gondii and Plasmodium spp. in common quails from Punjab, Pakistan.
+38820535	Role of Rabenosyn-5 and Rab5b in host cell cytosol uptake reveals conservation of endosomal transport in malaria parasites.
 38819229	Plasmodium yoelii Infection Enhances the Expansion of Myeloid-Derived Suppressor Cells via JAK/STAT3 Pathway.
 38818916	Antimalarial Drug Discovery from Natural and Synthetic Sources.
 38818583	Development of an alcoholic liver disease model for drug evaluation from human induced pluripotent stem cell-derived liver organoids.
@@ -9995,5 +9997,3 @@
 35404116	PMRT1, a Plasmodium-Specific Parasite Plasma Membrane Transporter, Is Essential for Asexual and Sexual Blood Stage Development.
 35404079	A G-Protein-Coupled Receptor Modulates Gametogenesis via PKG-Mediated Signaling Cascade in Plasmodium berghei.
 35403820	Plasmodium sporozoite disintegration during skin passage limits malaria parasite transmission.
-35403274	The Plasmodium falciparum parasitophorous vacuole protein P113 interacts with the parasite protein export machinery and maintains normal vacuole architecture.
-35402895	Non-compartmental toxicokinetic studies of the Nigerian Naja nigricollis venom.
