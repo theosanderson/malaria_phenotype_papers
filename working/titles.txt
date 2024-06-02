@@ -1,3 +1,8 @@
+38824239	Mosquitocidal effect of ivermectin-treated nettings and sprayed walls on Anopheles gambiae s.s.
+38824128	An axonemal intron splicing program sustains Plasmodium male development.
+38824066	Arthropod promoters for genetic control of disease vectors.
+38823647	AlbuMAX supplemented media induces the formation of transmission-competent P. falciparum gametocytes.
+38823569	Ganopyrone A, a highly rearranged lanostane triterpenoid with antimalarial activity from artificially cultivated fruiting bodies of Ganoderma colossus.
 38822466	Intense malarial transmission during the dry season in irrigated rice-growing areas: a case study in Sakassou, Côte d'Ivoire.
 38822431	Correction: Malaria epidemiology, surveillance and response for elimination in Lao PDR.
 38821330	Might Procalcitonin help predict imported falciparum malaria in children?
@@ -9992,8 +9997,3 @@
 35406144	Lansium domesticum-A Fruit with Multi-Benefits: Traditional Uses, Phytochemicals, Nutritional Value, and Bioactivities.
 35405984	Vitamin D Deficiency and Its Association with Iron Deficiency in African Children.
 35402734	Efficiency of transplacental transfer of respiratory syncytial virus (RSV) specific antibodies among pregnant women in Kenya.
-35405648	Flow Cytometric Sorting of Infected Erythrocytes Demonstrates Reliable Detection of Individual Ring-Stage Plasmodium falciparum Parasites by Plasmodium 18S rRNA Reverse Transcription Polymerase Chain Reaction.
-35405642	Rosetting Responses of Plasmodium-infected Erythrocytes to Antimalarials.
-35405640	Prevalence and Dynamic Changes in Lung Ultrasound Findings among Adults with Uncomplicated Malaria and Controls in the Amazon Basin, Brazil.
-35405637	Strengthening Management, Community Engagement, and Sustainability of the Subnational Response to Accelerate Malaria Elimination in Namibia.
-35405276	Studying the disease severity in clinical isolates of Plasmodiumvivax.
