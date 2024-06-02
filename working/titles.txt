@@ -1,3 +1,5 @@
+38822466	Intense malarial transmission during the dry season in irrigated rice-growing areas: a case study in Sakassou, Côte d'Ivoire.
+38822431	Correction: Malaria epidemiology, surveillance and response for elimination in Lao PDR.
 38821330	Might Procalcitonin help predict imported falciparum malaria in children?
 38821187	Proteomic approaches for protein kinase substrate identification in Apicomplexa.
 38821147	Assessing the Potential of Nano-Formulated Chlorfenapyr and Clothianidin Insecticides-Treated Sugar Baits against Anopheles funestus, Anopeles coluzzii and Culex quinquefasciatus Mosquitoes.
@@ -311,6 +313,7 @@
 38717141	On-target, dual aminopeptidase inhibition provides cross-species antimalarial activity.
 38717116	Discovery of 1,3,4-Oxadiazole Derivatives as Broad-Spectrum Antiparasitic Agents.
 38716733	Immune responses associated with protection induced by chemoattenuated PfSPZ vaccine in malaria-naive Europeans.
+38716732	The National MD-PhD Program Outcomes Study: career paths followed by Black and Hispanic graduates.
 38716193	Updates on traditional methods for combating malaria and emerging Wolbachia-based interventions.
 38716192	Detection of novel Plasmodium falciparum coronin gene mutations in a recrudescent ACT-treated patient in South-Western Nigeria.
 38715727	Human-aided dispersal and population bottlenecks facilitate parasitism escape in the most invasive mosquito species.
@@ -9994,6 +9997,3 @@
 35405640	Prevalence and Dynamic Changes in Lung Ultrasound Findings among Adults with Uncomplicated Malaria and Controls in the Amazon Basin, Brazil.
 35405637	Strengthening Management, Community Engagement, and Sustainability of the Subnational Response to Accelerate Malaria Elimination in Namibia.
 35405276	Studying the disease severity in clinical isolates of Plasmodiumvivax.
-35405024	DNA testing for sickle cell anemia in Africa: Implementation choices for the Democratic Republic of Congo.
-35404863	Genetic diversity and allelic frequency of antigenic markers in Plasmodium falciparum isolates from Nnewi district in Nigeria.
-35404686	Malaria Epidemiology and COVID-19 Pandemic: Are They Interrelated?
