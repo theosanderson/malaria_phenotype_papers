@@ -1,3 +1,5 @@
+38825698	75 years' journey of malaria publications in English: what and where?
+38824975	Efficacy of Albizia malacophylla (A.Rich.) Walp. (Leguminosae) methanol (80%) leaf extract and solvent fractions against Plasmodium berghei-induced malaria in mice model.
 38824677	Artemisinin herbal combo breakers: navigating malaria treatment's double-edged sword.
 38824239	Mosquitocidal effect of ivermectin-treated nettings and sprayed walls on Anopheles gambiae s.s.
 38824128	An axonemal intron splicing program sustains Plasmodium male development.
@@ -9995,5 +9997,3 @@
 35408605	Isolation and Structural Elucidation of Compounds from Pleiocarpa bicarpellata and Their In Vitro Antiprotozoal Activity.
 35407447	Assessing Prevalence and Transmission Rates of Malaria through Simultaneous Profiling of Antibody Responses against Plasmodium and Anopheles Antigens.
 35406765	High-Throughput Screening to Identify Inhibitors of Plasmodium falciparum Importin α.
-35406144	Lansium domesticum-A Fruit with Multi-Benefits: Traditional Uses, Phytochemicals, Nutritional Value, and Bioactivities.
-35405984	Vitamin D Deficiency and Its Association with Iron Deficiency in African Children.
