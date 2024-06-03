@@ -1,27 +1,12 @@
+38828834	Cu-catalyzed click reaction in synthesis of eugenol derivatives as potent antimalarial agents.
 38828288	Neuroprotective effects and mechanisms of action of artemisinin in retinal ganglion cells in a mouse model of traumatic optic neuropathy.
 38828264	Plasmodium vivax spleen-dependent protein 1 and its role in extracellular vesicles-mediated intrasplenic infections.
-38828121	Asymptomatic malaria and intestinal helminth co-infection among children in a rural community in Southwest Nigeria.
-38828120	Knowledge and practices on malaria in Tubu village, in a malaria-endemic area in northern Botswana: implications for interventions.
-38828119	Outdoor mosquito control using odour-baited devices: development and evaluation of a potential new strategy to complement indoor malaria prevention methods.
-38828118	Malaria transmission intensity and dynamics of clinical malaria incidence in a mountainous forest region of Ghana.
-38828117	Community perception of malaria and its influence on health-seeking behaviour in rural Ghana: a descriptive study.
-38828116	A protocol for membrane feeding assays to determine the infectiousness of P. falciparum naturally infected individuals to Anopheles gambiae.
-38828115	Peculiarities of a malaria case imported from Myanmar to Moscow (Russian Federation).
-38828113	Plasmodium falciparum infection in "humanised liver" mice.
-38828112	Malaria β-Haematin in blood results in synergistic attenuation enhancement: Studies with a conventional multimode reader and a custom LED device.
-38828111	Towards malaria elimination and its implication for vector control, disease management and livelihoods in Tanzania.
-38828110	Editorial: The Grand Challenges Explorations (GCE) programme.
-38828109	Intermittent preventive treatment with sulfadoxine-pyrimethamine versus weekly chloroquine prophylaxis for malaria in pregnancy in Honiara, Solomon Islands: a randomised trial.
-38828108	Development and demise of Plasmodium liver stage parasites - The hunt for a Genetically Attenuated Malaria Vaccine.
-38828106	Using carnivorous plants to control malaria-transmitting mosquitoes.
 38828105	Investigating the Determinants of Malaria Outbreak in Nono Benja Woreda, Jimma Zone, Ethiopia: A Case-Control Study.
 38828055	Host preference patterns in domestic and wild settings: Insights into Anopheles feeding behavior.
 38827746	Single domain antibodies from camelids in the treatment of microbial infections.
 38827744	Phenotypic changes of γδ T cells in Plasmodium falciparum placental malaria and pregnancy outcomes in women at delivery in Cameroon.
 38827613	Opinion review of drug resistant tuberculosis in West Africa: tackling the challenges for effective control.
 38826847	In-Vivo Anti-Malarial Activity of 80% Methanol Leaf Extract of Croton Dichogamus Pax and Ehretia Cymosa Thonn in Plasmodium Berghei Infected Mice.
-38826688	Welcome to MWJ: the MalariaWorld Journal.
-38826687	Prolonged colonisation, irradiation, and transportation do not impede mating vigour and competitiveness of male Anopheles arabiensis mosquitoes under semi-field conditions in Northern Sudan.
 38826533	Exploring Novel Antimalarial Compounds Targeting Plasmodium falciparum Enoyl-ACP Reductase: Computational and Experimental Insights.
 38826416	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
 38826328	The major surface protein of malaria sporozoites is GPI-anchored to the plasma membrane.
@@ -542,7 +527,7 @@
 38653216	Surveillance for Action: Operationalizing Private Sector Surveillance and Service Delivery across the Malaria Transmission Continuum.
 38653016	Sustainable Development Goals' health-related indicators for Brazil and Ecuador: an analysis for the period of 1990-2019.
 38652684	Expression of Syo_1.56 SARP Regulator Unveils Potent Elasnin Derivatives with Antibacterial Activity.
-38652559	Pro-thrombotic autoantibodies targeting Platelet Factor 4/polyanion are associated with pediatric cerebral malaria.
+38652559	Prothrombotic autoantibodies targeting platelet factor 4/polyanion are associated with pediatric cerebral malaria.
 38652205	Environmental Justice and Health in Nigeria.
 38652143	[Emergencies in infectious diseases].
 38651522	Development of Prolinol Containing Inhibitors of Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase: Rational Structure-Based Drug Design.
@@ -564,7 +549,7 @@
 38648210	Modeling the shared risks of malaria and anemia in Rwanda.
 38647704	Global profiling of protein S-palmitoylation in the second-generation merozoites of Eimeria tenella.
 38647213	Reverse N-Substituted Hydroxamic Acid Derivatives of Fosmidomycin Target a Previously Unknown Subpocket of 1-Deoxy-d-xylulose 5-Phosphate Reductoisomerase (DXR).
-38647110	Solution-State Structure of a Long-Loop G-quadruplex Formed within Promoters of Plasmodium falciparum B var Genes.
+38647110	Solution-State Structure of a Long-Loop G-Quadruplex Formed Within Promoters of Plasmodium falciparum B var Genes.
 38646508	Epidemiology of rare bacterial, parasitic, and fungal pathogens in India.
 38646476	COVID-19 and malaria co-infection: a systematic review of clinical outcomes in endemic areas.
 38646147	Palestine 100 years ago seen through the malaria lens: an examination of successful malaria elimination, and of where the malaria community seems to have taken a wrong turning.
@@ -9997,3 +9982,18 @@
 35416696	A Rapid and Specific Genotyping Platform for Plasmodium falciparum Chloroquine Resistance via Allele-Specific PCR with a Lateral Flow Assay.
 35416431	Malarial PI4K inhibitor induced diaphragmatic hernias in rat: Potential link with mammalian kinase inhibition.
 35415939	Clinical characteristics, complications, and predictors of outcome of hospitalized adult Sudanese patients with COVID-19 and malaria coinfection in Sudan: A multicenter retrospective cross-sectional study.
+35415749	Long-lasting insecticide-treated net use and malaria infections on the Kenyan coast.
+35414241	A novel statistical framework for exploring the population dynamics and seasonality of mosquito populations.
+35414225	Parasite-associated mortality in birds: the roles of specialist parasites and host evolutionary distance.
+35413937	Evaluations of candidate markers of dihydroartemisinin-piperaquine resistance in Plasmodium falciparum isolates from the China-Myanmar, Thailand-Myanmar, and Thailand-Cambodia borders.
+35413907	Re-orienting anti-malarial drug development to better serve pregnant women.
+35413904	Field evaluation of the diagnostic performance of EasyScan GO: a digital malaria microscopy device based on machine-learning.
+35413881	Reimagining zoonotic malaria control in communities exposed to Plasmodium knowlesi infection.
+35413832	Impact of insecticide-treated nets and indoor residual spraying on self-reported malaria prevalence among women of reproductive age in Ghana: implication for malaria control and elimination.
+35413688	Cooperation in Countering Artemisinin Resistance in Africa: Learning from COVID-19.
+35413687	Malaria in 2022: Challenges and Progress.
+35412359	Transcending Dimensions in Apicomplexan Research: from Two-Dimensional to Three-Dimensional In Vitro Cultures.
+35411940	Measurement of erythrocyte membrane mannoses to assess splenic function.
+35411161	Factors Influencing Willingness to Pay for Insecticidal Treated Bed Nets Among Rural Households of Bugina District North Wollo Zone, North-East Ethiopia.
+35411125	Antibody Responses Against Plasmodium falciparum MSP3 Protein During Natural Malaria Infection in Individuals Living in Malaria-Endemic Regions of India.
+35411064	Cross-border malaria drivers and risk factors on the Brazil-Venezuela border between 2016 and 2018.
