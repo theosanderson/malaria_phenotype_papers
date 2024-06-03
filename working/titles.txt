@@ -1,3 +1,30 @@
+38828288	Neuroprotective effects and mechanisms of action of artemisinin in retinal ganglion cells in a mouse model of traumatic optic neuropathy.
+38828264	Plasmodium vivax spleen-dependent protein 1 and its role in extracellular vesicles-mediated intrasplenic infections.
+38828121	Asymptomatic malaria and intestinal helminth co-infection among children in a rural community in Southwest Nigeria.
+38828120	Knowledge and practices on malaria in Tubu village, in a malaria-endemic area in northern Botswana: implications for interventions.
+38828119	Outdoor mosquito control using odour-baited devices: development and evaluation of a potential new strategy to complement indoor malaria prevention methods.
+38828118	Malaria transmission intensity and dynamics of clinical malaria incidence in a mountainous forest region of Ghana.
+38828117	Community perception of malaria and its influence on health-seeking behaviour in rural Ghana: a descriptive study.
+38828116	A protocol for membrane feeding assays to determine the infectiousness of P. falciparum naturally infected individuals to Anopheles gambiae.
+38828115	Peculiarities of a malaria case imported from Myanmar to Moscow (Russian Federation).
+38828113	Plasmodium falciparum infection in "humanised liver" mice.
+38828112	Malaria β-Haematin in blood results in synergistic attenuation enhancement: Studies with a conventional multimode reader and a custom LED device.
+38828111	Towards malaria elimination and its implication for vector control, disease management and livelihoods in Tanzania.
+38828110	Editorial: The Grand Challenges Explorations (GCE) programme.
+38828109	Intermittent preventive treatment with sulfadoxine-pyrimethamine versus weekly chloroquine prophylaxis for malaria in pregnancy in Honiara, Solomon Islands: a randomised trial.
+38828108	Development and demise of Plasmodium liver stage parasites - The hunt for a Genetically Attenuated Malaria Vaccine.
+38828106	Using carnivorous plants to control malaria-transmitting mosquitoes.
+38828105	Investigating the Determinants of Malaria Outbreak in Nono Benja Woreda, Jimma Zone, Ethiopia: A Case-Control Study.
+38828055	Host preference patterns in domestic and wild settings: Insights into Anopheles feeding behavior.
+38827746	Single domain antibodies from camelids in the treatment of microbial infections.
+38827744	Phenotypic changes of γδ T cells in Plasmodium falciparum placental malaria and pregnancy outcomes in women at delivery in Cameroon.
+38827613	Opinion review of drug resistant tuberculosis in West Africa: tackling the challenges for effective control.
+38826847	In-Vivo Anti-Malarial Activity of 80% Methanol Leaf Extract of Croton Dichogamus Pax and Ehretia Cymosa Thonn in Plasmodium Berghei Infected Mice.
+38826688	Welcome to MWJ: the MalariaWorld Journal.
+38826687	Prolonged colonisation, irradiation, and transportation do not impede mating vigour and competitiveness of male Anopheles arabiensis mosquitoes under semi-field conditions in Northern Sudan.
+38826533	Exploring Novel Antimalarial Compounds Targeting Plasmodium falciparum Enoyl-ACP Reductase: Computational and Experimental Insights.
+38826416	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
+38826328	The major surface protein of malaria sporozoites is GPI-anchored to the plasma membrane.
 38825698	75 years' journey of malaria publications in English: what and where?
 38824975	Efficacy of Albizia malacophylla (A.Rich.) Walp. (Leguminosae) methanol (80%) leaf extract and solvent fractions against Plasmodium berghei-induced malaria in mice model.
 38824677	Artemisinin herbal combo breakers: navigating malaria treatment's double-edged sword.
@@ -339,6 +366,7 @@
 38712726	Malaria and dengue outbreaks: a double health threat in southeastern Iran.
 38712708	Status of vector protection measures and awareness regarding vector borne diseases in families residing in a Nirmal Gram Puraskar village in India.
 38712295	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
+38712209	Multisensory integration in Anopheles mosquito swarms: The role of visual and acoustic information in mate tracking and collision avoidance.
 38712186	Day 3 parasitemia and Plasmodium falciparum Kelch 13 mutations among uncomplicated malaria patients treated with artemether-lumefantrine in Adjumani district, Uganda.
 38712185	Quinoxaline-Based Anti-Schistosomal Compounds Have Potent Anti-Malarial Activity.
 38712121	Plasmodium knowlesi infection is associated with elevated circulating biomarkers of brain injury and endothelial activation.
@@ -9969,31 +9997,3 @@
 35416696	A Rapid and Specific Genotyping Platform for Plasmodium falciparum Chloroquine Resistance via Allele-Specific PCR with a Lateral Flow Assay.
 35416431	Malarial PI4K inhibitor induced diaphragmatic hernias in rat: Potential link with mammalian kinase inhibition.
 35415939	Clinical characteristics, complications, and predictors of outcome of hospitalized adult Sudanese patients with COVID-19 and malaria coinfection in Sudan: A multicenter retrospective cross-sectional study.
-35415749	Long-lasting insecticide-treated net use and malaria infections on the Kenyan coast.
-35414241	A novel statistical framework for exploring the population dynamics and seasonality of mosquito populations.
-35414225	Parasite-associated mortality in birds: the roles of specialist parasites and host evolutionary distance.
-35413937	Evaluations of candidate markers of dihydroartemisinin-piperaquine resistance in Plasmodium falciparum isolates from the China-Myanmar, Thailand-Myanmar, and Thailand-Cambodia borders.
-35413907	Re-orienting anti-malarial drug development to better serve pregnant women.
-35413904	Field evaluation of the diagnostic performance of EasyScan GO: a digital malaria microscopy device based on machine-learning.
-35413881	Reimagining zoonotic malaria control in communities exposed to Plasmodium knowlesi infection.
-35413832	Impact of insecticide-treated nets and indoor residual spraying on self-reported malaria prevalence among women of reproductive age in Ghana: implication for malaria control and elimination.
-35413688	Cooperation in Countering Artemisinin Resistance in Africa: Learning from COVID-19.
-35413687	Malaria in 2022: Challenges and Progress.
-35412359	Transcending Dimensions in Apicomplexan Research: from Two-Dimensional to Three-Dimensional In Vitro Cultures.
-35411940	Measurement of erythrocyte membrane mannoses to assess splenic function.
-35411161	Factors Influencing Willingness to Pay for Insecticidal Treated Bed Nets Among Rural Households of Bugina District North Wollo Zone, North-East Ethiopia.
-35411125	Antibody Responses Against Plasmodium falciparum MSP3 Protein During Natural Malaria Infection in Individuals Living in Malaria-Endemic Regions of India.
-35411064	Cross-border malaria drivers and risk factors on the Brazil-Venezuela border between 2016 and 2018.
-35410317	PRObiotics and SYNbiotics to improve gut health and growth in infants in western Kenya (PROSYNK Trial): study protocol for a 4-arm, open-label, randomised, controlled trial.
-35410250	Influence of testing modality on bioefficacy for the evaluation of Interceptor(®) G2 mosquito nets to combat malaria mosquitoes in Tanzania.
-35410230	Fast detection and quantification of Plasmodium species infected erythrocytes in a non-endemic region by using the Sysmex XN-31 analyzer.
-35410149	Survival of eight LLIN brands 6, 12, 24 and 36 months after a mass distribution campaign in rural and urban settings in Senegal.
-35410125	Skin microbiome alters attractiveness to Anopheles mosquitoes.
-35410098	The Emerging Threat of Plasmodium knowlesi Malaria Infection: A Concept Paper on the Vulnerable Factors in Human.
-35409824	Expert Consensus on a Proposed Study Framework to Explore Factors Influencing Plasmodium knowlesi Malaria Preventive Behavior: A Modified Delphi Method Protocol.
-35409494	Geo-Climatic Factors of Malaria Morbidity in the Democratic Republic of Congo from 2001 to 2019.
-35408690	Bioactivities and Mode of Actions of Dibutyl Phthalates and Nocardamine from Streptomyces sp. H11809.
-35408655	NMR, LC-MS Characterization of Rydingia michauxii Extracts, Identification of Natural Products Acting as Modulators of LDLR and PCSK9.
-35408605	Isolation and Structural Elucidation of Compounds from Pleiocarpa bicarpellata and Their In Vitro Antiprotozoal Activity.
-35407447	Assessing Prevalence and Transmission Rates of Malaria through Simultaneous Profiling of Antibody Responses against Plasmodium and Anopheles Antigens.
-35406765	High-Throughput Screening to Identify Inhibitors of Plasmodium falciparum Importin α.
