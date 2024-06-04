@@ -1,3 +1,6 @@
+38829897	Helminthiasis and malaria co-infection among women of reproductive age in a rural setting of Kilifi County, coastal Kenya: A mixed method study.
+38829893	Elucidating the Spatio-Temporal dynamics of the Plasmodium falciparum basal complex.
+38829858	Evaluating Plasmodium falciparum automatic detection and parasitemia estimation: A comparative study on thin blood smear images.
 38828834	Cu-catalyzed click reaction in synthesis of eugenol derivatives as potent antimalarial agents.
 38828288	Neuroprotective effects and mechanisms of action of artemisinin in retinal ganglion cells in a mouse model of traumatic optic neuropathy.
 38828264	Plasmodium vivax spleen-dependent protein 1 and its role in extracellular vesicles-mediated intrasplenic infections.
@@ -9994,6 +9997,3 @@
 35413687	Malaria in 2022: Challenges and Progress.
 35412359	Transcending Dimensions in Apicomplexan Research: from Two-Dimensional to Three-Dimensional In Vitro Cultures.
 35411940	Measurement of erythrocyte membrane mannoses to assess splenic function.
-35411161	Factors Influencing Willingness to Pay for Insecticidal Treated Bed Nets Among Rural Households of Bugina District North Wollo Zone, North-East Ethiopia.
-35411125	Antibody Responses Against Plasmodium falciparum MSP3 Protein During Natural Malaria Infection in Individuals Living in Malaria-Endemic Regions of India.
-35411064	Cross-border malaria drivers and risk factors on the Brazil-Venezuela border between 2016 and 2018.
