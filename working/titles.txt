@@ -1,3 +1,4 @@
+38831351	Protein target similarity is positive predictor of in vitro antipathogenic activity: a drug repurposing strategy for Plasmodium falciparum.
 38829897	Helminthiasis and malaria co-infection among women of reproductive age in a rural setting of Kilifi County, coastal Kenya: A mixed method study.
 38829893	Elucidating the Spatio-Temporal dynamics of the Plasmodium falciparum basal complex.
 38829858	Evaluating Plasmodium falciparum automatic detection and parasitemia estimation: A comparative study on thin blood smear images.
@@ -9996,4 +9997,3 @@
 35413688	Cooperation in Countering Artemisinin Resistance in Africa: Learning from COVID-19.
 35413687	Malaria in 2022: Challenges and Progress.
 35412359	Transcending Dimensions in Apicomplexan Research: from Two-Dimensional to Three-Dimensional In Vitro Cultures.
-35411940	Measurement of erythrocyte membrane mannoses to assess splenic function.
