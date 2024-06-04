@@ -1,3 +1,5 @@
+38831862	Tobacco Use and Associated Factors Among Men in Tanzania: Further Analysis of the 2022 Tanzania Demographic and Health Survey Data.
+38831778	Lingering challenges in malaria elimination efforts in sub-Saharan Africa: Insights and potential solutions.
 38831351	Protein target similarity is positive predictor of in vitro antipathogenic activity: a drug repurposing strategy for Plasmodium falciparum.
 38829897	Helminthiasis and malaria co-infection among women of reproductive age in a rural setting of Kilifi County, coastal Kenya: A mixed method study.
 38829893	Elucidating the Spatio-Temporal dynamics of the Plasmodium falciparum basal complex.
@@ -9995,5 +9997,3 @@
 35413881	Reimagining zoonotic malaria control in communities exposed to Plasmodium knowlesi infection.
 35413832	Impact of insecticide-treated nets and indoor residual spraying on self-reported malaria prevalence among women of reproductive age in Ghana: implication for malaria control and elimination.
 35413688	Cooperation in Countering Artemisinin Resistance in Africa: Learning from COVID-19.
-35413687	Malaria in 2022: Challenges and Progress.
-35412359	Transcending Dimensions in Apicomplexan Research: from Two-Dimensional to Three-Dimensional In Vitro Cultures.
