@@ -1,8 +1,14 @@
+38836130	Novel malaria control by strategic net-hoisting with S/O channel/grip devices.
+38836129	Malaria control for rural areas in Uganda: localizing the interventions.
+38836128	Paul de Kruif, American science writer on malaria: a case study.
+38835780	Monocytes, particularly nonclassical ones, lose their opsonic and nonopsonic phagocytosis capacity during pediatric cerebral malaria.
+38835504	Outbreak of Human Trichinellosis - Arizona, Minnesota, and South Dakota, 2022.
+38835260	Virus-like particles expressing microneme-associated antigen of Plasmodium berghei confer better protection than those expressing apical membrane antigen 1.
+38835069	Defining the next generation of severe malaria treatment: a target product profile.
 38835017	Physical and insecticidal durability of Interceptor(®), Interceptor(®) G2, and PermaNet(®) 3.0 insecticide-treated nets in Burkina Faso: results of durability monitoring in three sites from 2019 to 2022.
 38834080	A Diagnostic Algorithm for Detection of Leishmania spp. in Human Fresh and Fixed Tissue Samples.
 38834052	Seroprevalence of Arboviruses in a Malaria Hyperendemic Area in Southern Mali.
 38833991	Exploring antimalarial potential: Conjugating organometallic moieties with organic fragments for enhanced efficacy.
-38835069	Defining the next generation of severe malaria treatment: a target product profile.
 38833491	Use of malaria rapid diagnostic test and anti-malarial drug prescription practices among primary healthcare workers in Ebonyi state, Nigeria: An analytical cross-sectional study.
 38833464	Geospatial joint modeling of vector and parasite serology to microstratify malaria transmission.
 38832798	A novel Plasmodium berghei protein S14 is essential for sporozoite gliding motility and infectivity.
@@ -9991,9 +9997,3 @@
 35417197	Plasmodium Egress Across the Parasite Life Cycle.
 35417070	Neutrophils impose strong immune pressure against PfEMP1 variants implicated in cerebral malaria.
 35416973	Diagnosis and Management of Trichomonas vaginalis: Summary of Evidence Reviewed for the 2021 Centers for Disease Control and Prevention Sexually Transmitted Infections Treatment Guidelines.
-35416868	Association between vitamin D serum levels and clinical, laboratory, and parasitological parameters in patients with malaria from an endemic area of the Amazon.
-35416709	Dimeric Artesunate Glycerophosphocholine Conjugate Nano-Assemblies as Slow-Release Antimalarials to Overcome Kelch 13 Mutant Artemisinin Resistance.
-35416696	A Rapid and Specific Genotyping Platform for Plasmodium falciparum Chloroquine Resistance via Allele-Specific PCR with a Lateral Flow Assay.
-35416431	Malarial PI4K inhibitor induced diaphragmatic hernias in rat: Potential link with mammalian kinase inhibition.
-35415939	Clinical characteristics, complications, and predictors of outcome of hospitalized adult Sudanese patients with COVID-19 and malaria coinfection in Sudan: A multicenter retrospective cross-sectional study.
-35415749	Long-lasting insecticide-treated net use and malaria infections on the Kenyan coast.
