@@ -1,3 +1,8 @@
+38835017	Physical and insecticidal durability of Interceptor(®), Interceptor(®) G2, and PermaNet(®) 3.0 insecticide-treated nets in Burkina Faso: results of durability monitoring in three sites from 2019 to 2022.
+38834080	A Diagnostic Algorithm for Detection of Leishmania spp. in Human Fresh and Fixed Tissue Samples.
+38834052	Seroprevalence of Arboviruses in a Malaria Hyperendemic Area in Southern Mali.
+38833991	Exploring antimalarial potential: Conjugating organometallic moieties with organic fragments for enhanced efficacy.
+38835069	Defining the next generation of severe malaria treatment: a target product profile.
 38833491	Use of malaria rapid diagnostic test and anti-malarial drug prescription practices among primary healthcare workers in Ebonyi state, Nigeria: An analytical cross-sectional study.
 38833464	Geospatial joint modeling of vector and parasite serology to microstratify malaria transmission.
 38832798	A novel Plasmodium berghei protein S14 is essential for sporozoite gliding motility and infectivity.
@@ -29,7 +34,7 @@
 38823569	Ganopyrone A, a highly rearranged lanostane triterpenoid with antimalarial activity from artificially cultivated fruiting bodies of Ganoderma colossus.
 38822466	Intense malarial transmission during the dry season in irrigated rice-growing areas: a case study in Sakassou, Côte d'Ivoire.
 38822431	Correction: Malaria epidemiology, surveillance and response for elimination in Lao PDR.
-38821330	Might Procalcitonin help predict imported falciparum malaria in children?
+38821330	Might procalcitonin help predict imported falciparum malaria in children?
 38821187	Proteomic approaches for protein kinase substrate identification in Apicomplexa.
 38821147	Assessing the Potential of Nano-Formulated Chlorfenapyr and Clothianidin Insecticides-Treated Sugar Baits against Anopheles funestus, Anopeles coluzzii and Culex quinquefasciatus Mosquitoes.
 38820542	Molecular prevalence, phylogeny and hematological impact of Toxoplasma gondii and Plasmodium spp. in common quails from Punjab, Pakistan.
@@ -283,7 +288,7 @@
 38734650	Phytochemical evaluation of Ziziphus mucronata and Xysmalobium undulutum towards the discovery and development of anti-malarial drugs.
 38734409	Charting new territory: The Plasmodium falciparum tRNA modification landscape.
 38734396	Evaluation of genotoxic damage, production reactive oxygen and nitrogen species in Plasmodium yoelii yoelii exposed to sodium metavanadate.
-38734217	Characterizing the blood stage antimalarial activity of pyronaridine in healthy volunteers experimentally infected with Plasmodium falciparum.
+38734217	Characterising the blood-stage antimalarial activity of pyronaridine in healthy volunteers experimentally infected with Plasmodium falciparum.
 38733883	Robenidine derivatives as potential antischistosomal drug candidates.
 38733173	The role of the major chemosensory organs in the host-seeking activity of Anopheles coluzzii (Diptera: Culicidae).
 38732642	Traditional Uses, Phytochemistry, and Pharmacological Activities of Vernonia cinerea (L.) Less.: An Updated Review.
@@ -9992,8 +9997,3 @@
 35416431	Malarial PI4K inhibitor induced diaphragmatic hernias in rat: Potential link with mammalian kinase inhibition.
 35415939	Clinical characteristics, complications, and predictors of outcome of hospitalized adult Sudanese patients with COVID-19 and malaria coinfection in Sudan: A multicenter retrospective cross-sectional study.
 35415749	Long-lasting insecticide-treated net use and malaria infections on the Kenyan coast.
-35414241	A novel statistical framework for exploring the population dynamics and seasonality of mosquito populations.
-35414225	Parasite-associated mortality in birds: the roles of specialist parasites and host evolutionary distance.
-35413937	Evaluations of candidate markers of dihydroartemisinin-piperaquine resistance in Plasmodium falciparum isolates from the China-Myanmar, Thailand-Myanmar, and Thailand-Cambodia borders.
-35413907	Re-orienting anti-malarial drug development to better serve pregnant women.
-35413904	Field evaluation of the diagnostic performance of EasyScan GO: a digital malaria microscopy device based on machine-learning.
