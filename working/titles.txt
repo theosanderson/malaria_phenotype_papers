@@ -1,4 +1,3 @@
-38836128	Paul de Kruif, American science writer on malaria: a case study.
 38835780	Monocytes, particularly nonclassical ones, lose their opsonic and nonopsonic phagocytosis capacity during pediatric cerebral malaria.
 38835504	Outbreak of Human Trichinellosis - Arizona, Minnesota, and South Dakota, 2022.
 38835260	Virus-like particles expressing microneme-associated antigen of Plasmodium berghei confer better protection than those expressing apical membrane antigen 1.
@@ -9997,3 +9996,4 @@
 35416973	Diagnosis and Management of Trichomonas vaginalis: Summary of Evidence Reviewed for the 2021 Centers for Disease Control and Prevention Sexually Transmitted Infections Treatment Guidelines.
 35416868	Association between vitamin D serum levels and clinical, laboratory, and parasitological parameters in patients with malaria from an endemic area of the Amazon.
 35416709	Dimeric Artesunate Glycerophosphocholine Conjugate Nano-Assemblies as Slow-Release Antimalarials to Overcome Kelch 13 Mutant Artemisinin Resistance.
+35416696	A Rapid and Specific Genotyping Platform for Plasmodium falciparum Chloroquine Resistance via Allele-Specific PCR with a Lateral Flow Assay.
