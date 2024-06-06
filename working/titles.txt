@@ -1,3 +1,8 @@
+38837977	Perspectives of healthcare professionals on training for quantitative G6PD testing during implementation of tafenoquine in Brazil (QualiTRuST Study).
+38837973	Day 3 parasitemia and Plasmodium falciparum Kelch 13 mutations among uncomplicated malaria patients treated with artemether-lumefantrine in Adjumani district, Uganda.
+38837462	Aetiological profile of acute encephalitis syndrome in Assam, India, during a 4-year period from 2019 to 2022.
+38837417	Unlocking nitrogen compounds' promise against malaria: A comprehensive review.
+38837364	The human malaria-Aotus monkey model: a historical perspective in antimalarial chemotherapy research at the Gorgas Memorial Laboratory-Panama.
 38835780	Monocytes, particularly nonclassical ones, lose their opsonic and nonopsonic phagocytosis capacity during pediatric cerebral malaria.
 38835504	Outbreak of Human Trichinellosis - Arizona, Minnesota, and South Dakota, 2022.
 38835260	Virus-like particles expressing microneme-associated antigen of Plasmodium berghei confer better protection than those expressing apical membrane antigen 1.
@@ -9992,8 +9997,3 @@
 35417716	TLR8 is activated by 5'-methylthioinosine, a Plasmodium falciparum-derived intermediate of the purine salvage pathway.
 35417706	Aedes aegypti sialokinin facilitates mosquito blood feeding and modulates host immunity and vascular biology.
 35417197	Plasmodium Egress Across the Parasite Life Cycle.
-35417070	Neutrophils impose strong immune pressure against PfEMP1 variants implicated in cerebral malaria.
-35416973	Diagnosis and Management of Trichomonas vaginalis: Summary of Evidence Reviewed for the 2021 Centers for Disease Control and Prevention Sexually Transmitted Infections Treatment Guidelines.
-35416868	Association between vitamin D serum levels and clinical, laboratory, and parasitological parameters in patients with malaria from an endemic area of the Amazon.
-35416709	Dimeric Artesunate Glycerophosphocholine Conjugate Nano-Assemblies as Slow-Release Antimalarials to Overcome Kelch 13 Mutant Artemisinin Resistance.
-35416696	A Rapid and Specific Genotyping Platform for Plasmodium falciparum Chloroquine Resistance via Allele-Specific PCR with a Lateral Flow Assay.
