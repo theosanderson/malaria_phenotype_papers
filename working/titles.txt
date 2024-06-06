@@ -1,3 +1,9 @@
+38842534	Outcome Assessment of the implementation of Mass Drug Administration against Lymphatic Filariasis, in Kalaburagi (Gulbarga) District of Karnataka state: A Cross Sectional Survey.
+38842531	Evaluation of InBios Scrub Typhus Detect IgM Rapid Test in Acute Fever Cases from Southwest and East India.
+38842528	Chemical Composition and Mosquitocidal activity of the methanolic leaf extracts from Ziziphus mauritiana L. against Aedes aegypti L. and Culex quinquefasciatus Say.
+38842524	Single Jar for Collecting and Rearing Mosquito Life Stages: An Innovative Prototype.
+38842452	Impact of seasonal malaria chemoprevention based on the number of medicines doses received on malaria burden among children aged 3-59 months in Nigeria: A propensity score-matched analysis.
+38842304	Detection of naturally acquired, strain-transcending antibodies against rosetting Plasmodium falciparum strains in humans.
 38840941	Screening for antifolate and artemisinin resistance in Plasmodium falciparum dried-blood spots from three hospitals of Eritrea.
 38840879	Assessment of the selected hematological profiles among malaria and Schistosoma mansoni co-infected patients, Northwest Ethiopia.
 38840271	Indoloquinoline Alkaloids as Antimalarials: Advances, Challenges, and Opportunities.
@@ -9991,9 +9997,3 @@
 35428230	Implementation of a novel malaria management strategy based on self-testing and self-treatment in remote areas in the Amazon (Malakit): confronting a-priori assumptions with reality.
 35427579	Disrupting a Plasmodium berghei putative phospholipase impairs efficient egress of merosomes.
 35425724	Changes in Childhood Immunizations and Intermittent Preventive Malaria Treatment in a Peripheral, Referral Immunization Center During the First 12 Months of COVID-19 Pandemic in Sierra Leone, Western Africa.
-35423571	Pepsin-like aspartic proteases (PAPs) as model systems for combining biomolecular simulation with biophysical experiments.
-35421346	The quest for control.
-35421160	Knowledge and practices surrounding malaria and LLIN use among Arab, Dazagada and Fulani pastoral nomads in Chad.
-35421083	Circulating IL-6, IL-10, and TNF-alpha and IL-10/IL-6 and IL-10/TNF-alpha ratio profiles of polyparasitized individuals in rural and urban areas of gabon.
-35420692	What causes malaria anemia?
-35420541	A novel rapid visual detection assay for Toxoplasma gondii combining recombinase-aided amplification and lateral flow dipstick coupled with CRISPR-Cas13a fluorescence (RAA-Cas13a-LFD).
