@@ -1,3 +1,9 @@
+38840266	Plasmodium falciparum neonatal malaria with atypical presentation: a case series from southwestern Ethiopia.
+38840162	Severe malaria intervention status in Nigeria: workshop meeting report.
+38839981	Efficacy of pyrethroid-pyriproxyfen and pyrethroid-chlorfenapyr nets on entomological indicators of malaria transmission: third year of a randomised controlled trial in Benin.
+38840271	Indoloquinoline Alkaloids as Antimalarials: Advances, Challenges, and Opportunities.
+38840196	Insufficient duration of insecticidal efficacy of Yahe(®) insecticide-treated nets in Papua New Guinea.
+38840151	Bioequivalence of a new coated 15 mg primaquine formulation for malaria elimination.
 38837977	Perspectives of healthcare professionals on training for quantitative G6PD testing during implementation of tafenoquine in Brazil (QualiTRuST Study).
 38837973	Day 3 parasitemia and Plasmodium falciparum Kelch 13 mutations among uncomplicated malaria patients treated with artemether-lumefantrine in Adjumani district, Uganda.
 38837462	Aetiological profile of acute encephalitis syndrome in Assam, India, during a 4-year period from 2019 to 2022.
@@ -9991,9 +9997,3 @@
 35420541	A novel rapid visual detection assay for Toxoplasma gondii combining recombinase-aided amplification and lateral flow dipstick coupled with CRISPR-Cas13a fluorescence (RAA-Cas13a-LFD).
 35420484	Autophagy Underlies the Proteostasis Mechanisms of Artemisinin Resistance in P. falciparum Malaria.
 35420481	Kinetic Tracking of Plasmodium falciparum Antigens on Infected Erythrocytes with a Novel Reporter of Protein Insertion and Surface Exposure.
-35419958	Mystery of blackwater fever from an Australian perspective.
-35419609	Anti-tumor immunity by transcriptional synergy between TLR9 and STING activation.
-35418071	"I do lack peace, and I've run out of answers": primary caregivers' perspectives on social and behaviour problems in cerebral malaria survivors in Blantyre, Malawi.
-35417716	TLR8 is activated by 5'-methylthioinosine, a Plasmodium falciparum-derived intermediate of the purine salvage pathway.
-35417706	Aedes aegypti sialokinin facilitates mosquito blood feeding and modulates host immunity and vascular biology.
-35417197	Plasmodium Egress Across the Parasite Life Cycle.
