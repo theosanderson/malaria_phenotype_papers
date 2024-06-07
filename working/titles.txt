@@ -35,7 +35,7 @@
 38833991	Exploring antimalarial potential: Conjugating organometallic moieties with organic fragments for enhanced efficacy.
 38833491	Use of malaria rapid diagnostic test and anti-malarial drug prescription practices among primary healthcare workers in Ebonyi state, Nigeria: An analytical cross-sectional study.
 38833464	Geospatial joint modeling of vector and parasite serology to microstratify malaria transmission.
-38832798	A novel Plasmodium berghei protein S14 is essential for sporozoite gliding motility and infectivity.
+38832798	The novel Plasmodium berghei protein S14 is essential for sporozoite gliding motility and infectivity.
 38831862	Tobacco Use and Associated Factors Among Men in Tanzania: Further Analysis of the 2022 Tanzania Demographic and Health Survey Data.
 38831778	Lingering challenges in malaria elimination efforts in sub-Saharan Africa: Insights and potential solutions.
 38831351	Protein target similarity is positive predictor of in vitro antipathogenic activity: a drug repurposing strategy for Plasmodium falciparum.
