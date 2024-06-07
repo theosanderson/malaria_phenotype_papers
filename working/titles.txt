@@ -1,3 +1,6 @@
+38844987	LLIN Evaluation in Uganda Project (LLINEUP): modelling the impact of COVID-19-related disruptions on delivery of long-lasting insecticidal nets on malaria indicators in Uganda.
+38844954	Screening blood donors for malaria, can we increase the number of eligible donors? An observational retrospective study.
+38844266	Comparison of the effect of bacterial stimulation on the global epigenetic landscape and transcription of immune genes in primarily zoophilic members of the Anopheles gambiae complex (Diptera: Culicidae).
 38842534	Outcome Assessment of the implementation of Mass Drug Administration against Lymphatic Filariasis, in Kalaburagi (Gulbarga) District of Karnataka state: A Cross Sectional Survey.
 38842531	Evaluation of InBios Scrub Typhus Detect IgM Rapid Test in Acute Fever Cases from Southwest and East India.
 38842528	Chemical Composition and Mosquitocidal activity of the methanolic leaf extracts from Ziziphus mauritiana L. against Aedes aegypti L. and Culex quinquefasciatus Say.
@@ -220,7 +223,7 @@
 38762448	Characteristics of the Western Province, Zambia, trial site for evaluation of attractive targeted sugar baits for malaria vector control.
 38762379	The emergency burden in low and middle-income countries.
 38762159	New member of Plasmodium (Vinckeia) and Plasmodium cyclopsi discovered in bats in Sierra Leone - nuclear sequence and complete mitochondrial genome analyses.
-38761871	The Effect of Malaria-Induced Alteration of Metabolism on Piperaquine Disposition in Plasmodium yoelii-Infected mice, as Well as Predicted in Malaria Patients.
+38761871	The effect of malaria-induced alteration of metabolism on piperaquine disposition in Plasmodium yoelii-infected mice, as well as predicted in malaria patients.
 38761865	Genetic variability of histidine-rich protein 2 repeat sequences: Misleading factor in true determination of Plasmodium falciparum in different population.
 38761813	Plasmodium ovale spp dhfr mutations associated with reduced susceptibility to pyrimethamine in sub-Saharan Africa: a retrospective genetic epidemiology and functional study.
 38761524	In vivo antimalarial efficacy of Artemisia afra powder suspensions.
@@ -9994,6 +9997,3 @@
 35429183	A conserved malaria parasite protein required for maintenance of sporozoite cell shape and transmission.
 35428783	Genetics and immunity of Anopheles response to the entomopathogenic fungus Metarhizium anisopliae overlap with immunity to Plasmodium.
 35428264	Blood meal profile and positivity rate with malaria parasites among different malaria vectors in Sudan.
-35428230	Implementation of a novel malaria management strategy based on self-testing and self-treatment in remote areas in the Amazon (Malakit): confronting a-priori assumptions with reality.
-35427579	Disrupting a Plasmodium berghei putative phospholipase impairs efficient egress of merosomes.
-35425724	Changes in Childhood Immunizations and Intermittent Preventive Malaria Treatment in a Peripheral, Referral Immunization Center During the First 12 Months of COVID-19 Pandemic in Sierra Leone, Western Africa.
