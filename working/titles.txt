@@ -1,3 +1,4 @@
+38847474	Comment on imported malaria associated with international travel in China.
 38846124	[Reduction in malaria case-fatality rate after implementation of an emergency plan for improved case management in the Bittou health district, Burkina Faso].
 38846115	[Blood count abnormalities in the association of sickle cell disease and malaria in clinical hematology at the CNHU-HKM in Cotonou (Bénin)].
 38846112	[The mosquitoes (Diptera: Culicidae) of Djibouti: bibliographical review (1970-2023)].
@@ -9996,4 +9997,3 @@
 37383572	Effect of public health expenditure on health outcomes in Nigeria and Ghana.
 35430265	Text mining in mosquito-borne disease: A systematic review.
 35430064	Pyrethroid resistance in the New World malaria vector Anopheles albimanus is mediated by cytochrome P450 CYP6P5.
-35429452	Measuring and monitoring child health and wellbeing: recommendations for tracking progress with a core set of indicators in the Sustainable Development Goals era.
