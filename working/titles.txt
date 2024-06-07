@@ -1,3 +1,8 @@
+38846124	[Reduction in malaria case-fatality rate after implementation of an emergency plan for improved case management in the Bittou health district, Burkina Faso].
+38846115	[Blood count abnormalities in the association of sickle cell disease and malaria in clinical hematology at the CNHU-HKM in Cotonou (Bénin)].
+38846112	[The mosquitoes (Diptera: Culicidae) of Djibouti: bibliographical review (1970-2023)].
+38846093	Fragment-based virtual screening identifies novel leads against Plasmepsin IX (PlmIX) of Plasmodium falciparum: Homology modeling, molecular docking, and simulation approaches.
+38845931	Stability analysis of a metapopulation model for the dynamics of malaria's spread including climatic factors.
 38844987	LLIN Evaluation in Uganda Project (LLINEUP): modelling the impact of COVID-19-related disruptions on delivery of long-lasting insecticidal nets on malaria indicators in Uganda.
 38844954	Screening blood donors for malaria, can we increase the number of eligible donors? An observational retrospective study.
 38844266	Comparison of the effect of bacterial stimulation on the global epigenetic landscape and transcription of immune genes in primarily zoophilic members of the Anopheles gambiae complex (Diptera: Culicidae).
@@ -9992,8 +9997,3 @@
 35430265	Text mining in mosquito-borne disease: A systematic review.
 35430064	Pyrethroid resistance in the New World malaria vector Anopheles albimanus is mediated by cytochrome P450 CYP6P5.
 35429452	Measuring and monitoring child health and wellbeing: recommendations for tracking progress with a core set of indicators in the Sustainable Development Goals era.
-35429395	Amplicon Sequencing as a Potential Surveillance Tool for Complexity of Infection and Drug Resistance Markers in Plasmodium falciparum Asymptomatic Infections.
-35429389	Emerging avenues for the management of cerebral malaria.
-35429183	A conserved malaria parasite protein required for maintenance of sporozoite cell shape and transmission.
-35428783	Genetics and immunity of Anopheles response to the entomopathogenic fungus Metarhizium anisopliae overlap with immunity to Plasmodium.
-35428264	Blood meal profile and positivity rate with malaria parasites among different malaria vectors in Sudan.
