@@ -1,3 +1,6 @@
+38848445	Y chromosome shredding in Anopheles gambiae: Insight into the cellular dynamics of a novel synthetic sex ratio distorter.
+38848436	Machine learning prediction of malaria vaccine efficacy based on antibody profiles.
+38848213	Plasmodium infection induces phenotypic, clonal, and spatial diversity among differentiating CD4(+) T cells.
 38847474	Comment on imported malaria associated with international travel in China.
 38846124	[Reduction in malaria case-fatality rate after implementation of an emergency plan for improved case management in the Bittou health district, Burkina Faso].
 38846115	[Blood count abnormalities in the association of sickle cell disease and malaria in clinical hematology at the CNHU-HKM in Cotonou (Bénin)].
@@ -9994,6 +9997,3 @@
 35431554	Equity in the Perceived Quality of Care Received by Malaria Patients Under National Health Insurance Scheme in Ghana.
 35431552	Assessment of Indoor Levels of Carbon Monoxide Emission from Smoldering Mosquito Coils Used in Nigeria.
 35431419	Exogenous Strigolactone (GR24) Positively Regulates Growth, Photosynthesis, and Improves Glandular Trichome Attributes for Enhanced Artemisinin Production in Artemisia annua.
-37383572	Effect of public health expenditure on health outcomes in Nigeria and Ghana.
-35430265	Text mining in mosquito-borne disease: A systematic review.
-35430064	Pyrethroid resistance in the New World malaria vector Anopheles albimanus is mediated by cytochrome P450 CYP6P5.
