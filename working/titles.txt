@@ -1,3 +1,6 @@
+38849803	Improvement and prediction of the extraction parameters of lupeol and stigmasterol metabolites of Melia azedarach with response surface methodology.
+38849723	Magnitude and associated factors of thrombocytopenia, among pregnant women at Mizan Tepi university teaching hospital south west Ethiopia.
+38849365	Development of an improved blood-stage malaria vaccine targeting the essential RH5-CyRPA-RIPR invasion complex.
 38848445	Y chromosome shredding in Anopheles gambiae: Insight into the cellular dynamics of a novel synthetic sex ratio distorter.
 38848436	Machine learning prediction of malaria vaccine efficacy based on antibody profiles.
 38848213	Plasmodium infection induces phenotypic, clonal, and spatial diversity among differentiating CD4(+) T cells.
@@ -9994,6 +9997,3 @@
 35432707	Gene-drive mosquitoes: a prospect for future malaria control.
 35432704	Predictors of under-five healthcare utilization in Rongo sub-county of Migori County, Kenya: results of a population-based cross-sectional survey.
 35432291	Observation of the Gut Microbiota Profile in BALB/c Mice Induced by Plasmodium yoelii 17XL Infection.
-35431554	Equity in the Perceived Quality of Care Received by Malaria Patients Under National Health Insurance Scheme in Ghana.
-35431552	Assessment of Indoor Levels of Carbon Monoxide Emission from Smoldering Mosquito Coils Used in Nigeria.
-35431419	Exogenous Strigolactone (GR24) Positively Regulates Growth, Photosynthesis, and Improves Glandular Trichome Attributes for Enhanced Artemisinin Production in Artemisia annua.
