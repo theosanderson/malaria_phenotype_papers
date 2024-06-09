@@ -1,3 +1,5 @@
+38851821	SOD3 suppresses early cellular immune responses to parasite infection.
+38851058	Longitudinal changes in iron homeostasis in human experimental and clinical malaria.
 38849803	Improvement and prediction of the extraction parameters of lupeol and stigmasterol metabolites of Melia azedarach with response surface methodology.
 38849723	Magnitude and associated factors of thrombocytopenia, among pregnant women at Mizan Tepi university teaching hospital south west Ethiopia.
 38849365	Development of an improved blood-stage malaria vaccine targeting the essential RH5-CyRPA-RIPR invasion complex.
@@ -73,7 +75,7 @@
 38822431	Correction: Malaria epidemiology, surveillance and response for elimination in Lao PDR.
 38821330	Might procalcitonin help predict imported falciparum malaria in children?
 38821187	Proteomic approaches for protein kinase substrate identification in Apicomplexa.
-38821147	Assessing the Potential of Nano-Formulated Chlorfenapyr and Clothianidin Insecticides-Treated Sugar Baits against Anopheles funestus, Anopeles coluzzii and Culex quinquefasciatus Mosquitoes.
+38821147	Assessing the potential of nano-formulated chlorfenapyr and clothianidin insecticides-treated sugar baits against Anopheles funestus, Anopeles coluzzii and Culex quinquefasciatus mosquitoes.
 38820542	Molecular prevalence, phylogeny and hematological impact of Toxoplasma gondii and Plasmodium spp. in common quails from Punjab, Pakistan.
 38820535	Role of Rabenosyn-5 and Rab5b in host cell cytosol uptake reveals conservation of endosomal transport in malaria parasites.
 38819229	Plasmodium yoelii Infection Enhances the Expansion of Myeloid-Derived Suppressor Cells via JAK/STAT3 Pathway.
@@ -9995,5 +9997,3 @@
 35433001	Prevalence of asymptomatic malaria and associated factors in Ethiopia: Systematic review and meta-analysis.
 35432708	[Co-infection of malaria and COVID-19 in patients admitted to the COVID Infectious Disease Department of the Libreville University Hospital Center].
 35432707	Gene-drive mosquitoes: a prospect for future malaria control.
-35432704	Predictors of under-five healthcare utilization in Rongo sub-county of Migori County, Kenya: results of a population-based cross-sectional survey.
-35432291	Observation of the Gut Microbiota Profile in BALB/c Mice Induced by Plasmodium yoelii 17XL Infection.
