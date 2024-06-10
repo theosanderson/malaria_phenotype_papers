@@ -1,16 +1,6 @@
+38857015	Acetaminophen and Ibuprofen in Pediatric Central Nervous System Malaria: A Randomized Clinical Trial.
 38855485	Evaluation of the Training Program to Train HIV Treatment Center Staff in Pakistan.
 38854983	Transfusion transmissible malaria: seroprevalence of malaria parasitemia in blood donors in Garhwal region of Uttarakhand, India.
-38854887	The role of pre-shipment batch testing in ensuring good medicine quality.
-38854885	Duration of the mosquitocidal effect of ivermectin.
-38854884	Solar net fan: a potential tool to enhance bednet usage in hot climates.
-38854883	A novel experimental hut for the study of entrance and exit behaviour of endophilic malaria vectors.
-38854882	The AMFm and Medicine Diversion: Good intent enabling corrupt practices.
-38854881	Community health workers' perceptions of barriers to utilisation of malaria interventions in Lilongwe, Malawi: A qualitative study.
-38854880	Perceptions and practices of the Konso community (South-west Ethiopia) relating to malaria: implications for control.
-38854879	Formulation of quinine suppository for initiation of early treatment of malaria - a preliminary study.
-38854878	Paradigm shifts in malaria study and control.
-38854877	Malaria pattern observed in the highland fringe of Butajira, Southern Ethiopia: a ten-year retrospective analysis from parasitological and metrological data.
-38854876	Effect of preventive supplementation with zinc and other micronutrients on malaria and diarrhoeal morbidity in African children.
 38854427	A novel locus in CSMD1 gene is associated with increased susceptibility to severe malaria in Malian children.
 38854116	A high content imaging assay for identification of specific inhibitors of native Plasmodium liver stage protein synthesis.
 38854026	Discovery of knock-down resistance in the major African malaria vector Anopheles funestus.
@@ -9997,3 +9987,13 @@
 35439524	Foreword - Aquaporins at thirty.
 35439307	Whole Blood Transfusion for Severe Malarial Anemia in a High Plasmodium falciparum Transmission Setting.
 35439248	A national survey integrating clinical, laboratory, and WASH data to determine the typology of trachoma in Nauru.
+35438281	Predictors of Outcome in Acute Respiratory Distress Syndrome in Acute Febrile Illness in Medical Intensive Care Unit.
+35437908	Design and implementation of multiplexed amplicon sequencing panels to serve genomic epidemiology of infectious disease: A malaria case study.
+35437328	Anopheline mosquitoes are protected against parasite infection by tryptophan catabolism in gut microbiota.
+35437129	Effectiveness of screened ceilings over the current best practice in reducing malaria prevalence in western Kenya: a cluster randomised controlled trial.
+35436964	Prompt and precise identification of various sources of infection in response to the prevention of malaria re-establishment in China.
+35436961	Composition of mosquito fauna and insecticide resistance status of Anopheles gambiae sensu lato in Itang special district, Gambella, Southwestern Ethiopia.
+35436908	Uptake and correlates of cervical cancer screening among women attending a community-based multi-disease health campaign in Kenya.
+35436896	Scaling up tobacco cessation within TB programmes: findings from a multi-country, mixed-methods implementation study.
+35436763	Pediatric Participant Retention Rates in a Longitudinal Malaria Immunology Study.
+35436762	Tracking of Mammals and Their Fleas for Plague Surveillance in Madagascar, 2018-2019.
