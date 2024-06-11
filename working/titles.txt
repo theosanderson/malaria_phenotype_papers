@@ -1,4 +1,10 @@
+38860197	Ace-1 Target Site Status and Metabolic Detoxification Associated with Bendiocarb Resistance in the Field Populations of Main Malaria Vector, Anopheles stephensi in Iran.
+38859929	A youth advisory group on health and health research in rural Cambodia.
+38859743	Late Parasitological Failure and Subsequent Isolated Gametocytemia of Uncomplicated Plasmodium falciparum Malaria in a Returned Traveler From Ghana, 2023.
+38859739	Fine-Scale Spatial Prediction on the Risk of Plasmodium vivax Infection in the Republic of Korea.
+38859734	The Perceived Role of Occupational Therapists in Climate Change.
 38858779	Community readiness and acceptance for the implementation of a novel malaria vaccine among at-risk children in sub-saharan Africa: a systematic review protocol.
+38858778	Drivers of autochthonous malaria cases over time: could the Central European present the African future?
 38858696	Chloroquine has shown high therapeutic efficacy against uncomplicated Plasmodium vivax malaria in southern Ethiopia: seven decades after its introduction.
 38858481	Efficient deep learning-based approach for malaria detection using red blood cell smears.
 38858224	Use of population pharmacokinetic-pharmacodynamic modelling to inform antimalarial dose optimization in infants.
@@ -8,7 +14,6 @@
 38857953	[Collaboration between clinical and public health services: an important guarantee for consolidating malaria elimination achievements].
 38857820	The dichotomy between probiotic lactic acid bacteria and Plasmodium: a promising therapeutic avenue.
 38857772	Hematological changes due to malaria - an update.
-38858778	Drivers of autochthonous malaria cases over time: could the Central European present the African future?
 38857496	Malaria among members of the U.S. Armed Forces, 2023.
 38857253	Vaccine efficacy induced by virus-like particles containing Leishmania donovani surface glycoprotein GP63.
 38857015	Acetaminophen and Ibuprofen in Pediatric Central Nervous System Malaria: A Randomized Clinical Trial.
@@ -9992,8 +9997,3 @@
 35443476	Artesunate Resistance - An Emerging Threat.
 35443186	Systems analysis shows a role of cytophilic antibodies in shaping innate tolerance to malaria.
 35443155	A single-cell liver atlas of Plasmodium vivax infection.
-35442999	Reduction in malaria burden following the introduction of indoor residual spraying in areas protected by long-lasting insecticidal nets in Western Kenya, 2016-2018.
-35441178	Broadly neutralizing antibodies target the coronavirus fusion peptide.
-35440085	The potential impact of Anopheles stephensi establishment on the transmission of Plasmodium falciparum in Ethiopia and prospective control measures.
-35439994	Changing transmission dynamics among migrant, indigenous and mining populations in a malaria hotspot in Northern Brazil: 2016 to 2020.
-35439987	Low prevalence of Plasmodium falciparum parasites lacking pfhrp2/3 genes among asymptomatic and symptomatic school-age children in Kinshasa, Democratic Republic of Congo.
