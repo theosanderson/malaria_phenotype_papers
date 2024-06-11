@@ -1,3 +1,5 @@
+38857496	Malaria among members of the U.S. Armed Forces, 2023.
+38857253	Vaccine efficacy induced by virus-like particles containing Leishmania donovani surface glycoprotein GP63.
 38857015	Acetaminophen and Ibuprofen in Pediatric Central Nervous System Malaria: A Randomized Clinical Trial.
 38855485	Evaluation of the Training Program to Train HIV Treatment Center Staff in Pakistan.
 38854983	Transfusion transmissible malaria: seroprevalence of malaria parasitemia in blood donors in Garhwal region of Uttarakhand, India.
@@ -9995,5 +9997,3 @@
 35436961	Composition of mosquito fauna and insecticide resistance status of Anopheles gambiae sensu lato in Itang special district, Gambella, Southwestern Ethiopia.
 35436908	Uptake and correlates of cervical cancer screening among women attending a community-based multi-disease health campaign in Kenya.
 35436896	Scaling up tobacco cessation within TB programmes: findings from a multi-country, mixed-methods implementation study.
-35436763	Pediatric Participant Retention Rates in a Longitudinal Malaria Immunology Study.
-35436762	Tracking of Mammals and Their Fleas for Plague Surveillance in Madagascar, 2018-2019.
