@@ -1,3 +1,14 @@
+38858779	Community readiness and acceptance for the implementation of a novel malaria vaccine among at-risk children in sub-saharan Africa: a systematic review protocol.
+38858778	Drivers of autochthonous malaria cases over time: could the Central European present the African future?
+38858696	Chloroquine has shown high therapeutic efficacy against uncomplicated Plasmodium vivax malaria in southern Ethiopia: seven decades after its introduction.
+38858481	Efficient deep learning-based approach for malaria detection using red blood cell smears.
+38858224	Use of population pharmacokinetic-pharmacodynamic modelling to inform antimalarial dose optimization in infants.
+38857970	[Plasmodium falciparum malaria with acute abdominal pain as the first symptom: a case report].
+38857965	[Construction of a global health talent training evaluation index system based on bibliometric analysis].
+38857964	[Bibliometric analysis of researches on the Plasmodium falciparum repetitive interspersed families of polypeptides protein from 1993 to 2022].
+38857953	[Collaboration between clinical and public health services: an important guarantee for consolidating malaria elimination achievements].
+38857820	The dichotomy between probiotic lactic acid bacteria and Plasmodium: a promising therapeutic avenue.
+38857772	Hematological changes due to malaria - an update.
 38857496	Malaria among members of the U.S. Armed Forces, 2023.
 38857253	Vaccine efficacy induced by virus-like particles containing Leishmania donovani surface glycoprotein GP63.
 38857015	Acetaminophen and Ibuprofen in Pediatric Central Nervous System Malaria: A Randomized Clinical Trial.
@@ -9986,14 +9997,3 @@
 35440085	The potential impact of Anopheles stephensi establishment on the transmission of Plasmodium falciparum in Ethiopia and prospective control measures.
 35439994	Changing transmission dynamics among migrant, indigenous and mining populations in a malaria hotspot in Northern Brazil: 2016 to 2020.
 35439987	Low prevalence of Plasmodium falciparum parasites lacking pfhrp2/3 genes among asymptomatic and symptomatic school-age children in Kinshasa, Democratic Republic of Congo.
-35439524	Foreword - Aquaporins at thirty.
-35439307	Whole Blood Transfusion for Severe Malarial Anemia in a High Plasmodium falciparum Transmission Setting.
-35439248	A national survey integrating clinical, laboratory, and WASH data to determine the typology of trachoma in Nauru.
-35438281	Predictors of Outcome in Acute Respiratory Distress Syndrome in Acute Febrile Illness in Medical Intensive Care Unit.
-35437908	Design and implementation of multiplexed amplicon sequencing panels to serve genomic epidemiology of infectious disease: A malaria case study.
-35437328	Anopheline mosquitoes are protected against parasite infection by tryptophan catabolism in gut microbiota.
-35437129	Effectiveness of screened ceilings over the current best practice in reducing malaria prevalence in western Kenya: a cluster randomised controlled trial.
-35436964	Prompt and precise identification of various sources of infection in response to the prevention of malaria re-establishment in China.
-35436961	Composition of mosquito fauna and insecticide resistance status of Anopheles gambiae sensu lato in Itang special district, Gambella, Southwestern Ethiopia.
-35436908	Uptake and correlates of cervical cancer screening among women attending a community-based multi-disease health campaign in Kenya.
-35436896	Scaling up tobacco cessation within TB programmes: findings from a multi-country, mixed-methods implementation study.
