@@ -1,3 +1,4 @@
+38861406	Chondroitin sulfate-liposome: clustering toward high functional efficiency.
 38860197	Ace-1 Target Site Status and Metabolic Detoxification Associated with Bendiocarb Resistance in the Field Populations of Main Malaria Vector, Anopheles stephensi in Iran.
 38859929	A youth advisory group on health and health research in rural Cambodia.
 38859743	Late Parasitological Failure and Subsequent Isolated Gametocytemia of Uncomplicated Plasmodium falciparum Malaria in a Returned Traveler From Ghana, 2023.
@@ -9996,4 +9997,3 @@
 35443565	Hemostatic and protein C pathway dysfunction in the pathogenesis of experimental cerebral malaria.
 35443476	Artesunate Resistance - An Emerging Threat.
 35443186	Systems analysis shows a role of cytophilic antibodies in shaping innate tolerance to malaria.
-35443155	A single-cell liver atlas of Plasmodium vivax infection.
