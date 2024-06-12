@@ -1,11 +1,13 @@
+38863702	Immunization with PfGBP130 generates antibodies that inhibit RBC invasion by P. falciparum parasites.
+38863149	[Significant increase in malaria deaths in Germany after the end of the COVID-19 pandemic].
+38863067	Impact of targeted drug administration and intermittent preventive treatment for forest goers using artesunate-pyronaridine to control malaria outbreaks in Cambodia.
 38862638	The impact of Plasmodium-driven immunoregulatory networks on immunity to malaria.
+38862600	Harnessing cholesterol uptake of malaria parasites for therapeutic applications.
 38862555	Targeting mosquito X-chromosomes reveals complex transmission dynamics of sex ratio distorting gene drives.
 38862127	3-Position Biaryl Endochin-like Quinolones with Enhanced Antimalarial Performance.
 38862023	Plasmodium LCCL domain-containing modular proteins have their origins in the ancestral alveolate.
 38861981	Close Proximity to Mining Is Associated with Increased Prevalence of the Drug Resistance-Associated Mutation dhps540E in Eastern Democratic Republic of the Congo.
 38861873	Acute lung injury is prevented by monocyte locomotion inhibitory factor in an experimental severe malaria mouse model.
-38863067	Impact of targeted drug administration and intermittent preventive treatment for forest goers using artesunate-pyronaridine to control malaria outbreaks in Cambodia.
-38862600	Harnessing cholesterol uptake of malaria parasites for therapeutic applications.
 38861406	Chondroitin sulfate-liposome: clustering toward high functional efficiency.
 38860197	Ace-1 Target Site Status and Metabolic Detoxification Associated with Bendiocarb Resistance in the Field Populations of Main Malaria Vector, Anopheles stephensi in Iran.
 38859929	A youth advisory group on health and health research in rural Cambodia.
@@ -9995,5 +9997,3 @@
 35447068	SARS-CoV-2 Cross-Reactivity in Prepandemic Serum from Rural Malaria-Infected Persons, Cambodia.
 35446785	Strong off-target antibody reactivity to malarial antigens induced by RTS,S/AS01E vaccination is associated with protection.
 35446252	Wolbachia endosymbionts in two Anopheles species indicates independent acquisitions and lack of prophage elements.
-35445447	An overview of the Plasmodium falciparum hexose transporter and its therapeutic interventions.
-35444689	In-Silico Functional Annotation of Plasmodium falciparum Hypothetical Proteins to Identify Novel Drug Targets.
