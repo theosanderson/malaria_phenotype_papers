@@ -1,3 +1,11 @@
+38863067	Impact of targeted drug administration and intermittent preventive treatment for forest goers using artesunate-pyronaridine to control malaria outbreaks in Cambodia.
+38862638	The impact of Plasmodium-driven immunoregulatory networks on immunity to malaria.
+38862600	Harnessing cholesterol uptake of malaria parasites for therapeutic applications.
+38862555	Targeting mosquito X-chromosomes reveals complex transmission dynamics of sex ratio distorting gene drives.
+38862127	3-Position Biaryl Endochin-like Quinolones with Enhanced Antimalarial Performance.
+38862023	Plasmodium LCCL domain-containing modular proteins have their origins in the ancestral alveolate.
+38861981	Close Proximity to Mining Is Associated with Increased Prevalence of the Drug Resistance-Associated Mutation dhps540E in Eastern Democratic Republic of the Congo.
+38861873	Acute lung injury is prevented by monocyte locomotion inhibitory factor in an experimental severe malaria mouse model.
 38861406	Chondroitin sulfate-liposome: clustering toward high functional efficiency.
 38860197	Ace-1 Target Site Status and Metabolic Detoxification Associated with Bendiocarb Resistance in the Field Populations of Main Malaria Vector, Anopheles stephensi in Iran.
 38859929	A youth advisory group on health and health research in rural Cambodia.
@@ -14,7 +22,7 @@
 38857964	[Bibliometric analysis of researches on the Plasmodium falciparum repetitive interspersed families of polypeptides protein from 1993 to 2022].
 38857953	[Collaboration between clinical and public health services: an important guarantee for consolidating malaria elimination achievements].
 38857820	The dichotomy between probiotic lactic acid bacteria and Plasmodium: a promising therapeutic avenue.
-38857772	Hematological changes due to malaria - an update.
+38857772	Hematological changes due to malaria - An update.
 38857496	Malaria among members of the U.S. Armed Forces, 2023.
 38857253	Vaccine efficacy induced by virus-like particles containing Leishmania donovani surface glycoprotein GP63.
 38857015	Acetaminophen and Ibuprofen in Pediatric Central Nervous System Malaria: A Randomized Clinical Trial.
@@ -9989,11 +9997,3 @@
 35446252	Wolbachia endosymbionts in two Anopheles species indicates independent acquisitions and lack of prophage elements.
 35445447	An overview of the Plasmodium falciparum hexose transporter and its therapeutic interventions.
 35444689	In-Silico Functional Annotation of Plasmodium falciparum Hypothetical Proteins to Identify Novel Drug Targets.
-35444253	Publisher Correction: Myzorhynchus series of Anopheles mosquitoes as potential vectors of Plasmodium bubalis in Thailand.
-35444200	Preclinical characterization and target validation of the antimalarial pantothenamide MMV693183.
-35444178	Solar geoengineering could redistribute malaria risk in developing countries.
-35443719	Priorities of China's participation in global malaria elimination: the perspective of malaria endemic countries.
-35443642	Ethical considerations around volunteer payments in a malaria human infection study in Kenya: an embedded empirical ethics study.
-35443565	Hemostatic and protein C pathway dysfunction in the pathogenesis of experimental cerebral malaria.
-35443476	Artesunate Resistance - An Emerging Threat.
-35443186	Systems analysis shows a role of cytophilic antibodies in shaping innate tolerance to malaria.
