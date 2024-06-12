@@ -1,3 +1,5 @@
+38864616	Transcriptional responses of brain endothelium to Plasmodium falciparum patient-derived isolates in vitro.
+38864359	Collective and Diverted Total Synthesis of the Strasseriolides: A Family of Macrolides Endowed with Potent Antiplasmodial and AntitrypanosomalActivity.
 38863702	Immunization with PfGBP130 generates antibodies that inhibit RBC invasion by P. falciparum parasites.
 38863149	[Significant increase in malaria deaths in Germany after the end of the COVID-19 pandemic].
 38863067	Impact of targeted drug administration and intermittent preventive treatment for forest goers using artesunate-pyronaridine to control malaria outbreaks in Cambodia.
@@ -231,6 +233,7 @@
 38781438	Micro-heterogeneity of transmission shapes submicroscopic malaria carriage in coastal Tanzania.
 38780838	Analysis of the interaction of antimalarial agents with Plasmodium falciparum glutathione reductase through molecular mechanical calculations.
 38780542	Basophil-Derived IL-4 and IL-13 Protect Intestinal Barrier Integrity and Control Bacterial Translocation during Malaria.
+38780294	Applying lessons of COVID-19 and other emerging infectious diseases to future outbreaks.
 38780257	In vitro interaction of naphthoquine with ivermectin, atovaquone, curcumin, and ketotifen in the asexual blood stage of Plasmodium falciparum 3D7.
 38779248	Gaucher's Disease in an Adult Male: A Case Report of a Rare Mutation.
 38779142	Generation of specific immune memory by bacterial exposure in the major malaria vector Anopheles arabiensis (Diptera: Culicidae).
@@ -9994,6 +9997,3 @@
 35447389	Molecular surveillance of chloroquine-resistant Plasmodium falciparum in sub-Saharan African countries after withdrawal of chloroquine for treatment of uncomplicated malaria: A systematic review.
 35447160	Plasmodium exposure alters midgut epithelial cell dynamics during the immune memory in Anopheles albimanus.
 35447149	Alkyne modified purines for assessment of activation of Plasmodium vivax hypnozoites and growth of pre-erythrocytic and erythrocytic stages in Plasmodium spp.
-35447068	SARS-CoV-2 Cross-Reactivity in Prepandemic Serum from Rural Malaria-Infected Persons, Cambodia.
-35446785	Strong off-target antibody reactivity to malarial antigens induced by RTS,S/AS01E vaccination is associated with protection.
-35446252	Wolbachia endosymbionts in two Anopheles species indicates independent acquisitions and lack of prophage elements.
