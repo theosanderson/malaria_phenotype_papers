@@ -1,3 +1,6 @@
+38865412	Prevalence of and factors associated with placental malaria in the White Nile State: a cross-sectional study.
+38865396	Geographic heterogeneity of SARS-CoV-2 circulation in Abidjan, Ivory Coast: a prospective study.
+38865344	Evaluation of transmission-blocking potential of PvPSOP25 using transgenic murine malaria parasite and clinical isolates.
 38864616	Transcriptional responses of brain endothelium to Plasmodium falciparum patient-derived isolates in vitro.
 38864359	Collective and Diverted Total Synthesis of the Strasseriolides: A Family of Macrolides Endowed with Potent Antiplasmodial and AntitrypanosomalActivity.
 38863702	Immunization with PfGBP130 generates antibodies that inhibit RBC invasion by P. falciparum parasites.
@@ -9994,6 +9997,3 @@
 35448833	Development of New Strategies for Malaria Chemoprophylaxis: From Monoclonal Antibodies to Long-Acting Injectable Drugs.
 35448366	Protein Profiling of Malaria-Derived Extracellular Vesicles Reveals Distinct Subtypes.
 35447753	A Practical Insecticide Resistance Monitoring Bioassay for Orally Ingested Dinotefuran in Anopheles Malaria Vectors.
-35447389	Molecular surveillance of chloroquine-resistant Plasmodium falciparum in sub-Saharan African countries after withdrawal of chloroquine for treatment of uncomplicated malaria: A systematic review.
-35447160	Plasmodium exposure alters midgut epithelial cell dynamics during the immune memory in Anopheles albimanus.
-35447149	Alkyne modified purines for assessment of activation of Plasmodium vivax hypnozoites and growth of pre-erythrocytic and erythrocytic stages in Plasmodium spp.
