@@ -1,3 +1,12 @@
+38867325	Estimating dengue burden among family contacts through cluster investigation around probable cases in 2022 and 2023 in the Central Region, Burkina Faso.
+38867296	A review of applications and limitations of using aquatic macroinvertebrate predators for biocontrol of the African malaria mosquito, Anopheles gambiae sensu lato.
+38867217	Therapeutic efficacy and safety of artemether-lumefantrine for uncomplicated Plasmodium falciparum malaria treatment in Metehara, Central-east Ethiopia.
+38867180	Prevalence and associated risk factors for noma in Nigerian children: a systematic review and meta-analysis.
+38867050	Ancient Plasmodium genomes shed light on the history of human malaria.
+38867017	Author Correction: Status of selected biochemical and coagulation profiles and platelet count in malaria and malaria-Schistosoma mansoni co-infection among patients attending at Dembiya selected Health Institutions, Northwest Ethiopia.
+38866743	Entire expressed peripheral blood transcriptome in pediatric severe malarial anemia.
+38866329	Compound management in a virtual research organization: the cornerstone of a reliable MMV discovery engine.
+38866221	A review on RNA interference studies in Anophelines to reveal candidate genes for malaria transmission blocking vaccine.
 38865412	Prevalence of and factors associated with placental malaria in the White Nile State: a cross-sectional study.
 38865396	Geographic heterogeneity of SARS-CoV-2 circulation in Abidjan, Ivory Coast: a prospective study.
 38865344	Evaluation of transmission-blocking potential of PvPSOP25 using transgenic murine malaria parasite and clinical isolates.
@@ -9988,12 +9997,3 @@
 35450856	Implementation of a Low-Field Portable MRI Scanner in a Resource-Constrained Environment: Our Experience in Malawi.
 35450806	Trends of Infectious Disease Markers Among Healthy Blood Donors In Northern India: A Ten Year Study.
 35450787	Hand-in-hand advances in microscopy and Plasmodium nuclear biology.
-35450271	Investigation of Some Gaseous and Trace Metal Emissions With Their Emission Factors From Various Brands of Mosquito Coils Used in Nigeria.
-35449995	A brief review of malaria epidemiological trend in Kermanshah province, Iran, 1986-2014.
-35449901	Metabolic, Pharmacokinetic, and Activity Profile of the Liver Stage Antimalarial (RC-12).
-35449742	Computational Methods for Automated Analysis of Malaria Parasite Using Blood Smear Images: Recent Advances.
-35449113	Prohemocytes are the main cells infected by dengue virus in Aedes aegypti and Aedes albopictus.
-35448834	An Imported Case of Afebrile Plasmodium falciparum Malaria Infection from Tanzania in a Returning Traveler to the Republic of Korea following an Earlier COVID-19 Infection.
-35448833	Development of New Strategies for Malaria Chemoprophylaxis: From Monoclonal Antibodies to Long-Acting Injectable Drugs.
-35448366	Protein Profiling of Malaria-Derived Extracellular Vesicles Reveals Distinct Subtypes.
-35447753	A Practical Insecticide Resistance Monitoring Bioassay for Orally Ingested Dinotefuran in Anopheles Malaria Vectors.
