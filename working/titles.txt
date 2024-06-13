@@ -1,12 +1,12 @@
 38867325	Estimating dengue burden among family contacts through cluster investigation around probable cases in 2022 and 2023 in the Central Region, Burkina Faso.
-38867296	A review of applications and limitations of using aquatic macroinvertebrate predators for biocontrol of the African malaria mosquito, Anopheles gambiae sensu lato.
-38867217	Therapeutic efficacy and safety of artemether-lumefantrine for uncomplicated Plasmodium falciparum malaria treatment in Metehara, Central-east Ethiopia.
 38867180	Prevalence and associated risk factors for noma in Nigerian children: a systematic review and meta-analysis.
 38867050	Ancient Plasmodium genomes shed light on the history of human malaria.
-38867017	Author Correction: Status of selected biochemical and coagulation profiles and platelet count in malaria and malaria-Schistosoma mansoni co-infection among patients attending at Dembiya selected Health Institutions, Northwest Ethiopia.
 38866743	Entire expressed peripheral blood transcriptome in pediatric severe malarial anemia.
 38866329	Compound management in a virtual research organization: the cornerstone of a reliable MMV discovery engine.
 38866221	A review on RNA interference studies in Anophelines to reveal candidate genes for malaria transmission blocking vaccine.
+38867296	A review of applications and limitations of using aquatic macroinvertebrate predators for biocontrol of the African malaria mosquito, Anopheles gambiae sensu lato.
+38867217	Therapeutic efficacy and safety of artemether-lumefantrine for uncomplicated Plasmodium falciparum malaria treatment in Metehara, Central-east Ethiopia.
+38867017	Author Correction: Status of selected biochemical and coagulation profiles and platelet count in malaria and malaria-Schistosoma mansoni co-infection among patients attending at Dembiya selected Health Institutions, Northwest Ethiopia.
 38865412	Prevalence of and factors associated with placental malaria in the White Nile State: a cross-sectional study.
 38865396	Geographic heterogeneity of SARS-CoV-2 circulation in Abidjan, Ivory Coast: a prospective study.
 38865344	Evaluation of transmission-blocking potential of PvPSOP25 using transgenic murine malaria parasite and clinical isolates.
