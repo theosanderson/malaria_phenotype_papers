@@ -1,3 +1,4 @@
+38869308	EasyNAT Malaria: a simple, rapid method to detect Plasmodium species using cross-priming amplification technology.
 38868676	Knowledge and Practices of Women Regarding Malaria and Its Prevention: A Community-Based Study in an Area under Malaria Elimination Programme in Iran.
 38868673	Comparative Effects of Elettaria cardamomum Essential Oil and Its Nanoliposomal State on Mortality of Anopheles stephensi Larvae.
 38868293	Exploring the Impact of Batch Size on Deep Learning Artificial Intelligence Models for Malaria Detection.
@@ -9996,4 +9997,3 @@
 35453786	Whole Genome Sequencing Contributions and Challenges in Disease Reduction Focused on Malaria.
 35453582	Potential of Triterpenic Natural Compound Betulinic Acid for Neglected Tropical Diseases New Treatments.
 35452835	Effects of CYP2D6 genotypes on Plasmodium vivax recurrence after primaquine treatment: A meta-analysis.
-35452681	Association of the receptor for activated C-kinase 1 with ribosomes in Plasmodium falciparum.
