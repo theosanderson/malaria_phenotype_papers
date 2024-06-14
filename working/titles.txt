@@ -1,3 +1,6 @@
+38872642	Imported Malaria at the Ibn Sina University Hospital in Rabat: A Retrospective Study of 81 Cases.
+38872579	Polyols induce acute oxidative stress and mortality in Indian malaria vector Anopheles stephensi (Diptera: Culicidae): potential for use as sugar-cum-toxin source in toxic sugar baits.
+38872534	Modelling mosquito population suppression based on competition system with strong and weak Allee effect.
 38872182	Core principles of Malakit intervention for transferability in other contexts.
 38872178	Prognostics of multiple malaria episodes and nutritional status in children aged 6 to 59 months from 2013 to 2017 in Dangassa, Koulikoro region, Mali.
 38871839	Vectorial drivers of malaria transmission in Jabi Tehnan district, Amhara Regional State, Ethiopia.
@@ -9994,6 +9997,3 @@
 35459178	Health care provider practices in diagnosis and treatment of malaria in rural communities in Kisumu County, Kenya.
 35459176	The changing malaria trend and control efforts in Oromia Special zone, Amhara Regional State, North-East Ethiopia.
 35459163	A single point mutation in the Plasmodium falciparum 3'-5' exonuclease does not alter piperaquine susceptibility.
-35458660	Investigation of an Allosteric Deoxyhypusine Synthase Inhibitor in P. falciparum.
-35458169	Ensuring the Efficacious Iron Fortification of Foods: A Tale of Two Barriers.
-35456874	Red Blood Cell BCL-x(L) Is Required for Plasmodium falciparum Survival: Insights into Host-Directed Malaria Therapies.
