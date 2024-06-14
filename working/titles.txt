@@ -1,3 +1,6 @@
+38874346	Antimalarial activity of cecropin antimicrobial peptides derived from Anopheles mosquitoes.
+38874194	Malaria and other infections induce polyreactive antibodies that impact SARS-CoV-2 seropositivity estimations in endemic settings.
+38874098	Varied prevalence of antimalarial drug resistance markers in different populations of newly arrived refugees in Uganda.
 38872642	Imported Malaria at the Ibn Sina University Hospital in Rabat: A Retrospective Study of 81 Cases.
 38872579	Polyols induce acute oxidative stress and mortality in Indian malaria vector Anopheles stephensi (Diptera: Culicidae): potential for use as sugar-cum-toxin source in toxic sugar baits.
 38872534	Modelling mosquito population suppression based on competition system with strong and weak Allee effect.
@@ -9994,6 +9997,3 @@
 35460369	Malaria diagnostic methods with the elimination goal in view.
 35459661	Long-term quality of integrated community case management care for children in Bugoye Subcounty, Uganda: a retrospective observational study.
 35459432	Two new chromanone acids from the stem bark of Calophyllum peekelii Lauterb.
-35459178	Health care provider practices in diagnosis and treatment of malaria in rural communities in Kisumu County, Kenya.
-35459176	The changing malaria trend and control efforts in Oromia Special zone, Amhara Regional State, North-East Ethiopia.
-35459163	A single point mutation in the Plasmodium falciparum 3'-5' exonuclease does not alter piperaquine susceptibility.
