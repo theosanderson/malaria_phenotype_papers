@@ -1,3 +1,8 @@
+38872182	Core principles of Malakit intervention for transferability in other contexts.
+38872178	Prognostics of multiple malaria episodes and nutritional status in children aged 6 to 59 months from 2013 to 2017 in Dangassa, Koulikoro region, Mali.
+38871839	Vectorial drivers of malaria transmission in Jabi Tehnan district, Amhara Regional State, Ethiopia.
+38871381	Examining Public Sector Availability and Supply Chain Management Practices for Malaria Commodities: Findings From Northern Nigeria.
+38870682	Epidemiology of malaria in Gabon: A systematic review and meta-analysis from 1980 to 2023.
 38870266	Temporal and spatial dynamics of Plasmodium falciparum clonal lineages in Guyana.
 38870214	Co-circulation of two Alphaviruses in Burkina Faso: Chikungunya and O'nyong nyong viruses.
 38870118	An oral toxicity assessment of a mosquito larvicidal transgenic algae (Chlamydomonas reinhardtii) using adult Zebrafish and its embryos.
@@ -1338,7 +1343,7 @@
 38409185	Synthetic angiotensin II peptide derivatives confer protection against cerebral and severe non-cerebral malaria in murine models.
 38408991	Competency of malaria laboratory diagnosis at national and provincial levels at the beginning of malaria post-elimination phase, China.
 38408458	Malaria vaccine development in Mali: a step towards transmission-blocking strategies.
-38408353	A novel ex vivo assay to evaluate functional effectiveness of Plasmodium vivax transmission blocking vaccine using Pvs25 transgenic P. berghei.
+38408353	A Novel Ex Vivo Assay to Evaluate Functional Effectiveness of Plasmodium vivax Transmission-Blocking Vaccine Using Pvs25 Transgenic Plasmodium berghei.
 38408128	Mapping the incidence rate of typhoid fever in sub-Saharan Africa.
 38407577	Association between asymptomatic Plasmodium falciparum malaria infection, anaemia and mean corpuscular volume of school children in the Volta Region of Ghana.
 38406770	Species abundance and density of malaria vectors in Western Thailand and implications for disease transmission.
@@ -1574,7 +1579,7 @@
 38331312	Skeleton binding protein 1 localizes to the Maurer's cleft and interacts with PfHSP70-1 and PfHSP70-x in Plasmodium falciparum gametocyte-infected erythrocytes.
 38331084	Quinine and chloroquine: Potential preclinical candidates for the treatment of tegumentary Leishmaniasis.
 38330786	Quantifying the impact of interventions against Plasmodium vivax: A model for country-specific use.
-38330357	Recombinant full-length Plasmodium falciparum circumsporozoite protein-based vaccine adjuvanted with GLA-LSQ: Results of Phase 1 testing with malaria challenge.
+38330357	Recombinant Full-length Plasmodium falciparum Circumsporozoite Protein-Based Vaccine Adjuvanted With Glucopyranosyl Lipid A-Liposome Quillaja saponaria 21: Results of Phase 1 Testing With Malaria Challenge.
 38330097	Zeb2 drives the formation of CD11c(+) atypical B cells to sustain germinal centers that control persistent infection.
 38329933	Antifungal and Antiparasitic Activities of Metallocene-Containing Fluconazole Derivatives.
 38329581	Genetics and metabolic responses of Artemisia annua L to the lake of phosphorus under the sparingly soluble phosphorus fertilizer: evidence from transcriptomics analysis.
@@ -9992,8 +9997,3 @@
 35458660	Investigation of an Allosteric Deoxyhypusine Synthase Inhibitor in P. falciparum.
 35458169	Ensuring the Efficacious Iron Fortification of Foods: A Tale of Two Barriers.
 35456874	Red Blood Cell BCL-x(L) Is Required for Plasmodium falciparum Survival: Insights into Host-Directed Malaria Therapies.
-35456772	Possible Interactions between Malaria, Helminthiases and the Gut Microbiota: A Short Review.
-35456637	Circumsporozoite Protein of Plasmodium berghei- and George Baker Virus A-Derived Peptides Trigger Efficient Cell Internalization of Bioconjugates and Functionalized Poly(ethylene glycol)-b-poly(benzyl malate)-Based Nanoparticles in Human Hepatoma Cells.
-35456432	A 6.5kb Intergenic Structural Variation Exacerbates the Fitness Cost of P450-Based Metabolic Resistance in the Major African Malaria Vector Anopheles funestus.
-35456111	Pathophysiology of Acute Kidney Injury in Malaria and Non-Malarial Febrile Illness: A Prospective Cohort Study.
-35455467	Antiplasmodial Activity of Vachellia xanthophloea (Benth.) P.J.H. Hurter (African Fever Tree) and Its Constituents.
