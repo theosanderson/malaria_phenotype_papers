@@ -1,3 +1,7 @@
+38870266	Temporal and spatial dynamics of Plasmodium falciparum clonal lineages in Guyana.
+38870214	Co-circulation of two Alphaviruses in Burkina Faso: Chikungunya and O'nyong nyong viruses.
+38870118	An oral toxicity assessment of a mosquito larvicidal transgenic algae (Chlamydomonas reinhardtii) using adult Zebrafish and its embryos.
+38870082	Monoamine oxidase-A (MAO-A) low-expression variants and increased risk of Plasmodium vivax malaria relapses.
 38869308	EasyNAT Malaria: a simple, rapid method to detect Plasmodium species using cross-priming amplification technology.
 38868676	Knowledge and Practices of Women Regarding Malaria and Its Prevention: A Community-Based Study in an Area under Malaria Elimination Programme in Iran.
 38868673	Comparative Effects of Elettaria cardamomum Essential Oil and Its Nanoliposomal State on Mortality of Anopheles stephensi Larvae.
@@ -111,7 +115,7 @@
 38831778	Lingering challenges in malaria elimination efforts in sub-Saharan Africa: Insights and potential solutions.
 38831351	Protein target similarity is positive predictor of in vitro antipathogenic activity: a drug repurposing strategy for Plasmodium falciparum.
 38829897	Helminthiasis and malaria co-infection among women of reproductive age in a rural setting of Kilifi County, coastal Kenya: A mixed method study.
-38829893	Elucidating the Spatio-Temporal dynamics of the Plasmodium falciparum basal complex.
+38829893	Elucidating the spatio-temporal dynamics of the Plasmodium falciparum basal complex.
 38829858	Evaluating Plasmodium falciparum automatic detection and parasitemia estimation: A comparative study on thin blood smear images.
 38828834	Cu-catalyzed click reaction in synthesis of eugenol derivatives as potent antimalarial agents.
 38828288	Neuroprotective effects and mechanisms of action of artemisinin in retinal ganglion cells in a mouse model of traumatic optic neuropathy.
@@ -9993,7 +9997,3 @@
 35456432	A 6.5kb Intergenic Structural Variation Exacerbates the Fitness Cost of P450-Based Metabolic Resistance in the Major African Malaria Vector Anopheles funestus.
 35456111	Pathophysiology of Acute Kidney Injury in Malaria and Non-Malarial Febrile Illness: A Prospective Cohort Study.
 35455467	Antiplasmodial Activity of Vachellia xanthophloea (Benth.) P.J.H. Hurter (African Fever Tree) and Its Constituents.
-35454988	Impact of Phosphatic Nutrition on Growth Parameters and Artemisinin Production in Artemisia annua Plants Inoculated or Not with Funneliformis mosseae.
-35453786	Whole Genome Sequencing Contributions and Challenges in Disease Reduction Focused on Malaria.
-35453582	Potential of Triterpenic Natural Compound Betulinic Acid for Neglected Tropical Diseases New Treatments.
-35452835	Effects of CYP2D6 genotypes on Plasmodium vivax recurrence after primaquine treatment: A meta-analysis.
