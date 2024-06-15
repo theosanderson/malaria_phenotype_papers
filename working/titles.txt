@@ -1,3 +1,7 @@
+38877522	An urgent need for community lot testing of lateral flow fentanyl test strips marketed for harm reduction in Northern America.
+38876762	Cost-effectiveness of interventions for HIV/AIDS, malaria, syphilis, and tuberculosis in 128 countries: a meta-regression analysis.
+38876165	Prevalence and composition of haemosporidians in an avian community from a World Heritage area: associations with host foraging strata and forest regeneration.
+38876161	Lack of selection of antimalarial drug resistance markers after intermittent preventive treatment of schoolchildren (IPTsc) against malaria in northeastern Tanzania.
 38875411	Malaria vaccination in Africa: A mini-review of challenges and opportunities.
 38875153	Plasma from older children in Malawi inhibits Plasmodium falciparum binding in 3D brain microvessels.
 38874346	Antimalarial activity of cecropin antimicrobial peptides derived from Anopheles mosquitoes.
@@ -28,7 +32,7 @@
 38867050	Ancient Plasmodium genomes shed light on the history of human malaria.
 38867017	Author Correction: Status of selected biochemical and coagulation profiles and platelet count in malaria and malaria-Schistosoma mansoni co-infection among patients attending at Dembiya selected Health Institutions, Northwest Ethiopia.
 38866743	Entire expressed peripheral blood transcriptome in pediatric severe malarial anemia.
-38866329	Compound management in a virtual research organization: the cornerstone of a reliable MMV discovery engine.
+38866329	Compound management in a virtual research organization: The cornerstone of a reliable MMV discovery engine.
 38866221	A review on RNA interference studies in Anophelines to reveal candidate genes for malaria transmission blocking vaccine.
 38865412	Prevalence of and factors associated with placental malaria in the White Nile State: a cross-sectional study.
 38865396	Geographic heterogeneity of SARS-CoV-2 circulation in Abidjan, Ivory Coast: a prospective study.
@@ -6065,7 +6069,6 @@
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
 36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
 36800986	Malaria amongst children under five in sub-Saharan Africa: a scoping review of prevalence, risk factors and preventive interventions.
-36809084	Medical Parasitology Taxonomy Update, June 2020–June 2022.
 36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
 36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
 36799808	What is the role of autoantibodies in post-artesunate delayed hemolysis?
@@ -9994,6 +9997,3 @@
 35460690	Novel salivary antihemostatic activities of long-form D7 proteins from the malaria vector Anopheles gambiae facilitate hematophagy.
 35460670	Chromodomain Protein Interacts with H3K9me3 and Controls RBC Rosette Formation by Regulating the Expression of a Subset of RIFINs in the Malaria Parasite.
 35460650	Is triple artemisinin-based combination therapy necessary for uncomplicated malaria?
-35460649	Is triple artemisinin-based combination therapy necessary for uncomplicated malaria?
-35460613	Basis for drug selectivity of plasmepsin IX and X inhibition in Plasmodium falciparum and vivax.
-35460612	Inhibition of Plasmodium falciparum phenylalanine tRNA synthetase provides opportunity for antimalarial drug development.
