@@ -5113,7 +5113,6 @@
 37121914	Association between vitamin D status and eryptosis-results from the German National Cohort Study.
 37121862	The role of long noncoding RNAs in malaria parasites.
 37121409	New antiprotozoal sesquiterpene derivatives from Dorema glabrum Fisch & C.A.Mey.
-36809084	Medical Parasitology Taxonomy Update, June 2020–June 2022.
 37120518	CDC light traps underestimate the protective efficacy of an indoor spatial repellent against bites from wild Anopheles arabiensis mosquitoes in Tanzania.
 37119859	Bioactivity assays and phytochemical analysis upon Alcea glabrata; focusing on xanthine oxidase inhibitory and antimalarial properties.
 37119244	Evaluation of quantitative point-of-care test for measurement of glucose-6-phosphate dehydrogenase enzyme activity in Malaysia.
@@ -6066,6 +6065,7 @@
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
 36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
 36800986	Malaria amongst children under five in sub-Saharan Africa: a scoping review of prevalence, risk factors and preventive interventions.
+36809084	Medical Parasitology Taxonomy Update, June 2020–June 2022.
 36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
 36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
 36799808	What is the role of autoantibodies in post-artesunate delayed hemolysis?
