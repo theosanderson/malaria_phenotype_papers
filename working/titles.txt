@@ -1,3 +1,5 @@
+38879484	A five years malaria surveillance data analysis of North Shewa zone, Amhara region, Ethiopia: July 2018 to June 2023.
+38878840	Chemical profiling, toxicity assessment, anti-diarrhoeal, anti-inflammatory and antinociceptive activities of Canarium schweinfurthii Engl. (Burseraceae) bark in rats.
 38877522	An urgent need for community lot testing of lateral flow fentanyl test strips marketed for harm reduction in Northern America.
 38876762	Cost-effectiveness of interventions for HIV/AIDS, malaria, syphilis, and tuberculosis in 128 countries: a meta-regression analysis.
 38876165	Prevalence and composition of haemosporidians in an avian community from a World Heritage area: associations with host foraging strata and forest regeneration.
@@ -9995,5 +9997,3 @@
 35461019	Spiral molecules with antimalarial activities: A review.
 35460871	Highly efficient protein expression of Plasmodium vivax surface antigen, Pvs25, by silkworm and its biochemical analysis.
 35460690	Novel salivary antihemostatic activities of long-form D7 proteins from the malaria vector Anopheles gambiae facilitate hematophagy.
-35460670	Chromodomain Protein Interacts with H3K9me3 and Controls RBC Rosette Formation by Regulating the Expression of a Subset of RIFINs in the Malaria Parasite.
-35460650	Is triple artemisinin-based combination therapy necessary for uncomplicated malaria?
