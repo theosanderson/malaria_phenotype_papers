@@ -1,3 +1,9 @@
+38880909	Dirus complex species identification PCR (DiCSIP) improves the identification of Anopheles dirus complex from the Greater Mekong Subregion.
+38880891	Space-time clusters and co-occurrence of Plasmodium vivax and Plasmodium falciparum malaria in West Bengal, India.
+38880870	Screening of malaria infections in human blood samples with varying parasite densities and anaemic conditions using AI-Powered mid-infrared spectroscopy.
+38880114	Getting closer to an effective multi-stage malaria vaccine.
+38880112	Effectiveness and safety of modified fully oral 9-month treatment regimens for rifampicin-resistant tuberculosis: a prospective cohort study.
+38880111	Blood-stage malaria vaccine candidate RH5.1/Matrix-M in healthy Tanzanian adults and children; an open-label, non-randomised, first-in-human, single-centre, phase 1b trial.
 38879484	A five years malaria surveillance data analysis of North Shewa zone, Amhara region, Ethiopia: July 2018 to June 2023.
 38878840	Chemical profiling, toxicity assessment, anti-diarrhoeal, anti-inflammatory and antinociceptive activities of Canarium schweinfurthii Engl. (Burseraceae) bark in rats.
 38877522	An urgent need for community lot testing of lateral flow fentanyl test strips marketed for harm reduction in Northern America.
@@ -9991,9 +9997,3 @@
 35462556	Comparative study of the effect of solvents on the efficacy of neonicotinoid insecticides against malaria vector populations across Africa.
 35462550	Viral haemorrhagic fevers and malaria co-infections among febrile patients seeking health care in Tanzania.
 35462549	Polymorphisms of potential drug resistant molecular markers in Plasmodium vivax from China-Myanmar border during 2008‒2017.
-35461617	The message on malaria is clear: progress has stalled.
-35461540	Malaria in 2022: a year of opportunity.
-35461301	Genome-wide identification and expression profiling of odorant receptor genes in the malaria vector Anopheles sinensis.
-35461019	Spiral molecules with antimalarial activities: A review.
-35460871	Highly efficient protein expression of Plasmodium vivax surface antigen, Pvs25, by silkworm and its biochemical analysis.
-35460690	Novel salivary antihemostatic activities of long-form D7 proteins from the malaria vector Anopheles gambiae facilitate hematophagy.
