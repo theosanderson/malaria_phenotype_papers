@@ -1,3 +1,7 @@
+38884473	Identification of Babesia microti immunoreactive antigens by phage display cDNA screen.
+38884107	HIF-1α regulated pathomechanism of low birth weight through angiogenesis factors in placental Plasmodium vivax infection.
+38884065	Antenatal care services in Benin and Tanzania 2021/2022: an equity analysis study.
+38883763	Temporal genomic analysis of Plasmodium falciparum reveals increased prevalence of mutations associated with delayed clearance following treatment with artemisinin-lumefantrine in Choma District, Southern Province, Zambia.
 38882489	Photoaffinity probe-based antimalarial target identification of artemisinin in the intraerythrocytic developmental cycle of Plasmodium falciparum.
 38881469	Mobile Monkeys and Modified Microbes: Medical Experimentation between Metropolitan and Colonial Laboratories, 1880-ca. 1925.
 38881103	Identifying the Probable Etiology of Acute Undifferentiated Fever through Inflammatory Markers.
@@ -9993,7 +9997,3 @@
 35463879	Distribution of HbS Allele and Haplotypes in a Multi-Ethnic Population of Guinea Bissau, West Africa: Implications for Public Health Screening.
 35463644	Thrombospondin Related Anonymous Protein Superfamily in Vector-Borne Apicomplexans: The Parasite's Toolkit for Cell Invasion.
 35463638	Anti-Gametocyte Antigen Humoral Immunity and Gametocytemia During Treatment of Uncomplicated Falciparum Malaria: A Multi-National Study.
-35463632	Apicoplast Journey and Its Essentiality as a Compartment for Malaria Parasite Survival.
-35463540	Dengue infection with warning signs: The 2019 epidemic.
-35463192	Malaria Diagnosis Using a Lightweight Deep Convolutional Neural Network.
-35462917	Target-Based Virtual Screening of Natural Compounds Identifies a Potent Antimalarial With Selective Falcipain-2 Inhibitory Activity.
