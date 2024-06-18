@@ -1,3 +1,6 @@
+38887989	Digest: Resource limitation as a mechanism for constraining the evolution of virulence in malaria parasites.
+38887396	Recent advances, challenges and updates on the development of therapeutics for malaria.
+38887102	Persistent unmet need for surgical care in Western Uganda.
 38886827	Entomological survey of sibling species in the Anopheles funestus group in Tanzania confirms the role of Anopheles parensis as a secondary malaria vector.
 38886782	LLIN evaluation in Uganda project (LLINEUP2): association between housing construction and malaria burden in 32 districts.
 38886766	The unseen battle: interpreting the 2023 World Malaria Report from Burkina Faso's frontlines.
@@ -239,7 +242,7 @@
 38798832	Effect of moringa extract on parasitemia, monocyte activation and organomegaly among Mus musculus infected by Plasmodium berghei ANKA.
 38798622	Circadian rhythms mediate malaria transmission potential.
 38798500	Placental Malaria Induces a Unique Placental Methylation Profile Associated with Fetal Growth Restriction.
-38798484	Unraveling mechanisms of iron acquisition in malaria parasites.
+38798484	Identification of a divalent metal transporter required for cellular iron metabolism in malaria parasites.
 38798379	Genomic Signatures of Microgeographic Adaptation in Anopheles coluzzii Along an Anthropogenic Gradient in Gabon.
 38798324	Phenotype and function of IL-10 producing NK cells in individuals with malaria experience.
 38797655	Murine model captures evolution of edema in experimental cerebral malaria.
@@ -9994,6 +9997,3 @@
 35467747	Tumour necrosis factor-α as a prognostic biomarker of severe malaria: a systematic review and meta-analysis.
 35466325	Sustaining progress towards malaria elimination by 2025: Lessons from Bhutan & Timor-Leste.
 35465723	Nutrient Limitation Magnifies Fitness Costs of Antimalarial Drug Resistance Mutations.
-35465707	Selective Inhibition of Plasmodium falciparum ATPase 6 by Artemisinins and Identification of New Classes of Inhibitors after Expression in Yeast.
-35465706	Population Pharmacokinetics of Antimalarial Naphthoquine in Combination with Artemisinin in Tanzanian Children and Adults: Dose Optimization.
-35465443	Bioassay-Guided Fractionation, ESI-MS Scan, Phytochemical Screening, and Antiplasmodial Activity of Afzelia africana.
