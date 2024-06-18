@@ -1,3 +1,7 @@
+38885497	Malaria Vector Bionomics: Countrywide Surveillance Study on Implications for Malaria Elimination in India.
+38885409	SNP-Slice resolves mixed infections: Simultaneously unveiling strain haplotypes and linking them to hosts.
+38885291	Breath biomarkers of pediatric malaria: reproducibility and response to antimalarial therapy.
+38885136	The Role of Neddylation in Malaria Parasites.
 38884473	Identification of Babesia microti immunoreactive antigens by phage display cDNA screen.
 38884107	HIF-1α regulated pathomechanism of low birth weight through angiogenesis factors in placental Plasmodium vivax infection.
 38884065	Antenatal care services in Benin and Tanzania 2021/2022: an equity analysis study.
@@ -9993,7 +9997,3 @@
 35465336	A Putative Plasmodium RNA-Binding Protein Plays a Critical Role in Female Gamete Fertility and Parasite Transmission to the Mosquito Vector.
 35464842	Identification of Co-Existing Mutations and Gene Expression Trends Associated With K13-Mediated Artemisinin Resistance in Plasmodium falciparum.
 35464514	A Patient With Fever, Loose Motions and Jaundice: Hickam's Dictum or Occam's Razor.
-35464173	Prevalence of Malaria and Associated Risk Factors among the Community of Mizan-Aman Town and Its Catchment Area in Southwest Ethiopia.
-35463879	Distribution of HbS Allele and Haplotypes in a Multi-Ethnic Population of Guinea Bissau, West Africa: Implications for Public Health Screening.
-35463644	Thrombospondin Related Anonymous Protein Superfamily in Vector-Borne Apicomplexans: The Parasite's Toolkit for Cell Invasion.
-35463638	Anti-Gametocyte Antigen Humoral Immunity and Gametocytemia During Treatment of Uncomplicated Falciparum Malaria: A Multi-National Study.
