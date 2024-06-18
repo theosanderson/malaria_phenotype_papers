@@ -1,3 +1,6 @@
+38886827	Entomological survey of sibling species in the Anopheles funestus group in Tanzania confirms the role of Anopheles parensis as a secondary malaria vector.
+38886782	LLIN evaluation in Uganda project (LLINEUP2): association between housing construction and malaria burden in 32 districts.
+38886766	The unseen battle: interpreting the 2023 World Malaria Report from Burkina Faso's frontlines.
 38885497	Malaria Vector Bionomics: Countrywide Surveillance Study on Implications for Malaria Elimination in India.
 38885409	SNP-Slice resolves mixed infections: Simultaneously unveiling strain haplotypes and linking them to hosts.
 38885291	Breath biomarkers of pediatric malaria: reproducibility and response to antimalarial therapy.
@@ -341,7 +344,7 @@
 38762448	Characteristics of the Western Province, Zambia, trial site for evaluation of attractive targeted sugar baits for malaria vector control.
 38762379	The emergency burden in low and middle-income countries.
 38762159	New member of Plasmodium (Vinckeia) and Plasmodium cyclopsi discovered in bats in Sierra Leone - nuclear sequence and complete mitochondrial genome analyses.
-38761871	The effect of malaria-induced alteration of metabolism on piperaquine disposition in Plasmodium yoelii-infected mice, as well as predicted in malaria patients.
+38761871	The effect of malaria-induced alteration of metabolism on piperaquine disposition in Plasmodium yoelii infected mice and predicted in malaria patients.
 38761865	Genetic variability of histidine-rich protein 2 repeat sequences: Misleading factor in true determination of Plasmodium falciparum in different population.
 38761813	Plasmodium ovale spp dhfr mutations associated with reduced susceptibility to pyrimethamine in sub-Saharan Africa: a retrospective genetic epidemiology and functional study.
 38761524	In vivo antimalarial efficacy of Artemisia afra powder suspensions.
@@ -9994,6 +9997,3 @@
 35465707	Selective Inhibition of Plasmodium falciparum ATPase 6 by Artemisinins and Identification of New Classes of Inhibitors after Expression in Yeast.
 35465706	Population Pharmacokinetics of Antimalarial Naphthoquine in Combination with Artemisinin in Tanzanian Children and Adults: Dose Optimization.
 35465443	Bioassay-Guided Fractionation, ESI-MS Scan, Phytochemical Screening, and Antiplasmodial Activity of Afzelia africana.
-35465336	A Putative Plasmodium RNA-Binding Protein Plays a Critical Role in Female Gamete Fertility and Parasite Transmission to the Mosquito Vector.
-35464842	Identification of Co-Existing Mutations and Gene Expression Trends Associated With K13-Mediated Artemisinin Resistance in Plasmodium falciparum.
-35464514	A Patient With Fever, Loose Motions and Jaundice: Hickam's Dictum or Occam's Razor.
