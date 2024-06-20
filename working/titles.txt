@@ -1,3 +1,5 @@
+38896842	Assessing Outcomes in HIV Prevention and Treatment Programs With Female Sex Workers and Men Who Have Sex With Men: Expanded Polling Booth Survey Protocol.
+38896728	In vitro anti-leukemia, antioxidant, and anti-inflammatory properties of Lantana camara.
 38896311	Larvicidal activity of coumarin derivatives on Toxocara canis larvae, cytotoxicity analysis, and in silico bioavailability studies.
 38896103	Colonization of Anopheles coustani, a neglected malaria vector in Madagascar.
 38895753	Regulation of memory CD4+ T cell generation by intrinsic and extrinsic IL-27 signaling during malaria infection.
@@ -9995,5 +9997,3 @@
 35477963	Apparent absence of avian malaria and malaria-like parasites in northern blue-footed boobies breeding on Isla Isabel.
 35477943	Prevalence and effect of Plasmodium spp. and hookworm co-infection on malaria parasite density and haemoglobin level: a meta-analysis.
 35477567	Cooking outdoors or with cleaner fuels does not increase malarial risk in children under 5 years: a cross-sectional study of 17 sub-Saharan African countries.
-35477566	A qualitative assessment of the health systems factors influencing the prevention of malaria in pregnancy using intermittent preventive treatment and insecticide-treated nets in Ghana.
-35477448	Epidemic malaria dynamics in Ethiopia: the role of self-limiting, poverty, HIV, climate change and human population growth.
