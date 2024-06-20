@@ -1,3 +1,7 @@
+38898518	Assessing CRISPR/Cas9 potential in SDG3 attainment: malaria elimination-regulatory and community engagement landscape.
+38898414	Predictors of insecticide-treated bed nets use among pregnant women in Sierra Leone: evidence from the 2019 Sierra Leone Demographic Health Survey.
+38898395	Exchange transfusion combined with artesunate (ET-AS) as a safe and effective therapy in severe P. falciparum malaria: a case series.
+38897506	Development, characterization, and evaluation of withaferin-A and artesunate-loaded pH-responsive acetal-dextran polymeric nanoparticles for the management of malaria.
 38896842	Assessing Outcomes in HIV Prevention and Treatment Programs With Female Sex Workers and Men Who Have Sex With Men: Expanded Polling Booth Survey Protocol.
 38896728	In vitro anti-leukemia, antioxidant, and anti-inflammatory properties of Lantana camara.
 38896311	Larvicidal activity of coumarin derivatives on Toxocara canis larvae, cytotoxicity analysis, and in silico bioavailability studies.
@@ -9993,7 +9997,3 @@
 35480048	Altered Subpopulations of Red Blood Cells and Post-treatment Anemia in Malaria.
 35479191	Effect of Allicin and Artesunate Combination Treatment on Experimental Mice Infected with Plasmodium berghei.
 35478216	Pyrethroid-piperonyl butoxide (PBO) nets reduce the efficacy of indoor residual spraying with pirimiphos-methyl against pyrethroid-resistant malaria vectors.
-35477969	Establishment and a comparative transcriptomic analysis of a male-specific cell line from the African malaria mosquito Anopheles gambiae.
-35477963	Apparent absence of avian malaria and malaria-like parasites in northern blue-footed boobies breeding on Isla Isabel.
-35477943	Prevalence and effect of Plasmodium spp. and hookworm co-infection on malaria parasite density and haemoglobin level: a meta-analysis.
-35477567	Cooking outdoors or with cleaner fuels does not increase malarial risk in children under 5 years: a cross-sectional study of 17 sub-Saharan African countries.
