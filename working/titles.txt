@@ -1,5 +1,5 @@
+38899927	Characterization of antimalarial activity of artemisinin-based hybrid drugs.
 38899238	Global Analysis of RTS, S/AS01 Malaria Vaccine Acceptance Rates and Influencing Factors: A Systematic Review.
-38898967	A Study of Childhood Malaria trends at the University of Port Harcourt Teaching Hospital: 2006 - 2018.
 38898518	Assessing CRISPR/Cas9 potential in SDG3 attainment: malaria elimination-regulatory and community engagement landscape.
 38898414	Predictors of insecticide-treated bed nets use among pregnant women in Sierra Leone: evidence from the 2019 Sierra Leone Demographic Health Survey.
 38898395	Exchange transfusion combined with artesunate (ET-AS) as a safe and effective therapy in severe P. falciparum malaria: a case series.
@@ -5027,6 +5027,7 @@
 37168772	An automated neural network-based stage-specific malaria detection software using dimension reduction: The malaria microscopy classifier.
 37168098	Wing morphology variations in Culicoides circumscriptus from France.
 37167988	Evidence-based antenatal interventions to reduce the incidence of small vulnerable newborns and their associated poor outcomes.
+38898967	A Study of Childhood Malaria trends at the University of Port Harcourt Teaching Hospital: 2006 - 2018.
 37167551	Spatial repellency and attractancy responses of some chemical lures against Aedes albopictus (Diptera: Culicidae) and Anopheles minimus (Diptera: Culicidae) using the high-throughput screening system.
 37167335	Semi-field evaluation of a volatile transfluthrin-based intervention reveals efficacy as a spatial repellent and evidence of other modes of action.
 37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
@@ -9996,4 +9997,3 @@
 35481637	Structure-function analysis of cysteine residues in the plasmodium falciparum chitinase, PfCHT1.
 35480603	Adoption of RTS, S malaria vaccine for children younger than 5 years in Rwanda: A budget impact analysis.
 35480534	White blood cell differential fluorescence abnormal scattergram: A useful indicator for early detection of malarial parasite.
-35480048	Altered Subpopulations of Red Blood Cells and Post-treatment Anemia in Malaria.
