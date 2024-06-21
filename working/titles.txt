@@ -1,3 +1,5 @@
+38904456	Monocyte platelet satellitism without thrombocytopenia in a follow-up case of recent complicated Falciparum malaria infection.
+38904389	Efficacy of ivermectin and its metabolites against Plasmodium falciparum liver stages in primary human hepatocytes.
 38904125	Mapping the evidence on integrated service delivery for non-communicable and infectious disease comorbidity in sub-Saharan Africa: protocol for a scoping review.
 38902674	Detection of Duffy blood group genotypes and submicroscopic Plasmodium infections using molecular diagnostic assays in febrile malaria patients.
 38902006	Overview of Plasmodium spp. and Animal Models in Malaria Research.
@@ -9995,5 +9997,3 @@
 35486649	Nutritional status of children under five years old involved in a seasonal malaria chemoprevention study in the Nanyumbu and Masasi districts in Tanzania.
 35486645	Fifty years of struggle to control cutaneous leishmaniasis in the highest endemic county in Iran: A longitudinal observation inferred with interrupted time series model.
 35486624	Update: Malaria, U.S. Armed Forces, 2021.
-35485800	Regio- and Stereoselective Epoxidation and Acidic Epoxide Opening of Antibacterial and Antiplasmodial Chlorotonils Yield Highly Potent Derivatives.
-35484862	CRISPR/Cas9 mediates efficient site-specific mutagenesis of the odorant receptor co-receptor (Orco) in the malaria vector Anopheles sinensis.
