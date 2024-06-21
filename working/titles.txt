@@ -1,3 +1,5 @@
+38900782	Increased sensitivity of malaria parasites to common antimalaria drugs after the introduction of artemether-lumefantrine: Implication of policy change and implementation of more effective drugs in fight against malaria.
+38900725	Facilitators and barriers to community-led monitoring of health programs: Qualitative evidence from the global implementation landscape.
 38899927	Characterization of antimalarial activity of artemisinin-based hybrid drugs.
 38899238	Global Analysis of RTS, S/AS01 Malaria Vaccine Acceptance Rates and Influencing Factors: A Systematic Review.
 38898518	Assessing CRISPR/Cas9 potential in SDG3 attainment: malaria elimination-regulatory and community engagement landscape.
@@ -9995,5 +9997,3 @@
 35482059	Liver-resident memory T cells: life in lockdown.
 35481660	Characterization of the glutathione-dependent reduction of the peroxiredoxin 5 homolog PfAOP from Plasmodium falciparum.
 35481637	Structure-function analysis of cysteine residues in the plasmodium falciparum chitinase, PfCHT1.
-35480603	Adoption of RTS, S malaria vaccine for children younger than 5 years in Rwanda: A budget impact analysis.
-35480534	White blood cell differential fluorescence abnormal scattergram: A useful indicator for early detection of malarial parasite.
