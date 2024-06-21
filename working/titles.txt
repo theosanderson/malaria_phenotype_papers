@@ -1,3 +1,4 @@
+38904125	Mapping the evidence on integrated service delivery for non-communicable and infectious disease comorbidity in sub-Saharan Africa: protocol for a scoping review.
 38902674	Detection of Duffy blood group genotypes and submicroscopic Plasmodium infections using molecular diagnostic assays in febrile malaria patients.
 38902006	Overview of Plasmodium spp. and Animal Models in Malaria Research.
 38901738	RBD design increases the functional antibody titers elicited by SARS-CoV-2 spike vaccination.
@@ -9996,4 +9997,3 @@
 35486624	Update: Malaria, U.S. Armed Forces, 2021.
 35485800	Regio- and Stereoselective Epoxidation and Acidic Epoxide Opening of Antibacterial and Antiplasmodial Chlorotonils Yield Highly Potent Derivatives.
 35484862	CRISPR/Cas9 mediates efficient site-specific mutagenesis of the odorant receptor co-receptor (Orco) in the malaria vector Anopheles sinensis.
-35484233	Screening the Toxoplasma kinome with high-throughput tagging identifies a regulator of invasion and egress.
