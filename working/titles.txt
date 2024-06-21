@@ -1,3 +1,8 @@
+38902674	Detection of Duffy blood group genotypes and submicroscopic Plasmodium infections using molecular diagnostic assays in febrile malaria patients.
+38902006	Overview of Plasmodium spp. and Animal Models in Malaria Research.
+38901738	RBD design increases the functional antibody titers elicited by SARS-CoV-2 spike vaccination.
+38901428	Autoantibodies inhibit Plasmodium falciparum growth and are associated with protection from clinical malaria.
+38901148	Plasmodium falciparum gametocyte production correlates with genetic markers of parasite replication but is not influenced by experimental exposure to mosquito biting.
 38900782	Increased sensitivity of malaria parasites to common antimalaria drugs after the introduction of artemether-lumefantrine: Implication of policy change and implementation of more effective drugs in fight against malaria.
 38900725	Facilitators and barriers to community-led monitoring of health programs: Qualitative evidence from the global implementation landscape.
 38899927	Characterization of antimalarial activity of artemisinin-based hybrid drugs.
@@ -45,7 +50,7 @@
 38886782	LLIN evaluation in Uganda project (LLINEUP2): association between housing construction and malaria burden in 32 districts.
 38886766	The unseen battle: interpreting the 2023 World Malaria Report from Burkina Faso's frontlines.
 38885497	Malaria Vector Bionomics: Countrywide Surveillance Study on Implications for Malaria Elimination in India.
-38885409	SNP-Slice resolves mixed infections: Simultaneously unveiling strain haplotypes and linking them to hosts.
+38885409	SNP-slice resolves mixed infections: simultaneously unveiling strain haplotypes and linking them to hosts.
 38885291	Breath biomarkers of pediatric malaria: reproducibility and response to antimalarial therapy.
 38885136	The Role of Neddylation in Malaria Parasites.
 38884473	Identification of Babesia microti immunoreactive antigens by phage display cDNA screen.
@@ -9992,8 +9997,3 @@
 35485800	Regio- and Stereoselective Epoxidation and Acidic Epoxide Opening of Antibacterial and Antiplasmodial Chlorotonils Yield Highly Potent Derivatives.
 35484862	CRISPR/Cas9 mediates efficient site-specific mutagenesis of the odorant receptor co-receptor (Orco) in the malaria vector Anopheles sinensis.
 35484233	Screening the Toxoplasma kinome with high-throughput tagging identifies a regulator of invasion and egress.
-35483325	Paediatric Dialysis at a Tertiary Hospital in South-West Nigeria: A 4-Year Report.
-35483147	Differential metabolome responses to deltamethrin between resistant and susceptible Anopheles sinensis.
-35482059	Liver-resident memory T cells: life in lockdown.
-35481660	Characterization of the glutathione-dependent reduction of the peroxiredoxin 5 homolog PfAOP from Plasmodium falciparum.
-35481637	Structure-function analysis of cysteine residues in the plasmodium falciparum chitinase, PfCHT1.
