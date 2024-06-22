@@ -1,3 +1,8 @@
+38907172	Pharmacovigilance in Pregnancy Studies, Exposures and Outcomes Ascertainment, and Findings from Low- and Middle-Income Countries: A Scoping Review.
+38907055	Self-targeting antibodies tied to lower malaria risk in kids.
+38906949	Utility of plasma anti-gSG6-P1 IgG levels in determining changes in Anopheles gambiae bite rates in a rural area of Cameroon.
+38906910	Magneto-optical assessment of Plasmodium parasite growth via hemozoin crystal size.
+38906399	Etiological spectrum and diagnostic challenges of short-duration fever in West Bengal (India): a cross-sectional tertiary care study.
 38905305	Neglected etiologies of prolonged febrile illnesses in tropical and subtropical regions: A systematic review.
 38905260	Effect of capitation payment method on health outcomes, healthcare utilization, and referrals in Ghana.
 38904456	Monocyte platelet satellitism without thrombocytopenia in a follow-up case of recent complicated Falciparum malaria infection.
@@ -9992,8 +9997,3 @@
 35489378	Cost-effectiveness of easy-access, risk-informed oral pre-exposure prophylaxis in HIV epidemics in sub-Saharan Africa: a modelling study.
 35489033	Mania With Psychotic Symptoms After Malaria Prophylaxis With Atovaquone-Proguanil: A Case Report.
 35488366	Regional and socio-economic disparity in use of insecticide-treated nets to prevent malaria among pregnant women in Kenya.
-35488142	Plants as Sources of Natural and Recombinant Antimalaria Agents.
-35487673	Key takeaways from China's success in eliminating malaria: leveraging existing evidence for a malaria-free world.
-35487558	End Malaria Faster: Taking Lifesaving Tools Beyond "Access" to "Reach" All People in Need.
-35487244	Discovery of two distinct aminoacyl-tRNA synthetase complexes anchored to the Plasmodium surface tRNA import protein.
-35486649	Nutritional status of children under five years old involved in a seasonal malaria chemoprevention study in the Nanyumbu and Masasi districts in Tanzania.
