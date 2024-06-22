@@ -1,3 +1,5 @@
+38905305	Neglected etiologies of prolonged febrile illnesses in tropical and subtropical regions: A systematic review.
+38905260	Effect of capitation payment method on health outcomes, healthcare utilization, and referrals in Ghana.
 38904456	Monocyte platelet satellitism without thrombocytopenia in a follow-up case of recent complicated Falciparum malaria infection.
 38904389	Efficacy of ivermectin and its metabolites against Plasmodium falciparum liver stages in primary human hepatocytes.
 38904125	Mapping the evidence on integrated service delivery for non-communicable and infectious disease comorbidity in sub-Saharan Africa: protocol for a scoping review.
@@ -9995,5 +9997,3 @@
 35487558	End Malaria Faster: Taking Lifesaving Tools Beyond "Access" to "Reach" All People in Need.
 35487244	Discovery of two distinct aminoacyl-tRNA synthetase complexes anchored to the Plasmodium surface tRNA import protein.
 35486649	Nutritional status of children under five years old involved in a seasonal malaria chemoprevention study in the Nanyumbu and Masasi districts in Tanzania.
-35486645	Fifty years of struggle to control cutaneous leishmaniasis in the highest endemic county in Iran: A longitudinal observation inferred with interrupted time series model.
-35486624	Update: Malaria, U.S. Armed Forces, 2021.
