@@ -1,3 +1,4 @@
+38909309	Burden of malaria during pregnancy in perennial transmission settings of two densely forested and remote blocks (Baihar and Birsa) of district Balaghat, Madhya Pradesh, central India.
 38909255	An epidemiological analysis of severe imported malaria infections in Sri Lanka, after malaria elimination.
 38908822	Tripartite interactions between viruses, parasites, and mosquitoes.
 38908516	Drivers of Anemia Reduction among Women of Reproductive Age in Senegal: A Country Case Study.
@@ -9996,4 +9997,3 @@
 38319222	Where the Rubber Meets the Road - Research in the Amazon.
 35490249	Infectious diseases and predominant travel-related syndromes among long-term expatriates living in low-and middle- income countries: a scoping review.
 35490212	Expert perspectives on the introduction of Triple Artemisinin-based Combination Therapies (TACTs) in Southeast Asia: a Delphi study.
-35489701	Potential role of vaccines in elimination of Plasmodium vivax.
