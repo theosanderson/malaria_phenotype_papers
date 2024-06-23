@@ -1,3 +1,7 @@
+38909255	An epidemiological analysis of severe imported malaria infections in Sri Lanka, after malaria elimination.
+38908822	Tripartite interactions between viruses, parasites, and mosquitoes.
+38908516	Drivers of Anemia Reduction among Women of Reproductive Age in Senegal: A Country Case Study.
+38908421	Deforestation and non-human primate malarias will be a threat to malaria elimination in the future: insights from Southeast Asia.
 38907172	Pharmacovigilance in Pregnancy Studies, Exposures and Outcomes Ascertainment, and Findings from Low- and Middle-Income Countries: A Scoping Review.
 38907055	Self-targeting antibodies tied to lower malaria risk in kids.
 38906949	Utility of plasma anti-gSG6-P1 IgG levels in determining changes in Anopheles gambiae bite rates in a rural area of Cameroon.
@@ -9993,7 +9997,3 @@
 35490249	Infectious diseases and predominant travel-related syndromes among long-term expatriates living in low-and middle- income countries: a scoping review.
 35490212	Expert perspectives on the introduction of Triple Artemisinin-based Combination Therapies (TACTs) in Southeast Asia: a Delphi study.
 35489701	Potential role of vaccines in elimination of Plasmodium vivax.
-35489633	Are patients with pulmonary tuberculosis identified by active and by passive case detection different? A cross-sectional study in Pakistan.
-35489378	Cost-effectiveness of easy-access, risk-informed oral pre-exposure prophylaxis in HIV epidemics in sub-Saharan Africa: a modelling study.
-35489033	Mania With Psychotic Symptoms After Malaria Prophylaxis With Atovaquone-Proguanil: A Case Report.
-35488366	Regional and socio-economic disparity in use of insecticide-treated nets to prevent malaria among pregnant women in Kenya.
