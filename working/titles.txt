@@ -1,3 +1,5 @@
+38912793	Metatranscriptomic analysis of common mosquito vector species in the Canadian Prairies.
+38912775	A Plasmodium falciparum genetic cross reveals the contributions of pfcrt and plasmepsin II/III to piperaquine drug resistance.
 38912557	Allorecognition behaviors in myxomycetes respond to intraspecies factors.
 38912482	Characterization of microencapsulated powders rich in saponins from cocoa pod husk (Theobroma cacao L.) and medicinal plant an xoa (Helicteres hirsuta Lour.).
 38912133	Abstruse Side of Climate Change, Impact on Malaria: A Systematic Evidence Review Comparing Iran versus Globally.
@@ -9995,5 +9997,3 @@
 35493110	The Putative Bromodomain Protein PfBDP7 of the Human Malaria Parasite Plasmodium Falciparum Cooperates With PfBDP1 in the Silencing of Variant Surface Antigen Expression.
 35493089	Editorial: Cellular and Molecular Basis in Parasitic Diseases Control: Research Trends.
 35492393	Plasmodium berghei Hsp90 contains a natural immunogenic I-A(b)-restricted antigen common to rodent and human Plasmodium species.
-35491857	Beneficial interaction between Ficus platyphylla and artesunate on cytokines TNF-α and IL-10 and oxidative stress in Plasmodium berghei-infected mice.
-35491835	Epidemiological features of malaria in Bushehr province, southwest of Iran.
