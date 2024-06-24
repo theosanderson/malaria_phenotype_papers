@@ -1,3 +1,7 @@
+38910099	Plasmodium falciparum artemisinin resistance: something gained in translation.
+38910098	Deciphering the Plasmodium falciparum perinuclear var gene expression site.
+38909569	Optimization of diastereomeric dihydropyridines as antimalarials.
+38909426	Establishment and evaluation of a qPCR method for the detection of pfmdr1 mutations in Plasmodium falciparum, the causal agent of fatal malaria.
 38909309	Burden of malaria during pregnancy in perennial transmission settings of two densely forested and remote blocks (Baihar and Birsa) of district Balaghat, Madhya Pradesh, central India.
 38909255	An epidemiological analysis of severe imported malaria infections in Sri Lanka, after malaria elimination.
 38908822	Tripartite interactions between viruses, parasites, and mosquitoes.
@@ -9993,7 +9997,3 @@
 35491421	Etiological spectrum of persistent fever in the tropics and predictors of ubiquitous infections: a prospective four-country study with pooled analysis.
 35490588	Protein kinase 9 is not required for completion of the Plasmodium berghei life cycle.
 35490317	Neglected Tropical Diseases (NTDs) and COVID-19 Pandemic in Africa: Special Focus on Control Strategies.
-38620969	COVID-19 cases and their outcome among patients with uncommon co-existing illnesses: A lesson from Northern India.
-38319222	Where the Rubber Meets the Road - Research in the Amazon.
-35490249	Infectious diseases and predominant travel-related syndromes among long-term expatriates living in low-and middle- income countries: a scoping review.
-35490212	Expert perspectives on the introduction of Triple Artemisinin-based Combination Therapies (TACTs) in Southeast Asia: a Delphi study.
