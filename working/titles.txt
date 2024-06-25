@@ -1,6 +1,10 @@
+38916738	Fluid resuscitation in children with severe infection and septic shock: a systematic review and meta-analysis.
+38916721	Molecular Confirmation of Anopheles stephensi Mosquitoes in the Al Hudaydah Governorate, Yemen, 2021 and 2022.
+38916585	Circadian Control of the Response of Macrophages to Plasmodium Spp.-Infected Red Blood Cells.
+38916361	Evaluation of coccidia DNA in irrigation pond water and wastewater sludge associated with Cyclospora cayetanensis 18S rRNA gene qPCR detections.
+38916308	Brilacidin, a novel antifungal agent against Cryptococcus neoformans.
 38916004	Unsuspected Malaria Diagnosed on a Routine Peripheral Smear Review.
 38915746	Editorial: World Malaria Day 2023 - ending malaria transmission: reaching the last mile to zero malaria.
-38915420	Amodiaquine drug pressure selects nonsynonymous mutations in pantothenate kinase 1, diacylglycerol kinase, and phosphatidylinositol-4 kinase in Plasmodium berghei ANKA.
 38915148	Travel medicine updates for the NP.
 38915034	Malaria in under-five children: prevalence and multi-factor analysis of high-risk African countries.
 38914669	LLIN Evaluation in Uganda Project (LLINEUP)-effects of a vector control trial on Plasmodium infection prevalence and genotypic markers of insecticide resistance in Anopheles vectors from 48 districts of Uganda.
@@ -8490,6 +8494,7 @@
 35984838	Mitochondrially targeted proximity biotinylation and proteomic analysis in Plasmodium falciparum.
 35984339	Effect of fear appeal mobile phone messaging on health behaviors of caregivers with children under-five in Ghana.
 35984015	Topical Mosquito Repellent Formulations for Enhanced Repellency Time and Reduced Toxicity.
+38915420	Amodiaquine drug pressure selects nonsynonymous mutations in pantothenate kinase 1, diacylglycerol kinase, and phosphatidylinositol-4 kinase in Plasmodium berghei ANKA.
 35982088	Spatiotemporal mapping of malaria incidence in Sudan using routine surveillance data.
 35981937	Vector control: agents of selection on malaria parasites?
 35981329	A 2-Phase Survey to Assess a Facility's Readiness for Pediatric Essential Emergency and Critical Care in Resource-Limited Settings: A Literature Review and Survey Development.
@@ -9992,8 +9997,3 @@
 35502242	Rationalization of the Laboratory Diagnosis for Good Management of Malaria: Lessons from Transitional Methods.
 35501996	Malaria Parasite Plasmodium falciparum Proteins on the Surface of Infected Erythrocytes as Targets for Novel Drug Discovery.
 35501892	Author Correction: Hidden genomic features of an invasive malaria vector, Anopheles stephensi, revealed by a chromosome-level genome assembly.
-35501861	Prevalence of malaria among febrile patients and assessment of efficacy of artemether-lumefantrine and artesunate-amodiaquine for uncomplicated malaria in Dolisie, Republic of the Congo.
-35500892	Molecular Markers for Sulfadoxine/Pyrimethamine and Chloroquine Resistance in Plasmodium falciparum in Thailand.
-35500587	Nationwide Surveillance of Pfhrp2 Exon 2 Diversity in Plasmodium falciparum Circulating in Symptomatic Malaria Patients Living in Ghana.
-35500538	A low dose adenovirus vectored vaccine expressing Schistosoma mansoni Cathepsin B protects from intestinal schistosomiasis in mice.
-35493843	AAV Vector-Mediated Antibody Delivery (A-MAD) in the Central Nervous System.
