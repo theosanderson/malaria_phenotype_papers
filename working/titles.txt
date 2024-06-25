@@ -1,3 +1,5 @@
+38915034	Malaria in under-five children: prevalence and multi-factor analysis of high-risk African countries.
+38914669	LLIN Evaluation in Uganda Project (LLINEUP)-effects of a vector control trial on Plasmodium infection prevalence and genotypic markers of insecticide resistance in Anopheles vectors from 48 districts of Uganda.
 38912793	Metatranscriptomic analysis of common mosquito vector species in the Canadian Prairies.
 38912775	A Plasmodium falciparum genetic cross reveals the contributions of pfcrt and plasmepsin II/III to piperaquine drug resistance.
 38912557	Allorecognition behaviors in myxomycetes respond to intraspecies factors.
@@ -14,7 +16,7 @@
 38908516	Drivers of Anemia Reduction among Women of Reproductive Age in Senegal: A Country Case Study.
 38908421	Deforestation and non-human primate malarias will be a threat to malaria elimination in the future: insights from Southeast Asia.
 38907172	Pharmacovigilance in Pregnancy Studies, Exposures and Outcomes Ascertainment, and Findings from Low- and Middle-Income Countries: A Scoping Review.
-38907055	Self-targeting antibodies tied to lower malaria risk in kids.
+38907055	Autoimmune antibodies tied to lower malaria risk in kids.
 38906949	Utility of plasma anti-gSG6-P1 IgG levels in determining changes in Anopheles gambiae bite rates in a rural area of Cameroon.
 38906910	Magneto-optical assessment of Plasmodium parasite growth via hemozoin crystal size.
 38906399	Etiological spectrum and diagnostic challenges of short-duration fever in West Bengal (India): a cross-sectional tertiary care study.
@@ -9995,5 +9997,3 @@
 35493521	Splenic Dendritic Cells and Macrophages Drive B Cells to Adopt a Plasmablast Cell Fate.
 35493467	Complement-Mediated Neutralisation Identified in Ebola Virus Disease Survivor Plasma: Implications for Protection and Pathogenesis.
 35493110	The Putative Bromodomain Protein PfBDP7 of the Human Malaria Parasite Plasmodium Falciparum Cooperates With PfBDP1 in the Silencing of Variant Surface Antigen Expression.
-35493089	Editorial: Cellular and Molecular Basis in Parasitic Diseases Control: Research Trends.
-35492393	Plasmodium berghei Hsp90 contains a natural immunogenic I-A(b)-restricted antigen common to rodent and human Plasmodium species.
