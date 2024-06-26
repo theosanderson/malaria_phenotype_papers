@@ -1,3 +1,13 @@
+38918779	Fine-scale maps of malaria incidence to inform risk stratification in Laos.
+38918629	Adaptive selection at G6PD and disparities in diabetes complications.
+38918607	A malaria drug could help treat polycystic ovary syndrome.
+38918533	Rapid entomological assessment in eight high malaria endemic regencies in Papua Province revealed the presence of indoor and outdoor malaria transmissions.
+38918368	Author Correction: Malaria parasite heme biosynthesis promotes and griseofulvin protects against cerebral malaria in mice.
+38918235	A randomized, open-label two-period crossover pilot study to evaluate the relative bioavailability in the fed state of atovaquone-proguanil (Atoguanil™) versus atovaquone-proguanil hydrochloride (Malarone®) in healthy adult participants.
+38918002	2,8-Disubstituted-1,5-naphthyridines as Dual Inhibitors of Plasmodium falciparum Phosphatidylinositol-4-kinase and Hemozoin Formation with In Vivo Efficacy.
+38917830	Atraumatic splenic rupture - unexpected consequences of a world trip.
+38917816	Integrated Serosurveillance for Onchocerciasis, Lymphatic Filariasis, and Schistosomiasis in North Darfur, Sudan.
+38917782	Results of Integrated Transmission Assessment Surveys for Lymphatic Filariasis and Malaria in Haiti, 2017-2022.
 38917089	Correction: Development and evaluation of PlasmoPod: A cartridge-based nucleic acid amplification test for rapid malaria diagnosis and surveillance.
 38917000	Eliminating malaria vectors with precision-guided sterile males.
 38916738	Fluid resuscitation in children with severe infection and septic shock: a systematic review and meta-analysis.
@@ -9987,13 +9997,3 @@
 35505431	Evolutionary history of Plasmodium vivax and Plasmodium simium in the Americas.
 35505366	Community structure and insecticide resistance of malaria vectors in northern-central Myanmar.
 35505356	Why Plasmodium vivax and Plasmodium falciparum are so different? A tale of two clades and their species diversities.
-35505339	Plasmodium knowlesi: the game changer for malaria eradication.
-35505317	The primate malaria parasites Plasmodium malariae, Plasmodium brasilianum and Plasmodium ovale spp.: genomic insights into distribution, dispersal and host transitions.
-35505234	Nanotechnology in drug and gene delivery.
-35505087	Outdoor malaria vector species profile in dryland ecosystems of Kenya.
-35504551	Sensitivity and specificity for malaria classification of febrile persons by rapid diagnostic test, microscopy, parasite DNA, histidine-rich protein 2, and IgG: Dakar, Senegal 2015.
-35504174	Exposure of Anopheles gambiae larvae to a sub-lethal dose of an agrochemical mixture induces tolerance to adulticides used in vector control management.
-35503749	Epstein-Barr virus and malaria upregulate AID and APOBEC3 enzymes, but only AID seems to play a major mutagenic role in Burkitt lymphoma.
-35503332	Interventions for High-Burden Infectious Diseases in Children and Adolescents: A Meta-analysis.
-35503326	Delivery Strategies Supporting School-Age Child Health: A Systematic Review.
-35502242	Rationalization of the Laboratory Diagnosis for Good Management of Malaria: Lessons from Transitional Methods.
