@@ -1,3 +1,5 @@
+38917089	Correction: Development and evaluation of PlasmoPod: A cartridge-based nucleic acid amplification test for rapid malaria diagnosis and surveillance.
+38917000	Eliminating malaria vectors with precision-guided sterile males.
 38916738	Fluid resuscitation in children with severe infection and septic shock: a systematic review and meta-analysis.
 38916721	Molecular Confirmation of Anopheles stephensi Mosquitoes in the Al Hudaydah Governorate, Yemen, 2021 and 2022.
 38916585	Circadian Control of the Response of Macrophages to Plasmodium Spp.-Infected Red Blood Cells.
@@ -9995,5 +9997,3 @@
 35503332	Interventions for High-Burden Infectious Diseases in Children and Adolescents: A Meta-analysis.
 35503326	Delivery Strategies Supporting School-Age Child Health: A Systematic Review.
 35502242	Rationalization of the Laboratory Diagnosis for Good Management of Malaria: Lessons from Transitional Methods.
-35501996	Malaria Parasite Plasmodium falciparum Proteins on the Surface of Infected Erythrocytes as Targets for Novel Drug Discovery.
-35501892	Author Correction: Hidden genomic features of an invasive malaria vector, Anopheles stephensi, revealed by a chromosome-level genome assembly.
