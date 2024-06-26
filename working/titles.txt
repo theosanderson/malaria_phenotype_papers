@@ -1,3 +1,17 @@
+38922663	Unveiling malaria's silent threat: A path to effective prevention in India.
+38922660	Structure-based virtual screening study for identification of potent insecticides against Anopheles gambiae to combat the malaria.
+38922654	Detection of Plasmodium knowlesi in whole blood samples with sandwich enzyme-linked immunosorbent assay (ELISA) using rhoptry-associated protein 1 specific polyclonal antibodies.
+38922652	Malaria elimination in West Java, Indonesia: A descriptive-and-qualitative study.
+38922651	Vectors, knowledge, attitudes, and practices in relation to malaria transmission in Bauchi State, Nigeria.
+38922649	Time to implement tailored interventions in Chhattisgarh, east-central India to reach malaria elimination.
+38922648	Effectiveness, Safety, and Acceptability of Primaquine Mass Drug Administration in Low-Endemicity Areas in Southern Thailand: Proof-of-Concept Study.
+38922536	Avian haemosporidians of the genera Plasmodium and Haemoproteus from resident and Neotropical migrant birds in Colombia.
+38922217	Worldwide distribution, symptoms and diagnosis of the coinfections between malaria and arboviral diseases: a systematic review.
+38922216	Malaria in areas under mining activity in the Amazon: A review.
+38921824	RNA polymerase III is involved in regulating Plasmodium falciparum virulence.
+38921784	Detection of Human Adenovirus and Rotavirus in Wastewater in Lusaka, Zambia: Demonstrating the Utility of Environmental Surveillance for the Community.
+38921163	Efficacy of Metarhizium anisopliae, Isolate ICIPE 7, against Anopheles arabiensis, Glossina fuscipes, and Rhipicephalus spp.
+38920250	Mutation of the Plasmodium falciparum Flavokinase Confers Resistance to Roseoflavin and 8-Aminoriboflavin.
 38918779	Fine-scale maps of malaria incidence to inform risk stratification in Laos.
 38918629	Adaptive selection at G6PD and disparities in diabetes complications.
 38918607	A malaria drug could help treat polycystic ovary syndrome.
@@ -9983,17 +9997,3 @@
 35510280	[Travel vaccines: what is in the pipeline?].
 35510278	[Collateral effects of the COVID-19 pandemic on the practice of tropical and travel medicine].
 35509024	Clinical management and outcomes of acute febrile illness in children attending a tertiary hospital in southern Ethiopia.
-35509020	Temperate climate malaria in nineteenth century Denmark.
-35508839	Formulation of IMXQB: Nanoparticles Based on Quillaja brasiliensis Saponins to be Used as Vaccine Adjuvants.
-35508558	Diagnostic performance of a 5-plex malaria immunoassay in regions co-endemic for Plasmodium falciparum, P. vivax, P. knowlesi, P. malariae and P. ovale.
-35507937	Efficacy of Plasmodium falciparum histidine-rich protein 2 ( Pfhrp 2) rapid diagnostic test (RDT) and microscopy in the detection of falciparum malaria among symptomatic patients in Akure, Nigeria.
-35507927	Genetic diversity of Duffy binding protein 2 region II ofPlasmodium cynomolgi from wild macaques in Peninsular Malaysia.
-35507781	Design and Molecular Docking Studies of N-Mannich Base Derivatives of Primaquine Bearing Isatin on the Targets involved in the Pathophysiology of Cerebral Malaria.
-35507574	Malaria transmission in Africa: Its relationship with yellow fever and measles.
-35507548	Mechanistic basis for multidrug resistance and collateral drug sensitivity conferred to the malaria parasite by polymorphisms in PfMDR1 and PfCRT.
-35506504	The Impact of Activity-Based Protein Profiling in Malaria Drug Discovery.
-35506479	Phosphorylation of myosin A regulates gliding motility and is essential for Plasmodium transmission.
-35505693	Back on track towards malaria elimination - lessons and innovations.
-35505431	Evolutionary history of Plasmodium vivax and Plasmodium simium in the Americas.
-35505366	Community structure and insecticide resistance of malaria vectors in northern-central Myanmar.
-35505356	Why Plasmodium vivax and Plasmodium falciparum are so different? A tale of two clades and their species diversities.
