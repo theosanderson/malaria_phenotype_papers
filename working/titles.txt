@@ -1,13 +1,13 @@
 38918779	Fine-scale maps of malaria incidence to inform risk stratification in Laos.
 38918629	Adaptive selection at G6PD and disparities in diabetes complications.
-38918607	A malaria drug could help treat polycystic ovary syndrome.
-38918533	Rapid entomological assessment in eight high malaria endemic regencies in Papua Province revealed the presence of indoor and outdoor malaria transmissions.
-38918368	Author Correction: Malaria parasite heme biosynthesis promotes and griseofulvin protects against cerebral malaria in mice.
 38918235	A randomized, open-label two-period crossover pilot study to evaluate the relative bioavailability in the fed state of atovaquone-proguanil (Atoguanil™) versus atovaquone-proguanil hydrochloride (Malarone®) in healthy adult participants.
 38918002	2,8-Disubstituted-1,5-naphthyridines as Dual Inhibitors of Plasmodium falciparum Phosphatidylinositol-4-kinase and Hemozoin Formation with In Vivo Efficacy.
 38917830	Atraumatic splenic rupture - unexpected consequences of a world trip.
 38917816	Integrated Serosurveillance for Onchocerciasis, Lymphatic Filariasis, and Schistosomiasis in North Darfur, Sudan.
 38917782	Results of Integrated Transmission Assessment Surveys for Lymphatic Filariasis and Malaria in Haiti, 2017-2022.
+38918607	A malaria drug could help treat polycystic ovary syndrome.
+38918533	Rapid entomological assessment in eight high malaria endemic regencies in Papua Province revealed the presence of indoor and outdoor malaria transmissions.
+38918368	Author Correction: Malaria parasite heme biosynthesis promotes and griseofulvin protects against cerebral malaria in mice.
 38917089	Correction: Development and evaluation of PlasmoPod: A cartridge-based nucleic acid amplification test for rapid malaria diagnosis and surveillance.
 38917000	Eliminating malaria vectors with precision-guided sterile males.
 38916738	Fluid resuscitation in children with severe infection and septic shock: a systematic review and meta-analysis.
