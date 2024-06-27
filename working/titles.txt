@@ -1,9 +1,24 @@
+38933531	A new mechanism of antibody diversity: formation of the natural antibodies containing LAIR1 and LILRB1 extracellular domains.
+38932611	Exploring Genetic Silencing: RNAi and CRISPR-Cas Potential Against Drug Resistance in Malaria.
+38932315	How to Accelerate Early Stage of Malaria Vaccine Development by Optimizing Functional Assays.
+38931823	Tiny Green Army: Fighting Malaria with Plants and Nanotechnology.
+38930934	Spermacoce alata Aubl. Essential Oil: Chemical Composition, In Vitro Antioxidant Activity, and Inhibitory Effects of Acetylcholinesterase, α-Glucosidase and β-Lactamase.
+38930554	Plasmodium falciparum CLAG Paralogs All Traffic to the Host Membrane but Knockouts Have Distinct Phenotypes.
+38930432	The Impact of Artificial Intelligence on Microbial Diagnosis.
+38929667	Probing the Antiplasmodial Properties of Plakortinic Acids C and D: An Uncommon Pair of Marine Peroxide-Polyketides Isolated from a Two-Sponge Association of Plakortis symbiotica and Xetospongia deweerdtae Collected near Puerto Rico.
+38929629	Evaluation of Dihydroartemisinin-Piperaquine Efficacy and Molecular Markers in Uncomplicated Falciparum Patients: A Study across Binh Phuoc and Dak Nong, Vietnam.
+38929391	The Impact of Avian Haemosporidian Infection on Feather Quality and Feather Growth Rate of Migratory Passerines.
+38929011	The Risk Factors Associated with the Prevalence of Multimorbidity of Anaemia, Malaria, and Malnutrition among Children Aged 6-59 Months in Nigeria.
+38928926	Molecular Surveillance of Artemisinin-Resistant Plasmodium falciparum Parasites in Mining Areas of the Roraima Indigenous Territory in Brazil.
+38928131	Mechanisms Underlying the Effects of Chloroquine on Red Blood Cells Metabolism.
+38928045	Detection and Characterisation of SARS-CoV-2 in Eastern Province of Zambia: A Retrospective Genomic Surveillance Study.
+38927622	Enhancing Gene Co-Expression Network Inference for the Malaria Parasite Plasmodium falciparum.
 38926854	High prevalence and risk of malaria among asymptomatic individuals from villages with high prevalence of artemisinin partial resistance in Kyerwa district of Kagera region, north-western Tanzania.
 38926807	Total antioxidant status levels in malaria: a systematic review and meta-analysis.
-38925798	How can we get malaria control back on track?
-38925325	Prefoldins are novel regulators of the unfolded protein response in artemisinin resistant P. falciparum malaria.
 38926534	Charting the evolutionary history of malaria.
 38926073	Corrigendum to "Evaluation of different types of adjuvants in a malaria transmission-blocking vaccine" [Int. Immunopharmacol. 131 (2024) 111817].
+38925798	How can we get malaria control back on track?
+38925325	Prefoldins are novel regulators of the unfolded protein response in artemisinin resistant P. falciparum malaria.
 38924147	Plasmodium falciparum cysteine protease Falcipain 3: A potential enzyme for proteolytic processing of histone acetyltransferase PfGCN5.
 38923255	Chemoproteomic strategy identifies PfUCHL3 as the target of halofuginone.
 38922663	Unveiling malaria's silent threat: A path to effective prevention in India.
@@ -9982,18 +9997,3 @@
 35522807	Oxidative stress induction by crude extract of Xylaria sp. triggers lethality in the larvae of Aedes aegypti (Diptera: Culicidae).
 35522617	Drivers of long-lasting insecticide-treated net utilisation and parasitaemia among under-five children in 13 States with high malaria burden in Nigeria.
 35522326	Serum cytokine profile of pregnant women with malaria, intestinal helminths and HIV infections in Ibadan, Nigeria.
-35522203	Malaria Box Compounds against Anopheles gambiae (Diptera: Culicidae) Carboxypeptidase B Activity to Block Malaria Transmission.
-35521949	Temporal variation of high-level pyrethroid resistance in the major malaria vector Anopheles gambiae s.l. in Yaoundé, Cameroon, is mediated by target-site and metabolic resistance.
-35521513	A Plasmodium falciparum ATP-binding cassette transporter is essential for liver stage entry into schizogony.
-35520620	Association of toll-like receptors in malaria susceptibility and immunopathogenesis: A meta-analysis.
-35519174	Adopting an heterologous prime-boost strategy in COVID-19 vaccination: the need for locally generated evidence in Africa.
-35514965	Cerebral Malaria: Current Clinical and Immunological Aspects.
-35514346	Single Cell RNA-Seq Analysis of Human Red Cells.
-35514313	HIV and malaria prevalence among pregnant women with and without pre-eclampsia at the Atua Government Hospital in Ghana's eastern region.
-35514273	Cellular point-of-care diagnostics using an inexpensive layer-stack microfluidic device.
-35514163	Discovery of small molecule inhibitors of Plasmodium falciparum apicoplast DNA polymerase.
-35512807	Impact of inflammation and infection on the expression of amino acid transporters in the placenta: A minireview.
-35512262	Sattahipmycin, a Hexacyclic Xanthone Produced by a Marine-Derived Streptomyces.
-35512141	Babesia duncani as a Model Organism to Study the Development, Virulence, and Drug Susceptibility of Intraerythrocytic Parasites In Vitro and In Vivo.
-35512032	Dihydroartemisinin Attenuates Hypoxia-Induced Pulmonary Hypertension Through the ELAVL2/miR-503/PI3K/AKT Axis.
-35511795	Prevalence of arps10, fd, pfmdr-2, pfcrt and pfkelch13 gene mutations in Plasmodium falciparum parasite population in Uganda.
