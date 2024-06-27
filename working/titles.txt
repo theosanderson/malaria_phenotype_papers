@@ -1,3 +1,5 @@
+38924147	Plasmodium falciparum cysteine protease Falcipain 3: A potential enzyme for proteolytic processing of histone acetyltransferase PfGCN5.
+38923255	Chemoproteomic strategy identifies PfUCHL3 as the target of halofuginone.
 38922663	Unveiling malaria's silent threat: A path to effective prevention in India.
 38922660	Structure-based virtual screening study for identification of potent insecticides against Anopheles gambiae to combat the malaria.
 38922654	Detection of Plasmodium knowlesi in whole blood samples with sandwich enzyme-linked immunosorbent assay (ELISA) using rhoptry-associated protein 1 specific polyclonal antibodies.
@@ -50,7 +52,6 @@
 38908516	Drivers of Anemia Reduction among Women of Reproductive Age in Senegal: A Country Case Study.
 38908421	Deforestation and non-human primate malarias will be a threat to malaria elimination in the future: insights from Southeast Asia.
 38907172	Pharmacovigilance in Pregnancy Studies, Exposures and Outcomes Ascertainment, and Findings from Low- and Middle-Income Countries: A Scoping Review.
-38907055	Autoimmune antibodies tied to lower malaria risk in kids.
 38906949	Utility of plasma anti-gSG6-P1 IgG levels in determining changes in Anopheles gambiae bite rates in a rural area of Cameroon.
 38906910	Magneto-optical assessment of Plasmodium parasite growth via hemozoin crystal size.
 38906399	Etiological spectrum and diagnostic challenges of short-duration fever in West Bengal (India): a cross-sectional tertiary care study.
@@ -9996,4 +9997,3 @@
 35510454	[The vaccine that may prevent malaria].
 35510280	[Travel vaccines: what is in the pipeline?].
 35510278	[Collateral effects of the COVID-19 pandemic on the practice of tropical and travel medicine].
-35509024	Clinical management and outcomes of acute febrile illness in children attending a tertiary hospital in southern Ethiopia.
