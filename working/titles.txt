@@ -1,9 +1,9 @@
 38926854	High prevalence and risk of malaria among asymptomatic individuals from villages with high prevalence of artemisinin partial resistance in Kyerwa district of Kagera region, north-western Tanzania.
 38926807	Total antioxidant status levels in malaria: a systematic review and meta-analysis.
-38926534	Charting the evolutionary history of malaria.
-38926073	Corrigendum to "Evaluation of different types of adjuvants in a malaria transmission-blocking vaccine" [Int. Immunopharmacol. 131 (2024) 111817].
 38925798	How can we get malaria control back on track?
 38925325	Prefoldins are novel regulators of the unfolded protein response in artemisinin resistant P. falciparum malaria.
+38926534	Charting the evolutionary history of malaria.
+38926073	Corrigendum to "Evaluation of different types of adjuvants in a malaria transmission-blocking vaccine" [Int. Immunopharmacol. 131 (2024) 111817].
 38924147	Plasmodium falciparum cysteine protease Falcipain 3: A potential enzyme for proteolytic processing of histone acetyltransferase PfGCN5.
 38923255	Chemoproteomic strategy identifies PfUCHL3 as the target of halofuginone.
 38922663	Unveiling malaria's silent threat: A path to effective prevention in India.
