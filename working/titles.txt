@@ -1,3 +1,4 @@
+38935423	Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar.
 38933531	A new mechanism of antibody diversity: formation of the natural antibodies containing LAIR1 and LILRB1 extracellular domains.
 38932611	Exploring Genetic Silencing: RNAi and CRISPR-Cas Potential Against Drug Resistance in Malaria.
 38932315	How to Accelerate Early Stage of Malaria Vaccine Development by Optimizing Functional Assays.
@@ -9996,4 +9997,3 @@
 35522810	Malaria epidemics in Colombia, 1970-2019.
 35522807	Oxidative stress induction by crude extract of Xylaria sp. triggers lethality in the larvae of Aedes aegypti (Diptera: Culicidae).
 35522617	Drivers of long-lasting insecticide-treated net utilisation and parasitaemia among under-five children in 13 States with high malaria burden in Nigeria.
-35522326	Serum cytokine profile of pregnant women with malaria, intestinal helminths and HIV infections in Ibadan, Nigeria.
