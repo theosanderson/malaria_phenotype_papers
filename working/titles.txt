@@ -1,3 +1,9 @@
+38926854	High prevalence and risk of malaria among asymptomatic individuals from villages with high prevalence of artemisinin partial resistance in Kyerwa district of Kagera region, north-western Tanzania.
+38926807	Total antioxidant status levels in malaria: a systematic review and meta-analysis.
+38926534	Charting the evolutionary history of malaria.
+38926073	Corrigendum to "Evaluation of different types of adjuvants in a malaria transmission-blocking vaccine" [Int. Immunopharmacol. 131 (2024) 111817].
+38925798	How can we get malaria control back on track?
+38925325	Prefoldins are novel regulators of the unfolded protein response in artemisinin resistant P. falciparum malaria.
 38924147	Plasmodium falciparum cysteine protease Falcipain 3: A potential enzyme for proteolytic processing of histone acetyltransferase PfGCN5.
 38923255	Chemoproteomic strategy identifies PfUCHL3 as the target of halofuginone.
 38922663	Unveiling malaria's silent threat: A path to effective prevention in India.
@@ -9991,9 +9997,3 @@
 35512141	Babesia duncani as a Model Organism to Study the Development, Virulence, and Drug Susceptibility of Intraerythrocytic Parasites In Vitro and In Vivo.
 35512032	Dihydroartemisinin Attenuates Hypoxia-Induced Pulmonary Hypertension Through the ELAVL2/miR-503/PI3K/AKT Axis.
 35511795	Prevalence of arps10, fd, pfmdr-2, pfcrt and pfkelch13 gene mutations in Plasmodium falciparum parasite population in Uganda.
-35511769	Evaluation of blood cell count parameters as predictors of treatment failure of malaria in Angola: An observational study.
-35511335	Chukranoids A-I, isopimarane diterpenoids from Chukrasia velutina.
-35510853	A Leak-Free Inducible CRISPRi/a System for Gene Functional Studies in Plasmodium falciparum.
-35510454	[The vaccine that may prevent malaria].
-35510280	[Travel vaccines: what is in the pipeline?].
-35510278	[Collateral effects of the COVID-19 pandemic on the practice of tropical and travel medicine].
