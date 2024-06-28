@@ -1,8 +1,9 @@
+38940866	Plasma metabolites in childhood Burkitt lymphoma cases and cancer-free controls in Uganda.
+38940563	Absence of farnesol salvage in Candida albicans and probably in other fungi.
 38940013	Glaucarubinone from Simarouba glauca DC. as a potential biocontrol agent for mosquito vector management.
 38939971	The readiness of malaria services and uptake of intermittent preventive treatment in pregnancy in six sub-Saharan countries.
 38939745	The Key to Increase Immunogenicity of Next-Generation COVID-19 Vaccines Lies in the Inclusion of the SARS-CoV-2 Nucleocapsid Protein.
 38938742	Type II Acute Macular Neuroretinopathy Secondary to Malaria.
-38938665	Sialylated N-glycans mediate monocyte uptake of extracellular vesicles secreted from Plasmodium falciparum-infected red blood cells.
 38938546	Microencapsulation, Physicochemical Characterization, and Antioxidant, Antibacterial, and Antiplasmodial Activities of Holothuria atra Microcapsule.
 38938216	Malate dehydrogenase in parasitic protozoans: roles in metabolism and potential therapeutic applications.
 38937791	Association between indoor residual spraying and the malaria burden in Zambia and factors associated with IRS refusals: a case-control study in Vubwi District.
@@ -9996,4 +9997,3 @@
 35528115	Biological Evaluation of Garcinia kola Heckel.
 35527275	Relationship between temperature and Anopheles gambiae sensu lato mosquitoes' susceptibility to pyrethroids and expression of metabolic enzymes.
 35527264	Receptivity to malaria: meaning and measurement.
-35527254	Duffy blood system and G6PD genetic variants in vivax malaria patients from Manaus, Amazonas, Brazil.
