@@ -1,3 +1,8 @@
+38937791	Association between indoor residual spraying and the malaria burden in Zambia and factors associated with IRS refusals: a case-control study in Vubwi District.
+38936960	Documenting Community Health Worker Compensation Schemes and Their Perceived Effectiveness in Seven sub-Saharan African Countries: A Qualitative Study.
+38936954	How can we get malaria control back on track?
+38936525	Natural genetic diversity of the DBL domain of a novel member of the plasmodium vivax erythrocyte binding-like proteins (EBP2) in the Amazon rainforest.
+38936501	GRA47 is important for the morphology and permeability of the parasitophorous vacuole in Toxoplasma gondii.
 38935918	Nigella sativa-Fortified Cookies Ameliorate Oxidative Stress, Inflammatory and Immune Dysfunction in Plasmodium berghei-Infected Murine Model.
 38935780	Activation loop phosphorylation and cGMP saturation of PKG regulate egress of malaria parasites.
 38935630	A new landscape for malaria vaccine development.
@@ -75,7 +80,7 @@
 38909255	An epidemiological analysis of severe imported malaria infections in Sri Lanka, after malaria elimination.
 38908822	Tripartite interactions between viruses, parasites, and mosquitoes.
 38908516	Drivers of Anemia Reduction among Women of Reproductive Age in Senegal: A Country Case Study.
-38908421	Deforestation and non-human primate malarias will be a threat to malaria elimination in the future: insights from Southeast Asia.
+38908421	Deforestation and non-human primate malarias will be a threat to malaria elimination in the future: Insights from Southeast Asia.
 38907172	Pharmacovigilance in Pregnancy Studies, Exposures and Outcomes Ascertainment, and Findings from Low- and Middle-Income Countries: A Scoping Review.
 38906949	Utility of plasma anti-gSG6-P1 IgG levels in determining changes in Anopheles gambiae bite rates in a rural area of Cameroon.
 38906910	Magneto-optical assessment of Plasmodium parasite growth via hemozoin crystal size.
@@ -9992,8 +9997,3 @@
 35526068	Comparative efficacy of BG-Sentinel 2 and CDC-like mosquito traps for monitoring potential malaria vectors in Europe.
 35526046	The European & Developing Countries Clinical Trials Partnership (EDCTP) Knowledge Hub: developing an open platform for facilitating high-quality clinical research.
 35525530	Network pharmacology and experimental validation-based approach to understand the effect and mechanism of Taohong Siwu Decoction against ischemic stroke.
-35524663	Natural Antioxidants as Additional Weapons in the Fight against Malarial Parasite.
-35524310	Assessing the effect of seasonal malaria chemoprevention on malaria burden among children under 5 years in Burkina Faso.
-35524255	Case series of three malaria patients from Thailand infected with the simian parasite, Plasmodium cynomolgi.
-35524154	Functional characterization of α-Gal producing lactic acid bacteria with potential probiotic properties.
-35522815	Effect of weekly versus daily primaquine on Plasmodium vivax malaria recurrences: A real-life cohort study.
