@@ -1,3 +1,6 @@
+38935918	Nigella sativa-Fortified Cookies Ameliorate Oxidative Stress, Inflammatory and Immune Dysfunction in Plasmodium berghei-Infected Murine Model.
+38935780	Activation loop phosphorylation and cGMP saturation of PKG regulate egress of malaria parasites.
+38935630	A new landscape for malaria vaccine development.
 38935423	Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar.
 38933531	A new mechanism of antibody diversity: formation of the natural antibodies containing LAIR1 and LILRB1 extracellular domains.
 38932611	Exploring Genetic Silencing: RNAi and CRISPR-Cas Potential Against Drug Resistance in Malaria.
@@ -9994,6 +9997,3 @@
 35524255	Case series of three malaria patients from Thailand infected with the simian parasite, Plasmodium cynomolgi.
 35524154	Functional characterization of α-Gal producing lactic acid bacteria with potential probiotic properties.
 35522815	Effect of weekly versus daily primaquine on Plasmodium vivax malaria recurrences: A real-life cohort study.
-35522810	Malaria epidemics in Colombia, 1970-2019.
-35522807	Oxidative stress induction by crude extract of Xylaria sp. triggers lethality in the larvae of Aedes aegypti (Diptera: Culicidae).
-35522617	Drivers of long-lasting insecticide-treated net utilisation and parasitaemia among under-five children in 13 States with high malaria burden in Nigeria.
