@@ -1,3 +1,4 @@
+38941356	Plasmodium vivax serological exposure markers: PvMSP1-42-induced humoral and memory B-cell response generates long-lived antibodies.
 38940866	Plasma metabolites in childhood Burkitt lymphoma cases and cancer-free controls in Uganda.
 38940563	Absence of farnesol salvage in Candida albicans and probably in other fungi.
 38940013	Glaucarubinone from Simarouba glauca DC. as a potential biocontrol agent for mosquito vector management.
@@ -9996,4 +9997,3 @@
 35529062	Differences in Coformer Interactions of the 2,4-Diaminopyrimidines Pyrimethamine and Trimethoprim.
 35528115	Biological Evaluation of Garcinia kola Heckel.
 35527275	Relationship between temperature and Anopheles gambiae sensu lato mosquitoes' susceptibility to pyrethroids and expression of metabolic enzymes.
-35527264	Receptivity to malaria: meaning and measurement.
