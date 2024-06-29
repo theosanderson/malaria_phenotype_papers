@@ -1,3 +1,7 @@
+38942539	Drug repurposing for parasitic protozoan diseases.
+38942504	Production of non-natural terpenoids through chemoenzymatic synthesis using substrate analogs.
+38942318	Exploring the dichotomy: Shotgun metagenomics reveals diversity of beneficial and pathogenic protist community in arid wetlands of northeastern South Africa.
+38941845	Effect of Phlebotomus papatasi on the fitness,infectivity and antimony-resistance phenotype of antimony-resistant Leishmania major Mon-25.
 38941356	Plasmodium vivax serological exposure markers: PvMSP1-42-induced humoral and memory B-cell response generates long-lived antibodies.
 38940866	Plasma metabolites in childhood Burkitt lymphoma cases and cancer-free controls in Uganda.
 38940563	Absence of farnesol salvage in Candida albicans and probably in other fungi.
@@ -10,7 +14,7 @@
 38937791	Association between indoor residual spraying and the malaria burden in Zambia and factors associated with IRS refusals: a case-control study in Vubwi District.
 38936960	Documenting Community Health Worker Compensation Schemes and Their Perceived Effectiveness in Seven sub-Saharan African Countries: A Qualitative Study.
 38936954	How can we get malaria control back on track?
-38936525	Natural genetic diversity of the DBL domain of a novel member of the plasmodium vivax erythrocyte binding-like proteins (EBP2) in the Amazon rainforest.
+38936525	Natural genetic diversity of the DBL domain of a novel member of the Plasmodium vivax erythrocyte binding-like proteins (EBP2) in the Amazon rainforest.
 38936501	GRA47 is important for the morphology and permeability of the parasitophorous vacuole in Toxoplasma gondii.
 38935918	Nigella sativa-Fortified Cookies Ameliorate Oxidative Stress, Inflammatory and Immune Dysfunction in Plasmodium berghei-Infected Murine Model.
 38935780	Activation loop phosphorylation and cGMP saturation of PKG regulate egress of malaria parasites.
@@ -9993,7 +9997,3 @@
 35531137	Synthesis, characterization, molecular docking, antimalarial, and antiproliferative activities of benzyloxy-4-oxopyridin benzoate derivatives.
 35530731	Under the Mask: A Film on Tuberculosis at the Thai-Myanmar Border.
 35530518	A Rapid FRET Real-Time PCR Protocol for Simultaneous Quantitative Detection and Discrimination of Human Plasmodium Parasites.
-35529859	Impact of Dietary Protein Restriction on the Immunogenicity and Efficacy of Whole-Sporozoite Malaria Vaccination.
-35529062	Differences in Coformer Interactions of the 2,4-Diaminopyrimidines Pyrimethamine and Trimethoprim.
-35528115	Biological Evaluation of Garcinia kola Heckel.
-35527275	Relationship between temperature and Anopheles gambiae sensu lato mosquitoes' susceptibility to pyrethroids and expression of metabolic enzymes.
