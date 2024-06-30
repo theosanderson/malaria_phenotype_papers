@@ -1,3 +1,4 @@
+38944658	CD4(+) T cells display a spectrum of recall dynamics during re-infection with malaria parasites.
 38943203	Diagnostic accuracy of an automated microscope solution (miLab™) in detecting malaria parasites in symptomatic patients at point-of-care in Sudan: a case-control study.
 38943155	Will a lack of fabric durability be their downfall? Impact of textile durability on the efficacy of three types of dual-active-ingredient long-lasting insecticidal nets: a secondary analysis on malaria prevalence and incidence from a cluster-randomized trial in north-west Tanzania.
 38943132	Availability of published evidence on coverage, cost components, and funding support for digitalisation of infectious disease surveillance in Africa, 2003-2022: a systematic review.
@@ -100,7 +101,7 @@
 38907172	Pharmacovigilance in Pregnancy Studies, Exposures and Outcomes Ascertainment, and Findings from Low- and Middle-Income Countries: A Scoping Review.
 38906949	Utility of plasma anti-gSG6-P1 IgG levels in determining changes in Anopheles gambiae bite rates in a rural area of Cameroon.
 38906910	Magneto-optical assessment of Plasmodium parasite growth via hemozoin crystal size.
-38906399	Etiological spectrum and diagnostic challenges of short-duration fever in West Bengal (India): a cross-sectional tertiary care study.
+38906399	Etiological spectrum and diagnostic challenges of short-duration fever in West Bengal (India). A cross-sectional tertiary care study.
 38905305	Neglected etiologies of prolonged febrile illnesses in tropical and subtropical regions: A systematic review.
 38905260	Effect of capitation payment method on health outcomes, healthcare utilization, and referrals in Ghana.
 38904456	Monocyte platelet satellitism without thrombocytopenia in a follow-up case of recent complicated Falciparum malaria infection.
@@ -9996,4 +9997,3 @@
 35532006	Barriers to Timely Diagnosis and Treatment of Vector-Borne Diseases in a Changing Climate: A Case Report.
 35531326	Presence of Phylloquinone in the Intraerythrocytic Stages of Plasmodium falciparum.
 35531230	Antiplasmodial activity of Morinda lucida Benth. Leaf and bark extracts against Plasmodium berghei infected mice.
-35531139	ٍSome biologically active microorganisms have the potential to suppress mosquito larvae (Culex pipiens, Diptera: Culicidae).
