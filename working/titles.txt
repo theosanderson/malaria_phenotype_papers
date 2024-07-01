@@ -1,3 +1,5 @@
+38949440	Barriers to accessing and utilising under-five primary health care services in Vhembe District.
+38949218	Prevalence of malaria in Arusha Region in the northern Tanzania.
 38948760	The expanded immunoregulatory protease network in mosquitoes is governed by gene co-expression.
 38948349	Contextual factors related to vector-control interventions for malaria: a scoping review and evidence and gap map protocol.
 38948263	Transfection of Babesia duncani: A Genetic Toolbox of this Pathogen to Advance Babesia Biology.
@@ -9995,5 +9997,3 @@
 35537829	[Surveillance and response: The core intervention for malaria control during the post-elimination phase in China].
 35537828	[Harder maintained than achieved: Challenges of maintaining malaria-free in China].
 35535473	Climate predictors and climate change projections for avian haemosporidian prevalence in Mexico.
-35534811	Changes in causes of pregnancy-related and maternal mortality in Zimbabwe 2007-08 to 2018-19: findings from two reproductive age mortality surveys.
-35534377	Plasmodium's fight for survival: escaping elimination while acquiring nutrients.
