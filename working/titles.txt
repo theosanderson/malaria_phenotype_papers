@@ -1,3 +1,4 @@
+38944935	Synthesis, design, and optimization of a potent and selective series of pyridylpiperazines as promising antimalarial agents.
 38944658	CD4(+) T cells display a spectrum of recall dynamics during re-infection with malaria parasites.
 38943203	Diagnostic accuracy of an automated microscope solution (miLab™) in detecting malaria parasites in symptomatic patients at point-of-care in Sudan: a case-control study.
 38943155	Will a lack of fabric durability be their downfall? Impact of textile durability on the efficacy of three types of dual-active-ingredient long-lasting insecticidal nets: a secondary analysis on malaria prevalence and incidence from a cluster-randomized trial in north-west Tanzania.
@@ -9996,4 +9997,3 @@
 35532200	Post malaria acute motor axonal neuropathy.
 35532006	Barriers to Timely Diagnosis and Treatment of Vector-Borne Diseases in a Changing Climate: A Case Report.
 35531326	Presence of Phylloquinone in the Intraerythrocytic Stages of Plasmodium falciparum.
-35531230	Antiplasmodial activity of Morinda lucida Benth. Leaf and bark extracts against Plasmodium berghei infected mice.
