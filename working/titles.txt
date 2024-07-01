@@ -1,3 +1,12 @@
+38948760	The expanded immunoregulatory protease network in mosquitoes is governed by gene co-expression.
+38948349	Contextual factors related to vector-control interventions for malaria: a scoping review and evidence and gap map protocol.
+38948263	Transfection of Babesia duncani: A Genetic Toolbox of this Pathogen to Advance Babesia Biology.
+38948214	Identification and serological responses to a novel Plasmodium vivax merozoite surface protein 1 (PvMSP-1) derived synthetic peptide: a putative biomarker for malaria exposure.
+38947342	Honey microbiota, methods for determining the microbiological composition and the antimicrobial effect of honey - A review.
+38947039	Seroprevalence of SARS-CoV-2 and risk factors for infection among children in Uganda: a serial cross-sectional study.
+38947038	Resurgence of Clinical Malaria in Ethiopia in the Era of Anopheles stephensi Invasion.
+38947035	Pathways through which intermittent preventive treatment for malaria in pregnancy influences child growth faltering: a mediation analysis.
+38946576	Post-malaria delayed cerebellar ataxia in a traveller.
 38944935	Synthesis, design, and optimization of a potent and selective series of pyridylpiperazines as promising antimalarial agents.
 38944658	CD4(+) T cells display a spectrum of recall dynamics during re-infection with malaria parasites.
 38943203	Diagnostic accuracy of an automated microscope solution (miLab™) in detecting malaria parasites in symptomatic patients at point-of-care in Sudan: a case-control study.
@@ -9988,12 +9997,3 @@
 35535473	Climate predictors and climate change projections for avian haemosporidian prevalence in Mexico.
 35534811	Changes in causes of pregnancy-related and maternal mortality in Zimbabwe 2007-08 to 2018-19: findings from two reproductive age mortality surveys.
 35534377	Plasmodium's fight for survival: escaping elimination while acquiring nutrients.
-35534131	Endemic Thoracic Infections in Sub-Saharan Africa.
-35534129	Endemic Thoracic Infections in Latin America and the Caribbean.
-35533962	Estimation of Plasmodium falciparum transmission using multiepitope chimeric antigen in the postelimination phase in Yunnan, China.
-35533146	Malaria transmission structure in the Peruvian Amazon through antibody signatures to Plasmodium vivax.
-35532851	On the global attractivity for a reaction-diffusion malaria model with incubation period in the vector population.
-35532299	Ketoconazole increases atovaquone exposure following concomitant administration with Malarone® in healthy subjects.
-35532200	Post malaria acute motor axonal neuropathy.
-35532006	Barriers to Timely Diagnosis and Treatment of Vector-Borne Diseases in a Changing Climate: A Case Report.
-35531326	Presence of Phylloquinone in the Intraerythrocytic Stages of Plasmodium falciparum.
