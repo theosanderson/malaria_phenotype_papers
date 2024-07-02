@@ -1,3 +1,13 @@
+38952689	A baseline epidemiological survey for malaria and schistosomiasis reveals an alarming burden in primary schools despite ongoing control in Chikwawa District, southern Malawi.
+38952618	From multisystem inflammatory syndrome in children to secondary hemophagocytic lymphohistiocytosis a series of misfortunate events: case report and review of literature.
+38952434	Impact of weekly iron-folic acid supplementation on nutritional status and parasitic reinfection among school-age children and adolescents in Sub-Saharan Africa: a systematic review and meta-analysis.
+38952310	[Biological threats to global malaria elimination Ⅳ Emergence of invasive vector species].
+38952309	[Biological threats to global malaria elimination Ⅲ Vector insecticide resistance].
+38952308	[Biological threats to global malaria elimination II Deletion in the malaria rapid diagnostic test target Plasmodium falciparum histidine-rich protein 2/3 genes].
+38952307	[Biological threats to global malaria elimination I Antimalarial drug resistance].
+38952306	[While the priest climbs a post, the devil climbs ten: major biological threats from parasite and vector to malaria control and elimination].
+38951912	Diagnostic performance of an ultra-sensitive RDT and a conventional RDT in malaria mass testing, treatment and tracking interventions in southern Ghana.
+38951753	Resistin as a potential diagnostic biomarker for sepsis: insights from DIA and ELISA analyses.
 38950022	Plasmodium gametocyte carriage in humans and sporozoite rate in anopheline mosquitoes in Gondar zuria district, Northwest Ethiopia.
 38949440	Barriers to accessing and utilising under-five primary health care services in Vhembe District.
 38949218	Prevalence of malaria in Arusha Region in the northern Tanzania.
@@ -9987,13 +9997,3 @@
 35538444	The combined impact of LLINs, house screening, and pull-push technology for improved malaria control and livelihoods in rural Ethiopia: study protocol for household randomised controlled trial.
 35538339	Weather integrated malaria prediction system using Bayesian structural time series model for northeast states of India.
 35538208	Molecular identification and wing variations among malaria vectors in Akure North Local Government Area, Nigeria.
-35537977	Potential pharmacologic interventions targeting TLR signaling in placental malaria.
-35537843	[Epidemic status of imported malaria before and after malaria elimination in Jiaozuo City of Henan Province].
-35537841	[Molecular epidemiological investigation on Theileria in yellow cattle from Xiangxi Autonomous Prefecture of Hunan Province].
-35537839	[Time to initial diagnosis of imported malaria and its influencing factors in Jiangsu Province].
-35537838	[Construction of a risk assessment indicator system for re-establishment of imported malaria].
-35537832	[Sustainable development roadmap of Chinese antimalarial products].
-35537831	[Sustainable and precise Anopheles control to maintain malaria elimination in China].
-35537830	[Challenges of maintaining malaria elimination in China: Cross-border malaria].
-35537829	[Surveillance and response: The core intervention for malaria control during the post-elimination phase in China].
-35537828	[Harder maintained than achieved: Challenges of maintaining malaria-free in China].
