@@ -1,3 +1,9 @@
+38957387	Antimalarial and antioxidant activities of novel artesunate-ellagic acid hybrid compound in vitro and in vivo.
+38957344	Radical Cure of Plasmodium Vivax Malaria: How can we Improve 8-Aminoquinoline Implementation?
+38957335	Malaria Diagnosis at the Pediatric Emergency Unit of a Teaching Hospital in Makurdi, North Central Nigeria.
+38957296	Utility of MALDI-TOF MS for determination of species identity and blood meal sources of primary malaria vectors on the Kenyan coast.
+38957190	The Potential Uses of Baobab Tree's Medicinal Effects in Dentistry: A Literature Review.
+38956517	SARS-CoV-2 seroprevalence among Beninese pregnant women in the third year of the pandemic.
 38955221	Exploring the midgut physiology of the non-haematophagous mosquito Toxorhynchites theobaldi.
 38955199	Toward Malaria Elimination: Understanding Awareness, Prevention, and Health-Seeking Patterns in Odisha, India.
 38955195	Seasonal Dynamics of Symptomatic and Asymptomatic Plasmodium falciparum and Plasmodium vivax Infections in Coendemic Low-Transmission Settings, South Ethiopia.
@@ -9991,9 +9997,3 @@
 35544453	Variation in Glucose-6-Phosphate Dehydrogenase activity following acute malaria.
 35544206	El Salvador's malaria elimination success story.
 35544205	Tafenoquine for the prevention of Plasmodium vivax malaria relapse.
-35544189	Plasmodium interspecies interactions during a period of increasing prevalence of Plasmodium ovale in symptomatic individuals seeking treatment: an observational study.
-35544111	Malaria progress stumbles, but new tools offer hope.
-35544099	Searching for new therapeutic options for the uncommon pathogen Mycobacterium chimaera: an open drug discovery approach.
-35544095	Single low-dose tafenoquine combined with dihydroartemisinin-piperaquine to reduce Plasmodium falciparum transmission in Ouelessebougou, Mali: a phase 2, single-blind, randomised clinical trial.
-35544064	The future of malaria control in light of RTS,S.
-35544041	Epidemiological and molecular investigations of a point-source outbreak of Dracunculus medinensis infecting humans and dogs in Chad: a cross-sectional study.
