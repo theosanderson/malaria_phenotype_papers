@@ -1,3 +1,7 @@
+38955221	Exploring the midgut physiology of the non-haematophagous mosquito Toxorhynchites theobaldi.
+38955199	Toward Malaria Elimination: Understanding Awareness, Prevention, and Health-Seeking Patterns in Odisha, India.
+38955195	Seasonal Dynamics of Symptomatic and Asymptomatic Plasmodium falciparum and Plasmodium vivax Infections in Coendemic Low-Transmission Settings, South Ethiopia.
+38954701	A cluster-randomized trial of client and provider directed financial interventions to align incentives with appropriate case management in private medicine retailers: Results of the TESTsmART trial in Lagos, Nigeria.
 38954247	Lipid Metabolism in Insect Vectors of Diseases.
 38953883	Structure-activity relationship of anticancer and antiplasmodial gold bis(dithiolene) complexes.
 38953800	A Pilot Seroprevalence Study Suggests Silent Zika virus Transmission in Bhopal Region of Central India.
@@ -9993,7 +9997,3 @@
 35544095	Single low-dose tafenoquine combined with dihydroartemisinin-piperaquine to reduce Plasmodium falciparum transmission in Ouelessebougou, Mali: a phase 2, single-blind, randomised clinical trial.
 35544064	The future of malaria control in light of RTS,S.
 35544041	Epidemiological and molecular investigations of a point-source outbreak of Dracunculus medinensis infecting humans and dogs in Chad: a cross-sectional study.
-35543380	Drug-Drug Interactions of Artemisinin-Based Combination Therapies in Malaria Treatment: A Narrative Review of the Literature.
-35543215	Synthesis and Antimalarial Activities of New Hybrid Atokel Molecules.
-35538684	Spatiotemporal analysis of environmental and physiographic factors related to malaria in Bareilly district, India.
-35538524	Factors associated with ownership and utilization of insecticide treated nets among children under five years in sub-Saharan Africa.
