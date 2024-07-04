@@ -1,9 +1,15 @@
+38962557	bistro: An R package for vector bloodmeal identification by short tandem repeat overlap.
+38962528	Antimalarial and Immunomodulatory Activities of Tithonia diversifolia (Asteraceae) Leave Flafonoids-Rich Extract Used in Cameroonian Traditional Medecine.
+38962109	A Review of Post Neonatal Paediatric Admission Pattern and Outcome in a Public Tertiary Health Facility in Nigeria.
+38962103	Insecticide Treated Net Usage and Its Predictors among HIV Patients Attending an Antiretroviral Therapy Clinic in Ebonyi State, Nigeria.
+38962017	Ethnobotanical Study of Mosquito Repellent Plants Used in Seweyna District, Bale Zone, Southeast, Ethiopia.
+38962015	Immunogenicity of PvCyRPA, PvCelTOS and Pvs25 chimeric recombinant protein of Plasmodium vivax in murine model.
+38961345	Assessing the relationship between malaria incidence levels and meteorological factors using cluster-integrated regression.
 38961324	Key gene modules and hub genes associated with pyrethroid and organophosphate resistance in Anopheles mosquitoes: a systems biology approach.
 38960747	Expression Alterations of Blood Group Genes During Plasmodium Falciparum Infection in Orthochromatic Erythroblasts.
 38960312	How to manage adult patients with malaria in the non-endemic setting.
 38960013	Expression and biochemical characterization of the putative insulinase enzyme PF11_0189 found in the Plasmodium falciparum genome.
 38959850	High malaria PCR positivity in asymptomatic migrants from sub-Saharan Africa.
-38961345	Assessing the relationship between malaria incidence levels and meteorological factors using cluster-integrated regression.
 38959285	Plasmodium vivax populations in the western Greater Mekong Subregion evaluated using a genetic barcode.
 38957387	Antimalarial and antioxidant activities of novel artesunate-ellagic acid hybrid compound in vitro and in vivo.
 38957344	Radical Cure of Plasmodium Vivax Malaria: How can we Improve 8-Aminoquinoline Implementation?
@@ -9991,9 +9997,3 @@
 35550662	RTS,S today and tomorrow's science.
 35550638	The monoterpene 1,8-cineole prevents cerebral edema in a murine model of severe malaria.
 35550620	Incidence of chikungunya virus infections among Kenyan children with neurological disease, 2014-2018: A cohort study.
-35550346	Plasmodium SAS4: basal body component of male cell which is dispensable for parasite transmission.
-35550154	Assessing competence of mid-level providers delivering primary health care in India: a clinical vignette-based study in Chhattisgarh state.
-35550113	Challenges and lessons learned during the planning and early implementation of the RTS,S/AS01(E) malaria vaccine in three regions of Ghana: a qualitative study.
-35550108	Wild Egyptian medicinal plants show in vitro and in vivo cytotoxicity and antimalarial activities.
-35550076	Rice agroecosystem and malaria risk in India.
-35549710	Willingness to accept malaria vaccine among caregivers of under-5 children in Southwest Ethiopia: a community based cross-sectional study.
