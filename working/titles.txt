@@ -1,3 +1,6 @@
+38963678	A morphological and molecular approach to investigating infectious disease in early medieval Iberia: The necropolis of La Olmeda (Palencia, Spain).
+38963319	Comparative proteomics uncovers low asparagine content in Plasmodium tRip-KO proteins.
+38962997	Lipid droplet dynamics are essential for the development of the malaria parasite Plasmodium falciparum.
 38962557	bistro: An R package for vector bloodmeal identification by short tandem repeat overlap.
 38962528	Antimalarial and Immunomodulatory Activities of Tithonia diversifolia (Asteraceae) Leave Flafonoids-Rich Extract Used in Cameroonian Traditional Medecine.
 38962109	A Review of Post Neonatal Paediatric Admission Pattern and Outcome in a Public Tertiary Health Facility in Nigeria.
@@ -9994,6 +9997,3 @@
 35551517	Can floral nectars reduce transmission of Leishmania?
 35551239	Novel pfk13 polymorphisms in Plasmodium falciparum population in Ghana.
 35551033	Design and synthesis of harmiquins, harmine and chloroquine hybrids as potent antiplasmodial agents.
-35550662	RTS,S today and tomorrow's science.
-35550638	The monoterpene 1,8-cineole prevents cerebral edema in a murine model of severe malaria.
-35550620	Incidence of chikungunya virus infections among Kenyan children with neurological disease, 2014-2018: A cohort study.
