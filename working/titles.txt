@@ -1,3 +1,4 @@
+38959285	Plasmodium vivax populations in the western Greater Mekong Subregion evaluated using a genetic barcode.
 38957387	Antimalarial and antioxidant activities of novel artesunate-ellagic acid hybrid compound in vitro and in vivo.
 38957344	Radical Cure of Plasmodium Vivax Malaria: How can we Improve 8-Aminoquinoline Implementation?
 38957335	Malaria Diagnosis at the Pediatric Emergency Unit of a Teaching Hospital in Makurdi, North Central Nigeria.
@@ -9996,4 +9997,3 @@
 35544478	A handmade trap for malaria mosquito surveillance by citizens in Rwanda.
 35544453	Variation in Glucose-6-Phosphate Dehydrogenase activity following acute malaria.
 35544206	El Salvador's malaria elimination success story.
-35544205	Tafenoquine for the prevention of Plasmodium vivax malaria relapse.
