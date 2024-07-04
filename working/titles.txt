@@ -1,3 +1,9 @@
+38961345	Assessing the relationship between malaria incidence levels and meteorological factors using cluster-integrated regression.
+38961324	Key gene modules and hub genes associated with pyrethroid and organophosphate resistance in Anopheles mosquitoes: a systems biology approach.
+38960747	Expression Alterations of Blood Group Genes During Plasmodium Falciparum Infection in Orthochromatic Erythroblasts.
+38960312	How to manage adult patients with malaria in the non-endemic setting.
+38960013	Expression and biochemical characterization of the putative insulinase enzyme PF11_0189 found in the Plasmodium falciparum genome.
+38959850	High malaria PCR positivity in asymptomatic migrants from sub-Saharan Africa.
 38959285	Plasmodium vivax populations in the western Greater Mekong Subregion evaluated using a genetic barcode.
 38957387	Antimalarial and antioxidant activities of novel artesunate-ellagic acid hybrid compound in vitro and in vivo.
 38957344	Radical Cure of Plasmodium Vivax Malaria: How can we Improve 8-Aminoquinoline Implementation?
@@ -9991,9 +9997,3 @@
 35550108	Wild Egyptian medicinal plants show in vitro and in vivo cytotoxicity and antimalarial activities.
 35550076	Rice agroecosystem and malaria risk in India.
 35549710	Willingness to accept malaria vaccine among caregivers of under-5 children in Southwest Ethiopia: a community based cross-sectional study.
-35546741	Multi-omics analysis identifies a CYP9K1 haplotype conferring pyrethroid resistance in the malaria vector Anopheles funestus in East Africa.
-35545692	Lessons learned from the introduction of genetically engineered crops: relevance to gene drive deployment in Africa.
-35545288	Knowledge translation and evidence generation to increase the impact of vector control in Burkina Faso, Cameroon and Malawi.
-35544478	A handmade trap for malaria mosquito surveillance by citizens in Rwanda.
-35544453	Variation in Glucose-6-Phosphate Dehydrogenase activity following acute malaria.
-35544206	El Salvador's malaria elimination success story.
