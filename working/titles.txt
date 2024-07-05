@@ -1,3 +1,4 @@
+38967233	Fixing the Achilles Heel of Pfizer's Paxlovid for COVID-19 Treatment.
 38967082	Immunological Activity of Vaccine Systems Containing Liposomal Nanocarriers against Protozoan-Induced Diseases: A Systematic Review.
 38966997	DNA sequence and chromatin differentiate sequence-specific transcription factor binding in the human malaria parasite Plasmodium falciparum.
 38966694	Applying 'timeliness' to the screening and prevention of TB in household contacts of pulmonary TB patients.
@@ -9996,4 +9997,3 @@
 35561785	Proteomic analysis of Plasmodium berghei in the ring phase during in vivo antiparasitic treatment with kramecyne.
 35561722	The epidemiology of severe malaria at Manhiça District Hospital, Mozambique: a retrospective analysis of 20 years of malaria admissions surveillance data.
 35559983	Mobility evaluation by GPS tracking in a rural, low-income population in Cambodia.
-35559666	Atypical B cells up-regulate costimulatory molecules during malaria and secrete antibodies with T follicular helper cell support.
