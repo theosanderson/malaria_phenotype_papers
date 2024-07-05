@@ -1,3 +1,10 @@
+38965434	Extension of efficacy range for targeted malaria-elimination interventions due to spillover effects.
+38965406	The effect on the equilibrium sickle cell allele frequency of the probable protection conferred by malaria and sickle cell gene against other infectious diseases.
+38965027	Executive Summary of the Spanish Guidelines for the Diagnosis and Management of Imported Febrile Illnesses from the Spanish Society of Tropical Medicine and International Health (SEMTSI), the Imported Pathology Group of the Spanish Society of Infectious Diseases and Clinical Microbiology (GEPI-SEIMC), the Spanish Society of Family and Community Medicine (SEMFYC), the Spanish Society of Primary Care Physicians (SEMERGEN) and the Spanish Society of Emergency Medicine (SEMES).
+38964800	Community perspective and healthcare assessment in malaria endemic states of India: a cross-sectional study protocol.
+38964640	DNA N-glycosylases Ogg1 and EndoIII as components of base excision repair in Plasmodium falciparum organelles.
+38964492	Genetic analysis of the circumsporozoite gene in Plasmodium falciparum isolates from Cameroon: Implications for efficacy and deployment of RTS,S/AS01 vaccine.
+38964338	Still time to contain artemisinin resistance in Africa.
 38963678	A morphological and molecular approach to investigating infectious disease in early medieval Iberia: The necropolis of La Olmeda (Palencia, Spain).
 38963319	Comparative proteomics uncovers low asparagine content in Plasmodium tRip-KO proteins.
 38962997	Lipid droplet dynamics are essential for the development of the malaria parasite Plasmodium falciparum.
@@ -9990,10 +9997,3 @@
 35558819	Spatio-Temporal Variation of Malaria Incidence and Risk Factors in West Gojjam Zone, Northwest Ethiopia.
 35557691	Mediator Complex of the Malaria Parasite Plasmodium falciparum Associates with Evolutionarily Novel Subunits.
 35556124	Specific Components Associated With the Endothelial Glycocalyx Are Lost From Brain Capillaries in Cerebral Malaria.
-35553290	Exposure of Primate Reservoir Hosts to Mosquito Vectors in Malaysian Borneo.
-35552547	Interventions to improve linkage along the HIV-tuberculosis care cascades in low- and middle-income countries: A systematic review and meta-analysis.
-35551540	HMOX1 genetic polymorphisms and outcomes in infectious disease: A systematic review.
-35551536	Malaria rapid diagnostic tests for the case management of febrile children in Nigerian primary healthcare settings: a cross-sectional study.
-35551517	Can floral nectars reduce transmission of Leishmania?
-35551239	Novel pfk13 polymorphisms in Plasmodium falciparum population in Ghana.
-35551033	Design and synthesis of harmiquins, harmine and chloroquine hybrids as potent antiplasmodial agents.
