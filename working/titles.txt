@@ -1,3 +1,6 @@
+38970076	Impact on pregnancy outcomes of intermittent preventive treatment with sulfadoxine-pyrimethamine in urban and peri-urban Papua New Guinea: a retrospective cohort study.
+38969256	The malaria parasite egress protease SUB1 is activated through precise, plasmepsin X-mediated cleavage of the SUB1 prodomain.
+38969187	Identification of circulating miRNA biomarkers in Leptospirosis for early detection: A Promising Diagnostic Approach.
 38968330	Combination of computational techniques and RNAi reveal targets in Anopheles gambiae for malaria vector control.
 38968270	Malaria transmission blocking activity of Anopheles stephensi alanyl aminopeptidase N antigen formulated with MPL, CpG, and QS21 adjuvants.
 38968228	Identification of Southeast Asian Anopheles mosquito species using MALDI-TOF mass spectrometry.
@@ -9994,6 +9997,3 @@
 35562786	Vector control in China, from malaria endemic to elimination and challenges ahead.
 35562702	The effect of climatic factors on the number of malaria cases in an inland and a coastal setting from 2011 to 2017 in the equatorial rain forest of Cameroon.
 35562690	Understanding the epidemiology, clinical characteristics, knowledge and barriers to treatment and prevention of malaria among returning international laborers in northern Vietnam: a mixed-methods study.
-35562516	Blood feeding habits of mosquitoes: hardly a bite in South America.
-35562368	Malaria in 2022: Increasing challenges, cautious optimism.
-35562353	Tackling malaria transmission at a single cell level in an endemic setting in sub-Saharan Africa.
