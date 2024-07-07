@@ -1,3 +1,7 @@
+38971837	A randomised trial of malaria vaccine R21/Matrix-M™ with and without antimalarial drugs in Thai adults.
+38971786	Efficacy and safety of chloroquine plus primaquine for the treatment of Plasmodium vivax malaria in Hamusit site, Northwestern Ethiopia.
+38971776	Infectivity of Plasmodium parasites to Aedes aegypti and Anopheles stephensi mosquitoes maintained on blood-free meals of SkitoSnack.
+38971773	Effects of a blood-free mosquito diet on fitness and gonotrophic cycle parameters of laboratory reared Anopheles gambiae sensu stricto.
 38970660	GIS-based spatiotemporal mapping of malaria prevalence and exploration of environmental inequalities.
 38970494	Recent Progress toward the Discovery of Small Molecules as Novel Anti-Respiratory Syncytial Virus Agents.
 38970152	Degree of PEGylatation of Lumbricus terrestris Hemoglobin Improves Microcirculatory Blood Flow but Increases the Rate of Auto-Oxidation.
@@ -9993,7 +9997,3 @@
 35566194	Semi-Synthesis of N-Aryl Amide Analogs of Piperine from Piper nigrum and Evaluation of Their Antitrypanosomal, Antimalarial, and Anti-SARS-CoV-2 Main Protease Activities.
 35566029	1,2,3-Triazolyl-tetrahydropyrimidine Conjugates as Potential Sterol Carrier Protein-2 Inhibitors: Larvicidal Activity against the Malaria Vector Anopheles arabiensis and In Silico Molecular Docking Study.
 35566023	In Silico and In Vitro Antimalarial Screening and Validation Targeting Plasmodium falciparum Plasmepsin V.
-35565622	Establishment and Application of an Indirect Enzyme-Linked Immunosorbent Assay for Measuring GPI-Anchored Protein 52 (P52) Antibodies in Babesia gibsoni-Infected Dogs.
-35565426	Atovaquone: An Inhibitor of Oxidative Phosphorylation as Studied in Gynecologic Cancers.
-35564842	Malaria and Helminthic Co-Infection during Pregnancy in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.
-35563239	Identification of ATP2B4 Regulatory Element Containing Functional Genetic Variants Associated with Severe Malaria.
