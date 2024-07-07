@@ -1,3 +1,6 @@
+38970660	GIS-based spatiotemporal mapping of malaria prevalence and exploration of environmental inequalities.
+38970494	Recent Progress toward the Discovery of Small Molecules as Novel Anti-Respiratory Syncytial Virus Agents.
+38970152	Degree of PEGylatation of Lumbricus terrestris Hemoglobin Improves Microcirculatory Blood Flow but Increases the Rate of Auto-Oxidation.
 38970076	Impact on pregnancy outcomes of intermittent preventive treatment with sulfadoxine-pyrimethamine in urban and peri-urban Papua New Guinea: a retrospective cohort study.
 38969256	The malaria parasite egress protease SUB1 is activated through precise, plasmepsin X-mediated cleavage of the SUB1 prodomain.
 38969187	Identification of circulating miRNA biomarkers in Leptospirosis for early detection: A Promising Diagnostic Approach.
@@ -9994,6 +9997,3 @@
 35565426	Atovaquone: An Inhibitor of Oxidative Phosphorylation as Studied in Gynecologic Cancers.
 35564842	Malaria and Helminthic Co-Infection during Pregnancy in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.
 35563239	Identification of ATP2B4 Regulatory Element Containing Functional Genetic Variants Associated with Severe Malaria.
-35562786	Vector control in China, from malaria endemic to elimination and challenges ahead.
-35562702	The effect of climatic factors on the number of malaria cases in an inland and a coastal setting from 2011 to 2017 in the equatorial rain forest of Cameroon.
-35562690	Understanding the epidemiology, clinical characteristics, knowledge and barriers to treatment and prevention of malaria among returning international laborers in northern Vietnam: a mixed-methods study.
