@@ -1,3 +1,8 @@
+38972992	Proactive home-based malaria management in rural communities of Bassar Health District in northern Togo from 2014 to 2017: PECADOM + , a pilot experiment.
+38972626	Leech, potato, and tomato carboxypeptidase inhibitors against Anopheles stephensi carboxypeptidase B1 and B2.
+38972561	Zinc oxide nanoparticles loaded with linalool as a potential control agent of malaria infection.
+38972560	Seasonal Variability and Stochastic Branching Process in Malaria Outbreak Probability.
+38972444	Unusual cadinane-involved sesquiterpenoid dimers from Artemisia annua and their antihepatoma effect.
 38971837	A randomised trial of malaria vaccine R21/Matrix-M™ with and without antimalarial drugs in Thai adults.
 38971786	Efficacy and safety of chloroquine plus primaquine for the treatment of Plasmodium vivax malaria in Hamusit site, Northwestern Ethiopia.
 38971776	Infectivity of Plasmodium parasites to Aedes aegypti and Anopheles stephensi mosquitoes maintained on blood-free meals of SkitoSnack.
@@ -9992,8 +9997,3 @@
 35568518	The COVID-19 pandemic, an environmental neurology perspective.
 35568118	Functional aspects of evolution in a cluster of salivary protein genes from mosquitoes.
 35567486	The impact of the COVID-19 pandemic on malaria in returning travellers in Canada: a retrospective population-based cohort study.
-35566899	Microencapsulation of Essential Oils: A Review.
-35566390	Biotechnological Approaches for Production of Artemisinin, an Anti-Malarial Drug from Artemisia annua L.
-35566194	Semi-Synthesis of N-Aryl Amide Analogs of Piperine from Piper nigrum and Evaluation of Their Antitrypanosomal, Antimalarial, and Anti-SARS-CoV-2 Main Protease Activities.
-35566029	1,2,3-Triazolyl-tetrahydropyrimidine Conjugates as Potential Sterol Carrier Protein-2 Inhibitors: Larvicidal Activity against the Malaria Vector Anopheles arabiensis and In Silico Molecular Docking Study.
-35566023	In Silico and In Vitro Antimalarial Screening and Validation Targeting Plasmodium falciparum Plasmepsin V.
