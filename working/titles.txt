@@ -1,3 +1,7 @@
+38976068	Drug-induced ER stress leads to induction of programmed cell death pathways of the malaria parasite.
+38975628	Antimalarial Delivery with a Ferritin-Based Protein Cage: A Step toward Developing Smart Therapeutics against Malaria.
+38975253	Genetic diversity of the PvMSP-3α gene in Plasmodium vivax isolates circulating in the National Capital Region (NCR) of India.
+38974263	Clinical characteristics and variables associated with COVID-19 morbidity and mortality in Luanda, Angola, in the first year of the pandemic.
 38972992	Proactive home-based malaria management in rural communities of Bassar Health District in northern Togo from 2014 to 2017: PECADOM + , a pilot experiment.
 38972626	Leech, potato, and tomato carboxypeptidase inhibitors against Anopheles stephensi carboxypeptidase B1 and B2.
 38972561	Zinc oxide nanoparticles loaded with linalool as a potential control agent of malaria infection.
@@ -4394,7 +4398,7 @@
 37461578	Clinical and Immunological Outcomes of HIV-Exposed Uninfected and HIV-Unexposed Uninfected Children in the First 24 Months of Life in Western Kenya.
 37461554	CLIPB4 is a central node in the protease network that regulates humoral immunity in Anopheles gambiae mosquitoes.
 37461533	Complexity of Plasmodium falciparum infection and genetic variations associated with differences in parasite clearance time in two Malian villages.
-37461346	Potential drugs in COVID-19 management.
+37461346	Potential Drugs in COVID-19 Management.
 37461279	An ordinary malaria? Intermittent fever in Denmark, 1826-1886.
 37461113	Heterogeneity in health funding and disparities in health outcome: a comparison between high focus and non-high focus states in India.
 37461081	Reduced polymorphism of Plasmodium vivax early transcribed membrane protein (PvETRAMP) 11.2.
@@ -9993,7 +9997,3 @@
 35570264	Translation of liver stage activity of M5717, a Plasmodium elongation factor 2 inhibitor: from bench to bedside.
 35569916	Identification of Algerian field-caught mosquito vectors by MALDI-TOF MS.
 35569906	Molecular detection of Leucocytozoon in red-legged seriemas (Cariama cristata), a non-migratory bird species in the Brazilian Cerrado.
-35568905	Dynamics of dengue and SARS-COV-2 co-infection in an endemic area of Colombia.
-35568518	The COVID-19 pandemic, an environmental neurology perspective.
-35568118	Functional aspects of evolution in a cluster of salivary protein genes from mosquitoes.
-35567486	The impact of the COVID-19 pandemic on malaria in returning travellers in Canada: a retrospective population-based cohort study.
