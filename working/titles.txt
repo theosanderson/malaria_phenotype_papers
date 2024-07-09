@@ -1,3 +1,8 @@
+38978151	Pharmacokinetics of piperaquine and its association with intermittent malaria preventive therapy outcomes during pregnancy.
+38978124	Specificity of serological screening tests and reference laboratory tests to diagnose gambiense human African trypanosomiasis: a prospective clinical performance study.
+38977907	CRISPR-based functional profiling of the Toxoplasma gondii genome during acute murine infection.
+38977858	Pursuing the elusive footsteps of malaria in peripheral blood smears utilizing artificial intelligence.
+38977402	Comparing priority received by global health issues: a measurement framework applied to tuberculosis, malaria, diarrhoeal diseases and dengue fever.
 38976675	The R21 malaria vaccine: Spotlight on policy goals and pathways to African vaccine manufacturing.
 38976649	Assessing the interplay between off-target promiscuity, cytotoxicity, and tolerability in rodents to improve the safety profile of novel anti-malarial plasmepsin X inhibitors.
 38976647	Deconvoluting and derisking QRS complex widening to improve cardiac safety profile of novel plasmepsin X antimalarials.
@@ -9992,8 +9997,3 @@
 35572587	Multiple-Allele MHC Class II Epitope Engineering by a Molecular Dynamics-Based Evolution Protocol.
 35571356	Assessment of electronic surveillance and knowledge, attitudes, and practice (KAP) survey toward imported malaria surveillance system acceptance in France.
 35571141	Suppression of NLRP3 Inflammasome by Dihydroarteannuin via the HIF-1α and JAK3/STAT3 Signaling Pathway Contributes to Attenuation of Collagen-Induced Arthritis in Mice.
-35571076	Methods to Assess Adult and Adolescent Patients' Adherence to Antimalarial Treatment: A Systematic Review.
-35570883	Undertaking Community Engagement for a Controlled Human Malaria Infection Study in Kenya: Approaches and Lessons Learnt.
-35570671	Habitat-dependent Culicoides species composition and abundance in blue tit (Cyanistes caeruleus) nests.
-35570297	A cost analysis of the diagnosis and treatment of malaria at public health facilities and communities in three districts in Rwanda.
-35570274	Exo-erythrocytic development of Plasmodium matutinum (lineage pLINN1) in a naturally infected roadkill fieldfare Turdus pilaris.
