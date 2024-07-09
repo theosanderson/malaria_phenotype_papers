@@ -1,3 +1,11 @@
+38979599	Relation between the Dantu blood group variant and bacteraemia in Kenyan children: a population-based case control study.
+38979329	Declining Genetic Polymorphisms of the C-terminus Merozoite Surface Protein-1 Amidst Increased Plasmodium knowlesi Transmission in Thailand.
+38979188	A Prodrug Strategy to Reposition Atovaquone as a Long-Acting Injectable for Malaria Chemoprotection.
+38979048	Hemolytic Uremic Syndrome: A COVID-19 Vaccine Reaction Case Report.
+38978949	Long-Lasting Insecticidal Net Coverage and Utilization in Burla Town of Sambalpur District: A Cross-Sectional Study.
+38978931	Malaria Tropica: An Autopsy Case Report With a Discussion on the Presence of Malaria in Bulgaria.
+38978708	Repurposing of Drug Bank Compounds against Plasmodium falciparum Dihydroorotate Dehydrogenase as novel anti malarial drug candidates by Computational approaches.
+38978652	High-Throughput Genotyping of Plasmodium vivax in the Peruvian Amazon via Molecular Inversion Probes.
 38978151	Pharmacokinetics of piperaquine and its association with intermittent malaria preventive therapy outcomes during pregnancy.
 38978124	Specificity of serological screening tests and reference laboratory tests to diagnose gambiense human African trypanosomiasis: a prospective clinical performance study.
 38977907	CRISPR-based functional profiling of the Toxoplasma gondii genome during acute murine infection.
@@ -9989,11 +9997,3 @@
 35575307	Phytochemicals in the Management of Arsenic Toxicity.
 35574145	A New Approach to Develop Resistant Cultivars Against the Plant Pathogens: CRISPR Drives.
 35573796	Machine Learning and Its Applications for Protozoal Pathogens and Protozoal Infectious Diseases.
-35573785	Apicoplast Dynamics During Plasmodium Cell Cycle.
-35573423	Pancytopenia with severe thrombocytopenia in asymptomatic malaria in advanced pregnancy: a case report.
-35573190	Plasmodium parasitophorous vacuole membrane-resident protein UIS4 manipulates host cell actin to avoid parasite elimination.
-35573042	COVID-19 in Africa: What else?
-35572813	False-positive rapid diagnostic test for malaria in new world cutaneous leishmaniasis: a tale of two travelers.
-35572587	Multiple-Allele MHC Class II Epitope Engineering by a Molecular Dynamics-Based Evolution Protocol.
-35571356	Assessment of electronic surveillance and knowledge, attitudes, and practice (KAP) survey toward imported malaria surveillance system acceptance in France.
-35571141	Suppression of NLRP3 Inflammasome by Dihydroarteannuin via the HIF-1α and JAK3/STAT3 Signaling Pathway Contributes to Attenuation of Collagen-Induced Arthritis in Mice.
