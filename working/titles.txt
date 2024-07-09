@@ -1,3 +1,6 @@
+38980186	A new era in malaria prevention: a comparative look at RTS,S/AS01 and R21/Matrix-M vaccines.
+38980033	Brilacidin, a host defense peptide mimetic, potentiates ibrexafungerp antifungal activity against the human pathogenic fungus Aspergillus fumigatus.
+38980022	Comparison of Bordetella species identification among differing rt-PCR assays in the United States.
 38979599	Relation between the Dantu blood group variant and bacteraemia in Kenyan children: a population-based case control study.
 38979329	Declining Genetic Polymorphisms of the C-terminus Merozoite Surface Protein-1 Amidst Increased Plasmodium knowlesi Transmission in Thailand.
 38979188	A Prodrug Strategy to Reposition Atovaquone as a Long-Acting Injectable for Malaria Chemoprotection.
@@ -9994,6 +9997,3 @@
 35576233	High DDT resistance without apparent association to kdr and Glutathione-S-transferase (GST) gene mutations in Aedes aegypti population at hotel compounds in Zanzibar.
 35576208	Risk associations of submicroscopic malaria infection in lakeshore, plateau and highland areas of Kisumu County in western Kenya.
 35576190	Entomological risk of African tick-bite fever (Rickettsia africae infection) in Eswatini.
-35575307	Phytochemicals in the Management of Arsenic Toxicity.
-35574145	A New Approach to Develop Resistant Cultivars Against the Plant Pathogens: CRISPR Drives.
-35573796	Machine Learning and Its Applications for Protozoal Pathogens and Protozoal Infectious Diseases.
