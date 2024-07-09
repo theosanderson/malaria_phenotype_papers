@@ -1,3 +1,7 @@
+38976675	The R21 malaria vaccine: Spotlight on policy goals and pathways to African vaccine manufacturing.
+38976649	Assessing the interplay between off-target promiscuity, cytotoxicity, and tolerability in rodents to improve the safety profile of novel anti-malarial plasmepsin X inhibitors.
+38976647	Deconvoluting and derisking QRS complex widening to improve cardiac safety profile of novel plasmepsin X antimalarials.
+38976500	Chemoproteomics validates selective targeting of Plasmodium M1 alanyl aminopeptidase as an antimalarial strategy.
 38976068	Drug-induced ER stress leads to induction of programmed cell death pathways of the malaria parasite.
 38975628	Antimalarial Delivery with a Ferritin-Based Protein Cage: A Step toward Developing Smart Therapeutics against Malaria.
 38975253	Genetic diversity of the PvMSP-3α gene in Plasmodium vivax isolates circulating in the National Capital Region (NCR) of India.
@@ -9993,7 +9997,3 @@
 35570671	Habitat-dependent Culicoides species composition and abundance in blue tit (Cyanistes caeruleus) nests.
 35570297	A cost analysis of the diagnosis and treatment of malaria at public health facilities and communities in three districts in Rwanda.
 35570274	Exo-erythrocytic development of Plasmodium matutinum (lineage pLINN1) in a naturally infected roadkill fieldfare Turdus pilaris.
-35570272	Impact of the COVID-19 pandemic on malaria cases in health facilities in northern Ghana: a retrospective analysis of routine surveillance data.
-35570264	Translation of liver stage activity of M5717, a Plasmodium elongation factor 2 inhibitor: from bench to bedside.
-35569916	Identification of Algerian field-caught mosquito vectors by MALDI-TOF MS.
-35569906	Molecular detection of Leucocytozoon in red-legged seriemas (Cariama cristata), a non-migratory bird species in the Brazilian Cerrado.
