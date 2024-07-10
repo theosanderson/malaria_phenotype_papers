@@ -1,4 +1,7 @@
+38983114	Reconstitution of human microglia and resident T cells in the brain of humanized DRAGA mice.
+38982894	A sub-national HIV epidemic appraisal in Kenya: a new approach for identifying priority geographies, populations and programmes for optimizing coverage for HIV prevention.
 38982547	Discovery of antimalarial drugs from secondary metabolites in actinomycetes culture library.
+38982498	Examining geographical inequalities for malaria outcomes and spending on malaria in 40 malaria-endemic countries, 2010-2020.
 38982496	Deployment of attractive targeted sugar baits in western Zambia: installation, monitoring, removal, and disposal procedures during a Phase III cluster randomized controlled trial.
 38982475	Two decades of molecular surveillance in Senegal reveal rapid changes in known drug resistance mutations over time.
 38982472	Effect of Microsporidia MB infection on the development and fitness of Anopheles arabiensis under different diet regimes.
@@ -10,7 +13,6 @@
 38981502	Associations of Plasmodium and Intestinal Helminth Infections with Maternal Anemia and Adverse Pregnancy Outcomes in Northwest Ethiopia.
 38981490	Slaying the Serpent: A Research Agenda to Expand Intervention Development and Accelerate Guinea Worm Eradication Efforts.
 38981489	Predicting the Environmental Suitability and Identifying Climate and Sociodemographic Correlates of Guinea Worm (Dracunculus Medinensis) in Chad.
-38982498	Examining geographical inequalities for malaria outcomes and spending on malaria in 40 malaria-endemic countries, 2010-2020.
 38980186	A new era in malaria prevention: a comparative look at RTS,S/AS01 and R21/Matrix-M vaccines.
 38980033	Brilacidin, a host defense peptide mimetic, potentiates ibrexafungerp antifungal activity against the human pathogenic fungus Aspergillus fumigatus.
 38980022	Comparison of Bordetella species identification among differing rt-PCR assays in the United States.
@@ -9995,5 +9997,3 @@
 35582408	Intermittent Preventive Treatment of Malaria in Pregnancy with Sulphadoxine-Pyrimethamine and its Associated Factors in the Atwima Kwanwoma District, Ghana.
 35582062	LOCAL KNOWLEDGE OF ADAPTIVE STRATEGIES AGAINST MALARIA ENDEMICITY IN THE OKAVANGO DELTA, BOTSWANA.
 35581198	A heme-activatable probe and its application in the high-throughput screening of Plasmodium falciparum ring-stage inhibitors.
-35580913	Prereferral rectal artesunate and referral completion among children with suspected severe malaria in the Democratic Republic of the Congo, Nigeria and Uganda.
-35580448	Ecological and seasonal variations and other factors associated with clinical malaria in the Central Region of Ghana: A cross-sectional study.
