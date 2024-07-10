@@ -1,5 +1,4 @@
 38982547	Discovery of antimalarial drugs from secondary metabolites in actinomycetes culture library.
-38982498	Examining geographical inequalities for malaria outcomes and spending on malaria in 40 malaria-endemic countries, 2010-2020.
 38982496	Deployment of attractive targeted sugar baits in western Zambia: installation, monitoring, removal, and disposal procedures during a Phase III cluster randomized controlled trial.
 38982475	Two decades of molecular surveillance in Senegal reveal rapid changes in known drug resistance mutations over time.
 38982472	Effect of Microsporidia MB infection on the development and fitness of Anopheles arabiensis under different diet regimes.
@@ -11,6 +10,7 @@
 38981502	Associations of Plasmodium and Intestinal Helminth Infections with Maternal Anemia and Adverse Pregnancy Outcomes in Northwest Ethiopia.
 38981490	Slaying the Serpent: A Research Agenda to Expand Intervention Development and Accelerate Guinea Worm Eradication Efforts.
 38981489	Predicting the Environmental Suitability and Identifying Climate and Sociodemographic Correlates of Guinea Worm (Dracunculus Medinensis) in Chad.
+38982498	Examining geographical inequalities for malaria outcomes and spending on malaria in 40 malaria-endemic countries, 2010-2020.
 38980186	A new era in malaria prevention: a comparative look at RTS,S/AS01 and R21/Matrix-M vaccines.
 38980033	Brilacidin, a host defense peptide mimetic, potentiates ibrexafungerp antifungal activity against the human pathogenic fungus Aspergillus fumigatus.
 38980022	Comparison of Bordetella species identification among differing rt-PCR assays in the United States.
