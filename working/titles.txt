@@ -1898,6 +1898,7 @@
 38330357	Recombinant Full-length Plasmodium falciparum Circumsporozoite Protein-Based Vaccine Adjuvanted With Glucopyranosyl Lipid A-Liposome Quillaja saponaria 21: Results of Phase 1 Testing With Malaria Challenge.
 38330097	Zeb2 drives the formation of CD11c(+) atypical B cells to sustain germinal centers that control persistent infection.
 38329933	Antifungal and Antiparasitic Activities of Metallocene-Containing Fluconazole Derivatives.
+38329864	Decorrelation Time Mapping as an Analysis Tool for Nanobubble-Based Contrast Enhanced Ultrasound Imaging.
 38329581	Genetics and metabolic responses of Artemisia annua L to the lake of phosphorus under the sparingly soluble phosphorus fertilizer: evidence from transcriptomics analysis.
 38329112	Modeling resource allocation strategies for insecticide-treated bed nets to achieve malaria eradication.
 38328504	A protocol and training guidelines for mosquito sampling in remote areas with limited power supply.
@@ -9996,4 +9997,3 @@
 35582794	Characterization of a novel pesticide transporter and P-glycoprotein orthologues in Drosophila melanogaster.
 35582408	Intermittent Preventive Treatment of Malaria in Pregnancy with Sulphadoxine-Pyrimethamine and its Associated Factors in the Atwima Kwanwoma District, Ghana.
 35582062	LOCAL KNOWLEDGE OF ADAPTIVE STRATEGIES AGAINST MALARIA ENDEMICITY IN THE OKAVANGO DELTA, BOTSWANA.
-35581198	A heme-activatable probe and its application in the high-throughput screening of Plasmodium falciparum ring-stage inhibitors.
