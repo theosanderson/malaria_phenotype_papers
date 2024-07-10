@@ -1,3 +1,16 @@
+38982547	Discovery of antimalarial drugs from secondary metabolites in actinomycetes culture library.
+38982498	Examining geographical inequalities for malaria outcomes and spending on malaria in 40 malaria-endemic countries, 2010-2020.
+38982496	Deployment of attractive targeted sugar baits in western Zambia: installation, monitoring, removal, and disposal procedures during a Phase III cluster randomized controlled trial.
+38982475	Two decades of molecular surveillance in Senegal reveal rapid changes in known drug resistance mutations over time.
+38982472	Effect of Microsporidia MB infection on the development and fitness of Anopheles arabiensis under different diet regimes.
+38982331	Discovery of an anti-malarial compound, burnettiene A, with a multidrug-sensitive Saccharomyces cerevisiae screening system based on mitochondrial function inhibitory activity.
+38982325	Assessing LLIN distribution implementation using evidence-informed intervention core elements: a qualitative study in a resource-constrained setting.
+38982282	Clinical significance of PLT for diagnosis and treatment monitoring in imported malaria.
+38982235	Vaccines save lives: how can uptake be increased?
+38981503	Modeling the Impact of Proactive Community Case Management on Reducing Confirmed Malaria Cases in Sub-Saharan African Countries.
+38981502	Associations of Plasmodium and Intestinal Helminth Infections with Maternal Anemia and Adverse Pregnancy Outcomes in Northwest Ethiopia.
+38981490	Slaying the Serpent: A Research Agenda to Expand Intervention Development and Accelerate Guinea Worm Eradication Efforts.
+38981489	Predicting the Environmental Suitability and Identifying Climate and Sociodemographic Correlates of Guinea Worm (Dracunculus Medinensis) in Chad.
 38980186	A new era in malaria prevention: a comparative look at RTS,S/AS01 and R21/Matrix-M vaccines.
 38980033	Brilacidin, a host defense peptide mimetic, potentiates ibrexafungerp antifungal activity against the human pathogenic fungus Aspergillus fumigatus.
 38980022	Comparison of Bordetella species identification among differing rt-PCR assays in the United States.
@@ -9984,16 +9997,3 @@
 35581198	A heme-activatable probe and its application in the high-throughput screening of Plasmodium falciparum ring-stage inhibitors.
 35580913	Prereferral rectal artesunate and referral completion among children with suspected severe malaria in the Democratic Republic of the Congo, Nigeria and Uganda.
 35580448	Ecological and seasonal variations and other factors associated with clinical malaria in the Central Region of Ghana: A cross-sectional study.
-35579513	Chloroquine attenuates chronic hypoxia-induced testicular damage via suppressing endoplasmic reticulum stress and apoptosis in experimental rat model.
-35579509	Transfusing Convalescent Plasma as Post-Exposure Prophylaxis Against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection: A Double-Blinded, Phase 2 Randomized, Controlled Trial.
-35579271	Seasonal variation of microbiota composition in Anopheles gambiae and Anopheles coluzzii in two different eco-geographical localities in Cameroon.
-35578987	Asymptomatic School-Aged Children Are Important Drivers of Malaria Transmission in a High Endemicity Setting in Uganda.
-35578879	Forging Ahead the Repositioning of Multitargeted Drug Ivermectin.
-35578325	Could China's journey of malaria elimination extend to Africa?
-35578273	Neighbors' use of water and sanitation facilities can affect children's health: a cohort study in Mozambique using a spatial approach.
-35578036	Constituents from ripe figs of Ficus vallis-choudae Delile (Moraceae) with antiplasmodial activity.
-35577816	Cloud-based applications for accessing satellite Earth observations to support malaria early warning.
-35576470	Diurnal biting of malaria mosquitoes in the Central African Republic indicates residual transmission may be "out of control".
-35576233	High DDT resistance without apparent association to kdr and Glutathione-S-transferase (GST) gene mutations in Aedes aegypti population at hotel compounds in Zanzibar.
-35576208	Risk associations of submicroscopic malaria infection in lakeshore, plateau and highland areas of Kisumu County in western Kenya.
-35576190	Entomological risk of African tick-bite fever (Rickettsia africae infection) in Eswatini.
