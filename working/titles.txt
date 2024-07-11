@@ -1,3 +1,6 @@
+38985752	Community end user perceptions of hessian fabric transfluthrin vapour emanators for protecting against mosquitoes under conditions of routine use in Port-au-Prince, Haiti.
+38985692	Parallel evolution in mosquito vectors - a duplicated esterase locus is associated with resistance to pirimiphos-methyl in An. gambiae.
+38985536	Loop-Mediated Isothermal Amplification Assay to Detect Invasive Malaria Vector Anopheles stephensi Mosquitoes.
 38983114	Reconstitution of human microglia and resident T cells in the brain of humanized DRAGA mice.
 38982894	A sub-national HIV epidemic appraisal in Kenya: a new approach for identifying priority geographies, populations and programmes for optimizing coverage for HIV prevention.
 38982547	Discovery of antimalarial drugs from secondary metabolites in actinomycetes culture library.
@@ -9994,6 +9997,3 @@
 35583366	Photo Quiz: Fever in a Traveler Returning from West Malaysia.
 35583365	Answer to May 2022 Photo Quiz.
 35583207	High-throughput digital pathology via a handheld, multiplexed, and AI-powered ptychographic whole slide scanner.
-35582794	Characterization of a novel pesticide transporter and P-glycoprotein orthologues in Drosophila melanogaster.
-35582408	Intermittent Preventive Treatment of Malaria in Pregnancy with Sulphadoxine-Pyrimethamine and its Associated Factors in the Atwima Kwanwoma District, Ghana.
-35582062	LOCAL KNOWLEDGE OF ADAPTIVE STRATEGIES AGAINST MALARIA ENDEMICITY IN THE OKAVANGO DELTA, BOTSWANA.
