@@ -1,3 +1,9 @@
+38988513	The role of Nrf2 signaling in parasitic diseases and its therapeutic potential.
+38988406	TB preventive therapy: uptake and time to initiation during implementation of '7-1-7'.
+38988372	A low-cost, portable device for the study of the malaria parasite's growth inhibition via microwave exposure.
+38988315	Structure-based design of a Plasmodium vivax Duffy-binding protein immunogen focuses the antibody response to functional epitopes.
+38988042	Advancing Programme Science approaches to understand gaps in HIV prevention programme coverage for key populations in 12 Nigerian states: findings from the 2020 Integrated Biological and Behavioural Surveillance Survey.
+38988036	Community contexts and knowledge: accountability, leadership and meaningful involvement of communities in Programme Science.
 38987710	Evaluation of immunophenotypic alterations of peripheral blood lymphocytes and their sub-sets in uncomplicated P. Falciparum infection.
 38987258	Disruption of Plasmodium falciparum kinetochore proteins destabilises the nexus between the centrosome equivalent and the mitotic apparatus.
 38985752	Community end user perceptions of hessian fabric transfluthrin vapour emanators for protecting against mosquitoes under conditions of routine use in Port-au-Prince, Haiti.
@@ -9991,9 +9997,3 @@
 35586987	Standard Selection Treatments with Sulfadiazine Limit Plasmodium yoelii Host-to-Vector Transmission.
 35586590	[Culicidae Larvae and Their Seasonal Dynamics in the Region of Fez-Meknes, Morocco].
 35585976	Seroreactivity of the Severe Acute Respiratory Syndrome Coronavirus 2 Recombinant S Protein, Receptor-Binding Domain, and Its Receptor-Binding Motif in COVID-19 Patients and Their Cross-Reactivity With Pre-COVID-19 Samples From Malaria-Endemic Areas.
-35585777	Isolation and structure elucidation of a steroidal moiety from Withania somnifera and in silico evaluation of antimalarial efficacy against artemisinin resistance Plasmodium falciparum kelch 13 protein.
-35585641	Reducing the risk of Plasmodium vivax after falciparum infections in co-endemic areas-a randomized controlled trial (PRIMA).
-35585385	Climate Change and Cascading Risks from Infectious Disease.
-35585101	Stratification at the health district level for targeting malaria control interventions in Mali.
-35583686	Evaluation of xanthene-appended quinoline hybrids as potential leads against antimalarial drug targets.
-35583366	Photo Quiz: Fever in a Traveler Returning from West Malaysia.
