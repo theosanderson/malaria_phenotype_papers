@@ -1,3 +1,5 @@
+38987710	Evaluation of immunophenotypic alterations of peripheral blood lymphocytes and their sub-sets in uncomplicated P. Falciparum infection.
+38987258	Disruption of Plasmodium falciparum kinetochore proteins destabilises the nexus between the centrosome equivalent and the mitotic apparatus.
 38985752	Community end user perceptions of hessian fabric transfluthrin vapour emanators for protecting against mosquitoes under conditions of routine use in Port-au-Prince, Haiti.
 38985692	Parallel evolution in mosquito vectors - a duplicated esterase locus is associated with resistance to pirimiphos-methyl in An. gambiae.
 38985536	Loop-Mediated Isothermal Amplification Assay to Detect Invasive Malaria Vector Anopheles stephensi Mosquitoes.
@@ -9995,5 +9997,3 @@
 35585101	Stratification at the health district level for targeting malaria control interventions in Mali.
 35583686	Evaluation of xanthene-appended quinoline hybrids as potential leads against antimalarial drug targets.
 35583366	Photo Quiz: Fever in a Traveler Returning from West Malaysia.
-35583365	Answer to May 2022 Photo Quiz.
-35583207	High-throughput digital pathology via a handheld, multiplexed, and AI-powered ptychographic whole slide scanner.
