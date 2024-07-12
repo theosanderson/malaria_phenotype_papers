@@ -1,3 +1,6 @@
+38991038	Plasmodium vivax genomic surveillance in the Peruvian Amazon with Pv AmpliSeq assay.
+38991002	Seroprevalence of transfusion-transmitted infections among blood donors in Makkah, Saudi Arabia.
+38990838	Rocky Mountain spotted fever is a neglected tropical disease in Latin America.
 38988513	The role of Nrf2 signaling in parasitic diseases and its therapeutic potential.
 38988406	TB preventive therapy: uptake and time to initiation during implementation of '7-1-7'.
 38988372	A low-cost, portable device for the study of the malaria parasite's growth inhibition via microwave exposure.
@@ -9994,6 +9997,3 @@
 35589152	Optimising scale and deployment of community health workers in Sierra Leone: a geospatial analysis.
 35589021	Antiplasmodial and antimycobacterial activities of crude and lead-like enhanced extracts from Namibian medicinal plants.
 35588061	A comprehensive review on classifying fast-acting and slow-acting antimalarial agents based on time of action and target organelle of Plasmodium sp.
-35586987	Standard Selection Treatments with Sulfadiazine Limit Plasmodium yoelii Host-to-Vector Transmission.
-35586590	[Culicidae Larvae and Their Seasonal Dynamics in the Region of Fez-Meknes, Morocco].
-35585976	Seroreactivity of the Severe Acute Respiratory Syndrome Coronavirus 2 Recombinant S Protein, Receptor-Binding Domain, and Its Receptor-Binding Motif in COVID-19 Patients and Their Cross-Reactivity With Pre-COVID-19 Samples From Malaria-Endemic Areas.
