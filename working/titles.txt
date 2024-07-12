@@ -1,3 +1,4 @@
+38995021	Discovery of new antigens for serodiagnosis of visceral leishmaniasis in humans and dogs adds valuable tools to our arsenal.
 38993935	Advances in Physalis molecular research: applications in authentication, genetic diversity, phylogenetics, functional genes, and omics.
 38993699	The determinants of COVID-19 case reporting across Africa.
 38992833	[Can environmental impact be considered as a dimension of the proper use of medicines? From the 5(th) Forum of the Association for the Proper Use of Medicines].
@@ -3258,7 +3259,6 @@
 37867624	The relationship between climate change and malaria in South-East Asia: A systematic review of the evidence.
 37867542	Delayed cerebellar ataxia induced by Plasmodium falciparum malaria: A rare complication.
 37867307	Antimalarial compounds from the climbing stems of salacia debilis.
-37866823	A SURVEY ON MOSQUITO CONTROL KNOWLEDGE AND INSECTICIDE USE IN NEW ORLEANS, LA, 2020-2021.
 37866714	Imidazo[2,1-b]thiazole based indoleamine-2,3-dioxygenase 1 (IDO1) inhibitor: Structure based design, synthesis, bio-evaluation and docking studies.
 37866427	DHA-rich fish oil plays a protective role against experimental cerebral malaria by controlling inflammatory and mechanical events from infection.
 37866107	Anti-parasitic benzoxaboroles are ineffective against Theileria parva in vitro.
