@@ -1,3 +1,9 @@
+38992833	[Can environmental impact be considered as a dimension of the proper use of medicines? From the 5(th) Forum of the Association for the Proper Use of Medicines].
+38992693	Efficacy of Interceptor G2, Royal Guard and PermaNet 3.0 against pyrethroid-resistant Anopheles gambiae s.l. from Za-Kpota, southern Benin: an experimental hut trial.
+38992677	Transcriptome- and DNA methylation-based cell-type deconvolutions produce similar estimates of differential gene expression and differential methylation.
+38992660	The spectrum of health conditions in community-based cross-sectional surveys in Southeast Asia 2010-21: a scoping review.
+38992085	Molecular detection of sub-microscopic infections and Plasmodium falciparum histidine-rich protein-2 and 3 gene deletions in pre-elimination settings of South Africa.
+38991950	Geographical targeting of active case finding for tuberculosis in Pakistan using hotspots identified by artificial intelligence software (SPOT-TB): study protocol for a pragmatic stepped wedge cluster randomised control trial.
 38991038	Plasmodium vivax genomic surveillance in the Peruvian Amazon with Pv AmpliSeq assay.
 38991002	Seroprevalence of transfusion-transmitted infections among blood donors in Makkah, Saudi Arabia.
 38990838	Rocky Mountain spotted fever is a neglected tropical disease in Latin America.
@@ -9991,9 +9997,3 @@
 35590199	Delayed fractional dosing with RTS,S/AS01 improves humoral immunity to malaria via a balance of polyfunctional NANP6- and Pf16-specific antibodies.
 35590195	Sterile protection against malaria in humans with a monoclonal antibody.
 35590146	PfSPZ Vaccine learns a lesson.
-35590135	Malaria vaccine trial shows the potentiating power of incremental progress.
-35589157	Implementing a DHIS2 Ebola virus disease module during the 2021 Guinea Ebola outbreak.
-35589153	Impact of seasonal malaria chemoprevention on prevalence of malaria infection in malaria indicator surveys in Burkina Faso and Nigeria.
-35589152	Optimising scale and deployment of community health workers in Sierra Leone: a geospatial analysis.
-35589021	Antiplasmodial and antimycobacterial activities of crude and lead-like enhanced extracts from Namibian medicinal plants.
-35588061	A comprehensive review on classifying fast-acting and slow-acting antimalarial agents based on time of action and target organelle of Plasmodium sp.
