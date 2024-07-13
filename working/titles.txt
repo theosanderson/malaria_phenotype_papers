@@ -1,3 +1,4 @@
+38995958	Non-contact detection of pyrethroids widely used in vector control by Anopheles mosquitoes.
 38995021	Discovery of new antigens for serodiagnosis of visceral leishmaniasis in humans and dogs adds valuable tools to our arsenal.
 38993935	Advances in Physalis molecular research: applications in authentication, genetic diversity, phylogenetics, functional genes, and omics.
 38993699	The determinants of COVID-19 case reporting across Africa.
@@ -9996,4 +9997,3 @@
 35590314	Nanoliposomes containing limonene and limonene-rich essential oils as novel larvicides against malaria and filariasis mosquito vectors.
 35590303	A qualitative study of the acceptability of remote electronic bednet use monitoring in Uganda.
 35590225	The Indian burden of malaria in pregnancy needs assessment.
-35590199	Delayed fractional dosing with RTS,S/AS01 improves humoral immunity to malaria via a balance of polyfunctional NANP6- and Pf16-specific antibodies.
