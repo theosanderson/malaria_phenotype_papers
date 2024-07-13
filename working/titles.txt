@@ -4,8 +4,8 @@
 38997729	Malaria prevalence and transmission in the Zakpota sub-district of central Benin: baseline characteristics for a community randomised trial of a new insecticide for indoor residual spraying.
 38997728	Non-falciparum malaria infections in Uganda, does it matter? A review of the published literature.
 38997693	Antimalarial efficacy test of the aqueous crude leaf extract of Coriandrum sativum Linn.: an in vivo multiple model experimental study in mice infected with Plasmodium berghei.
-38997551	Ancient malaria genome from Roman skeleton hints at disease's history.
 38997058	Spatio-temporal analysis of genetic diversity of merozoite surface protein-3 alpha in Myanmar plasmodium vivax isolates.
+38997551	Ancient malaria genome from Roman skeleton hints at disease's history.
 38996497	Seasonal malaria chemoprevention and the spread of Plasmodium falciparum quintuple-mutant parasites resistant to sulfadoxine-pyrimethamine: a modelling study.
 38995958	Non-contact detection of pyrethroids widely used in vector control by Anopheles mosquitoes.
 38995021	Discovery of new antigens for serodiagnosis of visceral leishmaniasis in humans and dogs adds valuable tools to our arsenal.
