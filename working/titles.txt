@@ -1,3 +1,12 @@
+38998949	Design, Synthesis, Antitumor, and Antiplasmodial Evaluation of New 7-Chloroquinoline-Benzimidazole Hybrids.
+38998933	IL-6 Inhibitory Compounds from the Aerial Parts of Piper attenuatum and Their Anticancer Activities on Ovarian Cancer Cell Lines.
+38997771	The effect of single low-dose primaquine treatment for uncomplicated Plasmodium falciparum malaria on haemoglobin levels in Ethiopia: a longitudinal cohort study.
+38997729	Malaria prevalence and transmission in the Zakpota sub-district of central Benin: baseline characteristics for a community randomised trial of a new insecticide for indoor residual spraying.
+38997728	Non-falciparum malaria infections in Uganda, does it matter? A review of the published literature.
+38997693	Antimalarial efficacy test of the aqueous crude leaf extract of Coriandrum sativum Linn.: an in vivo multiple model experimental study in mice infected with Plasmodium berghei.
+38997551	Ancient malaria genome from Roman skeleton hints at disease's history.
+38997058	Spatio-temporal analysis of genetic diversity of merozoite surface protein-3 alpha in Myanmar plasmodium vivax isolates.
+38996497	Seasonal malaria chemoprevention and the spread of Plasmodium falciparum quintuple-mutant parasites resistant to sulfadoxine-pyrimethamine: a modelling study.
 38995958	Non-contact detection of pyrethroids widely used in vector control by Anopheles mosquitoes.
 38995021	Discovery of new antigens for serodiagnosis of visceral leishmaniasis in humans and dogs adds valuable tools to our arsenal.
 38993935	Advances in Physalis molecular research: applications in authentication, genetic diversity, phylogenetics, functional genes, and omics.
@@ -9988,12 +9997,3 @@
 35594680	IL-6 dependent expansion of inflammatory MDSCs (CD11b+ Gr-1+) promote Th-17 mediated immune response during experimental cerebral malaria.
 35594548	Susceptibility to Human Immunodeficiency Virus Type 1 Acquisition Linked to Malaria Exposure: A Case-Control Study.
 35594290	Spatial pattern and predictors of malaria in Ethiopia: Application of auto logistics regression.
-35594144	C-Mannosyltransferase Is Essential for Malaria Transmission in Plasmodium berghei.
-35593641	An evaluation of the disparities affecting the underdiagnosis of pediatric cancer in Western Kenya.
-35593614	An audit of a decade of acute peritoneal dialysis in children with acute kidney injury: A single-center experience.
-35592925	Clusters of malaria cases at sub-district level in endemic area in Java Island, Indonesia.
-35591999	Coxiella Endosymbiont of Rhipicephalus microplus Modulates Tick Physiology With a Major Impact in Blood Feeding Capacity.
-35591889	Pervasive sequence-level variation in the transcriptome of Plasmodium falciparum.
-35590314	Nanoliposomes containing limonene and limonene-rich essential oils as novel larvicides against malaria and filariasis mosquito vectors.
-35590303	A qualitative study of the acceptability of remote electronic bednet use monitoring in Uganda.
-35590225	The Indian burden of malaria in pregnancy needs assessment.
