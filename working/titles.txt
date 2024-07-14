@@ -1,3 +1,8 @@
+39003498	The C-terminal region of the Plasmodium berghei gamete surface 184-kDa protein Pb184 contributes to fertilization and male gamete binding to the residual body.
+39003288	Asymptomatic malaria and predictors among migrant farmworkers East Shewa zone Oromia Ethiopia.
+39002961	Defining indicators for disease burden, health outcomes, policies and barriers and facilitators to health services for migrant populations in the Middle East and North African region: a protocol for a suite of systematic reviews.
+39002737	Not all severe malaria cases are severe: Is it time to redefine severity criteria for malaria in non-endemic regions?
+39002668	The major surface protein of malaria sporozoites is GPI-anchored to the plasma membrane.
 38998949	Design, Synthesis, Antitumor, and Antiplasmodial Evaluation of New 7-Chloroquinoline-Benzimidazole Hybrids.
 38998933	IL-6 Inhibitory Compounds from the Aerial Parts of Piper attenuatum and Their Anticancer Activities on Ovarian Cancer Cell Lines.
 38997771	The effect of single low-dose primaquine treatment for uncomplicated Plasmodium falciparum malaria on haemoglobin levels in Ethiopia: a longitudinal cohort study.
@@ -337,7 +342,7 @@
 38878840	Chemical profiling, toxicity assessment, anti-diarrhoeal, anti-inflammatory and antinociceptive activities of Canarium schweinfurthii Engl. (Burseraceae) bark in rats.
 38877522	An urgent need for community lot testing of lateral flow fentanyl test strips marketed for harm reduction in Northern America.
 38876762	Cost-effectiveness of interventions for HIV/AIDS, malaria, syphilis, and tuberculosis in 128 countries: a meta-regression analysis.
-38876165	Prevalence and composition of haemosporidians in an avian community from a World Heritage area: associations with host foraging strata and forest regeneration.
+38876165	Prevalence and composition of haemosporidians in an avian community from a World Heritage area: Associations with host foraging strata and forest regeneration.
 38876161	Lack of selection of antimalarial drug resistance markers after intermittent preventive treatment of schoolchildren (IPTsc) against malaria in northeastern Tanzania.
 38875411	Malaria vaccination in Africa: A mini-review of challenges and opportunities.
 38875153	Plasma from older children in Malawi inhibits Plasmodium falciparum binding in 3D brain microvessels.
@@ -9992,8 +9997,3 @@
 35598522	Petasites japonicus extract exerts anti-malarial effects by inhibiting platelet activation.
 35598441	Combining SJ733, an oral ATP4 inhibitor of Plasmodium falciparum, with the pharmacokinetic enhancer cobicistat: An innovative approach in antimalarial drug development.
 35598114	Pharmacometric and Electrocardiographic Evaluation of Chloroquine and Azithromycin in Healthy Volunteers.
-35597931	The influence of first wave of COVID-19 outbreak on routine healthcare services, Liberia, August 2020: a mixed study approach.
-35595904	Ultrasound-assisted nanoemulsion of Trachyspermum ammi essential oil and its constituent thymol on toxicity and biochemical aspect of Aedes aegypti.
-35594680	IL-6 dependent expansion of inflammatory MDSCs (CD11b+ Gr-1+) promote Th-17 mediated immune response during experimental cerebral malaria.
-35594548	Susceptibility to Human Immunodeficiency Virus Type 1 Acquisition Linked to Malaria Exposure: A Case-Control Study.
-35594290	Spatial pattern and predictors of malaria in Ethiopia: Application of auto logistics regression.
