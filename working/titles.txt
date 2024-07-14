@@ -1,3 +1,4 @@
+39003571	Structure-function analysis of nucleotide housekeeping protein HAM1 from human malaria parasite Plasmodium falciparum.
 39003498	The C-terminal region of the Plasmodium berghei gamete surface 184-kDa protein Pb184 contributes to fertilization and male gamete binding to the residual body.
 39003288	Asymptomatic malaria and predictors among migrant farmworkers East Shewa zone Oromia Ethiopia.
 39002961	Defining indicators for disease burden, health outcomes, policies and barriers and facilitators to health services for migrant populations in the Middle East and North African region: a protocol for a suite of systematic reviews.
@@ -9996,4 +9997,3 @@
 35598652	Transfer of parasitology research to patents worldwide.
 35598522	Petasites japonicus extract exerts anti-malarial effects by inhibiting platelet activation.
 35598441	Combining SJ733, an oral ATP4 inhibitor of Plasmodium falciparum, with the pharmacokinetic enhancer cobicistat: An innovative approach in antimalarial drug development.
-35598114	Pharmacometric and Electrocardiographic Evaluation of Chloroquine and Azithromycin in Healthy Volunteers.
