@@ -1,8 +1,9 @@
+39008264	Schistosomiasis.
+39007560	Multi-year analysis of the global preclinical antibacterial pipeline: trends and gaps.
 39006507	Artemisinin-induced cholestatic liver injury and intrahepatic ductopenia.
 39006393	Overcoming Geographical Constraints: A Diagnostic and Therapeutic Challenge of Amebic Liver Abscess in a Non-Endemic Region.
 39006106	Modeling and investigating malaria P. Falciparum and P. Vivax infections: Application to Djibouti data.
 39006006	Testing the evolutionary drivers of malaria parasite rhythms and their consequences for host-parasite interactions.
-39005847	Data sharing governance in sub-Saharan Africa during public health emergencies: Gaps and guidance.
 39005341	Identification of mCMQ069, a novel antimalarial with potential for a single-dose cure and/or 28-day chemoprevention.
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
@@ -7785,6 +7786,7 @@
 36317054	Spatio-temporal dynamics of three diseases caused by Aedes-borne arboviruses in Mexico.
 36316704	Risk factors for acute kidney injury at presentation among children with CNS malaria: a case control study.
 36316702	Variations in the use of malaria preventive measures among pregnant women in Guinea: a secondary analysis of the 2012 and 2018 demographic and health surveys.
+39005847	Data sharing governance in sub-Saharan Africa during public health emergencies: Gaps and guidance.
 36316027	Overdiagnosis and overuse of diagnostic and screening tests in low-income and middle-income countries: a scoping review.
 36316012	Pyp25α is required for male gametocyte exflagellation.
 36316002	Poor Adherence to the Integrated Community Case Management of Newborn and Child Illness Protocol in Rural Ethiopia.
@@ -9995,5 +9997,3 @@
 35602470	Worldwide Research Trends on Artemisinin: A Bibliometric Analysis From 2000 to 2021.
 35602185	Recent clinical trials inform the future for malaria vaccines.
 35602049	Repurposing of Doxycycline to Hinder the Viral Replication of SARS-CoV-2: From in silico to in vitro Validation.
-35601682	Barriers towards the Prevention and Treatment of Malaria among Pregnant Women at the Nkwen Health Center Bamenda, Cameroon.
-35601100	Nucleospora hippocampi n. sp., an Intranuclear Microsporidian Infecting the Seahorse Hippocampus erectus From China.
