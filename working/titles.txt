@@ -1,3 +1,9 @@
+39006507	Artemisinin-induced cholestatic liver injury and intrahepatic ductopenia.
+39006393	Overcoming Geographical Constraints: A Diagnostic and Therapeutic Challenge of Amebic Liver Abscess in a Non-Endemic Region.
+39006106	Modeling and investigating malaria P. Falciparum and P. Vivax infections: Application to Djibouti data.
+39006006	Testing the evolutionary drivers of malaria parasite rhythms and their consequences for host-parasite interactions.
+39005847	Data sharing governance in sub-Saharan Africa during public health emergencies: Gaps and guidance.
+39005341	Identification of mCMQ069, a novel antimalarial with potential for a single-dose cure and/or 28-day chemoprevention.
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
 39003571	Structure-function analysis of nucleotide housekeeping protein HAM1 from human malaria parasite Plasmodium falciparum.
@@ -9991,9 +9997,3 @@
 35602049	Repurposing of Doxycycline to Hinder the Viral Replication of SARS-CoV-2: From in silico to in vitro Validation.
 35601682	Barriers towards the Prevention and Treatment of Malaria among Pregnant Women at the Nkwen Health Center Bamenda, Cameroon.
 35601100	Nucleospora hippocampi n. sp., an Intranuclear Microsporidian Infecting the Seahorse Hippocampus erectus From China.
-35600849	Semi-Synthetic Analogues of Cryptolepine as a Potential Source of Sustainable Drugs for the Treatment of Malaria, Human African Trypanosomiasis, and Cancer.
-35600674	Indoor residual spraying with a non-pyrethroid insecticide reduces the reservoir of Plasmodium falciparum in a high-transmission area in northern Ghana.
-35600633	Impact of AYUSH 64 as an adjunctive to standard of care in mild COVID 19 - An open-label randomized controlled pilot study.
-35592834	Reverse transcription PCR to detect low density malaria infections.
-35598848	Structural, Functional and Computational Studies of Membrane Recognition by Plasmodium Perforin-Like Proteins 1 and 2.
-35598652	Transfer of parasitology research to patents worldwide.
