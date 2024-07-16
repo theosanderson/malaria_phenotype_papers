@@ -1,3 +1,4 @@
+39008438	Spatiotemporal analysis of within-country imported malaria in Brazilian municipalities, 2004-2022.
 39008264	Schistosomiasis.
 39007560	Multi-year analysis of the global preclinical antibacterial pipeline: trends and gaps.
 39006507	Artemisinin-induced cholestatic liver injury and intrahepatic ductopenia.
@@ -5703,6 +5704,7 @@
 37040830	Foetidumins A-D, and other chemical constituents from Helichrysum foetidum (L.) Moench (Asteraceae) with antiparasite activity.
 37040366	Receiving antenatal care components and associated factors in Northwestern Tanzania.
 37040223	Quality assurance of malaria rapid diagnostic tests: An aid in malaria elimination.
+37039449	Lanostane triterpenoids from artificially cultivated fruiting bodies of Ganoderma cf. mastoporum.
 37039225	Trend of malaria incidences and its association with rainfall in Kalahandi District of Odisha, India.
 37039188	Malaria hemozoin: A target for point-of-care diagnosis.
 37039163	Looking back to move forward: A travel rule underlined by the current pandemic.
@@ -9995,5 +9997,3 @@
 35603266	Malaria elimination on Hainan Island despite climate change.
 35602561	When spider webs unite, they can tie up a lion: NLM's work in information technology and health in Africa, 1997-2011.
 35602470	Worldwide Research Trends on Artemisinin: A Bibliometric Analysis From 2000 to 2021.
-35602185	Recent clinical trials inform the future for malaria vaccines.
-35602049	Repurposing of Doxycycline to Hinder the Viral Replication of SARS-CoV-2: From in silico to in vitro Validation.
