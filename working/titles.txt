@@ -1,3 +1,9 @@
+39010183	Genetic diversity and natural selection analysis of VAR2CSA and vir genes: implication for vaccine development.
+39010126	Unravelling heterogeneous malaria transmission dynamics in the Peruvian Amazon: insights from a cross-sectional survey.
+39010115	Asymptomatic malaria in pregnancy and associated risk factors in Majang Zone, Gambella Region, Southwest Ethiopia: a hard-to-reach malaria hotspot.
+39009910	Extracellular Proteomic Profiling from the Erythrocytes Infected with Plasmodium Falciparum 3D7 Holds Promise for the Detection of Biomarkers.
+39009685	Genomic surveillance of malaria parasites in an indigenous community in the Peruvian Amazon.
+39009235	Impacts of climate change on water-related mosquito-borne diseases in temperate regions: A systematic review of literature and meta-analysis.
 39008438	Spatiotemporal analysis of within-country imported malaria in Brazilian municipalities, 2004-2022.
 39008264	Schistosomiasis.
 39007560	Multi-year analysis of the global preclinical antibacterial pipeline: trends and gaps.
@@ -9991,9 +9997,3 @@
 35604802	Erratum: Author Correction: Malaria elimination on Hainan Island despite climate change.
 35604763	Perceived Usefulness, Competency, and Associated Factors in Using District Health Information System Data Among District Health Managers in Tanzania: Cross-sectional Study.
 35604188	Retrospective Results of Hacettepe University Faculty of Medicine Parasitology Laboratory Between 2014-2019.
-35604187	Investigation of Intestinal and Blood Parasites in People Returning to Turkey with a History of Traveling Abroad During the Pandemic.
-35604186	Observation of Malaria Treatment with Dihydroartemisinin-Piperaquine Combination at Primary Health Care.
-35604185	Investigation of in vitro Efficacy of Miltefosine on Chronic Cutaneous Leishmaniasis.
-35603266	Malaria elimination on Hainan Island despite climate change.
-35602561	When spider webs unite, they can tie up a lion: NLM's work in information technology and health in Africa, 1997-2011.
-35602470	Worldwide Research Trends on Artemisinin: A Bibliometric Analysis From 2000 to 2021.
