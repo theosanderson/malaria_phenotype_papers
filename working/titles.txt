@@ -1,3 +1,7 @@
+39011507	Quest for malaria management using natural remedies.
+39011004	Genotyping var Gene DBL1α Domain of Severe and Non-severe Plasmodium falciparum Patients.
+39010969	Integrated One Health strategies in Dengue.
+39010448	Genomic Surveillance for Malaria.
 39010183	Genetic diversity and natural selection analysis of VAR2CSA and vir genes: implication for vaccine development.
 39010126	Unravelling heterogeneous malaria transmission dynamics in the Peruvian Amazon: insights from a cross-sectional survey.
 39010115	Asymptomatic malaria in pregnancy and associated risk factors in Majang Zone, Gambella Region, Southwest Ethiopia: a hard-to-reach malaria hotspot.
@@ -730,7 +734,7 @@
 38746786	Incomplete Plasmodium falciparum growth inhibition following piperaquine treatment translates into increased parasite viability in the in vitro parasite reduction ratio assay.
 38746440	High frequency of artemisinin partial resistance mutations in the great lake region revealed through rapid pooled deep sequencing.
 38746424	Chemoproteomics validates selective targeting of Plasmodium M1 alanyl aminopeptidase as an antimalarial strategy.
-38746392	Benchmarking and Optimization of Methods for the Detection of Identity-By-Descent in Plasmodium falciparum.
+38746392	Benchmarking and Optimization of Methods for the Detection of Identity-By-Descent in High-Recombining Plasmodium falciparum.
 38746363	TNF signaling mediates cellular immune function and promotes malaria parasite killing in the mosquito Anopheles gambiae.
 38746350	The economic burden of zoonotic Plasmodium knowlesi malaria on households in Sabah, Malaysia compared to malaria from human-only Plasmodium species.
 38746342	Reversible host cell surface remodelling limits immune recognition and maximizes transmission of Plasmodium falciparum gametocytes.
@@ -9993,7 +9997,3 @@
 35605814	Advances in Plasmodium research, an update: Highlights from the Malaria in Melbourne 2021 conference.
 35605629	Post-discharge morbidity and mortality in children admitted with severe anaemia and other health conditions in malaria-endemic settings in Africa: a systematic review and meta-analysis.
 35605623	Antimalarial drug resistance-is it time to re-evaluate Plasmodium falciparum orthologous genes?
-35605309	Endogenous cysteine protease inhibitors in upmost pathogenic parasitic protozoa.
-35604802	Erratum: Author Correction: Malaria elimination on Hainan Island despite climate change.
-35604763	Perceived Usefulness, Competency, and Associated Factors in Using District Health Information System Data Among District Health Managers in Tanzania: Cross-sectional Study.
-35604188	Retrospective Results of Hacettepe University Faculty of Medicine Parasitology Laboratory Between 2014-2019.
