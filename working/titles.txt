@@ -1,10 +1,10 @@
 39014474	Bionomic characterization of Anopheles mosquitoes in the Ethiopian highlands and lowlands.
 39014068	Modeling pediatric antibiotic use in an area of declining malaria prevalence.
 39013662	Malaria endemicity linked to shorter telomeres in leukocytes.
-39013661	BioMalPar XX: looking back on, and forward from, 20 years of malaria research.
 39013660	A breath of fresh air: impact of insect-borne protozoan parasites on the respiratory system.
 39013438	Near-Term Quantum Classification Algorithms Applied to Antimalarial Drug Discovery.
 39013375	Evaluation of the International Task Force for Disease Eradication: A Review of Past Deliberations.
+39013661	BioMalPar XX: looking back on, and forward from, 20 years of malaria research.
 39012884	Correction: Untangling population structure and genetic diversity of reticulocyte binding protein 2b (PvRBP2b) erythrocytic stage vaccine candidate in worldwide Plasmodium vivax isolates.
 39012112	Bioactivity of synthetic peptides from Ecuadorian frog skin secretions against Leishmania mexicana, Plasmodium falciparum, and Trypanosoma cruzi.
 39011507	Quest for malaria management using natural remedies.
