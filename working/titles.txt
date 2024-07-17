@@ -1,3 +1,4 @@
+39012884	Correction: Untangling population structure and genetic diversity of reticulocyte binding protein 2b (PvRBP2b) erythrocytic stage vaccine candidate in worldwide Plasmodium vivax isolates.
 39012112	Bioactivity of synthetic peptides from Ecuadorian frog skin secretions against Leishmania mexicana, Plasmodium falciparum, and Trypanosoma cruzi.
 39011507	Quest for malaria management using natural remedies.
 39011004	Genotyping var Gene DBL1α Domain of Severe and Non-severe Plasmodium falciparum Patients.
@@ -9996,4 +9997,3 @@
 35605920	ANTIMALARIAL activities and alkaloids from Crinum jagus (Thomps) DANDY.
 35605814	Advances in Plasmodium research, an update: Highlights from the Malaria in Melbourne 2021 conference.
 35605629	Post-discharge morbidity and mortality in children admitted with severe anaemia and other health conditions in malaria-endemic settings in Africa: a systematic review and meta-analysis.
-35605623	Antimalarial drug resistance-is it time to re-evaluate Plasmodium falciparum orthologous genes?
