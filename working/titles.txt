@@ -1,3 +1,4 @@
+39018104	Malaria in pregnancy: baby steps.
 39015931	Treatment of a patient with severe cerebral malaria during the COVID-19 pandemic in China: A case report.
 39014474	Bionomic characterization of Anopheles mosquitoes in the Ethiopian highlands and lowlands.
 39014068	Modeling pediatric antibiotic use in an area of declining malaria prevalence.
@@ -9996,4 +9997,3 @@
 35609630	Assessing the distribution of invasive Asian mosquitoes in Northern Italy and modelling the potential spread of Aedes koreicus in Europe.
 35609108	SimSearch: A Human-in-The-Loop Learning Framework for Fast Detection of Regions of Interest in Microscopy Images.
 35609045	Frequency of placental malaria and its associated factors in northwestern Colombia, pooled analysis 2009-2020.
-35608570	Ciliate research: From myth to trendsetting science.
