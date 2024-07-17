@@ -1,3 +1,10 @@
+39014474	Bionomic characterization of Anopheles mosquitoes in the Ethiopian highlands and lowlands.
+39014068	Modeling pediatric antibiotic use in an area of declining malaria prevalence.
+39013662	Malaria endemicity linked to shorter telomeres in leukocytes.
+39013661	BioMalPar XX: looking back on, and forward from, 20 years of malaria research.
+39013660	A breath of fresh air: impact of insect-borne protozoan parasites on the respiratory system.
+39013438	Near-Term Quantum Classification Algorithms Applied to Antimalarial Drug Discovery.
+39013375	Evaluation of the International Task Force for Disease Eradication: A Review of Past Deliberations.
 39012884	Correction: Untangling population structure and genetic diversity of reticulocyte binding protein 2b (PvRBP2b) erythrocytic stage vaccine candidate in worldwide Plasmodium vivax isolates.
 39012112	Bioactivity of synthetic peptides from Ecuadorian frog skin secretions against Leishmania mexicana, Plasmodium falciparum, and Trypanosoma cruzi.
 39011507	Quest for malaria management using natural remedies.
@@ -9990,10 +9997,3 @@
 35609045	Frequency of placental malaria and its associated factors in northwestern Colombia, pooled analysis 2009-2020.
 35608570	Ciliate research: From myth to trendsetting science.
 35606827	Structural comparisons reveal diverse binding modes between nucleosome assembly proteins and histones.
-35606796	High level of heterozygous haplotype of hemoglobin in Abidjan population with mild malaria.
-35606790	Characterization of PSOP26 as an ookinete surface antigen with improved transmission-blocking activity when fused with PSOP25.
-35606505	Insecticide resistant Anopheles gambiae have enhanced longevity but reduced reproductive fitness and a longer first gonotrophic cycle.
-35606373	Towards rainbow portable Cytophone with laser diodes for global disease diagnostics.
-35605920	ANTIMALARIAL activities and alkaloids from Crinum jagus (Thomps) DANDY.
-35605814	Advances in Plasmodium research, an update: Highlights from the Malaria in Melbourne 2021 conference.
-35605629	Post-discharge morbidity and mortality in children admitted with severe anaemia and other health conditions in malaria-endemic settings in Africa: a systematic review and meta-analysis.
