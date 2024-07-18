@@ -1,3 +1,9 @@
+39020432	Mapping malaria transmission foci in Northeast Thailand from 2011 to 2021: approaching elimination in a hypoendemic area.
+39020392	Livestock keeping, mosquitoes and community viewpoints: a mixed methods assessment of relationships between livestock management, malaria vector biting risk and community perspectives in rural Tanzania.
+39020365	Preliminary monitoring of knockdown resistance (kdr) mutation in Anopheles stephensi: insights from a malarious area in Southeastern Iran.
+39020310	CRISPR-Cas9 and Cas12a target site richness reflects genomic diversity in natural populations of Anopheles gambiae and Aedes aegypti mosquitoes.
+39019011	Preclinical development of a stabilized RH5 virus-like particle vaccine that induces improved antimalarial antibodies.
+39018754	Diversity and selection analyses identify transmission-blocking antigens as the optimal vaccine candidates in Plasmodium falciparum.
 39018104	Malaria in pregnancy: baby steps.
 39015931	Treatment of a patient with severe cerebral malaria during the COVID-19 pandemic in China: A case report.
 39014474	Bionomic characterization of Anopheles mosquitoes in the Ethiopian highlands and lowlands.
@@ -9991,9 +9997,3 @@
 35610713	Synthesis, antiplasmodial activity and in silico molecular docking study of pinocembrin and its analogs.
 35610655	Wolbachia 16S rRNA haplotypes detected in wild Anopheles stephensi in eastern Ethiopia.
 35610562	Characterising genome architectures using genome decomposition analysis.
-35610103	Travel vaccines are strongly associated to reduced mortality in prostate cancer patients - a real effect or residual confounding?
-35609946	Division and Transmission: Malaria Parasite Development in the Mosquito.
-35609655	Hydoxylated β- and δ-Hexacholorocyclohexane metabolites infer influential intrinsic atomic pathways interaction to elicit oxidative stress-induced apoptosis for bio-toxicity.
-35609630	Assessing the distribution of invasive Asian mosquitoes in Northern Italy and modelling the potential spread of Aedes koreicus in Europe.
-35609108	SimSearch: A Human-in-The-Loop Learning Framework for Fast Detection of Regions of Interest in Microscopy Images.
-35609045	Frequency of placental malaria and its associated factors in northwestern Colombia, pooled analysis 2009-2020.
