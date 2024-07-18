@@ -1,3 +1,10 @@
+39022425	Spatiotemporal dynamics of epidemiology diseases: mobility based risk and short-term prediction modeling of COVID-19.
+39022192	P. falciparum genetic markers associated with drug resistance from patients with treatment failure in the Southern part of Senegal in 2017.
+39022069	Screening, characterization and optimization of potential dichlorodiphenyl trichloroethane (DDT) degrading fungi.
+39021811	Multilocus genetic analysis of Trypanosoma cruzi supports non-domestic intrusion into domestic transmission in an endemic region of Colombia.
+39021451	Leveraging Global Fund's investments to expand innovative public-private provider engagement in TB.
+39021350	Sampling globally and locally correct RNA 3D structures using Ernwin, SPQR and experimental SAXS data.
+39020517	PBPK-led assessment of antimalarial drugs as candidates for Covid-19: Simulating concentrations at the site of action to inform repurposing strategies.
 39020432	Mapping malaria transmission foci in Northeast Thailand from 2011 to 2021: approaching elimination in a hypoendemic area.
 39020392	Livestock keeping, mosquitoes and community viewpoints: a mixed methods assessment of relationships between livestock management, malaria vector biting risk and community perspectives in rural Tanzania.
 39020365	Preliminary monitoring of knockdown resistance (kdr) mutation in Anopheles stephensi: insights from a malarious area in Southeastern Iran.
@@ -9990,10 +9997,3 @@
 35614489	Recommendations for environmental risk assessment of gene drive applications for malaria vector control.
 35613583	Transcriptional profiling of human Vδ1 T cells reveals a pathogen-driven adaptive differentiation program.
 35613101	Students' figurative communication of malaria messages, belief, norms, and practices in Oromia, Ethiopia: A qualitative content analysis approach.
-35613090	The use of a chimeric antigen for Plasmodium falciparum and P. vivax seroprevalence estimates from community surveys in Ethiopia and Costa Rica.
-35612364	Identifying novel drugs with new modes of action for neglected tropical fungal skin diseases (fungal skinNTDs) using an Open Source Drug discovery approach.
-35611958	Visible microspectrophotometry coupled with machine learning to discriminate the erythrocytic life cycle stages of P. falciparum malaria parasites in functional single cells.
-35611171	Prevalence and richness of malaria and malaria-like parasites in wild birds from different biomes in South America.
-35610713	Synthesis, antiplasmodial activity and in silico molecular docking study of pinocembrin and its analogs.
-35610655	Wolbachia 16S rRNA haplotypes detected in wild Anopheles stephensi in eastern Ethiopia.
-35610562	Characterising genome architectures using genome decomposition analysis.
