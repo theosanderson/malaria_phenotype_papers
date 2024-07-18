@@ -1,3 +1,6 @@
+39023792	Linking Cerebral Malaria Pathogenesis to APOE-Mediated Amyloidosis: Observations and Hypothesis.
+39023630	An overview of artemisinin-resistant malaria and associated Pfk13 gene mutations in Central Africa.
+39023263	Cimicifugin, a broad-spectrum inhibitor of Theileria annulata and Plasmodium falciparum CDK7.
 39022425	Spatiotemporal dynamics of epidemiology diseases: mobility based risk and short-term prediction modeling of COVID-19.
 39022192	P. falciparum genetic markers associated with drug resistance from patients with treatment failure in the Southern part of Senegal in 2017.
 39022069	Screening, characterization and optimization of potential dichlorodiphenyl trichloroethane (DDT) degrading fungi.
@@ -9994,6 +9997,3 @@
 35615014	Proteome-wide prediction and analysis of the Cryptosporidium parvum protein-protein interaction network through integrative methods.
 35615009	GC-MS Profile, Antioxidant Activity, and In Silico Study of the Essential Oil from Schinus molle L. Leaves in the Presence of Mosquito Juvenile Hormone-Binding Protein (mJHBP) from Aedes aegypti.
 35614595	Plasmodium falciparum resistance and malaria presentation in children at Dongola specialist hospital: A prospective cohort study.
-35614489	Recommendations for environmental risk assessment of gene drive applications for malaria vector control.
-35613583	Transcriptional profiling of human Vδ1 T cells reveals a pathogen-driven adaptive differentiation program.
-35613101	Students' figurative communication of malaria messages, belief, norms, and practices in Oromia, Ethiopia: A qualitative content analysis approach.
