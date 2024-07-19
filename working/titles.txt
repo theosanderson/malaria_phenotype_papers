@@ -1,3 +1,5 @@
+39024426	Artemisinin-resistant malaria in Africa demands urgent action.
+39024388	RACK1 enhances STAT3 stability and promotes T follicular helper cell development and function during blood-stage Plasmodium infection in mice.
 39023792	Linking Cerebral Malaria Pathogenesis to APOE-Mediated Amyloidosis: Observations and Hypothesis.
 39023630	An overview of artemisinin-resistant malaria and associated Pfk13 gene mutations in Central Africa.
 39023263	Cimicifugin, a broad-spectrum inhibitor of Theileria annulata and Plasmodium falciparum CDK7.
@@ -9995,5 +9997,3 @@
 35615535	Chemistry of polyhalogenated nitrobutadienes, 17: Efficient synthesis of persubstituted chloroquinolinyl-1H-pyrazoles and evaluation of their antimalarial, anti-SARS-CoV-2, antibacterial, and cytotoxic activities.
 35615100	Determinants of Malaria Morbidity Among School-Aged Children Living in East Hararghe Zone, Oromia, Ethiopia: A Community-Based Case-Control Study.
 35615014	Proteome-wide prediction and analysis of the Cryptosporidium parvum protein-protein interaction network through integrative methods.
-35615009	GC-MS Profile, Antioxidant Activity, and In Silico Study of the Essential Oil from Schinus molle L. Leaves in the Presence of Mosquito Juvenile Hormone-Binding Protein (mJHBP) from Aedes aegypti.
-35614595	Plasmodium falciparum resistance and malaria presentation in children at Dongola specialist hospital: A prospective cohort study.
