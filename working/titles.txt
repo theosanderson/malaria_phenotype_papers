@@ -1,3 +1,9 @@
+39026276	Evolution of pfhrp2 and pfhrp3 deletions in Equatorial Guinea between the pre- and post-RDT introduction.
+39026236	Entomological effects of attractive targeted sugar bait station deployment in Western Zambia: vector surveillance findings from a two-arm cluster randomized phase III trial.
+39025972	Malaria vaccines: a new era of prevention and control.
+39025766	20 years of BioMalPar: Building a collaborative malaria research network.
+39024980	Crystal structure and function analysis of 6-phosphogluconate dehydrogenase in Mycobacterium tuberculosis.
+39024967	Optimization of pyrazolopyridine 4-carboxamides with potent antimalarial activity for which resistance is associated with the P. falciparum transporter ABCI3.
 39024426	Artemisinin-resistant malaria in Africa demands urgent action.
 39024388	RACK1 enhances STAT3 stability and promotes T follicular helper cell development and function during blood-stage Plasmodium infection in mice.
 39023792	Linking Cerebral Malaria Pathogenesis to APOE-Mediated Amyloidosis: Observations and Hypothesis.
@@ -99,7 +105,7 @@
 38981503	Modeling the Impact of Proactive Community Case Management on Reducing Confirmed Malaria Cases in Sub-Saharan African Countries.
 38981502	Associations of Plasmodium and Intestinal Helminth Infections with Maternal Anemia and Adverse Pregnancy Outcomes in Northwest Ethiopia.
 38981490	Slaying the Serpent: A Research Agenda to Expand Intervention Development and Accelerate Guinea Worm Eradication Efforts.
-38981489	Predicting the Environmental Suitability and Identifying Climate and Sociodemographic Correlates of Guinea Worm (Dracunculus Medinensis) in Chad.
+38981489	Predicting the Environmental Suitability and Identifying Climate and Sociodemographic Correlates of Guinea Worm (Dracunculus medinensis) in Chad.
 38980186	A new era in malaria prevention: a comparative look at RTS,S/AS01 and R21/Matrix-M vaccines.
 38980033	Brilacidin, a host defense peptide mimetic, potentiates ibrexafungerp antifungal activity against the human pathogenic fungus Aspergillus fumigatus.
 38980022	Comparison of Bordetella species identification among differing rt-PCR assays in the United States.
@@ -256,7 +262,7 @@
 38926534	Charting the evolutionary history of malaria.
 38926073	Corrigendum to "Evaluation of different types of adjuvants in a malaria transmission-blocking vaccine" [Int. Immunopharmacol. 131 (2024) 111817].
 38925798	How can we get malaria control back on track?
-38925325	Prefoldins are novel regulators of the unfolded protein response in artemisinin resistant P. falciparum malaria.
+38925325	Prefoldins are novel regulators of the unfolded protein response in artemisinin resistant Plasmodium falciparum malaria.
 38924147	Plasmodium falciparum cysteine protease Falcipain 3: A potential enzyme for proteolytic processing of histone acetyltransferase PfGCN5.
 38923255	Chemoproteomic strategy identifies PfUCHL3 as the target of halofuginone.
 38922663	Unveiling malaria's silent threat: A path to effective prevention in India.
@@ -9991,9 +9997,3 @@
 35618033	Redox aspects of cytotoxicity and anti-neuroinflammatory profile of chloroquine and hydroxychloroquine in serum-starved BV-2 microglia.
 35617818	The effect of sickle cell genotype on the pharmacokinetic properties of artemether-lumefantrine in Tanzanian children.
 35617296	Attributable risk factors for asymptomatic malaria and anaemia and their association with cognitive and psychomotor functions in schoolchildren of north-eastern Tanzania.
-35616810	Antenatal care positive responses to pregnant women in preventing and controlling malaria in pregnancy: the sub-Saharan African perspective.
-35616371	Bazedoxifene, a Postmenopausal Drug, Acts as an Antimalarial and Inhibits Hemozoin Formation.
-35615833	Environmental Determinants of Malaria Prevalence and the Adaptation Strategies in Western Nepal.
-35615535	Chemistry of polyhalogenated nitrobutadienes, 17: Efficient synthesis of persubstituted chloroquinolinyl-1H-pyrazoles and evaluation of their antimalarial, anti-SARS-CoV-2, antibacterial, and cytotoxic activities.
-35615100	Determinants of Malaria Morbidity Among School-Aged Children Living in East Hararghe Zone, Oromia, Ethiopia: A Community-Based Case-Control Study.
-35615014	Proteome-wide prediction and analysis of the Cryptosporidium parvum protein-protein interaction network through integrative methods.
