@@ -1,3 +1,14 @@
+39027828	Ten-year risk of cardiovascular events among the adult population of West Tripura District of India by the Framingham risk score: A cross-sectional study.
+39027365	Supporting health systems and environment in the Democratic Republic of Congo: A call for action.
+39027120	Impact of climate and land use/land cover changes on malaria incidence in the Ecuadorian Amazon.
+39027087	Occupational exposure to malaria, leishmaniasis and arbovirus vectors in endemic regions: A systematic review.
+39026957	Associations among MHC genes, latitude, and avian malaria infections in the rufous-collared sparrow (Zonotrichia capensis).
+39026872	Local genetic adaptation to habitat in wild chimpanzees.
+39026845	Influenza-induced alveolar macrophages protect against death by malaria-associated acute lung injury.
+39026738	Association study of Plasmodium falciparum Acetyl-CoA Synthetase Mutations S868G and V949I with antimalarial drugs.
+39026667	Editorial: Immune tolerance and human malaria.
+39026652	Inhibition of DXR in the MEP pathway with lipophilic N-alkoxyaryl FR900098 analogs.
+39026651	Novel flexible biphenyl PfDHFR inhibitors with improved antimalarial activity.
 39026276	Evolution of pfhrp2 and pfhrp3 deletions in Equatorial Guinea between the pre- and post-RDT introduction.
 39026236	Entomological effects of attractive targeted sugar bait station deployment in Western Zambia: vector surveillance findings from a two-arm cluster randomized phase III trial.
 39025972	Malaria vaccines: a new era of prevention and control.
@@ -9986,14 +9997,3 @@
 35621119	CRISPR/Cas9 and genetic screens in malaria parasites: small genomes, big impact.
 35621049	N-acetylation of secreted proteins in Apicomplexa is widespread and is independent of the ER acetyl-CoA transporter AT1.
 35620544	Prevalence of hepatitis B virus and associated risk factors among adults patients at Dessie referral and Kemise general hospitals in northeastern Ethiopia.
-35620056	The Lipid-Binding Defective Dynamin 2 Mutant in Charcot-Marie-Tooth Disease Impairs Proper Actin Bundling and Actin Organization in Glomerular Podocytes.
-35620049	Assessing the Roles of Molecular Markers of Antimalarial Drug Resistance and the Host Pharmacogenetics in Drug-Resistant Malaria.
-35619875	Phylogeny, Phytomedicines, Phytochemistry, Pharmacological Properties, and Toxicity of Croton gratissimus Burch (Euphorbiaceae).
-35619717	Inhibition of Heme Oxygenase-1 by Zinc Protoporphyrin IX Improves Adverse Pregnancy Outcomes in Malaria During Early Gestation.
-35619134	Associations of maternal iron deficiency with malaria infection in a cohort of pregnant Papua New Guinean women.
-35619071	Factors associated with prolonged hospital stay of imported malaria cases in Chengdu, China: a retrospective study.
-35618791	Anti-TRAP/SSP2 monoclonal antibodies can inhibit sporozoite infection and may enhance protection of anti-CSP monoclonal antibodies.
-35618711	Transgenic Anopheles mosquitoes expressing human PAI-1 impair malaria transmission.
-35618033	Redox aspects of cytotoxicity and anti-neuroinflammatory profile of chloroquine and hydroxychloroquine in serum-starved BV-2 microglia.
-35617818	The effect of sickle cell genotype on the pharmacokinetic properties of artemether-lumefantrine in Tanzanian children.
-35617296	Attributable risk factors for asymptomatic malaria and anaemia and their association with cognitive and psychomotor functions in schoolchildren of north-eastern Tanzania.
