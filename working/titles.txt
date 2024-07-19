@@ -1,3 +1,4 @@
+39028193	Indigenous emergence and spread of kelch13 C469Y artemisinin-resistant Plasmodium falciparum in Uganda.
 39027828	Ten-year risk of cardiovascular events among the adult population of West Tripura District of India by the Framingham risk score: A cross-sectional study.
 39027365	Supporting health systems and environment in the Democratic Republic of Congo: A call for action.
 39027120	Impact of climate and land use/land cover changes on malaria incidence in the Ecuadorian Amazon.
@@ -9996,4 +9997,3 @@
 35621770	Strain Characterisation for Measuring Bioefficacy of ITNs Treated with Two Active Ingredients (Dual-AI ITNs): Developing a Robust Protocol by Building Consensus.
 35621119	CRISPR/Cas9 and genetic screens in malaria parasites: small genomes, big impact.
 35621049	N-acetylation of secreted proteins in Apicomplexa is widespread and is independent of the ER acetyl-CoA transporter AT1.
-35620544	Prevalence of hepatitis B virus and associated risk factors among adults patients at Dessie referral and Kemise general hospitals in northeastern Ethiopia.
