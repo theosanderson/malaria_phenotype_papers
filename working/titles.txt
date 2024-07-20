@@ -1,3 +1,7 @@
+39029063	Adapting to the shifting landscape: Implications of climate change for malaria control: A review.
+39029050	Home-based care practices on prevention of malaria in children under 5 years: A narrative review.
+39028699	Implementation of Glucose-6-Phosphate Dehydrogenase (G6PD) testing for Plasmodium vivax case management, a mixed method study from Cambodia.
+39028692	A geometrical theory of gliding motility based on cell shape and surface flow.
 39028193	Indigenous emergence and spread of kelch13 C469Y artemisinin-resistant Plasmodium falciparum in Uganda.
 39027828	Ten-year risk of cardiovascular events among the adult population of West Tripura District of India by the Framingham risk score: A cross-sectional study.
 39027365	Supporting health systems and environment in the Democratic Republic of Congo: A call for action.
@@ -9993,7 +9997,3 @@
 35621982	Cyclodepsipeptides: Isolation from Endophytic Fungi of Sarcophyton ehrenbergi and Verification of Their Larvicidal Activity via In-Vitro and In-Silico Studies.
 35621893	Image Classification in JPEG Compression Domain for Malaria Infection Detection.
 35621826	Correction: Pramasivan et al. Multiplex PCR Assay for the Identification of Four Species of the Anopheles Leucosphyrus Sub-Group in Malaysia. Insects 2022, 13, 195.
-35621808	Bacterial Symbionts in Ceratitis capitata.
-35621770	Strain Characterisation for Measuring Bioefficacy of ITNs Treated with Two Active Ingredients (Dual-AI ITNs): Developing a Robust Protocol by Building Consensus.
-35621119	CRISPR/Cas9 and genetic screens in malaria parasites: small genomes, big impact.
-35621049	N-acetylation of secreted proteins in Apicomplexa is widespread and is independent of the ER acetyl-CoA transporter AT1.
