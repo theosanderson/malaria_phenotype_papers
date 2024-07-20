@@ -1,3 +1,8 @@
+39030612	Validation of malaria-attributed deaths using verbal autopsy studies: a systematic review.
+39030554	Barriers to the quality delivery of seasonal malaria chemoprevention in Chad and Burkina Faso: a qualitative exploration of caregivers and community distributors' perspectives.
+39030425	Beyond Crop-Raiding: Unravelling the Broader Impacts of Human-Wildlife Conflict on Rural Communities.
+39030306	Influence of environmental, geographic, socio-demographic, and epidemiological factors on presence of malaria at the community level in two continents.
+39029730	Antibacterial, mosquito larvicidal, and cytotoxicity potential of AgNPs synthesized using Pittosporum undulatum under in vitro conditions.
 39029063	Adapting to the shifting landscape: Implications of climate change for malaria control: A review.
 39029050	Home-based care practices on prevention of malaria in children under 5 years: A narrative review.
 39028699	Implementation of Glucose-6-Phosphate Dehydrogenase (G6PD) testing for Plasmodium vivax case management, a mixed method study from Cambodia.
@@ -9992,8 +9997,3 @@
 35623558	Defining ER-mitochondria contact dynamics in Plasmodium falciparum by targeting component of phospholipid synthesis pathway, phosphatidylserine synthase (PfPSS).
 35623395	Chagas disease in Oklahoma.
 35622897	Target-enrichment sequencing yields valuable genomic data for challenging-to-culture bacteria of public health importance.
-35622837	Food safety practice and associated factors in public food establishments of Ethiopia: A systematic review and meta-analysis.
-35622427	Invasive Salmonella Infections Among Children in Shenzhen, China: A Five-year Retrospective Review.
-35621982	Cyclodepsipeptides: Isolation from Endophytic Fungi of Sarcophyton ehrenbergi and Verification of Their Larvicidal Activity via In-Vitro and In-Silico Studies.
-35621893	Image Classification in JPEG Compression Domain for Malaria Infection Detection.
-35621826	Correction: Pramasivan et al. Multiplex PCR Assay for the Identification of Four Species of the Anopheles Leucosphyrus Sub-Group in Malaysia. Insects 2022, 13, 195.
