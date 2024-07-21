@@ -1,3 +1,7 @@
+39033080	Gut membrane proteins as candidate antigens for immunization of mice against the tick Amblyomma sculptum.
+39033079	Evaluation of combination vaccines targeting transmission of Plasmodium falciparum and P. vivax.
+39032849	Morphological changes in eggs and embryos of Aedes aegypti (Diptera: Culicidae) exposed to predicted climatic scenarios for the year 2100 in the Central Amazon.
+39032665	UHPLC-MS/MS profiling and in vivo aphrodisiac and androgenic effects of the aqueous extract of the roots of Schumanniophyton magnificum (K. Schum.) Harms.
 39031697	Small dams drive Anopheles abundance during the dry season in a high malaria burden area of Malawi.
 39030884	Patterns of daily oral HIV PrEP adherence among people who inject drugs in Ukraine: an analysis of biomarkers.
 39030842	Antiplasmodial action of 4-nitrobenzenesulfonamide chalcones: Design, synthesis, characterisation, in vitro and in silico evaluation against blood stages of Plasmodium falciparum 3D7.
@@ -9993,7 +9997,3 @@
 35625454	Stimuli Followed by Avian Malaria Vectors in Host-Seeking Behaviour.
 35625397	IL-10 Producing Regulatory B Cells Mediated Protection against Murine Malaria Pathogenesis.
 35624864	Thioredoxin Reductase-Type Ferredoxin: NADP(+) Oxidoreductase of Rhodopseudomonas palustris: Potentiometric Characteristics and Reactions with Nonphysiological Oxidants.
-37383297	Malaria control initiatives that have the potential to be gamechangers in India's quest for malaria elimination.
-37383294	A systematic review and meta-analysis on sub-microscopic Plasmodium infections in India: Different perspectives and global challenges.
-35624483	Reflections on the 2021 World Malaria Report and the future of malaria control.
-35624125	The erythrocyte membrane properties of beta thalassaemia heterozygotes and their consequences for Plasmodium falciparum invasion.
