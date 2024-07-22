@@ -1,3 +1,6 @@
+39037752	A Micronemal Protein, Scot1, Is Essential for Apicoplast Biogenesis and Liver Stage Development in Plasmodium berghei.
+39037663	Human erythrocytes' perplexing behaviour: erythrocytic microRNAs.
+39037239	A picomolar inhibitor of the Plasmodium falciparum IPP pathway.
 39036680	Is tattooing associated with increased seroprevalence of transfusion-transmitted infections among blood donors: A single-center study from Southeastern India.
 39036652	The first complete mitochondrional genome of Anopheles gibbinsi using a skimming sequencing approach.
 39036016	Immunoglobulin G (IgG) specific responses to recombinant Qβ displayed MSP3 and UB05 in plasma of asymptomatic Plasmodium falciparum-infected children living in two different agro-ecological settings of Cameroon.
@@ -9994,6 +9997,3 @@
 35630110	Schistoscope: An Automated Microscope with Artificial Intelligence for Detection of Schistosoma haematobium Eggs in Resource-Limited Settings.
 35629219	Physiologically-Based Pharmacokinetics Modeling for Hydroxychloroquine as a Treatment for Malaria and Optimized Dosing Regimens for Different Populations.
 35628522	MAEBL Contributes to Plasmodium Sporozoite Adhesiveness.
-35627730	Recurrent Plasmodium vivax Cases of Both Short and Long Latency Increased with Transmission Intensity and Were Distributed Year-Round in the Most Affected Municipalities of the RACCN, Nicaragua, 2013-2018.
-35627473	Assessment of Infection Prevention and Control Measures at Points of Entry in Sierra Leone in 2021: A Cross-Sectional Study.
-35627271	Mobilome of Apicomplexa Parasites.
