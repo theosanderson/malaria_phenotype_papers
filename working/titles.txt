@@ -1,3 +1,9 @@
+39036680	Is tattooing associated with increased seroprevalence of transfusion-transmitted infections among blood donors: A single-center study from Southeastern India.
+39036652	The first complete mitochondrional genome of Anopheles gibbinsi using a skimming sequencing approach.
+39036016	Immunoglobulin G (IgG) specific responses to recombinant Qβ displayed MSP3 and UB05 in plasma of asymptomatic Plasmodium falciparum-infected children living in two different agro-ecological settings of Cameroon.
+39035850	Better methods, better data: landscaping the priorities for improving methodologies in vector control.
+39035488	Double resolvability parameters of fosmidomycin anti-malaria drug and exchange property.
+39034562	Impact of Malnutrition on Serum Levels of Pro-inflammatory Cytokines among Plasmodium falciparum Malaria Subjects in Nigeria.
 39034325	Host cell CRISPR genomics and modelling reveal shared metabolic vulnerabilities in the intracellular development of Plasmodium falciparum and related hemoparasites.
 39034280	Theories of immune recognition: Is anybody right?
 39033080	Gut membrane proteins as candidate antigens for immunization of mice against the tick Amblyomma sculptum.
@@ -9991,9 +9997,3 @@
 35627730	Recurrent Plasmodium vivax Cases of Both Short and Long Latency Increased with Transmission Intensity and Were Distributed Year-Round in the Most Affected Municipalities of the RACCN, Nicaragua, 2013-2018.
 35627473	Assessment of Infection Prevention and Control Measures at Points of Entry in Sierra Leone in 2021: A Cross-Sectional Study.
 35627271	Mobilome of Apicomplexa Parasites.
-35626703	The Plasmodium falciparum CCCH Zinc Finger Protein ZNF4 Plays an Important Role in Gametocyte Exflagellation through the Regulation of Male Enriched Transcripts.
-35626441	Fluorescence In Situ Hybridization (FISH) Tests for Identifying Protozoan and Bacterial Pathogens in Infectious Diseases.
-35626361	Field Evaluation of a Hemozoin-Based Malaria Diagnostic Device in Puerto Lempira, Honduras.
-35626235	Colorimetric and Real-Time Loop-Mediated Isothermal Amplification (LAMP) for Detection of Loa loa DNA in Human Blood Samples.
-35625565	Decoding the Role of Melatonin Structure on Plasmodium falciparum Human Malaria Parasites Synchronization Using 2-Sulfenylindoles Derivatives.
-35625454	Stimuli Followed by Avian Malaria Vectors in Host-Seeking Behaviour.
