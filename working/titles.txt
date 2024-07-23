@@ -1,3 +1,6 @@
+39039450	The role of immune-inflammatory markers in children with complicated and uncomplicated malaria in Enugu, Nigeria.
+39039203	Gene drives: an alternative approach to malaria control?
+39038857	Establishment of a multisite umbrella cohort study protocol to describe the epidemiology and aetiologies of acute undifferentiated febrile illness in Latin America.
 39037983	Measuring HIV outcomes for adolescent girls and young women programs in Africa: Using the polling booth survey technique.
 39037752	A Micronemal Protein, Scot1, Is Essential for Apicoplast Biogenesis and Liver Stage Development in Plasmodium berghei.
 39037663	Human erythrocytes' perplexing behaviour: erythrocytic microRNAs.
@@ -9994,6 +9997,3 @@
 35631071	Immunogenicity Analysis of the Recombinant Plasmodium falciparum Surface-Related Antigen in Mice.
 35631044	Temporally Evolving and Context-Dependent Functions of Cytokines That Regulate Murine Anti-Plasmodium Humoral Immunity.
 35631041	Polymorphic Molecular Signatures in Variable Regions of the Plasmodium falciparum var2csa DBL3x Domain Are Associated with Virulence in Placental Malaria.
-35630348	Modulation of Signal Regulatory Protein α (SIRPα) by Plasmodium Antigenic Extract: A Preliminary In Vitro Study on Peripheral Blood Mononuclear Cells.
-35630110	Schistoscope: An Automated Microscope with Artificial Intelligence for Detection of Schistosoma haematobium Eggs in Resource-Limited Settings.
-35629219	Physiologically-Based Pharmacokinetics Modeling for Hydroxychloroquine as a Treatment for Malaria and Optimized Dosing Regimens for Different Populations.
