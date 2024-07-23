@@ -1,3 +1,11 @@
+39042099	Adjuvant system AS01: from mode of action to effective vaccines.
+39041478	The prevalence of malaria in the five districts of Limpopo Province, South Africa, 2015 - 2017.
+39041038	Immature dendritic cell-targeting mRNA vaccine expressing PfCSP enhances protective immune responses against Plasmodium liver infection.
+39040540	Combinative workflow for mRNA vaccine development.
+39040126	R21/Matrix-M™ malaria vaccine: A realm of hope for combating malaria in developing countries?
+39040124	Evaluation of MMV Pandemic Response Box compounds to identify potent compounds against clinically relevant bacterial and fungal clinical isolates in vitro.
+39039918	Unveiling Anti-malarial, Antimicrobial, Antioxidant Efficiency and Molecular Docking Study of Synthesized Transition Metal Complexes Derived From Heterocyclic Schiff Base Ligands.
+39039683	Preparation and In-Vitro Characterization of Solid Lipid Nanoparticles Containing Artemisinin and Curcumin.
 39039450	The role of immune-inflammatory markers in children with complicated and uncomplicated malaria in Enugu, Nigeria.
 39039203	Gene drives: an alternative approach to malaria control?
 39038857	Establishment of a multisite umbrella cohort study protocol to describe the epidemiology and aetiologies of acute undifferentiated febrile illness in Latin America.
@@ -9989,11 +9997,3 @@
 35633442	High-throughput virtual screening of small-molecule inhibitors targeting immune cell checkpoints to discover new immunotherapeutics for human diseases.
 35632518	Live Vaccination with Blood-Stage Plasmodium yoelii 17XNL Prevents the Development of Experimental Cerebral Malaria.
 35632469	Mosquirix™ RTS, S/AS01 Vaccine Development, Immunogenicity, and Efficacy.
-35631485	Hydroxychloroquine Does Not Function as a Direct Zinc Ionophore.
-35631460	Safety of Short-Term Treatments with Oral Chloroquine and Hydroxychloroquine in Patients with and without COVID-19: A Systematic Review.
-35631362	A Mini Review on Isatin, an Anticancer Scaffold with Potential Activities against Neglected Tropical Diseases (NTDs).
-35631126	Inhibitor of Cysteine Protease of Plasmodium malariae Regulates Malapains, Endogenous Cysteine Proteases of the Parasite.
-35631076	Pfkelch13 Plasmodium falciparum Mutations in Huambo, Angola.
-35631071	Immunogenicity Analysis of the Recombinant Plasmodium falciparum Surface-Related Antigen in Mice.
-35631044	Temporally Evolving and Context-Dependent Functions of Cytokines That Regulate Murine Anti-Plasmodium Humoral Immunity.
-35631041	Polymorphic Molecular Signatures in Variable Regions of the Plasmodium falciparum var2csa DBL3x Domain Are Associated with Virulence in Placental Malaria.
