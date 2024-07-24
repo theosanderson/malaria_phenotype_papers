@@ -1,3 +1,14 @@
+39044228	Cutaneous leishmaniasis in sub-Saharan Africa: a systematic review of Leishmania species, vectors and reservoirs.
+39044194	WHO antenatal care policy and prevention of malaria in pregnancy in sub-Saharan Africa.
+39044181	Population genetic structure and phylogenetic analysis of Anopheles hyrcanus (Diptera: Culicidae) inferred from DNA sequences of nuclear ITS2 and the mitochondrial COI gene in the northern part of Iran.
+39043812	Transcriptomic analyses of differentially expressed human genes, micro RNAs and long-non-coding RNAs in severe, symptomatic and asymptomatic malaria infection.
+39043761	Diversity and ecological niche model of malaria vector and non-vector mosquito species in Covè, Ouinhi, and Zangnanado, Southern Benin.
+39043350	Specific and cumulative infection burden and mild cognitive impairment and dementia: A population-based study.
+39043327	THE ACTIVITIES OF SUAVEOLOL AND OTHER COMPOUNDS FROM HYPTIS SUAVEOLENS AND MOMORDICA CHARANTIA AGAINST THE AETIOLOGICAL AGENTS OF AFRICAN TRYPANOSOMIASIS, LEISHMANIASIS AND MALARIA.
+39043264	Repurposing antiplasmodial leads for cancer: Exploring the antiproliferative effects of N-cinnamoyl-aminoacridines.
+39043249	Underdiagnosis of arbovirus infections in returned travelers in an area with growing circulation of Aedes albopictus in North-Eastern France.
+39043243	Review on the impacts of indoor vector control on domiciliary pests: good intentions challenged by harsh realities.
+39043224	Unravelling nicotinic receptor and ligand features underlying neonicotinoid knockdown actions on the malaria vector mosquito Anopheles gambiae.
 39042099	Adjuvant system AS01: from mode of action to effective vaccines.
 39041478	The prevalence of malaria in the five districts of Limpopo Province, South Africa, 2015 - 2017.
 39041038	Immature dendritic cell-targeting mRNA vaccine expressing PfCSP enhances protective immune responses against Plasmodium liver infection.
@@ -9986,14 +9997,3 @@
 35637861	Building a gender responsive framework for malaria elimination in Asia-Pacific.
 35637506	Attitudes, practices, and determinants of community care-seeking behaviours for fever/malaria episodes in the context of the implementation of multiple first-line therapies for uncomplicated malaria in the health district of Kaya, Burkina Faso.
 35637191	Author Correction: The transcriptome of circulating sexually committed Plasmodium falciparum ring stage parasites forecasts malaria transmission potential.
-35637187	Stochastic expression of invasion genes in Plasmodium falciparum schizonts.
-35636724	Prospects of halofuginone as an antiprotozoal drug scaffold.
-35636429	Detection and molecular identification of blood parasites in rodents captured from urban areas of southern Sarawak, Malaysian Borneo.
-35635457	Standard Membrane Feeding Assay for the Detection of Plasmodium falciparum Infection in Anopheles Mosquito Vectors.
-35635376	Activation of cGAS-STING by Lethal Malaria N67C Dictates Immunity and Mortality through Induction of CD11b(+) Ly6C(hi) Proinflammatory Monocytes.
-35635144	Phthalide derivatives as dihydrofolate reductase inhibitors for malaria: molecular docking and molecular dynamics studies.
-35634341	Eryptosis as a New Insight in Malaria Pathogenesis.
-35633683	Improving the Molecular Diagnosis of Malaria: Droplet Digital PCR-Based Method Using Saliva as a DNA Source.
-35633442	High-throughput virtual screening of small-molecule inhibitors targeting immune cell checkpoints to discover new immunotherapeutics for human diseases.
-35632518	Live Vaccination with Blood-Stage Plasmodium yoelii 17XNL Prevents the Development of Experimental Cerebral Malaria.
-35632469	Mosquirix™ RTS, S/AS01 Vaccine Development, Immunogenicity, and Efficacy.
