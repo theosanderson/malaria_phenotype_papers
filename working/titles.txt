@@ -1,3 +1,6 @@
+39046237	Therapeutic efficacy of pyronaridine-artesunate (Pyramax) in treating Plasmodium vivax malaria in the central highlands of Vietnam.
+39046234	Hydroxychloroquine attenuates double-stranded RNA-stimulated hyper-phosphorylation of tristetraprolin/ZFP36 and AU-rich mRNA stabilization.
+39046019	Lycopene supplementation promoted increased survival and decreased parasitemia in mice with severe malaria: comparison with N-acetylcysteine.
 39044955	Mayaro Virus as the cause of Acute Febrile Illness in the Colombian Amazon Basin.
 39044228	Cutaneous leishmaniasis in sub-Saharan Africa: a systematic review of Leishmania species, vectors and reservoirs.
 39044194	WHO antenatal care policy and prevention of malaria in pregnancy in sub-Saharan Africa.
@@ -152,7 +155,7 @@
 38987710	Evaluation of immunophenotypic alterations of peripheral blood lymphocytes and their sub-sets in uncomplicated P. Falciparum infection.
 38987258	Disruption of Plasmodium falciparum kinetochore proteins destabilises the nexus between the centrosome equivalent and the mitotic apparatus.
 38985752	Community end user perceptions of hessian fabric transfluthrin vapour emanators for protecting against mosquitoes under conditions of routine use in Port-au-Prince, Haiti.
-38985692	Parallel evolution in mosquito vectors - a duplicated esterase locus is associated with resistance to pirimiphos-methyl in An. gambiae.
+38985692	Parallel Evolution in Mosquito Vectors-A Duplicated Esterase Locus is Associated With Resistance to Pirimiphos-methyl in Anopheles gambiae.
 38985536	Loop-Mediated Isothermal Amplification Assay to Detect Invasive Malaria Vector Anopheles stephensi Mosquitoes.
 38983114	Reconstitution of human microglia and resident T cells in the brain of humanized DRAGA mice.
 38982894	A sub-national HIV epidemic appraisal in Kenya: a new approach for identifying priority geographies, populations and programmes for optimizing coverage for HIV prevention.
@@ -9994,6 +9997,3 @@
 35639875	Risk Factors for Ebola Virus Persistence in Semen of Survivors in Liberia.
 35638753	Diagnostic accuracy of fluorescence flow-cytometry technology using Sysmex XN-31 for imported malaria in a non-endemic setting.
 35638735	PfARID Regulates P. falciparum Malaria Parasite Male Gametogenesis and Female Fertility and Is Critical for Parasite Transmission to the Mosquito Vector.
-35638014	Water sanitation in Karachi and its impact on health.
-35637861	Building a gender responsive framework for malaria elimination in Asia-Pacific.
-35637506	Attitudes, practices, and determinants of community care-seeking behaviours for fever/malaria episodes in the context of the implementation of multiple first-line therapies for uncomplicated malaria in the health district of Kaya, Burkina Faso.
