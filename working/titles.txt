@@ -1,3 +1,4 @@
+39044955	Mayaro Virus as the cause of Acute Febrile Illness in the Colombian Amazon Basin.
 39044228	Cutaneous leishmaniasis in sub-Saharan Africa: a systematic review of Leishmania species, vectors and reservoirs.
 39044194	WHO antenatal care policy and prevention of malaria in pregnancy in sub-Saharan Africa.
 39044181	Population genetic structure and phylogenetic analysis of Anopheles hyrcanus (Diptera: Culicidae) inferred from DNA sequences of nuclear ITS2 and the mitochondrial COI gene in the northern part of Iran.
@@ -9996,4 +9997,3 @@
 35638014	Water sanitation in Karachi and its impact on health.
 35637861	Building a gender responsive framework for malaria elimination in Asia-Pacific.
 35637506	Attitudes, practices, and determinants of community care-seeking behaviours for fever/malaria episodes in the context of the implementation of multiple first-line therapies for uncomplicated malaria in the health district of Kaya, Burkina Faso.
-35637191	Author Correction: The transcriptome of circulating sexually committed Plasmodium falciparum ring stage parasites forecasts malaria transmission potential.
