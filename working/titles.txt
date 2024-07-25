@@ -834,7 +834,7 @@
 38746786	Incomplete Plasmodium falciparum growth inhibition following piperaquine treatment translates into increased parasite viability in the in vitro parasite reduction ratio assay.
 38746440	High frequency of artemisinin partial resistance mutations in the great lake region revealed through rapid pooled deep sequencing.
 38746424	Chemoproteomics validates selective targeting of Plasmodium M1 alanyl aminopeptidase as an antimalarial strategy.
-38746392	Benchmarking and Optimization of Methods for the Detection of Identity-By-Descent in High-Recombining Plasmodium falciparum.
+38746392	Benchmarking and Optimization of Methods for the Detection of Identity-By-Descent in High-Recombining Plasmodium falciparum Genomes.
 38746363	TNF signaling mediates cellular immune function and promotes malaria parasite killing in the mosquito Anopheles gambiae.
 38746350	The economic burden of zoonotic Plasmodium knowlesi malaria on households in Sabah, Malaysia compared to malaria from human-only Plasmodium species.
 38746342	Reversible host cell surface remodelling limits immune recognition and maximizes transmission of Plasmodium falciparum gametocytes.
