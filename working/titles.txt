@@ -1,3 +1,35 @@
+39058191	High Frequency of Deletions in the pfhrp2 and pfhrp3 Genes of Plasmodium falciparum in the Middle Rio Negro Region of the Brazilian Amazon.
+39058023	Transmission-blocking activities of artesunate, chloroquine, and methylene blue on Plasmodium vivax gametocytes.
+39058022	First-in-human, randomized, double-blind, placebo-controlled, single and multiple ascending doses clinical study to assess the safety, tolerability, and pharmacokinetics of cipargamin administered intravenously in healthy adults.
+39057768	Asymptomatic Malaria Reservoirs in Honduras: A Challenge for Elimination.
+39057199	Mark-Release-Recapture (MRR) of Sterile Male Aedes albopictus (Skuse) in Sri Lanka: Field Performance of Sterile Males and Estimation of the Wild Mosquito Population Density.
+39055125	Transactional sex and age-disparate sexual partnerships among adolescent girls and young women in Tanzania.
+39055112	Assessment of self-medication practices and safety profile of medicines utilisation among pregnant women attending antenatal clinics in Freetown, Sierra Leone: a multicentre cross-sectional study.
+39054443	Antiplasmodial potential of isolated xanthones from Mesua ferrea Linn. roots: an in vitro and in silico molecular docking and pharmacokinetics study.
+39054424	Indoor residual spraying of experimental huts in Cameroon highlights the potential of Fludora® Fusion to control wild pyrethroid-resistant malaria vectors.
+39054167	Invasive Anopheles stephensi in Africa: insights from Asia.
+39053565	Extensive genetic diversity in plasmodium vivax from Sudan and its genetic relationships with other geographical isolates.
+39053482	Alarming Plasmodium falciparum resistance to artemisinin-based combination therapy in Africa: the critical role of the partner drug.
+39052743	Babesia duncani, a Model Organism for Investigating Intraerythrocytic Parasitism and Novel Antiparasitic Therapeutic Strategies.
+39052713	Spliced-Leader RNA as a Dynamic Marker for Monitoring Viable Leishmania Parasites During and After Treatment.
+39052655	Species composition, infection rate and feeding preference of Anopheles mosquito species (Diptera: Culicidae) in the west Amhara Region, northwest Ethiopia.
+39052480	Cellular immune response to SARS-CoV-2 and clinical presentation in individuals exposed to endemic malaria.
+39051870	Drugs resistance and new strategies of prevention against Malaria: An ongoing battle.
+39051869	Characterization of Leclercia adecarboxylata isolated from field collected Anopheles subpictus, Berhampur, Odisha.
+39051865	Transmission regulating immune genes- a potential strategy to control vector borne disease.
+39051860	Spatiotemporal, Demographic, and Climatic Drivers of Malaria Transmission in the Endemic Setting of Jazan, Saudi Arabia: A Retrospective Study.
+39051854	Peptidic Boronic Acid Plasmodium falciparum SUB1 Inhibitors with Improved Selectivity over Human Proteasome.
+39051704	Antibiotic use by clinical presentation across all healthcare providers in rural Burkina Faso: a healthcare visit exit survey.
+39051241	The Paradigm Shift of Using Natural Molecules Extracted from Northern Canada to Combat Malaria.
+39049136	Factors associated with severe pneumonia among children <5 years, Kasese District, Uganda: a case-control study, January-April 2023.
+39049117	Evidence on sulfadoxine-pyrimethamine resistance molecular markers from India: interpret with caution.
+39049091	Lifestyles associated with malaria in pregnancy in northwest Colombia: a mixed study from Latin American critical epidemiology.
+39048970	Malaria and typhoid fever co-infection: a retrospective analysis of University Hospital records in Nigeria.
+39048116	Managing the risk of transfusion-transmitted malaria from Australian blood donations: Recommendation of a new screening strategy.
+39048115	Dose-dependent inactivation of Plasmodium falciparum in red blood cell concentrates by treatment with short-wavelength ultraviolet light.
+39048114	Optimal malarial screening strategy in Australian blood donors: A cost-effectiveness analysis.
+39046960	Mosaic and cocktail capsid-virus-like particle vaccines for induction of antibodies against the EPCR-binding CIDRα1 domain of PfEMP1.
+39046959	Detection through the use of RT-MqPCR of asymptomatic reservoirs of malaria in samples of patients from the indigenous Comarca of Guna Yala, Panama: Essential method to achieve the elimination of malaria.
 39046237	Therapeutic efficacy of pyronaridine-artesunate (Pyramax) in treating Plasmodium vivax malaria in the central highlands of Vietnam.
 39046234	Hydroxychloroquine attenuates double-stranded RNA-stimulated hyper-phosphorylation of tristetraprolin/ZFP36 and AU-rich mRNA stabilization.
 39046019	Lycopene supplementation promoted increased survival and decreased parasitemia in mice with severe malaria: comparison with N-acetylcysteine.
@@ -118,6 +150,13 @@
 39005341	Identification of mCMQ069, a novel antimalarial with potential for a single-dose cure and/or 28-day chemoprevention.
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
+30000766	Primaquine.
+30000752	Atovaquone.
+30000538	Atovaquone and Proguanil.
+30000533	Artesunate.
+30000213	Mefloquine.
+30000209	Hydroxychloroquine.
+30000205	Chloroquine.
 39003571	Structure-function analysis of nucleotide housekeeping protein HAM1 from human malaria parasite Plasmodium falciparum.
 39003498	The C-terminal region of the Plasmodium berghei gamete surface 184-kDa protein Pb184 contributes to fertilization and male gamete binding to the residual body.
 39003288	Asymptomatic malaria and predictors among migrant farmworkers East Shewa zone Oromia Ethiopia.
@@ -848,7 +887,6 @@
 38743768	Distribution and dynamics of Anopheles gambiae s.l. larval habitats in three Senegalese cities with high urban malaria incidence.
 38742896	Safety, pharmacokinetics, and potential neurological interactions of ivermectin, tafenoquine, and chloroquine in Rhesus macaques.
 38742852	Correction: Chorismate synthase mediates cerebral malaria pathogenesis by eliciting salicylic acid-dependent autophagy response in parasite.
-30000766	Primaquine.
 38741893	Raising the bar: genus-specific nested PCR improves detection and lineage identification of avian haemosporidian parasites.
 38741399	Binary and ternary complex formation and characterization of artemisinin with sulfobutyl ether β-cyclodextrin and oleic acid.
 38741368	Correlates of Co-Infection with Coccidiosis and Avian Malaria in House Finches (Haemorhous mexicanus).
@@ -6229,7 +6267,6 @@
 36915131	Fine-scale spatial distribution of deltamethrin resistance and population structure of Anopheles funestus and Anopheles arabiensis populations in Southern Mozambique.
 36915098	Species composition and insecticide resistance in malaria vectors in Ellibou, southern Côte d'Ivoire and first finding of Anopheles arabiensis in Côte d'Ivoire.
 36914649	Non-falciparum malaria infection and IgG seroprevalence among children under 15 years in Nigeria, 2018.
-30000209	Hydroxychloroquine.
 36914064	Differentiation between Bulinus truncatus and Bulinus hexaploidus by morphological characters, chromosomal study and compatibility with Schistosoma haematobium.
 36913960	Can we reduce malaria in pregnancy and improve birth outcomes?
 36913959	Effect of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine with and without azithromycin versus monthly sulfadoxine-pyrimethamine on adverse pregnancy outcomes in Africa: a double-blind randomised, partly placebo-controlled trial.
@@ -9960,40 +9997,3 @@
 35649358	Active APPL1 sequestration by Plasmodium favors liver-stage development.
 35648836	Discrete roles of Ir76b ionotropic coreceptor impact olfaction, blood feeding, and mating in the malaria vector mosquito Anopheles coluzzii.
 35648783	Spatial modelling for population replacement of mosquito vectors at continental scale.
-35647721	Repurposing Lansoprazole and Posaconazole to treat leishmaniasis: Integration of in vitro testing, pharmacological corroboration, and mechanisms of action.
-35647696	Evaluation of a Multiplex Bead Assay against Single-Target Assays for Detection of IgG Antibodies to SARS-CoV-2.
-35647647	High-Throughput Screening Platform To Identify Inhibitors of Protein Synthesis with Potential for the Treatment of Malaria.
-35647385	RTS,S/AS01 Malaria Vaccine - The Next Step for a Developing Country.
-35647377	Vaccines hesitancy in Africa: how COVID-19 pandemic may affect malaria vaccination campaigns.
-35646733	Inhibition of Toxoplasma gondii Growth by Dihydroquinine and Its Mechanisms of Action.
-35644266	A single amino acid substitution alters activity and specificity in Plasmodium falciparum aspartyl & asparaginyl-tRNA synthetases.
-35644103	The truncated AaActin1 promoter is a candidate tool for metabolic engineering of artemisinin biosynthesis in Artemisia annua L.
-35643541	Plasmodium manipulates the expression of host long non-coding RNA during red blood cell intracellular infection.
-35643432	Essential components of postnatal care - a systematic literature review and development of signal functions to guide monitoring and evaluation.
-35643419	Cost-Utility Analysis of Community Case Management for Malaria Control in Burundi.
-35643100	Is triple artemisinin-based combination therapy necessary for uncomplicated malaria?
-35643097	Additional considerations for assessing COVID-19 impact on dengue transmission.
-35643094	Effect of novel antimalarial ZY-19489 on Plasmodium falciparum viability in a volunteer infection study.
-35642634	Lymphocyte crosstalk is required for monocyte-intrinsic trained immunity to Plasmodium falciparum.
-35642585	Malaria parasites release vesicle subpopulations with signatures of different destinations.
-35642404	Comparative in vitro activity of selected antibacterial agents against Escherichia coli isolated from hospitalized patients suffering UTI.
-35641976	Malaria time series in the extra-Amazon region of Brazil: epidemiological scenario and a two-year prediction model.
-35641958	Anopheles stephensi in Africa requires a more integrated response.
-37449257	Effectiveness of seasonal malaria chemoprevention in reducing under-five malaria morbidity and mortality in the Savannah Region, Ghana.
-35641827	The role of research in China's successful elimination of malaria.
-35641592	HIV infection increases the risk of acquiring Plasmodium vivax malaria: a 4-year cohort study in the Brazilian Amazon HIV and risk of vivax malaria.
-35641573	Potential future malaria transmission in Odisha due to climate change.
-35641527	Efficacy, T cell activation and antibody responses in accelerated Plasmodium falciparum sporozoite chemoprophylaxis vaccine regimens.
-35641406	Epigenetics of malaria parasite nutrient uptake, but why?
-35640888	Plasmodium falciparum PfRUVBL proteins bind at the TARE region and var gene promoter located in the subtelomeric region.
-35640883	Formal and informal medicine retailers in Sub-Saharan Africa: a scoping review of research trends.
-35640824	Malaria in Refugee Children Resettled to a Holoendemic Area of Sub-Saharan Africa.
-35640743	Metformin: Is it a drug for all reasons and diseases?
-35640704	Impact of COVID-19 disease and COVID-19 vaccination on maternal or fetal inflammatory response, placental pathology, and perinatal outcomes.
-35640636	Asymptomatic Malaria Infection and the Immune Response to the 2-Dose Ad26.ZEBOV, MVA-BN-Filo Ebola Vaccine Regimen in Adults and Children.
-35640304	Malaria parasite classification framework using a novel channel squeezed and boosted CNN.
-35639985	Correction to: Flowcytometric and ImageStream RNA-FISH Gene Expression, Quantification and Phenotypic Characterization of Blood Stages and Sporozoites From Human Malaria Species.
-35639897	Prehospital Anemia Care A Review of Symptoms, Evaluation, and Management.
-35639875	Risk Factors for Ebola Virus Persistence in Semen of Survivors in Liberia.
-35638753	Diagnostic accuracy of fluorescence flow-cytometry technology using Sysmex XN-31 for imported malaria in a non-endemic setting.
-35638735	PfARID Regulates P. falciparum Malaria Parasite Male Gametogenesis and Female Fertility and Is Critical for Parasite Transmission to the Mosquito Vector.
