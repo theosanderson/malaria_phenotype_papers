@@ -1,3 +1,4 @@
+39058651	Community case management to accelerate access to healthcare in Mali: A realist process evaluation nested within a cluster randomised trial.
 39058191	High Frequency of Deletions in the pfhrp2 and pfhrp3 Genes of Plasmodium falciparum in the Middle Rio Negro Region of the Brazilian Amazon.
 39058023	Transmission-blocking activities of artesunate, chloroquine, and methylene blue on Plasmodium vivax gametocytes.
 39058022	First-in-human, randomized, double-blind, placebo-controlled, single and multiple ascending doses clinical study to assess the safety, tolerability, and pharmacokinetics of cipargamin administered intravenously in healthy adults.
@@ -9996,4 +9997,3 @@
 35649475	Controlled release starch-lipid implant for the therapy of severe malaria.
 35649358	Active APPL1 sequestration by Plasmodium favors liver-stage development.
 35648836	Discrete roles of Ir76b ionotropic coreceptor impact olfaction, blood feeding, and mating in the malaria vector mosquito Anopheles coluzzii.
-35648783	Spatial modelling for population replacement of mosquito vectors at continental scale.
