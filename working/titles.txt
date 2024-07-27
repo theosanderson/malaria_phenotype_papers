@@ -1,3 +1,27 @@
+39066511	Synthesis, molecular modelling studies of artemisinin-chalcone derivatives and their antimalarial activity evaluation.
+39066431	Immunizing Mice with Influenza Virus-like Particles Expressing the Leishmania amazonensis Promastigote Surface Antigen Alleviates Inflammation in Footpad.
+39066430	Equal Maintenance of Anti-SARS-CoV-2 Antibody Levels Induced by Heterologous and Homologous Regimens of the BNT162b2, ChAdOx1, CoronaVac and Ad26.COV2.S Vaccines: A Longitudinal Study Up to the 4th Dose of Booster.
+39066199	Elevated Inflammation Associated with Markers of Neutrophil Function and Gastrointestinal Disruption in Pilot Study of Plasmodium fragile Co-Infection of ART-Treated SIVmac239+ Rhesus Macaques.
+39065810	Transmission-Blocking Strategies for Malaria Eradication: Recent Advances in Small-Molecule Drug Development.
+39065802	Computational Design of Novel Tau-Tubulin Kinase 1 Inhibitors for Neurodegenerative Diseases.
+39065740	2D/3D-QSAR Model Development Based on a Quinoline Pharmacophoric Core for the Inhibition of Plasmodium falciparum: An In Silico Approach with Experimental Validation.
+39065722	Solid-State NMR Characterization of Mefloquine Resinate Complexes Designed for Taste-Masking Pediatric Formulations.
+39063453	Malaria Severity in the Elimination Continuum: A Retrospective Cohort Study between Beitbridge and Lupane Districts in Zimbabwe, 2021-2023.
+39063392	Taxonomy, Bio-Ecology and Insecticide Resistance of Anopheline Vectors of Malaria in Sri Lanka.
+39063057	Melatonin as a Circadian Marker for Plasmodium Rhythms.
+39062495	Guanidinium Chloride-Induced Haemolysis Assay to Measure New Permeation Pathway Functionality in Rodent Malaria Plasmodium berghei.
+39061481	A Literature Review on the Role of the Invasive Aedes albopictus in the Transmission of Avian Malaria Parasites.
+39061127	Malaria in Pregnancy, Current Challenges, and Emerging Prevention Strategies in a Warming Climate.
+39061057	Availability and readiness of health facilities providing services for other infectious diseases to treat neglected tropical diseases in Ethiopia: implications for service integration in high burden areas.
+39061049	Patterns and predictors of malaria among head porters: a mobile population in Ghana.
+39060922	Anesthetic approach to pregnant patients with malaria: a narrative review of the literature.
+39059839	Naomi Lucchi-from malaria to pandemic preparedness.
+39059837	Mallika Imwong-championing malaria genomics.
+39059710	Assessment of bidirectional impact of stigmatization induced self-medication on COVID-19 and malaria transmissions using mathematical modeling: Nigeria as a case study.
+39059401	Addressing partner violence to end infant HIV infection.
+39059381	Natural malaria infection elicits rare but potent neutralizing antibodies to the blood-stage antigen RH5.
+39059380	Analysis of the diverse antigenic landscape of the malaria protein RH5 identifies a potent vaccine-induced human public antibody clonotype.
+39059071	Tetrahydropyridine appended 8-aminoquinoline derivatives: Design, synthesis, in silico, and in vitro antimalarial studies.
 39058651	Community case management to accelerate access to healthcare in Mali: A realist process evaluation nested within a cluster randomised trial.
 39058191	High Frequency of Deletions in the pfhrp2 and pfhrp3 Genes of Plasmodium falciparum in the Middle Rio Negro Region of the Brazilian Amazon.
 39058023	Transmission-blocking activities of artesunate, chloroquine, and methylene blue on Plasmodium vivax gametocytes.
@@ -9973,27 +9997,3 @@
 35655243	Rapid evolution of insecticide resistance and patterns of pesticides usage in agriculture in the city of Yaoundé, Cameroon.
 35655190	Using ecological observations to improve malaria control in areas where Anopheles funestus is the dominant vector.
 35655174	Evaluation of the Pfs25-IMX313/Matrix-M malaria transmission-blocking candidate vaccine in endemic settings.
-35655150	Reciprocal positive effects on parasitemia between coinfecting haemosporidian parasites in house sparrows.
-35654383	COVID-19 and Plasmodium falciparum co-infection in a man returning from Cameroon.
-35654147	Homeostasis of extracellular ATP in uninfected RBCs from a Plasmodium falciparum culture and derived microparticles.
-35654079	Effectiveness of pyronaridine-artesunate against Plasmodium malariae, Plasmodium ovale spp, and mixed-Plasmodium infections: a post-hoc analysis of the CANTAM-Pyramax trial.
-35653502	Comparison of three PCR-based methods to detect Loa loa and Mansonella perstans in long-term frozen storage dried blood spots.
-35653481	Reaction hijacking of tyrosine tRNA synthetase as a new whole-of-life-cycle antimalarial strategy.
-35653471	Inhibiting protein synthesis to treat malaria.
-35653396	Testing non-autonomous antimalarial gene drive effectors using self-eliminating drivers in the African mosquito vector Anopheles gambiae.
-35652895	Identification and validation of potent inhibitor of Escherichia coli DHFR from MMV pathogen box.
-35652239	Modifying mosquitoes to suppress disease transmission: Is the long wait over?
-35652104	Validation of Effective Extracellular Vesicles Isolation Methods Adapted to Field Studies in Malaria Endemic Regions.
-35652103	Plasmodium falciparum Molecular Chaperones: Guardians of the Malaria Parasite Proteome and Renovators of the Host Proteome.
-35651752	Editorial: Identification and Characterization of Novel Antigens of Malarial Parasites.
-35651694	An open dataset of Plasmodium vivax genome variation in 1,895 worldwide samples.
-35651611	Extrafollicular Plasmablasts Present in the Acute Phase of Infections Express High Levels of PD-L1 and Are Able to Limit T Cell Response.
-35650704	Treatment success among Myanmar migrants with TB in Thailand.
-35650701	Towards meaningful inclusion of people affected by TB: lessons from the COVID-19 response.
-35646333	Modelling sociodemographic factors that affect malaria prevalence in Sussundenga, Mozambique: a cross-sectional study.
-35650583	ALIMUS-We are feeding! Study protocol of a multi-center, cluster-randomized controlled trial on the effects of a home garden and nutrition counseling intervention to reduce child undernutrition in rural Burkina Faso and Kenya.
-35649630	Interactions with Asialo-Glycoprotein Receptors and Platelets Are Dispensable for CD8(+) T Cell Localization in the Murine Liver.
-35649610	Creating interventions to transition long-lasting insecticide net distribution in Ghana.
-35649475	Controlled release starch-lipid implant for the therapy of severe malaria.
-35649358	Active APPL1 sequestration by Plasmodium favors liver-stage development.
-35648836	Discrete roles of Ir76b ionotropic coreceptor impact olfaction, blood feeding, and mating in the malaria vector mosquito Anopheles coluzzii.
