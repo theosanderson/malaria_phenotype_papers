@@ -1,3 +1,9 @@
+39068490	Refining the Schistosoma haematobium recombinase polymerase amplification (Sh-RPA) assay: moving towards point-of-care use in endemic settings.
+39068386	Female genital mutilation and its associated factors among adolescent girls and young women in Tanzania: analysis of the 2022 Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS).
+39067885	Surveillance of global, travel-related illness using a novel app: a multivariable, cross-sectional study.
+39066726	Maternal inflammatory and microbial drivers of low birthweight in low- and middle-income countries.
+39067472	Second malaria vaccine reaches Central African Republic.
+39066687	Identification of natural inhibitors targeting Trehalase of Anopheles funestus in the management of malaria: A Biocomputational assessment.
 39066511	Synthesis, molecular modelling studies of artemisinin-chalcone derivatives and their antimalarial activity evaluation.
 39066431	Immunizing Mice with Influenza Virus-like Particles Expressing the Leishmania amazonensis Promastigote Surface Antigen Alleviates Inflammation in Footpad.
 39066430	Equal Maintenance of Anti-SARS-CoV-2 Antibody Levels Induced by Heterologous and Homologous Regimens of the BNT162b2, ChAdOx1, CoronaVac and Ad26.COV2.S Vaccines: A Longitudinal Study Up to the 4th Dose of Booster.
@@ -16,6 +22,7 @@
 39061049	Patterns and predictors of malaria among head porters: a mobile population in Ghana.
 39060922	Anesthetic approach to pregnant patients with malaria: a narrative review of the literature.
 39059839	Naomi Lucchi-from malaria to pandemic preparedness.
+39059838	Lise Musset- studying antimalarial resistance in America.
 39059837	Mallika Imwong-championing malaria genomics.
 39059710	Assessment of bidirectional impact of stigmatization induced self-medication on COVID-19 and malaria transmissions using mathematical modeling: Nigeria as a case study.
 39059401	Addressing partner violence to end infant HIV infection.
@@ -33,7 +40,7 @@
 39054443	Antiplasmodial potential of isolated xanthones from Mesua ferrea Linn. roots: an in vitro and in silico molecular docking and pharmacokinetics study.
 39054424	Indoor residual spraying of experimental huts in Cameroon highlights the potential of Fludora® Fusion to control wild pyrethroid-resistant malaria vectors.
 39054167	Invasive Anopheles stephensi in Africa: insights from Asia.
-39053565	Extensive genetic diversity in plasmodium vivax from Sudan and its genetic relationships with other geographical isolates.
+39053565	Extensive genetic diversity in Plasmodium vivax from Sudan and its genetic relationships with other geographical isolates.
 39053482	Alarming Plasmodium falciparum resistance to artemisinin-based combination therapy in Africa: the critical role of the partner drug.
 39052743	Babesia duncani, a Model Organism for Investigating Intraerythrocytic Parasitism and Novel Antiparasitic Therapeutic Strategies.
 39052713	Spliced-Leader RNA as a Dynamic Marker for Monitoring Viable Leishmania Parasites During and After Treatment.
@@ -173,7 +180,7 @@
 39006106	Modeling and investigating malaria P. Falciparum and P. Vivax infections: Application to Djibouti data.
 39006006	Testing the evolutionary drivers of malaria parasite rhythms and their consequences for host-parasite interactions.
 39005341	Identification of mCMQ069, a novel antimalarial with potential for a single-dose cure and/or 28-day chemoprevention.
-39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. leaf (Malvaceae).
+39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. Leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
 30000766	Primaquine.
 30000752	Atovaquone.
@@ -9990,10 +9997,3 @@
 35656358	A Retrospective Analysis of Malaria Trends in Maksegnit Health Center over the Last Seven Years, Northwest Ethiopia: 2014-2020.
 35656326	Rare Alleles and Signatures of Selection on the Immunodominant Domains of Pfs230 and Pfs48/45 in Malaria Parasites From Western Kenya.
 35655511	Detection of Peripheral Malarial Parasites in Blood Smears Using Deep Learning Models.
-35655434	Allele-aware chromosome-level genome assembly of Artemisia annua reveals the correlation between ADS expansion and artemisinin yield.
-35655325	Establish an allele-specific real-time PCR for Leishmania species identification.
-35655272	Inappropriate use of antibiotics and its predictors in pediatric patients admitted at the Central Hospital of Nampula, Mozambique.
-35655262	Experiment in semi-natural conditions did not confirm the influence of malaria infection on bird attractiveness to mosquitoes.
-35655243	Rapid evolution of insecticide resistance and patterns of pesticides usage in agriculture in the city of Yaoundé, Cameroon.
-35655190	Using ecological observations to improve malaria control in areas where Anopheles funestus is the dominant vector.
-35655174	Evaluation of the Pfs25-IMX313/Matrix-M malaria transmission-blocking candidate vaccine in endemic settings.
