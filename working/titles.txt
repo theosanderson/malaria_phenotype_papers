@@ -1,6 +1,23 @@
-39068937	Effect of weekly fever-screening and treatment and monthly RDT testing and treatment on the infectious reservoir of malaria parasites in Burkina Faso: a cluster-randomised trial.
+39072327	Regulatory T cell homing and activation is a signature of neonatal sepsis.
+39072079	Diversified Synthesis of N-Benzoyl Piperidine Tetraoxane Analogues Using Molybdenum Trioxide as a Newer Catalyst and Its Antiplasmodial Activity.
+39072042	Mass drug administration to reduce malaria incidence in a low-to-moderate endemic setting: short-term impact results from a cluster randomised controlled trial in Senegal.
+39072035	Genetic surveillance reveals low, sustained malaria transmission with clonal replacement in Sao Tome and Principe.
+39072017	Ex vivo susceptibility to antimalarial drugs and polymorphisms in drug resistance genes of African Plasmodium falciparum , 2016-2023: a genotype-phenotype association study.
+39071988	Quality of antiretroviral, antimalarial and antituberculosis medicines in Zambia: Findings of routine post-marketing surveillance.
+39071362	Establishing a Male-Positive Genetic Sexing Strain in the Asian Malaria Vector Anopheles stephensi.
+39071294	MalKinID: A Likelihood-Based Model for Identifying Malaria Parasite Genealogical Relationships Using Identity-by-Descent.
+39071173	Phytochemical Screening and in-vitro Efficacy of Calpurnia aurea Against Two Transovarial Vectors: Amblyomma variegatum and Rhipicephalus microplus.
+39070798	Lisinopril increases lung ACE2 levels and SARS-CoV-2 viral load and decreases inflammation but not disease severity in experimental COVID-19.
+39070760	How long does it take to develop a new drug?
+39070647	Ex vivo susceptibility to antimalarial drugs and polymorphisms in drug resistance genes of African Plasmodium falciparum, 2016-2023: a genotype-phenotype association study.
+39070642	Plasmodium falciparum infection status in children less than 10 years old under seasonal malaria chemoprevention and risk of clinical malaria in the Koulikoro health district, Mali.
+39070602	Target regimen profiles for tuberculosis treatment.
+39070600	New WHO classification of genetic variants causing G6PD deficiency.
+39070449	Evaluation of Outbreak Preparedness to Prevent the Reintroduction of Malaria in Ramanagara District: A Descriptive Epidemiological Study.
+39070230	The bio-larvicide Bacillus thuringiensis var. israelensis is effective against Aedes koreicus, either dissolved in water or delivered through eco-compatible chitosan-based hydrogels.
 39069597	Field evaluation of a volatile pyrethroid spatial repellent and etofenprox treated clothing for outdoor protection against forest malaria vectors in Cambodia.
 39069480	Mouse NOD/Shi and NSY/Hos strains infected with Plasmodium berghei ANKA are models for experimental cerebral malaria.
+39068937	Effect of weekly fever-screening and treatment and monthly RDT testing and treatment on the infectious reservoir of malaria parasites in Burkina Faso: a cluster-randomised trial.
 39068490	Refining the Schistosoma haematobium recombinase polymerase amplification (Sh-RPA) assay: moving towards point-of-care use in endemic settings.
 39068386	Female genital mutilation and its associated factors among adolescent girls and young women in Tanzania: analysis of the 2022 Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS).
 39067885	Surveillance of global, travel-related illness using a novel app: a multivariable, cross-sectional study.
@@ -9980,20 +9997,3 @@
 35659662	Multiple Plasmodium falciparum drug resistance polymorphisms identified in a pregnant woman with severe malaria and a concomitant spontaneous abortion in Cross River, Nigeria, West Africa.
 35659661	The prevalence of symptomatic and asymptomatic malaria and its associated factors in Debre Elias district communities, Northwest Ethiopia.
 35659576	Impact of delayed processing of positive blood cultures on organism detection: a prospective multi-centre study.
-35659301	Leveraging mathematical models of disease dynamics and machine learning to improve development of novel malaria interventions.
-35659291	Trends in malaria indicators after scale-up of community-based malaria management in Afghanistan.
-35659232	Motivators and demotivators to accessing malaria in pregnancy interventions in sub-Saharan Africa: a meta-ethnographic review.
-35659231	Impact of a spatial repellent product on Anopheles and non-Anopheles mosquitoes in Sumba, Indonesia.
-35659108	Role of international network on surveillance and response system leading to malaria elimination: China's engagement in global health.
-35658969	Regional heterogeneity of malaria prevalence and associated risk factors among children under five in Togo: evidence from a national malaria indicators survey.
-35658968	Adherence to national malaria clinical management and testing guidelines in selected private clinics of Gambela Town, Gambela Region, Ethiopia: a mixed method study.
-35658964	Evaluation of sustainable susceptibility to Plasmodium vivax infection among colonized Anopheles darlingi and Anopheles deaneorum.
-35658961	Using Bayesian state-space models to understand the population dynamics of the dominant malaria vector, Anopheles funestus in rural Tanzania.
-35658947	A comparison of malaria prevention behaviours, care-seeking practices and barriers between malaria at-risk worksite migrant workers and villagers in Northern Shan State, Myanmar-a mixed method study.
-35658489	Preparation of Decoquinate Solid Dispersion by Hot-Melt Extrusion as an Oral Dosage Form Targeting Liver-Stage Plasmodium Infection.
-38455314	Low Complexity of Infection Is Associated With Molecular Persistence of Plasmodium falciparum in Kenya and Tanzania.
-35658229	Molnupiravir combined with different repurposed drugs further inhibits SARS-CoV-2 infection in human nasal epithelium in vitro.
-35657389	Analysis and validation of silica-immobilised BST polymerase in loop-mediated isothermal amplification (LAMP) for malaria diagnosis.
-35657097	IgM(+) and IgM(-) memory B cells represent heterogeneous populations capable of producing class-switched antibodies and germinal center B cells upon rechallenge with P. yoelii.
-35656961	Serologic evidence of silent Rift Valley fever virus infection among occupationally exposed persons in northern Nigeria.
-35656478	6″-Modifed α-GalCer-peptide conjugate vaccine candidates protect against liver-stage malaria.
