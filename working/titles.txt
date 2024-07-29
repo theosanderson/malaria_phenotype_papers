@@ -18,6 +18,7 @@
 39069597	Field evaluation of a volatile pyrethroid spatial repellent and etofenprox treated clothing for outdoor protection against forest malaria vectors in Cambodia.
 39069480	Mouse NOD/Shi and NSY/Hos strains infected with Plasmodium berghei ANKA are models for experimental cerebral malaria.
 39068937	Effect of weekly fever-screening and treatment and monthly RDT testing and treatment on the infectious reservoir of malaria parasites in Burkina Faso: a cluster-randomised trial.
+38626187	Babesia duncani, a Model Organism for Investigating Intraerythrocytic Parasitism and Novel Antiparasitic Therapeutic Strategies.
 39068490	Refining the Schistosoma haematobium recombinase polymerase amplification (Sh-RPA) assay: moving towards point-of-care use in endemic settings.
 39068386	Female genital mutilation and its associated factors among adolescent girls and young women in Tanzania: analysis of the 2022 Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS).
 39067885	Surveillance of global, travel-related illness using a novel app: a multivariable, cross-sectional study.
@@ -202,7 +203,6 @@
 39005341	Identification of mCMQ069, a novel antimalarial with potential for a single-dose cure and/or 28-day chemoprevention.
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. Leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
-38626187	Babesia duncani, a Model Organism for Investigating Intraerythrocytic Parasitism and Novel Antiparasitic Therapeutic Strategies.
 30000766	Primaquine.
 30000752	Atovaquone.
 30000538	Atovaquone and Proguanil.
