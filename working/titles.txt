@@ -1,8 +1,8 @@
 39068490	Refining the Schistosoma haematobium recombinase polymerase amplification (Sh-RPA) assay: moving towards point-of-care use in endemic settings.
 39068386	Female genital mutilation and its associated factors among adolescent girls and young women in Tanzania: analysis of the 2022 Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS).
 39067885	Surveillance of global, travel-related illness using a novel app: a multivariable, cross-sectional study.
-39066726	Maternal inflammatory and microbial drivers of low birthweight in low- and middle-income countries.
 39067472	Second malaria vaccine reaches Central African Republic.
+39066726	Maternal inflammatory and microbial drivers of low birthweight in low- and middle-income countries.
 39066687	Identification of natural inhibitors targeting Trehalase of Anopheles funestus in the management of malaria: A Biocomputational assessment.
 39066511	Synthesis, molecular modelling studies of artemisinin-chalcone derivatives and their antimalarial activity evaluation.
 39066431	Immunizing Mice with Influenza Virus-like Particles Expressing the Leishmania amazonensis Promastigote Surface Antigen Alleviates Inflammation in Footpad.
