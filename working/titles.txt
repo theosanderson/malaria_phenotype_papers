@@ -1,3 +1,6 @@
+39075616	Impact of COVID-19 on the neglected tropical diseases: a scoping review.
+39075150	Additional blood meals increase sporozoite infection in Anopheles mosquitoes but not Plasmodium falciparum genetic diversity.
+39075079	Stability analysis of a nonlinear malaria transmission epidemic model using an effective numerical scheme.
 39074295	Precision-guided tools for malaria control.
 39074292	Correction for Fierro et al., Knock-sideways by inducible ER retrieval enables a unique approach for studying Plasmodium-secreted proteins.
 39074161	Association of a rapidly selected 4.3kb transposon-containing structural variation with a P450-based resistance to pyrethroids in the African malaria vector Anopheles funestus.
@@ -207,7 +210,6 @@
 39005341	Identification of mCMQ069, a novel antimalarial with potential for a single-dose cure and/or 28-day chemoprevention.
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. Leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
-38626187	Babesia duncani, a Model Organism for Investigating Intraerythrocytic Parasitism and Novel Antiparasitic Therapeutic Strategies.
 30000766	Primaquine.
 30000752	Atovaquone.
 30000538	Atovaquone and Proguanil.
@@ -598,7 +600,7 @@
 38865396	Geographic heterogeneity of SARS-CoV-2 circulation in Abidjan, Ivory Coast: a prospective study.
 38865344	Evaluation of transmission-blocking potential of PvPSOP25 using transgenic murine malaria parasite and clinical isolates.
 38864616	Transcriptional responses of brain endothelium to Plasmodium falciparum patient-derived isolates in vitro.
-38864359	Collective and Diverted Total Synthesis of the Strasseriolides: A Family of Macrolides Endowed with Potent Antiplasmodial and AntitrypanosomalActivity.
+38864359	Collective and Diverted Total Synthesis of the Strasseriolides: A Family of Macrolides Endowed with Potent Antiplasmodial and Antitrypanosomal Activity.
 38863702	Immunization with PfGBP130 generates antibodies that inhibit RBC invasion by P. falciparum parasites.
 38863149	[Significant increase in malaria deaths in Germany after the end of the COVID-19 pandemic].
 38863067	Impact of targeted drug administration and intermittent preventive treatment for forest goers using artesunate-pyronaridine to control malaria outbreaks in Cambodia.
@@ -9995,5 +9997,3 @@
 35661741	Discontinuing atovaquone/proguanil prophylaxis ad-hoc post-exposure and during-travel dose-sparing prophylactic regimens against P. falciparum malaria: An update with pointers for future research.
 35661702	Optimization of the heterologous expression and purification of Plasmodium falciparum generative cell specific 1 in Escherichia coli.
 35661626	Malaria artemisinin resistance: an extracellular vesicles export hypothesis.
-35660981	Discovery and genome sequencing of a new virus related to members of the family Tymoviridae, isolated from mosquitoes of the genus Mansonia in Brazil.
-35659899	Vector control strategy for Anopheles stephensi in Africa.
