@@ -1,3 +1,6 @@
+39076790	Video-tracked Anopheles arabiensis entry and exit behaviour at washed and damaged pyrethroid-treated bednets.
+39076603	Strengthening capacity-building in malaria and schistosomiasis control under China-Africa cooperation: Assessing a case study of Burkina Faso.
+39076372	Disentangling the seasonality effects of malaria transmission in the Brazilian Amazon basin.
 39075616	Impact of COVID-19 on the neglected tropical diseases: a scoping review.
 39075150	Additional blood meals increase sporozoite infection in Anopheles mosquitoes but not Plasmodium falciparum genetic diversity.
 39075079	Stability analysis of a nonlinear malaria transmission epidemic model using an effective numerical scheme.
@@ -9994,6 +9997,3 @@
 35663000	Relative contribution of low-density and asymptomatic infections to Plasmodium vivax transmission in the Amazon: pooled analysis of individual participant data from population-based cross-sectional surveys.
 35662391	Glutathione S-transferase (GST) genes and their function associated with pyrethroid resistance in the malaria vector Anopheles sinensis.
 35662084	Tafenoquine for Plasmodium vivax malaria: Concerns regarding efficacy & safety.
-35661741	Discontinuing atovaquone/proguanil prophylaxis ad-hoc post-exposure and during-travel dose-sparing prophylactic regimens against P. falciparum malaria: An update with pointers for future research.
-35661702	Optimization of the heterologous expression and purification of Plasmodium falciparum generative cell specific 1 in Escherichia coli.
-35661626	Malaria artemisinin resistance: an extracellular vesicles export hypothesis.
