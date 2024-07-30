@@ -1,3 +1,8 @@
+39074295	Precision-guided tools for malaria control.
+39074292	Correction for Fierro et al., Knock-sideways by inducible ER retrieval enables a unique approach for studying Plasmodium-secreted proteins.
+39074161	Association of a rapidly selected 4.3kb transposon-containing structural variation with a P450-based resistance to pyrethroids in the African malaria vector Anopheles funestus.
+39074148	Cost-effectiveness of sentinel screening of endemic diseases alongside malaria diagnosis: A case study in schistosomiasis.
+39074113	Improving malaria case management with artemisinin-based combination therapies and malaria rapid diagnostic tests in private medicine retail outlets in sub-Saharan Africa: A systematic review.
 39072327	Regulatory T cell homing and activation is a signature of neonatal sepsis.
 39072079	Diversified Synthesis of N-Benzoyl Piperidine Tetraoxane Analogues Using Molybdenum Trioxide as a Newer Catalyst and Its Antiplasmodial Activity.
 39072042	Mass drug administration to reduce malaria incidence in a low-to-moderate endemic setting: short-term impact results from a cluster randomised controlled trial in Senegal.
@@ -18,7 +23,6 @@
 39069597	Field evaluation of a volatile pyrethroid spatial repellent and etofenprox treated clothing for outdoor protection against forest malaria vectors in Cambodia.
 39069480	Mouse NOD/Shi and NSY/Hos strains infected with Plasmodium berghei ANKA are models for experimental cerebral malaria.
 39068937	Effect of weekly fever-screening and treatment and monthly RDT testing and treatment on the infectious reservoir of malaria parasites in Burkina Faso: a cluster-randomised trial.
-38626187	Babesia duncani, a Model Organism for Investigating Intraerythrocytic Parasitism and Novel Antiparasitic Therapeutic Strategies.
 39068490	Refining the Schistosoma haematobium recombinase polymerase amplification (Sh-RPA) assay: moving towards point-of-care use in endemic settings.
 39068386	Female genital mutilation and its associated factors among adolescent girls and young women in Tanzania: analysis of the 2022 Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS).
 39067885	Surveillance of global, travel-related illness using a novel app: a multivariable, cross-sectional study.
@@ -203,6 +207,7 @@
 39005341	Identification of mCMQ069, a novel antimalarial with potential for a single-dose cure and/or 28-day chemoprevention.
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. Leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
+38626187	Babesia duncani, a Model Organism for Investigating Intraerythrocytic Parasitism and Novel Antiparasitic Therapeutic Strategies.
 30000766	Primaquine.
 30000752	Atovaquone.
 30000538	Atovaquone and Proguanil.
@@ -9992,8 +9997,3 @@
 35661626	Malaria artemisinin resistance: an extracellular vesicles export hypothesis.
 35660981	Discovery and genome sequencing of a new virus related to members of the family Tymoviridae, isolated from mosquitoes of the genus Mansonia in Brazil.
 35659899	Vector control strategy for Anopheles stephensi in Africa.
-35659684	Simultaneous and enantiospecific quantification of primaquine and carboxyprimaquine in human plasma using liquid chromatography-tandem mass spectrometry.
-35659662	Multiple Plasmodium falciparum drug resistance polymorphisms identified in a pregnant woman with severe malaria and a concomitant spontaneous abortion in Cross River, Nigeria, West Africa.
-35659661	The prevalence of symptomatic and asymptomatic malaria and its associated factors in Debre Elias district communities, Northwest Ethiopia.
-35659576	Impact of delayed processing of positive blood cultures on organism detection: a prospective multi-centre study.
-35659301	Leveraging mathematical models of disease dynamics and machine learning to improve development of novel malaria interventions.
