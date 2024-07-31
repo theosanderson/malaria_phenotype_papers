@@ -1,3 +1,6 @@
+39080468	Long lasting insecticidal nets utilization and associated factors among households of West Arsi Zone, Oromia Region, Ethiopia.
+39079616	Mutations in Plasmodium falciparum PfK13 dysregulates PI3K/AKT signalling pathway in Artemisinin Resistance.
+39079373	Genetic variation present in the CYP3A4 gene in Ni-Vanuatu and Kenyan populations in malaria endemicity.
 39076790	Video-tracked Anopheles arabiensis entry and exit behaviour at washed and damaged pyrethroid-treated bednets.
 39076372	Disentangling the seasonality effects of malaria transmission in the Brazilian Amazon basin.
 39075616	Impact of COVID-19 on the neglected tropical diseases: a scoping review.
@@ -102,7 +105,7 @@
 39043812	Transcriptomic analyses of differentially expressed human genes, micro RNAs and long-non-coding RNAs in severe, symptomatic and asymptomatic malaria infection.
 39043761	Diversity and ecological niche model of malaria vector and non-vector mosquito species in Covè, Ouinhi, and Zangnanado, Southern Benin.
 39043350	Specific and cumulative infection burden and mild cognitive impairment and dementia: A population-based study.
-39043327	THE ACTIVITIES OF SUAVEOLOL AND OTHER COMPOUNDS FROM HYPTIS SUAVEOLENS AND MOMORDICA CHARANTIA AGAINST THE AETIOLOGICAL AGENTS OF AFRICAN TRYPANOSOMIASIS, LEISHMANIASIS AND MALARIA.
+39043327	The activities of suaveolol and other compounds from Hyptis suaveolens and Momordica charantia against the aetiological agents of African trypanosomiasis, leishmaniasis and malaria.
 39043264	Repurposing antiplasmodial leads for cancer: Exploring the antiproliferative effects of N-cinnamoyl-aminoacridines.
 39043249	Underdiagnosis of arbovirus infections in returned travelers in an area with growing circulation of Aedes albopictus in North-Eastern France.
 39043243	Review on the impacts of indoor vector control on domiciliary pests: good intentions challenged by harsh realities.
@@ -9994,6 +9997,3 @@
 35664997	Impact of a blood-stage vaccine on Plasmodium vivax malaria.
 35663999	Machine Learning-Assisted Screening of Herbal Medicine Extracts as Vaccine Adjuvants.
 35663028	Neuregulin-1/ErbB4 signaling modulates Plasmodium falciparum HRP2-induced damage to brain cortical organoids.
-35663000	Relative contribution of low-density and asymptomatic infections to Plasmodium vivax transmission in the Amazon: pooled analysis of individual participant data from population-based cross-sectional surveys.
-35662391	Glutathione S-transferase (GST) genes and their function associated with pyrethroid resistance in the malaria vector Anopheles sinensis.
-35662084	Tafenoquine for Plasmodium vivax malaria: Concerns regarding efficacy & safety.
