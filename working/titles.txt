@@ -1,6 +1,11 @@
+39081619	Determinants of Hemoglobin Among Pregnant Women at Agro-Pastoralist Communities in South Omo Zone, Ethiopia: Community Based Cross-Sectional Study, Nutrition Experience from Movable Community.
+39081142	Long-lasting residual efficacy of Actellic®300CS and Icon®10CS on different surfaces against Anopheles stephensi, an invasive malaria vector.
+39080748	Assessing receptivity to malaria using case surveillance and forest data in a near-elimination setting in northeast Thailand.
+39080697	The Uganda housing modification study - association between housing characteristics and malaria burden in a moderate to high transmission setting in Uganda.
+39080691	Utilization of integrated community-based case management of childhood illness and associated factors in Ethiopia: a systematic review and meta-analysis.
+39080468	Long lasting insecticidal nets utilization and associated factors among households of West Arsi Zone, Oromia Region, Ethiopia.
 39079616	Mutations in Plasmodium falciparum PfK13 dysregulates PI3K/AKT signalling pathway in Artemisinin Resistance.
 39079373	Genetic variation present in the CYP3A4 gene in Ni-Vanuatu and Kenyan populations in malaria endemicity.
-39080468	Long lasting insecticidal nets utilization and associated factors among households of West Arsi Zone, Oromia Region, Ethiopia.
 39076790	Video-tracked Anopheles arabiensis entry and exit behaviour at washed and damaged pyrethroid-treated bednets.
 39076372	Disentangling the seasonality effects of malaria transmission in the Brazilian Amazon basin.
 39075616	Impact of COVID-19 on the neglected tropical diseases: a scoping review.
@@ -5391,6 +5396,7 @@
 37219373	A novel Modulator of Ring Stage Translation (MRST) gene alters artemisinin sensitivity in Plasmodium falciparum.
 37219047	Integration and application of new approach methodologies in assessing the developmental hazards: Case study with an antimalarial drug.
 37219006	OMIP-93: A 41-color high parameter panel to characterize various co-inhibitory molecules and their ligands in the lymphoid and myeloid compartment in mice.
+37218197	Recent Updates on Interaction Studies and Drug Delivery of Antimalarials with Serum Albumin Proteins.
 37218195	Therapeutic Application of Pineapple: A Review.
 37217984	Performance of the procedure for ultra-rapid extraction and loop-mediated isothermal amplification (PURE-LAMP) method to detect malaria in Haiti.
 37217235	A shared agenda for gender and COVID-19 research: priorities based on broadening engagement in science.
@@ -9991,9 +9997,3 @@
 35668202	Gametocyte-specific and all-blood-stage transmission-blocking chemotypes discovered from high throughput screening on Plasmodium falciparum gametocytes.
 35667992	African Plasmodium vivax malaria improbably rare or benign.
 35667599	A brief history of malaria.
-35667524	Safety of treating malaria with artemisinin-based combination therapy in the first trimester of pregnancy.
-35665720	Updates in central nervous system malaria: literature review and considerations.
-35665597	Mechanisms of 8-aminoquinoline induced haemolytic toxicity in a G6PDd humanized mouse model.
-35664997	Impact of a blood-stage vaccine on Plasmodium vivax malaria.
-35663999	Machine Learning-Assisted Screening of Herbal Medicine Extracts as Vaccine Adjuvants.
-35663028	Neuregulin-1/ErbB4 signaling modulates Plasmodium falciparum HRP2-induced damage to brain cortical organoids.
