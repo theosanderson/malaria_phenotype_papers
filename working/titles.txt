@@ -1,3 +1,6 @@
+39083679	A countrywide survey of hrp2/3 deletions and kelch13 mutation co-occurrence in Ethiopia.
+39083589	A comparative immunological assessment of multiple clinical-stage adjuvants for the R21 malaria vaccine in nonhuman primates.
+39083524	Correction: Beyond eves and cracks: An interdisciplinary study of socio-spatial variation in urban malaria transmission in Ethiopia.
 39082882	Efficacy assessment of miltefosine and curcumin against Clonorchis sinensis infection.
 39082563	A snapshot of a representative Brazilian state of illegal mining in indigenous areas during the era of malaria elimination.
 39082488	Mass Spectrometric and Artificial Intelligence-Based Identification of the Secretome of Plasmodium falciparum Merozoites to Provide Novel Candidates for Vaccine Development Pipeline.
@@ -9994,6 +9997,3 @@
 35669054	Scalable Process for High-Yield Production of PfCyRPA Using Insect Cells for Inclusion in a Malaria Virosome-Based Vaccine Candidate.
 35668841	A phase II, double blind, placebo-controlled, randomized evaluation of the safety and efficacy of tafenoquine in patients with mild-moderate COVID-19 disease.
 35668761	Malaria-Transmitting Vectors Microbiota: Overview and Interactions With Anopheles Mosquito Biology.
-35668541	Medicinal plant use, conservation, and the associated traditional knowledge in rural communities in Eastern Uganda.
-35668501	Plasmodium infection suppresses colon cancer growth by inhibiting proliferation and promoting apoptosis associated with disrupting mitochondrial biogenesis and mitophagy in mice.
-35668378	Causes of deaths in neonates and children aged 1-59 months in Nigeria: verbal autopsy findings of 2019 Verbal and Social Autopsy study.
