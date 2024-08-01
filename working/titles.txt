@@ -1,3 +1,4 @@
+39087773	Obesity, diabetes, Plasmodium infection, and severe malaria in adults: A systematic review and meta-analysis.
 39087267	Enhancing the Intrinsic Antiplasmodial Activity and Improving the Stability and Selectivity of a Tunable Peptide Scaffold Derived from Human Platelet Factor 4.
 39086506	Expression patterns of immune checkpoint proteins and Plasmodium falciparum-induced cytokines in chronic hepatitis B virus-infected and uninfected individuals: A cross-sectional study.
 39085983	A landscape review of malaria vaccine candidates in the pipeline.
@@ -9996,4 +9997,3 @@
 35672022	[Malaria and its importance in travel medicine].
 35671782	Cyt1Aa toxin gene frequency in Bacillus thuringiensis isolates and its relation with pathogenicity for vector mosquitoes.
 35670928	An update on cerebral malaria for therapeutic intervention.
-35670892	Geometry effect in multi-step crossflow microfluidic devices for red blood cells separation and deformability assessment.
