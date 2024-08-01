@@ -1,3 +1,11 @@
+39085983	A landscape review of malaria vaccine candidates in the pipeline.
+39085888	Mosquito Shield™, a transfluthrin passive emanator, protects against pyrethroid-resistant Anopheles gambiae sensu lato in central Benin.
+39085813	Community education training to optimize the use of artemisinin-based combination therapy in Kamuli District, Uganda.
+39084774	Impact of sub chronic administration of deltamethrin on autoimmune activity in rat.
+39084459	Functionality of the V-type ATPase during asexual growth and development of Plasmodium falciparum.
+39084311	Primaquine-induced hemolysis in a Colombian patient with glucose-6-phosphate dehydrogenase deficiency.
+39084225	Identification of potent and reversible piperidine carboxamides that are species-selective orally active proteasome inhibitors to treat malaria.
+39084212	Improving Coordination to Strengthen Operationalization of Malaria Surveillance and Routine Data Quality: Landscape Analysis of Current Surveillance-Related Initiatives.
 39083679	A countrywide survey of hrp2/3 deletions and kelch13 mutation co-occurrence in Ethiopia.
 39083589	A comparative immunological assessment of multiple clinical-stage adjuvants for the R21 malaria vaccine in nonhuman primates.
 39083524	Correction: Beyond eves and cracks: An interdisciplinary study of socio-spatial variation in urban malaria transmission in Ethiopia.
@@ -9989,11 +9997,3 @@
 35670892	Geometry effect in multi-step crossflow microfluidic devices for red blood cells separation and deformability assessment.
 35670601	Molecular Surveillance of Artemisinin-Based Combination Therapies Resistance in Plasmodium falciparum Parasites from Bioko Island, Equatorial Guinea.
 35670460	Plasmodium falciparum metacaspase-2 capture its natural substrate in a non-canonical way.
-35670344	Assessment of the Anti-Malarial Properties of Dihydroartemisinin- Piperaquine Phosphate Solid Lipid-Based Tablets.
-35669785	Immunization with CSP and a RIG-I Agonist is Effective in Inducing a Functional and Protective Humoral Response Against Plasmodium.
-35669401	The Causes of Death and Their Influence in Life Expectancy of Children Aged 5-14 Years in Low- and Middle-Income Countries From 1990 to 2019.
-35669122	Recent Advances in Host-Directed Therapies for Tuberculosis and Malaria.
-35669121	Editorial: Advances on the Gametocyte Biology, Host Immunity and Vector Stages to Interrupt the Transmission of Malaria.
-35669054	Scalable Process for High-Yield Production of PfCyRPA Using Insect Cells for Inclusion in a Malaria Virosome-Based Vaccine Candidate.
-35668841	A phase II, double blind, placebo-controlled, randomized evaluation of the safety and efficacy of tafenoquine in patients with mild-moderate COVID-19 disease.
-35668761	Malaria-Transmitting Vectors Microbiota: Overview and Interactions With Anopheles Mosquito Biology.
