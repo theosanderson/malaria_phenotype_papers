@@ -1,11 +1,11 @@
-39085983	A landscape review of malaria vaccine candidates in the pipeline.
-39085888	Mosquito Shield™, a transfluthrin passive emanator, protects against pyrethroid-resistant Anopheles gambiae sensu lato in central Benin.
 39085813	Community education training to optimize the use of artemisinin-based combination therapy in Kamuli District, Uganda.
 39084774	Impact of sub chronic administration of deltamethrin on autoimmune activity in rat.
 39084459	Functionality of the V-type ATPase during asexual growth and development of Plasmodium falciparum.
 39084311	Primaquine-induced hemolysis in a Colombian patient with glucose-6-phosphate dehydrogenase deficiency.
 39084225	Identification of potent and reversible piperidine carboxamides that are species-selective orally active proteasome inhibitors to treat malaria.
 39084212	Improving Coordination to Strengthen Operationalization of Malaria Surveillance and Routine Data Quality: Landscape Analysis of Current Surveillance-Related Initiatives.
+39085983	A landscape review of malaria vaccine candidates in the pipeline.
+39085888	Mosquito Shield™, a transfluthrin passive emanator, protects against pyrethroid-resistant Anopheles gambiae sensu lato in central Benin.
 39083679	A countrywide survey of hrp2/3 deletions and kelch13 mutation co-occurrence in Ethiopia.
 39083589	A comparative immunological assessment of multiple clinical-stage adjuvants for the R21 malaria vaccine in nonhuman primates.
 39083524	Correction: Beyond eves and cracks: An interdisciplinary study of socio-spatial variation in urban malaria transmission in Ethiopia.
