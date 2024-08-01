@@ -1,11 +1,13 @@
+39087267	Enhancing the Intrinsic Antiplasmodial Activity and Improving the Stability and Selectivity of a Tunable Peptide Scaffold Derived from Human Platelet Factor 4.
+39086506	Expression patterns of immune checkpoint proteins and Plasmodium falciparum-induced cytokines in chronic hepatitis B virus-infected and uninfected individuals: A cross-sectional study.
+39085983	A landscape review of malaria vaccine candidates in the pipeline.
+39085888	Mosquito Shield™, a transfluthrin passive emanator, protects against pyrethroid-resistant Anopheles gambiae sensu lato in central Benin.
 39085813	Community education training to optimize the use of artemisinin-based combination therapy in Kamuli District, Uganda.
 39084774	Impact of sub chronic administration of deltamethrin on autoimmune activity in rat.
 39084459	Functionality of the V-type ATPase during asexual growth and development of Plasmodium falciparum.
 39084311	Primaquine-induced hemolysis in a Colombian patient with glucose-6-phosphate dehydrogenase deficiency.
 39084225	Identification of potent and reversible piperidine carboxamides that are species-selective orally active proteasome inhibitors to treat malaria.
 39084212	Improving Coordination to Strengthen Operationalization of Malaria Surveillance and Routine Data Quality: Landscape Analysis of Current Surveillance-Related Initiatives.
-39085983	A landscape review of malaria vaccine candidates in the pipeline.
-39085888	Mosquito Shield™, a transfluthrin passive emanator, protects against pyrethroid-resistant Anopheles gambiae sensu lato in central Benin.
 39083679	A countrywide survey of hrp2/3 deletions and kelch13 mutation co-occurrence in Ethiopia.
 39083589	A comparative immunological assessment of multiple clinical-stage adjuvants for the R21 malaria vaccine in nonhuman primates.
 39083524	Correction: Beyond eves and cracks: An interdisciplinary study of socio-spatial variation in urban malaria transmission in Ethiopia.
@@ -34,7 +36,7 @@
 39072079	Diversified Synthesis of N-Benzoyl Piperidine Tetraoxane Analogues Using Molybdenum Trioxide as a Newer Catalyst and Its Antiplasmodial Activity.
 39072042	Mass drug administration to reduce malaria incidence in a low-to-moderate endemic setting: short-term impact results from a cluster randomised controlled trial in Senegal.
 39072035	Genetic surveillance reveals low, sustained malaria transmission with clonal replacement in Sao Tome and Principe.
-39072017	Ex vivo susceptibility to antimalarial drugs and polymorphisms in drug resistance genes of African Plasmodium falciparum , 2016-2023: a genotype-phenotype association study.
+39072017	Ex vivo susceptibility to antimalarial drugs and polymorphisms in drug resistance genes of African Plasmodium falciparum, 2016-2023: a genotype-phenotype association study.
 39071988	Quality of antiretroviral, antimalarial and antituberculosis medicines in Zambia: Findings of routine post-marketing surveillance.
 39071362	Establishing a Male-Positive Genetic Sexing Strain in the Asian Malaria Vector Anopheles stephensi.
 39071294	MalKinID: A Likelihood-Based Model for Identifying Malaria Parasite Genealogical Relationships Using Identity-by-Descent.
@@ -9995,5 +9997,3 @@
 35671782	Cyt1Aa toxin gene frequency in Bacillus thuringiensis isolates and its relation with pathogenicity for vector mosquitoes.
 35670928	An update on cerebral malaria for therapeutic intervention.
 35670892	Geometry effect in multi-step crossflow microfluidic devices for red blood cells separation and deformability assessment.
-35670601	Molecular Surveillance of Artemisinin-Based Combination Therapies Resistance in Plasmodium falciparum Parasites from Bioko Island, Equatorial Guinea.
-35670460	Plasmodium falciparum metacaspase-2 capture its natural substrate in a non-canonical way.
