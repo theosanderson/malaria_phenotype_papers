@@ -1,13 +1,13 @@
-39090726	Correction: Anesthetic approach to pregnant patients with malaria: a narrative review of the literature.
-39090669	Poly-basic peptides and polymers as new drug candidates against Plasmodium falciparum.
 39090658	Semi-field evaluation of aquatic predators for the control of Anopheles funestus in rural south-eastern Tanzania.
-39090649	Correction: Antimalarial efficacy test of the aqueous crude leaf extract of Coriandrum sativum Linn.: an in vivo multiple model experimental study in mice infected with Plasmodium berghei.
 39090589	Malaria community case management usage and quality of malaria care in a moderate Plasmodium falciparum burden region of Chadiza District, Zambia.
 39089959	The use of community-oriented primary care (COPC) model to generate vaccine demand: The case of a remote fishing community in Cameroon.
 39089593	Relationship between the root processing method and quality of herbal medicine of Rauvolfia serpentina cultivated in Japan.
 39089500	Gene expression analysis of Anopheles Meigen, 1818 (Diptera: Culicidae) innate immunity after Plasmodium Marchiafava & Celli, 1885 (Apicomplexa) infection: Toward developing new malaria control strategies.
 39089252	Molecular mechanism of distinct chemokine engagement and functional divergence of the human Duffy antigen receptor.
 39089130	Synthetic hemozoin as a nanocarrier for cross-presentation.
+39090726	Correction: Anesthetic approach to pregnant patients with malaria: a narrative review of the literature.
+39090669	Poly-basic peptides and polymers as new drug candidates against Plasmodium falciparum.
+39090649	Correction: Antimalarial efficacy test of the aqueous crude leaf extract of Coriandrum sativum Linn.: an in vivo multiple model experimental study in mice infected with Plasmodium berghei.
 39088453	Acute febrile illness in Kenya: Clinical characteristics and pathogens detected among patients hospitalized with fever, 2017-2019.
 39088368	Progress Toward the Elimination of Hepatitis B and Hepatitis C in the Country of Georgia, April 2015-April 2024.
 39088320	Substrate promiscuity of key resistance P450s confers clothianidin resistance while increasing chlorfenapyr potency in malaria vectors.
