@@ -1,3 +1,6 @@
+39088453	Acute febrile illness in Kenya: Clinical characteristics and pathogens detected among patients hospitalized with fever, 2017-2019.
+39088368	Progress Toward the Elimination of Hepatitis B and Hepatitis C in the Country of Georgia, April 2015-April 2024.
+39088320	Substrate promiscuity of key resistance P450s confers clothianidin resistance while increasing chlorfenapyr potency in malaria vectors.
 39087773	Obesity, diabetes, Plasmodium infection, and severe malaria in adults: A systematic review and meta-analysis.
 39087267	Enhancing the Intrinsic Antiplasmodial Activity and Improving the Stability and Selectivity of a Tunable Peptide Scaffold Derived from Human Platelet Factor 4.
 39086506	Expression patterns of immune checkpoint proteins and Plasmodium falciparum-induced cytokines in chronic hepatitis B virus-infected and uninfected individuals: A cross-sectional study.
@@ -9157,7 +9160,6 @@
 35921373	Impact of Epstein-Barr virus co-infection on natural acquired Plasmodium vivax antibody response.
 35921329	Onchocerciasis: Target product profiles of in vitro diagnostics to support onchocerciasis elimination mapping and mass drug administration stopping decisions.
 35920811	Hematopoietic plasticity mapped in Drosophila and other insects.
-35920314	Avian haemosporidian infections in rufous-collared sparrows in an Andean dry forest: diversity and factors related to prevalence and parasitaemia - CORRIGENDUM.
 35920043	Plasmodium berghei leucine-rich repeat protein 1 downregulates protein phosphatase 1 activity and is required for efficient oocyst development.
 35919478	Evaluation of Malaria Standard Microscopy and Rapid Diagnostic Tests for Screening - Southern Tanzania, 2018-2019.
 35919477	Surveillance and Response to Imported Malaria During the COVID-19 Epidemic - Anhui Province, China, 2019-2021.
@@ -9995,5 +9997,3 @@
 35672076	Social innovations to increase health coverage: evidence from a crowdsourcing contest in Ghana.
 35672024	[Baby on board - recommendations for pediatric travel consultation].
 35672022	[Malaria and its importance in travel medicine].
-35671782	Cyt1Aa toxin gene frequency in Bacillus thuringiensis isolates and its relation with pathogenicity for vector mosquitoes.
-35670928	An update on cerebral malaria for therapeutic intervention.
