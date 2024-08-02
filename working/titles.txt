@@ -1,13 +1,18 @@
+39092325	Haematological Profile in Patients With Acute Falciparum Malaria: A Hospital-Based Study.
+39091994	Health facility-based prevalence of typhoid fever, typhus and malaria among individuals suspected of acute febrile illnesses in Southwest Region, Ethiopia.
+39091401	Exploring the hidden mental health consequences of malaria beyond the fever.
+39091337	Range dynamics of Anopheles mosquitoes in Africa suggest a significant increase in the malaria transmission risk.
+39091298	In vitro extracellular replication of Wolbachia endobacteria.
+39090726	Correction: Anesthetic approach to pregnant patients with malaria: a narrative review of the literature.
+39090669	Poly-basic peptides and polymers as new drug candidates against Plasmodium falciparum.
 39090658	Semi-field evaluation of aquatic predators for the control of Anopheles funestus in rural south-eastern Tanzania.
+39090649	Correction: Antimalarial efficacy test of the aqueous crude leaf extract of Coriandrum sativum Linn.: an in vivo multiple model experimental study in mice infected with Plasmodium berghei.
 39090589	Malaria community case management usage and quality of malaria care in a moderate Plasmodium falciparum burden region of Chadiza District, Zambia.
 39089959	The use of community-oriented primary care (COPC) model to generate vaccine demand: The case of a remote fishing community in Cameroon.
 39089593	Relationship between the root processing method and quality of herbal medicine of Rauvolfia serpentina cultivated in Japan.
 39089500	Gene expression analysis of Anopheles Meigen, 1818 (Diptera: Culicidae) innate immunity after Plasmodium Marchiafava & Celli, 1885 (Apicomplexa) infection: Toward developing new malaria control strategies.
 39089252	Molecular mechanism of distinct chemokine engagement and functional divergence of the human Duffy antigen receptor.
 39089130	Synthetic hemozoin as a nanocarrier for cross-presentation.
-39090726	Correction: Anesthetic approach to pregnant patients with malaria: a narrative review of the literature.
-39090669	Poly-basic peptides and polymers as new drug candidates against Plasmodium falciparum.
-39090649	Correction: Antimalarial efficacy test of the aqueous crude leaf extract of Coriandrum sativum Linn.: an in vivo multiple model experimental study in mice infected with Plasmodium berghei.
 39088453	Acute febrile illness in Kenya: Clinical characteristics and pathogens detected among patients hospitalized with fever, 2017-2019.
 39088368	Progress Toward the Elimination of Hepatitis B and Hepatitis C in the Country of Georgia, April 2015-April 2024.
 39088320	Substrate promiscuity of key resistance P450s confers clothianidin resistance while increasing chlorfenapyr potency in malaria vectors.
@@ -9992,8 +9997,3 @@
 35675349	Oxidative stress and associated clinical manifestations in malaria and sickle cell (HbSS) comorbidity.
 35675322	Soluble Urokinase-Type Plasminogen Activator Receptor as a Prognostic Marker of Ugandan Children at Risk of Severe and Fatal Malaria.
 35675273	"I would have to sell things in order to get the money": A qualitative exploration of willingness to pay for the RTS,S/AS01 malaria vaccine in the Volta region, Ghana.
-35674419	Plasmodium spp. in macaques, Macaca fascicularis, in Malaysia, and their potential role in zoonotic malaria transmission.
-35672852	Systems biology of malaria explored with nonhuman primates.
-35672850	Dry season prevalence of Plasmodium falciparum in asymptomatic gambian children, with a comparative evaluation of diagnostic methods.
-35672848	A microfluidic paper analytical device using capture aptamers for the detection of PfLDH in blood matrices.
-35672772	Comparison of two malaria multiplex immunoassays that enable quantification of malaria antigens.
