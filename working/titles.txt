@@ -1,3 +1,8 @@
+39095782	An observational analysis of the impact of indoor residual spraying in two distinct contexts of Burkina Faso.
+39095205	Primaquine-5,6-orthoquinone is directly hemolytic to older G6PD deficient RBCs in a humanized mouse model.
+39095112	PfEMP1 and var genes - Still of key importance in Plasmodium falciparum malaria pathogenesis and immunity.
+39095110	New directions for malaria vector control using geography and geospatial analysis.
+39094745	Normothermic liver machine perfusion as a dynamic platform for assessment and treatment of organs from a donor with Malaria - expending the indications.
 39094056	Cytoskeleton Organization in Formation and Motility of Apicomplexan Parasites.
 39092913	NDV targets the invasion pathway in malaria parasite through cell surface sialic acid interaction.
 39092325	Haematological Profile in Patients With Acute Falciparum Malaria: A Hospital-Based Study.
@@ -41,7 +46,7 @@
 39080697	The Uganda housing modification study - association between housing characteristics and malaria burden in a moderate to high transmission setting in Uganda.
 39080691	Utilization of integrated community-based case management of childhood illness and associated factors in Ethiopia: a systematic review and meta-analysis.
 39080468	Long lasting insecticidal nets utilization and associated factors among households of West Arsi Zone, Oromia Region, Ethiopia.
-39079616	Mutations in Plasmodium falciparum PfK13 dysregulates PI3K/AKT signalling pathway in Artemisinin Resistance.
+39079616	Mutations in Plasmodium falciparum Kelch13 (PfK13) dysregulates PI3K/AKT signalling pathway in artemisinin resistance.
 39079373	Genetic variation present in the CYP3A4 gene in Ni-Vanuatu and Kenyan populations in malaria endemicity.
 39076790	Video-tracked Anopheles arabiensis entry and exit behaviour at washed and damaged pyrethroid-treated bednets.
 39076372	Disentangling the seasonality effects of malaria transmission in the Brazilian Amazon basin.
@@ -9992,8 +9997,3 @@
 35677565	De Novo Assembly of Plasmodium knowlesi Genomes From Clinical Samples Explains the Counterintuitive Intrachromosomal Organization of Variant SICAvar and kir Multiple Gene Family Members.
 35677007	Scrub Typhus Co-Infections in a Young Boy With Varicella and Malaria: A Rare Case Report.
 35676898	Family-Assisted Severity of Illness Monitoring for Hospitalized Children in Low-Resource Settings-A Two-Arm Interventional Feasibility Study.
-35676728	Historical overview and update on relapsing fever group Borrelia in Latin America.
-35676692	Global water quality changes posing threat of increasing infectious diseases, a case study on malaria vector Anopheles stephensi coping with the water pollutants using age-stage, two-sex life table method.
-35676275	The impact of malaria-protective red blood cell polymorphisms on parasite biomass in children with severe Plasmodium falciparum malaria.
-35675994	Liberty ship sinking disrupts military medical mobilisation in 1942.
-35675349	Oxidative stress and associated clinical manifestations in malaria and sickle cell (HbSS) comorbidity.
