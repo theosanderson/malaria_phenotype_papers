@@ -1,3 +1,4 @@
+39094056	Cytoskeleton Organization in Formation and Motility of Apicomplexan Parasites.
 39092913	NDV targets the invasion pathway in malaria parasite through cell surface sialic acid interaction.
 39092325	Haematological Profile in Patients With Acute Falciparum Malaria: A Hospital-Based Study.
 39091994	Health facility-based prevalence of typhoid fever, typhus and malaria among individuals suspected of acute febrile illnesses in Southwest Region, Ethiopia.
@@ -9996,4 +9997,3 @@
 35676275	The impact of malaria-protective red blood cell polymorphisms on parasite biomass in children with severe Plasmodium falciparum malaria.
 35675994	Liberty ship sinking disrupts military medical mobilisation in 1942.
 35675349	Oxidative stress and associated clinical manifestations in malaria and sickle cell (HbSS) comorbidity.
-35675322	Soluble Urokinase-Type Plasminogen Activator Receptor as a Prognostic Marker of Ugandan Children at Risk of Severe and Fatal Malaria.
