@@ -1,3 +1,8 @@
+39101106	Plasmodium falciparum transmission based on merozoite surface protein 1 (msp1) and 2 (msp2) gene diversity and antibody responses in Ibadan, Nigeria.
+39100623	Embedded-deep-learning-based sample-to-answer device for on-site malaria diagnosis.
+39100469	Intraspecific sensilla dimorphism in Ascoschoengastia indica (Prostigmata, Trombiculidae).
+39100392	Talking About Gene Drive in Uganda: The Need for Science Communication to Underpin Engagement.
+39100316	Liquid Redox Probe-Free Plastic Antibody Development for Malaria Biomarker Recognition.
 39098946	Spatiotemporal patterns and association with climate for malaria elimination in Lao PDR: a hierarchical modelling analysis with two-step Bayesian model selection.
 39098224	Plasmodium berghei TatD-like DNase hijacks host innate immunity by inhibiting the TLR9-NF-κB pathway.
 39097728	Patient socio-demographics and clinical factors associated with malaria mortality: a case control study in the northern region of Ghana.
@@ -2433,7 +2438,7 @@
 38262446	In Vitro Antimalarial Activity of Trichothecenes against Liver and Blood Stages of Plasmodium Species.
 38261617	Complement receptor 1 is the human erythrocyte receptor for Plasmodium vivax erythrocyte binding protein.
 38261578	Adverse Drug Reactions and Changes in Haematological and Clinical Chemistry to Two ACTs among Nigerian Children with Acute Uncomplicated Malaria.
-38260611	Red blood cell dynamics during malaria infection violate the assumptions of mathematical models of infection dynamics.
+38260611	Red blood cell dynamics during malaria infection challenge the assumptions of mathematical models of infection dynamics.
 38260604	Prevalence of Falciparum and non-Falciparum Malaria in the 2014-15 Rwanda Demographic Health Survey.
 38260474	Mixed Alkyl/Aryl Phosphonates Identify Metabolic Serine Hydrolases as Antimalarial Targets.
 38260260	Asymptomatic malaria parasitaemia and virological non-suppression among children living with HIV in Accra, Ghana: a cross-sectional study.
@@ -9992,8 +9997,3 @@
 35682356	A Systematic Review and Meta-Analysis of Malaria Test Positivity Outcomes and Programme Interventions in Low Transmission Settings in Southern Africa, 2000-2021.
 35682283	Community-Based Control of Malaria Vectors Using Bacillus thuringiensis var. Israelensis (Bti) in Rwanda.
 35681493	Bidirectional Microbiome-Gut-Brain-Axis Communication Influences Metabolic Switch-Associated Responses in the Mosquito Anopheles culicifacies.
-35680915	Malaria oocysts require circumsporozoite protein to evade mosquito immunity.
-35680541	The assessment of antimalarial drug efficacy in vivo.
-35679241	Inference and dynamic simulation of malaria using a simple climate-driven entomological model of malaria transmission.
-35679181	Monkeypox Outbreak - Nine States, May 2022.
-35678643	Impact of Oxidative Stress on Risk of Death and Readmission in African Children With Severe Malaria: A Prospective Observational Study.
