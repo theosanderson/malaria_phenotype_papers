@@ -1,3 +1,5 @@
+39098946	Spatiotemporal patterns and association with climate for malaria elimination in Lao PDR: a hierarchical modelling analysis with two-step Bayesian model selection.
+39098224	Plasmodium berghei TatD-like DNase hijacks host innate immunity by inhibiting the TLR9-NF-κB pathway.
 39097728	Patient socio-demographics and clinical factors associated with malaria mortality: a case control study in the northern region of Ghana.
 39096507	Malaria elimination program in Iran: Challenges and opportunities.
 39096251	Evaluation of Malaria Microscopy Diagnostic Performance at the Public Health Center on the Border of Indonesia Timor-Leste.
@@ -9995,5 +9997,3 @@
 35679241	Inference and dynamic simulation of malaria using a simple climate-driven entomological model of malaria transmission.
 35679181	Monkeypox Outbreak - Nine States, May 2022.
 35678643	Impact of Oxidative Stress on Risk of Death and Readmission in African Children With Severe Malaria: A Prospective Observational Study.
-35677711	Ethnopharmacology, Biological Evaluation, and Chemical Composition of Ziziphus spina-christi (L.) Desf.: A Review.
-35677654	Experimental Models to Study the Pathogenesis of Malaria-Associated Acute Respiratory Distress Syndrome.
