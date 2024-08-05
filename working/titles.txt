@@ -1,3 +1,4 @@
+39102022	Does host migration affect host-parasite interaction? Migrant birds harbor exclusive parasites but have similar roles in parasite-host networks.
 39101106	Plasmodium falciparum transmission based on merozoite surface protein 1 (msp1) and 2 (msp2) gene diversity and antibody responses in Ibadan, Nigeria.
 39100623	Embedded-deep-learning-based sample-to-answer device for on-site malaria diagnosis.
 39100469	Intraspecific sensilla dimorphism in Ascoschoengastia indica (Prostigmata, Trombiculidae).
@@ -9996,4 +9997,3 @@
 35682626	Oxidative Stress in Malaria: Potential Benefits of Antioxidant Therapy.
 35682356	A Systematic Review and Meta-Analysis of Malaria Test Positivity Outcomes and Programme Interventions in Low Transmission Settings in Southern Africa, 2000-2021.
 35682283	Community-Based Control of Malaria Vectors Using Bacillus thuringiensis var. Israelensis (Bti) in Rwanda.
-35681493	Bidirectional Microbiome-Gut-Brain-Axis Communication Influences Metabolic Switch-Associated Responses in the Mosquito Anopheles culicifacies.
