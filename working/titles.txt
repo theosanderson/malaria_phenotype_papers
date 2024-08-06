@@ -1,12 +1,12 @@
 39103954	Non-random distribution of Plasmodium Species infections and associated clinical features in children in the lake Victoria region, Kenya, 2012-2018.
 39103925	Publisher Correction: Considerations for first field trials of low-threshold gene drive for malaria vector control.
-39103843	Epidemiological profile of malaria in a rural community in the Amazon, Mato Grosso State, Brazil, 2011.
-39103828	Correction: 75 years' journey of malaria publications in English: what and where?
 39103697	Experimental vaccination by single dose sporozoite injection of blood-stage attenuated malaria parasites.
 39103358	Plasmodium falciparum population dynamics in East Africa and genomic surveillance along the Kenya-Uganda border.
 39103329	Cryo-EM structure of 1-deoxy-D-xylulose 5-phosphate synthase DXPS from Plasmodium falciparum reveals a distinct N-terminal domain.
 39103110	An Overview of Technologies Available to Monitor Behaviours of Mosquitoes.
 39102894	Copy Number Variations of Plasmodium vivax DBP1, EBP/DBP2, and RBP2b in Duffy-positive and Duffy-negative Ethiopians.
+39103843	Epidemiological profile of malaria in a rural community in the Amazon, Mato Grosso State, Brazil, 2011.
+39103828	Correction: 75 years' journey of malaria publications in English: what and where?
 39102445	A transfer learning approach to identify Plasmodium in microscopic images.
 39102429	Field laboratory comparison of STANDARD Q Filariasis Antigen Test (QFAT) with Bioline Filariasis Test Strip (FTS) for the detection of Lymphatic Filariasis in Samoa, 2023.
 39102421	Transinfection of Wolbachia wAlbB into Culex quinquefasciatus mosquitoes does not alter vector competence for Hawaiian avian malaria (Plasmodium relictum GRW4).
