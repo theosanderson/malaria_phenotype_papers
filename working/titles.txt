@@ -1,3 +1,6 @@
+39102445	A transfer learning approach to identify Plasmodium in microscopic images.
+39102429	Field laboratory comparison of STANDARD Q Filariasis Antigen Test (QFAT) with Bioline Filariasis Test Strip (FTS) for the detection of Lymphatic Filariasis in Samoa, 2023.
+39102421	Transinfection of Wolbachia wAlbB into Culex quinquefasciatus mosquitoes does not alter vector competence for Hawaiian avian malaria (Plasmodium relictum GRW4).
 39102022	Does host migration affect host-parasite interaction? Migrant birds harbor exclusive parasites but have similar roles in parasite-host networks.
 39101106	Plasmodium falciparum transmission based on merozoite surface protein 1 (msp1) and 2 (msp2) gene diversity and antibody responses in Ibadan, Nigeria.
 39100623	Embedded-deep-learning-based sample-to-answer device for on-site malaria diagnosis.
@@ -9994,6 +9997,3 @@
 35685627	Plasmodium falciparum Drug Resistance Genes pfmdr1 and pfcrt In Vivo Co-Expression During Artemether-Lumefantrine Therapy.
 35684452	Assay Development and Identification of the First Plasmodium falciparum 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase Inhibitors.
 35683985	Wasting, Stunting, and Anemia in Angolan Children after Deworming with Albendazole or a Test-and-Treat Approach for Intestinal Parasites: Binary Longitudinal Models with Temporal Structure in a Four-Arm Randomized Trial.
-35682626	Oxidative Stress in Malaria: Potential Benefits of Antioxidant Therapy.
-35682356	A Systematic Review and Meta-Analysis of Malaria Test Positivity Outcomes and Programme Interventions in Low Transmission Settings in Southern Africa, 2000-2021.
-35682283	Community-Based Control of Malaria Vectors Using Bacillus thuringiensis var. Israelensis (Bti) in Rwanda.
