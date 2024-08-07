@@ -1,3 +1,4 @@
+39106235	Sustaining village malaria worker programmes with expanded roles: Perspectives of communities, healthcare workers, policymakers, and implementers in Vietnam.
 39105953	Application of image recognition technology in pathological diagnosis of blood smears.
 39104966	False Positive for Malaria Rapid Test in a Patient With Cytomegalovirus Infection.
 39104797	Assessment of Healthcare Quality Provided to Children with Malaria in Ghana.
@@ -11,7 +12,7 @@
 39103697	Experimental vaccination by single dose sporozoite injection of blood-stage attenuated malaria parasites.
 39103358	Plasmodium falciparum population dynamics in East Africa and genomic surveillance along the Kenya-Uganda border.
 39103329	Cryo-EM structure of 1-deoxy-D-xylulose 5-phosphate synthase DXPS from Plasmodium falciparum reveals a distinct N-terminal domain.
-39103110	An Overview of Technologies Available to Monitor Behaviours of Mosquitoes.
+39103110	An overview of technologies available to monitor behaviours of mosquitoes.
 39102894	Copy Number Variations of Plasmodium vivax DBP1, EBP/DBP2, and RBP2b in Duffy-positive and Duffy-negative Ethiopians.
 39102445	A transfer learning approach to identify Plasmodium in microscopic images.
 39102429	Field laboratory comparison of STANDARD Q Filariasis Antigen Test (QFAT) with Bioline Filariasis Test Strip (FTS) for the detection of Lymphatic Filariasis in Samoa, 2023.
@@ -9996,4 +9997,3 @@
 35690745	The Centres for Disease Control light trap (CDC-LT) and the human decoy trap (HDT) compared to the human landing catch (HLC) for measuring Anopheles biting in rural Tanzania.
 35690679	A high-throughput HPLC method for simultaneous quantification of pyrethroid and pyriproxyfen in long-lasting insecticide-treated nets.
 35690381	The evolution of primate malaria parasites: A study on the origin and diversification of Plasmodium in lemurs.
-35690278	Administration strategies and smart devices for drug release in specific sites of the upper GI tract.
