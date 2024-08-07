@@ -1,3 +1,7 @@
+39108983	Genetic diversity of Plasmodium malariae in sub-Saharan Africa: a two-marker genotyping approach for molecular epidemiological studies.
+39108859	Alveolar macrophages and monocyte subpopulations during Plasmodium berghei NK65 experimental malaria-associated acute respiratory distress syndrome.
+39108638	Phylogenetic distribution of DNA topoisomerase VI and its distinction from SPO11.
+39108527	Osteoprotegerin (OPG) and its ligands RANKL and TRAIL in falciparum, vivax and knowlesi malaria: correlations with disease severity, and B cell production of OPG.
 39107504	An Investigation of In Vitro Anti-Cancer Efficacy of Dihydroartemisinin-Loaded Bovine Milk Exosomes Against Triple-Negative Breast Cancer.
 39107355	A systematic review and meta-analysis of cortisol levels in Plasmodium infections.
 39106952	Evolutionary drivers of sex-specific parasite prevalence in wild birds.
@@ -9993,7 +9997,3 @@
 35691342	A metal ion-dependent conformational switch modulates activity of the Plasmodium M17 aminopeptidase.
 35690854	Malaria mosquitoes acquire and allocate cattle urine to enhance life history traits.
 35690836	Factors influencing severity of recurrent malaria in a conflict-affected state of South Sudan: an unmatched case-control study.
-35690824	Implementing OECD GLP principles for the evaluation of novel vector control tools: a case study with two novel LLINs, SafeNet(®) and SafeNet NF(®).
-35690823	High asymptomatic malaria among seasonal migrant workers departing to home from malaria endemic areas in northwest Ethiopia.
-35690814	Treatment-seeking behaviour, awareness and preventive practice toward malaria in Abu Ushar, Gezira state, Sudan: a household survey experience from a rural area.
-35690758	How has mass drug administration with dihydroartemisinin-piperaquine impacted molecular markers of drug resistance? A systematic review.
