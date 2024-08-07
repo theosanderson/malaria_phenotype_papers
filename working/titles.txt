@@ -1,3 +1,7 @@
+39107504	An Investigation of In Vitro Anti-Cancer Efficacy of Dihydroartemisinin-Loaded Bovine Milk Exosomes Against Triple-Negative Breast Cancer.
+39107355	A systematic review and meta-analysis of cortisol levels in Plasmodium infections.
+39106952	Evolutionary drivers of sex-specific parasite prevalence in wild birds.
+39106849	Loop-Mediated Isothermal Amplification for Diagnosis of Zoonotic Malaria.
 39106235	Sustaining village malaria worker programmes with expanded roles: Perspectives of communities, healthcare workers, policymakers, and implementers in Vietnam.
 39105953	Application of image recognition technology in pathological diagnosis of blood smears.
 39104966	False Positive for Malaria Rapid Test in a Patient With Cytomegalovirus Infection.
@@ -9993,7 +9997,3 @@
 35690823	High asymptomatic malaria among seasonal migrant workers departing to home from malaria endemic areas in northwest Ethiopia.
 35690814	Treatment-seeking behaviour, awareness and preventive practice toward malaria in Abu Ushar, Gezira state, Sudan: a household survey experience from a rural area.
 35690758	How has mass drug administration with dihydroartemisinin-piperaquine impacted molecular markers of drug resistance? A systematic review.
-35690756	Incremental cost and cost-effectiveness of the addition of indoor residual spraying with pirimiphos-methyl in sub-Saharan Africa versus standard malaria control: results of data collection and analysis in the Next Generation Indoor Residual Sprays (NgenIRS) project, an economic-evaluation.
-35690745	The Centres for Disease Control light trap (CDC-LT) and the human decoy trap (HDT) compared to the human landing catch (HLC) for measuring Anopheles biting in rural Tanzania.
-35690679	A high-throughput HPLC method for simultaneous quantification of pyrethroid and pyriproxyfen in long-lasting insecticide-treated nets.
-35690381	The evolution of primate malaria parasites: A study on the origin and diversification of Plasmodium in lemurs.
