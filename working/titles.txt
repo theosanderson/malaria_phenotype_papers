@@ -1,3 +1,9 @@
+39113048	The effects of modern housing on malaria transmission in different endemic zones: a systematic review and meta-analysis.
+39113046	Assessment of knowledge, attitude, and practices toward malaria in the Lunglei district, Mizoram, North-East India.
+39112600	Host-specific effects of a generalist parasite of mosquitoes.
+39111639	Orally Dissolving Film as a Potential Vaccine Delivery Carrier to Prevent Influenza Virus Infection.
+39111627	Development of modern Chinese medicine guided by molecular compatibility theory.
+39111553	Correlates of body composition in children with stunting: A cross-sectional study in Uganda.
 39108983	Genetic diversity of Plasmodium malariae in sub-Saharan Africa: a two-marker genotyping approach for molecular epidemiological studies.
 39108859	Alveolar macrophages and monocyte subpopulations during Plasmodium berghei NK65 experimental malaria-associated acute respiratory distress syndrome.
 39108638	Phylogenetic distribution of DNA topoisomerase VI and its distinction from SPO11.
@@ -250,6 +256,7 @@
 39026236	Entomological effects of attractive targeted sugar bait station deployment in Western Zambia: vector surveillance findings from a two-arm cluster randomized phase III trial.
 39025972	Malaria vaccines: a new era of prevention and control.
 39025766	20 years of BioMalPar: Building a collaborative malaria research network.
+39025200	A set of diagnostic tests for detection of active Babesia duncani infection.
 39024980	Crystal structure and function analysis of 6-phosphogluconate dehydrogenase in Mycobacterium tuberculosis.
 39024967	Optimization of pyrazolopyridine 4-carboxamides with potent antimalarial activity for which resistance is associated with the P. falciparum transporter ABCI3.
 39024426	Artemisinin-resistant malaria in Africa demands urgent action.
@@ -9990,10 +9997,3 @@
 35692947	Prevalence of Pregnancy Associated Malaria in India.
 35692711	Complete mitochondrial genome of a malaria vector mosquito Anopheles sinensis from South Korea.
 35692481	In vivo antiplasmodial activities and acute toxicity assessment of two plant cocktail extracts commonly used among Southwestern Nigerians.
-35692477	Evaluation of prediction models for the malaria incidence in Marodijeh Region, Somaliland.
-35692470	Co-administration of chloroquine and coenzyme Q(10) improved treatment outcome during experimental cerebral malaria.
-35691633	Improving disaggregation models of malaria incidence by ensembling non-linear models of prevalence.
-35691551	Artesunate and dihydroartemisinin-piperaquine treatment failure in a severe Plasmodium falciparum malaria case imported from Republic of Côte d'Ivoire.
-35691342	A metal ion-dependent conformational switch modulates activity of the Plasmodium M17 aminopeptidase.
-35690854	Malaria mosquitoes acquire and allocate cattle urine to enhance life history traits.
-35690836	Factors influencing severity of recurrent malaria in a conflict-affected state of South Sudan: an unmatched case-control study.
