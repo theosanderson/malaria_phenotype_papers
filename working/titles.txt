@@ -1,3 +1,8 @@
+39114468	Identification of the histone acetyltransferase gene family in the Artemisia annua genome.
+39114436	Sulfonamide based pyrimidine derivatives combating Plasmodium parasite by inhibiting falcipains-2 and falcipains-3 as antimalarial agents.
+39113589	Potential of extracellular vesicles in the pathogenesis, diagnosis and therapy for parasitic diseases.
+39113550	Chloroformate-mediated ring cleavage of indole alkaloids leads to re-engineered antiplasmodial agents.
+39113380	Current prospects of green-metallic nanoparticles in mosquito control: A brief review.
 39113048	The effects of modern housing on malaria transmission in different endemic zones: a systematic review and meta-analysis.
 39113046	Assessment of knowledge, attitude, and practices toward malaria in the Lunglei district, Mizoram, North-East India.
 39112600	Host-specific effects of a generalist parasite of mosquitoes.
@@ -1459,6 +1464,7 @@
 38606055	Regaining the path to malaria elimination: Lessons from the pandemic.
 38605974	Plasmodium Parasitaemia and Urine Alterations among Pregnant Women Attending Antenatal Care in Aba Metropolis, Abia State, Nigeria.
 38605749	Awareness of sickle cell disease among nursing undergraduates in Farasan: Its interference with malaria.
+38605607	Manzamine A reduces androgen receptor transcription and synthesis by blocking E2F8-DNA interactions and effectively inhibits prostate tumor growth in mice.
 38604871	A targetable receptor-binding site on PfCyRPA to aid in the fight against malaria.
 38604368	From erosion to epidemics: Understanding the overlapping vulnerability of hydrogeomorphic hotspots, malaria affliction, and poverty in Nigeria.
 38602074	A systematic review on malaria and dengue vaccines for the effective management of these mosquito borne diseases: Improving public health.
@@ -9991,9 +9997,3 @@
 35693806	A SARS-CoV-2 Spike Receptor Binding Motif Peptide Induces Anti-Spike Antibodies in Mice andIs Recognized by COVID-19 Patients.
 35693761	From Insect Bites to a Skin Autoimmune Disease: A Conceivable Pathway to Endemic Pemphigus Foliaceus.
 35693565	Molecular Detection of Plasmodium Infection among Anophelinae Mosquitoes and Differentiation of Biological Forms of Anopheles Stephensi Collected from Malarious Areas of Afghanistan and Iran.
-35693439	Evaluation of cardiotoxicity and other adverse effects associated with concomitant administration of artemether/lumefantrine and atazanavir/ritonavir-based antiretroviral regimen in patients living with HIV.
-35693061	Recrudescence of Plasmodium falciparum malaria 5 years after treatment in an HIV migrant: a case report with a peculiar presentation.
-35693055	Epidemiological evolution and historical anti-malarial control initiatives in Colombia, 1848-2019.
-35692947	Prevalence of Pregnancy Associated Malaria in India.
-35692711	Complete mitochondrial genome of a malaria vector mosquito Anopheles sinensis from South Korea.
-35692481	In vivo antiplasmodial activities and acute toxicity assessment of two plant cocktail extracts commonly used among Southwestern Nigerians.
