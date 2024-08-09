@@ -1,3 +1,8 @@
+39118160	The monthly trends of malaria cases in children under 5 years of age in Guinea: comparative analysis between a seasonal malaria chemoprevention (SMC) and a non-SMC health district.
+39118057	Language discrepancies in the performance of generative artificial intelligence models: an examination of infectious disease queries in English and Arabic.
+39117852	Retraction Note: Salt in stools is associated with obesity, gut halophilic microbiota and Akkermansia muciniphila depletion in humans.
+39117823	Parasitic and Fungal Triggers of Cytokine Storm Syndrome.
+39117628	Lineage-informative microhaplotypes for recurrence classification and spatio-temporal surveillance of Plasmodium vivax malaria parasites.
 39114468	Identification of the histone acetyltransferase gene family in the Artemisia annua genome.
 39114436	Sulfonamide based pyrimidine derivatives combating Plasmodium parasite by inhibiting falcipains-2 and falcipains-3 as antimalarial agents.
 39113589	Potential of extracellular vesicles in the pathogenesis, diagnosis and therapy for parasitic diseases.
@@ -490,7 +495,7 @@
 38942539	Drug repurposing for parasitic protozoan diseases.
 38942504	Production of non-natural terpenoids through chemoenzymatic synthesis using substrate analogs.
 38942318	Exploring the dichotomy: Shotgun metagenomics reveals diversity of beneficial and pathogenic protist community in arid wetlands of northeastern South Africa.
-38941845	Effect of Phlebotomus papatasi on the fitness,infectivity and antimony-resistance phenotype of antimony-resistant Leishmania major Mon-25.
+38941845	Effect of Phlebotomus papatasi on the fitness, infectivity and antimony-resistance phenotype of antimony-resistant Leishmania major Mon-25.
 38941356	Plasmodium vivax serological exposure markers: PvMSP1-42-induced humoral and memory B-cell response generates long-lived antibodies.
 38940866	Plasma metabolites in childhood Burkitt lymphoma cases and cancer-free controls in Uganda.
 38940563	Absence of farnesol salvage in Candida albicans and probably in other fungi.
@@ -9992,8 +9997,3 @@
 35694617	A new initiative to track HIV resource allocation and costs.
 35694571	Barnacles Mating Optimizer with Deep Transfer Learning Enabled Biomedical Malaria Parasite Detection and Classification.
 35694550	Targeting the Plasmodium falciparum's Thymidylate Monophosphate Kinase for the Identification of Novel Antimalarial Natural Compounds.
-35694548	The Phosphodiesterase Inhibitor Tadalafil Promotes Splenic Retention of Plasmodium falciparum Gametocytes in Humanized Mice.
-35693819	SM-COLSARSPROT: Highly Immunogenic Supramutational Synthetic Peptides Covering the World's Population.
-35693806	A SARS-CoV-2 Spike Receptor Binding Motif Peptide Induces Anti-Spike Antibodies in Mice andIs Recognized by COVID-19 Patients.
-35693761	From Insect Bites to a Skin Autoimmune Disease: A Conceivable Pathway to Endemic Pemphigus Foliaceus.
-35693565	Molecular Detection of Plasmodium Infection among Anophelinae Mosquitoes and Differentiation of Biological Forms of Anopheles Stephensi Collected from Malarious Areas of Afghanistan and Iran.
