@@ -1,3 +1,6 @@
+39119198	Mosquito Control Strategies and Insecticide Resistance of the Malaria Vector in Urbanized Land Use Types in Suame Municipality, Ghana.
+39118694	Brugada syndrome following febrile episode caused by malarial infection: a case report.
+39118353	Microfluidic device: A versatile biosensor platform to multiplex aptamer-based detection of malaria biomarkers.
 39118160	The monthly trends of malaria cases in children under 5 years of age in Guinea: comparative analysis between a seasonal malaria chemoprevention (SMC) and a non-SMC health district.
 39118057	Language discrepancies in the performance of generative artificial intelligence models: an examination of infectious disease queries in English and Arabic.
 39117852	Retraction Note: Salt in stools is associated with obesity, gut halophilic microbiota and Akkermansia muciniphila depletion in humans.
@@ -9994,6 +9997,3 @@
 35697043	The Awesome Power of Human Genetics of Infectious Disease.
 35696868	Highly sensitive pregnancy test kit via oriented antibody conjugation on brush-type ligand-coated quantum beads.
 35696035	Generation of Gene Drive Mice for Invasive Pest Population Suppression.
-35694617	A new initiative to track HIV resource allocation and costs.
-35694571	Barnacles Mating Optimizer with Deep Transfer Learning Enabled Biomedical Malaria Parasite Detection and Classification.
-35694550	Targeting the Plasmodium falciparum's Thymidylate Monophosphate Kinase for the Identification of Novel Antimalarial Natural Compounds.
