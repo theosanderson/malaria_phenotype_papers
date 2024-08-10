@@ -1,3 +1,8 @@
+39126273	Adaptation of lot quality assurance sampling to monitor seasonal malaria chemoprevention delivery performance.
+39125052	Cheminformatics-Guided Exploration of Synthetic Marine Natural Product-Inspired Brominated Indole-3-Glyoxylamides and Their Potentials for Drug Discovery.
+39125020	Incorporation of an Isohexide Subunit into the Endochin-like Quinolone Scaffold.
+39124266	Phytochemical Composition and Bioactivities of Some Hydrophytes: Antioxidant, Antiparasitic, Antibacterial, and Anticancer Properties and Mechanisms.
+39123173	The prevalence of low birth weight and its associated maternal factors among women of reproductive age who gave birth to live babies within five years preceding the survey in Tanzania: an analysis of data from the 2015-16 Tanzania Demographic and Health Survey and Malaria Indicators Survey.
 39121031	Status and future prospects for mobile phone-enabled diagnostics in Tanzania.
 39120520	Total Syntheses of Strasseriolide A and Strasseriolide B, Potent Antimalarial Agents.
 39119198	Mosquito Control Strategies and Insecticide Resistance of the Malaria Vector in Urbanized Land Use Types in Suame Municipality, Ghana.
@@ -9992,8 +9997,3 @@
 35698161	Diversity of larval habitats of Anopheles mosquitoes in urban areas of Benin and influence of their physicochemical and bacteriological characteristics on larval density.
 35698123	STARTER checklist for antimalarial therapeutic efficacy reporting.
 35698116	Menthol carbonates as potent antiparasitic agents: synthesis and in vitro studies along with computer-aided approaches.
-35697668	Plasmodium falciparum 7G8 challenge provides conservative prediction of efficacy of PfNF54-based PfSPZ Vaccine in Africa.
-35697572	Norovirus-VLPs expressing pre-erythrocytic malaria antigens induce functional immunity against sporozoite infection.
-35697275	Cyclic constrained immunoreactive peptides from crucial P. falciparum proteins: potential implications in malaria diagnostics.
-35697238	Dual infection: What diptera has (have) bit her.
-35697043	The Awesome Power of Human Genetics of Infectious Disease.
