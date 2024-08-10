@@ -1,3 +1,4 @@
+39121031	Status and future prospects for mobile phone-enabled diagnostics in Tanzania.
 39120520	Total Syntheses of Strasseriolide A and Strasseriolide B, Potent Antimalarial Agents.
 39119198	Mosquito Control Strategies and Insecticide Resistance of the Malaria Vector in Urbanized Land Use Types in Suame Municipality, Ghana.
 39118694	Brugada syndrome following febrile episode caused by malarial infection: a case report.
@@ -9996,4 +9997,3 @@
 35697275	Cyclic constrained immunoreactive peptides from crucial P. falciparum proteins: potential implications in malaria diagnostics.
 35697238	Dual infection: What diptera has (have) bit her.
 35697043	The Awesome Power of Human Genetics of Infectious Disease.
-35696868	Highly sensitive pregnancy test kit via oriented antibody conjugation on brush-type ligand-coated quantum beads.
