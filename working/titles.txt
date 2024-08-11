@@ -1,3 +1,8 @@
+39127706	Antibody gene features associated with binding and functional activity in malaria vaccine-derived human mAbs.
+39127692	Ownership and usage of insecticide-treated nets in Ghana: a scoping review of facilitators and barriers.
+39127240	In vitro assessment of the anti-adenoviral activity of artemisinin and its derivatives.
+39127054	Antibody mechanisms of protection against malaria in RTS,S-vaccinated children: a post-hoc serological analysis of phase 2 trial.
+39126653	Anopheles gambiae lacking AgTRIO probe inefficiently on a mammalian host.
 39126273	Adaptation of lot quality assurance sampling to monitor seasonal malaria chemoprevention delivery performance.
 39125052	Cheminformatics-Guided Exploration of Synthetic Marine Natural Product-Inspired Brominated Indole-3-Glyoxylamides and Their Potentials for Drug Discovery.
 39125020	Incorporation of an Isohexide Subunit into the Endochin-like Quinolone Scaffold.
@@ -9992,8 +9997,3 @@
 35699968	A tale of topoisomerases and the knotty genetic material in the backdrop of Plasmodium biology.
 35699901	Neurological Complications of Malaria.
 35699556	New insights on malaria.
-35698238	Genetic diversity of Plasmodium vivax reticulocyte binding protein 2b in global parasite populations.
-35698214	Identification of antimalarial targets of chloroquine by a combined deconvolution strategy of ABPP and MS-CETSA.
-35698161	Diversity of larval habitats of Anopheles mosquitoes in urban areas of Benin and influence of their physicochemical and bacteriological characteristics on larval density.
-35698123	STARTER checklist for antimalarial therapeutic efficacy reporting.
-35698116	Menthol carbonates as potent antiparasitic agents: synthesis and in vitro studies along with computer-aided approaches.
