@@ -1,3 +1,8 @@
+39129057	Expanding the transgene expression toolbox of the malaria vector Anopheles stephensi.
+39129018	Community acceptance of a novel malaria intervention, Attractive Targeted Sugar Baits, in the Zambia phase III trial.
+39128989	Demographic and socioeconomic obstacles to access to malaria services for Myanmar migrants in Thailand.
+39128649	Efficacy of medicinal plants and their derived biomolecules against Plasmodium falciparum.
+39128600	Malaria burden and residual transmission: two thirds of mosquito bites may not be preventable with current vector control tools on Bioko Island, Equatorial Guinea.
 39127706	Antibody gene features associated with binding and functional activity in malaria vaccine-derived human mAbs.
 39127692	Ownership and usage of insecticide-treated nets in Ghana: a scoping review of facilitators and barriers.
 39127240	In vitro assessment of the anti-adenoviral activity of artemisinin and its derivatives.
@@ -9992,8 +9997,3 @@
 35704094	Controlled Human Malaria Infection Studies in Africa-Past, Present, and Future.
 35703955	Comparison of Antibody Responses and Parasite Clearance in Artemisinin Therapeutic Efficacy Studies in the Democratic Republic of Congo and Asia.
 35703734	Can platelet indices be of value in pregnant women with malaria?
-35702162	[Diagnostic protocol for febrile syndrome of respiratory origin in geographical areas of endemic risk of tropical infections].
-35701101	A comprehensive review of the ethnomedicine, phytochemistry, pharmacological activities of the genus Kniphofia.
-35699968	A tale of topoisomerases and the knotty genetic material in the backdrop of Plasmodium biology.
-35699901	Neurological Complications of Malaria.
-35699556	New insights on malaria.
