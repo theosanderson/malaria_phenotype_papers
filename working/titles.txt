@@ -1,3 +1,5 @@
+39132057	Evaluation of Heterologous Effects of Travel Vaccines in Colorectal Cancer: A Database Study and a Cautionary Tale.
+39131160	Acquisition of anti-phosphatidylserine IgM and IgG antibodies by infants and their mothers over time in Uganda.
 39130444	Malaria prevalence and associated population and ecological risk factors among women and children under 5 years in Rwanda.
 39129829	Plasmodium sporozoite shows distinct motility patterns in responses to three-dimensional environments.
 39129577	Malaria screening: what is the contribution of molecular biology?
@@ -9995,5 +9997,3 @@
 35705981	Entomological indicators of malaria transmission prior to a cluster-randomized controlled trial of a 'lethal house lure' intervention in central Côte d'Ivoire.
 35705963	Management of avian malaria in populations of high conservation concern.
 35705035	Human peroxiredoxin 6 is essential for malaria parasites and provides a host-based drug target.
-35704297	Swertiamarin-mediated immune modulation/adaptation confers protection against Plasmodium berghei.
-35704149	Promising Larvicidal Efficacy of Solid Lipid Nanoparticles Containing Mentha longifolia L., Mentha pulegium L., and Zataria multiflora Boiss. Essential Oils Against the Main Malaria Vector, Anopheles stephensi Liston.
