@@ -1,3 +1,10 @@
+39136614	Assessment of the performance of five malaria rapid diagnostic tests in health facilities in Abidjan (Côte d'Ivoire).
+39136582	Bioassay-guided Fractionation of Anti-Leishmania amazonensis Extracts from Ampelozizyphus amazonicus by High-speed Countercurrent Chromatography.
+39136469	In vitro efficacy of next-generation dihydrotriazines and biguanides against babesiosis and malaria parasites.
+39136468	Ex vivo susceptibilities to ganaplacide and diversity in potential resistance mediators in Ugandan Plasmodium falciparum isolates.
+39136466	Prevalence and dynamics of antimalarial drug resistance mutations among the Plasmodium falciparum isolates in TAK Province, Thailand, during the period of 1998-2001.
+39136465	A retrospective analysis of P. falciparum drug resistance markers detects an early (2016/17) high prevalence of the k13 C469Y mutation in asymptomatic infections in Northern Uganda.
+39136464	Evaluation of a Bayesian hierarchical pharmacokinetic-pharmacodynamic model for predicting parasitological outcomes in Phase 2 studies of new antimalarial drugs.
 39135073	Tailoring biomaterials for vaccine delivery.
 39135005	Contextual factors and G6PD diagnostic testing: a scoping review and evidence and gap map.
 39134111	Validation of Real-Time PCR assays for Detecting Plasmodium and Babesia DNA species in Blood Samples.
@@ -9990,10 +9997,3 @@
 35709630	How to get away with murder: The multiple strategies employed by pathogenic protozoa to avoid complement killing.
 35709327	Fitness Costs of pfhrp2 and pfhrp3 Deletions Underlying Diagnostic Evasion in Malaria Parasites.
 35708763	Tailoring Mobile Data Collection for Intervention Research in a Challenging Context: Development and Implementation in the Malakit Study.
-35708432	Uptake and usage of proguanil as malaria chemoprophylaxis and the socio-economic determinants of proguanil usage in children with sickle cell anemia in Benin City.
-35708413	Molecular characterization of the severe falciparum malaria with typhoid co-infection: A case report.
-35708410	Sustainable control of malaria employing Gambusia fishes as biological control in Jalore and Barmer districts of Western Rajasthan.
-35708408	Kyasanur forest disease and climatic attributes in India.
-35708405	Validation of micro-chip based PCR assays for diagnosis of both Plasmodium falciparum and Plasmodium vivax.
-35708404	Laboratory evaluation of the efficacy of boric acid containing toxic sugar baits against Anopheles culicifacies, An. stephensi and Aedes aegypti mosquitoes.
-35708403	Administration of L-citrulline prevents Plasmodium growth by inhibiting/ modulating T-regulatory cells during malaria pathogenesis.
