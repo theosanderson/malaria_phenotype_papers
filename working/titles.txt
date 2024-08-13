@@ -1401,7 +1401,7 @@
 38643106	Let it glow: genetically encoded fluorescent reporters in Plasmodium.
 38642694	Effect of nanoformulation Azadirachta indica on some factors associated with the vectorial capacity and competence of Anopheles aquasalis experimentally infected with Plasmodium vivax.
 38642192	Molecular tools are crucial for malaria elimination.
-38642134	MyD88 in osteoclast- and osteoblast-lineages differentially controls bone remodeling in homeostasis and malaria.
+38642134	MyD88 in osteoclast and osteoblast lineages differentially controls bone remodeling in homeostasis and malaria.
 38641838	Ageing of Plasmodium falciparum malaria sporozoites alters their motility, infectivity and reduces immune activation in vitro.
 38641670	Physical durability and insecticidal activity of long-lasting insecticidal nets in Cruzeiro do Sul, Brazil.
 38641572	Effect of spatiotemporal variables on abundance, biting activity and parity of Nyssorhynchus darlingi (Diptera: Culicidae) in peri-Iquitos, Peru.
