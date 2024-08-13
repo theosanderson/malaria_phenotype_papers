@@ -1,3 +1,8 @@
+39133937	Use of an emulated trial to investigate the association between use of nitrogen-based bisphosphonates and risk of epithelial ovarian cancer.
+39133890	Platelet Ido1 expression is induced during Plasmodium yoelii infection, altering plasma tryptophan metabolites.
+39133750	The impact of soil transmitted helminth on malaria clinical presentation and treatment outcome: A case control study among children in Bagamoyo district, coastal region of Tanzania.
+39133703	Association between Epstein-Barr virus reactivation and severe malaria in pregnant women living in a malaria-endemic region of Cameroon.
+39133581	No longer stuck in the past: new advances in artificial intelligence and molecular assays for parasitology screening and diagnosis.
 39131160	Acquisition of anti-phosphatidylserine IgM and IgG antibodies by infants and their mothers over time in Uganda.
 39130444	Malaria prevalence and associated population and ecological risk factors among women and children under 5 years in Rwanda.
 39129829	Plasmodium sporozoite shows distinct motility patterns in responses to three-dimensional environments.
@@ -62,6 +67,7 @@
 39103329	Cryo-EM structure of 1-deoxy-D-xylulose 5-phosphate synthase DXPS from Plasmodium falciparum reveals a distinct N-terminal domain.
 39103110	An overview of technologies available to monitor behaviours of mosquitoes.
 39102894	Copy Number Variations of Plasmodium vivax DBP1, EBP/DBP2, and RBP2b in Duffy-positive and Duffy-negative Ethiopians.
+39133803	Artesunate.
 39102445	A transfer learning approach to identify Plasmodium in microscopic images.
 39102429	Field laboratory comparison of STANDARD Q Filariasis Antigen Test (QFAT) with Bioline Filariasis Test Strip (FTS) for the detection of Lymphatic Filariasis in Samoa, 2023.
 39102421	Transinfection of Wolbachia wAlbB into Culex quinquefasciatus mosquitoes does not alter vector competence for Hawaiian avian malaria (Plasmodium relictum GRW4).
@@ -9991,9 +9997,3 @@
 35708398	An analytical review of vector- and pathogen-based transmission-blocking vaccine for malaria control.
 35708013	Materials-based vaccines for infectious diseases.
 35706363	Comprehensive metabolite identification study of arterolane using hydrophilic interaction liquid chromatography with quadrupole-time-of-flight mass spectrometry.
-35706053	Prevalence of non-Plasmodium falciparum species in southern districts of Brazzaville in The Republic of the Congo.
-35706028	A reverse vaccinology approach on transmembrane carbonic anhydrases from Plasmodium species as vaccine candidates for malaria prevention.
-35705981	Entomological indicators of malaria transmission prior to a cluster-randomized controlled trial of a 'lethal house lure' intervention in central Côte d'Ivoire.
-35705963	Management of avian malaria in populations of high conservation concern.
-35705035	Human peroxiredoxin 6 is essential for malaria parasites and provides a host-based drug target.
-35704297	Swertiamarin-mediated immune modulation/adaptation confers protection against Plasmodium berghei.
