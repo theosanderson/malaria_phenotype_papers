@@ -1,3 +1,7 @@
+39135073	Tailoring biomaterials for vaccine delivery.
+39135005	Contextual factors and G6PD diagnostic testing: a scoping review and evidence and gap map.
+39134111	Validation of Real-Time PCR assays for Detecting Plasmodium and Babesia DNA species in Blood Samples.
+39134060	Property and Activity Refinement of Dihydroquinazolinone-3-carboxamides as Orally Efficacious Antimalarials that Target PfATP4.
 39133937	Use of an emulated trial to investigate the association between use of nitrogen-based bisphosphonates and risk of epithelial ovarian cancer.
 39133890	Platelet Ido1 expression is induced during Plasmodium yoelii infection, altering plasma tryptophan metabolites.
 39133750	The impact of soil transmitted helminth on malaria clinical presentation and treatment outcome: A case control study among children in Bagamoyo district, coastal region of Tanzania.
@@ -9993,7 +9997,3 @@
 35708405	Validation of micro-chip based PCR assays for diagnosis of both Plasmodium falciparum and Plasmodium vivax.
 35708404	Laboratory evaluation of the efficacy of boric acid containing toxic sugar baits against Anopheles culicifacies, An. stephensi and Aedes aegypti mosquitoes.
 35708403	Administration of L-citrulline prevents Plasmodium growth by inhibiting/ modulating T-regulatory cells during malaria pathogenesis.
-35708401	Multiplex loop mediated isothermal amplification (m-LAMP) as a point of care technique for diagnosis of malaria.
-35708398	An analytical review of vector- and pathogen-based transmission-blocking vaccine for malaria control.
-35708013	Materials-based vaccines for infectious diseases.
-35706363	Comprehensive metabolite identification study of arterolane using hydrophilic interaction liquid chromatography with quadrupole-time-of-flight mass spectrometry.
