@@ -577,7 +577,7 @@
 38925798	How can we get malaria control back on track?
 38925325	Prefoldins are novel regulators of the unfolded protein response in artemisinin resistant Plasmodium falciparum malaria.
 38924147	Plasmodium falciparum cysteine protease Falcipain 3: A potential enzyme for proteolytic processing of histone acetyltransferase PfGCN5.
-38923255	Chemoproteomic strategy identifies PfUCHL3 as the target of halofuginone.
+38923255	Chemoproteomic Strategy Identifies PfUCHL3 as the Target of Halofuginone.
 38922663	Unveiling malaria's silent threat: A path to effective prevention in India.
 38922660	Structure-based virtual screening study for identification of potent insecticides against Anopheles gambiae to combat the malaria.
 38922654	Detection of Plasmodium knowlesi in whole blood samples with sandwich enzyme-linked immunosorbent assay (ELISA) using rhoptry-associated protein 1 specific polyclonal antibodies.
