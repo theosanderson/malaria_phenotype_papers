@@ -1,3 +1,4 @@
+39140699	Malaria diagnosis challenges and pfhrp2 and pfhrp3 gene deletions using pregnant women as sentinel population in Nanoro region, Burkina Faso.
 39140064	Innovative Multistage ML-QSAR Models for Malaria: From Data to Discovery.
 39138855	Nanovaccines: Immunogenic tumor antigens, targeted delivery, and combination therapy to enhance cancer immunotherapy.
 39138579	High prevalence and risk factors associated with asymptomatic malaria among children in Nkwen village, Northwest Region, Cameroon.
@@ -9996,4 +9997,3 @@
 35712377	The Prevalence of Transfusion Transmitted Infections among Blood Donors in Pakistan: A Retrospective Study.
 35711667	A Malaria Parasite Cross Reveals Genetic Determinants of Plasmodium falciparum Growth in Different Culture Media.
 35711656	Biophysical Tools and Concepts Enable Understanding of Asexual Blood Stage Malaria.
-35711525	Malaria Threatens to Bounce Back in Abergele District, Northeast Ethiopia: Five-Year Retrospective Trend Analysis from 2016-2020 in Nirak Health Center.
