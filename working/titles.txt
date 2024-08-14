@@ -1,10 +1,12 @@
+39140064	Innovative Multistage ML-QSAR Models for Malaria: From Data to Discovery.
+39138855	Nanovaccines: Immunogenic tumor antigens, targeted delivery, and combination therapy to enhance cancer immunotherapy.
 39138579	High prevalence and risk factors associated with asymptomatic malaria among children in Nkwen village, Northwest Region, Cameroon.
+39138510	Intervention portfolios analysis of Plasmodium vivax control in central China.
+39138464	Adapting malaria indicator surveys to investigate treatment adherence: a pilot study on Bioko Island, Equatorial Guinea.
 39138395	Hyperimmune malarial splenomegaly in a malaria-endemic area of southwest Burkina Faso: case of Bobo-Dioulasso.
 39137783	Mixed alkyl/aryl phosphonates identify metabolic serine hydrolases as antimalarial targets.
 39137754	Revising the Interpretation of Transcranial Doppler Ultrasound Examinations in Pediatric Cerebral Malaria.
 39137752	Evaluating Geospatial Sampling Frames with a Novel Field Census for a Malaria Household Survey in Artibonite, Haiti.
-39138510	Intervention portfolios analysis of Plasmodium vivax control in central China.
-39138464	Adapting malaria indicator surveys to investigate treatment adherence: a pilot study on Bioko Island, Equatorial Guinea.
 39136614	Assessment of the performance of five malaria rapid diagnostic tests in health facilities in Abidjan (Côte d'Ivoire).
 39136582	Bioassay-guided Fractionation of Anti-Leishmania amazonensis Extracts from Ampelozizyphus amazonicus by High-speed Countercurrent Chromatography.
 39136469	In vitro efficacy of next-generation dihydrotriazines and biguanides against babesiosis and malaria parasites.
@@ -9995,5 +9997,3 @@
 35711667	A Malaria Parasite Cross Reveals Genetic Determinants of Plasmodium falciparum Growth in Different Culture Media.
 35711656	Biophysical Tools and Concepts Enable Understanding of Asexual Blood Stage Malaria.
 35711525	Malaria Threatens to Bounce Back in Abergele District, Northeast Ethiopia: Five-Year Retrospective Trend Analysis from 2016-2020 in Nirak Health Center.
-35711446	Breadth of Antibodies to Plasmodium falciparum Variant Surface Antigens Is Associated With Immunity in a Controlled Human Malaria Infection Study.
-35711005	Factors Associated With Human IgG Antibody Response to Anopheles albimanus Salivary Gland Extract, Artibonite Department, Haiti, 2017.
