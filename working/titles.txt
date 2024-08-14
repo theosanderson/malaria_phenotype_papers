@@ -1,10 +1,10 @@
 39138579	High prevalence and risk factors associated with asymptomatic malaria among children in Nkwen village, Northwest Region, Cameroon.
-39138510	Intervention portfolios analysis of Plasmodium vivax control in central China.
-39138464	Adapting malaria indicator surveys to investigate treatment adherence: a pilot study on Bioko Island, Equatorial Guinea.
 39138395	Hyperimmune malarial splenomegaly in a malaria-endemic area of southwest Burkina Faso: case of Bobo-Dioulasso.
 39137783	Mixed alkyl/aryl phosphonates identify metabolic serine hydrolases as antimalarial targets.
 39137754	Revising the Interpretation of Transcranial Doppler Ultrasound Examinations in Pediatric Cerebral Malaria.
 39137752	Evaluating Geospatial Sampling Frames with a Novel Field Census for a Malaria Household Survey in Artibonite, Haiti.
+39138510	Intervention portfolios analysis of Plasmodium vivax control in central China.
+39138464	Adapting malaria indicator surveys to investigate treatment adherence: a pilot study on Bioko Island, Equatorial Guinea.
 39136614	Assessment of the performance of five malaria rapid diagnostic tests in health facilities in Abidjan (Côte d'Ivoire).
 39136582	Bioassay-guided Fractionation of Anti-Leishmania amazonensis Extracts from Ampelozizyphus amazonicus by High-speed Countercurrent Chromatography.
 39136469	In vitro efficacy of next-generation dihydrotriazines and biguanides against babesiosis and malaria parasites.
