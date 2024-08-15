@@ -1,3 +1,8 @@
+39143042	The Tuberculosis Drug Candidate SQ109 and Its Analogs Have Multistage Activity against Plasmodium falciparum.
+39142549	folA thyA knockout E. coli as a suitable surrogate model for evaluation of antifolate sensitivity against PfDHFR-TS.
+39142528	[1-7-NαC]-Crocaorb A1 and A2, orbitides from the latex of Croton campanulatus.
+39141677	Development of an indirect ELISA for detecting Toxoplasma gondii IgG antibodies based on a recombinant TgIMP1 protein.
+39141646	Expanded roles of community health workers to sustain malaria services in the Asia-Pacific: A landscaping survey.
 39140699	Malaria diagnosis challenges and pfhrp2 and pfhrp3 gene deletions using pregnant women as sentinel population in Nanoro region, Burkina Faso.
 39140064	Innovative Multistage ML-QSAR Models for Malaria: From Data to Discovery.
 39138855	Nanovaccines: Immunogenic tumor antigens, targeted delivery, and combination therapy to enhance cancer immunotherapy.
@@ -9992,8 +9997,3 @@
 35714271	Adenovirus vector-based vaccines as forefront approaches in fighting the battle against flaviviruses.
 35714097	Antibody response to a new member of the DBL family (EBP2) after a brief Plasmodium vivax exposure.
 35713696	The effect of climate change on malaria transmission in the southeast of Iran.
-35712895	Exploring Aspartic Protease Inhibitor Binding to Design Selective Antimalarials.
-35712627	Appraising Neonatal Morbidity and Mortality in a Developing Country Categorized by Gestational Age Grouping and Implications for Targeted Interventions.
-35712377	The Prevalence of Transfusion Transmitted Infections among Blood Donors in Pakistan: A Retrospective Study.
-35711667	A Malaria Parasite Cross Reveals Genetic Determinants of Plasmodium falciparum Growth in Different Culture Media.
-35711656	Biophysical Tools and Concepts Enable Understanding of Asexual Blood Stage Malaria.
