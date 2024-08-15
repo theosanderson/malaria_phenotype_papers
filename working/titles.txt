@@ -1,3 +1,4 @@
+39145520	Daily oral iron supplementation during pregnancy.
 39145372	Geographical and temporal dynamics of genetic diversity of Plasmodium falciparum merozoite surface proteins 1/2 in India.
 39145370	Epidemiological characteristics and molecular identification of Plasmodium species among cases of imported malaria in Kuwait during the COVID-19 pandemic.
 39145352	An immunoinformatics approach for design and validation of multi-subunit vaccine against Plasmodium falciparum from essential hypothetical proteins.
@@ -9996,4 +9997,3 @@
 35715304	Still enigmatic: Plasmodium oocysts 125 years after their discovery.
 35715223	Structural Insight into Effective Inhibitors' Binding to Toxoplasma gondii Dihydrofolate Reductase Thymidylate Synthase.
 35714924	Anopheles blood meal sources and entomological indicators related to Plasmodium transmission in malaria endemic areas of Colombia.
-35714881	The traditional uses, phytochemistry and pharmacology of Abrus precatorius L.: A comprehensive review.
