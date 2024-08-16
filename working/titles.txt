@@ -35,7 +35,7 @@
 39136464	Evaluation of a Bayesian hierarchical pharmacokinetic-pharmacodynamic model for predicting parasitological outcomes in Phase 2 studies of new antimalarial drugs.
 39135073	Tailoring biomaterials for vaccine delivery.
 39135005	Contextual factors and G6PD diagnostic testing: a scoping review and evidence and gap map.
-39134111	Validation of Real-Time PCR assays for Detecting Plasmodium and Babesia DNA species in Blood Samples.
+39134111	Validation of real-time PCR assays for detecting Plasmodium and Babesia DNA species in blood samples.
 39134060	Property and Activity Refinement of Dihydroquinazolinone-3-carboxamides as Orally Efficacious Antimalarials that Target PfATP4.
 39133937	Use of an emulated trial to investigate the association between use of nitrogen-based bisphosphonates and risk of epithelial ovarian cancer.
 39133890	Platelet Ido1 expression is induced during Plasmodium yoelii infection, altering plasma tryptophan metabolites.
@@ -79,7 +79,7 @@
 39113048	The effects of modern housing on malaria transmission in different endemic zones: a systematic review and meta-analysis.
 39113046	Assessment of knowledge, attitude, and practices toward malaria in the Lunglei district, Mizoram, North-East India.
 39112600	Host-specific effects of a generalist parasite of mosquitoes.
-39111639	Orally Dissolving Film as a Potential Vaccine Delivery Carrier to Prevent Influenza Virus Infection.
+39111639	Orally dissolving film as a potential vaccine delivery carrier to prevent influenza virus infection.
 39111627	Development of modern Chinese medicine guided by molecular compatibility theory.
 39111553	Correlates of body composition in children with stunting: A cross-sectional study in Uganda.
 39108983	Genetic diversity of Plasmodium malariae in sub-Saharan Africa: a two-marker genotyping approach for molecular epidemiological studies.
@@ -744,7 +744,7 @@
 38875153	Plasma from older children in Malawi inhibits Plasmodium falciparum binding in 3D brain microvessels.
 38874346	Antimalarial activity of cecropin antimicrobial peptides derived from Anopheles mosquitoes.
 38874194	Malaria and other infections induce polyreactive antibodies that impact SARS-CoV-2 seropositivity estimations in endemic settings.
-38874098	Varied prevalence of antimalarial drug resistance markers in different populations of newly arrived refugees in Uganda.
+38874098	Varied Prevalence of Antimalarial Drug Resistance Markers in Different Populations of Newly Arrived Refugees in Uganda.
 38872642	Imported Malaria at the Ibn Sina University Hospital in Rabat: A Retrospective Study of 81 Cases.
 38872579	Polyols induce acute oxidative stress and mortality in Indian malaria vector Anopheles stephensi (Diptera: Culicidae): potential for use as sugar-cum-toxin source in toxic sugar baits.
 38872534	Modelling mosquito population suppression based on competition system with strong and weak Allee effect.
@@ -1006,7 +1006,7 @@
 38782110	Avian haemosporidian parasites from wild-caught mosquitoes with new evidence on vectors of Plasmodium matutinum.
 38781994	[The new guideline for gastrointestinal infections].
 38781850	Dissimilar effect of organometallic ruthenium complexes on the viability of MDR and non-MDR experimental models.
-38781438	Micro-heterogeneity of transmission shapes submicroscopic malaria carriage in coastal Tanzania.
+38781438	Microheterogeneity of Transmission Shapes Submicroscopic Malaria Carriage in Coastal Tanzania.
 38780838	Analysis of the interaction of antimalarial agents with Plasmodium falciparum glutathione reductase through molecular mechanical calculations.
 38780542	Basophil-Derived IL-4 and IL-13 Protect Intestinal Barrier Integrity and Control Bacterial Translocation during Malaria.
 38780294	Applying lessons of COVID-19 and other emerging infectious diseases to future outbreaks.
@@ -1159,7 +1159,7 @@
 38729224	Long-acting intramuscular injections of ELQ-331, an antimalarial agent.
 38728650	Assessment of the impact of pregnancy and malaria infection on the variation of neutrophil levels in women from San, Mali.
 38728426	Novel functions for Von Willebrand factor.
-38728418	Neutrophil Extracellular Traps (NETs): An Emerging Therapeutic Target to Improve Infectious Diseases Outcomes.
+38728418	Neutrophil Extracellular Traps: An Emerging Therapeutic Target to Improve Infectious Disease Outcomes.
 38728404	Predicting the age of field Anopheles mosquitoes using mass spectrometry and deep learning.
 38728310	The PreQuine Platform: A novel diagnostic tool for measuring glucose-6-phosphate dehydrogenase (G6PD) activity and hemoglobin concentration.
 38728141	Lymphatic network drainage resolves cerebral edema and facilitates recovery from experimental cerebral malaria.
@@ -1998,7 +1998,7 @@
 38438925	Evaluation of a financial incentive intervention on malaria prevalence among the residents in Lake Victoria basin, Kenya: study protocol for a cluster-randomized controlled trial.
 38438874	Establishing and applying an adaptive framework for imported malaria: a field practice in Anhui Province, China from 2012 to 2022.
 38438501	New antimalarial iromycin analogs produced by Streptomyces sp. RBL-0292.
-38438123	Could less be more? Accounting for fractional-dose regimens and different number of vaccine doses when measuring the impact of the RTS, S/AS01E malaria vaccine.
+38438123	Could Less Be More? Accounting for Fractional-Dose Regimens and Different Number of Vaccine Doses When Measuring the Impact of the RTS,S/AS01E Malaria Vaccine.
 38437566	Reply to Kaestner et al.: Pioneering quantitative platforms for stored red blood cell assessment open the door for precision transfusion medicine.
 38437239	Structure-guided design of VAR2CSA-based immunogens and a cocktail strategy for a placental malaria vaccine.
 38435417	Factors associated with acute watery diarrhea among children aged 0-59 months in Obongi District, Uganda, April 2022: A case-control study.
@@ -2522,7 +2522,7 @@
 38272885	Investigating the etiologies of non-malarial febrile illness in Senegal using metagenomic sequencing.
 38272740	Appropriate naming of the two Plasmodium ovale species.
 38271991	Enhanced Antimalarial and Antisequestration Activity of Methoxybenzenesulfonate-Modified Biopolymers and Nanoparticles for Tackling Severe Malaria.
-38271704	Host transcriptional meta-signatures reveal diagnostic biomarkers for Plasmodium falciparum malaria.
+38271704	Host Transcriptional Meta-signatures Reveal Diagnostic Biomarkers for Plasmodium falciparum Malaria.
 38270986	Vector Biology and Integrated Management of Malaria Vectors in China.
 38270670	Versatility of reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) from diagnosis of early pathological infection to mutation detection in organisms.
 38270599	Anti-microbial efficacy of a scientifically developed and standardized herbal-alcohol sanitizer.
@@ -2901,7 +2901,7 @@
 38134753	A positive correlation between mutated gene of sickle cell anemia and glucose-6-phosphate dehydrogenase among gond tribes of Chhattisgarh, India.
 38134663	Structure activity relationship and target prediction for ABX464 analogues in Caenorhabditis elegans.
 38134523	Recent advances in the synthesis and antimalarial activity of 1,2,4-trioxanes.
-38134305	Seroreversion to Chlamydia trachomatis Pgp3 antigen among children in a hyperendemic region of Amhara, Ethiopia.
+38134305	Seroreversion to Chlamydia trachomatis Pgp3 Antigen Among Children in a Hyperendemic Region of Amhara, Ethiopia.
 38133451	Record Linkage for Malaria Deaths Data Recovery and Surveillance in Brazil.
 38133442	Medicines for Malaria Venture Pandemic Box In Vitro Screening Identifies Compounds Highly Active against the Tachyzoite Stage of Toxoplasma gondii.
 38133328	Plasmodium vivax Malaria and G6PD Testing.
