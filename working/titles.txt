@@ -1,3 +1,6 @@
+39148059	Improving adherence to severe malaria treatment guidelines in children at a Ugandan regional hospital: assessment of a quality improvement initiative.
+39148027	Pooled prevalence of malaria and associated factors among vulnerable populations in Ethiopia: a systematic review and meta-analysis.
+39147832	Spillover effects of targeted malaria interventions benefit neighboring areas.
 39146335	Predictors of change in early child development among children with stunting: Secondary analysis of a randomized trial in Uganda.
 39146283	The use of the WHO criteria to detect severe malaria among patients clinically diagnosed with uncomplicated malaria.
 39146278	Impact of blood meals taken on ivermectin-treated livestock on survival and egg production of the malaria vector Anopheles coluzzii under laboratory conditions.
@@ -9994,6 +9997,3 @@
 35717642	Population Immunity to Pre-Omicron and Omicron Severe Acute Respiratory Syndrome Coronavirus 2 Variants in US States and Counties Through 1 December 2021.
 35716700	Clinical evaluation of the BioFire Global Fever Panel for the identification of malaria, leptospirosis, chikungunya, and dengue from whole blood: a prospective, multicentre, cross-sectional diagnostic accuracy study.
 35716585	3-nitroimidazo[1,2-b]pyridazine as a novel scaffold for antiparasitics with sub-nanomolar anti-Giardia lamblia activity.
-35716113	Epidemiology of indigenous Plasmodium knowlesi infection in Sarawak, 2011-2019.
-35715862	Genetics of cerebral malaria: pathogenesis, biomarkers and emerging therapeutic interventions.
-35715803	Cellular and antibody response in GMZ2-vaccinated Gabonese volunteers in a controlled human malaria infection trial.
