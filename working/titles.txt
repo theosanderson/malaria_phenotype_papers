@@ -1,3 +1,9 @@
+39146335	Predictors of change in early child development among children with stunting: Secondary analysis of a randomized trial in Uganda.
+39146283	The use of the WHO criteria to detect severe malaria among patients clinically diagnosed with uncomplicated malaria.
+39146278	Impact of blood meals taken on ivermectin-treated livestock on survival and egg production of the malaria vector Anopheles coluzzii under laboratory conditions.
+39146276	Evaluation of the binding interactions between Plasmodium falciparum Kelch-13 mutant recombinant proteins with artemisinin.
+39146233	A guide for the generation of repositories of clinical samples for research on Chagas disease.
+39146231	A standardized clinical database for research in Chagas disease: The NHEPACHA network.
 39145520	Daily oral iron supplementation during pregnancy.
 39145372	Geographical and temporal dynamics of genetic diversity of Plasmodium falciparum merozoite surface proteins 1/2 in India.
 39145370	Epidemiological characteristics and molecular identification of Plasmodium species among cases of imported malaria in Kuwait during the COVID-19 pandemic.
@@ -9991,9 +9997,3 @@
 35716113	Epidemiology of indigenous Plasmodium knowlesi infection in Sarawak, 2011-2019.
 35715862	Genetics of cerebral malaria: pathogenesis, biomarkers and emerging therapeutic interventions.
 35715803	Cellular and antibody response in GMZ2-vaccinated Gabonese volunteers in a controlled human malaria infection trial.
-35715579	Retraction Note: Human blood type influences the host-seeking behavior and fecundity of the Asian malaria vector Anopheles stephensi.
-35715548	In vitro and in vivo antimalarial activity and chemical profiling of sugarcane leaves.
-35715352	Vaccines based on the replication-deficient simian adenoviral vector ChAdOx1: Standardized template with key considerations for a risk/benefit assessment.
-35715304	Still enigmatic: Plasmodium oocysts 125 years after their discovery.
-35715223	Structural Insight into Effective Inhibitors' Binding to Toxoplasma gondii Dihydrofolate Reductase Thymidylate Synthase.
-35714924	Anopheles blood meal sources and entomological indicators related to Plasmodium transmission in malaria endemic areas of Colombia.
