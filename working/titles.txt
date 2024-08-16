@@ -1,3 +1,5 @@
+39150762	A Handheld Tool for the Rapid Morphological Identification of Mosquito Species (VectorCam) for Community-Based Malaria Vector Surveillance: Summative Usability Study.
+39150723	Structure and Biosynthesis of Perochalasins A-C, Open-Chain Merocytochalasans Produced by the Marine-Derived Fungus Peroneutypa sp. M16.
 39149823	Differences between males and females in infectious diseases notifications in the EU/EEA, 2012 to 2021.
 39149792	Post-Artesunate Delayed Hemolysis in Pediatric Malaria Patients in the United States.
 39149419	Late sporogonic stages of Plasmodium parasites are susceptible to the melanization response in Anopheles gambiae mosquitoes.
@@ -9995,5 +9997,3 @@
 35721323	Chemical Composition, Antioxidant, and Mosquito Larvicidal Activity of Essential Oils from Hyptis capitata Jacq.
 35721188	Artesunate Therapy Alleviates Fracture-Associated Chronic Pain After Orthopedic Surgery by Suppressing CCL21-Dependent TREM2/DAP12 Inflammatory Signaling in Mice.
 35721148	Ethnomedicinal, Phytochemical and Pharmacological Investigations of Tetradenia riparia (Hochst.) Codd (Lamiaceae).
-35720362	Quantifying Reductions in Plasmodium falciparum Infectivity to Mosquitos: A Sample Size Calculator to Inform Clinical Trials on Transmission-Reducing Interventions.
-35720313	A Molecular Analysis of Memory B Cell and Antibody Responses Against Plasmodium falciparum Merozoite Surface Protein 1 in Children and Adults From Uganda.
