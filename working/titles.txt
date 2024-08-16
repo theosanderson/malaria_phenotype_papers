@@ -1,3 +1,11 @@
+39149823	Differences between males and females in infectious diseases notifications in the EU/EEA, 2012 to 2021.
+39149792	Post-Artesunate Delayed Hemolysis in Pediatric Malaria Patients in the United States.
+39149419	Late sporogonic stages of Plasmodium parasites are susceptible to the melanization response in Anopheles gambiae mosquitoes.
+39149304	Rapid phenotypic and genotypic change in a laboratory schistosome population.
+39149112	"Seasoning" antimalarial drugs' action: chloroquine bile salts as novel triple-stage antiplasmodial hits.
+39148845	Phase I study on the pharmacokinetics of intravaginal, self-administered artesunate vaginal pessaries among women in Kenya.
+39148823	National genomic profiling of Plasmodium falciparum antimalarial resistance in Zambian children participating in the 2018 Malaria Indicator Survey.
+39148420	Reduction of oxidative damage in prostate tissue caused by radiation and/or chloroquine by apocynin.
 39148059	Improving adherence to severe malaria treatment guidelines in children at a Ugandan regional hospital: assessment of a quality improvement initiative.
 39148027	Pooled prevalence of malaria and associated factors among vulnerable populations in Ethiopia: a systematic review and meta-analysis.
 39147832	Spillover effects of targeted malaria interventions benefit neighboring areas.
@@ -9989,11 +9997,3 @@
 35721148	Ethnomedicinal, Phytochemical and Pharmacological Investigations of Tetradenia riparia (Hochst.) Codd (Lamiaceae).
 35720362	Quantifying Reductions in Plasmodium falciparum Infectivity to Mosquitos: A Sample Size Calculator to Inform Clinical Trials on Transmission-Reducing Interventions.
 35720313	A Molecular Analysis of Memory B Cell and Antibody Responses Against Plasmodium falciparum Merozoite Surface Protein 1 in Children and Adults From Uganda.
-35720305	Corrigendum: CCR2 Is Dispensable for Disease Resolution but Required for the Restoration of Leukocyte Homeostasis Upon Experimental Malaria-Associated Acute Respiratory Distress Syndrome.
-35720297	GMZ2 Vaccine-Induced Antibody Responses, Naturally Acquired Immunity and the Incidence of Malaria in Burkinabe Children.
-35720135	Seroprevalence of anti-SARS-CoV-2 antibodies in Senegal: a national population-based cross-sectional survey, between October and November 2020.
-35719356	Uncovering a Cryptic Site of Malaria Pathogenesis: Models to Study Interactions Between Plasmodium and the Bone Marrow.
-35718220	Investigating the impact of multiple feeding attempts on mosquito dynamics via mathematical models.
-35717642	Population Immunity to Pre-Omicron and Omicron Severe Acute Respiratory Syndrome Coronavirus 2 Variants in US States and Counties Through 1 December 2021.
-35716700	Clinical evaluation of the BioFire Global Fever Panel for the identification of malaria, leptospirosis, chikungunya, and dengue from whole blood: a prospective, multicentre, cross-sectional diagnostic accuracy study.
-35716585	3-nitroimidazo[1,2-b]pyridazine as a novel scaffold for antiparasitics with sub-nanomolar anti-Giardia lamblia activity.
