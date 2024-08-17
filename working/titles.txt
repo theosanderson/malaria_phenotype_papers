@@ -1,3 +1,9 @@
+39152481	Application of multivariate binary logistic regression grouped outlier statistics and geospatial logistic model to identify villages having unusual health-seeking habits for childhood malaria in Malawi.
+39151981	Community-based strategies to increase coverage of intermittent preventive treatment of malaria in pregnancy with sulfadoxine-pyrimethamine in sub-Saharan Africa: a systematic review, meta-analysis, meta-ethnography, and economic assessment.
+39151976	Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data, 2010-23.
+39151787	Persistent carriage of subpatent Plasmodium falciparum parasites associated with clinical malaria in a low transmission area in Senegal.
+39151606	Cryptic Congenital Malaria Infection Causing Fever of Unknown Origin in an Infant.
+39151473	THE GENETICALLY ENCODED CALCIUM INDICATOR GCAMP3 REVEALS SPONTANEOUS CALCIUM OSCILLATIONS AT ASEXUAL STAGES OF THE HUMAN MALARIA PARASITE PLASMODIUM FALCIPARUM.
 39151016	The mRNA content of plasma extracellular vesicles provides a window into molecular processes in the brain during cerebral malaria.
 39150978	Neutrophil activation, acute lung injury and disease severity in Plasmodium knowlesi malaria.
 39150762	A Handheld Tool for the Rapid Morphological Identification of Mosquito Species (VectorCam) for Community-Based Malaria Vector Surveillance: Summative Usability Study.
@@ -9991,9 +9997,3 @@
 35725456	Maintenance of high temporal Plasmodium falciparum genetic diversity and complexity of infection in asymptomatic and symptomatic infections in Kilifi, Kenya from 2007 to 2018.
 35725411	Need for optimized dosages in the design of comparative clinical trials of anti-malarial drugs.
 35725248	Factors associated with hospital length of stay in patients admitted with suspected malaria in Kenya: secondary analysis of a cross-sectional survey.
-35724931	End-point detection of loop-mediated isothermal amplification (LAMP) on malaria by direct observation with colorimetric dyes.
-35724448	Atypical B cells in chronic infectious diseases and systemic autoimmunity: puzzles with many missing pieces.
-35724244	Limited genetic diversity and expression profile of Plasmodium falciparum haem detoxification protein: a possible diagnostic target.
-35721832	A stakeholder group assessment of interactions between child health and the sustainable development goals in Cambodia.
-35721633	[Knowledge of malaria and preventive attitudes of Tunisian travellers toward malaria endemic areas].
-35721323	Chemical Composition, Antioxidant, and Mosquito Larvicidal Activity of Essential Oils from Hyptis capitata Jacq.
