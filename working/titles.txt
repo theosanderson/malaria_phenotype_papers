@@ -1,3 +1,5 @@
+39151016	The mRNA content of plasma extracellular vesicles provides a window into molecular processes in the brain during cerebral malaria.
+39150978	Neutrophil activation, acute lung injury and disease severity in Plasmodium knowlesi malaria.
 39150762	A Handheld Tool for the Rapid Morphological Identification of Mosquito Species (VectorCam) for Community-Based Malaria Vector Surveillance: Summative Usability Study.
 39150723	Structure and Biosynthesis of Perochalasins A-C, Open-Chain Merocytochalasans Produced by the Marine-Derived Fungus Peroneutypa sp. M16.
 39149823	Differences between males and females in infectious diseases notifications in the EU/EEA, 2012 to 2021.
@@ -9995,5 +9997,3 @@
 35721832	A stakeholder group assessment of interactions between child health and the sustainable development goals in Cambodia.
 35721633	[Knowledge of malaria and preventive attitudes of Tunisian travellers toward malaria endemic areas].
 35721323	Chemical Composition, Antioxidant, and Mosquito Larvicidal Activity of Essential Oils from Hyptis capitata Jacq.
-35721188	Artesunate Therapy Alleviates Fracture-Associated Chronic Pain After Orthopedic Surgery by Suppressing CCL21-Dependent TREM2/DAP12 Inflammatory Signaling in Mice.
-35721148	Ethnomedicinal, Phytochemical and Pharmacological Investigations of Tetradenia riparia (Hochst.) Codd (Lamiaceae).
