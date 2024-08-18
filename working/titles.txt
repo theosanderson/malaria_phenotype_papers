@@ -1,3 +1,5 @@
+39154272	Inhibition of Plasmodium knowlesi merozoite invasion into human erythrocytes by antibodies raised against the parasite's secreted protein with altered thrombospondin repeat (SPATR).
+39154264	Epidemiological characteristics and strategies for prevention and elimination of malaria in Qingdao, Shandong Province, China from 1949 to 2021.
 39154186	Report of the 2023 Asia Pacific Conference on Mosquito and Vector Control: "reimagining vector control-innovations for a changed world".
 39154104	High prevalence of asymptomatic and subpatent Plasmodium falciparum infections but no histidine-rich protein 2 gene deletion in Bouaké, Côte d'Ivoire.
 39154035	Determinants of the optimal uptake of sulfadoxine-pyrimethamine doses for intermittent treatment of malaria in pregnancy in urban Nigeria.
@@ -9995,5 +9997,3 @@
 35726879	Misstatements in Artemisinin-Based Combination Therapies in Malaria Treatment.
 35726756	Mitigating the risk of transfusion-transmitted infections with vector-borne agents solely by means of pathogen reduction.
 35726222	Review of the ecology and behaviour of Aedes aegypti and Aedes albopictus in Western Africa and implications for vector control.
-35726133	Pyronaridine-artesunate for treating uncomplicated Plasmodium falciparum malaria.
-35725784	Impact of Plasmodium vivax malaria on executive and cognitive functions in elderlies in the Brazilian Amazon.
