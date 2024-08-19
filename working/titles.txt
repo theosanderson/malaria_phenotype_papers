@@ -1,10 +1,10 @@
 39155384	Prevalence of asymptomatic malaria at the communal level in Burkina Faso: an application of the small area estimation approach.
-39155377	Artemisinin ameliorates thyroid function and complications in adult male hypothyroid rats via upregulation of the L1 cell adhesion molecule.
 39154751	Discovery of a small-molecule inhibitor of KSHV lytic replication from the MMV Pandemic Response Box.
 39154713	Inhibitors of Rickettsia prowazekii methionine aminopeptidase 1 identified from the Pandemic Response Box.
 39154665	Effects of prenatal small-quantity lipid-based nutrient supplements on pregnancy, birth and infant outcomes: a systematic review and meta-analysis of individual participant data from randomized controlled trials in low- and middle-income countries.
 39154553	Identification, characterization, and cellular localization of Leishmania major CTP:phosphocholine cytidylyltransferase.
 39154528	Naringin and chloroquine combination mitigates chloroquine-resistant parasite-induced malaria pathogenesis by attenuating the inflammatory response.
+39155377	Artemisinin ameliorates thyroid function and complications in adult male hypothyroid rats via upregulation of the L1 cell adhesion molecule.
 39154272	Inhibition of Plasmodium knowlesi merozoite invasion into human erythrocytes by antibodies raised against the parasite's secreted protein with altered thrombospondin repeat (SPATR).
 39154264	Epidemiological characteristics and strategies for prevention and elimination of malaria in Qingdao, Shandong Province, China from 1949 to 2021.
 39154186	Report of the 2023 Asia Pacific Conference on Mosquito and Vector Control: "reimagining vector control-innovations for a changed world".
