@@ -10,6 +10,7 @@
 39153293	Adverse events following immunization (AEFI) with fractional one-fifth and one-half doses of yellow fever vaccine compared to full dose in children 9-23 months old in Uganda, 2019-2020 - Preliminary report.
 39153210	Analytical and operational considerations of measuring glucose 6-phosphate dehydrogenase (G6PD) activity using a fully automated assay.
 39152481	Application of multivariate binary logistic regression grouped outlier statistics and geospatial logistic model to identify villages having unusual health-seeking habits for childhood malaria in Malawi.
+39152149	Motion blur microscopy: in vitro imaging of cell adhesion dynamics in whole blood flow.
 39151981	Community-based strategies to increase coverage of intermittent preventive treatment of malaria in pregnancy with sulfadoxine-pyrimethamine in sub-Saharan Africa: a systematic review, meta-analysis, meta-ethnography, and economic assessment.
 39151976	Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data, 2010-23.
 39151787	Persistent carriage of subpatent Plasmodium falciparum parasites associated with clinical malaria in a low transmission area in Senegal.
@@ -9996,4 +9997,3 @@
 35727057	Parasite Viability as a Measure of In Vivo Drug Activity in Preclinical and Early Clinical Antimalarial Drug Assessment.
 35726879	Misstatements in Artemisinin-Based Combination Therapies in Malaria Treatment.
 35726756	Mitigating the risk of transfusion-transmitted infections with vector-borne agents solely by means of pathogen reduction.
-35726222	Review of the ecology and behaviour of Aedes aegypti and Aedes albopictus in Western Africa and implications for vector control.
