@@ -1,3 +1,10 @@
+39155384	Prevalence of asymptomatic malaria at the communal level in Burkina Faso: an application of the small area estimation approach.
+39155377	Artemisinin ameliorates thyroid function and complications in adult male hypothyroid rats via upregulation of the L1 cell adhesion molecule.
+39154751	Discovery of a small-molecule inhibitor of KSHV lytic replication from the MMV Pandemic Response Box.
+39154713	Inhibitors of Rickettsia prowazekii methionine aminopeptidase 1 identified from the Pandemic Response Box.
+39154665	Effects of prenatal small-quantity lipid-based nutrient supplements on pregnancy, birth and infant outcomes: a systematic review and meta-analysis of individual participant data from randomized controlled trials in low- and middle-income countries.
+39154553	Identification, characterization, and cellular localization of Leishmania major CTP:phosphocholine cytidylyltransferase.
+39154528	Naringin and chloroquine combination mitigates chloroquine-resistant parasite-induced malaria pathogenesis by attenuating the inflammatory response.
 39154272	Inhibition of Plasmodium knowlesi merozoite invasion into human erythrocytes by antibodies raised against the parasite's secreted protein with altered thrombospondin repeat (SPATR).
 39154264	Epidemiological characteristics and strategies for prevention and elimination of malaria in Qingdao, Shandong Province, China from 1949 to 2021.
 39154186	Report of the 2023 Asia Pacific Conference on Mosquito and Vector Control: "reimagining vector control-innovations for a changed world".
@@ -9990,10 +9997,3 @@
 35729612	A cluster randomized trial of delivery of intermittent preventive treatment of malaria in pregnancy at the community level in Malawi.
 35729574	Mechanisms of Transcranial Doppler Ultrasound phenotypes in paediatric cerebral malaria remain elusive.
 35729571	Quinine plus clindamycin vs artemether-lumefantrine for treatment of uncomplicated falciparum malaria in western Kenya.
-35729212	Macaca fascicularis and Macaca nemestrina infected with zoonotic malaria parasites are widely distributed in Sarawak, Malaysian Borneo.
-35727821	Evaluation of antibody serology to determine current helminth and Plasmodium falciparum infections in a co-endemic area in Southern Mozambique.
-35727710	"Misstatements in Artemisinin-Based Combination Therapies in Malaria Treatment" by Fleckenstein and Miller.
-35727231	Design, Synthesis, and Optimization of Macrocyclic Peptides as Species-Selective Antimalaria Proteasome Inhibitors.
-35727057	Parasite Viability as a Measure of In Vivo Drug Activity in Preclinical and Early Clinical Antimalarial Drug Assessment.
-35726879	Misstatements in Artemisinin-Based Combination Therapies in Malaria Treatment.
-35726756	Mitigating the risk of transfusion-transmitted infections with vector-borne agents solely by means of pathogen reduction.
