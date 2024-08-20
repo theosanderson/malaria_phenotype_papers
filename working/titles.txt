@@ -1,10 +1,12 @@
+39162008	Phytochemical Analysis and In Vivo Antimalarial Activities of Ethyl Acetate Fraction of Spilanthes filicaulis on Mice Subjected to Plasmodium berghei.
+39161730	Clinical immunity to malaria involves epigenetic reprogramming of innate immune cells.
 39160583	Receipt of antimalarials among children aged 6-59 months in Nigeria from 2010 to 2021.
+39160545	Publisher Correction: Examining geographical inequalities for malaria outcomes and spending on malaria in 40 malaria-endemic countries, 2010-2020.
 39160174	Host-pathogen interactions in the Plasmodium-infected mouse liver at spatial and single-cell resolution.
 39160102	Evaluating the gap in rapid diagnostic testing: insights from subnational Kenyan routine health data.
 39159634	Resistant malaria parasites gaining momentum in Africa.
 39159633	Evidence of artemisinin partial resistance in northwestern Tanzania: clinical and molecular markers of resistance.
 39159629	Prevalence of mutations associated with artemisinin partial resistance and sulfadoxine-pyrimethamine resistance in 13 regions in Tanzania in 2021: a cross-sectional survey.
-39160545	Publisher Correction: Examining geographical inequalities for malaria outcomes and spending on malaria in 40 malaria-endemic countries, 2010-2020.
 39158078	Abundance, distribution, and dynamics of Anopheles species (Diptera: Culicidae) in Iowa, United States.
 39155843	Specific antibody responses to Qβ-displayed Plasmodium falciparum-derived UB05 and MSP3 proteins in mother-neonate couples.
 39155384	Prevalence of asymptomatic malaria at the communal level in Burkina Faso: an application of the small area estimation approach.
@@ -9995,5 +9997,3 @@
 35732155	Plasmodium vivax malaria serological exposure markers: Assessing the degree and implications of cross-reactivity with P. knowlesi.
 35731973	Automated analysis of low-field brain MRI in cerebral malaria.
 35731850	Impact of Intermittent Presumptive Treatment for Malaria in Pregnancy on Hospital Birth Outcomes on the Kenyan Coast.
-35731843	Transmission Blocking Activity of Low-dose Tafenoquine in Healthy Volunteers Experimentally Infected With Plasmodium falciparum.
-35731838	DNA replication dynamics during erythrocytic schizogony in the malaria parasites Plasmodium falciparum and Plasmodium knowlesi.
