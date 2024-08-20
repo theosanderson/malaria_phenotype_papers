@@ -1,3 +1,10 @@
+39160583	Receipt of antimalarials among children aged 6-59 months in Nigeria from 2010 to 2021.
+39160545	Publisher Correction: Examining geographical inequalities for malaria outcomes and spending on malaria in 40 malaria-endemic countries, 2010-2020.
+39160174	Host-pathogen interactions in the Plasmodium-infected mouse liver at spatial and single-cell resolution.
+39160102	Evaluating the gap in rapid diagnostic testing: insights from subnational Kenyan routine health data.
+39159634	Resistant malaria parasites gaining momentum in Africa.
+39159633	Evidence of artemisinin partial resistance in northwestern Tanzania: clinical and molecular markers of resistance.
+39159629	Prevalence of mutations associated with artemisinin partial resistance and sulfadoxine-pyrimethamine resistance in 13 regions in Tanzania in 2021: a cross-sectional survey.
 39158078	Abundance, distribution, and dynamics of Anopheles species (Diptera: Culicidae) in Iowa, United States.
 39155843	Specific antibody responses to Qβ-displayed Plasmodium falciparum-derived UB05 and MSP3 proteins in mother-neonate couples.
 39155384	Prevalence of asymptomatic malaria at the communal level in Burkina Faso: an application of the small area estimation approach.
@@ -9990,10 +9997,3 @@
 35731850	Impact of Intermittent Presumptive Treatment for Malaria in Pregnancy on Hospital Birth Outcomes on the Kenyan Coast.
 35731843	Transmission Blocking Activity of Low-dose Tafenoquine in Healthy Volunteers Experimentally Infected With Plasmodium falciparum.
 35731838	DNA replication dynamics during erythrocytic schizogony in the malaria parasites Plasmodium falciparum and Plasmodium knowlesi.
-35731833	The AMA1-RON complex drives Plasmodium sporozoite invasion in the mosquito and mammalian hosts.
-35731580	Spatial distribution of incident pediatric Burkitt lymphoma in central and northern Malawi and association with malaria prevalence.
-35730803	CCR6 expression reduces mouse survival upon malarial challenge with Plasmodium berghei NK65 strain.
-35729642	Implementation and challenges to preventing the re-establishment of malaria in China in the COVID-19 era.
-35729623	Intensity of insecticide resistance in the major malaria vector Anopheles funestus from Chikwawa, rural Southern Malawi.
-35729617	Gaps in knowledge and practices of malaria prevention in Francophone African immigrants in Metropolitan Edmonton.
-35729612	A cluster randomized trial of delivery of intermittent preventive treatment of malaria in pregnancy at the community level in Malawi.
