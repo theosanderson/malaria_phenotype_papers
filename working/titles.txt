@@ -1,3 +1,7 @@
+39162960	Novel molecular inhibitor design for Plasmodium falciparum Lactate dehydrogenase enzyme using machine learning generated library of diverse compounds.
+39162546	Immune gene expression changes more during a malaria transmission season than between consecutive seasons.
+39162526	Protein disulfide isomerase PDI8 is indispensable for parasite growth and associated with secretory protein processing in Toxoplasma gondii.
+39162502	Orthologs of Plasmodium ICM1 are dispensable for Ca(2+) mobilization in Toxoplasma gondii.
 39162008	Phytochemical Analysis and In Vivo Antimalarial Activities of Ethyl Acetate Fraction of Spilanthes filicaulis on Mice Subjected to Plasmodium berghei.
 39161730	Clinical immunity to malaria involves epigenetic reprogramming of innate immune cells.
 39160583	Receipt of antimalarials among children aged 6-59 months in Nigeria from 2010 to 2021.
@@ -9993,7 +9997,3 @@
 35733306	Convalescent Plasma the Experience and Journey from Blockbuster to Incognito: A Single Centre Experience.
 35732943	Discovery and Characterization of Oxidative Enzymes Involved in Monoterpenoid Indole Alkaloid Biosynthesis.
 35732703	Estimating female malaria mosquito age by quantifying Y-linked genes in stored male spermatozoa.
-35732377	Cutaneous manifestations of malaria.
-35732155	Plasmodium vivax malaria serological exposure markers: Assessing the degree and implications of cross-reactivity with P. knowlesi.
-35731973	Automated analysis of low-field brain MRI in cerebral malaria.
-35731850	Impact of Intermittent Presumptive Treatment for Malaria in Pregnancy on Hospital Birth Outcomes on the Kenyan Coast.
