@@ -1,12 +1,12 @@
-39163893	Eurycomanone inhibits osteosarcoma growth and metastasis by suppressing GRP78 expression.
-39163788	Immunogenic and diagnostic potential of recombinant apical membrane antigen-1 from Plasmodium malariae.
-39164801	Targeting 8-oxoguanine DNA glycosylase-1 (OGG1) as a therapeutic strategy in inflammatory-related diseases.
 39164768	Semi-field evaluation of electrocuting eave tubes for the control of endophagic mosquitoes in south-east Tanzania.
 39164764	Full maturation of in vitro Plasmodium falciparum oocysts using the AlgiMatrix 3D culture system.
 39164725	Longitudinal survey of insecticide resistance in a village of central region of Burkina Faso reveals co-occurrence of 1014F, 1014S and 402L mutations in Anopheles coluzzii and Anopheles arabiensis.
 39164692	Awareness, knowledge, attitude, and practice of adverse drug reaction reporting among health workers in primary health centres participating in seasonal malaria chemoprevention campaign in Nigeria in 2022: a cross-sectional survey.
 39164620	Non-malarial febrile illness: a systematic review of published aetiological studies and case reports from China, 1980-2015.
 39164542	Glucose-6-phosphate Dehydrogenase Variants: Analysing in Indian Plasmodium vivax Patients.
+39163893	Eurycomanone inhibits osteosarcoma growth and metastasis by suppressing GRP78 expression.
+39163788	Immunogenic and diagnostic potential of recombinant apical membrane antigen-1 from Plasmodium malariae.
+39164801	Targeting 8-oxoguanine DNA glycosylase-1 (OGG1) as a therapeutic strategy in inflammatory-related diseases.
 39163245	Bacterial Genomics for National Antimicrobial Resistance Surveillance in Cambodia.
 39162960	Novel molecular inhibitor design for Plasmodium falciparum Lactate dehydrogenase enzyme using machine learning generated library of diverse compounds.
 39162546	Immune gene expression changes more during a malaria transmission season than between consecutive seasons.
