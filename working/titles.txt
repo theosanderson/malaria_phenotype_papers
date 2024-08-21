@@ -1,3 +1,12 @@
+39163893	Eurycomanone inhibits osteosarcoma growth and metastasis by suppressing GRP78 expression.
+39163788	Immunogenic and diagnostic potential of recombinant apical membrane antigen-1 from Plasmodium malariae.
+39164801	Targeting 8-oxoguanine DNA glycosylase-1 (OGG1) as a therapeutic strategy in inflammatory-related diseases.
+39164768	Semi-field evaluation of electrocuting eave tubes for the control of endophagic mosquitoes in south-east Tanzania.
+39164764	Full maturation of in vitro Plasmodium falciparum oocysts using the AlgiMatrix 3D culture system.
+39164725	Longitudinal survey of insecticide resistance in a village of central region of Burkina Faso reveals co-occurrence of 1014F, 1014S and 402L mutations in Anopheles coluzzii and Anopheles arabiensis.
+39164692	Awareness, knowledge, attitude, and practice of adverse drug reaction reporting among health workers in primary health centres participating in seasonal malaria chemoprevention campaign in Nigeria in 2022: a cross-sectional survey.
+39164620	Non-malarial febrile illness: a systematic review of published aetiological studies and case reports from China, 1980-2015.
+39164542	Glucose-6-phosphate Dehydrogenase Variants: Analysing in Indian Plasmodium vivax Patients.
 39163245	Bacterial Genomics for National Antimicrobial Resistance Surveillance in Cambodia.
 39162960	Novel molecular inhibitor design for Plasmodium falciparum Lactate dehydrogenase enzyme using machine learning generated library of diverse compounds.
 39162546	Immune gene expression changes more during a malaria transmission season than between consecutive seasons.
@@ -16,7 +25,7 @@
 39155843	Specific antibody responses to Qβ-displayed Plasmodium falciparum-derived UB05 and MSP3 proteins in mother-neonate couples.
 39155384	Prevalence of asymptomatic malaria at the communal level in Burkina Faso: an application of the small area estimation approach.
 39155377	Artemisinin ameliorates thyroid function and complications in adult male hypothyroid rats via upregulation of the L1 cell adhesion molecule.
-39154751	Discovery of a small-molecule inhibitor of KSHV lytic replication from the MMV Pandemic Response Box.
+39154751	Discovery of a small-molecule inhibitor of KSHV lytic replication from the MMV pandemic response box.
 39154713	Inhibitors of Rickettsia prowazekii methionine aminopeptidase 1 identified from the Pandemic Response Box.
 39154665	Effects of prenatal small-quantity lipid-based nutrient supplements on pregnancy, birth and infant outcomes: a systematic review and meta-analysis of individual participant data from randomized controlled trials in low- and middle-income countries.
 39154553	Identification, characterization, and cellular localization of Leishmania major CTP:phosphocholine cytidylyltransferase.
@@ -9988,12 +9997,3 @@
 35735860	Enhancing the Quality of Spray Application in IRS: Evaluation of the Micron Track Sprayer.
 35735506	Pathophysiology of Cerebral Malaria: Implications of MSCs as A Regenerative Medicinal Tool.
 35734575	Paving the Way: Contributions of Big Data to Apicomplexan and Kinetoplastid Research.
-35734537	Knowledge of Malaria and Its Uncomplicated Treatment with Argemone mexicana L. in Selected Districts of Jimma Zone, Oromia Regional State, Ethiopia: A Community-Based Cross Sectional Survey.
-35734341	Plasmodium falciparum coinfection is associated with improved IgE and IgG3 response against hookworm antigens.
-35734335	[Humoral response to Plasmodium falciparum antigenic peptides (MSP1, MSP2, and SR-11.1) in subjects living in endemic areas].
-35734250	Basic Helix-Loop-Helix Transcription Factors AabHLH2 and AabHLH3 Function Antagonistically With AaMYC2 and Are Negative Regulators in Artemisinin Biosynthesis.
-35734173	Innate Immune Responses and P. falciparum CS Repeat-Specific Neutralizing Antibodies Following Vaccination by Skin Scarification.
-35734077	LLIN evaluation in Uganda project (LLINEUP): The fabric integrity, chemical content and bioefficacy of long-lasting insecticidal nets treated with and without piperonyl butoxide across two years of operational use in Uganda.
-35733749	Vector-Borne Diseases amidst COVID-19 Pandemic in India - A Mini-Review.
-35733306	Convalescent Plasma the Experience and Journey from Blockbuster to Incognito: A Single Centre Experience.
-35732943	Discovery and Characterization of Oxidative Enzymes Involved in Monoterpenoid Indole Alkaloid Biosynthesis.
