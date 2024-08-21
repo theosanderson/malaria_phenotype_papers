@@ -1,3 +1,6 @@
+39166076	Oligandrin from Croton oligandrus (Euphorbiaceae) exhibits anti-breast cancer activity through immune-boosting mechanisms: In vitro and in vivo study.
+39165078	Progress in Pharmacometrics Implementation and Regulatory Integration in Africa: A Systematic Review.
+39164801	Targeting 8-oxoguanine DNA glycosylase-1 (OGG1) as a therapeutic strategy in inflammatory-related diseases.
 39164768	Semi-field evaluation of electrocuting eave tubes for the control of endophagic mosquitoes in south-east Tanzania.
 39164764	Full maturation of in vitro Plasmodium falciparum oocysts using the AlgiMatrix 3D culture system.
 39164725	Longitudinal survey of insecticide resistance in a village of central region of Burkina Faso reveals co-occurrence of 1014F, 1014S and 402L mutations in Anopheles coluzzii and Anopheles arabiensis.
@@ -6,7 +9,6 @@
 39164542	Glucose-6-phosphate Dehydrogenase Variants: Analysing in Indian Plasmodium vivax Patients.
 39163893	Eurycomanone inhibits osteosarcoma growth and metastasis by suppressing GRP78 expression.
 39163788	Immunogenic and diagnostic potential of recombinant apical membrane antigen-1 from Plasmodium malariae.
-39164801	Targeting 8-oxoguanine DNA glycosylase-1 (OGG1) as a therapeutic strategy in inflammatory-related diseases.
 39163245	Bacterial Genomics for National Antimicrobial Resistance Surveillance in Cambodia.
 39162960	Novel molecular inhibitor design for Plasmodium falciparum Lactate dehydrogenase enzyme using machine learning generated library of diverse compounds.
 39162546	Immune gene expression changes more during a malaria transmission season than between consecutive seasons.
@@ -9995,5 +9997,3 @@
 35735885	A Follow-Up to the Geographical Distribution of Anopheles Species in Malaria-Endemic and Non-Endemic Areas of Honduras.
 35735881	Reviewing the WHO Tube Bioassay Methodology: Accurate Method Reporting and Numbers of Mosquitoes Are Key to Producing Robust Results.
 35735860	Enhancing the Quality of Spray Application in IRS: Evaluation of the Micron Track Sprayer.
-35735506	Pathophysiology of Cerebral Malaria: Implications of MSCs as A Regenerative Medicinal Tool.
-35734575	Paving the Way: Contributions of Big Data to Apicomplexan and Kinetoplastid Research.
