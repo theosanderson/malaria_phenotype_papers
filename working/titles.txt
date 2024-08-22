@@ -1,3 +1,5 @@
+39167759	Streamlining malaria prevention recommendations for travellers: current and future approaches.
+39166643	First report of an acute case of chagas disease in the municipality of Miraflores, Guaviare, Colombia.
 39166076	Oligandrin from Croton oligandrus (Euphorbiaceae) exhibits anti-breast cancer activity through immune-boosting mechanisms: In vitro and in vivo study.
 39165078	Progress in Pharmacometrics Implementation and Regulatory Integration in Africa: A Systematic Review.
 39164801	Targeting 8-oxoguanine DNA glycosylase-1 (OGG1) as a therapeutic strategy in inflammatory-related diseases.
@@ -9995,5 +9997,3 @@
 35736810	Highly protective antimalarial antibodies via precision library generation and yeast display screening.
 35736550	Discriminant Analysis PCA-LDA Assisted Surface-Enhanced Raman Spectroscopy for Direct Identification of Malaria-Infected Red Blood Cells.
 35735885	A Follow-Up to the Geographical Distribution of Anopheles Species in Malaria-Endemic and Non-Endemic Areas of Honduras.
-35735881	Reviewing the WHO Tube Bioassay Methodology: Accurate Method Reporting and Numbers of Mosquitoes Are Key to Producing Robust Results.
-35735860	Enhancing the Quality of Spray Application in IRS: Evaluation of the Micron Track Sprayer.
