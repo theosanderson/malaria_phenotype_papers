@@ -1,3 +1,5 @@
+39172501	Extended Conformational Selection in the Antigen-Antibody Interaction of the PfAMA1 Protein.
+39172181	Mosquito prevalence, resting habitat preference, and Plasmodium infection status of anophelines in coastal Karnataka during the declining phase of malaria-an exploratory study.
 39171060	Consensus Statements for Assessment and Management of Threatened Miscarriage in the First Trimester in Pakistan: A Three-Step Modified Delphi Approach.
 39170853	Unpacking WHO and CDC Bottle Bioassay Methods: A Comprehensive Literature Review and Protocol Analysis Revealing Key Outcome Predictors.
 39170127	Biophysical profiling of red blood cells from thin-film blood smears using deep learning.
@@ -1518,7 +1520,6 @@
 38641572	Effect of spatiotemporal variables on abundance, biting activity and parity of Nyssorhynchus darlingi (Diptera: Culicidae) in peri-Iquitos, Peru.
 38641142	Cyclic peroxides and analogs: Antibacterial, antimalarial, and cytotoxic marine products from Xisha sponge Diacarnus sp.
 38640940	Global burden associated with 85 pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.
-38640899	Meet the Authors: Christopher R. Mansfield and Emily R. Derbyshire.
 38640243	Liver-targeted polymeric prodrugs delivered subcutaneously improve tafenoquine therapeutic window for malaria radical cure.
 38640099	Protocol for a magnetic resonance imaging study of participants in the fever RCT: Does fever control prevent brain injury in malaria?
 38639491	Novel hydrazone compounds with broad-spectrum antiplasmodial activity and synergistic interactions with antimalarial drugs.
@@ -9996,4 +9997,3 @@
 35739202	Chimeric adenoviral (Ad5.F35) and listeria vector prime-boost immunization is safe and effective for cancer immunotherapy.
 35738824	Alboserpin, the Main Salivary Anticoagulant from the Disease Vector Aedes albopictus, Displays Anti-FXa-PAR Signaling In Vitro and In Vivo.
 35738650	Cost and cost effectiveness of reactive case detection (RACD), reactive focal mass drug administration (rfMDA) and reactive focal vector control (RAVC) to reduce malaria in the low endemic setting of Namibia: an analysis alongside a 2×2 factorial design cluster randomised controlled trial.
-35738461	Pharmaceutical and personal care products as emerging environmental contaminants in Nigeria: A systematic review.
