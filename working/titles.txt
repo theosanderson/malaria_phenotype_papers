@@ -1,3 +1,5 @@
+39169341	Measuring preparedness to infectious diseases among people exposed to climate disasters in Cabo Delgado, Mozambique: a cross-sectional study.
+39168412	Proteostasis is a key driver of the pathogenesis in Apicomplexa.
 39167759	Streamlining malaria prevention recommendations for travellers: current and future approaches.
 39166643	First report of an acute case of chagas disease in the municipality of Miraflores, Guaviare, Colombia.
 39166076	Oligandrin from Croton oligandrus (Euphorbiaceae) exhibits anti-breast cancer activity through immune-boosting mechanisms: In vitro and in vivo study.
@@ -150,7 +152,7 @@
 39112600	Host-specific effects of a generalist parasite of mosquitoes.
 39111639	Orally dissolving film as a potential vaccine delivery carrier to prevent influenza virus infection.
 39111627	Development of modern Chinese medicine guided by molecular compatibility theory.
-39111553	Correlates of body composition in children with stunting: A cross-sectional study in Uganda.
+39111553	Correlates of Body Composition in Children with Stunting: A Cross-sectional Study in Uganda.
 39108983	Genetic diversity of Plasmodium malariae in sub-Saharan Africa: a two-marker genotyping approach for molecular epidemiological studies.
 39108859	Alveolar macrophages and monocyte subpopulations during Plasmodium berghei NK65 experimental malaria-associated acute respiratory distress syndrome.
 39108638	Phylogenetic distribution of DNA topoisomerase VI and its distinction from SPO11.
@@ -9995,5 +9997,3 @@
 35737069	Improving the Annotation of the Venom Gland Transcriptome of Pamphobeteus verdolaga, Prospecting Novel Bioactive Peptides.
 35736976	Enhancing Tuberculosis Case-Finding: A Case of Quality Improvement Initiative in Tanzania.
 35736810	Highly protective antimalarial antibodies via precision library generation and yeast display screening.
-35736550	Discriminant Analysis PCA-LDA Assisted Surface-Enhanced Raman Spectroscopy for Direct Identification of Malaria-Infected Red Blood Cells.
-35735885	A Follow-Up to the Geographical Distribution of Anopheles Species in Malaria-Endemic and Non-Endemic Areas of Honduras.
