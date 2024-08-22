@@ -1,3 +1,8 @@
+39171060	Consensus Statements for Assessment and Management of Threatened Miscarriage in the First Trimester in Pakistan: A Three-Step Modified Delphi Approach.
+39170853	Unpacking WHO and CDC Bottle Bioassay Methods: A Comprehensive Literature Review and Protocol Analysis Revealing Key Outcome Predictors.
+39170127	Biophysical profiling of red blood cells from thin-film blood smears using deep learning.
+39170119	Post-independence health research productivity in Portuguese-speaking African countries: A bibliometric analysis of 43 years of research and higher education in Mozambique.
+39169618	Mid-pass Whole-genome Sequencing in a Malagasy Cohort Uncovers Body Composition Associations.
 39169341	Measuring preparedness to infectious diseases among people exposed to climate disasters in Cabo Delgado, Mozambique: a cross-sectional study.
 39168412	Proteostasis is a key driver of the pathogenesis in Apicomplexa.
 39167759	Streamlining malaria prevention recommendations for travellers: current and future approaches.
@@ -9992,8 +9997,3 @@
 35738824	Alboserpin, the Main Salivary Anticoagulant from the Disease Vector Aedes albopictus, Displays Anti-FXa-PAR Signaling In Vitro and In Vivo.
 35738650	Cost and cost effectiveness of reactive case detection (RACD), reactive focal mass drug administration (rfMDA) and reactive focal vector control (RAVC) to reduce malaria in the low endemic setting of Namibia: an analysis alongside a 2×2 factorial design cluster randomised controlled trial.
 35738461	Pharmaceutical and personal care products as emerging environmental contaminants in Nigeria: A systematic review.
-35738280	A genome-wide CRISPR-Cas9 screen identifies CENPJ as a host regulator of altered microtubule organization during Plasmodium liver infection.
-35737709	Geographical distribution and genetic diversity of Plasmodium vivax reticulocyte binding protein 1a correlates with patient antigenicity.
-35737069	Improving the Annotation of the Venom Gland Transcriptome of Pamphobeteus verdolaga, Prospecting Novel Bioactive Peptides.
-35736976	Enhancing Tuberculosis Case-Finding: A Case of Quality Improvement Initiative in Tanzania.
-35736810	Highly protective antimalarial antibodies via precision library generation and yeast display screening.
