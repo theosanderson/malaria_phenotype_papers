@@ -1,3 +1,20 @@
+39180398	Correction to 'DNA sequence and chromatin differentiate sequence-specific transcription factor binding in the human malaria parasite Plasmodium falciparum'.
+39180112	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
+39180068	Using the role model approach to optimise caregiver administration of sulfadoxine-pyrimethamine amodiaquine to children aged 3-59 months in Burkina Faso, Chad and Togo: findings from an evaluation.
+39180067	Preventing the re-establishment of malaria during the COVID-19 pandemic in Sri Lanka: implications for health security.
+39178195	The long road for vaccine development with difficulties and hopes.
+39177882	Performance evaluation of a combination Plasmodium dual-antigen CRP rapid diagnostic test in Lambaréné, Gabon.
+39177677	Micro-scale screening of genetically modified Fusarium fujikuroi strain extends the apicidin family.
+39175062	Advancing spatial repellents for malaria control: effectiveness and cost-effectiveness of a spatial repellent under operational use in Northern Uganda-study protocol for a cluster randomized controlled trial.
+39175014	A review of selective indoor residual spraying for malaria control.
+39174783	Correction to: An overview of artemisinin-resistant malaria and associated Pfk13 gene mutations in Central Africa.
+39174701	A community engagement framework to accelerate the uptake of malaria vaccines in Africa.
+39174598	Long-term blood-free rearing of Anopheles mosquitoes with no effect on fitness, Plasmodium infectivity nor microbiota composition.
+39174515	A broadly cross-reactive i-body to AMA1 potently inhibits blood and liver stages of Plasmodium parasites.
+39174028	Lower Microscopy Sensitivity with Decreasing Malaria Prevalence in the Urban Amazon Region, Brazil, 2018-2021.
+39173888	Image cropping for malaria parasite detection on heterogeneous data.
+39173714	New guidelines reduce the risk of hospitalization for adult patients with uncomplicated Plasmodium falciparum malaria: An observational, multicenter, retrospective French study.
+39173285	MalariaFlow: A comprehensive deep learning platform for multistage phenotypic antimalarial drug discovery.
 39172501	Extended Conformational Selection in the Antigen-Antibody Interaction of the PfAMA1 Protein.
 39172181	Mosquito prevalence, resting habitat preference, and Plasmodium infection status of anophelines in coastal Karnataka during the declining phase of malaria-an exploratory study.
 39171060	Consensus Statements for Assessment and Management of Threatened Miscarriage in the First Trimester in Pakistan: A Three-Step Modified Delphi Approach.
@@ -9980,20 +9997,3 @@
 35745497	Treatment Reducing Endothelial Activation Protects against Experimental Cerebral Malaria.
 35745492	Experimental Hut Trials Reveal That CYP6P9a/b P450 Alleles Are Reducing the Efficacy of Pyrethroid-Only Olyset Net against the Malaria Vector Anopheles funestus but PBO-Based Olyset Plus Net Remains Effective.
 35744972	Homology Modeling and Molecular Docking Approaches for the Proposal of Novel Insecticides against the African Malaria Mosquito (Anopheles gambiae).
-35744958	Artemisia Extracts and Artemisinin-Based Antimalarials for COVID-19 Management: Could These Be Effective Antivirals for COVID-19 Treatment?
-35744912	Catalytic Properties of Caseinolytic Protease Subunit of Plasmodium knowlesi and Its Inhibition by a Member of δ-Lactone, Hyptolide.
-35744701	Ectopic Expression of Plasmodium vivax vir Genes in P. falciparum Affects Cytoadhesion via Increased Expression of Specific var Genes.
-35744665	Genetic Diversity and Phylogenetic Relatedness of Plasmodium ovale curtisi and Plasmodium ovale wallikeri in sub-Saharan Africa.
-35744609	An In Silico Analysis of Malaria Pre-Erythrocytic-Stage Antigens Interpreting Worldwide Genetic Data to Suggest Vaccine Candidate Variants and Epitopes.
-35744600	Vivax Malaria and the Potential Role of the Subtelomeric Multigene vir Superfamily.
-35741864	Gene Conversion Explains Elevated Diversity in the Immunity Modulating APL1 Gene of the Malaria Vector Anopheles funestus.
-35741730	Retrogene Duplication and Expression Patterns Shaped by the Evolution of Sex Chromosomes in Malaria Mosquitoes.
-35741295	Comparison of Rapid Diagnostic Test, Microscopy, and Polymerase Chain Reaction for the Detection of Plasmodium falciparum Malaria in a Low-Transmission Area, Jazan Region, Southwestern Saudi Arabia.
-35741250	Immunoinformatics Design and Assessment of a Multiepitope Antigen (OvMCBL02) for Onchocerciasis Diagnosis and Monitoring.
-35740207	Antiplasmodial Cyclodecapeptides from Tyrothricin Share a Target with Chloroquine.
-35739554	Prolonged fever and exaggerated hypercoagulopathy in malaria vivax relapse and COVID-19 co-infection: a case report.
-35739533	Implementation and acceptance of government-sponsored malaria control interventions in Meghalaya, India.
-35739341	A novel one-step multiplex PCR protocol to detect avian haemosporidian parasites in the subgenus Haemoproteus (Kruse, 1890) used to quantify parasite prevalence in domestic pigeons (Columba livia) in Turkey.
-35739202	Chimeric adenoviral (Ad5.F35) and listeria vector prime-boost immunization is safe and effective for cancer immunotherapy.
-35738824	Alboserpin, the Main Salivary Anticoagulant from the Disease Vector Aedes albopictus, Displays Anti-FXa-PAR Signaling In Vitro and In Vivo.
-35738650	Cost and cost effectiveness of reactive case detection (RACD), reactive focal mass drug administration (rfMDA) and reactive focal vector control (RAVC) to reduce malaria in the low endemic setting of Namibia: an analysis alongside a 2×2 factorial design cluster randomised controlled trial.
