@@ -1,3 +1,25 @@
+39185312	Plant-based nanoparticles targeting malaria management.
+39185231	A fast-acting inhibitor of blood-stage P. falciparum with mechanism distinct from artemisinin and chloroquine.
+39185195	Field-evolved resistance to neonicotinoids in the mosquito, Anopheles gambiae, is associated with downregulation and mutations of nicotinic acetylcholine receptor subunits combined with cytochrome P450-mediated detoxification.
+39185041	Potential distribution of malaria vectors in Central Vietnam: A MaxEnt modeling approach.
+39185035	Effect of neem leaf extract (Azadirachta indica) in reducing the degree of parasitemia and apoptosis in C57BL mice with cerebral malaria.
+39184337	In silico studies of benzothiazole derivatives as potential inhibitors of Anopheles funestus and Anopheles gambiae trehalase.
+39184128	AnoPrimer: Primer Design in malaria vectors informed by range-wide genomic variation.
+39184127	A Phase I trial of Non-invasive Ventilation and seizure prophylaxis with levetiracetam In Children with Cerebral Malaria Trial (NOVICE-M Trial).
+39184096	Effects of drug pressure and human migration on antimalarial resistance in circulating Plasmodium falciparum malaria parasites in Ecuador.
+39183825	Effective toxicity of pH to embryonic development of the banded lampeye killifish Aplocheilichthys spilauchen (Duméril, 1861).
+39183741	Understanding the epidemiology of iNTS disease in Africa in preparation for future iNTS- vaccine studies in endemic countries: Seroepidemiology in Africa of iNTS (SAiNTS) Study Protocol: Malawi site [Version 9.0].
+39182925	Rethinking malaria vaccines: perspectives on currently approved malaria vaccines in India's path to elimination.
+39182698	Ameliorative Potential of Ethanol Extract of Calyptrochilum emarginatum Leaves on Scopolamine-Induced Amnesia in Male Swiss Mice.
+39182654	Antibodies to PfEMP1 and Variant Surface Antigens: Protection after Controlled Human Malaria Infection in Semi-immune Kenyan Adults.
+39182375	Corrigendum to "Host biomarkers for early identification of severe imported Plasmodium falciparum malaria" [Trav. Med. Infect. Dis. 54 (2023) 102608].
+39182127	Bayesian spatio-temporal modelling of environmental, climatic, and socio-economic influences on malaria in Central Vietnam.
+39182108	Impact of mass media campaigns on knowledge of malaria prevention measures among pregnant mothers in Uganda: a propensity score-matched analysis.
+39182094	ABO and Rhesus blood group variability and their associations with clinical malaria presentations.
+39181577	Endocytosis in malaria parasites: An ultrastructural perspective of membrane interplay in a unique infection model.
+39181311	Possible transmission of plasmodium malariae through liver transplantation: Diagnosis with a Sysmex XN-20™ hematology analyzer.
+39181199	Dual nature of type I interferon responses and feedback regulations by SOCS1 dictate malaria mortality.
+39181137	Brazil to distribute paediatric antimalarial in Amazon.
 39180398	Correction to 'DNA sequence and chromatin differentiate sequence-specific transcription factor binding in the human malaria parasite Plasmodium falciparum'.
 39180112	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
 39180068	Using the role model approach to optimise caregiver administration of sulfadoxine-pyrimethamine amodiaquine to children aged 3-59 months in Burkina Faso, Chad and Togo: findings from an evaluation.
@@ -77,7 +99,7 @@
 39151976	Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data, 2010-23.
 39151787	Persistent carriage of subpatent Plasmodium falciparum parasites associated with clinical malaria in a low transmission area in Senegal.
 39151606	Cryptic Congenital Malaria Infection Causing Fever of Unknown Origin in an Infant.
-39151473	THE GENETICALLY ENCODED CALCIUM INDICATOR GCAMP3 REVEALS SPONTANEOUS CALCIUM OSCILLATIONS AT ASEXUAL STAGES OF THE HUMAN MALARIA PARASITE PLASMODIUM FALCIPARUM.
+39151473	The genetically encoded calcium indicator GCaMP3 reveals spontaneous calcium oscillations at asexual stages of the human malaria parasite Plasmodium falciparum.
 39151016	The mRNA content of plasma extracellular vesicles provides a window into molecular processes in the brain during cerebral malaria.
 39150978	Neutrophil activation, acute lung injury and disease severity in Plasmodium knowlesi malaria.
 39150762	A Handheld Tool for the Rapid Morphological Identification of Mosquito Species (VectorCam) for Community-Based Malaria Vector Surveillance: Summative Usability Study.
@@ -9975,25 +9997,3 @@
 35752445	Case-based malaria surveillance and response: implementation of 1-3-7 approach in Jiangsu Province, China.
 35752225	A recent chikungunya outbreak associated with the occurrence of Aedes vectors (Diptera: Culicidae) in Kassala state, eastern Sudan in 2018.
 35752106	Immunoassay for quantification of antigen-specific IgG fucosylation.
-35752063	Rhenium(I) derivatives of aminoquinoline and imidazolopiperidine-based ligands: Synthesis, in vitro and in silico biological evaluation against Plasmodium falciparum.
-35751127	Discovery of novel natural products as rhodesain inhibitors for human African trypanosomiasis using in silico techniques.
-35751070	Screening strategies and laboratory assays to support Plasmodium falciparum histidine-rich protein deletion surveillance: where we are and what is needed.
-35750882	Neurofilament light chain plasma levels are associated with area of brain damage in experimental cerebral malaria.
-35750745	Perfect association between spatial swarm segregation and the X-chromosome speciation island in hybridizing Anopheles coluzzii and Anopheles gambiae populations.
-35750573	Rebounding Malaria and the failures of eradication in Zanzibar: The World Health Organization campaign and the after effects, 1957-1985.
-35749989	Designing and development of phthalimides as potent anti-tubulin hybrid molecules against malaria.
-35749696	Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Africa: Current Considerations and Future Projections.
-35749690	Soluble triggering receptor expressed on myeloid cells-1 (sTREM-1) and other inflammatory mediators in malaria by Plasmodium vivax during enteroparasites coinfection.
-35748334	Malaria in sub-Saharan Africa-a continuing risk for international travellers.
-35747357	In vitro and In vivo antimalarial activities of Avicennia africana P. Beauv. (Avicenniaceae) ethanolic leaf extract.
-35747317	Anopheles stephensi Feeding, Flight Behavior, and Infection With Malaria Parasites are Altered by Ingestion of Serotonin.
-35747276	Mandatory COVID-19 Vaccination: Lessons from Tuberculosis and HIV.
-35746136	Explainable Transformer-Based Deep Learning Model for the Detection of Malaria Parasites from Blood Cell Images.
-35746020	Hepatotropic Peptides Grafted onto Maleimide-Decorated Nanoparticles: Preparation, Characterization and In Vitro Uptake by Human HepaRG Hepatoma Cells.
-35745923	Emulgels Containing Perilla frutescens Seed Oil, Moringa oleifera Seed Oil, and Mixed Seed Oil: Microemulsion and Safety Assessment.
-35745823	A Hybrid of Amodiaquine and Primaquine Linked by Gold(I) Is a Multistage Antimalarial Agent Targeting Heme Detoxification and Thiol Redox Homeostasis.
-35745611	In Silico Prediction of Plasmodium falciparum Cytoadherence Inhibitors That Disrupt Interaction between gC1qR-DBLβ12 Complex.
-35745522	Systematic Review on Diversity and Distribution of Anopheles Species in Gabon: A Fresh Look at the Potential Malaria Vectors and Perspectives.
-35745497	Treatment Reducing Endothelial Activation Protects against Experimental Cerebral Malaria.
-35745492	Experimental Hut Trials Reveal That CYP6P9a/b P450 Alleles Are Reducing the Efficacy of Pyrethroid-Only Olyset Net against the Malaria Vector Anopheles funestus but PBO-Based Olyset Plus Net Remains Effective.
-35744972	Homology Modeling and Molecular Docking Approaches for the Proposal of Novel Insecticides against the African Malaria Mosquito (Anopheles gambiae).
