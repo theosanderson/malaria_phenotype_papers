@@ -1,3 +1,8 @@
+39186146	Estimating the cost for obstetric fistula repair in hospitals of Mozambique: a low-income country.
+39185871	New Features in Visual Dynamics 3.0.
+39185651	Understanding Interactions between a Potential Antimalarial 'MAL2-11B' and its Targets using In Silico Methods.
+39185648	A Review on the Epidemiology and Clinical Management of Neglected Tropical Diseases.
+39185645	Therapeutic Targeting and Role of Cysteine Proteases in the Life Cycle of Malaria Parasite.
 39185312	Plant-based nanoparticles targeting malaria management.
 39185231	A fast-acting inhibitor of blood-stage P. falciparum with mechanism distinct from artemisinin and chloroquine.
 39185195	Field-evolved resistance to neonicotinoids in the mosquito, Anopheles gambiae, is associated with downregulation and mutations of nicotinic acetylcholine receptor subunits combined with cytochrome P450-mediated detoxification.
@@ -9,16 +14,16 @@
 39184096	Effects of drug pressure and human migration on antimalarial resistance in circulating Plasmodium falciparum malaria parasites in Ecuador.
 39183825	Effective toxicity of pH to embryonic development of the banded lampeye killifish Aplocheilichthys spilauchen (Duméril, 1861).
 39183741	Understanding the epidemiology of iNTS disease in Africa in preparation for future iNTS- vaccine studies in endemic countries: Seroepidemiology in Africa of iNTS (SAiNTS) Study Protocol: Malawi site [Version 9.0].
-39182925	Rethinking malaria vaccines: perspectives on currently approved malaria vaccines in India's path to elimination.
 39182698	Ameliorative Potential of Ethanol Extract of Calyptrochilum emarginatum Leaves on Scopolamine-Induced Amnesia in Male Swiss Mice.
 39182654	Antibodies to PfEMP1 and Variant Surface Antigens: Protection after Controlled Human Malaria Infection in Semi-immune Kenyan Adults.
-39182375	Corrigendum to "Host biomarkers for early identification of severe imported Plasmodium falciparum malaria" [Trav. Med. Infect. Dis. 54 (2023) 102608].
 39182127	Bayesian spatio-temporal modelling of environmental, climatic, and socio-economic influences on malaria in Central Vietnam.
-39182108	Impact of mass media campaigns on knowledge of malaria prevention measures among pregnant mothers in Uganda: a propensity score-matched analysis.
 39182094	ABO and Rhesus blood group variability and their associations with clinical malaria presentations.
-39181577	Endocytosis in malaria parasites: An ultrastructural perspective of membrane interplay in a unique infection model.
 39181311	Possible transmission of plasmodium malariae through liver transplantation: Diagnosis with a Sysmex XN-20™ hematology analyzer.
 39181199	Dual nature of type I interferon responses and feedback regulations by SOCS1 dictate malaria mortality.
+39182925	Rethinking malaria vaccines: perspectives on currently approved malaria vaccines in India's path to elimination.
+39182375	Corrigendum to "Host biomarkers for early identification of severe imported Plasmodium falciparum malaria" [Trav. Med. Infect. Dis. 54 (2023) 102608].
+39182108	Impact of mass media campaigns on knowledge of malaria prevention measures among pregnant mothers in Uganda: a propensity score-matched analysis.
+39181577	Endocytosis in malaria parasites: An ultrastructural perspective of membrane interplay in a unique infection model.
 39181137	Brazil to distribute paediatric antimalarial in Amazon.
 39180398	Correction to 'DNA sequence and chromatin differentiate sequence-specific transcription factor binding in the human malaria parasite Plasmodium falciparum'.
 39180112	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
@@ -9992,8 +9997,3 @@
 35752451	A malaria-free China: global importance and key experience.
 35752450	Surveillance and response systems driving malaria elimination in the mountain areas of Hainan Province.
 35752449	Historical review of malaria control and elimination in the border areas of China: A case study of Yunnan Province.
-35752447	One Health approach to improve the malaria elimination programme in Henan Province.
-35752446	Mass drug administration in response to vivax malaria resurgence in Anhui Province of Huanghuai Plain, China.
-35752445	Case-based malaria surveillance and response: implementation of 1-3-7 approach in Jiangsu Province, China.
-35752225	A recent chikungunya outbreak associated with the occurrence of Aedes vectors (Diptera: Culicidae) in Kassala state, eastern Sudan in 2018.
-35752106	Immunoassay for quantification of antigen-specific IgG fucosylation.
