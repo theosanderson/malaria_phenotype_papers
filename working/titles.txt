@@ -1,3 +1,6 @@
+39186718	Malaria reporting timeliness analysis and factors associated with delayed notification, 2018-2022, Nepal.
+39186698	Efficacy and safety of artemether-lumefantrine against uncomplicated falciparum malaria infection in Tanzania, 2022, a single arm clinical trial.
+39186558	Prevention and management of anaemia in pregnancy: Community perceptions and facility readiness in Ghana and Uganda.
 39186146	Estimating the cost for obstetric fistula repair in hospitals of Mozambique: a low-income country.
 39185871	New Features in Visual Dynamics 3.0.
 39185651	Understanding Interactions between a Potential Antimalarial 'MAL2-11B' and its Targets using In Silico Methods.
@@ -14,16 +17,16 @@
 39184096	Effects of drug pressure and human migration on antimalarial resistance in circulating Plasmodium falciparum malaria parasites in Ecuador.
 39183825	Effective toxicity of pH to embryonic development of the banded lampeye killifish Aplocheilichthys spilauchen (Duméril, 1861).
 39183741	Understanding the epidemiology of iNTS disease in Africa in preparation for future iNTS- vaccine studies in endemic countries: Seroepidemiology in Africa of iNTS (SAiNTS) Study Protocol: Malawi site [Version 9.0].
+39182925	Rethinking malaria vaccines: perspectives on currently approved malaria vaccines in India's path to elimination.
 39182698	Ameliorative Potential of Ethanol Extract of Calyptrochilum emarginatum Leaves on Scopolamine-Induced Amnesia in Male Swiss Mice.
 39182654	Antibodies to PfEMP1 and Variant Surface Antigens: Protection after Controlled Human Malaria Infection in Semi-immune Kenyan Adults.
+39182375	Corrigendum to "Host biomarkers for early identification of severe imported Plasmodium falciparum malaria" [Trav. Med. Infect. Dis. 54 (2023) 102608].
 39182127	Bayesian spatio-temporal modelling of environmental, climatic, and socio-economic influences on malaria in Central Vietnam.
+39182108	Impact of mass media campaigns on knowledge of malaria prevention measures among pregnant mothers in Uganda: a propensity score-matched analysis.
 39182094	ABO and Rhesus blood group variability and their associations with clinical malaria presentations.
+39181577	Endocytosis in malaria parasites: An ultrastructural perspective of membrane interplay in a unique infection model.
 39181311	Possible transmission of plasmodium malariae through liver transplantation: Diagnosis with a Sysmex XN-20™ hematology analyzer.
 39181199	Dual nature of type I interferon responses and feedback regulations by SOCS1 dictate malaria mortality.
-39182925	Rethinking malaria vaccines: perspectives on currently approved malaria vaccines in India's path to elimination.
-39182375	Corrigendum to "Host biomarkers for early identification of severe imported Plasmodium falciparum malaria" [Trav. Med. Infect. Dis. 54 (2023) 102608].
-39182108	Impact of mass media campaigns on knowledge of malaria prevention measures among pregnant mothers in Uganda: a propensity score-matched analysis.
-39181577	Endocytosis in malaria parasites: An ultrastructural perspective of membrane interplay in a unique infection model.
 39181137	Brazil to distribute paediatric antimalarial in Amazon.
 39180398	Correction to 'DNA sequence and chromatin differentiate sequence-specific transcription factor binding in the human malaria parasite Plasmodium falciparum'.
 39180112	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
@@ -9994,6 +9997,3 @@
 35753314	Health outcomes associated with micronutrient-fortified complementary foods in infants and young children aged 6-23 months: a systematic review and meta-analysis.
 35753207	[Consensus document for the management of schistosomiasis in Primary Care].
 35752805	Genetic variation in CSF2 (5q31.1) is associated with longitudinal susceptibility to pediatric malaria, severe malarial anemia, and all-cause mortality in a high-burden malaria and HIV region of Kenya.
-35752451	A malaria-free China: global importance and key experience.
-35752450	Surveillance and response systems driving malaria elimination in the mountain areas of Hainan Province.
-35752449	Historical review of malaria control and elimination in the border areas of China: A case study of Yunnan Province.
