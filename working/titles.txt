@@ -1,3 +1,12 @@
+39190356	Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia.
+39189240	Dynamics of IgM and IgG Antibody Response Profile against Linear B-Cell Epitopes from Exoerythrocytic (CelTOS and TRAP) and Erythrocytic (CyRPA) Phases of Plasmodium vivax: Follow-Up Study.
+39189077	AaMYC3 bridges the regulation of glandular trichome density and artemisinin biosynthesis in Artemisia annua.
+39188697	Pathogen-binding nanoparticles to inhibit host cell infection by heparan sulfate and sialic acid dependent viruses and protozoan parasites.
+39188369	Exosome-drug conjugates delivery: a promising strategy for ameliorating the pharmacokinetic profile of artesunate.
+39187506	In vitro antiplasmodial and anticancer analyses of endophytic fungal extracts isolated from selected Nigerian medicinal plants.
+39187488	Hyper-diverse antigenic variation and resilience to transmission-reducing intervention in falciparum malaria.
+39187486	Single-cell transcriptomics reveal transcriptional programs underlying male and female cell fate during Plasmodium falciparum gametocytogenesis.
+39187310	Pharmacogenomic Determinants of Adverse Drug Effects: A Systematic Review and Meta-analysis.
 39186718	Malaria reporting timeliness analysis and factors associated with delayed notification, 2018-2022, Nepal.
 39186698	Efficacy and safety of artemether-lumefantrine against uncomplicated falciparum malaria infection in Tanzania, 2022, a single arm clinical trial.
 39186558	Prevention and management of anaemia in pregnancy: Community perceptions and facility readiness in Ghana and Uganda.
@@ -9988,12 +9997,3 @@
 35755467	Plasmodium falciparum histidine-rich protein 2 and 3 gene deletion in the Mount Cameroon region.
 35754604	Delayed diagnosis of severe falciparum malaria in a patient presenting with acute gastroenteritis in West Texas.
 35754556	Evaluating recurrent episodes of malaria incidence in Timika, Indonesia, through a Markovian multiple-state model.
-35754088	A new microsporidian parasite, Microsporidium theragrae n. sp., infecting Alaska pollock Gadus chalcogrammus (Teleostei: Gadidae).
-35754045	Reduced performance of community bednets against pyrethroid-resistant Anopheles funestus and Anopheles gambiae, major malaria vectors in Cameroon.
-35754022	Population genetic structure and evolutionary genetics of Anopheles sinensis based on knockdown resistance (kdr) mutations and mtDNA-COII gene in China-Laos, Thailand-Laos, and Cambodia-Laos borders.
-35753700	Pf-Phospho: a machine learning-based phosphorylation sites prediction tool for Plasmodium proteins.
-35753318	Global impact of the first year of COVID-19 vaccination: a mathematical modelling study.
-35753316	Efficacy of RTS,S/AS01(E) malaria vaccine administered according to different full, fractional, and delayed third or early fourth dose regimens in children aged 5-17 months in Ghana and Kenya: an open-label, phase 2b, randomised controlled trial.
-35753314	Health outcomes associated with micronutrient-fortified complementary foods in infants and young children aged 6-23 months: a systematic review and meta-analysis.
-35753207	[Consensus document for the management of schistosomiasis in Primary Care].
-35752805	Genetic variation in CSF2 (5q31.1) is associated with longitudinal susceptibility to pediatric malaria, severe malarial anemia, and all-cause mortality in a high-burden malaria and HIV region of Kenya.
