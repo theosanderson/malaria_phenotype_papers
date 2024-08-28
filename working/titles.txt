@@ -1,10 +1,14 @@
-39191404	ResMAP-a saturation mutagenesis platform enabling parallel profiling of target-specific resistance-conferring mutations in Plasmodium.
-39191244	Acceptability and Feasibility of Provision of COVID-19 Services by Community Health Workers to Remote Gold Mining Communities in Suriname.
+39193724	Hybrid Diffusion Model for Stable, Affinity-Driven, Receptor-Aware Peptide Generation.
+39193502	The immune factors involved in the rapid clearance of bacteria from the midgut of the tick Ixodes ricinus.
+39192608	Absence of developmental and reproductive toxicity in rats, rabbits, and zebrafish embryos exposed to antimalarial drug cabamiquine.
+39192543	Plasma ofCS-modified CD44 predicts the survival of patients with lung cancer.
 39192376	The impact of hygienic living conditions on the differentiation of male body height at the beginning of the twentieth century in the USSR.
 39192348	First detection of kdr L1014F allele in Anopheles ziemanni and Anopheles pharoensis in Cameroon and distribution of the allele in members of the Anopheles gambiae complex.
 39192317	Key contributors to malaria elimination in the People's Republic of China: a scoping review.
 39192209	Impact of a package of point-of-care diagnostic tests, a clinical diagnostic algorithm and adherence training on antibiotic prescriptions for the management of non-severe acute febrile illness in primary health facilities during the COVID-19 pandemic in Burkina Faso.
 39191827	Uridine diphosphate (UDP)-glycosyltransferases (UGTs) are associated with insecticide resistance in the major malaria vectors Anopheles gambiae s.l. and Anopheles funestus.
+39191404	ResMAP-a saturation mutagenesis platform enabling parallel profiling of target-specific resistance-conferring mutations in Plasmodium.
+39191244	Acceptability and Feasibility of Provision of COVID-19 Services by Community Health Workers to Remote Gold Mining Communities in Suriname.
 39190356	Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia.
 39189240	Dynamics of IgM and IgG Antibody Response Profile against Linear B-Cell Epitopes from Exoerythrocytic (CelTOS and TRAP) and Erythrocytic (CyRPA) Phases of Plasmodium vivax: Follow-Up Study.
 39189077	AaMYC3 bridges the regulation of glandular trichome density and artemisinin biosynthesis in Artemisia annua.
@@ -9993,7 +9997,3 @@
 35757767	Editorial: Perforins and Cholesterol-Dependent Cytolysins in Immunity and Pathogenesis.
 35757694	suPAR to Risk-Stratify Patients With Malaria.
 35757611	Multiplex Serology for Measurement of IgG Antibodies Against Eleven Infectious Diseases in a National Serosurvey: Haiti 2014-2015.
-35757598	MULTIVARIATE MIXED MEMBERSHIP MODELING: INFERRING DOMAIN-SPECIFIC RISK PROFILES.
-35757307	Vaccine dilemma for children at risk: Recently approved malaria vaccine versus ongoing COVID-19 vaccination campaign.
-35756157	Songbird preen oil odour reflects haemosporidian parasite load.
-35756064	Multifunctional Roles of MicroRNAs in Schistosomiasis.
