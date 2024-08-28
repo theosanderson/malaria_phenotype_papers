@@ -1,3 +1,9 @@
+39195607	Human Defensin 5 Inhibits Plasmodium yoelii Development in Anopheles stephensi by Promoting Innate Immune Response.
+39195263	Direct Binding of Synaptopodin 2-Like Protein to Alpha-Actinin Contributes to Actin Bundle Formation in Cardiomyocytes.
+39194765	Nationwide Inventory of Mosquitoes and the Distribution of Invasive Aedes (Stegomyia) albopictus (Skuse, 1894) on the Islands of Sao Tome and Principe in Central Africa.
+39194289	Slow clearance of histidine-rich protein-2 in Gabonese with uncomplicated malaria.
+39194263	Onametostat, a PfPRMT5 inhibitor, exhibits antimalarial activity to Plasmodium falciparum.
+39194209	Dose-fractionation studies of a Plasmodium phosphatidylinositol 4-kinase inhibitor in a humanized mouse model of malaria.
 39193724	Hybrid Diffusion Model for Stable, Affinity-Driven, Receptor-Aware Peptide Generation.
 39193502	The immune factors involved in the rapid clearance of bacteria from the midgut of the tick Ixodes ricinus.
 39192608	Absence of developmental and reproductive toxicity in rats, rabbits, and zebrafish embryos exposed to antimalarial drug cabamiquine.
@@ -9991,9 +9997,3 @@
 35760094	Application of liposomes in the treatment of infectious diseases.
 35759112	Mosquito (Diptera: Culicidae) Larval Ecology in Rubber Plantations and Rural Villages in Dabou (Côte d'Ivoire).
 35758210	Strengthening vaccines and medicines manufacturing capabilities in Africa: challenges and perspectives.
-35758163	Extracellular vesicles from malaria-infected red blood cells: not all are secreted equal.
-35757822	Antimicrobial susceptibility testing profiles of ESBL-producing Enterobacterales isolated from hospital and community adult patients in Blantyre, Malawi.
-35757771	Meta-Analysis of Human Antibodies Against Plasmodium falciparum Variable Surface and Merozoite Stage Antigens.
-35757767	Editorial: Perforins and Cholesterol-Dependent Cytolysins in Immunity and Pathogenesis.
-35757694	suPAR to Risk-Stratify Patients With Malaria.
-35757611	Multiplex Serology for Measurement of IgG Antibodies Against Eleven Infectious Diseases in a National Serosurvey: Haiti 2014-2015.
