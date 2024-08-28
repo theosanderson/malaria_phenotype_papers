@@ -8619,7 +8619,7 @@
 36209103	Deletion patterns, genetic variability and protein structure of pfhrp2 and pfhrp3: implications for malaria rapid diagnostic test in Amhara region, Ethiopia.
 36209068	Prevalence of co-infection and genetic diversity of avian haemosporidian parasites in two rehabilitation facilities in Iran: implications for the conservation of captive raptors.
 36209032	Targeting malaria parasites inside mosquitoes: ecoevolutionary consequences.
-36208942	Rare cause of spontaneous spleen bleeding: a case report and literature review.
+36208942	[Rare cause of spontaneous spleen bleeding: a case report and literature review].
 36208309	Anopheles (Kerteszia) cruzii infected by Plasmodium in the Atlantic Forest indicates that the malaria transmission cycle is maintained even after howler monkeys' population decline.
 36208216	Comparison of Vector Trapping Methods for Outdoor Biting Malaria Vector Surveillance in Thailand and Vietnam.
 36208204	Nosocomial Malaria Transmissions Resolved by Genomic Analyses-A Retrospective Case Report Study in France: 2007-2021.
