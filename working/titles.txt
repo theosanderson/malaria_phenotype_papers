@@ -1,3 +1,54 @@
+39215464	Malaria and Hypertension: What Is the Direction of Association?
+39215366	Therapeutic efficacy and safety of artemether-lumefantrine combination therapy for the treatment of uncomplicated Plasmodium falciparum malaria at Teda Health Centre, Northwest Ethiopia, 2022/23.
+39215297	Comparison of three rapid diagnostic tests for Plasmodium falciparum diagnosis in Ghana.
+39215071	A Pan Plasmodium lateral flow recombinase polymerase amplification assay for monitoring malaria parasites in vectors and human populations.
+39214233	Impact of Climate Change on Vector-borne Diseases: Exploring Hotspots, Recent Trends and Future Outlooks in Bangladesh.
+39213461	Temperature and time of host-seeking activity impact the efficacy of chemical control interventions targeting the West Nile virus vector, Culex tarsalis.
+39212868	Inequalities and Trends in Under-Five Mortality Between Formal and Informal Areas in Ouagadougou, Burkina Faso.
+39212596	Profile and Determinants for Complications of Imported Malaria in 5 Chinese Provinces From 2014 to 2021: Retrospective Analysis.
+39211654	Plasmodium Vivax in a Healthy, Young Immigrant Male.
+39211149	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
+39211036	γδ T cell-mediated activation of cDC1 orchestrates CD4(+) Th1 cell priming in malaria.
+39210803	Identification of immune-associated genes with altered expression in the spleen of mice enriched with probiotic Lactobacillus species using rna-seq profiling.
+39210733	Lactam Truncation Yields a Dihydroquinazolinone Scaffold with Potent Antimalarial Activity that Targets PfATP4.
+39210405	Evaluating trends in damage to attractive targeted sugar baits (ATSBs) deployed during the second year of a two-year Phase III trial in Western Zambia.
+39210393	Community participatory mapping of malaria mosquito breeding sites in Mozambique.
+39210367	Assessing the therapeutic efficacy of artemether-lumefantrine for uncomplicated malaria in Lagos, Nigeria: a comprehensive study on treatment response and resistance markers.
+39210339	Genomic variation in Plasmodium relictum (lineage SGS1) and its implications for avian malaria infection outcomes: insights from experimental infections and genome-wide analysis.
+39210318	Novel Plasmodium falciparum histidine-rich protein 2/3 repeat type in Ethiopian malaria infection: does this affect performance of HRP2-based malaria RDT?
+39209862	The artemisinin-induced dormant stages of Plasmodium falciparum exhibit hallmarks of cellular quiescence/senescence and drug resilience.
+39209843	Multistage protective anti-CelTOS monoclonal antibodies with cross-species sterile protection against malaria.
+39209784	Comprehensive evaluation of malaria reactive surveillance and response strategies in Lao People's Democratic Republic: a mixed-methods study.
+39209462	First mpox vaccines arrive in Africa as officials work "blindly" to contain outbreaks.
+39209265	Re: 'How to manage adult patients with malaria in the non-endemic setting' by Antinori et al.
+39208861	[Severe complicated malaria caused by Plasmodium falciparum in a female traveler returning from Zanzibar].
+39208744	Development of peptoid-based heteroaryl-decorated histone deacetylase (HDAC) inhibitors with dual-stage antiplasmodial activity.
+39208643	Cd loop fusion enhances the immunogenicity and the potential transmission blocking activity of Plasmodium falciparum generative cell specific 1 (GCS1) antigen.
+39208451	Circulating immune complexes and G6PD deficiency predict readmissions for blackwater fever and severe anemia in children with severe malaria in Eastern Uganda.
+39208123	Laboratory evaluation of the regeneration time, efficacy and wash-resistance of PermaNet Dual (a deltamethrin-chlorfenapyr net) against susceptible and pyrethroid-resistant strains of Anopheles gambiae sensu lato.
+39208072	Dramatic resurgence of malaria after 7 years of intensive vector control interventions in Eastern Uganda.
+39207167	A multistage Plasmodium CRL4(WIG1) ubiquitin ligase is critical for the formation of functional microtubule organization centers in microgametocytes.
+39206510	In vitro evaluation of ganaplacide/lumefantrine combination against Plasmodium falciparum in a context of artemisinin resistance.
+39204309	Quality Control of Microscopic Diagnosis of Malaria in Healthcare Facilities and Submicroscopic Infections in Mossendjo, the Department of Niari, the Republic of the Congo.
+39204282	Asymptomatic Malaria Cases and Plasmodium Species among BaAka Pygmies in Central Africa.
+39204273	Cell Death of P. vivax Blood Stages Occurs in Absence of Classical Apoptotic Events and Induces Eryptosis of Parasitized Host Cells.
+39204244	Insights into Peptidyl-Prolyl cis-trans Isomerases from Clinically Important Protozoans: From Structure to Potential Biotechnological Applications.
+39204168	Beta vulgaris Betalains Mitigate Parasitemia and Brain Oxidative Stress Induced by Plasmodium berghei in Mice.
+39203985	Leveraging Immunofocusing and Virus-like Particle Display to Enhance Antibody Responses to the Malaria Blood-Stage Invasion Complex Antigen PfCyRPA.
+39203539	A Situation Analysis of the Capacity of Laboratories in Faith-Based Hospitals in Zambia to Conduct Surveillance of Antimicrobial Resistance: Opportunities to Improve Diagnostic Stewardship.
+39203521	Investigation of Mutations in the crt-o and mdr1 Genes of Plasmodium vivax for the Molecular Surveillance of Chloroquine Resistance in Parasites from Gold Mining Areas in Roraima, Brazil.
+39203482	Alteration of Trophoblast Syncytialization by Plasmodium falciparum-Infected Erythrocytes.
+39203449	Plasmodium cynomolgi: What Should We Know?
+39202965	Artemisinin and Its Derivatives as Potential Anticancer Agents.
+39202190	MyACR: A Point-of-Care Medical Device for Determination of Albumin-Creatinine Ratio (uACR) in Random Urine Samples as a Marker of Nephropathy.
+39201525	Wastewater Surveillance of SARS-CoV-2 in Zambia: An Early Warning Tool.
+39201427	Genetic, Clinical, Epidemiological, and Immunological Profiling of IgG Response Duration after SARS-CoV-2 Infection.
+39200671	Under-Five Mortality and Associated Risk Factors in Children Hospitalized at David Bernardino Pediatric Hospital (DBPH), Angola: A Hierarchical Approach.
+39198797	Long-lasting insecticidal nets use and the prevalence of Plasmodium falciparum infection among pregnant women attending antenatal care at the Bonassama District Hospital, Littoral Region of Cameroon: a cross-sectional study.
+39198635	Monoclonal antibodies to the circumsporozoite proteins as an emerging tool for malaria prevention.
+39198079	Ultrasound as a triaging tool for the diagnosis of malaria and typhoid in a resource constrained setting: A proposed frame-work.
+39197855	A NOVEL SPECIES OF MYXOBOLUS (CNIDARIA: MYXOSPOREA: MYXOBOLIDAE) FROM THE GILL OF GREEN SUNFISH, LEPOMIS CYANELLUS (PERCIFORMES: CENTRARCHIDAE), FROM THE BLACK RIVER OF NORTHEASTERN ARKANSAS.
+39197744	Extensive low-density Plasmodium falciparum reservoir in the island of Príncipe, an isolated malaria pre-elimination setting.
 39195607	Human Defensin 5 Inhibits Plasmodium yoelii Development in Anopheles stephensi by Promoting Innate Immune Response.
 39195263	Direct Binding of Synaptopodin 2-Like Protein to Alpha-Actinin Contributes to Actin Bundle Formation in Cardiomyocytes.
 39194765	Nationwide Inventory of Mosquitoes and the Distribution of Invasive Aedes (Stegomyia) albopictus (Skuse, 1894) on the Islands of Sao Tome and Principe in Central Africa.
@@ -9946,54 +9997,3 @@
 35778744	A closer look at the WHO cone bioassay: video analysis of the hidden effects of a human host on mosquito behaviour and insecticide contact.
 35778540	A Multiscale Mathematical Model of Plasmodium Vivax Transmission.
 35778492	After COVID, African countries vow to take the fight to malaria.
-35775739	Inner membrane complex proteomics reveals a palmitoylation regulation critical for intraerythrocytic development of malaria parasite.
-35775282	Identification of a rapidly-spreading triple mutant for high-level metabolic insecticide resistance in Anopheles gambiae provides a real-time molecular diagnostic for antimalarial intervention deployment.
-35775278	Burden of and risk factors for sexual violence among women with and without disabilities in two sub-Saharan African countries.
-35774704	Autoimmune Dysfunction Due to Severe Malaria.
-35773743	Blackwater fever and acute kidney injury in children hospitalized with an acute febrile illness: pathophysiology and prognostic significance.
-35773722	Mass drug administration of antibacterials: weighing the evidence regarding benefits and risks.
-35772825	Exploring the key anthropological drivers of and barriers to zoonotic malaria preventative behaviour in a community exposed to Plasmodium knowlesi infection in Malaysia: protocol for a qualitative study with a participatory research design.
-35772810	The building blocks of community health systems: a systems framework for the design, implementation and evaluation of iCCM programs and community-based interventions.
-35772735	Malaria Endemicity in the Rural Communities of Ebonyi State, Nigeria.
-35772362	Dihydroartemisinin alleviates deoxynivalenol induced liver apoptosis and inflammation in piglets.
-35772009	Distinct Histone Post-translational Modifications during Plasmodium falciparum Gametocyte Development.
-35771829	Novel RNA viruses associated with avian haemosporidian parasites.
-35771774	Artificial intelligence in differentiating tropical infections: A step ahead.
-35771615	Practical checklist for implementation of antifungal stewardship programmes.
-35770338	Protection by hydroxychloroquine prevents placental injury in obstetric antiphospholipid syndrome.
-35770314	Sociodemographic factors associated with the use of insecticide treated nets among under-fives in Nigeria: Evidence from a national survey.
-35769873	A proposed theoretical framework for retinal biomarkers.
-35769847	Distribution Expansion of Dengue Vectors and Climate Change in India.
-35769780	The Need for Strengthening Health Information Dissemination Toward Indoor Residual Spraying for Malaria Prevention in Malarious Area of Ethiopia.
-35769665	Antisecretory and Spasmolytic Activities of Aqueous and Ethanolic Stem Bark Extracts of Nauclea diderrichii in Wistar Rats.
-35769479	Plasmodium vivax Protein PvTRAg23 Triggers Spleen Fibroblasts for Inflammatory Profile and Reduces Type I Collagen Secretion via NF-κBp65 Pathway.
-35769109	The impact of COVID-19 on essential health service provision for endemic infectious diseases in the South-East Asia region: A systematic review.
-35768869	Making data map-worthy-enhancing routine malaria data to support surveillance and mapping of Plasmodium falciparum anti-malarial resistance in a pre-elimination sub-Saharan African setting: a molecular and spatiotemporal epidemiology study.
-35768835	Treatment with specific and pan-plasma membrane calcium ATPase (PMCA) inhibitors reduces malaria parasite growth in vitro and in vivo.
-35768619	Frequency of gestational malaria and maternal-neonatal outcomes, in Northwestern Colombia 2009-2020.
-35768450	Spatial patterns and climate drivers of malaria in three border areas of Brazil, Venezuela and Guyana, 2016-2018.
-35768413	Contrasting haemoparasite prevalence in larid species with divergent ecological niches and migration patterns.
-35768411	Host lung microbiota promotes malaria-associated acute respiratory distress syndrome.
-35767876	The African origin of Plasmodium vivax.
-35767869	The origin of Plasmodium vivax: science or story telling?
-35767867	Correction: a population genetic perspective on the origin, spread and adaptation of the human malaria agents Plasmodium falciparum and Plasmodium vivax.
-35767649	The fight against malaria: Diminishing gains and growing challenges.
-35767578	The relative impact of interventions on sympatric Plasmodium vivax and Plasmodium falciparum malaria: A systematic review.
-35767269	Malaria Transmission Dynamics in a High-Transmission Setting of Western Kenya and the Inadequate Treatment Response to Artemether-Lumefantrine in an Asymptomatic Population.
-35766676	Prevalence and force of Plasmodium vivax blood-stage infection and associated clinical malaria burden in the Brazilian Amazon.
-35766215	A new method for the sampling and preservation of placental specimens in low-resource settings for the identification of P. falciparum and analysis of nucleic acids.
-35765071	Single nucleotide polymorphism analysis of pvmdr-1 in Plasmodium vivax isolated from military personnel of Republic of Korea in 2016 and 2017.
-35763695	Prolonged Breastfeeding and the Risk of Plasmodium vivax Infection and Clinical Malaria in Early Childhood: A Birth Cohort Study.
-35763515	Etiology of acute febrile illnesses in Southern China: Findings from a two-year sentinel surveillance project, 2017-2019.
-35762586	High-throughput Plasmodium falciparum hrp2 and hrp3 gene deletion typing by digital PCR to monitor malaria rapid diagnostic test efficacy.
-35761826	Diet and Oviposition Deprivation Effects on Survivorship, Gonotrophic Dissociation, and Mortality of Anopheles gambiae s.s.
-35761818	Malaria vaccine: The lasting solution to malaria burden in Africa.
-35761324	Evaluation of two commercial kits and two laboratory-developed qPCR assays compared to LAMP for molecular diagnosis of malaria.
-35761273	Stakeholder perceptions on the deployment of multiple first-line therapies for uncomplicated malaria: a qualitative study in the health district of Kaya, Burkina Faso.
-35761255	Using donor funding to catalyse investment in malaria prevention in Ghana: an analysis of the potential impact on public and private sector expenditure.
-35760440	What India can learn from globally successful malaria elimination programmes.
-35760376	Determinants of haemosporidian single- and co-infection risks in western palearctic birds.
-35760347	Should anti-malarial chemoprophylaxis be reimbursed in France? A cost-effectiveness analysis of different reimbursement strategies.
-35760094	Application of liposomes in the treatment of infectious diseases.
-35759112	Mosquito (Diptera: Culicidae) Larval Ecology in Rubber Plantations and Rural Villages in Dabou (Côte d'Ivoire).
-35758210	Strengthening vaccines and medicines manufacturing capabilities in Africa: challenges and perspectives.
