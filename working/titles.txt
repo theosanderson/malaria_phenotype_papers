@@ -44,7 +44,7 @@
 39183825	Effective toxicity of pH to embryonic development of the banded lampeye killifish Aplocheilichthys spilauchen (Duméril, 1861).
 39183741	Understanding the epidemiology of iNTS disease in Africa in preparation for future iNTS- vaccine studies in endemic countries: Seroepidemiology in Africa of iNTS (SAiNTS) Study Protocol: Malawi site [Version 9.0].
 39182925	Rethinking malaria vaccines: perspectives on currently approved malaria vaccines in India's path to elimination.
-39182698	Ameliorative Potential of Ethanol Extract of Calyptrochilum emarginatum Leaves on Scopolamine-Induced Amnesia in Male Swiss Mice.
+39182698	Ameliorative potential of ethanol extract of Calyptrochilum emarginatum leaves on scopolamine-induced amnesia in male swiss mice.
 39182654	Antibodies to PfEMP1 and Variant Surface Antigens: Protection after Controlled Human Malaria Infection in Semi-immune Kenyan Adults.
 39182375	Corrigendum to "Host biomarkers for early identification of severe imported Plasmodium falciparum malaria" [Trav. Med. Infect. Dis. 54 (2023) 102608].
 39182127	Bayesian spatio-temporal modelling of environmental, climatic, and socio-economic influences on malaria in Central Vietnam.
