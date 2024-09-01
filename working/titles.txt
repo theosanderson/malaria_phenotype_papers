@@ -1,32 +1,9 @@
+39217277	Inhibition of falcilysin from Plasmodium falciparum by interference with its closed-to-open dynamic transition.
+39217276	Biogenically synthesized green silver nanoparticles exhibit antimalarial activity.
+39216830	Children with hemoglobin C or S trait have low serologic responses to a subset of malaria variant surface antigens.
+39216484	Mosquitoes integrate visual and acoustic cues to mediate conspecific interactions in swarms.
 39215464	Malaria and Hypertension: What Is the Direction of Association?
-39215366	Therapeutic efficacy and safety of artemether-lumefantrine combination therapy for the treatment of uncomplicated Plasmodium falciparum malaria at Teda Health Centre, Northwest Ethiopia, 2022/23.
-39215297	Comparison of three rapid diagnostic tests for Plasmodium falciparum diagnosis in Ghana.
-39215071	A Pan Plasmodium lateral flow recombinase polymerase amplification assay for monitoring malaria parasites in vectors and human populations.
-39214233	Impact of Climate Change on Vector-borne Diseases: Exploring Hotspots, Recent Trends and Future Outlooks in Bangladesh.
-39213461	Temperature and time of host-seeking activity impact the efficacy of chemical control interventions targeting the West Nile virus vector, Culex tarsalis.
-39212868	Inequalities and Trends in Under-Five Mortality Between Formal and Informal Areas in Ouagadougou, Burkina Faso.
-39212596	Profile and Determinants for Complications of Imported Malaria in 5 Chinese Provinces From 2014 to 2021: Retrospective Analysis.
 39211654	Plasmodium Vivax in a Healthy, Young Immigrant Male.
-39211149	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
-39211036	γδ T cell-mediated activation of cDC1 orchestrates CD4(+) Th1 cell priming in malaria.
-39210803	Identification of immune-associated genes with altered expression in the spleen of mice enriched with probiotic Lactobacillus species using rna-seq profiling.
-39210733	Lactam Truncation Yields a Dihydroquinazolinone Scaffold with Potent Antimalarial Activity that Targets PfATP4.
-39210405	Evaluating trends in damage to attractive targeted sugar baits (ATSBs) deployed during the second year of a two-year Phase III trial in Western Zambia.
-39210393	Community participatory mapping of malaria mosquito breeding sites in Mozambique.
-39210367	Assessing the therapeutic efficacy of artemether-lumefantrine for uncomplicated malaria in Lagos, Nigeria: a comprehensive study on treatment response and resistance markers.
-39210339	Genomic variation in Plasmodium relictum (lineage SGS1) and its implications for avian malaria infection outcomes: insights from experimental infections and genome-wide analysis.
-39210318	Novel Plasmodium falciparum histidine-rich protein 2/3 repeat type in Ethiopian malaria infection: does this affect performance of HRP2-based malaria RDT?
-39209862	The artemisinin-induced dormant stages of Plasmodium falciparum exhibit hallmarks of cellular quiescence/senescence and drug resilience.
-39209843	Multistage protective anti-CelTOS monoclonal antibodies with cross-species sterile protection against malaria.
-39209784	Comprehensive evaluation of malaria reactive surveillance and response strategies in Lao People's Democratic Republic: a mixed-methods study.
-39209462	First mpox vaccines arrive in Africa as officials work "blindly" to contain outbreaks.
-39209265	Re: 'How to manage adult patients with malaria in the non-endemic setting' by Antinori et al.
-39208861	[Severe complicated malaria caused by Plasmodium falciparum in a female traveler returning from Zanzibar].
-39208744	Development of peptoid-based heteroaryl-decorated histone deacetylase (HDAC) inhibitors with dual-stage antiplasmodial activity.
-39208643	Cd loop fusion enhances the immunogenicity and the potential transmission blocking activity of Plasmodium falciparum generative cell specific 1 (GCS1) antigen.
-39208451	Circulating immune complexes and G6PD deficiency predict readmissions for blackwater fever and severe anemia in children with severe malaria in Eastern Uganda.
-39208123	Laboratory evaluation of the regeneration time, efficacy and wash-resistance of PermaNet Dual (a deltamethrin-chlorfenapyr net) against susceptible and pyrethroid-resistant strains of Anopheles gambiae sensu lato.
-39208072	Dramatic resurgence of malaria after 7 years of intensive vector control interventions in Eastern Uganda.
 39207167	A multistage Plasmodium CRL4(WIG1) ubiquitin ligase is critical for the formation of functional microtubule organization centers in microgametocytes.
 39206510	In vitro evaluation of ganaplacide/lumefantrine combination against Plasmodium falciparum in a context of artemisinin resistance.
 39204309	Quality Control of Microscopic Diagnosis of Malaria in Healthcare Facilities and Submicroscopic Infections in Mossendjo, the Department of Niari, the Republic of the Congo.
@@ -49,6 +26,33 @@
 39198079	Ultrasound as a triaging tool for the diagnosis of malaria and typhoid in a resource constrained setting: A proposed frame-work.
 39197855	A NOVEL SPECIES OF MYXOBOLUS (CNIDARIA: MYXOSPOREA: MYXOBOLIDAE) FROM THE GILL OF GREEN SUNFISH, LEPOMIS CYANELLUS (PERCIFORMES: CENTRARCHIDAE), FROM THE BLACK RIVER OF NORTHEASTERN ARKANSAS.
 39197744	Extensive low-density Plasmodium falciparum reservoir in the island of Príncipe, an isolated malaria pre-elimination setting.
+39215366	Therapeutic efficacy and safety of artemether-lumefantrine combination therapy for the treatment of uncomplicated Plasmodium falciparum malaria at Teda Health Centre, Northwest Ethiopia, 2022/23.
+39215297	Comparison of three rapid diagnostic tests for Plasmodium falciparum diagnosis in Ghana.
+39215071	A Pan Plasmodium lateral flow recombinase polymerase amplification assay for monitoring malaria parasites in vectors and human populations.
+39214233	Impact of climate change on vector-borne diseases: Exploring hotspots, recent trends and future outlooks in Bangladesh.
+39213461	Temperature and time of host-seeking activity impact the efficacy of chemical control interventions targeting the West Nile virus vector, Culex tarsalis.
+39212868	Inequalities and Trends in Under-Five Mortality Between Formal and Informal Areas in Ouagadougou, Burkina Faso.
+39212596	Profile and Determinants for Complications of Imported Malaria in 5 Chinese Provinces From 2014 to 2021: Retrospective Analysis.
+39211149	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
+39211036	γδ T cell-mediated activation of cDC1 orchestrates CD4(+) Th1 cell priming in malaria.
+39210803	Identification of immune-associated genes with altered expression in the spleen of mice enriched with probiotic Lactobacillus species using rna-seq profiling.
+39210733	Lactam Truncation Yields a Dihydroquinazolinone Scaffold with Potent Antimalarial Activity that Targets PfATP4.
+39210405	Evaluating trends in damage to attractive targeted sugar baits (ATSBs) deployed during the second year of a two-year Phase III trial in Western Zambia.
+39210393	Community participatory mapping of malaria mosquito breeding sites in Mozambique.
+39210367	Assessing the therapeutic efficacy of artemether-lumefantrine for uncomplicated malaria in Lagos, Nigeria: a comprehensive study on treatment response and resistance markers.
+39210339	Genomic variation in Plasmodium relictum (lineage SGS1) and its implications for avian malaria infection outcomes: insights from experimental infections and genome-wide analysis.
+39210318	Novel Plasmodium falciparum histidine-rich protein 2/3 repeat type in Ethiopian malaria infection: does this affect performance of HRP2-based malaria RDT?
+39209862	The artemisinin-induced dormant stages of Plasmodium falciparum exhibit hallmarks of cellular quiescence/senescence and drug resilience.
+39209843	Multistage protective anti-CelTOS monoclonal antibodies with cross-species sterile protection against malaria.
+39209784	Comprehensive evaluation of malaria reactive surveillance and response strategies in Lao People's Democratic Republic: a mixed-methods study.
+39209462	First mpox vaccines arrive in Africa as officials work "blindly" to contain outbreaks.
+39209265	Re: 'How to manage adult patients with malaria in the non-endemic setting' by Antinori et al.
+39208861	[Severe complicated malaria caused by Plasmodium falciparum in a female traveler returning from Zanzibar].
+39208744	Development of peptoid-based heteroaryl-decorated histone deacetylase (HDAC) inhibitors with dual-stage antiplasmodial activity.
+39208643	Cd loop fusion enhances the immunogenicity and the potential transmission blocking activity of Plasmodium falciparum generative cell specific 1 (GCS1) antigen.
+39208451	Circulating immune complexes and G6PD deficiency predict readmissions for blackwater fever and severe anemia in children with severe malaria in Eastern Uganda.
+39208123	Laboratory evaluation of the regeneration time, efficacy and wash-resistance of PermaNet Dual (a deltamethrin-chlorfenapyr net) against susceptible and pyrethroid-resistant strains of Anopheles gambiae sensu lato.
+39208072	Dramatic resurgence of malaria after 7 years of intensive vector control interventions in Eastern Uganda.
 39195607	Human Defensin 5 Inhibits Plasmodium yoelii Development in Anopheles stephensi by Promoting Innate Immune Response.
 39195263	Direct Binding of Synaptopodin 2-Like Protein to Alpha-Actinin Contributes to Actin Bundle Formation in Cardiomyocytes.
 39194765	Nationwide Inventory of Mosquitoes and the Distribution of Invasive Aedes (Stegomyia) albopictus (Skuse, 1894) on the Islands of Sao Tome and Principe in Central Africa.
@@ -9993,7 +9997,3 @@
 35780113	Expanded geographic distribution and host preference of Anopheles gibbinsi (Anopheles species 6) in northern Zambia.
 35780012	In vitro models for human malaria: targeting the liver stage.
 35779563	Is low-dose tafenoquine combined with dihydroartemisinin-piperaquine a potential risk factor for Plasmodium vivax resistance to 8-aminoquinolines?
-35778766	Subsequent malaria enhances virus-specific T cell immunity in SIV-infected Chinese rhesus macaques.
-35778744	A closer look at the WHO cone bioassay: video analysis of the hidden effects of a human host on mosquito behaviour and insecticide contact.
-35778540	A Multiscale Mathematical Model of Plasmodium Vivax Transmission.
-35778492	After COVID, African countries vow to take the fight to malaria.
