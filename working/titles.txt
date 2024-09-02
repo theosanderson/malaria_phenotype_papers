@@ -1,11 +1,11 @@
 39217616	Targeted polymeric primaquine nanoparticles: optimization, evaluation, and in-vivo liver uptake for improved malaria treatment.
+39217277	Inhibition of falcilysin from Plasmodium falciparum by interference with its closed-to-open dynamic transition.
+39217276	Biogenically synthesized green silver nanoparticles exhibit antimalarial activity.
 39216830	Children with hemoglobin C or S trait have low serologic responses to a subset of malaria variant surface antigens.
 39216484	Mosquitoes integrate visual and acoustic cues to mediate conspecific interactions in swarms.
 39214233	Impact of climate change on vector-borne diseases: Exploring hotspots, recent trends and future outlooks in Bangladesh.
 39209862	The artemisinin-induced dormant stages of Plasmodium falciparum exhibit hallmarks of cellular quiescence/senescence and drug resilience.
 39209843	Multistage protective anti-CelTOS monoclonal antibodies with cross-species sterile protection against malaria.
-39217277	Inhibition of falcilysin from Plasmodium falciparum by interference with its closed-to-open dynamic transition.
-39217276	Biogenically synthesized green silver nanoparticles exhibit antimalarial activity.
 39215464	Malaria and Hypertension: What Is the Direction of Association?
 39215366	Therapeutic efficacy and safety of artemether-lumefantrine combination therapy for the treatment of uncomplicated Plasmodium falciparum malaria at Teda Health Centre, Northwest Ethiopia, 2022/23.
 39215297	Comparison of three rapid diagnostic tests for Plasmodium falciparum diagnosis in Ghana.
