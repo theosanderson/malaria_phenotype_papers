@@ -1,3 +1,6 @@
+39222092	Giant membrane rings/loops in the cytosol of P. falciparum-infected erythrocytes and their relation to the parasite.
+39221991	Collective effect of Vigna sp. (mung) tubulin GTP hydrolysis rate divergence on microtubule filament assembly.
+39221818	Methodological framework for assessing malaria risk associated with climate change in Côte d'Ivoire.
 39221355	The Legacy of Sir Ronald Ross: From Malaria Research to Multifaceted Achievements.
 39221334	Ronald Ross: Pioneer of Malaria Research and Nobel Laureate.
 39221132	Design and synthesis of non-hydroxamate lipophilic inhibitors of 1-deoxy-d-xylulose 5-phosphate reductoisomerase (DXR): in silico, in vitro and antibacterial studies.
@@ -9994,6 +9997,3 @@
 35784598	Status of malaria and its implications for elimination in an endemic province of South Africa: retrospective analysis.
 35784341	Mechanisms for Host Immune Evasion Mediated by Plasmodium falciparum-Infected Erythrocyte Surface Antigens.
 35784216	Practice Level and Associated Factors Towards the Preventive Measures of COVID-19 Among the General Population; A Systematic Review and Meta-Analysis.
-35782946	Nutrient Deficiencies and Potential Alteration in Plasma Levels of Naturally Acquired Malaria-Specific Antibody Responses in Tanzanian Children.
-35782673	Disulfiram: A Repurposed Drug in Preclinical and Clinical Development for the Treatment of Infectious Diseases.
-35782658	Malaria Prevalence and Distribution of Plasmodium Species in Southern Region of Ethiopia.
