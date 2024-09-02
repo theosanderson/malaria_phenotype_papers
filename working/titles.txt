@@ -1,3 +1,16 @@
+39221355	The Legacy of Sir Ronald Ross: From Malaria Research to Multifaceted Achievements.
+39221334	Ronald Ross: Pioneer of Malaria Research and Nobel Laureate.
+39221132	Design and synthesis of non-hydroxamate lipophilic inhibitors of 1-deoxy-d-xylulose 5-phosphate reductoisomerase (DXR): in silico, in vitro and antibacterial studies.
+39220700	Cryo-tomography and 3D Electron Diffraction Reveal the Polar Habit and Chiral Structure of the Malaria Pigment Crystal Hemozoin.
+39220560	Knowledge, attitude and practices on intermittent preventive treatment in pregnant women with malaria: a mixed method facility-based study in Western Kenya.
+39220188	Assessment of hematological parameters in malarial suspected patients: Cross sectional study.
+39219856	SEVUparin as a potential Adjunctive Treatment in children with severe malaria: A phase I trial safety and dose finding trial (SEVUSMAART).
+39219769	Policy dimensions of global wastewater surveillance.
+39219760	Home visits versus fixed-site care by community health workers and child survival: a cluster-randomized trial, Mali.
+39218630	Population genetic analysis of Plasmodium vivax vir genes in Pakistan.
+39218629	Genetic structure of apical membrane antigen-1 in Plasmodium falciparum isolates from Pakistan.
+39218380	The bioefficacy of a novel VECTRON™ T500 indoor residual spray formulation in an experimental huts trial against Anopheles gambiae s.l. populations.
+39217961	Raman and resonance Raman spectroscopic study of red blood cells in patients diagnosed with malaria.
 39217616	Targeted polymeric primaquine nanoparticles: optimization, evaluation, and in-vivo liver uptake for improved malaria treatment.
 39217277	Inhibition of falcilysin from Plasmodium falciparum by interference with its closed-to-open dynamic transition.
 39217276	Biogenically synthesized green silver nanoparticles exhibit antimalarial activity.
@@ -9984,16 +9997,3 @@
 35782946	Nutrient Deficiencies and Potential Alteration in Plasma Levels of Naturally Acquired Malaria-Specific Antibody Responses in Tanzanian Children.
 35782673	Disulfiram: A Repurposed Drug in Preclinical and Clinical Development for the Treatment of Infectious Diseases.
 35782658	Malaria Prevalence and Distribution of Plasmodium Species in Southern Region of Ethiopia.
-35782338	Mathematics of a single-locus model for assessing the impacts of pyrethroid resistance and temperature on population abundance of malaria mosquitoes.
-35782151	Gametogenesis in Plasmodium: Delving Deeper to Connect the Dots.
-35782147	Expanding the Malaria Antibody Toolkit: Development and Characterisation of Plasmodium falciparum RH5, CyRPA, and CSP Recombinant Human Monoclonal Antibodies.
-35782145	Differential Trafficking and Expression of PIR Proteins in Acute and Chronic Plasmodium Infections.
-35781498	[Nucleic Acid-based Immuno-prophylaxis and -therapies against Tropical Diseases].
-35781497	[A Strategic Partnership for Medicine Creation and Access to Medicine for Neglected Tropical Diseases].
-35781496	[Partnership Activity for Neglected Tropical Diseases].
-35781495	[Corporate Efforts to Research and Develop Therapeutic Agents for Infectious Diseases That Threaten Human].
-35780829	DNA topoisomerases in the unicellular protozoan parasites: Unwinding the mystery.
-35780153	Evaluation of the residual efficacy and physical durability of five long-lasting insecticidal nets (LLINs) in Senegal.
-35780142	Accelerating malaria elimination in Cambodia: an intensified approach for targeting at-risk populations.
-35780113	Expanded geographic distribution and host preference of Anopheles gibbinsi (Anopheles species 6) in northern Zambia.
-35780012	In vitro models for human malaria: targeting the liver stage.
