@@ -1,3 +1,8 @@
+39223522	Antimalarial drug sulfadoxine induces gametocytogenesis in Plasmodium berghei.
+39223355	Rational structure-guided design of a blood stage malaria vaccine immunogen presenting a single epitope from PfRH5.
+39223194	Bovine lactoferrin inhibits Plasmodium berghei growth by binding to heme.
+39223117	Single-cell analyses of polyclonal Plasmodium vivax infections and their consequences on parasite transmission.
+39222941	COVID-19 vaccine confidence and its effect on vaccine uptake among people with hypertension or diabetes mellitus in Kilimanjaro region, Tanzania.
 39222092	Giant membrane rings/loops in the cytosol of P. falciparum-infected erythrocytes and their relation to the parasite.
 39221991	Collective effect of Vigna sp. (mung) tubulin GTP hydrolysis rate divergence on microtubule filament assembly.
 39221818	Methodological framework for assessing malaria risk associated with climate change in Côte d'Ivoire.
@@ -9992,8 +9997,3 @@
 35785794	Sickle cell anaemia and severe Plasmodium falciparum malaria: a secondary analysis of the Transfusion and Treatment of African Children Trial (TRACT).
 35785235	Resistance intensity status of Anopheles gambiae s.l. species at KOLOKOPE, eastern plateau Togo: A potential site to assess new vector control tools.
 35784890	Editorial: Pathological Changes in Erythrocytes During Inflammation and Infection.
-35784810	A Nanoliposomal Gel Containing Cinnamomum zeylanicum Essential Oil with Effective Repellent against the Main Malaria Vector Anopheles stephensi.
-35784600	Susceptibility status of major malaria vectors to novaluron, an insect growth regulator South-Eastern Tanzania.
-35784598	Status of malaria and its implications for elimination in an endemic province of South Africa: retrospective analysis.
-35784341	Mechanisms for Host Immune Evasion Mediated by Plasmodium falciparum-Infected Erythrocyte Surface Antigens.
-35784216	Practice Level and Associated Factors Towards the Preventive Measures of COVID-19 Among the General Population; A Systematic Review and Meta-Analysis.
