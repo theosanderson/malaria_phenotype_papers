@@ -1,3 +1,4 @@
+39223744	Community awareness, knowledge and perception about malaria vaccine in the Kassena-Nankana East Municipality: A descriptive cross-sectional survey.
 39223522	Antimalarial drug sulfadoxine induces gametocytogenesis in Plasmodium berghei.
 39223355	Rational structure-guided design of a blood stage malaria vaccine immunogen presenting a single epitope from PfRH5.
 39223194	Bovine lactoferrin inhibits Plasmodium berghei growth by binding to heme.
@@ -9996,4 +9997,3 @@
 35785795	Interplay between sickle cell anaemia and Plasmodium falciparum malaria.
 35785794	Sickle cell anaemia and severe Plasmodium falciparum malaria: a secondary analysis of the Transfusion and Treatment of African Children Trial (TRACT).
 35785235	Resistance intensity status of Anopheles gambiae s.l. species at KOLOKOPE, eastern plateau Togo: A potential site to assess new vector control tools.
-35784890	Editorial: Pathological Changes in Erythrocytes During Inflammation and Infection.
