@@ -1,3 +1,4 @@
+39226299	Investigating the association between household exposure to Anopheles stephensi and malaria in Sudan and Ethiopia: A case-control study protocol.
 39226053	Neurological Symptoms and Cause of Death Among Young Children in Low- and Middle-Income Countries.
 39225262	Enhanced bioavailability and efficacy in antimalarial treatment through QbD approach enteric encased inclusion delivery.
 39223744	Community awareness, knowledge and perception about malaria vaccine in the Kassena-Nankana East Municipality: A descriptive cross-sectional survey.
@@ -9996,4 +9997,3 @@
 35787945	A deeper insight into the sialome of male and female Ochlerotatus triseriatus mosquitoes.
 35786567	First Total Syntheses of Natural Phenanthrene Alkaloids, Uvariopsamine, Noruvariopsamine, 8-Hydroxystephenanthrine, 8-Methoxyuvariopsine, Thalihazine, and Secophoebine, and Their Potential as Antimalarial Agents.
 35786216	Evaluation of the Prevalence of Malaria and Cutaneous Leishmaniasis in the Pre- and Post-Disaster Years in Iran.
-35785795	Interplay between sickle cell anaemia and Plasmodium falciparum malaria.
