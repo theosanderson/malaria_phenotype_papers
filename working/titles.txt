@@ -1,10 +1,10 @@
-39227956	Anti-infectivity efficacy and pharmacokinetics of WHO recommended single low-dose primaquine in children with acute Plasmodium falciparum in Burkina Faso: study protocol.
 39227920	Conflict and fragmented public health emergency management system in Tigray region of Northern Ethiopia: A double burden to accommodate resilient and advanced public health emergency management. A commentary review for policy-makers and a call to action.
 39227628	Increased parvovirus B19 seropositivity in healthy blood donors in India.
-39227462	Lemongrass essential oil and its major component citronellol: evaluation of larvicidal activity and acetylcholinesterase inhibition against Anopheles sinensis.
-39227370	Towards clinically relevant dose ratios for Cabamiquine and Pyronaridine combination using P. falciparum field isolate data.
 39226907	Analytical Sensitivity Analysis and Clinical Impact Modeling of Rapigen Rapid Diagnostic Tests for Malaria.
 39226906	Challenges and Approaches to Establishing Multi-Pathogen Serosurveillance: Findings from the 2023 Serosurveillance Summit.
+39227956	Anti-infectivity efficacy and pharmacokinetics of WHO recommended single low-dose primaquine in children with acute Plasmodium falciparum in Burkina Faso: study protocol.
+39227462	Lemongrass essential oil and its major component citronellol: evaluation of larvicidal activity and acetylcholinesterase inhibition against Anopheles sinensis.
+39227370	Towards clinically relevant dose ratios for Cabamiquine and Pyronaridine combination using P. falciparum field isolate data.
 39226299	Investigating the association between household exposure to Anopheles stephensi and malaria in Sudan and Ethiopia: A case-control study protocol.
 39226053	Neurological Symptoms and Cause of Death Among Young Children in Low- and Middle-Income Countries.
 39225262	Enhanced bioavailability and efficacy in antimalarial treatment through QbD approach enteric encased inclusion delivery.
