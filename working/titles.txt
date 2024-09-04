@@ -1,3 +1,10 @@
+39227956	Anti-infectivity efficacy and pharmacokinetics of WHO recommended single low-dose primaquine in children with acute Plasmodium falciparum in Burkina Faso: study protocol.
+39227920	Conflict and fragmented public health emergency management system in Tigray region of Northern Ethiopia: A double burden to accommodate resilient and advanced public health emergency management. A commentary review for policy-makers and a call to action.
+39227628	Increased parvovirus B19 seropositivity in healthy blood donors in India.
+39227462	Lemongrass essential oil and its major component citronellol: evaluation of larvicidal activity and acetylcholinesterase inhibition against Anopheles sinensis.
+39227370	Towards clinically relevant dose ratios for Cabamiquine and Pyronaridine combination using P. falciparum field isolate data.
+39226907	Analytical Sensitivity Analysis and Clinical Impact Modeling of Rapigen Rapid Diagnostic Tests for Malaria.
+39226906	Challenges and Approaches to Establishing Multi-Pathogen Serosurveillance: Findings from the 2023 Serosurveillance Summit.
 39226299	Investigating the association between household exposure to Anopheles stephensi and malaria in Sudan and Ethiopia: A case-control study protocol.
 39226053	Neurological Symptoms and Cause of Death Among Young Children in Low- and Middle-Income Countries.
 39225262	Enhanced bioavailability and efficacy in antimalarial treatment through QbD approach enteric encased inclusion delivery.
@@ -9990,10 +9997,3 @@
 35791014	Co-implementing vitamin A supplementation with seasonal malaria chemoprevention in Sokoto State, Nigeria: a feasibility and acceptability study.
 35790746	Inferring the epidemiological benefit of indoor vector control interventions against malaria from mosquito data.
 35790256	Hydroxychloroquine Promotes Bcl-xL Inhibition-induced Apoptosis in BxPC-3 Human Pancreatic Cancer Cells.
-35789762	Effect of seasonal malaria chemoprevention in children between 5 and 9 years old in Kita and Bafoulabe districts, Mali.
-35789566	Spatio-temporal monitoring of health facility-level malaria trends in Zambia and adaptive scaling for operational intervention.
-35789228	Assessment of anemia and associated risk factors among children under-five years old in the West Guji Zone, southern Ethiopia: Hospital-based cross-sectional study.
-35788037	In vitro antiplasmodial activity-directed investigation and UPLC-MS fingerprint of promising extracts and fractions from Terminalia ivorensis A. Chev. and Terminalia brownii Fresen.
-35787945	A deeper insight into the sialome of male and female Ochlerotatus triseriatus mosquitoes.
-35786567	First Total Syntheses of Natural Phenanthrene Alkaloids, Uvariopsamine, Noruvariopsamine, 8-Hydroxystephenanthrine, 8-Methoxyuvariopsine, Thalihazine, and Secophoebine, and Their Potential as Antimalarial Agents.
-35786216	Evaluation of the Prevalence of Malaria and Cutaneous Leishmaniasis in the Pre- and Post-Disaster Years in Iran.
