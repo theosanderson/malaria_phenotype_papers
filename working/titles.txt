@@ -1,3 +1,4 @@
+39230164	Acquired thrombotic thrombocytopenic purpura in a patient with plasmodium vivax malaria: A case report.
 39229023	Sensitive and modular amplicon sequencing of Plasmodium falciparum diversity and resistance for research and public health.
 39228384	Oleuropein mediated autophagy begets antimalarial drug resistance.
 39228131	Population pharmacokinetics of amodiaquine and piperaquine in African pregnant women with uncomplicated Plasmodium falciparum infections.
@@ -405,6 +406,7 @@
 39083589	A comparative immunological assessment of multiple clinical-stage adjuvants for the R21 malaria vaccine in nonhuman primates.
 39083524	Correction: Beyond eves and cracks: An interdisciplinary study of socio-spatial variation in urban malaria transmission in Ethiopia.
 39082882	Efficacy assessment of miltefosine and curcumin against Clonorchis sinensis infection.
+39082803	Meropenem pharmacokinetics in cerebrospinal fluid: comparing intermittent and continuous infusion strategies in critically ill patients-a prospective cohort study.
 39082563	A snapshot of a representative Brazilian state of illegal mining in indigenous areas during the era of malaria elimination.
 39082488	Mass Spectrometric and Artificial Intelligence-Based Identification of the Secretome of Plasmodium falciparum Merozoites to Provide Novel Candidates for Vaccine Development Pipeline.
 39081619	Determinants of Hemoglobin Among Pregnant Women at Agro-Pastoralist Communities in South Omo Zone, Ethiopia: Community Based Cross-Sectional Study, Nutrition Experience from Movable Community.
@@ -9995,5 +9997,3 @@
 35793917	Correlates of late initiation and underutilisation of the recommended eight or more antenatal care visits among women of reproductive age: insights from the 2019 Ghana Malaria Indicator Survey.
 35793394	Germinal center activity and B cell maturation are associated with protective antibody responses against Plasmodium pre-erythrocytic infection.
 35793345	Hotspots and super-spreaders: Modelling fine-scale malaria parasite transmission using mosquito flight behaviour.
-35793331	Prevalence of malaria and helminth infections in rural communities in northern Sierra Leone, a baseline study to inform Ebola vaccine study protocols.
-35792443	Phosphatase inhibitors BVT-948 and alexidine dihydrochloride inhibit sexual development of the malaria parasite Plasmodium berghei.
