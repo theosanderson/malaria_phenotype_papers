@@ -1,3 +1,14 @@
+39235260	The three Plasmodium falciparum Aurora-related kinases display distinct temporal and spatial associations with mitotic structures in asexual blood stage parasites and gametocytes.
+39235058	Expression of Plasmodium major facilitator superfamily protein in transporters - Δ Candida identifies a drug transporter.
+39234468	Bioassay-Guided Fractionation of Acetone and Methanol Extracts of Quercus infectoria Galls with Antimalarial Properties.
+39234225	ISCCM Position Statement on the Management of Severe Malaria in Intensive Care Unit.
+39234221	Peripartum Infections: A Position Statement of the Indian Society of Critical Care Medicine.
+39234111	In silico and in vivo evaluations of multistage antiplasmodial potency and toxicity profiling of n-Hexadecanoic acid derived from Vernonia amygdalina.
+39233984	Plasmodium vivax Malaria Complicated With Acute Respiratory Distress Syndrome: A Case Report.
+39232787	Asymptomatic carriage of Plasmodium falciparum in children living in a hyperendemic area occurs independently of IgG responses but is associated with a balanced inflammatory cytokine ratio.
+39232051	Insights into malaria vectors-plant interaction in a dryland ecosystem.
+39231261	Imported malaria in China.
+39231131	Unveiling the significance of women's role in health-seeking behavior during suspected malaria fever in risk populations of Nepal: Mixed methods cross-sectional study.
 39230164	Acquired thrombotic thrombocytopenic purpura in a patient with plasmodium vivax malaria: A case report.
 39229023	Sensitive and modular amplicon sequencing of Plasmodium falciparum diversity and resistance for research and public health.
 39228384	Oleuropein mediated autophagy begets antimalarial drug resistance.
@@ -610,6 +621,7 @@
 39013661	BioMalPar XX: looking back on, and forward from, 20 years of malaria research.
 39013660	A breath of fresh air: impact of insect-borne protozoan parasites on the respiratory system.
 39013438	Near-Term Quantum Classification Algorithms Applied to Antimalarial Drug Discovery.
+39013389	A Legacy of Impact in Global Health.
 39013375	Evaluation of the International Task Force for Disease Eradication: A Review of Past Deliberations.
 39012884	Correction: Untangling population structure and genetic diversity of reticulocyte binding protein 2b (PvRBP2b) erythrocytic stage vaccine candidate in worldwide Plasmodium vivax isolates.
 39012112	Bioactivity of synthetic peptides from Ecuadorian frog skin secretions against Leishmania mexicana, Plasmodium falciparum, and Trypanosoma cruzi.
@@ -9985,15 +9997,3 @@
 35798156	In-utero exposure to DDT and pyrethroids and child behavioral and emotional problems at 2 years of age in the VHEMBE cohort, South Africa.
 35798100	Maternal exposure to DDT, DDE, and pyrethroid insecticides for malaria vector control and hypospadias in the VHEMBE birth cohort study, Limpopo, South Africa.
 35797926	Action mechanisms of metallic compounds on Plasmodium spp.
-35797701	Isolation, characterisation and complement fixation activity of acidic polysaccharides from Argemone mexicana used as antimalarials in Mali.
-35797283	Emerging biology of noncoding RNAs in malaria parasites.
-35796955	CRISPR-Mediated Genome Engineering in Aedes aegypti.
-35796755	Etiology, Pathophysiology and Mortality of Shock in Children in Low (Middle) Income Countries: A Systematic Review.
-35796430	The influence of biological, epidemiological, and treatment factors on the establishment and spread of drug-resistant Plasmodium falciparum.
-35794887	Transcriptional Profiles Analysis of COVID-19 and Malaria Patients Reveals Potential Biomarkers in Children.
-35794597	Establishment and evaluation of glucose-modified nanocomposite liposomes for the treatment of cerebral malaria.
-35794471	A male steroid controls female sexual behaviour in the malaria mosquito.
-35793920	Resurgence of blackwater fever among children in sub-Saharan Africa: a scoping review protocol.
-35793917	Correlates of late initiation and underutilisation of the recommended eight or more antenatal care visits among women of reproductive age: insights from the 2019 Ghana Malaria Indicator Survey.
-35793394	Germinal center activity and B cell maturation are associated with protective antibody responses against Plasmodium pre-erythrocytic infection.
-35793345	Hotspots and super-spreaders: Modelling fine-scale malaria parasite transmission using mosquito flight behaviour.
