@@ -1,3 +1,8 @@
+39239157	Effects of extrapulmonary TB on patient quality of life and recurrence.
+39239039	Exploring the impact of early exposure and mentorship on the neurosurgery career aspirations of medical students in low- and middle-income countries.
+39238689	Traveling Before, During, and After the Pandemic: Impact of the COVID-19 Pandemic on the Travel Behavior and Travel Medicine Practice.
+39238542	Development of a Plasmodium vivax malaria model for evaluating the effects of control strategies on the malaria burden in Democratic People's Republic of Korea.
+39238107	A review of historical trends in Anopheles gambiae Giles (Diptera: Culicidae) complex composition, collection trends and environmental effects from 2009 to 2021 in Mpumalanga province, South Africa.
 39238007	Knowledge, attitude and practice levels regarding malaria among the Semai sub-ethnic indigenous Orang Asli communities in Pahang, Peninsular Malaysia: a stepping stone towards the prevention of human malaria re-establishment.
 39237741	Larvicidal potential of Trachyspermum ammi essential oil and Delphinium speciosum extract against malaria, dengue, and filariasis mosquito vectors.
 39236082	Linked-evidence modelling of qualitative G6PD testing to inform low- and intermediate-dose primaquine treatment for radical cure of Plasmodium vivax.
@@ -9992,8 +9997,3 @@
 35799644	Dynamical Analysis on a Malaria Model with Relapse Preventive Treatment and Saturated Fumigation.
 38455327	Analysis of Recurrent Times-to-Clinical Malaria Episodes and Plasmodium falciparum Parasitemia: A Joint Modeling Approach Applied to a Cohort Data.
 35799266	Correction: Assessing the impact of a novel house design on the incidence of malaria in children in rural Africa: study protocol for a household-cluster randomized controlled superiority trial.
-35799247	Leveraging geo-referenced malaria information to increase domestic financial support for malaria elimination in Thailand.
-35799172	Comparison of cone bioassay estimates at two laboratories with different Anopheles mosquitoes for quality assurance of pyrethroid insecticide-treated nets.
-35799168	Experiences and perceptions of care-seeking for febrile illness among caregivers, pregnant women, and health providers in eight districts of Madagascar.
-35798952	Spatial variation and risk factors of malaria and anaemia among children aged 0 to 59 months: a cross-sectional study of 2010 and 2015 datasets.
-35798930	Larval mosquito management and risk to aquatic ecosystems: A comparative approach including current tactics and gene-drive Anopheles techniques.
