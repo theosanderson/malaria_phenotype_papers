@@ -1,3 +1,4 @@
+39240033	Pro- and anti-inflammatory cytokines mediate the progression of severe anemia in malaria-infected children: A prospective study.
 39239157	Effects of extrapulmonary TB on patient quality of life and recurrence.
 39239039	Exploring the impact of early exposure and mentorship on the neurosurgery career aspirations of medical students in low- and middle-income countries.
 39238689	Traveling Before, During, and After the Pandemic: Impact of the COVID-19 Pandemic on the Travel Behavior and Travel Medicine Practice.
@@ -9996,4 +9997,3 @@
 35800123	Erratum: Knowledge of Malaria and Its Uncomplicated Treatment with Argemone mexicana L. in Selected Districts of Jimma Zone, Oromia Regional State, Ethiopia: A Community-Based Cross Sectional Survey [Corrigendum].
 35799644	Dynamical Analysis on a Malaria Model with Relapse Preventive Treatment and Saturated Fumigation.
 38455327	Analysis of Recurrent Times-to-Clinical Malaria Episodes and Plasmodium falciparum Parasitemia: A Joint Modeling Approach Applied to a Cohort Data.
-35799266	Correction: Assessing the impact of a novel house design on the incidence of malaria in children in rural Africa: study protocol for a household-cluster randomized controlled superiority trial.
