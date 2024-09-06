@@ -1,3 +1,8 @@
+39236082	Linked-evidence modelling of qualitative G6PD testing to inform low- and intermediate-dose primaquine treatment for radical cure of Plasmodium vivax.
+39236029	The demand for intermittent preventive treatment of malaria in pregnancy using sulfadoxine-pyrimethamine in the Volta Region of Ghana.
+39236023	Anaemia at 36 weeks of pregnancy: Prevalence and determinants among antenatal women attending peri-urban facilities in a developing country, Ghana.
+39236018	Leveraging tuberculosis programs for future pandemic preparedness: A retrospective look on COVID-19.
+39236009	Multilevel predictors of anaemia among pregnant women in Ghana: New evidence from the 2019 Ghana Malaria Indicator Survey.
 39235260	The three Plasmodium falciparum Aurora-related kinases display distinct temporal and spatial associations with mitotic structures in asexual blood stage parasites and gametocytes.
 39235058	Expression of Plasmodium major facilitator superfamily protein in transporters - Δ Candida identifies a drug transporter.
 39234468	Bioassay-Guided Fractionation of Acetone and Methanol Extracts of Quercus infectoria Galls with Antimalarial Properties.
@@ -161,7 +166,6 @@
 39180112	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
 39180068	Using the role model approach to optimise caregiver administration of sulfadoxine-pyrimethamine amodiaquine to children aged 3-59 months in Burkina Faso, Chad and Togo: findings from an evaluation.
 39180067	Preventing the re-establishment of malaria during the COVID-19 pandemic in Sri Lanka: implications for health security.
-39178195	The long road for vaccine development with difficulties and hopes.
 39177882	Performance evaluation of a combination Plasmodium dual-antigen CRP rapid diagnostic test in Lambaréné, Gabon.
 39177677	Micro-scale screening of genetically modified Fusarium fujikuroi strain extends the apicidin family.
 39175062	Advancing spatial repellents for malaria control: effectiveness and cost-effectiveness of a spatial repellent under operational use in Northern Uganda-study protocol for a cluster randomized controlled trial.
@@ -9993,7 +9997,3 @@
 35798930	Larval mosquito management and risk to aquatic ecosystems: A comparative approach including current tactics and gene-drive Anopheles techniques.
 35798826	The influence of the environment and indoor residual spraying on malaria risk in a cohort of children in Uganda.
 35798366	Optimized Pyridazinone Nutrient Channel Inhibitors Are Potent and Specific Antimalarial Leads.
-35798201	Multistage and transmission-blocking tubulin targeting potent antimalarial discovered from the open access MMV pathogen box.
-35798156	In-utero exposure to DDT and pyrethroids and child behavioral and emotional problems at 2 years of age in the VHEMBE cohort, South Africa.
-35798100	Maternal exposure to DDT, DDE, and pyrethroid insecticides for malaria vector control and hypospadias in the VHEMBE birth cohort study, Limpopo, South Africa.
-35797926	Action mechanisms of metallic compounds on Plasmodium spp.
