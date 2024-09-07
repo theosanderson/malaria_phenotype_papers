@@ -1,3 +1,6 @@
+39241090	Apicoplast-derived isoprenoids are essential for biosynthesis of GPI protein anchors, and consequently for egress and invasion in Plasmodium falciparum.
+39240990	Diagnostic role of Sysmex hematology analyzer in the detection of malaria: A systematic review and meta-analysis.
+39240950	Knowledge, and attitude of service user of intermittent preventive treatment of malaria in pregnancy using sulfadoxine pyrimethamine in the Volta Region of Ghana.
 39240033	Pro- and anti-inflammatory cytokines mediate the progression of severe anemia in malaria-infected children: A prospective study.
 39239157	Effects of extrapulmonary TB on patient quality of life and recurrence.
 39239039	Exploring the impact of early exposure and mentorship on the neurosurgery career aspirations of medical students in low- and middle-income countries.
@@ -445,6 +448,7 @@
 39075616	Impact of COVID-19 on the neglected tropical diseases: a scoping review.
 39075150	Additional blood meals increase sporozoite infection in Anopheles mosquitoes but not Plasmodium falciparum genetic diversity.
 39075079	Stability analysis of a nonlinear malaria transmission epidemic model using an effective numerical scheme.
+39074737	Anti-filarial antibodies are sensitive indicators of lymphatic filariasis transmission and enable identification of high-risk populations and hotspots.
 39074295	Precision-guided tools for malaria control.
 39074292	Correction for Fierro et al., Knock-sideways by inducible ER retrieval enables a unique approach for studying Plasmodium-secreted proteins.
 39074161	Association of a rapidly selected 4.3kb transposon-containing structural variation with a P450-based resistance to pyrethroids in the African malaria vector Anopheles funestus.
@@ -9993,7 +9997,3 @@
 35801470	Global dynamics of SARS-CoV-2/malaria model with antibody immune response.
 35801230	microRNAs: An opportunity to overcome significant challenges in malaria detection and control.
 35800259	Elevated Plasma Soluble ST2 Levels are Associated With Neuronal Injury and Neurocognitive Impairment in Children With Cerebral Malaria.
-35800239	Computational Models-Based Detection of Peripheral Malarial Parasites in Blood Smears.
-35800123	Erratum: Knowledge of Malaria and Its Uncomplicated Treatment with Argemone mexicana L. in Selected Districts of Jimma Zone, Oromia Regional State, Ethiopia: A Community-Based Cross Sectional Survey [Corrigendum].
-35799644	Dynamical Analysis on a Malaria Model with Relapse Preventive Treatment and Saturated Fumigation.
-38455327	Analysis of Recurrent Times-to-Clinical Malaria Episodes and Plasmodium falciparum Parasitemia: A Joint Modeling Approach Applied to a Cohort Data.
