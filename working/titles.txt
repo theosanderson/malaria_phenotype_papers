@@ -1,3 +1,7 @@
+39243086	Perceived barriers and opportunities for the introduction of post-discharge malaria chemoprevention (PDMC) in five sub-Saharan countries: a qualitative survey amongst malaria key stakeholders.
+39243075	Effectiveness of malaria chemoprevention in the first two years of life in Cameroon and Côte d'Ivoire compared to standard of care: study protocol for a population-based prospective cohort impact evaluation study.
+39241585	A comprehensive review of synthetic strategies and SAR studies for the discovery of PfDHODH inhibitors as antimalarial agents. Part 2: Non-DSM compounds.
+39241483	Discovery of 1,3,4-oxadiazoles with slow-action activity against Plasmodium falciparum malaria parasites.
 39241090	Apicoplast-derived isoprenoids are essential for biosynthesis of GPI protein anchors, and consequently for egress and invasion in Plasmodium falciparum.
 39240990	Diagnostic role of Sysmex hematology analyzer in the detection of malaria: A systematic review and meta-analysis.
 39240950	Knowledge, and attitude of service user of intermittent preventive treatment of malaria in pregnancy using sulfadoxine pyrimethamine in the Volta Region of Ghana.
@@ -9993,7 +9997,3 @@
 35804459	Plasmodium berghei Brca2 is required for normal development and differentiation in mice and mosquitoes.
 35804441	Morphological identification and genetic characterization of Anopheles stephensi in Somaliland.
 35804032	A multi-epitope vaccine designed against blood-stage of malaria: an immunoinformatic and structural approach.
-35803536	On the contribution of the rodent model Plasmodium chabaudi for understanding the genetics of drug resistance in malaria.
-35801470	Global dynamics of SARS-CoV-2/malaria model with antibody immune response.
-35801230	microRNAs: An opportunity to overcome significant challenges in malaria detection and control.
-35800259	Elevated Plasma Soluble ST2 Levels are Associated With Neuronal Injury and Neurocognitive Impairment in Children With Cerebral Malaria.
