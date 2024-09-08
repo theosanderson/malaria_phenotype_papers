@@ -1,3 +1,4 @@
+39243375	Plasmodium infection induces phenotypic, clonal, and spatial diversity among differentiating CD4(+) T cells.
 39243086	Perceived barriers and opportunities for the introduction of post-discharge malaria chemoprevention (PDMC) in five sub-Saharan countries: a qualitative survey amongst malaria key stakeholders.
 39243075	Effectiveness of malaria chemoprevention in the first two years of life in Cameroon and Côte d'Ivoire compared to standard of care: study protocol for a population-based prospective cohort impact evaluation study.
 39241585	A comprehensive review of synthetic strategies and SAR studies for the discovery of PfDHODH inhibitors as antimalarial agents. Part 2: Non-DSM compounds.
@@ -9996,4 +9997,3 @@
 35804461	The resting behavior of malaria vectors in different ecological zones of Ghana and its implications for vector control.
 35804459	Plasmodium berghei Brca2 is required for normal development and differentiation in mice and mosquitoes.
 35804441	Morphological identification and genetic characterization of Anopheles stephensi in Somaliland.
-35804032	A multi-epitope vaccine designed against blood-stage of malaria: an immunoinformatic and structural approach.
