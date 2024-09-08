@@ -1,3 +1,5 @@
+39244219	The effects of climatic and non-climatic factors on malaria mortality at different spatial scales in western Kenya, 2008-2019.
+39243779	Risks of infectious disease hospitalisations in the aftermath of tropical cyclones: a multi-country time-series study.
 39243375	Plasmodium infection induces phenotypic, clonal, and spatial diversity among differentiating CD4(+) T cells.
 39243086	Perceived barriers and opportunities for the introduction of post-discharge malaria chemoprevention (PDMC) in five sub-Saharan countries: a qualitative survey amongst malaria key stakeholders.
 39243075	Effectiveness of malaria chemoprevention in the first two years of life in Cameroon and Côte d'Ivoire compared to standard of care: study protocol for a population-based prospective cohort impact evaluation study.
@@ -178,6 +180,7 @@
 39181311	Possible transmission of plasmodium malariae through liver transplantation: Diagnosis with a Sysmex XN-20™ hematology analyzer.
 39181199	Dual nature of type I interferon responses and feedback regulations by SOCS1 dictate malaria mortality.
 39181137	Brazil to distribute paediatric antimalarial in Amazon.
+39180864	New substituted benzenesulphonamoyl 'Cys-Gly' dipeptide carboxamide derivatives: Design, synthesis, characterization and pharmacological studies.
 39180398	Correction to 'DNA sequence and chromatin differentiate sequence-specific transcription factor binding in the human malaria parasite Plasmodium falciparum'.
 39180112	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
 39180068	Using the role model approach to optimise caregiver administration of sulfadoxine-pyrimethamine amodiaquine to children aged 3-59 months in Burkina Faso, Chad and Togo: findings from an evaluation.
@@ -9994,6 +9997,3 @@
 35805545	Non-Human Primate Malaria Infections: A Review on the Epidemiology in Malaysia.
 35805519	Factors Associated with Underutilization of Maternity Health Care Cascade in Mozambique: Analysis of the 2015 National Health Survey.
 35804925	3-Bromo-Isoxazoline Derivatives Inhibit GAPDH Enzyme in PDAC Cells Triggering Autophagy and Apoptotic Cell Death.
-35804461	The resting behavior of malaria vectors in different ecological zones of Ghana and its implications for vector control.
-35804459	Plasmodium berghei Brca2 is required for normal development and differentiation in mice and mosquitoes.
-35804441	Morphological identification and genetic characterization of Anopheles stephensi in Somaliland.
