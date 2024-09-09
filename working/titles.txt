@@ -1,3 +1,6 @@
+39250146	Charting the Waters of Sickle Cell Disease With Target Trial Emulation.
+39249121	Molecular characterization, expression and in-silico analysis of fibrinogen-related protein 1 (frep1) in malaria vector Anopheles stephensi.
+39248353	Helminth parasites of impalas, Aepyceros melampus, in eastern southern Africa, collected during 1973 to 2007.
 39247760	Weak association of Usutu virus and haemosporidian infection in birds collected in Germany.
 39247247	One Haemolytic Anaemia May Hide Another: Paroxysmal Nocturnal Haemoglobinuria Masquerading As Plasmodium Falciparum Infection.
 39247033	Seroprevalence of Hepatitis B Infection Among Blood Donors in a Tribal-Preponderant State of India: A Seven-Year Retrospective Observational Study.
@@ -9994,6 +9997,3 @@
 35811678	Cytokines as Potential Biomarkers for Differential Diagnosis of Sepsis and Other Non-Septic Disease Conditions.
 35811673	Updated List of Transport Proteins in Plasmodium falciparum.
 35811310	Dihydroartemisinin regulates immune cell heterogeneity by triggering a cascade reaction of CDK and MAPK phosphorylation.
-35811308	Diagnostic Performance of Loop-Mediated Isothermal Amplification and Ultrasensitive Rapid Diagnostic Tests for Malaria Screening Among Pregnant Women in Kenya.
-35811085	Rift Valley fever seropositivity in humans and domestic ruminants and associated risk factors in Sengerema, Ilala, and Rufiji districts, Tanzania.
-35810476	Bagaza virus and Plasmodium spp. coinfection in red-legged partridges (Alectoris rufa), in Southern Spain 2019.
