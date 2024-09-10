@@ -1,3 +1,7 @@
+39253690	Moving population is a challenge for malaria elimination in India: A cross-sectional study to assess malaria parasite infections in walking pilgrims in western Rajasthan, India.
+39253688	Performance of rapid diagnostic test, light microscopy, and polymerase chain reaction in pregnant women with asymptomatic malaria in Nigeria.
+39252921	Risk of selection and timelines for the continued spread of artemisinin and partner drug resistance in Africa.
+39252234	Protecting maternal health: Strategies against HIV and malaria in pregnancy.
 39252131	Molecular xenomonitoring as an indicator of microfilaraemia prevalence for lymphatic filariasis in Samoa in 2019.
 39251932	Determining dengue infection risk in the Colombo district of Sri Lanka by inferencing the genetic parameters of Aedes mosquitoes.
 39251140	Abscisic acid, an evolutionary conserved hormone: Biosynthesis, therapeutic and diagnostic applications in mammals.
@@ -533,7 +537,7 @@
 39059381	Natural malaria infection elicits rare but potent neutralizing antibodies to the blood-stage antigen RH5.
 39059380	Analysis of the diverse antigenic landscape of the malaria protein RH5 identifies a potent vaccine-induced human public antibody clonotype.
 39059071	Tetrahydropyridine appended 8-aminoquinoline derivatives: Design, synthesis, in silico, and in vitro antimalarial studies.
-39058651	Community case management to accelerate access to healthcare in Mali: A realist process evaluation nested within a cluster randomised trial.
+39058651	Community case management to accelerate access to healthcare in Mali: a realist process evaluation nested within a cluster randomized trial.
 39058191	High Frequency of Deletions in the pfhrp2 and pfhrp3 Genes of Plasmodium falciparum in the Middle Rio Negro Region of the Brazilian Amazon.
 39058023	Transmission-blocking activities of artesunate, chloroquine, and methylene blue on Plasmodium vivax gametocytes.
 39058022	First-in-human, randomized, double-blind, placebo-controlled, single and multiple ascending doses clinical study to assess the safety, tolerability, and pharmacokinetics of cipargamin administered intravenously in healthy adults.
@@ -9993,7 +9997,3 @@
 35813117	An ON-OFF Magneto-Optical Probe of Anisotropic Biofluid Crystals: A β-Hematin Case Study.
 35812734	Dissecting Generalizability and Actionability of Disease-Associated Genes From 20 Worldwide Ethnolinguistic Cultural Groups.
 35812711	Genetic polymorphism of Plasmodium falciparum msp-1, msp-2 and glurp vaccine candidate genes in pre-artemisinin era clinical isolates from Lakhimpur district in Assam, Northeast India.
-35812708	Dengue and Chikungunya virus circulation in Cameroon and Gabon: molecular evidence among symptomatic individuals.
-35812395	Alternative B Cell Differentiation During Infection and Inflammation.
-35812379	Heterologous Expression and Evaluation of Novel Plasmodium falciparum Transmission Blocking Vaccine Candidates.
-35811813	G6PD and HBB polymorphisms in the Senegalese population: prevalence, correlation with clinical malaria.
