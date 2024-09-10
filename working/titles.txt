@@ -1,3 +1,4 @@
+39254294	A high content imaging assay for identification of specific inhibitors of native Plasmodium liver stage protein synthesis.
 39253690	Moving population is a challenge for malaria elimination in India: A cross-sectional study to assess malaria parasite infections in walking pilgrims in western Rajasthan, India.
 39253688	Performance of rapid diagnostic test, light microscopy, and polymerase chain reaction in pregnant women with asymptomatic malaria in Nigeria.
 39252921	Risk of selection and timelines for the continued spread of artemisinin and partner drug resistance in Africa.
@@ -9996,4 +9997,3 @@
 35813270	Robert Koch, malaria pioneer.
 35813117	An ON-OFF Magneto-Optical Probe of Anisotropic Biofluid Crystals: A β-Hematin Case Study.
 35812734	Dissecting Generalizability and Actionability of Disease-Associated Genes From 20 Worldwide Ethnolinguistic Cultural Groups.
-35812711	Genetic polymorphism of Plasmodium falciparum msp-1, msp-2 and glurp vaccine candidate genes in pre-artemisinin era clinical isolates from Lakhimpur district in Assam, Northeast India.
