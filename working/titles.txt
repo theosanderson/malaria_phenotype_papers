@@ -1,3 +1,6 @@
+39252131	Molecular xenomonitoring as an indicator of microfilaraemia prevalence for lymphatic filariasis in Samoa in 2019.
+39251932	Determining dengue infection risk in the Colombo district of Sri Lanka by inferencing the genetic parameters of Aedes mosquitoes.
+39251140	Abscisic acid, an evolutionary conserved hormone: Biosynthesis, therapeutic and diagnostic applications in mammals.
 39250850	Flexible 2,4-diaminopyrimidine bearing a butyrolactone as Plasmodium falciparum dihydrofolate reductase inhibitors.
 39250503	NLRP1-dependent activation of Gasdermin D in neutrophils controls cutaneous leishmaniasis.
 39250146	Charting the Waters of Sickle Cell Disease With Target Trial Emulation.
@@ -9994,6 +9997,3 @@
 35812395	Alternative B Cell Differentiation During Infection and Inflammation.
 35812379	Heterologous Expression and Evaluation of Novel Plasmodium falciparum Transmission Blocking Vaccine Candidates.
 35811813	G6PD and HBB polymorphisms in the Senegalese population: prevalence, correlation with clinical malaria.
-35811680	Plasmodium knowlesi Cytoadhesion Involves SICA Variant Proteins.
-35811679	Rapid Visual Detection of Plasmodium Using Recombinase-Aided Amplification With Lateral Flow Dipstick Assay.
-35811678	Cytokines as Potential Biomarkers for Differential Diagnosis of Sepsis and Other Non-Septic Disease Conditions.
