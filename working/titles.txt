@@ -1,3 +1,5 @@
+39250850	Flexible 2,4-diaminopyrimidine bearing a butyrolactone as Plasmodium falciparum dihydrofolate reductase inhibitors.
+39250503	NLRP1-dependent activation of Gasdermin D in neutrophils controls cutaneous leishmaniasis.
 39250146	Charting the Waters of Sickle Cell Disease With Target Trial Emulation.
 39249121	Molecular characterization, expression and in-silico analysis of fibrinogen-related protein 1 (frep1) in malaria vector Anopheles stephensi.
 39248353	Helminth parasites of impalas, Aepyceros melampus, in eastern southern Africa, collected during 1973 to 2007.
@@ -9995,5 +9997,3 @@
 35811680	Plasmodium knowlesi Cytoadhesion Involves SICA Variant Proteins.
 35811679	Rapid Visual Detection of Plasmodium Using Recombinase-Aided Amplification With Lateral Flow Dipstick Assay.
 35811678	Cytokines as Potential Biomarkers for Differential Diagnosis of Sepsis and Other Non-Septic Disease Conditions.
-35811673	Updated List of Transport Proteins in Plasmodium falciparum.
-35811310	Dihydroartemisinin regulates immune cell heterogeneity by triggering a cascade reaction of CDK and MAPK phosphorylation.
