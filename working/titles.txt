@@ -1,3 +1,5 @@
+39259191	Splenic filtration of red blood cells in physiology, malaria and sickle cell disease.
+39259139	Glucose-6-phosphate dehydrogenase and its 3D structures from crystallography and electron cryo-microscopy.
 39258252	Immunogenicity and transmission-blocking potential of quiescin sulfhydryl oxidase in Plasmodium vivax.
 39257815	Prodrug activation in malaria parasites mediated by an imported erythrocyte esterase, acylpeptide hydrolase (APEH).
 39257751	Analogues of the anti-malaria drug mefloquine have broad spectrum antifungal activity and are efficacious in a model of disseminated Candida auris infection.
@@ -9995,5 +9997,3 @@
 35820892	A systematic review and meta-analysis of blood interleukin-4 levels concerning malaria infection and severity.
 35820756	Prospective surveillance study to detect antimalarial drug resistance, gene deletions of diagnostic relevance and genetic diversity of Plasmodium falciparum in Mozambique: protocol.
 35820687	The Myanmar health crisis engulfing India's under-resourced border state.
-35819996	Species Diversity of Anopheles Mosquitoes and Plasmodium vivax Infection Rates, Gyeonggi Province, Republic of Korea During 2020.
-35819512	Indispensable role of microbes in anticancer drugs and discovery trends.
