@@ -1,3 +1,18 @@
+39256854	Global acute malnutrition is associated with geography, season and malaria incidence in the conflict-affected regions of Ouham and Ouham Pendé prefectures, Central African Republic.
+39256842	CUREMA project: a further step towards malaria elimination among hard-to-reach and mobile populations.
+39256807	Simple supplementation of serum-free medium produces gametocytes of Plasmodium falciparum that transmit to mosquitoes.
+39256778	Mosquito dynamics and their drivers in peri-urban Antananarivo, Madagascar: insights from a longitudinal multi-host single-site survey.
+39256754	Challenges in diagnosis of clinical and subclinical Plasmodium falciparum infections in Ghana and feasibility of reactive interventions to shrink the subclinical reservoir.
+39256741	Potential impact of climatic factors on malaria in Rwanda between 2012 and 2021: a time-series analysis.
+39256721	Analysis of care-seeking pathways and factors influencing early and appropriate care-seeking for malaria patients in the Republic of Guinea: a cross-sectional study.
+39256660	Prevalence and determinants of skilled birth attendance among young women aged 15-24 years in Northern Nigeria: evidence from multiple indicator cluster survey 2011 to 2021.
+39256556	Population genomic evidence of a putative 'far-west' African cryptic taxon in the Anopheles gambiae complex.
+39255876	Hot melt extruded High-Dose amorphous solid dispersions containing lumefantrine and Soluplus.
+39255809	Seroprevalence and Risk Factors for Toxoplasma gondii Infection in Women of Reproductive Age in Nigeria in 2018.
+39255807	Anopheles jamesii Supports Plasmodium vivax Sporogony under Laboratory Conditions.
+39255806	Risk of Neglected Zoonotic Malaria in Western Ghats: How the Ecosystem Favors Transmission of an Impending Public Health Threat.
+39255803	Application of Machine Learning in a Rodent Malaria Model for Rapid, Accurate, and Consistent Parasite Counts.
+39255654	Investigation of P. vivax elimination via mass drug administration: A simulation study.
 39255521	Lymphatic filariasis in soldiers exposed in INDOPACOM.
 39255515	Malaria in the Australian military, 2008-2022.
 39255325	Development of new real-time PCR assays for detection and species differentiation of Plasmodium ovale.
@@ -200,7 +215,7 @@
 39183741	Understanding the epidemiology of iNTS disease in Africa in preparation for future iNTS- vaccine studies in endemic countries: Seroepidemiology in Africa of iNTS (SAiNTS) Study Protocol: Malawi site [Version 9.0].
 39182925	Rethinking malaria vaccines: perspectives on currently approved malaria vaccines in India's path to elimination.
 39182698	Ameliorative potential of ethanol extract of Calyptrochilum emarginatum leaves on scopolamine-induced amnesia in male swiss mice.
-39182654	Antibodies to PfEMP1 and Variant Surface Antigens: Protection after Controlled Human Malaria Infection in Semi-immune Kenyan Adults.
+39182654	Antibodies to PfEMP1 and variant surface antigens: Protection after controlled human malaria infection in semi-immune Kenyan adults.
 39182375	Corrigendum to "Host biomarkers for early identification of severe imported Plasmodium falciparum malaria" [Trav. Med. Infect. Dis. 54 (2023) 102608].
 39182127	Bayesian spatio-temporal modelling of environmental, climatic, and socio-economic influences on malaria in Central Vietnam.
 39182108	Impact of mass media campaigns on knowledge of malaria prevention measures among pregnant mothers in Uganda: a propensity score-matched analysis.
@@ -9982,18 +9997,3 @@
 35818774	The 2021 Zika outbreak in Uttar Pradesh state of India: Tackling the emerging public health threat.
 35818754	Malaria and malnutrition together jeopardizes India's tribal community and disease elimination.
 35818703	Cost-Benefit Analysis of Tafenoquine for Radical Cure of Plasmodium vivax Malaria in Korea.
-35818655	COVID-19 Pandemic-to-Endemic Transition in Indonesia: What Does the Future Hold?
-35818561	Anemia and Associated Factors Among Under Five Year Old Children Who Attended Bule Hora General Hospital in West Guji zone, Southern Ethiopia.
-35818410	From HIV to COVID-19, Molecular mechanisms of pathogens' trade-off and persistence in the community, potential targets for new drug development.
-35818023	High burden of childhood tuberculosis in migrants: a retrospective cohort study from the Thailand-Myanmar border.
-35817892	Rhoptry secretion system structure and priming in Plasmodium falciparum revealed using in situ cryo-electron tomography.
-35815526	Key interactions of pyrimethamine derivatives specific to wild-type and mutant P. falciparum dihydrofolate reductase based on 3D-QSAR, MD simulations and quantum chemical calculations.
-35815443	Cerebral malaria - modelling interactions at the blood-brain barrier in vitro.
-35815223	Helminthiasis, eosinophils, COVID-19 and vaccination.
-35815063	Lateral flow assays for viruses diagnosis: Up-to-date technology and future prospects.
-35814662	Babesia microti Infection Inhibits Melanoma Growth by Activating Macrophages in Mice.
-35814548	Deep Learning and Transfer Learning for Malaria Detection.
-35813680	Asymptomatic Malaria in Households and Neighbors of Laboratory Confirmed Cases in Raya Kobo District, Northeast Ethiopia.
-35813509	Under-five mortality in the Democratic Republic of the Congo: secondary analyses of survey and conflict data by province.
-35813273	Palestine 100 years ago, Hans Christian Anderson's tale of 'The Emperor's New Clothes', malaria elimination and today's failure of engagement with the community.
-35813272	Malaria surveillance amongst pregnant women attending antenatal care in private hospitals in Onitsha metropolis, South Eastern Nigeria.
