@@ -1,3 +1,7 @@
+39255521	Lymphatic filariasis in soldiers exposed in INDOPACOM.
+39255515	Malaria in the Australian military, 2008-2022.
+39255325	Development of new real-time PCR assays for detection and species differentiation of Plasmodium ovale.
+39255311	Plasmodium NEK1 coordinates MTOC organisation and kinetochore attachment during rapid mitosis in male gamete formation.
 39254294	A high content imaging assay for identification of specific inhibitors of native Plasmodium liver stage protein synthesis.
 39253690	Moving population is a challenge for malaria elimination in India: A cross-sectional study to assess malaria parasite infections in walking pilgrims in western Rajasthan, India.
 39253688	Performance of rapid diagnostic test, light microscopy, and polymerase chain reaction in pregnant women with asymptomatic malaria in Nigeria.
@@ -228,7 +232,7 @@
 39170853	Unpacking WHO and CDC Bottle Bioassay Methods: A Comprehensive Literature Review and Protocol Analysis Revealing Key Outcome Predictors.
 39170127	Biophysical profiling of red blood cells from thin-film blood smears using deep learning.
 39170119	Post-independence health research productivity in Portuguese-speaking African countries: A bibliometric analysis of 43 years of research and higher education in Mozambique.
-39169618	Mid-pass Whole-genome Sequencing in a Malagasy Cohort Uncovers Body Composition Associations.
+39169618	Mid-pass whole-genome sequencing in a Malagasy cohort uncovers body composition associations.
 39169341	Measuring preparedness to infectious diseases among people exposed to climate disasters in Cabo Delgado, Mozambique: a cross-sectional study.
 39168412	Proteostasis is a key driver of the pathogenesis in Apicomplexa.
 37184194	Hydroxychloroquine Therapy and G6PD Genotype.
@@ -9993,7 +9997,3 @@
 35813509	Under-five mortality in the Democratic Republic of the Congo: secondary analyses of survey and conflict data by province.
 35813273	Palestine 100 years ago, Hans Christian Anderson's tale of 'The Emperor's New Clothes', malaria elimination and today's failure of engagement with the community.
 35813272	Malaria surveillance amongst pregnant women attending antenatal care in private hospitals in Onitsha metropolis, South Eastern Nigeria.
-35813271	Barriers and facilitators to access and uptake of intermittent preventive treatment with sulfadoxine-pyrimethamine among pregnant women in Nigeria: a scoping review.
-35813270	Robert Koch, malaria pioneer.
-35813117	An ON-OFF Magneto-Optical Probe of Anisotropic Biofluid Crystals: A β-Hematin Case Study.
-35812734	Dissecting Generalizability and Actionability of Disease-Associated Genes From 20 Worldwide Ethnolinguistic Cultural Groups.
