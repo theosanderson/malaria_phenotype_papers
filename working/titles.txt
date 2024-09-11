@@ -1,3 +1,6 @@
+39258252	Immunogenicity and transmission-blocking potential of quiescin sulfhydryl oxidase in Plasmodium vivax.
+39257815	Prodrug activation in malaria parasites mediated by an imported erythrocyte esterase, acylpeptide hydrolase (APEH).
+39257751	Analogues of the anti-malaria drug mefloquine have broad spectrum antifungal activity and are efficacious in a model of disseminated Candida auris infection.
 39256854	Global acute malnutrition is associated with geography, season and malaria incidence in the conflict-affected regions of Ouham and Ouham Pendé prefectures, Central African Republic.
 39256842	CUREMA project: a further step towards malaria elimination among hard-to-reach and mobile populations.
 39256807	Simple supplementation of serum-free medium produces gametocytes of Plasmodium falciparum that transmit to mosquitoes.
@@ -9994,6 +9997,3 @@
 35820687	The Myanmar health crisis engulfing India's under-resourced border state.
 35819996	Species Diversity of Anopheles Mosquitoes and Plasmodium vivax Infection Rates, Gyeonggi Province, Republic of Korea During 2020.
 35819512	Indispensable role of microbes in anticancer drugs and discovery trends.
-35818774	The 2021 Zika outbreak in Uttar Pradesh state of India: Tackling the emerging public health threat.
-35818754	Malaria and malnutrition together jeopardizes India's tribal community and disease elimination.
-35818703	Cost-Benefit Analysis of Tafenoquine for Radical Cure of Plasmodium vivax Malaria in Korea.
