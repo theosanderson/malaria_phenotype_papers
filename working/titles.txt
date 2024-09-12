@@ -1,3 +1,7 @@
+39263636	High seroprevalence of IgM antibodies against chikungunya among patients with acute febrile illness seeking healthcare in a malaria-endemic area in the Afar Region, Northeast Ethiopia.
+39263598	Electrophysiological evaluation of the effect of peptide toxins on voltage-gated ion channels: a scoping review on theoretical and methodological aspects with focus on the Central and South American experience.
+39262389	Antimalarial mechanism of action of the natural product 9-methoxystrobilurin G.
+39262370	Analysis of Complexome Profiles with the Gaussian Interaction Profiler (GIP) Reveals Novel Protein Complexes in Plasmodium falciparum.
 39261971	Real-time PCR for malaria diagnosis and identification of Plasmodium species in febrile patients in Cubal, Angola.
 39261928	Warmer environmental temperature accelerates aging in mosquitoes, decreasing longevity and worsening infection outcomes.
 39260846	Evaluating the impact of malaria rapid diagnostic tests on patient-important outcomes in sub-Saharan Africa: a systematic review of study methods to guide effective implementation.
@@ -9993,7 +9997,3 @@
 35830574	Transition Path Sampling Based Calculations of Free Energies for Enzymatic Reactions: The Case of Human Methionine Adenosyl Transferase and Plasmodium vivax Adenosine Deaminase.
 35829783	Small-quantity lipid-based nutrient supplements, with or without added zinc, do not cause excessive fat deposition in Burkinabe children: results from a cluster-randomized community trial.
 35822871	First report of classical knockdown resistance (kdr) mutation, L1014F, in human head louse Pediculus humanus capitis (Phthiraptera: Anoplura).
-35822551	Production of a high purity, C-tagged hepatitis B surface antigen fusion protein VLP vaccine for malaria expressed in Pichia pastoris under cGMP conditions.
-35821489	Dual-Luciferase-Based Fast and Sensitive Detection of Malaria Hypnozoites for the Discovery of Anti-relapse Compounds.
-35821487	Imaging Infection by Vector-Borne Protozoan Parasites Using Whole-Mouse Bioluminescence.
-35821133	Inhibitory effects of anthracyclines on partially purified 5'-3' DNA helicase of Plasmodium falciparum.
