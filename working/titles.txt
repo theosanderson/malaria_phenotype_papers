@@ -1,3 +1,6 @@
+39264620	Medicalizing the Body and the Locale: Kala Azar and Disease Thinking in Assam, 1824-1900.
+39264187	An adaptable, fit-for-purpose screening approach with high-throughput capability to determine speed of action and stage specificity of anti-malarial compounds.
+39263923	Single and two-dose typhoid conjugate vaccine safety and immunogenicity in HIV-exposed uninfected and HIV-unexposed uninfected Malawian children.
 39263636	High seroprevalence of IgM antibodies against chikungunya among patients with acute febrile illness seeking healthcare in a malaria-endemic area in the Afar Region, Northeast Ethiopia.
 39263598	Electrophysiological evaluation of the effect of peptide toxins on voltage-gated ion channels: a scoping review on theoretical and methodological aspects with focus on the Central and South American experience.
 39262389	Antimalarial mechanism of action of the natural product 9-methoxystrobilurin G.
@@ -9994,6 +9997,3 @@
 35831720	Synergistic effect of chloroquine and copper to the euryhaline rotifer Proales similis.
 35831417	Selective expression of variant surface antigens enables Plasmodium falciparum to evade immune clearance in vivo.
 35831037	Stopping prereferral rectal artesunate - a grave error.
-35830574	Transition Path Sampling Based Calculations of Free Energies for Enzymatic Reactions: The Case of Human Methionine Adenosyl Transferase and Plasmodium vivax Adenosine Deaminase.
-35829783	Small-quantity lipid-based nutrient supplements, with or without added zinc, do not cause excessive fat deposition in Burkinabe children: results from a cluster-randomized community trial.
-35822871	First report of classical knockdown resistance (kdr) mutation, L1014F, in human head louse Pediculus humanus capitis (Phthiraptera: Anoplura).
