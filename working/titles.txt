@@ -1,3 +1,10 @@
+39267176	Reply to correspondence by Deora et al. in Human Genomics 18, article no.: 52 (2024): critical insights on "Association of the C allele of rs479200 in the EGLN1 gene with COVID‑19 severity in Indian population: a novel finding".
+39267089	A systems serology approach to identifying key antibody correlates of protection from cerebral malaria in Malawian children.
+39267082	Assessment of household preferences for net textile type (polyester versus polyethylene) for decision-making of the National Malaria Control Programme in Burkina Faso: methods for a quasi-experimental study.
+39267074	Malaria and typhoid fever co-infection - a retrospective analysis of University Hospital records in Nigeria.
+39266180	Recent development in CRISPR-Cas systems for human protozoan diseases.
+39265638	Mice Engrafted with Human Liver Cells.
+39265425	A novel peptide pair-based rapid fluorescent diagnostic system for malaria Plasmodium falciparum detection.
 39264620	Medicalizing the Body and the Locale: Kala Azar and Disease Thinking in Assam, 1824-1900.
 39264187	An adaptable, fit-for-purpose screening approach with high-throughput capability to determine speed of action and stage specificity of anti-malarial compounds.
 39263923	Single and two-dose typhoid conjugate vaccine safety and immunogenicity in HIV-exposed uninfected and HIV-unexposed uninfected Malawian children.
@@ -238,7 +245,7 @@
 39182108	Impact of mass media campaigns on knowledge of malaria prevention measures among pregnant mothers in Uganda: a propensity score-matched analysis.
 39182094	ABO and Rhesus blood group variability and their associations with clinical malaria presentations.
 39181577	Endocytosis in malaria parasites: An ultrastructural perspective of membrane interplay in a unique infection model.
-39181311	Possible transmission of plasmodium malariae through liver transplantation: Diagnosis with a Sysmex XN-20™ hematology analyzer.
+39181311	Possible transmission of Plasmodium malariae through liver transplantation: Diagnosis with a Sysmex XN-20™ hematology analyzer.
 39181199	Dual nature of type I interferon responses and feedback regulations by SOCS1 dictate malaria mortality.
 39181137	Brazil to distribute paediatric antimalarial in Amazon.
 39180864	New substituted benzenesulphonamoyl 'Cys-Gly' dipeptide carboxamide derivatives: Design, synthesis, characterization and pharmacological studies.
@@ -9990,10 +9997,3 @@
 35834496	Alpha globin gene copy number and hypertension risk among Black Americans.
 35834276	Does fetal hemoglobin inhibit the malarial parasite Plasmodium falciparum?
 35834159	Prevalence of Malaria and Covid-19 in Febrile Patients in Lomé, Togo in 2020.
-35833562	Modeling malaria transmission in Nepal: impact of imported cases through cross-border mobility.
-35833536	Effect of black seeds (Nigella sativa) on inflammatory and immunomodulatory markers in Plasmodium berghei-infected mice.
-35833343	Pyrexia of unknown origin and its aetiology in Pakistan.
-35832334	Attractive Sugar Bait Formulation for Development of Attractive Toxic Sugar Bait for Control of Aedes aegypti (Linnaeus).
-35831720	Synergistic effect of chloroquine and copper to the euryhaline rotifer Proales similis.
-35831417	Selective expression of variant surface antigens enables Plasmodium falciparum to evade immune clearance in vivo.
-35831037	Stopping prereferral rectal artesunate - a grave error.
