@@ -1,3 +1,7 @@
+39269721	Malaria Vaccine Candidate Could Prevent Infection During Pregnancy.
+39269188	In vitro antimalarial susceptibility profile of Plasmodium falciparum isolates in the BEI Resources repository.
+39269182	In vitro evaluation of the automated hematology analyzer XN-31 for rapid diagnosis of equine piroplasmosis.
+39269102	Potential of Enzymatically Synthesized Hemozoin Analog as Th1 Cell Adjuvant.
 39267176	Reply to correspondence by Deora et al. in Human Genomics 18, article no.: 52 (2024): critical insights on "Association of the C allele of rs479200 in the EGLN1 gene with COVID‑19 severity in Indian population: a novel finding".
 39267089	A systems serology approach to identifying key antibody correlates of protection from cerebral malaria in Malawian children.
 39267082	Assessment of household preferences for net textile type (polyester versus polyethylene) for decision-making of the National Malaria Control Programme in Burkina Faso: methods for a quasi-experimental study.
@@ -9993,7 +9997,3 @@
 35835738	Phagocytosis of Plasmodium falciparum ring-stage parasites predicts protection against malaria.
 35835714	Type 2 immunity: a two-edged sword in schistosomiasis immunopathology.
 35835123	A salivary factor binds a cuticular protein and modulates biting by inducing morphological changes in the mosquito labrum.
-35834514	Biocidal action, characterization, and molecular docking of Mentha piperita (Lamiaceae) leaves extract against Culex quinquefasciatus (Diptera: Culicidae) larvae.
-35834496	Alpha globin gene copy number and hypertension risk among Black Americans.
-35834276	Does fetal hemoglobin inhibit the malarial parasite Plasmodium falciparum?
-35834159	Prevalence of Malaria and Covid-19 in Febrile Patients in Lomé, Togo in 2020.
