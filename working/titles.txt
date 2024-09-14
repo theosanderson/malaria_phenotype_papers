@@ -21,8 +21,8 @@
 39267089	A systems serology approach to identifying key antibody correlates of protection from cerebral malaria in Malawian children.
 39267082	Assessment of household preferences for net textile type (polyester versus polyethylene) for decision-making of the National Malaria Control Programme in Burkina Faso: methods for a quasi-experimental study.
 39267074	Malaria and typhoid fever co-infection - a retrospective analysis of University Hospital records in Nigeria.
-39266180	Recent development in CRISPR-Cas systems for human protozoan diseases.
 39265638	Mice Engrafted with Human Liver Cells.
+39266180	Recent development in CRISPR-Cas systems for human protozoan diseases.
 39265425	A novel peptide pair-based rapid fluorescent diagnostic system for malaria Plasmodium falciparum detection.
 39264620	Medicalizing the Body and the Locale: Kala Azar and Disease Thinking in Assam, 1824-1900.
 39264187	An adaptable, fit-for-purpose screening approach with high-throughput capability to determine speed of action and stage specificity of anti-malarial compounds.
