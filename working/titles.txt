@@ -1,3 +1,15 @@
+39273566	Inflammation and Elevated Osteopontin in Plasma and CSF in Cerebral Malaria Compared to Plasmodium-Negative Neurological Infections.
+39273187	Plasmodium falciparum Mitochondrial Complex III, the Target of Atovaquone, Is Essential for Progression to the Transmissible Sexual Stages.
+39272630	Commercial Opportunity or Addressing Unmet Needs-Loop-Mediated Isothermal Amplification (LAMP) as the Future of Rapid Diagnostic Testing?
+39272272	Myxobolus dabryi n. sp. (Myxozoa: Myxobolidae) Infecting the Gills of Chanodichthys dabryi, Bleeker, 1871 (Cypriniformes: Cyprinidae) in Hunan Province, China.
+39272079	Quality assessment of common anti-malarial medicines marketed in Gambella, National Regional State, South Western-Ethiopia.
+39271962	Author Correction: Antimalarial drug discovery: progress and approaches.
+39271604	Experimental and computational evaluation of anti-malarial and antioxidant potential of transition metal (II) complexes with tridentate schiff base derived from pyrrolopyrimidine.
+39271555	Thiamine: An indispensable regulator of paediatric neuro-cardiovascular health and diseases.
+39271488	Ultrastructural study of pollen and tapetum development in Hydrocleys nymphoides, Alisma plantago-aquatica, and Sagittaria montevidensis (Alismataceae).
+39271057	Linkage of alternative exon assembly in Drosophila TrpA1 transcripts.
+39271036	Highly oxygenated antiplasmodial and non-hemolytic Δ(7,9(11)) stigmastane-type steroids from the twigs of Vernonia amygdalina Delile.
+39270404	Post-war status of water supply, sanitation, hygiene and related reported diseases in Tigray, Ethiopia: A community-based cross-sectional study.
 39269993	AnophelesModel: An R package to interface mosquito bionomics, human exposure and intervention effects with models of malaria intervention impact.
 39269948	Repelling Aedes aegypti mosquitoes with electric fields using insulated conductor wires.
 39269721	Malaria Vaccine Candidate Could Prevent Infection During Pregnancy.
@@ -171,7 +183,7 @@
 39210318	Novel Plasmodium falciparum histidine-rich protein 2/3 repeat type in Ethiopian malaria infection: does this affect performance of HRP2-based malaria RDT?
 39209784	Comprehensive evaluation of malaria reactive surveillance and response strategies in Lao People's Democratic Republic: a mixed-methods study.
 39209462	First mpox vaccines arrive in Africa as officials work "blindly" to contain outbreaks.
-39209265	Re: 'How to manage adult patients with malaria in the non-endemic setting' by Antinori et al.
+39209265	Re: 'How to manage adult patients with malaria in the non-endemic setting' by Antinori et al.
 39208861	[Severe complicated malaria caused by Plasmodium falciparum in a female traveler returning from Zanzibar].
 39208744	Development of peptoid-based heteroaryl-decorated histone deacetylase (HDAC) inhibitors with dual-stage antiplasmodial activity.
 39208643	Cd loop fusion enhances the immunogenicity and the potential transmission blocking activity of Plasmodium falciparum generative cell specific 1 (GCS1) antigen.
@@ -9985,15 +9997,3 @@
 35841448	Screening of febrile patients with suspected malaria from the Brazilian Amazon for virus infection.
 35840923	A framework for evaluating health system surveillance sensitivity to support public health decision-making for malaria elimination: a case study from Indonesia.
 35840625	Humanized mice for investigating sustained Plasmodium vivax blood-stage infections and transmission.
-35839244	Functional changes in hemostasis during asexual and sexual parasitemia in a controlled human malaria infection.
-35839086	Delivery of Small Molecules by Syndiotactic Peptides for Breast Cancer Therapy.
-35838413	Morphological and odorant-binding protein 1 gene intron 1 sequence variations in Anopheles stephensi from Jaffna city in northern Sri Lanka.
-35838346	Analysis of allelic cross-reactivity of monoclonal IgG antibodies by a multiplexed reverse FluoroSpot assay.
-35838092	Cloning, expression and purification of Plasmodium knowlesi circumsporozoite protein and immunoblot analysis with P. knowlesi strain A1H1 protein extract.
-35838087	First detection of Babesia sp. in Bornean sun bear (Helarctos malayanus euryspilus Horsfield) in Sabah, Malaysia.
-35836994	Impact of Urbanization on Health and Well-Being in Ghana. Status of Research, Intervention Strategies and Future Directions: A Rapid Review.
-35836261	Cross-platform mobile app development for disseminating public health information to travelers in Thailand: development and usability.
-35836234	Angiogenic and angiostatic factors present in the saliva of malaria patients.
-35836226	Anti-mosquito properties of Pelargonium roseum (Geraniaceae) and Juniperus virginiana (Cupressaceae) essential oils against dominant malaria vectors in Africa.
-35836179	Feasibility of community at-home dried blood spot collection combined with pooled reverse transcription PCR as a viable and convenient method for malaria epidemiology studies.
-35836171	Heterogeneity in prevalence of subclinical Plasmodium falciparum and Plasmodium vivax infections but no parasite genomic clustering in the Chittagong Hill Tracts, Bangladesh.
