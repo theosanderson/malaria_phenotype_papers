@@ -4,6 +4,7 @@
 39269188	In vitro antimalarial susceptibility profile of Plasmodium falciparum isolates in the BEI Resources repository.
 39269182	In vitro evaluation of the automated hematology analyzer XN-31 for rapid diagnosis of equine piroplasmosis.
 39269102	Potential of Enzymatically Synthesized Hemozoin Analog as Th1 Cell Adjuvant.
+39267914	Placental Malaria and Its Relationship with Neonatal Birth Weight among Primigravidae: An Analytical Cross-sectional Study.
 39267176	Reply to correspondence by Deora et al. in Human Genomics 18, article no.: 52 (2024): critical insights on "Association of the C allele of rs479200 in the EGLN1 gene with COVID‑19 severity in Indian population: a novel finding".
 39267089	A systems serology approach to identifying key antibody correlates of protection from cerebral malaria in Malawian children.
 39267082	Assessment of household preferences for net textile type (polyester versus polyethylene) for decision-making of the National Malaria Control Programme in Burkina Faso: methods for a quasi-experimental study.
@@ -9996,4 +9997,3 @@
 35836226	Anti-mosquito properties of Pelargonium roseum (Geraniaceae) and Juniperus virginiana (Cupressaceae) essential oils against dominant malaria vectors in Africa.
 35836179	Feasibility of community at-home dried blood spot collection combined with pooled reverse transcription PCR as a viable and convenient method for malaria epidemiology studies.
 35836171	Heterogeneity in prevalence of subclinical Plasmodium falciparum and Plasmodium vivax infections but no parasite genomic clustering in the Chittagong Hill Tracts, Bangladesh.
-35836156	Application of an innovative grid-based surveillance strategy to ensure elimination and prevent reintroduction of malaria in high-risk border communities in China.
