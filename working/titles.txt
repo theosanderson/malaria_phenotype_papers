@@ -1,3 +1,5 @@
+39269993	AnophelesModel: An R package to interface mosquito bionomics, human exposure and intervention effects with models of malaria intervention impact.
+39269948	Repelling Aedes aegypti mosquitoes with electric fields using insulated conductor wires.
 39269721	Malaria Vaccine Candidate Could Prevent Infection During Pregnancy.
 39269188	In vitro antimalarial susceptibility profile of Plasmodium falciparum isolates in the BEI Resources repository.
 39269182	In vitro evaluation of the automated hematology analyzer XN-31 for rapid diagnosis of equine piroplasmosis.
@@ -45,6 +47,7 @@
 39255515	Malaria in the Australian military, 2008-2022.
 39255325	Development of new real-time PCR assays for detection and species differentiation of Plasmodium ovale.
 39255311	Plasmodium NEK1 coordinates MTOC organisation and kinetochore attachment during rapid mitosis in male gamete formation.
+39254977	Estimated Health and Economic Outcomes of Racial and Ethnic Tuberculosis Disparities in US-Born Persons.
 39254294	A high content imaging assay for identification of specific inhibitors of native Plasmodium liver stage protein synthesis.
 39253690	Moving population is a challenge for malaria elimination in India: A cross-sectional study to assess malaria parasite infections in walking pilgrims in western Rajasthan, India.
 39253688	Performance of rapid diagnostic test, light microscopy, and polymerase chain reaction in pregnant women with asymptomatic malaria in Nigeria.
@@ -9994,6 +9997,3 @@
 35836179	Feasibility of community at-home dried blood spot collection combined with pooled reverse transcription PCR as a viable and convenient method for malaria epidemiology studies.
 35836171	Heterogeneity in prevalence of subclinical Plasmodium falciparum and Plasmodium vivax infections but no parasite genomic clustering in the Chittagong Hill Tracts, Bangladesh.
 35836156	Application of an innovative grid-based surveillance strategy to ensure elimination and prevent reintroduction of malaria in high-risk border communities in China.
-35835738	Phagocytosis of Plasmodium falciparum ring-stage parasites predicts protection against malaria.
-35835714	Type 2 immunity: a two-edged sword in schistosomiasis immunopathology.
-35835123	A salivary factor binds a cuticular protein and modulates biting by inducing morphological changes in the mosquito labrum.
