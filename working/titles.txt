@@ -1,3 +1,4 @@
+39278924	Spatio-temporal dynamics of malaria in Rwanda between 2012 and 2022: a demography-specific analysis.
 39277508	RH5: rationally-designed malaria vaccine antigen improving efficacy.
 39273566	Inflammation and Elevated Osteopontin in Plasma and CSF in Cerebral Malaria Compared to Plasmodium-Negative Neurological Infections.
 39273187	Plasmodium falciparum Mitochondrial Complex III, the Target of Atovaquone, Is Essential for Progression to the Transmissible Sexual Stages.
@@ -22,8 +23,8 @@
 39267089	A systems serology approach to identifying key antibody correlates of protection from cerebral malaria in Malawian children.
 39267082	Assessment of household preferences for net textile type (polyester versus polyethylene) for decision-making of the National Malaria Control Programme in Burkina Faso: methods for a quasi-experimental study.
 39267074	Malaria and typhoid fever co-infection - a retrospective analysis of University Hospital records in Nigeria.
-39265638	Mice Engrafted with Human Liver Cells.
 39266180	Recent development in CRISPR-Cas systems for human protozoan diseases.
+39265638	Mice Engrafted with Human Liver Cells.
 39265425	A novel peptide pair-based rapid fluorescent diagnostic system for malaria Plasmodium falciparum detection.
 39264620	Medicalizing the Body and the Locale: Kala Azar and Disease Thinking in Assam, 1824-1900.
 39264187	An adaptable, fit-for-purpose screening approach with high-throughput capability to determine speed of action and stage specificity of anti-malarial compounds.
@@ -9996,4 +9997,3 @@
 35841892	A hypometabolic defense strategy against malaria.
 35841531	The Global Epidemiological Transition in Cardiovascular Diseases: Unrecognised Impact of Endemic Infections on Peripheral Artery Disease.
 35841448	Screening of febrile patients with suspected malaria from the Brazilian Amazon for virus infection.
-35840923	A framework for evaluating health system surveillance sensitivity to support public health decision-making for malaria elimination: a case study from Indonesia.
