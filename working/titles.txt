@@ -1,3 +1,5 @@
+39280177	Platelet indices as predictors of poor glucoregulation in type 2 diabetes mellitus adults at Bishoftu General Hospital, Ethiopia.
+39279710	Recent Advancement in Drug Development for Treating Malaria using Herbal Medicine and Nanotechnological Approach.
 39278924	Spatio-temporal dynamics of malaria in Rwanda between 2012 and 2022: a demography-specific analysis.
 39277508	RH5: rationally-designed malaria vaccine antigen improving efficacy.
 39273566	Inflammation and Elevated Osteopontin in Plasma and CSF in Cerebral Malaria Compared to Plasmodium-Negative Neurological Infections.
@@ -244,6 +246,7 @@
 39186698	Efficacy and safety of artemether-lumefantrine against uncomplicated falciparum malaria infection in Tanzania, 2022, a single arm clinical trial.
 39186558	Prevention and management of anaemia in pregnancy: Community perceptions and facility readiness in Ghana and Uganda.
 39186146	Estimating the cost for obstetric fistula repair in hospitals of Mozambique: a low-income country.
+39185932	Metal(triphenylphosphine)-atovaquone Complexes: Synthesis, Antimalarial Activity, and Suppression of Heme Detoxification.
 39185871	New Features in Visual Dynamics 3.0.
 39185651	Understanding Interactions between a Potential Antimalarial 'MAL2-11B' and its Targets using In Silico Methods.
 39185648	A Review on the Epidemiology and Clinical Management of Neglected Tropical Diseases.
@@ -9994,6 +9997,3 @@
 35843447	Epidemiological and clinical characteristics of imported malaria in Bulgaria: A retrospective study of а 21-year period.
 35843175	Splenic clearance of rigid erythrocytes as an inherited mechanism for splenomegaly and natural resistance to malaria.
 35843076	A vision transformer based approach for analysis of plasmodium vivax life cycle for malaria prediction using thin blood smear microscopic images.
-35841892	A hypometabolic defense strategy against malaria.
-35841531	The Global Epidemiological Transition in Cardiovascular Diseases: Unrecognised Impact of Endemic Infections on Peripheral Artery Disease.
-35841448	Screening of febrile patients with suspected malaria from the Brazilian Amazon for virus infection.
