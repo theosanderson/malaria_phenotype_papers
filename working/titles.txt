@@ -1,3 +1,8 @@
+39291389	Enzyme Dynamics Determine the Potency and Selectivity of Inhibitors Targeting Disease-Transmitting Mosquitoes.
+39291304	Ternary structure of Plasmodium vivaxN-myristoyltransferase with myristoyl-CoA and inhibitor IMP-0001173.
+39291102	Epidemiology and likelihood of asymptomatic malaria among community dwellers in the Fanteakwa south district of Ghana.
+39291016	Open Source Code Contributions to Global Health: The Case of Antimalarial Drug Discovery.
+39290149	Active diagnostic ingredients (ADIs) for PCR: A mini-bioreactor producing dNTPs with silica immobilized R5-kinases.
 39289715	Therapeutic efficacy of artemether-lumefantrine in the treatment of uncomplicated Plasmodium falciparum malaria in Arba Minch Zuria District, Gamo Zone, Southwest Ethiopia.
 39289709	Brugada syndrome precipitated by uncomplicated malaria treated with dihydroartemisinin piperaquine: a case report.
 39289705	The impact of Bacillus thuringiensis var. israelensis (Vectobac(®) WDG) larvicide sprayed with drones on the bio-control of malaria vectors in rice fields of sub-urban Kigali, Rwanda.
@@ -9992,8 +9997,3 @@
 35852854	Mosquito and Arbovirus Surveillance at Bradshaw Field Training Area, Northern Territory, Australia.
 35852520	Updated Malaria Recommendations for Children and Pregnant People.
 35851758	Clinical and population-based study design considerations to accelerate the investigation of new antiretrovirals during pregnancy.
-35851600	Understanding Spatiotemporal Human Mobility Patterns for Malaria Control Using a Multiagent Mobility Simulation Model.
-35851210	In silico analysis, synthesis and biological evaluation of DHFR inhibitors.
-35851196	A contemporary chemical entities infiltrating in the antimalarial therapy era: a comprehensive review.
-35851033	Age-dependent changes in circulating Tfh cells influence development of functional malaria antibodies in children.
-35851027	Active case detection and treatment of malaria in pregnancy using LAMP technology (LAMPREG): a pragmatic randomised diagnostic outcomes trial-study protocol.
