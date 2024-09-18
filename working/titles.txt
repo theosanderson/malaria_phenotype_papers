@@ -1,3 +1,5 @@
+39292471	The Crucial Role of Rapid Point-of-Care Tests for Malaria in Improving Fever Management.
+39292453	Malaria Rapid Tests, Febrile Illness Management, and Child Mortality Across Sub-Saharan African Countries.
 39291389	Enzyme Dynamics Determine the Potency and Selectivity of Inhibitors Targeting Disease-Transmitting Mosquitoes.
 39291304	Ternary structure of Plasmodium vivaxN-myristoyltransferase with myristoyl-CoA and inhibitor IMP-0001173.
 39291102	Epidemiology and likelihood of asymptomatic malaria among community dwellers in the Fanteakwa south district of Ghana.
@@ -9995,5 +9997,3 @@
 35854731	CycleGAN with Dynamic Criterion for Malaria Blood Cell Image Synthetization.
 35854371	Insecticide-treated eave nets and window screens for malaria control in Chalinze district, Tanzania: a study protocol for a household randomised control trial.
 35852854	Mosquito and Arbovirus Surveillance at Bradshaw Field Training Area, Northern Territory, Australia.
-35852520	Updated Malaria Recommendations for Children and Pregnant People.
-35851758	Clinical and population-based study design considerations to accelerate the investigation of new antiretrovirals during pregnancy.
