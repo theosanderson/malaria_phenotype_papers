@@ -1585,7 +1585,7 @@
 38730052	Efficient transplacental transfer of SARS-CoV-2 antibodies between naturally exposed mothers and infants in Accra, Ghana.
 38729224	Long-acting intramuscular injections of ELQ-331, an antimalarial agent.
 38728650	Assessment of the impact of pregnancy and malaria infection on the variation of neutrophil levels in women from San, Mali.
-38728426	Novel functions for Von Willebrand factor.
+38728426	Novel functions for von Willebrand factor.
 38728418	Neutrophil Extracellular Traps: An Emerging Therapeutic Target to Improve Infectious Disease Outcomes.
 38728404	Predicting the age of field Anopheles mosquitoes using mass spectrometry and deep learning.
 38728310	The PreQuine Platform: A novel diagnostic tool for measuring glucose-6-phosphate dehydrogenase (G6PD) activity and hemoglobin concentration.
