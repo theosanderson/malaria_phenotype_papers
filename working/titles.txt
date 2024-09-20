@@ -1,3 +1,8 @@
+39298679	Laboratory maintenance and care of Rhodnius prolixus (Hemiptera: Reduviidae) and other Triatominae.
+39298595	NIH ends funding for key parasitology database.
+39298535	Understanding the significance of oxygen tension on the biology of Plasmodium falciparum blood stages: From the human body to the laboratory.
+39298515	Metagenomic next generation sequencing of plasma RNA for diagnosis of unexplained, acute febrile illness in Uganda.
+39298425	Text mining of verbal autopsy narratives to extract mortality causes and most prevalent diseases using natural language processing.
 39297004	The antimalarial profiling of Mangifera indica's herbal formulation attenuated biochemical alterations and improved hepatocytes' histoarchitecture in Plasmodium berghei-infected mice.
 39296809	Mass spectrometry-complemented molecular modeling predicts the interaction interface for a camelid single-domain antibody targeting the Plasmodium falciparum circumsporozoite protein's C-terminal domain.
 39296385	In silico full-angle high-dynamic range scattering of microscopic objects exploiting holotomography.
@@ -9992,8 +9997,3 @@
 35858344	Genetic variation that determines TAPBP expression levels associates with the course of malaria in an HLA allotype-dependent manner.
 35857970	Suitability of methods for Plasmodium falciparum cultivation in atmospheric air.
 35857826	Improving the diagnosis of severe malaria in African children using platelet counts and plasma PfHRP2 concentrations.
-35857773	Comparative efficacy and safety of the artemisinin derivatives compared to quinine for treating severe malaria in children and adults: A systematic update of literature and network meta-analysis.
-35857670	Higher-Dose Primaquine to Prevent Relapse of Plasmodium vivax Malaria. Reply.
-35857669	Higher-Dose Primaquine to Prevent Relapse of Plasmodium vivax Malaria.
-35857668	Higher-Dose Primaquine to Prevent Relapse of Plasmodium vivax Malaria.
-35857439	Broadly neutralizing antibodies target the coronavirus fusion peptide.
