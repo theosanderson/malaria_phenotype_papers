@@ -1,3 +1,6 @@
+39302653	Long-lived lung megakaryocytes contribute to platelet recovery in thrombocytopenia models.
+39301349	Challenges and Strategies in Administering Anesthesia to Pregnant Patients With Malaria: A Comprehensive Review.
+39301229	Synthetic pathways to create asymmetric center at C1 position of 1-substituted-tetrahydro-β-carbolines - a review.
 39300522	Why becoming a positive deviant for malaria prevention and control: a sequential explanatory mixed methods study in Bugesera district, Rwanda.
 39300444	Acetylsalicylic acid and dihydroartemisinin combined therapy on experimental malaria-associated acute lung injury: analysis of lung function and the inflammatory process.
 39300060	MFSD7C protects hemolysis-induced lung impairments by inhibiting ferroptosis.
@@ -6,9 +9,9 @@
 39299478	Managing vector-borne diseases in a geoAI-enabled society. Malaria as an example.
 39298679	Laboratory maintenance and care of Rhodnius prolixus (Hemiptera: Reduviidae) and other Triatominae.
 39298595	NIH ends funding for key parasitology database.
-39298535	Understanding the significance of oxygen tension on the biology of Plasmodium falciparum blood stages: From the human body to the laboratory.
 39298515	Metagenomic next generation sequencing of plasma RNA for diagnosis of unexplained, acute febrile illness in Uganda.
 39298425	Text mining of verbal autopsy narratives to extract mortality causes and most prevalent diseases using natural language processing.
+39298535	Understanding the significance of oxygen tension on the biology of Plasmodium falciparum blood stages: From the human body to the laboratory.
 39297004	The antimalarial profiling of Mangifera indica's herbal formulation attenuated biochemical alterations and improved hepatocytes' histoarchitecture in Plasmodium berghei-infected mice.
 39296809	Mass spectrometry-complemented molecular modeling predicts the interaction interface for a camelid single-domain antibody targeting the Plasmodium falciparum circumsporozoite protein's C-terminal domain.
 39296385	In silico full-angle high-dynamic range scattering of microscopic objects exploiting holotomography.
@@ -877,7 +880,7 @@
 38982496	Deployment of attractive targeted sugar baits in western Zambia: installation, monitoring, removal, and disposal procedures during a Phase III cluster randomized controlled trial.
 38982475	Two decades of molecular surveillance in Senegal reveal rapid changes in known drug resistance mutations over time.
 38982472	Effect of Microsporidia MB infection on the development and fitness of Anopheles arabiensis under different diet regimes.
-38982331	Discovery of an anti-malarial compound, burnettiene A, with a multidrug-sensitive Saccharomyces cerevisiae screening system based on mitochondrial function inhibitory activity.
+38982331	Discovery of an antimalarial compound, burnettiene A, with a multidrug-sensitive Saccharomyces cerevisiae screening system based on mitochondrial function inhibitory activity.
 38982325	Assessing LLIN distribution implementation using evidence-informed intervention core elements: a qualitative study in a resource-constrained setting.
 38982282	Clinical significance of PLT for diagnosis and treatment monitoring in imported malaria.
 38982235	Vaccines save lives: how can uptake be increased?
@@ -9994,6 +9997,3 @@
 35859938	Spatial-temporal pattern of malaria in Burkina Faso from 2013 to 2020.
 35859460	Influence of social disadvantage among children admitted to the pediatric emergency unit of a tertiary Hospital in Nigeria.
 35859425	Cost of National Vector Borne Disease Control Programme in North India.
-35859154	Development of a rapid in vitro pre-screen for distinguishing effective liposome-adjuvant delivery systems.
-35858978	Comparison of entomological impacts of two methods of intervention designed to control Anopheles gambiae s.l. via swarm killing in Western Burkina Faso.
-35858931	Less is more: repellent-treated fabric strips as a substitute for full screening of open eave gaps for indoor and outdoor protection from malaria mosquito bites.
