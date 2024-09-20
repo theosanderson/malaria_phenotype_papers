@@ -1,3 +1,9 @@
+39300522	Why becoming a positive deviant for malaria prevention and control: a sequential explanatory mixed methods study in Bugesera district, Rwanda.
+39300444	Acetylsalicylic acid and dihydroartemisinin combined therapy on experimental malaria-associated acute lung injury: analysis of lung function and the inflammatory process.
+39300060	MFSD7C protects hemolysis-induced lung impairments by inhibiting ferroptosis.
+39299777	Qualified, skilled or trained delivery care provider: a conundrum of who, where and when.
+39299716	Are empiric antibiotic choices for orbital cellulitis in children presently unnecessarily broad (and unable to prevent surgery)?
+39299478	Managing vector-borne diseases in a geoAI-enabled society. Malaria as an example.
 39298679	Laboratory maintenance and care of Rhodnius prolixus (Hemiptera: Reduviidae) and other Triatominae.
 39298595	NIH ends funding for key parasitology database.
 39298535	Understanding the significance of oxygen tension on the biology of Plasmodium falciparum blood stages: From the human body to the laboratory.
@@ -9991,9 +9997,3 @@
 35859154	Development of a rapid in vitro pre-screen for distinguishing effective liposome-adjuvant delivery systems.
 35858978	Comparison of entomological impacts of two methods of intervention designed to control Anopheles gambiae s.l. via swarm killing in Western Burkina Faso.
 35858931	Less is more: repellent-treated fabric strips as a substitute for full screening of open eave gaps for indoor and outdoor protection from malaria mosquito bites.
-35858916	Lessons for improved COVID-19 surveillance from the scale-up of malaria testing strategies.
-35858821	A widespread survey of avian haemosporidia in deceased wild birds of Japan: the hidden value of personally collected samples.
-35858541	Direct type I interferon signaling in hepatocytes controls malaria.
-35858344	Genetic variation that determines TAPBP expression levels associates with the course of malaria in an HLA allotype-dependent manner.
-35857970	Suitability of methods for Plasmodium falciparum cultivation in atmospheric air.
-35857826	Improving the diagnosis of severe malaria in African children using platelet counts and plasma PfHRP2 concentrations.
