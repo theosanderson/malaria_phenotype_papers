@@ -1,3 +1,5 @@
+39303294	Targeting Plasmodium falciparum IspD in the Methyl-d-erythritol Phosphate Pathway: Urea-Based Compounds with Nanomolar Potency on Target and Low-Micromolar Whole-Cell Activity.
+39303151	Lung Damage Induced by Plasmodium berghei ANKA in Murine Model of Malarial Infection is Mitigated by Dietary Supplementation with DHA-Rich Omega-3.
 39302653	Long-lived lung megakaryocytes contribute to platelet recovery in thrombocytopenia models.
 39301349	Challenges and Strategies in Administering Anesthesia to Pregnant Patients With Malaria: A Comprehensive Review.
 39301229	Synthetic pathways to create asymmetric center at C1 position of 1-substituted-tetrahydro-β-carbolines - a review.
@@ -9995,5 +9997,3 @@
 35861105	Comprehensive characterization of a transgene insertion in a highly repetitive, centromeric region of Anopheles mosquitoes.
 35860811	Malaria serosurvey among acute febrile patients come for health care seeking at the high malaria-endemic setting of North West Ethiopia.
 35859938	Spatial-temporal pattern of malaria in Burkina Faso from 2013 to 2020.
-35859460	Influence of social disadvantage among children admitted to the pediatric emergency unit of a tertiary Hospital in Nigeria.
-35859425	Cost of National Vector Borne Disease Control Programme in North India.
