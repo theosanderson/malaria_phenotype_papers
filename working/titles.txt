@@ -1,3 +1,8 @@
+39308863	Inter-individual and inter-regional variability of breast milk antibody reactivity to bacterial lipopolysaccharides.
+39308722	Antimalarial activity of borrelidin and fumagilin in Plasmodium berghei-infected mice.
+39308016	Binary mixtures of Vanderbilt University allosteric agonist thermolysis components act as volatile spatial repellents for malaria vector mosquitoes.
+39297691	Immunity to Non-Dengue Flaviviruses Impacts Dengue Virus Immunoglobulin G Enzyme-Linked Immunosorbent Assay Specificity in Cambodia.
+39297613	Eosinophilic gastroenteritis-induced intestinal obstruction.
 39304934	Leucinostatins from fungal extracts block malaria transmission to mosquitoes.
 39304238	Delivery effectiveness of and adherence to intermittent preventive treatment for malaria in pregnancy with dihydroartemisinin-piperaquine with or without targeted information transfer or sulfadoxine-pyrimethamine in western Kenya: a three-armed, pragmatic, open-label, cluster-randomised trial.
 39304236	Assessing the effect of health system resources on HIV and tuberculosis programmes in Malawi: a modelling study.
@@ -20,8 +25,6 @@
 39298515	Metagenomic next generation sequencing of plasma RNA for diagnosis of unexplained, acute febrile illness in Uganda.
 39298425	Text mining of verbal autopsy narratives to extract mortality causes and most prevalent diseases using natural language processing.
 39298535	Understanding the significance of oxygen tension on the biology of Plasmodium falciparum blood stages: From the human body to the laboratory.
-39297691	Immunity to Non-Dengue Flaviviruses Impacts Dengue Virus Immunoglobulin G Enzyme-Linked Immunosorbent Assay Specificity in Cambodia.
-39297613	Eosinophilic gastroenteritis-induced intestinal obstruction.
 39297004	The antimalarial profiling of Mangifera indica's herbal formulation attenuated biochemical alterations and improved hepatocytes' histoarchitecture in Plasmodium berghei-infected mice.
 39296809	Mass spectrometry-complemented molecular modeling predicts the interaction interface for a camelid single-domain antibody targeting the Plasmodium falciparum circumsporozoite protein's C-terminal domain.
 39296385	In silico full-angle high-dynamic range scattering of microscopic objects exploiting holotomography.
@@ -9994,6 +9997,3 @@
 35864543	Knowledge, attitudes and practices towards malaria diagnostics among healthcare providers and healthcare-seekers in Kondoa district, Tanzania: a multi-methodological situation analysis.
 35864541	Genetic evidence of tri-genealogy hypothesis on the origin of ethnic minorities in Yunnan.
 35864530	Tracking malaria health disbursements by source in Zambia, 2009-2018: an economic modelling study.
-35864072	Keystone Malaria Symposium 2022: a vibrant discussion of progress made and challenges ahead from drug discovery to treatment.
-35862820	Determination of the Stage Composition of Plasmodium Infections from Bulk Gene Expression Data.
-35862778	CDC50 Orthologues in Plasmodium falciparum Have Distinct Roles in Merozoite Egress and Trophozoite Maturation.
