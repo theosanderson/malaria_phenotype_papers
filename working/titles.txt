@@ -1,3 +1,7 @@
+39312594	Genomic epidemiology demonstrates spatially clustered, local transmission of Plasmodium falciparum in forest-going populations in southern Lao PDR.
+39312588	Application of optical tweezer technology reveals that PfEBA and PfRH ligands, not PfMSP1, play a central role in Plasmodium falciparum merozoite-erythrocyte attachment.
+39312527	Subnational tuberculosis burden estimation for Pakistan.
+39312524	Data-driven nexus between malaria incidence and World Bank indicators in the Mekong River during 2000-2022.
 39312011	MicroRNA Guided In Silico Drug Repositioning for Malaria.
 39311080	Organotellurium (IV) complexes as anti-malarial agents: synthesis, characterization and computational insights.
 39310795	Polychromophilus (Haemosporida: Plasmodiidae): A review of association with bats (Mammalia, Chiroptera) and the first record in the Neotropical bat, Myotis albescens (Chiroptera, Vespertilionidae) from Colombia.
@@ -1635,7 +1639,7 @@
 38723650	Genotypic analysis of RTS,S/AS01(E) malaria vaccine efficacy against parasite infection as a function of dosage regimen and baseline malaria infection status in children aged 5-17 months in Ghana and Kenya: a longitudinal phase 2b randomised controlled trial.
 38723649	Asymptomatic parasitemia and RTS,S vaccine efficacy.
 38723199	Preparing for future pandemics while responding to the current ones in the midst of a planetary climate crisis: Can we face this triple global health challenge?
-38723177	Declining antibody affinity over time after human vaccination with a Plasmodium falciparum merozoite vaccine candidate.
+38723177	Declining Antibody Affinity Over Time After Human Vaccination With a Plasmodium falciparum Merozoite Vaccine Candidate.
 38723080	Future malaria environmental suitability in Africa is sensitive to hydrology.
 38723040	Measuring protective efficacy and quantifying the impact of drug resistance: A novel malaria chemoprevention trial design and methodology.
 38722891	Quality assessment of oral antimalarial and antiretroviral medicines used by public health systems in Sahel countries.
@@ -2190,7 +2194,7 @@
 38532415	Rapid assessment of the blood-feeding histories of wild-caught malaria mosquitoes using mid-infrared spectroscopy and machine learning.
 38532318	Whole transcriptomic analysis reveals overexpression of salivary gland and cuticular proteins genes in insecticide-resistant Anopheles arabiensis from Western Kenya.
 38531921	Estimating the size of populations at risk for malaria: a case study in cattle herders and agricultural workers in Northern Namibia.
-38531688	From GWAS to functional variants: ARL14 cis-regulatory variants are associated with severe malaria.
+38531688	From Genome-wide Association Studies to Functional Variants: ARL14 Cis-regulatory Variants Are Associated With Severe Malaria.
 38531105	Evaluating Malaria Rapid Diagnostic Tests and Microscopy for Detecting Plasmodium Infection and Status of Plasmodium falciparum Histidine-Rich Protein 2/3 Gene Deletions in Southeastern Nigeria.
 38531104	Normal Clinical Laboratory Ranges by Age and Sex, and Impact on Study Screening Outcomes in Rural Mali.
 38531102	Implementation of a Randomized, Placebo-Controlled Trial of Live Attenuated Malaria Sporozoite Vaccines in an Indonesian Military Study Population.
@@ -2442,7 +2446,7 @@
 38442861	Role of seasonal importation and genetic drift on selection for drug-resistant genotypes of Plasmodium falciparum in high-transmission settings.
 38442424	Previous Malaria Exposures and Immune Dysregulation: Developing Strategies To Improve Malaria Vaccine Efficacy in Young Children.
 38441731	Malaria vaccine efficacy, safety, and community perception in Africa: a scoping review of recent empirical studies.
-38441336	Functional and immunological mapping of domains of the reticulocyte binding protein, Plasmodium vivax PvRBP2a.
+38441336	Functional and Immunologic Mapping of Domains of the Reticulocyte-Binding Protein Plasmodium vivax PvRBP2a.
 38440935	Molecular modelling approaches can reveal the Molecular interactions established between antimalarial targets of hemozoin pathway and the organic phytochemicals of Artocarpus species.
 38440764	Increase of Plasmodium falciparum parasites carrying lumefantrine-tolerance molecular markers and lack of South East Asian pfk13 artemisinin-resistance mutations in samples collected from 2013 to 2016 in Côte d'Ivoire.
 38440360	Age-specific malaria vulnerability and transmission reservoir among children.
@@ -9993,7 +9997,3 @@
 35867730	Hypnozoite depletion in successive Plasmodium vivax relapses.
 35867395	The Knock-Down of the Chloroquine Resistance Transporter PfCRT Is Linked to Oligopeptide Handling in Plasmodium falciparum.
 35867157	A rapid method for screening mosquito repellents on Anopheles pseudopunctipennis and Aedes aegypti.
-35867068	Contrasting Effect of Salts on the Binding of Antimalarial Drug Hydroxychloroquine with Different Sequences of Duplex DNA.
-35866869	BIRC6 modifies risk of invasive bacterial infection in Kenyan children.
-35866452	Rapid, point-of-care antigen tests for diagnosis of SARS-CoV-2 infection.
-35866115	Prospects of Malaria Elimination Gaps in Iran.
