@@ -1,3 +1,6 @@
+39316121	[Malaria vaccination for national vaccination programs].
+39315961	Analysis of diversity and an updated catalog of mosquito species (Diptera: Culicidae) in the Capivari-Monos Environmental Protection Area, São Paulo, Brazil.
+39315859	Direct comparison of colorimetric signal amplification techniques in lateral flow immunoassays.
 39314932	Population Genomics of Plasmodium malariae from Four African Countries.
 39314434	tRNA lysidinylation is essential for the minimal translation system found in the apicoplast of Plasmodium falciparum.
 39314390	Comparing newly developed SNP barcode panels with microsatellites to explore population genetics of malaria parasites in the Peruvian Amazon.
@@ -9994,6 +9997,3 @@
 35868886	Gene drive in species complexes: defining target organisms.
 35867928	Efficacy of tafenoquine in the prophylaxis and treatment of malaria by Plasmodium vivax, systematic review and meta-analysis.
 35867920	The malaria eradication campaign in Colombia, 1959-1979.
-35867918	Imported malaria in children in Alicante, Spain (1994-2019).
-35867831	Declines in prevalence alter the optimal level of sexual investment for the malaria parasite Plasmodium falciparum.
-35867757	Genetic and structural basis of the human anti-α-galactosyl antibody response.
