@@ -1,3 +1,6 @@
+39314932	Population Genomics of Plasmodium malariae from Four African Countries.
+39314434	tRNA lysidinylation is essential for the minimal translation system found in the apicoplast of Plasmodium falciparum.
+39314390	Comparing newly developed SNP barcode panels with microsatellites to explore population genetics of malaria parasites in the Peruvian Amazon.
 39312594	Genomic epidemiology demonstrates spatially clustered, local transmission of Plasmodium falciparum in forest-going populations in southern Lao PDR.
 39312588	Application of optical tweezer technology reveals that PfEBA and PfRH ligands, not PfMSP1, play a central role in Plasmodium falciparum merozoite-erythrocyte attachment.
 39312527	Subnational tuberculosis burden estimation for Pakistan.
@@ -9994,6 +9997,3 @@
 35867918	Imported malaria in children in Alicante, Spain (1994-2019).
 35867831	Declines in prevalence alter the optimal level of sexual investment for the malaria parasite Plasmodium falciparum.
 35867757	Genetic and structural basis of the human anti-α-galactosyl antibody response.
-35867730	Hypnozoite depletion in successive Plasmodium vivax relapses.
-35867395	The Knock-Down of the Chloroquine Resistance Transporter PfCRT Is Linked to Oligopeptide Handling in Plasmodium falciparum.
-35867157	A rapid method for screening mosquito repellents on Anopheles pseudopunctipennis and Aedes aegypti.
