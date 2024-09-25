@@ -1,3 +1,6 @@
+39317333	Phylogenomic diversity of archigregarine apicomplexans.
+39317182	Cause-Specific Mortality among Infants in a Randomized Controlled Trial of Azithromycin Compared to Placebo for Prevention of Mortality.
+39317181	Optimizing the Delivery of Routine Malaria Data Quality Assessments: A Two-Level Logistic Regression Model to Inform an Institutionalized Approach in Mozambique.
 39316842	Tetrazoles: A multi-potent motif in drug design.
 39316726	Women's education and attitudes toward malaria in children: Evidence from Nigeria.
 39316121	[Malaria vaccination for national vaccination programs].
@@ -76,6 +79,7 @@
 39285778	Harnessing monoclonal antibodies for malaria prevention in a paediatric population.
 39285425	Prospective acceptability of mass drug administration for malaria in Kedougou region in Senegal: a mixed method study.
 39285410	Whole-genome sequencing of major malaria vectors reveals the evolution of new insecticide resistance variants in a longitudinal study in Burkina Faso.
+39284997	Mosquito-borne diseases are surging in Europe - how worried are scientists?
 39284949	Infection length and host environment influence on Plasmodium falciparum dry season reservoir.
 39284948	Whole-sporozoite malaria vaccines: where we are, where we are going.
 39284584	AVIAN HAEMOSPORIDIANS IN GREATER SCAUP (AYTHYA MARILA) AND LESSER SCAUP (AYTHYA AFFINIS) FROM WISCONSIN.
@@ -177,7 +181,7 @@
 39247247	One Haemolytic Anaemia May Hide Another: Paroxysmal Nocturnal Haemoglobinuria Masquerading As Plasmodium Falciparum Infection.
 39247033	Seroprevalence of Hepatitis B Infection Among Blood Donors in a Tribal-Preponderant State of India: A Seven-Year Retrospective Observational Study.
 39246754	A complex case of recurrent intracranial bleeds due to malaria-induced coagulopathy: A case report and literature review.
-39245343	'How to manage adult patients with malaria in the non-endemic setting' - Author's reply.
+39245343	'How to manage adult patients with malaria in the non-endemic setting': author's response.
 39245314	Mosquitocidal efficacy and pharmacokinetics of single-dose ivermectin versus three-day dose regimen for malaria vector control in comparison with albendazole and no treatment: an open-label randomized controlled trial.
 39245193	Unravelling the anti-apoptotic role of Plasmodium falciparum Prohibitin-2 (PfPhb2) in maintaining mitochondrial homeostasis.
 39245156	Characterisation of the erythrocyte invasion phenotype of FCB-2: A South American P. falciparum reference strain.
@@ -9993,7 +9997,3 @@
 35871979	A transcription factor helps Plasmodium falciparum gametocytogenesis take shape.
 35870946	Effectiveness of indoor residual spraying on malaria control: a systematic review and meta-analysis.
 35870909	Operationalizing stakeholder engagement for gene drive research in malaria elimination in Africa-translating guidance into practice.
-35870762	Sequential phase I metabolism of pyrethroids by duplicated CYP6P9 variants results in the loss of the terminal benzene moiety and determines resistance in the malaria mosquito Anopheles funestus.
-35870645	Stress-responsive AMP Kinase like protein regulates encystation of Entamoeba invadens.
-35870467	Halidou Tinto-leading top-quality research in malaria in Burkina Faso.
-35868886	Gene drive in species complexes: defining target organisms.
