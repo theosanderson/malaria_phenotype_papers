@@ -1,3 +1,10 @@
+39319360	Suicidal ideation and associated factors among people living with HIV/AIDS in Ethiopia: a systematic review and meta-analysis.
+39319292	Community engagement in mobile and hard-to-reach populations: a community-based intervention for malaria elimination in a tri-national region of the Guiana Shield.
+39319096	Which diagnostic test to use for Testing and Treatment strategies in Plasmodium vivax low-transmission settings: a secondary analysis of a longitudinal interventional study.
+39318824	Feeding Behavior and Plasmodium Detection in Anopheles stephensi, a Malaria Vector in District Khyber, Khyber Pakhtunkhwa, Pakistan.
+39318787	Comparing approaches for chemoprevention for school-based malaria control in Malawi: an open label, randomized, controlled clinical trial.
+39318203	Interim safety and immunogenicity analysis of the EuCorVac-19 COVID-19 vaccine in a Phase 3 randomized, observer-blind, immunobridging trial in the Philippines.
+39318146	Malaria in pregnancy: Modern approaches-Spotlight commmentary.
 39317333	Phylogenomic diversity of archigregarine apicomplexans.
 39317182	Cause-Specific Mortality among Infants in a Randomized Controlled Trial of Azithromycin Compared to Placebo for Prevention of Mortality.
 39317181	Optimizing the Delivery of Routine Malaria Data Quality Assessments: A Two-Level Logistic Regression Model to Inform an Institutionalized Approach in Mozambique.
@@ -79,6 +86,7 @@
 39285778	Harnessing monoclonal antibodies for malaria prevention in a paediatric population.
 39285425	Prospective acceptability of mass drug administration for malaria in Kedougou region in Senegal: a mixed method study.
 39285410	Whole-genome sequencing of major malaria vectors reveals the evolution of new insecticide resistance variants in a longitudinal study in Burkina Faso.
+39284997	Mosquito-borne diseases are surging in Europe - how worried are scientists?
 39284949	Infection length and host environment influence on Plasmodium falciparum dry season reservoir.
 39284948	Whole-sporozoite malaria vaccines: where we are, where we are going.
 39284584	AVIAN HAEMOSPORIDIANS IN GREATER SCAUP (AYTHYA MARILA) AND LESSER SCAUP (AYTHYA AFFINIS) FROM WISCONSIN.
@@ -9989,11 +9997,3 @@
 35874786	Increased Expression of Multiple Co-Inhibitory Molecules on Malaria-Induced CD8(+) T Cells Are Associated With Increased Function Instead of Exhaustion.
 35873624	In Vivo Antiplasmodial Potential of the Leaf, Mesocarp, and Epicarp of the Raphia hookeri Plant in Mice Infected with Plasmodium berghei NK65.
 35873346	Optimizing the utility of NIMR-MDB vis a vis ICMR COVID-19 data portal in containment of malaria.
-35873166	Targeting Proteasomes in Cancer and Infectious Disease: A Parallel Strategy to Treat Malignancies and Microbes.
-35873153	Advancing Key Gaps in the Knowledge of Plasmodium vivax Cryptic Infections Using Humanized Mouse Models and Organs-on-Chips.
-35872545	Synthesis of antiplasmodial 2-aminothieno[3,2-d]pyrimidin-4(3H)-one analogues using the scaffold hopping strategy.
-35872229	Replenishing the malaria drug discovery pipeline: Screening and hit evaluation of the MMV Hit Generation Library 1 (HGL1) against asexual blood stage Plasmodium falciparum, using a nano luciferase reporter read-out.
-35871979	A transcription factor helps Plasmodium falciparum gametocytogenesis take shape.
-35870946	Effectiveness of indoor residual spraying on malaria control: a systematic review and meta-analysis.
-35870909	Operationalizing stakeholder engagement for gene drive research in malaria elimination in Africa-translating guidance into practice.
-35870762	Sequential phase I metabolism of pyrethroids by duplicated CYP6P9 variants results in the loss of the terminal benzene moiety and determines resistance in the malaria mosquito Anopheles funestus.
