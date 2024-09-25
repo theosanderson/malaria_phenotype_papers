@@ -1,3 +1,5 @@
+39316842	Tetrazoles: A multi-potent motif in drug design.
+39316726	Women's education and attitudes toward malaria in children: Evidence from Nigeria.
 39316121	[Malaria vaccination for national vaccination programs].
 39315961	Analysis of diversity and an updated catalog of mosquito species (Diptera: Culicidae) in the Capivari-Monos Environmental Protection Area, São Paulo, Brazil.
 39315859	Direct comparison of colorimetric signal amplification techniques in lateral flow immunoassays.
@@ -9995,5 +9997,3 @@
 35870645	Stress-responsive AMP Kinase like protein regulates encystation of Entamoeba invadens.
 35870467	Halidou Tinto-leading top-quality research in malaria in Burkina Faso.
 35868886	Gene drive in species complexes: defining target organisms.
-35867928	Efficacy of tafenoquine in the prophylaxis and treatment of malaria by Plasmodium vivax, systematic review and meta-analysis.
-35867920	The malaria eradication campaign in Colombia, 1959-1979.
