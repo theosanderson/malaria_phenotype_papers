@@ -1,3 +1,5 @@
+39320318	Heterologous immunization targeting the CST1 antigen confers better protection than ROP18 in mice.
+39319875	Antiplasmodial specialised compounds from the leaves of Guarea glomerulata Harms (Meliaceae).
 39319360	Suicidal ideation and associated factors among people living with HIV/AIDS in Ethiopia: a systematic review and meta-analysis.
 39319292	Community engagement in mobile and hard-to-reach populations: a community-based intervention for malaria elimination in a tri-national region of the Guiana Shield.
 39319096	Which diagnostic test to use for Testing and Treatment strategies in Plasmodium vivax low-transmission settings: a secondary analysis of a longitudinal interventional study.
@@ -9995,5 +9997,3 @@
 35875401	Human trichinellosis in Southeast Asia, 2001-2021.
 35875001	Governance Quality, Public Health, Education, and Innovation: Study for Novel Implications.
 35874786	Increased Expression of Multiple Co-Inhibitory Molecules on Malaria-Induced CD8(+) T Cells Are Associated With Increased Function Instead of Exhaustion.
-35873624	In Vivo Antiplasmodial Potential of the Leaf, Mesocarp, and Epicarp of the Raphia hookeri Plant in Mice Infected with Plasmodium berghei NK65.
-35873346	Optimizing the utility of NIMR-MDB vis a vis ICMR COVID-19 data portal in containment of malaria.
