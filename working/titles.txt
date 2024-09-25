@@ -79,7 +79,6 @@
 39285778	Harnessing monoclonal antibodies for malaria prevention in a paediatric population.
 39285425	Prospective acceptability of mass drug administration for malaria in Kedougou region in Senegal: a mixed method study.
 39285410	Whole-genome sequencing of major malaria vectors reveals the evolution of new insecticide resistance variants in a longitudinal study in Burkina Faso.
-39284997	Mosquito-borne diseases are surging in Europe - how worried are scientists?
 39284949	Infection length and host environment influence on Plasmodium falciparum dry season reservoir.
 39284948	Whole-sporozoite malaria vaccines: where we are, where we are going.
 39284584	AVIAN HAEMOSPORIDIANS IN GREATER SCAUP (AYTHYA MARILA) AND LESSER SCAUP (AYTHYA AFFINIS) FROM WISCONSIN.
@@ -9997,3 +9996,4 @@
 35871979	A transcription factor helps Plasmodium falciparum gametocytogenesis take shape.
 35870946	Effectiveness of indoor residual spraying on malaria control: a systematic review and meta-analysis.
 35870909	Operationalizing stakeholder engagement for gene drive research in malaria elimination in Africa-translating guidance into practice.
+35870762	Sequential phase I metabolism of pyrethroids by duplicated CYP6P9 variants results in the loss of the terminal benzene moiety and determines resistance in the malaria mosquito Anopheles funestus.
