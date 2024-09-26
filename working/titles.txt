@@ -1,3 +1,8 @@
+39324855	Peripheral Perfusion Index in Ugandan Children With Plasmodium falciparum Severe Malaria: Secondary Analysis of Outcomes in a 2014-2017 Cohort Study.
+39324800	Parametric and nonparametric population pharmacokinetic analysis of fluconazole in critically ill patients and dosing simulations for Candida infections.
+39324794	Synergistic blockade of TIGIT and PD-L1 increases type-1 inflammation and improves parasite control during murine blood-stage Plasmodium yoelii non-lethal infection.
+39324693	Intermittent preventive treatment regimens for malaria in HIV-positive pregnant women.
+39324649	Unexpected outcome of dyspeptic syndrome.
 39324028	Conformational variability in the D2 loop of Plasmodium Apical Membrane antigen 1.
 39323907	The Wildlife Malaria Research network (WIMANET): Meeting report on the 1st WIMANET workshop.
 39322986	Detection of antiretroviral drug-resistant mutations and HIV-1 subtypes in circulation among men who have sex with men, SEM females and female sex workers: results of Vietnam's HIV Sentinel Surveillance Plus (HSS+) system, 2018 - 2020.
@@ -1152,6 +1157,7 @@
 38906399	Etiological spectrum and diagnostic challenges of short-duration fever in West Bengal (India). A cross-sectional tertiary care study.
 38905305	Neglected etiologies of prolonged febrile illnesses in tropical and subtropical regions: A systematic review.
 38905260	Effect of capitation payment method on health outcomes, healthcare utilization, and referrals in Ghana.
+38905105	Protocol for oleuropein-induced autophagy mediating drug tolerance in P. falciparum.
 38904456	Monocyte platelet satellitism without thrombocytopenia in a follow-up case of recent complicated Falciparum malaria infection.
 38904389	Efficacy of ivermectin and its metabolites against Plasmodium falciparum liver stages in primary human hepatocytes.
 38904125	Mapping the evidence on integrated service delivery for non-communicable and infectious disease comorbidity in sub-Saharan Africa: protocol for a scoping review.
@@ -9991,9 +9997,3 @@
 35878158	Mapping the global landscape of chikungunya rapid diagnostic tests: A scoping review.
 35878149	Determinants of Patients' Adherence to Malaria Treatment in the Democratic Republic of the Congo.
 35878133	Survey and Analysis of Chemoprophylaxis Policies for Domestic Travel in Malaria-Endemic Countries.
-35878132	A Cross-Sectional Survey on the Malaria Control and Prevention Knowledge, Attitudes, and Practices of Caregivers of Children Under-5 in the Western Area of Sierra Leone.
-35877905	In Silico Assessment of the Lipid Fingerprint Signature of ATP2, the Essential P4-ATPase of Malaria Parasites.
-35877761	Prevalence and risk factors of malaria and anaemia and the impact of preventive methods among pregnant women: A case study at the Akatsi South District in Ghana.
-35877666	Observing the distribution of mosquito bites on humans to inform personal protection measures against malaria and dengue vectors.
-35877154	EVALUATION OF THE INHIBITORY EFFECTS OF SIX NATURAL PRODUCT EXTRACTS AGAINST BABESIA GIBSONI IN VITRO AND IN VIVO.
-35876911	Laboratory evaluation of a new alphacypermethrin long-lasting insecticidal net against Anopheles culicifacies s.l.
