@@ -1,3 +1,7 @@
+39322303	[Epidemiological characteristics and diagnosis of imported Plasmodium malariae and Plasmodium ovale malaria cases in five provinces of China from 2014 to 2021].
+39322282	Systematic identification of interchromosomal interaction networks supports the existence of specialized RNA factories.
+39321969	Analysis of Diagnostic Biomarkers for Malaria: Prospects on Rapid diagnostic test development.
+39321903	Nanotechnology based drug delivery systems for malaria.
 39320318	Heterologous immunization targeting the CST1 antigen confers better protection than ROP18 in mice.
 39319875	Antiplasmodial specialised compounds from the leaves of Guarea glomerulata Harms (Meliaceae).
 39319360	Suicidal ideation and associated factors among people living with HIV/AIDS in Ethiopia: a systematic review and meta-analysis.
@@ -88,7 +92,6 @@
 39285778	Harnessing monoclonal antibodies for malaria prevention in a paediatric population.
 39285425	Prospective acceptability of mass drug administration for malaria in Kedougou region in Senegal: a mixed method study.
 39285410	Whole-genome sequencing of major malaria vectors reveals the evolution of new insecticide resistance variants in a longitudinal study in Burkina Faso.
-39284997	Mosquito-borne diseases are surging in Europe - how worried are scientists?
 39284949	Infection length and host environment influence on Plasmodium falciparum dry season reservoir.
 39284948	Whole-sporozoite malaria vaccines: where we are, where we are going.
 39284584	AVIAN HAEMOSPORIDIANS IN GREATER SCAUP (AYTHYA MARILA) AND LESSER SCAUP (AYTHYA AFFINIS) FROM WISCONSIN.
@@ -9994,6 +9997,3 @@
 35876259	Trends in imported malaria during the COVID-19 pandemic, Spain (+Redivi Collaborative Network).
 35876244	Lack of robust evidence for a Wolbachia infection in Anopheles gambiae from Burkina Faso.
 35875474	Quantifying the effect of human population mobility on malaria risk in the Peruvian Amazon.
-35875401	Human trichinellosis in Southeast Asia, 2001-2021.
-35875001	Governance Quality, Public Health, Education, and Innovation: Study for Novel Implications.
-35874786	Increased Expression of Multiple Co-Inhibitory Molecules on Malaria-Induced CD8(+) T Cells Are Associated With Increased Function Instead of Exhaustion.
