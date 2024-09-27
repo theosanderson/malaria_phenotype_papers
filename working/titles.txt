@@ -1,3 +1,6 @@
+39327613	Parasite clearance and protection from Plasmodium falciparum infection (PCPI): a three-arm, parallel, double-blinded, placebo-controlled, randomised trial of presumptive sulfadoxine-pyrimethamine versus sulfadoxine-pyrimethamine plus amodiaquine versus artesunate monotherapy among asymptomatic children 3-5 years of age in Cameroon.
+39327550	Parasite-enhanced immunotherapy: transforming the "cold" tumors to "hot" battlefields.
+39326490	Rational design of untranslated regions to enhance gene expression.
 39325977	Methodology of the joint malaria prevention recommendations of Switzerland, Germany, Belgium, and the Netherlands.
 39325875	A kalihinol analog disrupts apicoplast function and vesicular trafficking in P. falciparum malaria.
 39325838	Stable introduction of Wolbachia wPip into invasive Anopheles stephensi for potential malaria control.
@@ -9994,6 +9997,3 @@
 35880192	Malaria epidemic and transmission foci in highland of Kisii, western Kenya.
 35880005	Combining school-catchment area models with geostatistical models for analysing school survey data from low-resource settings: Inferential benefits and limitations.
 35879789	Prevalence and risk factors of malaria among first antenatal care attendees in rural Burkina Faso.
-35879315	Multi-step screening of DNA/lipid nanoparticles and co-delivery with siRNA to enhance and prolong gene expression.
-35878807	Novel artemisinin derivative FO8643 with anti-angiogenic activity inhibits growth and migration of cancer cells via VEGFR2 signaling.
-35878685	Microorganisms in patients with acute respiratory tract infections in Bamako, Mali.
