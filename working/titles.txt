@@ -1,3 +1,11 @@
+39331420	Estimating the Size of Populations at High Risk of Malaria in 2 Operational Districts in Cambodia: Household-Based Survey.
+39331165	The expansion of an invasive malaria vector: Anopheles stephensi emergence in Arba Minch town in the southern Rift Valley of Ethiopia.
+39330912	Antimalarial Mechanisms and Resistance Status of Artemisinin and Its Derivatives.
+39330905	Enhancing the Interpretability of Malaria and Typhoid Diagnosis with Explainable AI and Large Language Models.
+39330899	Admission Point-of-Care Testing for the Clinical Care of Children with Cerebral Malaria.
+39330884	Do Babesia microti Hosts Share a Blood Group System Gene Ortholog, Which Could Generate an Erythrocyte Antigen That Is Essential for Parasite Invasion?
+39330879	Advances in Malaria Diagnostic Methods in Resource-Limited Settings: A Systematic Review.
+39329872	Uptake and Effectiveness of Intermittent Preventive Treatment with Sulfadoxine-Pyrimethamine during Pregnancy in Africa: A Scoping Review.
 39328626	A Scientific Review of Pesticides: Classification, Toxicity, Health Effects, Sustainability, and Environmental Impact.
 39328317	Diagnostic challenges in cutaneous leishmaniasis due to atypical Leishmania infantum: pathologists' insights from re-emergence zones.
 39327729	3-Benzylmenadiones and their Heteroaromatic Analogues Target the Apicoplast of Apicomplexa Parasites: Synthesis and Bioimaging Studies.
@@ -9989,11 +9997,3 @@
 35881341	Selecting Plasmodium falciparum Infected Erythrocytes for Adhesion to Cell Lines.
 35881340	Single-Cell Sorting of Plasmodium falciparum-Infected Erythrocytes Expressing Particular PfEMP1 Variants.
 35881339	Immunomagnetic Selection of Plasmodium falciparum-Infected Erythrocytes Expressing Particular PfEMP1 Variants.
-35881338	Genotyping of Plasmodium falciparum to Assess Clone Composition in Parasite Cultures.
-35881337	Establishing and Maintaining In Vitro Cultures of Asexual Blood Stages of Plasmodium falciparum.
-35881336	Preservation and Extraction of Malaria Parasite DNA from Dried Blood Spots.
-35881335	Preservation of Parasite RNA in the Field.
-35881334	Collection and Cryopreservation of Plasmodium falciparum Clinical Isolates in the Field.
-35881333	Identification and Enumeration of Plasmodium falciparum Parasites by Light Microscopy.
-35880971	A study of impurities in the repurposed COVID-19 drug hydroxychloroquine sulfate using ultra-high-performance liquid chromatography-quadrupole/time-of-flight mass spectrometry and liquid chromatography-solid-phase extraction-nuclear magnetic resonance.
-35880678	STARTER Checklist for Antimalarial Therapeutic Efficacy Reporting.
