@@ -1,3 +1,6 @@
+39325977	Methodology of the joint malaria prevention recommendations of Switzerland, Germany, Belgium, and the Netherlands.
+39325875	A kalihinol analog disrupts apicoplast function and vesicular trafficking in P. falciparum malaria.
+39325838	Stable introduction of Wolbachia wPip into invasive Anopheles stephensi for potential malaria control.
 39324855	Peripheral Perfusion Index in Ugandan Children With Plasmodium falciparum Severe Malaria: Secondary Analysis of Outcomes in a 2014-2017 Cohort Study.
 39324800	Parametric and nonparametric population pharmacokinetic analysis of fluconazole in critically ill patients and dosing simulations for Candida infections.
 39324794	Synergistic blockade of TIGIT and PD-L1 increases type-1 inflammation and improves parasite control during murine blood-stage Plasmodium yoelii non-lethal infection.
@@ -9994,6 +9997,3 @@
 35879315	Multi-step screening of DNA/lipid nanoparticles and co-delivery with siRNA to enhance and prolong gene expression.
 35878807	Novel artemisinin derivative FO8643 with anti-angiogenic activity inhibits growth and migration of cancer cells via VEGFR2 signaling.
 35878685	Microorganisms in patients with acute respiratory tract infections in Bamako, Mali.
-35878158	Mapping the global landscape of chikungunya rapid diagnostic tests: A scoping review.
-35878149	Determinants of Patients' Adherence to Malaria Treatment in the Democratic Republic of the Congo.
-35878133	Survey and Analysis of Chemoprophylaxis Policies for Domestic Travel in Malaria-Endemic Countries.
