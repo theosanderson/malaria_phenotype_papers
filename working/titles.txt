@@ -1,3 +1,6 @@
+39328626	A Scientific Review of Pesticides: Classification, Toxicity, Health Effects, Sustainability, and Environmental Impact.
+39328317	Diagnostic challenges in cutaneous leishmaniasis due to atypical Leishmania infantum: pathologists' insights from re-emergence zones.
+39327729	3-Benzylmenadiones and their Heteroaromatic Analogues Target the Apicoplast of Apicomplexa Parasites: Synthesis and Bioimaging Studies.
 39327613	Parasite clearance and protection from Plasmodium falciparum infection (PCPI): a three-arm, parallel, double-blinded, placebo-controlled, randomised trial of presumptive sulfadoxine-pyrimethamine versus sulfadoxine-pyrimethamine plus amodiaquine versus artesunate monotherapy among asymptomatic children 3-5 years of age in Cameroon.
 39327550	Parasite-enhanced immunotherapy: transforming the "cold" tumors to "hot" battlefields.
 39326490	Rational design of untranslated regions to enhance gene expression.
@@ -9994,6 +9997,3 @@
 35881333	Identification and Enumeration of Plasmodium falciparum Parasites by Light Microscopy.
 35880971	A study of impurities in the repurposed COVID-19 drug hydroxychloroquine sulfate using ultra-high-performance liquid chromatography-quadrupole/time-of-flight mass spectrometry and liquid chromatography-solid-phase extraction-nuclear magnetic resonance.
 35880678	STARTER Checklist for Antimalarial Therapeutic Efficacy Reporting.
-35880192	Malaria epidemic and transmission foci in highland of Kisii, western Kenya.
-35880005	Combining school-catchment area models with geostatistical models for analysing school survey data from low-resource settings: Inferential benefits and limitations.
-35879789	Prevalence and risk factors of malaria among first antenatal care attendees in rural Burkina Faso.
