@@ -1,3 +1,8 @@
+39333562	Impact of six-month COVID-19 travel moratorium on Plasmodium falciparum prevalence on Bioko Island, Equatorial Guinea.
+39333361	Traditional ethnobotanical knowledge of important local plants in Sudhnoti, Azad Kashmir, Pakistan.
+39332430	Functional antibody responses associated with effectiveness of RTS,S malaria vaccine in children: new insights and implications.
+39332427	Primaquine for uncomplicated Plasmodium vivax malaria in children younger than 15 years: a systematic review and individual patient data meta-analysis.
+39332236	In artemisinin-resistant falciparum malaria parasites, mitochondrial metabolic pathways are essential for survival but not those of apicoplast.
 39331818	Development of an Activity-Based Ratiometric Electrochemical Switch for Direct, Real-Time Sensing of Pantetheinase in Live Cells, Blood, and Urine Samples.
 39331646	Methaemoglobin as a surrogate marker of primaquine antihypnozoite activity in Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis.
 39331420	Estimating the Size of Populations at High Risk of Malaria in 2 Operational Districts in Cambodia: Household-Based Survey.
@@ -9992,8 +9997,3 @@
 35881348	Resetting var Gene Transcription in Plasmodium falciparum.
 35881347	RNAseq of Infected Erythrocyte Surface Antigen-Encoding Genes.
 35881346	Analysis of var Gene Transcription Pattern Using DBLα Tags.
-35881345	Analysis of var Gene Transcript Patterns by Quantitative Real-Time PCR.
-35881344	Imaging of Extracellular Vesicles Derived from Plasmodium falciparum-Infected Red Blood Cells Using Atomic Force Microscopy.
-35881343	Generation of Plasmodium falciparum Gametocytes In Vitro with Specific Considerations for Field Isolates.
-35881342	Synchronisation of Plasmodium falciparum and P. knowlesi In Vitro Cultures Using a Highly Specific Protein Kinase Inhibitor.
-35881341	Selecting Plasmodium falciparum Infected Erythrocytes for Adhesion to Cell Lines.
