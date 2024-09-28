@@ -1,3 +1,5 @@
+39331818	Development of an Activity-Based Ratiometric Electrochemical Switch for Direct, Real-Time Sensing of Pantetheinase in Live Cells, Blood, and Urine Samples.
+39331646	Methaemoglobin as a surrogate marker of primaquine antihypnozoite activity in Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis.
 39331420	Estimating the Size of Populations at High Risk of Malaria in 2 Operational Districts in Cambodia: Household-Based Survey.
 39331165	The expansion of an invasive malaria vector: Anopheles stephensi emergence in Arba Minch town in the southern Rift Valley of Ethiopia.
 39330912	Antimalarial Mechanisms and Resistance Status of Artemisinin and Its Derivatives.
@@ -190,7 +192,7 @@
 39256721	Analysis of care-seeking pathways and factors influencing early and appropriate care-seeking for malaria patients in the Republic of Guinea: a cross-sectional study.
 39256660	Prevalence and determinants of skilled birth attendance among young women aged 15-24 years in Northern Nigeria: evidence from multiple indicator cluster survey 2011 to 2021.
 39256556	Population genomic evidence of a putative 'far-west' African cryptic taxon in the Anopheles gambiae complex.
-39255876	Hot melt extruded High-Dose amorphous solid dispersions containing lumefantrine and Soluplus.
+39255876	Hot Melt Extruded High-Dose Amorphous Solid Dispersions Containing Lumefantrine and Soluplus.
 39255809	Seroprevalence and Risk Factors for Toxoplasma gondii Infection in Women of Reproductive Age in Nigeria in 2018.
 39255807	Anopheles jamesii Supports Plasmodium vivax Sporogony under Laboratory Conditions.
 39255806	Risk of Neglected Zoonotic Malaria in Western Ghats: How the Ecosystem Favors Transmission of an Impending Public Health Threat.
@@ -9995,5 +9997,3 @@
 35881343	Generation of Plasmodium falciparum Gametocytes In Vitro with Specific Considerations for Field Isolates.
 35881342	Synchronisation of Plasmodium falciparum and P. knowlesi In Vitro Cultures Using a Highly Specific Protein Kinase Inhibitor.
 35881341	Selecting Plasmodium falciparum Infected Erythrocytes for Adhesion to Cell Lines.
-35881340	Single-Cell Sorting of Plasmodium falciparum-Infected Erythrocytes Expressing Particular PfEMP1 Variants.
-35881339	Immunomagnetic Selection of Plasmodium falciparum-Infected Erythrocytes Expressing Particular PfEMP1 Variants.
