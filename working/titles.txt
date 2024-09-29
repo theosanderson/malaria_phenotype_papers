@@ -1,3 +1,28 @@
+39342300	Plasticity of blood feeding behavior of Anopheles mosquitoes in Ethiopia: a systematic review.
+39342297	Falciparum malaria with haemorrhagic stroke in a 26-year male patient: report of a rare case.
+39342181	Basic coagulation parameters and platelet count among malaria patients attending at Addis Zemen Primary Hospital, Northwest Ethiopia.
+39342020	Prevalence of anemia among children aged 6-59 months in the Ntele camp for internally displaced persons (Cabo Delgado, Mozambique): a preliminary study.
+39341498	Plasmodium berghei HMGB1 controls the host immune responses and splenic clearance by regulating the expression of pir genes.
+39341456	Feasibility of sand fly control based on knowledge of sensory ecology.
+39341268	New Malaria vaccine a boon to Endemic regions - doubling efficacy rates, at lower cost.
+39341265	Aphrodisiac activities of aqueous extract of Anthonotha macrophylla (P. Beauv) leaves in paroxetine-induced sexual dysfunction male Wistar rats.
+39341110	Red blood cell passage through deformable interendothelial slits in the spleen: Insights into splenic filtration and hemodynamics.
+39340709	Anti-glomerular basement membrane disease complicated by malaria during pregnancy with successful maternal and fetal outcomes: a case report.
+39340117	Correction: Cao et al. Effective Functional Immunogenicity of a DNA Vaccine Combination Delivered via In Vivo Electroporation Targeting Malaria Infection and Transmission. Vaccines 2022, 10, 1134.
+39339162	Pharmacokinetic Models of Tafenoquine: Insights for Optimal Malaria Treatment Strategies.
+39338938	Resurgence of Clinical Malaria in Ethiopia and Its Link to Anopheles stephensi Invasion.
+39337304	Combining rVAR2 and Anti-EpCAM to Increase the Capture Efficiency of Non-Small-Cell Lung Cancer Cell Lines in the Flow Enrichment Target Capture Halbach (FETCH) Magnetic Separation System.
+39336624	Evaluation of Anopheline Diversity and Abundance across Outdoor Collection Schemes Utilizing CDC Light Traps in Nchelenge District, Zambia.
+39335597	Evaluation of Viral Suppression in Paediatric Populations: Implications for the Transition to Dolutegravir-Based Regimens in Cameroon: The CIPHER-ADOLA Study.
+39334376	Risk factors for death among children with severe malaria, Ivukula sub-county, Namutumba district, Eastern Uganda, september 2021-february 2022.
+39334260	Impact of oral azithromycin and intermittent preventive treatment with sulfadoxine-pyrimethamine regimen on child mortality in Sierra Leone: trial protocol for a randomised, two-arm, double-blinded, placebo-controlled clinical trial (ICARIA).
+39334244	An assessment of Ghana's pilot of the RTS,S malaria vaccine implementation programme; 2019-2021: a retrospective study.
+39334180	Molecular survey of pfmdr-1, pfcrt, and pfk13 gene mutations among patients returning from Plasmodium falciparum endemic areas to Turkey.
+39334170	Prevalence and factors associated with malaria among children aged 6 months to 10 years in the Greater Accra Region of Ghana: a community-based cross-sectional survey.
+39334094	Addressing health equity for breastfeeding women: primaquine for Plasmodium vivax radical cure.
+39333924	Association of first-line combination antiretroviral therapy with malaria among adult HIV-infected persons in Jos, Nigeria: a pilot cross sectional study.
+39333737	A human-serum-free medium can induce more infectious P. falciparum gametocytes than a conventional human-serum-containing medium.
+39333674	Old and new mpox vaccine.
 39333562	Impact of six-month COVID-19 travel moratorium on Plasmodium falciparum prevalence on Bioko Island, Equatorial Guinea.
 39333361	Traditional ethnobotanical knowledge of important local plants in Sudhnoti, Azad Kashmir, Pakistan.
 39332430	Functional antibody responses associated with effectiveness of RTS,S malaria vaccine in children: new insights and implications.
@@ -9972,28 +9997,3 @@
 35881373	Selecting Plasmodium falciparum-Infected Erythrocytes for Adhesion to Recombinant Receptors Under Flow Conditions.
 35881372	Static Adhesion of Plasmodium falciparum-Infected Erythrocytes to Purified and Recombinant Receptors.
 35881371	Assay of Static Adhesion of Plasmodium falciparum-Infected Erythrocytes to Cells, Including Inhibition of the Adhesion.
-35881370	Bridging and Clumping: Investigating Platelet Interactions with P. falciparum-Infected Red Blood Cells and Endothelial Cells in Cerebral Malaria.
-35881369	Measuring Rosetting Inhibition in Plasmodium falciparum Parasites Using a Flow Cytometry-Based Assay.
-35881368	Analysis of Antibody Inhibition of PfEMP1 Binding by Competition ELISA.
-35881367	Surface Plasmon Resonance Analysis of PfEMP1 Interaction with Receptors.
-35881366	Assessing Antigen Presentation on the Surface of Plasmodium falciparum-Infected Erythrocytes by Photoactivated Localization Microscopy (PALM).
-35881365	An Improved Method for Assessing Antigen Presentation on the Surface of Plasmodium falciparum-Infected Erythrocytes by Immuno-Electron Microscopy.
-35881364	Analysis by Flow Cytometry of α(2)-Macroglobulin and Nonimmune IgM-Binding to Plasmodium falciparum-Infected Erythrocytes.
-35881363	Visualization of Infected Red Blood Cell Surface Antigens by Fluorescence Microscopy.
-35881362	Production of PfEMP1-Specific Human Monoclonal Antibodies from Naturally Immune Individuals.
-35881361	Production of PfEMP1-Specific Mouse Monoclonal Antibodies.
-35881360	Production of anti-PfEMP1 Polyclonal Antisera in Rats and Mice.
-35881359	Affinity Purification of PfEMP1-Specific Antibodies from Human Blood.
-35881358	Protocol for Differential Biopanning of P. falciparum Phage Display cDNA Library to Identify Parasite Targets of Protective Antibodies.
-35881357	Protein Microarrays as a Tool to Analyze Antibody Responses to Variant Surface Antigens Expressed on the Surface of Plasmodium falciparum-Infected Erythrocytes.
-35881356	High-Throughput BioPlex Assay for the Study of Functionally Active Plasmodium Falciparum Antigens That Are Expressed on the Surface of Infected Erythrocytes.
-35881355	Analysis of Antibody Reactivity to Malaria Antigens by Microsphere-Based Multiplex Immunoassay.
-35881354	Receptor Affinity-Based Purification of PfEMP1 Proteins.
-35881353	Expression of Large Full-Length PfEMP1 Proteins in HEK293 Cells.
-35881352	Expression of Single-Domain Soluble and Disulfide-Folded PfEMP1 Antigens in the Escherichia coli SHuffle Expression System.
-35881351	Extraction and Immunoprecipitation of VAR2CSA, the PfEMP1 Associated with Placental Malaria.
-35881350	CRISPR-Cas9 Editing of the Plasmodium falciparum Genome: Special Applications.
-35881349	CRISPR/Cas9 Editing of the Plasmodium falciparum Genome.
-35881348	Resetting var Gene Transcription in Plasmodium falciparum.
-35881347	RNAseq of Infected Erythrocyte Surface Antigen-Encoding Genes.
-35881346	Analysis of var Gene Transcription Pattern Using DBLα Tags.
