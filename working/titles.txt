@@ -1,3 +1,6 @@
+39344380	Developing Self-Nanoemulsifying Drug Delivery Systems Comprising an Artemether-Lumefantrine Fixed-Dose Combination to Treat Malaria.
+39344281	Pharmacokinetics of Ganaplacide and Lumefantrine in Adults, Adolescents, and Children with Plasmodium falciparum Malaria Treated with Ganaplacide Plus Lumefantrine Solid Dispersion Formulation: Analysis of Data from a Multinational Phase 2 Study.
+39344052	SARS-CoV-2 Infection and Other Communicable Diseases Identified Among Evacuees From Afghanistan Arriving in Virginia and Pennsylvania, August to September 2021.
 39343990	The Potential Role of Artemisinins Against Neurodegenerative Diseases.
 39343446	Non-invasive detection of bilirubin concentrations during the first week of life in a low-resource setting along the Thailand-Myanmar border.
 39343287	Identification and functional validation of P450 genes associated with pyrethroid resistance in the malaria vector Anopheles sinensis (Diptera Culicidae).
@@ -9994,6 +9997,3 @@
 35881381	Assessing PfGARP-Mediated Apoptosis of Blood-Stage Plasmodium falciparum Parasites.
 35881380	Natural Killer Cell Antibody-Dependent Cellular Cytotoxicity (ADCC) Activity Against Plasmodium falciparum-Infected Red Blood Cells.
 35881379	Assaying Interactions Between Neutrophils and Plasmodium falciparum-Infected Red Blood Cells.
-35881378	Antibody-Dependent THP-1 Cell-Mediated Phagocytosis of Plasmodium falciparum-Infected Erythrocytes.
-35881377	Receptor-Functionalized Lipid Membranes as Biomimetic Surfaces for Adhesion of Plasmodium falciparum-Infected Erythrocytes.
-35881376	3D Organoid Assay of the Impact of Infected Erythrocyte Adhesion on the Blood-Brain Barrier.
