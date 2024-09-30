@@ -1,3 +1,8 @@
+39343990	The Potential Role of Artemisinins Against Neurodegenerative Diseases.
+39343446	Non-invasive detection of bilirubin concentrations during the first week of life in a low-resource setting along the Thailand-Myanmar border.
+39343287	Identification and functional validation of P450 genes associated with pyrethroid resistance in the malaria vector Anopheles sinensis (Diptera Culicidae).
+39343069	Identifying the hidden parasitic intruders: Molecular insights into the health of Common Myna.
+39342998	A Fluorescence-Based Assay for Measuring Polyamine Biosynthesis Aminopropyl Transferase-Mediated Catalysis.
 39342300	Plasticity of blood feeding behavior of Anopheles mosquitoes in Ethiopia: a systematic review.
 39342297	Falciparum malaria with haemorrhagic stroke in a 26-year male patient: report of a rare case.
 39342181	Basic coagulation parameters and platelet count among malaria patients attending at Addis Zemen Primary Hospital, Northwest Ethiopia.
@@ -9992,8 +9997,3 @@
 35881378	Antibody-Dependent THP-1 Cell-Mediated Phagocytosis of Plasmodium falciparum-Infected Erythrocytes.
 35881377	Receptor-Functionalized Lipid Membranes as Biomimetic Surfaces for Adhesion of Plasmodium falciparum-Infected Erythrocytes.
 35881376	3D Organoid Assay of the Impact of Infected Erythrocyte Adhesion on the Blood-Brain Barrier.
-35881375	Binding of Plasmodium falciparum-Infected Red Blood Cells to Engineered 3D Microvessels.
-35881374	Chip-Based Assay of Adhesion of Plasmodium falciparum-Infected Erythrocytes to Cells Under Flow.
-35881373	Selecting Plasmodium falciparum-Infected Erythrocytes for Adhesion to Recombinant Receptors Under Flow Conditions.
-35881372	Static Adhesion of Plasmodium falciparum-Infected Erythrocytes to Purified and Recombinant Receptors.
-35881371	Assay of Static Adhesion of Plasmodium falciparum-Infected Erythrocytes to Cells, Including Inhibition of the Adhesion.
