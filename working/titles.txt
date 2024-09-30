@@ -1,3 +1,8 @@
+39345873	Employing Hexahydroquinolines as PfCDPK4 Inhibitors to Combat Malaria Transmission: An Advanced Computational Approach.
+39345628	Population genomics of Plasmodium ovale species in sub-Saharan Africa.
+39345442	A virus associated with the zoonotic pathogen Plasmodium knowlesi causing human malaria is a member of a diverse and unclassified viral taxon.
+39345384	The Molecular Toll Pathway Repertoire in Anopheline Mosquitoes.
+39345161	Novel Dipeptide Inhibitors of PfPNP: In-silico Identification of Promising New Antimalarials.
 39344380	Developing Self-Nanoemulsifying Drug Delivery Systems Comprising an Artemether-Lumefantrine Fixed-Dose Combination to Treat Malaria.
 39344281	Pharmacokinetics of Ganaplacide and Lumefantrine in Adults, Adolescents, and Children with Plasmodium falciparum Malaria Treated with Ganaplacide Plus Lumefantrine Solid Dispersion Formulation: Analysis of Data from a Multinational Phase 2 Study.
 39344052	SARS-CoV-2 Infection and Other Communicable Diseases Identified Among Evacuees From Afghanistan Arriving in Virginia and Pennsylvania, August to September 2021.
@@ -9992,8 +9997,3 @@
 35881386	Measuring the Impact of Malaria on the Living Human Retina.
 35881385	Whole Blood Dendritic Cell Cytokine Production Assay.
 35881384	Assessment of Plasmodium falciparum Antigen-Specific B Cells.
-35881383	Flow Cytometry Assay of Plasmodium Falciparum-Specific B-Cell Proportions.
-35881382	Enzyme-Linked Immunosorbent Assay for Activation of the Classical Complement Pathway by Plasmodium falciparum-Infected Erythrocyte Surface Antigen-Specific Antibodies.
-35881381	Assessing PfGARP-Mediated Apoptosis of Blood-Stage Plasmodium falciparum Parasites.
-35881380	Natural Killer Cell Antibody-Dependent Cellular Cytotoxicity (ADCC) Activity Against Plasmodium falciparum-Infected Red Blood Cells.
-35881379	Assaying Interactions Between Neutrophils and Plasmodium falciparum-Infected Red Blood Cells.
