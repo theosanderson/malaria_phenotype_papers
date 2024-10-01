@@ -1,3 +1,13 @@
+39350117	A cross-sectional study investigating malaria prevalence and associated predictors of infection among migrants to a newly established gold mining settlement in the Gambella Region of Ethiopia.
+39350104	Dissemination and outcome reporting bias in clinical malaria intervention trials: a cross-sectional analysis.
+39350071	Histidine-rich protein (hrp) 2-based RDT false-negatives and Plasmodium falciparum hrp 2 and 3 gene deletions in low, seasonal and intense perennial transmission zones in Cameroon: a cross - sectional study.
+39349849	Vector-Borne Diseases Potpourri.
+39349813	Capturing liver responses to Plasmodium infection.
+39349590	Antibiotic prescribing patterns in pediatric patients using the WHO access, watch, reserve (AWaRe) classification at a quaternary hospital in Nampula, Mozambique.
+39349556	Author Correction: Population genomics of virulence genes of Plasmodium falciparum in clinical isolates from Uganda.
+39349510	Author Correction: The artemisinin-induced dormant stages of Plasmodium falciparum exhibit hallmarks of cellular quiescence/senescence and drug resilience.
+39349478	Contrasting genomic epidemiology between sympatric Plasmodium falciparum and Plasmodium vivax populations.
+39349462	Author Correction: Aryl amino acetamides prevent Plasmodium falciparum ring development via targeting the lipid-transfer protein PfSTART1.
 39348385	ATM1, an essential conserved transporter in Apicomplexa, bridges mitochondrial and cytosolic [Fe-S] biogenesis.
 39345873	Employing Hexahydroquinolines as PfCDPK4 Inhibitors to Combat Malaria Transmission: An Advanced Computational Approach.
 39345628	Population genomics of Plasmodium ovale species in sub-Saharan Africa.
@@ -36,6 +46,7 @@
 39334094	Addressing health equity for breastfeeding women: primaquine for Plasmodium vivax radical cure.
 39333924	Association of first-line combination antiretroviral therapy with malaria among adult HIV-infected persons in Jos, Nigeria: a pilot cross sectional study.
 39333737	A human-serum-free medium can induce more infectious P. falciparum gametocytes than a conventional human-serum-containing medium.
+39333674	Old and new mpox vaccine.
 39333562	Impact of six-month COVID-19 travel moratorium on Plasmodium falciparum prevalence on Bioko Island, Equatorial Guinea.
 39333361	Traditional ethnobotanical knowledge of important local plants in Sudhnoti, Azad Kashmir, Pakistan.
 39332430	Functional antibody responses associated with effectiveness of RTS,S malaria vaccine in children: new insights and implications.
@@ -9986,14 +9997,3 @@
 35885932	Genetic Diversity and Population Genetic Analysis of Plasmodium falciparum Thrombospondin Related Anonymous Protein (TRAP) in Clinical Samples from Saudi Arabia.
 35885727	Readiness of Mozambique Health Facilities to Address Undernutrition and Diarrhea in Children under Five: Indicators from 2018 and 2021 Survey Data.
 35883427	Tertiary and Quaternary Structure Organization in GMP Synthetases: Implications for Catalysis.
-35883100	Population replacement gene drive characteristics for malaria elimination in a range of seasonal transmission settings: a modelling study.
-35883089	DNA recovery from used malaria RDT to detect Plasmodium species and to assess Plasmodium falciparum genetic diversity: a pilot study in Madagascar.
-35883064	Etramp5 as a useful serological marker in children to assess the immediate effects of mass drug campaigns for malaria.
-35882766	In vitro antiviral activity of piperidine alkaloids from Senna spectabilis flowers on Chikungunya virus infection.
-35881658	Fitness cost of target-site and metabolic resistance to pyrethroids drives restoration of susceptibility in a highly resistant Anopheles gambiae population from Uganda.
-35881389	Histological Identification of Sequestered Parasitized Red Cells.
-35881388	Investigating Interactions Between Endothelial Cells and Parasitized Red Blood Cells in Skin and Subcutaneous Tissue.
-35881387	Ocular Pathology of Cerebral Malaria.
-35881386	Measuring the Impact of Malaria on the Living Human Retina.
-35881385	Whole Blood Dendritic Cell Cytokine Production Assay.
-35881384	Assessment of Plasmodium falciparum Antigen-Specific B Cells.
