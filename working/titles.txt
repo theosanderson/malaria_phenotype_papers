@@ -1,3 +1,4 @@
+39348385	ATM1, an essential conserved transporter in Apicomplexa, bridges mitochondrial and cytosolic [Fe-S] biogenesis.
 39345873	Employing Hexahydroquinolines as PfCDPK4 Inhibitors to Combat Malaria Transmission: An Advanced Computational Approach.
 39345628	Population genomics of Plasmodium ovale species in sub-Saharan Africa.
 39345442	A virus associated with the zoonotic pathogen Plasmodium knowlesi causing human malaria is a member of a diverse and unclassified viral taxon.
@@ -35,7 +36,6 @@
 39334094	Addressing health equity for breastfeeding women: primaquine for Plasmodium vivax radical cure.
 39333924	Association of first-line combination antiretroviral therapy with malaria among adult HIV-infected persons in Jos, Nigeria: a pilot cross sectional study.
 39333737	A human-serum-free medium can induce more infectious P. falciparum gametocytes than a conventional human-serum-containing medium.
-39333674	Old and new mpox vaccine.
 39333562	Impact of six-month COVID-19 travel moratorium on Plasmodium falciparum prevalence on Bioko Island, Equatorial Guinea.
 39333361	Traditional ethnobotanical knowledge of important local plants in Sudhnoti, Azad Kashmir, Pakistan.
 39332430	Functional antibody responses associated with effectiveness of RTS,S malaria vaccine in children: new insights and implications.
