@@ -1,3 +1,4 @@
+39351718	Clinicopathological Evaluation of the Patients with Febrile Illness and Altered Consciousness Admitted in a Tertiary Level Hospital.
 39350117	A cross-sectional study investigating malaria prevalence and associated predictors of infection among migrants to a newly established gold mining settlement in the Gambella Region of Ethiopia.
 39350104	Dissemination and outcome reporting bias in clinical malaria intervention trials: a cross-sectional analysis.
 39350071	Histidine-rich protein (hrp) 2-based RDT false-negatives and Plasmodium falciparum hrp 2 and 3 gene deletions in low, seasonal and intense perennial transmission zones in Cameroon: a cross - sectional study.
@@ -9996,4 +9997,3 @@
 35885989	Molecular Drivers of Multiple and Elevated Resistance to Insecticides in a Population of the Malaria Vector Anopheles gambiae in Agriculture Hotspot of West Cameroon.
 35885932	Genetic Diversity and Population Genetic Analysis of Plasmodium falciparum Thrombospondin Related Anonymous Protein (TRAP) in Clinical Samples from Saudi Arabia.
 35885727	Readiness of Mozambique Health Facilities to Address Undernutrition and Diarrhea in Children under Five: Indicators from 2018 and 2021 Survey Data.
-35883427	Tertiary and Quaternary Structure Organization in GMP Synthetases: Implications for Catalysis.
