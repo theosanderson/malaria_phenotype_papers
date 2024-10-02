@@ -233,7 +233,7 @@
 39261971	Real-time PCR for malaria diagnosis and identification of Plasmodium species in febrile patients in Cubal, Angola.
 39261928	Warmer environmental temperature accelerates aging in mosquitoes, decreasing longevity and worsening infection outcomes.
 39260846	Evaluating the impact of malaria rapid diagnostic tests on patient-important outcomes in sub-Saharan Africa: a systematic review of study methods to guide effective implementation.
-39260695	A Cub and Sushi domain containing protein with esterase like activity confers insecticide resistance in Indian malaria vector- Anopheles stephensi.
+39260695	A cub and sushi domain-containing protein with esterase-like activity confers insecticide resistance in the Indian malaria vector Anopheles stephensi.
 39259766	A regional One Health approach to the risk of invasion by Anopheles stephensi in Mauritius.
 39259191	Splenic filtration of red blood cells in physiology, malaria and sickle cell disease.
 39259139	Glucose-6-phosphate dehydrogenase and its 3D structures from crystallography and electron cryo-microscopy.
@@ -278,7 +278,7 @@
 39247033	Seroprevalence of Hepatitis B Infection Among Blood Donors in a Tribal-Preponderant State of India: A Seven-Year Retrospective Observational Study.
 39246754	A complex case of recurrent intracranial bleeds due to malaria-induced coagulopathy: A case report and literature review.
 39245343	'How to manage adult patients with malaria in the non-endemic setting': author's response.
-39245314	Mosquitocidal efficacy and pharmacokinetics of single-dose ivermectin versus three-day dose regimen for malaria vector control in comparison with albendazole and no treatment: an open-label randomized controlled trial.
+39245314	Mosquitocidal efficacy and pharmacokinetics of single-dose ivermectin versus three-day dose regimen for malaria vector control compared with albendazole and no treatment: An open-label randomized controlled trial.
 39245193	Unravelling the anti-apoptotic role of Plasmodium falciparum Prohibitin-2 (PfPhb2) in maintaining mitochondrial homeostasis.
 39245156	Characterisation of the erythrocyte invasion phenotype of FCB-2: A South American P. falciparum reference strain.
 39245150	The isolation of sclerotinin A as an anti-malarial compound by utilization of a global secondary metabolism regulator, laeA gene.
