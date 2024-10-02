@@ -856,7 +856,7 @@
 39040540	Combinative workflow for mRNA vaccine development.
 39040126	R21/Matrix-M™ malaria vaccine: A realm of hope for combating malaria in developing countries?
 39040124	Evaluation of MMV Pandemic Response Box compounds to identify potent compounds against clinically relevant bacterial and fungal clinical isolates in vitro.
-39039918	Unveiling Anti-malarial, Antimicrobial, Antioxidant Efficiency and Molecular Docking Study of Synthesized Transition Metal Complexes Derived From Heterocyclic Schiff Base Ligands.
+39039918	Unveiling Anti-Malarial, Antimicrobial, Antioxidant Efficiency and Molecular Docking Study of Synthesized Transition Metal Complexes Derived From Heterocyclic Schiff Base Ligands.
 39039683	Preparation and In-Vitro Characterization of Solid Lipid Nanoparticles Containing Artemisinin and Curcumin.
 39039450	The role of immune-inflammatory markers in children with complicated and uncomplicated malaria in Enugu, Nigeria.
 39039203	Gene drives: an alternative approach to malaria control?
