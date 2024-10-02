@@ -1,3 +1,5 @@
+39356427	Assessing the Oxidative Stress Reducing Potential of Spilanthes filicaulis (Schumach & Thonn) Ethyl-Acetate Sub-fractions on Plasmodium berghei Infected Female Mice.
+39356425	Trend of N86Y and Y184F Mutations in Pfmdr1 Gene in Children Under Seasonal Malaria Chemoprevention Coverage in Nanoro, Burkina Faso.
 39355658	Determination of ivermectin in plasma and whole blood using LC-MS/MS.
 39355242	NK cells contribute to the resolution of experimental malaria-associated acute respiratory distress syndrome after antimalarial treatment.
 39355094	Plasmodium falciparum genetic diversity; implications for malaria control in Ethiopia: Systematic review and meta-analysis.
@@ -9995,5 +9997,3 @@
 35889006	Temporal and Wash-Out Studies Identify Medicines for Malaria Venture Pathogen Box Compounds with Fast-Acting Activity against Both Trypanosoma cruzi and Trypanosoma brucei.
 35888577	Prevalence and Association of Transfusion Transmitted Infections with ABO and Rh Blood Groups among Blood Donors in the Western Region of Saudi Arabia: A 7-Year Retrospective Analysis.
 35888014	Extracellular Vesicles Derived from Early and Late Stage Plasmodium falciparum-Infected Red Blood Cells Contain Invasion-Associated Proteins.
-35887122	α/β-Hydrolase D16B Truncation Results in Premature Sperm Capacitation in Cattle.
-35887084	Trypsin-like Inhibitor Domain (TIL)-Harboring Protein Is Essential for Aedes aegypti Reproduction.
