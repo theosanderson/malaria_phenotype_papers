@@ -1,3 +1,6 @@
+39355658	Determination of ivermectin in plasma and whole blood using LC-MS/MS.
+39355242	NK cells contribute to the resolution of experimental malaria-associated acute respiratory distress syndrome after antimalarial treatment.
+39355094	Plasmodium falciparum genetic diversity; implications for malaria control in Ethiopia: Systematic review and meta-analysis.
 39352265	A New Isoflavone Xylopyranoside and Isoflavone Derivatives from the Roots of Ochna integerrima and Their DPPH Radical Scavenging Activity.
 39352168	Normocytic Anemia in Pregnant Women: A Scoping Review.
 39351718	Clinicopathological Evaluation of the Patients with Febrile Illness and Altered Consciousness Admitted in a Tertiary Level Hospital.
@@ -9994,6 +9997,3 @@
 35888014	Extracellular Vesicles Derived from Early and Late Stage Plasmodium falciparum-Infected Red Blood Cells Contain Invasion-Associated Proteins.
 35887122	α/β-Hydrolase D16B Truncation Results in Premature Sperm Capacitation in Cattle.
 35887084	Trypsin-like Inhibitor Domain (TIL)-Harboring Protein Is Essential for Aedes aegypti Reproduction.
-35886668	Introduction to the Special Issue of IJERPH Entitled "Prenatal Exposure to Environmental Pollutants and Other Stressors: Impacts on Fetal Development, Birth Outcomes, Children's Health and Beyond".
-35886105	Knowledge, Attitudes, and Practices in Relation to Mosquito-Borne Diseases in Bangladesh.
-35886012	Risk Association, Linkage Disequilibrium, and Haplotype Analyses of β-Like Globin Gene Polymorphisms with Malaria Risk in the Sabah Population of Malaysian Borneo.
