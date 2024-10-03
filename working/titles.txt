@@ -1,3 +1,4 @@
+39360798	Correction to "Improving the Immunogenicity and Protective Efficacy of a Whole-Killed Malaria Blood-Stage Vaccine by Chloroquine".
 39360262	Diagnostics for detection and surveillance of priority epidemic-prone diseases in Africa: an assessment of testing capacity and laboratory strengthening needs.
 39359929	Triple planetary crisis: why healthcare professionals should care.
 39359838	Revolution in malaria detection: unveiling current breakthroughs and tomorrow's possibilities in biomarker innovation.
@@ -9,9 +10,13 @@
 39357915	Projected impact of climate change on human health in low- and middle-income countries: a systematic review.
 39357565	Genetic polymorphism of Duffy binding protein in Pakistan Plasmodium vivax isolates.
 39354077	Essential vector-disease resource faces shutdown without funding.
+39353425	Dynamic shape-shifting of the single-celled eukaryotic predator Lacrymaria via unconventional cytoskeletal components.
 39353421	Establishing Priorities for Epilepsy Care and Electroencephalogram Use in Low-Resource Settings.
 39353420	Demographic and Clinical Features of Visceral Leishmaniasis in Chad: A Prospective Cross-Sectional Survey.
 39353417	A Comprehensive Assessment of Quality of Antimalarial Medicines in Mainland Tanzania: Insights from Five Years of Postmarket Surveillance.
+39353279	PfSPZ Vaccine induces focused humoral immune response in HIV positive and negative Tanzanian adults.
+39353088	Gene Drive and Symbiont Technologies for Control of Mosquito-Borne Diseases.
+39352879	Repositioning Brusatol as a Transmission Blocker of Malaria Parasites.
 39356809	Diversification of Antibodies: From V(D)J Recombination to Somatic Exon Shuffling.
 39356580	A 7-Month Review of Clinical and Demographic Predictors of Childhood Mortality in a Tertiary Children Hospital in Freetown, Sierra Leone.
 39356427	Assessing the Oxidative Stress Reducing Potential of Spilanthes filicaulis (Schumach & Thonn) Ethyl-Acetate Sub-fractions on Plasmodium berghei Infected Female Mice.
@@ -70,7 +75,6 @@
 39334094	Addressing health equity for breastfeeding women: primaquine for Plasmodium vivax radical cure.
 39333924	Association of first-line combination antiretroviral therapy with malaria among adult HIV-infected persons in Jos, Nigeria: a pilot cross sectional study.
 39333737	A human-serum-free medium can induce more infectious P. falciparum gametocytes than a conventional human-serum-containing medium.
-39333674	Old and new mpox vaccine.
 39333562	Impact of six-month COVID-19 travel moratorium on Plasmodium falciparum prevalence on Bioko Island, Equatorial Guinea.
 39333361	Traditional ethnobotanical knowledge of important local plants in Sudhnoti, Azad Kashmir, Pakistan.
 39332430	Functional antibody responses associated with effectiveness of RTS,S malaria vaccine in children: new insights and implications.
@@ -9993,7 +9997,3 @@
 35893540	Prevalence of pvmrp1 Polymorphisms and Its Contribution to Antimalarial Response.
 35892964	Targeting the Ubiquinol-Reduction (Q(i)) Site of the Mitochondrial Cytochrome bc(1) Complex for the Development of Next Generation Quinolone Antimalarials.
 35892529	Experimental Study on Primary Bird Co-Infection with Two Plasmodium relictum Lineages-pSGS1 and pGRW11.
-35892329	Hsp90 and Associated Co-Chaperones of the Malaria Parasite.
-35891792	Update and elucidation of Plasmodium kinomes: Prioritization of kinases as potential drug targets for malaria.
-35891332	The Antifungal Itraconazole Is a Potent Inhibitor of Chikungunya Virus Replication.
-35891298	Effective Functional Immunogenicity of a DNA Vaccine Combination Delivered via In Vivo Electroporation Targeting Malaria Infection and Transmission.
