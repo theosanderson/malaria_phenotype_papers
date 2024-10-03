@@ -1,9 +1,17 @@
+39360262	Diagnostics for detection and surveillance of priority epidemic-prone diseases in Africa: an assessment of testing capacity and laboratory strengthening needs.
+39359929	Triple planetary crisis: why healthcare professionals should care.
+39359838	Revolution in malaria detection: unveiling current breakthroughs and tomorrow's possibilities in biomarker innovation.
+39359003	Invited Commentary: Thirty-five Years of Leaky Vaccines.
 39358743	COVID-19 pandemic, pregnancy care, perinatal outcomes in Eastern Myanmar and North-Western Thailand: a retrospective marginalised population cohort.
 39358742	Avian malaria in a feral-pet pigeon: a case report.
 39358169	The potential use of arginine kinase from the brown tick Rhipicephalus sanguineus as a biomarker for vector exposure in the surveillance of Rocky Mountain spotted fever.
 39358163	Peeling the onion: how complex is the artemisinin resistance genetic trait of malaria parasites?
 39357915	Projected impact of climate change on human health in low- and middle-income countries: a systematic review.
 39357565	Genetic polymorphism of Duffy binding protein in Pakistan Plasmodium vivax isolates.
+39354077	Essential vector-disease resource faces shutdown without funding.
+39353421	Establishing Priorities for Epilepsy Care and Electroencephalogram Use in Low-Resource Settings.
+39353420	Demographic and Clinical Features of Visceral Leishmaniasis in Chad: A Prospective Cross-Sectional Survey.
+39353417	A Comprehensive Assessment of Quality of Antimalarial Medicines in Mainland Tanzania: Insights from Five Years of Postmarket Surveillance.
 39356809	Diversification of Antibodies: From V(D)J Recombination to Somatic Exon Shuffling.
 39356580	A 7-Month Review of Clinical and Demographic Predictors of Childhood Mortality in a Tertiary Children Hospital in Freetown, Sierra Leone.
 39356427	Assessing the Oxidative Stress Reducing Potential of Spilanthes filicaulis (Schumach & Thonn) Ethyl-Acetate Sub-fractions on Plasmodium berghei Infected Female Mice.
@@ -11,10 +19,6 @@
 39355658	Determination of ivermectin in plasma and whole blood using LC-MS/MS.
 39355242	NK cells contribute to the resolution of experimental malaria-associated acute respiratory distress syndrome after antimalarial treatment.
 39355094	Plasmodium falciparum genetic diversity; implications for malaria control in Ethiopia: Systematic review and meta-analysis.
-39354077	Essential vector-disease resource faces shutdown without funding.
-39353421	Establishing Priorities for Epilepsy Care and Electroencephalogram Use in Low-Resource Settings.
-39353420	Demographic and Clinical Features of Visceral Leishmaniasis in Chad: A Prospective Cross-Sectional Survey.
-39353417	A Comprehensive Assessment of Quality of Antimalarial Medicines in Mainland Tanzania: Insights from Five Years of Postmarket Surveillance.
 39352265	A New Isoflavone Xylopyranoside and Isoflavone Derivatives from the Roots of Ochna integerrima and Their DPPH Radical Scavenging Activity.
 39352168	Normocytic Anemia in Pregnant Women: A Scoping Review.
 39351718	Clinicopathological Evaluation of the Patients with Febrile Illness and Altered Consciousness Admitted in a Tertiary Level Hospital.
@@ -9993,7 +9997,3 @@
 35891792	Update and elucidation of Plasmodium kinomes: Prioritization of kinases as potential drug targets for malaria.
 35891332	The Antifungal Itraconazole Is a Potent Inhibitor of Chikungunya Virus Replication.
 35891298	Effective Functional Immunogenicity of a DNA Vaccine Combination Delivered via In Vivo Electroporation Targeting Malaria Infection and Transmission.
-35891284	Advances in Infectious Disease Vaccine Adjuvants.
-35890267	The Multistage Antimalarial Compound Calxinin Perturbates P. falciparum Ca(2+) Homeostasis by Targeting a Unique Ion Channel.
-35890216	Characterization of Domiphen Bromide as a New Fast-Acting Antiplasmodial Agent Inhibiting the Apicoplastidic Methyl Erythritol Phosphate Pathway.
-35890202	Siccanin Is a Dual-Target Inhibitor of Plasmodium falciparum Mitochondrial Complex II and Complex III.
