@@ -1,3 +1,9 @@
+39358743	COVID-19 pandemic, pregnancy care, perinatal outcomes in Eastern Myanmar and North-Western Thailand: a retrospective marginalised population cohort.
+39358742	Avian malaria in a feral-pet pigeon: a case report.
+39358169	The potential use of arginine kinase from the brown tick Rhipicephalus sanguineus as a biomarker for vector exposure in the surveillance of Rocky Mountain spotted fever.
+39358163	Peeling the onion: how complex is the artemisinin resistance genetic trait of malaria parasites?
+39357915	Projected impact of climate change on human health in low- and middle-income countries: a systematic review.
+39357565	Genetic polymorphism of Duffy binding protein in Pakistan Plasmodium vivax isolates.
 39356809	Diversification of Antibodies: From V(D)J Recombination to Somatic Exon Shuffling.
 39356580	A 7-Month Review of Clinical and Demographic Predictors of Childhood Mortality in a Tertiary Children Hospital in Freetown, Sierra Leone.
 39356427	Assessing the Oxidative Stress Reducing Potential of Spilanthes filicaulis (Schumach & Thonn) Ethyl-Acetate Sub-fractions on Plasmodium berghei Infected Female Mice.
@@ -5,6 +11,10 @@
 39355658	Determination of ivermectin in plasma and whole blood using LC-MS/MS.
 39355242	NK cells contribute to the resolution of experimental malaria-associated acute respiratory distress syndrome after antimalarial treatment.
 39355094	Plasmodium falciparum genetic diversity; implications for malaria control in Ethiopia: Systematic review and meta-analysis.
+39354077	Essential vector-disease resource faces shutdown without funding.
+39353421	Establishing Priorities for Epilepsy Care and Electroencephalogram Use in Low-Resource Settings.
+39353420	Demographic and Clinical Features of Visceral Leishmaniasis in Chad: A Prospective Cross-Sectional Survey.
+39353417	A Comprehensive Assessment of Quality of Antimalarial Medicines in Mainland Tanzania: Insights from Five Years of Postmarket Surveillance.
 39352265	A New Isoflavone Xylopyranoside and Isoflavone Derivatives from the Roots of Ochna integerrima and Their DPPH Radical Scavenging Activity.
 39352168	Normocytic Anemia in Pregnant Women: A Scoping Review.
 39351718	Clinicopathological Evaluation of the Patients with Febrile Illness and Altered Consciousness Admitted in a Tertiary Level Hospital.
@@ -30,7 +40,7 @@
 39343990	The Potential Role of Artemisinins Against Neurodegenerative Diseases.
 39343446	Non-invasive detection of bilirubin concentrations during the first week of life in a low-resource setting along the Thailand-Myanmar border.
 39343287	Identification and functional validation of P450 genes associated with pyrethroid resistance in the malaria vector Anopheles sinensis (Diptera Culicidae).
-39343069	Identifying the hidden parasitic intruders: Molecular insights into the health of Common Myna.
+39343069	Identifying the hidden parasitic intruders: Molecular insights into the health of common Myna.
 39342998	A Fluorescence-Based Assay for Measuring Polyamine Biosynthesis Aminopropyl Transferase-Mediated Catalysis.
 39342300	Plasticity of blood feeding behavior of Anopheles mosquitoes in Ethiopia: a systematic review.
 39342297	Falciparum malaria with haemorrhagic stroke in a 26-year male patient: report of a rare case.
@@ -91,7 +101,7 @@
 39322986	Detection of antiretroviral drug-resistant mutations and HIV-1 subtypes in circulation among men who have sex with men, SEM females and female sex workers: results of Vietnam's HIV Sentinel Surveillance Plus (HSS+) system, 2018 - 2020.
 39322303	[Epidemiological characteristics and diagnosis of imported Plasmodium malariae and Plasmodium ovale malaria cases in five provinces of China from 2014 to 2021].
 39322282	Systematic identification of interchromosomal interaction networks supports the existence of specialized RNA factories.
-39321969	Analysis of Diagnostic Biomarkers for Malaria: Prospects on Rapid diagnostic test development.
+39321969	Analysis of diagnostic biomarkers for malaria: Prospects on rapid diagnostic test (RDT) development.
 39321903	Nanotechnology based drug delivery systems for malaria.
 39320318	Heterologous immunization targeting the CST1 antigen confers better protection than ROP18 in mice.
 39319875	Antiplasmodial specialised compounds from the leaves of Guarea glomerulata Harms (Meliaceae).
@@ -9987,13 +9997,3 @@
 35890267	The Multistage Antimalarial Compound Calxinin Perturbates P. falciparum Ca(2+) Homeostasis by Targeting a Unique Ion Channel.
 35890216	Characterization of Domiphen Bromide as a New Fast-Acting Antiplasmodial Agent Inhibiting the Apicoplastidic Methyl Erythritol Phosphate Pathway.
 35890202	Siccanin Is a Dual-Target Inhibitor of Plasmodium falciparum Mitochondrial Complex II and Complex III.
-35890200	Naturally Occurring 8ß,13ß-kaur-15-en-17-al and Anti-Malarial Activity from Podocarpus polystachyus Leaves.
-35890119	4-Substituted Thieno[3,2-d]pyrimidines as Dual-Stage Antiplasmodial Derivatives.
-35890113	Synthesis, Structure−Activity Relationships, and Parasitological Profiling of Brussonol Derivatives as New Plasmodium falciparum Inhibitors.
-35889983	Multiplexing for Plasmodium spp.? Think Again! Comment on Bhowmick et al. Dry Post Wintertime Mass Surveillance Unearths a Huge Burden of P. vivax, and Mixed Infection with P. vivax P. falciparum, a Threat to Malaria Elimination, in Dhalai, Tripura, India. Pathogens 2021, 10, 1259.
-35889975	It Is Time to Strengthen the Malaria Control Policy of the Democratic Republic of Congo and Include Schools and School-Age Children in Malaria Control Measures.
-35889972	Prevalence of Transfusion-Transmitted Infections (HCV, HIV, Syphilis and Malaria) in Blood Donors: A Large-Scale Cross-Sectional Study.
-35889157	Identification of Exported Plasmodium falciparum Proteins That Bind to the Erythrocyte Cytoskeleton.
-35889137	Plasmodium falciparum S-Adenosylmethionine Synthetase Is Essential for Parasite Survival through a Complex Interaction Network with Cytoplasmic and Nuclear Proteins.
-35889089	Role of Host Small GTPases in Apicomplexan Parasite Infection.
-35889006	Temporal and Wash-Out Studies Identify Medicines for Malaria Venture Pathogen Box Compounds with Fast-Acting Activity against Both Trypanosoma cruzi and Trypanosoma brucei.
