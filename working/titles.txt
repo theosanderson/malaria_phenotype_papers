@@ -1,3 +1,6 @@
+39363238	Dihydroartemisinin suppresses the susceptibility of Anopheles stephensi to Plasmodium yoelii by activating the Toll signaling pathway.
+39363178	Models for malaria control optimization-a systematic review.
+39363173	Effect of an educational intervention based on health belief model on preventive behaviors against malaria in over 18-year-old Afghan immigrants living in Parsian.
 39361938	Addressing the Intracellular Vestibule of the Plasmodial Lactate Transporter PfFNT by p-Substituted Inhibitors Amplifies In Vitro Activity.
 39361926	Seropositivity of West Nile virus among acute febrile patients in Ilorin, Nigeria.
 39360798	Correction to "Improving the Immunogenicity and Protective Efficacy of a Whole-Killed Malaria Blood-Stage Vaccine by Chloroquine".
@@ -9994,6 +9997,3 @@
 35893774	Effects of Artemisinin on Escherichia coli-Induced Mastitis in Bovine Mammary Epithelial Cells and Mice.
 35893745	Copper (I)-Chloroquine Complexes: Interactions with DNA and Ferriprotoporphyrin, Inhibition of β-Hematin Formation and Relation to Antimalarial Activity.
 35893657	A PCR-RFLP Technique to Assess the Geographic Origin of Plasmodium falciparum Strains in Central America.
-35893653	Co-Infection with Plasmodium vivax and COVID-19 in Thailand.
-35893610	Alkaloid Composition and Biological Activities of the Amaryllidaceae Species Ismene amancaes (Ker Gawl.) Herb.
-35893540	Prevalence of pvmrp1 Polymorphisms and Its Contribution to Antimalarial Response.
