@@ -1,3 +1,5 @@
+39361938	Addressing the Intracellular Vestibule of the Plasmodial Lactate Transporter PfFNT by p-Substituted Inhibitors Amplifies In Vitro Activity.
+39361926	Seropositivity of West Nile virus among acute febrile patients in Ilorin, Nigeria.
 39360798	Correction to "Improving the Immunogenicity and Protective Efficacy of a Whole-Killed Malaria Blood-Stage Vaccine by Chloroquine".
 39360262	Diagnostics for detection and surveillance of priority epidemic-prone diseases in Africa: an assessment of testing capacity and laboratory strengthening needs.
 39359929	Triple planetary crisis: why healthcare professionals should care.
@@ -9995,5 +9997,3 @@
 35893653	Co-Infection with Plasmodium vivax and COVID-19 in Thailand.
 35893610	Alkaloid Composition and Biological Activities of the Amaryllidaceae Species Ismene amancaes (Ker Gawl.) Herb.
 35893540	Prevalence of pvmrp1 Polymorphisms and Its Contribution to Antimalarial Response.
-35892964	Targeting the Ubiquinol-Reduction (Q(i)) Site of the Mitochondrial Cytochrome bc(1) Complex for the Development of Next Generation Quinolone Antimalarials.
-35892529	Experimental Study on Primary Bird Co-Infection with Two Plasmodium relictum Lineages-pSGS1 and pGRW11.
