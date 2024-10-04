@@ -1,3 +1,10 @@
+39364258	A cross-sectional analysis identifies a low prevalence of Plasmodium ovale species  infections in symptomatic and asymptomatic individuals in Kilifi county, Kenya.
+39364186	Infectious and obstetric determinants of anemia among pregnant women in Southwest Ethiopia.
+39364005	Improved species assignments across the entire Anopheles genus using targeted sequencing.
+39363920	Genetic diversity, essential oil's chemical constituents of aromatic plant Mesosphaerum suaveolens (L.) Kuntze Syn. Hyptis suaveolens (L.) Poit. and its uses in crop protection: a review.
+39363836	Research on Tropical Medicine and Germ Theory in Colonial Hong Kong: Focusing on Malaria and Plague Prevention.
+39363366	Feeding habits and malaria parasite infection of Anopheles mosquitoes in selected agroecological areas of Northwestern Ethiopia.
+39363296	Safety and pharmacokinetic properties of a new formulation of parenteral artesunate in healthy Thai volunteers.
 39363238	Dihydroartemisinin suppresses the susceptibility of Anopheles stephensi to Plasmodium yoelii by activating the Toll signaling pathway.
 39363178	Models for malaria control optimization-a systematic review.
 39363173	Effect of an educational intervention based on health belief model on preventive behaviors against malaria in over 18-year-old Afghan immigrants living in Parsian.
@@ -4633,7 +4640,7 @@
 37745984	In Vitro Cercaricidal Activity, Acute Toxicity, and GC/MS Analysis of Some Selected Ghanaian Medicinal Plants.
 37745920	Overtreatment of malaria in the Nigerian healthcare setting: prescription practice, rationale and consequences.
 37745593	bistro: An R package for vector bloodmeal identification by short tandem repeat overlap.
-37745554	Pf MORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, Plasmodium falciparum.
+37745554	PfMORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, Plasmodium falciparum.
 37745516	A cluster-randomized trial of client and provider-directed financial interventions to align incentives with appropriate case management in retail medicine outlets: results of the TESTsmART Trial in western Kenya.
 37745508	Poly-basic peptides and polymers as new drug candidate against Plasmodium falciparum.
 37745488	A Plasmodium falciparum genetic cross reveals the contributions of pfcrt and plasmepsin II/III to piperaquine drug resistance.
@@ -9990,10 +9997,3 @@
 35895250	Characterizations of Larval Gut Bacteria of Anopheles subpictus Grassi (1899) and their Role in Mosquito Development in Hooghly, West Bengal, India.
 35895093	Non-Malaria Causes of Fever among under-5 Children with Negative Results for Malaria Rapid Diagnostic Test in South-Western Nigeria.
 35894649	Random Forest Model Predictions Afford Dual-Stage Antimalarial Agents.
-35894603	Adaptation to a Multiplex Bead Assay and Seroprevalence to Rift Valley Fever N Protein: Nampula Province, Mozambique, 2013-2014.
-35894055	Reply to Deora et al. Multiplexing for Plasmodium spp.? Think Again! Comment on "Bhowmick et al. Dry Post Wintertime Mass Surveillance Unearths a Huge Burden of P. vivax, and Mixed Infection with P. vivaxP. falciparum, a Threat to Malaria Elimination, in Dhalai, Tripura, India. Pathogens 2021, 10, 1259".
-35894047	Bendiocarb and Malathion Resistance in Two Major Malaria Vector Populations in Cameroon Is Associated with High Frequency of the G119S Mutation (Ace-1) and Overexpression of Detoxification Genes.
-35893823	An Optimal Control Model to Understand the Potential Impact of the New Vaccine and Transmission-Blocking Drugs for Malaria: A Case Study in Papua and West Papua, Indonesia.
-35893774	Effects of Artemisinin on Escherichia coli-Induced Mastitis in Bovine Mammary Epithelial Cells and Mice.
-35893745	Copper (I)-Chloroquine Complexes: Interactions with DNA and Ferriprotoporphyrin, Inhibition of β-Hematin Formation and Relation to Antimalarial Activity.
-35893657	A PCR-RFLP Technique to Assess the Geographic Origin of Plasmodium falciparum Strains in Central America.
