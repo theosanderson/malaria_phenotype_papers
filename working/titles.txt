@@ -1,3 +1,11 @@
+39367453	Human-to-Anopheles dirus mosquito transmission of the anthropozoonotic malaria parasite, Plasmodium knowlesi.
+39367414	High-resolution spatio-temporal risk mapping for malaria in Namibia: a comprehensive analysis.
+39367383	A compound analysis of medical device clinical trials registered in Africa on clinicaltrials.gov.
+39367378	Responding to fluctuations in public and community trust and health seeking behaviour during the COVID-19 pandemic: a qualitative study of national decision-makers' perspectives in Guinea and Sierra Leone.
+39367132	Towards next-generation treatment options to combat Plasmodium falciparum malaria.
+39366980	A subpellicular microtubule dynein transport machinery regulates ookinete morphogenesis for mosquito transmission of Plasmodium yoelii.
+39366854	Corrigendum to "Plasmodium yoelii: Contribution of oocysts melanization to natural refractoriness in Anopheles dirus" [Exp. Parasitol. 116 (2007) 433-439].
+39366706	The impact of increasing temperatures due to climate change on infectious diseases.
 39365782	Bio-efficacy of field aged novel class of long-lasting insecticidal nets, against pyrethroid-resistant malaria vectors in Tanzania: A series of experimental hut trials.
 39365219	Examining Vaccine Hesitancy Among Ghanaian Parents for the R21/Matrix-M Malaria Vaccine.
 39365066	Analogs of the anti-malaria drug mefloquine have broad-spectrum antifungal activity and are efficacious in a model of disseminated Candida auris infection.
@@ -110,7 +118,7 @@
 39327729	3-Benzylmenadiones and their Heteroaromatic Analogues Target the Apicoplast of Apicomplexa Parasites: Synthesis and Bioimaging Studies.
 39327613	Parasite clearance and protection from Plasmodium falciparum infection (PCPI): a three-arm, parallel, double-blinded, placebo-controlled, randomised trial of presumptive sulfadoxine-pyrimethamine versus sulfadoxine-pyrimethamine plus amodiaquine versus artesunate monotherapy among asymptomatic children 3-5 years of age in Cameroon.
 39327550	Parasite-enhanced immunotherapy: transforming the "cold" tumors to "hot" battlefields.
-39326490	Rational design of untranslated regions to enhance gene expression.
+39326490	Rational Design of Untranslated Regions to Enhance Gene Expression.
 39325977	Methodology of the joint malaria prevention recommendations of Switzerland, Germany, Belgium, and the Netherlands.
 39325875	A kalihinol analog disrupts apicoplast function and vesicular trafficking in P. falciparum malaria.
 39325838	Stable introduction of Wolbachia wPip into invasive Anopheles stephensi for potential malaria control.
@@ -9989,11 +9997,3 @@
 35895397	Modelling Insecticide Resistance of Malaria Vector Populations in Tanzania.
 35895392	Efforts to Develop Pfs25 Vaccines.
 35895391	The Virtues and Vices of Pfs230: From Vaccine Concept to Vaccine Candidate.
-35895390	Pfs47 as a Malaria Transmission-Blocking Vaccine Target.
-35895389	40 Years of Pfs48/45 Research as a Transmission-Blocking Vaccine Target of Plasmodium falciparum Malaria.
-35895387	Transmission-Blocking Vaccines: From Conceptualization to Realization.
-35895377	On Malaria Transmission and Transmission Blocking Immunity.
-35895370	Case Report: Cambodian National Malaria Surveillance Program Detection of Plasmodium knowlesi.
-35895359	Insights into Plasmodium vivax Asymptomatic Malaria Infections and Direct Skin-Feeding Assays to Assess Onward Malaria Transmission in the Amazon.
-35895353	Malaria Burden and Associated Risk Factors in an Area of Pyrethroid-Resistant Vectors in Southern Benin.
-35895341	Temporal Dynamics of Subclinical Malaria in Different Transmission Zones of Myanmar.
