@@ -1,3 +1,4 @@
+39365782	Bio-efficacy of field aged novel class of long-lasting insecticidal nets, against pyrethroid-resistant malaria vectors in Tanzania: A series of experimental hut trials.
 39365219	Examining Vaccine Hesitancy Among Ghanaian Parents for the R21/Matrix-M Malaria Vaccine.
 39365066	Analogs of the anti-malaria drug mefloquine have broad-spectrum antifungal activity and are efficacious in a model of disseminated Candida auris infection.
 39364258	A cross-sectional analysis identifies a low prevalence of Plasmodium ovale species  infections in symptomatic and asymptomatic individuals in Kilifi county, Kenya.
@@ -9996,4 +9997,3 @@
 35895359	Insights into Plasmodium vivax Asymptomatic Malaria Infections and Direct Skin-Feeding Assays to Assess Onward Malaria Transmission in the Amazon.
 35895353	Malaria Burden and Associated Risk Factors in an Area of Pyrethroid-Resistant Vectors in Southern Benin.
 35895341	Temporal Dynamics of Subclinical Malaria in Different Transmission Zones of Myanmar.
-35895250	Characterizations of Larval Gut Bacteria of Anopheles subpictus Grassi (1899) and their Role in Mosquito Development in Hooghly, West Bengal, India.
