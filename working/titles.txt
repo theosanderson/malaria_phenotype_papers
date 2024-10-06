@@ -1,11 +1,17 @@
+39366854	Corrigendum to "Plasmodium yoelii: Contribution of oocysts melanization to natural refractoriness in Anopheles dirus" [Exp. Parasitol. 116 (2007) 433-439].
+39366706	The impact of increasing temperatures due to climate change on infectious diseases.
+39369247	Differences in seasonal dynamics and pyrethroid resistance development among Anopheles Hyrcanus group species.
+39369041	Heterochromatin dynamics during the initial stages of sexual development in Plasmodium falciparum.
+39368573	Increased artemisinin production in Artemisia annua L. by co-overexpression of six key biosynthetic enzymes.
+39368041	Correction to: Drug‑induced ER stress leads to induction of programmed cell death pathways of the malaria parasite.
+39367982	From eradication to reemergence: the growing threat of malaria in Turkey.
+39367758	High frequency of artemisinin partial resistance mutations in the Great Lakes region revealed through rapid pooled deep sequencing.
 39367453	Human-to-Anopheles dirus mosquito transmission of the anthropozoonotic malaria parasite, Plasmodium knowlesi.
 39367414	High-resolution spatio-temporal risk mapping for malaria in Namibia: a comprehensive analysis.
 39367383	A compound analysis of medical device clinical trials registered in Africa on clinicaltrials.gov.
 39367378	Responding to fluctuations in public and community trust and health seeking behaviour during the COVID-19 pandemic: a qualitative study of national decision-makers' perspectives in Guinea and Sierra Leone.
 39367132	Towards next-generation treatment options to combat Plasmodium falciparum malaria.
 39366980	A subpellicular microtubule dynein transport machinery regulates ookinete morphogenesis for mosquito transmission of Plasmodium yoelii.
-39366854	Corrigendum to "Plasmodium yoelii: Contribution of oocysts melanization to natural refractoriness in Anopheles dirus" [Exp. Parasitol. 116 (2007) 433-439].
-39366706	The impact of increasing temperatures due to climate change on infectious diseases.
 39365782	Bio-efficacy of field aged novel class of long-lasting insecticidal nets, against pyrethroid-resistant malaria vectors in Tanzania: A series of experimental hut trials.
 39365219	Examining Vaccine Hesitancy Among Ghanaian Parents for the R21/Matrix-M Malaria Vaccine.
 39365066	Analogs of the anti-malaria drug mefloquine have broad-spectrum antifungal activity and are efficacious in a model of disseminated Candida auris infection.
@@ -9991,9 +9997,3 @@
 35895429	The Unmeasured Burden of Febrile, Respiratory, and Diarrheal Illnesses Identified Through Active Household Surveillance in a Low Malaria Transmission Setting in Southern Zambia.
 35895424	Impact of Agricultural Irrigation on Anemia in Western Kenya.
 35895423	Developing Molecular Surveillance Capacity for Asymptomatic and Drug-Resistant Malaria in a Resource-Limited Setting-Experiences and Lessons Learned.
-35895418	Performance of SARS-CoV-2 Antigens in a Multiplex Bead Assay for Integrated Serological Surveillance of Neglected Tropical and Other Diseases.
-35895407	Performance of Field's Stain Compared with Conventional Giemsa Stain for the Rapid Detection of Blood Microfilariae in Gabon.
-35895400	Trend Analysis of Travel Medicine Topics Presented at an International Tropical Medicine Conference.
-35895397	Modelling Insecticide Resistance of Malaria Vector Populations in Tanzania.
-35895392	Efforts to Develop Pfs25 Vaccines.
-35895391	The Virtues and Vices of Pfs230: From Vaccine Concept to Vaccine Candidate.
