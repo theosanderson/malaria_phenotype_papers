@@ -1,3 +1,6 @@
+39370241	Another decade of antimalarial drug discovery: New targets, tools and molecules.
+39370214	Extracellular vesicles release from protozoa parasite and animal model.
+39370204	Extracellular vesicles in malaria: Pathogenesis, diagnosis and therapy.
 39369247	Differences in seasonal dynamics and pyrethroid resistance development among Anopheles Hyrcanus group species.
 39369041	Heterochromatin dynamics during the initial stages of sexual development in Plasmodium falciparum.
 39368573	Increased artemisinin production in Artemisia annua L. by co-overexpression of six key biosynthetic enzymes.
@@ -9994,6 +9997,3 @@
 35895440	Evidence of likely autochthonous Chagas disease in the southwestern United States: A case series of Trypanosoma cruzi seropositive blood donors.
 35895436	Historical Malaria Epidemics on Previously Non-Endemic Indo-Pacific Islands.
 35895430	Low Prevalence of Deletions of the pfhrp2 and pfhrp3 Genes in Plasmodium falciparum Parasites in Freetown, Sierra Leone in 2015.
-35895429	The Unmeasured Burden of Febrile, Respiratory, and Diarrheal Illnesses Identified Through Active Household Surveillance in a Low Malaria Transmission Setting in Southern Zambia.
-35895424	Impact of Agricultural Irrigation on Anemia in Western Kenya.
-35895423	Developing Molecular Surveillance Capacity for Asymptomatic and Drug-Resistant Malaria in a Resource-Limited Setting-Experiences and Lessons Learned.
