@@ -1,3 +1,17 @@
+39373748	Determination of the role of miR-451a on Plasmodium falciparum red blood cell stages, oxidative stress, and proteomic profiling.
+39373634	Interchromosomal segmental duplication drives translocation and loss of P. falciparum histidine-rich protein 3.
+39373250	Accelerating the fight towards malaria elimination: bridging gaps to achieve health equity in India.
+39373249	Spatial analysis and mapping of malaria endemic-prone areas using environmental risk factors and spatial multi criteria decision analysis in the Northern Zone of Plateau State, Nigeria.
+39373229	Bridging the gaps: prioritizing research strategies for enhanced malaria control and elimination.
+39373225	Characterization of Anopheles mosquito breeding habitats for malaria vector control in Mazowe and Shamva districts, Zimbabwe.
+39373224	Intercalating compounds alongside DNA helicase Q1 Plasmodium falciparum 3D7: Assessments of the Pharmacokinetic Properties Prediction of ADME.
+39373161	Evaluation of the In2care Mosquito Station against Culex quinquefasciatus mosquitoes (Diptera: Culicidae) under semifield conditions.
+39372941	Bionomics and distribution of malaria vectors in Kisumu city, Western Kenya: Implications for urban malaria transmission.
+39372934	Rapid phenotypic and genotypic change in a laboratory schistosome population.
+39372923	Larval habitat diversity, physicochemical characterization and their effect on the density of larval malaria vectors in the city of Accra, Ghana.
+39372239	Understanding Mosquito Faunal Diversity: An Approach to Assess the Burden of Vector-Borne Diseases in Three Representative Topographies (Rural, Urban, and Peri-Urban) of Ganjam District in Odisha State, India.
+39371587	Prevalence and Association of Malaria With the Blood Group on Febrile Patients at Woldia Comprehensive Specialized Hospital, Northeast Ethiopia.
+39371026	Bi- and tricyclic diterpenoids: landmarks from a decade (2013-2023) in search of leads against infectious diseases.
 39370241	Another decade of antimalarial drug discovery: New targets, tools and molecules.
 39370214	Extracellular vesicles release from protozoa parasite and animal model.
 39370204	Extracellular vesicles in malaria: Pathogenesis, diagnosis and therapy.
@@ -3609,7 +3623,7 @@
 38107179	Naphthyl bearing 1,3,4-thiadiazoleacetamides targeting the parasitic folate pathway as anti-infectious agents: in silico, synthesis, and biological approach.
 38106223	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
 38106175	Translation inhibition efficacy does not determine the Plasmodium berghei liver stage antiplasmodial efficacy of protein synthesis inhibitors.
-38105992	Single cell transcriptional changes across the blood stages of artemisinin resistant K13 (580Y) Plasmodium falciparum upon dihydroartemisinin exposure.
+38105992	Single cell transcriptional changes across the blood stages of artemisinin resistant K13(580Y) Plasmodium falciparum upon dihydroartemisinin exposure.
 38105988	Temperature dependence of mosquitoes: comparing mechanistic and machine learning approaches.
 38105972	Detection of Duffy Blood Group Genotypes and Submicroscopic Plasmodium Infections Using Molecular Diagnostic Assays in Febrile Malaria Patients.
 38105461	Outpatient randomized controlled trials to reduce COVID-19 hospitalization: Systematic review and meta-analysis.
@@ -9983,17 +9997,3 @@
 35901295	Lessons learnt from UNAIDS virtual technical support to countries applying for funding from the Global Fund COVID-19 Response Mechanism.
 35900985	Genome-wide functional analysis reveals key roles for kinesins in the mammalian and mosquito stages of the malaria parasite life cycle.
 35900982	Malaria prevalence and risk factors among patients visiting Mizan Tepi University Teaching Hospital, Southwest Ethiopia.
-35900455	Caregivers' perception and determinants of delayed presentation of children with severe malaria in an emergency room in Benin City, Nigeria.
-35899811	Malaria Transmission Intensity Likely Modifies RTS, S/AS01 Efficacy Due to a Rebound Effect in Ghana, Malawi, and Gabon.
-35899047	Plasmodium 6-Cysteine Proteins: Functional Diversity, Transmission-Blocking Antibodies and Structural Scaffolds.
-35898514	Homeostasis Maintenance in Plasmodium-Infected Placentas: Is There a Role for Placental Autophagy During Malaria in Pregnancy?
-35897941	Regioselective Synthesis of 5- and 3-Hydroxy-N-Aryl-1H-Pyrazole-4-Carboxylates and Their Evaluation as Inhibitors of Plasmodium falciparum Dihydroorotate Dehydrogenase.
-35897268	The Seroprevalence and Hidden Burden of Chikungunya Endemicity and Malaria Mono- and Coinfection in Nigeria.
-35897103	MIS-C and co-infection with P. vivax and P. falciparum in a child: a clinical conundrum.
-35896992	Retrospective evaluation of referral by community health workers on the uptake of intermittent preventive treatment of Malaria in pregnancy in Ohaukwu, Ebonyi State, Nigeria.
-35895588	Surveillance as a Core Intervention to Strengthen Malaria Control Programs in Moderate to High Transmission Settings.
-35895587	Routine Healthcare Facility- and Antenatal Care-Based Malaria Surveillance: Challenges and Opportunities.
-35895583	Serologic and Cytokine Profiles of Children with Concurrent Cerebral Malaria and Severe Malarial Anemia Are Distinct from Other Subtypes of Severe Malaria.
-35895440	Evidence of likely autochthonous Chagas disease in the southwestern United States: A case series of Trypanosoma cruzi seropositive blood donors.
-35895436	Historical Malaria Epidemics on Previously Non-Endemic Indo-Pacific Islands.
-35895430	Low Prevalence of Deletions of the pfhrp2 and pfhrp3 Genes in Plasmodium falciparum Parasites in Freetown, Sierra Leone in 2015.
