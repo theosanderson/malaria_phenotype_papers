@@ -1,11 +1,11 @@
-39366854	Corrigendum to "Plasmodium yoelii: Contribution of oocysts melanization to natural refractoriness in Anopheles dirus" [Exp. Parasitol. 116 (2007) 433-439].
-39366706	The impact of increasing temperatures due to climate change on infectious diseases.
 39369247	Differences in seasonal dynamics and pyrethroid resistance development among Anopheles Hyrcanus group species.
 39369041	Heterochromatin dynamics during the initial stages of sexual development in Plasmodium falciparum.
 39368573	Increased artemisinin production in Artemisia annua L. by co-overexpression of six key biosynthetic enzymes.
 39368041	Correction to: Drug‑induced ER stress leads to induction of programmed cell death pathways of the malaria parasite.
 39367982	From eradication to reemergence: the growing threat of malaria in Turkey.
 39367758	High frequency of artemisinin partial resistance mutations in the Great Lakes region revealed through rapid pooled deep sequencing.
+39366854	Corrigendum to "Plasmodium yoelii: Contribution of oocysts melanization to natural refractoriness in Anopheles dirus" [Exp. Parasitol. 116 (2007) 433-439].
+39366706	The impact of increasing temperatures due to climate change on infectious diseases.
 39367453	Human-to-Anopheles dirus mosquito transmission of the anthropozoonotic malaria parasite, Plasmodium knowlesi.
 39367414	High-resolution spatio-temporal risk mapping for malaria in Namibia: a comprehensive analysis.
 39367383	A compound analysis of medical device clinical trials registered in Africa on clinicaltrials.gov.
