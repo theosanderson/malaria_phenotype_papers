@@ -1,3 +1,5 @@
+39374370	Reduced red blood cell deformability in vivax malaria.
+39374246	Quality of care and post-discharge morbidity among children diagnosed with severe malaria in rural Uganda: A prospective cohort study.
 39373748	Determination of the role of miR-451a on Plasmodium falciparum red blood cell stages, oxidative stress, and proteomic profiling.
 39373634	Interchromosomal segmental duplication drives translocation and loss of P. falciparum histidine-rich protein 3.
 39373250	Accelerating the fight towards malaria elimination: bridging gaps to achieve health equity in India.
@@ -1865,8 +1867,8 @@
 38713676	Comparative evaluation of the diagnostic accuracies of four different malaria rapid diagnostic test kits available in Ghana.
 38713648	Simplified molecular diagnosis of visceral leishmaniasis: Laboratory evaluation of miniature direct-on-blood PCR nucleic acid lateral flow immunoassay.
 38713306	Unresolved haemosporidia of the Australian skink, Egernia stokesii.
-38712726	Malaria and dengue outbreaks: a double health threat in southeastern Iran.
-38712708	Status of vector protection measures and awareness regarding vector borne diseases in families residing in a Nirmal Gram Puraskar village in India.
+38712726	Malaria and dengue outbreaks: A double health threat in southeastern Iran.
+38712708	Status of vector protection measures and awareness regarding vector borne diseases in families residing in a "Nirmal Gram Puraskar" village in India.
 38712295	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
 38712209	Multisensory integration in Anopheles mosquito swarms: The role of visual and acoustic information in mate tracking and collision avoidance.
 38712186	Day 3 parasitemia and Plasmodium falciparum Kelch 13 mutations among uncomplicated malaria patients treated with artemether-lumefantrine in Adjumani district, Uganda.
@@ -2100,10 +2102,10 @@
 38635664	Solution structure and pressure response of thioredoxin-1 of Plasmodium falciparum.
 38635576	Design of a novel intelligent computing framework for predictive solutions of malaria propagation model.
 38635267	Mosquito Bed Net Use and Burkitt Lymphoma Incidence in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.
-38634464	Antimalarial potential of Kerala Ayurvedic Water.
-38634456	A comparative study on vector competence of Anopheles stephensi from geographically distinct malarious and a non-malarious urban area to Plasmodium vivax.
+38634464	Antimalarial potential of Kerala Ayurvedic Water "Pathimugam".
+38634456	A comparative study on the vector competence of Anopheles stephensi from geographically distinct malarious and non-malarious urban areas in India to the malarial parasite, Plasmodium vivax.
 38634370	Social, behavioral and environmental determinants of vector-borne diseases: A narrative review of evidence and implications for integrated control approaches.
-38634366	Nanotechnology and malaria: Evaluation of efficacy and toxicity of green nanoparticles.
+38634366	Nanotechnology and malaria: Evaluation of efficacy and toxicity of green nanoparticles and future perspectives.
 38634315	Assessing global drivers of parasite diversity: host diversity and body mass boost avian haemosporidian diversity.
 38634071	SARS-CoV-2 variant typing using real-time reverse transcription-polymerase chain reaction-based assays in Addis Ababa, Ethiopia.
 38633782	Improved limit of detection for zoonotic Plasmodium knowlesi and P. cynomolgi surveillance using reverse transcription for total nucleic acid preserved samples or dried blood spots.
@@ -3102,8 +3104,8 @@
 38289473	Identifying Fast and Slow-Acting Antimalarial Compounds of Pandemic Response Box Against Blood-Stage Culture of Plasmodium falciparum 3D7.
 38289124	Transmission-reducing and -enhancing monoclonal antibodies against Plasmodium vivax gamete surface protein Pvs48/45.
 38287956	Modeling the effect of climatic conditions and topography on malaria incidence using Poisson regression: a Retrospective study in Bannu, Khyber Pakhtunkhwa, Pakistan.
-38287772	Malaria infection and associated household level risks in an urban and rural areas of West Bengal.
-38287768	Structural Exploration of the PfBLM Helicase-ATP Binding Domain and Its Implications in the Quest for Antimalarial Therapies.
+38287772	Malaria infection and associated household level risks in an urban and rural areas of West Bengal, India.
+38287768	Structural exploration of the PfBLM Helicase-ATP Binding Domain and implications in the quest for antimalarial therapies.
 38287455	Avian Plasmodium in invasive and native mosquitoes from southern Spain.
 38287419	Geospatial modelling of dry season habitats of the malaria vector, Anopheles funestus, in south-eastern Tanzania.
 38287365	Molecular surveillance of Kelch 13 polymorphisms in Plasmodium falciparum isolates from Kenya and Ethiopia.
@@ -9995,5 +9997,3 @@
 38875688	Transforming Rapid Diagnostic Tests for Precision Public Health: Open Guidelines for Manufacturers and Users.
 35902825	Spatiotemporal dynamics of malaria in Banmauk Township, Sagaing region of Northern Myanmar: characteristics, trends, and risk factors.
 35901295	Lessons learnt from UNAIDS virtual technical support to countries applying for funding from the Global Fund COVID-19 Response Mechanism.
-35900985	Genome-wide functional analysis reveals key roles for kinesins in the mammalian and mosquito stages of the malaria parasite life cycle.
-35900982	Malaria prevalence and risk factors among patients visiting Mizan Tepi University Teaching Hospital, Southwest Ethiopia.
