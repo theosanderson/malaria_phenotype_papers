@@ -1,3 +1,7 @@
+39376684	Sudden Onset of Coma and Fulminant Progression to Brain Death in a 48-Year-Old Male With Cerebral Malaria.
+39376595	Molecular diagnosis and genotyping of Orientia tsutsugamushi in Maesot and Chiangrai, Thailand.
+39376532	The sting in the tail of severe falciparum malaria: Post-artesunate delayed haemolysis.
+39376413	Audiological Profile of a Rare Case with 1 kHz Notch Audiogram.
 39375758	Causal Inference Over a Subpopulation: The Effect of Malaria Vaccine in Women During Pregnancy.
 39375756	CAM: a novel aid system to analyse the coloration quality of thick blood smears using image processing and machine learning techniques.
 39375740	The attrition, physical and insecticidal durability of two dual active ingredient nets (Interceptor® G2 and Royal Guard®) in Benin, West Africa: results from a durability study embedded in a cluster randomised controlled trial.
@@ -1606,7 +1610,7 @@
 38799187	HIV prevalence and associated factors among married women, Mozambique, 2015: analysis of the 2015 National AIDS Indicator Survey (IMASIDA).
 38798832	Effect of moringa extract on parasitemia, monocyte activation and organomegaly among Mus musculus infected by Plasmodium berghei ANKA.
 38798622	Circadian rhythms mediate malaria transmission potential.
-38798500	Placental Malaria Induces a Unique Placental Methylation Profile Associated with Fetal Growth Restriction.
+38798500	Placental Malaria Induces a Unique Methylation Profile Associated with Fetal Growth Restriction.
 38798484	Identification of a divalent metal transporter required for cellular iron metabolism in malaria parasites.
 38798379	Genomic Signatures of Microgeographic Adaptation in Anopheles coluzzii Along an Anthropogenic Gradient in Gabon.
 38798324	Phenotype and function of IL-10 producing NK cells in individuals with malaria experience.
@@ -9993,7 +9997,3 @@
 35906744	Substrate Peptidomimetic Inhibitors of P. falciparum Plasmepsin X with Potent Antimalarial Activity.
 35906670	Genomic sequence capture of Plasmodium relictum in experimentally infected birds.
 35906628	Methodological issues on evaluating agreement between two detection methods by Cohen's kappa analysis.
-35906600	Qualitative study on the use and maintenance of long-lasting insecticidal nets (LLINs) in Bouaké (Côte d'Ivoire), 17 months after the last mass distribution campaign.
-35906450	ICAM-1-binding Plasmodium falciparum erythrocyte membrane protein 1 variants elicits opsonic-phagocytosis IgG responses in Beninese children.
-35906227	Tryptophan C-mannosylation is critical for Plasmodium falciparum transmission.
-35905779	Monocyte epigenetics and innate immunity to malaria: yet another level of complexity?
