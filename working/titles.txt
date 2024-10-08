@@ -1,6 +1,6 @@
+39377893	Larvicidal activity, molecular docking, and molecular dynamics studies of 7-(trifluoromethyl)indolizine derivatives against Anopheles arabiensis.
+39377226	Identification of RTS,S/AS01 vaccine-induced humoral biomarkers predictive of protection against controlled human malaria infection.
 39376684	Sudden Onset of Coma and Fulminant Progression to Brain Death in a 48-Year-Old Male With Cerebral Malaria.
-39376595	Molecular diagnosis and genotyping of Orientia tsutsugamushi in Maesot and Chiangrai, Thailand.
-39376532	The sting in the tail of severe falciparum malaria: Post-artesunate delayed haemolysis.
 39376413	Audiological Profile of a Rare Case with 1 kHz Notch Audiogram.
 39375758	Causal Inference Over a Subpopulation: The Effect of Malaria Vaccine in Women During Pregnancy.
 39375756	CAM: a novel aid system to analyse the coloration quality of thick blood smears using image processing and machine learning techniques.
@@ -6309,6 +6309,7 @@
 37187685	Malaria as Potential Aetiology and Treatment Complicating Factor in DLBCL Patient: A Case Report.
 37187601	Socio-economic predictors of uptake of malaria interventions among pregnant women and mothers of under 5 children in Oyo State, Nigeria: a cross-sectional study.
 37187502	Thrombocytopenia a predictor of malaria: how far?
+39376595	Molecular diagnosis and genotyping of Orientia tsutsugamushi in Maesot and Chiangrai, Thailand.
 37186359	Immunisation used for offensive and defensive purposes during the Second World War.
 37186167	Impact of the microbiome on mosquito-borne diseases.
 37184269	Cerebral Malaria and Cytotoxic Lesions of the Corpus Callosum.
@@ -9996,4 +9997,3 @@
 35907831	Marked aggravation of pyrethroid resistance in major malaria vectors in Malawi between 2014 and 2021 is partly linked with increased expression of P450 alleles.
 35906744	Substrate Peptidomimetic Inhibitors of P. falciparum Plasmepsin X with Potent Antimalarial Activity.
 35906670	Genomic sequence capture of Plasmodium relictum in experimentally infected birds.
-35906628	Methodological issues on evaluating agreement between two detection methods by Cohen's kappa analysis.
