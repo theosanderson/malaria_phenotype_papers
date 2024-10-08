@@ -1,3 +1,11 @@
+39375758	Causal Inference Over a Subpopulation: The Effect of Malaria Vaccine in Women During Pregnancy.
+39375756	CAM: a novel aid system to analyse the coloration quality of thick blood smears using image processing and machine learning techniques.
+39375740	The attrition, physical and insecticidal durability of two dual active ingredient nets (Interceptor® G2 and Royal Guard®) in Benin, West Africa: results from a durability study embedded in a cluster randomised controlled trial.
+39375713	Adherence to referral advice and its associated factors among community drug distributors and caregiver during SMC implementation in nine states.
+39375659	Impact of COVID-19 lockdown measures on mother and child health - the case of Ghana.
+39375602	Seroprevalence and risk factors for Lassa virus infection in South-West and North-Central Nigeria: a community-based cross-sectional study.
+39374937	Discovery of Knock-Down Resistance in the Major African Malaria Vector Anopheles funestus.
+39374652	Pitfalls in generating robust malaria molecular evidence for SP-resistance.
 39374370	Reduced red blood cell deformability in vivax malaria.
 39374246	Quality of care and post-discharge morbidity among children diagnosed with severe malaria in rural Uganda: A prospective cohort study.
 39373748	Determination of the role of miR-451a on Plasmodium falciparum red blood cell stages, oxidative stress, and proteomic profiling.
@@ -9989,11 +9997,3 @@
 35906450	ICAM-1-binding Plasmodium falciparum erythrocyte membrane protein 1 variants elicits opsonic-phagocytosis IgG responses in Beninese children.
 35906227	Tryptophan C-mannosylation is critical for Plasmodium falciparum transmission.
 35905779	Monocyte epigenetics and innate immunity to malaria: yet another level of complexity?
-35905776	Type II DNA topoisomerases in trypanosomatid and apicomplexan parasites.
-35904886	The development of peripheral microvasculopathy with chronic metabolic disease in obese Zucker rats: a retrograde emergence?
-35904274	The impacts of donor transitions on health systems in middle-income countries: a scoping review.
-35904009	Plasmodium falciparum merozoite invasion ligands, linked antimalarial resistance loci and ex vivo responses to antimalarials in The Gambia.
-35903001	Malaria diagnosis in an emergency department before and after the COVID-19 pandemic: a retrospective study.
-38875688	Transforming Rapid Diagnostic Tests for Precision Public Health: Open Guidelines for Manufacturers and Users.
-35902825	Spatiotemporal dynamics of malaria in Banmauk Township, Sagaing region of Northern Myanmar: characteristics, trends, and risk factors.
-35901295	Lessons learnt from UNAIDS virtual technical support to countries applying for funding from the Global Fund COVID-19 Response Mechanism.
