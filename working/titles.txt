@@ -1,3 +1,6 @@
+39381722	Persistent depression in pregnant refugee and migrant women living along the Thai-Myanmar Border: a secondary qualitative analysis.
+39381646	Progressive heterogeneity of enlarged and irregularly shaped apicoplasts in Plasmodium falciparum persister blood stages after drug treatment.
+39380377	Identifying Genetically Inferred Effects Linking Posttraumatic Stress Disorder to Women's Health, Lipid Disorders, and Malaria Medications.
 39380029	In vivo efficacy of chloroquine plus primaquine combination therapy against uncomplicated Plasmodium vivax malaria in Limu Kossa District, Jimma Zone, Southwest Ethiopia.
 39379289	Exploring the Utility of Cell-Penetrating Peptides as Vehicles for the Delivery of Distinct Antimalarial Drug Cargoes.
 39378888	Multiple Organ Dysfunction Syndrome in Malawian Children with Cerebral Malaria.
@@ -9994,6 +9997,3 @@
 35914687	Private Sector Contributions to National Malaria Surveillance Systems in Elimination Settings: Lessons Learned from Cambodia, Lao PDR, Myanmar, and Vietnam.
 35914564	Delivery and effectiveness of entomopathogenic fungi for mosquito and tick control: Current knowledge and research challenges.
 35911674	Placental Malaria is Associated with Higher LILRB2 Expression in Monocyte Subsets and Lower Anti-Malarial IgG Antibodies During Infancy.
-35910822	Outcome of Adult Malarial Co-infections in Eastern India.
-35909975	Plasmodium vivax Duffy Binding Protein-Based Vaccine: a Distant Dream.
-35909971	Editorial: Cellular, molecular and immunological aspects in arboviruses infection.
