@@ -1,3 +1,7 @@
+39380029	In vivo efficacy of chloroquine plus primaquine combination therapy against uncomplicated Plasmodium vivax malaria in Limu Kossa District, Jimma Zone, Southwest Ethiopia.
+39379289	Exploring the Utility of Cell-Penetrating Peptides as Vehicles for the Delivery of Distinct Antimalarial Drug Cargoes.
+39378888	Multiple Organ Dysfunction Syndrome in Malawian Children with Cerebral Malaria.
+39378872	Operational Research to Support Rapid Evidence-Based Responses to Outbreaks: Learnings from COVID-19.
 39378411	Design and Antimalarial Evaluation of Polydopamine-Modified Methyl Artelinate Nanoparticles.
 39378344	Harmonizing Multisource Data to Inform Vector-Borne Disease Risk Management Strategies.
 39378318	Discovery of a Series of Macrocycles as Potent Inhibitors of Leishmania Infantum.
@@ -9993,7 +9997,3 @@
 35910822	Outcome of Adult Malarial Co-infections in Eastern India.
 35909975	Plasmodium vivax Duffy Binding Protein-Based Vaccine: a Distant Dream.
 35909971	Editorial: Cellular, molecular and immunological aspects in arboviruses infection.
-35909968	Potential Opportunities and Challenges of Deploying Next Generation Sequencing and CRISPR-Cas Systems to Support Diagnostics and Surveillance Towards Malaria Control and Elimination in Africa.
-35909628	MAPPINGS, a tool for network analysis of large phospho-signalling datasets: application to host erythrocyte response to Plasmodium infection.
-35908812	Classification of disease recurrence using transition likelihoods with expectation-maximization algorithm.
-35907857	Clinical performance testing of the automated haematology analyzer XN-31 prototype using whole blood samples from patients with imported malaria in Japan.
