@@ -1,3 +1,4 @@
+39382777	Correction: Performance evaluation of a combination Plasmodium dual-antigen CRP rapid diagnostic test in Lambaréné, Gabon.
 39381722	Persistent depression in pregnant refugee and migrant women living along the Thai-Myanmar Border: a secondary qualitative analysis.
 39381646	Progressive heterogeneity of enlarged and irregularly shaped apicoplasts in Plasmodium falciparum persister blood stages after drug treatment.
 39380377	Identifying Genetically Inferred Effects Linking Posttraumatic Stress Disorder to Women's Health, Lipid Disorders, and Malaria Medications.
@@ -9996,4 +9997,3 @@
 35914699	On the genetics of malaria parasites, a memoir: Part I, rodent malaria parasites and the first genetic crosses.
 35914687	Private Sector Contributions to National Malaria Surveillance Systems in Elimination Settings: Lessons Learned from Cambodia, Lao PDR, Myanmar, and Vietnam.
 35914564	Delivery and effectiveness of entomopathogenic fungi for mosquito and tick control: Current knowledge and research challenges.
-35911674	Placental Malaria is Associated with Higher LILRB2 Expression in Monocyte Subsets and Lower Anti-Malarial IgG Antibodies During Infancy.
