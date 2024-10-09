@@ -1,3 +1,6 @@
+39378411	Design and Antimalarial Evaluation of Polydopamine-Modified Methyl Artelinate Nanoparticles.
+39378344	Harmonizing Multisource Data to Inform Vector-Borne Disease Risk Management Strategies.
+39378318	Discovery of a Series of Macrocycles as Potent Inhibitors of Leishmania Infantum.
 39377893	Larvicidal activity, molecular docking, and molecular dynamics studies of 7-(trifluoromethyl)indolizine derivatives against Anopheles arabiensis.
 39377226	Identification of RTS,S/AS01 vaccine-induced humoral biomarkers predictive of protection against controlled human malaria infection.
 39376684	Sudden Onset of Coma and Fulminant Progression to Brain Death in a 48-Year-Old Male With Cerebral Malaria.
@@ -9994,6 +9997,3 @@
 35909628	MAPPINGS, a tool for network analysis of large phospho-signalling datasets: application to host erythrocyte response to Plasmodium infection.
 35908812	Classification of disease recurrence using transition likelihoods with expectation-maximization algorithm.
 35907857	Clinical performance testing of the automated haematology analyzer XN-31 prototype using whole blood samples from patients with imported malaria in Japan.
-35907831	Marked aggravation of pyrethroid resistance in major malaria vectors in Malawi between 2014 and 2021 is partly linked with increased expression of P450 alleles.
-35906744	Substrate Peptidomimetic Inhibitors of P. falciparum Plasmepsin X with Potent Antimalarial Activity.
-35906670	Genomic sequence capture of Plasmodium relictum in experimentally infected birds.
