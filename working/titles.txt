@@ -1,3 +1,5 @@
+39413119	Strengthening regulation for medical products in Tanzania: An assessment of regulatory capacity development, 1978-2020.
+39413107	Expanded roles of community health workers beyond malaria in the Asia-Pacific: A systematic review.
 39412522	A Plasmodium falciparum MORC protein complex modulates epigenetic control of gene expression through interaction with heterochromatin.
 39412402	A Divergent Synthesis of Numerous Pyrroloiminoquinone Alkaloids Identifies Promising Antiprotozoal Agents.
 39411992	Response to the comment on "Prevalence of malaria in Arusha Region in the northern Tanzania".
@@ -9995,5 +9997,3 @@
 35939523	A gene-based capture assay for surveying patterns of genetic diversity and insecticide resistance in a worldwide group of invasive mosquitoes.
 35939419	The prevalence of molecular markers of resistance to sulfadoxine-pyrimethamine among pregnant women at first antenatal clinic attendance and delivery in the forest-savannah area of Ghana.
 35939148	Untangling the actual infection status: detection of avian haemosporidian parasites of three Malagasy bird species using microscopy, multiplex PCR, and nested PCR methods.
-35938722	The Plasmodium falciparum Nuclear Protein Phosphatase NIF4 Is Required for Efficient Merozoite Invasion and Regulates Artemisinin Sensitivity.
-35938388	Diffraction contrast in cryo-scanning transmission electron tomography reveals the boundary of hemozoin crystals in situ.
