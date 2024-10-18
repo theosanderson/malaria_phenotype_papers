@@ -1,3 +1,4 @@
+39422781	Only incandescent light significantly decreases feeding of Anopheles funestus s.s. (Diptera: Culicidae) mosquitoes under laboratory conditions.
 39420728	Morphological Characterization of Culex Quinquefasciatus (Diptera: Culicidae) Pupae in the Eastern Province of Saudi Arabia.
 39420408	Recruitment of pregnant and breastfeeding women in pharmacokinetic studies: strategies, opportunities, barriers, and recommendations.
 39420395	A study on the effectiveness of (+)-usnic acid as oral toxic sugar bait against adult male and female Anopheles gambiae.
@@ -9996,4 +9997,3 @@
 35951221	Spatio-temporal Prediction of the Malaria Transmission Risk in Minab District (Hormozgan Province, Southern Iran).
 35950755	Highly Variable Expression of Merozoite Surface Protein MSPDBL2 in Diverse Plasmodium falciparum Clinical Isolates and Transcriptome Scans for Correlating Genes.
 35950586	Thalassemia in Sri Lanka.
-35950585	Thalassemia in Asia 2021 Overview of Thalassemia and Hemoglobinopathies in Bangladesh.
