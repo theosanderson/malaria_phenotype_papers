@@ -1,3 +1,17 @@
+39420395	A study on the effectiveness of (+)-usnic acid as oral toxic sugar bait against adult male and female Anopheles gambiae.
+39420377	Towards malaria elimination: a case-control study to assess associated factors to malaria relapses in the extra-Amazon Region of Brazil from 2008 to 2019.
+39420331	Adherence to sulfadoxine-pyrimethamine five-dose policy among pregnant women in an urban slum in Ghana: a mixed-methods study.
+39419965	The potential of gene drives in malaria vector species to control malaria in African environments.
+39419910	H(+)-translocating pyrophosphatases in protozoan parasites.
+39419714	Progress in malaria genomic surveillance using long-read sequencing.
+39419713	Unraveling the complexities of ApiAP2 regulation in Plasmodium falciparum.
+39419610	Characteristics and health insurance profile of brought-in-dead children in a rural tertiary hospital.
+39419185	Mechanisms and Implications of IgG4 Responses to SARS-CoV-2 and Other Repeatedly Administered Vaccines.
+39419055	Global health 2050: the path to halving premature death by mid-century.
+39419053	Investing in the future of global health.
+39418986	Intermittent preventive treatment for malaria in pregnancy and infant growth: a mediation analysis of a randomised trial.
+39418296	Prevalence and correlates of malaria and undernutrition among acutely febrile children visiting temporary malaria screening sites in war-torn areas of Northeast Ethiopia.
+39418278	Mpox: Neglect has led to a more dangerous virus now spreading across borders, harming and killing people. Leaders must take action to stop mpox now.
 39417120	Application of a new highly multiplexed amplicon sequencing tool to evaluate Plasmodium falciparum antimalarial resistance and relatedness in individual and pooled samples from Dschang, Cameroon.
 39417116	Low prevalence of soil transmitted helminth infection in Ugandan children hospitalized with severe malaria.
 39416389	Predicting mortality in febrile adults: comparative performance of the MEWS, qSOFA, and UVA scores using prospectively collected data among patients in four health-care sites in sub-Saharan Africa and South-Eastern Asia.
@@ -61,7 +75,7 @@
 39394596	Point-of-care biochemistry for primary healthcare in low-middle income countries: a qualitative inquiry.
 39394413	Development of intelligent suite for malaria pathogen detection in microscopy images.
 39394078	Asymptomatic malaria parasitaemia and virological non-suppression among children living with HIV in a low transmission area in Accra, Ghana: a cross-sectional study.
-39393476	Imported malaria cases by Plasmodium falciparum and Plasmodium vivax in Mexican territory: potential impact of the migration crisis.
+39393476	Imported malaria cases by Plasmodium falciparum and Plasmodium vivax in Mexican territory: Potential impact of the migration crisis.
 39393381	Malaria vector control in sub-Saharan Africa: complex trade-offs to combat the growing threat of insecticide resistance.
 39392834	Brazil towards malaria elimination: A time-series analysis of imported cases from 2007 to 2022.
 39392811	Malaria and dengue fever in febrile children entering healthcare facilities in Mwanza, Tanzania.
@@ -1651,6 +1665,7 @@
 38826416	Longitudinal associations of plasma amino acid levels with recovery from malarial coma.
 38826328	The major surface protein of malaria sporozoites is GPI-anchored to the plasma membrane.
 38825698	75 years' journey of malaria publications in English: what and where?
+38825566	Anti-Malarial and Multi-Bioactive Co (II), Cu (II) and Ni (II) Salen Complexes: Synthesis, Characterization and Computational Studies.
 38824975	Efficacy of Albizia malacophylla (A.Rich.) Walp. (Leguminosae) methanol (80%) leaf extract and solvent fractions against Plasmodium berghei-induced malaria in mice model.
 38824677	Artemisinin herbal combo breakers: navigating malaria treatment's double-edged sword.
 38824239	Mosquitocidal effect of ivermectin-treated nettings and sprayed walls on Anopheles gambiae s.s.
@@ -9982,18 +9997,3 @@
 35950585	Thalassemia in Asia 2021 Overview of Thalassemia and Hemoglobinopathies in Bangladesh.
 35950180	Community acceptance, satisfaction, and support for case management of malaria of various degrees in selected rural communities in Ibadan, Oyo-State.
 35948910	Molecular characterization and genotype distribution of thioester-containing protein 1 gene in Anopheles gambiae mosquitoes in western Kenya.
-35947958	Can helminth and malaria infections affect sex ratio at birth in sub-Saharan Africa? Ideas and hypothesis.
-35947849	Age-Dependent Effects of Copper Toxicity on Connective Tissue Structural Stability in Wistar Rats Skin.
-35947739	Ethanolic extract of Camellia sinensise licited hypoglycemic but lacked antimalarial properties in Plasmodium berghei-infected diabetic mice.
-35947737	Ethanolic extract of Salacia nitida root bark ameliorates lipid peroxidation and hepatosplenomegaly in Plasmodium berghei-malaria infected mice.
-35947628	Identification of a novel AP2 transcription factor in zygotes with an essential role in Plasmodium ookinete development.
-35947400	A recent update on new synthetic chiral compounds with antileishmanial activity.
-35946934	Modelling non-linear patterns of time-varying intervention effects on recurrent events in infectious disease prevention studies.
-35946633	Serological and Molecular Study of the Duffy Blood Group among Malarial Endemic Region Residents in Brazil.
-35946631	Prediction of malaria using deep learning models: A case study on city clusters in the state of Amazonas, Brazil, from 2003 to 2018.
-35945599	Attractive targeted sugar bait phase III trials in Kenya, Mali, and Zambia.
-35945154	A GPU-accelerated compute framework for pathogen genomic variant identification to aid genomic epidemiology of infectious disease: a malaria case study.
-35944694	Refolding and characterization of a diabody against Pfs25, a vaccine candidate of Plasmodium falciparum.
-35943271	Screening the Pathogen Box for Inhibition of Plasmodium falciparum Sporozoite Motility Reveals a Critical Role for Kinases in Transmission Stages.
-35942812	Intestinal Injury in Ugandan Children Hospitalized With Malaria.
-35942371	In Vivo Anti-Malarial Activity of the Aqueous Root Extract of Euclea divinorum Hiern (Ebenaceae) against Plasmodium berghei ANKA.
