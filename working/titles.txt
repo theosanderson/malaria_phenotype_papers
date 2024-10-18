@@ -1,3 +1,5 @@
+39420728	Morphological Characterization of Culex Quinquefasciatus (Diptera: Culicidae) Pupae in the Eastern Province of Saudi Arabia.
+39420408	Recruitment of pregnant and breastfeeding women in pharmacokinetic studies: strategies, opportunities, barriers, and recommendations.
 39420395	A study on the effectiveness of (+)-usnic acid as oral toxic sugar bait against adult male and female Anopheles gambiae.
 39420377	Towards malaria elimination: a case-control study to assess associated factors to malaria relapses in the extra-Amazon Region of Brazil from 2008 to 2019.
 39420331	Adherence to sulfadoxine-pyrimethamine five-dose policy among pregnant women in an urban slum in Ghana: a mixed-methods study.
@@ -9995,5 +9997,3 @@
 35950755	Highly Variable Expression of Merozoite Surface Protein MSPDBL2 in Diverse Plasmodium falciparum Clinical Isolates and Transcriptome Scans for Correlating Genes.
 35950586	Thalassemia in Sri Lanka.
 35950585	Thalassemia in Asia 2021 Overview of Thalassemia and Hemoglobinopathies in Bangladesh.
-35950180	Community acceptance, satisfaction, and support for case management of malaria of various degrees in selected rural communities in Ibadan, Oyo-State.
-35948910	Molecular characterization and genotype distribution of thioester-containing protein 1 gene in Anopheles gambiae mosquitoes in western Kenya.
