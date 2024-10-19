@@ -1,3 +1,16 @@
+39425665	Optimization of B-Ring-Functionalized Antimalarial Tambjamines and Prodiginines.
+39425186	Correction: Fast and robust single PCR for Plasmodium sporozoite detection in mosquitoes using the cytochrome oxidase I gene.
+39425178	Presence of Plasmodium falciparum strains with artemisinin-resistant K13 mutation C469Y in Busia County, Western Kenya.
+39425110	Chemoprevention of malaria with long-acting oral and injectable drugs: an updated target product profile.
+39425058	Impact of a large-scale fruit and vegetable irrigation scheme on the micro-epidemiology of malaria in southwest Ethiopia.
+39425050	Knowledge, attitudes, and practices regarding malaria transmission and prevention in an indigenous Maijuna community: a qualitative study in the Peruvian Amazon.
+39424860	A Plasmodium late liver stage arresting GAP provides superior protection in mice.
+39424574	Schistosome and malaria exposure and urban-rural differences in vaccine responses in Uganda: a causal mediation analysis using data from three linked randomised controlled trials.
+39424572	The effect of intermittent preventive treatment for malaria with dihydroartemisinin-piperaquine on vaccine-specific responses among schoolchildren in rural Uganda (POPVAC B): a double-blind, randomised controlled trial.
+39424569	Impact of the 100 days mission for vaccines on COVID-19: a mathematical modelling study.
+39424394	Evaluation of an electronic clinical decision support algorithm to improve primary care management of acute febrile illness in rural Cambodia: protocol for a cluster-randomised trial.
+39423838	Re-emergence of Oropouche virus between 2023 and 2024 in Brazil: an observational epidemiological study.
+39423490	Chemical synthesis and enzymatic late-stage diversification of novel pantothenate analogues with antiplasmodial activity.
 39423185	The economic cost of malaria in Brazil from the perspective of the public health system.
 39423091	MOIRE: A software package for the estimation of allele frequencies and effective multiplicity of infection from polyallelic data.
 39422781	Only incandescent light significantly decreases feeding of Anopheles funestus s.s. (Diptera: Culicidae) mosquitoes under laboratory conditions.
@@ -9984,16 +9997,3 @@
 35957519	Automated Recognition of Plasmodium falciparum Parasites from Portable Blood Levitation Imaging.
 35957124	Tunable Optimal Dual Band Metamaterial Absorber for High Sensitivity THz Refractive Index Sensing.
 35956882	Characterization, Antiplasmodial and Cytotoxic Activities of Green Synthesized Iron Oxide Nanoparticles Using Nephrolepis exaltata Aqueous Extract.
-35956879	Biochemical Evolution of a Potent Target of Mosquito Larvicide, 3-Hydroxykynurenine Transaminase.
-35954703	Low Interleukin-12 Levels concerning Severe Malaria: A Systematic Review and Meta-Analysis.
-35954518	Health Status of Afghan Refugees in Europe: Policy and Practice Implications for an Optimised Healthcare.
-35950163	Laboratory and experimental hut trial evaluation of VECTRON (™) T500 for indoor residual spraying (IRS) against insecticide resistant malaria vectors in Burkina Faso.
-38515900	Incidence of malarial infection and response to antimalarial drugs at Districts Lower Dir and Swat of Khyber Pakhtunkhwa, Pakistan.
-35952758	The nepenthesin insert in the Plasmodium falciparum aspartic protease plasmepsin V is necessary for enzyme function.
-35952683	Dihydroartemesinin and Curcumin Based Self-Microemulsifying Drug Delivery System for Antimalarial Activity.
-35952645	Adenosine sulfamates: Next generation of antimalarials.
-35951768	Comparative assessment of the human and animal health surveillance systems in Tanzania: Opportunities for an integrated one health surveillance platform.
-35951528	Spatiotemporal spread of Plasmodium falciparum mutations for resistance to sulfadoxine-pyrimethamine across Africa, 1990-2020.
-35951497	Risk factors for mortality among hospitalized COVID-19 patients in Northern Ethiopia: A retrospective analysis.
-35951222	Effect of α-Tocopheryloxy Acetic Acid on the Infection of Mice with Plasmodium berghei ANKA In Vivo and Humans with P. falciparum In Vitro.
-35951221	Spatio-temporal Prediction of the Malaria Transmission Risk in Minab District (Hormozgan Province, Southern Iran).
