@@ -1,3 +1,5 @@
+39423185	The economic cost of malaria in Brazil from the perspective of the public health system.
+39423091	MOIRE: A software package for the estimation of allele frequencies and effective multiplicity of infection from polyallelic data.
 39422781	Only incandescent light significantly decreases feeding of Anopheles funestus s.s. (Diptera: Culicidae) mosquitoes under laboratory conditions.
 39420728	Morphological Characterization of Culex Quinquefasciatus (Diptera: Culicidae) Pupae in the Eastern Province of Saudi Arabia.
 39420408	Recruitment of pregnant and breastfeeding women in pharmacokinetic studies: strategies, opportunities, barriers, and recommendations.
@@ -9995,5 +9997,3 @@
 35951497	Risk factors for mortality among hospitalized COVID-19 patients in Northern Ethiopia: A retrospective analysis.
 35951222	Effect of α-Tocopheryloxy Acetic Acid on the Infection of Mice with Plasmodium berghei ANKA In Vivo and Humans with P. falciparum In Vitro.
 35951221	Spatio-temporal Prediction of the Malaria Transmission Risk in Minab District (Hormozgan Province, Southern Iran).
-35950755	Highly Variable Expression of Merozoite Surface Protein MSPDBL2 in Diverse Plasmodium falciparum Clinical Isolates and Transcriptome Scans for Correlating Genes.
-35950586	Thalassemia in Sri Lanka.
