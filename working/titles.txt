@@ -1,3 +1,12 @@
+39427197	Role of cuproptosis in mediating the severity of experimental malaria-associated acute lung injury/acute respiratory distress syndrome.
+39427181	An observational analysis of the impact of deltamethrin + piperonyl butoxide insecticide-treated nets on malaria case incidence and entomological indicators in Ebonyi State, Nigeria, 2017-2021.
+39427159	Assessing the burden of submicroscopic Plasmodium infections in a pre-elimination malaria setting in sub-Saharan Africa, Guinea-Bissau.
+39427127	Unraveling Cordia myxa's anti-malarial potential: integrative insights from network pharmacology, molecular modeling, and machine learning.
+39426611	Unmasking Hidden Risks: A Case of Primaquine-Induced Intravascular Hemolysis in G-6-PD Deficient Malaria Patient.
+39426609	Epidemiologic trends and clinical outcomes of imported malaria in a tertiary care hospital, Bangkok, Thailand: A retrospective analysis (2013-2022).
+39426587	Characterization of two Plasmodium falciparum lipid transfer proteins of the Sec14/CRAL-TRIO family.
+39426430	Pyridine and Pyrimidine hybrids as privileged scaffolds in antimalarial drug discovery: A recent development.
+39426395	Genotyping methods to distinguish Plasmodium falciparum recrudescence from new infection for the assessment of antimalarial drug efficacy: an observational, single-centre, comparison study.
 39425665	Optimization of B-Ring-Functionalized Antimalarial Tambjamines and Prodiginines.
 39425186	Correction: Fast and robust single PCR for Plasmodium sporozoite detection in mosquitoes using the cytochrome oxidase I gene.
 39425178	Presence of Plasmodium falciparum strains with artemisinin-resistant K13 mutation C469Y in Busia County, Western Kenya.
@@ -9988,12 +9997,3 @@
 35960251	Complete Inhibition of Vertical Mosquito Landing through Topographical Surface Design.
 35960011	RNA-seq-based transcriptome analysis of the anti-inflammatory effect of artesunate in the early treatment of the mouse cerebral malaria model.
 35959456	Prevalence of Occupational Exposure to HIV and Factors Associated with Compliance with Post-Exposure Prophylaxis Among Health Workers of the Biyem-Assi, Buea, and Limbe Health Districts of Cameroon Maternal and Child Health and AIDS.
-35959375	Cerebral malaria induced by plasmodium falciparum: clinical features, pathogenesis, diagnosis, and treatment.
-35959316	Persistently high proportions of plasmodium-infected Anopheles funestus mosquitoes in two villages in the Kilombero valley, South-Eastern Tanzania.
-35959111	Magnitude of Coagulation Abnormalities and Associated Factors Among Patients with Heart Diseases at the University of Gondar Comprehensive Specialized Hospital.
-35958840	Adapting malaria clinical trials infrastructure to implement COVID-19 epidemiology studies: Response to a public health emergency amid safe continuation of a research enterprise.
-35958269	Assessment of intestinal and blood protozoan infections among pregnant women visiting ante-natal care at Tafo Hospital, Ghana.
-35958082	Pattern of infectious diseases among Khalwa (Quran boarding school) students in Khartoum State, Sudan.
-35957519	Automated Recognition of Plasmodium falciparum Parasites from Portable Blood Levitation Imaging.
-35957124	Tunable Optimal Dual Band Metamaterial Absorber for High Sensitivity THz Refractive Index Sensing.
-35956882	Characterization, Antiplasmodial and Cytotoxic Activities of Green Synthesized Iron Oxide Nanoparticles Using Nephrolepis exaltata Aqueous Extract.
