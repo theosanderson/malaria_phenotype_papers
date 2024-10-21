@@ -1,3 +1,14 @@
+39431768	Dissection of Mosquito Ovaries, Midgut, and Salivary Glands for Microbiome Analyses at the Organ Level.
+39431306	Serological and molecular analysis of Leishmania infection in a recent outbreak of visceral leishmaniasis in South Omo Zone, Ethiopia.
+39430599	India should invest in the expansion of genomic epidemiology for vector-borne diseases filariasis, malaria and visceral leishmaniasis that are targeted for elimination.
+39430453	Trend of RTS,S vaccine uptake in the malaria vaccine implementing programme (MVIP) pilot regions, Ghana; 2019-2022.
+39430446	Modelling the interrelationships between potential risk factors and childhood Co-morbidity of Malaria, Anaemia, and stunting in children less than five years in Burundi.
+39429730	Malaria vaccine - A solution to the endemic burden of malaria in the Democratic Republic of the Congo; a call for action.
+39429628	Chromosomal reference genome sequences for the malaria mosquito, Anopheles coustani, Laveran, 1900.
+39428850	Location and timing of infection drives a sex-bias in Haemoproteus prevalence in a hole-nesting bird.
+39428304	Microhaplotypes: the QR-code for Plasmodium vivax infection dynamics.
+39427789	Functionalization of cellulose nanocrystals with a potent antimalarial compound: Synthesis, characterization, and biological studies.
+39427695	A quantitative and systematic analysis of Anopheles stephensi bionomics and control approaches.
 39427197	Role of cuproptosis in mediating the severity of experimental malaria-associated acute lung injury/acute respiratory distress syndrome.
 39427181	An observational analysis of the impact of deltamethrin + piperonyl butoxide insecticide-treated nets on malaria case incidence and entomological indicators in Ebonyi State, Nigeria, 2017-2021.
 39427159	Assessing the burden of submicroscopic Plasmodium infections in a pre-elimination malaria setting in sub-Saharan Africa, Guinea-Bissau.
@@ -89,6 +100,7 @@
 39399671	Plasmodium SEY1 is a novel druggable target that contributes to imidazolopiperazine mechanism of action.
 39399651	Evaluation of bio-efficacy of field-aged novel long-lasting insecticidal nets (PBO, chlorfenapyr or pyriproxyfen combined with pyrethroid) against Anopheles gambiae (s.s.) in Tanzania.
 39399128	Triple burden of hepatitis B, hepatitis Delta viruses, and Plasmodium falciparum to pregnant women.
+39399026	Characterizing trachoma elimination using serology.
 39398144	Cinnamon and Eucalyptus Extracts: A Promising Natural Approach for Durable Mosquito-Repellent Fabrics with Multifunctionality.
 39397970	N-alkylation of amines for the synthesis of potential antiviral agents: A structural modification approach.
 39397937	In vitro antiplasmodium and antitrypanosomal activities, β-haematin formation inhibition, molecular docking and DFT computational studies of quinoline-urea-benzothiazole hybrids.
@@ -268,7 +280,7 @@
 39341498	Plasmodium berghei HMGB1 controls the host immune responses and splenic clearance by regulating the expression of pir genes.
 39341456	Feasibility of sand fly control based on knowledge of sensory ecology.
 39341268	New Malaria vaccine a boon to Endemic regions - Doubling efficacy rates, at lower cost.
-39341265	Aphrodisiac activities of aqueous extract of Anthonotha macrophylla (P. Beauv) leaves in paroxetine-induced sexual dysfunction male Wistar rats.
+39341265	Aphrodisiac activity of aqueous extract of Anthonotha macrophylla (P. Beauv) leaves in paroxetine-induced sexual dysfunction male Wistar rats.
 39341110	Red blood cell passage through deformable interendothelial slits in the spleen: Insights into splenic filtration and hemodynamics.
 39340709	Anti-glomerular basement membrane disease complicated by malaria during pregnancy with successful maternal and fetal outcomes: a case report.
 39340117	Correction: Cao et al. Effective Functional Immunogenicity of a DNA Vaccine Combination Delivered via In Vivo Electroporation Targeting Malaria Infection and Transmission. Vaccines 2022, 10, 1134.
@@ -9985,15 +9997,3 @@
 35961490	Provision of Travel Health Advice Through Local Tourist Handlers: Perspectives of Safari Tour Operators in Uganda.
 35961464	Functional inactivation of Plasmodium falciparum glycogen synthase kinase GSK3 modulates erythrocyte invasion and blocks gametocyte maturation.
 35961358	Defining elimination as a public health problem for schistosomiasis control programmes: beyond prevalence of heavy-intensity infections.
-35961356	Safety and immunogenicity of a typhoid conjugate vaccine among children aged 9 months to 12 years in Malawi: a nested substudy of a double-blind, randomised controlled trial.
-35961349	The COVID-19 pandemic and disruptions to essential health services in Kenya: a retrospective time-series analysis.
-35961343	Simple and structured model to build sequencing capacity in west Africa.
-35961203	Plasmodium falciparum sexual conversion rates can be affected by artemisinin-based treatment in naturally infected malaria patients.
-35960997	The first case of artemisinin treatment failure of Plasmodium falciparum imported to Oman from Tanzania.
-35960629	A Simple Method for Immunohistochemistry and Imaging of Mosquito Salivary Glands.
-35960626	Visualization of the Linear and Spatial Organization of Chromosomes in Mosquitoes.
-35960615	Performing Immunohistochemistry in Mosquito Salivary Glands.
-35960496	Unlikely bedfellows - Sickle cells with malaria parasites.
-35960251	Complete Inhibition of Vertical Mosquito Landing through Topographical Surface Design.
-35960011	RNA-seq-based transcriptome analysis of the anti-inflammatory effect of artesunate in the early treatment of the mouse cerebral malaria model.
-35959456	Prevalence of Occupational Exposure to HIV and Factors Associated with Compliance with Post-Exposure Prophylaxis Among Health Workers of the Biyem-Assi, Buea, and Limbe Health Districts of Cameroon Maternal and Child Health and AIDS.
