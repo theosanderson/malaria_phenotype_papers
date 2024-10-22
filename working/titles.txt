@@ -1,3 +1,6 @@
+39435184	The RNA m(5)C methyltransferase NSUN1 modulates human malaria gene expression during intraerythrocytic development.
+39434900	Empowering rural communities for effective larval source management: A small-scale field evaluation of a community-led larviciding approach to control malaria in south-eastern Tanzania.
+39434589	Pre-training strategy for antiviral drug screening with low-data graph neural network: A case study in HIV-1 K103N reverse transcriptase.
 39434143	Usability of a digital tool to support long-lasting insecticide net distribution in Northern Bahr el Ghazal State, South Sudan.
 39433939	Advanced technologies for the development of infectious disease vaccines.
 39433400	Inpatient and postdischarge mortality among children with anaemia and malaria parasitaemia in Kenya: a cohort study.
@@ -9994,6 +9997,3 @@
 35964382	Surveillance of Zika and Dengue viruses in field-collected Aedes aegypti mosquitoes from different states of India.
 35963590	Evaluation of various distance computation methods for construction of haplotype-based phylogenies from large MLST datasets.
 35963275	Safety, tolerability, and Plasmodium falciparum transmission-reducing activity of monoclonal antibody TB31F: a single-centre, open-label, first-in-human, dose-escalation, phase 1 trial in healthy malaria-naive adults.
-35963273	Monoclonal antibodies for reducing malaria transmission.
-35962785	Impact of Chemoprophylaxis on Plasmodium vivax and Plasmodium ovale Infection Among Civilian Travelers: A Nested Case-Control Study With a Counterfactual Approach on 862 Patients.
-35962444	Nanoemulsion and nanogel containing Artemisia dracunculus essential oil; larvicidal effect and antibacterial activity.
