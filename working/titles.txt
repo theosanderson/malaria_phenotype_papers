@@ -1,3 +1,5 @@
+39432796	Ecological change increases malaria risk in the Brazilian Amazon.
+39432506	Landscape and meteorological determinants of malaria vectors' presence and abundance in the rural health district of Korhogo, Côte d'Ivoire, 2016-2018, and comparison with the less anthropized area of Diébougou, Burkina Faso.
 39431768	Dissection of Mosquito Ovaries, Midgut, and Salivary Glands for Microbiome Analyses at the Organ Level.
 39431306	Serological and molecular analysis of Leishmania infection in a recent outbreak of visceral leishmaniasis in South Omo Zone, Ethiopia.
 39430599	India should invest in the expansion of genomic epidemiology for vector-borne diseases filariasis, malaria and visceral leishmaniasis that are targeted for elimination.
@@ -9995,5 +9997,3 @@
 35962265	Forecasting the Potential Effects of Climate Change on Malaria in the Lake Victoria Basin Using Regionalized Climate Projections.
 35961802	An efficient model of residual based convolutional neural network with Bayesian optimization for the classification of malarial cell images.
 35961490	Provision of Travel Health Advice Through Local Tourist Handlers: Perspectives of Safari Tour Operators in Uganda.
-35961464	Functional inactivation of Plasmodium falciparum glycogen synthase kinase GSK3 modulates erythrocyte invasion and blocks gametocyte maturation.
-35961358	Defining elimination as a public health problem for schistosomiasis control programmes: beyond prevalence of heavy-intensity infections.
