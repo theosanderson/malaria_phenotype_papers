@@ -1,3 +1,4 @@
+39436072	Enhanced cell stress response and protein degradation capacity underlie artemisinin resistance in Plasmodium falciparum.
 39435184	The RNA m(5)C methyltransferase NSUN1 modulates human malaria gene expression during intraerythrocytic development.
 39434900	Empowering rural communities for effective larval source management: A small-scale field evaluation of a community-led larviciding approach to control malaria in south-eastern Tanzania.
 39434589	Pre-training strategy for antiviral drug screening with low-data graph neural network: A case study in HIV-1 K103N reverse transcriptase.
@@ -9996,4 +9997,3 @@
 35966861	Evolution of red blood cell membrane complement regulatory proteins and rheology in septic patients: An exploratory study.
 35964382	Surveillance of Zika and Dengue viruses in field-collected Aedes aegypti mosquitoes from different states of India.
 35963590	Evaluation of various distance computation methods for construction of haplotype-based phylogenies from large MLST datasets.
-35963275	Safety, tolerability, and Plasmodium falciparum transmission-reducing activity of monoclonal antibody TB31F: a single-centre, open-label, first-in-human, dose-escalation, phase 1 trial in healthy malaria-naive adults.
