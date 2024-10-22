@@ -1,3 +1,6 @@
+39434143	Usability of a digital tool to support long-lasting insecticide net distribution in Northern Bahr el Ghazal State, South Sudan.
+39433939	Advanced technologies for the development of infectious disease vaccines.
+39433400	Inpatient and postdischarge mortality among children with anaemia and malaria parasitaemia in Kenya: a cohort study.
 39432796	Ecological change increases malaria risk in the Brazilian Amazon.
 39432506	Landscape and meteorological determinants of malaria vectors' presence and abundance in the rural health district of Korhogo, Côte d'Ivoire, 2016-2018, and comparison with the less anthropized area of Diébougou, Burkina Faso.
 39431768	Dissection of Mosquito Ovaries, Midgut, and Salivary Glands for Microbiome Analyses at the Organ Level.
@@ -9994,6 +9997,3 @@
 35963273	Monoclonal antibodies for reducing malaria transmission.
 35962785	Impact of Chemoprophylaxis on Plasmodium vivax and Plasmodium ovale Infection Among Civilian Travelers: A Nested Case-Control Study With a Counterfactual Approach on 862 Patients.
 35962444	Nanoemulsion and nanogel containing Artemisia dracunculus essential oil; larvicidal effect and antibacterial activity.
-35962265	Forecasting the Potential Effects of Climate Change on Malaria in the Lake Victoria Basin Using Regionalized Climate Projections.
-35961802	An efficient model of residual based convolutional neural network with Bayesian optimization for the classification of malarial cell images.
-35961490	Provision of Travel Health Advice Through Local Tourist Handlers: Perspectives of Safari Tour Operators in Uganda.
