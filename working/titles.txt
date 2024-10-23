@@ -1,3 +1,4 @@
+39441622	Terminalia ivorensis demonstrates antioxidant properties and alters proliferation, genomic instability and migration of human colon cancer cells in vitro.
 39440556	Current trends to design antimalarial drugs targeting N-myristoyltransferase.
 39440516	An Uncommon Case of Plasmodium vivax Malaria with Disseminated Intravascular Coagulation: Rare Case Report with Review of Literature.
 39440419	A bHLH transcription factor AaMYC2-type positively regulates glandular trichome density and artemisinin biosynthesis in Artemisia annua.
@@ -9996,4 +9997,3 @@
 35972051	Hands-on training in structural biology, a tool for sustainable development in Africa series 4.
 35971375	Atypical Presentation of Babesiosis With Neurological Manifestations as Well as Hematological Manifestations.
 35971118	Field performance of Plasmodium falciparum lactate dehydrogenase rapid diagnostic tests during a large histidine-rich protein 2 deletion survey in Ethiopia.
-35970895	Author Correction: A human monoclonal antibody blocks malaria transmission and defines a highly conserved neutralizing epitope on gametes.
