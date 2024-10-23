@@ -1,3 +1,7 @@
+39440556	Current trends to design antimalarial drugs targeting N-myristoyltransferase.
+39440516	An Uncommon Case of Plasmodium vivax Malaria with Disseminated Intravascular Coagulation: Rare Case Report with Review of Literature.
+39440419	A bHLH transcription factor AaMYC2-type positively regulates glandular trichome density and artemisinin biosynthesis in Artemisia annua.
+39439428	The Effect of Malaria on Responses to Unrelated Vaccines in Animals and Humans: A Systematic Review and Meta-Analysis.
 39438620	Hemozoin induces malaria via activation of DNA damage, p38 MAPK and neurodegenerative pathways in a human iPSC-derived neuronal model of cerebral malaria.
 39438398	Of rats and children: plague, malaria, and the early history of disease reservoirs (1898-1930).
 39438071	A century of medical records reveal earlier onset of the malaria season in Haut-Katanga induced by climate change.
@@ -9993,7 +9997,3 @@
 35971375	Atypical Presentation of Babesiosis With Neurological Manifestations as Well as Hematological Manifestations.
 35971118	Field performance of Plasmodium falciparum lactate dehydrogenase rapid diagnostic tests during a large histidine-rich protein 2 deletion survey in Ethiopia.
 35970895	Author Correction: A human monoclonal antibody blocks malaria transmission and defines a highly conserved neutralizing epitope on gametes.
-35970557	Basophil Depletion Alters Host Immunity, Intestinal Permeability, and Mammalian Host-to-Mosquito Transmission in Malaria.
-35970289	Two-Stage Detection of Plasmodium spp. by Combination of Recombinase Polymerase Amplification and Loop-Mediated Isothermal Amplification Assay.
-35970285	An Assessment of a Rapid SARS-CoV-2 Antigen Test in Bangladesh.
-35970284	Secondary Effects from Mass Azithromycin Administration: A Systematic Review and Meta-analysis.
