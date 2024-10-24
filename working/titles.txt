@@ -1,3 +1,7 @@
+39445826	The Plasmodium falciparum histone methyltransferase PfSET10 is dispensable for the regulation of antigenic variation and gene expression in blood-stage parasites.
+39445823	The Plasmodium falciparum histone methyltransferase SET10 participates in a chromatin modulation network crucial for intraerythrocytic development.
+39444123	[Epidemiological characteristics of imported malaria after malaria elimination in Shanxi Province, 2019-2023].
+39443969	The efficacy of attractive targeted sugar baits in reducing malaria vector abundance in low-endemicity settings of northwest Mali.
 39442869	On the necessity of accounting for age structure in human malaria transmission modelling.
 39441986	Targeting PfCLK3 with Covalent Inhibitors: A Novel Strategy for Malaria Treatment.
 39441862	A novel broad-spectrum antibacterial and anti-malarial Anopheles gambiae Cecropin promotes microbial clearance during pupation.
@@ -9993,7 +9997,3 @@
 35976094	High incidence of malaria in patients with sickle cell disease.
 35975378	Clinical predictors of circulatory failure and coexisting morbidities in children seen in an emergency room in Southern Nigeria.
 35974410	Vectorial capacities for malaria in eastern Amazonian Brazil depend on village, vector species, season, and parasite species.
-35974350	Antimalarial activity of solvent fractions of a leaf of Eucalyptus globulus labill against Plasmodium berghei infected mice.
-35974073	High-throughput barcoding method for the genetic surveillance of insecticide resistance and species identification in Anopheles gambiae complex malaria vectors.
-35973958	Historical gold mining infectious disease epidemics.
-35972967	Identification of basal complex protein that is essential for maturation of transmission-stage malaria parasites.
