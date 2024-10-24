@@ -1,3 +1,5 @@
+39441986	Targeting PfCLK3 with Covalent Inhibitors: A Novel Strategy for Malaria Treatment.
+39441862	A novel broad-spectrum antibacterial and anti-malarial Anopheles gambiae Cecropin promotes microbial clearance during pupation.
 39441622	Terminalia ivorensis demonstrates antioxidant properties and alters proliferation, genomic instability and migration of human colon cancer cells in vitro.
 39440556	Current trends to design antimalarial drugs targeting N-myristoyltransferase.
 39440516	An Uncommon Case of Plasmodium vivax Malaria with Disseminated Intravascular Coagulation: Rare Case Report with Review of Literature.
@@ -303,6 +305,7 @@
 39341268	New Malaria vaccine a boon to Endemic regions - Doubling efficacy rates, at lower cost.
 39341265	Aphrodisiac activity of aqueous extract of Anthonotha macrophylla (P. Beauv) leaves in paroxetine-induced sexual dysfunction male Wistar rats.
 39341110	Red blood cell passage through deformable interendothelial slits in the spleen: Insights into splenic filtration and hemodynamics.
+39441945	Tinospora.
 39340709	Anti-glomerular basement membrane disease complicated by malaria during pregnancy with successful maternal and fetal outcomes: a case report.
 39340117	Correction: Cao et al. Effective Functional Immunogenicity of a DNA Vaccine Combination Delivered via In Vivo Electroporation Targeting Malaria Infection and Transmission. Vaccines 2022, 10, 1134.
 39339162	Pharmacokinetic Models of Tafenoquine: Insights for Optimal Malaria Treatment Strategies.
@@ -9994,6 +9997,3 @@
 35973958	Historical gold mining infectious disease epidemics.
 35972967	Identification of basal complex protein that is essential for maturation of transmission-stage malaria parasites.
 35972144	Barcoding Genetically Distinct Plasmodium falciparum Strains for Comparative Assessment of Fitness and Antimalarial Drug Resistance.
-35972051	Hands-on training in structural biology, a tool for sustainable development in Africa series 4.
-35971375	Atypical Presentation of Babesiosis With Neurological Manifestations as Well as Hematological Manifestations.
-35971118	Field performance of Plasmodium falciparum lactate dehydrogenase rapid diagnostic tests during a large histidine-rich protein 2 deletion survey in Ethiopia.
