@@ -1,3 +1,6 @@
+39448552	Power, data and social accountability: defining a community-led monitoring model for strengthened health service delivery.
+39448193	Plasmodium proteases and their role in development of Malaria vaccines.
+39448191	Advances in protease inhibition-based chemotherapy: A decade of insights from Malaria research.
 39447003	CpG-adjuvanted virus-like particle vaccine induces protective immunity against Leishmania donovani infection.
 39446698	Development and longevity of naturally acquired antibody and memory B cell responses against Plasmodium vivax infection.
 39446670	Locally Acquired (Autochthonous) Mosquito-Transmitted Plasmodium vivax Malaria - Saline County, Arkansas, September 2023.
@@ -88,7 +91,7 @@
 39415124	Activity-based contracting for optimization of the mass distribution of insecticide-treated nets in the Democratic Republic of Congo: pilot implementation in Kwilu province.
 39414909	Evolution of Pfdhps and Pfdhfr mutations before and after adopting seasonal malaria chemoprevention in Nanoro, Burkina Faso.
 39413969	Anti-malarial evaluation of selected medicinal plants traditionally used for treatment of fever, by inhibition test of heme polymerization.
-39413897	Frequency of Chloroquine-resistant Haplotype of Plasmodium falciparum (CVIET) in Ibadan, Southwest Nigeria 17 Years Post-Chloroquine Withdrawal.
+39413897	Frequency of chloroquine-resistant haplotype of Plasmodium falciparum (CVIET) in Ibadan, Southwest Nigeria 17 years post-chloroquine withdrawal.
 39413119	Strengthening regulation for medical products in Tanzania: An assessment of regulatory capacity development, 1978-2020.
 39413107	Expanded roles of community health workers beyond malaria in the Asia-Pacific: A systematic review.
 39412522	A Plasmodium falciparum MORC protein complex modulates epigenetic control of gene expression through interaction with heterochromatin.
@@ -9994,6 +9997,3 @@
 35977542	Vaccination with a structure-based stabilized version of malarial antigen Pfs48/45 elicits ultra-potent transmission-blocking antibody responses.
 35976948	Quantitative Trait Locus Determining the Time of Blood Feeding in Culex pipiens (Diptera: Culicidae).
 35976559	Risk of hemolysis in Plasmodium vivax malaria patients receiving standard primaquine treatment in a population with high prevalence of G6PD deficiency.
-35976542	Bayesian Geostatistical Modeling to Assess Malaria Seasonality and Monthly Incidence Risk in Eswatini.
-35976333	Clustered Regularly Interspaced Short Palindromic Repeats/ CRISPR associated protein 9-mediated editing of Schistosoma mansoni genes: Identifying genes for immunologically potent drug and vaccine development.
-35976251	Temporal and thermal profiling of the Toxoplasma proteome implicates parasite Protein Phosphatase 1 in the regulation of Ca(2+)-responsive pathways.
