@@ -1,3 +1,12 @@
+39450553	An Expression Quantitative Trait Locus of Fc Gamma Receptor Genes is Associated with Anti-Malarial IgG Responses and Infection Levels in Burkinabe Families.
+39450524	Current or recent malaria infection is associated with elevated inflammation-adjusted ferritin concentrations in pre-school children: a secondary analysis of the BRINDA database.
+39450309	A histomorphometric study to evaluate the therapeutic effects of biosynthesized silver nanoparticles on the kidneys infected with Plasmodium chabaudi.
+39450180	Exploring the naturally acquired response to Pvs47 gametocyte antigen.
+39449682	Elevated levels of PDGF-BB and VEGF are associated with a decreased risk of readmission or death in children with severe malarial anemia.
+39449652	Role of C-C chemokine receptor type 5 in pathogenesis of malaria and its severe forms.
+39448997	The predictive capacity of biomarkers for clinical pulmonary oedema in patients with severe falciparum malaria is low: a prospective observational study.
+39448894	Exploring the longitudinal expression dynamics of midguts in adult female Amblyomma americanum ticks.
+39448626	Vaccine-induced human monoclonal antibodies to PfRH5 show broadly neutralizing activity against P. falciparum clinical isolates.
 39448552	Power, data and social accountability: defining a community-led monitoring model for strengthened health service delivery.
 39448193	Plasmodium proteases and their role in development of Malaria vaccines.
 39448191	Advances in protease inhibition-based chemotherapy: A decade of insights from Malaria research.
@@ -9988,12 +9997,3 @@
 35980472	Molecular assays for determining sulphadoxine-pyrimethamine drug resistance in India: a systematic review.
 35979713	Asymptomatic and low-density Plasmodium infections in India: an unexplored link.
 35979553	A long-term field study on mosquito vectors of avian malaria parasites in Japan.
-35979515	Larval Anopheles Species Composition and Diversity at Different Habitats and Seasons of Gondar Zuria District, Ethiopia.
-35979365	Vaccine adjuvants to engage the cross-presentation pathway.
-35978699	Innovation Experiences from Africa-Led Drug Discovery at the Holistic Drug Discovery and Development (H3D) Centre.
-35978509	Unwelcome prevalence of leishmaniasis with several other infectious diseases.
-35978401	Examining enablers of vaccine hesitancy toward routine childhood and adolescent vaccination in Malawi.
-35978047	Mathematical Modeling to Guide Experimental Design: T Cell Clustering as a Case Study.
-35977542	Vaccination with a structure-based stabilized version of malarial antigen Pfs48/45 elicits ultra-potent transmission-blocking antibody responses.
-35976948	Quantitative Trait Locus Determining the Time of Blood Feeding in Culex pipiens (Diptera: Culicidae).
-35976559	Risk of hemolysis in Plasmodium vivax malaria patients receiving standard primaquine treatment in a population with high prevalence of G6PD deficiency.
