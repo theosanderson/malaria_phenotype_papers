@@ -1,3 +1,18 @@
+39453278	Host Preferences and Impact of Climate on Blood Feeding in Anopheles funestus Group from South Africa.
+39453276	The Effect of Larval Exposure to Heavy Metals on the Gut Microbiota Composition of Adult Anopheles arabiensis (Diptera: Culicidae).
+39453263	Community Engagement and Collaboration between Researchers and Community Stakeholders for Schistosomiasis and Malaria Projects in Ingwavuma, uMkhanyakude District, KwaZulu-Natal.
+39453262	Epidemiology, Detection and Treatment of Malaria.
+39453258	A Five-Year Malaria Prevalence/Frequency in Makenene in a Forest-Savannah Transition Ecozone of Central Cameroon: The Results of a Retrospective Study.
+39453257	The Spectrum of Pathogens Associated with Infections in African Children with Severe Acute Malnutrition: A Scoping Review.
+39452754	Force of Infection (FOI) and Multiplicity of Infection (MOI) in Plasmodium falciparum Infected Children Aged 1.5-12 Years Living in the Malaria Endemic Area of Banfora, Burkina Faso.
+39452748	Administration of rIL-33 Restores Altered mDC/pDC Ratio, MDSC Frequency, and Th-17/Treg Ratio during Experimental Cerebral Malaria.
+39452740	Transcriptomic and Proteomic Insights into Host Immune Responses in Pediatric Severe Malarial Anemia: Dysregulation in HSP60-70-TLR2/4 Signaling and Altered Glutamine Metabolism.
+39452723	Acute Kidney Injury and Post-Artesunate Delayed Haemolysis in the Course of Plasmodium falciparum Malaria.
+39452722	Computational Workflow to Design Novel Vaccine Candidates and Small-Molecule Therapeutics for Schistosomiasis.
+39452575	Correction: Rojas-Peña et al. Individualized Transcriptional Resolution of Complicated Malaria in a Colombian Study. J. Pers. Med. 2018, 8, 29.
+39451197	The Role of Soluble CD163 (sCD163) in Human Physiology and Pathophysiology.
+39451051	'Show me the money': An analysis of US global health funding from 1995 to 2019.
+39450984	Travel to malaria-endemic areas: using digital geo-location to assess potential exposure risks and health behaviours.
 39450553	An Expression Quantitative Trait Locus of Fc Gamma Receptor Genes is Associated with Anti-Malarial IgG Responses and Infection Levels in Burkinabe Families.
 39450524	Current or recent malaria infection is associated with elevated inflammation-adjusted ferritin concentrations in pre-school children: a secondary analysis of the BRINDA database.
 39450309	A histomorphometric study to evaluate the therapeutic effects of biosynthesized silver nanoparticles on the kidneys infected with Plasmodium chabaudi.
@@ -9982,18 +9997,3 @@
 35987649	Household costs associated with seeking malaria treatment during pregnancy: evidence from Burkina Faso and The Gambia.
 35987638	Assessing the relationship between gravidity and placental malaria among pregnant women in a high transmission area in Ghana.
 35987625	Costs of treating childhood malaria, diarrhoea and pneumonia in rural Mozambique and Uganda.
-35986064	Influence of various temperatures, seed priming treatments and durations on germination and growth of the medicinal plant Aspilia africana.
-35985797	The Basophil IL-18 Receptor Precisely Regulates the Host Immune Response and Malaria-Induced Intestinal Permeability and Alters Parasite Transmission to Mosquitoes without Effect on Gametocytemia.
-35985533	Prevalence, anti-malarial chemoprophylaxis and causes of deaths for severe imported malaria: A systematic review and meta-analysis.
-35985254	New structural classes of antimalarials.
-35984853	The magnitude of anemia and preventive practices in mothers with children under five years of age in Dodi Papase, Volta region of Ghana.
-35984838	Mitochondrially targeted proximity biotinylation and proteomic analysis in Plasmodium falciparum.
-35984339	Effect of fear appeal mobile phone messaging on health behaviors of caregivers with children under-five in Ghana.
-35984015	Topical Mosquito Repellent Formulations for Enhanced Repellency Time and Reduced Toxicity.
-38915420	Amodiaquine drug pressure selects nonsynonymous mutations in pantothenate kinase 1, diacylglycerol kinase, and phosphatidylinositol-4 kinase in Plasmodium berghei ANKA.
-35982088	Spatiotemporal mapping of malaria incidence in Sudan using routine surveillance data.
-35981937	Vector control: agents of selection on malaria parasites?
-35981329	A 2-Phase Survey to Assess a Facility's Readiness for Pediatric Essential Emergency and Critical Care in Resource-Limited Settings: A Literature Review and Survey Development.
-35980472	Molecular assays for determining sulphadoxine-pyrimethamine drug resistance in India: a systematic review.
-35979713	Asymptomatic and low-density Plasmodium infections in India: an unexplored link.
-35979553	A long-term field study on mosquito vectors of avian malaria parasites in Japan.
