@@ -1,3 +1,6 @@
+39447003	CpG-adjuvanted virus-like particle vaccine induces protective immunity against Leishmania donovani infection.
+39446698	Development and longevity of naturally acquired antibody and memory B cell responses against Plasmodium vivax infection.
+39446670	Locally Acquired (Autochthonous) Mosquito-Transmitted Plasmodium vivax Malaria - Saline County, Arkansas, September 2023.
 39445826	The Plasmodium falciparum histone methyltransferase PfSET10 is dispensable for the regulation of antigenic variation and gene expression in blood-stage parasites.
 39445823	The Plasmodium falciparum histone methyltransferase SET10 participates in a chromatin modulation network crucial for intraerythrocytic development.
 39444123	[Epidemiological characteristics of imported malaria after malaria elimination in Shanxi Province, 2019-2023].
@@ -9994,6 +9997,3 @@
 35976542	Bayesian Geostatistical Modeling to Assess Malaria Seasonality and Monthly Incidence Risk in Eswatini.
 35976333	Clustered Regularly Interspaced Short Palindromic Repeats/ CRISPR associated protein 9-mediated editing of Schistosoma mansoni genes: Identifying genes for immunologically potent drug and vaccine development.
 35976251	Temporal and thermal profiling of the Toxoplasma proteome implicates parasite Protein Phosphatase 1 in the regulation of Ca(2+)-responsive pathways.
-35976094	High incidence of malaria in patients with sickle cell disease.
-35975378	Clinical predictors of circulatory failure and coexisting morbidities in children seen in an emergency room in Southern Nigeria.
-35974410	Vectorial capacities for malaria in eastern Amazonian Brazil depend on village, vector species, season, and parasite species.
