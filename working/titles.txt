@@ -1,3 +1,17 @@
+39460363	Impact of Infections During Pregnancy on Transplacental Antibody Transfer.
+39460322	A Head-to-Head Comparative Study of the Replication-Competent Vaccinia Virus and AAV1-Based Malaria Vaccine versus RTS,S/AS01 in Murine Models.
+39458619	Leveraging the Aggregated Protein Dye YAT2150 for Malaria Chemotherapy.
+39458570	Correction: Varela et al. Potential Benefits of Lycopene Consumption: Rationale for Using It as an Adjuvant Treatment for Malaria Patients and in Several Diseases. Nutrients 2022, 14, 5303.
+39458181	Intermittent Preventive Treatment of Malaria in Pregnancy and the Impact on Neonates in African Countries as Assessed by Entropy Weight and TOPSIS Methods.
+39457455	Insecticide Resistance and Target-Site Mutations kdr, N1575Y, and Ace-1 in Anopheles gambiae s.l. Populations in a Low-Malaria-Transmission Zone in the Sudanian Region of Senegal.
+39456035	A constant contact community-based epidemiological investigation (C3EI) as part of malaria elimination demonstration project, Mandla district, Madhya Pradesh, India.
+39455950	Assessing the role of the for-profit private healthcare sector in malaria elimination efforts in Bangladesh: a cross-sectional study of challenges and opportunities.
+39455911	Magnitude of anemia and associated factors among HIV infected children on antiretroviral therapy in Awi zone health facilities, Northwest Ethiopia, 2023.
+39455824	A conserved Plasmodium nuclear protein is critical for late liver stage development.
+39455625	Effect of RTS,S/AS01(E) vaccine booster dose on cellular immune responses in African infants and children.
+39455558	Noninvasive in vivo photoacoustic detection of malaria with Cytophone in Cameroon.
+39455040	The role of host autophagy in intracellular protozoan parasites diseases.
+39454853	Isavuconazole off-label use as an empirical treatment of invasive fungal infections.
 39453740	Biomechanics of phagocytosis of red blood cells by macrophages in the human spleen.
 39453278	Host Preferences and Impact of Climate on Blood Feeding in Anopheles funestus Group from South Africa.
 39453276	The Effect of Larval Exposure to Heavy Metals on the Gut Microbiota Composition of Adult Anopheles arabiensis (Diptera: Culicidae).
@@ -331,7 +345,7 @@
 39343446	Non-invasive detection of bilirubin concentrations during the first week of life in a low-resource setting along the Thailand-Myanmar border.
 39343287	Identification and functional validation of P450 genes associated with pyrethroid resistance in the malaria vector Anopheles sinensis (Diptera Culicidae).
 39343069	Identifying the hidden parasitic intruders: Molecular insights into the health of common Myna.
-39342998	A Fluorescence-Based Assay for Measuring Polyamine Biosynthesis Aminopropyl Transferase-Mediated Catalysis.
+39342998	A fluorescence-based assay for measuring polyamine biosynthesis aminopropyl transferase-mediated catalysis.
 39342300	Plasticity of blood feeding behavior of Anopheles mosquitoes in Ethiopia: a systematic review.
 39342297	Falciparum malaria with haemorrhagic stroke in a 26-year male patient: report of a rare case.
 39342181	Basic coagulation parameters and platelet count among malaria patients attending at Addis Zemen Primary Hospital, Northwest Ethiopia.
@@ -9983,17 +9997,3 @@
 35992014	Impact of long lasting insecticidal nets on asymptomatic malaria during pregnancy, in a rural and urban setting in Cameroon.
 35991917	Automated wide-field malaria parasite infection detection using Fourier ptychography on stain-free thin-smears.
 35991821	Prevalence and correlates of common mental disorders among children and adolescents in Blantyre-Urban, Malawi.
-35991815	Medical cannabis and cannabidiol: A new harvest for Malawi.
-35991507	Malaria in Afghanistan: Challenges, efforts and recommendations.
-35991037	SARS-CoV-2 and Plasmodium falciparum Co-Infection in a Returning Traveler.
-35990648	Recent malaria does not substantially impact COVID-19 antibody response or rates of symptomatic illness in communities with high malaria and COVID-19 transmission in Mali, West Africa.
-35989358	Identification of factors associated with residual malaria transmission using school-based serological surveys in settings pursuing elimination.
-35989210	Impact of mobile phone intervention on intermittent preventive treatment of malaria during pregnancy in Burkina Faso : A pragmatic randomized trial.
-35988939	Could Plasmodium falciparum-related kidney disease stand as another example of interferonopathy?
-35988900	Detection of histidine-rich protein 2- and/or 3-deleted Plasmodium falciparum using the automated hematology analyzer XN-31: A proof-of-concept study.
-35988665	Apramycin susceptibility of multidrug-resistant Gram-negative blood culture isolates in five countries in Southeast Asia.
-35988664	Artemisinin-piperaquine versus artemether-lumefantrine for treatment of uncomplicated Plasmodium falciparum malaria in Grande Comore island: an open-label, non-randomised controlled trial.
-35987665	Spatial analysis to evaluate risk of malaria in Northern Sumatera, Indonesia.
-35987650	An experimental hut study evaluating the impact of pyrethroid-only and PBO nets alone and in combination with pirimiphos-methyl-based IRS in Ethiopia.
-35987649	Household costs associated with seeking malaria treatment during pregnancy: evidence from Burkina Faso and The Gambia.
-35987638	Assessing the relationship between gravidity and placental malaria among pregnant women in a high transmission area in Ghana.
