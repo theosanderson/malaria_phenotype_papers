@@ -1,3 +1,5 @@
+39461358	The effect of Plasmodium falciparum exposure and maternal anti-circumsporozoite protein antibodies on responses to RTS,S/AS01(E) vaccination in infants and children: an ancillary observational immunological study to a phase 3, randomised clinical trial.
+39461357	Understanding the immunogenicity of RTS,S in infants.
 39460363	Impact of Infections During Pregnancy on Transplacental Antibody Transfer.
 39460322	A Head-to-Head Comparative Study of the Replication-Competent Vaccinia Virus and AAV1-Based Malaria Vaccine versus RTS,S/AS01 in Murine Models.
 39458619	Leveraging the Aggregated Protein Dye YAT2150 for Malaria Chemotherapy.
@@ -9995,5 +9997,3 @@
 35992756	Seasonal Malaria Chemoprevention Implementation: Effect on Malaria Incidence and Immunity in a Context of Expansion of P. falciparum Resistant Genotypes with Potential Reduction of the Effectiveness in Sub-Saharan Africa.
 35992276	HSP70 and their co-chaperones in the human malaria parasite P. falciparum and their potential as drug targets.
 35992014	Impact of long lasting insecticidal nets on asymptomatic malaria during pregnancy, in a rural and urban setting in Cameroon.
-35991917	Automated wide-field malaria parasite infection detection using Fourier ptychography on stain-free thin-smears.
-35991821	Prevalence and correlates of common mental disorders among children and adolescents in Blantyre-Urban, Malawi.
