@@ -1,3 +1,4 @@
+39466084	β-Carboline-3-carboxamide Antimalarials: Structure-Activity Relationship, ADME-Tox Studies, and Resistance Profiling.
 39465413	The influence of malaria control interventions and climate variability on changes in the geographical distribution of parasite prevalence in Kenya between 2015 and 2020.
 39465271	Optimization of loop mediated isothermal amplification assay (LAMP) for detection of chloroquine resistance in P. vivax malaria.
 39465200	Ownership, coverage, utilisation and maintenance of long-lasting insecticidal bed nets in three Health Districts in Cameroon: a cross-sectional study.
@@ -9996,4 +9997,3 @@
 35994509	An apical protein, Pcr2, is required for persistent movement by the human parasite Toxoplasma gondii.
 35993955	Adverse Effects of COVID-19 Treatments: A Special Focus on Susceptible Populations.
 35993723	Persistence of Residual Submicroscopic P. falciparum Parasitemia following Treatment of Artemether-Lumefantrine in Ethio-Sudan Border, Western Ethiopia.
-35993460	Synthesis and In vitro Efficacy of Tetracyclic Benzothiazepines Against Blood-Stage Plasmodium falciparum and Liver-Stage P. berghei.
