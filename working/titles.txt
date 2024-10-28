@@ -1,3 +1,7 @@
+39465413	The influence of malaria control interventions and climate variability on changes in the geographical distribution of parasite prevalence in Kenya between 2015 and 2020.
+39465271	Optimization of loop mediated isothermal amplification assay (LAMP) for detection of chloroquine resistance in P. vivax malaria.
+39465200	Ownership, coverage, utilisation and maintenance of long-lasting insecticidal bed nets in three Health Districts in Cameroon: a cross-sectional study.
+39465121	A shot in the foot: Could chemical control of malaria vectors threaten food security?
 39462602	Isolation of Bacterial Endophytes Associated with Cinchona ledgeriana Moens. and Their Potential in Plant-growth Promotion, Antifungal and Quinoline Alkaloids Production.
 39461358	The effect of Plasmodium falciparum exposure and maternal anti-circumsporozoite protein antibodies on responses to RTS,S/AS01(E) vaccination in infants and children: an ancillary observational immunological study to a phase 3, randomised clinical trial.
 39461357	Understanding the immunogenicity of RTS,S in infants.
@@ -9993,7 +9997,3 @@
 35993955	Adverse Effects of COVID-19 Treatments: A Special Focus on Susceptible Populations.
 35993723	Persistence of Residual Submicroscopic P. falciparum Parasitemia following Treatment of Artemether-Lumefantrine in Ethio-Sudan Border, Western Ethiopia.
 35993460	Synthesis and In vitro Efficacy of Tetracyclic Benzothiazepines Against Blood-Stage Plasmodium falciparum and Liver-Stage P. berghei.
-35993325	An ex vivo system for investigation of Plasmodium berghei invasion of the salivary gland of Anopheles stephensi mosquitoes.
-35993053	Malaria Infection, Parasitemia, and Hemoglobin Levels in Febrile Patients Attending Sibu Sire Health Facilities, Western Ethiopia.
-35992756	Seasonal Malaria Chemoprevention Implementation: Effect on Malaria Incidence and Immunity in a Context of Expansion of P. falciparum Resistant Genotypes with Potential Reduction of the Effectiveness in Sub-Saharan Africa.
-35992276	HSP70 and their co-chaperones in the human malaria parasite P. falciparum and their potential as drug targets.
