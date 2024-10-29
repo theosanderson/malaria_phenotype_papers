@@ -1,4 +1,4 @@
-39469617	The Implementation of the International Health Regulations on Vector-Borne Diseases: A Scoping Review of the Qualitative Evidence Performed Worldwide.
+39470204	Identification and characterization of thiamine analogs with antiplasmodial activity.
 39469162	Co-Infectious Mystery: Why Artemether-Lumefantrine Cleared P. falciparum but Left P. malariae behind.
 39468541	Delivering insecticide-treated nets (ITNs) through a digitized single-phase door-to-door strategy: lessons from Ondo state, Nigeria.
 39468465	Genetic polymorphism of merozoite surface protein 1 and merozoite surface protein 2 in the Vietnam Plasmodium falciparum population.
@@ -5144,6 +5144,7 @@
 37674172	Strategies for deploying triple artemisinin-based combination therapy in the Greater Mekong Subregion.
 37673924	Author Correction: Propensity of selecting mutant parasites for the antimalarial drug cabamiquine.
 37673369	Changes in oxygen delivery during experimental models of cerebral malaria.
+39469617	The Implementation of the International Health Regulations on Vector-Borne Diseases: A Scoping Review of the Qualitative Evidence Performed Worldwide.
 37672741	Unpacking Cochrane's Update on Masks and COVID-19.
 37672548	Weekly primaquine for radical cure of patients with Plasmodium vivax malaria and glucose-6-phosphate dehydrogenase deficiency.
 37670843	Twitter trends in #Parasitology determined by text mining and topic modelling.
@@ -9996,4 +9997,3 @@
 35996135	Evaluation of anti-malarial potency of new pyrazole-hydrazine coupled to Schiff base derivatives.
 35995959	Engineered DNA-encoded monoclonal antibodies targeting Plasmodium falciparum circumsporozoite protein confer single dose protection in a murine malaria challenge model.
 35995671	A C2 domain containing plasma membrane protein of Plasmodium falciparum merozoites mediates calcium-dependent binding and invasion to host erythrocytes.
-35995136	Low Use of Standard-of-Care Antiparasitic Drugs and Increased Estimated Outpatient Payments for Treating Schistosomiasis in the United States, 2013-19.
