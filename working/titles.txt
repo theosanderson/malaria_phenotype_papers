@@ -1,3 +1,8 @@
+39469617	The Implementation of the International Health Regulations on Vector-Borne Diseases: A Scoping Review of the Qualitative Evidence Performed Worldwide.
+39469162	Co-Infectious Mystery: Why Artemether-Lumefantrine Cleared P. falciparum but Left P. malariae behind.
+39468541	Delivering insecticide-treated nets (ITNs) through a digitized single-phase door-to-door strategy: lessons from Ondo state, Nigeria.
+39468465	Genetic polymorphism of merozoite surface protein 1 and merozoite surface protein 2 in the Vietnam Plasmodium falciparum population.
+39468289	Salivary antigens rPagSP02 and rPagSP06 are a reliable composite biomarker for evaluating exposure to Phlebotomus argentipes in Sri Lanka.
 39467134	Identification of a divalent metal transporter required for cellular iron metabolism in malaria parasites.
 39466842	Differences in phenotype between long-lived memory B cells against Plasmodium falciparum merozoite antigens and variant surface antigens.
 39466559	Quantifiable Cross-cultural Research on Medical Mistrust is Necessary for Effective and Equitable Vaccination in Low- and Middle-income Countries.
@@ -9992,8 +9997,3 @@
 35995959	Engineered DNA-encoded monoclonal antibodies targeting Plasmodium falciparum circumsporozoite protein confer single dose protection in a murine malaria challenge model.
 35995671	A C2 domain containing plasma membrane protein of Plasmodium falciparum merozoites mediates calcium-dependent binding and invasion to host erythrocytes.
 35995136	Low Use of Standard-of-Care Antiparasitic Drugs and Increased Estimated Outpatient Payments for Treating Schistosomiasis in the United States, 2013-19.
-35995135	Overall and Gender-Specific Effects of Intermittent Preventive Treatment of Malaria with Artemisinin-Based Combination Therapies among Schoolchildren in Mali: A Three-Group Open Label Randomized Controlled Trial.
-35995133	Low Treatment Rates of Parasitic Diseases with Standard-of-Care Prescription Drugs in the United States, 2013-2019.
-35994656	Wildlife susceptibility to infectious diseases at global scales.
-35994647	Malaria parasite evades mosquito immunity by glutaminyl cyclase-mediated posttranslational protein modification.
-35994523	Sensitivity and specificity of DPP® Fever Panel II Asia in the diagnosis of malaria, dengue and melioidosis.
