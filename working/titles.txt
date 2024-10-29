@@ -1,3 +1,6 @@
+39467134	Identification of a divalent metal transporter required for cellular iron metabolism in malaria parasites.
+39466842	Differences in phenotype between long-lived memory B cells against Plasmodium falciparum merozoite antigens and variant surface antigens.
+39466559	Quantifiable Cross-cultural Research on Medical Mistrust is Necessary for Effective and Equitable Vaccination in Low- and Middle-income Countries.
 39466084	β-Carboline-3-carboxamide Antimalarials: Structure-Activity Relationship, ADME-Tox Studies, and Resistance Profiling.
 39465413	The influence of malaria control interventions and climate variability on changes in the geographical distribution of parasite prevalence in Kenya between 2015 and 2020.
 39465271	Optimization of loop mediated isothermal amplification assay (LAMP) for detection of chloroquine resistance in P. vivax malaria.
@@ -9994,6 +9997,3 @@
 35994656	Wildlife susceptibility to infectious diseases at global scales.
 35994647	Malaria parasite evades mosquito immunity by glutaminyl cyclase-mediated posttranslational protein modification.
 35994523	Sensitivity and specificity of DPP® Fever Panel II Asia in the diagnosis of malaria, dengue and melioidosis.
-35994509	An apical protein, Pcr2, is required for persistent movement by the human parasite Toxoplasma gondii.
-35993955	Adverse Effects of COVID-19 Treatments: A Special Focus on Susceptible Populations.
-35993723	Persistence of Residual Submicroscopic P. falciparum Parasitemia following Treatment of Artemether-Lumefantrine in Ethio-Sudan Border, Western Ethiopia.
