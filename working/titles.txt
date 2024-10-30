@@ -1,3 +1,6 @@
+39475423	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
+39475123	Phosphorylation in the Plasmodium falciparum Proteome: A Meta-Analysis of Publicly Available Data Sets.
+39474886	MMV 1804559 is a potential antistaphylococcal and antibiofilm agent targeting the clfA gene of Staphylococcus aureus.
 39474250	Aetiology, susceptibility and outcomes of fever in patients receiving chemotherapy in Malawi: a prospective study.
 39473808	A Comprehensive Review of the Phytochemical Constituents and Bioactivities of Ocimum tenuiflorum.
 39472916	The challenge of improving long-lasting insecticidal nets coverage on Bioko Island: using data to adapt distribution strategies.
@@ -9994,6 +9997,3 @@
 36000888	Dcifer: an IBD-based method to calculate genetic distance between polyclonal infections.
 36000529	Combatting malaria disease among gold miners: a qualitative research within the Malakit project.
 36000152	Unravelling the Structure of Peroxides with Antiparasitic Activity: The Relative Impact of a Trioxolane or a Tetraoxane Pharmacophore on the Overall Molecular Structure.
-35999545	High-density lipoproteins may play a crucial role in COVID-19.
-35999537	Phytochemical profile and antimicrobial activity of the leaves and stem bark of Symphonia globulifera L.f. and Allophylus abyssinicus (Hochst.) Radlk.
-35999450	Relationships between transmission of malaria in Africa and climate factors.
