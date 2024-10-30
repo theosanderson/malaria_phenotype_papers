@@ -1,3 +1,5 @@
+39471233	A novel 4-aminoquinoline chemotype with multistage antimalarial activity and lack of cross-resistance with PfCRT and PfMDR1 mutants.
+39471070	Humoral Immunity Profiling to Pandemic and Bat-Derived Coronavirus Variants: A Geographical Comparison.
 39470204	Identification and characterization of thiamine analogs with antiplasmodial activity.
 39469162	Co-Infectious Mystery: Why Artemether-Lumefantrine Cleared P. falciparum but Left P. malariae behind.
 39468541	Delivering insecticide-treated nets (ITNs) through a digitized single-phase door-to-door strategy: lessons from Ondo state, Nigeria.
@@ -9995,5 +9997,3 @@
 35996466	The Comparison of PCR Kits for the Detection of Erythrocytic Parasites on Filter Paper.
 35996189	Plasmodium relictum infection in Culex quinquefasciatus (Culicidae) decreases diel flight activity but increases peak dusk flight activity.
 35996135	Evaluation of anti-malarial potency of new pyrazole-hydrazine coupled to Schiff base derivatives.
-35995959	Engineered DNA-encoded monoclonal antibodies targeting Plasmodium falciparum circumsporozoite protein confer single dose protection in a murine malaria challenge model.
-35995671	A C2 domain containing plasma membrane protein of Plasmodium falciparum merozoites mediates calcium-dependent binding and invasion to host erythrocytes.
