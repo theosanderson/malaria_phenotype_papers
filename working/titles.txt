@@ -1,3 +1,15 @@
+39474250	Aetiology, susceptibility and outcomes of fever in patients receiving chemotherapy in Malawi: a prospective study.
+39473808	A Comprehensive Review of the Phytochemical Constituents and Bioactivities of Ocimum tenuiflorum.
+39472916	The challenge of improving long-lasting insecticidal nets coverage on Bioko Island: using data to adapt distribution strategies.
+39472901	Effect of the second and third COVID-19 pandemic waves on routine outpatient malaria indicators and case management practices in Uganda: an interrupted time series analysis.
+39472386	Correction: Biogenically synthesized green silver nanoparticles exhibit antimalarial activity.
+39472377	First record and molecular diversity of haemosporidian parasites in Sula leucogaster (Boddaert, 1783) from the southeastern Brazilian coast.
+39471837	Molecular correlates of swarming behaviour in Aedes aegypti males.
+39471826	Drugs for Vector-Borne Protozoal Diseases in a One Health Scenario. A European Perspective.
+39471522	Controlling Malaria on the Road to Elimination: A View from 10 Years Later.
+39471513	Anopheles gambiae Re-Emergence and Resurgent Malaria Transmission in Eastern Rwanda, 2010-2020.
+39471508	Controlling Malaria on the Road to Elimination: A Commentary from Kent Campbell Written in 2014.
+39471507	Effect of Indoor Residual Spraying on Malaria in Pregnancy and Pregnancy Outcomes: A Systematic Review.
 39471233	A novel 4-aminoquinoline chemotype with multistage antimalarial activity and lack of cross-resistance with PfCRT and PfMDR1 mutants.
 39471070	Humoral Immunity Profiling to Pandemic and Bat-Derived Coronavirus Variants: A Geographical Comparison.
 39470204	Identification and characterization of thiamine analogs with antiplasmodial activity.
@@ -9985,15 +9997,3 @@
 35999545	High-density lipoproteins may play a crucial role in COVID-19.
 35999537	Phytochemical profile and antimicrobial activity of the leaves and stem bark of Symphonia globulifera L.f. and Allophylus abyssinicus (Hochst.) Radlk.
 35999450	Relationships between transmission of malaria in Africa and climate factors.
-35999228	Publisher Correction: Tryptophan C-mannosylation is critical for Plasmodium falciparum transmission.
-35999221	A PfSPZ vaccine immunization regimen equally protective against homologous and heterologous controlled human malaria infection.
-35999149	The ferredoxin redox system - an essential electron distributing hub in the apicoplast of Apicomplexa.
-35998816	Host immunity to Plasmodium infection: Contribution of Plasmodium berghei to our understanding of T cell-related immune response to blood-stage malaria.
-35998785	Phytochemical screening, cytotoxicity assessment and evaluation of in vitro antiplasmodial and in vivo antimalarial activities of Mentha spicata L. methanolic leaf extract.
-35998635	Prominent role of cysteine residues C49 and C343 in regulating Plasmodium falciparum pyruvate kinase activity.
-35998188	Divergent Plasmodium actin residues are essential for filament localization, mosquito salivary gland invasion and malaria transmission.
-35998118	Great-tailed Grackles (Quiscalus mexicanus) as a tolerant host of avian malaria parasites.
-35997979	Effect of Biannual Mass Azithromycin Distributions to Preschool-Aged Children on Trachoma Prevalence in Niger: A Cluster Randomized Clinical Trial.
-35996466	The Comparison of PCR Kits for the Detection of Erythrocytic Parasites on Filter Paper.
-35996189	Plasmodium relictum infection in Culex quinquefasciatus (Culicidae) decreases diel flight activity but increases peak dusk flight activity.
-35996135	Evaluation of anti-malarial potency of new pyrazole-hydrazine coupled to Schiff base derivatives.
