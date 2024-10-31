@@ -1,3 +1,4 @@
+39480207	Emerging Infectious Diseases and the Eye: Ophthalmic Manifestations, Pathogenesis, and One Health Perspectives.
 39479769	PARP15 is a Susceptibility Locus for Clarkson Disease (Monoclonal Gammopathy-Associated Systemic Capillary Leak Syndrome).
 39479070	Prevalence of Transfusion-Transmissible Infections Among Voluntary Blood Donors in a Tertiary Care Hospital.
 39478627	Analysis of the 24-h biting patterns and human exposures to malaria vectors in south-eastern Tanzania.
@@ -9996,4 +9997,3 @@
 36006245	Difference between Microscopic and PCR Examination Result for Malaria Diagnosis and Treatment Evaluation in Sumba Barat Daya, Indonesia.
 36006244	Drugs for Intermittent Preventive Treatment of Malaria in Pregnancy: Current Knowledge and Way Forward.
 36006241	Composition and organization of kinetochores show plasticity in apicomplexan chromosome segregation.
-36005535	Discovery of Ircinianin Lactones B and C-Two New Cyclic Sesterterpenes from the Marine Sponge Ircinia wistarii.
