@@ -1,3 +1,9 @@
+39477780	Towards integrated malaria molecular surveillance in Africa.
+39477541	Estimated Plasmodium 18S ribosomal RNA prevalence in asymptomatic blood donors from three African countries.
+39477048	The genetic composition of Anopheles mosquitoes and the diverse population of gut-microbiota within the Anopheles subpictus and Anopheles vagus mosquitoes in Tamil Nadu, India.
+39477046	Cytokine levels in the severity of falciparum malaria: An umbrella review.
+39476600	"Novel chemo-enzymatic synthesis, structural elucidation and first antiprotozoal activity profiling of the atropoisomeric dimers of trans-8-Hydroxycalamenene".
+39476461	Rapid detection of mutations in the suspected piperaquine resistance gene E415G-exo in Plasmodium falciparum exonuclease via AS‒PCR and RAA with CRISPR/Cas12a.
 39475899	Polarization toward Tfh2 cell involved in development of MBC and antibody responses against Plasmodium vivax infection.
 39475423	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
 39475123	Phosphorylation in the Plasmodium falciparum Proteome: A Meta-Analysis of Publicly Available Data Sets.
@@ -9991,9 +9997,3 @@
 36002841	Induction, decay, and determinants of functional antibodies following vaccination with the RTS,S malaria vaccine in young children.
 36002266	Identification of potential inhibitors for N-myristoyltransferase (NMT) protein of Plasmodium vivax.
 36001680	A genetically engineered Plasmodium falciparum parasite vaccine provides protection from controlled human malaria infection.
-36001653	AFF3, a susceptibility factor for autoimmune diseases, is a molecular facilitator of immunoglobulin class switch recombination.
-36001132	Delay in arrival: lineage-specific influence of haemosporidians on autumn migration of European robins.
-36000888	Dcifer: an IBD-based method to calculate genetic distance between polyclonal infections.
-36000529	Combatting malaria disease among gold miners: a qualitative research within the Malakit project.
-36000152	Unravelling the Structure of Peroxides with Antiparasitic Activity: The Relative Impact of a Trioxolane or a Tetraoxane Pharmacophore on the Overall Molecular Structure.
-35999545	High-density lipoproteins may play a crucial role in COVID-19.
