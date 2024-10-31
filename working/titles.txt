@@ -1,3 +1,4 @@
+39475899	Polarization toward Tfh2 cell involved in development of MBC and antibody responses against Plasmodium vivax infection.
 39475423	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
 39475123	Phosphorylation in the Plasmodium falciparum Proteome: A Meta-Analysis of Publicly Available Data Sets.
 39474886	MMV 1804559 is a potential antistaphylococcal and antibiofilm agent targeting the clfA gene of Staphylococcus aureus.
@@ -5330,8 +5331,6 @@
 37615737	Molecular investigation of Haemoproteus and Plasmodium species of some raptors in Hatay province: new CytB lineages for raptors of Accipitriformes in Turkey.
 37615662	Clinical and laboratory factors associated with splenic dysfunction among patients with sickle cell disease in a malaria endemic region.
 37614176	Genomic advances in the study of the mosquito vector during avian malaria infection.
-37613241	From Organ to Organelle: towards a Multimodal 3D Cell Atlas of the Malaria Parasite Mosquito stages using Correlative Light, X-ray and volume Electron Microscopy.
-37613100	From Archeology to the Malaria Parasite, the Exciting Quests of Microscopy.
 37612754	Women's empowerment and uptake of sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria during pregnancy: results from a cross-sectional baseline survey in the Lake endemic region, Kenya.
 37612716	Implementation strategies for the introduction of the RTS,S/AS01 (RTS,S) malaria vaccine in countries with areas of highly seasonal transmission: workshop meeting report.
 37612636	Point-of-care testing in private pharmacy and drug retail settings: a narrative review.
@@ -9997,3 +9996,4 @@
 36000888	Dcifer: an IBD-based method to calculate genetic distance between polyclonal infections.
 36000529	Combatting malaria disease among gold miners: a qualitative research within the Malakit project.
 36000152	Unravelling the Structure of Peroxides with Antiparasitic Activity: The Relative Impact of a Trioxolane or a Tetraoxane Pharmacophore on the Overall Molecular Structure.
+35999545	High-density lipoproteins may play a crucial role in COVID-19.
