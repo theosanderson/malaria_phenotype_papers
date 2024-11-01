@@ -1,3 +1,5 @@
+39485315	Detailing organelle division and segregation in Plasmodium falciparum.
+39485014	Novo plant-based mosquito repellent shows promise for exclusion of Aedes mosquitoes from "window" entry.
 39484443	Type-I IFNs induce GBPs and lysosomal defense in hepatocytes to control malaria.
 39484257	Genetic diversity in the Plasmodium falciparum next-generation blood stage vaccine candidate antigen PfCyRPA in Senegal.
 39483968	Plasmodium infection downregulates hypoxia‑inducible factor 1α expression to suppress the vascularization and tumorigenesis of liver cancer.
@@ -9995,5 +9997,3 @@
 36007706	Bulk segregant linkage mapping for rodent and human malaria parasites.
 36007703	Adeno-associated virus-based malaria booster vaccine following attenuated replication-competent vaccinia virus LC16m8Δ priming.
 36007459	Plasmodium falciparum resistance to artemisinin-based combination therapies.
-36007187	PARACENTRAL ACUTE MIDDLE MACULOPATHY ASSOCIATED WITH SEVERE PLASMODIUM FALCIPARUM MALARIA.
-36006519	Dielectrophoretic separation of blood cells.
