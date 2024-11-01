@@ -1,3 +1,5 @@
+39481788	Mortality and morbidity risks associated with floods: a systematic review and meta-analysis.
+39481419	Review of the WHO guideline on preventive chemotherapy for public health control of strongyloidiasis.
 39481007	Biogenesis of Cytochromes c and c(1) in the Electron Transport Chain of Malaria Parasites.
 39480870	Insights into trypanosomiasis transmission: Age, infection rates, and bloodmeal analysis of Glossina fuscipes fuscipes in N.W. Uganda.
 39480785	Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon.
@@ -9995,5 +9997,3 @@
 36006268	Expression Profile Analysis of Circular RNAs in Leishmaniasis.
 36006265	Seropositivity of Leptospira spp. Antibodies among Febrile Patients Attending Outpatient Clinics in Mwanza, Tanzania: Should It Be Included in Routine Diagnosis?
 36006260	Prevalence and Characteristics of Malaria and Influenza Co-Infection in Febrile Patients: A Systematic Review and Meta-Analysis.
-36006251	Antimicrobial Stewardship in Tropical Infectious Diseases: Focusing on Dengue and Malaria.
-36006247	Prevalence of Mutations in the Pfdhfr, Pfdhps, and Pfmdr1 Genes of Malarial Parasites Isolated from Symptomatic Patients in Dogondoutchi, Niger.
