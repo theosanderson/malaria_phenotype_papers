@@ -1,3 +1,6 @@
+39481007	Biogenesis of Cytochromes c and c(1) in the Electron Transport Chain of Malaria Parasites.
+39480870	Insights into trypanosomiasis transmission: Age, infection rates, and bloodmeal analysis of Glossina fuscipes fuscipes in N.W. Uganda.
+39480785	Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon.
 39480207	Emerging Infectious Diseases and the Eye: Ophthalmic Manifestations, Pathogenesis, and One Health Perspectives.
 39479769	PARP15 is a Susceptibility Locus for Clarkson Disease (Monoclonal Gammopathy-Associated Systemic Capillary Leak Syndrome).
 39479070	Prevalence of Transfusion-Transmissible Infections Among Voluntary Blood Donors in a Tertiary Care Hospital.
@@ -9994,6 +9997,3 @@
 36006260	Prevalence and Characteristics of Malaria and Influenza Co-Infection in Febrile Patients: A Systematic Review and Meta-Analysis.
 36006251	Antimicrobial Stewardship in Tropical Infectious Diseases: Focusing on Dengue and Malaria.
 36006247	Prevalence of Mutations in the Pfdhfr, Pfdhps, and Pfmdr1 Genes of Malarial Parasites Isolated from Symptomatic Patients in Dogondoutchi, Niger.
-36006245	Difference between Microscopic and PCR Examination Result for Malaria Diagnosis and Treatment Evaluation in Sumba Barat Daya, Indonesia.
-36006244	Drugs for Intermittent Preventive Treatment of Malaria in Pregnancy: Current Knowledge and Way Forward.
-36006241	Composition and organization of kinetochores show plasticity in apicomplexan chromosome segregation.
