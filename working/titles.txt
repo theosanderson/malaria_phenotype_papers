@@ -1,3 +1,11 @@
+39484443	Type-I IFNs induce GBPs and lysosomal defense in hepatocytes to control malaria.
+39484257	Genetic diversity in the Plasmodium falciparum next-generation blood stage vaccine candidate antigen PfCyRPA in Senegal.
+39483968	Plasmodium infection downregulates hypoxia‑inducible factor 1α expression to suppress the vascularization and tumorigenesis of liver cancer.
+39483913	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos while reducing their lifespan and malaria parasite burden.
+39483850	ONT sequencing identifies a high prevalence of crt sensitive, triple mutant dhfr and single mutant dhps parasites within an ANC population in Nigeria.
+39483245	Pyrimidine Azepine Targets the Plasmodium bc (1) Complex and Displays Multistage Antimalarial Activity.
+39483206	Recent Trends in Malaria Vaccine Research Globally: A Bibliometric Analysis From 2005 to 2022.
+39482779	Interleukin-4 and its receptor alpha in paediatric uncomplicated malaria patients from a Ghanaian case-control study.
 39481788	Mortality and morbidity risks associated with floods: a systematic review and meta-analysis.
 39481419	Review of the WHO guideline on preventive chemotherapy for public health control of strongyloidiasis.
 39481007	Biogenesis of Cytochromes c and c(1) in the Electron Transport Chain of Malaria Parasites.
@@ -9989,11 +9997,3 @@
 36007459	Plasmodium falciparum resistance to artemisinin-based combination therapies.
 36007187	PARACENTRAL ACUTE MIDDLE MACULOPATHY ASSOCIATED WITH SEVERE PLASMODIUM FALCIPARUM MALARIA.
 36006519	Dielectrophoretic separation of blood cells.
-36006311	Tolerability of Atovaquone-Proguanil Application in Common Buzzard Nestlings.
-36006295	Evaluating Molecular Xenomonitoring as a Tool for Lymphatic Filariasis Surveillance in Samoa, 2018-2019.
-36006294	Using Routinely Collected Health Records to Identify the Fine-Resolution Spatial Patterns of Soil-Transmitted Helminth Infections in Rwanda.
-36006293	Factors Affecting the Transition from Paper to Digital Data Collection for Mobile Tuberculosis Active Case Finding in Low Internet Access Settings in Pakistan.
-36006270	Narrative Review of the Control and Prevention of Knowlesi Malaria.
-36006268	Expression Profile Analysis of Circular RNAs in Leishmaniasis.
-36006265	Seropositivity of Leptospira spp. Antibodies among Febrile Patients Attending Outpatient Clinics in Mwanza, Tanzania: Should It Be Included in Routine Diagnosis?
-36006260	Prevalence and Characteristics of Malaria and Influenza Co-Infection in Febrile Patients: A Systematic Review and Meta-Analysis.
