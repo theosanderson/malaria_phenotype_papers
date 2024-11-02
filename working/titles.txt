@@ -1,12 +1,20 @@
-39483968	Plasmodium infection downregulates hypoxia‑inducible factor 1α expression to suppress the vascularization and tumorigenesis of liver cancer.
+39485920	Severe cutaneous adverse drug reaction to atovaquone/proguanil.
+39485743	Coverage and determinants of Intermittent Preventive Treatment in pregnancy (IPTp) in Cameroon, Guinea, Mali, and Nigeria.
 39485315	Detailing organelle division and segregation in Plasmodium falciparum.
 39485014	Novo plant-based mosquito repellent shows promise for exclusion of Aedes mosquitoes from "window" entry.
+39484443	Type-I IFNs induce GBPs and lysosomal defense in hepatocytes to control malaria.
+39484257	Genetic diversity in the Plasmodium falciparum next-generation blood stage vaccine candidate antigen PfCyRPA in Senegal.
+39483968	Plasmodium infection downregulates hypoxia‑inducible factor 1α expression to suppress the vascularization and tumorigenesis of liver cancer.
+39483913	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos while reducing their lifespan and malaria parasite burden.
+39483850	ONT sequencing identifies a high prevalence of crt sensitive, triple mutant dhfr and single mutant dhps parasites within an ANC population in Nigeria.
+39483245	Pyrimidine Azepine Targets the Plasmodium bc (1) Complex and Displays Multistage Antimalarial Activity.
+39483206	Recent Trends in Malaria Vaccine Research Globally: A Bibliometric Analysis From 2005 to 2022.
 39482779	Interleukin-4 and its receptor alpha in paediatric uncomplicated malaria patients from a Ghanaian case-control study.
 39481788	Mortality and morbidity risks associated with floods: a systematic review and meta-analysis.
 39481419	Review of the WHO guideline on preventive chemotherapy for public health control of strongyloidiasis.
-39480785	Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon.
 39481007	Biogenesis of Cytochromes c and c(1) in the Electron Transport Chain of Malaria Parasites.
 39480870	Insights into trypanosomiasis transmission: Age, infection rates, and bloodmeal analysis of Glossina fuscipes fuscipes in N.W. Uganda.
+39480785	Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon.
 39480207	Emerging Infectious Diseases and the Eye: Ophthalmic Manifestations, Pathogenesis, and One Health Perspectives.
 39479769	PARP15 is a Susceptibility Locus for Clarkson Disease (Monoclonal Gammopathy-Associated Systemic Capillary Leak Syndrome).
 39479070	Prevalence of Transfusion-Transmissible Infections Among Voluntary Blood Donors in a Tertiary Care Hospital.
@@ -42,7 +50,6 @@
 39468541	Delivering insecticide-treated nets (ITNs) through a digitized single-phase door-to-door strategy: lessons from Ondo state, Nigeria.
 39468465	Genetic polymorphism of merozoite surface protein 1 and merozoite surface protein 2 in the Vietnam Plasmodium falciparum population.
 39468289	Salivary antigens rPagSP02 and rPagSP06 are a reliable composite biomarker for evaluating exposure to Phlebotomus argentipes in Sri Lanka.
-39483245	Pyrimidine Azepine Targets the Plasmodium bc (1) Complex and Displays Multistage Antimalarial Activity.
 39467134	Identification of a divalent metal transporter required for cellular iron metabolism in malaria parasites.
 39466842	Differences in phenotype between long-lived memory B cells against Plasmodium falciparum merozoite antigens and variant surface antigens.
 39466559	Quantifiable Cross-cultural Research on Medical Mistrust is Necessary for Effective and Equitable Vaccination in Low- and Middle-income Countries.
@@ -99,8 +106,6 @@
 39447003	CpG-adjuvanted virus-like particle vaccine induces protective immunity against Leishmania donovani infection.
 39446698	Development and longevity of naturally acquired antibody and memory B cell responses against Plasmodium vivax infection.
 39446670	Locally Acquired (Autochthonous) Mosquito-Transmitted Plasmodium vivax Malaria - Saline County, Arkansas, September 2023.
-39484443	Type-I IFNs induce GBPs and lysosomal defense in hepatocytes to control malaria.
-39483206	Recent Trends in Malaria Vaccine Research Globally: A Bibliometric Analysis From 2005 to 2022.
 39445826	The Plasmodium falciparum histone methyltransferase PfSET10 is dispensable for the regulation of antigenic variation and gene expression in blood-stage parasites.
 39445823	The Plasmodium falciparum histone methyltransferase SET10 participates in a chromatin modulation network crucial for intraerythrocytic development.
 39444123	[Epidemiological characteristics of imported malaria after malaria elimination in Shanxi Province, 2019-2023].
@@ -189,7 +194,6 @@
 39414909	Evolution of Pfdhps and Pfdhfr mutations before and after adopting seasonal malaria chemoprevention in Nanoro, Burkina Faso.
 39413969	Anti-malarial evaluation of selected medicinal plants traditionally used for treatment of fever, by inhibition test of heme polymerization.
 39413897	Frequency of chloroquine-resistant haplotype of Plasmodium falciparum (CVIET) in Ibadan, Southwest Nigeria 17 years post-chloroquine withdrawal.
-39483913	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos while reducing their lifespan and malaria parasite burden.
 39413119	Strengthening regulation for medical products in Tanzania: An assessment of regulatory capacity development, 1978-2020.
 39413107	Expanded roles of community health workers beyond malaria in the Asia-Pacific: A systematic review.
 39412522	A Plasmodium falciparum MORC protein complex modulates epigenetic control of gene expression through interaction with heterochromatin.
@@ -212,7 +216,6 @@
 39407101	A systematic review of sample size estimation accuracy on power in malaria cluster randomised trials measuring epidemiological outcomes.
 39406687	Baseline characteristics of Ghanaian children and adults enrolled in PIVOT, a randomised clinical trial of hydroxyurea in HbSC disease in sub-Saharan Africa.
 39406200	Cerebral venous sinus thrombosis - Current updates in the Asian context.
-39483850	ONT sequencing identifies a high prevalence of crt sensitive, triple mutant dhfr and single mutant dhps parasites within an ANC population in Nigeria.
 39405402	New Strides in Prevention of Malaria during Pregnancy Present Multitudinous Opportunities.
 39405338	Host 5-HT affects Plasmodium transmission in mosquitoes via modulating mosquito mitochondrial homeostasis.
 39405172	Who pays to treat malaria, and how much? Analysis of the cost of illness, equity, and economic burden of malaria in Uganda.
@@ -224,7 +227,6 @@
 39402081	Computational approach for decoding malaria drug targets from single-cell transcriptomics and finding potential drug molecule.
 39401504	Safety and efficacy of iron supplementation with 3 months of daily ferrous sulphate in children living with HIV and mild-to-moderate anaemia in Uganda: a double-blind, randomised, placebo-controlled trial.
 30000533	Artesunate.
-39484257	Genetic diversity in the Plasmodium falciparum next-generation blood stage vaccine candidate antigen PfCyRPA in Senegal.
 39400985	ANTI-MALARIAL ACTIVITY OF AMENTOFLAVONE ISOLATED FROM LEAF OF CALOPHYLLUM TOMENTOSUM WEIGHT.
 39400962	Exploring the Antimalarial Potential of Entandrophragma utile and Melochia umbellata Extracts.
 39400721	Relationship between red blood cell polymorphisms and effectiveness of seasonal malaria chemoprevention in 2020 in Dangassa, Mali.
@@ -9995,5 +9997,3 @@
 36008486	Elucidating the path to Plasmodium prolyl-tRNA synthetase inhibitors that overcome halofuginone resistance.
 36008258	Afucosylated IgG responses in humans - structural clues to the regulation of humoral immunity.
 36007706	Bulk segregant linkage mapping for rodent and human malaria parasites.
-36007703	Adeno-associated virus-based malaria booster vaccine following attenuated replication-competent vaccinia virus LC16m8Δ priming.
-36007459	Plasmodium falciparum resistance to artemisinin-based combination therapies.
