@@ -3,12 +3,13 @@
 39485743	Coverage and determinants of Intermittent Preventive Treatment in pregnancy (IPTp) in Cameroon, Guinea, Mali, and Nigeria.
 39485315	Detailing organelle division and segregation in Plasmodium falciparum.
 39485014	Novo plant-based mosquito repellent shows promise for exclusion of Aedes mosquitoes from "window" entry.
+39483206	Recent Trends in Malaria Vaccine Research Globally: A Bibliometric Analysis From 2005 to 2022.
 39481788	Mortality and morbidity risks associated with floods: a systematic review and meta-analysis.
 39481419	Review of the WHO guideline on preventive chemotherapy for public health control of strongyloidiasis.
+39480785	Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon.
 39482779	Interleukin-4 and its receptor alpha in paediatric uncomplicated malaria patients from a Ghanaian case-control study.
 39481007	Biogenesis of Cytochromes c and c(1) in the Electron Transport Chain of Malaria Parasites.
 39480870	Insights into trypanosomiasis transmission: Age, infection rates, and bloodmeal analysis of Glossina fuscipes fuscipes in N.W. Uganda.
-39480785	Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon.
 39480207	Emerging Infectious Diseases and the Eye: Ophthalmic Manifestations, Pathogenesis, and One Health Perspectives.
 39479769	PARP15 is a Susceptibility Locus for Clarkson Disease (Monoclonal Gammopathy-Associated Systemic Capillary Leak Syndrome).
 39479070	Prevalence of Transfusion-Transmissible Infections Among Voluntary Blood Donors in a Tertiary Care Hospital.
@@ -102,7 +103,6 @@
 39446698	Development and longevity of naturally acquired antibody and memory B cell responses against Plasmodium vivax infection.
 39446670	Locally Acquired (Autochthonous) Mosquito-Transmitted Plasmodium vivax Malaria - Saline County, Arkansas, September 2023.
 39484443	Type-I IFNs induce GBPs and lysosomal defense in hepatocytes to control malaria.
-39483206	Recent Trends in Malaria Vaccine Research Globally: A Bibliometric Analysis From 2005 to 2022.
 39445826	The Plasmodium falciparum histone methyltransferase PfSET10 is dispensable for the regulation of antigenic variation and gene expression in blood-stage parasites.
 39445823	The Plasmodium falciparum histone methyltransferase SET10 participates in a chromatin modulation network crucial for intraerythrocytic development.
 39444123	[Epidemiological characteristics of imported malaria after malaria elimination in Shanxi Province, 2019-2023].
