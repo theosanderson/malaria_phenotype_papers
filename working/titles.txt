@@ -1,17 +1,15 @@
 39483968	Plasmodium infection downregulates hypoxia‑inducible factor 1α expression to suppress the vascularization and tumorigenesis of liver cancer.
+39488746	Global Health Priority Box─Proactive Pandemic Preparedness.
 39488711	Diagnostic accuracy of the point-of-care standard G6PD test™ (SD Biosensor) for glucose-6-phosphate dehydrogenase deficiency: a systematic review and meta-analysis.
 39488707	Efficacy of PermaNet(®) Dual compared to Interceptor(®) G2 and PermaNet 3.0 in experimental huts in Siaya County, western Kenya.
 39488704	Designing and deploying caller tunes on mobile phones to promote malaria vaccine uptake in Africa: can the technology acceptance model (TAM) help?
 39488329	An immuno-inflammatory profiling of asymptomatic individuals in a malaria endemic area in Uganda.
 39488015	Profile of molecular markers of Sulfadoxine-Pyrimethamine-resistant Plasmodium falciparum in individuals living in southern area of Brazzaville, Republic of Congo.
-39485743	Coverage and determinants of Intermittent Preventive Treatment in pregnancy (IPTp) in Cameroon, Guinea, Mali, and Nigeria.
-39484443	Type-I IFNs induce GBPs and lysosomal defense in hepatocytes to control malaria.
-39484257	Genetic diversity in the Plasmodium falciparum next-generation blood stage vaccine candidate antigen PfCyRPA in Senegal.
-39483913	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos while reducing their lifespan and malaria parasite burden.
 39480870	Insights into trypanosomiasis transmission: Age, infection rates, and bloodmeal analysis of Glossina fuscipes fuscipes in N.W. Uganda.
 39486598	Heat shock protein HSPA8 impedes hemin-induced cellular-toxicity in liver.
 39486354	RTS, S malaria vaccination among children aged 24-59 months in the Sunyani Municipality, Ghana; 2023.
 39485920	Severe cutaneous adverse drug reaction to atovaquone/proguanil.
+39485743	Coverage and determinants of Intermittent Preventive Treatment in pregnancy (IPTp) in Cameroon, Guinea, Mali, and Nigeria.
 39485315	Detailing organelle division and segregation in Plasmodium falciparum.
 39485014	Novo plant-based mosquito repellent shows promise for exclusion of Aedes mosquitoes from "window" entry.
 39481788	Mortality and morbidity risks associated with floods: A systematic review and meta-analysis.
@@ -111,6 +109,7 @@
 39447003	CpG-adjuvanted virus-like particle vaccine induces protective immunity against Leishmania donovani infection.
 39446698	Development and longevity of naturally acquired antibody and memory B cell responses against Plasmodium vivax infection.
 39446670	Locally Acquired (Autochthonous) Mosquito-Transmitted Plasmodium vivax Malaria - Saline County, Arkansas, September 2023.
+39484443	Type-I IFNs induce GBPs and lysosomal defense in hepatocytes to control malaria.
 39483206	Recent Trends in Malaria Vaccine Research Globally: A Bibliometric Analysis From 2005 to 2022.
 39445826	The Plasmodium falciparum histone methyltransferase PfSET10 is dispensable for the regulation of antigenic variation and gene expression in blood-stage parasites.
 39445823	The Plasmodium falciparum histone methyltransferase SET10 participates in a chromatin modulation network crucial for intraerythrocytic development.
@@ -200,6 +199,7 @@
 39414909	Evolution of Pfdhps and Pfdhfr mutations before and after adopting seasonal malaria chemoprevention in Nanoro, Burkina Faso.
 39413969	Anti-malarial evaluation of selected medicinal plants traditionally used for treatment of fever, by inhibition test of heme polymerization.
 39413897	Frequency of chloroquine-resistant haplotype of Plasmodium falciparum (CVIET) in Ibadan, Southwest Nigeria 17 years post-chloroquine withdrawal.
+39483913	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos while reducing their lifespan and malaria parasite burden.
 39413119	Strengthening regulation for medical products in Tanzania: An assessment of regulatory capacity development, 1978-2020.
 39413107	Expanded roles of community health workers beyond malaria in the Asia-Pacific: A systematic review.
 39412522	A Plasmodium falciparum MORC protein complex modulates epigenetic control of gene expression through interaction with heterochromatin.
@@ -234,6 +234,7 @@
 39402081	Computational approach for decoding malaria drug targets from single-cell transcriptomics and finding potential drug molecule.
 39401504	Safety and efficacy of iron supplementation with 3 months of daily ferrous sulphate in children living with HIV and mild-to-moderate anaemia in Uganda: a double-blind, randomised, placebo-controlled trial.
 30000533	Artesunate.
+39484257	Genetic diversity in the Plasmodium falciparum next-generation blood stage vaccine candidate antigen PfCyRPA in Senegal.
 39400985	ANTI-MALARIAL ACTIVITY OF AMENTOFLAVONE ISOLATED FROM LEAF OF CALOPHYLLUM TOMENTOSUM WEIGHT.
 39400962	Exploring the Antimalarial Potential of Entandrophragma utile and Melochia umbellata Extracts.
 39400721	Relationship between red blood cell polymorphisms and effectiveness of seasonal malaria chemoprevention in 2020 in Dangassa, Mali.
@@ -9996,4 +9997,3 @@
 36011074	Multilevel Modelling of Individual, Community and Regional Level Factors Associated with Insecticide-Treated Net Usage among Pregnant Women in Ethiopia.
 36010365	Plasmodium malariae Detected by Microscopy in the International Bordering Area of Mizoram, a Northeastern State of India.
 36009598	A Historical Review of Military Medical Strategies for Fighting Infectious Diseases: From Battlefields to Global Health.
-36009408	Recent Progress in the Discovery and Development of Monoclonal Antibodies against Viral Infections.
