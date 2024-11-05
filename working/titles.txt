@@ -1,3 +1,8 @@
+39498304	Federated difference-in-differences with multiple time periods in DataSHIELD.
+39497951	Understanding one health challenges in marginalized urban settings: A patient and public involvement (PPI) approach from the CHIP consortium activities across four global cities.
+39497915	Call for elimination program of Malaria among children under 5 years old living in refugee camps in eastern Democratic Republic of Congo.
+39497850	Ubiquitin-proteasome system in Plasmodium: a potential antimalarial target to overcome resistance - a systematic review.
+39497485	Risk of transfusion-associated malaria in sub-Saharan Africa: The case of Mali.
 39497168	Differential sensitivity and specificity of Aedes aegypti and Anopheles gambiae to adenine nucleotide phagostimulants-an all-or-none response?
 39497038	Comparative genomics of Plasmodium yoelii nigeriensis N67 and N67C: genome-wide polymorphisms, differential gene expression, and drug resistance.
 39496624	Prevalence of molecular markers of sulfadoxine-pyrimethamine resistance in Plasmodium falciparum isolates from West Africa during 2012-2022.
@@ -9992,8 +9997,3 @@
 36030375	In Silico Prediction of Andrographolide Dosage Regimens for COVID-19 Treatment.
 36030330	Haemosporidians from a Neglected Group of Terrestrial Wild Birds in the Peruvian Amazonia.
 36030292	Efficient infection of non-human primates with purified, cryopreserved Plasmodium knowlesi sporozoites.
-36030242	Genetic polymorphism of circumsporozoite protein of Plasmodium falciparum among Chinese migrant workers returning from Africa to Henan Province.
-36030238	Repurposing the mitotic machinery to drive cellular elongation and chromatin reorganisation in Plasmodium falciparum gametocytes.
-36030045	Antimicrobial peptides: On future antiprotozoal and anthelminthic applications.
-36030044	Mass Spectrometry Identification of Biomarkers in Extracellular Vesicles From Plasmodium vivax Liver Hypnozoite Infections.
-36029959	Anti-malarial effect of a combination of risedronate and azithromycin against Plasmodium yoelii nigeriensis infection in Swiss mice.
