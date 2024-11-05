@@ -1,3 +1,7 @@
+39495782	Association of the humoral immune response with the inflammatory profile in Plasmodium vivax infections in pregnant women.
+39495748	Effects of gestational age on blood cortisol and prolactin levels during pregnancy in malaria endemic area.
+39495747	Comparison of two proxies for the preconception weight using data from a pre-pregnancy cohort in Benin: Weight measured in the first trimester of pregnancy vs estimated by Thomas' formula.
+39495715	The role of connectivity on malaria dynamics across areas with contrasting control coverage in the Peruvian Amazon.
 39494047	Long Lasting Insecticide-Treated Nets Utilization and Associated Factors Among Pregnant Women in Shebel Berenta District, Northwest Ethiopia.
 39493917	Ultrasonographic assessment of spleen size and pattern of change among sickle cell disease patients and healthy controls in North-Eastern Nigeria.
 39493859	Natural killer cell antibody-dependent cellular cytotoxicity to Plasmodium falciparum is impacted by cellular phenotypes, erythrocyte polymorphisms, parasite diversity and intensity of transmission.
@@ -9993,7 +9997,3 @@
 36029786	Global commitment to action on NTDs and malaria.
 36029433	Phenotypic plasticity in plasmodial slime molds and molecular phylogeny of terrestrial vs. aquatic species.
 36029070	β-Artemether and Lumefantrine Dual Drug Loaded Lipid Nanoparticles: Physicochemical Characterization, Pharmacokinetic Evaluation and Biodistribution Study.
-36028866	Annual distributions of insecticide-treated nets to schoolchildren and other key populations to maintain higher ITN access than with mass campaigns: a modelling study for mainland Tanzania.
-36028279	Cost-utility of cytisine for smoking cessation over and above behavioural support in people with newly diagnosed pulmonary tuberculosis: an economic evaluation of a multicentre randomised controlled trial.
-36027930	The effect of atovaquone on the mitochondrial membrane potential of Babesiagibsoni.
-36027656	Mazingira and the malady of malaria: Perceptions of malaria as an environmental disease in contemporary Zanzibar.
