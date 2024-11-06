@@ -1,3 +1,10 @@
+39502782	Truth is relative; Client report versus provider report, a post-modern analysis of data from a trial in the private retail medicine sector.
+39502751	Exacerbation of Hyperbilirubinemia by Falciparum Malaria in a Patient With Coexisting Gilbert's Syndrome and Glucose-6-Phosphate Dehydrogenase Deficiency.
+39502332	Factors influencing health workers' adherence to malaria treatment guidelines in under-five children in Nigeria: A scoping review.
+39502331	Did antisemitism mislead and conceal from the world's malaria community the first start anywhere of a successful national malaria elimination campaign?
+39502089	Malaria and HIV/AIDS Coinfection in Patients Under Highly Active Antiretroviral Therapy at the Regional Hospital of Bafoussam (West Cameroon).
+39502088	Assessing the Malaria Burden and Community Response to the Malaria Control and Management Programs in Omoro District, Northern Uganda.
+39501352	Preserving nets, protecting children: an evaluation of factors influencing the utilization and physical integrity of long-lasting insecticidal nets among under-five children in Osun State, Nigeria.
 39501336	Low nucleotide diversity of the Plasmodium falciparum AP2-EXP2 gene among clinical samples from Ghana.
 39501325	Emerging threat of artemisinin partial resistance markers (pfk13 mutations) in Plasmodium falciparum parasite populations in multiple geographical locations in high transmission regions of Uganda.
 39501261	CYP3A4-mediated metabolism of artemisinin to 10β-hydroxyartemisinin with comparable anti-malarial potency.
@@ -9990,10 +9997,3 @@
 36036514	Plasmodium falciparum and TNF-α Differentially Regulate Inflammatory and Barrier Integrity Pathways in Human Brain Endothelial Cells.
 36036460	The spectrum of clinical biomarkers in severe malaria and new avenues for exploration.
 36036155	New pyrazolylpyrazoline derivatives as dual acting antimalarial-antileishamanial agents: synthesis, biological evaluation and molecular modelling simulations.
-36035627	Molecular and epidemiological surveillance of Plasmodium spp. during a mortality event affecting Humboldt penguins (Spheniscus humboldti) at a zoo in the UK.
-36034845	Research progress and applications of nanobody in human infectious diseases.
-36034714	Hepatoprotective activity of Eucalyptus camaldulensis extract in murine malaria mediated by suppression of oxidative and inflammatory processes.
-36034708	Novel highly-multiplexed AmpliSeq targeted assay for Plasmodium vivax genetic surveillance use cases at multiple geographical scales.
-36034007	Caregiver´s perception of the home-based management of childhood malaria in Baneghang and Fombap health areas in the West Region of Cameroon.
-36033889	Deficiency of migration inhibitory factor influences the gut microbiota of C57BL/6 mice infected with Plasmodium berghei ANKA.
-36033735	Public sentiments toward COVID-19 vaccines in South African cities: An analysis of Twitter posts.
