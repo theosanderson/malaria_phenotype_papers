@@ -1,3 +1,5 @@
+39503941	Health-related quality of life due to malaria: a systematic review.
+39503566	Laboratory detection of donors implicated in transfusion-transmitted malaria.
 39502782	Truth is relative; Client report versus provider report, a post-modern analysis of data from a trial in the private retail medicine sector.
 39502751	Exacerbation of Hyperbilirubinemia by Falciparum Malaria in a Patient With Coexisting Gilbert's Syndrome and Glucose-6-Phosphate Dehydrogenase Deficiency.
 39502332	Factors influencing health workers' adherence to malaria treatment guidelines in under-five children in Nigeria: A scoping review.
@@ -9995,5 +9997,3 @@
 36037003	Modelling infectious disease to support human health.
 36036611	Efficacy of Artemether-Lumefantrine and Dihydroartemisinin-Piperaquine for the Treatment of Uncomplicated Plasmodium falciparum Malaria among Children in Western Kenya, 2016 to 2017.
 36036514	Plasmodium falciparum and TNF-α Differentially Regulate Inflammatory and Barrier Integrity Pathways in Human Brain Endothelial Cells.
-36036460	The spectrum of clinical biomarkers in severe malaria and new avenues for exploration.
-36036155	New pyrazolylpyrazoline derivatives as dual acting antimalarial-antileishamanial agents: synthesis, biological evaluation and molecular modelling simulations.
