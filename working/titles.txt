@@ -1,3 +1,6 @@
+39499551	Implementation of a Mobile Health Approach to a Long-Lasting Insecticidal Net Uptake Intervention for Malaria Prevention Among Pregnant Women in Tanzania: Process Evaluation of the Hati Salama (HASA) Randomized Controlled Trial Study.
+39499387	Severe Plasmodium vivax Malaria Complicated with Acute Leukoencephalopathy with Restricted Diffusion.
+39499240	Apicomplexan Espionage: Orchestrated Miscommunication at the Host-Parasite Interface.
 39498304	Federated difference-in-differences with multiple time periods in DataSHIELD.
 39497951	Understanding one health challenges in marginalized urban settings: A patient and public involvement (PPI) approach from the CHIP consortium activities across four global cities.
 39497915	Call for elimination program of Malaria among children under 5 years old living in refugee camps in eastern Democratic Republic of Congo.
@@ -9994,6 +9997,3 @@
 36031553	Evolving perspectives on rosetting in malaria.
 36030961	A lentic microcosm approach to determine the toxicity of DDT and deltamethrin on diatom communities.
 36030799	Association between fetal abdominal growth trajectories, maternal metabolite signatures early in pregnancy, and childhood growth and adiposity: prospective observational multinational INTERBIO-21st fetal study.
-36030375	In Silico Prediction of Andrographolide Dosage Regimens for COVID-19 Treatment.
-36030330	Haemosporidians from a Neglected Group of Terrestrial Wild Birds in the Peruvian Amazonia.
-36030292	Efficient infection of non-human primates with purified, cryopreserved Plasmodium knowlesi sporozoites.
