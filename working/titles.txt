@@ -1,3 +1,15 @@
+39508255	Population-pharmacokinetic/pharmacodynamic model of atractylodes lancea (Thunb.) DC. administration in patients with advanced-stage intrahepatic cholangiocarcinoma: a dosage prediction.
+39508196	The prevalence and distribution of malaria in Mpumalanga Province before and during COVID-19 (2017 - 2022).
+39508054	Achieving HIV epidemic control through accelerating efforts to expand access to pre-exposure prophylaxis for people who inject drugs.
+39507880	Geospatial Analysis of Malaria Burden in Kagera Region, Northwestern Tanzania Using Health Facility and Community Survey Data.
+39507815	A chromosomal reference genome sequence for the malaria mosquito, Anopheles marshallii, Theobald, 1903.
+39507641	Morphological Spectrum of Bone Marrow Aspirates in Infections: A Clinico-Hematological Analysis.
+39507013	Predictors of disease outbreaks at continental-scale in the African region: Insights and predictions with geospatial artificial intelligence using earth observations and routine disease surveillance data.
+39506794	Azithromycin in severe malaria bacterial co-infection in African children (TABS-PKPD): a phase II randomised controlled trial.
+39506733	Perspectives of postpartum women on intermittent presumptive treatment in Uganda: implications for malaria prevention: a qualitative study.
+39506687	Prevalence and factors associated with cerebral malaria among children aged 6 to 59 months with severe malaria in Western Uganda: a hospital-based cross-sectional study.
+39506595	The Prevalence of Transfusion-Transmitted Infections and Nucleic Acid Testing Among Blood Donors in Makkah, Saudi Arabia.
+39506582	A Case of Rare Imported Plasmodium ovale Infection in Shaoxing.
 39505359	Questions on travel and sexual behaviours negatively impact ethnic minority donor recruitment: Effect of negative word-of-mouth and avoidance.
 39505355	Antiplasmodial and Insecticidal Activities of Third-Generation Ivermectin Hybrids.
 39504755	Minocycline inhibits microglial activation in the CA1 hippocampal region and prevents long-term cognitive sequel after experimental cerebral malaria.
@@ -9985,15 +9997,3 @@
 36038428	Optimizing Plasmodium vivax serological surveillance within a coendemic epidemiological landscape.
 36038242	Rapid magneto-enzyme-linked immunosorbent assay for ultrasensitive protein detection.
 36038059	Anti-folate quintuple mutations in Plasmodium falciparum asymptomatic infections in Yaoundé, Cameroon.
-36038058	On the genetics of malaria parasites, a memoir: Part II, the diversity and phylogeny of the rodent malaria parasites.
-36037868	Safety, Tolerability, and Parasite Clearance Kinetics in Controlled Human Malaria Infection after Direct Venous Inoculation of Plasmodium falciparum Sporozoites: A Model for Evaluating New Blood-Stage Antimalarial Drugs.
-36037867	Care Seeking and Treatment of Febrile Children with and without Danger Signs of Severe Disease in Northern Uganda: Results from Three Household Surveys (2018-2020).
-36037865	School-Based Educational Interventions on Prevention and Control of Malaria-A Systematic Review and Meta-Analysis.
-36037636	Post-translational lipid modifications in Plasmodium parasites.
-36037410	Toolkit of Approaches To Support Target-Focused Drug Discovery for Plasmodium falciparum Lysyl tRNA Synthetase.
-36037380	Brain endothelial STING1 activation by Plasmodium-sequestered heme promotes cerebral malaria via type I IFN response.
-36037353	Different classes of genomic inserts contribute to human antibody diversity.
-36037246	Proteomic characteristics of plasma and blood cells in natural aging rhesus monkeys.
-36037216	Competing health risks associated with the COVID-19 pandemic and early response: A scoping review.
-36037183	Plasmodium falciparum serology: A comparison of two protein production methods for analysis of antibody responses by protein microarray.
-36037109	β-Eudesmol Inhibits the Migration of Cholangiocarcinoma Cells by Suppressing Epithelial-Mesenchymal Transition via PI3K/AKT and p38MAPK Modulation.
