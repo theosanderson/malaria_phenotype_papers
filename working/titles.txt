@@ -1,14 +1,15 @@
-39507880	Geospatial Analysis of Malaria Burden in Kagera Region, Northwestern Tanzania Using Health Facility and Community Survey Data.
-39507815	A chromosomal reference genome sequence for the malaria mosquito, Anopheles marshallii, Theobald, 1903.
-39508054	Achieving HIV epidemic control through accelerating efforts to expand access to pre-exposure prophylaxis for people who inject drugs.
-39507013	Predictors of disease outbreaks at continental-scale in the African region: Insights and predictions with geospatial artificial intelligence using earth observations and routine disease surveillance data.
-39506794	Azithromycin in severe malaria bacterial co-infection in African children (TABS-PKPD): a phase II randomised controlled trial.
-39506733	Perspectives of postpartum women on intermittent presumptive treatment in Uganda: implications for malaria prevention: a qualitative study.
-39506687	Prevalence and factors associated with cerebral malaria among children aged 6 to 59 months with severe malaria in Western Uganda: a hospital-based cross-sectional study.
 39506595	The Prevalence of Transfusion-Transmitted Infections and Nucleic Acid Testing Among Blood Donors in Makkah, Saudi Arabia.
 39506582	A Case of Rare Imported Plasmodium ovale Infection in Shaoxing.
 39508255	Population-pharmacokinetic/pharmacodynamic model of atractylodes lancea (Thunb.) DC. administration in patients with advanced-stage intrahepatic cholangiocarcinoma: a dosage prediction.
 39508196	The prevalence and distribution of malaria in Mpumalanga Province before and during COVID-19 (2017 - 2022).
+39508054	Achieving HIV epidemic control through accelerating efforts to expand access to pre-exposure prophylaxis for people who inject drugs.
+39507880	Geospatial Analysis of Malaria Burden in Kagera Region, Northwestern Tanzania Using Health Facility and Community Survey Data.
+39507815	A chromosomal reference genome sequence for the malaria mosquito, Anopheles marshallii, Theobald, 1903.
+39507641	Morphological Spectrum of Bone Marrow Aspirates in Infections: A Clinico-Hematological Analysis.
+39507013	Predictors of disease outbreaks at continental-scale in the African region: Insights and predictions with geospatial artificial intelligence using earth observations and routine disease surveillance data.
+39506794	Azithromycin in severe malaria bacterial co-infection in African children (TABS-PKPD): a phase II randomised controlled trial.
+39506733	Perspectives of postpartum women on intermittent presumptive treatment in Uganda: implications for malaria prevention: a qualitative study.
+39506687	Prevalence and factors associated with cerebral malaria among children aged 6 to 59 months with severe malaria in Western Uganda: a hospital-based cross-sectional study.
 39505359	Questions on travel and sexual behaviours negatively impact ethnic minority donor recruitment: Effect of negative word-of-mouth and avoidance.
 39505355	Antiplasmodial and Insecticidal Activities of Third-Generation Ivermectin Hybrids.
 39504755	Minocycline inhibits microglial activation in the CA1 hippocampal region and prevents long-term cognitive sequel after experimental cerebral malaria.
@@ -5267,7 +5268,6 @@
 37674172	Strategies for deploying triple artemisinin-based combination therapy in the Greater Mekong Subregion.
 37673924	Author Correction: Propensity of selecting mutant parasites for the antimalarial drug cabamiquine.
 37673369	Changes in oxygen delivery during experimental models of cerebral malaria.
-39507641	Morphological Spectrum of Bone Marrow Aspirates in Infections: A Clinico-Hematological Analysis.
 39469617	The Implementation of the International Health Regulations on Vector-Borne Diseases: A Scoping Review of the Qualitative Evidence Performed Worldwide.
 37672741	Unpacking Cochrane's Update on Masks and COVID-19.
 37672548	Weekly primaquine for radical cure of patients with Plasmodium vivax malaria and glucose-6-phosphate dehydrogenase deficiency.
