@@ -1,3 +1,11 @@
+39545032	[Morbidity and mortality in hospitalised patients vaccinated versus hospitalised patients not vaccinated against COVID-19 in three regions of Cameroon].
+39545028	Exploring the relationship between Plasmodium falciparum genetic diversity and antimalarial drugs resistance markers in a malaria-endemic region of Burkina Faso.
+39544887	Experience of piloting BPaLM/BPaL for DR-TB care at selected sites in Pakistan.
+39544623	Association of Sickle Cell Disease, Malaria and HIV in Multi Drug Resistant Invasive Non-typhoidal Salmonella Isolated from Outpatient and Hospitalised Children Below 16 Years in Informal Settlements in Nairobi County, Kenya.
+39544493	Optimizing Lumefantrine Dosing for Young Children in High-Malaria-Burden Countries Using Pharmacokinetic-Pharmacodynamic Simulations.
+39543999	Addressing Public Health Risks: Strategies to Combat Infectious Diseases After the August 2024 Floods in Bangladesh.
+39543992	Characteristics of imported and domestic malaria cases in Gyeonggi Province, Republic of Korea.
+39543779	Plasmodium falciparum genetic diversity and multiplicity of infection among asymptomatic and symptomatic malaria-infected individuals in Uganda.
 39543302	Resistance to crucial malaria drug detected in severely ill kids in Africa.
 39543235	Polymorphisms in the Pfcrt, Pfmdr1, and Pfk13 genes of Plasmodium falciparum isolates from southern Brazzaville, Republic of Congo.
 39542943	Effects of nanocapsules containing lumefantrine and artemether in an experimental model of cerebral malaria.
@@ -9989,11 +9997,3 @@
 36080446	The Chemical and Pharmacological Research Progress on a Kind of Chinese Herbal Medicine, Fructus Malvae.
 36080381	New Halogenated Compounds from Halimeda macroloba Seaweed with Potential Inhibitory Activity against Malaria.
 36080246	Novel Hits for N-Myristoyltransferase Inhibition Discovered by Docking-Based Screening.
-36079675	A Review on Traditionally Used African Medicinal Plant Annickia chlorantha, Its Phytochemistry, and Anticancer Potential.
-36078273	Is There Always a Negative Causality between Human Health and Environmental Degradation? Current Evidence from Rural China.
-36078258	A Scoping Review of Preterm Births in Sub-Saharan Africa: Burden, Risk Factors and Outcomes.
-36076615	Medicinal uses, pharmacological activities, phytochemistry, and the molecular mechanisms of Punica granatum L. (pomegranate) plant extracts: A review.
-36076204	Prevalence of G6PD deficiency and distribution of its genetic variants among malaria-suspected patients visiting Metehara health centre, Eastern Ethiopia.
-36076060	Commercialized artemisinin derivatives combined with colistin protect against critical Gram-negative bacterial infection.
-36075273	Artemisia argyi extract induces apoptosis in human gemcitabine-resistant lung cancer cells via the PI3K/MAPK signaling pathway.
-36074826	Lingering fever.
