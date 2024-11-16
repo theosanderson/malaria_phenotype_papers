@@ -1,3 +1,7 @@
+39548094	Eliminating malaria transmission requires targeting immature and mature gametocytes through lipoidal uptake of antimalarials.
+39547909	Tragedy of the commons: the resource struggle during Plasmodium infection.
+39547422	Preclinical development of lyophilized self-replicating RNA vaccines for COVID-19 and malaria with improved long-term thermostability.
+39547273	Iron‑sulfur cluster biogenesis and function in Apicomplexa parasites.
 39546548	MosAIC: An annotated collection of mosquito-associated bacteria with high-quality genome assemblies.
 39545737	The extended recovery ring-stage survival assay is a scalable alternative for artemisinin susceptibility phenotyping of fresh Plasmodium falciparum isolates.
 39545399	Determinants of Cervical Cancer Screening Among Rural Women in Zimbabwe.
@@ -29,7 +33,7 @@
 39537762	G6PD trait: societal importance to ensure well-being of female heterozygotes for health and childbirth.
 39537634	Plasmodium vivax antigen candidate prediction improves with the addition of Plasmodium falciparum data.
 39537096	Relative efficacy of anti-Plasmodium vivax malaria combination drugs in preventing transmission to two major Anopheles mosquitos in the first few days of treatment.
-39536985	Triple Artemisinin-based Combination Therapy (TACT): Efficacy of dihydroartemisinin-piperaquine plus chloroquine against Plasmodium berghei ANKA strains with different drug sensitivities in a murine malaria model.
+39536985	Triple artemisinin-based combination therapy (TACT): Efficacy of dihydroartemisinin-piperaquine plus chloroquine against Plasmodium berghei ANKA strains with different drug sensitivities in a murine malaria model.
 39536889	Genetic diversity of Plasmodium vivax population in northeast Myanmar assessed by amplicon sequencing of PvMSP1 and PvMSP3α.
 39536215	Sociodemographic aspects, time series and high-risk clusters of malaria in the extra-Amazon region of Brazil: a 22-year study.
 39536062	Cross sectional survey of maternal and newborn quality of care in Niger: Selected findings, lessons learned and recommendations.
@@ -4501,6 +4505,7 @@
 37978446	Genetic diversity of merozoite surface protein-5 (MSP-5) of Plasmodium vivax isolates from Malaria patients in Iran.
 37978324	The volatilome signatures of Plasmodium falciparum parasites during the intraerythrocytic development cycle in vitro under exposure to artemisinin drug.
 37977356	Metacaspase (Pf MCA-1) as antimalarial drug target: An in silico approach and their biological validation.
+37977174	The 2023 report of the Lancet Countdown on health and climate change: the imperative for a health-centred response in a world facing irreversible harms.
 37976701	Cytokine storm in COVID-19 and malaria: Annals of pro-inflammatory cytokines.
 37975998	The COVID-19 Pandemic's Impact on Health Service Utilization Among Pregnant Women in Three Nigerian States: A Mixed Methods Study.
 37975318	In vitro and in silico guided identification of antimalarial phytoconstituent(s) in the root of Citrus maxima (Burm.) Merr.
@@ -9343,6 +9348,7 @@
 36307857	Social acceptance of livestock-administered endectocides for malaria control in Vhembe District, Limpopo Province, South Africa.
 36307852	Molecular surveillance for anti-malarial drug resistance and genetic diversity of Plasmodium falciparum after chloroquine and sulfadoxine-pyrimethamine withdrawal in Quibdo, Colombia, 2018.
 36307833	Plasmodium falciparum community prevalence and health-seeking behaviours in rural Sussundenga District, Mozambique.
+36306815	The 2022 report of the Lancet Countdown on health and climate change: health at the mercy of fossil fuels.
 36306538	N-sulfonylpiperidinedispiro-1,2,4,5-tetraoxanes exhibit potent in vitro antiplasmodial activity and in vivo efficacy in mice infected with P. berghei ANKA.
 36306288	Dual role of an essential HtrA2/Omi protease in the human malaria parasite: Maintenance of mitochondrial homeostasis and induction of apoptosis-like cell death under cellular stress.
 36306287	Piperaquine-resistant PfCRT mutations differentially impact drug transport, hemoglobin catabolism and parasite physiology in Plasmodium falciparum asexual blood stages.
@@ -9991,9 +9997,3 @@
 36085071	Evaluation of HRP2 and pLDH-based rapid diagnostic tests for malaria and prevalence of pfhrp2/3 deletions in Aweil, South Sudan.
 36084031	The mosquito vectors that sustained malaria transmission during the Magude project despite the combined deployment of indoor residual spraying, insecticide-treated nets and mass-drug administration.
 36083995	Ethical considerations in deploying triple artemisinin-based combination therapies for malaria: An analysis of stakeholders' perspectives in Burkina Faso and Nigeria.
-36083983	Outdoor residual spraying for malaria vector-control in Kayin (Karen) state, Myanmar: A cluster randomized controlled trial.
-36083842	The α-Galactosyl Carbohydrate Epitope in Pathogenic Protozoa.
-36083007	Barriers and facilitators to nationwide implementation of the malaria vaccine in Ghana.
-36082431	Mutant PfCRT Can Mediate Piperaquine Resistance in African Plasmodium falciparum With Reduced Fitness and Increased Susceptibility to Other Antimalarials.
-36081516	The striking mimics between COVID-19 and malaria: A review.
-36081291	Thiaplakortone B attenuates RANKL-induced NF-κB and MAPK signaling and dampens OVX-induced bone loss in mice.
