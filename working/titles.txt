@@ -210,6 +210,7 @@
 39483206	Recent Trends in Malaria Vaccine Research Globally: A Bibliometric Analysis From 2005 to 2022.
 39488746	Global Health Priority Box─Proactive Pandemic Preparedness.
 39488329	An immuno-inflammatory profiling of asymptomatic individuals in a malaria endemic area in Uganda.
+39488222	The 2024 report of the Lancet Countdown on health and climate change: facing record-breaking threats from delayed action.
 39488015	Profile of molecular markers of Sulfadoxine-Pyrimethamine-resistant Plasmodium falciparum in individuals living in southern area of Brazzaville, Republic of Congo.
 39482779	Interleukin-4 and its receptor alpha in paediatric uncomplicated malaria patients from a Ghanaian case-control study.
 39481007	Biogenesis of Cytochromes c and c(1) in the Electron Transport Chain of Malaria Parasites.
@@ -9996,4 +9997,3 @@
 36089876	WHEN QUARTAN FEVER RELIEVED DEPRESSION: THE INCEPTION OF PYRETOTHERAPY IN THE GRECO-ROMAN ANTIQUITY.
 36089546	From DC18 to MR07: A Metabolically Stable 4,4'-Oxybisbenzoyl Amide as a Low-Nanomolar Growth Inhibitor of P. falciparum.
 36089499	Deceiving and escaping complement - the evasive journey of the malaria parasite.
-36089201	Quebrachitol from Putranjiva roxburghii Wall. (Putranjivaceae) a potent antimalarial: Pre-clinical efficacy and its interaction with PfLDH.
