@@ -1,3 +1,12 @@
+39556256	Pretreatment and acquired HIV drug resistance in Belize-results of nationally representative surveys, 2021-22.
+39556126	"They are trying their best": incarcerated individuals' assessment of general healthcare services in selected Ghanaian prisons.
+39556081	Effect of protease inhibitors on the intraerythrocytic development of Babesia microti and Babesia duncani, the causative agents of human babesiosis.
+39555079	ProC6C, a novel multi-stage malaria vaccine, elicits functional antibodies against the minor and central repeats of the Circumsporozoite Protein in human adults.
+39554985	In silico study, synthesis and antimalarial evaluation of hybrid pyridine substituted pyrazole 1,3,5-triazine derivatives.
+39554869	Investigation of Wright Blood Group Alleles and Genotypes in Malaria-Endemic Area in Southwestern Saudi Arabia.
+39554718	Embryo and Fetal Toxic Effects of the Hydroethanol Extract of Urtica simensis Hochst. Ex. A. Rich Leaves in Pregnant Rats.
+39554424	Evaluating Antimalarial Proteasome Inhibitors for Efficacy in Babesia Blood Stage Cultures.
+39554245	Modelling transmission dynamics and genomic diversity in a recombining parasite population.
 39552985	A Case of Post-malarial Postural Orthostatic Tachycardia Syndrome in a Young Woman of South Asian Origin.
 39552715	The performance of a point-of-care test for the diagnosis of Neurocysticercosis in a resource-poor community setting in Zambia - a diagnostic accuracy study.
 39552300	In silico studies for improving target selectivity of anti-malarial dual falcipain inhibitors vis-à-vis human cathepsins.
@@ -9988,12 +9997,3 @@
 36093204	Seroepidemiological surveillance, community perceptions and associated risk factors of malaria exposure among forest-goers in Northeastern Thailand.
 36093199	Macrophage migration inhibitory factor contributes to immunopathogenesis during Plasmodium yoelii 17XL infection.
 36093191	Single-cell RNA profiling of Plasmodium vivax-infected hepatocytes reveals parasite- and host- specific transcriptomic signatures and therapeutic targets.
-36092852	Acute Malaria in Malawian Children and Adults is Characterized by Thrombocytopenia That Normalizes in Convalescence.
-36092633	Integrated Network Pharmacology Analysis and Serum Metabolomics to Reveal the Anti-malaria Mechanism of Artesunate.
-36092390	Nanogels Containing Foeniculum vulgare Mill. and Mentha piperita L. Essential Oils: Mosquitoes' Repellent Activity and Antibacterial Effect.
-36092359	Plasmodium vivax latent liver infection is characterized by persistent hypnozoites, hypnozoite-derived schizonts, and time-dependent efficacy of primaquine.
-36091789	The evaluation of ADME and pharmacokinetic properties of decoquinate derivatives for the treatment of malaria.
-36091554	Predicting malaria outbreaks from sea surface temperature variability up to 9 months ahead in Limpopo, South Africa, using machine learning.
-36091262	Assessment of Plasmodium falciparum histidine rich protein 2 and /3 (pfhrp 2&/ pfhrp 3) gene deletion or mutation in Plasmodium falciparum positive blood samples in a tertiary care centre in South India.
-36091043	PD-1(+) CD4 T cell immune response is mediated by HIF-1α/NFATc1 pathway after P. yoelii infection.
-36090831	Community-Based Malaria Testing Reduces Polypharmacy in a Population-Based Survey of Febrile Illness in Western Kenya.
