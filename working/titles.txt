@@ -1,3 +1,6 @@
+39552985	A Case of Post-malarial Postural Orthostatic Tachycardia Syndrome in a Young Woman of South Asian Origin.
+39552715	The performance of a point-of-care test for the diagnosis of Neurocysticercosis in a resource-poor community setting in Zambia - a diagnostic accuracy study.
+39552300	In silico studies for improving target selectivity of anti-malarial dual falcipain inhibitors vis-à-vis human cathepsins.
 39551063	Is ivermectin surviving expectations in residual malaria control?
 39551062	Adjunctive ivermectin mass drug administration for malaria control on the Bijagos Archipelago of Guinea-Bissau (MATAMAL): a quadruple-blinded, cluster-randomised, placebo-controlled trial.
 39551038	Vaccine efficacy induced by 2020-2021 seasonal influenza-derived H3N1 virus-like particles co-expressing M2e5x or N2.
@@ -9994,6 +9997,3 @@
 36091262	Assessment of Plasmodium falciparum histidine rich protein 2 and /3 (pfhrp 2&/ pfhrp 3) gene deletion or mutation in Plasmodium falciparum positive blood samples in a tertiary care centre in South India.
 36091043	PD-1(+) CD4 T cell immune response is mediated by HIF-1α/NFATc1 pathway after P. yoelii infection.
 36090831	Community-Based Malaria Testing Reduces Polypharmacy in a Population-Based Survey of Febrile Illness in Western Kenya.
-36090665	Plasmodium relictum MSP-1 capture antigen-based ELISA for detection of avian malaria antibodies in African penguins (Spheniscus demersus).
-36090033	Neurotransmitters and molecular chaperones interactions in cerebral malaria: Is there a missing link?
-36089984	Effectiveness of antenatal intermittent preventive treatment for malaria with sulphadoxine-pyrimethamine on peripartum outcomes.
