@@ -1,3 +1,4 @@
+39560751	Antiplasmodial potential of compounds isolated from Ziziphus mucronata and their binding to Plasmodium falciparum HGXPRT using biophysical and molecular docking studies.
 39559371	Malaria parasitemia and its association with CD4 cells, viral load and haematological parameters among HIV-infected children < 15 years in the Bonasssama Health District, Douala, Cameroon: Prevalence and risk factors.
 39558760	Unprecedented large outbreak of Plasmodium malariae malaria in Vietnam: Epidemiological and clinical perspectives.
 39558378	Kidney involvement in Plasmodium falciparum infection in a pregnant patient.
@@ -9996,4 +9997,3 @@
 36095096	Apicoplast biogenesis mediated by ATG8 requires the ATG12-ATG5-ATG16L and SNAP29 complexes in Toxoplasma gondii.
 36094917	Design and development of a self-assembling protein nanoparticle displaying PfHAP2 antigenic determinants recognized by natural acquired antibodies.
 36094254	A Coccidia-Specific Phosphate Transporter Is Essential for the Growth of Toxoplasma gondii Parasites.
-36094220	Naturally Acquired Kelch13 Mutations in Plasmodium falciparum Strains Modulate In Vitro Ring-Stage Artemisinin-Based Drug Tolerance and Parasite Survival in Response to Hyperoxia.
