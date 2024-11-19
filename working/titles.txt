@@ -1,3 +1,9 @@
+39559371	Malaria parasitemia and its association with CD4 cells, viral load and haematological parameters among HIV-infected children < 15 years in the Bonasssama Health District, Douala, Cameroon: Prevalence and risk factors.
+39558760	Unprecedented large outbreak of Plasmodium malariae malaria in Vietnam: Epidemiological and clinical perspectives.
+39558378	Kidney involvement in Plasmodium falciparum infection in a pregnant patient.
+39558351	Factors associated with malaria in pregnancy among antenatal care mothers at Gulu Regional Referral Hospital in northern Uganda.
+39558343	Chloroquine-primaquine therapeutic response and safety in patients with uncomplicated Plasmodium vivax malaria in the Colombian Amazon region.
+39558332	Malaria, relationship with climatic variables and deforestation in Colombia, Latin America and the Caribbean from 2000 to 2020: a systematic review.
 39557901	Probing novel epitopes on the Plasmodium falciparum circumsporozoite protein for vaccine development.
 39557809	Pre-hospital time delays in imported malaria diagnosis in hospitalized sub-Saharan travelers and migrants: not only on the patient's shoulders.
 39556256	Pretreatment and acquired HIV drug resistance in Belize-results of nationally representative surveys, 2021-22.
@@ -9991,9 +9997,3 @@
 36094917	Design and development of a self-assembling protein nanoparticle displaying PfHAP2 antigenic determinants recognized by natural acquired antibodies.
 36094254	A Coccidia-Specific Phosphate Transporter Is Essential for the Growth of Toxoplasma gondii Parasites.
 36094220	Naturally Acquired Kelch13 Mutations in Plasmodium falciparum Strains Modulate In Vitro Ring-Stage Artemisinin-Based Drug Tolerance and Parasite Survival in Response to Hyperoxia.
-36094218	PfSRPK1 Regulates Asexual Blood Stage Schizogony and Is Essential for Male Gamete Formation.
-36094216	Susceptibilities of Ugandan Plasmodium falciparum Isolates to Proteasome Inhibitors.
-36094195	Roseoflavin, a Natural Riboflavin Analogue, Possesses In Vitro and In Vivo Antiplasmodial Activity.
-36094170	The acid ceramidase/ceramide axis controls parasitemia in Plasmodium yoelii-infected mice by regulating erythropoiesis.
-36093265	RTS,S/AS01 malaria vaccine (Mosquirix(®)): a profile of its use.
-36093204	Seroepidemiological surveillance, community perceptions and associated risk factors of malaria exposure among forest-goers in Northeastern Thailand.
