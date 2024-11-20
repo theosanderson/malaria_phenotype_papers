@@ -1,4 +1,6 @@
-39564748	Modular Display of Plasmodium yoelii Circumsporozoite Surface Protein and Surface Protein-1 on Norovirus-like Particles.
+39565309	Identification of a dengue 2 virus envelope protein receptor in Aedes aegypti critical for viral midgut infection.
+39564771	Exploring Antimalarial and Cytotoxic Activities of Hibiscus cannabinus and Corchorus capsularis Extracts through In-Vitro and In-Silico Approaches.
+39564748	Modular Display of Plasmodium yoelii Circumsporozoite Surface Protein and Merozoite Surface Protein-1 on Norovirus-like Particles.
 39564491	Innovative strategies and challenges mosquito-borne disease control amidst climate change.
 39563464	A multicentre prospective registry of one thousand sepsis patients admitted in Indian ICUs: (SEPSIS INDIA) study.
 39563389	Diversity and prevalence of Leucocytozoon in black flies (Diptera: Simuliidae) of Thailand.
@@ -9995,5 +9997,3 @@
 36099380	Genetic identity, human blood indices, and sporozoite rates of malaria vectors in Gaa-Bolorunduro, Kwara State, Nigeria.
 36099349	[Two-year clinico-biological feedback in Overseas France and French-speaking territories during Covid-19 pandemic].
 36099312	Co-infection of the four major Plasmodium species: Effects on densities and gametocyte carriage.
-36098951	Comparing program supervision with an external RADAR evaluation of quality of care in integrated community case management for childhood illnesses in Mali.
-36098738	Next-Generation Monoclonal Antibody Blocks Malaria in Early Trial.
