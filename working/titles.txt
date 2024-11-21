@@ -1,3 +1,21 @@
+39569379	Distinct brain and lung endothelial miRNA/mRNA profiles after exposure to Plasmodium falciparum-infected red blood cells.
+39569272	Patrick Manson: A Physician Pioneer in Parasitology Research.
+39569042	Power calculation for mosquito bioassays: Quantifying variability in the WHO tube bioassay and developing sample size guidance for the PBO synergism assay using a Shiny application.
+39568431	Infections in sickle cell disease.
+39568044	Natural variation in timing of egg hatching, response to water agitation, and bidirectional selection of early and late hatching strains of the malaria mosquito Anopheles gambiae sensu lato.
+39568036	A survey of malaria vectors feeding preference, biting site and resting behaviour in the malaria elimination settings of Dembiya District, north-western Ethiopia.
+39567982	Post-release monitoring pathway for the deployment of gene drive-modified mosquitoes for malaria control in Africa.
+39567974	Correction: An observational analysis of the impact of deltamethrin + piperonyl butoxide insecticide-treated nets on malaria case incidence and entomological indicators in Ebonyi State, Nigeria, 2017-2021.
+39567950	What happens to old insecticide-treated nets after households use in Burkina Faso?
+39567915	Urban slum housing quality, and its public health implications in Nigeria: a case of urban slum residents in Enugu metropolis, South East, Nigeria.
+39567825	This malaria vaccine is delivered by a mosquito bite.
+39567799	Human antibodies offer broad inhibition against variable proteins of the malaria parasite.
+39567718	Spatially resolved single-cell atlas unveils a distinct cellular signature of fatal lung COVID-19 in a Malawian population.
+39567685	Broadly inhibitory antibodies to severe malaria virulence proteins.
+39567619	A systematic review and meta-analysis of blood level of MCP-1/CCL-2 in severe and uncomplicated malaria.
+39567343	The apicoplast biogenesis and metabolism: current progress and questions.
+39566888	Fatal Mixed Plasmodium Infection in Traveler Returning to Colombia from Comoros Islands, 2024.
+39566861	Identification of antimalarial phytoconstituents from Tinospora sinensis (Lour.) Merr. stem by in vitro whole cell assay and multiple targets directed in silico screening against Plasmodium falciparum.
 39565990	Safety and Efficacy of Immunization with a Late-Liver-Stage Attenuated Malaria Parasite.
 39565917	Pf-HaploAtlas: an interactive web app for spatiotemporal analysis of P. falciparum genes.
 39565309	Identification of a dengue 2 virus envelope protein receptor in Aedes aegypti critical for viral midgut infection.
@@ -228,7 +246,7 @@
 39492925	Haematological Profile and Antibiotic Resistance of Bacteria Responsible for Enteric Infections Isolated From Patients Suffering From Malaria and Enteric Infections on Consultation at the Dschang Regional Hospital.
 39492851	Effectiveness of an expanded role for community health workers on malaria blood examination rates in malaria elimination settings in Myanmar: an open stepped-wedge, cluster-randomised controlled trial.
 39492850	Estimating the impact of imported malaria on local transmission in a near elimination setting: a case study from Bhutan.
-39492784	Hormones in Malaria Infection: Influence on Disease Severity, Host Physiology, and Therapeutic Opportunities.
+39492784	Hormones in malaria infection: influence on disease severity, host physiology, and therapeutic opportunities.
 39492781	Household satisfaction with health services and response strategies to malaria in mountain communities of Uganda.
 39492774	An Overview on Antifilarial Efficacy of Heterocyclic Motifs Encompassing Synthetic Strategies, SAR, and Commercialized Medications.
 39492717	Insecticide-treated bednets and chemoprophylaxis reduce malaria mortality and parasite prevalence.
@@ -9979,21 +9997,3 @@
 36105932	The Occurrence and Distribution of Plasmodium Species in Woyn Wuha Health Center, Ethiopia.
 36105674	Roles and current applications of S-nitrosoglutathione in anti-infective biomaterials.
 36105595	Activity-based protein profiling of human and plasmodium serine hydrolases and interrogation of potential antimalarial targets.
-36104737	An innovative three-layer strategy in response to a quartan malaria outbreak among forest goers in Hainan Island, China: a retrospective study.
-36104731	Malaria prevalence in HIV-positive children, pregnant women, and adults: a systematic review and meta-analysis.
-36104721	Correction: Screening strategies and laboratory assays to support Plasmodium falciparum histidine-rich protein deletion surveillance: where we are and what is needed.
-36104427	Hydroxychloroquine blocks SARS-CoV-2 entry into the endocytic pathway in mammalian cell culture.
-36103857	Freshly remodeled and ready to fight malaria.
-36103572	GAPDH mediates drug resistance and metabolism in Plasmodium falciparum malaria parasites.
-36103542	Design of the SARS-CoV-2 RBD vaccine antigen improves neutralizing antibody response.
-36103518	Ghost lineages can invalidate or even reverse findings regarding gene flow.
-36103257	VIVID: A Web Application for Variant Interpretation and Visualization in Multi-dimensional Analyses.
-36102413	New possibilities for chromoblastomycosis and phaeohyphomycosis treatment: identification of two compounds from the MMV Pathogen Box® that present synergism with itraconazole.
-36102335	Advances in mosquito repellents: effectiveness of citronellal derivatives in laboratory and field trials.
-36101880	Semi-field evaluation of human landing catches versus human double net trap for estimating human biting rate of Anopheles minimus and Anopheles harrisoni in Thailand.
-36101540	Ellagic Acid Induces in vitro Alkalinisation of the Digestive Vacuole in Drug-Sensitive Plasmodium falciparum Strain.
-36101104	Literature review of the systematics, biology and role in malaria transmission of species in the Afrotropical Anopheles subgenus Anopheles (Diptera: Culicidae).
-36101065	A new species of the Nuneztovari Complex of Nyssorhynchus (Diptera: Culicidae) from the western Brazilian Amazon.
-36100912	Temporal trends in molecular markers of drug resistance in Plasmodium falciparum in human blood and profiles of corresponding resistant markers in mosquito oocysts in Asembo, western Kenya.
-36100902	Streamlining sporozoite isolation from mosquitoes by leveraging the dynamics of migration to the salivary glands.
-36099380	Genetic identity, human blood indices, and sporozoite rates of malaria vectors in Gaa-Bolorunduro, Kwara State, Nigeria.
