@@ -1,3 +1,5 @@
+39565990	Safety and Efficacy of Immunization with a Late-Liver-Stage Attenuated Malaria Parasite.
+39565917	Pf-HaploAtlas: an interactive web app for spatiotemporal analysis of P. falciparum genes.
 39565309	Identification of a dengue 2 virus envelope protein receptor in Aedes aegypti critical for viral midgut infection.
 39564771	Exploring Antimalarial and Cytotoxic Activities of Hibiscus cannabinus and Corchorus capsularis Extracts through In-Vitro and In-Silico Approaches.
 39564748	Modular Display of Plasmodium yoelii Circumsporozoite Surface Protein and Merozoite Surface Protein-1 on Norovirus-like Particles.
@@ -9995,5 +9997,3 @@
 36100912	Temporal trends in molecular markers of drug resistance in Plasmodium falciparum in human blood and profiles of corresponding resistant markers in mosquito oocysts in Asembo, western Kenya.
 36100902	Streamlining sporozoite isolation from mosquitoes by leveraging the dynamics of migration to the salivary glands.
 36099380	Genetic identity, human blood indices, and sporozoite rates of malaria vectors in Gaa-Bolorunduro, Kwara State, Nigeria.
-36099349	[Two-year clinico-biological feedback in Overseas France and French-speaking territories during Covid-19 pandemic].
-36099312	Co-infection of the four major Plasmodium species: Effects on densities and gametocyte carriage.
