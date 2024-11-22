@@ -1,3 +1,4 @@
+39570730	Remarkable evolutionary rate variations among lineages and among genome compartments in malaria parasites of mammals.
 39569379	Distinct brain and lung endothelial miRNA/mRNA profiles after exposure to Plasmodium falciparum-infected red blood cells.
 39569272	Patrick Manson: A Physician Pioneer in Parasitology Research.
 39569042	Power calculation for mosquito bioassays: Quantifying variability in the WHO tube bioassay and developing sample size guidance for the PBO synergism assay using a Shiny application.
@@ -9996,4 +9997,3 @@
 36106028	Piperine Enhances the Antimalarial Activity of Curcumin in Plasmodium berghei ANKA-Infected Mice: A Novel Approach for Malaria Prophylaxis.
 36105932	The Occurrence and Distribution of Plasmodium Species in Woyn Wuha Health Center, Ethiopia.
 36105674	Roles and current applications of S-nitrosoglutathione in anti-infective biomaterials.
-36105595	Activity-based protein profiling of human and plasmodium serine hydrolases and interrogation of potential antimalarial targets.
