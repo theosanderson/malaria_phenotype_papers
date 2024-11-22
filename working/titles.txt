@@ -1,3 +1,11 @@
+39575308	Iron transport pathways in the human malaria parasite Plasmodium falciparum revealed by RNA-sequencing.
+39575118	Disentangling Interpretable Factors with Supervised Independent Subspace Principal Component Analysis.
+39574898	Malaria risk factors amongst forest going populations in Mondulkiri Province and Kampong Speu Province, Cambodia: a large cross-sectional survey.
+39574894	Multi-locus investigation of Anopheles-mediated selective pressure on Plasmodium falciparum in Africa.
+39574603	Essential role for HSP40 in asexual replication and thermotolerance of malaria parasites.
+39574171	Congenital Plasmodium vivax in a 3-day-old neonate: a case report.
+39574108	Alteration of ceruloplasmin in patients with malaria: a systematic review and meta-analysis of observational studies.
+39574064	Socio-demographic factors, housing characteristics, and clinical symptoms associated with falciparum malaria in two rapidly urbanizing areas in the Ashanti region of Ghana.
 39572689	Plasmodium berghei liver stage parasites exploit host GABARAP proteins for TFEB activation.
 39572327	Multiomic interrogation of an endomembrane disrupting antimalarial.
 39572326	Teratogenic parasites: disease mechanisms and emerging study models.
@@ -175,7 +183,7 @@
 39521346	A vector borne, airborne and food borne infection with secondary hemophagocytic lymphohistocytosis: Case of triple infections in an immuno-competent patient.
 39520514	Duffy Binding Protein Ligand (PvDBP) gene duplication in Indian P. Vivax Malaria isolates: implication for malaria research.
 39520163	A cross-sectional study of point-of-care lactate testing in integrated community care management (ICCM) for children with acute respiratory illness in rural uganda.
-39520091	Synthesis and evaluation of fluorinated piperazine-hydroxyethylamine analogues as potential antiplasmodial candidates.
+39520091	Synthesis and Evaluation of Fluorinated Piperazine-Hydroxyethylamine Analogues as Potential Antiplasmodial Candidates.
 39519166	Water Extract of Pulsatilla koreana Nakai Inhibits Osteoclast Differentiation and Alleviates Ovariectomy-Induced Bone Loss.
 39516817	Assessing the impact of ecological, climatic, and socioeconomic factors on age-specific malaria incidence in India: a mixed-model approach using the Global Burden of Disease Study (2010-2019).
 39516725	Malaria treatment for prevention: a modelling study of the impact of routine case management on malaria prevalence and burden.
@@ -9989,11 +9997,3 @@
 36109765	Efficacy of bednets with dual insecticide-treated netting (Interceptor® G2) on side and roof panels against Anopheles arabiensis in north-eastern Tanzania.
 36109753	Correction: Incentivizing appropriate malaria case management in the private sector: a study protocol for two linked cluster randomized controlled trials to evaluate provider- and client-focused interventions in western Kenya and Lagos, Nigeria.
 36109748	Temporal dynamics of Plasmodium falciparum population in Metehara, east-central Ethiopia.
-36109733	Safety of single-dose primaquine as a Plasmodium falciparum gametocytocide: a systematic review and meta-analysis of individual patient data.
-36109656	No evidence for long-range male sex pheromones in two malaria mosquitoes.
-36109467	Development of Novel Solid Nanostructured Lipid Carriers for Bioavailability Enhancement Using a Quality by Design Approach.
-36107948	Determinants of care-seeking behaviour for fever, acute respiratory infection and diarrhoea among children under five in Nigeria.
-36107865	Overlaying human and mosquito behavioral data to estimate residual exposure to host-seeking mosquitoes and the protection of bednets in a malaria elimination setting where indoor residual spraying and nets were deployed together.
-36106887	Molecular Epidemiology of Drug Resistance Genes in Plasmodium falciparum Isolates Imported from Nigeria between 2016 and 2020: Continued Emergence of Fully Resistant Pfdhfr-Pfdhps Alleles.
-36106757	7H-Pyrrolo[2,3-d]pyrimidine-4-amines as Potential Inhibitors of Plasmodium falciparum Calcium-Dependent Protein Kinases.
-36106425	New Transmission-Selective Antimalarial Agents through Hit-to-Lead Optimization of 2-([1,1'-Biphenyl]-4-carboxamido)benzoic Acid Derivatives.
