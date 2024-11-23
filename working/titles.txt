@@ -1,3 +1,11 @@
+39578850	The association between infrastructure damage in the aftermath of Cyclone Idai and malaria risk in Sofala Province, Mozambique: an ecological study.
+39578801	Clinical characteristics and outcomes of patients on haemodialysis at Jimma medical center, Ethiopia: a 7-Year review.
+39578727	Bioinformatics analysis of the Microsporidia sp. MB genome: a malaria transmission-blocking symbiont of the Anopheles arabiensis mosquito.
+39578462	The PvRBP2b-TfR1 interaction is not essential for reticulocytes invasion by Plasmodium vivax isolates from Cambodia.
+39578187	Placental malaria and circumsporozoite protein-specific immunity.
+39577976	Postpartum maternal and infant haematological effects of second-trimester ferric carboxymaltose versus standard-of-care oral iron in Malawi: longitudinal follow-up of a randomised controlled trial.
+39577971	The epidemiological benefit of pyrethroid-pyrrole insecticide treated nets against malaria: an individual-based malaria transmission dynamics modelling study.
+39577912	Effects of climate change on the brain: an environmental neurology perspective.
 39576115	An inner membrane complex protein IMC1g in Plasmodium berghei is involved in asexual stage schizogony and parasite transmission.
 39575308	Iron transport pathways in the human malaria parasite Plasmodium falciparum revealed by RNA-sequencing.
 39575118	Disentangling Interpretable Factors with Supervised Independent Subspace Principal Component Analysis.
@@ -9989,11 +9997,3 @@
 36113531	Immunogenicity and safety of one-dose human papillomavirus vaccine compared with two or three doses in Tanzanian girls (DoRIS): an open-label, randomised, non-inferiority trial.
 36113519	Avoiding another lost decade in reducing malaria burden in African infants and young children.
 36113404	Cut it out! A CRISPR-Cas9 screen identifies host regulators of the Plasmodium liver stage.
-36111433	Correction to: Impairment of Invasion and Maturation and Decreased Selectivity of Plasmodium falciparum in G6PD Viangchan and Mahidol Variants.
-36111423	Association between asymptomatic infections and linear growth in 18-24-month-old Malawian children.
-36111076	Benign Anorectal Disorder Management in Low-Resource Settings.
-36110885	Exploring the thermal limits of malaria transmission in the western Himalaya.
-36110224	Editorial: Host-microbe interaction and coevolution.
-36109766	Development and evaluation of an electronic algorithm using a combination of a two-step malaria RDT and other rapid diagnostic tools for the management of febrile illness in children under 5 attending outpatient facilities in Burkina Faso.
-36109765	Efficacy of bednets with dual insecticide-treated netting (Interceptor® G2) on side and roof panels against Anopheles arabiensis in north-eastern Tanzania.
-36109753	Correction: Incentivizing appropriate malaria case management in the private sector: a study protocol for two linked cluster randomized controlled trials to evaluate provider- and client-focused interventions in western Kenya and Lagos, Nigeria.
