@@ -1,3 +1,7 @@
+39585202	Individual, Host-Vector Interactions, and Environmental Risk Factors for Plasmodium knowlesi Malaria Among At-Risk Communities in Peninsular Malaysia: A Case-Control Study.
+39585195	Fc-Afucosylation of VAR2CSA-Specific Immunoglobulin G and Clinical Immunity to Placental Plasmodium falciparum Malaria.
+39584985	A Reproducible Protocol for the Isolation of Malaria-Derived Extracellular Vesicles by Differential Centrifugation.
+39584641	[Epidemiology Of Cerebral Malaria At The University Huc Gabriel Toure Before And After The Implementation Of Seasonnal Malaria Chemoprevention In Bamako].
 39584056	The World Health Organization's declaration of Egypt as malaria free will boost malaria control efforts in the region.
 39582882	Co-infection of Plasmodium and soil-transmitted helminth among pregnant women in Abaya district, South Ethiopia: A community-based study.
 39582041	Rapid and supersensitive allele detection of Plasmodium falciparum chloroquine resistance via a Pyrococcus furiosus argonaute-triggered dual-signal biosensing platform.
@@ -9993,7 +9997,3 @@
 36120293	Antimalarial and antitumour activities of the steroidal quinone-methide celastrol and its combinations with artemiside, artemisone and methylene blue.
 36119865	Urogenital schistosomiasis transmission, malaria and anemia among school-age children in Northern Ghana.
 36119646	Antimalarial Activity of Extract and Fractions of Sauropus androgynus (L.) Merr.
-36119411	Adaptation of a Public-Private Partnership Model for the Implementation of Minipool Nucleic Acid Testing for Screening Routine Blood Donations and Assay Evaluation.
-36119062	Safety and immunogenicity of BK-SE36 in a blinded, randomized, controlled, age de-escalating phase Ib clinical trial in Burkinabe children.
-36118203	Viral vector and nucleic acid vaccines against COVID-19: A narrative review.
-36118046	Editorial: Protozoal infections: Treatment and challenges.
