@@ -1,3 +1,5 @@
+39584056	The World Health Organization's declaration of Egypt as malaria free will boost malaria control efforts in the region.
+39582882	Co-infection of Plasmodium and soil-transmitted helminth among pregnant women in Abaya district, South Ethiopia: A community-based study.
 39582041	Rapid and supersensitive allele detection of Plasmodium falciparum chloroquine resistance via a Pyrococcus furiosus argonaute-triggered dual-signal biosensing platform.
 39581924	Background of persistent organic pollutants in estuarine sediments from the Marajó Island, an Amazonian environmental protection area for sustainable use.
 39581722	Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol.
@@ -9995,5 +9997,3 @@
 36119062	Safety and immunogenicity of BK-SE36 in a blinded, randomized, controlled, age de-escalating phase Ib clinical trial in Burkinabe children.
 36118203	Viral vector and nucleic acid vaccines against COVID-19: A narrative review.
 36118046	Editorial: Protozoal infections: Treatment and challenges.
-36118037	Epidemiological characteristics of P. vivax asymptomatic infections in the Peruvian Amazon.
-36118030	Microscopic and submicroscopic infection by Plasmodium falciparum: Immunoglobulin M and A profiles as markers of intensity and exposure.
