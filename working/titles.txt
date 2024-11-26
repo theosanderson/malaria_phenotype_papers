@@ -1,3 +1,4 @@
+39585817	Auto QSAR-based active learning docking for hit identification of potential inhibitors of Plasmodium falciparum Hsp90 as antimalarial agents.
 39585202	Individual, Host-Vector Interactions, and Environmental Risk Factors for Plasmodium knowlesi Malaria Among At-Risk Communities in Peninsular Malaysia: A Case-Control Study.
 39585195	Fc-Afucosylation of VAR2CSA-Specific Immunoglobulin G and Clinical Immunity to Placental Plasmodium falciparum Malaria.
 39584985	A Reproducible Protocol for the Isolation of Malaria-Derived Extracellular Vesicles by Differential Centrifugation.
@@ -58,7 +59,7 @@
 39566888	Fatal Mixed Plasmodium Infection in Traveler Returning to Colombia from Comoros Islands, 2024.
 39566861	Identification of antimalarial phytoconstituents from Tinospora sinensis (Lour.) Merr. Stem by in vitro whole cell assay and multiple targets directed in silico screening against Plasmodium falciparum.
 39565990	Safety and Efficacy of Immunization with a Late-Liver-Stage Attenuated Malaria Parasite.
-39565917	Pf-HaploAtlas: an interactive web app for spatiotemporal analysis of P. falciparum genes.
+39565917	Pf-HaploAtlas: an interactive web app for spatiotemporal analysis of Plasmodium falciparum genes.
 39565309	Identification of a dengue 2 virus envelope protein receptor in Aedes aegypti critical for viral midgut infection.
 39564771	Exploring Antimalarial and Cytotoxic Activities of Hibiscus cannabinus and Corchorus capsularis Extracts through In-Vitro and In-Silico Approaches.
 39564748	Modular Display of Plasmodium yoelii Circumsporozoite Surface Protein and Merozoite Surface Protein-1 on Norovirus-like Particles.
@@ -9996,4 +9997,3 @@
 36120546	Exported J domain proteins of the human malaria parasite.
 36120293	Antimalarial and antitumour activities of the steroidal quinone-methide celastrol and its combinations with artemiside, artemisone and methylene blue.
 36119865	Urogenital schistosomiasis transmission, malaria and anemia among school-age children in Northern Ghana.
-36119646	Antimalarial Activity of Extract and Fractions of Sauropus androgynus (L.) Merr.
