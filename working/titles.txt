@@ -1,3 +1,6 @@
+39588232	Variability of day-to-day pulsatility index change in children with cerebral malaria.
+39587608	Genetic diversity of Plasmodium falciparum and Plasmodium vivax field isolates from the Nowshera district of Pakistan.
+39587579	Leveraging international stakeholders' experiences with oral PrEP costs to accelerate implementation of the monthly dapivirine vaginal ring: A qualitative study.
 39587290	Hopes, fears and uncertainty: life scientists react to Trump's election victory.
 39587220	Development of flame retardant slow release insecticides paint and testing its efficacy for four years against dengue and malaria vectors.
 39587110	High-throughput genotyping of Plasmodium vivax in the Peruvian Amazon via molecular inversion probes.
@@ -9994,6 +9997,3 @@
 36121873	Genome-wide association study of leprosy in Malawi and Mali.
 36121847	Omitting age-dependent mosquito mortality in malaria models underestimates the effectiveness of insecticide-treated nets.
 36121809	Spatiotemporal variation of malaria incidence in parasite clearance interventions and non-intervention areas in the Amhara Regional State, Ethiopia.
-36121226	Molecular Determinants of Sulfadoxine-Pyrimethamine Resistance in Plasmodium falciparum Isolates from Central Africa between 2016 and 2021: Wide Geographic Spread of Highly Mutated Pfdhfr and Pfdhps Alleles.
-36121169	Dynamics of the Gut Microbiome in Shigella-Infected Children during the First Two Years of Life.
-36121150	Heat Shock Protein 90 Regulates the Activity of Histone Deacetylase Sir2 in Plasmodium falciparum.
