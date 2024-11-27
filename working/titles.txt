@@ -1,3 +1,23 @@
+39601110	Evaluating the effectiveness and cost-effectiveness of integrating mass drug administration for helminth control with seasonal malaria chemoprevention in Ghanaian children: Protocol for a cluster randomised controlled trial.
+39600564	Retraction: The Plasmodium circumsporozoite protein, a novel NF-κB inhibitor, suppresses the growth of SW480.
+39600347	Patterns of Gene Flow in Anopheles coluzzii Populations From Two African Oceanic Islands.
+39599836	Prevalence, Risk Factors, and Clinical Profiles of Hepatitis D Virus in Nigeria: A Systematic Review, 2009-2024.
+39599483	Intestinal Parasites and Hematological Parameters in Children Living in Ambatoboeny District, Madagascar.
+39599477	Suppression by RNA Polymerase I Inhibitors Varies Greatly Between Distinct RNA Polymerase I Transcribed Genes in Malaria Parasites.
+39598657	Regioselective Synthesis of Potential Non-Quinonoid Prodrugs of Plasmodione: Antiparasitic Properties Against Two Hemoglobin-Feeding Parasites and Drug Metabolism Studies.
+39598540	Recent Advances in the Treatment of Malaria.
+39598526	The Combination of Buparvaquone and ELQ316 Exhibit a Stronger Effect than ELQ316 and Imidocarb Against Babesia bovis In Vitro.
+39598493	Improved Malaria Therapy with Cationic Nanocapsules Demonstrated in Plasmodium berghei-Infected Rodents Using Whole Blood Surrogate Population PK/PD Modeling.
+39598252	A Severe Case of Plasmodium falciparum Malaria in a 44-Year-Old Caucasian Woman on Return to Western Romania from a Visit to Nigeria.
+39597971	Dihydroartemisinin-Piperaquine Combination in the Treatment of Uncomplicated Plasmodium falciparum Malaria: Update on Clinical Failures in Africa and Tools for Surveillance.
+39596860	Setting Up an NGS Sequencing Platform and Monitoring Molecular Markers of Anti-Malarial Drug Resistance in Djibouti.
+39596368	The J Domain Proteins of Plasmodium knowlesi, a Zoonotic Malaria Parasite of Humans.
+39595951	Identification of Malaria-Selective Proteasome β5 Inhibitors Through Pharmacophore Modeling, Molecular Docking, and Molecular Dynamics Simulation.
+39595803	The Prevalence of Childhood Asthma, Respiratory Symptoms and Associated Air Pollution Sources Among Adolescent Learners in Selected Schools in Vhembe District, South Africa.
+39595762	Geospatial Analysis of Malaria and Typhoid Prevalence Due to Waste Dumpsite Exposure in Kinshasa Districts with and Without Waste Services: A Case Study of Bandalungwa and Bumbu, Democratic Republic of Congo.
+39595754	Impact of Climate Variability and Interventions on Malaria Incidence and Forecasting in Burkina Faso.
+39595203	Severe Malaria in Angola: The Clinical Profile and Disease Outcome Among Adults from a Low-Endemic Area.
+39595151	The Critical Role of Host and Bacterial Extracellular Vesicles in Endometriosis.
 39593092	Predicting the risk of malaria importation into Jiangsu Province, China: a modeling study.
 39593061	Procedural legitimacy: co-developing a community agreement model for genetic approaches research to malaria control in Africa.
 39592155	South Sudan: Surge in admissions for severe malaria among children shows a health system under serious strain.
@@ -9977,23 +9997,3 @@
 36140066	Magnetic Bead Handling Using a Paper-Based Device for Quantitative Point-of-Care Testing.
 36140052	Quercetin Is a Novel Inhibitor of the Choline Kinase of Streptococcus pneumoniae.
 38455338	A maximum-likelihood method to estimate haplotype frequencies and prevalence alongside multiplicity of infection from SNP data.
-36138457	Population health trends analysis and burden of disease profile observed in Sierra Leone from 1990 to 2017.
-36137276	Subtilisin-like Serine Protease 1 (SUB1) as an Emerging Antimalarial Drug Target: Current Achievements in Inhibitor Discovery.
-36137068	Comparative single-cell transcriptional atlases of Babesia species reveal conserved and species-specific expression profiles.
-36136654	The Prevalence of Malaria and Bacteremia Co-Infections among Febrile Patients: A Systematic Review and Meta-Analysis.
-36136633	Leukocyte and IgM Responses to Immunization with the CIDR1α-PfEMP1 Recombinant Protein in the Wistar Rat.
-36136630	Phase 3 Evaluation of an Innovative Simple Molecular Test for the Diagnosis of Malaria and Follow-Up of Treatment Efficacy in Pregnant Women in Sub-Saharan Africa (Preg-Diagmal).
-36136626	Assessing Public Awareness of the Malaria Vaccine in Sub-Saharan Africa.
-36136625	Factors Influencing Second and Third Dose Observance during Seasonal Malaria Chemoprevention (SMC): A Quantitative Study in Burkina Faso, Mali and Niger.
-36132678	Bipolar charge trapping for absorption enhancement in a graphene-based ultrathin dual-band terahertz biosensor.
-36131528	Model of severe malaria in young mice suggests unique response of CD4 T cells.
-36131331	Malaria research in the Central African Republic from 1987 to 2020: an overview.
-36131306	Clinical manifestations and outcomes of severe malaria in adult patients admitted to a tertiary hospital in the Gambia.
-36130240	Clinical features and risk factors for death in acute undifferentiated fever: A prospective observational study in rural community hospitals in six states of India.
-36130191	The Impact of Extended Treatment With Artemether-lumefantrine on Antimalarial Exposure and Reinfection Risks in Ugandan Children With Uncomplicated Malaria: A Randomized Controlled Trial.
-36129981	Gene drive mosquitoes can aid malaria elimination by retarding Plasmodium sporogonic development.
-36129879	Epidemiology and risk factors related to severity of clinical manifestations of COVID-19 in outpatients: A retrospective study in Haiti.
-36129427	Exploring a Tetrahydroquinoline Antimalarial Hit from the Medicines for Malaria Pathogen Box and Identification of its Mode of Resistance as PfeEF2.
-36129093	ACUTE KIDNEY DAMAGE AS A COMPLICATION OF MALARIA CAUSED BY PL. MALARIA AND PL. FALCIPARUM: CLINICAL CASES.
-36126089	A member of the tryptophan-rich protein family is required for efficient sequestration of Plasmodium berghei schizonts.
-36126008	Malaria: Prevention, Diagnosis, and Treatment.
