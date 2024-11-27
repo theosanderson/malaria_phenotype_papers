@@ -1,3 +1,15 @@
+39591653	Documenting Trends in Malaria Data Reporting Accuracy Using Routine Data Quality Audits in Zambia, 2015-2022.
+39591651	Splenic Modulation of Plasmodium vivax Relapses and Hypnozoite Activation during the Second World War?
+39591645	One-Step Multiplex Polymerase Chain Reaction Assay for the Detection of Major Disease-Transmitting Mosquito Vectors in India.
+39591643	Malaria, Dengue Fever, and Leptospirosis in the Urabá Antioqueño Region, Colombia: Etiological and Molecular Characterization among Patients with Acute Undifferentiated Febrile Illness.
+39591290	Genotyping and Characterizing Plasmodium falciparum to Reveal Genetic Diversity and Multiplicity of Infection by Merozoite Surface Proteins 1 and 2 (msp-1 and msp-2) and Glutamate-Rich Protein (glurp) Genes.
+39591287	Community Knowledge, Attitudes and Practices About Malaria: Insights from a Northwestern Colombian Endemic Locality.
+39591285	Severity of Vessel Color Changes and Macular and Peripheral Whitening in Malarial Retinopathy Are Associated with Higher Total Body and Sequestered Parasite Burdens.
+39591273	Factors Associated with Complications of Snakebite Envenomation in Health Facilities in the Cascades Region of Burkina Faso from 2016 to 2021.
+39591266	Malaria Vectors and Plasmodium Transmission in Malaria-Endemic Localities of Colombia.
+39591167	Oceanic Breakthroughs: Marine-Derived Innovations in Vaccination, Therapy, and Immune Health.
+39590656	Diversity and Anti-Infectious Components of Cultivable Rhizosphere Fungi Derived from Three Species of Astragalus Plants in Northwestern Yunnan, China.
+39589886	The HUSH epigenetic repressor complex silences PML nuclear body-associated HSV-1 quiescent genomes.
 39588232	Variability of day-to-day pulsatility index change in children with cerebral malaria.
 39587608	Genetic diversity of Plasmodium falciparum and Plasmodium vivax field isolates from the Nowshera district of Pakistan.
 39587579	Leveraging international stakeholders' experiences with oral PrEP costs to accelerate implementation of the monthly dapivirine vaginal ring: A qualitative study.
@@ -9985,15 +9997,3 @@
 36124920	Agreement among rapid diagnostic tests, urine malaria tests, and microscopy in malaria diagnosis of adult patients in southwestern Nigeria.
 36124481	In silico study to predict promiscuous T cell and B cell-epitopes derived from the vaccine candidate antigens of Plasmodium vivax binding to MHC class-II alleles.
 36124478	Vector-Borne diseases in Egypt: Present status and accelerating toward elimination.
-36124477	Spatio-temporal distribution of vector borne diseases in Australia and Papua New Guinea vis-à-vis climatic factors.
-36124331	RDT- AND MICROSCOPIC-BASED TRENDS OF MALARIA AMONG LOCAL AND MIGRANT POPULATIONS IN THE PROVINCE OF CENTRAL KALIMANTAN, INDONESIA DURING 2017-2020.
-36124325	ANTIPLASMODIAL ACTIVITIES OF THE STEM BARK EXTRACT OF ARTOCARPUS ALTILIS FORSBERG.
-36124060	Differences between gridded population data impact measures of geographic access to healthcare in sub-Saharan Africa.
-36123731	Keys to the avian Haemoproteus parasites (Haemosporida, Haemoproteidae).
-36123705	Repurposing of the Malaria Box for Babesia microti in mice identifies novel active scaffolds against piroplasmosis.
-36122687	A song for the unsung: The relevance of Plasmodium vinckei as a laboratory rodent malaria system.
-36122682	Temporal and Spatial Differences between Symptomatic and Asymptomatic Malaria Infections in the Chittagong Hill Districts, Bangladesh.
-36122550	Evaluation of ferrocenyl-containing γ-hydroxy-γ-lactam-derived tetramates as potential antiplasmodials.
-36121873	Genome-wide association study of leprosy in Malawi and Mali.
-36121847	Omitting age-dependent mosquito mortality in malaria models underestimates the effectiveness of insecticide-treated nets.
-36121809	Spatiotemporal variation of malaria incidence in parasite clearance interventions and non-intervention areas in the Amhara Regional State, Ethiopia.
