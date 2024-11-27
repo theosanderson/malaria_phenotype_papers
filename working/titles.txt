@@ -1,3 +1,4 @@
+39601512	Mapping of Nuclear Localization Signal in Secreted Liver-Specific Protein 2 of Plasmodium falciparum.
 39601110	Evaluating the effectiveness and cost-effectiveness of integrating mass drug administration for helminth control with seasonal malaria chemoprevention in Ghanaian children: Protocol for a cluster randomised controlled trial.
 39600564	Retraction: The Plasmodium circumsporozoite protein, a novel NF-κB inhibitor, suppresses the growth of SW480.
 39600347	Patterns of Gene Flow in Anopheles coluzzii Populations From Two African Oceanic Islands.
@@ -136,6 +137,7 @@
 39554245	Modelling transmission dynamics and genomic diversity in a recombining parasite population.
 39552985	A Case of Post-malarial Postural Orthostatic Tachycardia Syndrome in a Young Woman of South Asian Origin.
 39552715	The performance of a point-of-care test for the diagnosis of Neurocysticercosis in a resource-poor community setting in Zambia - a diagnostic accuracy study.
+39552533	Introduction of dengue virus serotype 3 in the Afar Region, Ethiopia.
 39552300	In silico studies for improving target selectivity of anti-malarial dual falcipain inhibitors vis-à-vis human cathepsins.
 39551063	Is ivermectin surviving expectations in residual malaria control?
 39551062	Adjunctive ivermectin mass drug administration for malaria control on the Bijagos Archipelago of Guinea-Bissau (MATAMAL): a quadruple-blinded, cluster-randomised, placebo-controlled trial.
@@ -9995,5 +9997,3 @@
 36140451	Optimizing Public Health Preparedness for Highly Infectious Diseases in Central Vietnam.
 36140395	Protective Immunity Induced by Immunization with Baculovirus, Virus-like Particle, and Vaccinia Virus Expressing the AMA1 of Plasmodium berghei.
 36140066	Magnetic Bead Handling Using a Paper-Based Device for Quantitative Point-of-Care Testing.
-36140052	Quercetin Is a Novel Inhibitor of the Choline Kinase of Streptococcus pneumoniae.
-38455338	A maximum-likelihood method to estimate haplotype frequencies and prevalence alongside multiplicity of infection from SNP data.
