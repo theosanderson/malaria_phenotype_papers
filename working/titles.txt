@@ -368,7 +368,7 @@
 39481788	Mortality and morbidity risks associated with floods: A systematic review and meta-analysis.
 39481419	Review of the WHO guideline on preventive chemotherapy for public health control of strongyloidiasis.
 39480207	Emerging Infectious Diseases and the Eye: Ophthalmic Manifestations, Pathogenesis, and One Health Perspectives.
-39479769	PARP15 is a Susceptibility Locus for Clarkson Disease (Monoclonal Gammopathy-Associated Systemic Capillary Leak Syndrome).
+39479769	PARP15 Is a Susceptibility Locus for Clarkson Disease (Monoclonal Gammopathy-Associated Systemic Capillary Leak Syndrome).
 39479070	Prevalence of Transfusion-Transmissible Infections Among Voluntary Blood Donors in a Tertiary Care Hospital.
 39478627	Analysis of the 24-h biting patterns and human exposures to malaria vectors in south-eastern Tanzania.
 39478546	Point-of-care test of blood Plasmodium RNA within a Pasteur pipette using a novel isothermal amplification without nucleic acid purification.
