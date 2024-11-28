@@ -1,3 +1,17 @@
+39606738	TIMESS a power analysis tool to estimate the number of locations and repeated measurements for seasonally and clustered mosquito surveys.
+39606691	Outbreaks of COVID-19 in a tuberculosis treatment sanatorium on the Thailand-Myanmar border: a retrospective cohort analysis.
+39606615	Organophosphate and carbamate susceptibility profiling of Anopheles gambiae sl. across different ecosystems in southern Benin.
+39606459	Severe falciparum malaria in young children is associated with an increased risk of post-discharge readmission or death: A prospective cohort study.
+39606416	Remoscope: a label-free imaging cytometer for malaria diagnostics.
+39605531	Measuring Growth, Resistance, and Recovery after Artemisinin Treatment of Plasmodium falciparum in a single semi-high-throughput Assay.
+39605504	Mapping Plasmodium transitions and interactions in the Anopheles female.
+39605297	Antiplasmodial and anti-trypanosomial monoterpene indole alkaloids from Picralima nitida.
+39605028	A study protocol for a multi-country cluster randomized controlled trial of the impact of a multi-component One Health strategy to eliminate Opisthorchis viverrini and soil transmitted helminths in the Lower Mekong Basin.
+39604967	Prevalence and factors associated with placental malaria in Lira District, Northern Uganda: a cross-sectional study.
+39604462	Unravelling the role of mitochondrial DNA in hybrid incompatibility within species of the Anopheles gambiae complex.
+39604441	Proteasome associated function of UCH37 is evolutionarily conserved in Plasmodium parasites.
+39604397	Population genomics of Plasmodium ovale species in sub-Saharan Africa.
+39604297	Factors associated with malaria infection in under-5 children in Papua Province, Indonesia: an observational study.
 39603399	Ethnobotany, bioactive compounds and pharmacology of Syzygium guineense (Willd.) DC: A review.
 39603289	Identification of new inhibitors of Plasmodium falciparum hypoxanthine-guanine-xanthine Phosphoribosyltransferase (HG(X)PRT): An outlook towards the treatment of malaria.
 39603059	Regional heterogeneity of malaria healthcare seeking and diagnosis in China (2017-2022): Implications in preventing re-establishment of malaria transmission.
@@ -9983,17 +9997,3 @@
 36148344	An optimized features selection approach based on Manta Ray Foraging Optimization (MRFO) method for parasite malaria classification.
 36148088	Nigeria End Malaria Council: What to expect.
 36147173	Malaria causing post-infectious cerebellitis, a case report and literature review.
-36146646	Exposure of Zero-Dose Children to Multiple Deprivation: Analyses of Data from 80 Low- and Middle-Income Countries.
-36146602	Mouse Models for Unravelling Immunology of Blood Stage Malaria.
-36146485	Serological and Molecular Survey for Dengue Virus Infection in Suspected Febrile Patients in Selected Local Government Areas in Adamawa State, Nigeria.
-36146463	Vaccines against Emerging and Neglected Infectious Diseases: An Overview.
-36145477	Genetic Variants of Glucose-6-Phosphate Dehydrogenase and Their Associated Enzyme Activity: A Systematic Review and Meta-Analysis.
-36145453	Evolution of the Ace-1 and Gste2 Mutations and Their Potential Impact on the Use of Carbamate and Organophosphates in IRS for Controlling Anopheles gambiae s.l., the Major Malaria Mosquito in Senegal.
-36145422	Molecular Characterization of Anopheles algeriensis Theobald, 1903 (Diptera: Culicidae) Populations from Europe.
-36145217	Hibiscus sabdariffa Extract Protects HaCaT Cells against Phenanthrene-Induced Toxicity through the Regulation of Constitutive Androstane Receptor/Pregnane X Receptor Pathway.
-36144764	Spectroscopic Analysis of an Antimalarial Drug's (Quinine) Influence on Human Serum Albumin Reduction and Antioxidant Potential.
-36142189	Assemblages of Plasmodium and Related Parasites in Birds with Different Migration Statuses.
-36141662	Procalcitonin as a Candidate Biomarker for Malarial Infection and Severe Malaria: A Meta-Analysis.
-36141151	An Enhanced Scheme for Reducing the Complexity of Pointwise Convolutions in CNNs for Image Classification Based on Interleaved Grouped Filters without Divisibility Constraints.
-36140809	Genetic Sequence Variation in the Plasmodium falciparum Histidine-Rich Protein 2 Gene from Field Isolates in Tanzania: Impact on Malaria Rapid Diagnosis.
-36140641	Comparative Assessment of the Sensitivity of Ten Commercial Rapid Diagnostic Test Kits for the Detection of Plasmodium.
