@@ -1,3 +1,4 @@
+39606930	Nigeria's malaria prevalence in 2015: a geospatial, exploratory district-level approach.
 39606738	TIMESS a power analysis tool to estimate the number of locations and repeated measurements for seasonally and clustered mosquito surveys.
 39606691	Outbreaks of COVID-19 in a tuberculosis treatment sanatorium on the Thailand-Myanmar border: a retrospective cohort analysis.
 39606615	Organophosphate and carbamate susceptibility profiling of Anopheles gambiae sl. across different ecosystems in southern Benin.
@@ -9996,4 +9997,3 @@
 36148453	Informing healthcare operations with integrated pathology, clinical, and epidemiology data: Lessons from a single institution in Kenya during COVID-19 waves.
 36148344	An optimized features selection approach based on Manta Ray Foraging Optimization (MRFO) method for parasite malaria classification.
 36148088	Nigeria End Malaria Council: What to expect.
-36147173	Malaria causing post-infectious cerebellitis, a case report and literature review.
