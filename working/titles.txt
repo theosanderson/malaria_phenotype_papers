@@ -1,3 +1,4 @@
+39607932	Systematic in vitro evolution in Plasmodium falciparum reveals key determinants of drug resistance.
 39606930	Nigeria's malaria prevalence in 2015: a geospatial, exploratory district-level approach.
 39606738	TIMESS a power analysis tool to estimate the number of locations and repeated measurements for seasonally and clustered mosquito surveys.
 39606691	Outbreaks of COVID-19 in a tuberculosis treatment sanatorium on the Thailand-Myanmar border: a retrospective cohort analysis.
@@ -9996,4 +9997,3 @@
 36148470	Integrated approaches to howler monkey (Alouatta spp.) medicine in professional care and conservation.
 36148453	Informing healthcare operations with integrated pathology, clinical, and epidemiology data: Lessons from a single institution in Kenya during COVID-19 waves.
 36148344	An optimized features selection approach based on Manta Ray Foraging Optimization (MRFO) method for parasite malaria classification.
-36148088	Nigeria End Malaria Council: What to expect.
