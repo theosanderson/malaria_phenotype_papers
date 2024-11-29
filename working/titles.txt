@@ -1,3 +1,12 @@
+39610980	AmpC β-lactamases detected in Southeast Asian Escherichia coli and Klebsiella pneumoniae.
+39609842	What do women in the highest malaria burden country know about ways to prevent malaria? A multi-level analysis of the 2021 Nigeria Malaria Indicator Survey data.
+39609822	Characterizing the pharmacological interaction of the antimalarial combination artefenomel-piperaquine in healthy volunteers with induced blood-stage Plasmodium falciparum to predict efficacy in patients with malaria.
+39609814	Profiling vivax malaria incidence, residual transmission, and risk factors using reactive case detection in low transmission settings of Ethiopia.
+39609673	Comparative assessment of microscopy, malaria rapid diagnostic test and polymerase chain reaction as malaria diagnostic tools in Adama Woreda, East shoa zone of Ethiopia: a cross-sectional study.
+39609516	Publisher Correction: Hemozoin induces malaria via activation of DNA damage, p38 MAPK and neurodegenerative pathways in a human iPSC-derived neuronal model of cerebral malaria.
+39609012	Baseline characteristics for phase II of the Kinshasa Malaria Cohort Study: cohort profile.
+39609009	Implementation strategies for providing optimised tuberculosis and diabetes integrated care in LMICs (POTENTIAL): protocol for a multiphase sequential and concurrent mixed-methods study.
+39608487	Oleuropein: a viable therapeutic option for malaria and cancer.
 39607932	Systematic in vitro evolution in Plasmodium falciparum reveals key determinants of drug resistance.
 39606930	Nigeria's malaria prevalence in 2015: a geospatial, exploratory district-level approach.
 39606738	TIMESS a power analysis tool to estimate the number of locations and repeated measurements for seasonally and clustered mosquito surveys.
@@ -9988,12 +9997,3 @@
 36153000	How do the mutations in PfK13 protein promote anti-malarial drug resistance?
 36152269	Use of Azithromycin in Pregnancy: More Doubts than Certainties.
 36152079	Plasmodium knowlesi Duffy binding protein alpha region II (PkDBPαII) in clinical isolates from Peninsular Malaysia and Malaysian Borneo exhibit different immune responses in animal models.
-36151537	Implementation of a malaria prevention education intervention in Southern Ethiopia: a qualitative evaluation.
-36151088	Reply to: Relationship of circulating Plasmodium falciparum lifecycle stage to circulating parasitemia and total parasite biomass.
-36151085	Relationship of circulating Plasmodium falciparum lifecycle stage to circulating parasitemia and total parasite biomass.
-36149743	Feasibility, Acceptability, and Protective Efficacy of Seasonal Malaria Chemoprevention Implementation in Nampula Province, Mozambique: Protocol for a Hybrid Effectiveness-Implementation Study.
-36149211	A comparison of peripheral blood smear microscopy and detection of histidine-rich protein 2 in blood in the diagnosis of malaria in pregnancy.
-36148905	Plasmodium falciparum pfhrp2 and pfhrp3 Gene Deletions and Relatedness to Other Global Isolates, Djibouti, 2019-2020.
-36148470	Integrated approaches to howler monkey (Alouatta spp.) medicine in professional care and conservation.
-36148453	Informing healthcare operations with integrated pathology, clinical, and epidemiology data: Lessons from a single institution in Kenya during COVID-19 waves.
-36148344	An optimized features selection approach based on Manta Ray Foraging Optimization (MRFO) method for parasite malaria classification.
