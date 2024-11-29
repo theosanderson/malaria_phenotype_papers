@@ -1,3 +1,5 @@
+39611847	The dynamin-related protein PfDyn2 is essential for both apicoplast and mitochondrial fission in Plasmodium falciparum.
+39611671	The silent threat: Unveiling climate change's water and health challenges in Bangladesh.
 39610980	AmpC β-lactamases detected in Southeast Asian Escherichia coli and Klebsiella pneumoniae.
 39609842	What do women in the highest malaria burden country know about ways to prevent malaria? A multi-level analysis of the 2021 Nigeria Malaria Indicator Survey data.
 39609822	Characterizing the pharmacological interaction of the antimalarial combination artefenomel-piperaquine in healthy volunteers with induced blood-stage Plasmodium falciparum to predict efficacy in patients with malaria.
@@ -9995,5 +9997,3 @@
 36153317	Structure of the malaria vaccine candidate Pfs48/45 and its recognition by transmission blocking antibodies.
 36153163	Mitigating health policy fragmentation through interlocks. The networks between American and Swiss public-private partnerships.
 36153000	How do the mutations in PfK13 protein promote anti-malarial drug resistance?
-36152269	Use of Azithromycin in Pregnancy: More Doubts than Certainties.
-36152079	Plasmodium knowlesi Duffy binding protein alpha region II (PkDBPαII) in clinical isolates from Peninsular Malaysia and Malaysian Borneo exhibit different immune responses in animal models.
