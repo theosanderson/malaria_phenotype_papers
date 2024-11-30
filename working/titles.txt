@@ -1,3 +1,10 @@
+39614335	"If they take it without knowing, they will default…": perceptions of targeted information transfer to promote adherence to intermittent preventive treatment with dihydroartemisinin-piperaquine for the prevention of malaria in pregnancy in western Kenya.
+39614327	Correction: Chemoprevention of malaria with long-acting oral and injectable drugs: an updated target product profile.
+39614280	Taurine potentiates artemisinin efficacy against malaria by modulating the immune response in Plasmodium berghei-infected mice.
+39614248	Influence of trust on the acceptance of the RTS,S malaria vaccine in the Kassena-Nankana districts of Ghana.
+39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2022) 159517].
+39613430	Magnitude and associated factors of delayed treatment seeking among patients with malaria in Andabet district, Northwest Ethiopia, 2022: a multicentre institution-based cross-sectional study.
+39612702	Freshwater ecosystem transitions due to artisanal sand mining in Rwanda, Africa.
 39611847	The dynamin-related protein PfDyn2 is essential for both apicoplast and mitochondrial fission in Plasmodium falciparum.
 39611671	The silent threat: Unveiling climate change's water and health challenges in Bangladesh.
 39610980	AmpC β-lactamases detected in Southeast Asian Escherichia coli and Klebsiella pneumoniae.
@@ -9990,10 +9997,3 @@
 36157563	Malaria frontline project: pre-intervention Malaria baseline assessment in Kano and Zamfara States, August 2016.
 36154837	Dual role of azo compounds in inhibiting Plasmodium falciparum adenosine deaminase and hemozoin biocrystallization.
 36154815	Assessing the impact of insecticide-treated nets in the face of insecticide resistance on malaria control.
-36154191	Plasmodium falciparum CRK5 Is Critical for Male Gametogenesis and Infection of the Mosquito.
-36153616	Factors influencing health workers' compliance with the WHO intermittent preventive treatment for malaria in pregnancy recommendations in the Northern Region, Ghana.
-36153552	Asymptomatic and submicroscopic Plasmodium infections in an area before and during integrated vector control in Homa Bay, western Kenya.
-36153501	Reducing malaria transmission in forest-going mobile and migrant populations in Lao PDR and Cambodia: protocol for stepped-wedge cluster-randomised controlled trial.
-36153317	Structure of the malaria vaccine candidate Pfs48/45 and its recognition by transmission blocking antibodies.
-36153163	Mitigating health policy fragmentation through interlocks. The networks between American and Swiss public-private partnerships.
-36153000	How do the mutations in PfK13 protein promote anti-malarial drug resistance?
