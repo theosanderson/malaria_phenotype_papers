@@ -2,9 +2,9 @@
 39614327	Correction: Chemoprevention of malaria with long-acting oral and injectable drugs: an updated target product profile.
 39614280	Taurine potentiates artemisinin efficacy against malaria by modulating the immune response in Plasmodium berghei-infected mice.
 39614248	Influence of trust on the acceptance of the RTS,S malaria vaccine in the Kassena-Nankana districts of Ghana.
-39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2022) 159517].
 39613430	Magnitude and associated factors of delayed treatment seeking among patients with malaria in Andabet district, Northwest Ethiopia, 2022: a multicentre institution-based cross-sectional study.
 39612702	Freshwater ecosystem transitions due to artisanal sand mining in Rwanda, Africa.
+39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2022) 159517].
 39611847	The dynamin-related protein PfDyn2 is essential for both apicoplast and mitochondrial fission in Plasmodium falciparum.
 39611671	The silent threat: Unveiling climate change's water and health challenges in Bangladesh.
 39610980	AmpC β-lactamases detected in Southeast Asian Escherichia coli and Klebsiella pneumoniae.
