@@ -1,10 +1,15 @@
+39616382	Knowledge and practices of parents of school age children towards Helminthiasis and malaria in northwestern Ethiopia.
+39616234	Impact of standard and long-lasting ivermectin formulations in cattle and buffalo on wild Anopheles survival on Sumba Island, Indonesia.
+39615969	Unveiling spatio-temporal mysteries: A quest to decode India's Dengue and Malaria trend (2003-2022).
+39615279	Trifluoromethylcinnamanilides - Effective dual inhibitors of Mycobacterium smegmatis and Plasmodium falciparum.
+39614766	Impact of iron supplementation among anemic voluntary first-time blood donors: Results from the BLOODSAFE pilot trial in Ghana.
 39614335	"If they take it without knowing, they will default…": perceptions of targeted information transfer to promote adherence to intermittent preventive treatment with dihydroartemisinin-piperaquine for the prevention of malaria in pregnancy in western Kenya.
 39614327	Correction: Chemoprevention of malaria with long-acting oral and injectable drugs: an updated target product profile.
 39614280	Taurine potentiates artemisinin efficacy against malaria by modulating the immune response in Plasmodium berghei-infected mice.
 39614248	Influence of trust on the acceptance of the RTS,S malaria vaccine in the Kassena-Nankana districts of Ghana.
+39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2022) 159517].
 39613430	Magnitude and associated factors of delayed treatment seeking among patients with malaria in Andabet district, Northwest Ethiopia, 2022: a multicentre institution-based cross-sectional study.
 39612702	Freshwater ecosystem transitions due to artisanal sand mining in Rwanda, Africa.
-39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2022) 159517].
 39611847	The dynamin-related protein PfDyn2 is essential for both apicoplast and mitochondrial fission in Plasmodium falciparum.
 39611671	The silent threat: Unveiling climate change's water and health challenges in Bangladesh.
 39610980	AmpC β-lactamases detected in Southeast Asian Escherichia coli and Klebsiella pneumoniae.
@@ -9992,8 +9997,3 @@
 36158750	An outbreak of malaria caused by increase in malaria breeding sites in swamps.
 36158748	Malaria outbreak in Mbale: it´s the pits! a case study.
 36158747	You cannot find what you are not looking for! detecting malaria outbreaks in Uganda: a case study.
-36158746	Delayed outbreak detection: a wake-up call to evaluate a surveillance system.
-36158132	Fractional-Order Ebola-Malaria Coinfection Model with a Focus on Detection and Treatment Rate.
-36157563	Malaria frontline project: pre-intervention Malaria baseline assessment in Kano and Zamfara States, August 2016.
-36154837	Dual role of azo compounds in inhibiting Plasmodium falciparum adenosine deaminase and hemozoin biocrystallization.
-36154815	Assessing the impact of insecticide-treated nets in the face of insecticide resistance on malaria control.
