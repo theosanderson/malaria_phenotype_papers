@@ -1,3 +1,7 @@
+39620151	Cellular senescence in acute human infectious disease: a systematic review.
+39619416	A virus associated with the zoonotic pathogen Plasmodium knowlesi causing human malaria is a member of a diverse and unclassified viral taxon.
+39619204	The fight against malaria in Edo-North, Edo State, Nigeria: identifying risk factors for effective control.
+39618956	Assessment of the quality of malaria surveillance and laboratory services for diagnosis in three districts of Gujarat state, India.
 39616382	Knowledge and practices of parents of school age children towards Helminthiasis and malaria in northwestern Ethiopia.
 39616234	Impact of standard and long-lasting ivermectin formulations in cattle and buffalo on wild Anopheles survival on Sumba Island, Indonesia.
 39615969	Unveiling spatio-temporal mysteries: A quest to decode India's Dengue and Malaria trend (2003-2022).
@@ -188,7 +192,7 @@
 39550509	Mitochondrial ATP synthesis is essential for efficient gametogenesis in Plasmodium falciparum.
 39550204	Molecular detection of Plasmodium huffi (Apicomplexa: Haemosporida) in birds from Mato Grosso state, midwestern Brazil with new host data.
 39550013	Dose sparing enabled by immunization with influenza vaccine using orally dissolving film.
-39549981	Evidence of endogenous Non-retroviral RNA Virus Sequences into the genome and transcriptome of the malaria vector Anopheles darlingi.
+39549981	Evidence of endogenous non-retroviral RNA virus sequences into the genome and transcriptome of the malaria vector Anopheles darlingi.
 39549712	Estimates of resource use in the public-sector health-care system and the effect of strengthening health-care services in Malawi during 2015-19: a modelling study (Thanzi La Onse).
 39549508	A promising class of antiprotozoal agents, design and synthesis of novel Pyrimidine-Cinnamoyl hybrids.
 39549507	Multicomponent syntheses enable the discovery of novel quisinostat-derived chemotypes as histone deacetylase inhibitors.
@@ -9993,7 +9997,3 @@
 36159954	Transfusion-Transmitted Malaria and Mitigation Strategies in Nonendemic Regions.
 36159869	Humoral antimalaria immune response in Nigerian children exposed to helminth and malaria parasites.
 36159849	Five decades of clinical assessment of whole-sporozoite malaria vaccines.
-36159643	Recruitment of Irgb6 to the membrane is a direct trigger for membrane deformation.
-36158750	An outbreak of malaria caused by increase in malaria breeding sites in swamps.
-36158748	Malaria outbreak in Mbale: it´s the pits! a case study.
-36158747	You cannot find what you are not looking for! detecting malaria outbreaks in Uganda: a case study.
