@@ -1,3 +1,5 @@
+39621256	Molecular Investigation of FIKK Kinase Family to Develop PCR-Based Diagnosis of Plasmodium falciparum.
+39620939	Chloroquine-induced proinsulin misfolding in the endoplasmic reticulum underlies the attenuation of mature insulin synthesis.
 39620151	Cellular senescence in acute human infectious disease: a systematic review.
 39619416	A virus associated with the zoonotic pathogen Plasmodium knowlesi causing human malaria is a member of a diverse and unclassified viral taxon.
 39619204	The fight against malaria in Edo-North, Edo State, Nigeria: identifying risk factors for effective control.
@@ -9995,5 +9997,3 @@
 36160257	Population genomics in neglected malaria parasites.
 36159958	Criminal and Civil Responsibility of the Donor in a Case of Transmission of Malaria by a Blood Transfusion in a Nonendemic Country.
 36159954	Transfusion-Transmitted Malaria and Mitigation Strategies in Nonendemic Regions.
-36159869	Humoral antimalaria immune response in Nigerian children exposed to helminth and malaria parasites.
-36159849	Five decades of clinical assessment of whole-sporozoite malaria vaccines.
