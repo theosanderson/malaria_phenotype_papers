@@ -1,3 +1,5 @@
+39625654	Hemophagocytic lymphohistiocytosis complicating severe malaria: look for hemozoin.
+39625643	Hemozoin anchored MWCNTs for mediated reduction of hydrogen peroxide and real-time intracellular oxidative stress monitoring in colon cancer cells.
 39624973	How Much Warming Can Mosquito Vectors Tolerate?
 39624865	Identifying Positive Practices to Institutionalize Social Innovation in the Malawian Health System.
 39624641	Prevalence and Associated Factors of Anemia Among Pregnant Women Attending Antenatal Care at Mizan Aman General Hospital, Bench Maji Zone, Southwest, Ethiopia.
@@ -9995,5 +9997,3 @@
 36167977	The ecology and epidemiology of malaria parasitism in wild chimpanzee reservoirs.
 36167673	Using Videography to Study the Biomechanics and Behavior of Freely Moving Mosquitoes.
 36167567	Key factors predicting suspected severe malaria case management and health outcomes: an operational study in the Democratic Republic of the Congo.
-36167549	Influence of landscape heterogeneity on entomological and parasitological indices of malaria in Kisumu, Western Kenya.
-36167543	All-cause and cause-specific mortality rates for Kisumu County: a comparison with Kenya, low-and middle-income countries.
