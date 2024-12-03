@@ -1,3 +1,6 @@
+39621767	An experimental target-based platform in yeast for screening Plasmodium vivax deoxyhypusine synthase inhibitors.
+39621736	Exploring the potential antimalarial properties, safety profile, and phytochemical composition of Mesua ferrea Linn.
+39621631	Correction: Evaluation of a parasite-density based pooled targeted amplicon deep sequencing (TADS) method for molecular surveillance of Plasmodium falciparum drug resistance genes in Haiti.
 39621256	Molecular Investigation of FIKK Kinase Family to Develop PCR-Based Diagnosis of Plasmodium falciparum.
 39620939	Chloroquine-induced proinsulin misfolding in the endoplasmic reticulum underlies the attenuation of mature insulin synthesis.
 39620151	Cellular senescence in acute human infectious disease: a systematic review.
@@ -9994,6 +9997,3 @@
 36162149	Mitochondrial Spermidine Synthase is Essential for Blood-stage growth of the Malaria Parasite.
 36160725	Improving TB case notification and treatment coverage through data use.
 36160441	Ferroptosis: A mixed blessing for infectious diseases.
-36160257	Population genomics in neglected malaria parasites.
-36159958	Criminal and Civil Responsibility of the Donor in a Case of Transmission of Malaria by a Blood Transfusion in a Nonendemic Country.
-36159954	Transfusion-Transmitted Malaria and Mitigation Strategies in Nonendemic Regions.
