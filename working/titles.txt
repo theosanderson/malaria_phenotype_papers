@@ -1,3 +1,12 @@
+39624973	How Much Warming Can Mosquito Vectors Tolerate?
+39624865	Identifying Positive Practices to Institutionalize Social Innovation in the Malawian Health System.
+39624641	Prevalence and Associated Factors of Anemia Among Pregnant Women Attending Antenatal Care at Mizan Aman General Hospital, Bench Maji Zone, Southwest, Ethiopia.
+39624614	Exploring the Antimalarial Potential of Gnetum gnemon Leaf Extract Against Plasmodium berghei in Mice.
+39624209	Seasonal dynamics, resting behaviour and insecticide susceptibility of Anopheles mosquitoes across two differentially malaria-endemic regions in Ethiopia.
+39624208	Level of involvement of four selected cytochrome P450s (CYPs) in pyrethroid-resistant Anopheles gambiae (s.s.) and Anopheles coluzzii across Côte d'Ivoire.
+39624090	Estimation of PfRh5-based vaccine efficacy in asymptomatic Plasmodium falciparum patients from high-endemic areas of Tanzania using genetic and antigenicity variation screening.
+39623994	[Laboratory malaria re-examination and evaluation of malaria diagnostic capability in Shanghai Municipal Malaria Diagnostic Reference Laboratory from 2017 to 2022].
+39623943	Dynamic covalent bonding (DCB): the bond lability of alkoxyamines as drugs against Schistosoma mansoni and Plasmodium falciparum.
 39623493	Spatial analysis of malaria cases and Anopheles species in East Java region, Indonesia.
 39623362	Plasmodium Falciparum and mosquito vector IgG patterns across suspected malaria cases in Ghana.
 39622652	Identification of essential genes for Acanthamoeba castellanii excystation during encystation and excystation.
@@ -9988,12 +9997,3 @@
 36167567	Key factors predicting suspected severe malaria case management and health outcomes: an operational study in the Democratic Republic of the Congo.
 36167549	Influence of landscape heterogeneity on entomological and parasitological indices of malaria in Kisumu, Western Kenya.
 36167543	All-cause and cause-specific mortality rates for Kisumu County: a comparison with Kenya, low-and middle-income countries.
-36166733	Identification of Novel 2,4,5-Trisubstituted Pyrimidines as Potent Dual Inhibitors of Plasmodial PfGSK3/PfPK6 with Activity against Blood Stage Parasites In Vitro.
-36166288	Numerical investigation on red blood cell flow based on unstructured grid.
-36165282	Beta diversity, prevalence, and specificity of avian haemosporidian parasites throughout the annual cycle of Chilean Elaenia (Elaenia chilensis), a Neotropical austral migrant.
-36165125	Anti-malarial drugs: Mechanisms underlying their proarrhythmic effects.
-36164976	DGPD: a knowledge database of dense granule proteins of the Apicomplexa.
-36163662	Community- vs. hospital-based management of multidrug-resistant TB in Pakistan.
-36163104	Housebreaking Plasmodium parasites leave their fingerprints at the door.
-36163071	Adapting field-mosquito collection techniques in a perspective of near-infrared spectroscopy implementation.
-36162442	Etiologies of Acute Undifferentiated Febrile Illnesses in and near Iquitos from 1993 to 1999 in the Amazon River Basin of Peru.
