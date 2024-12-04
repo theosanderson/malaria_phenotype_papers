@@ -1,3 +1,6 @@
+39629875	Expanding healthcare access in rural sub-Saharan Africa.
+39629706	Myeloid-derived suppressor cells inhibit responses of T follicular helper cells during experimental Plasmodium yoelii infection.
+39629680	Antiplasmodial Potentials, Phytocompounds and the Possible Toxic Effects of Administration of Ethylacetate Extract of Spondias mombin Linn.
 39629437	A clinicoepidemiological study of serologically diagnosed acute febrile illness in a teaching hospital, Kolkata.
 39629320	Retraction: "Prevalence and associated factors of a positive Plasmodium falciparum antigen test among pregnant women at the Bamenda Regional Hospital, Cameroon: a cross-sectional analytical study (Pan African Medical Journal. 2024;47:99. doi: 10.11604/pamj.2024.47.99.40899)".
 39629267	Nurses' Characteristics Associated with Good Knowledge, Attitude, and Practices (KAP) of the Malaria Vaccine in Bungoma County, Kenya.
@@ -9994,6 +9997,3 @@
 36174592	Effect of long-lasting insecticidal nets with and without piperonyl butoxide on malaria indicators in Uganda (LLINEUP): final results of a cluster-randomised trial embedded in a national distribution campaign.
 36174125	Antimalarial treatment in infants.
 36174056	Predicting Plasmodium falciparum infection status in blood using a multiplexed bead-based antigen detection assay and machine learning approaches.
-36174025	Use of insecticide treated nets in children under five and children of school age in Nigeria: Evidence from a secondary data analysis of demographic health survey.
-36174003	Multilevel logistic regression modelling to quantify variation in malaria prevalence in Ethiopia.
-36173836	Understanding pathogen survival and transmission by arthropod vectors to prevent human disease.
