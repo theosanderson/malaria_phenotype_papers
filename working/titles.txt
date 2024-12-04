@@ -1,3 +1,9 @@
+39629437	A clinicoepidemiological study of serologically diagnosed acute febrile illness in a teaching hospital, Kolkata.
+39629320	Retraction: "Prevalence and associated factors of a positive Plasmodium falciparum antigen test among pregnant women at the Bamenda Regional Hospital, Cameroon: a cross-sectional analytical study (Pan African Medical Journal. 2024;47:99. doi: 10.11604/pamj.2024.47.99.40899)".
+39629267	Nurses' Characteristics Associated with Good Knowledge, Attitude, and Practices (KAP) of the Malaria Vaccine in Bungoma County, Kenya.
+39628989	Candidate drug repurposing for malaria: perspectives for optimising clinical trials.
+39628986	The  proportion and determinants of appropriate health seeking behavior for febrile illness among caregivers of children under-five years in Butula sub-county, Busia county, Kenya.
+39628333	Epidemiological, Clinical and Paraclinical Profile of Paediatric Malaria at University Hospital Centre Amissa Bongo in Franceville, Gabon.
 39627824	Larval source management in Ethiopia: modelling to assess its effectiveness in curbing malaria surge in dire Dawa and Batu Towns.
 39627795	Scalable camera traps for measuring the attractiveness of sugar baits for controlling malaria and dengue vectors.
 39627788	Cost of the national malaria control program and cost-effectiveness of indoor residual spraying and insecticide-treated bed net interventions in two districts of Madagascar.
@@ -9991,9 +9997,3 @@
 36174025	Use of insecticide treated nets in children under five and children of school age in Nigeria: Evidence from a secondary data analysis of demographic health survey.
 36174003	Multilevel logistic regression modelling to quantify variation in malaria prevalence in Ethiopia.
 36173836	Understanding pathogen survival and transmission by arthropod vectors to prevent human disease.
-36173804	Demographic and Selection Histories of Populations Across the Sahel/Savannah Belt.
-36173765	Tracing Bai-Yue Ancestry in Aboriginal Li People on Hainan Island.
-36173480	Levelling up: prioritisation of global health.
-36172672	Apoptotic and Anti-metastatic Effects of Atractylodes lancea (Thunb.) DC. in a Hamster Model of Cholangiocarcinoma.
-36172356	Tissue-resident memory T cells in chronic liver diseases: Phenotype, development and function.
-36172117	Reconstructing the SARS-CoV-2 epidemic in eastern Uganda through longitudinal serosurveillance in a malaria cohort.
