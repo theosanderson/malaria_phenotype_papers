@@ -1,3 +1,7 @@
+39626288	Influence of Household Roof Types on the Development of Plasmodium vivax in Anopheles stephensi Mosquitoes.
+39625962	Treatment outcomes and associated factors in severe malaria patients at University of Gondar Hospital, Northwest Ethiopia: A retrospective study (2020-2023).
+39625922	Correction: Assessment of the transmission blocking activity of antimalarial compounds by membrane feeding assays using natural Plasmodium falciparum gametocyte isolates from West-Africa.
+39625887	Are the Culex pipiens biotypes pipiens, molestus and their hybrids competent vectors of avian Plasmodium?
 39625654	Hemophagocytic lymphohistiocytosis complicating severe malaria: look for hemozoin.
 39625643	Hemozoin anchored MWCNTs for mediated reduction of hydrogen peroxide and real-time intracellular oxidative stress monitoring in colon cancer cells.
 39624973	How Much Warming Can Mosquito Vectors Tolerate?
@@ -9993,7 +9997,3 @@
 36171572	First detection of the malaria vector Anopheles arabiensis in Côte d'Ivoire: urbanization in question.
 36169675	Application of the aqueous two-phase system and nanozyme signal enhancement for the improved detection of Plasmodium lactate dehydrogenase in serum.
 36169658	Comparative Analysis of Host Metabolic Alterations in Murine Malaria Models with Uncomplicated or Severe Malaria.
-36169491	In vitro and in silico assessment of new beta amino ketones with antiplasmodial activity.
-36167977	The ecology and epidemiology of malaria parasitism in wild chimpanzee reservoirs.
-36167673	Using Videography to Study the Biomechanics and Behavior of Freely Moving Mosquitoes.
-36167567	Key factors predicting suspected severe malaria case management and health outcomes: an operational study in the Democratic Republic of the Congo.
