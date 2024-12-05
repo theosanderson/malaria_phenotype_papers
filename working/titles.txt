@@ -63,6 +63,7 @@
 39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2022) 159517].
 39613430	Magnitude and associated factors of delayed treatment seeking among patients with malaria in Andabet district, Northwest Ethiopia, 2022: a multicentre institution-based cross-sectional study.
 39612702	Freshwater ecosystem transitions due to artisanal sand mining in Rwanda, Africa.
+36580567	
 39611847	The dynamin-related protein PfDyn2 is essential for both apicoplast and mitochondrial fission in Plasmodium falciparum.
 39611671	The silent threat: Unveiling climate change's water and health challenges in Bangladesh.
 39610980	AmpC β-lactamases detected in Southeast Asian Escherichia coli and Klebsiella pneumoniae.
@@ -5166,7 +5167,6 @@
 37840598	CRISPR-based Biosensors for Human Health: A Novel Strategy to Detect Emerging Infectious Diseases.
 37839913	How colonization bottlenecks, tissue niches, and transmission strategies shape protozoan infections.
 37839415	Malaria community welcomes WHO vaccine approval.
-36580567	
 37839134	Efficacy and safety of ivermectin for the treatment of Plasmodium falciparum infections in asymptomatic male and female Gabonese adults - a pilot randomized, double-blind, placebo-controlled single-centre phase Ib/IIa clinical trial.
 37838431	Immunisation Agenda 2030: prioritising sustainable immunisation financing.
 37837932	Intestinal barrier disruption with Plasmodium falciparum infection in pregnancy and risk of preterm birth: a cohort study.
