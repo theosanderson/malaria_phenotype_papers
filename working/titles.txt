@@ -1,3 +1,5 @@
+39630892	Chromobacterium biopesticide overcomes insecticide resistance in malaria vector mosquitoes.
+39630601	Cytoadhesion of Plasmodium falciparum-Infected Red Blood Cells Changes the Expression of Cytokine-, Histone- and Antiviral Protein-Encoding Genes in Brain Endothelial Cells.
 39629875	Expanding healthcare access in rural sub-Saharan Africa.
 39629706	Myeloid-derived suppressor cells inhibit responses of T follicular helper cells during experimental Plasmodium yoelii infection.
 39629680	Antiplasmodial Potentials, Phytocompounds and the Possible Toxic Effects of Administration of Ethylacetate Extract of Spondias mombin Linn.
@@ -9995,5 +9997,3 @@
 36174594	The role of chemoprophylaxis in eliminating forest malaria and preventing simian malaria in humans.
 36174593	Fighting insecticide resistance in malaria control.
 36174592	Effect of long-lasting insecticidal nets with and without piperonyl butoxide on malaria indicators in Uganda (LLINEUP): final results of a cluster-randomised trial embedded in a national distribution campaign.
-36174125	Antimalarial treatment in infants.
-36174056	Predicting Plasmodium falciparum infection status in blood using a multiplexed bead-based antigen detection assay and machine learning approaches.
