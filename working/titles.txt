@@ -1,3 +1,13 @@
+39635131	Red blood cell signaling is functionally conserved in Plasmodium invasion.
+39634199	Exploration of iron deficiency anemia and its associated factors among pregnant women seeking antenatal care in public health facilities of southwestern Ethiopia. A mixed study.
+39633569	Sickle Trait and Alpha Thalassemia Increase NOS-Dependent Vasodilation of Human Arteries Through Disruption of Endothelial Hemoglobin-eNOS Interactions.
+39633482	Variable effects of non-falciparum species infections on malaria disease severity in high transmission regions in Senegal.
+39633463	The 1,7-malaria reactive community-based testing and response (1,7-mRCTR) approach in Tanzania: a cost-effectiveness analysis.
+39633351	Severe falciparum malaria in young children is associated with an increased risk of post-discharge hospitalization: a prospective cohort study.
+39633208	A Robust Malaria Cell Detection Framework Using Adaptive and Atrous Convolution-Based Recurrent Mobilenetv2 with Trans-MobileUNet + + -Based Abnormality Segmentation.
+39632799	Potent AMA1-specific human monoclonal antibody against Plasmodium vivax Pre-erythrocytic and Blood Stages.
+39632050	HIV incidence and factors associated with HIV risk among people who inject drugs engaged with harm-reduction programmes in four provinces in South Africa: a retrospective cohort study.
+39631773	Integral Solvent-Induced Protein Precipitation for Target-Engagement Studies in Plasmodium Falciparum.
 39630892	Chromobacterium biopesticide overcomes insecticide resistance in malaria vector mosquitoes.
 39630601	Cytoadhesion of Plasmodium falciparum-Infected Red Blood Cells Changes the Expression of Cytokine-, Histone- and Antiviral Protein-Encoding Genes in Brain Endothelial Cells.
 39629875	Expanding healthcare access in rural sub-Saharan Africa.
@@ -9987,13 +9997,3 @@
 36178964	Prevalence and distribution pattern of malaria and soil-transmitted helminth co-endemicity in sub-Saharan Africa, 2000-2018: A geospatial analysis.
 36178962	Intermittent preventive treatment with Sulphadoxine-Pyrimethamine (IPTp-SP) is associated with protection against sub-microscopic P. falciparum infection in pregnant women during the low transmission dry season in southwestern Cameroon: A Semi - longitudinal study.
 36178104	Highly N-Methylated Peptides from the Antarctic Sponge Inflatella coelosphaeroides Are Active against Plasmodium falciparum.
-36177658	Intermittent preventive treatment with Sulfadoxine pyrimethamine for malaria: a global overview and challenges affecting optimal drug uptake in pregnant women.
-36177352	Inhibition of Plasmodium falciparum Hsp70-Hop partnership by 2-phenylthynesulfonamide.
-36177325	Malaria beyond its predominant endemic regions: Emerging threat or sporadic events?
-36176013	Potential of ivermectin as an active ingredient of the attractive toxic sugar baits against the Indian malaria vectors Anopheles culicifacies and Anopheles stephensi.
-36175914	Social representations of malaria in a southern malian community: an ethnographic qualitative study.
-36174940	Comparative analysis of the larvicidal activity of temephos (EC50) and novaluaron (EC10) to control Anopheles stephensi in Sri Lanka.
-36174595	Antimalarial chemoprophylaxis for forest goers in southeast Asia: an open-label, individually randomised controlled trial.
-36174594	The role of chemoprophylaxis in eliminating forest malaria and preventing simian malaria in humans.
-36174593	Fighting insecticide resistance in malaria control.
-36174592	Effect of long-lasting insecticidal nets with and without piperonyl butoxide on malaria indicators in Uganda (LLINEUP): final results of a cluster-randomised trial embedded in a national distribution campaign.
