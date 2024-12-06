@@ -1,3 +1,10 @@
+39637303	Effect of HIV and Malaria in Pregnancy on Pertussis-specific Antibodies and Transplacental Antibody Transfer: A Secondary Analysis of a Prospective Cohort Study in Mozambican Pregnant Women and Their Infants.
+39637234	The bionomics of Anopheles arabiensis and Anopheles funestus inside local houses and their implications for vector control strategies in areas with high coverage of insecticide-treated nets in South-eastern Tanzania.
+39637118	Characterization of human exposure to Anopheles and Aedes bites using antibody-based biomarkers in rural zone of Cameroon.
+39636874	Fungi from Anopheles darlingi Root, 1926, larval breeding sites in the Brazilian Amazon.
+39636817	Copy number variants underlie major selective sweeps in insecticide resistance genes in Anopheles arabiensis.
+39636259	Prevalence and seasonal patterns of vector borne diseases in patients presenting with acute febrile illness in a tertiary care hospital in Puducherry- a prospective observational study.
+39636094	PfMORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, Plasmodium falciparum.
 39635131	Red blood cell signaling is functionally conserved in Plasmodium invasion.
 39634199	Exploration of iron deficiency anemia and its associated factors among pregnant women seeking antenatal care in public health facilities of southwestern Ethiopia. A mixed study.
 39633569	Sickle Trait and Alpha Thalassemia Increase NOS-Dependent Vasodilation of Human Arteries Through Disruption of Endothelial Hemoglobin-eNOS Interactions.
@@ -200,7 +207,7 @@
 39565990	Safety and Efficacy of Immunization with a Late-Liver-Stage Attenuated Malaria Parasite.
 39565917	Pf-HaploAtlas: an interactive web app for spatiotemporal analysis of Plasmodium falciparum genes.
 39565309	Identification of a dengue 2 virus envelope protein receptor in Aedes aegypti critical for viral midgut infection.
-39564771	Exploring Antimalarial and Cytotoxic Activities of Hibiscus cannabinus and Corchorus capsularis Extracts through In-Vitro and In-Silico Approaches.
+39564771	Exploring Antimalarial and Cytotoxic Activities of Hibiscus cannabinus and Corchorus capsularis Extracts Through In-Vitro and In-Silico Approaches.
 39564748	Modular Display of Plasmodium yoelii Circumsporozoite Surface Protein and Merozoite Surface Protein-1 on Norovirus-like Particles.
 39564491	Innovative strategies and challenges mosquito-borne disease control amidst climate change.
 39563464	A multicentre prospective registry of one thousand sepsis patients admitted in Indian ICUs: (SEPSIS INDIA) study.
@@ -9990,10 +9997,3 @@
 36180431	A G358S mutation in the Plasmodium falciparum Na(+) pump PfATP4 confers clinically-relevant resistance to cipargamin.
 36180306	How does primaquine prevent Plasmodium vivax malarial recurrences?
 36180075	Replenishing the Global Fund to Fight AIDS, Tuberculosis, and Malaria.
-36179736	Safety and efficacy of oral fexinidazole in children with gambiense human African trypanosomiasis: a multicentre, single-arm, open-label, phase 2-3 trial.
-36179538	Preeclampsia prediction with blood pressure measurements: A global external validation of the ALSPAC models.
-36179241	Plasma Amino Acid Concentrations in Children With Severe Malaria Are Associated With Mortality and Worse Long-term Kidney and Cognitive Outcomes.
-36178979	IL-4, IL-10, CCL2 and TGF-β as potential biomarkers for severity in Plasmodium vivax malaria.
-36178964	Prevalence and distribution pattern of malaria and soil-transmitted helminth co-endemicity in sub-Saharan Africa, 2000-2018: A geospatial analysis.
-36178962	Intermittent preventive treatment with Sulphadoxine-Pyrimethamine (IPTp-SP) is associated with protection against sub-microscopic P. falciparum infection in pregnant women during the low transmission dry season in southwestern Cameroon: A Semi - longitudinal study.
-36178104	Highly N-Methylated Peptides from the Antarctic Sponge Inflatella coelosphaeroides Are Active against Plasmodium falciparum.
