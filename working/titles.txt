@@ -1,3 +1,16 @@
+39640580	Does malaria infection increase the risk of predation-related mortality during bird migration?
+39639546	Retention on antiretroviral therapy and drivers of lost-to-follow up in the Central African Republic: a longitudinal analysis.
+39639330	Human liver organoids are susceptible to Plasmodium vivax infection.
+39639029	Population genomics and transcriptomics of Plasmodium falciparum in Cambodia and Vietnam uncover key components of the artemisinin resistance genetic background.
+39639002	Mitigating risks of malaria and other vector-borne diseases in the new capital city of Indonesia.
+39638848	Evolution of sequence, structural and functional diversity of the ubiquitous DNA/RNA-binding Alba domain.
+39638608	Contribution of malnutrition to infant and child deaths in Sub-Saharan Africa and South Asia.
+39638599	Interventions to enhance corporate sector engagement in tuberculosis response in Africa: a scoping review protocol.
+39638369	Understanding Integrated Community Case Management Institutionalization Processes Within National Health Systems in Malawi, Mali, and Rwanda: A Qualitative Study.
+39638105	Do specialist and generalist parasites differ in their prevalence and intensity of infection? A test of the niche breadth and trade-off hypotheses.
+39638104	Expanding the known haemosporidian parasite diversity in Eurasian Bluethroat (Luscinia svecica) subspecies through amplicon sequencing.
+39637872	Effects of health system limitations on the use of blood culture and sensitivity testing in Kenyan county hospitals: an interview-based qualitative study using causal loop diagrams.
+39637680	Urine and serum-based ELISA using a recombinant protein and synthetic peptide for the diagnosis of tegumentary leishmaniasis.
 39637303	Effect of HIV and Malaria in Pregnancy on Pertussis-specific Antibodies and Transplacental Antibody Transfer: A Secondary Analysis of a Prospective Cohort Study in Mozambican Pregnant Women and Their Infants.
 39637234	The bionomics of Anopheles arabiensis and Anopheles funestus inside local houses and their implications for vector control strategies in areas with high coverage of insecticide-treated nets in South-eastern Tanzania.
 39637118	Characterization of human exposure to Anopheles and Aedes bites using antibody-based biomarkers in rural zone of Cameroon.
@@ -9984,16 +9997,3 @@
 36183663	Repurposing of Plasmodium falciparum var genes beyond the blood stage.
 36183560	Application of egg yolk IgY on carboxylated polypyrrole films for impedimetric detection of PfHRP2 antigen.
 36183416	Doing 'reciprocity work': The role of fieldworkers in a mass drug administration trial in the Gambia.
-36183175	Impact of prophylactic antimalarials in pregnant women living with Human Immunodeficiency Virus on birth outcomes in Botswana.
-36183114	Implication of asymptomatic and clinical Plasmodium falciparum infections on biomarkers of iron status among school-aged children in Malawi.
-36183100	Impact and operational feasibility of adding malaria infection screening using an ultrasensitive RDT for placental and fetal outcomes in an area of high IPTP-SP coverage in Burkina Faso: the ASSER MALARIA pilot study protocol.
-36183076	Rhino-orbital mucormycosis in a patient with no susceptibility following P.vivax malaria infection-a case report.
-36182962	Drug resistance and population structure of Plasmodium falciparum and Plasmodium vivax in the Peruvian Amazon.
-36182066	Population genetic analysis of Plasmodium falciparum cell-traversal protein for ookinetes and sporozoite among malaria patients from southern Nigeria.
-36181120	Isoniazid preventive therapy-related adverse events among Malawian adults on antiretroviral therapy: A cohort study.
-36180986	Molecular Mechanisms of the Neuroprotective Effect of Methylene Blue.
-36180865	Participatory approaches for raising awareness among subsistence farmers in Tanzania about the spread of insecticide resistance in malaria vectors and the possible link to improper agricultural pesticide use.
-36180456	Reducing data dimension boosts neural network-based stage-specific malaria detection.
-36180431	A G358S mutation in the Plasmodium falciparum Na(+) pump PfATP4 confers clinically-relevant resistance to cipargamin.
-36180306	How does primaquine prevent Plasmodium vivax malarial recurrences?
-36180075	Replenishing the Global Fund to Fight AIDS, Tuberculosis, and Malaria.
