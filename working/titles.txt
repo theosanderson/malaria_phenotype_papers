@@ -1,3 +1,6 @@
+39643983	Transfusions, disease-modifying treatments, and curative therapies for sickle cell anemia in Africa: where are we now?
+39643623	Identifying Plasmodium P36 and P52 antigens for coadministration with circumsporozoite protein to enhance vaccine efficacy.
+39643190	Molecular insights into the aspartate protease Plasmepsin II activity inhibition by fluoroquinolones: A pathway to antimalarial drug development.
 39642214	Inhibitors of malaria parasite cyclic nucleotide phosphodiesterases block asexual blood-stage development and mosquito transmission.
 39640580	Does malaria infection increase the risk of predation-related mortality during bird migration?
 39639546	Retention on antiretroviral therapy and drivers of lost-to-follow up in the Central African Republic: a longitudinal analysis.
@@ -9994,6 +9997,3 @@
 36184603	Six decades of malaria vector control in southern Africa: a review of the entomological evidence-base.
 36184602	Modelling the optimal dosing schedule for artemether-lumefantrine chemoprophylaxis against malaria.
 36184593	Plasmodium pitheci malaria in Bornean orang-utans at a rehabilitation centre in West Kalimantan, Indonesia.
-36183663	Repurposing of Plasmodium falciparum var genes beyond the blood stage.
-36183560	Application of egg yolk IgY on carboxylated polypyrrole films for impedimetric detection of PfHRP2 antigen.
-36183416	Doing 'reciprocity work': The role of fieldworkers in a mass drug administration trial in the Gambia.
