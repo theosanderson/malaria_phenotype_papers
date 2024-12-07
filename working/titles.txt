@@ -1,3 +1,4 @@
+39642214	Inhibitors of malaria parasite cyclic nucleotide phosphodiesterases block asexual blood-stage development and mosquito transmission.
 39640580	Does malaria infection increase the risk of predation-related mortality during bird migration?
 39639546	Retention on antiretroviral therapy and drivers of lost-to-follow up in the Central African Republic: a longitudinal analysis.
 39639330	Human liver organoids are susceptible to Plasmodium vivax infection.
@@ -937,7 +938,6 @@
 39324649	Unexpected outcome of dyspeptic syndrome.
 39324028	Conformational variability in the D2 loop of Plasmodium Apical Membrane antigen 1.
 39323907	The Wildlife Malaria Research network (WIMANET): Meeting report on the 1st WIMANET workshop.
-39322986	Detection of antiretroviral drug-resistant mutations and HIV-1 subtypes in circulation among men who have sex with men, SEM females and female sex workers: results of Vietnam's HIV Sentinel Surveillance Plus (HSS+) system, 2018 - 2020.
 39322303	[Epidemiological characteristics and diagnosis of imported Plasmodium malariae and Plasmodium ovale malaria cases in five provinces of China from 2014 to 2021].
 39322282	Systematic identification of interchromosomal interaction networks supports the existence of specialized RNA factories.
 39321969	Analysis of diagnostic biomarkers for malaria: Prospects on rapid diagnostic test (RDT) development.
