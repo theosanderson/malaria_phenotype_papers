@@ -1,6 +1,6 @@
 39643983	Transfusions, disease-modifying treatments, and curative therapies for sickle cell anemia in Africa: where are we now?
-39643623	Identifying Plasmodium P36 and P52 antigens for coadministration with circumsporozoite protein to enhance vaccine efficacy.
 39643190	Molecular insights into the aspartate protease Plasmepsin II activity inhibition by fluoroquinolones: A pathway to antimalarial drug development.
+39643623	Identifying Plasmodium P36 and P52 antigens for coadministration with circumsporozoite protein to enhance vaccine efficacy.
 39642214	Inhibitors of malaria parasite cyclic nucleotide phosphodiesterases block asexual blood-stage development and mosquito transmission.
 39640580	Does malaria infection increase the risk of predation-related mortality during bird migration?
 39639546	Retention on antiretroviral therapy and drivers of lost-to-follow up in the Central African Republic: a longitudinal analysis.
