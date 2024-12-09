@@ -1,3 +1,6 @@
+39649436	Improving transparency in malaria programme funds: A business case for connected diagnostics in Kenya.
+39649177	Predictors of Late Antenatal Care Initiation: A Multicentre Cross-Sectional Study in Ghana.
+39649165	Revisiting the Plasmodium falciparum druggable genome using predicted structures and data mining.
 39648221	Waning success: a 2013-2022 spatial and temporal trend analysis of malaria in Ethiopia.
 39647578	The Sudan Conflict: A Catalyst for the Spread of Infectious Diseases in Displaced Populations.
 39647543	Locally Manufactured Malaria RDTs for Plasmodium vivax: A Comparative Study of Kits Approved by National Medical Products Administration in China.
@@ -9994,6 +9997,3 @@
 36190355	Advancements in antimicrobial nanoscale materials and self-assembling systems.
 36190127	Cation ATPase (ATP4) Orthologue Replacement in the Malaria Parasite Plasmodium knowlesi Reveals Species-Specific Responses to ATP4-Targeting Drugs.
 36189366	Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on Plasmodium falciparum gametocyte transcript expression and transmission to Anopheles mosquitoes.
-36189362	The role of cholesterol in invasion and growth of malaria parasites.
-36189342	Efficient generation of mNeonGreen Plasmodium falciparum reporter lines enables quantitative fitness analysis.
-36189309	Autoantibodies during infectious diseases: Lessons from malaria applied to COVID-19 and other infections.
