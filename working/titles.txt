@@ -1,3 +1,4 @@
+39647172	Hydroxyurea for Children and Adults with Hemoglobin SC Disease.
 39645241	Freedom from infection: enhancing decision-making for malaria elimination.
 39645053	Resource distribution, pharmacological activity, toxicology and clinical drugs of β-Carboline alkaloids: An updated and systematic review.
 39644978	Isolation and identification of the active constituent β-isocostic acid from the hexane extract of the leaves of Sphaeranthus indicus against mosquito vectors.
@@ -9996,4 +9997,3 @@
 36188342	Potent Virustatic Polymer-Lipid Nanomimics Block Viral Entry and Inhibit Malaria Parasites In Vivo.
 36188023	Strategies for malaria vaccination during the COVID-19 pandemic in African countries.
 36187452	Effects of blood meal sources on the biological characteristics of Aedes aegypti and Culex pipiens (Diptera: Culicidae).
-36186785	Splenic infarction during acute falciparum malaria: A case report.
