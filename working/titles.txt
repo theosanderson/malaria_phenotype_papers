@@ -1,3 +1,6 @@
+39656209	Modeling the within-host dynamics of Plasmodium vivax hypnozoite activation: An analysis of the SPf66 vaccine trial.
+39656014	Implementation and validation of a new qPCR assay to detect imported human Plasmodium species.
+39655938	Diagnosis of Plasmodium infections using artificial intelligence techniques versus standard microscopy in a reference laboratory.
 39655507	Structure of Plasmodium vivaxN-myristoyltransferase with inhibitor IMP-1088: exploring an NMT inhibitor for antimalarial therapy.
 39655256	The feasibility and impact of deploying a four-tests panel at antenatal care in primary health care facilities of a developing country, Kenya.
 39654608	The first record of the invasive mosquito species Aedes albopictus in Yemen.
@@ -9994,6 +9997,3 @@
 36195607	Needle-free, spirulina-produced Plasmodium falciparum circumsporozoite vaccination provides sterile protection against pre-erythrocytic malaria in mice.
 36195578	Discovery of Small-Molecule Allosteric Inhibitors of PfATC as Antimalarials.
 36195566	Elevated plasma α1-antichymotrypsin is a biomarker candidate for malaria patients.
-36195476	Malaria Diagnosis Using Paper-Based Immunoassay for Clinical Blood Sampling and Analysis by a Miniature Mass Spectrometer.
-36194811	COVID-19 and the malaria elimination agenda in Africa: Re-shifting the focus.
-36194273	Recent metabolomic developments for antimalarial drug discovery.
