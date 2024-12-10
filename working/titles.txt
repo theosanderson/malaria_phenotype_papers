@@ -1,3 +1,15 @@
+39652589	A potent and selective reaction hijacking inhibitor of Plasmodium falciparum tyrosine tRNA synthetase exhibits single dose oral efficacy in vivo.
+39652531	Correction: Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages.
+39652161	Post-mortem diagnosis of malaria in decomposed and embalmed body.
+39651747	Understanding the Development of Compensatory Pathways in a Mutant Malaria Parasite Harbouring Hypomorphic Allele of Plant-Like Kinases.
+39651651	Symptoms and Diseases Related to Occupational Health Caused by Climate Change: A Systematic Literature Review.
+39651245	MULTIPLE, REDUNDANT CARBOXYLIC ACID TRANSPORTERS SUPPORT MITOCHONDRIAL METABOLISM IN PLASMODIUM FALCIPARUM.
+39650255	Determinants of persistent malaria transmission in the Arjo-Didessa farm area in Ethiopia.
+39650148	Autochthonous simian malaria in Brazil outside the Amazon: Emergence, zoonotic transmission and implications for disease control.
+39649853	The most lethal human protozoan parasite is plasmodium falciparum: severe malaria-associated acute renal failure - a case report.
+39649624	Plasmodium falciparum dhps and dhfr markers of resistance to sulfadoxine-pyrimethamine five years (2016-2020) after the implementation of seasonal malaria chemoprevention in Cameroon.
+39649601	Associations between weather and Plasmodium vivax malaria in an elimination setting in Peru: a distributed lag analysis.
+39649586	Dihydroartemisinin-piperaquine versus sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria in pregnancy: a systematic review and individual participant data meta-analysis.
 39649436	Improving transparency in malaria programme funds: A business case for connected diagnostics in Kenya.
 39649177	Predictors of Late Antenatal Care Initiation: A Multicentre Cross-Sectional Study in Ghana.
 39649165	Revisiting the Plasmodium falciparum druggable genome using predicted structures and data mining.
@@ -9985,15 +9997,3 @@
 36193307	Identification of Novel miRNAs, Targeting Genes, Signaling Pathway, and the Small Molecule for Overcoming Oxaliplatin Resistance of Metastatic Colorectal Cancer.
 38463717	Does food biodiversity protect against malnutrition and favour the resilience to climate change-related events in Amazon Indigenous communities? A protocol for a mixed methods study.
 36192774	Proactive community case management decreased malaria prevalence in rural Madagascar: results from a cluster randomized trial.
-36192733	Sero-prevalence of malaria and the knowledge, attitudes and practices relating to the prevention of malaria among indigenous people living in the central forest spine in Peninsular Malaysia: a mixed-methods study.
-36192672	Clinical malaria incidence and health seeking pattern in geographically heterogeneous landscape of western Kenya.
-36192272	Impact of rotavirus vaccination on diarrheal hospitalizations in children younger than 5 years of age in a rural southern Mozambique.
-36191874	Effect of Plasmodium Infection during Pregnancy on Passive Neonatal Immunity against Tetanus Toxoid and Rotavirus.
-36191871	Optimizing Routine Malaria Surveillance Data in Urban Environments: A Case Study in Maputo City, Mozambique.
-36191870	Simulating the Impacts of Augmenting Intensive Vector Control with Mass Drug Administration or Test-and-Treat Strategies on the Malaria Infectious Reservoir.
-36191407	Promising antimalarials targeting apicoplast DNA polymerase from Plasmodium falciparum.
-36190958	The realized efficacy of indoor residual spraying campaigns falls quickly below the recommended WHO threshold when coverage, pace of spraying and residual efficacy on different wall types are considered.
-36190416	Safe, Effective, and Inexpensive Clearance of Mycoplasma Contamination from Cultures of Apicomplexan Parasites with Sparfloxacin.
-36190355	Advancements in antimicrobial nanoscale materials and self-assembling systems.
-36190127	Cation ATPase (ATP4) Orthologue Replacement in the Malaria Parasite Plasmodium knowlesi Reveals Species-Specific Responses to ATP4-Targeting Drugs.
-36189366	Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on Plasmodium falciparum gametocyte transcript expression and transmission to Anopheles mosquitoes.
