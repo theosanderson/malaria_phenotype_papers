@@ -1,3 +1,9 @@
+39655507	Structure of Plasmodium vivaxN-myristoyltransferase with inhibitor IMP-1088: exploring an NMT inhibitor for antimalarial therapy.
+39655256	The feasibility and impact of deploying a four-tests panel at antenatal care in primary health care facilities of a developing country, Kenya.
+39654608	The first record of the invasive mosquito species Aedes albopictus in Yemen.
+39654502	Click Coupling of Flavylium Dyes with Plasmodione Analogues: Towards New Redox-Sensitive Pro-Fluorophores.
+39654499	Predictors of Lesion Size among People with Cutaneous Leishmaniasis (2016-2021): A Multilevel Analysis.
+39654176	Malaria pervasiveness in Sub-Saharan Africa: Overcoming the scuffle.
 39653047	The spread of molecular markers of artemisinin partial resistance and diagnostic evasion in Eritrea: a retrospective molecular epidemiology study.
 39652589	A potent and selective reaction hijacking inhibitor of Plasmodium falciparum tyrosine tRNA synthetase exhibits single dose oral efficacy in vivo.
 39652531	Correction: Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages.
@@ -9991,9 +9997,3 @@
 36195476	Malaria Diagnosis Using Paper-Based Immunoassay for Clinical Blood Sampling and Analysis by a Miniature Mass Spectrometer.
 36194811	COVID-19 and the malaria elimination agenda in Africa: Re-shifting the focus.
 36194273	Recent metabolomic developments for antimalarial drug discovery.
-36194213	Points to consider in seeking biosafety approval for research, testing, and environmental release of experimental genetically modified biocontrol products during research and development.
-36193872	Molecular Docking Studies, Synthesis and Biological Evaluation of Substituted Pyrimidine-2,4-diamines as Inhibitors of Plasmodium falciparum Dihydrofolate Reductase.
-36193631	Kinetic Characterization and Inhibition of Trypanosoma cruzi Hypoxanthine-Guanine Phosphoribosyltransferases.
-36193319	The Role of Community Participation in Planning and Executing Malaria Interventions: Experience from Implementation of Biolarviciding for Malaria Vector Control in Southern Tanzania.
-36193307	Identification of Novel miRNAs, Targeting Genes, Signaling Pathway, and the Small Molecule for Overcoming Oxaliplatin Resistance of Metastatic Colorectal Cancer.
-38463717	Does food biodiversity protect against malnutrition and favour the resilience to climate change-related events in Amazon Indigenous communities? A protocol for a mixed methods study.
