@@ -1,3 +1,6 @@
+39660153	Infectious disease outbreaks in the wake of natural flood disasters: global patterns and local implications.
+39660135	Corrigendum: Tick innate immune responses to hematophagy and Ehrlichia infection at single-cell resolution.
+39659700	Evaluation of the Antibacterial and Antioxidant Properties of Chemical Constituents of the Roots of Woodfordia uniflora: An Integrated Approach of Experimental and Computational Study.
 39658783	Prevalence and attributable health burdens of vector-borne parasitic infectious diseases of poverty, 1990-2021: findings from the Global Burden of Disease Study 2021.
 39658487	The type 2 immune response in gut homeostasis and parasite transmission in malaria.
 39658125	The Frequency and Incidence of QT Prolongation with Extended Use of Bedaquiline or Delamanid in a Large, Multi-Country MDR/RR-TB Cohort.
@@ -9994,6 +9997,3 @@
 36199433	CRISPR-Based Programmable Nucleic Acid-Binding Protein Technology Can Specifically Detect Fatal Tropical Disease-Causing Pathogens.
 36199201	A pharmacometrics approach to assess the feasibility of capillary microsampling to replace venous sampling in clinical studies: Tafenoquine case study.
 36199078	The economic burden of malaria: a systematic review.
-36198783	Laggard rich countries risk slowing the fight against AIDS, malaria and TB.
-36198724	Influence of Huangqin Decoction on the immune function and fecal microbiome of chicks after experimental infection with Escherichia coli O78.
-36197988	Structural insights for neutralization of Omicron variants BA.1, BA.2, BA.4, and BA.5 by a broadly neutralizing SARS-CoV-2 antibody.
