@@ -1,3 +1,8 @@
+39661824	Molecular test for screening malaria-infected blood donors to maximise recipient safety in Acre State, a Brazilian endemic area.
+39661643	Plasmodium falciparum African PfCRT Mutant Isoforms Conducive to Piperaquine Resistance are Infrequent and Impart a Major Fitness Cost.
+39661611	Leptospira seroprevalence and associated risk factors among slaughterhouse workers in Western Bahr El Ghazal State, South Sudan.
+39661587	Rethinking village malaria workers in Cambodia: Perspectives from the communities, programme managers, and international stakeholders.
+39661549	Primaquine treatment for P. ovale infection in migrants with G6PD deficiency.
 39660822	Malaria parasites require a divergent heme oxygenase for apicoplast gene expression and biogenesis.
 39660153	Infectious disease outbreaks in the wake of natural flood disasters: global patterns and local implications.
 39660135	Corrigendum: Tick innate immune responses to hematophagy and Ehrlichia infection at single-cell resolution.
@@ -9992,8 +9997,3 @@
 36201515	Sickle cell disease and pregnancy profile of complicated malaria in 982 pregnancies in Kinshasa.
 36201229	Rapid and Visual Detection of Toxoplasma gondii in Blood Samples from Pet Cats and Dogs by Loop-Mediated Isothermal Amplification.
 36200781	Assessment of expertise in morphological identification of mosquito species (Diptera, Culicidae) using photomicrographs.
-36200610	House modifications for preventing malaria.
-36200511	Evolutionary consequences of vector-borne transmission: how using vectors shapes host, vector and pathogen evolution.
-36200257	Outlining the Molecules Tested In Vivo for Chagas Disease, Malaria, and Schistosomiasis Over the Last Six Years - A Literature Review Focused on New Synthetic Drug Identities and Repurposing Strategies.
-36199433	CRISPR-Based Programmable Nucleic Acid-Binding Protein Technology Can Specifically Detect Fatal Tropical Disease-Causing Pathogens.
-36199201	A pharmacometrics approach to assess the feasibility of capillary microsampling to replace venous sampling in clinical studies: Tafenoquine case study.
