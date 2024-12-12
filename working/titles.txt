@@ -1,3 +1,5 @@
+39664556	Epidemiological trends of malaria infection in Jeddah, Saudi Arabia, 2018-2023.
+39663764	Viability of Plasmodium falciparum parasites in human plasma under different storage conditions.
 39663537	The issue of climate change and the spread of tropical diseases in Europe and Italy: vector biology, disease transmission, genome-based monitoring and public health implications.
 39663534	Anti-septin complex positive autoimmune encephalitis after severe falciparum malaria: a case report.
 39662988	Malaria: Drug resistance and fragile health systems are hindering progress, WHO warns.
@@ -9995,5 +9997,3 @@
 36203057	Lifesaving fund to fight AIDS, malaria and TB falls short of $18-billion target.
 36202833	Neutralizing and interfering human antibodies define the structural and mechanistic basis for antigenic diversion.
 36201724	A novel deep learning-assisted hybrid network for plasmodium falciparum parasite mitochondrial proteins classification.
-36201568	Utilization of 18s ribosomal RNA LAMP for detecting Plasmodium falciparum in microscopy and rapid diagnostic test negative patients.
-36201560	Antibiofilm agents with therapeutic potential against enteroaggregative Escherichia coli.
