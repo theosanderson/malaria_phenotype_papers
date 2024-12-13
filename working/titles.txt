@@ -1,3 +1,5 @@
+39666763	Dynamics of submicroscopic and microscopic asymptomatic malaria infection and associated factors: A longitudinal study in South Benin.
+39666697	Insecticide tolerance of the malaria vector Anopheles gambiae following larval exposure to microplastics and insecticide.
 39666245	Value is Gendered: The Need for Sex and Gender Considerations in Health Economic Evaluations.
 39665558	Stage-specific pharmacodynamic chloroquine and pyronaridine action on artemisinin ring-stage resistant Kelch C580Y mutation Plasmodium falciparum correlates to hemozoin inhibition process.
 39665383	Biography of Prof. Dr. Albert Eckstein and His Studies in Türkiye.
@@ -584,6 +586,7 @@
 39468541	Delivering insecticide-treated nets (ITNs) through a digitized single-phase door-to-door strategy: lessons from Ondo state, Nigeria.
 39468465	Genetic polymorphism of merozoite surface protein 1 and merozoite surface protein 2 in the Vietnam Plasmodium falciparum population.
 39468289	Salivary antigens rPagSP02 and rPagSP06 are a reliable composite biomarker for evaluating exposure to Phlebotomus argentipes in Sri Lanka.
+39666848	Gymnema.
 39467134	Identification of a divalent metal transporter required for cellular iron metabolism in malaria parasites.
 39466842	Differences in phenotype between long-lived memory B cells against Plasmodium falciparum merozoite antigens and variant surface antigens.
 39466559	Quantifiable Cross-cultural Research on Medical Mistrust is Necessary for Effective and Equitable Vaccination in Low- and Middle-income Countries.
@@ -9994,6 +9997,3 @@
 36203583	Epitranscriptome profiling of spleen mRNA m(6)A methylation reveals pathways of host responses to malaria parasite infection.
 36203582	Rethinking detection of pre-existing and intervening Plasmodium infections in malaria clinical trials.
 36203504	Developing High-Resolution Population and Settlement Data for Impactful Malaria Interventions in Zambia.
-36203155	Severe malaria.
-36203149	The duration of protection against clinical malaria provided by the combination of seasonal RTS,S/AS01(E) vaccination and seasonal malaria chemoprevention versus either intervention given alone.
-36203064	Malaria vector bionomics and transmission in irrigated and non-irrigated sites in western Kenya.
