@@ -1,3 +1,7 @@
+39670254	The Analysis and the Impact of Surface Temperature Anomalies on the Health of Residents in the River Niger Basin Development Authority Area, West Africa.
+39669268	Progress in the study of mefloquine as an antibiotic adjuvant for combination bacterial inhibition treatment.
+39669142	Analysis of lethal and sublethal doses: Comparative toxicity of three commonly used pesticides on Blattella germanica, an important allergen and vector of pathogens.
+39668916	Cross-sectional Assessment of Body Image Perception, Image Satisfaction, Body Image Discrepancy and Dietary Habits in Medical Students of Ujjain.
 39668051	IMC1g knockdowns reveal malaria blood-stage alveolin functions.
 39666763	Dynamics of submicroscopic and microscopic asymptomatic malaria infection and associated factors: A longitudinal study in South Benin.
 39666697	Insecticide tolerance of the malaria vector Anopheles gambiae following larval exposure to microplastics and insecticide.
@@ -94,7 +98,7 @@
 39633208	A Robust Malaria Cell Detection Framework Using Adaptive and Atrous Convolution-Based Recurrent Mobilenetv2 with Trans-MobileUNet + + -Based Abnormality Segmentation.
 39632799	Potent AMA1-specific human monoclonal antibody against Plasmodium vivax Pre-erythrocytic and Blood Stages.
 39632050	HIV incidence and factors associated with HIV risk among people who inject drugs engaged with harm-reduction programmes in four provinces in South Africa: a retrospective cohort study.
-39631773	Integral Solvent-Induced Protein Precipitation for Target-Engagement Studies in Plasmodium Falciparum.
+39631773	Integral Solvent-Induced Protein Precipitation for Target-Engagement Studies in Plasmodium falciparum.
 39630892	Chromobacterium biopesticide overcomes insecticide resistance in malaria vector mosquitoes.
 39630601	Cytoadhesion of Plasmodium falciparum-Infected Red Blood Cells Changes the Expression of Cytokine-, Histone- and Antiviral Protein-Encoding Genes in Brain Endothelial Cells.
 39629875	Expanding healthcare access in rural sub-Saharan Africa.
@@ -9993,7 +9997,3 @@
 36206245	Prevalence of active trachoma and associated factors among children 1-9 years old at Arsi Negele Town, West Arsi Zone, Oromia Regional State, Southern Ethiopia.
 36204908	Haptoglobin genotypes and malaria comorbidity in breast cancer and healthy Nigerian women.
 36204649	Short-term cryopreservation and thawing have minimal effects on Plasmodium falciparum ex vivo invasion profile.
-36204511	The Variation of Transcriptomic Perturbations is Associated with the Development and Progression of Various Diseases.
-36204495	A structural equation modeling of supply chain strategies for artemisinin-based combination therapies in Uganda.
-36203583	Epitranscriptome profiling of spleen mRNA m(6)A methylation reveals pathways of host responses to malaria parasite infection.
-36203582	Rethinking detection of pre-existing and intervening Plasmodium infections in malaria clinical trials.
