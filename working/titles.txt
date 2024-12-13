@@ -1,3 +1,6 @@
+39670953	Qualitative Evaluation of mHealth Implementation for Infectious Disease Care in Low- and Middle-Income Countries: Narrative Review.
+39670941	Policy to Expand Accessing Antimalarial Drug Treatment in Papua Region-Indonesia: Who Should Be the Target?
+39670568	Characterization and Inhibition of the Chaperone Function of Plasmodium falciparum Glucose-Regulated Protein 94 kDa (PfGrp94).
 39670254	The Analysis and the Impact of Surface Temperature Anomalies on the Health of Residents in the River Niger Basin Development Authority Area, West Africa.
 39669268	Progress in the study of mefloquine as an antibiotic adjuvant for combination bacterial inhibition treatment.
 39669142	Analysis of lethal and sublethal doses: Comparative toxicity of three commonly used pesticides on Blattella germanica, an important allergen and vector of pathogens.
@@ -9994,6 +9997,3 @@
 36207750	High prevalence of Pfcrt 76T and Pfmdr1 N86 genotypes in malaria infected patients attending health facilities in East Shewa zone, Oromia Regional State, Ethiopia.
 36207727	Uptake of intermittent preventive treatment of malaria in pregnancy using sulfadoxine-pyrimethamine (IPTp-SP) in Uganda: a national survey.
 36206262	Aggressive antipyretics in central nervous system malaria: Study protocol of a randomized-controlled trial assessing antipyretic efficacy and parasite clearance effects (Malaria FEVER study).
-36206245	Prevalence of active trachoma and associated factors among children 1-9 years old at Arsi Negele Town, West Arsi Zone, Oromia Regional State, Southern Ethiopia.
-36204908	Haptoglobin genotypes and malaria comorbidity in breast cancer and healthy Nigerian women.
-36204649	Short-term cryopreservation and thawing have minimal effects on Plasmodium falciparum ex vivo invasion profile.
