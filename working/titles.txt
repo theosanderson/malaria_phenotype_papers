@@ -1,3 +1,4 @@
+39671273	A Yeast-Based Assay for Inhibitors of l-Lactate Transport Utilizing Fluorescent Biosensors.
 39670953	Qualitative Evaluation of mHealth Implementation for Infectious Disease Care in Low- and Middle-Income Countries: Narrative Review.
 39670941	Policy to Expand Accessing Antimalarial Drug Treatment in Papua Region-Indonesia: Who Should Be the Target?
 39670568	Characterization and Inhibition of the Chaperone Function of Plasmodium falciparum Glucose-Regulated Protein 94 kDa (PfGrp94).
@@ -9996,4 +9997,3 @@
 36207807	Acute kidney injury in the tropics.
 36207750	High prevalence of Pfcrt 76T and Pfmdr1 N86 genotypes in malaria infected patients attending health facilities in East Shewa zone, Oromia Regional State, Ethiopia.
 36207727	Uptake of intermittent preventive treatment of malaria in pregnancy using sulfadoxine-pyrimethamine (IPTp-SP) in Uganda: a national survey.
-36206262	Aggressive antipyretics in central nervous system malaria: Study protocol of a randomized-controlled trial assessing antipyretic efficacy and parasite clearance effects (Malaria FEVER study).
