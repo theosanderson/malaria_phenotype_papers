@@ -1,3 +1,7 @@
+39673767	Maternal Health Planning and Prioritization in Chad: Developing a supportive tool.
+39673632	Correction to: The expansion of an invasive malaria vector: Anopheles stephensi emergence in Arba Minch town in the southern Rift Valley of Ethiopia.
+39673260	Seasonal fluctuation of insecticide resistance mutation frequencies in field populations of Anopheles and Culex species in Korea.
+39673116	Impact of Climate Change on Human Health.
 39673072	The mediating role of behavioural and socio-structural factors on the association between household wealth and childhood malaria in Ghana.
 39672618	Field-evolved resistance to neonicotinoids in the mosquito, Anopheles gambiae, is associated with mutations of nicotinic acetylcholine receptor subunits combined with cytochrome P450-mediated detoxification.
 39672183	Safety and efficacy of the blood-stage malaria vaccine RH5.1/Matrix-M in Burkina Faso: interim results of a double-blind, randomised, controlled, phase 2b trial in children.
@@ -559,7 +563,6 @@
 39480785	Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon.
 39486598	Heat shock protein HSPA8 impedes hemin-induced cellular-toxicity in liver.
 39486354	RTS, S malaria vaccination among children aged 24-59 months in the Sunyani Municipality, Ghana; 2023.
-39485920	Severe cutaneous adverse drug reaction to atovaquone/proguanil.
 39485315	Detailing organelle division and segregation in Plasmodium falciparum.
 39485014	Novo plant-based mosquito repellent shows promise for exclusion of Aedes mosquitoes from "window" entry.
 39481788	Mortality and morbidity risks associated with floods: A systematic review and meta-analysis.
@@ -1007,7 +1010,7 @@
 39327550	Parasite-enhanced immunotherapy: transforming the "cold" tumors to "hot" battlefields.
 39326796	Antileishmanial, antitrypanosomal and anti-coronavirus activities of benzophenanthridine alkaloids and other specialized metabolites isolated from the root bark of Zanthoxylum zanthoxyloides (Lam.) B.Zepernick & Timler.
 39326490	Rational Design of Untranslated Regions to Enhance Gene Expression.
-39325977	Methodology of the joint malaria prevention recommendations of Switzerland, Germany, Belgium, and the Netherlands.
+39325977	Methodology of the joint malaria prevention recommendations of Switzerland, Germany, Belgium and The Netherlands.
 39325875	A kalihinol analog disrupts apicoplast function and vesicular trafficking in P. falciparum malaria.
 39325838	Stable introduction of Wolbachia wPip into invasive Anopheles stephensi for potential malaria control.
 39324855	Peripheral Perfusion Index in Ugandan Children With Plasmodium falciparum Severe Malaria: Secondary Analysis of Outcomes in a 2014-2017 Cohort Study.
@@ -1622,7 +1625,7 @@
 39098946	Spatiotemporal patterns and association with climate for malaria elimination in Lao PDR: a hierarchical modelling analysis with two-step Bayesian model selection.
 39098224	Plasmodium berghei TatD-like DNase hijacks host innate immunity by inhibiting the TLR9-NF-κB pathway.
 39097728	Patient socio-demographics and clinical factors associated with malaria mortality: a case control study in the northern region of Ghana.
-39096507	Malaria elimination program in Iran: Challenges and opportunities.
+39096507	Malaria elimination programme in Iran: challenges and opportunities.
 39096251	Evaluation of Malaria Microscopy Diagnostic Performance at the Public Health Center on the Border of Indonesia Timor-Leste.
 39095782	An observational analysis of the impact of indoor residual spraying in two distinct contexts of Burkina Faso.
 39095205	Primaquine-5,6-Orthoquinone Is Directly Hemolytic to Older G6PD Deficient RBCs in a Humanized Mouse Model.
@@ -3109,7 +3112,7 @@
 38580079	Modeling the synergistic interplay between malaria dynamics and economic growth.
 38579702	Malaria Slide Bank to Strengthen and Improve the Quality of Malaria Diagnosis: A National Slide Repository in India.
 38579091	Concurrent management of HIV and malaria: A comprehensive review of strategies to enhance quality of life.
-38578987	MALrisk: a machine-learning–based tool to predict imported malaria in returned travellers with fever.
+38578987	MALrisk: a machine-learning-based tool to predict imported malaria in returned travellers with fever.
 38577653	Aetiology of non-malaria acute febrile illness fever in children in rural Guinea-Bissau: a prospective cross-sectional investigation.
 38577386	Global malaria eradication: Insights from Cabo Verde and implications for sub-Saharan Africa.
 38577385	Elimination of malaria in Cabo Verde: Lessons for Nigeria.
@@ -9994,6 +9997,3 @@
 36209068	Prevalence of co-infection and genetic diversity of avian haemosporidian parasites in two rehabilitation facilities in Iran: implications for the conservation of captive raptors.
 36209032	Targeting malaria parasites inside mosquitoes: ecoevolutionary consequences.
 36208942	[Rare cause of spontaneous spleen bleeding: a case report and literature review].
-36208309	Anopheles (Kerteszia) cruzii infected by Plasmodium in the Atlantic Forest indicates that the malaria transmission cycle is maintained even after howler monkeys' population decline.
-36208216	Comparison of Vector Trapping Methods for Outdoor Biting Malaria Vector Surveillance in Thailand and Vietnam.
-36208204	Nosocomial Malaria Transmissions Resolved by Genomic Analyses-A Retrospective Case Report Study in France: 2007-2021.
