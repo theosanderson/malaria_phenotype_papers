@@ -1,3 +1,12 @@
+39679947	Correction to: Cryptic Plasmodium inui and Plasmodium fieldi Infections Among Symptomatic Malaria Patients in Thailand.
+39679473	Epidemiological Assessment of Malaria Prevalence among Children Under 5 in Cameroon: A Cross-Sectional Study.
+39679046	A final push strategy for malaria elimination by 2030: Lessons from community health workers in Chhattisgarh.
+39678352	Long-term co-circulation of multiple arboviruses in southeast Australia revealed by xeno-monitoring and viral whole-genome sequencing.
+39678344	Insecticide susceptibility status of Anopheles stephensi against novel insecticides in Eastern Ethiopia.
+39677758	A novel SUN1-ALLAN complex coordinates segregation of the bipartite MTOC across the nuclear envelope during rapid closed mitosis in Plasmodium.
+39677290	Indian Shot (Canna Indica L). Leaves Provide Valuable Insights into the Management of Inflammation and Other Associated Disorders Offering Health Benefits.
+39677243	Comparative Evaluation of Microscopy, Rapid Diagnostic Tests, and Polymerase Chain Reaction (PCR) for Malaria Diagnosis in Nigerian Children.
+39676896	A deterministic analysis of an age-sex-structured model for malaria transmission dynamics.
 39676716	Synthesis of 1,2,3-Triazole-Methyl-Menadione Derivatives: Evaluation of Electrochemical and Antiparasitic Properties against two Blood-Dwelling Parasites.
 39676357	Biopreserving Pathogens: Promise & Peril.
 39675420	[Emergence of antifungal resistance: a creeping environmental threat?].
@@ -9988,12 +9997,3 @@
 36214706	Identification of essential oil phytocompounds as natural inhibitors of Odorant-binding protein to prevent malaria through in silico approach.
 36214679	Designing dual inhibitors against potential drug targets of Plasmodium falciparum -M17 Leucyl Aminopeptidase and Plasmepsins.
 36214490	In vitro antiplasmodial activity, hemocompatibility and temporal stability of Azadirachta indica silver nanoparticles.
-36214445	Efficacy and safety of praziquantel in the treatment of neurocysticercosis in Vietnam.
-36214439	Polymorphism in the pvcrt-o and pvmdr-1 genes of Plasmodium vivax associated with a better prognosis for malaria.
-36214436	In silico structural modeling and quality assessment of Plasmodium knowlesi apical membrane antigen 1 using comparative protein models.
-36214435	Medicinal plants with antimalarial activities mediated via glycogen synthase kinase-3 beta (GSK3β) inhibition.
-36213843	Nested Group Testing Procedure.
-36212849	Liver-stage fate determination in Plasmodium vivax parasites: Characterization of schizont growth and hypnozoite fating from patient isolates.
-36212591	Prevalence of anemia in pre-school tribal children with reference to parasitic infections and nutritional impact.
-36211953	Editorial: Models to study malaria parasite-host interactions and pathogenesis.
-36211427	Process development and preclinical evaluation of a major Plasmodium falciparum blood stage vaccine candidate, Cysteine-Rich Protective Antigen (CyRPA).
