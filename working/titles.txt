@@ -1,3 +1,6 @@
+39676716	Synthesis of 1,2,3-Triazole-Methyl-Menadione Derivatives: Evaluation of Electrochemical and Antiparasitic Properties against two Blood-Dwelling Parasites.
+39676357	Biopreserving Pathogens: Promise & Peril.
+39675420	[Emergence of antifungal resistance: a creeping environmental threat?].
 39674329	Highly modified lanostane triterpenoids from natural fruiting bodies of Ganoderma cf. hochiminhense.
 39674185	Regional action needed to halt antimalarial drug resistance in Africa.
 39674002	Monkeypox: A comprehensive review on mutation, transmission, pathophysiology, and therapeutics.
@@ -1661,7 +1664,7 @@
 39088453	Acute febrile illness in Kenya: Clinical characteristics and pathogens detected among patients hospitalized with fever, 2017-2019.
 39088368	Progress Toward the Elimination of Hepatitis B and Hepatitis C in the Country of Georgia, April 2015-April 2024.
 39088320	Substrate promiscuity of key resistance P450s confers clothianidin resistance while increasing chlorfenapyr potency in malaria vectors.
-39087773	Obesity, diabetes, Plasmodium infection, and severe malaria in adults: A systematic review and meta-analysis.
+39087773	Obesity, Diabetes, Plasmodium Infection, and Severe Malaria in Adults: A Systematic Review and Meta-analysis.
 39087267	Enhancing the Intrinsic Antiplasmodial Activity and Improving the Stability and Selectivity of a Tunable Peptide Scaffold Derived from Human Platelet Factor 4.
 39086506	Expression patterns of immune checkpoint proteins and Plasmodium falciparum-induced cytokines in chronic hepatitis B virus-infected and uninfected individuals: A cross-sectional study.
 39085983	A landscape review of malaria vaccine candidates in the pipeline.
@@ -1672,7 +1675,7 @@
 39084311	Primaquine-induced hemolysis in a Colombian patient with glucose-6-phosphate dehydrogenase deficiency.
 39084225	Identification of potent and reversible piperidine carboxamides that are species-selective orally active proteasome inhibitors to treat malaria.
 39084212	Improving Coordination to Strengthen Operationalization of Malaria Surveillance and Routine Data Quality: Landscape Analysis of Current Surveillance-Related Initiatives.
-39083679	A countrywide survey of hrp2/3 deletions and kelch13 mutation co-occurrence in Ethiopia.
+39083679	A Countrywide Survey of hrp2/3 Deletions and kelch13 Mutations Co-occurrence in Ethiopia.
 39083589	A comparative immunological assessment of multiple clinical-stage adjuvants for the R21 malaria vaccine in nonhuman primates.
 39083524	Correction: Beyond eves and cracks: An interdisciplinary study of socio-spatial variation in urban malaria transmission in Ethiopia.
 39082882	Efficacy assessment of miltefosine and curcumin against Clonorchis sinensis infection.
@@ -2258,7 +2261,7 @@
 38876165	Prevalence and composition of haemosporidians in an avian community from a World Heritage area: Associations with host foraging strata and forest regeneration.
 38876161	Lack of selection of antimalarial drug resistance markers after intermittent preventive treatment of schoolchildren (IPTsc) against malaria in northeastern Tanzania.
 38875411	Malaria vaccination in Africa: A mini-review of challenges and opportunities.
-38875153	Plasma from older children in Malawi inhibits Plasmodium falciparum binding in 3D brain microvessels.
+38875153	Plasma From Older Children in Malawi Inhibits Plasmodium falciparum Binding in 3-Dimensional Brain Microvessels.
 38874346	Antimalarial activity of cecropin antimicrobial peptides derived from Anopheles mosquitoes.
 38874194	Malaria and other infections induce polyreactive antibodies that impact SARS-CoV-2 seropositivity estimations in endemic settings.
 38874098	Varied Prevalence of Antimalarial Drug Resistance Markers in Different Populations of Newly Arrived Refugees in Uganda.
@@ -9994,6 +9997,3 @@
 36212591	Prevalence of anemia in pre-school tribal children with reference to parasitic infections and nutritional impact.
 36211953	Editorial: Models to study malaria parasite-host interactions and pathogenesis.
 36211427	Process development and preclinical evaluation of a major Plasmodium falciparum blood stage vaccine candidate, Cysteine-Rich Protective Antigen (CyRPA).
-36211381	Mannose inhibits Plasmodium parasite growth and cerebral malaria development via regulation of host immune responses.
-36211335	Phenotypic characterization of Ghanaian P. falciparum clinical isolates reveals a homogenous parasite population.
-36210819	Artemisinin resistance and malaria elimination: Where are we now?
