@@ -6,6 +6,7 @@
 39656710	Determining household out of pocket payments, incidence of catastrophic expenditures and impoverishment among patients with malaria in Zambia's path towards Universal Health Coverage.
 39656701	Assessing species composition and insecticide resistance of Anopheles gambiae complex members in three coastal health districts of Côte d'Ivoire.
 39656696	Association of COVID-19-related perceptions and experiences with depression and anxiety in Ugandan caregivers of young children with malaria and iron deficiency: A cross-sectional study.
+39656683	Protecting the most vulnerable: The urgent need to include HIV-exposed children in malaria chemoprevention strategies.
 39673767	Maternal Health Planning and Prioritization in Chad: Developing a supportive tool.
 39673632	Correction to: The expansion of an invasive malaria vector: Anopheles stephensi emergence in Arba Minch town in the southern Rift Valley of Ethiopia.
 39673260	Seasonal fluctuation of insecticide resistance mutation frequencies in field populations of Anopheles and Culex species in Korea.
@@ -50,7 +51,6 @@
 39657997	Drug Interaction Studies of Cabamiquine:Ganaplacide Combination against Hepatic Plasmodium berghei.
 39657379	Insecticide chlorfenapyr confers induced toxicity in human cells through mitochondria-dependent pathways of apoptosis.
 39657364	Post-treatment duration of positivity for standard and ultra-sensitive Plasmodium falciparum antigen-based rapid diagnostic tests, a cohort study from a low-endemic setting in Namibia.
-39656683	Protecting the most vulnerable: The urgent need to include HIV-exposed children in malaria chemoprevention strategies.
 39656209	Modeling the within-host dynamics of Plasmodium vivax hypnozoite activation: An analysis of the SPf66 vaccine trial.
 39656014	Implementation and validation of a new qPCR assay to detect imported human Plasmodium species.
 39655938	Diagnosis of Plasmodium infections using artificial intelligence techniques versus standard microscopy in a reference laboratory.
