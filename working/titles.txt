@@ -1,3 +1,6 @@
+39682008	A Systematic Review on the Antimicrobial Activity of Andrographolide.
+39681903	Design and implementation of a Primary Health Care (PHC) Toolbox for improving the impact of support from Global Development Partners.
+39681556	Reductive Activation of Artefenomel (OZ439) by Fe(II)-Heme, Related to Its Antimalarial Activity.
 39679947	Correction to: Cryptic Plasmodium inui and Plasmodium fieldi Infections Among Symptomatic Malaria Patients in Thailand.
 39679473	Epidemiological Assessment of Malaria Prevalence among Children Under 5 in Cameroon: A Cross-Sectional Study.
 39679046	A final push strategy for malaria elimination by 2030: Lessons from community health workers in Chhattisgarh.
@@ -9994,6 +9997,3 @@
 36215332	The notable global heterogeneity in the distribution of COVID-19 cases and the association with pre-existing parasitic diseases.
 36215323	Monthly sulfadoxine/pyrimethamine-amodiaquine or dihydroartemisinin-piperaquine as malaria chemoprevention in young Kenyan children with sickle cell anemia: A randomized controlled trial.
 36215300	Molluscicidal and antioxidant activities of silver nanoparticles on the multi-species of snail intermediate hosts of schistosomiasis.
-36214706	Identification of essential oil phytocompounds as natural inhibitors of Odorant-binding protein to prevent malaria through in silico approach.
-36214679	Designing dual inhibitors against potential drug targets of Plasmodium falciparum -M17 Leucyl Aminopeptidase and Plasmepsins.
-36214490	In vitro antiplasmodial activity, hemocompatibility and temporal stability of Azadirachta indica silver nanoparticles.
