@@ -1,3 +1,8 @@
+39687741	Genetic surveillance shows spread of ACT resistance during period of malaria decline in Vietnam (2018-2020).
+39687374	Blood smear imagery dataset for malaria parasite detection: A case of Tanzania.
+39683816	Elucidation of the Active Agents in a West African Ground Herbal Medicine Formulation That Elicit Antimalarial Activities in In Vitro and In Vivo Models.
+39682651	Instrument-Free Point-of-Care Diagnostic for Leishmania Parasites.
+39682645	An Efficient Deep Learning Approach for Malaria Parasite Detection in Microscopic Images.
 39682008	A Systematic Review on the Antimicrobial Activity of Andrographolide.
 39681903	Design and implementation of a Primary Health Care (PHC) Toolbox for improving the impact of support from Global Development Partners.
 39681556	Reductive Activation of Artefenomel (OZ439) by Fe(II)-Heme, Related to Its Antimalarial Activity.
@@ -9992,8 +9997,3 @@
 36216903	Isotopic evidence that aestivation allows malaria mosquitoes to persist through the dry season in the Sahel.
 36216891	Pneumococcal within-host diversity during colonization, transmission and treatment.
 36216349	Discovery and Characterization of Potent, Efficacious, Orally Available Antimalarial Plasmepsin X Inhibitors and Preclinical Safety Assessment of UCB7362.
-36216322	Seasonal Distribution and Trend Analysis of Urban Malaria Prevalence in a Malaria Clinic, South Delhi, India, between 2012 and 2019.
-36215930	Compounding vulnerabilities: Syndemics and the social determinants of disease in the past.
-36215332	The notable global heterogeneity in the distribution of COVID-19 cases and the association with pre-existing parasitic diseases.
-36215323	Monthly sulfadoxine/pyrimethamine-amodiaquine or dihydroartemisinin-piperaquine as malaria chemoprevention in young Kenyan children with sickle cell anemia: A randomized controlled trial.
-36215300	Molluscicidal and antioxidant activities of silver nanoparticles on the multi-species of snail intermediate hosts of schistosomiasis.
