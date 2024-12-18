@@ -1,3 +1,5 @@
+39692073	Contextualizing Public Health Interventions in Eliminating Endemic Diseases: New Lessons From a Review of Sri Lanka's Success in Eliminating Malaria.
+39691987	Importin α inhibitors act against the differentiated stages of apicomplexan parasites Plasmodium falciparum and Toxoplasma gondii.
 39689364	Genetic Characterization of Plasmodium falciparum Histidine-Rich Protein 2 Deletions and Their Impact on Malaria Interventions in Odisha, India.
 39689361	Performance of the Bioline™ Malaria Ag Pf/Pan and Bioline™ Malaria Ag Pf/Pv for Malaria Diagnostics: Madagascar In-Country Evaluation.
 39689287	Evaluating the Antimalarial Potential of D-α-Tocopherol Polyethylene Glycol 1000 Succinate and α-Tocopherol, In Vivo Studies in Plasmodium berghei-Infected Mice and Molecular Docking Insights.
@@ -983,6 +985,7 @@
 39349510	Author Correction: The artemisinin-induced dormant stages of Plasmodium falciparum exhibit hallmarks of cellular quiescence/senescence and drug resilience.
 39349478	Contrasting genomic epidemiology between sympatric Plasmodium falciparum and Plasmodium vivax populations.
 39349462	Author Correction: Aryl amino acetamides prevent Plasmodium falciparum ring development via targeting the lipid-transfer protein PfSTART1.
+39348488	Total Synthesis of Tosyl-Samroiyotmycin A and Its Biological Profiling.
 39348385	ATM1, an essential conserved transporter in Apicomplexa, bridges mitochondrial and cytosolic [Fe-S] biogenesis.
 39345873	Employing Hexahydroquinolines as PfCDPK4 Inhibitors to Combat Malaria Transmission: An Advanced Computational Approach.
 39345628	Population genomics of Plasmodium ovale species in sub-Saharan Africa.
@@ -9994,6 +9997,3 @@
 36219704	A Systematic Review of Human Challenge Trials, Designs, and Safety.
 36219093	Common infectious and parasitic diseases as a cause of seizures: geographic distribution and contribution to the burden of epilepsy.
 36218381	Sex in protists: A new perspective on the reproduction mechanisms of trypanosomatids.
-36218071	Screening of potential antiplasmodial agents targeting cysteine protease-Falcipain 2: a computational pipeline.
-36217188	Sex of household head and other household determinants of childhood anaemia among households in Ghana: regression analysis of the 2019 Malaria Indicator Survey.
-36217159	Effectiveness of rectal artesunate as pre-referral treatment for severe malaria in children under 5 years of age: a multi-country observational study.
