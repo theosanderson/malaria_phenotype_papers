@@ -1,3 +1,8 @@
+39689364	Genetic Characterization of Plasmodium falciparum Histidine-Rich Protein 2 Deletions and Their Impact on Malaria Interventions in Odisha, India.
+39689361	Performance of the Bioline™ Malaria Ag Pf/Pan and Bioline™ Malaria Ag Pf/Pv for Malaria Diagnostics: Madagascar In-Country Evaluation.
+39689287	Evaluating the Antimalarial Potential of D-α-Tocopherol Polyethylene Glycol 1000 Succinate and α-Tocopherol, In Vivo Studies in Plasmodium berghei-Infected Mice and Molecular Docking Insights.
+39689130	Maternal lipid mobilization is essential for embryonic development in the malaria vector Anopheles gambiae.
+39688940	From leprosy to ground zero: Imagining futures in a world of elimination.
 39687741	Genetic surveillance shows spread of ACT resistance during period of malaria decline in Vietnam (2018-2020).
 39687374	Blood smear imagery dataset for malaria parasite detection: A case of Tanzania.
 39683816	Elucidation of the Active Agents in a West African Ground Herbal Medicine Formulation That Elicit Antimalarial Activities in In Vitro and In Vivo Models.
@@ -9992,8 +9997,3 @@
 36218071	Screening of potential antiplasmodial agents targeting cysteine protease-Falcipain 2: a computational pipeline.
 36217188	Sex of household head and other household determinants of childhood anaemia among households in Ghana: regression analysis of the 2019 Malaria Indicator Survey.
 36217159	Effectiveness of rectal artesunate as pre-referral treatment for severe malaria in children under 5 years of age: a multi-country observational study.
-36217154	Association between CYP2D6 phenotype and recurrence of Plasmodium vivax infection in south Korean patients.
-36216904	Resolving malaria's dry-season dilemma.
-36216903	Isotopic evidence that aestivation allows malaria mosquitoes to persist through the dry season in the Sahel.
-36216891	Pneumococcal within-host diversity during colonization, transmission and treatment.
-36216349	Discovery and Characterization of Potent, Efficacious, Orally Available Antimalarial Plasmepsin X Inhibitors and Preclinical Safety Assessment of UCB7362.
