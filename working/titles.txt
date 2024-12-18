@@ -1,3 +1,4 @@
+39693130	Antimicrobial activity of iron-depriving pyoverdines against human opportunistic pathogens.
 39692073	Contextualizing Public Health Interventions in Eliminating Endemic Diseases: New Lessons From a Review of Sri Lanka's Success in Eliminating Malaria.
 39691987	Importin α inhibitors act against the differentiated stages of apicomplexan parasites Plasmodium falciparum and Toxoplasma gondii.
 39689364	Genetic Characterization of Plasmodium falciparum Histidine-Rich Protein 2 Deletions and Their Impact on Malaria Interventions in Odisha, India.
@@ -9996,4 +9997,3 @@
 36219705	Effect of Malaria and Malaria Chemoprevention Regimens in Pregnancy and Childhood on Neurodevelopmental and Behavioral Outcomes in Children at 12, 24, and 36 Months: A Randomized Clinical Trial.
 36219704	A Systematic Review of Human Challenge Trials, Designs, and Safety.
 36219093	Common infectious and parasitic diseases as a cause of seizures: geographic distribution and contribution to the burden of epilepsy.
-36218381	Sex in protists: A new perspective on the reproduction mechanisms of trypanosomatids.
