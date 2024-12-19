@@ -1,9 +1,44 @@
-39694399	Protective humoral immunity induced by virus-like particles expressing Toxoplasma gondii CST1 or MIC8.
+39697211	Case report: Malaria and hepatitis E coinfection-first experience with such imported entity in Serbia.
+39696874	Subnational mapping of anemia and etiologic factors in the West and Central African Region.
+39696847	A stage structured model for mosquito suppression with immigration.
+39696770	Essay review: the fictive history of Victorian science and empire.
+39696727	Plasmodium falciparum with pfhrp2 and pfhrp3 gene deletions in asymptomatic malaria infections in the Lake Victoria region, Kenya.
+39696599	Impact of nighttime human behavior on exposure to malaria vectors and effectiveness of using long-lasting insecticidal nets in the Ethiopian lowlands and highlands.
+39696566	Pilot introduction of long-lasting insecticidal nets and hammock nets in the indigenous Comarca of Guna Yala, Panama.
+39696502	Microscopic prevalence and risk factors of asymptomatic malaria in Gorgora, western Dembia, Northwest Ethiopia: exploring hidden threats during minor transmission season.
+39696481	Risk of Aedes-borne diseases in and around the Tanzanian seaport of Tanga despite community members being more concerned about malaria.
+39696480	Indoor residual spraying uptake and its effect on malaria morbidity in Ngoma district, Eastern province of Rwanda, 2018-2021.
+39696448	Sequencing confirms Anopheles stephensi distribution across southern Yemen.
+39696443	The influence of caregiver's malaria-related knowledge on the use of insecticide-treated net among children under-five: a cross-sectional study.
+39696418	Are urban residents seeking appropriate care for malaria? evidence from an exploratory qualitative study in two cities in nigeria.
+39696387	Asymptomatic Plasmodium falciparum infections and determinants of carriage in a seasonal malaria chemoprevention setting in Northern Cameroon and south Senegal (Kedougou).
+39696366	Two highly selected mutations in the tandemly duplicated CYP6P4a and CYP6P4b genes drive pyrethroid resistance in Anopheles funestus in West Africa.
+39696361	Access and coverage of malaria services in Haiti in the context of elimination: a scoping review of the literature.
+39696325	Comparison of fine-scale malaria strata derived from population survey data collected using RDTs, microscopy and qPCR in South-Eastern Tanzania.
+39696271	Identifying populations at high risk of malaria: a mixed-methods case-control study to inform targeted interventions in Senegal.
+39695912	Assessment of household insecticide-treated bed net ownership, utilization, and associated factors in Kersa Woreda, Jimma Zone, Southwest Ethiopia.
+39695866	Mosquito breeding water parameters are important determinants for Microsporidia MB in the aquatic stages of Anopheles species.
+39695763	Video-based education messaging to enhance optimal uptake of malaria preventive therapy in pregnant women: a mixed methods study involving pregnant women and midwives in Uganda.
+39695728	Evaluating artesunate monotherapy and dihydroartemisinin-piperaquine as potential antimalarial options for prevaccination radical cures during future malaria vaccine field efficacy trials.
+39695723	Effect of seasonal malaria chemoprevention on incidence of malaria among children under five years in Kotido and Moroto Districts, Uganda, 2021: time series analysis.
+39695721	Role of surveillance data in detecting malaria outbreaks in an epidemic-prone region in Kenya: findings from an investigation of a suspected outbreak in Nandi County.
+39695718	Researchers' perspectives on the integration of molecular and genomic data into malaria elimination programmes in Africa: a qualitative study.
+39695690	The experimental hut efficacy of next-generation insecticide-treated nets against pyrethroid-resistant malaria vectors after 12, 24 and 36 months of household use in Benin.
+39695688	Reducing under-five mortality in Tanzania: insights from a 60-years data analysis on economic and health indicators.
+39695680	Systematic review of evidence for the impact and effectiveness of the 1-3-7 strategy for malaria elimination.
+39695670	Systematic review on the cost of seasonal malaria chemoprevention (SMC).
+39695651	Placental malaria and adverse pregnancy outcomes in Majang Zone of Gambella Region, Southwest Ethiopia: a histopathological and molecular study.
+39695645	Spatiotemporal dynamics of malaria and climate influence on its incidence in Condorcanqui Province, 2005-2022.
+39695630	Plasmodium falciparum and Schistosoma mansoni coinfections among the general population in Ethiopia: a systematic review and meta-analysis.
+39695597	Therapeutic potential of Indonesian plant extracts in combating malaria and protozoan neglected tropical disease.
+39695591	The effect of novel mosquito bite prevention tools on Anopheles minimus landing and key secondary endpoints: semi-field evaluations in Thailand.
+39695583	The status of insecticide resistance of Anopheles coluzzii on the islands of São Tomé and Príncipe, after 20 years of malaria vector control.
 39695454	Designing and comparative analysis of anti-oxidant and heat shock proteins based multi-epitopic filarial vaccines.
 39695386	Genome-wide association studies unveil major genetic loci driving insecticide resistance in Anopheles funestus in four eco-geographical settings across Cameroon.
 39695373	Genomic analyses revealed low genetic variation in the intron-exon boundary of the doublesex gene within the natural populations of An. gambiae s.l. in Burkina Faso.
 39694742	Overview of national and local efforts to eliminate malaria in Thailand.
 39694666	Evaluation of Exosomal Proteins as Potential Biomarkers from RBC Stages of Plasmodium falciparum 3D7.
+39694399	Protective humoral immunity induced by virus-like particles expressing Toxoplasma gondii CST1 or MIC8.
 39693942	Binding of a potential antibacterial drug, mangiferin, to serine hydroxymethyltransferase from Enterococcus faecium.
 39693420	The Plasmodium falciparum NCR1 transporter is an antimalarial target that exports cholesterol from the parasite's plasma membrane.
 39693377	APEX-based proximity labeling in Plasmodium identifies a membrane protein with dual functions during mosquito infection.
@@ -9962,38 +9997,3 @@
 36228921	Malaria Resilience in South America: Epidemiology, Vector Biology, and Immunology Insights from the Amazonian International Center of Excellence in Malaria Research Network in Peru and Brazil.
 36228920	Asia-Pacific International Center of Excellence in Malaria Research: Maximizing Impact on Malaria Control Policy and Public Health in Cambodia and Papua New Guinea.
 36228919	Advances in Basic and Translational Research as Part of the Center for the Study of Complex Malaria in India.
-36228918	Impact of Environmental Modifications on the Ecology, Epidemiology, and Pathogenesis of Plasmodium falciparum and Plasmodium vivax Malaria in East Africa.
-36228917	Asia-Pacific ICEMR: Understanding Malaria Transmission to Accelerate Malaria Elimination in the Asia Pacific Region.
-36228916	East Africa International Center of Excellence for Malaria Research: Summary of Key Research Findings.
-36228915	Understanding the Intransigence of Malaria in Malawi.
-36228914	Malaria Research for Tailored Control and Elimination Strategies in the Greater Mekong Subregion.
-36228913	Policy Implications of the Southern and Central Africa International Center of Excellence for Malaria Research: Ten Years of Malaria Control Impact Assessments in Hypo-, Meso-, and Holoendemic Transmission Zones in Zambia and Zimbabwe.
-36228912	International Centers of Excellence for Malaria Research: Achievements of the Collaborative Network during the Past Decade.
-36228911	Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.
-36228910	Diverse Malaria Presentations across National Institutes of Health South Asia International Center for Excellence in Malaria Research Sites in India.
-36228909	Multidisciplinary Investigations of Sustained Malaria Transmission in the Greater Mekong Subregion.
-36228908	The West Africa ICEMR Partnerships for Guiding Policy to Improve the Malaria Prevention and Control.
-36228907	Evidence-Based Malaria Control and Elimination in the Amazon: Input from the International Center of Excellence in Malaria Research Network in Peru and Brazil.
-36228906	International Center of Excellence for Malaria Research for South Asia and Broader Malaria Research in India.
-36228905	Enhancing Malaria Research, Surveillance, and Control in Endemic Areas of Kenya and Ethiopia.
-36228904	East Africa International Center of Excellence for Malaria Research: Impact on Malaria Policy in Uganda.
-36228903	Scientific Findings of the Southern and Central Africa International Center of Excellence for Malaria Research: Ten Years of Malaria Control Impact Assessments in Hypo-, Meso-, and Holoendemic Transmission Zones in Zambia and Zimbabwe.
-36228701	Role of PfMYST in DNA replication in Plasmodium falciparum.
-36227933	The impact of COVID-19 on implementation of mass testing, treatment and tracking of malaria in rural communities in Ghana: A qualitative study.
-36227859	Not your Mother's MAPKs: Apicomplexan MAPK function in daughter cell budding.
-36227390	Aetiology and Potential Animal Exposure in Central Nervous System Infections in Vietnam.
-36226920	Host life-history traits predict haemosporidian parasite prevalence in tanagers (Aves: Thraupidae).
-36225971	Ultrasensitive electrochemical genosensors for species-specific diagnosis of malaria.
-36225853	Detection of Mansonella ozzardi in peripheral blood in two malaria-endemic areas in Panama.
-36225255	Unveiling antiplasmodial alkaloids from a cumulative collection of Strychnos extracts by multi-informative molecular networks.
-38455321	Diversity, composition, altitude, and seasonality of high-altitude windborne migrating mosquitoes in the Sahel: Implications for disease transmission.
-36224655	Malaria outbreak facilitated by increased mosquito breeding sites near houses and cessation of indoor residual spraying, Kole district, Uganda, January-June 2019.
-36224585	The choice of reference chart affects the strength of the association between malaria in pregnancy and small for gestational age: an individual participant data meta-analysis comparing the Intergrowth-21 with a Tanzanian birthweight chart.
-36224571	Antimalarial potential of compounds isolated from Mammea siamensis T. Anders. flowers: in vitro and molecular docking studies.
-36224532	Factors associated with birth asphyxia among term singleton births at two referral hospitals in Northern Uganda: a cross sectional study.
-36224312	Anopheles gambiae s.l. swarms trapping as a complementary tool against residual malaria transmission in eastern Gambia.
-36224278	Genetic variation of glycophorins and infectious disease.
-36223993	Single-Pair and Small-Group Crosses of Aedes aegypti.
-36223992	Overview of Aedes aegypti and Use in Laboratory Studies.
-36223988	Batch Rearing Aedes aegypti.
-36223881	Long-read sequencing reveals oncogenic mechanism of HPV-human fusion transcripts in cervical cancer.
