@@ -1,3 +1,9 @@
+39693420	The Plasmodium falciparum NCR1 transporter is an antimalarial target that exports cholesterol from the parasite's plasma membrane.
+39693377	APEX-based proximity labeling in Plasmodium identifies a membrane protein with dual functions during mosquito infection.
+39693305	The role of a structured community health worker network in achieving malaria elimination goals in the Dominican Republic: An impact evaluation amid COVID-19 disruptions.
+39693284	Low prevalence of Plasmodium falciparum histidine-rich protein 2 and 3 gene deletions in malaria-endemic states of India.
+39693282	Assessing antimicrobial use patterns in Christian Health Association of Malawi (CHAM) health facilities: A cross-sectional study protocol.
+39693172	Evaluation of three rapigen biocredit point-of-care tests for malaria case management in Lagos, Nigeria.
 39693130	Antimicrobial activity of iron-depriving pyoverdines against human opportunistic pathogens.
 39692073	Contextualizing Public Health Interventions in Eliminating Endemic Diseases: New Lessons From a Review of Sri Lanka's Success in Eliminating Malaria.
 39691987	Importin α inhibitors act against the differentiated stages of apicomplexan parasites Plasmodium falciparum and Toxoplasma gondii.
@@ -291,7 +297,7 @@
 39580476	Long-lasting residual efficacy of a new indoor residual spraying product, VECTRON(™) T500 (broflanilide), against pyrethroid-resistant malaria vectors and its acceptance in a community trial in Burkina Faso.
 39580442	The potential for attractive toxic sugar baits to complement core malaria interventions strategies: the need for more evidence.
 39580415	Screening the Global Health Priority Box against Plasmodium berghei liver stage parasites using an inexpensive luciferase detection protocol.
-39579925	SARS-CoV-2 Serologic Surveillance Among People Living with HIV in Nigeria, April 2022-January 2023.
+39579925	SARS-CoV-2 serologic surveillance among people living with HIV in Nigeria, April 2022 to January 2023.
 39579814	Ixochymostatin, a trypsin inhibitor-like (TIL) protein from Ixodes scapularis, inhibits chymase and impairs vascular permeability.
 39579311	Immunophenotyping of Hematopoietic Cells in the Spleen in Hypothyroid Mice.
 39579310	Immunophenotyping of Leukocytes in Brain in Hypothyroid Mice.
@@ -9991,9 +9997,3 @@
 36223382	A toolbox of engineered mosquito lines to study salivary gland biology and malaria transmission.
 36222650	High-resolution species assignment of Anopheles mosquitoes using k-mer distances on targeted sequences.
 36222471	Botanical Description, Traditional Uses, Phytochemistry, and Pharmacology of the Genus Artabotrys: A Review.
-36221147	Mimicking platelet indices in patients with malaria and dengue hemorrhagic fever: characteristics and clinical applications.
-36221071	Pre-referral intranasal artesunate powder for cerebral malaria: a proof-of-concept study.
-36221068	Factors associated with non-use of insecticide-treated bed nets among pregnant women in Zambia.
-36219705	Effect of Malaria and Malaria Chemoprevention Regimens in Pregnancy and Childhood on Neurodevelopmental and Behavioral Outcomes in Children at 12, 24, and 36 Months: A Randomized Clinical Trial.
-36219704	A Systematic Review of Human Challenge Trials, Designs, and Safety.
-36219093	Common infectious and parasitic diseases as a cause of seizures: geographic distribution and contribution to the burden of epilepsy.
