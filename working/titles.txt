@@ -1,3 +1,11 @@
+39703777	Ly6G(+) Neutrophils and Interleukin-17 Are Essential in Protection against Rodent Malaria Caused by Plasmodium berghei ANKA.
+39703398	Impact on parasitemia, survival time and pro-inflammatory immune response in mice infected with Plasmodium berghei treated with Eleutherine plicata.
+39703208	Antiplasmodial Activity of Probiotic Limosilactobacillus fermentum YZ01 in Plasmodium berghei ANKA Infected BALB/c Mice.
+39703011	Unveiling the Potential of Natural Resources-Derived Therapeutics for Improved Malaria Management: Computational to Experimental Studies.
+39702744	Intranasal influenza-vectored vaccine expressing pneumococcal surface protein A protects against Influenza and Streptococcus pneumoniae infections.
+39702380	Determinants of malaria infection among under five children in Gursum district of Somali region, Eastern Ethiopia.
+39702359	Spatial analysis and mapping of malaria risk areas using geospatial technology in the case of Nekemte City, western Ethiopia.
+39702135	Willingness to pay for a mosquito bite prevention 'forest pack' in Cambodia: results of a discrete choice experiment.
 39701119	Artemether-lumefantrine-amodiaquine or artesunate-amodiaquine combined with single low-dose primaquine to reduce Plasmodium falciparum malaria transmission in Ouélessébougou, Mali: a five-arm, phase 2, single-blind, randomised controlled trial.
 39700671	Diagnostic techniques for visceral leishmaniasis: An overview of methods used in East Africa.
 39700590	Giant duodenal perforation: A rare malaria complication in a child; a case report and review of literature.
@@ -257,7 +265,7 @@
 39614327	Correction: Chemoprevention of malaria with long-acting oral and injectable drugs: an updated target product profile.
 39614280	Taurine potentiates artemisinin efficacy against malaria by modulating the immune response in Plasmodium berghei-infected mice.
 39614248	Influence of trust on the acceptance of the RTS,S malaria vaccine in the Kassena-Nankana districts of Ghana.
-39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2022) 159517].
+39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2023) 159517].
 39613430	Magnitude and associated factors of delayed treatment seeking among patients with malaria in Andabet district, Northwest Ethiopia, 2022: a multicentre institution-based cross-sectional study.
 39612702	Freshwater ecosystem transitions due to artisanal sand mining in Rwanda, Africa.
 36580567	
@@ -9989,11 +9997,3 @@
 36234725	Advocacy for the Medicinal Plant Artabotrys hexapetalus (Yingzhao) and Antimalarial Yingzhaosu Endoperoxides.
 36233805	Non-Communicable Diseases: The Invisible Epidemic.
 36233103	The First Molecular Detection of Aedes albopictus in Sudan Associates with Increased Outbreaks of Chikungunya and Dengue.
-36232861	Gene Signatures Associated with Temporal Rhythm as Diagnostic Markers of Major Depressive Disorder and Their Role in Immune Infiltration.
-36232449	Metagenomic Sequencing for the Diagnosis of Plasmodium spp. with Different Levels of Parasitemia in EDTA Blood of Malaria Patients-A Proof-of-Principle Assessment.
-36232166	Were Women Staying on Track with Intermittent Preventive Treatment for Malaria in Antenatal Care Settings? A Cross-Sectional Study in Senegal.
-36231573	Forecasting Malaria Morbidity to 2036 Based on Geo-Climatic Factors in the Democratic Republic of Congo.
-36231519	Global Cross-Border Malaria Control Collaborative Initiatives: A Scoping Review.
-36231374	Incidence and Risk Factors for Low Birthweight and Preterm Birth in Post-Conflict Northern Uganda: A Community-Based Cohort Study.
-36231306	Distribution and Risk Factors of Malaria in the Greater Accra Region in Ghana.
-36231154	How Internet Websites Portray Herbal Vitality Products Containing Eurycoma longifolia Jack: An Evaluation of the Quality and Risks of Online Information.
