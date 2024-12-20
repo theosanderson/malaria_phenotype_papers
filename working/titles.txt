@@ -1,3 +1,5 @@
+39700260	Health-Related Quality of Life due to malaria in the Brazilian Amazon using EQ-5D-3L.
+39700132	Public communication and outreach by mosquito programs in the United States.
 39699542	Dengue Mimickers: Which Clinical Conditions Can Resemble Dengue Fever?
 39699139	DIAGNOSTIC INVESTIGATION OF AMERICAN ROBINS (TURDUS MIGRATORIUS) WITH FATAL ETHYLENE GLYCOL TOXICOSIS AND CONCURRENT PLASMODIUM SPP. INFECTION WITH RETROSPECTIVE REVIEW OF 44 YEARS OF DIAGNOSTIC DATA.
 39699125	Impact of late rainy season indoor residual spraying on holoendemic malaria transmission: a cohort study in northern Zambia.
@@ -9995,5 +9997,3 @@
 38455301	Genetic deletions and high diversity of Plasmodium falciparum histidine-rich proteins 2 and 3 genes in parasite populations in Ghana.
 36229813	Reproductive and endocrine effects of artemisinin, piperaquine, and artemisinin-piperaquine combination in rats.
 36229488	Sporozoite motility as a quantitative readout for anti-CSP antibody inhibition.
-36228923	A Decade of Progress Accelerating Malaria Control in Mali: Evidence from the West Africa International Center of Excellence for Malaria Research.
-36228922	The Impact, Emerging Needs, and New Research Questions Arising from 12 Years of the Center for the Study of Complex Malaria in India.
