@@ -1,3 +1,5 @@
+39705289	Population travel increases the risk of Plasmodium falciparum infection in the highland population of Gardula Zone, South Ethiopia: A longitudinal study.
+39705264	Effects on maternal and pregnancy outcomes of first-trimester malaria infection among nulliparous women from Kenya, Zambia, and the Democratic Republic of the Congo.
 39703777	Ly6G(+) Neutrophils and Interleukin-17 Are Essential in Protection against Rodent Malaria Caused by Plasmodium berghei ANKA.
 39703398	Impact on parasitemia, survival time and pro-inflammatory immune response in mice infected with Plasmodium berghei treated with Eleutherine plicata.
 39703208	Antiplasmodial Activity of Probiotic Limosilactobacillus fermentum YZ01 in Plasmodium berghei ANKA Infected BALB/c Mice.
@@ -9995,5 +9997,3 @@
 36234887	Pyrethroid Resistance Situation across Different Eco-Epidemiological Settings in Cameroon.
 36234752	Antiprotozoal Activity of Azabicyclo-Nonanes Linked to Tetrazole or Sulfonamide Cores.
 36234725	Advocacy for the Medicinal Plant Artabotrys hexapetalus (Yingzhao) and Antimalarial Yingzhaosu Endoperoxides.
-36233805	Non-Communicable Diseases: The Invisible Epidemic.
-36233103	The First Molecular Detection of Aedes albopictus in Sudan Associates with Increased Outbreaks of Chikungunya and Dengue.
