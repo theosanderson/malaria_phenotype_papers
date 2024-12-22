@@ -1,3 +1,12 @@
+39707593	Host preference of Anopheles stephensi mosquitoes for blood feeding in south of Iran: Insights from Multiplex-PCR analysis.
+39707315	Mixed study on barriers of access to prevention, diagnosis and treatment of gestational malaria in pregnant women at risk from an endemic region of Colombia.
+39707157	First record of Culex pipiens (Diptera: Culicidae) in Alberta: expanding distributions and ecotype patterns in a western Canadian province.
+39706812	A Review of the Knops Blood Group System.
+39706389	Structural Heart Disease in the Tropics: A Comprehensive Review.
+39706207	Sustainable antimicrobial resistance surveillance: time for a global funding mechanism.
+39707527	Leucinostatins target Plasmodium mitochondria to block malaria transmission.
+39707159	High pyrethroid resistance is associated with high frequencies of 1014F and 1014S kdr mutations in Anopheles arabiensis (Diptera: Culicidae) from Ouagadougou, Burkina Faso.
+39706349	Bioactive metabolites of Brazilian Red Propolis: Cytotoxic, antimalarial, and antimicrobial properties.
 39705289	Population travel increases the risk of Plasmodium falciparum infection in the highland population of Gardula Zone, South Ethiopia: A longitudinal study.
 39705264	Effects on maternal and pregnancy outcomes of first-trimester malaria infection among nulliparous women from Kenya, Zambia, and the Democratic Republic of the Congo.
 39703777	Ly6G(+) Neutrophils and Interleukin-17 Are Essential in Protection against Rodent Malaria Caused by Plasmodium berghei ANKA.
@@ -105,7 +114,6 @@
 39673767	Maternal Health Planning and Prioritization in Chad: Developing a supportive tool.
 39673632	Correction to: The expansion of an invasive malaria vector: Anopheles stephensi emergence in Arba Minch town in the southern Rift Valley of Ethiopia.
 39673260	Seasonal fluctuation of insecticide resistance mutation frequencies in field populations of Anopheles and Culex species in Korea.
-39673116	25th National and 11th International Annual Congress on Research and Technology of Iranian Medical Sciences Students, Urmia, Iran, 5-7 September, 2024.
 39673072	The mediating role of behavioural and socio-structural factors on the association between household wealth and childhood malaria in Ghana.
 39672618	Field-evolved resistance to neonicotinoids in the mosquito, Anopheles gambiae, is associated with mutations of nicotinic acetylcholine receptor subunits combined with cytochrome P450-mediated detoxification.
 39672183	Safety and efficacy of the blood-stage malaria vaccine RH5.1/Matrix-M in Burkina Faso: interim results of a double-blind, randomised, controlled, phase 2b trial in children.
@@ -153,14 +161,12 @@
 39655256	The feasibility and impact of deploying a four-tests panel at antenatal care in primary health care facilities of a developing country, Kenya.
 39654608	The first record of the invasive mosquito species Aedes albopictus in Yemen.
 39654502	Click Coupling of Flavylium Dyes with Plasmodione Analogues: Towards New Redox-Sensitive Pro-Fluorophores.
-39654499	25th National and 11th International Annual Congress on Research and Technology of Iranian Medical Sciences Students, Urmia, Iran, 5-7 September, 2024.
 39654176	Malaria pervasiveness in Sub-Saharan Africa: Overcoming the scuffle.
 39653047	The spread of molecular markers of artemisinin partial resistance and diagnostic evasion in Eritrea: a retrospective molecular epidemiology study.
 39652589	A potent and selective reaction hijacking inhibitor of Plasmodium falciparum tyrosine tRNA synthetase exhibits single dose oral efficacy in vivo.
 39652531	Correction: Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages.
 39652161	Post-mortem diagnosis of malaria in decomposed and embalmed body.
 39651747	Understanding the Development of Compensatory Pathways in a Mutant Malaria Parasite Harbouring Hypomorphic Allele of Plant-Like Kinases.
-39651651	25th National and 11th International Annual Congress on Research and Technology of Iranian Medical Sciences Students, Urmia, Iran, 5-7 September, 2024.
 39651245	MULTIPLE, REDUNDANT CARBOXYLIC ACID TRANSPORTERS SUPPORT MITOCHONDRIAL METABOLISM IN PLASMODIUM FALCIPARUM.
 39650255	Determinants of persistent malaria transmission in the Arjo-Didessa farm area in Ethiopia.
 39650148	Autochthonous simian malaria in Brazil outside the Amazon: Emergence, zoonotic transmission and implications for disease control.
@@ -9991,9 +9997,3 @@
 36237822	Cerebral Malaria Presenting With Shock in an Adolescent: A Case Report.
 36237427	Testosterone induces sexual dimorphism during infection with Plasmodium berghei ANKA.
 36237424	The emerging role of Deubiquitinases (DUBs) in parasites: A foresight review.
-36236831	Multi-modal microscopy imaging with the OpenFlexure Delta Stage.
-36235118	Preliminary Structure-Activity Relationship Study of the MMV Pathogen Box Compound MMV675968 (2,4-Diaminoquinazoline) Unveils Novel Inhibitors of Trypanosoma brucei brucei.
-36235096	Efficient Oxidative Dearomatisations of Substituted Phenols Using Hypervalent Iodine (III) Reagents and Antiprotozoal Evaluation of the Resulting Cyclohexadienones against T. b. rhodesiense and P. falciparum Strain NF54.
-36234887	Pyrethroid Resistance Situation across Different Eco-Epidemiological Settings in Cameroon.
-36234752	Antiprotozoal Activity of Azabicyclo-Nonanes Linked to Tetrazole or Sulfonamide Cores.
-36234725	Advocacy for the Medicinal Plant Artabotrys hexapetalus (Yingzhao) and Antimalarial Yingzhaosu Endoperoxides.
