@@ -1,3 +1,4 @@
+39709629	Pharmacognostic Standardization, Morphometric Analysis, and Multivariate Analysis of Croton lobatus L. and Croton zambesicus Mull. Arg.
 39709444	Pyrethroid-resistant malaria vector Anopheles gambiae restored susceptibility after pre-exposure to piperonyl-butoxide: results from country-wide insecticide resistance monitoring in Tanzania, 2023.
 39708824	Safety, tolerability, pharmacokinetics, and antimalarial activity of MMV533: a phase 1a first-in-human, randomised, ascending dose and food effect study, and a phase 1b Plasmodium falciparum volunteer infection study.
 39707593	Host preference of Anopheles stephensi mosquitoes for blood feeding in south of Iran: Insights from Multiplex-PCR analysis.
@@ -9996,4 +9997,3 @@
 36239372	Anopheles homing suppression drive candidates exhibit unexpected performance differences in simulations with spatial structure.
 36239109	Analysis of gene expression profiles to study malaria vaccine dose efficacy and immune response modulation.
 36238365	Heme Detoxification Protein (PfHDP) is essential for the hemoglobin uptake and metabolism in Plasmodium falciparum.
-36237822	Cerebral Malaria Presenting With Shock in an Adolescent: A Case Report.
