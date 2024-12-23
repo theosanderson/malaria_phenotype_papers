@@ -1,3 +1,6 @@
+39711730	Performance and usability evaluation of three LDH-based malaria rapid diagnostic tests in Kédougou, Senegal.
+39711707	Anopheles mosquito exposure is associated with age, gender and bed net use in areas in Uganda experiencing varying malaria transmission intensity.
+39710971	Structure-Based Discovery and Development of Highly Potent Dihydroorotate Dehydrogenase Inhibitors for Malaria Chemoprevention.
 39710726	Multi-locus investigation of Anopheles-mediated selective pressure on Plasmodium falciparum in Africa.
 39710720	Simplified Plasmodium falciparum membrane feeding assay using small Petri dishes and gel warmers.
 39710695	Integrating modern and herbal medicines in controlling malaria: experiences of orthodox healthcare providers in Ghana.
@@ -9994,6 +9997,3 @@
 36246151	A filarial parasite-encoded human IL-10 receptor antagonist reveals a novel strategy to modulate host responses.
 36245046	Cross-sectional prevalence and pattern of non-anaemia severe malaria among 2-10 year olds in Sokoto in Northwestern Nigeria.
 36244561	Pharmaceutics for free-ranging wildlife: Case studies to illustrate considerations and future prospects.
-36243777	Evidence of and deaths from malaria and severe pneumonia co-infections in malaria-endemic areas: a systematic review and meta-analysis.
-36242898	Erythrocyte-Plasmodium interactions: genetic manipulation of the erythroid lineage.
-36241929	Malaria parasites utilize two essential plasma membrane fusogens for gamete fertilization.
