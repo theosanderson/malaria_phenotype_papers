@@ -1,3 +1,5 @@
+39714570	Individual- and community-level correlates of intermittent preventive treatment of malaria in pregnancy in Ghana: further analysis of the 2019 Malaria Indicator Survey.
+39714137	Autophagy protein Atg7 is essential for maintaining malaria parasite cellular homeostasis and organelle biogenesis.
 39711730	Performance and usability evaluation of three LDH-based malaria rapid diagnostic tests in Kédougou, Senegal.
 39711707	Anopheles mosquito exposure is associated with age, gender and bed net use in areas in Uganda experiencing varying malaria transmission intensity.
 39710971	Structure-Based Discovery and Development of Highly Potent Dihydroorotate Dehydrogenase Inhibitors for Malaria Chemoprevention.
@@ -9995,5 +9997,3 @@
 36246927	Recognition of fold- and function-specific sites in the ligand-binding domain of the thyroid hormone receptor-like family.
 36246152	R (H): a genetic metric for measuring intrahost Plasmodium falciparum relatedness and distinguishing cotransmission from superinfection.
 36246151	A filarial parasite-encoded human IL-10 receptor antagonist reveals a novel strategy to modulate host responses.
-36245046	Cross-sectional prevalence and pattern of non-anaemia severe malaria among 2-10 year olds in Sokoto in Northwestern Nigeria.
-36244561	Pharmaceutics for free-ranging wildlife: Case studies to illustrate considerations and future prospects.
