@@ -1,3 +1,7 @@
+39718581	A spatial multiscale mathematical model of Plasmodium vivax transmission.
+39718173	Malaria prophylaxis in sickle cell anaemia: some answers, more questions.
+39718172	Weekly dihydroartemisinin-piperaquine versus monthly sulfadoxine-pyrimethamine for malaria chemoprevention in children with sickle cell anaemia in Uganda and Malawi (CHEMCHA): a randomised, double-blind, placebo-controlled trial.
+39718108	The effect of bitter honey against cerebral malaria-induced inflammasome cell death: network pharmacology-based in silico evaluation.
 39717775	Naturally acquired IgG responses to Plasmodium falciparum do not target the conserved termini of the malaria vaccine candidate Merozoite Surface Protein 2.
 39717316	Pyrexia of Foreign Origin: Exploring the Impact of Travel History.
 39716864	Addressing the Gaps in Malaria Treatment in Korea.
@@ -9993,7 +9997,3 @@
 36251429	Introgression of a synthetic sex ratio distortion transgene into different genetic backgrounds of Anopheles coluzzii.
 36251345	Antiplasmodial and Antimalarial Activity of 3,5-Diarylidenetetrahydro-2H-pyran-4(3H)-ones via Inhibition of Plasmodium falciparum Pyridoxal Synthase.
 36251305	Infectious Disease Teleconsultation to the Deployed U.S. Military From 2017-2022.
-36250786	Isolation and characterization of Newcastle disease virus from biological fluids using column chromatography.
-36250062	Complementary crosstalk between palmitoylation and phosphorylation events in MTIP regulates its role during Plasmodium falciparum invasion.
-36250048	Band 3-mediated Plasmodium vivax invasion is associated with transcriptional variation in PvTRAg genes.
-36249737	In Vivo Antimalarial Activity of the Leaf Extract of Osyris quadripartita Salzm. ex Decne and Its Major Compound (-) Catechin.
