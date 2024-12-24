@@ -127,6 +127,7 @@
 39656701	Assessing species composition and insecticide resistance of Anopheles gambiae complex members in three coastal health districts of Côte d'Ivoire.
 39656696	Association of COVID-19-related perceptions and experiences with depression and anxiety in Ugandan caregivers of young children with malaria and iron deficiency: A cross-sectional study.
 39656683	Protecting the most vulnerable: The urgent need to include HIV-exposed children in malaria chemoprevention strategies.
+30000442	Permethrin.
 39673767	Maternal Health Planning and Prioritization in Chad: Developing a supportive tool.
 39673632	Correction to: The expansion of an invasive malaria vector: Anopheles stephensi emergence in Arba Minch town in the southern Rift Valley of Ethiopia.
 39673260	Seasonal fluctuation of insecticide resistance mutation frequencies in field populations of Anopheles and Culex species in Korea.
@@ -504,7 +505,6 @@
 39542934	Prevalence of asymptomatic parasitaemia among household members of children under seasonal malaria chemoprevention coverage and comparison of the performance of standard rapid diagnostic tests versus ultrasensitive RDT for the detection of asymptomatic parasitaemia in Nanoro, Burkina Faso.
 39541984	Systematic screens for fertility genes essential for malaria parasite transmission reveal conserved aspects of sex in a divergent eukaryote.
 30000766	Primaquine.
-30000442	Permethrin.
 39541371	Risk factors for anaemia among pregnant women: A cross-sectional study in Upper East Region, Ghana.
 39541194	MALARIA VECTOR CONTROL STRATEGIES DEPLOYED BY HOUSEHOLDS WITH CHILDREN IN AN URBAN COMMUNITY IN PORT HARCOURT, NIGERIA.
 39541051	Malaria in the Republic of Guinea 2022-2023: costs associated with the care pathway from the patient's perspective.
