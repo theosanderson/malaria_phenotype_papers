@@ -1,3 +1,5 @@
+39719112	Analysis of Severe and Relapse Risks of Imported Malaria in Five Provinces of China.
+39719110	Adding Virome Capture Metagenomic Sequencing to Conventional Laboratory Testing Increases Unknown Fever Etiology Determination in Bamako, Mali.
 39718581	A spatial multiscale mathematical model of Plasmodium vivax transmission.
 39718173	Malaria prophylaxis in sickle cell anaemia: some answers, more questions.
 39718172	Weekly dihydroartemisinin-piperaquine versus monthly sulfadoxine-pyrimethamine for malaria chemoprevention in children with sickle cell anaemia in Uganda and Malawi (CHEMCHA): a randomised, double-blind, placebo-controlled trial.
@@ -9995,5 +9997,3 @@
 36251801	Transient State Kinetics of Plasmodium falciparum Apicoplast DNA Polymerase Suggests the Involvement of Accessory Factors for Efficient and Accurate DNA Synthesis.
 36251725	Prevalence of helminth and protozoan infections in pet birds of Chattogram, Bangladesh.
 36251429	Introgression of a synthetic sex ratio distortion transgene into different genetic backgrounds of Anopheles coluzzii.
-36251345	Antiplasmodial and Antimalarial Activity of 3,5-Diarylidenetetrahydro-2H-pyran-4(3H)-ones via Inhibition of Plasmodium falciparum Pyridoxal Synthase.
-36251305	Infectious Disease Teleconsultation to the Deployed U.S. Military From 2017-2022.
