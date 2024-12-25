@@ -1,3 +1,8 @@
+39720635	Prevalence and Transmission Cycle of Avian Pathogens in the Isolated Oceanic Islands of Japan.
+39720557	Oxidative Stress and Cancer Risk in Schistosomiasis.
+39720344	Cytotoxicity, Antiadipogenic, Low-Density Lipoprotein Oxidation Inhibitory Activities, and Acute Toxicity Study of Psychotria densinervia Hydroethanolic Leaf and Bark Extracts.
+39719945	Inaccurate communication in health sciences: The case of 'partial artemisinin resistance' for the treatment of malaria.
+39719819	Malaria parasite detection in Red Blood Cells with rouleaux formation morphology using YOLOv9.
 39719622	Malaria transmission in the coastal zone and in the Centre of Côte d'Ivoire during the dry season.
 39719112	Analysis of Severe and Relapse Risks of Imported Malaria in Five Provinces of China.
 39719110	Adding Virome Capture Metagenomic Sequencing to Conventional Laboratory Testing Increases Unknown Fever Etiology Determination in Bamako, Mali.
@@ -9992,8 +9997,3 @@
 36253593	Lassa Virus Countermeasures.
 36253138	Phytochemical, Antiplasmodial, and Cytotoxic Investigation of Euclea natalensis A.DC. subsp. natalensis Leaves.
 36252805	The Association among Malaria in Pregnancy, Neonatal inflammation, and Neurocognitive Development in a Cohort of Malawian Infants.
-36252803	Performance Evaluation of the Schistoscope 5.0 for (Semi-)automated Digital Detection and Quantification of Schistosoma haematobium Eggs in Urine: A Field-based Study in Nigeria.
-36252799	Historical 8-Aminoquinoline Combinations: Not All Antimalarial Drugs Work Well Together.
-36252797	What Heterogeneities in Individual-level Mobility Are Lost During Aggregation? Leveraging GPS Logger Data to Understand Fine-scale and Aggregated Patterns of Mobility.
-36251801	Transient State Kinetics of Plasmodium falciparum Apicoplast DNA Polymerase Suggests the Involvement of Accessory Factors for Efficient and Accurate DNA Synthesis.
-36251725	Prevalence of helminth and protozoan infections in pet birds of Chattogram, Bangladesh.
