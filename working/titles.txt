@@ -1,3 +1,6 @@
+39727019	An in-silico study of FIKK9.5 protein of Plasmodium falciparum for identification of therapeutics.
+39726977	Pharmacological Effects of Biosynthesis Silver Nanoparticles Utilizing Calotropis procera Leaf Extracts on Plasmodium berghei-Infected Liver in Experiment Mice.
+39726481	Plasmodium ovale: Exploring an Atypical Presentation.
 39726049	Achieving malaria-free: Egypt's journey to WHO certification and global implications for disease control.
 39725959	Molecular surveillance of Plasmodium falciparum histidine-rich protein 2/3 gene deletions in Mozambique, 2023.
 39725893	Prevalence of malaria and associated factors among pregnant women in East Dembia District Northwest Ethiopia.
@@ -356,6 +359,7 @@
 39603399	Ethnobotany, bioactive compounds and pharmacology of Syzygium guineense (Willd.) DC: A review.
 39603289	Identification of new inhibitors of Plasmodium falciparum hypoxanthine-guanine-xanthine Phosphoribosyltransferase (HG(X)PRT): An outlook towards the treatment of malaria.
 39603059	Regional heterogeneity of malaria healthcare seeking and diagnosis in China (2017-2022): Implications in preventing re-establishment of malaria transmission.
+39601657	Cyclopeptide Avellanins D-O with Antimalarial Activity from the Mariana Trench Anemone-Derived Hamigera ingelheimensis MSC5.
 39601512	Mapping of Nuclear Localization Signal in Secreted Liver-Specific Protein 2 of Plasmodium falciparum.
 39601110	Evaluating the effectiveness and cost-effectiveness of integrating mass drug administration for helminth control with seasonal malaria chemoprevention in Ghanaian children: Protocol for a cluster randomised controlled trial.
 39600564	Retraction: The Plasmodium circumsporozoite protein, a novel NF-κB inhibitor, suppresses the growth of SW480.
@@ -529,7 +533,7 @@
 39544623	Association of Sickle Cell Disease, Malaria and HIV in Multi Drug Resistant Invasive Non-typhoidal Salmonella Isolated from Outpatient and Hospitalised Children Below 16 Years in Informal Settlements in Nairobi County, Kenya.
 39544493	Optimizing Lumefantrine Dosing for Young Children in High-Malaria-Burden Countries Using Pharmacokinetic-Pharmacodynamic Simulations.
 39543999	Addressing Public Health Risks: Strategies to Combat Infectious Diseases After the August 2024 Floods in Bangladesh.
-39543992	Characteristics of imported and domestic malaria cases in Gyeonggi Province, Republic of Korea.
+39543992	Characteristics of imported and domestic malaria cases in Gyeonggi Province, Korea.
 39543779	Plasmodium falciparum genetic diversity and multiplicity of infection among asymptomatic and symptomatic malaria-infected individuals in Uganda.
 39543302	Resistance to crucial malaria drug detected in severely ill kids in Africa.
 39543235	Polymorphisms in the Pfcrt, Pfmdr1, and Pfk13 genes of Plasmodium falciparum isolates from southern Brazzaville, Republic of Congo.
@@ -9993,7 +9997,3 @@
 36260022	A headspace collection chamber for whole body volatilomics.
 36260016	Advances in nanoparticle-based mRNA delivery for liver cancer and liver-associated infectious diseases.
 36258758	SpyStapler-mediated assembly of nanoparticle vaccines.
-36258135	Malaria metrics distribution under global warming: assessment of the VECTRI malaria model over Cameroon.
-36257944	Genome-wide functional screening of drug-resistance genes in Plasmodium falciparum.
-36257798	Current trends in the epidemiology of malaria.
-36256619	Cross-reactive inhibitory antibody and memory B cell responses to variant strains of Duffy binding protein II at post-Plasmodium vivax infection.
