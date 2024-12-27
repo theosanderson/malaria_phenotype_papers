@@ -1,3 +1,11 @@
+39729108	Novel isothermal nucleic acid amplification method for detecting malaria parasites.
+39728836	Impact of Climatic Factors on the Temporal Trend of Malaria in India from 1961 to 2021.
+39728835	Pan African Vivax and Ovale Network (PAVON) Malaria Diagnostic Competency Training: Offering Training Opportunities to Impact Malaria Elimination Strategies in Sub-Saharan Africa.
+39728833	Risk Identification and Mitigation of Skin and Soft Tissue Infections in Military Training Environments.
+39728832	Cross-Resistance to Pyrethroids and Neonicotinoids in Malaria Vectors from Vegetable Farms in the Northern Benin.
+39728830	Micronutrient Biomarkers and Their Association with Malaria Infection in Children in Buea Health District, Cameroon.
+39728820	A Retrospective Study of Urinary Schistosomiasis in the Eastern Cape Province, South Africa.
+39728013	Multidisciplinary Approach of a Male Case of Imported Malaria, HIV Chronic Infection, and Latent Syphilis.
 39727019	An in-silico study of FIKK9.5 protein of Plasmodium falciparum for identification of therapeutics.
 39726977	Pharmacological Effects of Biosynthesis Silver Nanoparticles Utilizing Calotropis procera Leaf Extracts on Plasmodium berghei-Infected Liver in Experiment Mice.
 39726481	Plasmodium ovale: Exploring an Atypical Presentation.
@@ -9989,11 +9997,3 @@
 36260982	Accelerated development of malaria monoclonal antibodies.
 36260950	Personal air pollutant exposure monitoring in South African children in the VHEMBE birth cohort.
 36260689	The anticancer human mTOR inhibitor sapanisertib potently inhibits multiple Plasmodium kinases and life cycle stages.
-36260568	Impedance-Based Rapid Diagnostic Tool for Single Malaria Parasite Detection.
-36260441	Multiple pathogens contribute to human immunodeficiency virus-related sepsis in addition to Mycobacterium tuberculosis: A prospective cohort in Tanzania.
-36260349	Impact of Drug Exposure on Resistance Selection Following Artemether-Lumefantrine Treatment for Malaria in Children With and Without HIV in Uganda.
-36260248	Electrochemical Response of Redox Amino Acid Encoded Fluorescence Protein for Hydroxychloroquine Sensing.
-36260195	Manipulation by Plasmodium Parasites of Anopheles Mosquito Behavior and Human Odors.
-36260022	A headspace collection chamber for whole body volatilomics.
-36260016	Advances in nanoparticle-based mRNA delivery for liver cancer and liver-associated infectious diseases.
-36258758	SpyStapler-mediated assembly of nanoparticle vaccines.
