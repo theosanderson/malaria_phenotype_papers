@@ -1,3 +1,4 @@
+39723908	TKK130 is a 3-Hydroxy-Propanamidine (HPA) with Potent Antimalarial In Vivo Activity and a High Barrier to Resistance.
 39722316	Europe-wide distribution and bat-host specific lineages in the malarial parasite Polychromophilus murinus revealed through genetic screening of bat flies.
 39722002	Malaria elimination challenges in countries approaching the last mile: a discussion among regional stakeholders.
 39720635	Prevalence and Transmission Cycle of Avian Pathogens in the Isolated Oceanic Islands of Japan.
@@ -9996,4 +9997,3 @@
 36254172	Biological Activity and Chemical Composition of Detarium microcarpum Guill. and Perr-A Systematic Review.
 36253843	Genetic diversity in the transmission-blocking vaccine candidate Plasmodium vivax gametocyte protein Pvs230 from the China-Myanmar border area and central Myanmar.
 36253842	Tick transmission of Borrelia burgdorferi to the murine host is not influenced by environmentally acquired midgut microbiota.
-36253593	Lassa Virus Countermeasures.
