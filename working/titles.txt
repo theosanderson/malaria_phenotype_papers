@@ -1,11 +1,11 @@
-39754141	Determinants of anemia in school-going adolescents: a case study in Douala, Cameroon.
-39753973	Setting sights on a single-shot malaria vaccine.
-39753972	Resurgence of malaria and artemisinin resistance in Africa requires a concerted response.
 39753962	Single immunization with genetically attenuated Pf∆mei2 (GA2) parasites by mosquito bite in controlled human malaria infection: a placebo-controlled randomized trial.
 39753672	Application of a targeted amplicon sequencing panel to screen for insecticide resistance mutations in Anopheles darlingi populations from Brazil.
 39753650	Very low prevalence of Plasmodium falciparum histidine-rich protein 2 (pfhrp2) gene deletion in the Brazil, Venezuela, and Guyana tri-border.
-39753639	Multiplication rate variation of malaria parasites from hospital cases and community infections.
 39752894	Meeting summary: Global vaccine and immunization research forum, 2023.
+39754141	Determinants of anemia in school-going adolescents: a case study in Douala, Cameroon.
+39753973	Setting sights on a single-shot malaria vaccine.
+39753972	Resurgence of malaria and artemisinin resistance in Africa requires a concerted response.
+39753639	Multiplication rate variation of malaria parasites from hospital cases and community infections.
 39752821	Novel antimalarial 3-substituted quinolones isosteres with improved pharmacokinetic properties.
 39752628	Human and entomological determinants of malaria transmission in the Lihir Islands of Papua New Guinea: A cross-sectional study.
 39752437	Factors associated with contracting border malaria: A systematic and meta-analysis.
