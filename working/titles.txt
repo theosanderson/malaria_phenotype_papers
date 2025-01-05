@@ -1,3 +1,5 @@
+39755798	Intra-individual variability in ancient plasmodium DNA recovery highlights need for enhanced sampling.
+39755505	Malaria monoclonals block brain binding.
 39754141	Determinants of anemia in school-going adolescents: a case study in Douala, Cameroon.
 39753973	Setting sights on a single-shot malaria vaccine.
 39753972	Resurgence of malaria and artemisinin resistance in Africa requires a concerted response.
@@ -9995,5 +9997,3 @@
 36297148	Tick-Borne-Agents Detection in Patients with Acute Febrile Syndrome and Ticks from Magdalena Medio, Colombia.
 36297130	A Case of Plasmodium malariae in Bangladesh: A Representation of the Suboptimal Performance of Rapid Diagnostic Approaches in Malaria Elimination Settings.
 36296618	Potential of Essential Oil-Based Anticholinesterase Insecticides against Anopheles Vectors: A Review.
-36296479	From Plant to Yeast-Advances in Biosynthesis of Artemisinin.
-36296297	Molecular Profiles of Multiple Antimalarial Drug Resistance Markers in Plasmodium falciparum and Plasmodium vivax in the Mandalay Region, Myanmar.
