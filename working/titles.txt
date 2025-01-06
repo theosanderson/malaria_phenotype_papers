@@ -1,3 +1,13 @@
+39760178	What does a Trump presidency mean for maternal and infant health in Africa?
+39760016	Treatment of cattle with ivermectin and its effect on dung degradation and larval abundance in a tropical savanna setting.
+39759387	Genetic diversity of Plasmodium vivax and Plasmodium falciparum field isolates from Honduras in the malaria elimination phase.
+39758993	Heightened innate immune state induced by viral vector leads to enhanced response to challenge and prolongs malaria vaccine protection.
+39758812	Time to change implementation units for mass drug administration against schistosomiasis in Uganda: Evidence from Communities levels data validation and its implication in planning.
+39758811	The influence of jittering DHS cluster locations on geostatistical model-based estimates of malaria risk in Cameroon.
+39758805	Natural hemozoin and β-hematin induce tissue damage and apoptosis in human placental explants.
+39757238	Elevations in D-dimer levels in patients with Plasmodium infections: a systematic review and meta-analysis.
+39757179	Routine malaria vaccination in Africa: a step toward malaria eradication?
+39756671	Falciparum malaria in a child from Ghana with neutrophils showing phagocytosis of trophozoites, merozoites and possibly schizont.
 39755798	Intra-individual variability in ancient plasmodium DNA recovery highlights need for enhanced sampling.
 39755505	Malaria monoclonals block brain binding.
 39754141	Determinants of anemia in school-going adolescents: a case study in Douala, Cameroon.
@@ -9987,13 +9997,3 @@
 36300508	Unexpected false-negative result in a traveller's malaria diagnosis.
 36298803	First Report of the Detection of DENV1 in Human Blood Plasma with Near-Infrared Spectroscopy.
 36298680	Lessons Learned from the COVID-19 Pandemic and How Blood Operators Can Prepare for the Next Pandemic.
-36298634	Differential Homing Receptor Profiles of Lymphocytes Induced by Attenuated versus Live Plasmodium falciparum Sporozoites.
-36298492	Development and Qualification of an Antigen Integrity Assay for a Plasmodium falciparum Malaria Transmission Blocking Vaccine Candidate, Pfs230.
-36298022	Potential of Alpha-Mangostin-Loaded PLGA Nanoparticles for Cholangiocarcinoma Treatment.
-36297466	Methylene Blue-Based Combination Therapy with Amodiaquine Prevents Severe Malaria in an Experimental Rodent Model.
-36297240	Malaria Detection Accelerated: Combing a High-Throughput NanoZoomer Platform with a ParasiteMacro Algorithm.
-36297215	Genetic Diversity of Circumsporozoite Surface Protein of Plasmodium vivax from the Central Highlands, Vietnam.
-36297175	The Effect of Mass Testing, Treatment and Tracking on the Prevalence of Febrile Illness in Children under 15 in Ghana.
-36297148	Tick-Borne-Agents Detection in Patients with Acute Febrile Syndrome and Ticks from Magdalena Medio, Colombia.
-36297130	A Case of Plasmodium malariae in Bangladesh: A Representation of the Suboptimal Performance of Rapid Diagnostic Approaches in Malaria Elimination Settings.
-36296618	Potential of Essential Oil-Based Anticholinesterase Insecticides against Anopheles Vectors: A Review.
