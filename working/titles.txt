@@ -1,3 +1,6 @@
+39761327	Malian field isolates provide insight into Plasmodium malariae intra-erythrocytic development and invasion.
+39761298	Human mobility and malaria risk in peri-urban and rural communities in the Peruvian Amazon.
+39761205	Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway.
 39760178	What does a Trump presidency mean for maternal and infant health in Africa?
 39760016	Treatment of cattle with ivermectin and its effect on dung degradation and larval abundance in a tropical savanna setting.
 39759387	Genetic diversity of Plasmodium vivax and Plasmodium falciparum field isolates from Honduras in the malaria elimination phase.
@@ -9994,6 +9997,3 @@
 36300931	The Trisubstituted Isoxazole MMV688766 Exerts Broad-Spectrum Activity against Drug-Resistant Fungal Pathogens through Inhibition of Lipid Homeostasis.
 36300890	Cerebral Malaria and Neuronal Implications of Plasmodium Falciparum Infection: From Mechanisms to Advanced Models.
 36300695	The distinctive role of membrane fibrinogen-like protein 2 in the liver stage of rodent malaria infections.
-36300508	Unexpected false-negative result in a traveller's malaria diagnosis.
-36298803	First Report of the Detection of DENV1 in Human Blood Plasma with Near-Infrared Spectroscopy.
-36298680	Lessons Learned from the COVID-19 Pandemic and How Blood Operators Can Prepare for the Next Pandemic.
