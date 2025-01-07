@@ -1,3 +1,8 @@
+39763917	tRNA modifying enzymes MnmE and MnmG are essential for Plasmodium falciparum apicoplast maintenance.
+39763861	Genomic diversity of the African malaria vector Anopheles funestus.
+39763833	Pathogens spread by high-altitude windborne mosquitoes.
+39763803	Gametocyte production and transmission fitness of African and Asian Plasmodium falciparum isolates with differential susceptibility to artemisinins.
+39763018	G9a an Epigenetic Therapeutic Strategy for Neurodegenerative Conditions: From Target Discovery to Clinical Trials.
 39762719	Potential regulation of artesunate on bone metabolism through suppressing inflammatory infiltration in type 2 diabetes mellitus.
 39761327	Malian field isolates provide insight into Plasmodium malariae intra-erythrocytic development and invasion.
 39761298	Human mobility and malaria risk in peri-urban and rural communities in the Peruvian Amazon.
@@ -180,7 +185,7 @@
 39699139	DIAGNOSTIC INVESTIGATION OF AMERICAN ROBINS (TURDUS MIGRATORIUS) WITH FATAL ETHYLENE GLYCOL TOXICOSIS AND CONCURRENT PLASMODIUM SPP. INFECTION WITH RETROSPECTIVE REVIEW OF 44 YEARS OF DIAGNOSTIC DATA.
 39699125	Impact of late rainy season indoor residual spraying on holoendemic malaria transmission: a cohort study in northern Zambia.
 39697211	Case report: Malaria and hepatitis E coinfection-first experience with such imported entity in Serbia.
-39696874	Subnational mapping of anemia and etiologic factors in the West and Central African Region.
+39696874	Subnational mapping of anaemia and aetiologic factors in the West and Central African region.
 39696847	A stage structured model for mosquito suppression with immigration.
 39696770	Essay review: the fictive history of Victorian science and empire.
 39696727	Plasmodium falciparum with pfhrp2 and pfhrp3 gene deletions in asymptomatic malaria infections in the Lake Victoria region, Kenya.
@@ -1579,7 +1584,7 @@
 39211654	Plasmodium Vivax in a Healthy, Young Immigrant Male.
 39211149	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
 39211036	γδ T cell-mediated activation of cDC1 orchestrates CD4(+) Th1 cell priming in malaria.
-39210803	Identification of immune-associated genes with altered expression in the spleen of mice enriched with probiotic Lactobacillus species using rna-seq profiling.
+39210803	Identification of immune-associated genes with altered expression in the spleen of mice enriched with probiotic Lactobacillus species using RNA-seq profiling.
 39210733	Lactam Truncation Yields a Dihydroquinazolinone Scaffold with Potent Antimalarial Activity that Targets PfATP4.
 39210405	Evaluating trends in damage to attractive targeted sugar baits (ATSBs) deployed during the second year of a two-year Phase III trial in Western Zambia.
 39210393	Community participatory mapping of malaria mosquito breeding sites in Mozambique.
@@ -9992,8 +9997,3 @@
 36302481	Bio-fabricated zinc oxide and cry protein nanocomposites: Synthesis, characterization, potentiality against Zika, malaria and West Nile virus vector's larvae and their impact on non-target organisms.
 36302403	Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against Plasmodium falciparum?
 36301986	Assessment of health staff's proficiency and quality of key malaria indicators in rural district of Ghana.
-36301956	Prevalence and associated risk factors of malaria among febrile under-five children visiting health facilities in Ziquala district, Northeast Ethiopia: A multicenter cross-sectional study.
-36301860	Human IgG responses to Aedes mosquito salivary peptide Nterm-34kDa and its comparison to Anopheles salivary antigen (gSG6-P1) IgG responses measured among individuals living in Lower Moshi, Tanzania.
-36301146	Screening of the Medicines for Malaria Venture Pandemic Response Box for Discovery of Antivirulent Drug against Pseudomonas aeruginosa.
-36300931	The Trisubstituted Isoxazole MMV688766 Exerts Broad-Spectrum Activity against Drug-Resistant Fungal Pathogens through Inhibition of Lipid Homeostasis.
-36300890	Cerebral Malaria and Neuronal Implications of Plasmodium Falciparum Infection: From Mechanisms to Advanced Models.
