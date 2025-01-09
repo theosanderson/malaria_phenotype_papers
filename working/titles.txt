@@ -1,3 +1,5 @@
+39780563	Revisiting Ronald Ross: inspiration for pioneering research in resource-limited settings.
+39780394	Contribution of Travelers to Plasmodium Vivax Malaria in South West Delhi, India: Cross-Sectional Survey.
 39780210	A blended learning approach for capacity strengthening to improve the quality of integrated HIV, TB, and malaria services during antenatal and postnatal care in LMICs: a feasibility study.
 39780170	A combined school survey and reactive case detection reveals minimal local transmission of malaria in the Highlands Region of Papua New Guinea.
 39779557	An Outline on benzimidazole Containing Marketed Drugs with Proton Pump Inhibitor and H(1) Receptor Antagonist Activities.
@@ -9995,5 +9997,3 @@
 36317785	Monoclonal Antibodies against Malaria.
 36317783	Safety and Efficacy of a Monoclonal Antibody against Malaria in Mali.
 36317054	Spatio-temporal dynamics of three diseases caused by Aedes-borne arboviruses in Mexico.
-36316704	Risk factors for acute kidney injury at presentation among children with CNS malaria: a case control study.
-36316702	Variations in the use of malaria preventive measures among pregnant women in Guinea: a secondary analysis of the 2012 and 2018 demographic and health surveys.
