@@ -1,3 +1,7 @@
+39787617	Harnessing Malaria Surveillance Data for Transformative Malaria Control and Elimination.
+39785834	Safety and efficacy of three alternative regimens against relapsing Plasmodium vivax malaria in glucose 6-phosphate dehydrogenase deficient patients in the Brazilian Amazon (ALTPRIM).
+39784679	Key Facets for the Elimination of Vector-Borne Diseases Filariasis, Leishmaniasis, and Malaria.
+39783590	Developing Topics.
 39780563	Revisiting Ronald Ross: inspiration for pioneering research in resource-limited settings.
 39780394	Contribution of Travelers to Plasmodium Vivax Malaria in South West Delhi, India: Cross-Sectional Survey.
 39780210	A blended learning approach for capacity strengthening to improve the quality of integrated HIV, TB, and malaria services during antenatal and postnatal care in LMICs: a feasibility study.
@@ -9993,7 +9997,3 @@
 36320110	Antimalarial Efficacy of Aqueous Extract of Strychnos ligustrina and Its Combination with Dihydroartemisinin and Piperaquine Phosphate (DHP) against Plasmodium berghei Infection.
 36320061	Bayesian spatio-temporal modelling and mapping of malaria and anaemia among children between 0 and 59 months in Nigeria.
 36319032	The social dimensions of community delivery of intermittent preventive treatment of malaria in pregnancy in Madagascar, Mozambique, Nigeria and the Democratic Republic of the Congo.
-36318587	A VPS15-like kinase regulates apicoplast biogenesis and autophagy by promoting PI3P generation in Toxoplasma gondii.
-36317785	Monoclonal Antibodies against Malaria.
-36317783	Safety and Efficacy of a Monoclonal Antibody against Malaria in Mali.
-36317054	Spatio-temporal dynamics of three diseases caused by Aedes-borne arboviruses in Mexico.
