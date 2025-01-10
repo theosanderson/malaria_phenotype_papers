@@ -1,3 +1,4 @@
+39790775	Doctors' knowledge, practices, challenges, and limitations regarding disclosure of bad news: A multicentre study from Pakistan.
 39789650	Human migrations, anthropogenic changes, and insect-borne diseases in Latin America.
 39789518	Semi-field experiments reveal contrasted predation and movement patterns of aquatic macroinvertebrate predators of Anopheles gambiae larvae.
 39789453	Spatiotemporal analysis of mosquito-borne infections and mosquito vectors in mainland Portugal.
@@ -9996,4 +9997,3 @@
 36322010	Identification of 5-(3-(methylsulfonyl)phenyl)-3-(4-(methylsulfonyl)phenyl)-3H-imidazo[4,5-b]pyridine as novel orally bioavailable and metabolically stable antimalarial compound for further exploration.
 36321830	A Novel Ex Vivo Drug Assay for Assessing the Transmission-Blocking Activity of Compounds on Field-Isolated Plasmodium falciparum Gametocytes.
 36321557	Folic acid supplementation and malaria susceptibility and severity among people taking antifolate antimalarial drugs in endemic areas.
-36321404	Hydroxychloroquine reduces hypertension and soluble fms-like kinase-1 in a Nω-nitro-l-arginine methyl ester-induced preeclampsia rat model.
