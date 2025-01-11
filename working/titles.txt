@@ -1,3 +1,5 @@
+39792907	Situational analysis of malaria in Cabo Verde: From endemic control to elimination, history, cases data and challenges ahead.
+39792449	Lectin Microarray Analysis of Salivary Gland Glycoproteins from the Arboviral Vector Aedes aegypti and the Malaria Vector Anopheles stephensi.
 39791740	The Ivermectin Related Compound Moxidectin Can Target Apicomplexan Importin α and Limit Growth of Malarial Parasites.
 39790775	Doctors' knowledge, practices, challenges, and limitations regarding disclosure of bad news: A multicentre study from Pakistan.
 39789650	Human migrations, anthropogenic changes, and insect-borne diseases in Latin America.
@@ -10,7 +12,7 @@
 39787617	Harnessing Malaria Surveillance Data for Transformative Malaria Control and Elimination.
 39785834	Safety and efficacy of three alternative regimens against relapsing Plasmodium vivax malaria in glucose 6-phosphate dehydrogenase deficient patients in the Brazilian Amazon (ALTPRIM).
 39784679	Key Facets for the Elimination of Vector-Borne Diseases Filariasis, Leishmaniasis, and Malaria.
-39783590	Developing Topics.
+39783590	Infections and cognitive function, depression, and frailty: a cross‐sectional study in the Longitudinal Aging Study in India (LASI).
 39780563	Revisiting Ronald Ross: inspiration for pioneering research in resource-limited settings.
 39780394	Contribution of Travelers to Plasmodium Vivax Malaria in South West Delhi, India: Cross-Sectional Survey.
 39780210	A blended learning approach for capacity strengthening to improve the quality of integrated HIV, TB, and malaria services during antenatal and postnatal care in LMICs: a feasibility study.
@@ -9995,5 +9997,3 @@
 36323854	Repurposing sapanisertib in malaria.
 36322582	Traditional Medicine Beliefs and Practices among Caregivers of Children under Five Years-The Child Health and Mortality Prevention Surveillance (CHAMPS), Western Kenya: A qualitative study.
 36322515	Integrated xenosurveillance of Loa loa, Wuchereria bancrofti, Mansonella perstans and Plasmodium falciparum using mosquito carcasses and faeces: A pilot study in Cameroon.
-36322010	Identification of 5-(3-(methylsulfonyl)phenyl)-3-(4-(methylsulfonyl)phenyl)-3H-imidazo[4,5-b]pyridine as novel orally bioavailable and metabolically stable antimalarial compound for further exploration.
-36321830	A Novel Ex Vivo Drug Assay for Assessing the Transmission-Blocking Activity of Compounds on Field-Isolated Plasmodium falciparum Gametocytes.
