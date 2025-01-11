@@ -1,3 +1,12 @@
+39797807	Mystery illness in DR Congo could be respiratory infections complicated by malaria, says WHO.
+39795631	The Accuracy of the Passive Leg Raising Test Using the Perfusion Index to Identify Preload Responsiveness-A Single Center Study in a Resource-Limited Setting.
+39795129	The Diverse Binding Modes Explain the Nanomolar Levels of Inhibitory Activities Against 1-Deoxy-d-Xylulose 5-Phosphate Reductoisomerase from Plasmodium falciparum Exhibited by Reverse Hydroxamate Analogs of Fosmidomycin with Varying N-Substituents.
+39794826	Low prevalence of copy number variation in pfmdr1 and pfpm2 in Plasmodium falciparum isolates from southern Angola.
+39794822	Enhancing tuberculosis case notifications through mapping sales of medicine in the private sector: a quasi-experimental study in Punjab province, Pakistan.
+39794814	Effectiveness of a tailored forest package of interventions, including topical repellents, in reducing malaria incidence in Myanmar.
+39794774	Anopheles mosquitoes in Mondulkiri forest, Cambodia: abundance, distribution, seasonal patterns and Plasmodium prevalence.
+39793851	Artesunate-induced anaemia: A case report of a pharmacological complication to consider.
+39793595	A new RH5.1/Matrix-M candidate malaria vaccine: a promising finding to boost malaria elimination in Africa.
 39792907	Situational analysis of malaria in Cabo Verde: From endemic control to elimination, history, cases data and challenges ahead.
 39792449	Lectin Microarray Analysis of Salivary Gland Glycoproteins from the Arboviral Vector Aedes aegypti and the Malaria Vector Anopheles stephensi.
 39791740	The Ivermectin Related Compound Moxidectin Can Target Apicomplexan Importin α and Limit Growth of Malarial Parasites.
@@ -1102,7 +1111,7 @@
 39406200	Cerebral Venous Sinus Thrombosis: Current Updates in the Asian Context.
 39405402	New Strides in Prevention of Malaria during Pregnancy Present Multitudinous Opportunities.
 39405338	Host 5-HT affects Plasmodium transmission in mosquitoes via modulating mosquito mitochondrial homeostasis.
-39405172	Who pays to treat malaria, and how much? Analysis of the cost of illness, equity, and economic burden of malaria in Uganda.
+39405172	Who pays to treat malaria and how much? Analysis of the cost of illness, equity and economic burden of malaria in Uganda.
 39404268	Artemisinin-resistant malaria.
 39403230	Epidemiology of malaria in saravan city and its suburbs from 2018 to 2023, Southeast Iran.
 39402742	Drug-Drug Interaction Between Dihydroartemisinin-Piperaquine and Sulfadoxine-Pyrimethamine During Malaria Chemoprevention in Pregnant Women.
@@ -9988,12 +9997,3 @@
 36327271	Knowledge, practices and perceptions of communities during a malaria larviciding randomized trial in the city of Yaoundé, Cameroon.
 36326242	Toxoplasma Shelph, a Phosphatase Located in the Parasite Endoplasmic Reticulum, Is Required for Parasite Virulence.
 36325992	First Activation of the WHO Emergency Medical Team Minimum Data Set in the 2019 Response to Tropical Cyclone Idai in Mozambique.
-36325471	Diagnostic accuracy and limit of detection of ten malaria parasite lactate dehydrogenase-based rapid tests for Plasmodium knowlesi and P. falciparum.
-36324876	Fluid therapy in sepsis? Pathogen-specific perspectives.
-36324809	Intranasal SARS-CoV-2 RBD decorated nanoparticle vaccine enhances viral clearance in the Syrian hamster model.
-36324329	Prevalence of Intestinal Helminth Coinfection in Drug-Resistant Tuberculosis in Uganda.
-36323902	Resistant mosquito threatens Africa's fight against malaria.
-36323854	Repurposing sapanisertib in malaria.
-36322582	Traditional Medicine Beliefs and Practices among Caregivers of Children under Five Years-The Child Health and Mortality Prevention Surveillance (CHAMPS), Western Kenya: A qualitative study.
-36322515	Integrated xenosurveillance of Loa loa, Wuchereria bancrofti, Mansonella perstans and Plasmodium falciparum using mosquito carcasses and faeces: A pilot study in Cameroon.
-36322010	Identification of 5-(3-(methylsulfonyl)phenyl)-3-(4-(methylsulfonyl)phenyl)-3H-imidazo[4,5-b]pyridine as novel orally bioavailable and metabolically stable antimalarial compound for further exploration.
