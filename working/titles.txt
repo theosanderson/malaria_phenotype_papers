@@ -1,3 +1,6 @@
+39799328	Factors associated with malaria in pregnancy among women attending ANC clinics in selected districts of the Ashanti Region, Ghana.
+39799220	A multilevel social network approach to studying multiple disease-prevention behaviors.
+39799117	mosGILT antibodies interfere with Plasmodium sporogony in Anopheles gambiae.
 39797807	Mystery illness in DR Congo could be respiratory infections complicated by malaria, says WHO.
 39795631	The Accuracy of the Passive Leg Raising Test Using the Perfusion Index to Identify Preload Responsiveness-A Single Center Study in a Resource-Limited Setting.
 39795129	The Diverse Binding Modes Explain the Nanomolar Levels of Inhibitory Activities Against 1-Deoxy-d-Xylulose 5-Phosphate Reductoisomerase from Plasmodium falciparum Exhibited by Reverse Hydroxamate Analogs of Fosmidomycin with Varying N-Substituents.
@@ -9994,6 +9997,3 @@
 36328000	Prevalence of Plasmodium falciparum haplotypes associated with resistance to sulfadoxine-pyrimethamine and amodiaquine before and after upscaling of seasonal malaria chemoprevention in seven African countries: a genomic surveillance study.
 36327998	Usefulness of seasonal malaria chemoprevention in the Sahel.
 36327690	The mystery of persistent, asymptomatic Plasmodium falciparum infections.
-36327271	Knowledge, practices and perceptions of communities during a malaria larviciding randomized trial in the city of Yaoundé, Cameroon.
-36326242	Toxoplasma Shelph, a Phosphatase Located in the Parasite Endoplasmic Reticulum, Is Required for Parasite Virulence.
-36325992	First Activation of the WHO Emergency Medical Team Minimum Data Set in the 2019 Response to Tropical Cyclone Idai in Mozambique.
