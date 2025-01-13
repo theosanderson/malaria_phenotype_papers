@@ -1,3 +1,17 @@
+39803504	Replication stress increases de novo CNVs across the malaria parasite genome.
+39803353	Prevalence and genetic diversity of polymorphisms in pfcrt, pfdhfr-ts and pfk13 propeller genes of Plasmodium falciparum in southern Côte d'Ivoire.
+39803299	Prevalence and Factors Associated With Severity of Undernutrition Among Children Aged 6-59 Months in Tanzania.
+39803073	Severe Malaria Due to Imported Plasmodium ovale: A Case Report From New York.
+39802838	A dataset of blood slide images for AI-based diagnosis of malaria.
+39802788	High versus low dose of 14 days treatment of primaquine in Plasmodium vivax infected patients in Cambodia: a randomised open-label efficacy study.
+39802777	Changes in susceptibility of Plasmodium falciparum to antimalarial drugs in Uganda over time: 2019-2024.
+39802768	Emergence and Rising Prevalence of Artemisinin Partial Resistance Marker Kelch13 P441L in a Low Malaria Transmission Setting in Southern Zambia.
+39802746	Monitoring of enzymatic cleavage reaction of GST-fusion protein on biolayer interferometry sensor.
+39801992	Emerging trends and new developments in global research on artemisinin and its derivatives.
+39801523	Malaria among febrile patients suspected of Yellow fever during an outbreak in Ghana.
+39801338	Isolation and characterization of the midgut microbiota of Aedes albopictus to identify suitable candidates for paratransgenesis.
+39801336	An epidemiological risk assessment of imported malaria cases and potential local transmission in Qatar.
+39801330	Evaluating the burden and transmission dynamics of chikungunya virus infections in the Eastern Mediterranean Region: a systematic review and meta-analysis.
 39800719	Malaria prevalence, transmission potential and efficacy of artemisinin-based combination therapy in the Kenyan Central highlands: a zone previously characterized as malaria-free.
 39800042	Protection induced by recombinant vaccinia virus targeting the ROP4 of Toxoplasma gondii in mice.
 39799956	Effect of mass drug administration on malaria incidence in southeast Senegal during 2020-22: a two-arm, open-label, cluster-randomised controlled trial.
@@ -9983,17 +9997,3 @@
 36333802	Zero malaria: a mirage or reality for populations of sub-Saharan Africa in health transition.
 36333739	Intermittent preventive treatment and malaria amongst pregnant women who give birth at the Centre Hospitalier Régional Paul Moukambi de Koula-Moutou in southeastern Gabon.
 36333723	Prevalence of malaria and its risk factors in Lake Tana and surrounding areas, northwest Ethiopia.
-36333701	The presence of Plasmodium malariae and Plasmodium knowlesi in near malaria elimination setting in western Indonesia.
-36333336	Creation and preclinical evaluation of genetically attenuated malaria parasites arresting growth late in the liver.
-36332361	Safety and efficacy of four drug regimens versus standard-of-care for the treatment of symptomatic outpatients with COVID-19: A randomised, open-label, multi-arm, phase 2 clinical trial.
-36332313	The inhibitory effect of Curcumin-Artemisinin co-amorphous on Tau aggregation and Tau phosphorylation.
-36332064	Behavioral Determinants of Routine Health Information System Data Use in Senegal: A Qualitative Inquiry Based on the Integrated Behavioral Model.
-36331983	Transcriptomic complexity of the human malaria parasite Plasmodium falciparum revealed by long-read sequencing.
-36331915	The proportion and determinants of COVID-19 infection among medical doctors in Sudan, 2020: A cross-sectional survey.
-36331201	How did primary health care in Beira experience Cyclone Idai?
-36329726	Cryo-electron tomography with mixed-scale dense neural networks reveals key steps in deployment of Toxoplasma invasion machinery.
-36329618	Publishing data to support the fight against human vector-borne diseases.
-36329454	Malaria diagnostic and treatment practices for febrile children under 5 years at two general hospitals in Karamoja, a high transmission setting in Uganda.
-36329413	Shared component modelling of early childhood anaemia and malaria in Kenya, Malawi, Tanzania and Uganda.
-36329340	Genomic Characterization of Twelve Lytic Bacteriophages Infecting Midgut Bacteria of Aedes aegypti.
-36329096	A survey of simian Plasmodium infections in humans in West Kalimantan, Indonesia.
