@@ -1,3 +1,9 @@
+39804247	Drug Property Optimization: Design, Synthesis, and Characterization of Novel Pharmaceutical Salts and Cocrystal-Salt of Lumefantrine.
+39804089	Expression of Concern for Teixeira et al., "Immunogenicity of a Prime-Boost Vaccine Containing the Circumsporozoite Proteins of Plasmodium vivax in Rodents".
+39804082	Expression of Concern for Woehlbier et al., "Analysis of Antibodies Directed Against Merozoite Surface Protein 1 of the Human Malaria Parasite Plasmodium falciparum".
+39804079	Expression of Concern for Perlaza et al., "Immunogenicity of Four Plasmodium falciparum Preerythrocytic Antigens in Aotus lemurinus Monkeys".
+39804069	Expression of Concern for Herrera et al., "Protection against Malaria in Aotus Monkeys Immunized with a Recombinant Blood-Stage Antigen Fused to a Universal T-Cell Epitope: Correlation of Serum Gamma Interferon Levels with Protection".
+39804056	Expression of Concern for Lopez-Perez et al., "IgG Responses to the Plasmodium falciparum Antigen VAR2CSA in Colombia Are Restricted to Pregnancy and Are Not Induced by Exposure to Plasmodium vivax".
 39803504	Replication stress increases de novo CNVs across the malaria parasite genome.
 39803353	Prevalence and genetic diversity of polymorphisms in pfcrt, pfdhfr-ts and pfk13 propeller genes of Plasmodium falciparum in southern Côte d'Ivoire.
 39803299	Prevalence and Factors Associated With Severity of Undernutrition Among Children Aged 6-59 Months in Tanzania.
@@ -9991,9 +9997,3 @@
 36335172	Mosquito host-seeking diel rhythm and chemosensory gene expression is affected by age and Plasmodium stages.
 36334812	Transdermal Transmission Blocking Vaccine for Malaria using a Solid-in-Oil Dispersion.
 36334555	A DFT and molecular docking study of xerantholide and its interaction with Neisseria gonorrhoeae carbonic anhydrase.
-36334463	Covid-19 mortality and local burden of infectious diseases: A worldwide country-by-country analysis.
-36334150	Molecular identification of vivax malaria relapse patients in the Yunnan Province based on homology analysis of the Plasmodium vivax circumsporozoite protein gene.
-36334018	Habitat Diversity, Stability, and Productivity of Malaria Vectors in Irrigated and Nonirrigated Ecosystems in Western Kenya.
-36333802	Zero malaria: a mirage or reality for populations of sub-Saharan Africa in health transition.
-36333739	Intermittent preventive treatment and malaria amongst pregnant women who give birth at the Centre Hospitalier Régional Paul Moukambi de Koula-Moutou in southeastern Gabon.
-36333723	Prevalence of malaria and its risk factors in Lake Tana and surrounding areas, northwest Ethiopia.
