@@ -1,3 +1,7 @@
+39804959	Factors associated with tuberculosis treatment initiation among bacteriologically negative individuals evaluated for tuberculosis: An individual patient data meta-analysis.
+39804943	Identification of novel PfEMP1 variants containing domain cassettes 11, 15 and 8 that mediate the Plasmodium falciparum virulence-associated rosetting phenotype.
+39804934	Casein Kinases 2-dependent phosphorylation of the placental ligand VAR2CSA regulates Plasmodium falciparum-infected erythrocytes cytoadhesion.
+39804931	Genomic exploration of the journey of Plasmodium vivax in Latin America.
 39804247	Drug Property Optimization: Design, Synthesis, and Characterization of Novel Pharmaceutical Salts and Cocrystal-Salt of Lumefantrine.
 39804089	Expression of Concern for Teixeira et al., "Immunogenicity of a Prime-Boost Vaccine Containing the Circumsporozoite Proteins of Plasmodium vivax in Rodents".
 39804082	Expression of Concern for Woehlbier et al., "Analysis of Antibodies Directed Against Merozoite Surface Protein 1 of the Human Malaria Parasite Plasmodium falciparum".
@@ -9993,7 +9997,3 @@
 36336700	Novel application of one-step pooled molecular testing and maximum likelihood approaches to estimate the prevalence of malaria parasitaemia among rapid diagnostic test negative samples in western Kenya.
 36336245	Effects of ivermectin mass drug administration for malaria vector control on ectoparasites and soil-transmitted helminths: a cluster randomized trial.
 36335363	Participatory development of practical, affordable, insecticide-treated mosquito proofing for a range of housing designs in rural southern Tanzania.
-36335323	Improved adherence to test, treat, and track (T3) malaria strategy among Over-the-Counter Medicine Sellers (OTCMS) through interventions implemented in selected rural communities of Fanteakwa North district, Ghana.
-36335172	Mosquito host-seeking diel rhythm and chemosensory gene expression is affected by age and Plasmodium stages.
-36334812	Transdermal Transmission Blocking Vaccine for Malaria using a Solid-in-Oil Dispersion.
-36334555	A DFT and molecular docking study of xerantholide and its interaction with Neisseria gonorrhoeae carbonic anhydrase.
