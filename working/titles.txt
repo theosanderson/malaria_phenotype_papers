@@ -1,3 +1,8 @@
+39813677	Interventions to Maintain HIV/AIDS, Tuberculosis, and Malaria Service Delivery During Public Health Emergencies in Low- and Middle-Income Countries: Protocol for a Systematic Review.
+39813620	Thalassemia carriers exhibit reduced expression of CD234 on erythrocytes and levels of malaria-associated chemokines.
+39813298	Impact of seasonal malaria chemoprevention timing on clinical malaria incidence dynamics in the Kedougou region, Senegal.
+39813263	Retraction: Recombinant Pvs48/45 Antigen Expressed in E. coli Generates Antibodies that Block Malaria Transmission in Anopheles albimanus Mosquitoes.
+39813195	How can modeling responsibly inform decision-making in malaria?
 39811392	Large-scale production of Mansonella perstans infective larvae from engorged Culicoides milnei.
 39811140	Expanding the Chemical Space of Reverse Fosmidomycin Analogs.
 39810909	Malaria survey data and geospatial suitability mapping for understanding spatial and temporal variations of risk across Kenya.
@@ -9992,8 +9997,3 @@
 36348381	Dietary diversity in primary schoolchildren of south-central Côte d'Ivoire and risk factors for non-communicable diseases.
 36347257	Rare, convergent antibodies targeting the stem helix broadly neutralize diverse betacoronaviruses.
 36346886	When the available blood supply mismatches the needs of the patient.
-36346714	Ribonucleotide Misincorporation and Reverse Transcriptase Activities of Plasmodium falciparum Apicoplast DNA Polymerase.
-36346219	Fermenting molasses and a synthetic odour blend to attract blood-fed Anopheles coluzzii.
-36345921	The effect of an integrated electronic medical record system on malaria out-patient case management in a Ugandan health facility.
-36345570	Haemosporidian parasites in the ash-breasted Sierra finch (Geospizopsis plebejus): insights from an Andean dry forest population.
-36345433	Outdoor and early hour human biting activities of malaria mosquitoes and the suitability of clay pot for outdoor resting mosquito collection in malaria endemic villages of southern Rift Valley, Ethiopia.
