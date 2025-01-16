@@ -1,3 +1,23 @@
+39817179	In vitro and in vivo antimalarial activities of the ethanol extract of Erythrina sigmoidea stem bark used for the treatment of malaria in the Western Region of Cameroon.
+39817177	Metabolic changes that allow Plasmodium falciparum artemisinin-resistant parasites to tolerate oxidative stress.
+39817175	Transcriptome analysis reveals molecular targets of erythrocyte invasion phenotype diversity in natural Plasmodium falciparum isolates from Cameroon.
+39817171	Malaria and associated factors among under-five children in Borena pastoral communities, southern Ethiopia.
+39817167	Genetic variation of the Plasmodium falciparum circumsporozoite protein in parasite isolates from Homabay County in Kenya.
+39816981	Interventions and implementation considerations for reducing pre-treatment loss to follow-up in adults with pulmonary tuberculosis: A scoping review.
+39816843	Molecular detection and quantification of Plasmodium vivax DNA in blood pellet and plasma samples from patients in Senegal.
+39816834	Reticulocyte Binding Protein Homologue 5 is a target of balancing selection in the Plasmodium falciparum population of Papua New Guinea.
+39816832	Infection with soil-transmitted helminths and their impact on coinfections.
+39816831	The luminal domain of Toxoplasma gondii sortilin adopts a ring-shaped structure exhibiting motifs specific to apicomplexan parasites.
+39816824	Analysis of insecticides in long-lasting insecticidal nets using X-ray fluorescence spectroscopy and correlation with bioefficacy.
+39816821	Using qPCR to compare the detection of Plasmodium vivax oocysts and sporozoites in Anopheles farauti mosquitoes between two DNA extraction methods.
+39816817	Identification of an in vitro artemisinin-resistant Plasmodium falciparum kelch13 R515K mutant parasite in Senegal.
+39816811	Serology reveals micro-differences in Plasmodium falciparum transmission in the Hohoe municipality of Ghana.
+39816809	Proteome-wide comparison of tertiary protein structures reveals molecular mimicry in Plasmodium-human interactions.
+39816346	Prevalence of clinical malaria and associated symptoms in pregnant women at Hamusit health center, Northwest Ethiopia.
+39816120	Impact of early-life malaria exposure on childhood stunting: A case-control study in high endemic malaria area, Papua, Indonesia.
+39816106	Impacts of COVID-19 on malaria elimination strategies in Asia: A scoping review.
+39815954	Applying the ADAPT guidance to implement a telemedicine and medication delivery service in a malaria-endemic setting: A prospective cohort study.
+39815669	Expression and purification of E140 protein antigen fragments of Plasmodium vivax and Plasmodium berghei for serological assays.
 39815293	Larviciding for malaria control and elimination in Africa.
 39814779	Two-photon NAD(P)H-FLIM reveals unperturbed energy metabolism of Ascaris suum larvae, in contrast to host macrophages upon artemisinin derivatives exposure.
 39813835	It's all about scale: The landscape effect on avian haemosporidians.
@@ -1275,7 +1295,7 @@
 39373229	Bridging the gaps: prioritizing research strategies for enhanced malaria control and elimination.
 39373225	Characterization of Anopheles mosquito breeding habitats for malaria vector control in Mazowe and Shamva districts, Zimbabwe.
 39373224	Intercalating compounds alongside DNA helicase Q1 Plasmodium falciparum 3D7: Assessments of the Pharmacokinetic Properties Prediction of ADME.
-39373161	Evaluation of the In2care Mosquito Station against Culex quinquefasciatus mosquitoes (Diptera: Culicidae) under semifield conditions.
+39373161	Evaluation of the In2care Mosquito Station against Culex quinquefasciatus mosquitoes (Diptera: Culicidae) under semifield conditions.
 39372941	Bionomics and distribution of malaria vectors in Kisumu city, Western Kenya: Implications for urban malaria transmission.
 39372934	Rapid phenotypic and genotypic change in a laboratory schistosome population.
 39372923	Larval habitat diversity, physicochemical characterization and their effect on the density of larval malaria vectors in the city of Accra, Ghana.
@@ -9977,23 +9997,3 @@
 36355909	Exploring Potential Antimalarial Candidate from Medicinal Plants of Kheaw Hom Remedy.
 36355905	Quality and Integrated Service Delivery: A Cross-Sectional Study of the Effects of Malaria and Antenatal Service Quality on Malaria Intervention Use in Sub-Saharan Africa.
 36355895	Malaria Preventive Practices among People Residing in Different Malaria-Endemic Settings in a Township of Myanmar: A Mixed-Methods Study.
-36355892	Recombinant Vaccinia Virus Expressing Plasmodium berghei Apical Membrane Antigen 1 or Microneme Protein Enhances Protection against P. berghei Infection in Mice.
-36355887	Malaria in Senegal: Recent and Future Changes Based on Bias-Corrected CMIP6 Simulations.
-36355851	Are rural pregnant women disadvantaged in accessing intermittent preventive treatment in pregnancy in Ebonyi State, Nigeria?
-36354859	Insecticide Susceptibility Status of Anopheles and Aedes Mosquitoes in Malaria and Dengue Endemic Areas, Thai-Myanmar Border.
-36354855	Geometric Morphometric Wing Analysis of Avian Malaria Vector, Culiseta longiareolata, from Two Locations in Algeria.
-36353054	Characterization of the complete chloroplast genome of Veronica arvensis and its phylogenomic inference in plantaginaceae.
-36352453	A prospective cohort study of Plasmodium falciparum malaria in three sites of Western Kenya.
-36352220	A spatiotemporally resolved single-cell atlas of the Plasmodium liver stage.
-36352107	Host-parasite dynamics in the liver stage of malaria.
-36352066	Essential oils of plants and their combinations as an alternative adulticides against Anopheles gambiae (Diptera: Culicidae) populations.
-36351999	Identification of a TNF-TNFR-like system in malaria vectors (Anopheles stephensi) likely to influence Plasmodium resistance.
-36351988	Effect of out-of-village working activities on recent malaria exposure in the Peruvian Amazon using parametric g-formula.
-36351236	Antimalarial and Plasmodium falciparum serpentine receptor 12 targeting effect of FDA approved purinergic receptor antagonist.
-36350894	The in silico and in vitro analysis of donepezil derivatives for Anopheles acetylcholinesterase inhibition.
-36349868	2-hydroxy-1,4-naphthoquinones with 3-alkyldiarylether groups: synthesis and Plasmodium falciparum inhibitory activity.
-36349579	A comprehensive overview of the existing microbial symbionts in mosquito vectors: An important tool for impairing pathogen transmission.
-36349448	Allometric scaling relationships in mouse placenta.
-36349187	Malaria Microscopy Competency in the Subnational Verification, China: Implications for Malaria Elimination and the Prevention of Malaria Reestablishment.
-36349140	High Prevalence of Plasmodium Infection in Fighting Cocks in Thailand Determined with a Molecular Method.
-36348409	Improvements in malaria surveillance through the electronic Integrated Disease Surveillance and Response (eIDSR) system in mainland Tanzania, 2013-2021.
