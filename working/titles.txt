@@ -1,3 +1,5 @@
+39817720	Target-agnostic identification of human antibodies to Plasmodium falciparum sexual forms reveals cross-stage recognition of glutamate-rich repeats.
+39817444	Population attributable fractions for risk factors for childhood anaemia: Findings from the 2017 Togo Malaria Indicator Survey.
 39817179	In vitro and in vivo antimalarial activities of the ethanol extract of Erythrina sigmoidea stem bark used for the treatment of malaria in the Western Region of Cameroon.
 39817177	Metabolic changes that allow Plasmodium falciparum artemisinin-resistant parasites to tolerate oxidative stress.
 39817175	Transcriptome analysis reveals molecular targets of erythrocyte invasion phenotype diversity in natural Plasmodium falciparum isolates from Cameroon.
@@ -9995,5 +9997,3 @@
 36356129	Invasive mosquito adds to Africa's malaria toll.
 36355922	IgG antibody responses to Anopheles gambiae gSG6-P1 salivary peptide are induced in human populations exposed to secondary malaria vectors in forest areas in Cameroon.
 36355909	Exploring Potential Antimalarial Candidate from Medicinal Plants of Kheaw Hom Remedy.
-36355905	Quality and Integrated Service Delivery: A Cross-Sectional Study of the Effects of Malaria and Antenatal Service Quality on Malaria Intervention Use in Sub-Saharan Africa.
-36355895	Malaria Preventive Practices among People Residing in Different Malaria-Endemic Settings in a Township of Myanmar: A Mixed-Methods Study.
