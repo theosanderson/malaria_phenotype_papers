@@ -1,3 +1,4 @@
+39818732	Whole-Cell Thermal Sensor for the Detection of P. falciparum-Infected Erythrocytes: Imprinted Polymers as Synthetic Receptors for the Detection of Malaria.
 39818222	Efficacy of 8-aminoquinolines for Plasmodium vivax malaria radical cure: only one part of the problem.
 39818221	Quantifying Plasmodium vivax radical cure efficacy: a modelling study integrating clinical trial data and transmission dynamics.
 39817720	Target-agnostic identification of human antibodies to Plasmodium falciparum sexual forms reveals cross-stage recognition of glutamate-rich repeats.
@@ -9996,4 +9997,3 @@
 36357308	Histone lactylation: a new epigenetic axis for host-parasite signalling in malaria?
 36356935	Development of an Immediate-Release Prototype Tablet Formulation of Hydroxychloroquine Sulfate with an Interwoven Taste-Masking System.
 36356891	The impact of temperature and decay in insecticide-treated net efficacy on malaria prevalence and control.
-36356129	Invasive mosquito adds to Africa's malaria toll.
