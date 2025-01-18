@@ -1,3 +1,12 @@
+39823475	Implementation outcomes of 1-3-7 focus investigation for malaria in a low transmission setting in Southern Province, Zambia: A mixed methods study.
+39823400	Roll out and prospects of the malaria vaccine R21/Matrix-M.
+39823287	Performance of ChatGPT-4o in the diagnostic workup of fever among returning travelers requiring hospitalization: a validation study.
+39820027	Structural characterization of the ACDC domain from ApiAP2 proteins, a potential molecular target against apicomplexan parasites.
+39820011	A mixed methods study investigating factors affecting adherence to Plasmodium vivax malaria primaquine radical cure regimens among migrants along the Myanmar-Thailand border.
+39819965	Transmission of transgenic mosquito-killing fungi during copulation.
+39819789	Identification of Southeast Asian Anopheles mosquito species with matrix-assisted laser desorption/ionization time-of-flight mass spectrometry using a cross-correlation approach.
+39819451	Detection of low frequency artemisinin resistance mutations, C469Y, P553L and A675V, and fixed antifolate resistance mutations in asymptomatic primary school children in Kenya.
+39819282	Bioinformatics analysis identifies key secretory protein-encoding differentially expressed genes in adipose tissue of metabolic syndrome.
 39818732	Whole-Cell Thermal Sensor for the Detection of P. falciparum-Infected Erythrocytes: Imprinted Polymers as Synthetic Receptors for the Detection of Malaria.
 39818222	Efficacy of 8-aminoquinolines for Plasmodium vivax malaria radical cure: only one part of the problem.
 39818221	Quantifying Plasmodium vivax radical cure efficacy: a modelling study integrating clinical trial data and transmission dynamics.
@@ -535,7 +544,7 @@
 39630601	Cytoadhesion of Plasmodium falciparum-Infected Red Blood Cells Changes the Expression of Cytokine-, Histone- and Antiviral Protein-Encoding Genes in Brain Endothelial Cells.
 39629875	Expanding healthcare access in rural sub-Saharan Africa.
 39629706	Myeloid-derived suppressor cells inhibit responses of T follicular helper cells during experimental Plasmodium yoelii infection.
-39629680	Antiplasmodial Potentials, Phytocompounds and the Possible Toxic Effects of Administration of Ethylacetate Extract of Spondias mombin Linn.
+39629680	Antiplasmodial Potentials, Phytocompounds, and the Possible Toxic Effects of Administration of Ethylacetate Extract of Spondias mombin Linn.
 39629437	A clinicoepidemiological study of serologically diagnosed acute febrile illness in a teaching hospital, Kolkata.
 39629320	Retraction: "Prevalence and associated factors of a positive Plasmodium falciparum antigen test among pregnant women at the Bamenda Regional Hospital, Cameroon: a cross-sectional analytical study (Pan African Medical Journal. 2024;47:99. doi: 10.11604/pamj.2024.47.99.40899)".
 39629267	Nurses' Characteristics Associated with Good Knowledge, Attitude, and Practices (KAP) of the Malaria Vaccine in Bungoma County, Kenya.
@@ -9988,12 +9997,3 @@
 36360593	Primary Health Care System Strengthening Project in Sri Lanka: Status and Challenges with Human Resources, Information Systems, Drugs and Laboratory Services.
 36360181	Genetic Diversity and Population Genetic Structure Analysis of Plasmodium knowlesi Thrombospondin-Related Apical Merozoite Protein (TRAMP) in Clinical Samples.
 36359590	Assessment of a Commercial Real-Time PCR Assay (Vitassay qPCR Malaria 5 Test) to Detect Human Malaria Infection in Travelers Returning to France.
-36359544	Evaluating the Performance of Deep Learning Frameworks for Malaria Parasite Detection Using Microscopic Images of Peripheral Blood Smears.
-36359332	Recombinant AMA1 Virus-like Particle Antigen for Serodiagnosis of Toxoplasma gondii Infection.
-36358913	The Defensive Interactions of Prominent Infectious Protozoan Parasites: The Host's Complement System.
-36357894	Acceptability of pre-referral rectal artesunate for severe malaria in children under 5 years by health workers and caregivers in the Democratic Republic of the Congo, Nigeria and Uganda.
-36357883	Proguanil and atovaquone use is associated with lower colorectal cancer risk: a nationwide cohort study.
-36357441	Differences in diagnosis, management, and outcomes of acute febrile illness by health facility level in southern Ethiopia.
-36357308	Histone lactylation: a new epigenetic axis for host-parasite signalling in malaria?
-36356935	Development of an Immediate-Release Prototype Tablet Formulation of Hydroxychloroquine Sulfate with an Interwoven Taste-Masking System.
-36356891	The impact of temperature and decay in insecticide-treated net efficacy on malaria prevalence and control.
