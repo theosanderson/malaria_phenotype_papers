@@ -1,3 +1,8 @@
+39825837	Isolation of Antiplasmodial Oxazoles and Isoflavonoids from the Roots of Oxytropis trichophysa and Total Synthesis of Oxazole-type Alkaloids.
+39825555	A Rare Encounter: Diagnosing and Managing Congenital Malaria in a Neonate.
+39825389	Integrating malaria vaccine and CRISPR/Cas9 gene drive: a comprehensive strategy for accelerated malaria eradication.
+39825258	Prevalence of asymptomatic Leishmania donovani infection and associated factors in Ethiopia: a systematic review and meta-analysis.
+39824704	Genome-scale, functional screen of Plasmodium sexual replication.
 39823475	Implementation outcomes of 1-3-7 focus investigation for malaria in a low transmission setting in Southern Province, Zambia: A mixed methods study.
 39823400	Roll out and prospects of the malaria vaccine R21/Matrix-M.
 39823287	Performance of ChatGPT-4o in the diagnostic workup of fever among returning travelers requiring hospitalization: a validation study.
@@ -9992,8 +9997,3 @@
 36363741	Prevalence of Haemosporidian Parasites in an Arctic Breeding Seabird Species-The Red-Throated Diver (Gavia stellata).
 36362246	The IL-33/ST2 Pathway in Cerebral Malaria.
 36361552	Erythropoiesis and Malaria, a Multifaceted Interplay.
-36361240	Spatio-Temporal Variability of Malaria Incidence in the Health District of Kati, Mali, 2015-2019.
-36360980	Association between Development Assistance for Health and Disease Burden: A Longitudinal Analysis on Official Development Assistance for HIV/AIDS, Tuberculosis, and Malaria in 2005-2017.
-36360593	Primary Health Care System Strengthening Project in Sri Lanka: Status and Challenges with Human Resources, Information Systems, Drugs and Laboratory Services.
-36360181	Genetic Diversity and Population Genetic Structure Analysis of Plasmodium knowlesi Thrombospondin-Related Apical Merozoite Protein (TRAMP) in Clinical Samples.
-36359590	Assessment of a Commercial Real-Time PCR Assay (Vitassay qPCR Malaria 5 Test) to Detect Human Malaria Infection in Travelers Returning to France.
