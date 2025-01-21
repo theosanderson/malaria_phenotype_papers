@@ -1,3 +1,18 @@
+39835311	Determining the risk factors of malaria and anemia in children between 6 and 59 months using the joint generalized linear mixed model on the 2021 Nigeria Malaria Indicator Survey dataset.
+39835275	Plasmodium falciparum transcription factor AP2-06B is mutated at high frequency in Southeast Asia but does not associate with drug resistance.
+39834837	Editorial: Novel pharmacological targets and strategies to treat neglected global diseases (NGDs): an LMIC perspective.
+39834604	Delays in Blood Work and Disease Burden: A Cross-Sectional Analysis of Unmet Blood Work Need and Seven Key Health Conditions Across 21 Countries.
+39833936	Insecticide resistant Anopheles from Ethiopia but not Burkina Faso show a microbiota composition shift upon insecticide exposure.
+39833862	Improving diagnostics and surveillance of malaria among displaced people in Africa.
+39833851	Investigation of malaria vectors Anopheles in non-endemic areas of Thailand: in proximity to workplaces housing foreign migrant workers.
+39833795	Comparative performance of microscopy, rapid diagnostic tests, and multiplex real-time PCR for detection of malaria parasites among pregnant women in northwest Ethiopia.
+39833788	A retrospective analysis of the malaria trend in Yemen over the sixteen-years, from 2006 to 2021.
+39833705	Clinical characteristics of Plasmodium vivax malaria infection in children and adolescents in the Republic of Korea during the period 2000 to 2016: a retrospective study.
+39833263	Contrasting vector competence of three main East African Anopheles malaria vector mosquitoes for Plasmodium falciparum.
+39832516	Assessment of MpoxPlex, a high-throughput and multiplexed immunoassay: a diagnostic accuracy study.
+39833208	Validation of a multiplexed immunoassay for immunological analysis of pre erythrocytic malaria vaccines.
+39833076	Epidemiological feature of imported malaria in Taiwan during the 2014-to-2020 period.
+39832998	Improving health outcomes by strengthening public sector capacity in social and behaviour change programming in Nigeria: a qualitative study.
 39832214	Towards Improved Peptidic α-Ketoamide Inhibitors of the Plasmodial Subtilisin-Like SUB1: Exploration of N-Terminal Extensions and Cyclic Constraints.
 39832046	Avian haemosporidian parasites affecting non-descript village chickens in Africa.
 39831727	Potential interaction between clorsulon and ivermectin for malaria vector control.
@@ -12,10 +27,10 @@
 39829388	A cRGD-modified liposome for targeted delivery of artesunate to inhibit angiogenesis in endometriosis.
 39829323	A Systematic Targeted Genetic Screen Identifies Proteins Involved in Cytoadherence of the Malaria Parasite P. falciparum.
 39828431	The Linda Kizazi study: a comparison of morbidity and mortality from birth to 2 years between children who are HIV-unexposed and HIV-exposed, uninfected in the era of universal antiretroviral therapy.
-39826559	Effectiveness of sulfadoxine-pyrimethamine plus amodiaquine and dihydroartemisinin-piperaquine for seasonal malaria chemoprevention in Uganda: a three-arm, open-label, non-inferiority and superiority, cluster-randomised, controlled trial.
 39827161	Assessing the efficacy of iso-mukaadial acetate and betulinic acid against selected Plasmodium falciparum glycolytic pathway proteins: in silico and in vitro studies.
 39826863	Candida tropicalis, Clavispora lusitaniae, Limosilactobacillus fermentum, Liquorilactobacillus mali, and Leuconostoc pseudomesenteroides are associated with Ethanol Levels in Malian Traditional Fermented Milk Products.
 39826560	Expanding seasonal malaria chemoprevention beyond the Sahel region.
+39826559	Effectiveness of sulfadoxine-pyrimethamine plus amodiaquine and dihydroartemisinin-piperaquine for seasonal malaria chemoprevention in Uganda: a three-arm, open-label, non-inferiority and superiority, cluster-randomised, controlled trial.
 39825837	Isolation of Antiplasmodial Oxazoles and Isoflavonoids from the Roots of Oxytropis trichophysa and Total Synthesis of Oxazole-type Alkaloids.
 39825555	A Rare Encounter: Diagnosing and Managing Congenital Malaria in a Neonate.
 39825389	Integrating malaria vaccine and CRISPR/Cas9 gene drive: a comprehensive strategy for accelerated malaria eradication.
@@ -9982,18 +9997,3 @@
 36375125	Hydroxyurea treatment is associated with lower malaria incidence in children with sickle cell anemia in sub-Saharan Africa.
 36374864	Atractylodes lancea for cholangiocarcinoma: Modulatory effects on CYP1A2 and CYP3A1 and pharmacokinetics in rats and biodistribution in mice.
 36374859	Human behavior determinants of exposure to Anopheles vectors of malaria in Sumba, Indonesia.
-36374724	Application of a low-cost, specific, and sensitive loop-mediated isothermal amplification (LAMP) assay to detect Plasmodium falciparum imported from Africa.
-36374096	Impact of Dolutegravir-Based Antiretroviral Therapy on Piperaquine Exposure following Dihydroartemisinin-Piperaquine Intermittent Preventive Treatment of Malaria in Pregnant Women Living with HIV.
-36374050	Targeting Artemisinin-Resistant Malaria by Repurposing the Anti-Hepatitis C Virus Drug Alisporivir.
-36373285	Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers.
-36372877	The history and current epidemiology of malaria in Kalimantan, Indonesia.
-36372783	Approaching COVID-19 with epidemiological genomic surveillance and the sustainability of biodiversity informatics in Africa.
-36371450	Structure-guided insights into potential function of novel genetic variants in the malaria vaccine candidate PfRh5.
-36371433	The prognostic and diagnostic value of intraleukocytic malaria pigment in patients with severe falciparum malaria.
-36371172	Seroprevalence of SARS-CoV-2 antibodies among children and adolescents recruited in a malariometric survey in north-eastern Tanzania July 2021.
-36370911	Structural characterization of glutamyl-tRNA synthetase (GluRS) from Plasmodium falciparum.
-36369172	Comparative evaluation of different versions of exposure-free mosquito electrocuting traps and barrier screen trap for monitoring outdoor densities and biting time phenotypes by malaria and filariasis vectors in Tanzania.
-36369086	Impact of aerial humidity on seasonal malaria: an ecological study in Zambia.
-36369045	Malaria attributable fractions with changing transmission intensity: Bayesian latent class vs logistic models.
-36369036	Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.
-36369006	VECTRON™ T500, a new broflanilide insecticide for indoor residual spraying, provides prolonged control of pyrethroid-resistant malaria vectors.
