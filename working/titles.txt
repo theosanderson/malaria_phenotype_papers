@@ -1,3 +1,4 @@
+39836042	Recent Trends and Perspectives on Malaria Relapse: A Mini Review.
 39835311	Determining the risk factors of malaria and anemia in children between 6 and 59 months using the joint generalized linear mixed model on the 2021 Nigeria Malaria Indicator Survey dataset.
 39835275	Plasmodium falciparum transcription factor AP2-06B is mutated at high frequency in Southeast Asia but does not associate with drug resistance.
 39834837	Editorial: Novel pharmacological targets and strategies to treat neglected global diseases (NGDs): an LMIC perspective.
@@ -9,10 +10,10 @@
 39833788	A retrospective analysis of the malaria trend in Yemen over the sixteen-years, from 2006 to 2021.
 39833705	Clinical characteristics of Plasmodium vivax malaria infection in children and adolescents in the Republic of Korea during the period 2000 to 2016: a retrospective study.
 39833263	Contrasting vector competence of three main East African Anopheles malaria vector mosquitoes for Plasmodium falciparum.
-39832516	Assessment of MpoxPlex, a high-throughput and multiplexed immunoassay: a diagnostic accuracy study.
 39833208	Validation of a multiplexed immunoassay for immunological analysis of pre erythrocytic malaria vaccines.
 39833076	Epidemiological feature of imported malaria in Taiwan during the 2014-to-2020 period.
 39832998	Improving health outcomes by strengthening public sector capacity in social and behaviour change programming in Nigeria: a qualitative study.
+39832516	Assessment of MpoxPlex, a high-throughput and multiplexed immunoassay: a diagnostic accuracy study.
 39832214	Towards Improved Peptidic α-Ketoamide Inhibitors of the Plasmodial Subtilisin-Like SUB1: Exploration of N-Terminal Extensions and Cyclic Constraints.
 39832046	Avian haemosporidian parasites affecting non-descript village chickens in Africa.
 39831727	Potential interaction between clorsulon and ivermectin for malaria vector control.
@@ -9996,4 +9997,3 @@
 36375234	Killing in self-defense: proapoptotic drugs to eliminate intracellular pathogens.
 36375125	Hydroxyurea treatment is associated with lower malaria incidence in children with sickle cell anemia in sub-Saharan Africa.
 36374864	Atractylodes lancea for cholangiocarcinoma: Modulatory effects on CYP1A2 and CYP3A1 and pharmacokinetics in rats and biodistribution in mice.
-36374859	Human behavior determinants of exposure to Anopheles vectors of malaria in Sumba, Indonesia.
