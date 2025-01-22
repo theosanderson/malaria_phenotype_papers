@@ -1,3 +1,5 @@
+39841324	Haplotypes of Chloroquine Resistance Marker Genes Among Uncomplicated Malaria Cases in Lagos, Nigeria.
+39840894	Molecular detection of parasites and host preference in wild-caught Culicoides biting midges (Diptera: Ceratopogonidae) in Chiang Mai and Nakhon Si Thammarat Provinces, Thailand.
 39838642	[Plasma exchange combined with continuous renal replacement therapy for imported severe Plasmodium falciparum malaria: a case report].
 39838479	Predictors of insecticide-treated nets utilization among children under five years in refugee settlements in Uganda: analysis of the 2018-2019 Uganda Malaria Indicator Survey.
 39838389	Structural comparison of human and Plasmodium proteasome β5 subunits: informing selective inhibitor design for anti-malaria agents.
@@ -9995,5 +9997,3 @@
 36379305	Application of machine and deep learning algorithms in optical microscopic detection of Plasmodium: A malaria diagnostic tool for the future.
 36379256	RNA-seq analysis of differentially expressed LncRNAs from leishmaniasis patients compared to uninfected humans.
 36378465	Plasmodium vivax in Children: Hidden Burden and Conspicuous Challenges, a Narrative Review.
-36378331	Genetic polymorphism of the thrombospondin-related apical merozoite protein (TRAMP) of Plasmodium knowlesi in Malaysia.
-36377778	Novel genome sequences and evolutionary dynamics of the North American anopheline species Anopheles freeborni, Anopheles crucians, Anopheles quadrimaculatus, and Anopheles albimanus.
