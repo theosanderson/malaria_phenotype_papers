@@ -1,4 +1,3 @@
-39839605	Protocol for a prospective observational cohort study of cutaneous leishmaniasis in Ethiopia.
 39838642	[Plasma exchange combined with continuous renal replacement therapy for imported severe Plasmodium falciparum malaria: a case report].
 39838479	Predictors of insecticide-treated nets utilization among children under five years in refugee settlements in Uganda: analysis of the 2018-2019 Uganda Malaria Indicator Survey.
 39838389	Structural comparison of human and Plasmodium proteasome β5 subunits: informing selective inhibitor design for anti-malaria agents.
@@ -5875,6 +5874,7 @@
 37798779	Effect of predators on Anopheles arabiensis and Anopheles funestus larval survivorship in Homa Bay County Western Kenya.
 37798547	Leveraging off higher plant phylogenetic insights for antiplasmodial drug discovery.
 37798302	Data-driven networking of global transcriptomics and male sexual development in the main malaria vector, Anopheles funestus.
+39839605	Protocol for a prospective observational cohort study of cutaneous leishmaniasis in Ethiopia.
 37797033	Second malaria vaccine gets WHO green light.
 37796723	Erythrocyte invasion-neutralising antibodies prevent Plasmodium falciparum RH5 from binding to basigin-containing membrane protein complexes.
 37796022	ATP synthase-associated coiled-coil-helix-coiled-coil-helix (CHCH) domain-containing proteins are critical for mitochondrial function in Toxoplasma gondii.
