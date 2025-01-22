@@ -1,3 +1,19 @@
+39839605	Protocol for a prospective observational cohort study of cutaneous leishmaniasis in Ethiopia.
+39838642	[Plasma exchange combined with continuous renal replacement therapy for imported severe Plasmodium falciparum malaria: a case report].
+39838479	Predictors of insecticide-treated nets utilization among children under five years in refugee settlements in Uganda: analysis of the 2018-2019 Uganda Malaria Indicator Survey.
+39838389	Structural comparison of human and Plasmodium proteasome β5 subunits: informing selective inhibitor design for anti-malaria agents.
+39838348	The epidemiology of malaria in four districts in southern Mozambique receiving indoor residual spray as part of a cross-border initiative.
+39838039	Molecular epidemiology and genetic diversity of disappearing Plasmodium vivax in southern Thailand.
+39837856	A near-complete genome assembly of Cinchona calisaya.
+39837740	Vaccines in a time of global boiling and megacities.
+39837513	Delayed post-juvenile moult in malaria-infected Eurasian blackcaps.
+39837510	Cophylogeny, narrow host breadth and local conditions drive highly specialized bird-haemosporidian associations in West-Central African sky islands.
+39837368	Insights into the ecological and climate crisis: emerging infections threatening human health.
+39836978	A Day with Gold Miners in the Amazon Fighting against Malaria.
+39836975	Assessment of Malaria Rapid Diagnostic Tests and Histidine-Rich Protein 2 Deletions among Asymptomatic Children and Adults in Bagamoyo, Tanzania.
+39836973	Incorporating Community Case Management in Risk-Based Surveillance for Malaria Elimination in the Dominican Republic.
+39836705	Emergence of SARS-CoV-2 subgenomic RNAs that enhance viral fitness and immune evasion.
+39836698	Mortality among 5 to 19-year-olds in rural Mali.
 39836042	Recent Trends and Perspectives on Malaria Relapse: A Mini Review.
 39835311	Determining the risk factors of malaria and anemia in children between 6 and 59 months using the joint generalized linear mixed model on the 2021 Nigeria Malaria Indicator Survey dataset.
 39835275	Plasmodium falciparum transcription factor AP2-06B is mutated at high frequency in Southeast Asia but does not associate with drug resistance.
@@ -484,6 +500,7 @@
 39669268	Progress in the study of mefloquine as an antibiotic adjuvant for combination bacterial inhibition treatment.
 39669142	Analysis of lethal and sublethal doses: Comparative toxicity of three commonly used pesticides on Blattella germanica, an important allergen and vector of pathogens.
 39668916	Cross-sectional Assessment of Body Image Perception, Image Satisfaction, Body Image Discrepancy and Dietary Habits in Medical Students of Ujjain.
+39668723	Spirocyclic iridoid alkaloids from Plumeria rubra.
 39668051	IMC1g knockdowns reveal malaria blood-stage alveolin functions.
 39666763	Dynamics of submicroscopic and microscopic asymptomatic malaria infection and associated factors: A longitudinal study in South Benin.
 39666697	Insecticide tolerance of the malaria vector Anopheles gambiae following larval exposure to microplastics and insecticide.
@@ -9980,20 +9997,3 @@
 36378465	Plasmodium vivax in Children: Hidden Burden and Conspicuous Challenges, a Narrative Review.
 36378331	Genetic polymorphism of the thrombospondin-related apical merozoite protein (TRAMP) of Plasmodium knowlesi in Malaysia.
 36377778	Novel genome sequences and evolutionary dynamics of the North American anopheline species Anopheles freeborni, Anopheles crucians, Anopheles quadrimaculatus, and Anopheles albimanus.
-36376985	Determinants of self-reported hypertension among women in South Africa: evidence from the population-based survey.
-36376966	The need for larval source management accompanying urban development projects in malaria endemic areas: a case study on Bioko Island.
-36376961	Challenges with adherence to the 'test, treat, and track' malaria case management guideline among prescribers in Ghana.
-36376949	Ancestral reconstruction and correlation of the frequencies of the hemoglobin S allele and the Duffy blood group alleles in human populations.
-36376935	How long is the last mile? Evaluating successful malaria elimination trajectories.
-36376932	Insecticide resistance in malaria and arbovirus vectors in Papua New Guinea, 2017-2022.
-36376926	A malaria knowledge, attitudes and practice survey in a rural community in Guinea.
-36376921	Comparative effect of artemether-lumefantrine and artesunate-amodiaquine on gametocyte clearance in children with uncomplicated Plasmodium falciparum malaria in Madagascar.
-36376867	Causes and outcome of acute kidney injury amongst adults patients in two hospitals of different category in Cameroon; a 5 year retrospective comparative study.
-36376866	Gravidity and malaria trends interact to modify P. falciparum densities and detectability in pregnancy: a 3-year prospective multi-site observational study.
-36376491	Amazonian Anopheles with low numbers of oocysts transmit Plasmodium vivax sporozoites during a blood meal.
-36375339	Fighting Plasmodium chloroquine resistance with acetylenic chloroquine analogues.
-36375338	Anti-malarial activity of HCl salt of SKM13 (SKM13-2HCl).
-36375251	Nmnat3 deficiency in hemolytic anemia exacerbates malaria infection.
-36375234	Killing in self-defense: proapoptotic drugs to eliminate intracellular pathogens.
-36375125	Hydroxyurea treatment is associated with lower malaria incidence in children with sickle cell anemia in sub-Saharan Africa.
-36374864	Atractylodes lancea for cholangiocarcinoma: Modulatory effects on CYP1A2 and CYP3A1 and pharmacokinetics in rats and biodistribution in mice.
