@@ -1,3 +1,21 @@
+39846043	Cerebral Malaria in Adults: A Retrospective Descriptive Analysis of 80 Cases in a Tertiary Hospital in The Gambia, 2020-2023.
+39845925	City classification and health burden: Evidence from U5 malaria in the rapidly growing city of Akure, Nigeria.
+39844918	A systematic review of interventions targeting Anopheles stephensi.
+39844885	The early market access vehicle - An innovative demand-driven model to catalyse introduction of new optimal health products in low- and middle-income countries.
+39844665	Two Imported Malaria Cases with Delayed Response to Treatment in Hatay.
+39844654	A roadmap for understanding sulfadoxine-pyrimethamine in malaria chemoprevention.
+39844455	A scalable CRISPR-Cas9 gene editing system facilitates CRISPR screens in the malaria parasite Plasmodium berghei.
+39844288	Evaluating the potential of Kalanchoe pinnata, Piper amalago amalago, and other botanicals as economical insecticidal synergists against Anopheles gambiae.
+39844183	Spatiotemporal analysis of Plasmodium falciparum erythrocyte binding antigen-175 gene dimorphism in Ghana.
+39844157	Prevalence, characteristics, and treatment outcome of congenital malaria in Nigeria: a systematic review.
+39843499	Thermal variation influences the transcriptome of the major malaria vector Anopheles stephensi.
+39842653	Development of highly sensitive lateral flow immunoassay using PdNPs for detection of Plasmodium species.
+39842490	Developmental synchrony and extraordinary multiplication rates in pathogenic organisms.
+39842485	Phenotypic and fitness consequences of plasticity in the rhythmic replication of malaria parasites.
+39842479	Seasonal plasticity in daily timing of flight activity in Anopheles stephensi is driven by temperature modulation of dawn entrainment.
+39842477	Immune regulation of host energy metabolism and periodicity of malaria parasites.
+39842343	Artesunate-multiple pharmacological effects beyond treating malaria.
+39842334	Plasmodium falciparum raf kinase inhibitor is a lipid binding protein that interacts with and regulates the activity of PfCDPK1, an essential plant-like kinase required for red blood cell invasion.
 39841665	Community responses to a novel house design: A qualitative study of "Star Homes" in Mtwara, southeastern Tanzania.
 39841324	Haplotypes of Chloroquine Resistance Marker Genes Among Uncomplicated Malaria Cases in Lagos, Nigeria.
 39840894	Molecular detection of parasites and host preference in wild-caught Culicoides biting midges (Diptera: Ceratopogonidae) in Chiang Mai and Nakhon Si Thammarat Provinces, Thailand.
@@ -9979,21 +9997,3 @@
 36383682	The RTS,S malaria vaccine: Current impact and foundation for the future.
 36383559	Cryo-EM reveals the conformational epitope of human monoclonal antibody PAM1.4 broadly reacting with polymorphic malarial protein VAR2CSA.
 36383524	Retraction: Awareness and perception of malaria and dengue at school and college level in the district of Multan.
-36382572	Magnitude of anemia and associated factors among adult patients at Baso Liben District: a cross-sectional study.
-36382280	Highly effective identification of drug targets at the proteome level by pH-dependent protein precipitation.
-36382179	From structure to function - Ligand recognition by myeloid C-type lectin receptors.
-36380692	A close-up on the expanding landscape of CD21-/low B cells in humans.
-36380388	Survival analysis of patients with COVID-19 admitted at six hospitals in Uganda in 2021: a cohort study.
-36380379	Evaluation of an ultrasensitive HRP2-based rapid diagnostic test for detection of asymptomatic Plasmodium falciparum parasitaemia among children in western Kenya.
-36380374	Immunogenicity and antigenicity of a conserved fragment of the rhoptry-associated membrane antigen of Plasmodium vivax.
-36380373	Multicohort transcriptome analysis of whole blood identifies robust human response signatures in Plasmodium falciparum infections.
-36380370	Eotaxin-2 and eotaxin-3 in malaria exposure and pregnancy.
-36380360	Correction: Spatial analysis to evaluate risk of malaria in Northern Sumatera, Indonesia.
-36380322	Modelling malaria in southernmost provinces of Thailand: a two-step process for analysis of highly right-skewed data with a large proportion of zeros.
-36380100	Insights into the Role of Compendial/Biorelevant Media on the Supersaturation Behaviour of Drug Combination (Drug-Drug Interaction) and Precipitation Inhibition by Polymers.
-36380082	Trifloxystrobin blocks the growth of Theileria parasites and is a promising drug to treat Buparvaquone resistance.
-36379968	Structural analysis of Plasmodium falciparum ookinete surface antigen Pfs28 relevant for malaria vaccine design.
-36379669	Discovery of RUF6 ncRNA-interacting proteins involved in P. falciparum immune evasion.
-36379668	Genome-wide profiling of histone modifications in Plasmodium falciparum using CUT&RUN.
-36379305	Application of machine and deep learning algorithms in optical microscopic detection of Plasmodium: A malaria diagnostic tool for the future.
-36379256	RNA-seq analysis of differentially expressed LncRNAs from leishmaniasis patients compared to uninfected humans.
