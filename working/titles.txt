@@ -1,3 +1,7 @@
+39847171	Modeling the Impact of Seasonality on Mosquito Population Dynamics: Insights for Vector Control Strategies.
+39846779	Monitoring molecular markers associated with antimalarial drug resistance in south-east Senegal from 2021 to 2023.
+39846691	Fluorescence Analysis of Quinine in Commercial Tonic Waters.
+39846398	Long-term impact of exposure to Royal Guard, a pyriproxyfen-based bed net, on pyrethroid-resistant malaria vectors from Cameroon using DNA-based metabolic resistance markers.
 39846043	Cerebral Malaria in Adults: A Retrospective Descriptive Analysis of 80 Cases in a Tertiary Hospital in The Gambia, 2020-2023.
 39845925	City classification and health burden: Evidence from U5 malaria in the rapidly growing city of Akure, Nigeria.
 39844918	A systematic review of interventions targeting Anopheles stephensi.
@@ -9993,7 +9997,3 @@
 36384674	A community based study on haemoglobinopathies and G6PD deficiency among particularly vulnerable tribal groups in hard-to-reach malaria endemic areas of Odisha, India: implications on malaria control.
 36384655	Predictors of malaria vaccine uptake among children 6-24 months in the Kassena Nankana Municipality in the Upper East Region of Ghana.
 36384533	Malaria among under-five children in Ethiopia: a systematic review and meta-analysis.
-36384279	Evaluation of Pharmacokinetics, Biodistribution, and Antimalarial Efficacy of Artemether-Loaded Polymeric Nanorods.
-36383682	The RTS,S malaria vaccine: Current impact and foundation for the future.
-36383559	Cryo-EM reveals the conformational epitope of human monoclonal antibody PAM1.4 broadly reacting with polymorphic malarial protein VAR2CSA.
-36383524	Retraction: Awareness and perception of malaria and dengue at school and college level in the district of Multan.
