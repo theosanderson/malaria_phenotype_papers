@@ -1,3 +1,4 @@
+39841665	Community responses to a novel house design: A qualitative study of "Star Homes" in Mtwara, southeastern Tanzania.
 39841324	Haplotypes of Chloroquine Resistance Marker Genes Among Uncomplicated Malaria Cases in Lagos, Nigeria.
 39840894	Molecular detection of parasites and host preference in wild-caught Culicoides biting midges (Diptera: Ceratopogonidae) in Chiang Mai and Nakhon Si Thammarat Provinces, Thailand.
 39838642	[Plasma exchange combined with continuous renal replacement therapy for imported severe Plasmodium falciparum malaria: a case report].
@@ -66,6 +67,7 @@
 39818732	Whole-Cell Thermal Sensor for the Detection of P. falciparum-Infected Erythrocytes: Imprinted Polymers as Synthetic Receptors for the Detection of Malaria.
 39818222	Efficacy of 8-aminoquinolines for Plasmodium vivax malaria radical cure: only one part of the problem.
 39818221	Quantifying Plasmodium vivax radical cure efficacy: a modelling study integrating clinical trial data and transmission dynamics.
+37428853	Primaquine Therapy and G6PD and CYP2D6 Genotype.
 39817720	Target-agnostic identification of human antibodies to Plasmodium falciparum sexual forms reveals cross-stage recognition of glutamate-rich repeats.
 39817444	Population attributable fractions for risk factors for childhood anaemia: Findings from the 2017 Togo Malaria Indicator Survey.
 39817179	In vitro and in vivo antimalarial activities of the ethanol extract of Erythrina sigmoidea stem bark used for the treatment of malaria in the Western Region of Cameroon.
@@ -1936,7 +1938,6 @@
 39164542	Glucose-6-phosphate Dehydrogenase Variants: Analysing in Indian Plasmodium vivax Patients.
 39163893	Eurycomanone inhibits osteosarcoma growth and metastasis by suppressing GRP78 expression.
 39163788	Immunogenic and diagnostic potential of recombinant apical membrane antigen-1 from Plasmodium malariae.
-37428853	Primaquine Therapy and G6PD and CYP2D6 Genotype.
 39163245	Bacterial Genomics for National Antimicrobial Resistance Surveillance in Cambodia.
 39162960	Novel molecular inhibitor design for Plasmodium falciparum Lactate dehydrogenase enzyme using machine learning generated library of diverse compounds.
 39162546	Immune gene expression changes more during a malaria transmission season than between consecutive seasons.
@@ -9996,4 +9997,3 @@
 36379668	Genome-wide profiling of histone modifications in Plasmodium falciparum using CUT&RUN.
 36379305	Application of machine and deep learning algorithms in optical microscopic detection of Plasmodium: A malaria diagnostic tool for the future.
 36379256	RNA-seq analysis of differentially expressed LncRNAs from leishmaniasis patients compared to uninfected humans.
-36378465	Plasmodium vivax in Children: Hidden Burden and Conspicuous Challenges, a Narrative Review.
