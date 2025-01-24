@@ -1,3 +1,6 @@
+39847585	Modes and mechanisms for the inheritance of mitochondria and plastids in pathogenic protists.
+39847577	Malaria: Factors affecting disease severity, immune evasion mechanisms, and reversal of immune inhibition to enhance vaccine efficacy.
+39847574	Atypical memory B cells from natural malaria infection produced broadly neutralizing antibodies against Plasmodium vivax variants.
 39847171	Modeling the Impact of Seasonality on Mosquito Population Dynamics: Insights for Vector Control Strategies.
 39846779	Monitoring molecular markers associated with antimalarial drug resistance in south-east Senegal from 2021 to 2023.
 39846691	Fluorescence Analysis of Quinine in Commercial Tonic Waters.
@@ -9994,6 +9997,3 @@
 36384981	Guillain-Barré syndrome outbreak in Tapachula temporally associated with the Zika virus introduction in Southern Mexico.
 36384974	Malaria vector bionomics in Taita-Taveta County, coastal Kenya.
 36384964	Mechanochemical tuning of a kinesin motor essential for malaria parasite transmission.
-36384674	A community based study on haemoglobinopathies and G6PD deficiency among particularly vulnerable tribal groups in hard-to-reach malaria endemic areas of Odisha, India: implications on malaria control.
-36384655	Predictors of malaria vaccine uptake among children 6-24 months in the Kassena Nankana Municipality in the Upper East Region of Ghana.
-36384533	Malaria among under-five children in Ethiopia: a systematic review and meta-analysis.
