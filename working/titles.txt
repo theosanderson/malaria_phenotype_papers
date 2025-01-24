@@ -1,3 +1,9 @@
+39850332	Severe knowlesi malaria with acute neurocognitive impairment: A case report.
+39850152	A Rare Case of Locally Acquired Malaria in Lebanon: A Public Health Concern.
+39849946	Emoquine-1: A Hybrid Molecule Efficient against Multidrug-Resistant Plasmodium Parasites, Including the Artemisinin-Resistant Quiescent Stage, and Also Active In Vivo.
+39849754	Identification of tea resources with high accumulation of 1-O-galloyl-6-O-luteoyl-α-D-glucose and comprehensive dissection of its variation.
+39849545	Understanding malaria treatment patronage from informal healthcare providers in Nigerian urban settlements: insights from community members and providers.
+39849377	Metabolic resistance to pyrethroids with possible involvement of non-coding ribonucleic acids in Anopheles funestus, the major malaria vector in western Kenya.
 39849289	A novel genotype of Babesia microti-like group in Ixodes montoyanus ticks parasitizing the Andean bear (Tremarctos ornatus) in Ecuador.
 39849277	Under-five mortality and social determinants in africa: a systematic review.
 39849074	Constitutive expression of Cas9 and rapamycin-inducible Cre recombinase facilitates conditional genome editing in Plasmodium berghei.
@@ -9991,9 +9997,3 @@
 36389123	Free Radical Scavenging, Anti-Infectious, and Toxicity Activities from Stenochlaena palustris (Burm.f.) Bedd. Extracts.
 36388376	The economic burden of malaria inpatients and its determinants during China's elimination stage.
 36388287	Assessing seroprevalence and associated risk factors for multiple infectious diseases in Sabah, Malaysia using serological multiplex bead assays.
-36388260	In Vitro and In Vivo Toxicological Evaluation of Avicennia africana P: Beauv. (Avicenniaceae) Leaf Extract in a Rat Model.
-36387709	Correlation of Presence and Severity of Thrombocytopenia with Types and Severity of Malaria: A study from tertiary care center of North India.
-36386653	Erythrocyte tropism of malarial parasites: The reticulocyte appeal.
-36386564	Molecular docking and antimalarial evaluation of novel N-(4-aminobenzoyl)-l-glutamic acid conjugated 1,3,5-triazine derivatives as Pf-DHFR inhibitors.
-36386414	Polymorphisms in the K13-Propeller Gene in Artemisinin-Resistant Plasmodium in Mice.
-36386185	Potential of nanoformulations in malaria treatment.
