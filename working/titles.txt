@@ -1,3 +1,24 @@
+39854605	Targeted distribution of long-lasting insecticidal nets by community health workers to sustain household coverage: A pilot feasibility study in Western Uganda.
+39854542	Association between asymptomatic submicroscopic and microscopic malaria infections and anemia: A study in southern Benin.
+39854359	A systematic review on malaria and Tuberculosis (TB) vaccine challenges in sub-Saharan African clinical trials.
+39854104	Biosynthesis of Zinc Oxide Nanoparticles by Origanum majorana Aqueous Leaves Extracts, Characterization and Evaluated Against to Schistosoma haematobium.
+39853967	Potential Zoonotic Infections Transmitted by Free-Ranging Macaques in Human-Monkey Conflict Areas in Thailand.
+39853753	Ultrastructure expansion microscopy: Enlarging our perspective on apicomplexan cell division.
+39853752	Extended Treatment Duration of Artemether-Lumefantrine in Ugandan Children with HIV on Efavirenz-Based Antiretroviral Therapy: A Randomized Controlled Pharmacokinetic and Pharmacodynamic Trial.
+39853489	Analysis of Possible Coexistence of Microsporidia, Plasmodium falciparum and Wuchereria bancrofti in Anopheles gambiae s.l within Ahmadu Bello University, Zaria, Nigeria.
+39853276	Optimized genetic tools for neuroanatomical and functional mapping of the Aedes aegypti olfactory system.
+39853128	Vesicular mechanisms of drug resistance in apicomplexan parasites.
+39853122	Erratum for Kar et al., "Cimicifugin, a broad-spectrum inhibitor of Theileria annulata and Plasmodium falciparum CDK7".
+39852813	A Nanoparticle Comprising the Receptor-Binding Domains of Norovirus and Plasmodium as a Combination Vaccine Candidate.
+39852674	Laboratory Comparison of Rapid Antigen Diagnostic Tests for Lymphatic Filariasis: STANDARD Q Filariasis Antigen Test (QFAT) Versus Bioline Filariasis Test Strip (FTS).
+39852670	Integrated Serosurveillance of Infectious Diseases Using Multiplex Bead Assays: A Systematic Review.
+39852664	Assessing the Feasibility of Using a Multiplex Serological Assay to Conduct Serosurveillance for Malaria Exposure in Deployed Military Personnel.
+39852663	Brazilian Gold Miners Working Irregularly in French Guiana: Health Status and Risk Determinants.
+39852662	Asymptomatic Malaria Infection and Hidden Parasitic Burden in Gabonese Schoolchildren: Unveiling Silent Co-Infections in Rural and Urban Settings.
+39852661	Assessing the Acceptability and Feasibility of Five Cycles of Seasonal Malaria Chemoprevention in Côte d'Ivoire.
+39852655	Safety and Efficacy of Incorporating Actellic(®) 300 CS into Soil Wall Plaster for Control of Malaria Vectors in Rural Northeastern Uganda.
+39852654	Mapping Drug-Resistant Tuberculosis Treatment Outcomes in Hunan Province, China.
+39851095	The prevalence and immune response to coinfection by avian haemosporidians in wild Eurasian blackbirds Turdus merula.
 39850332	Severe knowlesi malaria with acute neurocognitive impairment: A case report.
 39850152	A Rare Case of Locally Acquired Malaria in Lebanon: A Public Health Concern.
 39849946	Emoquine-1: A Hybrid Molecule Efficient against Multidrug-Resistant Plasmodium Parasites, Including the Artemisinin-Resistant Quiescent Stage, and Also Active In Vivo.
@@ -226,7 +247,7 @@
 39777415	Widespread release of translational repression across Plasmodium's host-to-vector transmission event.
 39777245	Liver parasites: A global endemic and journey from infestation to intervention.
 39776594	Drug-phospholipid conjugate nano-assembly for drug delivery.
-39776205	Design, synthesis and in vitro evaluation of primaquine and diaminoquinazoline hybrid molecules against the malaria parasite.
+39776205	Design, Synthesis and in vitro Evaluation of Primaquine and Diaminoquinazoline Hybrid Molecules Against the Malaria Parasite.
 39775577	Usability and psychometric properties of a battery of tools to assess intelligence, executive functioning, and sustained attention in Tanzanian children.
 39775549	Prevalence and factors associated with female genital mutilation/cutting among Tanzanian women who gave birth in the five years prior to the survey: A population-based study.
 39775228	Plasmodium falciparum surf4.1 in clinical isolates: From genetic variation and variant diversity to in silico design immunopeptides for vaccine development.
@@ -9976,24 +9997,3 @@
 36397913	Plasmodium falciparum, Vivax and Scrub Typhus in a Young Adult Male: Surviving a Triple Strike.
 36397152	Human and vector behaviors determine exposure to Anopheles in Namibia.
 36397133	Ring stage classification of Babesia microti and Plasmodium falciparum using optical diffraction 3D tomographic technique.
-36397132	Entomological impact of mass administration of ivermectin and dihydroartemisinin-piperaquine in The Gambia: a cluster-randomized controlled trial.
-36397106	HMOX1 STR polymorphism and malaria: an analysis of a large clinical dataset.
-36397090	Impact of parasite genomic dynamics on the sensitivity of Plasmodium falciparum isolates to piperaquine and other antimalarial drugs.
-36397077	Is zoonotic Plasmodium vivax malaria an obstacle for disease elimination?
-36397072	Significance of nested PCR testing for the detection of low-density malaria infection amongst febrile patients from the Malaria Elimination Demonstration Project in Mandla, Madhya Pradesh, India.
-36397027	Care-seeking behaviour among febrile children under five in Togo.
-36396947	Evaluation of cutaneous immune response in a controlled human in vivo model of mosquito bites.
-36396942	PCRCR complex is essential for invasion of human erythrocytes by Plasmodium falciparum.
-36396745	Uptake of Plasmodium chabaudi hemozoin drives Kupffer cell death and fuels superinfections.
-36396703	The first complete genome of the simian malaria parasite Plasmodium brasilianum.
-36396316	A systematic review of strategies adopted to scale up COVID-19 testing in low-, middle- and high-income countries.
-36395614	Optical diffraction tomography and image reconstruction to measure host cell alterations caused by divergent Plasmodium species.
-36395572	Host-directed therapies for malaria: possible applications and lessons from other indications.
-36395532	CD4(+)IL9(+) (Th9) cells as the major source of IL-9, potentially modulate Th17/Treg mediated host immune response during experimental cerebral malaria.
-36395123	Dissecting the mechanisms of pathogenesis in cerebral malaria.
-36394900	Antibody tests for identification of current and past infection with SARS-CoV-2.
-36389797	Increased levels of anti-PfCSP antibodies in post-pubertal females versus males immunized with PfSPZ Vaccine does not translate into increased protective efficacy.
-36389677	A novel asexual blood-stage malaria vaccine candidate: PfRipr5 formulated with human-use adjuvants induces potent growth inhibitory antibodies.
-36389123	Free Radical Scavenging, Anti-Infectious, and Toxicity Activities from Stenochlaena palustris (Burm.f.) Bedd. Extracts.
-36388376	The economic burden of malaria inpatients and its determinants during China's elimination stage.
-36388287	Assessing seroprevalence and associated risk factors for multiple infectious diseases in Sabah, Malaysia using serological multiplex bead assays.
