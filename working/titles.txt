@@ -1,3 +1,4 @@
+39863983	Review of Childhood Mortality Pattern at the Paediatric Unit of a Teaching Hospital in Nigeria.
 39863898	Guillain-Barré syndrome following falciparum malaria infection: a case report.
 39863884	Evaluating programmatic reactive focal drug administration impact on malaria incidence in northern Senegal: an interrupted time series analysis.
 39863850	Hospital attendance, malaria prevalence and self-medication with an antimalarial drug before and after the start of COVID-19 pandemic in a sentinel site for malaria surveillance in Gabon.
@@ -9996,4 +9997,3 @@
 36408546	Malaria therapy for general paralysis of the insane at the Sunbury Hospital for the Insane in Australia, 1925-6.
 36408284	Noninvasive Approach of Plasmodium falciparum Molecular Detection for Malaria Surveillance in Malaria Endemic Areas in Cameroon.
 36407982	Establishing childhood disability clinics may help reduce the prevalence of disability among children in Africa: A viewpoint.
-36407847	A mathematical model for the dynamics and control of malaria in Nigeria.
