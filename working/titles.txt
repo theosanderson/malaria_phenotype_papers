@@ -1,3 +1,11 @@
+39867997	Microbial biopesticides: A one health perspective on benefits and risks.
+39867710	Prevalence of Diarrhea Disease and Associated Factors Among Children Under 5 Years in Geshiyaro Project Implementation Sites in Ethiopia: A Cross-Sectional Study.
+39867582	Parasitic infection prevalence in tuberculosis patients and their household contacts in the Littoral Region of Cameroon.
+39867284	Recent updates in the WHO guidelines for malaria case management.
+39867012	Malaria and Dengue Co-infection: A Comprehensive Study in Peshawar, Pakistan.
+39866361	Hyperspectral analysis to assess gametocytogenesis stage progression in malaria-infected human erythrocytes.
+39865892	Unraveling the Host Range of Plasmodium huffi: Morphological, Histopathological, and Molecular Characterization in Red-legged Seriemas from Brazil.
+39865705	A brief review on chemoprofling and pharmacological potential of Desmodium gangeticum (L.) DC.
 39865504	Plasmodium falciparum CyRPA glycan binding does not explain adaptation to humans.
 39865059	Prevalence and Risk Factors of Malaria in Iwaka District, Mimika, Papua.
 39865046	The Efforts to Implement a Malaria Elimination Strategy in The Highly Endemic Malaria Region of Papua Province, Indonesia.
@@ -9989,11 +9997,3 @@
 36410576	The genus Landolphia P.Beauv. (Apocynaceae): A comprehensive review on its ethnobotanical utilizations, pharmacology and nutritional potential.
 36410383	Considerations for the Use of Long-Acting and Extended-Release Agents During Pregnancy and Lactation.
 36410379	Transitioning Long-Acting Products to a Generic Marketplace: What's Missing?
-36410330	Response to "The Importance of Exercising Caution When Comparing Results from Malaria Vaccines Administered on the EPI Schedule and on a Seasonal Schedule".
-36410329	The Importance of Exercising Caution When Comparing Results from Malaria Vaccines Administered on the EPI Schedule and on a Seasonal Schedule.
-36410328	What Historical Records Teach Us about the Discovery of Quinine.
-36410321	Longitudinal and Cross-sectional Analyses of Asymptomatic HIV-1/Malaria Co-infection in Kisumu County, Kenya.
-36410320	Community Participation in Habitat Management and Larviciding for the Control of Malaria Vectors in Southern Malawi.
-36410177	Current and emerging target identification methods for novel antimalarials.
-36409694	Correction: India can consider integration of three eliminable disease control programmes on malaria, lymphatic filariasis, and visceral leishmaniasis.
-36409128	Spirofused Tetrahydroisoquinoline-Oxindole Hybrids (Spiroquindolones) as Potential Multitarget Antimalarial Agents: Preliminary Hit Optimization and Efficacy Evaluation in Mice.
