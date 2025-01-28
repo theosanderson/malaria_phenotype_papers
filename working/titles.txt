@@ -1,3 +1,4 @@
+39873835	Association Between Plasmodium Infection and Blood Count Values: Implications for Malaria Diagnosis in Resource-Limited Settings.
 39872445	Making malaria control a priority: a lesson for today's malaria community.
 39872183	New variant/ subspecies of plasmodium in Northeastern India.
 39872163	Subclinical Plasmodium spp. Infections in a Community Setting in Bangui, Central African Republic.
@@ -9996,4 +9997,3 @@
 36415138	Dynamics of a multi-strain malaria model with diffusion in a periodic environment.
 36414935	Adherence of healthcare providers to malaria case management guidelines of the formal private sector in north-western Ethiopia: an implication for malaria control and elimination.
 36414797	Structural Profiles of SARS-CoV-2 Variants in India.
-36413975	Inhibition and Mechanism of Plasmodium falciparum Hypoxanthine-Guanine-Xanthine Phosphoribosyltransferase.
