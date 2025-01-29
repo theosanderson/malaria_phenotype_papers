@@ -1,3 +1,7 @@
+39877527	Quality of hypertension management and health insurance impact: an assessment of insured and uninsured patients with systemic hypertension in a teaching Hospital in Ilorin, Nigeria.
+39877091	Diversity, abundance of anopheline species, and malaria transmission dynamics in high-altitude areas of western Cameroon.
+39876511	Annona muricata leaf water extract in combination with artemisinin-based combination therapy for increasing CCL19 levels in the treatment of severe Plasmodium berghei ANKA infection using swiss mice.
+39876501	Larvicidal activity of methanolic and aqueous extracts of Lavandula dentata and Nerium oleander flowers against the vector of avian malaria Culiseta longiareolata.
 39875955	Experiences, perceptions and ethical considerations of the malaria infection study in Thailand.
 39875932	Enhancing surveillance for dengue fever in Oyo State, Nigeria - a one health approach.
 39875853	Community benefits of mass distribution of three types of dual-active-ingredient long-lasting insecticidal nets against malaria prevalence in Tanzania: evidence from a 3-year cluster-randomized controlled trial.
@@ -9993,7 +9997,3 @@
 36419052	Evaluation of malaria surveillance system in Benue State, Nigeria.
 36418231	Quinoline-based heterocyclic hydrazones: Design, synthesis, anti-plasmodial assessment, and mechanistic insights.
 36417454	Longitudinal IgG antibody responses to Plasmodium vivax blood-stage antigens during and after acute vivax malaria in individuals living in the Brazilian Amazon.
-36417035	Correction: Aetiology and Potential Animal Exposure in Central Nervous System Infections in Vietnam.
-36416043	Haemosporidian parasites and incubation period influence plumage coloration in tanagers (Passeriformes: Thraupidae).
-36416015	Association of Endothelial Protein C Receptor (EPCR) rs867186 Gene Polymorphism With Increased Levels of Soluble EPCR and High Risk of Severe Malaria and Fatality in Beninese Children.
-36415887	Deciphering antiviral efficacy of malaria box compounds against malaria exacerbating viral pathogens- Epstein Barr virus and SARS-CoV-2, an in silico study.
