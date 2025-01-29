@@ -1,3 +1,6 @@
+39878467	Virus-like particle-based vaccines targeting the Anopheles mosquito salivary protein TRIO.
+39878323	Evaluation of cervical cancer screening strategies in women living with HIV in Thailand.
+39878187	[Investigation of Molecular Differences in Plasmodium spp. Isolates Obtained from Malaria Patients].
 39877527	Quality of hypertension management and health insurance impact: an assessment of insured and uninsured patients with systemic hypertension in a teaching Hospital in Ilorin, Nigeria.
 39877091	Diversity, abundance of anopheline species, and malaria transmission dynamics in high-altitude areas of western Cameroon.
 39876511	Annona muricata leaf water extract in combination with artemisinin-based combination therapy for increasing CCL19 levels in the treatment of severe Plasmodium berghei ANKA infection using swiss mice.
@@ -9994,6 +9997,3 @@
 36421302	Bioactive Peptides against Human Apicomplexan Parasites.
 36421275	Metabolomic Profiling, In Vitro Antimalarial Investigation and In Silico Modeling of the Marine Actinobacterium Strain Rhodococcus sp. UR111 Associated with the Soft Coral Nephthea sp.
 36419237	Pathogenicity and virulence of malaria: Sticky problems and tricky solutions.
-36419052	Evaluation of malaria surveillance system in Benue State, Nigeria.
-36418231	Quinoline-based heterocyclic hydrazones: Design, synthesis, anti-plasmodial assessment, and mechanistic insights.
-36417454	Longitudinal IgG antibody responses to Plasmodium vivax blood-stage antigens during and after acute vivax malaria in individuals living in the Brazilian Amazon.
