@@ -1,3 +1,6 @@
+39883524	Systematic bias in malaria parasite relatedness estimation.
+39883380	The modification of conventional liposomes for targeted antimicrobial delivery to treat infectious diseases.
+39882690	Impact of antimicrobial resistance on infections in children in Africa.
 39882291	Knowledge, attitude and practices of ayurvedic medicine practitioners in Kerala towards millets and millet-based diet: a prospective cross-sectional online survey study.
 39882281	Malnutrition and associated risk factors in orphanages in Punjab, Pakistan: an analytical study.
 39882111	Genomics costing tool: considerations for improving cost-efficiencies through cross scenario comparison.
@@ -43,7 +46,7 @@
 39867284	Recent updates in the WHO guidelines for malaria case management.
 39867012	Malaria and Dengue Co-infection: A Comprehensive Study in Peshawar, Pakistan.
 39866361	Hyperspectral analysis to assess gametocytogenesis stage progression in malaria-infected human erythrocytes.
-39865892	Unraveling the Host Range of Plasmodium huffi: Morphological, Histopathological, and Molecular Characterization in Red-legged Seriemas from Brazil.
+39865892	Unraveling the host range of Plasmodium huffi: morphological, histopathological and molecular characterization in red-legged seriemas from Brazil.
 39865705	A brief review on chemoprofling and pharmacological potential of Desmodium gangeticum (L.) DC.
 39865504	Plasmodium falciparum CyRPA glycan binding does not explain adaptation to humans.
 39865059	Prevalence and Risk Factors of Malaria in Iwaka District, Mimika, Papua.
@@ -9994,6 +9997,3 @@
 38455281	Factors related to human-vector contact that modify the likelihood of malaria transmission during a contained Plasmodium falciparum outbreak in Praia, Cabo Verde.
 36424604	Coating formulation change leads to inferior performance of long-lasting insecticidal nets in Papua New Guinea.
 36424398	Rapid diagnosis of malaria by chemometric peak-free LIBS of trace biometals in blood.
-36423944	Case of myocarditis secondary to severe Plasmodium falciparum infection.
-36423890	Oxidative status in relation to blood parasite infections in house sparrows living along an urbanization gradient.
-36423593	CLIPA7 Exhibits Pleiotropic Roles in the Anopheles gambiae Immune Response.
