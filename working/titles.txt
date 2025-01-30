@@ -1,3 +1,7 @@
+39882291	Knowledge, attitude and practices of ayurvedic medicine practitioners in Kerala towards millets and millet-based diet: a prospective cross-sectional online survey study.
+39882281	Malnutrition and associated risk factors in orphanages in Punjab, Pakistan: an analytical study.
+39882111	Genomics costing tool: considerations for improving cost-efficiencies through cross scenario comparison.
+39882094	Melioidosis - An under-recognized dreaded disease in Southeast Asia.
 39881388	Exploiting venom toxins in paratransgenesis to prevent mosquito-borne disease.
 39881001	Signature cytokine-associated transcriptome analysis of effector γδ T cells identifies subset-specific regulators of peripheral activation.
 39880906	Pivotal roles of Plasmodium falciparum lysophospholipid acyltransferase 1 in cell cycle progression and cytostome internalization.
@@ -9993,7 +9997,3 @@
 36423944	Case of myocarditis secondary to severe Plasmodium falciparum infection.
 36423890	Oxidative status in relation to blood parasite infections in house sparrows living along an urbanization gradient.
 36423593	CLIPA7 Exhibits Pleiotropic Roles in the Anopheles gambiae Immune Response.
-36422964	Studying the Rationale of Fire Ant Sting Therapy Usage by the Tribal Natives of Bastar Revealed Ant Venom-Derived Peptides with Promising Anti-Malarial Activity.
-36422942	Malaria Vector Surveillance and Control in an Elimination Setting in South Africa.
-36422923	Field Evaluation of Novel Spatial Repellent Controlled Release Devices (CRDs) against Mosquitoes in an Outdoor Setting in the Northern Peruvian Amazon.
-36422591	Design, Synthesis, and Antiprotozoal Evaluation of New Promising 2,9-Bis[(substituted-aminomethyl)]-4,7-phenyl-1,10-phenanthroline Derivatives, a Potential Alternative Scaffold to Drug Efflux.
