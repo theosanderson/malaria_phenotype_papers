@@ -1,3 +1,5 @@
+39879169	Antibody response to Plasmodium vivax in the context of Epstein-Barr virus (EBV) co-infection: A 14-year follow-up study in the Amazon rainforest.
+39879160	Low levels of Plasmodium falciparum parasitaemia among patients receiving antiretroviral therapy at the treatment centre of the Regional Hospital Bamenda, Northwest Cameroon.
 39878467	Virus-like particle-based vaccines targeting the Anopheles mosquito salivary protein TRIO.
 39878323	Evaluation of cervical cancer screening strategies in women living with HIV in Thailand.
 39878187	[Investigation of Molecular Differences in Plasmodium spp. Isolates Obtained from Malaria Patients].
@@ -9995,5 +9997,3 @@
 36421726	Biodefensive Based on Piper nigrum Essential Oil for Controlling of Anopheles aquasalis Larvae: Influence of Temperature (35 °C) and Preservatives.
 36421683	Red Blood Cells Oligosaccharides as Targets for Plasmodium Invasion.
 36421302	Bioactive Peptides against Human Apicomplexan Parasites.
-36421275	Metabolomic Profiling, In Vitro Antimalarial Investigation and In Silico Modeling of the Marine Actinobacterium Strain Rhodococcus sp. UR111 Associated with the Soft Coral Nephthea sp.
-36419237	Pathogenicity and virulence of malaria: Sticky problems and tricky solutions.
