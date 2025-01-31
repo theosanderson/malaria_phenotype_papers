@@ -1,3 +1,6 @@
+39888481	Molecular detection of Wolbachia sp. and Cytoplasmic incompatibility factors (CifA/B) in wild caught mosquitoes in Côte d'Ivoire.
+39887910	In vitro antiplasmodial activity and chemical composition of Combretum aculeatum, a medicinal plant from Niger.
+39887616	Diel modulation of perireceptor activity influences olfactory sensitivity in diurnal and nocturnal mosquitoes.
 39886389	Hantavirus antibody seroprevalence and risk factors among adults in West Kazakhstan, 2023.
 39886087	IgM against Merozoite Surface Protein 1-Block 2 Haplotypes as New Tools for Plasmodium vivax Infections.
 39885963	Exploring the composition of placental microbiome and its potential origin in preterm birth.
@@ -9994,6 +9997,3 @@
 36435688	Measurably recombining malaria parasites.
 36434632	Social network correlates of free and purchased insecticide-treated bed nets in rural Uganda.
 36434625	Life table analysis of Anopheles balabacensis, the primary vector of Plasmodium knowlesi in Sabah, Malaysia.
-36434611	The imported infections among foreign travelers in China: an observational study.
-36433985	MaHPIC malaria systems biology data from Plasmodium cynomolgi sporozoite longitudinal infections in macaques.
-36432706	Selection of an Aptamer against the Enzyme 1-deoxy-D-xylulose-5-phosphate Reductoisomerase from Plasmodium falciparum.
