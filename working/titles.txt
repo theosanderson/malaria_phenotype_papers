@@ -1,3 +1,8 @@
+39886389	Hantavirus antibody seroprevalence and risk factors among adults in West Kazakhstan, 2023.
+39886087	IgM against Merozoite Surface Protein 1-Block 2 Haplotypes as New Tools for Plasmodium vivax Infections.
+39885963	Exploring the composition of placental microbiome and its potential origin in preterm birth.
+39885837	Hepcidin: A missing link at the interface of malaria and hypertension.
+39885646	Impact of temperatures on Malaria Incidence in vulnerable regions of Pakistan: Empirical Evidence and Future Projections.
 39885590	Development and experimental validation of a machine learning model for the prediction of new antimalarials.
 39885540	 Increasing the resolution of malaria early warning systems for use by local health actors.
 39885514	Quantifying the potential value of entomological data collection for programmatic decision-making on malaria control in sub-Saharan African settings.
@@ -9992,8 +9997,3 @@
 36434611	The imported infections among foreign travelers in China: an observational study.
 36433985	MaHPIC malaria systems biology data from Plasmodium cynomolgi sporozoite longitudinal infections in macaques.
 36432706	Selection of an Aptamer against the Enzyme 1-deoxy-D-xylulose-5-phosphate Reductoisomerase from Plasmodium falciparum.
-36432016	Bridging the Gap in Malaria Parasite Resistance, Current Interventions, and the Way Forward from in Silico Perspective: A Review.
-36431900	Insights into Antimalarial Activity of N-Phenyl-Substituted Cinnamanilides.
-36430912	Inflammation and Infection in Pain and the Role of GPR37.
-36430803	Berbamine Reduces Chloroquine-Induced Itch in Mice through Inhibition of MrgprX1.
-36430384	Conservation of Importin α Function in Apicomplexans: Ivermectin and GW5074 Target Plasmodium falciparum Importin α and Inhibit Parasite Growth in Culture.
