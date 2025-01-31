@@ -1,3 +1,5 @@
+39883707	The impact of intermittent preventive treatment in school aged children with dihydroartemisinin piperaquine and artesunate amodiaquine on IgG response against six blood stage Plasmodium falciparum antigens.
+39883656	Correction: Attributable risk factors for asymptomatic malaria and anaemia and their association with cognitive and psychomotor functions in schoolchildren of north-eastern Tanzania.
 39883524	Systematic bias in malaria parasite relatedness estimation.
 39883380	The modification of conventional liposomes for targeted antimicrobial delivery to treat infectious diseases.
 39882690	Impact of antimicrobial resistance on infections in children in Africa.
@@ -9995,5 +9997,3 @@
 36425785	Spatial, environmental, and individual associations with Anopheles albimanus salivary antigen IgG in Haitian children.
 38455317	RTS,S vaccination is associated with reduced parasitemia and anemia among children diagnosed with malaria in the outpatient department of a district hospital in rural Malawi.
 38455281	Factors related to human-vector contact that modify the likelihood of malaria transmission during a contained Plasmodium falciparum outbreak in Praia, Cabo Verde.
-36424604	Coating formulation change leads to inferior performance of long-lasting insecticidal nets in Papua New Guinea.
-36424398	Rapid diagnosis of malaria by chemometric peak-free LIBS of trace biometals in blood.
