@@ -1,3 +1,4 @@
+39889312	Combining the zebrafish embryo developmental toxicity assay (ZEDTA) with hemoglobin staining to accelerate the research of novel antimalarial drugs for pregnant women.
 39888481	Molecular detection of Wolbachia sp. and Cytoplasmic incompatibility factors (CifA/B) in wild caught mosquitoes in Côte d'Ivoire.
 39887910	In vitro antiplasmodial activity and chemical composition of Combretum aculeatum, a medicinal plant from Niger.
 39887616	Diel modulation of perireceptor activity influences olfactory sensitivity in diurnal and nocturnal mosquitoes.
@@ -9996,4 +9997,3 @@
 36435768	Associations of the COVID-19 pandemic with the reported incidence of important endemic infectious disease agents and syndromes in Pakistan.
 36435688	Measurably recombining malaria parasites.
 36434632	Social network correlates of free and purchased insecticide-treated bed nets in rural Uganda.
-36434625	Life table analysis of Anopheles balabacensis, the primary vector of Plasmodium knowlesi in Sabah, Malaysia.
