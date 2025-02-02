@@ -1,3 +1,9 @@
+39893463	Voices from the Amazon: exploring implementor and user perceptions of non-invasive malaria diagnostics in Peru.
+39893422	Gender characteristics, social determinants, and seasonal patterns of malaria incidence, relapse, and mortality in Sistan and Baluchistan province and other province of Iran: A systematic review and meta-analysis.
+39893367	Controlled human malaria infection: overview and potential application in the evaluation of transmission-blocking interventions in malaria-endemic areas.
+39892439	Travellers' adherence to atovaquone/proguanil malaria chemoprophylaxis after return from endemic areas.
+39892549	High-throughput virtual screening and empirical validation of probable inhibitors of Plasmodium falciparum and vivax glutathione transferase using bromosulfophthalein as the benchmark ligand.
+39892414	Reinvigorating malaria control in Africa.
 39891460	Consequences of Infectious Disease Outbreaks in Ardabil (1925-1941): A Historical Analysis.
 39891010	Genome-wide gene expression profiles throughout human malaria parasite liver stage development in humanized mice.
 39890223	Prevalence, aetiology, and hospital outcomes of paediatric acute critical illness in resource-constrained settings (Global PARITY): a multicentre, international, point prevalence and prospective cohort study.
@@ -9991,9 +9997,3 @@
 36439726	Spatial association of Aedes aegypti with dengue fever hotspots in an endemic region.
 36439402	Host movement, transmission hot spots, and vector-borne disease dynamics on spatial networks.
 36439238	Biochemical characteristics of patients with imported malaria.
-36438171	Prevention of Malaria in Pregnancy: What Do the Pregnant Women of Nigeria Know and Do about It?
-36437462	Molecular markers of dihydroartemisinin-piperaquine resistance in northwestern Thailand.
-36437454	Therapeutic efficacy of dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium vivax malaria in Seacha area, Arbaminch Zuria District, South West Ethiopia.
-36437444	Insecticide resistance intensity and efficacy of synergists with pyrethroids in Anopheles gambiae (Diptera: Culicidae) from Southern Togo.
-36436766	Depressive symptoms among mothers with hospitalized children in South Asia and sub-Saharan Africa.
-36436281	Safety and immunogenicity of AGS-v PLUS, a mosquito saliva peptide vaccine against arboviral diseases: A randomized, double-blind, placebo-controlled Phase 1 trial.
