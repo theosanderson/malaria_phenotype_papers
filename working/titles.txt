@@ -1,8 +1,9 @@
+39893526	Tropical Infections and Acute Kidney Injury.
 39893463	Voices from the Amazon: exploring implementor and user perceptions of non-invasive malaria diagnostics in Peru.
 39893422	Gender characteristics, social determinants, and seasonal patterns of malaria incidence, relapse, and mortality in Sistan and Baluchistan province and other province of Iran: A systematic review and meta-analysis.
 39893367	Controlled human malaria infection: overview and potential application in the evaluation of transmission-blocking interventions in malaria-endemic areas.
-39892439	Travellers' adherence to atovaquone/proguanil malaria chemoprophylaxis after return from endemic areas.
 39892549	High-throughput virtual screening and empirical validation of probable inhibitors of Plasmodium falciparum and vivax glutathione transferase using bromosulfophthalein as the benchmark ligand.
+39892439	Travellers' adherence to atovaquone/proguanil malaria chemoprophylaxis after return from endemic areas.
 39892414	Reinvigorating malaria control in Africa.
 39891460	Consequences of Infectious Disease Outbreaks in Ardabil (1925-1941): A Historical Analysis.
 39891010	Genome-wide gene expression profiles throughout human malaria parasite liver stage development in humanized mice.
@@ -9996,4 +9997,3 @@
 36439862	Rickettsia parkeri infection modulates the sialome and ovariome of the Gulf coast tick, Amblyomma maculatum.
 36439726	Spatial association of Aedes aegypti with dengue fever hotspots in an endemic region.
 36439402	Host movement, transmission hot spots, and vector-borne disease dynamics on spatial networks.
-36439238	Biochemical characteristics of patients with imported malaria.
