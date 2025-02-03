@@ -96,7 +96,7 @@
 39863362	The R21/Matrix-M malaria vaccine: questions remain.
 39863359	Malaria and undernutrition in Angola.
 39863077	First evidence of human infection by the kinetoplastid flagellate Dimastigella trypaniformis in a patient with urinary tract infection.
-39863063	Clarification of factors associated with post-artesunate delayed hemolysis (PADH): analysis of 327 patients with severe imported Plasmodium falciparum malaria in France.
+39863063	Clarification of factors associated with post-artesunate delayed hemolysis (PADH): Analysis of 327 patients with severe imported Plasmodium falciparum malaria in France.
 39861091	Uncovering the Mechanism of Action of Antiprotozoal Agents: A Survey on Photoaffinity Labeling Strategy.
 39861032	Targeting T-Cell Activation for Malaria Immunotherapy: Scoping Review.
 39861031	Antibody Responses and the Vaccine Efficacy of Recombinant Glycosyltransferase and Nicastrin Against Schistosoma japonicum.
