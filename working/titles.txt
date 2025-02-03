@@ -1,3 +1,11 @@
+39899183	Safety of Hydroxychloroquine: What a Dermatologist Should Know.
+39898752	The Immunomodulatory Role of Estrogen in Malaria: A Review of Sex Differences and Therapeutic Implications.
+39898647	Term stillbirths in Eastern Uganda: a community-based prospective cohort study.
+39897828	Identification of climate-sensitive disease incidences in vietnam: A longitudinal retrospective analysis of infectious disease rates between 2014 and 2022.
+39897407	Biochemical characterization and discovery of inhibitors for PfSir2A: new tricks for an old enzyme.
+39896628	Anopheles stephensi larval habitat superproductivity and its relevance for larval source management in Africa.
+39896318	Exploration of innovative drug repurposing strategies for combating human protozoan diseases: Advances, challenges, and opportunities.
+39895759	Zinc from an Essential Element to an Antiparasitic Therapeutic Agent.
 39894870	Utilisation of an in vivo malaria model to provide functional proof for RhopH1/CLAG essentiality and conserved orthology with P. falciparum.
 39893911	Evaluation of gestational nonpersistent pesticide exposure with newborn size and gestational length in rural Ghana using a novel time-varying extension of multiple informant models.
 39893526	Tropical Infections and Acute Kidney Injury.
@@ -9989,11 +9997,3 @@
 36443882	Comparison of intermittent screening (using ultra-sensitive malaria rapid diagnostic test) and treatment (using a newly registered antimalarial pyronaridine-artesunate-PYRAMAX®) to standard intermittent preventive treatment with sulfadoxine-pyrimethamine for the prevention of malaria in pregnant women living in endemic areas: ULTRAPYRAPREG.
 36443857	Primary health care situations in remote rural villages of the Savannakhet province, Lao People's Democratic Republic.
 36443817	Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia.
-36443751	Human behaviour directs household-level exposure to malaria vectors in Bandarban, Bangladesh.
-36443434	Population genomics reveal distinct and diverging populations of An. minimus in Cambodia.
-36442488	Pregnancy outcomes after first-trimester treatment with artemisinin derivatives versus non-artemisinin antimalarials: a systematic review and individual patient data meta-analysis.
-36442486	First-trimester use of ACTs for malaria treatment in pregnancy.
-36441829	High-density binding to Plasmodium falciparum circumsporozoite protein repeats by inhibitory antibody elicited in mouse with human immunoglobulin repertoire.
-36440452	Natural products are the treasure pool for antimalarial agents.
-36440448	Circadian rhythmicity in murine blood: Electrical effects of malaria infection and anemia.
-36439862	Rickettsia parkeri infection modulates the sialome and ovariome of the Gulf coast tick, Amblyomma maculatum.
