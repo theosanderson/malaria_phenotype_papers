@@ -1,3 +1,4 @@
+39899599	Quinoxaline-based anti-schistosomal compounds have potent anti-plasmodial activity.
 39899183	Safety of Hydroxychloroquine: What a Dermatologist Should Know.
 39898752	The Immunomodulatory Role of Estrogen in Malaria: A Review of Sex Differences and Therapeutic Implications.
 39898647	Term stillbirths in Eastern Uganda: a community-based prospective cohort study.
@@ -9996,4 +9997,3 @@
 36444406	Allele Specific Polymerase Chain Reaction (AS-PCR) Assay to Detect Knockdown and Acetylcholinesterase Mutations in Anopheles superpictus.
 36443882	Comparison of intermittent screening (using ultra-sensitive malaria rapid diagnostic test) and treatment (using a newly registered antimalarial pyronaridine-artesunate-PYRAMAX®) to standard intermittent preventive treatment with sulfadoxine-pyrimethamine for the prevention of malaria in pregnant women living in endemic areas: ULTRAPYRAPREG.
 36443857	Primary health care situations in remote rural villages of the Savannakhet province, Lao People's Democratic Republic.
-36443817	Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia.
