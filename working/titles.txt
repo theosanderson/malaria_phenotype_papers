@@ -1,3 +1,5 @@
+39902618	Two decades of women's sexual and reproductive health and rights in Nigeria: Successes, challenges, and opportunities.
+39902547	Cell Population Data Parameters in Dengue-Is There Any Significance? A Single-Center Study.
 39901099	Malaria exposure remodels the plasma proteome of Ghanaian children.
 39901063	Comparative transcriptomics reveal stage-dependent parasitic adaptations in the myxozoan Sphaerospora molnari.
 39900425	Acceptability of the R21/Matrix-M malaria vaccine alongside existing malaria interventions in the trial context.
@@ -9995,5 +9997,3 @@
 36446533	Physiological and Behavioral Characterization of Larval Olfaction in the Malaria Vector Mosquito Anopheles coluzzii.
 36446531	GCaMP Imaging in Mosquitoes: Central Nervous System.
 36446165	A draft of the genome of the Gulf Coast tick, Amblyomma maculatum.
-36445694	Phage Therapy for Mosquito Larval Control: a Proof-of-Principle Study.
-36445080	The PTEX Pore Component EXP2 Is Important for Intrahepatic Development during the Plasmodium Liver Stage.
