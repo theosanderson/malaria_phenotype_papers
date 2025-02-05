@@ -1,3 +1,9 @@
+39903932	Is Parasitic Contamination of Soil in the Southern United States Related to Poverty and Does It Represent a Human Health Threat? A Perspective.
+39903927	Effect of Antenatal Monthly Sulfadoxine-Pyrimethamine, Alone or with Azithromycin, on Gestational Weight Gain and Anemia during Pregnancy and One Month Postpartum in Malawi: A Randomized Controlled Trial Secondary Analysis.
+39903780	A paradoxical population structure of var DBLα types in Africa.
+39903532	ROCK1 promotes B-cell differentiation and proteostasis under stress through the heme-regulated proteins, BACH2 and HRI.
+39903060	PfCSP-ferritin nanoparticle malaria vaccine antigen formulated with aluminum-salt and CpG 1018® adjuvants: Preformulation characterization, antigen-adjuvant interactions, and mouse immunogenicity studies.
+39902927	Artemisinin pressure in field isolates can select highly resistant Plasmodium falciparum parasites with unconventional phenotype and no K13 mutation.
 39902618	Two decades of women's sexual and reproductive health and rights in Nigeria: Successes, challenges, and opportunities.
 39902547	Cell Population Data Parameters in Dengue-Is There Any Significance? A Single-Center Study.
 39901099	Malaria exposure remodels the plasma proteome of Ghanaian children.
@@ -806,7 +812,6 @@
 39629706	Myeloid-derived suppressor cells inhibit responses of T follicular helper cells during experimental Plasmodium yoelii infection.
 39629680	Antiplasmodial Potentials, Phytocompounds, and the Possible Toxic Effects of Administration of Ethylacetate Extract of Spondias mombin Linn.
 39629437	A clinicoepidemiological study of serologically diagnosed acute febrile illness in a teaching hospital, Kolkata.
-39629320	Retraction: "Prevalence and associated factors of a positive Plasmodium falciparum antigen test among pregnant women at the Bamenda Regional Hospital, Cameroon: a cross-sectional analytical study (Pan African Medical Journal. 2024;47:99. doi: 10.11604/pamj.2024.47.99.40899)".
 39629267	Nurses' Characteristics Associated with Good Knowledge, Attitude, and Practices (KAP) of the Malaria Vaccine in Bungoma County, Kenya.
 39628989	Candidate drug repurposing for malaria: perspectives for optimising clinical trials.
 39628986	The  proportion and determinants of appropriate health seeking behavior for febrile illness among caregivers of children under-five years in Butula sub-county, Busia county, Kenya.
@@ -1093,7 +1098,7 @@
 39535628	Designing a molecularly imprinted polymer-based electrochemical sensor for the sensitive and selective detection of the antimalarial chloroquine phosphate.
 39534723	Exploring the genetic progression of MDR1 in Plasmodium falciparum: A decade of multi-regional genetic analysis (2014-2024).
 39533350	Relationship between malaria vector survival, infectivity, and insecticide-treated net use in western Kenya.
-39526191	Mal'aria in the Republic of Ireland; A retrospective review of the clinical epidemiology of mal'aria between 2016 and 2020.
+39526191	Malaria in the Republic of Ireland; A retrospective review of the clinical epidemiology of malaria between 2016 and 2020.
 39525724	Emerging public health strategies in malaria control: innovations and implications.
 39525671	Letter to the editor: Evaluating ChatGPT as a tool for educating caregivers on malaria vaccination for children.
 39524644	Application of Machine Learning in the Development of Fourth Degree Quantitative Structure-Activity Relationship Model for Triclosan Analogs Tested against Plasmodium falciparum 3D7.
@@ -1577,7 +1582,7 @@
 39368573	Increased artemisinin production in Artemisia annua L. by co-overexpression of six key biosynthetic enzymes.
 39368041	Correction to: Drug‑induced ER stress leads to induction of programmed cell death pathways of the malaria parasite.
 39367982	From eradication to reemergence: the growing threat of malaria in Turkey.
-39367758	High frequency of artemisinin partial resistance mutations in the Great Lakes region revealed through rapid pooled deep sequencing.
+39367758	High Frequency of Artemisinin Partial Resistance Mutations in the Great Lakes Region Revealed Through Rapid Pooled Deep Sequencing.
 39366854	Corrigendum to "Plasmodium yoelii: Contribution of oocysts melanization to natural refractoriness in Anopheles dirus" [Exp. Parasitol. 116 (2007) 433-439].
 39366706	The impact of increasing temperatures due to climate change on infectious diseases.
 39367453	Human-to-Anopheles dirus mosquito transmission of the anthropozoonotic malaria parasite, Plasmodium knowlesi.
@@ -2069,7 +2074,7 @@
 39187486	Single-cell transcriptomics reveal transcriptional programs underlying male and female cell fate during Plasmodium falciparum gametocytogenesis.
 39187310	Pharmacogenomic Determinants of Adverse Drug Effects: A Systematic Review and Meta-analysis.
 39186718	Malaria reporting timeliness analysis and factors associated with delayed notification, 2018-2022, Nepal.
-39186698	Efficacy and safety of artemether-lumefantrine against uncomplicated falciparum malaria infection in Tanzania, 2022, a single arm clinical trial.
+39186698	Efficacy and Safety of Artemether-Lumefantrine Against Uncomplicated Falciparum Malaria Infection in Tanzania, 2022: A Single-Arm Clinical Trial.
 39186558	Prevention and management of anaemia in pregnancy: Community perceptions and facility readiness in Ghana and Uganda.
 39186146	Estimating the cost for obstetric fistula repair in hospitals of Mozambique: a low-income country.
 39185932	Metal(triphenylphosphine)-atovaquone Complexes: Synthesis, Antimalarial Activity, and Suppression of Heme Detoxification.
@@ -2258,6 +2263,7 @@
 39125020	Incorporation of an Isohexide Subunit into the Endochin-like Quinolone Scaffold.
 39124266	Phytochemical Composition and Bioactivities of Some Hydrophytes: Antioxidant, Antiparasitic, Antibacterial, and Anticancer Properties and Mechanisms.
 39123173	The prevalence of low birth weight and its associated maternal factors among women of reproductive age who gave birth to live babies within five years preceding the survey in Tanzania: an analysis of data from the 2015-16 Tanzania Demographic and Health Survey and Malaria Indicators Survey.
+39629320	Retraction: “Prevalence and associated factors of a positive Plasmodium falciparum antigen test among pregnant women at the Bamenda Regional Hospital, Cameroon: a cross-sectional analytical study (Pan African Medical Journal. 2024;47:99. doi: 10.11604/pamj.2024.47.99.40899)”.
 39121031	Status and future prospects for mobile phone-enabled diagnostics in Tanzania.
 39120520	Total Syntheses of Strasseriolide A and Strasseriolide B, Potent Antimalarial Agents.
 39119198	Mosquito Control Strategies and Insecticide Resistance of the Malaria Vector in Urbanized Land Use Types in Suame Municipality, Ghana.
@@ -2648,7 +2654,7 @@
 38980186	A new era in malaria prevention: a comparative look at RTS,S/AS01 and R21/Matrix-M vaccines.
 38980033	Brilacidin, a host defense peptide mimetic, potentiates ibrexafungerp antifungal activity against the human pathogenic fungus Aspergillus fumigatus.
 38980022	Comparison of Bordetella species identification among differing rt-PCR assays in the United States.
-38979599	Relation between the Dantu blood group variant and bacteraemia in Kenyan children: a population-based case control study.
+38979599	Relation Between the Dantu Blood Group Variant and Bacteremia in Kenyan Children: A Population-Based Case-Control Study.
 38979329	Declining Genetic Polymorphisms of the C-terminus Merozoite Surface Protein-1 Amidst Increased Plasmodium knowlesi Transmission in Thailand.
 38979188	A Prodrug Strategy to Reposition Atovaquone as a Long-Acting Injectable for Malaria Chemoprotection.
 38979048	Hemolytic Uremic Syndrome: A COVID-19 Vaccine Reaction Case Report.
@@ -9991,9 +9997,3 @@
 36447323	Finding the missing children for TB care and prevention in Kenya.
 36447234	Gene Coverage Count and Classification (GC(3)): a locus sequence coverage assessment tool using short-read whole genome sequencing data, and its application to identify and classify histidine-rich protein 2 and 3 deletions in Plasmodium falciparum.
 36447220	Gold miners augment malaria transmission in indigenous territories of Roraima state, Brazil.
-36447200	Naturally acquired antibodies from Beninese infants promote Plasmodium falciparum merozoite-phagocytosis by human blood leukocytes: implications for control of asymptomatic malaria infections.
-36446923	Natural sugar feeding rates of Anopheles mosquitoes collected by different methods in western Kenya.
-36446720	Synthesis and in vitro antiprotozoal evaluation of novel metronidazole-Schiff base hybrids.
-36446533	Physiological and Behavioral Characterization of Larval Olfaction in the Malaria Vector Mosquito Anopheles coluzzii.
-36446531	GCaMP Imaging in Mosquitoes: Central Nervous System.
-36446165	A draft of the genome of the Gulf Coast tick, Amblyomma maculatum.
