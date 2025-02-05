@@ -1,3 +1,7 @@
+39907835	Plasmodium yoelii as a model for malaria: insights into pathogenesis, drug resistance, and vaccine development.
+39907429	Targeting Bottlenecks in Malaria Transmission: Antibody-Epitope Descriptions Guide the Design of Next-Generation Biomedical Interventions.
+39907418	Non-cerebral malaria: does such a thing exist?
+39907404	Use of latex microbeads for detection of Plasmodium vivax lactate dehydrogenase using flow cytometry.
 39906795	Computational design, expression, and characterization of a Plasmodium falciparum multi-epitope, multi-stage vaccine candidate (PfCTMAG).
 39906246	Prevalence and Associated Factors of Schistosoma mansoni and Other Intestinal Helminthes Co-Infection Among Malaria Positive Patients in Malaria Endemic Areas of Northeast, Ethiopia: A Cross-Sectional Study.
 39905884	Redesign of Translocon EXP2 Nanopore for Detecting Peptide Fragments.
@@ -9993,7 +9997,3 @@
 36452398	Coexistence and correlates of forms of malnutrition among mothers and under-five child pairs in Tanzania.
 36452302	Generation of red blood cells from stem cells: Achievements, opportunities and perspectives for malaria research.
 36451747	Allelic frequencies of mutants of the Plasmodium falciparum, quinoline and folate metabolizing genes in the west region of Cameroon.
-36451216	Therapeutic efficacies of artemether-lumefantrine and dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum and chloroquine and dihydroartemisinin-piperaquine for uncomplicated Plasmodium vivax infection in Ethiopia.
-36451097	A manually curated annotation characterises genomic features of P. falciparum lncRNAs.
-36449849	Social Reproduction as a methodological perspective for contextualized analysis of living and health conditions.
-36449650	Anti-malarial investigation of Acorus calamus, Dichapetalum gelonioides, and Leucas aspera on Plasmodium falciparum strains.
