@@ -1,3 +1,10 @@
+39906795	Computational design, expression, and characterization of a Plasmodium falciparum multi-epitope, multi-stage vaccine candidate (PfCTMAG).
+39906246	Prevalence and Associated Factors of Schistosoma mansoni and Other Intestinal Helminthes Co-Infection Among Malaria Positive Patients in Malaria Endemic Areas of Northeast, Ethiopia: A Cross-Sectional Study.
+39905884	Redesign of Translocon EXP2 Nanopore for Detecting Peptide Fragments.
+39905737	Pharmacokinetics of a Novel Piperaquine Dispersible Granules Formulation Under Fasting and Various Fed Conditions Versus Piperaquine Tablets When Fasted in Healthy Tanzanian Adults: A Randomized, Phase I Study.
+39905437	Meta-analysis on the entomological effects of differentially treated ITNs in a multi-site experimental hut study in sub-Saharan Africa.
+39905186	Characteristics of Plasmodium vivax apicomplexan amino acid transporter 8 (PvApiAT8) in the cationic amino acid transport.
+39905148	Quality of routine malaria data captured at primary health facilities in the Hohoe Municipality, Ghana.
 39903932	Is Parasitic Contamination of Soil in the Southern United States Related to Poverty and Does It Represent a Human Health Threat? A Perspective.
 39903927	Effect of Antenatal Monthly Sulfadoxine-Pyrimethamine, Alone or with Azithromycin, on Gestational Weight Gain and Anemia during Pregnancy and One Month Postpartum in Malawi: A Randomized Controlled Trial Secondary Analysis.
 39903780	A paradoxical population structure of var DBLα types in Africa.
@@ -9990,10 +9997,3 @@
 36451097	A manually curated annotation characterises genomic features of P. falciparum lncRNAs.
 36449849	Social Reproduction as a methodological perspective for contextualized analysis of living and health conditions.
 36449650	Anti-malarial investigation of Acorus calamus, Dichapetalum gelonioides, and Leucas aspera on Plasmodium falciparum strains.
-36449557	A Chimeric Peptide Inhibits Red Blood Cell Invasion by Plasmodium falciparum with Hundredfold Increased Efficacy.
-36448733	Immune gene expression in the mosquito vector Culex quinquefasciatus during an avian malaria infection.
-36448284	Experimental reduction of haemosporidian infection affects maternal reproductive investment, parental behaviour and offspring condition.
-36447323	Finding the missing children for TB care and prevention in Kenya.
-36447234	Gene Coverage Count and Classification (GC(3)): a locus sequence coverage assessment tool using short-read whole genome sequencing data, and its application to identify and classify histidine-rich protein 2 and 3 deletions in Plasmodium falciparum.
-36447220	Gold miners augment malaria transmission in indigenous territories of Roraima state, Brazil.
-36447200	Naturally acquired antibodies from Beninese infants promote Plasmodium falciparum merozoite-phagocytosis by human blood leukocytes: implications for control of asymptomatic malaria infections.
