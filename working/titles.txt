@@ -1,3 +1,5 @@
+39911424	Therapeutic applications of artemisinin in ophthalmic diseases.
+39911085	VI International Conference on Malaria and Other Blood Parasites of Wildlife and the III International Symposium of the Wildlife Diseases Research Network.
 39910663	Co-creation and application of a framework for the de-prioritization of urban communities during insecticide-treated bed net mass campaigns for malaria prevention and control in Kwara State, Nigeria.
 39910572	Knowledge and willingness towards malaria vaccines among caregivers in Dar es Salaam, Tanzania.
 39910469	Low ITN utilization among households in SWEPR Ethiopia: challenge for malaria elimination, a mixed design approach.
@@ -9995,5 +9997,3 @@
 36457087	Performance of antigen detection for HRP2-based malaria rapid diagnostic tests in community surveys: Tanzania, July-November 2017.
 36457085	Behavioural determinants of malaria risk, prevention, and care-seeking behaviours among forest-goers in Cambodia.
 36457056	Acquisition of antibodies to Plasmodium falciparum and Plasmodium vivax antigens in pregnant women living in a low malaria transmission area of Brazil.
-36457004	Vectorial capacity and TEP1 genotypes of Anopheles gambiae sensu lato mosquitoes on the Kenyan coast.
-36456563	mRNA-LNP expressing PfCSP and Pfs25 vaccine candidates targeting infection and transmission of Plasmodium falciparum.
