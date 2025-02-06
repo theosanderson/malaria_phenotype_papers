@@ -1,3 +1,4 @@
+39908102	Microtubule inner proteins of Plasmodium are essential for transmission of malaria parasites.
 39907835	Plasmodium yoelii as a model for malaria: insights into pathogenesis, drug resistance, and vaccine development.
 39907429	Targeting Bottlenecks in Malaria Transmission: Antibody-Epitope Descriptions Guide the Design of Next-Generation Biomedical Interventions.
 39907418	Non-cerebral malaria: does such a thing exist?
@@ -116,7 +117,7 @@
 39866361	Hyperspectral analysis to assess gametocytogenesis stage progression in malaria-infected human erythrocytes.
 39865892	Unraveling the host range of Plasmodium huffi: morphological, histopathological and molecular characterization in red-legged seriemas from Brazil.
 39865705	A brief review on chemoprofling and pharmacological potential of Desmodium gangeticum (L.) DC.
-39865504	Plasmodium falciparum CyRPA glycan binding does not explain adaptation to humans.
+39865504	Plasmodium falciparum CyRPA Glycan Binding Does Not Explain Adaptation to Humans.
 39865059	Prevalence and Risk Factors of Malaria in Iwaka District, Mimika, Papua.
 39865046	The Efforts to Implement a Malaria Elimination Strategy in The Highly Endemic Malaria Region of Papua Province, Indonesia.
 39865045	Association Between ABO Blood Groups and Malaria Severity in a Regional Referral Hospital in Jayapura Papua, Indonesia.
@@ -966,7 +967,7 @@
 39579311	Immunophenotyping of Hematopoietic Cells in the Spleen in Hypothyroid Mice.
 39579310	Immunophenotyping of Leukocytes in Brain in Hypothyroid Mice.
 39579246	Evaluation of Au(III) complexes as Plasmodium falciparum aquaglyceroporin (PfAQP) inhibitors by in silico and in vitro methods.
-39579070	MalKinID: A Classification Model for Identifying Malaria Parasite Genealogical Relationships Using Identity-by-Descent.
+39579070	MalKinID: A classification model for identifying malaria parasite genealogical relationships using identity-by-descent.
 39578850	The association between infrastructure damage in the aftermath of Cyclone Idai and malaria risk in Sofala Province, Mozambique: an ecological study.
 39578801	Clinical characteristics and outcomes of patients on haemodialysis at Jimma medical center, Ethiopia: a 7-Year review.
 39578727	Bioinformatics analysis of the Microsporidia sp. MB genome: a malaria transmission-blocking symbiont of the Anopheles arabiensis mosquito.
@@ -9996,4 +9997,3 @@
 36453182	Synthesis and antimalarial activity of 7-chloroquinoline-tethered sulfonamides and their [1,2,3]-triazole hybrids.
 36452398	Coexistence and correlates of forms of malnutrition among mothers and under-five child pairs in Tanzania.
 36452302	Generation of red blood cells from stem cells: Achievements, opportunities and perspectives for malaria research.
-36451747	Allelic frequencies of mutants of the Plasmodium falciparum, quinoline and folate metabolizing genes in the west region of Cameroon.
