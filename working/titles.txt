@@ -1,3 +1,5 @@
+39912785	C10-Benzoate Esters of Anhydrotetracycline Inhibit Tetracycline Destructases and Recover Tetracycline Antibacterial Activity.
+39912401	Contrasting sequence polymorphism and structural basis patterns of Plasmodium falciparum histidine-rich proteins 2/3 in Cameroon and India.
 39911424	Therapeutic applications of artemisinin in ophthalmic diseases.
 39911085	VI International Conference on Malaria and Other Blood Parasites of Wildlife and the III International Symposium of the Wildlife Diseases Research Network.
 39910663	Co-creation and application of a framework for the de-prioritization of urban communities during insecticide-treated bed net mass campaigns for malaria prevention and control in Kwara State, Nigeria.
@@ -9995,5 +9997,3 @@
 36457706	Global perspectives on CYP2D6 associations with primaquine metabolism and Plasmodium vivax radical cure.
 36457327	Perceived performances of peer learning and education approach on malaria prevention through primary schools communities in rural Ethiopia: Peer educators' perspectives.
 36457087	Performance of antigen detection for HRP2-based malaria rapid diagnostic tests in community surveys: Tanzania, July-November 2017.
-36457085	Behavioural determinants of malaria risk, prevention, and care-seeking behaviours among forest-goers in Cambodia.
-36457056	Acquisition of antibodies to Plasmodium falciparum and Plasmodium vivax antigens in pregnant women living in a low malaria transmission area of Brazil.
