@@ -1,3 +1,4 @@
+39918607	Larvicidal Efficacies of Nanoliposomes Containing Alpha-pinene, Citral, Camphor, and Thymol Against Aedes aegypti and Anopheles stephensi Mosquito Vectors.
 39917740	Urogenital Schistosoma haematobium Cases at the Hospital for Tropical Diseases, London (1998-2018), and Suggested Pragmatic Follow-up Pathway for Non-endemic Settings.
 39917486	Management of CML and Pregnancy in Low-and Middle-income Countries.
 39916434	Platinum Group Metals against Parasites: State of the Art and Future Perspectives.
@@ -9996,4 +9997,3 @@
 36461661	Habitat fragmentation matters more than habitat loss: The case of host-parasite interactions.
 36461598	Chloroquine treatment influences immunologicalmemory through the PD-1/PD-L1 pathway during the initiation of Plasmodium chabaudi infection.
 36461074	Synthesis, antimalarial, antileishmanial evaluation, and molecular docking study of some 3-aryl-2-styryl substituted-4(3H)-quinazolinone derivatives.
-36461066	Residual efficacy of SumiShield™ 50WG for indoor residual spraying in Ethiopia.
