@@ -1,17 +1,17 @@
 39920861	Environmental, socioeconomic, and sociocultural drivers of monkeypox transmission in the Democratic Republic of the Congo: a One Health perspective.
 39920845	Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector Anopheles stephensi.
-39920797	Prevalence of malaria and associated factors among febrile children under 15 years at Bududa General Hospital, Eastern Uganda.
 39920795	Epidemiology, clinical spectrum, and outcomes of severe malaria in Eastern Uganda: a prospective study.
 39920646	Neglected tropical diseases in Yemen: a systematic review of epidemiology and public health challenges.
 39920573	Leveraging genomic insights from the neglected malaria parasites P. malariae and P. ovale using selective whole genome amplification (SWGA) approach.
+39920134	The tetracycline resistome is shaped by selection for specific resistance mechanisms by each antibiotic generation.
+39920058	Integrated malaria vector control strategies and their effectiveness in sub-Saharan Africa: a systematic review protocol for interventional studies.
+39919778	Safety and efficacy of repeat ivermectin mass drug administrations for malaria control (RIMDAMAL II): a phase 3, double-blind, placebo-controlled, cluster-randomised, parallel-group trial.
+39920797	Prevalence of malaria and associated factors among febrile children under 15 years at Bududa General Hospital, Eastern Uganda.
 39920505	Malaria parasite cysteine and aspartic proteases as key drug targets for antimalarial therapy.
 39920482	Novel Nona-Repeat in Plasmodium ovale curtisi Circumsporozoite Protein Circulating in Cameroon.
-39920134	The tetracycline resistome is shaped by selection for specific resistance mechanisms by each antibiotic generation.
 39920122	Anopheles gambiae phagocytic hemocytes promote Plasmodium falciparum infection by regulating midgut epithelial integrity.
-39920058	Integrated malaria vector control strategies and their effectiveness in sub-Saharan Africa: a systematic review protocol for interventional studies.
 39919791	Malaria: African leaders pledge to tackle funding gap amid uncertainty over foreign aid.
 39919779	Beyond mosquitoes and malaria-ivermectin in Africa.
-39919778	Safety and efficacy of repeat ivermectin mass drug administrations for malaria control (RIMDAMAL II): a phase 3, double-blind, placebo-controlled, cluster-randomised, parallel-group trial.
 39919494	Comments on "Spontaneous splenic rupture: A rare complication of concurrent malaria and dengue infections - A case report".
 39918607	Larvicidal Efficacies of Nanoliposomes Containing Alpha-pinene, Citral, Camphor, and Thymol Against Aedes aegypti and Anopheles stephensi Mosquito Vectors.
 39917740	Urogenital Schistosoma haematobium Cases at the Hospital for Tropical Diseases, London (1998-2018), and Suggested Pragmatic Follow-up Pathway for Non-endemic Settings.
