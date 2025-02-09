@@ -1,3 +1,6 @@
+39921411	Unlocking the potential of blood-stage vaccines for malaria elimination.
+39921057	Comparative larvicidal, pupicidal, adulticidal activity of Artemisia nilagirica (C.B. Cl) Pamp extract in controlling Culex quinquefasciatus, Anopheles stephensi, Aedes aegypti and Aedes albopictus.
+39920908	Diamonds in the rif: Alignment-free comparative genomics analysis reveals strain-transcendent plasmodium falciparum antigens amidst extensive genetic diversity.
 39920861	Environmental, socioeconomic, and sociocultural drivers of monkeypox transmission in the Democratic Republic of the Congo: a One Health perspective.
 39920845	Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector Anopheles stephensi.
 39920797	Prevalence of malaria and associated factors among febrile children under 15 years at Bududa General Hospital, Eastern Uganda.
@@ -1072,6 +1075,7 @@
 39561958	IL-10 is not required for the alleviation of collagen-induced arthritis by non-lethal malarial infection in mice.
 39561405	Transcription and Copy Number Variation of Plasmodium falciparum var2csa among Nonpregnant Malaria Patients in Thailand.
 39561404	Epidemiological Changes in Acute Febrile Diseases after the COVID-19 Pandemic in Thailand.
+39561388	Predictors of Cholera and Acute Watery Diarrhea among Climate-Vulnerable People Living in Cabo Delgado, Mozambique: A Cross-Sectional Study.
 39561299	Accelerating Antimalarial Drug Discovery with a New High-Throughput Screen for Fast-Killing Compounds.
 39560751	Antiplasmodial potential of compounds isolated from Ziziphus mucronata and their binding to Plasmodium falciparum HGXPRT using biophysical and molecular docking studies.
 39559371	Malaria parasitemia and its association with CD4 cells, viral load and haematological parameters among HIV-infected children < 15 years in the Bonasssama Health District, Douala, Cameroon: Prevalence and risk factors.
@@ -9993,7 +9997,3 @@
 36466214	High anti-SARS-CoV-2 seroprevalence among unvaccinated mother-child pairs from a rural setting in north-eastern Tanzania during the second wave of COVID-19.
 36466021	Misdiagnosis of Plasmodium vivax in a Case of Mixed Malaria, Lead to Wrong Anti-Cancer Chemotherapy, Splenectomy, and Partial Hepatectomy Due to Relapse: A Case Report.
 36466013	Cytotoxicity and Anti-Plasmodium berghei Activity of Emodin Loaded Nanoemulsion.
-36465806	Plasmodium falciparum Malaria Susceptibility and Severity: Influence of MyD88-Adaptor-Like Gene (rs8177374) Polymorphism.
-36464748	Repurposing artemisinins as neuroprotective agents: a focus on the PI3k/Akt signalling pathway.
-36464736	Impact evaluation of long-lasting insecticidal nets distribution campaign on malaria cases reported at outpatient departments across all the regions in Ghana.
-36464718	Knowledge, attitude, and practices of the community toward dengue fever in Shabwah Governorate, Yemen: a descriptive study.
