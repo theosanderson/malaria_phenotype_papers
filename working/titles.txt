@@ -1,3 +1,6 @@
+39923091	Association between Loa loa microfilaremia and anatomical hyposplenia in a rural area of the Republic of Congo: a population-based cross-sectional study.
+39922662	Marcus Lacerda: aiming to eliminate vivax malaria.
+39922332	A case of imported Plasmodium malariae infection after treated Plasmodium falciparum malaria: possible explanations and a review of the literature.
 39921411	Unlocking the potential of blood-stage vaccines for malaria elimination.
 39921057	Comparative larvicidal, pupicidal, adulticidal activity of Artemisia nilagirica (C.B. Cl) Pamp extract in controlling Culex quinquefasciatus, Anopheles stephensi, Aedes aegypti and Aedes albopictus.
 39920908	Diamonds in the rif: Alignment-free comparative genomics analysis reveals strain-transcendent plasmodium falciparum antigens amidst extensive genetic diversity.
@@ -48,7 +51,7 @@
 39909968	The Burden of Asymptomatic Malaria Infection in Children in Sub-Saharan Africa: A Systematic Review and Meta-Analysis Exploring Barriers to Elimination and Prevention.
 39909794	The recovery time and its predictors among under five years old children admitted with severe acute malnutrition at public hospitals in Addis Ababa, Ethiopia.
 39909372	Drug resistance-associated mutations in Plasmodium UBP-1 disrupt its essential deubiquitinating activity.
-39909315	Human Parvovirus B19 infection in a Plasmodium vivax endemic area on the Brazil-French Guiana border.
+39909315	Human parvovirus B19 infection in a Plasmodium vivax endemic area on the Brazil-French Guiana border.
 39908102	Microtubule inner proteins of Plasmodium are essential for transmission of malaria parasites.
 39907835	Plasmodium yoelii as a model for malaria: insights into pathogenesis, drug resistance, and vaccine development.
 39907429	Targeting Bottlenecks in Malaria Transmission: Antibody-Epitope Descriptions Guide the Design of Next-Generation Biomedical Interventions.
@@ -561,6 +564,7 @@
 39736740	Attractive targeted sugar baits for malaria control in western Kenya (ATSB-Kenya): enrolment characteristics of cohort children and households.
 39736695	The evolutionary history of Plasmodium falciparum from mitochondrial and apicoplast genomes of China-Myanmar border isolates.
 39736331	Time trends in malaria incidence from 1992 to 2021 in high-risk regions: An age‑period‑cohort analysis based on the Global Burden of Disease study 2021.
+39736278	Design and synthesis of novel triazine derivatives as antimalarial agents.
 39736271	Egypt eliminates malaria, while Sudan aims for control.
 39736161	Effectiveness of Monthly Versus Two-Dose Regimen of Sulphadoxine-Pyrimethamine for Intermittent Preventive Treatment of Malaria in Pregnancy in Southeastern Nigeria: A Randomised Controlled Trial.
 39736157	Prevalence of Acute Kidney Injury (AKI) in Children with Severe Malaria Using a Novel Biomarker: Serum Neutrophil Gelatinase Associated Lipocalin (NGAL) in Enugu.
@@ -9993,7 +9997,3 @@
 36467507	Knowledge, attitudes, and practices regarding malaria control among communities living in the south Cameroon forest region.
 36466999	Deferiprone-Resveratrol Hybrid, an Iron-Chelating Compound, Acts as an Antimalarial and Hepatoprotective Agent in Plasmodium berghei-Infected Mice.
 36466767	Malaria Elimination: What Can Africa Learn from China?
-36466721	Chloroquine chaos and COVID-19: Smart delivery perspectives through pH sensitive polymers/micelles and ZnO nanoparticles.
-36466214	High anti-SARS-CoV-2 seroprevalence among unvaccinated mother-child pairs from a rural setting in north-eastern Tanzania during the second wave of COVID-19.
-36466021	Misdiagnosis of Plasmodium vivax in a Case of Mixed Malaria, Lead to Wrong Anti-Cancer Chemotherapy, Splenectomy, and Partial Hepatectomy Due to Relapse: A Case Report.
-36466013	Cytotoxicity and Anti-Plasmodium berghei Activity of Emodin Loaded Nanoemulsion.
