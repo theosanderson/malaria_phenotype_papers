@@ -1,3 +1,11 @@
+39926866	Probing the Clinical, Laboratory, and Sociodemographic Factors Associated with Malaria: A Case-Control Study.
+39926109	Evaluation of a chloroquine hydrogel for topical treatment of leishmaniasis in BALB/c mice infected with Leishmania (L.) amazonensis.
+39925815	Bibliometric analysis of neutrophil extracellular traps induced by protozoan and helminth parasites (2008-2024).
+39925660	Exposure to copper metal enhances the tolerance of An. gambiae s.s. over multiple generations while reducing both fertility and fecundity in this primary malaria vector .
+39925376	Evaluation of the transmission-blocking potential of Plasmodium vivax antigen Pvg37 using transgenic rodent parasites and clinical isolates.
+39924859	Guianensin, a Blackfly Salivary Protein, Inhibits the Lectin Pathway of Complement.
+39924851	Transmission Indices of Malaria in Anopheles Mosquitoes in an agrarian community adjourning Osogbo, Southwestern, Nigeria.
+39924844	Role of climatic factors on the perennial malaria cases in Kalahandi district of Odisha, Eastern India.
 39923782	WHO world malaria report 2024.
 39923751	Transmitted blood infections and emerging vector-borne diseases in blood donors in northern Portugal.
 39923546	Whole-genome sieve analysis: Identification of protective malaria antigens by leveraging allele-specific vaccine efficacy.
@@ -9989,11 +9997,3 @@
 36471262	Clinical-epidemiological characteristics and maternal-foetal outcomes in pregnant women hospitalised with COVID-19 in Venezuela: a retrospective study.
 36470782	Dried out but alive: how mosquitoes survive 8 months.
 36470436	Disulfide bond and crosslinking analyses reveal inter-domain interactions that contribute to the rigidity of placental malaria VAR2CSA structure and formation of CSA binding channel.
-36470351	PCR investigation of infections in patients consulting at a healthcare centre over a four-year period during the Grand Magal of Touba.
-36470340	Biology, bionomics and life-table studies of Anopheles stephensi (Diptera: Culicidae) in Sri Lanka and estimating the vectorial potential using mathematical approximations.
-36469727	High-throughput virtual screening approach of natural compounds as target inhibitors of plasmepsin-II.
-36469541	Disparate selection of mutations in the dihydrofolate reductase gene (dhfr) of Plasmodium ovale curtisi and P. o. wallikeri in Africa.
-36469233	Achievements of the national malaria control and elimination program in the People's Republic of China: the Atlas of Malaria Transmission in China.
-36469197	Lymphotoxin-α Orchestrate Hypoxia and Immune factors to Induce Experimental Cerebral Malaria: Inhibition Mitigates Pathogenesis, Neurodegeneration, and Increase Survival.
-36468829	Molecular Dynamics and Structural Studies of Zinc Chloroquine Complexes.
-36467715	Plasmodium falciparum Merozoite Surface Proteins Polymorphisms and Treatment Outcomes among Patients with Uncomplicated Malaria in Mwanza, Tanzania.
