@@ -1,3 +1,10 @@
+39928389	Malaria Surveillance: A Cross-sectional Study in the Peruvian Amazon Basin, 2012-2023.
+39928382	U.S. NAMRU SOUTH's Insights and Contributions to Diagnostics in the Context of Malaria Elimination.
+39928186	Unveiling the Diversity and Zoonotic Potential of Plasmodium inui: a Comprehensive Review of Insights from Indonesia and Southeast Asia.
+39928049	Elucidating Infectious Causes of Fever of Unknown Origin: A Laboratory-Based Observational Study of Patients with Suspected Ebola Virus Disease, Guinea, 2014.
+39927999	Diagnostic Accuracy of World Health Organization Case Definitions for Acute Febrile Illness: A Tertiary Care Hospital-based Study.
+39927767	Isolation and characterization of Plasmodium falciparum blood-stage persisters by improved selection protocols using dihydroartemisinin alone.
+39927491	From relief to resistance: implications of self-medication practice for malaria elimination in India.
 39926866	Probing the Clinical, Laboratory, and Sociodemographic Factors Associated with Malaria: A Case-Control Study.
 39926109	Evaluation of a chloroquine hydrogel for topical treatment of leishmaniasis in BALB/c mice infected with Leishmania (L.) amazonensis.
 39925815	Bibliometric analysis of neutrophil extracellular traps induced by protozoan and helminth parasites (2008-2024).
@@ -9990,10 +9997,3 @@
 36472340	TNF-α promoter variant (G-308A) is associated with susceptibility to P. falciparum infection and severe malaria: a meta-analysis and trial sequential analysis.
 36472067	The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis.
 36472022	[Research progress in chemical constituents, pharmacological activity, and quality markers of Bruceae Fructus].
-36471489	Nontargeted metabolomics integrated with (1) H NMR and LC-Q-TOF-MS/MS methods to depict a more comprehensive metabolic profile in response to chrysosplenetin and artemisinin co-treatment against artemisinin-sensitive and -resistant Plasmodium berghei K173.
-36471426	Protocols for Plasmodium gametocyte production in vitro: an integrative review and analysis.
-36471389	A mass rearing cost calculator for the control of Culex quinquefasciatus in Hawai'i using the incompatible insect technique.
-36471315	Surveillance of pfhrp2 and pfhrp3 gene deletions among symptomatic Plasmodium falciparum malaria patients in Central Vietnam.
-36471262	Clinical-epidemiological characteristics and maternal-foetal outcomes in pregnant women hospitalised with COVID-19 in Venezuela: a retrospective study.
-36470782	Dried out but alive: how mosquitoes survive 8 months.
-36470436	Disulfide bond and crosslinking analyses reveal inter-domain interactions that contribute to the rigidity of placental malaria VAR2CSA structure and formation of CSA binding channel.
