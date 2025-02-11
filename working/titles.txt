@@ -1,3 +1,7 @@
+39931544	The discovery of human  Plasmodium among domestic animals in West Sumba and Fakfak, Indonesia.
+39931259	Plasma Soluble Progenitor Cell Receptors as Biomarkers for Severe Anemia Among Malaria-Infected Pediatrics: A Prospective Study in Ghana.
+39931114	A chromosomal reference genome sequence for the malaria mosquito, Anopheles maculipalpis, Giles, 1902.
+39930940	PBPK-Led Assessment of Antimalarial Drug Concentrations in Breastmilk: A Strategy for Optimal Use of Prediction Methods to Guide Decision Making in an Understudied Population.
 39930468	Evaluation of CareStart™ malaria HRP2/pLDH (Pf/PAN) combo rapid diagnostic test for diagnosis of Plasmodium falciparum infection in malaria co-endemic areas in association with parasite density.
 39930445	Assessing insecticide treated nets awareness at Njala University: case study of Njala and Towama Campuses, Sierra Leone.
 39929916	Ecological complexity of zoonotic malaria in macaque natural hosts.
@@ -9993,7 +9997,3 @@
 36474206	Ideational factors associated with consistent use of insecticide-treated nets: a multi-country, multilevel analysis.
 36474193	Spatial variation and inequities in antenatal care coverage in Kenya, Uganda and mainland Tanzania using model-based geostatistics: a socioeconomic and geographical accessibility lens.
 36473897	Effect of benznidazole on cerebral microcirculation during acute Trypanosoma cruzi infection in mice.
-36473841	The overlapping burden of the three leading causes of disability and death in sub-Saharan African children.
-36473514	Co-exposure to aflatoxin B1 and therapeutic coartem worsens hepatic and renal function through enhanced oxido-inflammatory responses and apoptosis in rats.
-36473013	Identification of a rickettsial endosymbiont in a soft tick Ornithodoros turicata americanus.
-36472963	Epidemiological characteristics of imported acute infectious diseases in Guangzhou, China, 2005-2019.
