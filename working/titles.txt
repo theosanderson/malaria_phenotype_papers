@@ -1,3 +1,5 @@
+39932664	Do the microbiota of larval breeding site and the blood meal influence the composition and diversity of bacterial communities in the midgut of Mansonia humeralis (Diptera: Culicidae) from the western Amazon?
+39932036	Crystal structure of Anopheles gambiae actin depolymerizing factor explains high affinity to monomeric actin.
 39931544	The discovery of human  Plasmodium among domestic animals in West Sumba and Fakfak, Indonesia.
 39931259	Plasma Soluble Progenitor Cell Receptors as Biomarkers for Severe Anemia Among Malaria-Infected Pediatrics: A Prospective Study in Ghana.
 39931114	A chromosomal reference genome sequence for the malaria mosquito, Anopheles maculipalpis, Giles, 1902.
@@ -9995,5 +9997,3 @@
 36474264	Analysis of attitudes and practices influencing adherence to seasonal malaria chemoprevention in children under 5 years of age in the Dosso Region of Niger.
 36474243	A systematic review of asymptomatic Plasmodium knowlesi infection: an emerging challenge involving an emerging infectious disease.
 36474206	Ideational factors associated with consistent use of insecticide-treated nets: a multi-country, multilevel analysis.
-36474193	Spatial variation and inequities in antenatal care coverage in Kenya, Uganda and mainland Tanzania using model-based geostatistics: a socioeconomic and geographical accessibility lens.
-36473897	Effect of benznidazole on cerebral microcirculation during acute Trypanosoma cruzi infection in mice.
