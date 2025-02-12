@@ -1,3 +1,4 @@
+39935744	Lack of sex- and gender-disaggregated data in diagnostics: findings from a scoping review of five tracer conditions.
 39934889	Building evidences in Public Health Emergency Preparedness ("BePHEP" Project)-a systematic review.
 39934796	Half-decade of scaling up malaria control: malaria trends and impact of interventions from 2018 to 2023 in Rwanda.
 39934099	The spatiotemporal transcriptional profiling of murine brain during cerebral malaria progression and after artemisinin treatment.
@@ -7,7 +8,7 @@
 39933177	Acute Myocarditis in the Setting of Plasmodium vivax Malaria: A Case Report and Review of the Literature.
 39932664	Do the microbiota of larval breeding site and the blood meal influence the composition and diversity of bacterial communities in the midgut of Mansonia humeralis (Diptera: Culicidae) from the western Amazon?
 39932036	Crystal structure of Anopheles gambiae actin depolymerizing factor explains high affinity to monomeric actin.
-39931544	The discovery of human  Plasmodium among domestic animals in West Sumba and Fakfak, Indonesia.
+39931544	Preliminary Evidence of Human Plasmodium in Domestic Animals from a Malaria-Endemic Region in Indonesia.
 39931259	Plasma Soluble Progenitor Cell Receptors as Biomarkers for Severe Anemia Among Malaria-Infected Pediatrics: A Prospective Study in Ghana.
 39931114	A chromosomal reference genome sequence for the malaria mosquito, Anopheles maculipalpis, Giles, 1902.
 39930940	PBPK-Led Assessment of Antimalarial Drug Concentrations in Breastmilk: A Strategy for Optimal Use of Prediction Methods to Guide Decision Making in an Understudied Population.
@@ -9996,4 +9997,3 @@
 36477089	A microfluidic finger-actuated blood lysate preparation device enabled by rapid acoustofluidic mixing.
 36476815	Geographical classification of malaria parasites through applying machine learning to whole genome sequence data.
 36476767	How a malaria parasite becomes a male.
-36475905	A randomized controlled trial showing safety and efficacy of a whole sporozoite vaccine against endemic malaria.
