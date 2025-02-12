@@ -1,3 +1,6 @@
+39937058	Host Response Stratification in Malarial and Non-malarial Sepsis: A Prospective, Multicenter Analysis From Uganda.
+39936828	Prevalence of Plasmodium falciparum drug resistance markers pfcrt K76T and pfaat1 S258L in southern Rwanda, 2010 to 2023.
+39936553	Prevalence of Malaria among Apparently Healthy Blood Donors at Tertiary Health-care Center in Northeastern Tribal Region of India.
 39935744	Lack of sex- and gender-disaggregated data in diagnostics: findings from a scoping review of five tracer conditions.
 39934889	Building evidences in Public Health Emergency Preparedness ("BePHEP" Project)-a systematic review.
 39934796	Half-decade of scaling up malaria control: malaria trends and impact of interventions from 2018 to 2023 in Rwanda.
@@ -9994,6 +9997,3 @@
 36477538	A transcriptional switch controls sex determination in Plasmodium falciparum.
 36477528	In vitro production of infectious Plasmodium falciparum sporozoites.
 36477327	Plasmodium vivax cerebral malaria with pancytopenia in the peruvian amazon: case report.
-36477089	A microfluidic finger-actuated blood lysate preparation device enabled by rapid acoustofluidic mixing.
-36476815	Geographical classification of malaria parasites through applying machine learning to whole genome sequence data.
-36476767	How a malaria parasite becomes a male.
