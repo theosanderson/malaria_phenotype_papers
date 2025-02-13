@@ -69,7 +69,7 @@
 39915774	Acceptance and affordability of malaria vaccines: issues relating to hesitancy and willingness to pay amongst Nigerian parents of under-five children.
 39915671	PfFBXO1 is essential for inner membrane complex formation in Plasmodium falciparum during both asexual and transmission stages.
 39915506	The anti-circumsporozoite antibody response to repeated, seasonal booster doses of the malaria vaccine RTS,S/AS01(E).
-39914727	A high prevalence of stunting was observed among under-five Children: a community-based cross-sectional study.
+39914727	A high prevalence of stunting was observed among under-five children: A community-based cross-sectional study.
 39914203	Two-stage CNN-based framework for leukocytes classification.
 39913605	Geospatial modeling of geographical spread of Aedes species, in relation to climatic and topographical factors in Lagos State, Nigeria.
 39913602	Not just monkey business.
