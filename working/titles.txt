@@ -1,4 +1,7 @@
+39945766	Facile Antibody Immobilization on a Redox-Active Thionine-Functionalized Carbon Nanofiber Surface for Rapid Electrochemical Immunosensing of a Bioengineered Malaria Protein Biomarker.
+39944253	Micronutrient status, food security, anaemia, Plasmodium infection, and physical activity as predictors of primary schoolchildren's body composition in Côte d'Ivoire.
 39944211	Africa's public health battle with cerebral malaria: What are we up against?
+39943797	Dose-Optimization of a Novel Co-Formulated Triple Combination Antimalarial Therapy: Artemether-Lumefantrine-Amodiaquine.
 39942700	Exploring the Phytochemical Diversity and Anti-Plasmodial Potential of Artemisia annua and Artemisia afra from Different Geographical Locations in Cameroon.
 39942060	From Traditional Amazon Use to Food Applications: Tapirira guianensis Seed Extracts as a Triad of Antiproliferative Effect, Oxidative Defense, and Antimalarial Activity.
 39940919	Analysis of Protein Inhibitors of Trypsin in Quinoa, Amaranth and Lupine Seeds. Selection and Deep Structure-Function Characterization of the Amaranthus caudatus Species.
@@ -9994,6 +9997,3 @@
 36490289	Optical Spectrophotometry as a Promising Method for Quantification and Stage Differentiation of Plasmodium falciparum Parasites.
 36483989	Malaria Elimination in China and Sustainability Concerns in the Post-elimination Stage.
 36483471	Smart triage: Development of a rapid pediatric triage algorithm for use in low-and-middle income countries.
-36483323	Malaria an opportunistic infection in HIV/AIDS patients? - A Nigerian experience.
-36482971	Plasma after both SARS-CoV-2 boosted vaccination and COVID-19 potently neutralizes BQ.1.1 and XBB.1.
-36482962	The history of Gin and Tonic; the infectious disease specialist long drink. When gin and tonic was not ordered but prescribed.
