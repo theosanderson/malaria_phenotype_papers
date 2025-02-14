@@ -1,3 +1,8 @@
+39949897	Indoor Residual Spraying With Fludora Fusion for Malaria Control in Pyrethroid-Resistant Areas of Gujarat, India: A Community-Randomized Trial.
+39949706	Correction to: Dynamics of Persistent Submicroscopic and Microscopic Plasmodium falciparum in Pregnant Women Under Intermittent Preventive Treatment: A Study Cohort in Benin.
+39949520	Impact of Titanium Mining and Other Anthropogenic Activities on Malaria Positivity Rates and Parasitemia in Five Selected Study Sites in Msambweni Subcounty, Kwale County, Kenya.
+39949258	Malaria microscopy: a challenge in malaria elimination.
+39948798	Postpartum pituitary necrosis and hypopituitarism, a sequela of severe falciparum malaria in pregnancy - a case report.
 39948562	Determination of the residual efficacy of broflanilide (VECTRON™ T500) insecticide for indoor residual spraying in a semi-field setting in Ethiopia.
 39948431	RNA-Seq analysis in macrophages infected with Trypanosoma cruzi: focus on TLR2 and TLR7, iron metabolism, and extracellular matrix biosynthesis.
 39947818	Cross-sectional evaluation of host biomarkers for guiding antibiotic use in bacterial and non-bacterial acute febrile illness in low- and middle-income tropical settings.
@@ -9992,8 +9997,3 @@
 36498399	Collateral Effects of Insecticide-Treated Nets on Human and Environmental Safety in an Epidemiological Model for Malaria with Human Risk Perception.
 36497837	Generating Trust in Participatory Research on Plasmodium knowlesi Malaria: A Study with Rural Community Gatekeepers during the COVID-19 Pandemic.
 36496898	The Pathology of Fatal Avian Malaria Due to Plasmodium elongatum (GRW6) and Plasmodium matutinum (LINN1) Infection in New Zealand Kiwi (Apteryx spp.).
-36496431	Universal health coverage of five essential health services in mothers before and after the Haiti 2010 earthquake: a retrospective cohort study using difference-in-difference.
-36496423	Estimation of bed net coverage indicators in Tanzania using mobile phone surveys: a comparison of sampling approaches.
-36496398	Impact of malaria control interventions on malaria infection and anaemia in low malaria transmission settings: a cross-sectional population-based study in Sudan.
-36496395	Pneumococcal concentration and serotype distribution in preschool children with radiologically confirmed pneumonia compared to healthy controls prior to introduction of pneumococcal vaccination in Zanzibar: an observational study.
-36496382	Modelling longitudinal binary outcomes with outcome dependent observation times: an application to a malaria cohort study.
