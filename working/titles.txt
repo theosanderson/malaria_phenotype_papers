@@ -1,3 +1,6 @@
+39951341	Late killing of Plasmodium berghei sporozoites in the liver by an anti-circumsporozoite protein antibody.
+39951088	Prevalence and Predictors of Adverse Birth Outcomes and Their Implications in Assessing the Safety of New Maternal Vaccines in Kenya.
+39950472	A Potential Regulatory Network of Selected Human Erythrocytic miRNAs with Plasmodium falciparum 3D7 mRNAs: A Computational Analysis.
 39949897	Indoor Residual Spraying With Fludora Fusion for Malaria Control in Pyrethroid-Resistant Areas of Gujarat, India: A Community-Randomized Trial.
 39949706	Correction to: Dynamics of Persistent Submicroscopic and Microscopic Plasmodium falciparum in Pregnant Women Under Intermittent Preventive Treatment: A Study Cohort in Benin.
 39949520	Impact of Titanium Mining and Other Anthropogenic Activities on Malaria Positivity Rates and Parasitemia in Five Selected Study Sites in Msambweni Subcounty, Kwale County, Kenya.
@@ -9994,6 +9997,3 @@
 36500278	Quantification of Tafenoquine and 5,6-Orthoquinone Tafenoquine by UHPLC-MS/MS in Blood, Plasma, and Urine, and Application to a Pharmacokinetic Study.
 36499205	Fc Gamma Receptor IIIB NA1/NA2/SH Polymorphisms Are Associated with Malaria Susceptibility and Antibody Levels to P. falciparum Merozoite Antigens in Beninese Children.
 36498854	The Black Box of Cellular and Molecular Events of Plasmodium vivax Merozoite Invasion into Reticulocytes.
-36498399	Collateral Effects of Insecticide-Treated Nets on Human and Environmental Safety in an Epidemiological Model for Malaria with Human Risk Perception.
-36497837	Generating Trust in Participatory Research on Plasmodium knowlesi Malaria: A Study with Rural Community Gatekeepers during the COVID-19 Pandemic.
-36496898	The Pathology of Fatal Avian Malaria Due to Plasmodium elongatum (GRW6) and Plasmodium matutinum (LINN1) Infection in New Zealand Kiwi (Apteryx spp.).
