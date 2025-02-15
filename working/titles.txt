@@ -1,3 +1,12 @@
+39953870	Preventing malaria by administering a monoclonal antibody.
+39953858	Toxic Epidermal Necrolysis and its possible association with chloroquine: A rare case report in a three-year-old child.
+39953857	Molecular Docking and Pharmacokinetic Properties of Chrysin, Indole-3-carbinol, and Curcumin in the Biological Context of Plasmodium falciparum 3D7.
+39953856	Gorakhpur experience of Japanese Encephalitis Management: A Successful One Health Approach.
+39953625	Small bowel obstruction due to ascariasis in a child from southern Ethiopia: a case report.
+39953558	Impact of the intensity of infection in birds on Plasmodium development within Culex pipiens mosquitoes.
+39953553	Unravelling the mode of action of the Tres Cantos Antimalarial Set (TCAMS): investigating the mechanism of potent antimalarial compounds potentially targeting the human serotonin receptor.
+39953530	Spatiotemporal epidemiology of indigenous and imported malaria cases in Goa, western India.
+39952420	HPLC-ESI-QTOF-MS Profiling of Antibacterial Bioactive Solvent Fractions of Senna alata (L.) Roxb (Fabaceae) Leaves, and in Silico Prediction of Pharmacokinetic, Drug-likeness, and Toxicity of Major Phyto-components.
 39951341	Late killing of Plasmodium berghei sporozoites in the liver by an anti-circumsporozoite protein antibody.
 39951088	Prevalence and Predictors of Adverse Birth Outcomes and Their Implications in Assessing the Safety of New Maternal Vaccines in Kenya.
 39950472	A Potential Regulatory Network of Selected Human Erythrocytic miRNAs with Plasmodium falciparum 3D7 mRNAs: A Computational Analysis.
@@ -9988,12 +9997,3 @@
 36504817	Vesicular stomatitis virus-based vaccine targeting plasmodium blood-stage antigens elicits immune response and protects against malaria with protein booster strategy.
 36504775	Protozoan co-infections and parasite influence on the efficacy of vaccines against bacterial and viral pathogens.
 36504597	High prevalence of asymptomatic Plasmodium falciparum malaria in Makenene, a locality in the forest-savannah transition zone, Centre Region of Cameroon.
-36503858	Evaluation of transmission-blocking potential of Pv22 using clinical Plasmodium vivax infections and transgenic Plasmodium berghei.
-36503827	Towards digital diagnosis of malaria: How far have we reached?
-36503390	Superoxide Dismutase Inhibitors against Malaria, Leishmaniasis, and Chagas Disease: Systematic Review.
-36502443	Lessons from Nigeria's Adaptation of Global Health Initiatives during the COVID-19 Pandemic.
-36500473	Bioassay-Guided Fractionation with Antimalarial and Antimicrobial Activities of Paeonia officinalis.
-36500362	Phytoconstituents Assisted Biofabrication of Copper Oxide Nanoparticles and Their Antiplasmodial, and Antilarval Efficacy: A Novel Approach for the Control of Parasites.
-36500278	Quantification of Tafenoquine and 5,6-Orthoquinone Tafenoquine by UHPLC-MS/MS in Blood, Plasma, and Urine, and Application to a Pharmacokinetic Study.
-36499205	Fc Gamma Receptor IIIB NA1/NA2/SH Polymorphisms Are Associated with Malaria Susceptibility and Antibody Levels to P. falciparum Merozoite Antigens in Beninese Children.
-36498854	The Black Box of Cellular and Molecular Events of Plasmodium vivax Merozoite Invasion into Reticulocytes.
