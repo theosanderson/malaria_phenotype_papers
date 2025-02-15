@@ -77,7 +77,7 @@
 39922332	A case of imported Plasmodium malariae infection after treated Plasmodium falciparum malaria: Possible explanations and a review of the literature.
 39921411	Unlocking the potential of blood-stage vaccines for malaria elimination.
 39921057	Comparative larvicidal, pupicidal, adulticidal activity of Artemisia nilagirica (C.B. Cl) Pamp extract in controlling Culex quinquefasciatus, Anopheles stephensi, Aedes aegypti and Aedes albopictus.
-39920908	Diamonds in the rif: Alignment-free comparative genomics analysis reveals strain-transcendent plasmodium falciparum antigens amidst extensive genetic diversity.
+39920908	Diamonds in the rif: Alignment-free comparative genomics analysis reveals strain-transcendent Plasmodium falciparum antigens amidst extensive genetic diversity.
 39920861	Environmental, socioeconomic, and sociocultural drivers of monkeypox transmission in the Democratic Republic of the Congo: a One Health perspective.
 39920845	Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector Anopheles stephensi.
 39920797	Prevalence of malaria and associated factors among febrile children under 15 years at Bududa General Hospital, Eastern Uganda.
@@ -177,7 +177,7 @@
 39889895	Differential B cell mediated immune response during Plasmodium yoelii infection in mice.
 39889312	Combining the zebrafish embryo developmental toxicity assay (ZEDTA) with hemoglobin staining to accelerate the research of novel antimalarial drugs for pregnant women.
 39888481	Molecular detection of Wolbachia sp. and Cytoplasmic incompatibility factors (CifA/B) in wild caught mosquitoes in Côte d'Ivoire.
-39887910	In vitro antiplasmodial activity and chemical composition of Combretum aculeatum, a medicinal plant from Niger.
+39887910	In Vitro Antiplasmodial Activity and Chemical Composition of Combretum aculeatum, a Medicinal Plant From Niger.
 39887616	Diel modulation of perireceptor activity influences olfactory sensitivity in diurnal and nocturnal mosquitoes.
 39886389	Hantavirus antibody seroprevalence and risk factors among adults in West Kazakhstan, 2023.
 39886087	IgM against Merozoite Surface Protein 1-Block 2 Haplotypes as New Tools for Plasmodium vivax Infections.
