@@ -3,8 +3,8 @@
 39953857	Molecular Docking and Pharmacokinetic Properties of Chrysin, Indole-3-carbinol, and Curcumin in the Biological Context of Plasmodium falciparum 3D7.
 39953856	Gorakhpur experience of Japanese Encephalitis Management: A Successful One Health Approach.
 39953625	Small bowel obstruction due to ascariasis in a child from southern Ethiopia: a case report.
-39953558	Impact of the intensity of infection in birds on Plasmodium development within Culex pipiens mosquitoes.
 39953553	Unravelling the mode of action of the Tres Cantos Antimalarial Set (TCAMS): investigating the mechanism of potent antimalarial compounds potentially targeting the human serotonin receptor.
+39953558	Impact of the intensity of infection in birds on Plasmodium development within Culex pipiens mosquitoes.
 39953530	Spatiotemporal epidemiology of indigenous and imported malaria cases in Goa, western India.
 39952420	HPLC-ESI-QTOF-MS Profiling of Antibacterial Bioactive Solvent Fractions of Senna alata (L.) Roxb (Fabaceae) Leaves, and in Silico Prediction of Pharmacokinetic, Drug-likeness, and Toxicity of Major Phyto-components.
 39951341	Late killing of Plasmodium berghei sporozoites in the liver by an anti-circumsporozoite protein antibody.
