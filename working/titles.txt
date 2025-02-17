@@ -1,3 +1,16 @@
+39959466	Quantification of Pseudomonas aeruginosa biofilms using electrochemical methods.
+39959456	Emerging malaria in Indonesia: An overview of Plasmodium knowlesi infections.
+39959140	Ballpark Estimates of Budget Space for Health Workforce Investments in the 47 Countries of the WHO African Region: A Modelling Study.
+39958709	Generation of Cas9 Knock-In Culex quinquefasciatus Mosquito Cells.
+39958592	John Sappington MD: The Missouri Country Doctor Who Introduced Quinine for the Treatment of Malaria in North America.
+39958571	[Adherence to the second and third doses of seasonal malaria chemoprevention among children aged 3 to 59 months and 6-9 years in the commune of Guidimouni, Niger].
+39958569	Funding and compliance to Test-Before-Treat recommendation in management of uncomplicated malaria among primary health care workers in Anambra State, Nigeria - a cross-sectional comparative study.
+39957778	Addressing the root causes: leveraging nutrition to accelerate the end of TB.
+39957772	Estimating the potential health and economic impacts of new tuberculosis vaccines under varying delivery strategies in Delhi and Gujarat, India: a modelling study.
+39957739	Dataset for a novel AI-powered diagnostic tool for Plasmodium parasite detection authors.
+39957376	Can malaria be eliminated? 15 years on.
+39957048	Kalanchoe crenata Haw. (Crassulacea) Decreases Hippocampal Neuron Loss and Improves Memory and Executive Function in Aged Rats: Implications for Anti-Inflammatory and Antioxidant Mechanisms.
+39957009	First-in-human safety, tolerability, pharmacokinetics and pilot food-effect study of the candidate antimalarial compound MMV367.
 39956641	Molecular Survey of Hemosporidian Parasites in Owls in Mainland Portugal.
 39956026	Partial splenectomy for massive malarial splenomegaly: A unique case from an Australian regional centre.
 39955042	Macoligophones A-I, prenylated acetophenone dimers and monomers from Maclurodendron oligophlebium.
@@ -9984,16 +9997,3 @@
 36509055	Using Malarial Retinopathy to Improve the Diagnosis of Pediatric Cerebral Malaria.
 36509054	Primaquine-induced Severe Hemolysis in the Absence of Concomitant Malaria: Effects on G6PD Activity and Renal Function.
 36509046	The Impact of Emerging Plasmodium knowlesi on Accurate Diagnosis by Light Microscopy: A Systematic Review and Modeling Analysis.
-36508454	Cytochrome P450 2D6 (CYP2D6) and glucose-6-phosphate dehydrogenase (G6PD) genetic variations in Thai vivax malaria patients: Implications for 8-aminoquinoline radical cure.
-36508338	Prevalence and characterization of piperaquine, mefloquine and artemisinin derivatives triple-resistant Plasmodium falciparum in Cambodia.
-36507890	Novel 3-Trifluoromethyl-1,2,4-oxadiazole Analogues of Astemizole with Multi-stage Antiplasmodium Activity and In Vivo Efficacy in a Plasmodium berghei Mouse Malaria Infection Model.
-36506558	Nitidine chloride, a benzophenanthridine alkaloid from Zanthoxylum nitidum (Roxb.) DC., exerts multiple beneficial properties, especially in tumors and inflammation-related diseases.
-36506377	Insecticide resistance status of malaria vectors in the malaria endemic states of India: implications and way forward for malaria elimination.
-36506308	Network pharmacology- and molecular docking-based approaches to unveil the pharmacological mechanisms of dihydroartemisinin against esophageal carcinoma.
-36506024	PfHMGB2 has a role in malaria parasite mosquito infection.
-36506016	Initiation of anti-retroviral/Trimethoprim-Sulfamethoxazole therapy in a longitudinal cohort of HIV-1 positive individuals in Western Kenya rapidly decreases asymptomatic malarial parasitemia.
-36506011	Epitope profiling of monoclonal antibodies to the immunodominant antigen BmGPI12 of the human pathogen Babesia microti.
-36505610	Occurrence and clinical features of HIV and malaria in co-infected individuals in Osun State, Nigeria.
-36505586	Economic burden estimation associated with dengue and chikungunya in Gujarat, India.
-36505432	HIV-1 infected humanized DRAGA mice develop HIV-specific antibodies despite lack of canonical germinal centers in secondary lymphoid tissues.
-36505414	Dynamics and immunomodulation of cognitive deficits and behavioral changes in non-severe experimental malaria.
