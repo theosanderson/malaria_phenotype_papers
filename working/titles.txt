@@ -1,3 +1,11 @@
+39963714	G6PD deficiency is associated with an increased risk of acute kidney injury independent of hemolytic complications in children with severe malaria.
+39963702	Choice of Drug for Malaria Prevention During Pregnancy Does Not Affect Infant Serologic Responses to Plasmodium falciparum Erythrocyte Membrane Proteins 1.
+39963646	Malaria-Associated Spontaneous Splenic Rupture With Coagulopathy and Hemodynamic Compromise: A Case Report.
+39963459	Bioactive polyketides from cultures of the entomopathogenic fungus Hypocrella luteola TBRC-BCC 76666.
+39963371	Behavioral and Socio-Economic Determinants of Antimicrobial Resistance in Sub-Saharan Africa: A Systematic Review.
+39963041	A Short-Read Amplicon Sequencing Protocol and Bioinformatic Pipeline for Ecological Surveillance of Dipteran Disease Vectors.
+39962580	Cytomegalovirus reactivation and acute and chronic complications in children with cerebral malaria: a prospective cohort study.
+39962574	Perceived causes and solutions for malaria prevalence among seasonal migrant workers in Northwest Ethiopia: a qualitative study.
 39961693	Targeting malaria in high-risk populations in low endemic regions in northern Namibia: a quasi-experimental controlled trial to reduce malaria in seasonal agricultural workers and cattle herders.
 39960755	[Hematological analyzer Sysmex XN-1000: Contribution of the "iRBC?" flag in the diagnostic guidance of malaria in endemic areas].
 39960059	Effects of D-Tetramethrin on Zebrafish Development and Immune System.
@@ -9989,11 +9997,3 @@
 36511036	Salivary AsHPX12 influences pre-blood meal associated behavioral properties in Anopheles stephensi.
 36511034	Linkages between blood groups and malaria susceptibility.
 36510333	Capsaicin decreases fecundity in the Asian malaria vector Anopheles stephensi by inhibiting the target of rapamycin signaling pathway.
-36510199	Antimalarial and immunomodulatory potential of chalcone derivatives in experimental model of malaria.
-36510009	High prevalence of persistent residual parasitemia on days 3 and 14 after artemether-lumefantrine or pyronaridine-artesunate treatment of uncomplicated Plasmodium falciparum malaria in Nigeria.
-36509797	Natural plant diet impacts phenotypic expression of pyrethroid resistance in Anopheles mosquitoes.
-36509228	Characteristics of γδTCR on myeloid cells from C57BL/6 mice with Plasmodium yoelii nigeriensis infection.
-36509129	Contribution of the TIM-3/Gal-9 immune checkpoint to tropical parasitic diseases.
-36509063	Efficacy, Safety, Tolerability, and Pharmacokinetics of MMV390048 in Acute Uncomplicated Malaria.
-36509060	A Pilot Comparison of Fixatives for Hookworm Real-time Polymerase Chain Reaction.
-36509057	The Value Added of Incorporating Qualitative Approaches into Malaria Surveillance, Monitoring, and Evaluation.
