@@ -1,3 +1,5 @@
+39960755	[Hematological analyzer Sysmex XN-1000: Contribution of the "iRBC?" flag in the diagnostic guidance of malaria in endemic areas].
+39960059	Effects of D-Tetramethrin on Zebrafish Development and Immune System.
 39959466	Quantification of Pseudomonas aeruginosa biofilms using electrochemical methods.
 39959456	Emerging malaria in Indonesia: An overview of Plasmodium knowlesi infections.
 39959140	Ballpark Estimates of Budget Space for Health Workforce Investments in the 47 Countries of the WHO African Region: A Modelling Study.
@@ -9995,5 +9997,3 @@
 36509060	A Pilot Comparison of Fixatives for Hookworm Real-time Polymerase Chain Reaction.
 36509057	The Value Added of Incorporating Qualitative Approaches into Malaria Surveillance, Monitoring, and Evaluation.
 36509055	Using Malarial Retinopathy to Improve the Diagnosis of Pediatric Cerebral Malaria.
-36509054	Primaquine-induced Severe Hemolysis in the Absence of Concomitant Malaria: Effects on G6PD Activity and Renal Function.
-36509046	The Impact of Emerging Plasmodium knowlesi on Accurate Diagnosis by Light Microscopy: A Systematic Review and Modeling Analysis.
