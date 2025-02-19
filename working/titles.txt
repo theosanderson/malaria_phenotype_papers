@@ -1,3 +1,5 @@
+39968164	Profiling antimalarial drug-resistant haplotypes in Pfcrt, Pfmdr1, Pfdhps and Pfdhfr genes in Plasmodium falciparum causing malaria in the Central Region of Ghana: a multicentre cross-sectional study.
+39966899	Enhancing the uptake of intermittent preventive treatment for malaria in pregnancy: a scoping review of interventions and gender-informed approaches.
 39966832	Correction: Prevalence of malaria and associated factors among pregnant women in East Dembia District Northwest Ethiopia.
 39965915	Para-infective opsoclonus-myoclonus syndrome due to malaria in a returning traveller.
 39964989	Coverage and contextual factors associated with insecticide-treated net use among women of reproductive age in Nigeria: evidence from the 2021 malaria indicator survey data.
@@ -2971,7 +2973,7 @@
 38935630	A new landscape for malaria vaccine development.
 38935423	Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar.
 38933531	A new mechanism of antibody diversity: formation of the natural antibodies containing LAIR1 and LILRB1 extracellular domains.
-38932611	Exploring Genetic Silencing: RNAi and CRISPR-Cas Potential Against Drug Resistance in Malaria.
+38932611	Exploring Genetic Silencing: RNAi and CRISPR-Cas Potential against Drug Resistance in Malaria.
 38932315	How to Accelerate Early Stage of Malaria Vaccine Development by Optimizing Functional Assays.
 38931823	Tiny Green Army: Fighting Malaria with Plants and Nanotechnology.
 38930934	Spermacoce alata Aubl. Essential Oil: Chemical Composition, In Vitro Antioxidant Activity, and Inhibitory Effects of Acetylcholinesterase, α-Glucosidase and β-Lactamase.
@@ -9995,5 +9997,3 @@
 36511329	Clearing of hemozoin crystals in malaria parasites enables whole-cell STED microscopy.
 36511045	High vectorial transmission of malaria in urban and rural settings in the northern, western and eastern regions of Côte d'Ivoire.
 36511043	Changing pattern of severe manifestations of Plasmodium falciparum and Plasmodium vivax malaria: A retrospective study from Bikaner, India.
-36511042	A note on the insecticide susceptibility status of secondary malaria vector An. annularis in Jharkhand state of India.
-36511041	Field evaluation of biosurfactants, surfactin and di-rhamnolipid produced by Bacillus subtilis subsp. subtilis (VCRC B471) and Pseudomonas fluorescens (VCRC B426) against immature stages of the urban malaria vector Anopheles stephensi.
