@@ -1,3 +1,5 @@
+39964989	Coverage and contextual factors associated with insecticide-treated net use among women of reproductive age in Nigeria: evidence from the 2021 malaria indicator survey data.
+39964912	Post-artesunate delayed hemolysis in African children with severe malaria: incidence, medical impact and prevention.
 39963714	G6PD deficiency is associated with an increased risk of acute kidney injury independent of hemolytic complications in children with severe malaria.
 39963702	Choice of Drug for Malaria Prevention During Pregnancy Does Not Affect Infant Serologic Responses to Plasmodium falciparum Erythrocyte Membrane Proteins 1.
 39963646	Malaria-Associated Spontaneous Splenic Rupture With Coagulopathy and Hemodynamic Compromise: A Case Report.
@@ -9995,5 +9997,3 @@
 36511041	Field evaluation of biosurfactants, surfactin and di-rhamnolipid produced by Bacillus subtilis subsp. subtilis (VCRC B471) and Pseudomonas fluorescens (VCRC B426) against immature stages of the urban malaria vector Anopheles stephensi.
 36511039	Insecticide susceptibility status of malaria vectors in Himachal Pradesh, India.
 36511037	Mosquito larvicidal potential of Solanum xanthocarpum leaf extract derived silver nanoparticles and its bio-toxicity on non-target aquatic organism.
-36511036	Salivary AsHPX12 influences pre-blood meal associated behavioral properties in Anopheles stephensi.
-36511034	Linkages between blood groups and malaria susceptibility.
