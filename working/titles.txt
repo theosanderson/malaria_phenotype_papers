@@ -1,3 +1,14 @@
+39975909	Relating household entomological measures to individual malaria risk.
+39975885	Performance of Molecular Inversion Probe DR23K and Paragon MAD4HatTeR Amplicon Sequencing Panels for Detection of Plasmodium falciparum Mutations Associated with Antimalarial Drug Resistance.
+39975623	Evasive mechanisms of human VSG and PfEMP1 antigens with link to Vaccine scenario: a review.
+39975618	In vitro molecular assessment of Cryptosporidium parvum parasitic load on human ileocecal adenocarcinoma cell culture after targeting by tavaborole (AN2690).
+39975479	Application of a new highly multiplexed amplicon sequencing tool to evaluate Plasmodium falciparum antimalarial resistance and relatedness in individual and pooled samples from Dschang, Cameroon.
+39975299	Distinguishing new from persistent infections at the strain level using longitudinal genotyping data.
+39975215	Advancing (-)-Premarineosin A as a Potent Antimalarial Therapeutic via Metabolic Engineering and Late-Stage Derivatization.
+39975147	Sweeps in space: leveraging geographic data to identify beneficial alleles in Anopheles gambiae.
+39974570	Malaria prevalence and patients' knowledge, attitude, and preventive practices toward the disease in the Jawi District, Awi Zone, Northwest Ethiopia.
+39974222	Revolutionizing Severe Malaria Management: The Role of CytoSorb® Hemoadsorption in Treating Malaria-Induced Liver Dysfunction.
+39974085	Incident Stroke in Pediatric Sickle cell Anemia Despite Overall Improved Transcranial Doppler Velocity in a Ugandan Hydroxyurea Trial: Antecedent and ongoing risks.
 39972512	Asymptomatic malaria infections and associated risk factors in malaria-eliminating settings of Nong District, Savannakhet Province, Lao People's Democratic Republic.
 39972481	Conceptualizing the implementation of post-discharge malaria chemoprevention in Malawi using a co-design approach.
 39972442	Prevalence of short inter-birth intervals and associated factors among women of reproductive age: evidence from a nationally representative survey in Tanzania.
@@ -33,6 +44,7 @@
 39957778	Addressing the root causes: leveraging nutrition to accelerate the end of TB.
 39957772	Estimating the potential health and economic impacts of new tuberculosis vaccines under varying delivery strategies in Delhi and Gujarat, India: a modelling study.
 39957739	Dataset for a novel AI-powered diagnostic tool for Plasmodium parasite detection authors.
+39957516	Haemosporidian infection risk and community structure determined by duck feeding guild.
 39957376	Can malaria be eliminated? 15 years on.
 39957048	Kalanchoe crenata Haw. (Crassulacea) Decreases Hippocampal Neuron Loss and Improves Memory and Executive Function in Aged Rats: Implications for Anti-Inflammatory and Antioxidant Mechanisms.
 39957009	First-in-human safety, tolerability, pharmacokinetics and pilot food-effect study of the candidate antimalarial compound MMV367.
@@ -9985,15 +9997,3 @@
 36516945	Formulation and evaluation of the antimalarial N-89 as a transdermal drug candidate.
 36516858	Single-Chain Polymer Nanoparticles Targeting the Ookinete Stage of Malaria Parasites.
 36515978	A coordinated transcriptional switching network mediates antigenic variation of human malaria parasites.
-36515553	Patterns of Heterochromatin Transitions Linked to Changes in the Expression of Plasmodium falciparum Clonally Variant Genes.
-36515128	Development of Mitochondria Targeting AIE-Active Cyclometalated Iridium Complexes as Potent Antimalarial Agents.
-38455307	Breaking the cycle of malaria treatment failure.
-36514171	Using social media for health education and promotion: a pilot of WeChat-based prize quizzes on China national malaria day.
-36514125	Molecular characterization and genetic authentication assay for Anopheles 'hemocyte-like' cell lines 4a-3A and 4a-3B.
-36513700	Overexpression of hepatocyte EphA2 enhances liver-stage infection by Plasmodium vivax.
-36513317	Knowledge, attitudes, and practices about malaria in travelers to risk areas in Peru.
-36512904	Proteomic characterization of Toxoplasma gondii ME49 derived strains resistant to the artemisinin derivatives artemiside and artemisone implies potential mode of action independent of ROS formation.
-36512705	Cytoscape stringApp 2.0: Analysis and Visualization of Heterogeneous Biological Networks.
-36512590	Expression of Concern: Malaria in Dielmo, a Senegal village: Is its elimination possible after seven years of implementation of long-lasting insecticide-treated nets?
-36512509	Dactylosporolides: Glycosylated Macrolides from Dactylosporangium fulvum.
-36512492	Repurposed dihydroorotate dehydrogenase inhibitors with efficacy against drug-resistant Acinetobacter baumannii.
