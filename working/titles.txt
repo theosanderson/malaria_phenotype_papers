@@ -1,3 +1,4 @@
+39969906	Delayed-onset Plasmodium ovale malaria in returning Thai military personnels from the United Nations Mission in South Sudan (UNMISS).
 39968164	Profiling antimalarial drug-resistant haplotypes in Pfcrt, Pfmdr1, Pfdhps and Pfdhfr genes in Plasmodium falciparum causing malaria in the Central Region of Ghana: a multicentre cross-sectional study.
 39966899	Enhancing the uptake of intermittent preventive treatment for malaria in pregnancy: a scoping review of interventions and gender-informed approaches.
 39966832	Correction: Prevalence of malaria and associated factors among pregnant women in East Dembia District Northwest Ethiopia.
@@ -9996,4 +9997,3 @@
 36511651	A Plasmodium falciparum ubiquitin-specific protease (PfUSP) is essential for parasite survival and its disruption enhances artemisinin efficacy.
 36511329	Clearing of hemozoin crystals in malaria parasites enables whole-cell STED microscopy.
 36511045	High vectorial transmission of malaria in urban and rural settings in the northern, western and eastern regions of Côte d'Ivoire.
-36511043	Changing pattern of severe manifestations of Plasmodium falciparum and Plasmodium vivax malaria: A retrospective study from Bikaner, India.
