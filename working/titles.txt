@@ -1,3 +1,4 @@
+39976257	From Bench to Bedside: Unraveling Cerebral Malaria and Malarial Retinopathy by Combining Clinical and Pre-Clinical Perspectives.
 39975909	Relating household entomological measures to individual malaria risk.
 39975885	Performance of Molecular Inversion Probe DR23K and Paragon MAD4HatTeR Amplicon Sequencing Panels for Detection of Plasmodium falciparum Mutations Associated with Antimalarial Drug Resistance.
 39975623	Evasive mechanisms of human VSG and PfEMP1 antigens with link to Vaccine scenario: a review.
@@ -9996,4 +9997,3 @@
 36517064	Prevalence of transfusion-transmitted infections in Saudi Arabia blood donors: A nationwide, cross-sectional study.
 36516945	Formulation and evaluation of the antimalarial N-89 as a transdermal drug candidate.
 36516858	Single-Chain Polymer Nanoparticles Targeting the Ookinete Stage of Malaria Parasites.
-36515978	A coordinated transcriptional switching network mediates antigenic variation of human malaria parasites.
