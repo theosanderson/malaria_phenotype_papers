@@ -1,3 +1,6 @@
+39977439	Improving neglected tropical disease services and integration into primary healthcare in Southern Nations, Nationalities and People's Region, Ethiopia: Results from a mixed methods evaluation of feasibility, acceptability and cost effectiveness.
+39977425	Revisiting What Constitutes a Neglected Tropical Disease?
+39977420	Advancing malaria reactive case detection in a Zambia-like setting: A modeling study.
 39976257	From Bench to Bedside: Unraveling Cerebral Malaria and Malarial Retinopathy by Combining Clinical and Pre-Clinical Perspectives.
 39975909	Relating household entomological measures to individual malaria risk.
 39975885	Performance of Molecular Inversion Probe DR23K and Paragon MAD4HatTeR Amplicon Sequencing Panels for Detection of Plasmodium falciparum Mutations Associated with Antimalarial Drug Resistance.
@@ -9994,6 +9997,3 @@
 36517492	A Mycobacterium tuberculosis fingerprint in human breath allows tuberculosis detection.
 36517330	Plasmodium malariae: the persisting mysteries of a persistent parasite.
 36517112	Promising practices for the collaborative planning of integrated health campaigns from a synthesis of case studies.
-36517064	Prevalence of transfusion-transmitted infections in Saudi Arabia blood donors: A nationwide, cross-sectional study.
-36516945	Formulation and evaluation of the antimalarial N-89 as a transdermal drug candidate.
-36516858	Single-Chain Polymer Nanoparticles Targeting the Ookinete Stage of Malaria Parasites.
