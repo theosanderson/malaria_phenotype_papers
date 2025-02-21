@@ -1,3 +1,5 @@
+39982000	Leucocytozoon infections in tits (Aves, Paridae): blood and tissue stages investigated using an integrative approach.
+39981928	Hydroxychloroquine: A double‑edged sword (Review).
 39981376	Unveiling new perspectives about the onset of neurological and cognitive deficits in cerebral malaria: exploring cellular and neurochemical mechanisms.
 39981224	Adherence to stand-by emergency treatment and mosquito protection measures in short-term travellers to moderate malaria risk areas.
 39981010	In vivo Antimalarial and Liver Function Profiles of Methanol Extract of Salvia officinalis (Common Sage) Leaf in Plasmodium berghei-Infected Mice.
@@ -9995,5 +9997,3 @@
 36522643	Characterizing human movement patterns using GPS data loggers in an area of persistent malaria in Zimbabwe along the Mozambique border.
 36522231	Anopheles stephensi in Africa: vector control opportunities for cobreeding An. stephensi and Aedes arbovirus vectors.
 36521951	Global estimates of the number of pregnancies at risk of malaria from 2007 to 2020: a demographic study.
-36521942	Hepcidin-guided screen-and-treat interventions for young children with iron-deficiency anaemia in The Gambia: an individually randomised, three-arm, double-blind, controlled, proof-of-concept, non-inferiority trial.
-36521205	A microfluidic device for assessment of E-selectin-mediated neutrophil recruitment to inflamed endothelium and prediction of therapeutic response in sickle cell disease.
