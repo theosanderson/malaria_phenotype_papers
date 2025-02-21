@@ -1,3 +1,6 @@
+39981376	Unveiling new perspectives about the onset of neurological and cognitive deficits in cerebral malaria: exploring cellular and neurochemical mechanisms.
+39981224	Adherence to stand-by emergency treatment and mosquito protection measures in short-term travellers to moderate malaria risk areas.
+39981010	In vivo Antimalarial and Liver Function Profiles of Methanol Extract of Salvia officinalis (Common Sage) Leaf in Plasmodium berghei-Infected Mice.
 39979994	Haemoproteus tartakovskyi and Plasmodium relictum (Haemosporida, Apicomplexa) differentially express distinct 18S rRNA gene variants in bird hosts and dipteran vectors.
 39979987	Anopheles arabiensis larval habitats characterization and Anopheles species diversity in water bodies from Jozini, KwaZulu-Natal Province.
 39979954	Use of a portable field-adapted liquid chromatographic system (C-Vue machine) to estimate the quantity of deltamethrin on insecticide-treated nets paired with WHO cone bioassays to determine ITN bioefficacy as part of three-year durability monitoring in Mali.
@@ -9994,6 +9997,3 @@
 36521951	Global estimates of the number of pregnancies at risk of malaria from 2007 to 2020: a demographic study.
 36521942	Hepcidin-guided screen-and-treat interventions for young children with iron-deficiency anaemia in The Gambia: an individually randomised, three-arm, double-blind, controlled, proof-of-concept, non-inferiority trial.
 36521205	A microfluidic device for assessment of E-selectin-mediated neutrophil recruitment to inflamed endothelium and prediction of therapeutic response in sickle cell disease.
-36520849	Factors influencing intermittent preventive treatment for malaria prevention among pregnant women accessing antenatal care in selected primary health care facilities of Bwari Area Council, Abuja Nigeria.
-36520830	Internal and external microbiota of home-caught Anopheles coluzzii (Diptera: Culicidae) from Côte d'Ivoire, Africa: Mosquitoes are filthy.
-36520682	Molecular mechanisms of insect immune memory and pathogen transmission.
