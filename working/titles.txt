@@ -1,9 +1,9 @@
 39985024	Intermittent screening using ultra-sensitive malaria rapid diagnostic test and treatment with pyronaridine-artesunate compared to standard preventive treatment with sulfadoxine-pyrimethamine for malaria prevention in pregnant women in Kinshasa, DRC.
+39985013	Phase one of a hybrid effectiveness-implementation study to assess the feasibility, acceptability and effectiveness of implementing seasonal malaria chemoprevention in Nampula Province, Mozambique.
 39985008	Plasmodium falciparum gametocyte burden in a Tanzanian heterogeneous transmission setting.
 39984916	Assessing the influence of socioeconomic and environmental variables on malaria risk in Nigerian children under 5 years: a GLMM approach.
-39984601	The differential effect of Interferon-gamma on acute kidney injury and parasitemia in experimental malaria.
-39985013	Phase one of a hybrid effectiveness-implementation study to assess the feasibility, acceptability and effectiveness of implementing seasonal malaria chemoprevention in Nampula Province, Mozambique.
 39984907	The 1985 Plasmodium vivax malaria elimination campaign in Santa Catarina, Brazil: the feasibility of using serology amid other integrated tools in the last mile.
+39984601	The differential effect of Interferon-gamma on acute kidney injury and parasitemia in experimental malaria.
 39984355	Having your cake and eating it too - a new target for sporozoite-neutralising mAbs.
 39984047	Emerging concepts in the molecular cell biology and functions of mammalian erythrocytes.
 39982936	Topic: Distribution of Anopheles stephensi bioforms in selected districts of Rajasthan, India.
