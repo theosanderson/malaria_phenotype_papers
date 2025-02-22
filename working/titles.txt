@@ -1,3 +1,4 @@
+39982936	Topic: Distribution of Anopheles stephensi bioforms in selected districts of Rajasthan, India.
 39982000	Leucocytozoon infections in tits (Aves, Paridae): blood and tissue stages investigated using an integrative approach.
 39981928	Hydroxychloroquine: A double‑edged sword (Review).
 39981376	Unveiling new perspectives about the onset of neurological and cognitive deficits in cerebral malaria: exploring cellular and neurochemical mechanisms.
@@ -9996,4 +9997,3 @@
 36522667	Mapping under-five child malaria risk that accounts for environmental and climatic factors to aid malaria preventive and control efforts in Ghana: Bayesian geospatial and interactive web-based mapping methods.
 36522643	Characterizing human movement patterns using GPS data loggers in an area of persistent malaria in Zimbabwe along the Mozambique border.
 36522231	Anopheles stephensi in Africa: vector control opportunities for cobreeding An. stephensi and Aedes arbovirus vectors.
-36521951	Global estimates of the number of pregnancies at risk of malaria from 2007 to 2020: a demographic study.
