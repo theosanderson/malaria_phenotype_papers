@@ -1,3 +1,16 @@
+39992706	Congenital malaria in newborns of mothers living in highly endemic parts of Kinshasa, Democratic Republic of Congo.
+39992119	Within-host modeling of primaquine-induced hemolysis in hemizygote glucose-6-phosphate dehydrogenase deficient healthy volunteers.
+39992104	Deletion of the chloroquine resistance transporter gene confers reduced piperaquine susceptibility to the rodent malaria parasite Plasmodium berghei.
+39991436	Towards combining self-organizing maps (SOM) and convolutional neural network (CNN) for improving model accuracy: Application to malaria vectors phenotypic resistance.
+39991430	Etioepidemiological and Laboratory Profile of Tropical Fever in Patients Presenting With Acute Febrile Illness in Wardha District in Central India: An Observational Study.
+39990732	Molecular modeling of the interactions of compounds of Irvinga wombulu against dihydrofolate reductase-thymidylate synthase in Plasmodium falciparum towards development of anti-malarial drug.
+39990443	Structure of endogenous Pfs230:Pfs48/45 in complex with potent malaria transmission-blocking antibodies.
+39990394	Targeted genomic surveillance of insecticide resistance in African malaria vectors.
+39990389	Heterogeneous constraint and adaptation across the malaria parasite life cycle.
+39990385	Degradation of ribosomal RNA during Plasmodium falciparum gametocytogenesis.
+39990335	Cethromycin Pharmacokinetics and Pharmacodynamics for Single Dose Cure of Plasmodium berghei Liver Stages.
+39989970	Malaria transmission risk in the city of Accra, Ghana: vector behavior and distribution.
+39989944	Lessons learned during the establishment of a functional National Public Health Institute in the Democratic Republic of Congo: from 2018 to 2024.
 39988320	paraCell: a novel software tool for the interactive analysis and visualization of standard and dual host-parasite single-cell RNA-seq data.
 39987830	Impact of urbanization on the house sparrow (Passer domesticus): Serum proteome and pathogen prevalence.
 39987229	Improving Malaria diagnosis through interpretable customized CNNs architectures.
@@ -40,6 +53,7 @@
 39975299	Distinguishing new from persistent infections at the strain level using longitudinal genotyping data.
 39975215	Advancing (-)-Premarineosin A as a Potent Antimalarial Therapeutic via Metabolic Engineering and Late-Stage Derivatization.
 39975147	Sweeps in space: leveraging geographic data to identify beneficial alleles in Anopheles gambiae.
+39975080	Ancient origin of an urban underground mosquito.
 39974570	Malaria prevalence and patients' knowledge, attitude, and preventive practices toward the disease in the Jawi District, Awi Zone, Northwest Ethiopia.
 39974222	Revolutionizing Severe Malaria Management: The Role of CytoSorb® Hemoadsorption in Treating Malaria-Induced Liver Dysfunction.
 39974085	Incident Stroke in Pediatric Sickle cell Anemia Despite Overall Improved Transcranial Doppler Velocity in a Ugandan Hydroxyurea Trial: Antecedent and ongoing risks.
@@ -9983,17 +9997,3 @@
 36531969	Antimicrobial Agents Based on Metal Complexes: Present Situation and Future Prospects.
 36531309	Isoprenoid alcohols utilization by malaria parasites.
 36530433	Blood-stage antiplasmodial activity and oocyst formation-blockage of metallo copper-cinchonine complex.
-36530423	PfATP4 inhibitors in the Medicines for Malaria Venture Malaria Box and Pathogen Box block the schizont-to-ring transition by inhibiting egress rather than invasion.
-36530422	Targeting malaria parasites with novel derivatives of azithromycin.
-36529768	Mapping age- and sex-specific HIV prevalence in adults in sub-Saharan Africa, 2000-2018.
-36529451	Sex-biased, but not plumage color-based, prevalence of haemosporidian parasites in free-range chickens.
-36528727	Tobacco-Based Vaccines, Hopes, and Concerns: A Systematic Review.
-36528584	Dinuclear and mononuclear metal(II) polypyridyl complexes against drug-sensitive and drug-resistant Plasmodium falciparum and their mode of action.
-36528569	Ideational factors and their association with insecticide treated net use in Magoe District, Mozambique.
-36528397	Engineering yeast for industrial-level production of the antimalarial drug artemisinin.
-36528212	Effect of Sauropus androgynus L. Merr. on dengue virus-2: An in vitro and in silico study.
-36527518	Quinolone: a versatile therapeutic compound class.
-36527272	Millions of excess cases and thousands of excess deaths of malaria occurred globally in 2020 during the COVID-19 pandemic.
-36527116	The use of drones for mosquito surveillance and control.
-36527077	Genetic diversity of transmission-blocking vaccine candidate antigens Pvs25 and Pvs28 in Plasmodium vivax isolates from China.
-36527072	Manure and mosquitoes: life history traits of two malaria vector species enhanced by larval exposure to cow dung, whilst chicken dung has a strong negative effect.
