@@ -195,6 +195,7 @@
 39917486	Management of CML and Pregnancy in Low-and Middle-income Countries.
 39916434	Platinum Group Metals against Parasites: State of the Art and Future Perspectives.
 39916410	Analysis of somatic piRNAs in the malaria mosquito Anopheles coluzzii reveals atypical classes of genic small RNAs.
+39915939	Discovery of a Noncompetitive Open-Flap Selective Inhibitor of Plasmepsin II with Antiplasmodial Activity.
 39915825	Elevating larval source management as a key strategy for controlling malaria and other vector-borne diseases in Africa.
 39915805	Evaluation of dried blood spot sampling for real-time PCR malaria diagnostics in a rural setting in Angola.
 39915774	Acceptance and affordability of malaria vaccines: issues relating to hesitancy and willingness to pay amongst Nigerian parents of under-five children.
@@ -2195,6 +2196,7 @@
 39232051	Insights into malaria vectors-plant interaction in a dryland ecosystem.
 39231261	Imported malaria in China.
 39231131	Unveiling the significance of women's role in health-seeking behavior during suspected malaria fever in risk populations of Nepal: Mixed methods cross-sectional study.
+39230949	Outcomes of Adjunctive Corticosteroid Treatment in Hypoxemic Adults Hospitalized for Mycoplasma pneumoniae Pneumonia: A Retrospective Cohort Study.
 39230164	Acquired thrombotic thrombocytopenic purpura in a patient with plasmodium vivax malaria: A case report.
 39229023	Sensitive and modular amplicon sequencing of Plasmodium falciparum diversity and resistance for research and public health.
 39228384	Oleuropein mediated autophagy begets antimalarial drug resistance.
@@ -2294,6 +2296,7 @@
 39194209	Dose-fractionation studies of a Plasmodium phosphatidylinositol 4-kinase inhibitor in a humanized mouse model of malaria.
 39193724	Hybrid Diffusion Model for Stable, Affinity-Driven, Receptor-Aware Peptide Generation.
 39193502	The immune factors involved in the rapid clearance of bacteria from the midgut of the tick Ixodes ricinus.
+39192639	From Traditional Use to Modern Evidence: The Medicinal Chemistry of Antimalarials from Genus Artemisia.
 39192608	Absence of developmental and reproductive toxicity in rats, rabbits, and zebrafish embryos exposed to antimalarial drug cabamiquine.
 39192543	Plasma ofCS-modified CD44 predicts the survival of patients with lung cancer.
 39192376	The impact of hygienic living conditions on the differentiation of male body height at the beginning of the twentieth century in the USSR.
@@ -9994,6 +9997,3 @@
 36527116	The use of drones for mosquito surveillance and control.
 36527077	Genetic diversity of transmission-blocking vaccine candidate antigens Pvs25 and Pvs28 in Plasmodium vivax isolates from China.
 36527072	Manure and mosquitoes: life history traits of two malaria vector species enhanced by larval exposure to cow dung, whilst chicken dung has a strong negative effect.
-36526627	A genetically modified Plasmodium berghei parasite as a surrogate for whole-sporozoite vaccination against P. vivax malaria.
-36526359	Erratum to 'In vitro activity of eravacycline, a novel synthetic halogenated tetracycline, against the malaria parasite Plasmodium falciparum' [Journal of Global Antimicrobial Resistance 24 (2021) 93-97].
-36526310	Distribution, frequency and clinical presentation of leptospirosis and coinfections: a systematic review protocol.
