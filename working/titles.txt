@@ -1,3 +1,9 @@
+39996370	A Silicon Rhodamine-fused Glibenclamide to Label and Detect Malaria-infected Red Blood Cells.
+39996198	Impact of Climate Change on the Global Dynamics of Vector-Borne Infectious Diseases: A Narrative Review.
+39995682	An optimized deep-forest algorithm using a modified differential evolution optimization algorithm: A case of host-pathogen protein-protein interaction prediction.
+39995501	Challenges in managing gestational malaria due to Plasmodium vivax with severe complications: A clinical case from Colombia.
+39995030	Cytological and histopathological bone marrow findings in dogs with natural Babesia rossi infection.
+39994740	The role of climatic changes in the emergence and re-emergence of infectious diseases: bibliometric analysis and literature-supported studies on zoonoses.
 39994667	Prevalence of thrombocytopenia among patients with malaria in Ethiopia: a systematic review and metanalysis.
 39994639	Aqueous extract of Enantia chlorantha Oliv. demonstrates antimalarial activity and improves redox imbalance and biochemical alterations in mice.
 39994226	Plasmodium falciparum Pfs47 haplotype compatibility to Anopheles gambiae in Kisumu, a malaria-endemic region of Kenya.
@@ -9991,9 +9997,3 @@
 36535256	Performance of a Commercial Multiplex Allele-Specific Polymerase Chain Reaction Kit to Genotype African-Type Glucose-6-Phosphate Dehydrogenase Deficiency.
 36535248	Variation in Pyrethroid Resistance Phenotypes in Anopheles darlingi in an Area with Residual Malaria Transmission: Warning of Suspected Resistance in French Guiana.
 36534897	1,2,4-Triazole and benzimidazole fused dihydropyrimidine derivatives: Design, green synthesis, antibacterial, antitubercular, and antimalarial activities.
-36534705	Population heterogeneity in Plasmodium vivax relapse risk.
-36533747	The last battle of Alessandro Farnese (1545-1592).
-36533299	Severe malaria-related disability in African children: a scoping review.
-36532481	Prevalence of malaria resistance-associated mutations in Plasmodium falciparum circulating in 2017-2018, Bo, Sierra Leone.
-36532436	Comparing the infection biology and gene expression differences of Plasmodiophora brassicae primary and secondary zoospores.
-36532031	Impact of exposure to malaria and nutritional status on responses to the experimental malaria vaccine ChAd63 MVA ME-TRAP in 5-17 month-old children in Burkina Faso.
