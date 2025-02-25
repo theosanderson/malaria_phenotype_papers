@@ -1,3 +1,12 @@
+39998053	Large-Scale Deployment of Lehmann's Funnel Entry Traps to Control Malaria Mosquito Populations.
+39998050	Malaria in Nepal: A Spatiotemporal Study of the Disease Distribution and Challenges on the Path to Elimination.
+39998045	Malaria Mortality in Brazil: Age-Period-Cohort Effects, Sociodemographic Factors, and Sustainable Development Indicators.
+39998041	Central Nervous System Infection by Free-Living Nematode Cephalobus cubaensis in a Human Host in Africa.
+39997709	Comprehensive Metabolomics Profiling and Bioactivity Study of Lycium shawii (Awsaj) Extracts with Particular Emphasis on Potential Anti-Malarial Properties.
+39997219	DNA replication dynamics are associated with genome composition in Plasmodium species.
+39997025	Autofluorescence of Red Blood Cells Infected with P. falciparum as a Preliminary Analysis of Spectral Sweeps to Predict Infection.
+39997008	Exploring Biomarkers for Malaria: Advances in Early Detection and Asymptomatic Diagnosis.
+39996728	Analysis of Ferric Protoporphyrin IX Effects on Human Platelets: Hematin Is a More Potent Agonist than Hemin.
 39996370	A Silicon Rhodamine-fused Glibenclamide to Label and Detect Malaria-infected Red Blood Cells.
 39996198	Impact of Climate Change on the Global Dynamics of Vector-Borne Infectious Diseases: A Narrative Review.
 39995682	An optimized deep-forest algorithm using a modified differential evolution optimization algorithm: A case of host-pathogen protein-protein interaction prediction.
@@ -9988,12 +9997,3 @@
 36536766	Sickle Cell Disease in Early Infancy: A Case Report.
 36536718	The floods of 2022: Economic and health crisis hits Pakistan.
 36536491	Do good carefully: The long-term effects of low-dose DDT exposure in early childhood on education, marriage and employment.
-36536444	WHO cone bioassay boards with or without holes: relevance for bioassay outcomes in long-lasting insecticidal net studies.
-36536428	Impact of different mosquito collection methods on indicators of Anopheles malaria vectors in Uganda.
-36536340	Could combined rapid diagnostic testing for malaria and c-reactive protein be helpful for the diagnosis and management of febrile illnesses in children under-5 years of age in rural Burkina Faso?
-36536213	The slow roll-out of the world's first malaria vaccine.
-36536036	Plasmodium malariae structure and genetic diversity in sub-Saharan Africa determined from microsatellite variants and linked SNPs in orthologues of antimalarial resistance genes.
-36535336	The African cherry: A review of the botany, traditional uses, phytochemistry, and biological activities of Prunus africana (Hook.f.) Kalkman.
-36535256	Performance of a Commercial Multiplex Allele-Specific Polymerase Chain Reaction Kit to Genotype African-Type Glucose-6-Phosphate Dehydrogenase Deficiency.
-36535248	Variation in Pyrethroid Resistance Phenotypes in Anopheles darlingi in an Area with Residual Malaria Transmission: Warning of Suspected Resistance in French Guiana.
-36534897	1,2,4-Triazole and benzimidazole fused dihydropyrimidine derivatives: Design, green synthesis, antibacterial, antitubercular, and antimalarial activities.
