@@ -1,3 +1,5 @@
+39999463	Mitigating Resistance to Malaria Treatments in Sub-Saharan Africa Requires More than New Drugs.
+39999458	Entomological Profiles of Households in Plasmodium falciparum Case Foci and Comparison Areas in Grand'Anse, Haiti.
 39998053	Large-Scale Deployment of Lehmann's Funnel Entry Traps to Control Malaria Mosquito Populations.
 39998050	Malaria in Nepal: A Spatiotemporal Study of the Disease Distribution and Challenges on the Path to Elimination.
 39998045	Malaria Mortality in Brazil: Age-Period-Cohort Effects, Sociodemographic Factors, and Sustainable Development Indicators.
@@ -9995,5 +9997,3 @@
 36539851	Discovery of novel natural products for mosquito control.
 36538859	A comprehensive overview of Artemisinin and its derivatives as anticancer agents.
 36536766	Sickle Cell Disease in Early Infancy: A Case Report.
-36536718	The floods of 2022: Economic and health crisis hits Pakistan.
-36536491	Do good carefully: The long-term effects of low-dose DDT exposure in early childhood on education, marriage and employment.
