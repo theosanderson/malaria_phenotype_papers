@@ -1,3 +1,16 @@
+40008064	Evidence for Pathogen-Driven Selection Acting on HLA-DPB1 in Response to Plasmodium falciparum Malaria in West Africa.
+40007744	Clinical outcomes among HIV positive babies below 18 months of age, diagnosed under the Early Infant Diagnosis (EID) programme, India: a mixed-methods study.
+40007641	Treatment of avian malaria in captive African penguins (Spheniscus demersus) by the combination of atovaquone and proguanil hydrochloride.
+40007543	Placental malaria infection is associated with downregulation of STAT-6 and ANG-1 in decidual macrophages.
+40007183	Exploring Quinoline Derivatives: Their Antimalarial Efficacy and Structural Features.
+40006050	Targeting Plasmodium falciparum Schizont Egress Antigen-1 in Infected Red Blood Cells: Docking-Based Fingerprinting, Density Functional Theory, Molecular Dynamics Simulations, and Binding Free Energy Analysis.
+40006012	Immunomodulatory Effects of Atractylodes lancea in Healthy Volunteers with Dosage Prediction for Cholangiocarcinoma Therapy: A Modelling Approach.
+40005505	Repurposing COVID-19 Compounds (via MMV COVID Box): Almitrine and Bortezomib Induce Programmed Cell Death in Trypanosoma cruzi.
+40004506	Understanding Heritable Variation Among Hosts in Infectious Diseases Through the Lens of Twin Studies.
+40003740	A Comprehensive Review: Biology of Anopheles squamosus, an Understudied Malaria Vector in Africa.
+40001500	A Review of the Phytochemistry, Molecular Docking, Pharmacology, Toxicology, Ethnopharmacology, Botany, and Clinical Studies of Maytenus senegalensis (Lam.) Excell.
+40001436	Population-Based Prevalence of Antibiotic Residuals in Low, Moderate and High Malaria Endemicity Areas in Tanzania.
+40001183	Subnational tailoring of malaria interventions to prioritize the malaria response in Guinea.
 40000929	Tick tock: the travelling time bomb.
 40000754	Discrimination of inherent characteristics of susceptible and resistant strains of Anopheles gambiae by explainable artificial intelligence analysis of flight trajectories.
 40000695	Publisher Correction: Multiplication rate variation of malaria parasites from hospital cases and community infections.
@@ -43,7 +56,7 @@
 39987203	Identifying malaria risks amongst forest going populations in Mondulkiri province and Kampong Speu province, Cambodia: a large cross-sectional survey.
 39987062	Malaria in a metropolitan region of Southern Germany: past, present and future perspectives on a protozoan infection with the potential of re-appearance in Central Europe.
 39986449	Low-density Plasmodium falciparum infection: "Even a parasite will turn".
-39986362	Malaria in Turkey: A Comprehensive Analysis of Diagnosis, Treatment, and the Impact of COVID-19, Ten Years After Malaria Elimination (2012-2023).
+39986362	Malaria in Turkey: A comprehensive analysis of diagnosis, treatment, and the impact of COVID-19, ten years after malaria elimination (2012-2023).
 39985024	Intermittent screening using ultra-sensitive malaria rapid diagnostic test and treatment with pyronaridine-artesunate compared to standard preventive treatment with sulfadoxine-pyrimethamine for malaria prevention in pregnant women in Kinshasa, DRC.
 39985013	Phase one of a hybrid effectiveness-implementation study to assess the feasibility, acceptability and effectiveness of implementing seasonal malaria chemoprevention in Nampula Province, Mozambique.
 39985008	Plasmodium falciparum gametocyte burden in a Tanzanian heterogeneous transmission setting.
@@ -9984,16 +9997,3 @@
 36547202	No Roots, No Fruits: Marcel Tanner's Scholarly Contribution, Achievements in Capacity Building, and Impact in Global Health.
 36546908	Identification of Potential Antimalarial Drug Candidates Targeting Falcipain-2 Protein of Malaria Parasite-A Computational Strategy.
 36545719	Medicinal Chemistry and Target Identification of Synthetic Clinical and Advanced Preclinical Antimalarial Candidates (2000 - 2022).
-36545713	A Glimpse at the Quinoline-Hybridization Approach for the Development of New Antimalarials.
-36544789	Drawings as tools to (re)imagine space in interdisciplinary global health research.
-36544758	COVID-19 vaccinology landscape in Africa.
-36544194	Malaria transmission in Nepal under climate change: anticipated shifts in extent and season, and comparison with risk definitions for intervention.
-36544088	Diversity of bacterial communities in the plasmodia of myxomycetes.
-36543288	The antimalarial artemisinin is a non-electrophilic agonist of the transient receptor potential ankyrin type 1 receptor-channel.
-36542922	Ratiometric fluorescence detection of artemisinin based on photoluminescent Zn-MOF combined with hemin as catalyst.
-36542676	Resolving drug selection and migration in an inbred South American Plasmodium falciparum population with identity-by-descent analysis.
-36542002	Clinically silent Plasmodium vivax infections in native Amazonians of northwestern Brazil: acquired immunity or low parasite virulence?
-36541793	Regulation of Mitochondrial Energy Metabolism by Glutaredoxin 5 in the Apicomplexan Parasite Neospora caninum.
-36541739	A high-performance cell-phone based polarized microscope for malaria diagnosis.
-36541419	Design and development of novel N-(4-aminobenzoyl)- l-glutamic acid conjugated 1,3,5-triazine derivatives as Pf-DHFR inhibitor: An in-silico and in-vitro study.
-36539955	Pomegranate Resembling Design of Starch Sago Beads Encapsulates Nanopyriproxyfen, Enabling Slow Release and Improved Bioactivity.
