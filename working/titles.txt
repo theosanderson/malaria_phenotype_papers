@@ -1,3 +1,7 @@
+40009326	Retraction Note: Structural characterization of Bacillus licheniformis Dahb1 exopolysaccharide-antimicrobial potential and larvicidal activity on malaria and Zika virus mosquito vectors.
+40009061	Global burden of malaria and neglected tropical diseases in children and adolescents, 1990-2019: a population-based, cross-sectional study.
+40008702	Distribution of Anophelinae (Diptera: Culicidae) and challenges for malaria elimination in Brazil.
+40008698	From the first descriptions to recent advances: 115 years of reptile Plasmodium research in the Neotropics.
 40008064	Evidence for Pathogen-Driven Selection Acting on HLA-DPB1 in Response to Plasmodium falciparum Malaria in West Africa.
 40007744	Clinical outcomes among HIV positive babies below 18 months of age, diagnosed under the Early Infant Diagnosis (EID) programme, India: a mixed-methods study.
 40007641	Treatment of avian malaria in captive African penguins (Spheniscus demersus) by the combination of atovaquone and proguanil hydrochloride.
@@ -9993,7 +9997,3 @@
 36548653	A Systematic Review of Applications of Machine Learning and Other Soft Computing Techniques for the Diagnosis of Tropical Diseases.
 36548650	Phytochemical, Antimalarial, and Acute Oral Toxicity Properties of Selected Crude Extracts of Prabchompoothaweep Remedy in Plasmodium berghei-Infected Mice.
 36548245	Epitranscriptomics in parasitic protists: Role of RNA chemical modifications in posttranscriptional gene regulation.
-36547621	Lysinibacilli: A Biological Factories Intended for Bio-Insecticidal, Bio-Control, and Bioremediation Activities.
-36547202	No Roots, No Fruits: Marcel Tanner's Scholarly Contribution, Achievements in Capacity Building, and Impact in Global Health.
-36546908	Identification of Potential Antimalarial Drug Candidates Targeting Falcipain-2 Protein of Malaria Parasite-A Computational Strategy.
-36545719	Medicinal Chemistry and Target Identification of Synthetic Clinical and Advanced Preclinical Antimalarial Candidates (2000 - 2022).
