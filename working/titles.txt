@@ -1,3 +1,25 @@
+40019687	Gefitinib as an antimalarial: unveiling its therapeutic potential.
+40019047	Facilitators, barriers and acceptability of malaria reactive surveillance and response strategies in Vietnam: a mixed-methods study.
+40018598	Understanding the demographic and socioeconomic determinants of morbidity in Eastern Uganda: a retrospective analysis of the Iganga-Mayuge health and demographic surveillance data.
+40018582	Unraveling the 'community effects' of interventions against malaria endemicity: a systematic scoping review.
+40018559	Prevalence and risk factors of curable sexually transmitted and reproductive tract infections and malaria co-infection among pregnant women at antenatal care booking in Kenya, Malawi and Tanzania: a cross-sectional study of randomised controlled trial data.
+40018116	Addressing challenges in vector control: a review of current strategies and the imperative for novel tools in India's combat against vector-borne diseases.
+40017977	Risk factors associated with urogenital schistosomiasis: a multilevel assessment approach using an Oversampling Schistosomiasis Survey (SOS) community-based, Plateaux region, Togo 2022.
+40017943	Catastrophic expenditure associated with childhood hospitalisation for acute illness in Kenya and Uganda: a cross-sectional study.
+40017245	A Comprehensive Review on the Antimicrobial Activity of the Genus Artemisia, Artemisinin, and its Derivatives.
+40016749	Severe malaria readmissions in Northern Uganda: a cross-sectional study.
+40016697	Genetic polymorphisms of Plasmodium vivax transmission-blocking vaccine candidates Pvs48/45 and Pvs47 in Thailand.
+40015404	Diversified quantity, gene structure, and expression profile of OPR gene family of A. annua.
+40014608	Stress-mediating inflammatory cytokine profiling reveals unique patterns in malaria and typhoid fever patients.
+40014583	Plasmodium and intestinal parasite infections among pregnant women at first antenatal care contact in northwest Ethiopia: A study of prevalence and associated risk factors.
+40014218	Clonorchis sinensis Infection prevents DSS-induced Colitis Via Lithocholic Acid in a Gut Microbiota-Dependent Manner.
+40014202	Identification of Spectral Fingerprints in Different Batches of Antimalarial Herbal Drugs Using Laser-Induced Autofluorescence and Chemometric Techniques.
+40012698	Maximizing tuberculosis services through private provider engagement - A case study from Pakistan.
+40011840	Maternal and fetal survival following Ebola, HIV and Malaria co-infection in the first trimester of gestation in resource-limited setting in Democratic Republic of Congo.
+40011796	Plasmodium falciparum merozoite surface protein 2 genetic polymorphism and multiplicity of infection in selected malarious areas of Northwest Ethiopia.
+40010630	Detection of Zika Virus Disease caused by the Asian Lineage of Zika Virus at Kenya's Lamu Island.
+40010622	Cell type-specific regulation of the pentose phoshate pathway during development and metabolic stress-driven autoimmune diseases: Relevance for inflammatory liver, renal, endocrine, cardiovascular and neurobehavioral comorbidites, carcinogenesis, and aging.
+40010012	Induced pluripotent stem cell-based tissue models to study malaria: a new player in the research game.
 40009634	Characterising people who inject drugs, and association with HIV infection: A situation analysis in Kampala City, Uganda.
 40009611	LLIN Evaluation in Uganda Project (LLINEUP2) - Effect of long-lasting insecticidal nets (LLINs) treated with pyrethroid plus pyriproxyfen vs LLINs treated with pyrethroid plus piperonyl butoxide in Uganda: A cluster-randomised trial.
 40009326	Retraction Note: Structural characterization of Bacillus licheniformis Dahb1 exopolysaccharide-antimicrobial potential and larvicidal activity on malaria and Zika virus mosquito vectors.
@@ -84,7 +106,7 @@
 39979562	Pfs16: A Key Parasitophorous Vacuole Membrane Protein Crucial for Malaria Parasite Development and Transmission.
 39979193	The impact of blood on vector-borne diseases with emphasis on mosquitoes and sand flies.
 39978972	Host directed immunotherapy for chronic infections and cancer.
-39978739	Oxime functionalized Chalcones: Unveiling a new class of Chalcones with potent Antiplasmodial activity against blood-stages of plasmodium falciparum in culture.
+39978739	Oxime functionalized Chalcones: Unveiling a new class of Chalcones with potent Antiplasmodial activity against blood-stages of Plasmodium falciparum in culture.
 39978384	The crucial role of industry in increasing access to medical oxygen.
 39977439	Improving neglected tropical disease services and integration into primary healthcare in Southern Nations, Nationalities and People's Region, Ethiopia: Results from a mixed methods evaluation of feasibility, acceptability and cost effectiveness.
 39977425	Revisiting What Constitutes a Neglected Tropical Disease?
@@ -168,6 +190,7 @@
 39947799	Design, synthesis, antimalarial activity, and in-silico studies of new benzimidazole/pyridine hybrids as dihydrofolate reductase inhibitors.
 39947389	Zinc pyrithione inhibits blood stage parasites of plasmodium falciparum and its combinatorial effect with dihydro-artemisinin and chloroquine in culture.
 39947066	Hibiscus sabdariffa calyx extract protects human keratinocyte cells from fluoranthene-induced ferroptosis via the repression of aryl hydrocarbon receptor.
+39946728	Exploring Alternative Zinc-Binding Groups in Histone Deacetylase (HDAC) Inhibitors Uncovers DS-103 as a Potent Ethylhydrazide-Based HDAC Inhibitor with Chemosensitizing Properties.
 39946563	The impact of integrating medical oxygen indicators into DHIS-2 on the reporting of hypoxaemia diagnosis and management: the case of Cameroon.
 39946433	Human responses to the DNA prime/chimpanzee adenovirus (ChAd63) boost vaccine identify CSP, AMA1 and TRAP MHC Class I-restricted epitopes.
 39946429	Spatial distribution of Plasmodium vivax Duffy Binding Protein copy number variation and Duffy genotype, and their association with parasitemia in Ethiopia.
@@ -340,7 +363,7 @@
 39886087	IgM against Merozoite Surface Protein 1-Block 2 Haplotypes as New Tools for Plasmodium vivax Infections.
 39885963	Exploring the composition of placental microbiome and its potential origin in preterm birth.
 39885837	Hepcidin: A missing link at the interface of malaria and hypertension.
-39885646	Impact of temperatures on Malaria Incidence in vulnerable regions of Pakistan: Empirical Evidence and Future Projections.
+39885646	Impact of temperatures on malaria incidence in vulnerable regions of Pakistan: empirical evidence and future projections.
 39885590	Development and experimental validation of a machine learning model for the prediction of new antimalarials.
 39885540	 Increasing the resolution of malaria early warning systems for use by local health actors.
 39885514	Quantifying the potential value of entomological data collection for programmatic decision-making on malaria control in sub-Saharan African settings.
@@ -6596,6 +6619,7 @@
 37727525	The interleukin-10 family: Major regulators of the immune response against Plasmodium falciparum infections.
 37726804	Could vaccinating adults against malaria materially reduce adult mortality in high-transmission areas?
 37726787	Urban malaria vector bionomics and human sleeping behavior in three cities in Senegal.
+40017845	Socioecological risk factors associated with Malaria in Pregnancy in an endemic state of India: a retrospective study.
 37725258	Surveillance of drug resistance molecular markers in Plasmodium vivax before and after introduction of dihydroartemisinin and piperaquine in Thailand: 2009-2019.
 37724615	Antimalarial drug discovery against malaria parasites through haplopine modification: An advanced computational approach.
 37723449	Tracking the geographical origin of Plasmodium falciparum causing a rare severe case of malaria imported into Palestine, a zero-indigenous case area.
@@ -7238,6 +7262,7 @@
 37507423	PermaNet Dual, a new deltamethrin-chlorfenapyr mixture net, shows improved efficacy against pyrethroid-resistant Anopheles gambiae sensu lato in southern Benin.
 37507365	Affinity-matured homotypic interactions induce spectrum of PfCSP structures that influence protection from malaria infection.
 37506727	Pre-emptively tackling vaccine misinformation for a successful large-scale roll-out of malaria vaccines in Africa.
+40017865	Comprehensive diagnostic testing identifies diverse aetiologies of acute febrile illness among hospitalised children and adults in Sri Lanka: a prospective cohort study.
 37505668	Low Prevalence of Schistosoma mekongi Infection and High Prevalence of Other Helminth Infections among Domestic Animals in Southern Lao People's Democratic Republic.
 37505661	Chikungunya Virus Diagnosis: A Review of Current Antigen Detection Methods.
 37505649	Knobs, Adhesion, and Severe Falciparum Malaria.
@@ -9972,28 +9997,3 @@
 36555000	High Levels of Admixture in Anopheles gambiae Populations from Côte d'Ivoire Revealed by Multilocus Genotyping.
 36554987	Study of the Repellent Activity of 60 Essential Oils and Their Main Constituents against Aedes albopictus, and Nano-Formulation Development.
 36554986	Mosquitoes and Mosquito-Borne Diseases in Vietnam.
-36554752	Traditional Beliefs, Practices, and Migration: A Risk to Malaria Transmission in Rural Nepal.
-36553032	Molecular Method Is Essential to Identify Asymptomatic Malaria Reservoirs: A Successful Experience in the Malaria Elimination Program in Iran.
-36552996	Urine and Saliva: Relevant Specimens for Malaria Diagnosis?
-36552002	Multiplex Assay for Rapid Detection and Analysis of Nucleic Acid Using Barcode Receptor Encoded Particle (BREP).
-36551429	Cell-Penetrating Antimicrobial Peptides with Anti-Infective Activity against Intracellular Pathogens.
-36551176	Zinc in Human Health and Infectious Diseases.
-36551112	Current Status and Future Perspectives of Lactate Dehydrogenase Detection and Medical Implications: A Review.
-36550922	Analysis of epidemiological changes and elimination effects for malaria in Handan city, the north China.
-36550586	Profile and determinants of delayed care-seeking and diagnosis among patients with imported malaria: a retrospective study in China, 2014-2021.
-36550507	Loop-mediated isothermal amplification (LAMP) test in the detection of uncomplicated malaria in pregnancy: a meta-analysis of diagnostic accuracy.
-36550492	Asymptomatic malaria infection, associated factors and accuracy of diagnostic tests in a historically high transmission setting in Northern Uganda.
-36550362	Plasmodium infection is associated with cross-reactive antibodies to carbohydrate epitopes on the SARS-CoV-2 Spike protein.
-36550139	Laboratory and semi-field efficacy evaluation of permethrin-piperonyl butoxide treated blankets against pyrethroid-resistant malaria vectors.
-36549323	WHO antimalarial strategy for Africa.
-36549312	The wrongful indictment of pre-referral rectal artesunate further delays the roll-out of this lifesaving drug.
-36549311	Pre-referral rectal artesunate: no cure for unhealthy systems.
-36548842	Effect of Breeding Season on Haemosporidian Infections in Domestic Chickens.
-36548697	Different In Vitro Drug Susceptibility Profile of Plasmodium falciparum Isolates from Two Adjacent Areas of Northeast Myanmar and Molecular Markers for Drug Resistance.
-36548695	Diagnostic Performance of Plasmodium falciparum Histidine-Rich Protein-2 Antigen-Specific Rapid Diagnostic Test in Children at the Peripheral Health Care Level in Nanoro (Burkina Faso).
-36548677	Systematic Review of Mixed Studies on Malaria in Pregnancy: Individual, Cultural and Socioeconomic Determinants of Its Treatment and Prevention.
-36548672	Antiplasmodial Properties of Aqueous and Ethanolic Extracts of Ten Herbal Traditional Recipes Used in Thailand against Plasmodium falciparum.
-36548671	Evaluation of Chiral Organosulfur Compounds on Their Activity against the Malaria Parasite Plasmodium falciparum.
-36548667	Genetic Diversity, Haplotype Relationships, and kdr Mutation of Malaria Anopheles Vectors in the Most Plasmodium knowlesi-Endemic Area of Thailand.
-36548661	Disseminated Human Subarachnoid Coenurosis.
-36548653	A Systematic Review of Applications of Machine Learning and Other Soft Computing Techniques for the Diagnosis of Tropical Diseases.
