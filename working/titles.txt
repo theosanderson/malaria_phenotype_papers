@@ -1,3 +1,4 @@
+40025783	Hematological Profile of Naturally Infected Long-Tailed Macaques (Macaca fascicularis) With Plasmodium Inui in Ex Situ Captivity Prior to Ex Vivo Cultivation.
 40025559	Changing Plasmodium falciparum malaria prevalence in two villages of northeastern Tanzania between 2003 and 2021 in relation to vectors, interventions and climatic factors.
 40025552	Assessing fitness costs in malaria parasites: a comprehensive review and implications for drug resistance management.
 40025519	Factors affecting community participation in drone-based larviciding using Bacillus thuringiensis var. israelensis (Bti) for bio-control of malaria vectors in Rwanda.
@@ -6,6 +7,9 @@
 40024560	A review of the genotoxic effects of antiparasitic drugs on parasites and their hosts.
 40024454	Toxicological assessment of standardized Artemisia roxburghiana Wall. ex Besser aqueous leaf extract to acute and subacute exposure in Albino mice.
 40024266	A rapid facility-level assessment of oxygen systems in 39 low-income and middle-income countries: a cross-sectional study.
+40023377	In silico comparative analysis of genetic diversity and natural selection of Plasmodium knowlesi and Plasmodium vivax etramp11.2 gene.
+40023193	WHO prequalifies tools for relapsing malaria.
+40023184	Impact of the Global Fund Regional Artemisinin-resistance Initiative on malaria control and elimination in the Greater Mekong subregion of southeast Asia.
 40021306	Pregnant women as a sentinel population for genomic surveillance of malaria in the Democratic Republic of the Congo: a population-based study.
 40022273	Survey on knowledge, attitudes and practices (KAP) of malaria prevention and control among Chinese expatriates in South Sudan.
 40022022	Assessment of community-based resilience to malaria in two transmission settings in Western Burkina Faso.
@@ -9993,7 +9997,3 @@
 36559869	Polyester Nanocapsules for Intravenous Delivery of Artemether: Formulation Development, Antimalarial Efficacy, and Cardioprotective Effects In Vivo.
 36559304	Preliminary Assessment of Intramuscular Depot of Lipid-Based Decoquinate Formulation for Long-Term Chemoprophylaxis of Malaria.
 36559287	Rapid and Specific Action of Methylene Blue against Plasmodium Transmission Stages.
-36559044	Biologic Functions of Hydroxychloroquine in Disease: From COVID-19 to Cancer.
-36559004	Over 40 Years of Fosmidomycin Drug Research: A Comprehensive Review and Future Opportunities.
-36558954	New Derivatives of the Multi-Stage Active Malaria Box Compound MMV030666 and Their Antiplasmodial Potencies.
-36558863	Rational-Based Discovery of Novel β-Carboline Derivatives as Potential Antimalarials: From In Silico Identification of Novel Targets to Inhibition of Experimental Cerebral Malaria.
