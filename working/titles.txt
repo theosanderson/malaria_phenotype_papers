@@ -1,3 +1,19 @@
+40035193	Understanding the Role of RING-Between-RING E3 Ligase of the Human Malaria Parasite.
+40034580	Computational Development of Transmission-Blocking Vaccine Candidates Based on Fused Antigens of Pre- and Post-fertilization Gametocytes Against Plasmodium falciparum.
+40034570	Immunogenicity and reactogenicity of a booster dose of a typhoid conjugate vaccine (TCV) in Malawian pre-school children.
+40034450	Field evaluation of the Bioline Malaria Ag P.f/Pan Rapid Diagnostic Test: Causes of Microscopy Discordance and Performance in Uganda.
+40034395	Serology reveals comparable patterns in the transmission intensities of Plasmodium falciparum and Plasmodium vivax in Langkat district, North Sumatera Province, Indonesia.
+40034267	Artemisinin alleviates cisplatin-induced damage in GC-1 spermatogonia through ER stress mechanisms.
+40033382	An observational pilot study of an active surveillance tool to enhance pharmacovigilance in Brazil.
+40033373	Antibody correlates of risk of clinical malaria in an area of low and unstable malaria transmission in western Kenya.
+40033361	Repurposing the anti-parasitic agent pentamidine for cancer therapy; a novel approach with promising anti-tumor properties.
+40033339	Attractive targeted sugar baits series in Malaria Journal.
+40033284	Impact of dual active ingredients long-lasting insecticidal nets on the genetic structure of insecticide resistant populations of Anopheles gambiae in Southern Benin.
+40033279	Publisher Correction: Attractive targeted sugar baits for malaria control in western Kenya (ATSB-Kenya): enrolment characteristics of cohort children and households.
+40033081	Malaria in pregnancy and its potential impact on neurodevelopment in children: a systematic review.
+40032187	Clinical validation and evaluation of the EasyNAT Malaria assay and the Alethia Malaria assay in a non-endemic setting: rapid and sensitive assays for detecting Plasmodium spp. in returning travellers.
+40032183	Structural and Functional Implications of MIT2 and NT2 Mutations in Amodiaquine and Piperaquine Resistant Plasmodium berghei Parasites.
+40031089	Designing a National Rapid Vaccine Coverage Survey in low-resource settings: Experiences from the Democratic Republic of the Congo 2018-2023.
 40030053	Host Immune Cell Membrane Deformability Governs the Uptake Route of Malaria-Derived Extracellular Vesicles.
 40029851	Expanding the fluorescent toolkit: Blue fluorescent protein-expressing Plasmodium berghei for enhanced multiplex microscopy.
 40027813	Maintenance of pyrophosphate homeostasis in multiple subcellular compartments is essential in Plasmodium falciparum.
@@ -9981,19 +9997,3 @@
 36565703	Rectal artesunate as pre-referral treatment for severe malaria in sub-Saharan Africa: still a long way to go.
 36565667	Effect of geranylated dihydrochalcone from Artocarpus altilis leaves extract on Plasmodium falciparum ultrastructural changes and mitochondrial malate: Quinone oxidoreductase.
 36565608	CCR5 contributes to adverse outcomes during malaria in pregnancy.
-36564967	AaMYB108 is the core factor integrating light and jasmonic acid signaling to regulate artemisinin biosynthesis in Artemisia annua.
-36564750	Transcriptional profiling of hepatocytes infected with the replicative form of the malaria parasite Plasmodium cynomolgi.
-36564617	A molecular barcode and web-based data analysis tool to identify imported Plasmodium vivax malaria.
-36564249	Finding optimal drug target sites in parasite pathogens.
-36563914	Pyrazole and pyrazoline derivatives as antimalarial agents: A key review.
-36563699	Cost-effectiveness of voluntary medical male circumcision for HIV prevention across sub-Saharan Africa: results from five independent models.
-36563485	New insights into apicoplast metabolism in blood-stage malaria parasites.
-36563075	[Discovering uncommon nephropathies: a case of acute kidney damage from malaria].
-36562445	When Knowledge Is Not Enough: Applying a Behavioral Design Approach to Improve Fever Case Management in Nigeria.
-36562161	In vitro assessment of antiprotozoal and antimicrobial activities of fractions and isolated compounds from Pallenis hierochuntica.
-36561861	The effect of malaria on childhood anemia in a quasi-experimental study of 7,384 twins from 23 Sub-Saharan African countries.
-36561539	Malaria, HIV and Malnutrition among Internally Displaced People in Mozambique During COVID-19 Pandemic: Results from a Community-Based Intervention.
-36561181	COVID-19 Convalescent Plasma Outpatient Therapy to Prevent Outpatient Hospitalization: A Meta-analysis of Individual Participant Data From Five Randomized Trials.
-36561069	Preparation, biological evaluation and QSAR analysis of urea substituted 2,4-diamino-pyrimidine anti-malarials.
-36560893	The approval of the first malaria vaccine: The beginning of the end of the malaria epidemic.
-36560856	Cyclospora cayetanensis comprises at least 3 species that cause human cyclosporiasis.
