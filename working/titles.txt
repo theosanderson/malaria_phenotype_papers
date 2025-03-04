@@ -1,3 +1,6 @@
+40035755	Prodrug activation in malaria parasites mediated by an imported erythrocyte esterase, acylpeptide hydrolase (APEH).
+40035531	mSphere of Influence: The ever-expanding universe of parasite cell biology.
+40035447	Structure-activity analysis of imino-pyrimidinone-fused pyrrolidines aids the development of dual plasmepsin V and plasmepsin X inhibitors.
 40035193	Understanding the Role of RING-Between-RING E3 Ligase of the Human Malaria Parasite.
 40034580	Computational Development of Transmission-Blocking Vaccine Candidates Based on Fused Antigens of Pre- and Post-fertilization Gametocytes Against Plasmodium falciparum.
 40034570	Immunogenicity and reactogenicity of a booster dose of a typhoid conjugate vaccine (TCV) in Malawian pre-school children.
@@ -9994,6 +9997,3 @@
 36566237	Chronic Toxoplasma gondii infection contributes to perineuronal nets impairment in the primary somatosensory cortex.
 36566182	Molecular surveillance of anti-malarial drug resistance genes in Plasmodium falciparum isolates in Odisha, India.
 36565705	Health system readiness and the implementation of rectal artesunate for severe malaria in sub-Saharan Africa: an analysis of real-world costs and constraints.
-36565703	Rectal artesunate as pre-referral treatment for severe malaria in sub-Saharan Africa: still a long way to go.
-36565667	Effect of geranylated dihydrochalcone from Artocarpus altilis leaves extract on Plasmodium falciparum ultrastructural changes and mitochondrial malate: Quinone oxidoreductase.
-36565608	CCR5 contributes to adverse outcomes during malaria in pregnancy.
