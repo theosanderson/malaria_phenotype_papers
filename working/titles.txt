@@ -1,3 +1,10 @@
+40030053	Host Immune Cell Membrane Deformability Governs the Uptake Route of Malaria-Derived Extracellular Vesicles.
+40029851	Expanding the fluorescent toolkit: Blue fluorescent protein-expressing Plasmodium berghei for enhanced multiplex microscopy.
+40027813	Maintenance of pyrophosphate homeostasis in multiple subcellular compartments is essential in Plasmodium falciparum.
+40027642	Significant variations in tolerance to clothianidin and pirimiphos-methyl in Anopheles gambiae and Anopheles funestus populations during a dramatic malaria resurgence despite sustained indoor residual spraying in Uganda.
+40027229	Cell-free DNA as a complementary diagnostic tool for neglected tropical diseases towards achieving the WHO NTDs elimination by 2030.
+40027173	Exploring the epidemiological impact of attractive targeted sugar bait against malaria in combination with standard malaria control.
+40026697	Metabolite profiling, antimalarial potentials of Schleichera oleosa using LC-MS and GC-MS: in vitro, molecular docking and molecular dynamics.
 40025783	Hematological Profile of Naturally Infected Long-Tailed Macaques (Macaca fascicularis) With Plasmodium Inui in Ex Situ Captivity Prior to Ex Vivo Cultivation.
 40025559	Changing Plasmodium falciparum malaria prevalence in two villages of northeastern Tanzania between 2003 and 2021 in relation to vectors, interventions and climatic factors.
 40025552	Assessing fitness costs in malaria parasites: a comprehensive review and implications for drug resistance management.
@@ -10,11 +17,11 @@
 40023377	In silico comparative analysis of genetic diversity and natural selection of Plasmodium knowlesi and Plasmodium vivax etramp11.2 gene.
 40023193	WHO prequalifies tools for relapsing malaria.
 40023184	Impact of the Global Fund Regional Artemisinin-resistance Initiative on malaria control and elimination in the Greater Mekong subregion of southeast Asia.
-40021306	Pregnant women as a sentinel population for genomic surveillance of malaria in the Democratic Republic of the Congo: a population-based study.
 40022273	Survey on knowledge, attitudes and practices (KAP) of malaria prevention and control among Chinese expatriates in South Sudan.
 40022022	Assessment of community-based resilience to malaria in two transmission settings in Western Burkina Faso.
 40021974	Evaluating malaria burden in children under-five and intervention outcomes in Tarkwa-Nsuaem municipality.
 40021963	Implementing SARS-CoV-2 routine surveillance in antenatal care in Zambia, 2021-2022: best practices and lessons learned.
+40021306	Pregnant women as a sentinel population for genomic surveillance of malaria in the Democratic Republic of the Congo: a population-based study.
 40020675	A strain-transcending anti-AMA1 human monoclonal antibody neutralizes malaria parasites independent of direct RON2L receptor blockade.
 40019687	Gefitinib as an antimalarial: unveiling its therapeutic potential.
 40019047	Facilitators, barriers and acceptability of malaria reactive surveillance and response strategies in Vietnam: a mixed-methods study.
@@ -1417,13 +1424,11 @@
 39541984	Systematic screens for fertility genes essential for malaria parasite transmission reveal conserved aspects of sex in a divergent eukaryote.
 30000766	Primaquine.
 39541371	Risk factors for anaemia among pregnant women: A cross-sectional study in Upper East Region, Ghana.
-39541194	MALARIA VECTOR CONTROL STRATEGIES DEPLOYED BY HOUSEHOLDS WITH CHILDREN IN AN URBAN COMMUNITY IN PORT HARCOURT, NIGERIA.
 39541051	Malaria in the Republic of Guinea 2022-2023: costs associated with the care pathway from the patient's perspective.
 39540997	The Pandemic, Mining Violence, and the Case of the Sanöma/Yanomami People.
 39540962	Cathagines A-D, new bisindole alkaloids from Catharanthus roseus.
 39540803	Artemisinin Partial Resistance and the Treatment of Severe Malaria.
 39540797	Artemisinin Partial Resistance in Ugandan Children With Complicated Malaria.
-39540402	CO-INFECTION OF MALARIA AND INTESTINAL PARASITOSIS IN RURAL CHILDREN IN THE KLOTO DISTRICT, TOGO.
 39539151	Nano-enhanced immunity: A bibliometric analysis of nanoparticles in vaccine adjuvant research.
 39538287	Optimization of in vivo antimalarial efficacy of combinations of aqueous leaf extracts of Artemisia annua L., Vernonia amygdalina Del, and Microglossa pyrifolia (Lam.) Kuntze using factorial design.
 39538241	Declining genetic polymorphism of the C-terminus Merozoite Surface Protein-1 amidst increased Plasmodium knowlesi transmission in Thailand.
@@ -9992,8 +9997,3 @@
 36561069	Preparation, biological evaluation and QSAR analysis of urea substituted 2,4-diamino-pyrimidine anti-malarials.
 36560893	The approval of the first malaria vaccine: The beginning of the end of the malaria epidemic.
 36560856	Cyclospora cayetanensis comprises at least 3 species that cause human cyclosporiasis.
-36560662	Would Zika virus Infection in Pregnancy Be a Sentence of Poor Neurological Prognosis for Exposed Children? Neurodevelopmental Outcomes in a Cohort from Brazilian Amazon.
-36560564	Transmission Dynamics of Monkeypox Virus in Nigeria during the Current COVID-19 Pandemic and Estimation of Effective Reproduction Number.
-36559869	Polyester Nanocapsules for Intravenous Delivery of Artemether: Formulation Development, Antimalarial Efficacy, and Cardioprotective Effects In Vivo.
-36559304	Preliminary Assessment of Intramuscular Depot of Lipid-Based Decoquinate Formulation for Long-Term Chemoprophylaxis of Malaria.
-36559287	Rapid and Specific Action of Methylene Blue against Plasmodium Transmission Stages.
