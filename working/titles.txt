@@ -1,3 +1,8 @@
+40041801	Evaluation of Two Multiplexed qPCR Assays for Malaria Detection and Speciation: A Comparative Study With Nested PCR and Microscopy.
+40041647	Fever of Unknown Origin in a Young Woman With Multiple Comorbidities: A Diagnostic Challenge.
+40041041	Design and validation of a low-cost sugar-feeder for resource-poor insectaries.
+40040339	Incidence of dengue, chikungunya, malaria, typhoid fever, scrub typhus, and leptospirosis in patients presenting with acute febrile illness at a tertiary care hospital, Amritsar.
+40038801	Hemozoin: a waste product after heme detoxification?
 40038735	In vitro and in silico evaluation of synthetic compounds derived from bi-triazoles against asexual and sexual forms of Plasmodium falciparum.
 40038730	Spatiotemporal heterogeneity in malaria transmission across Indonesia: analysis of routine surveillance data 2010-2019.
 40037748	Complicated malaria caused by Plasmodium falciparum with parasitemia >50.
@@ -9992,8 +9997,3 @@
 36573521	Molecular Tools for Early Detection of Invasive Malaria Vector Anopheles stephensi Mosquitoes.
 36572943	Behavioral interactions of bed bugs with long-lasting pyrethroid-treated bed nets: challenges for vector control.
 36572746	Multi-centre discriminating concentration determination of broflanilide and potential for cross-resistance to other public health insecticides in Anopheles vector populations.
-36572055	Detection of positive selection acting on protein surfaces at the whole-genome scale in the human malaria parasite Plasmodium falciparum.
-36570405	The RTS,S malaria vaccine: Journey from conception to recommendation.
-36570225	Selective Partition of Lipopeptides from Fermentation Broth: A Green and Sustainable Approach.
-36569929	Parasite infections, neuroinflammation, and potential contributions of gut microbiota.
-36569519	Genetic Diversity of Merozoite Surface Protein-1 and -2 Genes in Plasmodium falciparum Isolates among Asymptomatic Population in Boset and Badewacho Districts, Southern Ethiopia.
