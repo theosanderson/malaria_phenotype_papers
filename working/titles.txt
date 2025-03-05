@@ -1,3 +1,8 @@
+40042916	Aptamer-Based Diagnosis for Plasmodium vivax Specific Malaria.
+40042766	Evolving Landscape of Emerging Virus Diagnosis: Challenges and Innovations.
+40042316	The Diagnostic Performance of a Sysmex XN-31 Automated Malaria Analyzer vs. Expert Microscopy.
+40042312	SUN-domain proteins of the malaria parasite Plasmodium falciparum are essential for proper nuclear division and DNA repair.
+40042280	Lost in translation: conserved amino acid usage despite extreme codon bias in foraminifera.
 40041801	Evaluation of Two Multiplexed qPCR Assays for Malaria Detection and Speciation: A Comparative Study With Nested PCR and Microscopy.
 40041647	Fever of Unknown Origin in a Young Woman With Multiple Comorbidities: A Diagnostic Challenge.
 40041041	Design and validation of a low-cost sugar-feeder for resource-poor insectaries.
@@ -9992,8 +9997,3 @@
 36576067	Antiplasmodial and antimicrobial activities of ent-abietane diterpenoids from the roots of Suregada zanzibariensis.
 36575768	Optimal control of a two-group malaria transmission model with vaccination.
 36575544	Mass screening and treatment (MSaT) for identifying and treating asymptomatic cases of malaria-malaria elimination demonstration project (MEDP), Mandla, Madhya Pradesh.
-36573693	Repurposing antimalarial artesunate for the prophylactic treatment of depression: Evidence from preclinical research.
-36573593	Plasmodium falciparum pfhrp2 and pfhrp3 Gene Deletions in Malaria-Hyperendemic Region, South Sudan.
-36573521	Molecular Tools for Early Detection of Invasive Malaria Vector Anopheles stephensi Mosquitoes.
-36572943	Behavioral interactions of bed bugs with long-lasting pyrethroid-treated bed nets: challenges for vector control.
-36572746	Multi-centre discriminating concentration determination of broflanilide and potential for cross-resistance to other public health insecticides in Anopheles vector populations.
