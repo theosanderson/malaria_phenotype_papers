@@ -17,8 +17,8 @@
 40032187	Clinical validation and evaluation of the EasyNAT Malaria assay and the Alethia Malaria assay in a non-endemic setting: rapid and sensitive assays for detecting Plasmodium spp. in returning travellers.
 40032183	Structural and Functional Implications of MIT2 and NT2 Mutations in Amodiaquine and Piperaquine Resistant Plasmodium berghei Parasites.
 40031089	Designing a National Rapid Vaccine Coverage Survey in low-resource settings: Experiences from the Democratic Republic of the Congo 2018-2023.
-40030053	Host Immune Cell Membrane Deformability Governs the Uptake Route of Malaria-Derived Extracellular Vesicles.
 40029851	Expanding the fluorescent toolkit: Blue fluorescent protein-expressing Plasmodium berghei for enhanced multiplex microscopy.
+40030053	Host Immune Cell Membrane Deformability Governs the Uptake Route of Malaria-Derived Extracellular Vesicles.
 40027813	Maintenance of pyrophosphate homeostasis in multiple subcellular compartments is essential in Plasmodium falciparum.
 40027642	Significant variations in tolerance to clothianidin and pirimiphos-methyl in Anopheles gambiae and Anopheles funestus populations during a dramatic malaria resurgence despite sustained indoor residual spraying in Uganda.
 40027229	Cell-free DNA as a complementary diagnostic tool for neglected tropical diseases towards achieving the WHO NTDs elimination by 2030.
