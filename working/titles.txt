@@ -1,3 +1,5 @@
+40047195	Mapping malaria in Thailand: A Bayesian spatio-temporal analysis of national surveillance data.
+40047173	Household storm damage limits use of and access to insecticide treated bednets in Mozambique.
 40046559	Measurement of protoplasmic streaming over the entire body of Physarum plasmodium, and estimation of the transport and mixing of protoplasma through the intricate vein network.
 40045681	Prevalence of asymptomatic malaria in high- and low-transmission areas of Tanzania: The role of asymptomatic carriers in malaria persistence and the need for targeted surveillance and control efforts.
 40045630	CIDEB promotes lipid deposition in goat intramuscular adipocytes.
@@ -9995,5 +9997,3 @@
 36578806	Understanding the role of serological and clinical data on assessing the dynamic of malaria transmission: a case study of Bagamoyo district, Tanzania.
 36578717	Reticulated Erythema and Urticaria: Rare Cutaneous Manifestations During Malaria.
 36578426	Malaria vector feeding, peak biting time and resting place preference behaviors in line with Indoor based intervention tools and its implication: scenario from selected sentinel sites of Ethiopia.
-36578416	Antimalarial activity of the hydroalcoholic crude extract and solvent fractions of Commelina latifolia Hochst. ex C.B.Clarke (Commelinaceae) leaves against Plasmodium berghei in mice.
-36578237	[A CASE OF MALARIA IN A CHILD RETURNING FROM ETHIOPIA].
