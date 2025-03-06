@@ -1,3 +1,4 @@
+40043312	Successful Integration of Community-Based Rapid Antigen Testing for COVID-19 and Malaria in Mali.
 40042916	Aptamer-Based Diagnosis for Plasmodium vivax Specific Malaria.
 40042766	Evolving Landscape of Emerging Virus Diagnosis: Challenges and Innovations.
 40042316	The Diagnostic Performance of a Sysmex XN-31 Automated Malaria Analyzer vs. Expert Microscopy.
@@ -250,7 +251,7 @@
 39948431	RNA-Seq analysis in macrophages infected with Trypanosoma cruzi: focus on TLR2 and TLR7, iron metabolism, and extracellular matrix biosynthesis.
 39947818	Cross-sectional evaluation of host biomarkers for guiding antibiotic use in bacterial and non-bacterial acute febrile illness in low- and middle-income tropical settings.
 39947799	Design, synthesis, antimalarial activity, and in-silico studies of new benzimidazole/pyridine hybrids as dihydrofolate reductase inhibitors.
-39947389	Zinc pyrithione inhibits blood stage parasites of plasmodium falciparum and its combinatorial effect with dihydro-artemisinin and chloroquine in culture.
+39947389	Zinc pyrithione inhibits blood-stage parasites of Plasmodium falciparum and its combinatorial effect with dihydro-artemisinin and chloroquine in culture.
 39947066	Hibiscus sabdariffa calyx extract protects human keratinocyte cells from fluoranthene-induced ferroptosis via the repression of aryl hydrocarbon receptor.
 39946728	Exploring Alternative Zinc-Binding Groups in Histone Deacetylase (HDAC) Inhibitors Uncovers DS-103 as a Potent Ethylhydrazide-Based HDAC Inhibitor with Chemosensitizing Properties.
 39946563	The impact of integrating medical oxygen indicators into DHIS-2 on the reporting of hypoxaemia diagnosis and management: the case of Cameroon.
@@ -9996,4 +9997,3 @@
 36576255	A choline-releasing glycerophosphodiesterase essential for phosphatidylcholine biosynthesis and blood stage development in the malaria parasite.
 36576067	Antiplasmodial and antimicrobial activities of ent-abietane diterpenoids from the roots of Suregada zanzibariensis.
 36575768	Optimal control of a two-group malaria transmission model with vaccination.
-36575544	Mass screening and treatment (MSaT) for identifying and treating asymptomatic cases of malaria-malaria elimination demonstration project (MEDP), Mandla, Madhya Pradesh.
