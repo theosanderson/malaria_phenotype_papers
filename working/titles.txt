@@ -1,3 +1,7 @@
+40051681	Embedding voices of under-served communities in Health Research Priority Setting in Thailand.
+40051538	Assessing trends in non-coverage bias in mobile phone surveys for estimating insecticide-treated net coverage: a cross-sectional analysis in Tanzania, 2007-2017.
+40051500	Two sides of the same coin: heat shock proteins as biomarkers and therapeutic targets for some complex diseases.
+40051167	Placental malaria induces a unique methylation profile associated with fetal growth restriction.
 40051006	The interplay of socio-demographic factors and disease prevalence: insights into malaria, Hepatitis B, and Hepatitis C in Lafia, Nasarawa State, Nigeria.
 40050782	A novel malaria mathematical model: integrating vector and non-vector transmission pathways.
 40050397	Targeting the mosquito prefoldin-chaperonin complex blocks Plasmodium transmission.
@@ -9993,7 +9997,3 @@
 36584334	Molecular Detection and Phylogenetic Analysis of Avian Haemosporidian Parasites in House Sparrows (Passer domesticus) of Western Iran.
 36584122	Measures of malaria transmission, infection, and disease in an area bordering two districts with and without sustained indoor residual spraying of insecticide in Uganda.
 36583107	Genomic characterization of Plasmodium falciparum genes associated with anti-folate drug resistance and treatment outcomes in eastern India: A molecular surveillance study from 2008 to 2017.
-36582746	The malaria transmission in Anhui province China.
-36582528	Viral delivery of a peptide-based immunomodulator enhances T cell priming during vaccination.
-36582240	Application of B cell immortalization for the isolation of antibodies and B cell clones from vaccine and infection settings.
-36582189	Combining IP(3) affinity chromatography and bioinformatics reveals a novel protein-IP(3) binding site on Plasmodium falciparum MDR1 transporter.
