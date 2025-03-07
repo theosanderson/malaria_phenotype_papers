@@ -1,3 +1,11 @@
+40051006	The interplay of socio-demographic factors and disease prevalence: insights into malaria, Hepatitis B, and Hepatitis C in Lafia, Nasarawa State, Nigeria.
+40050782	A novel malaria mathematical model: integrating vector and non-vector transmission pathways.
+40050397	Targeting the mosquito prefoldin-chaperonin complex blocks Plasmodium transmission.
+40050296	Elevated NAD(+) drives Sir2A-mediated GCβ deacetylation and OES localization for Plasmodium ookinete gliding and mosquito infection.
+40049416	Structure-function studies of a nucleoplasmin isoform from Plasmodium falciparum.
+40049310	The Rising Proportion of Plasmodium Ovale spp. in Imported Malaria in Anhui Province, China: A Retrospective Propensity Score-Matched Case-Control Study.
+40049189	Antimicrobials in serious illness and end-of-life care: lifting the veil of silence.
+40048801	A progress report in advancements of heterocyclic compounds as novel antimalarial agents over the last 5 years.
 40048639	Chemical targeting of prolyl-tRNA synthetase stalls ovarian development and kills malaria vectors.
 40048437	Unveiling the silent threat: Investigating asymptomatic plasmodium infections in Gorgora, Ethiopia through microscopy and loop-mediated isothermal amplification.
 40047195	Mapping malaria in Thailand: A Bayesian spatio-temporal analysis of national surveillance data.
@@ -63,7 +71,7 @@
 40025493	Access and usage of malaria control measures by women of reproductive age in Mopeia Mozambique.
 40025068	Harnessing engineered symbionts to combat concurrent malaria and arboviruses transmission.
 40024560	A review of the genotoxic effects of antiparasitic drugs on parasites and their hosts.
-40024454	Toxicological assessment of standardized Artemisia roxburghiana Wall. ex Besser aqueous leaf extract to acute and subacute exposure in Albino mice.
+40024454	Toxicological assessment of standardized Artemisia roxburghiana wall. ex Besser aqueous leaf extract to acute and subacute exposure in Albino mice.
 40024266	A rapid facility-level assessment of oxygen systems in 39 low-income and middle-income countries: a cross-sectional study.
 40023377	In silico comparative analysis of genetic diversity and natural selection of Plasmodium knowlesi and Plasmodium vivax etramp11.2 gene.
 40023193	WHO prequalifies tools for relapsing malaria.
@@ -9989,11 +9997,3 @@
 36582528	Viral delivery of a peptide-based immunomodulator enhances T cell priming during vaccination.
 36582240	Application of B cell immortalization for the isolation of antibodies and B cell clones from vaccine and infection settings.
 36582189	Combining IP(3) affinity chromatography and bioinformatics reveals a novel protein-IP(3) binding site on Plasmodium falciparum MDR1 transporter.
-36582061	The Role of Flavanones as Scaffolds for the Development of New Treatments against Malaria and African and American Trypanosomiases.
-36581863	Determinants of utilization of malaria preventive measures during pregnancy among women aged 15 to 49 years in Kenya: an analysis of the Malaria Indicator Survey 2020.
-36579677	Effects of HIV infection and/or malaria on maternal and neonatal health in a high-prevalence setting.
-36579417	Assembling a global database of child pneumonia studies to inform WHO pneumonia management algorithm: Methodology and applications.
-36579244	Zebras in the Era of COVID.
-36579133	Ring-stage growth arrest: Metabolic basis of artemisinin tolerance in Plasmodium falciparum.
-36579069	Prevalence of SARS-CoV-2 and co-infection with malaria during the first wave of the pandemic (the Burkina Faso case).
-36578806	Understanding the role of serological and clinical data on assessing the dynamic of malaria transmission: a case study of Bagamoyo district, Tanzania.
