@@ -1,3 +1,5 @@
+40048639	Chemical targeting of prolyl-tRNA synthetase stalls ovarian development and kills malaria vectors.
+40048437	Unveiling the silent threat: Investigating asymptomatic plasmodium infections in Gorgora, Ethiopia through microscopy and loop-mediated isothermal amplification.
 40047195	Mapping malaria in Thailand: A Bayesian spatio-temporal analysis of national surveillance data.
 40047173	Household storm damage limits use of and access to insecticide treated bednets in Mozambique.
 40046559	Measurement of protoplasmic streaming over the entire body of Physarum plasmodium, and estimation of the transport and mixing of protoplasma through the intricate vein network.
@@ -9995,5 +9997,3 @@
 36579133	Ring-stage growth arrest: Metabolic basis of artemisinin tolerance in Plasmodium falciparum.
 36579069	Prevalence of SARS-CoV-2 and co-infection with malaria during the first wave of the pandemic (the Burkina Faso case).
 36578806	Understanding the role of serological and clinical data on assessing the dynamic of malaria transmission: a case study of Bagamoyo district, Tanzania.
-36578717	Reticulated Erythema and Urticaria: Rare Cutaneous Manifestations During Malaria.
-36578426	Malaria vector feeding, peak biting time and resting place preference behaviors in line with Indoor based intervention tools and its implication: scenario from selected sentinel sites of Ethiopia.
