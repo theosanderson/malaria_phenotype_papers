@@ -1,3 +1,4 @@
+40052652	Epidemiology, detection, diagnosis and treatment of TB in children in Kazakhstan.
 40051681	Embedding voices of under-served communities in Health Research Priority Setting in Thailand.
 40051538	Assessing trends in non-coverage bias in mobile phone surveys for estimating insecticide-treated net coverage: a cross-sectional analysis in Tanzania, 2007-2017.
 40051500	Two sides of the same coin: heat shock proteins as biomarkers and therapeutic targets for some complex diseases.
@@ -1104,7 +1105,7 @@
 39656696	Association of COVID-19-related perceptions and experiences with depression and anxiety in Ugandan caregivers of young children with malaria and iron deficiency: A cross-sectional study.
 39656683	Protecting the most vulnerable: The urgent need to include HIV-exposed children in malaria chemoprevention strategies.
 30000442	Permethrin.
-39673767	Maternal Health Planning and Prioritization in Chad: Developing a supportive tool.
+39673767	Maternal health planning and prioritization in Chad: developing a supportive tool.
 39673632	Correction to: The expansion of an invasive malaria vector: Anopheles stephensi emergence in Arba Minch town in the southern Rift Valley of Ethiopia.
 39673260	Seasonal fluctuation of insecticide resistance mutation frequencies in field populations of Anopheles and Culex species in Korea.
 39673072	The mediating role of behavioural and socio-structural factors on the association between household wealth and childhood malaria in Ghana.
@@ -9996,4 +9997,3 @@
 36585278	Engineering of a plant-produced virus-like particle to improve the display of the Plasmodium falciparum Pfs25 antigen and transmission-blocking activity of the vaccine candidate.
 36584334	Molecular Detection and Phylogenetic Analysis of Avian Haemosporidian Parasites in House Sparrows (Passer domesticus) of Western Iran.
 36584122	Measures of malaria transmission, infection, and disease in an area bordering two districts with and without sustained indoor residual spraying of insecticide in Uganda.
-36583107	Genomic characterization of Plasmodium falciparum genes associated with anti-folate drug resistance and treatment outcomes in eastern India: A molecular surveillance study from 2008 to 2017.
