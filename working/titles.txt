@@ -1,13 +1,25 @@
+40062863	Differential ex vivo susceptibility of Plasmodium malariae and Plasmodium falciparum clinical isolates from Ghana and Mali to current and lead discovery candidate antimalarial drugs.
+40062812	Chemically Engineered Peptide Efficiently Blocks Malaria Parasite Entry into Red Blood Cells.
+40062354	Early Activation of Lung CD8(+) T Cells After Immunization with Live Plasmodium berghei Malaria Sporozoites.
+40062310	Unexpected Primaquine-Induced Hemolysis in a G6PD-Normal Patient: A Case Report From Nepal.
+40062139	Falciparum Malaria in Japan: Diagnostic Difficulty in Non-endemic Areas and the Importance of Immediate Referral.
+40061813	Apolipoprotein A1 Gene Polymorphism and Its Association With TNF-Alpha and Interleukin-6 Levels in Uncomplicated Plasmodium Falciparum Malaria in Nigerian Children.
+40061692	Unlocking the Therapeutic Benefits of Artemisia Annua: A Comprehensive Overview of its Medicinal Properties.
+40060675	High-Resolution Proteomics Unveils Salivary Gland Disruption and Saliva-Hemolymph Protein Exchange in Plasmodium -Infected Mosquitoes.
+40060536	Endogenous structure of antimalarial target Pf ATP4 reveals new class of apicomplexan P-type ATPase modulators.
+40060532	A Metabolite-Based Resistance Mechanism Against Malaria.
+40058791	Investigating Human Liver Tissue-Resident Memory T Cells from the Perspectives of Gastroenterologists and Hepatologists.
+40058659	Unlocking the biological potential of crebanine, oxocrebanine and dehydrocrebanine: Pharmacological activity and related molecular mechanisms.
 40057800	Solidified reverse micellar solution-based chitosan-coated solid lipid nanoparticles as a new approach to enhance oral delivery of artemether in malaria treatment.
 40057685	Knowledge, uptake and therapeutic effectiveness of sulfadoxine-pyrimethamine (IPTp-SP) among pregnant women attending the antenatal clinic at ayeduase Health Centre in Oforikrom Municipality in the Ashanti-region, Ghana.
 40057536	Potent targeted larvicidal activities of marine-derived Bacillus sp. bacterial extracts on mosquito vectors.
 40056919	Mapping the global prevalence, incidence, and mortality of Plasmodium falciparum and Plasmodium vivax malaria, 2000-22: a spatial and temporal modelling study.
 40056811	Randomized double blind placebo controlled multicentric clinical trial of Ayush M-3 in the management of migraine- A study protocol.
+40055722	Modelling child anaemia and co-existing infections using log-linear models.
 40055611	Scoping review on assessing climate-sensitive health risks.
 40055440	A deep insight into the sialome of the house fly, Musca domestica, infected with the salivary gland hypertrophy virus (MdSGHV).
 40056921	Mapping the malaria burden in the context of a global pandemic: progress, hiccups, and challenges.
 40055898	Gene drive: communication, hype, and the publics.
-40055722	Modelling child anaemia and co-existing infections using log-linear models.
 40052652	Epidemiology, detection, diagnosis and treatment of TB in children in Kazakhstan.
 40051681	Embedding voices of under-served communities in Health Research Priority Setting in Thailand.
 40051538	Assessing trends in non-coverage bias in mobile phone surveys for estimating insecticide-treated net coverage: a cross-sectional analysis in Tanzania, 2007-2017.
@@ -420,7 +432,7 @@
 39903932	Is Parasitic Contamination of Soil in the Southern United States Related to Poverty and Does It Represent a Human Health Threat? A Perspective.
 39903927	Effect of Antenatal Monthly Sulfadoxine-Pyrimethamine, Alone or with Azithromycin, on Gestational Weight Gain and Anemia during Pregnancy and One Month Postpartum in Malawi: A Randomized Controlled Trial Secondary Analysis.
 39903780	A paradoxical population structure of var DBLα types in Africa.
-39903532	ROCK1 promotes B-cell differentiation and proteostasis under stress through the heme-regulated proteins, BACH2 and HRI.
+39903532	ROCK1 promotes B cell differentiation and proteostasis under stress through the heme-regulated proteins, BACH2 and HRI.
 39903060	PfCSP-ferritin nanoparticle malaria vaccine antigen formulated with aluminum-salt and CpG 1018® adjuvants: Preformulation characterization, antigen-adjuvant interactions, and mouse immunogenicity studies.
 39902927	Artemisinin pressure in field isolates can select highly resistant Plasmodium falciparum parasites with unconventional phenotype and no K13 mutation.
 39902618	Two decades of women's sexual and reproductive health and rights in Nigeria: Successes, challenges, and opportunities.
@@ -9985,15 +9997,3 @@
 36590345	Spatial repellents: The current roadmap to global recommendation of spatial repellents for public health use.
 36589868	Larval flushing alters malaria endemicity patterns in regions with similar habitat abundance.
 36589765	A case report of late treatment failure in Plasmodium falciparum malaria in a traveler from the Democratic Republic of the Congo to India.
-36589270	The impact of COVID-19 followed by extreme flooding on vector borne diseases in Pakistan: A mini narrative review.
-36588956	Limitations of current chemotherapy and future of nanoformulation-based AmB delivery for visceral leishmaniasis-An updated review.
-36588779	Anemia, Thrombocytopenia, and Changes in Biochemical Parameters Occurring in Patients with Uncomplicated Plasmodium falciparum Malaria: Data Analysis from Antimalarial Efficacy-Randomized Trials in Dakar and Kaolack Regions, Senegal.
-36588416	In Vitro Evaluation of Two Novel Antimalarial Derivatives of SKM13: SKM13-MeO and SKM13-F.
-36588415	Genetic Diversity and Clustering of the Rhoptry Associated Protein-1 of Plasmodium knowlesi from Peninsular Malaysia and Malaysian Borneo.
-36587808	An insight into the female and male Sabethes cyaneus mosquito salivary glands transcriptome.
-36587755	Guidelines to prevent malarial transmission among interprovincial travelers to malaria endemic regions.
-36587274	Editorial: Current Status of Two Adjuvanted Malaria Vaccines and the World Health Organization (WHO) Strategy to Eradicate Malaria by 2030.
-39525803	Molecular epidemiology of continued Plasmodium falciparum disease transmission after an outbreak in Ecuador.
-39387307	[Nutritional Status Of Children Under Five During Seasonal Malaria Chemoprevention In 2018 At Kita, Mali: Household Survey].
-38618809	The Macroeconomic Impact of Increasing Investments in Malaria Control in 26 High Malaria Burden Countries: An Application of the Updated EPIC Model.
-38616822	Citizen Science as an Approach for Responding to the Threat of Anopheles stephensi in Africa.
