@@ -1,10 +1,10 @@
+40057800	Solidified reverse micellar solution-based chitosan-coated solid lipid nanoparticles as a new approach to enhance oral delivery of artemether in malaria treatment.
 40057685	Knowledge, uptake and therapeutic effectiveness of sulfadoxine-pyrimethamine (IPTp-SP) among pregnant women attending the antenatal clinic at ayeduase Health Centre in Oforikrom Municipality in the Ashanti-region, Ghana.
+40057536	Potent targeted larvicidal activities of marine-derived Bacillus sp. bacterial extracts on mosquito vectors.
 40056919	Mapping the global prevalence, incidence, and mortality of Plasmodium falciparum and Plasmodium vivax malaria, 2000-22: a spatial and temporal modelling study.
 40056811	Randomized double blind placebo controlled multicentric clinical trial of Ayush M-3 in the management of migraine- A study protocol.
 40055611	Scoping review on assessing climate-sensitive health risks.
 40055440	A deep insight into the sialome of the house fly, Musca domestica, infected with the salivary gland hypertrophy virus (MdSGHV).
-40057800	Solidified reverse micellar solution-based chitosan-coated solid lipid nanoparticles as a new approach to enhance oral delivery of artemether in malaria treatment.
-40057536	Potent targeted larvicidal activities of marine-derived Bacillus sp. bacterial extracts on mosquito vectors.
 40056921	Mapping the malaria burden in the context of a global pandemic: progress, hiccups, and challenges.
 40055898	Gene drive: communication, hype, and the publics.
 40055722	Modelling child anaemia and co-existing infections using log-linear models.
@@ -70,7 +70,7 @@
 40033279	Publisher Correction: Attractive targeted sugar baits for malaria control in western Kenya (ATSB-Kenya): enrolment characteristics of cohort children and households.
 40033081	Malaria in pregnancy and its potential impact on neurodevelopment in children: a systematic review.
 40032187	Clinical validation and evaluation of the EasyNAT Malaria assay and the Alethia Malaria assay in a non-endemic setting: rapid and sensitive assays for detecting Plasmodium spp. in returning travellers.
-40032183	Structural and Functional Implications of MIT2 and NT2 Mutations in Amodiaquine and Piperaquine Resistant Plasmodium berghei Parasites.
+40032183	Structural and functional implications of MIT2 and NT2 mutations in amodiaquine and piperaquine resistant Plasmodium berghei parasites.
 40031089	Designing a National Rapid Vaccine Coverage Survey in low-resource settings: Experiences from the Democratic Republic of the Congo 2018-2023.
 40029851	Expanding the fluorescent toolkit: Blue fluorescent protein-expressing Plasmodium berghei for enhanced multiplex microscopy.
 40030053	Host Immune Cell Membrane Deformability Governs the Uptake Route of Malaria-Derived Extracellular Vesicles.
