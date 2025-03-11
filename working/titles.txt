@@ -1,3 +1,11 @@
+40066598	Plasmodium falciparum histidine-rich protein 2/3 gene deletions and repeat motifs in Chhattisgarh, India (2017-2018).
+40066366	First report of the emerging pathogenic yeast Candida palmioleophila in commercially relevant fish from southeastern Brazil.
+40066288	Allelic frequency of msp2 and glurp genes in Plasmodium falciparum isolates from Awka, Anambra, Nigeria.
+40066064	Revisiting the Plasmodium falciparum druggable genome using predicted structures and data mining.
+40065581	Addressing Buffer, Size, and Clogging Challenges in LAMP-Coupled Solid-State Nanopores for Point-of-Care Testing.
+40065479	Wolbachia bacteria in Mansonella perstans isolates from patients infected in different geographical areas: a pilot study from the ESCMID Study Group for Clinical Parasitology.
+40065473	Global partnerships in combating tropical diseases: assessing the impact of a U.S. withdrawal from the WHO.
+40065117	Smartphone conjunctiva photography for malaria risk stratification in asymptomatic school age children.
 40064630	Conundrum of Acute Liver Failure.
 40064477	Plasmodium falciparum and immune phagocytosis: characterization of the process.
 40064323	Sphenocentrum jollyanum (Pierre) aqueous leaf extract demonstrates anti-inflammatory and mitochondrial-restorative influences while modulating apoptosis in streptozotocin-induced diabetic rats.
@@ -9989,11 +9997,3 @@
 36594472	Type I regulatory T cells in malaria: of mice and men.
 36594463	IL-10-producing Th1 cells possess a distinct molecular signature in malaria.
 36594318	Glasgow Coma Score Predicting the Poor Outcome of the Patients Presenting Fever with Altered Sensorium.
-36594042	Main modulators of COVID-19 epidemic in sub-Saharan Africa.
-36593995	Antibody-dependent immune responses elicited by blood stage-malaria infection contribute to protective immunity to the pre-erythrocytic stages.
-36593876	Application of a universal parasite diagnostic test to biological specimens collected from animals.
-36593519	PpSP32, the Phlebotomus papatasi immunodominant salivary protein, exerts immunomodulatory effects on human monocytes, macrophages, and lymphocytes.
-36593465	Confirmation of the presence of Anopheles stephensi among internally displaced people's camps and host communities in Aden city, Yemen.
-36591298	Exploring in vitro expression and immune potency in mice using mRNA encoding the Plasmodium falciparum malaria antigen, CelTOS.
-36591224	Longitudinal immune profiling after radiation-attenuated sporozoite vaccination reveals coordinated immune processes correlated with malaria protection.
-36590995	Distinct pattern and prevalence of Plasmodium falciparum dihydropteroate synthase gene mutations in children with sickle cell anaemia and haemoglobin AA in Benin City, Nigeria: the impact of HbAA.
