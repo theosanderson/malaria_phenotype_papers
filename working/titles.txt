@@ -1,3 +1,6 @@
+40063576	Evaluation of a digital entomological surveillance planning tool for malaria vector control: Three country mixed methods pilot study.
+40063568	Influence of different host blood meal sources on the reproductive outcomes in Anopheles gambiae: Enhancing fecundity in a mass rearing environment.
+40063318	Improvement in protein HSQC spectra from addition of betaine.
 40062863	Differential ex vivo susceptibility of Plasmodium malariae and Plasmodium falciparum clinical isolates from Ghana and Mali to current and lead discovery candidate antimalarial drugs.
 40062812	Chemically Engineered Peptide Efficiently Blocks Malaria Parasite Entry into Red Blood Cells.
 40062354	Early Activation of Lung CD8(+) T Cells After Immunization with Live Plasmodium berghei Malaria Sporozoites.
@@ -9994,6 +9997,3 @@
 36590593	African-specific polymorphisms in Plasmodium falciparum serine repeat antigen 5 in Uganda and Burkina Faso clinical samples do not interfere with antibody response to BK-SE36 vaccination.
 36590578	Erratum: Macrophage migration inhibitor factor contributes to immunopathogenesis during Plasmodium yoelii 17XL infection.
 36590346	Characterizing pyrethroid resistance and mechanisms in Anopheles gambiae (s.s.) and Anopheles arabiensis from 11 districts in Uganda.
-36590345	Spatial repellents: The current roadmap to global recommendation of spatial repellents for public health use.
-36589868	Larval flushing alters malaria endemicity patterns in regions with similar habitat abundance.
-36589765	A case report of late treatment failure in Plasmodium falciparum malaria in a traveler from the Democratic Republic of the Congo to India.
