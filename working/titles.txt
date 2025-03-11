@@ -1,3 +1,6 @@
+40064630	Conundrum of Acute Liver Failure.
+40064477	Plasmodium falciparum and immune phagocytosis: characterization of the process.
+40064323	Sphenocentrum jollyanum (Pierre) aqueous leaf extract demonstrates anti-inflammatory and mitochondrial-restorative influences while modulating apoptosis in streptozotocin-induced diabetic rats.
 40063576	Evaluation of a digital entomological surveillance planning tool for malaria vector control: Three country mixed methods pilot study.
 40063568	Influence of different host blood meal sources on the reproductive outcomes in Anopheles gambiae: Enhancing fecundity in a mass rearing environment.
 40063318	Improvement in protein HSQC spectra from addition of betaine.
@@ -9994,6 +9997,3 @@
 36591298	Exploring in vitro expression and immune potency in mice using mRNA encoding the Plasmodium falciparum malaria antigen, CelTOS.
 36591224	Longitudinal immune profiling after radiation-attenuated sporozoite vaccination reveals coordinated immune processes correlated with malaria protection.
 36590995	Distinct pattern and prevalence of Plasmodium falciparum dihydropteroate synthase gene mutations in children with sickle cell anaemia and haemoglobin AA in Benin City, Nigeria: the impact of HbAA.
-36590593	African-specific polymorphisms in Plasmodium falciparum serine repeat antigen 5 in Uganda and Burkina Faso clinical samples do not interfere with antibody response to BK-SE36 vaccination.
-36590578	Erratum: Macrophage migration inhibitor factor contributes to immunopathogenesis during Plasmodium yoelii 17XL infection.
-36590346	Characterizing pyrethroid resistance and mechanisms in Anopheles gambiae (s.s.) and Anopheles arabiensis from 11 districts in Uganda.
