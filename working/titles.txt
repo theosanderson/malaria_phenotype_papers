@@ -27,13 +27,13 @@
 40057800	Solidified reverse micellar solution-based chitosan-coated solid lipid nanoparticles as a new approach to enhance oral delivery of artemether in malaria treatment.
 40057685	Knowledge, uptake and therapeutic effectiveness of sulfadoxine-pyrimethamine (IPTp-SP) among pregnant women attending the antenatal clinic at ayeduase Health Centre in Oforikrom Municipality in the Ashanti-region, Ghana.
 40057536	Potent targeted larvicidal activities of marine-derived Bacillus sp. bacterial extracts on mosquito vectors.
+40056921	Mapping the malaria burden in the context of a global pandemic: progress, hiccups, and challenges.
 40056919	Mapping the global prevalence, incidence, and mortality of Plasmodium falciparum and Plasmodium vivax malaria, 2000-22: a spatial and temporal modelling study.
 40056811	Randomized double blind placebo controlled multicentric clinical trial of Ayush M-3 in the management of migraine- A study protocol.
+40055898	Gene drive: communication, hype, and the publics.
 40055722	Modelling child anaemia and co-existing infections using log-linear models.
 40055611	Scoping review on assessing climate-sensitive health risks.
 40055440	A deep insight into the sialome of the house fly, Musca domestica, infected with the salivary gland hypertrophy virus (MdSGHV).
-40056921	Mapping the malaria burden in the context of a global pandemic: progress, hiccups, and challenges.
-40055898	Gene drive: communication, hype, and the publics.
 40052652	Epidemiology, detection, diagnosis and treatment of TB in children in Kazakhstan.
 40051681	Embedding voices of under-served communities in Health Research Priority Setting in Thailand.
 40051538	Assessing trends in non-coverage bias in mobile phone surveys for estimating insecticide-treated net coverage: a cross-sectional analysis in Tanzania, 2007-2017.
