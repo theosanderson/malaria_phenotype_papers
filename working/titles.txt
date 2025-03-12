@@ -1,3 +1,20 @@
+40071109	Nurse-community health mediator pairs: a promising model for promoting the health of populations in remote areas of the French Amazon.
+40071104	Protocol: Effectiveness of Sexual and Reproductive Health Blended Learning Approaches for Capacity Strengthening of Health Professionals in Low- and Middle-Income Countries: A Systematic Review.
+40070234	Targeting Blood-Stage Malaria: Design, Synthesis, Characterization, In Vitro, and In Silico Evaluation of Pyrrolidinodiazenyl Chalcones.
+40070129	Malaria and filaria co-infection in a febrile patient.
+40069866	Determinants of access to health facilities among under-five children with caregiver-reported fever in the context of seasonal malaria chemoprevention in Togo, 2020-2022.
+40069748	Comparing HemoCue® and Quantitative Buffy Coat® and Coulter Counter-measured haemoglobin concentrations in African children with acute uncomplicated malaria: a Bland-Altman analysis.
+40069123	The disparities in funding of wars versus elimination of malaria.
+40068979	Cerebral manifestations of falciparum malaria in adults: more than meets the eye.
+40068978	Making scents of mosquito repellents.
+40068926	Evaluating the impact of two next-generation long-lasting insecticidal nets on malaria incidence in Uganda: an interrupted time-series analysis using routine health facility data.
+40068728	Molecular surveillance of antifolate drug resistance markers in Plasmodium vivax from Khyber Pakhtunkhwa province, northwest Pakistan.
+40068656	Stroke from Infection.
+40068219	From Bites to Bytes: Evaluating User Engagement and Mosquito Bite Exposure Patterns with the Bite Diary Smartphone Application.
+40067800	Characterizing the genetic diversity and population structure of Plasmodium knowlesi in Aceh Province, Indonesia.
+40067333	Carcinogenic parasites: Insights into the epidemiology and possible mechanisms of cancer.
+40067319	A Cryptic Loop that Modulates Protein-Protein Interaction: Implications in PfAMA1-PfRON2 Late-stage Binding Event.
+40067220	HEALTH ASSESSMENT OF GOLDEN-MANTLED HOWLER MONKEYS (ALOUATTA PALLIATA PALLIATA) IN DRY FOREST FROM THE NORTH PACIFIC COAST, COSTA RICA.
 40066598	Plasmodium falciparum histidine-rich protein 2/3 gene deletions and repeat motifs in Chhattisgarh, India (2017-2018).
 40066366	First report of the emerging pathogenic yeast Candida palmioleophila in commercially relevant fish from southeastern Brazil.
 40066288	Allelic frequency of msp2 and glurp genes in Plasmodium falciparum isolates from Awka, Anambra, Nigeria.
@@ -9980,20 +9997,3 @@
 36600766	Children hydrocephalus in Togo: etiologies, treatment, and outcomes.
 36600353	How do malaria testing and treatment subsidies affect drug shop client expenditures? A cross-sectional analysis in Western Kenya.
 36599883	High throughput sequencing revealed enhanced cell cycle signaling in SLE patients.
-36599869	Myzomyia and Pyretophorus series of Anopheles mosquitoes acting as probable vectors of the goat malaria parasite Plasmodium caprae in Thailand.
-36598908	Clinical and laboratory presentation of first-time antenatal care visits of pregnant women in Ghana, a hospital-based study.
-36598082	Molecular characterization of anopheline mosquitoes from the goat malaria-endemic areas of Thailand.
-36597608	New Strategies in the Treatment of Plasmodium berghei Based on Nanoparticles: A Systematic Review.
-36597267	A Drug Repurposing Approach to Identify Therapeutics by Screening Pathogen Box Exploiting SARS-CoV-2 Main Protease.
-36597115	Testing the effects of mass drug administration of azithromycin on mortality and other outcomes among 1-11-month-old infants in Mali (LAKANA): study protocol for a cluster-randomized, placebo-controlled, double-blinded, parallel-group, three-arm clinical trial.
-36597076	Randomized, open-label, phase 2a study to evaluate the contribution of artefenomel to the clinical and parasiticidal activity of artefenomel plus ferroquine in African patients with uncomplicated Plasmodium falciparum malaria.
-36596851	Author Correction: Characterization of the dynamics of Plasmodium falciparum deoxynucleotide-triphosphate pool in a stage-specific manner.
-36596362	Exploration of aminoacyl-tRNA synthetases from eukaryotic parasites for drug development.
-36595704	AIM2 sensors mediate immunity to Plasmodium infection in hepatocytes.
-36595685	Mapping the number of female sex workers in countries across sub-Saharan Africa.
-36595676	Burkitt lymphoma risk shows geographic and temporal associations with Plasmodium falciparum infections in Uganda, Tanzania, and Kenya.
-36595546	Neutral vs. non-neutral genetic footprints of Plasmodium falciparum multiclonal infections.
-36594846	The ultimate tradeoff: how red cell adaptations to malaria alter the host response during critical illness.
-36594472	Type I regulatory T cells in malaria: of mice and men.
-36594463	IL-10-producing Th1 cells possess a distinct molecular signature in malaria.
-36594318	Glasgow Coma Score Predicting the Poor Outcome of the Patients Presenting Fever with Altered Sensorium.
