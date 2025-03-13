@@ -1,3 +1,4 @@
+40079526	Climate and malaria: modeling non-linear dynamics in the Nordic countries during the 18th and 19th centuries.
 40079008	Antibody responses in Burkinabe children against P. falciparum proteins associated with reduced risk of clinical malaria.
 40078853	Impact of Climate Change-Induced Flooding Water Related Diseases and Malnutrition in Borno State, Nigeria: A Public Health Crisis.
 40078574	Detecting imported malaria infections in endemic settings using molecular surveillance: current state and challenges.
@@ -9996,4 +9997,3 @@
 36608749	Malaria-derived exosomes exacerbate liver injury during blood stage of Plasmodium berghei infection.
 36607997	Caregivers' use of insecticide-treated nets is associated with the use of ITNs by children under the age of five in Ghana.
 36607981	Entomological parameters and population structure at a microgeographic scale of the main Colombian malaria vectors Anopheles albimanus and Anopheles nuneztovari.
-36606712	Solution X-ray scattering highlights discrepancies in Plasmodium multi-aminoacyl-tRNA synthetase complexes.
