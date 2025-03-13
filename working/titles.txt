@@ -1,3 +1,8 @@
+40073043	Evaluation of long lasting insecticidal nets in experimental huts and WHO PQT/VCP compliance: A systematic review.
+40072967	Genomic epidemiology of Plasmodium knowlesi reveals putative genetic drivers of adaptation in Malaysia.
+40072710	Computable properties of selected monomeric acylphloroglucinols with anticancer and/or antimalarial activities and first-approximation docking study.
+40072686	Impact of Control Interventions on Malaria Incidence in the General Population of Mali.
+40072581	Author Correction: Evaluation of Au(III) complexes as Plasmodium falciparum aquaglyceroporin (PfAQP) inhibitors by in silico and in vitro methods.
 40071109	Nurse-community health mediator pairs: a promising model for promoting the health of populations in remote areas of the French Amazon.
 40071104	Protocol: Effectiveness of Sexual and Reproductive Health Blended Learning Approaches for Capacity Strengthening of Health Professionals in Low- and Middle-Income Countries: A Systematic Review.
 40070234	Targeting Blood-Stage Malaria: Design, Synthesis, Characterization, In Vitro, and In Silico Evaluation of Pyrrolidinodiazenyl Chalcones.
@@ -196,7 +201,7 @@
 39997025	Autofluorescence of Red Blood Cells Infected with P. falciparum as a Preliminary Analysis of Spectral Sweeps to Predict Infection.
 39997008	Exploring Biomarkers for Malaria: Advances in Early Detection and Asymptomatic Diagnosis.
 39996728	Analysis of Ferric Protoporphyrin IX Effects on Human Platelets: Hematin Is a More Potent Agonist than Hemin.
-39996370	A Silicon Rhodamine-fused Glibenclamide to Label and Detect Malaria-infected Red Blood Cells.
+39996370	A Silicon Rhodamine-fused Glibenclamide to Label and Detect Malaria-infected Red Blood Cells.
 39996198	Impact of Climate Change on the Global Dynamics of Vector-Borne Infectious Diseases: A Narrative Review.
 39995682	An optimized deep-forest algorithm using a modified differential evolution optimization algorithm: A case of host-pathogen protein-protein interaction prediction.
 39995501	Challenges in managing gestational malaria due to Plasmodium vivax with severe complications: A clinical case from Colombia.
@@ -9992,8 +9997,3 @@
 36602208	Genetic diversity of secreted protein with an altered thrombospondin repeat (SPATR) of Plasmodium knowlesi clinical isolates from Malaysia.
 36601618	Does the trained immune system play an important role in the extreme longevity that is seen in the Sardinian blue zone?
 36601587	Microsecond-long simulation reveals the molecular mechanism for the dual inhibition of falcipain-2 and falcipain-3 by antimalarial lead compounds.
-36601303	Editorial: Rising stars in parasite and host 2022.
-36600836	Effects of Malaria and HIV Infection on Anemia and T-cells Levels in Children in Douala City, Cameroon.
-36600766	Children hydrocephalus in Togo: etiologies, treatment, and outcomes.
-36600353	How do malaria testing and treatment subsidies affect drug shop client expenditures? A cross-sectional analysis in Western Kenya.
-36599883	High throughput sequencing revealed enhanced cell cycle signaling in SLE patients.
