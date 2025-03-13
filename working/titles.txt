@@ -1,3 +1,19 @@
+40079008	Antibody responses in Burkinabe children against P. falciparum proteins associated with reduced risk of clinical malaria.
+40078853	Impact of Climate Change-Induced Flooding Water Related Diseases and Malnutrition in Borno State, Nigeria: A Public Health Crisis.
+40078574	Detecting imported malaria infections in endemic settings using molecular surveillance: current state and challenges.
+40078448	A 5G network based conceptual framework for real-time malaria parasite detection from thick and thin blood smear slides using modified YOLOv5 model.
+40078033	Improved genetic screening with zygosity detection through multiplex high-resolution melting curve analysis and biochemical characterisation for G6PD deficiency.
+40077967	Pair cross-correlation analysis for assessing protein co-localization.
+40076744	Pharmacomodulation of the Redox-Active Lead Plasmodione: Synthesis of Substituted 2-Benzylnaphthoquinone Derivatives, Antiplasmodial Activities, and Physicochemical Properties.
+40076324	Antiprotozoal Aminosteroids from Pachysandra terminalis.
+40075919	Molecular Prevalence of Avian Haemosporidian Parasites in Southeast Asia: Systematic Review and Meta-Analysis.
+40075867	Development and Assessment of a Multiple-Analysis System for Diagnosing Malaria and Other Blood Parasite Infections in Humans and Non-Human Primates.
+40075477	Through the eyes of the participant: using photovoice to understand the experiences and effects of ivermectin MDA in the context of the BOHEMIA clinical trial in Kwale, Kenya.
+40075471	Pilot implementation of short message service for randomisation in a multisite pragmatic factorial clinical trial in Kenya.
+40075412	Genome-wide scanning for genetic markers associated with anti-malarial drugs sensitivity of Plasmodium falciparum isolates from the China-Myanmar border region.
+40075381	Household predictors of malaria episode in northern Uganda: its implication for future malaria control.
+40074802	Identification and biophysical characterization of Plasmodium peptide binding by common African HLAs.
+40074752	Development of a rapid malaria LAMP-MS assay for diagnosis of malaria infections.
 40073043	Evaluation of long lasting insecticidal nets in experimental huts and WHO PQT/VCP compliance: A systematic review.
 40072967	Genomic epidemiology of Plasmodium knowlesi reveals putative genetic drivers of adaptation in Malaysia.
 40072710	Computable properties of selected monomeric acylphloroglucinols with anticancer and/or antimalarial activities and first-approximation docking study.
@@ -9981,19 +9997,3 @@
 36607997	Caregivers' use of insecticide-treated nets is associated with the use of ITNs by children under the age of five in Ghana.
 36607981	Entomological parameters and population structure at a microgeographic scale of the main Colombian malaria vectors Anopheles albimanus and Anopheles nuneztovari.
 36606712	Solution X-ray scattering highlights discrepancies in Plasmodium multi-aminoacyl-tRNA synthetase complexes.
-36605129	RH5.1-CyRPA-Ripr antigen combination vaccine shows little improvement over RH5.1 in a preclinical setting.
-36604837	Sickle red blood cell-derived extracellular vesicles activate endothelial cells and enhance sickle red cell adhesion mediated by von Willebrand factor.
-36604804	Opportunity in nanomedicine to counter the challenges of current drug delivery approaches used for the treatment of malaria: a review.
-36604693	Estimating population ITN access at council level in Tanzania.
-36604663	Malaria among children under 10 years in 4 endemic health areas in Kisantu Health Zone: epidemiology and transmission.
-36604655	Genetic variations in human ATP2B4 gene alter Plasmodium falciparum in vitro growth in RBCs from Gambian adults.
-36604204	Mosquito bypassers: infectious sporozoites grown in vitro.
-36603708	Modular nanotheranostic agents for protistan parasitic diseases: Magic bullets with tracers.
-36602586	Altered gastrointestinal tract structure and microbiome following cerebral malaria infection.
-36602348	Erratum for Banda et al., "Impact of Dolutegravir-Based Antiretroviral Therapy on Piperaquine Exposure following Dihydroartemisinin-Piperaquine Intermittent Preventive Treatment of Malaria in Pregnant Women Living with HIV".
-36602337	PfSET2 Is Involved in Genome Organization of Var Gene Family in Plasmodium falciparum.
-36602218	Unusual co-infection of severe malaria by Plasmodium vivax and dengue virus in Mexico.
-36602215	Steroids from Diplazium esculentum: Antiplasmodial activity and molecular docking studies to investigate their binding modes.
-36602208	Genetic diversity of secreted protein with an altered thrombospondin repeat (SPATR) of Plasmodium knowlesi clinical isolates from Malaysia.
-36601618	Does the trained immune system play an important role in the extreme longevity that is seen in the Sardinian blue zone?
-36601587	Microsecond-long simulation reveals the molecular mechanism for the dual inhibition of falcipain-2 and falcipain-3 by antimalarial lead compounds.
