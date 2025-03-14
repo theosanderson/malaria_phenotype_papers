@@ -1,3 +1,13 @@
+40084210	Malaria and missed school days: exploring school absenteeism patterns and local strategies in Odisha, India.
+40083680	Prevalence and Association of Malaria With ABO Blood Groups in Bosaso City, Puntland, Somalia: A Cross-Sectional Study.
+40083318	Miniaturized assay to evaluate Plasmodium cynomolgi and P. knowlesi as models for prioritizing P. vivax vaccine targets.
+40083276	Plasmodium Infection Modulates Host Inflammatory Response through circRNAs during the Intracellular Stage in Red Blood Cells.
+40082890	Characterization of insecticide resistance mechanisms in the Anopheles gambiae population of Sierra Leone.
+40082813	Antenatal care services utilization and their associated factors among postnatal women in Dodoma city: a cross-sectional study.
+40082380	Endoplasmic Reticulum Stress: Implications in Diseases.
+40081801	Beyond the Bite: How Mosquito Salivary Proteins Modulate Midgut Biology and Malaria Parasite Transmission.
+40080524	Who benefits from the donor-supported malaria programme in Enugu State, Nigeria? A benefit incidence analysis.
+40080493	Assessment of the diagnostic performance of the SD Bioline Malaria antigen test for the diagnosis of malaria in the Tombel health district, Southwest region of Cameroon.
 40079526	Climate and malaria: modeling non-linear dynamics in the Nordic countries during the 18th and 19th centuries.
 40079008	Antibody responses in Burkinabe children against P. falciparum proteins associated with reduced risk of clinical malaria.
 40078853	Impact of Climate Change-Induced Flooding Water Related Diseases and Malnutrition in Borno State, Nigeria: A Public Health Crisis.
@@ -9987,13 +9997,3 @@
 36611186	Insecticide-treated bed net use and associated factors among households having under-five children in East Africa: a multilevel binary logistic regression analysis.
 36611179	Safety and therapeutic efficacy of artemether-lumefantrine in the treatment of uncomplicated Plasmodium falciparum malaria at Shecha health centre, Arba Minch, Ethiopia.
 36611010	Post-treatment haemolysis is common following oral artemisinin combination therapy of uncomplicated malaria in travellers.
-36610734	Reconstruction of Plastid Proteomes of Apicomplexans and Close Relatives Reveals the Major Evolutionary Outcomes of Cryptic Plastids.
-36609676	Antiplasmodial activity, structure-activity relationship and studies on the action of novel benzimidazole derivatives.
-36609584	National-scale simulation of human movement in a spatially coupled individual-based model of malaria in Burkina Faso.
-36609299	Hospital-based surveillance of severe paediatric malaria in two malaria transmission ecological zones of Burkina Faso.
-36609279	Implementation research of a cluster randomized trial evaluating the implementation and effectiveness of intermittent preventive treatment for malaria using dihydroartemisinin-piperaquine on reducing malaria burden in school-aged children in Tanzania: methodology, challenges, and mitigation.
-36609275	Distance from human dwellings differentially affects the efficacy of a synthetic cattle urine odour lure to trap malaria vectors.
-36609153	Chemical pulldown combined with mass spectrometry to identify the molecular targets of antimalarials in cell-free lysates.
-36608749	Malaria-derived exosomes exacerbate liver injury during blood stage of Plasmodium berghei infection.
-36607997	Caregivers' use of insecticide-treated nets is associated with the use of ITNs by children under the age of five in Ghana.
-36607981	Entomological parameters and population structure at a microgeographic scale of the main Colombian malaria vectors Anopheles albimanus and Anopheles nuneztovari.
