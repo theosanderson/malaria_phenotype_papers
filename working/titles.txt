@@ -1,3 +1,5 @@
+40085439	Sustained activation induced cytidine deaminase (AID) expression in B cells following Plasmodium falciparum malaria infection in Kenyan children.
+40085245	Complete Genome Sequence, Biological Activities, and Metabolomic Profiles of Mangrove-Derived Streptomyces sp. SM1P.
 40084210	Malaria and missed school days: exploring school absenteeism patterns and local strategies in Odisha, India.
 40083680	Prevalence and Association of Malaria With ABO Blood Groups in Bosaso City, Puntland, Somalia: A Cross-Sectional Study.
 40083318	Miniaturized assay to evaluate Plasmodium cynomolgi and P. knowlesi as models for prioritizing P. vivax vaccine targets.
@@ -9995,5 +9997,3 @@
 36611259	Effect of sulfadoxine-pyrimethamine chemoprophylaxis in pregnant women on selection of the new P. falciparum dhps quintuple mutant carrying the I431V mutation.
 36611189	Plasmodium vivax and SARS-CoV-2 co-infection in Venezuelan pregnant women: a case series.
 36611186	Insecticide-treated bed net use and associated factors among households having under-five children in East Africa: a multilevel binary logistic regression analysis.
-36611179	Safety and therapeutic efficacy of artemether-lumefantrine in the treatment of uncomplicated Plasmodium falciparum malaria at Shecha health centre, Arba Minch, Ethiopia.
-36611010	Post-treatment haemolysis is common following oral artemisinin combination therapy of uncomplicated malaria in travellers.
