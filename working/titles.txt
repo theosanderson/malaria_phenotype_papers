@@ -1,3 +1,6 @@
+40086801	The 'Health-2-Go' programme's impact on all-cause mortality and clinic utilisation for children 5 and under: a retrospective cohort analysis of an iCCM intervention in Ghana's Barekese Subdistrict.
+40086773	Vaccines for International Travelers: Current Status and Recent Developments.
+40086604	Third-generation analogues of Guttiferone A.
 40085439	Sustained activation induced cytidine deaminase (AID) expression in B cells following Plasmodium falciparum malaria infection in Kenyan children.
 40085245	Complete Genome Sequence, Biological Activities, and Metabolomic Profiles of Mangrove-Derived Streptomyces sp. SM1P.
 40084210	Malaria and missed school days: exploring school absenteeism patterns and local strategies in Odisha, India.
@@ -110,7 +113,7 @@
 40045312	Ethnobotanical investigation of medicinal plants utilized by indigenous communities in the Fofa and Toaba sub-districts of the Yem Zone, Central Ethiopian Region.
 40044192	Implications for malaria transmission: a cross-sectional study on the bionomics and susceptibility of local malaria vectors in urban and periurban settings of Ndola district.
 40043895	Intrinsic multiplication rate variation of Plasmodium falciparum in clinical isolates prior to elimination in Malaysia.
-40043835	Structural plasticity of Plasmodium falciparum plasmepsin X to accommodate binding of potent macrocyclic hydroxyethylamine inhibitors.
+40043835	Structural Plasticity of Plasmodium falciparum Plasmepsin X to Accommodate Binding of Potent Macrocyclic Hydroxyethylamine Inhibitors.
 40043312	Successful Integration of Community-Based Rapid Antigen Testing for COVID-19 and Malaria in Mali.
 40042916	Aptamer-Based Diagnosis for Plasmodium vivax Specific Malaria.
 40042766	Evolving Landscape of Emerging Virus Diagnosis: Challenges and Innovations.
@@ -9994,6 +9997,3 @@
 36615340	Global Analysis of Plasmodium falciparum Dihydropteroate Synthase Variants Associated with Sulfadoxine Resistance Reveals Variant Distribution and Mechanisms of Resistance: A Computational-Based Study.
 36614934	Aero-Medical Evacuation during SARS-CoV-2 Pandemic: Extraordinary Measure or Emerging Treatment Option?
 36613941	Investigation of Plasma-Derived Lipidome Profiles in Experimental Cerebral Malaria in a Mouse Model Study.
-36611259	Effect of sulfadoxine-pyrimethamine chemoprophylaxis in pregnant women on selection of the new P. falciparum dhps quintuple mutant carrying the I431V mutation.
-36611189	Plasmodium vivax and SARS-CoV-2 co-infection in Venezuelan pregnant women: a case series.
-36611186	Insecticide-treated bed net use and associated factors among households having under-five children in East Africa: a multilevel binary logistic regression analysis.
