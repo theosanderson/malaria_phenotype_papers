@@ -1,3 +1,13 @@
+40089782	Spatial distribution of malaria among under-five children and associated factors in Tanzania: a spatial and multilevel analysis.
+40089759	Bionomics and distribution of malaria vectors in Kisumu city, Western Kenya: implications for urban malaria transmission.
+40089485	Leading report on the molecular prevalence of emerging pathogens Hepatozoon sp. and Lankesterella sp. in the blood samples of seven wild lizard species.
+40088963	Suppression of 8-oxoguanine DNA glycosylase (OGG1) activity produced positive impacts on disease severity, survival, and histopathological features of mice infected with Plasmodium berghei.
+40087832	Assessing Microsatellite Variations in Plasmodium falciparum Following a Decade-Long Antimalaria Campaign in Kenya.
+40087736	Assessment of malaria treatment interventions: a critical analysis of government initiatives and causes of treatment failure at Port Loko Government Hospital, Sierra Leone.
+40087723	Multiple insecticide resistance in Anopheles funestus from Mopeia, Central Mozambique.
+40087705	Time to loss of physical integrity of attractive targeted sugar bait (ATSB) stations in Western Province, Zambia: a survival analysis.
+40087683	Estimating the hole surface area of insecticide-treated nets using image analysis, manual hole counting and exact hole measurements.
+40087666	Risk factors associated with malaria infection in children aged from 6 to 59 months in Niger: a cross-sectional study.
 40086801	The 'Health-2-Go' programme's impact on all-cause mortality and clinic utilisation for children 5 and under: a retrospective cohort analysis of an iCCM intervention in Ghana's Barekese Subdistrict.
 40086773	Vaccines for International Travelers: Current Status and Recent Developments.
 40086604	Third-generation analogues of Guttiferone A.
@@ -9987,13 +9997,3 @@
 36620228	Trends in unsuitability for blood donation in the Brazilian Amazon.
 36619756	Editorial: New strategies and technologies enabling point of care diagnosis of neglected or tropical diseases.
 36619752	Editorial: Regulation of the host's immune system by parasitic infections and its implications.
-36619004	Low Density Plasmodium Infections and G6PD Deficiency Among Malaria Suspected Febrile Individuals in Ethiopia.
-36618927	Editorial: Antimalarial chemotherapy in the XXIst century.
-36618915	Assessment of toxicity and anti-plasmodial activities of chloroform fractions of Carapa procera and Alchornea cordifolia in murine models.
-36618355	MiR-451a and let-7i-5p loaded extracellular vesicles attenuate heme-induced inflammation in hiPSC-derived endothelial cells.
-36617811	Gymnema inodorum Leaf Extract Improves Cardiac Function in Experimental Mice Infected with Plasmodium Berghei.
-36617500	Development of Potent and Highly Selective Epoxyketone-Based Plasmodium Proteasome Inhibitors.
-36615504	Synthesis and Antiprotozoal Activity of Azabicyclo-Nonane Pyrimidine Hybrids.
-36615340	Global Analysis of Plasmodium falciparum Dihydropteroate Synthase Variants Associated with Sulfadoxine Resistance Reveals Variant Distribution and Mechanisms of Resistance: A Computational-Based Study.
-36614934	Aero-Medical Evacuation during SARS-CoV-2 Pandemic: Extraordinary Measure or Emerging Treatment Option?
-36613941	Investigation of Plasma-Derived Lipidome Profiles in Experimental Cerebral Malaria in a Mouse Model Study.
