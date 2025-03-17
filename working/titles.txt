@@ -181,6 +181,7 @@
 40023377	In silico comparative analysis of genetic diversity and natural selection of Plasmodium knowlesi and Plasmodium vivax etramp11.2 gene.
 40023193	WHO prequalifies tools for relapsing malaria.
 40023184	Impact of the Global Fund Regional Artemisinin-resistance Initiative on malaria control and elimination in the Greater Mekong subregion of southeast Asia.
+40022850	Design, synthesis, and biological evaluation of novel artemisinin-based HDAC inhibitors with antitumor and antimalarial activities.
 40022273	Survey on knowledge, attitudes and practices (KAP) of malaria prevention and control among Chinese expatriates in South Sudan.
 40022022	Assessment of community-based resilience to malaria in two transmission settings in Western Burkina Faso.
 40021974	Evaluating malaria burden in children under-five and intervention outcomes in Tarkwa-Nsuaem municipality.
@@ -1221,6 +1222,7 @@
 39669142	Analysis of lethal and sublethal doses: Comparative toxicity of three commonly used pesticides on Blattella germanica, an important allergen and vector of pathogens.
 39668916	Cross-sectional Assessment of Body Image Perception, Image Satisfaction, Body Image Discrepancy and Dietary Habits in Medical Students of Ujjain.
 39668723	Spirocyclic iridoid alkaloids from Plumeria rubra.
+39668712	Synthesis of New Enantiopure Aminoalcohol Fluorenes as Promising Antimalarial Compounds.
 39668051	IMC1g knockdowns reveal malaria blood-stage alveolin functions.
 39666763	Dynamics of submicroscopic and microscopic asymptomatic malaria infection and associated factors: A longitudinal study in South Benin.
 39666697	Insecticide tolerance of the malaria vector Anopheles gambiae following larval exposure to microplastics and insecticide.
@@ -9995,5 +9997,3 @@
 36620533	Babesia duncani in Culture and in Mouse (ICIM) Model for the Advancement of Babesia Biology, Pathogenesis, and Therapy.
 36620305	Environmental Management and Sanitation as a Malaria Vector Control Strategy: A Qualitative Cross-Sectional Study Among Stakeholders, Sunyani Municipality, Ghana.
 36620228	Trends in unsuitability for blood donation in the Brazilian Amazon.
-36619756	Editorial: New strategies and technologies enabling point of care diagnosis of neglected or tropical diseases.
-36619752	Editorial: Regulation of the host's immune system by parasitic infections and its implications.
