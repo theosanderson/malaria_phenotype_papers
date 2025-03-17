@@ -1,3 +1,13 @@
+40094716	Bioassay-Guided Isolation of Piplartine from Piper purusanum Yunck (Piperaceae) and Evaluation of Its Toxicity Against Aedes aegypti Linnaeus, 1762, Anopheles darlingi Root, 1926 (Culicidae), and Non-Target Animals.
+40093847	Recent Vaccines against Emerging and Tropical Infectious Diseases.
+40093207	Protective targets of PfSPZ vaccines identified from whole-genome sieve analysis of isolates from malaria vaccine efficacy trials in West Africa.
+40093134	Engineering gene drive docking sites in a haplolethal locus in Anopheles gambiae.
+40093041	Inheritance of the genome-less apicoplast in the "apicoplast-minus" Plasmodium falciparum.
+40093040	Heme Detoxification in the Malaria Parasite Plasmodium falciparum: A Time-Dependent Basal-Level Analysis.
+40092989	Reduced plasma levels of GM-CSF is a common feature of Schistosoma mansoni-infected school-aged children.
+40092075	Quinoline conjugates for enhanced antimalarial activity: a review on synthesis by molecular hybridization and structure-activity relationship (SAR) investigation.
+40091933	Evaluation of the Performance of Various Diagnostic Modalities Available for the Detection of Scrub Typhus in Acute Undifferentiated Febrile Illness (AUFI) Cases at a Teaching Hospital in North Chhattisgarh, India.
+40091859	A Soluble Expression Construct of the Isolated Catalytic Domain of Plasmodium falciparum ATP4 Exhibits ATPase Activity Independent of a γ-Phosphate Receiving Aspartate.
 40089782	Spatial distribution of malaria among under-five children and associated factors in Tanzania: a spatial and multilevel analysis.
 40089759	Bionomics and distribution of malaria vectors in Kisumu city, Western Kenya: implications for urban malaria transmission.
 40089485	Leading report on the molecular prevalence of emerging pathogens Hepatozoon sp. and Lankesterella sp. in the blood samples of seven wild lizard species.
@@ -83,7 +93,7 @@
 40062139	Falciparum Malaria in Japan: Diagnostic Difficulty in Non-endemic Areas and the Importance of Immediate Referral.
 40061813	Apolipoprotein A1 Gene Polymorphism and Its Association With TNF-Alpha and Interleukin-6 Levels in Uncomplicated Plasmodium Falciparum Malaria in Nigerian Children.
 40061692	Unlocking the Therapeutic Benefits of Artemisia Annua: A Comprehensive Overview of its Medicinal Properties.
-40060675	High-Resolution Proteomics Unveils Salivary Gland Disruption and Saliva-Hemolymph Protein Exchange in Plasmodium -Infected Mosquitoes.
+40060675	High-Resolution Proteomics Unveils Salivary Gland Disruption and Saliva-Hemolymph Protein Exchange in Plasmodium-Infected Mosquitoes.
 40060536	Endogenous structure of antimalarial target Pf ATP4 reveals new class of apicomplexan P-type ATPase modulators.
 40060532	A Metabolite-Based Resistance Mechanism Against Malaria.
 40058791	Investigating Human Liver Tissue-Resident Memory T Cells from the Perspectives of Gastroenterologists and Hepatologists.
@@ -1788,7 +1798,7 @@
 39476600	"Novel chemo-enzymatic synthesis, structural elucidation and first antiprotozoal activity profiling of the atropoisomeric dimers of trans-8-Hydroxycalamenene".
 39476461	Rapid detection of mutations in the suspected piperaquine resistance gene E415G-exo in Plasmodium falciparum exonuclease via AS‒PCR and RAA with CRISPR/Cas12a.
 39475899	Polarization toward Tfh2 cell involved in development of MBC and antibody responses against Plasmodium vivax infection.
-39475423	Two mosquito salivary antigens demonstrate promise as biomarkers of recent exposure to P. falciparum infected mosquito bites.
+39475423	Two Mosquito Salivary Antigens Demonstrate Promise as Biomarkers of Recent Exposure to Plasmodium falciparum-Infected Mosquito Bites.
 39475123	Phosphorylation in the Plasmodium falciparum Proteome: A Meta-Analysis of Publicly Available Data Sets.
 39474886	MMV 1804559 is a potential antistaphylococcal and antibiofilm agent targeting the clfA gene of Staphylococcus aureus.
 39474250	Aetiology, susceptibility and outcomes of fever in patients receiving chemotherapy in Malawi: a prospective study.
@@ -2069,7 +2079,7 @@
 39375602	Seroprevalence and risk factors for Lassa virus infection in South-West and North-Central Nigeria: a community-based cross-sectional study.
 39374937	Discovery of Knock-Down Resistance in the Major African Malaria Vector Anopheles funestus.
 39374652	Pitfalls in generating robust malaria molecular evidence for SP-resistance.
-39374370	Reduced red blood cell deformability in vivax malaria.
+39374370	Reduced Red Blood Cell Deformability in Vivax Malaria.
 39374246	Quality of care and post-discharge morbidity among children diagnosed with severe malaria in rural Uganda: A prospective cohort study.
 39373748	Determination of the role of miR-451a on Plasmodium falciparum red blood cell stages, oxidative stress, and proteomic profiling.
 39373634	Interchromosomal segmental duplication drives translocation and loss of P. falciparum histidine-rich protein 3.
@@ -9987,13 +9997,3 @@
 36624386	Using transfer learning and dimensionality reduction techniques to improve generalisability of machine-learning predictions of mosquito ages from mid-infrared spectra.
 36624300	Protein KIC5 is a novel regulator of artemisinin stress response in the malaria parasite Plasmodium falciparum.
 36623818	Molecular Docking Studies of Rifampicin - rpoB complex: Repurposing Drug Design Implications for against Plasmodium falciparum Malaria through a Computational Approach.
-36623486	The Association between Malnutrition and Malaria Infection in Children under 5 Years in Burkina Faso: A Longitudinal Study.
-36622669	Hitting drug-resistant malaria infection with triazole-linked flavonoid-chloroquine hybrid compounds.
-36622482	In silico investigation of falcipain-2 inhibition by hybrid benzimidazole-thiosemicarbazone antiplasmodial agents: A molecular docking, molecular dynamics simulation, and kinetics study.
-36622216	Plasmodium berghei Purified Hemozoin Associated with DNA Strongly Inhibits P. berghei Liver-Stage Development in BALB/c Mice after Intravenous Inoculation.
-36622147	IMC29 Plays an Important Role in Toxoplasma Endodyogeny and Reveals New Components of the Daughter-Enriched IMC Proteome.
-36622145	Targetome Analysis of Malaria Sporozoite Transcription Factor AP2-Sp Reveals Its Role as a Master Regulator.
-36621136	Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents.
-36620533	Babesia duncani in Culture and in Mouse (ICIM) Model for the Advancement of Babesia Biology, Pathogenesis, and Therapy.
-36620305	Environmental Management and Sanitation as a Malaria Vector Control Strategy: A Qualitative Cross-Sectional Study Among Stakeholders, Sunyani Municipality, Ghana.
-36620228	Trends in unsuitability for blood donation in the Brazilian Amazon.
