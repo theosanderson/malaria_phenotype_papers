@@ -206,7 +206,7 @@
 40012698	Maximizing tuberculosis services through private provider engagement - A case study from Pakistan.
 40011840	Maternal and fetal survival following Ebola, HIV and Malaria co-infection in the first trimester of gestation in resource-limited setting in Democratic Republic of Congo.
 40011796	Plasmodium falciparum merozoite surface protein 2 genetic polymorphism and multiplicity of infection in selected malarious areas of Northwest Ethiopia.
-40010630	Detection of Zika Virus Disease caused by the Asian Lineage of Zika Virus at Kenya's Lamu Island.
+40010630	Detection of zika virus disease caused by the Asian lineage of the zika virus at Kenya's Lamu island.
 40010622	Cell type-specific regulation of the pentose phosphate pathway during development and metabolic stress-driven autoimmune diseases: Relevance for inflammatory liver, renal, endocrine, cardiovascular and neurobehavioral comorbidities, carcinogenesis, and aging.
 40010012	Induced pluripotent stem cell-based tissue models to study malaria: a new player in the research game.
 40009634	Characterising people who inject drugs, and association with HIV infection: A situation analysis in Kampala City, Uganda.
