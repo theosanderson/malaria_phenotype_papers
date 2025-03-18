@@ -1,3 +1,5 @@
+40097032	Imported fever in returning travellers and migrants in Spain, 2009-2021. Analysis by the +REDIVI Network.
+40097006	Malaria a Culprit of Gullian Barre Syndrome (GBS): A Case Report.
 40095987	Correction: Cross-reactive inhibitory antibody and memory B cell responses to variant strains of Duffy binding protein II at post-Plasmodium vivax infection.
 40094716	Bioassay-Guided Isolation of Piplartine from Piper purusanum Yunck (Piperaceae) and Evaluation of Its Toxicity Against Aedes aegypti Linnaeus, 1762, Anopheles darlingi Root, 1926 (Culicidae), and Non-Target Animals.
 40093847	Recent Vaccines against Emerging and Tropical Infectious Diseases.
@@ -9995,5 +9997,3 @@
 36625655	A Microtubule-Associated Protein Is Essential for Malaria Parasite Transmission.
 36625582	Structure-Function Relationship for a Divergent Atg8 Protein Required for a Nonautophagic Function in Apicomplexan Parasites.
 36625569	A Plasmodium falciparum RING Finger E3 Ubiquitin Ligase Modifies the Roles of PfMDR1 and PfCRT in Parasite Drug Responses.
-36625544	Balancing selection on genomic deletion polymorphisms in humans.
-36624480	Effect of Ivermectin(®) on survivorship and fertility of Anopheles arabiensis in Ethiopia: an in vitro study.
