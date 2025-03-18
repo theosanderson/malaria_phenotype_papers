@@ -1,3 +1,4 @@
+40095987	Correction: Cross-reactive inhibitory antibody and memory B cell responses to variant strains of Duffy binding protein II at post-Plasmodium vivax infection.
 40094716	Bioassay-Guided Isolation of Piplartine from Piper purusanum Yunck (Piperaceae) and Evaluation of Its Toxicity Against Aedes aegypti Linnaeus, 1762, Anopheles darlingi Root, 1926 (Culicidae), and Non-Target Animals.
 40093847	Recent Vaccines against Emerging and Tropical Infectious Diseases.
 40093207	Protective targets of PfSPZ vaccines identified from whole-genome sieve analysis of isolates from malaria vaccine efficacy trials in West Africa.
@@ -8,6 +9,8 @@
 40092075	Quinoline conjugates for enhanced antimalarial activity: a review on synthesis by molecular hybridization and structure-activity relationship (SAR) investigation.
 40091933	Evaluation of the Performance of Various Diagnostic Modalities Available for the Detection of Scrub Typhus in Acute Undifferentiated Febrile Illness (AUFI) Cases at a Teaching Hospital in North Chhattisgarh, India.
 40091859	A Soluble Expression Construct of the Isolated Catalytic Domain of Plasmodium falciparum ATP4 Exhibits ATPase Activity Independent of a γ-Phosphate Receiving Aspartate.
+40091144	Characteristics of imported and domestic malaria cases in Gyeonggi Province, Korea.
+40090930	The GPCR antagonist PPTN synergizes with caspofungin providing increased fungicidal activity against Aspergillus fumigatus.
 40089782	Spatial distribution of malaria among under-five children and associated factors in Tanzania: a spatial and multilevel analysis.
 40089759	Bionomics and distribution of malaria vectors in Kisumu city, Western Kenya: implications for urban malaria transmission.
 40089485	Leading report on the molecular prevalence of emerging pathogens Hepatozoon sp. and Lankesterella sp. in the blood samples of seven wild lizard species.
@@ -9994,6 +9997,3 @@
 36625569	A Plasmodium falciparum RING Finger E3 Ubiquitin Ligase Modifies the Roles of PfMDR1 and PfCRT in Parasite Drug Responses.
 36625544	Balancing selection on genomic deletion polymorphisms in humans.
 36624480	Effect of Ivermectin(®) on survivorship and fertility of Anopheles arabiensis in Ethiopia: an in vitro study.
-36624386	Using transfer learning and dimensionality reduction techniques to improve generalisability of machine-learning predictions of mosquito ages from mid-infrared spectra.
-36624300	Protein KIC5 is a novel regulator of artemisinin stress response in the malaria parasite Plasmodium falciparum.
-36623818	Molecular Docking Studies of Rifampicin - rpoB complex: Repurposing Drug Design Implications for against Plasmodium falciparum Malaria through a Computational Approach.
