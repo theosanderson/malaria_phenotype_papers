@@ -1,3 +1,6 @@
+40099748	Non-Hydroxamate Inhibitors of IspC Enzyme in the MEP Pathway: Structural Insights and Drug Development Potential.
+40099623	A novel inhibitor against the Bromodomain Protein 1 of the malaria pathogen Plasmodium falciparum.
+40099532	50-Fold Adjuvant and 20-Fold Antigen Vaccine Dose Sparing from Nanoliposome Display of a Stabilized Malarial Protein Antigen.
 40098944	Migrations in Latin America: the corridor to the American dream is a public health problem.
 40098122	Molecular evolution of gustatory receptors in the Anopheles gambiae complex.
 40098097	Safety, tolerability and immunogenicity of a condensed, multi-dose prime regimen of PfSPZ Vaccine for the prevention of Plasmodium falciparum malaria infection.
@@ -9994,6 +9997,3 @@
 36629183	Characterization of the anopheline vector breeding habitats: Implications for elimination of malaria in tribal inhabited Car Nicobar Island.
 36628555	A Comprehensive Review of the Phytochemical and Pharmacological Potential of an Evergreen Plant Garcinia cowa.
 36627806	First Report of Yellow Rot Caused by Physarum galbeum in Grifola frondosa in China.
-36627715	Correction: Life table analysis of Anopheles balabacensis, the primary vector of Plasmodium knowlesi in Sabah, Malaysia.
-36626386	Population-specific positive selection on low CR1 expression in malaria-endemic regions.
-36626059	Residual efficacy of selected larvicides against Culex pipiens pipiens (Diptera: Culicidae) under laboratory and semi-field conditions.
