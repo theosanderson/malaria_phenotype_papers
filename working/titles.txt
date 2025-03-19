@@ -1,3 +1,4 @@
+40101454	Novel, fully human, anti-PfCSP antibodies with potent antimalarial activity using a phage display based strategy.
 40101140	Anti-trypanosomatid and Antiplasmodial Activities of Alkaloids from Hippeastrum species.
 40101051	Evolutionary biology of antimalarial drug resistance: Understanding of the evolutionary dynamics.
 40100921	Perspectives of health workers on malaria case referral among pregnant women attending antenatal care in Savelugu Municipality, Ghana: A qualitative descriptive study.
@@ -9996,4 +9997,3 @@
 36633608	The Potential of a New Beauveria bassiana Isolate for Mosquito Larval Control.
 36633492	Cluster-randomized controlled trial of intermittent preventive treatment in infancy using sulfadoxine-pyrimethamine (SP-IPTi): a pilot study in Nigeria.
 36632823	Research progress on chemical components and pharmacological action of Solanum lyratum Thunb.
-36632535	Gaucher Disease: One of the Few Causes of Massive Splenomegaly.
