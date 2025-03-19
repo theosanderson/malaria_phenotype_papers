@@ -1,3 +1,5 @@
+40105626	Morphology of the male reproductive system and spermatozoa variation in Anopheles darlingi (Diptera: Culicidae).
+40105524	Cross-sectional entomological monitoring combined with professional qualifications in transition areas for yellow fever and autochthonous malaria in the Atlantic Forest in Rio de Janeiro, Brazil.
 40104806	Synthesis and SAR Studies of Acyl-Thiourea Platinum(II) Complexes Yield Analogs with Dual-Stage Antiplasmodium Activity.
 40104459	Estimating Survival Functions in Children With Malaria in South Sudan: A Comparative Analysis of Associated Factors.
 40102850	Increasing day three parasitaemia is observed after treatment of patients with artemether-lumefantrine and single dose of primaquine for uncomplicated Plasmodium falciparum malaria in Arbaminch Zuria district, Southwest Ethiopia.
@@ -9995,5 +9997,3 @@
 36635427	Rapid stool antigenic test for typhoid fever among suspected cases, Northeast, Ethiopia.
 36634679	Regulators of male and female sexual development are critical for the transmission of a malaria parasite.
 36634455	Structure-based development of potent Plasmodium falciparum M1 and M17 aminopeptidase selective and dual inhibitors via S1'-region optimisation.
-36634422	Changes in the associations between malaria incidence and climatic factors across malaria endemic countries in Africa and Asia-Pacific region.
-36634046	Therapeutic efficacy of Chloroquine for the treatment of uncomplicated Plasmodium vivax infection in Shewa Robit, Northeast Ethiopia.
