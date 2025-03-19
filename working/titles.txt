@@ -1,3 +1,8 @@
+40104806	Synthesis and SAR Studies of Acyl-Thiourea Platinum(II) Complexes Yield Analogs with Dual-Stage Antiplasmodium Activity.
+40104459	Estimating Survival Functions in Children With Malaria in South Sudan: A Comparative Analysis of Associated Factors.
+40102850	Increasing day three parasitaemia is observed after treatment of patients with artemether-lumefantrine and single dose of primaquine for uncomplicated Plasmodium falciparum malaria in Arbaminch Zuria district, Southwest Ethiopia.
+40102442	Functionality of Toxoplasma gondii antibodies in a population of Beninese pregnant women exposed to malaria.
+40102390	Decreased dihydroartemisinin-piperaquine protection against recurrent malaria associated with Plasmodium falciparum plasmepsin 3 copy number variation in Africa.
 40101454	Novel, fully human, anti-PfCSP antibodies with potent antimalarial activity using a phage display based strategy.
 40101140	Anti-trypanosomatid and Antiplasmodial Activities of Alkaloids from Hippeastrum species.
 40101051	Evolutionary biology of antimalarial drug resistance: Understanding of the evolutionary dynamics.
@@ -9992,8 +9997,3 @@
 36634455	Structure-based development of potent Plasmodium falciparum M1 and M17 aminopeptidase selective and dual inhibitors via S1'-region optimisation.
 36634422	Changes in the associations between malaria incidence and climatic factors across malaria endemic countries in Africa and Asia-Pacific region.
 36634046	Therapeutic efficacy of Chloroquine for the treatment of uncomplicated Plasmodium vivax infection in Shewa Robit, Northeast Ethiopia.
-36634044	Individual variation in Plasmodium vivax malaria risk: Are repeatedly infected people just unlucky?
-36634043	The United States Food and Drug Administration (FDA) regulatory response to combat neglected tropical diseases (NTDs): A review.
-36633608	The Potential of a New Beauveria bassiana Isolate for Mosquito Larval Control.
-36633492	Cluster-randomized controlled trial of intermittent preventive treatment in infancy using sulfadoxine-pyrimethamine (SP-IPTi): a pilot study in Nigeria.
-36632823	Research progress on chemical components and pharmacological action of Solanum lyratum Thunb.
