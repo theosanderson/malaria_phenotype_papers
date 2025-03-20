@@ -1,3 +1,7 @@
+40106816	Targeted Behavior Change Communication Using a Mobile Health Platform to Increase Uptake of Long-Lasting Insecticidal Nets Among Pregnant Women in Tanzania: Hati Salama "Secure Voucher" Study Cluster Randomized Controlled Trial.
+40106488	Evidence for infectious merozoites of Plasmodium falciparum from natural isolates of cultured hepatoma cells infected with sporozoites.
+40106483	Understanding climate-sensitive diseases in Bangladesh using systematic review and government data repository.
+40106291	The Pretravel Consultation.
 40105626	Morphology of the male reproductive system and spermatozoa variation in Anopheles darlingi (Diptera: Culicidae).
 40105524	Cross-sectional entomological monitoring combined with professional qualifications in transition areas for yellow fever and autochthonous malaria in the Atlantic Forest in Rio de Janeiro, Brazil.
 40104806	Synthesis and SAR Studies of Acyl-Thiourea Platinum(II) Complexes Yield Analogs with Dual-Stage Antiplasmodium Activity.
@@ -9993,7 +9997,3 @@
 36635665	Optimizing the role of 'lead mothers' in seasonal malaria chemoprevention (SMC) campaigns: formative research in Kano State, northern Nigeria.
 36635660	Durable wall lining for malaria control in Liberia: results of a cluster randomized trial.
 36635658	Unravelling the impact of insecticide-treated bed nets on childhood malaria in Malawi.
-36635642	Community acceptability, participation, and adherence to mass drug administration with primaquine for Plasmodium vivax elimination in Southern Thailand: a mixed methods approach.
-36635427	Rapid stool antigenic test for typhoid fever among suspected cases, Northeast, Ethiopia.
-36634679	Regulators of male and female sexual development are critical for the transmission of a malaria parasite.
-36634455	Structure-based development of potent Plasmodium falciparum M1 and M17 aminopeptidase selective and dual inhibitors via S1'-region optimisation.
