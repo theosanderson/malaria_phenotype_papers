@@ -1,3 +1,5 @@
+40111052	Addressing the dynamic nature of reference data: a new nucleotide database for robust metagenomic classification.
+40110804	Current access, availability and use of antibiotics in primary care among key low- and middle-income countries and the policy implications.
 40110615	Understanding the primary healthcare context in rural South and Southeast Asia: a village profiling study.
 40110309	Healthcare debts in the United States: a silent fight.
 40110260	Assessing the influence of rapid diagnostic test (RDT) accuracy on malaria misdiagnosis and antimalarial resistance in Nigeria.
@@ -9995,5 +9997,3 @@
 36639818	Insecticide susceptibility status of Anopheles gambiae (s.l.) in and surrounding areas of Lake Tana, northwest Ethiopia.
 36639683	High-throughput analysis of the transcriptional patterns of sexual genes in malaria.
 36639160	Spatiotemporal dynamics of malaria in Zanzibar, 2015-2020.
-36639159	Financing global health security: estimating the costs of pandemic preparedness in Global Fund eligible countries.
-36637429	Healthcare seeking during travel: an analysis by the GeoSentinel surveillance network of travel medicine providers.
