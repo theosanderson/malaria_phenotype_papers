@@ -1,3 +1,5 @@
+40107365	Synergistic interaction of AaMYC2 and AaMYC2-LIKE enhances artemisinin production in Artemisia annua.
+40107120	Deep learning method for malaria parasite evaluation from microscopic blood smear.
 40106816	Targeted Behavior Change Communication Using a Mobile Health Platform to Increase Uptake of Long-Lasting Insecticidal Nets Among Pregnant Women in Tanzania: Hati Salama "Secure Voucher" Study Cluster Randomized Controlled Trial.
 40106488	Evidence for infectious merozoites of Plasmodium falciparum from natural isolates of cultured hepatoma cells infected with sporozoites.
 40106483	Understanding climate-sensitive diseases in Bangladesh using systematic review and government data repository.
@@ -9995,5 +9997,3 @@
 36636240	Detection of Malaria Parasites and Other Haemosporidia in Migratory and Native Birds in Mazandaran and Golestan Provinces, Iran.
 36635720	Entomological monitoring data driving decision-making for appropriate and sustainable malaria vector control in Côte d'Ivoire.
 36635665	Optimizing the role of 'lead mothers' in seasonal malaria chemoprevention (SMC) campaigns: formative research in Kano State, northern Nigeria.
-36635660	Durable wall lining for malaria control in Liberia: results of a cluster randomized trial.
-36635658	Unravelling the impact of insecticide-treated bed nets on childhood malaria in Malawi.
