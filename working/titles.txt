@@ -1,3 +1,13 @@
+40116034	Healthcare-associated malaria: a systematic review, 1997 to 2023.
+40114813	﻿An updated checklist of Anopheles (Diptera, Culicidae) of Colombia with new records and distribution data.
+40114662	Association of toll like receptors polymorphism (TLR1-rs4833095, TLR1-rs5743611, TLR6-rs5743810, TLR6-rs5743809, TLR4-rs4986790, TLR4-rs4986791, TLR9 rs187084) with clinical outcome of malaria among children in Ibadan, Southwest Nigeria.
+40114164	Congenital infection with Plasmodium malariae: a rare case of intrauterine transmission in Germany.
+40114159	Early evening outdoor biting by malaria-infected Anopheles arabiensis vectors threatens malaria elimination efforts in Zanzibar.
+40114138	Acceptance of a malaria vaccine among caregivers of sick children under 5 years of age in Burundi.
+40113990	tRNA lysidinylation is essential for the minimal translation system in the Plasmodium falciparum apicoplast.
+40113916	Prevalence and distribution of Plasmodium falciparum multidrug resistant 1 D1246Y allele among children in Ibadan Southwest, Nigeria.
+40113865	Malaria vectors with leaky guts.
+40113723	Computational Analysis of Plasmodium falciparum DNA Damage Inducible Protein 1 (PfDdi1): Insights into Binding of Artemisinin and its Derivatives and Implications for Antimalarial Drug Design.
 40113369	Simplifying medicine dosing for children by harmonising weight bands across therapeutic areas.
 40113189	Infectious Diseases Prevention and Vaccination in migrants in Latin America: The challenges of transit through the treacherous Darien Gap, Panama.
 40112852	14 days of high-dose versus low-dose primaquine treatment in patients with Plasmodium vivax infection in Cambodia: a randomised, single-centre, open-label efficacy study.
@@ -9987,13 +9997,3 @@
 36649040	An Overview of Malaria Transmission Mechanisms, Control, and Modeling.
 36648839	Assessment of the Antimalarial Treatment Failure in Ebonyi State, Southeast Nigeria.
 38384896	A conversation with Peter Crompton, MD, MPH, Chief, Malaria Infection Biology and Immunity Section, National Institute of Allergy and Infectious Diseases.
-36647056	Erythrocyte membrane with CLIPPKF as biomimetic nanodecoy traps merozoites and attaches to infected red blood cells to prevent Plasmodium infection.
-36646927	Dihydroartemisinin imposes positive and negative regulation on Treg and plasma cells via direct interaction and activation of c-Fos.
-36645283	Oral Microbiota Alteration and Roles in Epstein-Barr Virus Reactivation in Nasopharyngeal Carcinoma.
-36645165	Implementing landscape genetics in molecular epidemiology to determine drivers of vector-borne disease: A malaria case study.
-36644573	Prevalence of Asymptomatic Malaria Parasitemia among Blood Donors in Cape Coast, Ghana: A Cross-Sectional Study.
-36643988	In vitro antiplasmodial activity of selected plants from the Colombian North Coast with low cytotoxicity.
-36643985	Triple Infection with Dengue, Chikungunya and Malaria.
-36643715	Prevalence of Malaria and COVID-19 Infection in Akure North Local Government Area of Ondo State, Nigeria.
-36643690	Therapeutics through glycobiology: an approach for targeted elimination of malaria.
-36642907	[Bibliometric analysis of publications pertaining to artemisinin resistance in Plasmodium falciparum based on Web of Science from 2011 to 2022].
