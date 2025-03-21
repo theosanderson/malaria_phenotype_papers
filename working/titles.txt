@@ -1,3 +1,10 @@
+40113369	Simplifying medicine dosing for children by harmonising weight bands across therapeutic areas.
+40113189	Infectious Diseases Prevention and Vaccination in migrants in Latin America: The challenges of transit through the treacherous Darien Gap, Panama.
+40112852	14 days of high-dose versus low-dose primaquine treatment in patients with Plasmodium vivax infection in Cambodia: a randomised, single-centre, open-label efficacy study.
+40112841	Selection of Plasmodium falciparum kelch13 mutations in Uganda in comparison with southeast Asia: a modelling study.
+40112571	Immune evasion runs in the family: two surface protein families of Plasmodium falciparum-infected erythrocytes.
+40112557	Immunogenicity and efficacy in mice of two adjuvant formulations based on the C -and N-terminus of merozoite surface protein 1 of Plasmodium yoelii.
+40112423	Recrudescence du paludisme importé en Tunisie, 2018 - 2022.
 40111992	Gene deletion as a possible strategy adopted by New World Leishmania infantum to maximize geographic dispersion.
 40111931	Mechanism of Unexpected In-Trans Post-PKS Polyketide Reduction in Cochliodone Biosynthesis.
 40111862	Personalized Hemoglobin A1c Shows Better Correlation with Mean Glucose than Laboratory Hemoglobin A1c in Ugandan Youth with Type 1 Diabetes, but Mean Glucose Is Not Clinically Useful in This Population Due to Extreme Glucose Variability.
@@ -9990,10 +9997,3 @@
 36643715	Prevalence of Malaria and COVID-19 Infection in Akure North Local Government Area of Ondo State, Nigeria.
 36643690	Therapeutics through glycobiology: an approach for targeted elimination of malaria.
 36642907	[Bibliometric analysis of publications pertaining to artemisinin resistance in Plasmodium falciparum based on Web of Science from 2011 to 2022].
-36642689	Lipid peroxidation and its repair in malaria parasites.
-36642628	Immunodominant T cell peptides from four candidate malarial antigens as biomarkers of protective immunity against malaria.
-36642385	The microbiota, the malarial parasite, and the mosquito [MMM] - A three-sided relationship.
-36642087	Predicted effects of the introduction of long-acting injectable cabotegravir pre-exposure prophylaxis in sub-Saharan Africa: a modelling study.
-36640797	Pragmatic trials to inform policy decisions and planning.
-36640768	Humidity sensors that alert mosquitoes to nearby hosts and egg-laying sites.
-36640315	Malaria parasites harness Rho GTPase signaling and host cell membrane ruffling for productive invasion of hepatocytes.
