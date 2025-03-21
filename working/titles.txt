@@ -1,3 +1,6 @@
+40111992	Gene deletion as a possible strategy adopted by New World Leishmania infantum to maximize geographic dispersion.
+40111931	Mechanism of Unexpected In-Trans Post-PKS Polyketide Reduction in Cochliodone Biosynthesis.
+40111862	Personalized Hemoglobin A1c Shows Better Correlation with Mean Glucose than Laboratory Hemoglobin A1c in Ugandan Youth with Type 1 Diabetes, but Mean Glucose Is Not Clinically Useful in This Population Due to Extreme Glucose Variability.
 40111052	Addressing the dynamic nature of reference data: a new nucleotide database for robust metagenomic classification.
 40110804	Current access, availability and use of antibiotics in primary care among key low- and middle-income countries and the policy implications.
 40110615	Understanding the primary healthcare context in rural South and Southeast Asia: a village profiling study.
@@ -9994,6 +9997,3 @@
 36640797	Pragmatic trials to inform policy decisions and planning.
 36640768	Humidity sensors that alert mosquitoes to nearby hosts and egg-laying sites.
 36640315	Malaria parasites harness Rho GTPase signaling and host cell membrane ruffling for productive invasion of hepatocytes.
-36639818	Insecticide susceptibility status of Anopheles gambiae (s.l.) in and surrounding areas of Lake Tana, northwest Ethiopia.
-36639683	High-throughput analysis of the transcriptional patterns of sexual genes in malaria.
-36639160	Spatiotemporal dynamics of malaria in Zanzibar, 2015-2020.
