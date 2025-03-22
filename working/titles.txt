@@ -1,3 +1,7 @@
+40117352	SIP2 is the master transcription factor of Plasmodium merozoite formation.
+40117195	Structure of Mycobacterial NDH-2 Bound to a 2-Mercapto-Quinazolinone Inhibitor.
+40116874	Maesa lanceolata: a comprehensive review of its traditional medicinal uses, phytochemistry, pharmacological potential, toxicology, and safety profile.
+40116634	Surface display of LukF-PV on Bacillus subtilis spore for oral administration.
 40116034	Healthcare-associated malaria: a systematic review, 1997 to 2023.
 40114813	﻿An updated checklist of Anopheles (Diptera, Culicidae) of Colombia with new records and distribution data.
 40114662	Association of toll like receptors polymorphism (TLR1-rs4833095, TLR1-rs5743611, TLR6-rs5743810, TLR6-rs5743809, TLR4-rs4986790, TLR4-rs4986791, TLR9 rs187084) with clinical outcome of malaria among children in Ibadan, Southwest Nigeria.
@@ -9993,7 +9997,3 @@
 36650185	Modeling marine cargo traffic to identify countries in Africa with greatest risk of invasion by Anopheles stephensi.
 36649803	Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.
 36649509	Severe Anemia Observed in a Chinese Patient with COVID-19 and Plasmodium Falciparum Malaria Co-Infection.
-36649293	Revisiting the sialome of the cat flea Ctenocephalides felis.
-36649040	An Overview of Malaria Transmission Mechanisms, Control, and Modeling.
-36648839	Assessment of the Antimalarial Treatment Failure in Ebonyi State, Southeast Nigeria.
-38384896	A conversation with Peter Crompton, MD, MPH, Chief, Malaria Infection Biology and Immunity Section, National Institute of Allergy and Infectious Diseases.
