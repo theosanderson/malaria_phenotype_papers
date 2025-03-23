@@ -61,7 +61,7 @@
 40098038	Post-treatment transmissibility of Plasmodium falciparum infections: an observational cohort study.
 40097548	Measuring the effect of repetitive stretching on the deformability of human red blood cells using optical tweezers.
 40097534	Global burden of malaria before and after the COVID-19 pandemic based on the global burden of disease study 2021.
-40097032	Imported fever in returning travellers and migrants in Spain, 2009-2021. Analysis by the +REDIVI Network.
+40097032	Imported fever in returning travellers and migrants in Spain, 2009-2021. Analysis by the +REDIVI network.
 40097006	Malaria a Culprit of Gullian Barre Syndrome (GBS): A Case Report.
 40095987	Correction: Cross-reactive inhibitory antibody and memory B cell responses to variant strains of Duffy binding protein II at post-Plasmodium vivax infection.
 40094716	Bioassay-Guided Isolation of Piplartine from Piper purusanum Yunck (Piperaceae) and Evaluation of Its Toxicity Against Aedes aegypti Linnaeus, 1762, Anopheles darlingi Root, 1926 (Culicidae), and Non-Target Animals.
