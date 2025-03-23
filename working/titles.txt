@@ -1,3 +1,4 @@
+40119342	Retraction Note: Malaria in urban, semi‑urban and rural areas of southern of Gabon: comparison of the Pfmdr 1 and Pfcrt genotypes from symptomatic children.
 40117868	Performance of microscopy and rapid test for the diagnosis of mixed malaria in an endemic area of Colombia.
 40117835	Eucalyptus oil: A promising anticoccidial agent with multifaceted protective effects.
 40117352	SIP2 is the master transcription factor of Plasmodium merozoite formation.
@@ -9996,4 +9997,3 @@
 36650533	Changing epidemiology of Plasmodium vivax malaria in Nouakchott, Mauritania: a six-year (2015-2020) prospective study.
 36650503	Impact of insecticide resistance on malaria vector competence: a literature review.
 36650337	Impact of Sub-patent Malaria During Pregnancy on Birth-Weight in Odisha, India: Time-to-Event Analysis of Prospective Longitudinal Follow-Up of a Survey.
-36650185	Modeling marine cargo traffic to identify countries in Africa with greatest risk of invasion by Anopheles stephensi.
