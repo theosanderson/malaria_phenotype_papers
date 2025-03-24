@@ -1,3 +1,6 @@
+40122844	Building climate-resilient health systems in Sierra Leone: addressing the dual burden of infectious and climate-related diseases.
+40122815	WHO malaria nucleic acid amplification test external quality assessment scheme: results of eleven distributions over 6 years.
+40122797	Seasonal variation of Microsporidia MB infection in Anopheles gambiae and Anopheles coluzzii in two different geographical localities in Benin.
 40122518	Transition of Yellow Fever Immunization Environment in Japan.
 40122414	Population genetic structure of the fibrinogen-related protein 1 (FREP1) in Iranian isolates of Anopheles stephensi as a promising mosquito-based malaria vaccine candidate.
 40121866	Small molecule compounds targeting G9a/GLP: Recent advances and perspectives.
@@ -9994,6 +9997,3 @@
 36657610	Plasmodium DDI1 is a potential therapeutic target and important chromatin-associated protein.
 36657393	Gene-by-gene screen of the unknown proteins encoded on Plasmodium falciparum chromosome 3.
 36657121	Indirect impact of COVID-19 on the incidence rates of vector-borne diseases in Mexico.
-36655935	Non-operative management of a pathological malaria splenic rupture A case report.
-36655234	Did malaria elimination begin to lose its way in 1925? "If you think education is expensive, try ignorance.".
-36655187	The Epidemiology and Clinical Features of Non-Keratitis Acanthamoeba Infections in the United States, 1956-2020.
