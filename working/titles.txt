@@ -1,3 +1,7 @@
+40125266	The Areas of Echinococcosis From the Qinghai-Tibet Plateau Extend to Yunnan: An Observation of Deworming and Control Integrated Impact Evaluation on Dogs.
+40124705	Seasonal malaria chemoprevention and mutations in Pfdhfr and Pfdhps genes in children in the health district of Nanoro, Burkina Faso.
+40124602	Multiplex vs. singleplex assay for the simultaneous identification of the three components of avian malaria vector-borne disease by DNA metabarcoding.
+40124202	Diagnosis of Granulomatosis With Polyangiitis in a 39-Year-Old Woman With a Recent History of Traveling to Malaria-Endemic Region: A Case Report.
 40122844	Building climate-resilient health systems in Sierra Leone: addressing the dual burden of infectious and climate-related diseases.
 40122815	WHO malaria nucleic acid amplification test external quality assessment scheme: results of eleven distributions over 6 years.
 40122797	Seasonal variation of Microsporidia MB infection in Anopheles gambiae and Anopheles coluzzii in two different geographical localities in Benin.
@@ -84,6 +88,7 @@
 40094716	Bioassay-Guided Isolation of Piplartine from Piper purusanum Yunck (Piperaceae) and Evaluation of Its Toxicity Against Aedes aegypti Linnaeus, 1762, Anopheles darlingi Root, 1926 (Culicidae), and Non-Target Animals.
 40093847	Recent Vaccines against Emerging and Tropical Infectious Diseases.
 40093207	Protective targets of PfSPZ vaccines identified from whole-genome sieve analysis of isolates from malaria vaccine efficacy trials in West Africa.
+40093156	Behavioral Manipulation of Ixodes scapularis by Ehrlichia muris eauclairensis: Implications for Tick-Borne Disease Transmission.
 40093134	Engineering gene drive docking sites in a haplolethal locus in Anopheles gambiae.
 40093041	Inheritance of the genome-less apicoplast in the "apicoplast-minus" Plasmodium falciparum.
 40093040	Heme Detoxification in the Malaria Parasite Plasmodium falciparum: A Time-Dependent Basal-Level Analysis.
@@ -9992,8 +9997,3 @@
 36658587	Prevalence of malaria and associated clinical manifestations and myeloperoxidase amongst populations living in different altitudes of Mezam division, North West Region, Cameroon.
 36658583	Transmission efficiency of Plasmodium vivax at low parasitaemia.
 36658578	Implementing a novel capture and ligation probe-PCR method in mass screen and treatment to support malaria elimination efforts in the China-Myanmar border region.
-36658517	Assessment of integrated community case management of childhood illness (ICCM) practices by trained patent and proprietary medicine vendors (PPMVs) in Ebonyi and Kaduna states, Nigeria.
-36657622	Immunomodulation through vaccination as a promising therapeutic strategy to mitigate malaria-related neurocognitive sequelae.
-36657610	Plasmodium DDI1 is a potential therapeutic target and important chromatin-associated protein.
-36657393	Gene-by-gene screen of the unknown proteins encoded on Plasmodium falciparum chromosome 3.
-36657121	Indirect impact of COVID-19 on the incidence rates of vector-borne diseases in Mexico.
