@@ -1,3 +1,4 @@
+40127922	Divergent Plasmodium kinases drive MTOC, kinetochore and axoneme organisation in male gametogenesis.
 40126702	Advancing Health Through Sustainable Development Goals-Saudi Arabia's Mid-Journey Progress and Insights.
 40125266	The Areas of Echinococcosis From the Qinghai-Tibet Plateau Extend to Yunnan: An Observation of Deworming and Control Integrated Impact Evaluation on Dogs.
 40124705	Seasonal malaria chemoprevention and mutations in Pfdhfr and Pfdhps genes in children in the health district of Nanoro, Burkina Faso.
@@ -794,7 +795,7 @@
 39848983	YAT2150 is irresistible in Plasmodium falciparum and active against Plasmodium vivax and Leishmania clinical isolates.
 39848918	Low-dose quinine targets KCNH6 to potentiate glucose-induced insulin secretion.
 39848452	Development of a curcumin-piperine nanoparticle system using dissolving microneedles for transdermal drug delivery in malaria treatment: In vitro evaluation.
-39848407	Identification of dengue virus serotype and genotype: A comprehensive study from AIIMS Patna, Bihar.
+39848407	Identification of Dengue virus serotype and genotype: A comprehensive study from AIIMS Patna, Bihar.
 39847585	Modes and mechanisms for the inheritance of mitochondria and plastids in pathogenic protists.
 39847577	Malaria: Factors affecting disease severity, immune evasion mechanisms, and reversal of immune inhibition to enhance vaccine efficacy.
 39847574	Atypical memory B cells from natural malaria infection produced broadly neutralizing antibodies against Plasmodium vivax variants.
@@ -9996,4 +9997,3 @@
 36661017	Introduction of the first antimalarial vaccine: A step towards Malaria eradication?
 36660834	[Infectious disease: what's new in 2022].
 36658587	Prevalence of malaria and associated clinical manifestations and myeloperoxidase amongst populations living in different altitudes of Mezam division, North West Region, Cameroon.
-36658583	Transmission efficiency of Plasmodium vivax at low parasitaemia.
