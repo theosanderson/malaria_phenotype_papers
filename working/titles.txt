@@ -1,3 +1,6 @@
+40131203	Design, Synthesis, in vivo antimalarial activity and in silico studies of sulfonamide-alkanamido thiazole-5-carboxylate derivatives.
+40131188	Artificial intelligence and its application in clinical microbiology.
+40130886	Hematology thin smears perform equally to parasitology thick and thin blood smears for the diagnosis of Plasmodium and Babesia infections in a low prevalence setting.
 40130215	Tackling the unfolding Anopheles stephensi crisis in Africa: Minimise research and maximise action.
 40128854	Genetic diversity and population structure of Plasmodium falciparum across areas of varied malaria transmission intensities in Uganda.
 40128838	Identifying gaps in protection from malaria vector biting in rural Cambodia using an entomological assessment and human behaviour observations.
@@ -9994,6 +9997,3 @@
 36668956	Post-Artesunate Delayed Hemolysis: A Review of Current Evidence.
 36668952	Mono-Parasitic and Poly-Parasitic Intestinal Infections among Children Aged 36-45 Months in East Nusa Tenggara, Indonesia.
 36668942	Relation between Increased IL-10 Levels and Malaria Severity: A Systematic Review and Meta-Analysis.
-36668917	A Use of 56-kDa Recombinant Protein of Orientia tsutsugamushi Karp Serotype in Serodiagnosis of Scrub Typhus by Enzyme-Linked Immunosorbent Assay in Thais.
-36661980	Entomological Characteristics of Malaria Transmission across Benin: An Essential Element for Improved Deployment of Vector Control Interventions.
-36661943	Population Genetics of Anopheles pretoriensis in Grande Comore Island.
