@@ -1,3 +1,4 @@
+40126702	Advancing Health Through Sustainable Development Goals-Saudi Arabia's Mid-Journey Progress and Insights.
 40125266	The Areas of Echinococcosis From the Qinghai-Tibet Plateau Extend to Yunnan: An Observation of Deworming and Control Integrated Impact Evaluation on Dogs.
 40124705	Seasonal malaria chemoprevention and mutations in Pfdhfr and Pfdhps genes in children in the health district of Nanoro, Burkina Faso.
 40124602	Multiplex vs. singleplex assay for the simultaneous identification of the three components of avian malaria vector-borne disease by DNA metabarcoding.
@@ -111,6 +112,10 @@
 40086801	The 'Health-2-Go' programme's impact on all-cause mortality and clinic utilisation for children 5 and under: a retrospective cohort analysis of an iCCM intervention in Ghana's Barekese Subdistrict.
 40086773	Vaccines for International Travelers: Current Status and Recent Developments.
 40086604	Third-generation analogues of Guttiferone A.
+30000766	Primaquine.
+30000538	Atovaquone and Proguanil.
+30000213	Mefloquine.
+30000205	Chloroquine.
 40085439	Sustained activation induced cytidine deaminase (AID) expression in B cells following Plasmodium falciparum malaria infection in Kenyan children.
 40085245	Complete Genome Sequence, Biological Activities, and Metabolomic Profiles of Mangrove-Derived Streptomyces sp. SM1P.
 40084210	Malaria and missed school days: exploring school absenteeism patterns and local strategies in Odisha, India.
@@ -1688,7 +1693,6 @@
 39542943	Effects of nanocapsules containing lumefantrine and artemether in an experimental model of cerebral malaria.
 39542934	Prevalence of asymptomatic parasitaemia among household members of children under seasonal malaria chemoprevention coverage and comparison of the performance of standard rapid diagnostic tests versus ultrasensitive RDT for the detection of asymptomatic parasitaemia in Nanoro, Burkina Faso.
 39541984	Systematic screens for fertility genes essential for malaria parasite transmission reveal conserved aspects of sex in a divergent eukaryote.
-30000766	Primaquine.
 39541371	Risk factors for anaemia among pregnant women: A cross-sectional study in Upper East Region, Ghana.
 39541051	Malaria in the Republic of Guinea 2022-2023: costs associated with the care pathway from the patient's perspective.
 39540997	The Pandemic, Mining Violence, and the Case of the Sanöma/Yanomami People.
@@ -3205,10 +3209,7 @@
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. Leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
 30000752	Atovaquone.
-30000538	Atovaquone and Proguanil.
-30000213	Mefloquine.
 30000209	Hydroxychloroquine.
-30000205	Chloroquine.
 39003571	Structure-function analysis of nucleotide housekeeping protein HAM1 from human malaria parasite Plasmodium falciparum.
 39003498	The C-terminal region of the Plasmodium berghei gamete surface 184-kDa protein Pb184 contributes to fertilization and male gamete binding to the residual body.
 39003288	Asymptomatic malaria and predictors among migrant farmworkers East Shewa zone Oromia Ethiopia.
@@ -9996,4 +9997,3 @@
 36660834	[Infectious disease: what's new in 2022].
 36658587	Prevalence of malaria and associated clinical manifestations and myeloperoxidase amongst populations living in different altitudes of Mezam division, North West Region, Cameroon.
 36658583	Transmission efficiency of Plasmodium vivax at low parasitaemia.
-36658578	Implementing a novel capture and ligation probe-PCR method in mass screen and treatment to support malaria elimination efforts in the China-Myanmar border region.
