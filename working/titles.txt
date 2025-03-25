@@ -1,3 +1,7 @@
+40130215	Tackling the unfolding Anopheles stephensi crisis in Africa: Minimise research and maximise action.
+40128854	Genetic diversity and population structure of Plasmodium falciparum across areas of varied malaria transmission intensities in Uganda.
+40128838	Identifying gaps in protection from malaria vector biting in rural Cambodia using an entomological assessment and human behaviour observations.
+40128412	Molecular architecture of glideosome and nuclear F-actin in Plasmodium falciparum.
 40127922	Divergent Plasmodium kinases drive MTOC, kinetochore and axoneme organisation in male gametogenesis.
 40126702	Advancing Health Through Sustainable Development Goals-Saudi Arabia's Mid-Journey Progress and Insights.
 40125266	The Areas of Echinococcosis From the Qinghai-Tibet Plateau Extend to Yunnan: An Observation of Deworming and Control Integrated Impact Evaluation on Dogs.
@@ -9993,7 +9997,3 @@
 36668917	A Use of 56-kDa Recombinant Protein of Orientia tsutsugamushi Karp Serotype in Serodiagnosis of Scrub Typhus by Enzyme-Linked Immunosorbent Assay in Thais.
 36661980	Entomological Characteristics of Malaria Transmission across Benin: An Essential Element for Improved Deployment of Vector Control Interventions.
 36661943	Population Genetics of Anopheles pretoriensis in Grande Comore Island.
-36661364	New Iron Twist to Chloroquine─Upgrading Antimalarials with Immunomodulatory and Antimicrobial Features.
-36661017	Introduction of the first antimalarial vaccine: A step towards Malaria eradication?
-36660834	[Infectious disease: what's new in 2022].
-36658587	Prevalence of malaria and associated clinical manifestations and myeloperoxidase amongst populations living in different altitudes of Mezam division, North West Region, Cameroon.
