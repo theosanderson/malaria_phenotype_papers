@@ -1,3 +1,5 @@
+40137122	Identification of Bioactive Metabolites of Capirona macrophylla by Metabolomic Analysis, Molecular Docking, and In Vitro Antiparasitic Assays.
+40136942	Urinary Albumin-to-Creatinine Ratio (uACR) Point-of-Care (POC) Device with Seamless Data Transmission for Monitoring the Progression of Chronic Kidney Disease.
 40132035	Myosin 1f and Proline-rich 13 are transcriptionally upregulated yet functionally redundant in CD4+ T cells during blood-stage Plasmodium infection.
 40132008	Performance of quantitative point-of-care tests to measure G6PD activity: An individual participant data meta-analysis.
 40131971	Asymptomatic carriage of Plasmodium falciparum in children no longer targeted for seasonal malaria chemoprevention and with a history of exposure to this strategy: A cross sectional study in southern Senegal.
@@ -9995,5 +9997,3 @@
 36669857	Quantifying Aedes aegypti Host Odor Preference Using a Two-Port Olfactometer.
 36669649	Fatal Systemic Haemosporidiosis in a Free-Ranging Greater Sage-Grouse (Centrocercus urophasianus).
 36669055	A Four-Year Survey of Hemoparasites from Nocturnal Raptors (Strigiformes) Confirms a Relation between Leucocytozoon and Low Hematocrit and Body Condition Scores of Parasitized Birds.
-36668974	Impact of the COVID-19 Pandemic on Malaria Control in Africa: A Preliminary Analysis.
-36668963	The Impact of Geographical Variation in Plasmodium knowlesi Apical Membrane Protein 1 (PkAMA-1) on Invasion Dynamics of P. knowlesi.
