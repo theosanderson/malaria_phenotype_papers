@@ -1,5 +1,29 @@
+40145002	Assessing informal healthcare providers' knowledge of diagnosis and treatment of malaria and diarrhea: evidence from urban informal settlements in Southeast Nigeria.
+40144997	Burden of malaria in the Comoros, 1990-2021: findings from the global burden of disease study 2021.
+40144512	Meeting Report on the Symposium "Evolutionary Applications" at the 3rd Joint Congress on Evolutionary Biology.
+40143688	Target Selectivity of Cysteine Protease Inhibitors: A Strategy to Address Neglected Tropical Diseases.
+40143578	The Plasmodium GRASP Homolog Modulates Liver Stage Development, Subsequent Blood Infection and Virulence in Mice.
+40143200	The Importance of Murine Models in Determining In Vivo Pharmacokinetics, Safety, and Efficacy in Antimalarial Drug Discovery.
+40141458	Differential Response and Recovery Dynamics of HSPC Populations Following Plasmodium chabaudi Infection.
+40141152	Reactions of Plasmodium falciparum Type II NADH: Ubiquinone Oxidoreductase with Nonphysiological Quinoidal and Nitroaromatic Oxidants.
+40140904	Collateral benefits of ivermectin mass drug administration designed for malaria against headlice in Mopeia, Mozambique: a cluster randomised controlled trial.
+40140867	Prevalence of subpatent Plasmodium falciparum infections in regions with varying transmission intensities and implications for malaria elimination in Mainland Tanzania.
+40140834	False alarm on a malaria "outbreak" linked to inconsistencies in malaria diagnostic supply: a call to strengthen supply chain management: Sierra Leone, May-July 2023.
+40140803	High incidence of clinical malaria among asymptomatic Plasmodium falciparum infected children receiving SMC with sulfadoxine-pyrimethamine and amodiaquine (SP + AQ) in Koulikoro, Mali.
+40140443	Public health impact of current and proposed age-expanded perennial malaria chemoprevention: a modelling study.
+40140375	Molecular basis of the functional conflict between chloroquine and peptide transport in the Malaria parasite chloroquine resistance transporter PfCRT.
+40140057	Mathematical modelling and analysis of the adaptive dynamics in mosquito populations: uniform persistence of malaria infection.
 40137122	Identification of Bioactive Metabolites of Capirona macrophylla by Metabolomic Analysis, Molecular Docking, and In Vitro Antiparasitic Assays.
 40136942	Urinary Albumin-to-Creatinine Ratio (uACR) Point-of-Care (POC) Device with Seamless Data Transmission for Monitoring the Progression of Chronic Kidney Disease.
+40135107	Investigating the dynamics of Plasmodium falciparum gametocyte carriage in expectant women under intermittent preventive treatment with sulfadoxine-pyrimethamine in Kilifi, study protocol.
+40134839	Prevalence of transfusion transmissible infections among various donor groups: A comparative analysis.
+40134311	Characterization and MicroRNA Quantification of Plasma-derived Extracellular Vesicles in Patients with Plasmodium knowlesi infection.
+40134005	Community pharmacists' knowledge and experience regarding malaria management: a cross-sectional study in Hodeida, Yemen.
+40133914	Coinfection of COVID-19 and malaria: clinical profiles, interactions, and strategies for effective control.
+40133663	Deep learning image analysis for continuous single-cell imaging of dynamic processes in Plasmodium falciparum-infected erythrocytes.
+40132837	Awareness, perceptions and willingness to accept malaria vaccine for children under age 5 among mothers in Northcentral Nigeria: a cross-sectional study.
+40132323	Landscape analysis of invasive non-typhoidal salmonella (iNTS) disease and iNTS vaccine use case and demand: Report of a WHO expert consultation.
+40132218	Assessment of Health Status and Creation of a Registry of Potential Research Participants Aged 1.5 to 50 Years on Bioko Island, Equatorial Guinea.
 40132035	Myosin 1f and Proline-rich 13 are transcriptionally upregulated yet functionally redundant in CD4+ T cells during blood-stage Plasmodium infection.
 40132008	Performance of quantitative point-of-care tests to measure G6PD activity: An individual participant data meta-analysis.
 40131971	Asymptomatic carriage of Plasmodium falciparum in children no longer targeted for seasonal malaria chemoprevention and with a history of exposure to this strategy: A cross sectional study in southern Senegal.
@@ -51,7 +75,7 @@
 40113865	Malaria vectors with leaky guts.
 40113723	Computational Analysis of Plasmodium falciparum DNA Damage Inducible Protein 1 (PfDdi1): Insights into Binding of Artemisinin and its Derivatives and Implications for Antimalarial Drug Design.
 40113369	Simplifying medicine dosing for children by harmonising weight bands across therapeutic areas.
-40113189	Infectious Diseases Prevention and Vaccination in migrants in Latin America: The challenges of transit through the treacherous Darien Gap, Panama.
+40113189	Infectious diseases prevention and vaccination in migrants in Latin America: The challenges of transit through the treacherous Darien gap, Panama.
 40112852	14 days of high-dose versus low-dose primaquine treatment in patients with Plasmodium vivax infection in Cambodia: a randomised, single-centre, open-label efficacy study.
 40112841	Selection of Plasmodium falciparum kelch13 mutations in Uganda in comparison with southeast Asia: a modelling study.
 40112571	Immune evasion runs in the family: two surface protein families of Plasmodium falciparum-infected erythrocytes.
@@ -9973,27 +9997,3 @@
 36682368	Tackling post-discharge mortality in children living in LMICs to reduce child deaths.
 36681898	Bivalent intra-spike binding provides durability against emergent Omicron lineages: Results from a global consortium.
 36680984	New antiplasmodial 4-amino-thieno[3,2-d]pyrimidines with improved intestinal permeability and microsomal stability.
-36680454	Baseline prevalence of molecular marker of sulfadoxine/pyrimethamine resistance in Ebonyi and Osun states, Nigeria: amplicon deep sequencing of dhps-540.
-36680348	George Stephen Penny (1885-1964): his life and medical encounters before, during and after admission to Broadmoor Criminal Lunatic Asylum.
-36680167	Development and Validation of a Rapid Screening Test for HTLV-I IgG Antibodies.
-36679099	Chemical Profile, Antioxidant and Anti-Inflammatory Potency of Extracts of Vitex madiensis Oliv. and Crossopteryx febrifuga (Afzel ex G. Don).
-36677853	An Attention towards the Prophylactic and Therapeutic Options of Phytochemicals for SARS-CoV-2: A Molecular Insight.
-36677674	First Phytochemical Profiling and In-Vitro Antiprotozoal Activity of Essential Oil and Extract of Plagiochila porelloides.
-36677018	Identification of Potential Leishmania N-Myristoyltransferase Inhibitors from Withania somnifera (L.) Dunal: A Molecular Docking and Molecular Dynamics Investigation.
-36676159	Informative Censoring-A Cause of Bias in Estimating COVID-19 Mortality Using Hospital Data.
-36674863	2,3-Diphosphoglycerate and the Protective Effect of Pyruvate Kinase Deficiency against Malaria Infection-Exploring the Role of the Red Blood Cell Membrane.
-36674135	Risk Factors Associated with Multimorbidity among Children Aged Under-Five Years in Sub-Saharan African Countries: A Scoping Review.
-36673849	Economic Burdens of Uncomplicated Malaria in Primary Health Care (PHC) Facilities of Plateau State, Nigeria: Patients' Perspectives.
-36673610	Healthcare Waste-A Serious Problem for Global Health.
-36673570	Outcomes and Challenges in Noncommunicable Disease Care Provision in Health Facilities Supported by Primary Health Care System Strengthening Project in Sri Lanka: A Mixed-Methods Study.
-36672793	Genetic Diversity of Cytochrome P450s CYP6M2 and CYP6P4 Associated with Pyrethroid Resistance in the Major Malaria Vectors Anopheles coluzzii and Anopheles gambiae from Yaoundé, Cameroon.
-36671732	An Overview of D7 Protein Structure and Physiological Roles in Blood-Feeding Nematocera.
-36671393	Sex-Specific Differences in Cytokine Induction by the Glycolipid Adjuvant 7DW8-5 in Mice.
-36671310	Antiparasitic Activities of Compounds Isolated from Aspergillus fumigatus Strain Discovered in Northcentral Nigeria.
-36670482	Measuring entomological parameters before implementing a study on asymptomatic carriers of Plasmodium falciparum in the Zè District in southern Benin.
-36670470	A new WHO bottle bioassay method to assess the susceptibility of mosquito vectors to public health insecticides: results from a WHO-coordinated multi-centre study.
-36670398	Unmanned aerial vehicles for surveillance and control of vectors of malaria and other vector-borne diseases.
-36669861	Determination of Mosquito Probing and Feeding Time to Evaluate Mosquito Blood Feeding.
-36669857	Quantifying Aedes aegypti Host Odor Preference Using a Two-Port Olfactometer.
-36669649	Fatal Systemic Haemosporidiosis in a Free-Ranging Greater Sage-Grouse (Centrocercus urophasianus).
-36669055	A Four-Year Survey of Hemoparasites from Nocturnal Raptors (Strigiformes) Confirms a Relation between Leucocytozoon and Low Hematocrit and Body Condition Scores of Parasitized Birds.
