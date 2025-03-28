@@ -1,3 +1,4 @@
+40146771	Correction: Combination of computational techniques and RNAi reveal targets in Anopheles gambiae for malaria vector control.
 40146205	How, why, and under what circumstances can supportive supervision programs improve malaria case management? A realist program theory.
 40145002	Assessing informal healthcare providers' knowledge of diagnosis and treatment of malaria and diarrhea: evidence from urban informal settlements in Southeast Nigeria.
 40144997	Burden of malaria in the Comoros, 1990-2021: findings from the global burden of disease study 2021.
@@ -14,6 +15,12 @@
 40140443	Public health impact of current and proposed age-expanded perennial malaria chemoprevention: a modelling study.
 40140375	Molecular basis of the functional conflict between chloroquine and peptide transport in the Malaria parasite chloroquine resistance transporter PfCRT.
 40140057	Mathematical modelling and analysis of the adaptive dynamics in mosquito populations: uniform persistence of malaria infection.
+40139269	New compound, new Hope: The potential of MED6-189 in the fight against malaria.
+40138707	Fungal-derived methyldeoxaphomins target Plasmodium falciparum segregation through the inhibition of PfActin1.
+40138574	Artemether-Lumefantrine treatment selects Plasmodium falciparum multidrug resistance 1 (pfmdr1) increased copy number among African malaria infections.
+40138457	Anopheles mosquito survival and pharmacokinetic modeling show the mosquitocidal activity of nitisinone.
+40137817	The Comparative Performance of Klypson 500WG and 2GARD-WP Sprayed on Different Wall Surfaces Against Anopheles gambiae s.l. in Lower Moshi, Northern Tanzania.
+40137716	Genetic Diversity of Potential Drug Resistance Markers in Plasmodium vivax Isolates from Panama, Mesoamerica.
 40137122	Identification of Bioactive Metabolites of Capirona macrophylla by Metabolomic Analysis, Molecular Docking, and In Vitro Antiparasitic Assays.
 40136942	Urinary Albumin-to-Creatinine Ratio (uACR) Point-of-Care (POC) Device with Seamless Data Transmission for Monitoring the Progression of Chronic Kidney Disease.
 40135107	Investigating the dynamics of Plasmodium falciparum gametocyte carriage in expectant women under intermittent preventive treatment with sulfadoxine-pyrimethamine in Kilifi, study protocol.
@@ -106,7 +113,7 @@
 40102442	Functionality of Toxoplasma gondii antibodies in a population of Beninese pregnant women exposed to malaria.
 40102390	Decreased dihydroartemisinin-piperaquine protection against recurrent malaria associated with Plasmodium falciparum plasmepsin 3 copy number variation in Africa.
 40101454	Novel, fully human, anti-PfCSP antibodies with potent antimalarial activity using a phage display based strategy.
-40101140	Anti-trypanosomatid and Antiplasmodial Activities of Alkaloids from Hippeastrum species.
+40101140	Anti-Trypanosomatid and Antiplasmodial Activities of Alkaloids From Hippeastrum Species.
 40101051	Evolutionary biology of antimalarial drug resistance: Understanding of the evolutionary dynamics.
 40100921	Perspectives of health workers on malaria case referral among pregnant women attending antenatal care in Savelugu Municipality, Ghana: A qualitative descriptive study.
 40100850	Cross-reactivity of rPvs48/45, a recombinant Plasmodium vivax protein, with plasma from Plasmodium falciparum endemic areas of Africa.
@@ -9990,10 +9997,3 @@
 36685697	Licensed liposomal vaccines and adjuvants in the antigen delivery system.
 36685595	Host-parasite interactions during Plasmodium infection: Implications for immunotherapies.
 36685545	The challenges of Plasmodium vivax human malaria infection models for vaccine development.
-36683700	Therapeutic efficacy of dihydroartemisinin-piperaquine combination for the treatment of uncomplicated malaria in Ghana.
-36683611	Comparison of one single-antigen assay and three multi-antigen SARS-CoV-2 IgG assays in Nigeria.
-36682939	A complex equation - adding to Plasmodium falciparum invasion.
-36682648	In vitro evaluation of alkaline lignins as antiparasitic agents and their use as an excipient in the release of benznidazole.
-36682368	Tackling post-discharge mortality in children living in LMICs to reduce child deaths.
-36681898	Bivalent intra-spike binding provides durability against emergent Omicron lineages: Results from a global consortium.
-36680984	New antiplasmodial 4-amino-thieno[3,2-d]pyrimidines with improved intestinal permeability and microsomal stability.
