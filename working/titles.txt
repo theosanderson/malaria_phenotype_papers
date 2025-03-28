@@ -1,3 +1,12 @@
+40151314	Thrombocytopenia and Epistaxis Complicating Plasmodium falciparum Malaria: Case Report Study.
+40151263	Positive Charge in an Antimalarial Compound Unlocks Broad-Spectrum Antibacterial Activity.
+40149586	Unraveling the Role of Proteinopathies in Parasitic Infections.
+40148982	m5C methylation of mitochondrial RNA and non-coding RNA by NSUN3 is associated with variant gene expression and asexual blood-stage development in Plasmodium falciparum.
+40148903	Relationship between unimproved household sanitation facilities and malaria infection among under-five children in Nigeria: insights from Malaria Indicator Survey 2021.
+40148890	Cytokine pattern during asymptomatic Anaplasma spp. infections and effect of co-infections by malaria and helminths in schoolchildren of Franceville, southeastern Gabon.
+40148776	Bayesian spatiotemporal modelling and mapping of malaria risk among children under five years of age in Ghana.
+40148758	Maternal alcohol consumption during pregnancy and associated factors among pregnant women in Tanzania: evidence from the 2022 Tanzania Demographic and Health Survey.
+40148450	Anopheles mosquito fauna, blood meal sources and transmission intensity from high and moderate malaria endemic areas of Ethiopia.
 40147999	Malaria prevalence dynamics and risk covariates among children under 5 in Ghana: insights from a Bayesian multilevel approach.
 40146771	Correction: Combination of computational techniques and RNAi reveal targets in Anopheles gambiae for malaria vector control.
 40146205	How, why, and under what circumstances can supportive supervision programs improve malaria case management? A realist program theory.
@@ -9988,12 +9997,3 @@
 36689465	Cutaneous leishmaniasis treatment and therapeutic outcomes in special populations: A collaborative retrospective study.
 36689438	Chemokine modulation in microscopic and submicroscopic Plasmodium falciparum malaria infection in women at delivery in Yaoundé, Cameroon.
 36688330	Dynamic response of red blood cells in health and disease.
-36688077	Avian haemosporidian parasites in captive and free-ranging, wild birds from zoological institutions in Switzerland: Molecular characterization and clinical importance.
-36687781	Anti-Plasmodial Effects of Different Ecotypes of Glycyrrhiza glabra Traditionally Used for Malaria in Iran.
-36687533	Sickle cells are not necessarily protective against falciparum- A case report.
-36686062	Heparin-Coated Dendronized Hyperbranched Polymers for Antimalarial Targeted Delivery.
-36685738	Quercetin nano phytosome: as a novel anti-leishmania and anti-malarial natural product.
-36685736	Automated malarial retinopathy detection using transfer learning and multi-camera retinal images.
-36685709	Free radical induced degradation and computational studies of hydroxychloroquine in aqueous solution.
-36685697	Licensed liposomal vaccines and adjuvants in the antigen delivery system.
-36685595	Host-parasite interactions during Plasmodium infection: Implications for immunotherapies.
