@@ -1,3 +1,4 @@
+40147999	Malaria prevalence dynamics and risk covariates among children under 5 in Ghana: insights from a Bayesian multilevel approach.
 40146771	Correction: Combination of computational techniques and RNAi reveal targets in Anopheles gambiae for malaria vector control.
 40146205	How, why, and under what circumstances can supportive supervision programs improve malaria case management? A realist program theory.
 40145002	Assessing informal healthcare providers' knowledge of diagnosis and treatment of malaria and diarrhea: evidence from urban informal settlements in Southeast Nigeria.
@@ -9996,4 +9997,3 @@
 36685709	Free radical induced degradation and computational studies of hydroxychloroquine in aqueous solution.
 36685697	Licensed liposomal vaccines and adjuvants in the antigen delivery system.
 36685595	Host-parasite interactions during Plasmodium infection: Implications for immunotherapies.
-36685545	The challenges of Plasmodium vivax human malaria infection models for vaccine development.
