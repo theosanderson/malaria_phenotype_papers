@@ -1,3 +1,6 @@
+40152306	Phylogenetic assessment of Plasmodium (Saurocytozoon) tupinambi comb. nov. (Haemosporida, Plasmodiidae) in golden tegu lizards: Shedding light on a long-standing Haemosporida taxonomic puzzle.
+40152264	Efficacy of Primaquine for the Radical Cure of Plasmodium vivax Malaria in Northeast Myanmar and the Impact of Cytochrome P450 2D6 Genotypes.
+40152241	Radical Cure of Plasmodium vivax With Primaquine and CYP2D6 Polymorphism in Southeast Asia.
 40151314	Thrombocytopenia and Epistaxis Complicating Plasmodium falciparum Malaria: Case Report Study.
 40151263	Positive Charge in an Antimalarial Compound Unlocks Broad-Spectrum Antibacterial Activity.
 40149586	Unraveling the Role of Proteinopathies in Parasitic Infections.
@@ -9994,6 +9997,3 @@
 36689665	Retention and Predictors of Attrition Among HIV-infected Children on Antiretroviral Therapy in Côte d'Ivoire Between 2012 and 2016.
 36689648	Role of Pfs47 in the dispersal of ancestral Plasmodium falciparum malaria through adaptation to different anopheline vectors.
 36689494	Euclasta condylotricha flowers essential oils: A new source of juvenile hormones and its larvicidal activity against Anopheles gambiae s.s. (Diptera: Culicidae).
-36689465	Cutaneous leishmaniasis treatment and therapeutic outcomes in special populations: A collaborative retrospective study.
-36689438	Chemokine modulation in microscopic and submicroscopic Plasmodium falciparum malaria infection in women at delivery in Yaoundé, Cameroon.
-36688330	Dynamic response of red blood cells in health and disease.
