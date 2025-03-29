@@ -1,3 +1,6 @@
+40153391	Parasitaemia and fever in uncomplicated Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis.
+40153171	An Overview of Isavuconazole Clinical Use: A Multicentre Analysis of Indications, Exposure and Hepatic Safety.
+40153157	An updated survey on the recent advancement of antimalarial molecules: synthetic methodologies and SAR studies.
 40152306	Phylogenetic assessment of Plasmodium (Saurocytozoon) tupinambi comb. nov. (Haemosporida, Plasmodiidae) in golden tegu lizards: Shedding light on a long-standing Haemosporida taxonomic puzzle.
 40152264	Efficacy of Primaquine for the Radical Cure of Plasmodium vivax Malaria in Northeast Myanmar and the Impact of Cytochrome P450 2D6 Genotypes.
 40152241	Radical Cure of Plasmodium vivax With Primaquine and CYP2D6 Polymorphism in Southeast Asia.
@@ -9994,6 +9997,3 @@
 36690390	Evaluation of Aedes aegypti Penetration, Probing, and Feeding Times on Mice.
 36690389	Evaluation of Aedes aegypti Feeding Status.
 36689943	Prediction of the Risk Distributions for Anopheles sinensis, a Vector for Malaria in Shanghai, China.
-36689665	Retention and Predictors of Attrition Among HIV-infected Children on Antiretroviral Therapy in Côte d'Ivoire Between 2012 and 2016.
-36689648	Role of Pfs47 in the dispersal of ancestral Plasmodium falciparum malaria through adaptation to different anopheline vectors.
-36689494	Euclasta condylotricha flowers essential oils: A new source of juvenile hormones and its larvicidal activity against Anopheles gambiae s.s. (Diptera: Culicidae).
