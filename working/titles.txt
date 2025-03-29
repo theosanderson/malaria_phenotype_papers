@@ -1,3 +1,14 @@
+40156041	Benchmarking spatial transcriptomics technologies with the multi-sample SpatialBenchVisium dataset.
+40155968	Role of inflammasomes in cancer immunity: mechanisms and therapeutic potential.
+40155949	DEMINERS enables clinical metagenomics and comparative transcriptomic analysis by increasing throughput and accuracy of nanopore direct RNA sequencing.
+40155818	Investigating Google Trends to forecast acute febrile illness outbreaks in North India reported through the Integrated Disease Surveillance Program.
+40155692	Prevalence of congenital malaria in an urban and a semirural area in Lagos: a two-centre cross-sectional study.
+40155691	Sensitive and modular amplicon sequencing of Plasmodium falciparum diversity and resistance for research and public health.
+40155111	Advancing maternal and perinatal health through clinical trials: key insights from a WHO global consultation.
+40155089	Recent advances in chemistry, biochemistry, and nutrition of dates palm fruit (Phoenix dactylifera L.) cultivars.
+40154969	Health system effectiveness of symptomatic malaria case management in Papua New Guinea.
+40154619	Artesunate enhances the efficacy of Enzalutamide in advanced prostate cancer.
+40154019	The roles of vitamin C in infectious diseases: A comprehensive review.
 40153391	Parasitaemia and fever in uncomplicated Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis.
 40153171	An Overview of Isavuconazole Clinical Use: A Multicentre Analysis of Indications, Exposure and Hepatic Safety.
 40153157	An updated survey on the recent advancement of antimalarial molecules: synthetic methodologies and SAR studies.
@@ -31,7 +42,7 @@
 40140443	Public health impact of current and proposed age-expanded perennial malaria chemoprevention: a modelling study.
 40140375	Molecular basis of the functional conflict between chloroquine and peptide transport in the Malaria parasite chloroquine resistance transporter PfCRT.
 40140057	Mathematical modelling and analysis of the adaptive dynamics in mosquito populations: uniform persistence of malaria infection.
-40139269	New compound, new Hope: The potential of MED6-189 in the fight against malaria.
+40139269	New compound, new hope: The potential of MED6-189 in the fight against malaria.
 40138707	Fungal-derived methyldeoxaphomins target Plasmodium falciparum segregation through the inhibition of PfActin1.
 40138574	Artemether-Lumefantrine treatment selects Plasmodium falciparum multidrug resistance 1 (pfmdr1) increased copy number among African malaria infections.
 40138457	Anopheles mosquito survival and pharmacokinetic modeling show the mosquitocidal activity of nitisinone.
@@ -484,7 +495,7 @@
 39972442	Prevalence of short inter-birth intervals and associated factors among women of reproductive age: evidence from a nationally representative survey in Tanzania.
 39972139	Plasmodium blood stage development requires the chromatin remodeller Snf2L.
 39971939	iDC-targeting PfCSP mRNA vaccine confers superior protection against Plasmodium compared to conventional mRNA.
-39971158	Antimicrobial Peptides Selectively Target Malaria Parasites by a Cholesterol-Dependent Mechanism.
+39971158	Antimicrobial peptides selectively target malaria parasites by a cholesterol-dependent mechanism.
 39970911	Single-cell transcriptomics reveals inter-ethnic variation in immune response to Falciparum malaria.
 39969906	Delayed-onset Plasmodium ovale malaria in returning Thai military personnels from the United Nations Mission in South Sudan (UNMISS).
 39968164	Profiling antimalarial drug-resistant haplotypes in Pfcrt, Pfmdr1, Pfdhps and Pfdhfr genes in Plasmodium falciparum causing malaria in the Central Region of Ghana: a multicentre cross-sectional study.
@@ -9986,14 +9997,3 @@
 36694092	In vitro model of brain endothelial cell barrier reveals alterations induced by Plasmodium blood stage factors.
 36693644	Casualties during Australian military operations in New Guinea 1914-1919.
 36693048	Etiology and clinical characteristics of pediatric acute fever among hospitalized children in an endemic malaria transmission area of Cameroon in Central Africa.
-36692923	The Effects of HIV Infection on the Immune Response to Malaria Among Pregnant Women in Kumba, Southwest Cameroon: Protocol for a Cross-sectional Study.
-36692507	Environmental exposures are important for type 2 diabetes pathophysiology in sub-Saharan African populations. Reply to Christensen D, Hjort L, Mpagama S et al [letter].
-36692468	Recent approaches in the drug research and development of novel antimalarial drugs with new targets.
-36692265	[Viruses to rescue health: Vaccination].
-36692019	Delayed boosting improves human antigen-specific Ig and B cell responses to the RH5.1/AS01B malaria vaccine.
-36691627	ABO blood group antigens and differential glycan expression: Perspective on the evolution of common human enzyme deficiencies.
-36691108	Local resource mobilization for malaria vector control among Rwandan rice farmers: a pilot study into the role of community ownership.
-36690988	Synergistic antimalarial treatment of Plasmodium berghei infection in mice with dihydroartemisinin and Gymnema inodorum leaf extract.
-36690390	Evaluation of Aedes aegypti Penetration, Probing, and Feeding Times on Mice.
-36690389	Evaluation of Aedes aegypti Feeding Status.
-36689943	Prediction of the Risk Distributions for Anopheles sinensis, a Vector for Malaria in Shanghai, China.
