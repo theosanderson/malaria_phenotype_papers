@@ -1,3 +1,9 @@
+40158121	Evaluation of household coverage with long-lasting insecticidal nets in central Côte d'Ivoire.
+40158117	Modeling the variability of temperature on the population dynamics of Anopheles arabiensis.
+40157705	Artemether exerts neuroprotective effect in Parkinson's disease through the PI3K/Akt/GSK-3β signaling pathway.
+40157510	A dynamin-like protein in Plasmodium falciparum plays an essential role in parasite growth, mitochondrial development and homeostasis during asexual blood stages.
+40157310	Design, synthesis and preliminary structure-activity relationship of 2-iminothiazolidine-4-one derivatives against Schistosoma japonicum in vitro and in vivo.
+40156869	PfGCN5 is essential for Plasmodium falciparum survival and transmission and regulates Pf H2B.Z acetylation and chromatin structure.
 40156041	Benchmarking spatial transcriptomics technologies with the multi-sample SpatialBenchVisium dataset.
 40155968	Role of inflammasomes in cancer immunity: mechanisms and therapeutic potential.
 40155949	DEMINERS enables clinical metagenomics and comparative transcriptomic analysis by increasing throughput and accuracy of nanopore direct RNA sequencing.
@@ -9991,9 +9997,3 @@
 36696414	The impact of ABO and RhD blood types on Babesia microti infection.
 36695302	RNA-Seq-Pop: Exploiting the sequence in RNA sequencing-A Snakemake workflow reveals patterns of insecticide resistance in the malaria vector Anopheles gambiae.
 36695215	Prospective study of pyrexia with pregnancy.
-36694975	Unusual blood smear with multiple stages of Plasmodium falciparum infection and intraleukocytic malaria pigments in an expatriate with severe malaria and delayed clearance of parasites.
-36694567	Potential of RH5 Antisense on Plasmodium falciparum Proliferation Abatement.
-36694313	Multi-target Polypharmacology of 4-aminoquinoline Compounds against Malaria, Tuberculosis and Cancer.
-36694092	In vitro model of brain endothelial cell barrier reveals alterations induced by Plasmodium blood stage factors.
-36693644	Casualties during Australian military operations in New Guinea 1914-1919.
-36693048	Etiology and clinical characteristics of pediatric acute fever among hospitalized children in an endemic malaria transmission area of Cameroon in Central Africa.
