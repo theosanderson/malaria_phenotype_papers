@@ -90,7 +90,7 @@
 40121454	The launch of the Pacific vector network: connecting Pacific Island Countries and areas to prevent and control vector-borne diseases.
 40121099	Corrigendum to "Melaleuca alternifolia (tea tree) oil and its monoterpene constituents in treating protozoan and helminthic infections" [Biomed. Pharmacother. 130 (2020) 1-13].
 40121016	Mortality in children and adolescents in Western Democratic Republic of Congo: retrospective analysis of verbal autopsy and demographic data from the Kimpese Health and Demographic Surveillance System.
-40120919	Polish travellers on the move: a study of knowledge of travel health and associated practices among Polish travellers abroad.
+40120919	Polish travellers on the move: A study of knowledge of travel health and associated practices among polish travellers abroad.
 40120896	Unveiling role of HSP70 genes for development and survival of Indian malaria vector Anopheles culicifacies.
 40120759	Kinetics of the Alethia® Malaria LAMP positivity during Post-treatment Follow-up of Patients with imported Malaria.
 40120754	The non-artemisinin antimalarial drugs under development: a review.
