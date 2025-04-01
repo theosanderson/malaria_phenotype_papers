@@ -1,3 +1,6 @@
+40166801	Prevalence of malaria and Schistosoma mansoni coinfection in sub Saharan Africa: A systematic review and meta-analysis.
+40166253	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos while reducing their lifespan and malaria parasite burden.
+40165925	Spatiotemporal Analysis of the Distribution of Waterborne Diseases in Children Under 5 Years of Age From 2018 to 2022 in the Lemba Health Zone in Kinshasa, DR Congo: A Retrospective and Observational Analysis.
 40164958	Temporal patterns of haplotypic and allelic diversity reflect the changing selection landscape of the malaria parasite Plasmodium falciparum.
 40164831	Parasite and vector circadian clocks mediate efficient malaria transmission.
 40163813	The genetic trail of the invasive mosquito species Aedes koreicus from the east to the west of Northern Italy.
@@ -9994,6 +9997,3 @@
 36705577	Malaria infection and the risk of epilepsy: a meta-analysis.
 36704725	In silico Structure Prediction, Molecular Docking, and Dynamic Simulation of Plasmodium falciparum AP2-I Transcription Factor.
 36704359	Simultaneous detection of G6PD mutations using SNPscan in a multiethnic minority area of Southwestern China.
-36704118	Effect of a fifth round of seasonal malaria chemoprevention in children aged 5-14 years in Dangassa, an area of long transmission in Mali.
-36703585	Steroid and Triterpenoid Compounds with Antiparasitic Properties.
-39816811	Serology reveals micro-differences in Plasmodium falciparum transmission in the Hohoe municipality of Ghana.
