@@ -1,3 +1,23 @@
+40164958	Temporal patterns of haplotypic and allelic diversity reflect the changing selection landscape of the malaria parasite Plasmodium falciparum.
+40164831	Parasite and vector circadian clocks mediate efficient malaria transmission.
+40163813	The genetic trail of the invasive mosquito species Aedes koreicus from the east to the west of Northern Italy.
+40163753	Ischemia in the Splenium of the Corpus Callosum: A Rare Manifestation of Malaria.
+40163479	Severe malaria enforces short-lived effector cell differentiation but does not prevent effective secondary responses by memory CD8 T cells.
+40163471	Advances in the dissection of Anopheles-Plasmodium interactions.
+40163420	Polymorphisms in Pfkelch13 domains before and after the introduction of artemisinin-based combination therapy in Southwest Nigeria.
+40163302	A Reverse Engineering Approach to Optimize Chemical Synergy Between Target and Phenotype: Bridging the Cancer and Malaria Indications.
+40162597	Identification of a Class of Iron-Grabbing Compounds with Antiplasmodial Activity: Impact of Coordination Structures and Electronic Regularity on the Intraerythrocytic Growth Cycle of Plasmodium falciparum.
+40162364	Antidepressant-like effects of the aqueous lyophilizate of the stems and leaves of Momordica foetida (Cucurbitaceae) in rats.
+40162288	Seasonal variation and interspecies dynamics among Plasmodium falciparum and ovale species in Bagamoyo, Tanzania.
+40162260	Highly multiplex molecular inversion probe panel in Plasmodium falciparum targeting common SNPs approximates whole genome sequencing assessments for selection and relatedness.
+40162245	Cambodian Plasmodium vivax parasites with reduced hemoglobin digestion display delayed clearance upon artesunate treatment.
+40162126	Sex of household head and trends in uptake of sulfadoxine-pyrimethamine intermittent preventive treatment for malaria during pregnancy: insights from secondary data in sub-Saharan Africa.
+40161849	Population genomics of Anopheles darlingi , the principal South American malaria vector mosquito.
+40161781	Suspension physics govern the multiscale dynamics of blood flow in sickle cell disease.
+40161752	A Conditional Cas9 System for Stage-Specific Gene Editing in P. falciparum.
+40161381	Evaluating the technical feasibility of serological testing and treatment for Plasmodium vivax in mobile at-risk of malaria Cambodian populations.
+40160901	Serum Proteomics of Experimental Malaria-Associated ARDS Reveals a Regulation of Acute-Phase Response Proteins.
+40160742	Nontargeted Metabolomics of Streptomyces Sourced from Thailand Reveals the Presence of Bioactive Metabolites.
 40158121	Evaluation of household coverage with long-lasting insecticidal nets in central Côte d'Ivoire.
 40158117	Modeling the variability of temperature on the population dynamics of Anopheles arabiensis.
 40157705	Artemether exerts neuroprotective effect in Parkinson's disease through the PI3K/Akt/GSK-3β signaling pathway.
@@ -9977,23 +9997,3 @@
 36704118	Effect of a fifth round of seasonal malaria chemoprevention in children aged 5-14 years in Dangassa, an area of long transmission in Mali.
 36703585	Steroid and Triterpenoid Compounds with Antiparasitic Properties.
 39816811	Serology reveals micro-differences in Plasmodium falciparum transmission in the Hohoe municipality of Ghana.
-36703147	Factors associated with the ownership and use of insecticide-treated nets in Guinea: an analysis of the 2018 Demographic and Health Survey.
-36702699	The troubled puberty of malaria parasites.
-36701108	Neurobehavioral and biochemical responses to artemisinin-based drug and aflatoxin B(1) co-exposure in rats.
-36700582	Intravenous whole blood transfusion results in faster recovery of vascular integrity and increased survival in experimental cerebral malaria.
-36699053	Activity of the genus Zanthoxylum against diseases caused by protozoa: A systematic review.
-36698775	Platelet Parameters and Their Correlation with Parasitemia Levels Among Malaria Infected Adult Patients at Jinella Health Center, Harar, Eastern Ethiopia: Comparative Cross-Sectional Study.
-36698187	FT-GPI, a highly sensitive and accurate predictor of GPI-anchored proteins, reveals the composition and evolution of the GPI proteome in Plasmodium species.
-36698185	Prevalence of asymptomatic malaria and associated factors among pregnant women at Boset District in East Shoa Zone, Oromia Region, Ethiopia: a cross-sectional study.
-36698147	Entomological Surveillance Planning Tool (ESPT)-generated actionable evidence on human and vector behaviours optimizes present interventions and reduces exposure to Anopheles vectors in two communities of Guna Yala, Panamá.
-36698132	Plasmodium malariae contributes to high levels of malaria transmission in a forest-savannah transition area in Cameroon.
-36698124	"A comparative analysis of risk factors of malaria" case study Gisagara and Bugesera District of Rwanda. RDHS 2014/2015. A retrospective study.
-36697413	Projected health impact of post-discharge malaria chemoprevention among children with severe malarial anaemia in Africa.
-36696650	A rising tide of parasite transcriptomics propels pathogen biology.
-36696483	Malaria-driven expansion of adaptive-like functional CD56-negative NK cells correlates with clinical immunity to malaria.
-36696460	Handheld Purification-Free Nucleic Acid Testing Device for Point-of-Need Detection of Malaria from Whole Blood.
-36696458	Short tandem repeat polymorphism in the promoter region of cyclophilin 19B drives its transcriptional upregulation and contributes to drug resistance in the malaria parasite Plasmodium falciparum.
-36696438	Malian children infected with Plasmodium ovale and Plasmodium falciparum display very similar gene expression profiles.
-36696414	The impact of ABO and RhD blood types on Babesia microti infection.
-36695302	RNA-Seq-Pop: Exploiting the sequence in RNA sequencing-A Snakemake workflow reveals patterns of insecticide resistance in the malaria vector Anopheles gambiae.
-36695215	Prospective study of pyrexia with pregnancy.
