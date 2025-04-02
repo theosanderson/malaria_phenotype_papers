@@ -1,3 +1,5 @@
+40171782	Synthesis, characterization and bioactivity of diorganotin(IV) Schiff base complexes as potential antimalarial and antioxidant agents: insights through cytotoxicity and molecular docking studies.
+40171627	Opportunities and Challenges of Population Pharmacogenomics.
 40170182	Thioester-containing protein TEP15 promotes malaria parasite development in mosquitoes through negative regulation of melanization.
 40170104	Therapeutic efficacy of artemether-lumefantrine in North-Eastern states of India and prevalence of drug resistance-associated molecular markers.
 40170076	Enhancing malaria elimination in high-transmission settings: the synergy of concurrent vector control and chemotherapy.
@@ -9995,5 +9997,3 @@
 36707892	Anti-malaria drug artesunate prevents development of amyloid-β pathology in mice by upregulating PICALM at the blood-brain barrier.
 36707886	Multi-country evaluation of the durability of pyrethroid plus piperonyl-butoxide insecticide-treated nets: study protocol.
 36707822	Patient-level performance evaluation of a smartphone-based malaria diagnostic application.
-36707821	Correction: Entomological monitoring data driving decision-making for appropriate and sustainable malaria vector control in Côte d'Ivoire.
-36707795	Artemether-lumefantrine efficacy among adults on antiretroviral therapy in Malawi.
