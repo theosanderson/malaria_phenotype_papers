@@ -1,3 +1,11 @@
+40170182	Thioester-containing protein TEP15 promotes malaria parasite development in mosquitoes through negative regulation of melanization.
+40170104	Therapeutic efficacy of artemether-lumefantrine in North-Eastern states of India and prevalence of drug resistance-associated molecular markers.
+40170076	Enhancing malaria elimination in high-transmission settings: the synergy of concurrent vector control and chemotherapy.
+40170071	Co-morbidity of malaria and soil-transmitted helminths in Nigeria: a joint Bayesian modelling approach.
+40170026	Monitoring individual rice field flooding dynamics over a large scale to improve mosquito surveillance and control.
+40168996	Type I interferons induce guanylate-binding proteins and lysosomal defense in hepatocytes to control malaria.
+40168983	Building Momentum for a Malaria-Free India.
+40168980	Fluid Resuscitation in Pediatric Cerebral Malaria: Insights from the FEAST Trial and Further Evidence from Malawi.
 40168517	Health service readiness and quality for sick child care: an effective coverage analysis in eight low- and middle-income countries.
 40168090	Artesunate induces ferroptosis in osteosarcoma through NCOA4-mediated ferritinophagy.
 40166801	Prevalence of malaria and Schistosoma mansoni coinfection in sub Saharan Africa: A systematic review and meta-analysis.
@@ -9989,11 +9997,3 @@
 36707822	Patient-level performance evaluation of a smartphone-based malaria diagnostic application.
 36707821	Correction: Entomological monitoring data driving decision-making for appropriate and sustainable malaria vector control in Côte d'Ivoire.
 36707795	Artemether-lumefantrine efficacy among adults on antiretroviral therapy in Malawi.
-36707341	Towards a general, worldwide, Plasmodium population genomics framework.
-36707320	Verification and implementation of a commercial loop-mediated isothermal amplification (LAMP) assay for malaria testing in a public laboratory in New South Wales, Australia.
-36707015	Molecular and immunological characterization of the calcyclin binding protein in rodent malaria parasite.
-36706778	Efficacy of pyriproxyfen-pyrethroid long-lasting insecticidal nets (LLINs) and chlorfenapyr-pyrethroid LLINs compared with pyrethroid-only LLINs for malaria control in Benin: a cluster-randomised, superiority trial.
-36706777	Getting ahead of insecticide-resistant malaria vector mosquitoes.
-36706649	Assessment of the quality of antenatal care in Mozambique.
-36706233	Synthesis and Testing of Analogs of the Tuberculosis Drug Candidate SQ109 against Bacteria and Protozoa: Identification of Lead Compounds against Mycobacterium abscessus and Malaria Parasites.
-36705577	Malaria infection and the risk of epilepsy: a meta-analysis.
