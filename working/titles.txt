@@ -1,3 +1,5 @@
+40172425	Mapping special areas of the Brazilian National Malaria Control Program in the Amazon region: a territorial-based approach to surveillance.
+40172356	Avian malaria in birds from Atlantic Rainforest: a record of Plasmodium cathemerium and other novel lineages.
 40171782	Synthesis, characterization and bioactivity of diorganotin(IV) Schiff base complexes as potential antimalarial and antioxidant agents: insights through cytotoxicity and molecular docking studies.
 40171627	Opportunities and Challenges of Population Pharmacogenomics.
 40170182	Thioester-containing protein TEP15 promotes malaria parasite development in mosquitoes through negative regulation of melanization.
@@ -9995,5 +9997,3 @@
 36708651	Ring stage dormancy of Plasmodium falciparum tolerant to artemisinin and its analogues - A genetically regulated "Sleeping Beauty".
 36708476	When the last tree dies, the last man dies: do forests hold the key to survival in Ghana? A critical analysis using the bootstrap rolling-window Granger causality test approach.
 36707892	Anti-malaria drug artesunate prevents development of amyloid-β pathology in mice by upregulating PICALM at the blood-brain barrier.
-36707886	Multi-country evaluation of the durability of pyrethroid plus piperonyl-butoxide insecticide-treated nets: study protocol.
-36707822	Patient-level performance evaluation of a smartphone-based malaria diagnostic application.
