@@ -1,3 +1,5 @@
+40168517	Health service readiness and quality for sick child care: an effective coverage analysis in eight low- and middle-income countries.
+40168090	Artesunate induces ferroptosis in osteosarcoma through NCOA4-mediated ferritinophagy.
 40166801	Prevalence of malaria and Schistosoma mansoni coinfection in sub Saharan Africa: A systematic review and meta-analysis.
 40166253	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos while reducing their lifespan and malaria parasite burden.
 40165925	Spatiotemporal Analysis of the Distribution of Waterborne Diseases in Children Under 5 Years of Age From 2018 to 2022 in the Lemba Health Zone in Kinshasa, DR Congo: A Retrospective and Observational Analysis.
@@ -9995,5 +9997,3 @@
 36706649	Assessment of the quality of antenatal care in Mozambique.
 36706233	Synthesis and Testing of Analogs of the Tuberculosis Drug Candidate SQ109 against Bacteria and Protozoa: Identification of Lead Compounds against Mycobacterium abscessus and Malaria Parasites.
 36705577	Malaria infection and the risk of epilepsy: a meta-analysis.
-36704725	In silico Structure Prediction, Molecular Docking, and Dynamic Simulation of Plasmodium falciparum AP2-I Transcription Factor.
-36704359	Simultaneous detection of G6PD mutations using SNPscan in a multiethnic minority area of Southwestern China.
