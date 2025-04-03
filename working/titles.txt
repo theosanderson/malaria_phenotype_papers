@@ -1,3 +1,7 @@
+40176103	Genetic structure and geographical distribution of Bithynia siamensis sensu lato from Khong and Mounlapamok districts, Champasak Province, Laos.
+40175720	Circadian rhythms mediate malaria transmission.
+40174678	Germline transformation of the West Nile virus and avian malaria vector Culex quinquefasciatus Say using the piggyBac transposon system.
+40174388	Breast adipose tissue level of organochlorine pesticides as a risk factor in breast cancer: A cross sectional study in North Indian females.
 40174226	Malaria.
 40173195	Dynamics in ownership, access and use of long-lasting insecticidal nets in Togo: Evidence from three population-based surveys.
 40173193	Community-led strategies for communicable disease prevention and management in low- and middle- income countries: A mixed-methods systematic review of health, social, and economic impact.
@@ -59,7 +63,7 @@
 40153391	Parasitaemia and fever in uncomplicated Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis.
 40153171	An Overview of Isavuconazole Clinical Use: A Multicentre Analysis of Indications, Exposure and Hepatic Safety.
 40153157	An updated survey on the recent advancement of antimalarial molecules: synthetic methodologies and SAR studies.
-40152306	Phylogenetic assessment of Plasmodium (Saurocytozoon) tupinambi comb. nov. (Haemosporida, Plasmodiidae) in golden tegu lizards: Shedding light on a long-standing Haemosporida taxonomic puzzle.
+40152306	Phylogenetic assessment of Plasmodium (Saurocytozoon) tupinambi comb. nov. (Haemosporida, Plasmodiidae) in golden tegu lizards: shedding light on a long-standing Haemosporida taxonomic puzzle.
 40152264	Efficacy of Primaquine for the Radical Cure of Plasmodium vivax Malaria in Northeast Myanmar and the Impact of Cytochrome P450 2D6 Genotypes.
 40152241	Radical Cure of Plasmodium vivax With Primaquine and CYP2D6 Polymorphism in Southeast Asia.
 40151314	Thrombocytopenia and Epistaxis Complicating Plasmodium falciparum Malaria: Case Report Study.
@@ -243,7 +247,7 @@
 40082890	Characterization of insecticide resistance mechanisms in the Anopheles gambiae population of Sierra Leone.
 40082813	Antenatal care services utilization and their associated factors among postnatal women in Dodoma city: a cross-sectional study.
 40082380	Endoplasmic Reticulum Stress: Implications in Diseases.
-40081801	Beyond the Bite: How Mosquito Salivary Proteins Modulate Midgut Biology and Malaria Parasite Transmission.
+40081801	Beyond the bite: how mosquito salivary proteins modulate midgut biology and malaria parasite transmission.
 40080524	Who benefits from the donor-supported malaria programme in Enugu State, Nigeria? A benefit incidence analysis.
 40080493	Assessment of the diagnostic performance of the SD Bioline Malaria antigen test for the diagnosis of malaria in the Tombel health district, Southwest region of Cameroon.
 40079526	Climate and malaria: modeling non-linear dynamics in the Nordic countries during the 18th and 19th centuries.
@@ -9993,7 +9997,3 @@
 39816831	The luminal domain of Toxoplasma gondii sortilin adopts a ring-shaped structure exhibiting motifs specific to apicomplexan parasites.
 36710234	Cost of introducing and delivering RTS,S/AS01 malaria vaccine within the malaria vaccine implementation program.
 36710008	Functional analysis of phosphoethanolamine N-methyltransferase in plants and parasites: Essential S-adenosylmethionine-dependent methyltransferase in choline and phospholipid metabolism.
-36709336	Malaria parasite density and detailed qualitative microscopy enhances large-scale profiling of infection endemicity in Nigeria.
-36709318	Spatio-temporal trends of malaria incidence from 2011 to 2017 and environmental predictors of malaria transmission in Myanmar.
-36708871	Phosphodiesterase delta governs the mechanical properties of erythrocytes infected with Plasmodium falciparum gametocytes.
-36708739	Monoclonals against malaria: the promise of passive protection.
