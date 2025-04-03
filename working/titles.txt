@@ -103,7 +103,7 @@
 40136942	Urinary Albumin-to-Creatinine Ratio (uACR) Point-of-Care (POC) Device with Seamless Data Transmission for Monitoring the Progression of Chronic Kidney Disease.
 40135107	Investigating the dynamics of Plasmodium falciparum gametocyte carriage in expectant women under intermittent preventive treatment with sulfadoxine-pyrimethamine in Kilifi, study protocol.
 40134839	Prevalence of transfusion transmissible infections among various donor groups: A comparative analysis.
-40134311	Characterization and MicroRNA Quantification of Plasma-derived Extracellular Vesicles in Patients with Plasmodium knowlesi infection.
+40134311	Characterization and microRNA quantification of plasma-derived extracellular vesicles in patients with Plasmodium knowlesi infection.
 40134005	Community pharmacists' knowledge and experience regarding malaria management: a cross-sectional study in Hodeida, Yemen.
 40133914	Coinfection of COVID-19 and malaria: clinical profiles, interactions, and strategies for effective control.
 40133663	Deep learning image analysis for continuous single-cell imaging of dynamic processes in Plasmodium falciparum-infected erythrocytes.
