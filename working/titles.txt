@@ -1,3 +1,9 @@
+40177895	Different historical approaches to leprosy in the Asia-Pacific.
+40177806	Detection and molecular characterization of dengue among patients suspected of having malaria in Timika, Central Papua, Indonesia.
+40176983	Editorial: Chemical-genetics to study microbial pathogen basis of infection and drug targets.
+40176855	The Global Fund's Bangladesh program.
+40176347	Mechanical adaptivity of red blood cell flickering to extrinsic membrane stiffening by the solid-like biosurfactant β-Aescin.
+40176310	Anopheles (Diptera: Culicidae) mosquito species in Ecuador: their role in malaria transmission.
 40176103	Genetic structure and geographical distribution of Bithynia siamensis sensu lato from Khong and Mounlapamok districts, Champasak Province, Laos.
 40175720	Circadian rhythms mediate malaria transmission.
 40174678	Germline transformation of the West Nile virus and avian malaria vector Culex quinquefasciatus Say using the piggyBac transposon system.
@@ -9991,9 +9997,3 @@
 36711670	Global gene expression of human malaria parasite liver stages throughout intrahepatocytic development.
 36711553	Long-Read Genome Assembly and Gene Model Annotations for the Rodent Malaria Parasite Plasmodium yoelii 17XNL.
 36711482	The effectiveness of malaria camps as part of the malaria control program in Odisha, India.
-36711388	The provision and utilization of essential health services in Afghanistan during COVID-19 pandemic.
-36711279	Susceptibility to malaria in fulani, Bariba, Otamari and gando individuals living in sympatry in Benin: Role of opsonizing antibodies to Plasmodium falciparum merozoites.
-36710962	Malaria disrupts the rhesus macaque gut microbiome.
-39816831	The luminal domain of Toxoplasma gondii sortilin adopts a ring-shaped structure exhibiting motifs specific to apicomplexan parasites.
-36710234	Cost of introducing and delivering RTS,S/AS01 malaria vaccine within the malaria vaccine implementation program.
-36710008	Functional analysis of phosphoethanolamine N-methyltransferase in plants and parasites: Essential S-adenosylmethionine-dependent methyltransferase in choline and phospholipid metabolism.
