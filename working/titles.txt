@@ -1,3 +1,7 @@
+40174226	Malaria.
+40173195	Dynamics in ownership, access and use of long-lasting insecticidal nets in Togo: Evidence from three population-based surveys.
+40173193	Community-led strategies for communicable disease prevention and management in low- and middle- income countries: A mixed-methods systematic review of health, social, and economic impact.
+40173100	Plasmodium species infecting lizards in the Brazilian Cerrado: Identification and description of a novel species, Plasmodium brasiliensis n. sp.
 40172425	Mapping special areas of the Brazilian National Malaria Control Program in the Amazon region: a territorial-based approach to surveillance.
 40172356	Avian malaria in birds from Atlantic Rainforest: a record of Plasmodium cathemerium and other novel lineages.
 40171782	Synthesis, characterization and bioactivity of diorganotin(IV) Schiff base complexes as potential antimalarial and antioxidant agents: insights through cytotoxicity and molecular docking studies.
@@ -9993,7 +9997,3 @@
 36709318	Spatio-temporal trends of malaria incidence from 2011 to 2017 and environmental predictors of malaria transmission in Myanmar.
 36708871	Phosphodiesterase delta governs the mechanical properties of erythrocytes infected with Plasmodium falciparum gametocytes.
 36708739	Monoclonals against malaria: the promise of passive protection.
-36708738	Low-dose intravenous and subcutaneous CIS43LS monoclonal antibody for protection against malaria (VRC 612 Part C): a phase 1, adaptive trial.
-36708651	Ring stage dormancy of Plasmodium falciparum tolerant to artemisinin and its analogues - A genetically regulated "Sleeping Beauty".
-36708476	When the last tree dies, the last man dies: do forests hold the key to survival in Ghana? A critical analysis using the bootstrap rolling-window Granger causality test approach.
-36707892	Anti-malaria drug artesunate prevents development of amyloid-β pathology in mice by upregulating PICALM at the blood-brain barrier.
