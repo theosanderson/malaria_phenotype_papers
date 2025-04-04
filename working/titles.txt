@@ -1,3 +1,8 @@
+40183106	Phytochemical profiles and biological activity of Myrsine africana L.: a comprehensive review.
+40183042	Metagenome analysis of viruses associated with Anopheles mosquitoes from Ramu Upazila, Cox's Bazar District, Bangladesh.
+40181820	Hepatitis B Vaccine Nonresponse and Associated Risk Factors: Insights From a Cohort Study.
+40181467	Prevalence and risk factors of gross neurologic deficits in children after severe malaria: a systematic review protocol.
+40181373	Projection of future malaria prevalence in the upper river region of The Gambia.
 40181130	Detection of pathogens associated with acute febrile illness in children under five years of age in rural Tanzania.
 40180790	Correction: Ceramicines U-Z from Chisocheton ceramicus and structure-antimalarial activity relationship study.
 40180218	From Escar to Diagnosis: A Case Report on Scrub Typhus causing multiorgan failure in a Returning Traveler.
@@ -1453,7 +1458,7 @@
 39671273	A Yeast-Based Assay for Inhibitors of l-Lactate Transport Utilizing Fluorescent Biosensors.
 39670953	Qualitative Evaluation of mHealth Implementation for Infectious Disease Care in Low- and Middle-Income Countries: Narrative Review.
 39670941	Policy to Expand Accessing Antimalarial Drug Treatment in Papua Region-Indonesia: Who Should Be the Target?
-39670568	Characterization and Inhibition of the Chaperone Function of Plasmodium falciparum Glucose-Regulated Protein 94 kDa (PfGrp94).
+39670568	Characterization and Inhibition of the Chaperone Function of Plasmodium falciparum Glucose-Regulated Protein 94 kDa (Pf Grp94).
 39670254	The Analysis and the Impact of Surface Temperature Anomalies on the Health of Residents in the River Niger Basin Development Authority Area, West Africa.
 39669268	Progress in the study of mefloquine as an antibiotic adjuvant for combination bacterial inhibition treatment.
 39669142	Analysis of lethal and sublethal doses: Comparative toxicity of three commonly used pesticides on Blattella germanica, an important allergen and vector of pathogens.
@@ -9992,8 +9997,3 @@
 36714275	Medications for opioid use disorder during the war in Ukraine: a more comprehensive view on the government response.
 36714108	Structure-based pharmacophore modeling, virtual screening, and molecular dynamics simulation studies for identification of Plasmodium falciparum 5-aminolevulinate synthase inhibitors.
 36713362	Recombinant full-length Bacillus Anthracis protective antigen and its 63 kDa form elicits protective response in formulation with addavax.
-36712755	A Case of Concomitant Plasmodium falciparum Malaria and Bacillus cereus Bacteremia in a Returning Traveler From Tanzania.
-36712329	Malaria absorption peaks acquired through the skin of patients with infrared light can detect patients with varying parasitemia.
-36712022	Genome-wide association studies reveal novel loci associated with pyrethroid and organophosphate resistance in Anopheles gambiae s.l.
-36712005	Activation of the Plasmodium egress effector subtilisin-like protease 1 is achieved by plasmepsin X destruction of the propiece.
-36711954	Plasmodium falciparum GCN5 plays a key role in regulating artemisinin resistance-related stress responses.
