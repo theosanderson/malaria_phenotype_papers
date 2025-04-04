@@ -1,3 +1,6 @@
+40181130	Detection of pathogens associated with acute febrile illness in children under five years of age in rural Tanzania.
+40180790	Correction: Ceramicines U-Z from Chisocheton ceramicus and structure-antimalarial activity relationship study.
+40180218	From Escar to Diagnosis: A Case Report on Scrub Typhus causing multiorgan failure in a Returning Traveler.
 40179277	Development of Next-Generation Antimalarial Acridones with Radical Cure Potential.
 40177895	Different historical approaches to leprosy in the Asia-Pacific.
 40177806	Detection and molecular characterization of dengue among patients suspected of having malaria in Timika, Central Papua, Indonesia.
@@ -136,7 +139,7 @@
 40122844	Building climate-resilient health systems in Sierra Leone: addressing the dual burden of infectious and climate-related diseases.
 40122815	WHO malaria nucleic acid amplification test external quality assessment scheme: results of eleven distributions over 6 years.
 40122797	Seasonal variation of Microsporidia MB infection in Anopheles gambiae and Anopheles coluzzii in two different geographical localities in Benin.
-40122518	Transition of Yellow Fever Immunization Environment in Japan.
+40122518	Transition of yellow fever immunization environment in Japan.
 40122414	Population genetic structure of the fibrinogen-related protein 1 (FREP1) in Iranian isolates of Anopheles stephensi as a promising mosquito-based malaria vaccine candidate.
 40121866	Small molecule compounds targeting G9a/GLP: Recent advances and perspectives.
 40121454	The launch of the Pacific vector network: connecting Pacific Island Countries and areas to prevent and control vector-borne diseases.
@@ -213,7 +216,7 @@
 40097548	Measuring the effect of repetitive stretching on the deformability of human red blood cells using optical tweezers.
 40097534	Global burden of malaria before and after the COVID-19 pandemic based on the global burden of disease study 2021.
 40097032	Imported fever in returning travellers and migrants in Spain, 2009-2021. Analysis by the +REDIVI network.
-40097006	Malaria a Culprit of Gullian Barre Syndrome (GBS): A Case Report.
+40097006	Malaria a culprit of Gullian Barre Syndrome (GBS): A case report.
 40095987	Correction: Cross-reactive inhibitory antibody and memory B cell responses to variant strains of Duffy binding protein II at post-Plasmodium vivax infection.
 40094716	Bioassay-Guided Isolation of Piplartine from Piper purusanum Yunck (Piperaceae) and Evaluation of Its Toxicity Against Aedes aegypti Linnaeus, 1762, Anopheles darlingi Root, 1926 (Culicidae), and Non-Target Animals.
 40093847	Recent Vaccines against Emerging and Tropical Infectious Diseases.
@@ -9994,6 +9997,3 @@
 36712022	Genome-wide association studies reveal novel loci associated with pyrethroid and organophosphate resistance in Anopheles gambiae s.l.
 36712005	Activation of the Plasmodium egress effector subtilisin-like protease 1 is achieved by plasmepsin X destruction of the propiece.
 36711954	Plasmodium falciparum GCN5 plays a key role in regulating artemisinin resistance-related stress responses.
-36711685	Symptomatic malaria enhances protection from reinfection with homologous Plasmodium falciparum parasites.
-36711670	Global gene expression of human malaria parasite liver stages throughout intrahepatocytic development.
-36711553	Long-Read Genome Assembly and Gene Model Annotations for the Rodent Malaria Parasite Plasmodium yoelii 17XNL.
