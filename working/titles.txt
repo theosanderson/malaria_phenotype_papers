@@ -1,3 +1,4 @@
+40179277	Development of Next-Generation Antimalarial Acridones with Radical Cure Potential.
 40177895	Different historical approaches to leprosy in the Asia-Pacific.
 40177806	Detection and molecular characterization of dengue among patients suspected of having malaria in Timika, Central Papua, Indonesia.
 40176983	Editorial: Chemical-genetics to study microbial pathogen basis of infection and drug targets.
@@ -9996,4 +9997,3 @@
 36711685	Symptomatic malaria enhances protection from reinfection with homologous Plasmodium falciparum parasites.
 36711670	Global gene expression of human malaria parasite liver stages throughout intrahepatocytic development.
 36711553	Long-Read Genome Assembly and Gene Model Annotations for the Rodent Malaria Parasite Plasmodium yoelii 17XNL.
-36711482	The effectiveness of malaria camps as part of the malaria control program in Odisha, India.
