@@ -1,3 +1,9 @@
+40186328	China's approach to malaria control and elimination: Adaptive management and policy capacity building.
+40186233	Estimating malaria antigen dynamics and the time to negativity of next-generation malaria rapid diagnostic tests.
+40185976	Malaria parasites undergo a rapid and extensive metamorphosis after invasion of the host erythrocyte.
+40185556	Severe Infections in Returning Travelers.
+40185218	Effect of pyriproxyfen on biological parameters and morphometry of Aedes aegypti Linnaeus, 1762 (Diptera: Culicidae) in the city of Manaus, Amazonas.
+40184837	Chemical modification of monensin as a source of potent antiplasmodial agents.
 40184425	Household costs associated with zoonotic Plasmodium knowlesi, P. falciparum, P. vivax and P. malariae infections in Sabah, Malaysia.
 40183106	Phytochemical profiles and biological activity of Myrsine africana L.: a comprehensive review.
 40183042	Metagenome analysis of viruses associated with Anopheles mosquitoes from Ramu Upazila, Cox's Bazar District, Bangladesh.
@@ -9991,9 +9997,3 @@
 36717945	Genome-wide liver transcriptomic profiling of a malaria mouse model reveals disturbed immune and metabolic responses.
 36717848	Entomological drivers of uneven malaria transmission in urban lowland areas in Bouaké, Côte d'Ivoire.
 36716305	Distinct cytokine profiles in malaria coinfections: A systematic review.
-36716288	Effects of Integrated Vector Management in the Control of Malaria Infection: An Intervention Study in a Malaria Endemic Community in Nigeria.
-36715290	A novel class of sulphonamides potently block malaria transmission by targeting a Plasmodium vacuole membrane protein.
-36715223	Plasmodium infection disrupts the T follicular helper cell response to heterologous immunization.
-36714884	Asymptomatic Plasmodium infection among primary schoolchildren and Anopheles-mediated malaria transmission: A cross-sectional study in Ouidah; south-western Benin.
-36714275	Medications for opioid use disorder during the war in Ukraine: a more comprehensive view on the government response.
-36714108	Structure-based pharmacophore modeling, virtual screening, and molecular dynamics simulation studies for identification of Plasmodium falciparum 5-aminolevulinate synthase inhibitors.
