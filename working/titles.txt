@@ -1,3 +1,11 @@
+40188335	Asymptomatic malaria reservoirs are the last challenge in the elimination in Cambodia.
+40188328	Preferential transmission of minority and drug-resistant clones in polyclonal infections in Mali.
+40188273	Multivariate vector autoregressive modelling of malaria with climate and vegetation factors in a remote hilly region of Northeast India.
+40188114	Association between vitamin A status, inflammations, and infections in children 36-59 months of age in rural Burkina Faso: A cross - sectional study.
+40187635	Refining early detection of Marburg Virus Disease (MVD) in Rwanda: Leveraging predictive symptom clusters to enhance case definitions.
+40187617	MicroRNAs in sickle cell disease: A comprehensive review.
+40187465	Falcipain-2: A review on structurally diverse non-peptide inhibitors.
+40187114	CYP1A2 contributes to the metabolism of mefloquine: Exploration using in vitro metabolism and physiologically-based pharmacokinetic modelling.
 40186328	China's approach to malaria control and elimination: Adaptive management and policy capacity building.
 40186233	Estimating malaria antigen dynamics and the time to negativity of next-generation malaria rapid diagnostic tests.
 40185976	Malaria parasites undergo a rapid and extensive metamorphosis after invasion of the host erythrocyte.
@@ -9989,11 +9997,3 @@
 36721477	Human immunodeficiency virus, tuberculosis and malaria service readiness at the primary healthcare centers in Ekiti State, Nigeria.
 36415884	Critical barriers to sustainable capacity strengthening in global health: a systems perspective on development assistance.
 36720981	Author Correction: Events associated with susceptibility to invasive Salmonella enterica serovar Typhi in BALB/c mice previously infected with Plasmodium berghei ANKA.
-36720922	Machine learning assisted hepta band THz metamaterial absorber for biomedical applications.
-36719458	Individualised dosing of antibiotics in ICU patients: timing, target and model selection matter.
-36718673	Costs of malaria treatment in the United States.
-36718519	SARS-CoV-2 and Plasmodium falciparum coinfection: a case report.
-36718363	Hemisynthetic alkaloids derived from trilobine are antimalarials with sustained activity in multidrug-resistant Plasmodium falciparum.
-36717945	Genome-wide liver transcriptomic profiling of a malaria mouse model reveals disturbed immune and metabolic responses.
-36717848	Entomological drivers of uneven malaria transmission in urban lowland areas in Bouaké, Côte d'Ivoire.
-36716305	Distinct cytokine profiles in malaria coinfections: A systematic review.
