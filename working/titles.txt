@@ -1,3 +1,8 @@
+40192851	Mosquito immune responses to Plasmodium parasites that limit malaria transmission.
+40192714	The crystal structure of an uncharacterized domain of P113 from Plasmodium falciparum.
+40192348	Targeting Neglected Tropical Diseases and Malaria: The Therapeutic Promise of Mannich Bases.
+40192158	Predictors of Insecticide-Treated Net Utilization among Caregivers of Under-Five Children in Butiama District, Tanzania.
+40191952	Unveiling the hidden health challenges: malaria, helminths, STIs and other pathologies among street children, adolescents and young adults in Cameroon.
 40191562	Vital Sign alterations within 24 hours prior to death in children with retinopathy-positive Cerebral Malaria at Queen Elizabeth Central Hospital Malawi.
 40191366	Aminoquinoline-Pyrimidine-Based Alkyl-Piperazine Tethered Hybrids: Synthesis, Antiplasmodial Activity, and Mechanistic Studies.
 40191019	Current Developments in Malaria Vaccination: A Concise Review on Implementation, Challenges, and Future Directions.
@@ -234,7 +239,7 @@
 40100850	Cross-reactivity of rPvs48/45, a recombinant Plasmodium vivax protein, with plasma from Plasmodium falciparum endemic areas of Africa.
 40100610	Approach to Short Duration Fever in Children in Office Practice.
 40099748	Non-Hydroxamate Inhibitors of IspC Enzyme in the MEP Pathway: Structural Insights and Drug Development Potential.
-40099623	A novel inhibitor against the Bromodomain Protein 1 of the malaria pathogen Plasmodium falciparum.
+40099623	A Novel Inhibitor against the Bromodomain Protein 1 of the Malaria Pathogen Plasmodium Falciparum.
 40099532	50-Fold Adjuvant and 20-Fold Antigen Vaccine Dose Sparing from Nanoliposome Display of a Stabilized Malarial Protein Antigen.
 40098944	Migrations in Latin America: the corridor to the American dream is a public health problem.
 40098122	Molecular evolution of gustatory receptors in the Anopheles gambiae complex.
@@ -9992,8 +9997,3 @@
 36726991	Plasmodium vivax vaccine: What is the best way to go?
 36726785	Comparative metabolism and tolerability of racemic primaquine and its enantiomers in human volunteers during 7-day administration.
 36726645	Naturally acquired antibodies to gametocyte antigens are associated with reduced transmission of Plasmodium vivax gametocytes to Anopheles arabiensis mosquitoes.
-36726636	Assessing the impact of climate conditions on the distribution of mosquito species in Qatar.
-36726181	Prevalence and predictors of adverse events following exposure to long-lasting insecticidal nets used for malaria prevention: a community based cross-sectional study in the Democratic Republic of the Congo.
-36726160	Small-scale field evaluation of PermaNet(®) Dual (a long-lasting net coated with a mixture of chlorfenapyr and deltamethrin) against pyrethroid-resistant Anopheles gambiae mosquitoes from Tiassalé, Côte d'Ivoire.
-36725434	Prevalence, determinants, and reasons for malaria vaccine hesitancy among caregivers of under-five children in Nigeria: Results from a nationwide cross-sectional survey.
-36724549	Tentative indicators of malaria in archaeological skeletal samples, a pilot study testing different methods.
