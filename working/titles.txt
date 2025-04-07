@@ -1,3 +1,7 @@
+40191562	Vital Sign alterations within 24 hours prior to death in children with retinopathy-positive Cerebral Malaria at Queen Elizabeth Central Hospital Malawi.
+40191366	Aminoquinoline-Pyrimidine-Based Alkyl-Piperazine Tethered Hybrids: Synthesis, Antiplasmodial Activity, and Mechanistic Studies.
+40191019	Current Developments in Malaria Vaccination: A Concise Review on Implementation, Challenges, and Future Directions.
+40190521	Prevalence and factors associated with second trimester pregnancy loss among women admitted at a National Referral Hospital in Uganda: a cross-sectional study.
 40189569	Unveiling malaria vectors: species complex and surveillance insights from Sundergarh, Odisha, India.
 40188876	Sacred codes: preservation, permutation and expression.
 40188566	Immunostimulant effect of heat-inactivated Mycobacterium bovis in mice challenged with vector-borne pathogens.
@@ -5818,6 +5822,7 @@
 38157022	Relative importance of VECTRI model parameters in the malaria disease transmission and prevalence.
 38156320	SARS-CoV-2 decreases malaria severity in co-infected rodent models.
 38156001	Comparative analysis of codon usage patterns of Plasmodium helical interspersed subtelomeric (PHIST) proteins.
+40191606	Malaria parasite burden and heterogeneity of risk factors among Central African Republic refugees: a cross-sectional study in the Gado-Badzere refugee camp in Eastern Cameroon.
 38155768	Visual and thermal stimuli modulate mosquito-host contact with implications for improving malaria vector control tools.
 38155300	In silico prediction and in vitro assessment of novel heterocyclics with antimalarial activity.
 38155182	Utilizing a novel high-resolution malaria dataset for climate-informed predictions with a deep learning transformer model.
@@ -9992,8 +9997,3 @@
 36726160	Small-scale field evaluation of PermaNet(®) Dual (a long-lasting net coated with a mixture of chlorfenapyr and deltamethrin) against pyrethroid-resistant Anopheles gambiae mosquitoes from Tiassalé, Côte d'Ivoire.
 36725434	Prevalence, determinants, and reasons for malaria vaccine hesitancy among caregivers of under-five children in Nigeria: Results from a nationwide cross-sectional survey.
 36724549	Tentative indicators of malaria in archaeological skeletal samples, a pilot study testing different methods.
-36724327	Malaria - Epidemiology, Treatment, and Prevention.
-36723870	Return to Travel in the Coronavirus Disease 2019 Pandemic Recovery Period and Implications for Imported Malaria: Reinforcing Prevention, Early Diagnosis, and Appropriate Treatment of Malaria.
-36722706	Antioxidant and Pulmonary Protective Potential of Fraxinus xanthoxyloides Bark Extract against CCl(4) -Induced Toxicity in Rats.
-36722432	WHO should accelerate, not stall, rectal artesunate deployment for pre-referral treatment of severe malaria.
-36721842	Antioxidant, antibacterial, antifungal activities and gas chromatographic fingerprint of fractions from the root bark of Afzelia africana.
