@@ -1,3 +1,4 @@
+40193560	Microbiome-mediated modulation of immune memory to P. yoelii affects the resistance to secondary cerebral malaria challenge.
 40192851	Mosquito immune responses to Plasmodium parasites that limit malaria transmission.
 40192714	The crystal structure of an uncharacterized domain of P113 from Plasmodium falciparum.
 40192348	Targeting Neglected Tropical Diseases and Malaria: The Therapeutic Promise of Mannich Bases.
@@ -9996,4 +9997,3 @@
 36727202	Congenital severe malaria: Artesunate for successful and safe treatment in neonates: A case report.
 36726991	Plasmodium vivax vaccine: What is the best way to go?
 36726785	Comparative metabolism and tolerability of racemic primaquine and its enantiomers in human volunteers during 7-day administration.
-36726645	Naturally acquired antibodies to gametocyte antigens are associated with reduced transmission of Plasmodium vivax gametocytes to Anopheles arabiensis mosquitoes.
