@@ -1,3 +1,11 @@
+40196676	A systematic review of climate-change driven range shifts in mosquito vectors.
+40196582	PTRAMP, CSS and Ripr form a conserved complex required for merozoite invasion of Plasmodium species into erythrocytes.
+40196515	The origin, invasion history and resistance architecture of Anopheles stephensi in Africa.
+40196244	Distribution of non-falciparum malaria among symptomatic malaria patients in Dschang, West Region of Cameroon.
+40196243	A Probabilistic Synthesis of Malaria Epidemiology: Exposure, Infection, Parasite Densities, and Detection.
+40195356	The mosquitocidal activity of isoxazoline derivatives afoxolaner, lotilaner, and fluralaner are not affected by mosquito sugar or antibiotic treatment.
+40195326	Low-cost optical sensors in electrified lab-on-a-disc platforms: liquid-phase boundary detection and automated diagnostics.
+40195046	Semisynthetic Derivatives of Perovskone: Development of a Promising Class of Antiprotozoal Lead Compounds.
 40194698	Global, regional, and national burden of neglected tropical diseases and malaria in the general population, 1990-2021: Systematic analysis of the global burden of disease study 2021.
 40193560	Microbiome-mediated modulation of immune memory to P. yoelii affects the resistance to secondary cerebral malaria challenge.
 40192851	Mosquito immune responses to Plasmodium parasites that limit malaria transmission.
@@ -626,6 +634,7 @@
 39957009	First-in-human safety, tolerability, pharmacokinetics and pilot food-effect study of the candidate antimalarial compound MMV367.
 39956641	Molecular Survey of Hemosporidian Parasites in Owls in Mainland Portugal.
 39956026	Partial splenectomy for massive malarial splenomegaly: A unique case from an Australian regional centre.
+30844175	Burkitt Lymphoma.
 39955042	Macoligophones A-I, prenylated acetophenone dimers and monomers from Maclurodendron oligophlebium.
 39955031	Identifying thiourea-based hybrids of quinazoline and oxospirochromane as inhibitors of Plasmodium cysteine proteases arresting the parasitic growth at the early trophozoite stage.
 39953870	Preventing malaria by administering a monoclonal antibody.
@@ -7593,7 +7602,6 @@
 37545509	Adenosine pathway regulates inflammation during Plasmodium vivax infection.
 37545009	Performance and feasibility of reactive surveillance and response strategies for malaria elimination in Vietnam: a mixed-methods study.
 37544396	Application of loop-mediated isothermal amplification combined with lateral flow assay visualization of Plasmodium falciparum kelch 13 C580Y mutation for artemisinin resistance detection in clinical samples.
-30844175	Burkitt Lymphoma.
 37543672	Plasmodium berghei oocysts possess fatty acid synthesis and scavenging routes.
 37543353	Mangiferin is a new potential antimalarial and anticancer drug for targeting serine hydroxymethyltransferase.
 37542987	Current development of 1,2,3-triazole derived potential antimalarial scaffolds: Structure- activity relationship (SAR) and bioactive compounds.
@@ -9989,11 +9997,3 @@
 36734179	Challenges Based on Antiplasmodial and Antiviral Activities of 7-Chloro-4-aminoquinoline Derivatives.
 36732863	Correction: Access to primaquine in the last mile: challenges at the service delivery points in pre-elimination era, Myanmar.
 36732822	Socio-demographic trends in malaria knowledge and implications for behaviour change interventions in Zanzibar.
-36732819	An insight to better understanding cross border malaria in Saudi Arabia.
-36732769	Characterizing mobility patterns of forest goers in southern Lao PDR using GPS loggers.
-36731750	Dynamics of parasite growth in genetically diverse Plasmodium falciparum isolates.
-36731538	Epoxy-α-lapachone (2,2-Dimethyl-3,4-dihydro-spiro[2H-naphtho[2,3-b]pyran-10,2'-oxirane]-5(10H)-one): a promising molecule to control infections caused by protozoan parasites.
-36730315	Molecular forms of the Indian Anopheles subpictus complex differ in their susceptibility to insecticides and the presence of knockdown resistance (kdr) mutations in the voltage-gated sodium channel.
-36729138	Molecular surveillance of Kelch-13 gene in Plasmodium falciparum field isolates from Mayurbhanj District, Odisha, India, and in silico artemisinin-Kelch-13 protein interaction study.
-36727202	Congenital severe malaria: Artesunate for successful and safe treatment in neonates: A case report.
-36726991	Plasmodium vivax vaccine: What is the best way to go?
