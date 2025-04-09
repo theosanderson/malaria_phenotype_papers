@@ -1,3 +1,21 @@
+40202501	Travel Health Needs of Children in U.S. Military Families Stationed Abroad.
+40202329	A novel micronemal protein MP38 is involved in the invasion of merozoites into erythrocytes.
+40201560	Addressing key risk factors hindering tuberculosis control activities in West Africa - progress in meeting the UN sustainable development goals.
+40201522	Corrigendum to "Prevalence of clinical malaria and associated symptoms in pregnant women at Hamusit health center, Northwest Ethiopia" [Heliyon Volume 10, Issue 14, July 30, 2024, Article e34240].
+40201183	Plasmodium falciparum reticulocyte-binding homologues are targets of human inhibitory antibodies and play a role in immune evasion.
+40200587	New Roles of Artemisinins in Atherosclerosis Progression.
+40200353	Mutational profile of pfdhfr, pfdhps, pfmdr1, pfcrt and pfk13 genes of P. falciparum associated with resistance to different antimalarial drugs in Osun state, southwestern Nigeria.
+40200152	Markers of neutrophil activation and some immune and haematological indices in malaria infection during pregnancy.
+40200072	Spatio-temporal modelling and prediction of malaria incidence in Mozambique using climatic indicators from 2001 to 2018.
+40199955	Modelling the effects of diurnal temperature variation on malaria infection dynamics in mosquitoes.
+40199530	WHO PREQUALIFIES DIAGNOSTIC TEST TO SUPPORT SAFER ADMINISTRATION OF P. VIVAX MALARIA TREATMENTS.
+40199399	Spectral flow cytometry for detecting DNA cargo in malaria parasite-derived extracellular vesicles.
+40199271	Evidence of Submicroscopic Malaria Parasitemia, Soil-Transmitted Helminths, and Their Coinfections Among Forest-Fringed Orang Asli Communities in Peninsular Malaysia.
+40199268	Manual Single-Lumen Alternating Microbatch Dialysis to Deplete Stored Blood Potassium: A Potential Use for Children with Severe Malaria-Associated Acute Kidney Injury.
+40199028	Discovery and optimization of a novel carboxamide scaffold with selective antimalarial activity.
+40198740	HOPS/CORVET tethering complexes are critical for endocytosis and protein trafficking to invasion related organelles in malaria parasites.
+40198623	Diagnostic performance of a novel point-of-care test for the diagnosis of visceral leishmaniasis in Sudan: A Comparative Accuracy Study.
+40198596	Delays in seeking healthcare and its determinants among malaria patients in Ethiopia: A systematic review and meta-analysis.
 40198217	Protocol for affinity enrichment of polyclonal autoantibodies from human plasma.
 40198196	[Malaria and paludism: a necessary clarification].
 40198195	[Malaria. Paludism. Two names for the same disease].
@@ -2409,7 +2427,7 @@
 39360262	Diagnostics for detection and surveillance of priority epidemic-prone diseases in Africa: an assessment of testing capacity and laboratory strengthening needs.
 39359929	Triple planetary crisis: why healthcare professionals should care.
 39359838	Revolution in malaria detection: unveiling current breakthroughs and tomorrow's possibilities in biomarker innovation.
-39359003	Invited Commentary: Thirty-five Years of Leaky Vaccines.
+39359003	Thirty-five years of leaky vaccines.
 39358743	COVID-19 pandemic, pregnancy care, perinatal outcomes in Eastern Myanmar and North-Western Thailand: a retrospective marginalised population cohort.
 39358742	Avian malaria in a feral-pet pigeon: a case report.
 39358169	The potential use of arginine kinase from the brown tick Rhipicephalus sanguineus as a biomarker for vector exposure in the surveillance of Rocky Mountain spotted fever.
@@ -9979,21 +9997,3 @@
 36744427	Unsupervised machine learning, QSAR modelling and web tool development for streamlining the lead identification process of antimalarial flavonoids.
 36744402	An essential endoplasmic reticulum-resident N-acetyltransferase ortholog in Plasmodium falciparum.
 36743738	Climate Drivers of Malaria Transmission Seasonality and Their Relative Importance in Sub-Saharan Africa.
-36743532	Towards greenhouse cultivation of Artemisia annua: The application of LEDs in regulating plant growth and secondary metabolism.
-36742687	Ototoxicity of Artemisinin-Based Combination Therapy: A Case Presentation.
-36742306	The imbalance in the relationship between inflammatory and regulatory cytokines during gestational toxoplasmosis can be harmful to fetuses: A systematic review.
-36742111	Bio-products from Serratia marcescens isolated from Ghanaian Anopheles gambiae reduce Plasmodium falciparum burden in vector mosquitoes.
-36740714	Correction: G6PD deficiency among malaria-infected national groups at the western part of Myanmar with implications for primaquine use in malaria elimination.
-36740657	Vaccine Inequities and the Legacies of Colonialism: Speculative Fiction's Challenge to Medicine.
-36740590	Guidance on the Use of Convalescent Plasma to Treat Immunocompromised Patients With Coronavirus Disease 2019.
-36740589	The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
-36740087	Sharp decrease in malaria incidence among the French armed forces in French Guiana.
-36739928	Verbenalin attenuates hepatic damage and mitochondrial dysfunction in alcohol-associated steatohepatitis by regulating MDMX/PPARα-mediated ferroptosis.
-36739391	Small-scale field evaluation of transfluthrin-treated eave ribbons and sandals for the control of malaria vectors in rural Tanzania.
-36738914	Novel hybrids of quinoline with pyrazolylchalcones as potential antimalarial agents: Synthesis, biological evaluation, molecular docking and ADME prediction.
-36738860	Engineered Platforms for Maturing Pluripotent Stem Cell-Derived Liver Cells for Disease Modeling.
-36737743	Evidence for exposure dependent carriage of malaria parasites across the dry season: modelling analysis of longitudinal data.
-36737741	Leveraging innovation technologies to respond to malaria: a systematized literature review of emerging technologies.
-36737728	Malaria and the incidence of COVID-19 in Africa: an ecological study.
-36737724	Barriers against and strategies for malaria control during the COVID-19 pandemic in low- and middle-income countries: a systematic review.
-36737630	Plasmodium falciparum infection prevalence among children aged 6-59 months from independent DHS and HIV surveys: Nigeria, 2018.
