@@ -1,3 +1,6 @@
+40208198	Magnitude and durability of ProC6C-AlOH/Matrix-M(tm) vaccine-induced malaria transmission-blocking antibodies in Burkinabe adults from a Phase 1 randomized trial.
+40208183	Correction to: 'Unravelling nicotinic receptor and ligand features underlying neonicotinoid knockdown actions on the malaria vector mosquito Anopheles gambiae' (2024), by Ito et al.
+40207532	Intestinal parasite infection in non-human primates from The Gambia, West Africa, and their relationship to human activity.
 40206848	Insecticide resistance intensity in Anopheles gambiae (s.l.) from five malaria epidemiological zones in Kenya.
 40206714	Unmasking the chik sign: A case report on nasal hyperpigmentation as a diagnostic clue for chikungunya fever.
 40205516	Performance of rapid diagnostic tests, microscopy, and qPCR for detection of Plasmodium parasites among community members with or without symptoms of malaria in villages located in North-western Tanzania.
@@ -9994,6 +9997,3 @@
 36747940	Evaluating the current management approach of scabies at selected primary health care in the Deder district, Ethiopia.
 36747727	Direct Tests of Cytochrome Function in the Electron Transport Chain of Malaria Parasites.
 36747723	Modeling the impact of xenointoxication in dogs to halt Trypanosoma cruzi transmission.
-36747302	Evaluation of the model malaria elimination strategy in Mandla district along with its neighbouring districts: a time series analysis from 2008 to 2020.
-36747229	Effect of large-scale mass drug administration for malaria on mortality and morbidity in Angumu health zone, Ituri, Democratic Republic of Congo.
-36747225	Gaps in protection: the actual challenge in malaria elimination.
