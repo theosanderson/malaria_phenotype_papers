@@ -1,3 +1,5 @@
+40206848	Insecticide resistance intensity in Anopheles gambiae (s.l.) from five malaria epidemiological zones in Kenya.
+40206714	Unmasking the chik sign: A case report on nasal hyperpigmentation as a diagnostic clue for chikungunya fever.
 40205516	Performance of rapid diagnostic tests, microscopy, and qPCR for detection of Plasmodium parasites among community members with or without symptoms of malaria in villages located in North-western Tanzania.
 40205501	Maximizing horizontal transmission through mating: increased mating frequency and mating competitiveness associated with Microsporidia MB-infected Anopheles arabiensis males.
 40204414	A mixed-methods study of the drivers of stunting reduction among children under five in Nigeria, 2008-2018.
@@ -5574,7 +5576,7 @@
 38265982	Have there been efforts to integrate malaria and schistosomiasis prevention and control programs? A scoping review of the literature.
 38265706	Host-Pathogen Interaction: Biology and Public Health.
 38265549	Characteristics of splenic PD-1(+) γδT cells in Plasmodium yoelii nigeriensis infection.
-38265385	Current Trends in Nanotechnology-based Drug Delivery Systems for the Diagnosis and Treatment of Malaria: A Review.
+38265385	Current Trends in Nanotechnology-Based Drug Delivery Systems for the Diagnosis and Treatment of Malaria: A Review.
 38264168	Anopheles funestus sensu stricto Giles (Diptera:Culicidae) bites after sunrise at two rural villages in northern Malawi and its implications for malaria vector control.
 38263976	Diagnosis and management of malaria in the intensive care unit.
 38263972	Infectious causes of fever of unknown origin in developing countries: An international ID-IRI study.
@@ -9995,5 +9997,3 @@
 36747302	Evaluation of the model malaria elimination strategy in Mandla district along with its neighbouring districts: a time series analysis from 2008 to 2020.
 36747229	Effect of large-scale mass drug administration for malaria on mortality and morbidity in Angumu health zone, Ituri, Democratic Republic of Congo.
 36747225	Gaps in protection: the actual challenge in malaria elimination.
-36747133	Impact of population based indoor residual spraying with and without mass drug administration with dihydroartemisinin-piperaquine on malaria prevalence in a high transmission setting: a quasi-experimental controlled before-and-after trial in northeastern Uganda.
-36746966	Establishment and validation of a plasma oncofetal chondroitin sulfated proteoglycan for pan-cancer detection.
