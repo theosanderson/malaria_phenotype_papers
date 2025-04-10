@@ -1,3 +1,12 @@
+40205516	Performance of rapid diagnostic tests, microscopy, and qPCR for detection of Plasmodium parasites among community members with or without symptoms of malaria in villages located in North-western Tanzania.
+40205501	Maximizing horizontal transmission through mating: increased mating frequency and mating competitiveness associated with Microsporidia MB-infected Anopheles arabiensis males.
+40204414	A mixed-methods study of the drivers of stunting reduction among children under five in Nigeria, 2008-2018.
+40204412	What works for anemia reduction among women of reproductive age? Synthesized findings from the exemplars in anemia project.
+40204410	Drivers of anemia reduction among women of reproductive age in Uganda: a country case study.
+40204409	What works for reducing stunting in low-income and middle-income countries? Cumulative learnings from the Global Stunting Exemplars Project.
+40204186	Macrophage Migration Inhibitory Factor Contributes to Adverse Outcomes of Experimental Gestational Malaria Across Pregnancy Stages.
+40204083	Evaluation of saliva collected by the Self-Lollisponge® device for diagnosis of malaria in children.
+40203831	Natural products chlorotonils exert a complex antibacterial mechanism and address multiple targets.
 40202965	Fighting tuberculosis hand in hand: A call to engage communities affected by TB as essential partners in research.
 40202942	Trends in malaria prevalence among school-age children in Mainland Tanzania, 2015-2023: A multilevel survey analysis.
 40202501	Travel Health Needs of Children in U.S. Military Families Stationed Abroad.
@@ -3675,7 +3684,7 @@
 38909309	Burden of malaria during pregnancy in perennial transmission settings of two densely forested and remote blocks (Baihar and Birsa) of district Balaghat, Madhya Pradesh, central India.
 38909255	An epidemiological analysis of severe imported malaria infections in Sri Lanka, after malaria elimination.
 38908822	Tripartite interactions between viruses, parasites, and mosquitoes.
-38908516	Drivers of Anemia Reduction among Women of Reproductive Age in Senegal: A Country Case Study.
+38908516	Drivers of anemia reduction among women of reproductive age in Senegal: a country case study.
 38908421	Deforestation and non-human primate malarias will be a threat to malaria elimination in the future: Insights from Southeast Asia.
 38907172	Pharmacovigilance in Pregnancy Studies, Exposures and Outcomes Ascertainment, and Findings from Low- and Middle-Income Countries: A Scoping Review.
 38906949	Utility of plasma anti-gSG6-P1 IgG levels in determining changes in Anopheles gambiae bite rates in a rural area of Cameroon.
@@ -9988,12 +9997,3 @@
 36747225	Gaps in protection: the actual challenge in malaria elimination.
 36747133	Impact of population based indoor residual spraying with and without mass drug administration with dihydroartemisinin-piperaquine on malaria prevalence in a high transmission setting: a quasi-experimental controlled before-and-after trial in northeastern Uganda.
 36746966	Establishment and validation of a plasma oncofetal chondroitin sulfated proteoglycan for pan-cancer detection.
-36746666	What We Lost in the Fire: Endemic Tropical Heart Diseases in the Time of COVID-19.
-36746659	Single-Nucleotide Polymorphisms in Glucose-6-Phosphate Dehydrogenase and their Relevance for the Deployment of Primaquine as a Radical Cure for Malaria.
-36746658	A Rapid Point-of-Care Assay for Cysticercosis Antigen Detection in Urine Samples.
-36746410	DDT Resistance Korean Body Lice and Development of Insecticide Resistance Knowledge during Korean War.
-36746046	An analytical model describing the mechanics of erythrocyte membrane wrapping during active invasion of a plasmodium falciparum merozoite.
-36745663	Universal two-dimensional labelled probe-mediated melting curve analysis based on multiplex PCR for rapid typing of Plasmodium in a single closed tube.
-36744922	Host-Erythrocytic Sphingosine-1-Phosphate Regulates Plasmodium Histone Deacetylase Activity and Exhibits Epigenetic Control over Cell Death and Differentiation.
-36744465	Antiplasmodial activity of coumarins isolated from Polygala boliviensis: in vitro and in silico studies.
-36744427	Unsupervised machine learning, QSAR modelling and web tool development for streamlining the lead identification process of antimalarial flavonoids.
