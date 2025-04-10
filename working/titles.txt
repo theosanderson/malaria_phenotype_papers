@@ -1,3 +1,5 @@
+40202965	Fighting tuberculosis hand in hand: A call to engage communities affected by TB as essential partners in research.
+40202942	Trends in malaria prevalence among school-age children in Mainland Tanzania, 2015-2023: A multilevel survey analysis.
 40202501	Travel Health Needs of Children in U.S. Military Families Stationed Abroad.
 40202329	A novel micronemal protein MP38 is involved in the invasion of merozoites into erythrocytes.
 40201560	Addressing key risk factors hindering tuberculosis control activities in West Africa - progress in meeting the UN sustainable development goals.
@@ -9995,5 +9997,3 @@
 36744922	Host-Erythrocytic Sphingosine-1-Phosphate Regulates Plasmodium Histone Deacetylase Activity and Exhibits Epigenetic Control over Cell Death and Differentiation.
 36744465	Antiplasmodial activity of coumarins isolated from Polygala boliviensis: in vitro and in silico studies.
 36744427	Unsupervised machine learning, QSAR modelling and web tool development for streamlining the lead identification process of antimalarial flavonoids.
-36744402	An essential endoplasmic reticulum-resident N-acetyltransferase ortholog in Plasmodium falciparum.
-36743738	Climate Drivers of Malaria Transmission Seasonality and Their Relative Importance in Sub-Saharan Africa.
