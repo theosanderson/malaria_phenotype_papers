@@ -1,3 +1,13 @@
+40212578	Clinical and Laboratory Predictors of Poor Outcomes in Pediatric Cerebral Malaria in Nigeria.
+40211927	Research Advances on Molecular Mechanisms of Complement Regulatory Factor Vitronectin-Mediated Immune Escape of Pathogens.
+40211789	Malaria infection confounds inflammation-adjusted micronutrient biomarker concentrations in children and women in Malawi: a secondary analysis of the 2015/2016 Malawi micronutrient survey.
+40211412	Unleashing the power of intelligence: revolutionizing malaria outbreak preparedness with an advanced warning system in Benin, West Africa.
+40211392	Strengthening local capacity for mathematical modelling in low- and middle-income countries: the process and lessons learnt in implementing the first cohort of Nigeria malaria modelling fellowships.
+40211377	A case of an asymptomatic Plasmodium falciparum infection followed by a symptomatic Plasmodium ovale infection in a soldier deployed to South Sudan.
+40211345	Longitudinal field evaluation of outdoor Anopheles and non-Anopheles host-seeking in response to a volatile pyrethroid spatial emanator (SE) product among forest-dwelling indigenous residents of Sumatra, Indonesia.
+40211279	Societies at risk: the association between conflict intensity and population health indicators in Venezuela.
+40211207	Seasonal malaria chemoprevention in children aged 3-59 months in Mali: parents' perceptions, attitudes and beliefs regarding drug administration.
+40211156	Prognostic factors for death in patients hospitalised with malaria in pediatric units at the regional hospital centre in Dori, Burkina Faso.
 40210815	In vitro larvicidal activity of selected azabenzimidazole and diarylquinoline derivatives against Anopheles gambiae and in silico mechanistic analysis.
 40209672	Interferoning with Plasmodium development in the liver.
 40209103	Subgroup analyses in randomized trials of Clostridioides difficile associated disease: Recurring Challenges with Analyzing Recurrence.
@@ -9987,13 +9997,3 @@
 36751683	Placental Parasitic Infections and Pregnancy Outcomes Among Women Delivering at a Tertiary Hospital in Northern Tanzania.
 36751682	Characterisation of Malaria Diagnosis Data in High and Low Endemic Areas of Tanzania.
 36751680	Factors Associated with Uptake of Intermittent Preventive Treatment for Malaria During Pregnancy. Analysis of Data from the Tanzania 2015-2016 Demographic Health Survey and Malaria Indicator Survey.
-36751677	Correlation of Malaria Rapid Test and Peripheral Blood Smear Microscopy among Patients attending Byumba Health Centre.
-36751095	Histidinal-Based Potent Antimalarial Agents.
-36750963	The effectiveness of pay-for-performance contracts with non-governmental organizations in Afghanistan - results of a controlled interrupted time series analysis.
-36750737	Population genetic analysis of Plasmodium knowlesi reveals differential selection and exchange events between Borneo and Peninsular sub-populations.
-36750566	Quantifying the direct and indirect protection provided by insecticide treated bed nets against malaria.
-36750316	Immune Mechanisms in Inflammatory Anemia.
-36750153	Spontaneous splenic rupture due to falciparum malaria successfully treated with a conservative approach.
-36750152	Neem-based products as potential eco-friendly mosquito control agents over conventional eco-toxic chemical pesticides-A review.
-36749598	Crotofolane Diterpenoids and Other Constituents Isolated from Croton kilwae.
-36749281	South Asian Transplant Infectious Disease Guidelines for Solid Organ Transplant Candidates, Recipients, and Donors.
