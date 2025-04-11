@@ -1,3 +1,5 @@
+40210815	In vitro larvicidal activity of selected azabenzimidazole and diarylquinoline derivatives against Anopheles gambiae and in silico mechanistic analysis.
+40209672	Interferoning with Plasmodium development in the liver.
 40209103	Subgroup analyses in randomized trials of Clostridioides difficile associated disease: Recurring Challenges with Analyzing Recurrence.
 40209071	Misclassification of malaria as pneumonia in children in sub-Saharan Africa.
 40208861	Towards promoting timely treatment: Uncovering the determinants of prompt malaria care seeking behavior among febrile children under-five years in Tanzania.
@@ -241,6 +243,7 @@
 40120498	Design, synthesis and evaluation of novel carboline-triazole hybrids as promising antimalarial agents.
 40119979	Genetic diversity and evolution pattern of Plasmodium falciparum multidrug resistance 1 gene (Pfmdr1) in Indian and global populations.
 40119342	Retraction Note: Malaria in urban, semi‑urban and rural areas of southern of Gabon: comparison of the Pfmdr 1 and Pfcrt genotypes from symptomatic children.
+40118299	Dual role of hepcidin in response to pathogens.
 40117868	Performance of microscopy and rapid test for the diagnosis of mixed malaria in an endemic area of Colombia.
 40117835	Eucalyptus oil: A promising anticoccidial agent with multifaceted protective effects.
 40117352	SIP2 is the master transcription factor of Plasmodium merozoite formation.
@@ -9994,6 +9997,3 @@
 36750152	Neem-based products as potential eco-friendly mosquito control agents over conventional eco-toxic chemical pesticides-A review.
 36749598	Crotofolane Diterpenoids and Other Constituents Isolated from Croton kilwae.
 36749281	South Asian Transplant Infectious Disease Guidelines for Solid Organ Transplant Candidates, Recipients, and Donors.
-36749277	Understanding the mechanism of twenty-five ingredient decoction for setting a fracture in the treatment of fractures based on network pharmacology.
-36748809	Extracellular Vesicles Derived from Plasmodium-infected Hosts as Stimuli of "Trained" Innate Immunity.
-36748587	Streptomyces macrolidinus sp. nov., a novel soil actinobacterium with potential anticancer and antimalarial activity.
