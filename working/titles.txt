@@ -1,3 +1,6 @@
+40209103	Subgroup analyses in randomized trials of Clostridioides difficile associated disease: Recurring Challenges with Analyzing Recurrence.
+40209071	Misclassification of malaria as pneumonia in children in sub-Saharan Africa.
+40208861	Towards promoting timely treatment: Uncovering the determinants of prompt malaria care seeking behavior among febrile children under-five years in Tanzania.
 40208198	Magnitude and durability of ProC6C-AlOH/Matrix-M(tm) vaccine-induced malaria transmission-blocking antibodies in Burkinabe adults from a Phase 1 randomized trial.
 40208183	Correction to: 'Unravelling nicotinic receptor and ligand features underlying neonicotinoid knockdown actions on the malaria vector mosquito Anopheles gambiae' (2024), by Ito et al.
 40207532	Intestinal parasite infection in non-human primates from The Gambia, West Africa, and their relationship to human activity.
@@ -9994,6 +9997,3 @@
 36749277	Understanding the mechanism of twenty-five ingredient decoction for setting a fracture in the treatment of fractures based on network pharmacology.
 36748809	Extracellular Vesicles Derived from Plasmodium-infected Hosts as Stimuli of "Trained" Innate Immunity.
 36748587	Streptomyces macrolidinus sp. nov., a novel soil actinobacterium with potential anticancer and antimalarial activity.
-36747940	Evaluating the current management approach of scabies at selected primary health care in the Deder district, Ethiopia.
-36747727	Direct Tests of Cytochrome Function in the Electron Transport Chain of Malaria Parasites.
-36747723	Modeling the impact of xenointoxication in dogs to halt Trypanosoma cruzi transmission.
