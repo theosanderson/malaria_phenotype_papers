@@ -1,3 +1,6 @@
+40214640	Plasmodium falciparum infection induces T cell tolerance that is associated with decreased disease severity upon re-infection.
+40214319	Lagged Effects of Rainfall on Malaria: A Case Study of Meghalaya.
+40214148	Infectious disease forecasting to support public health: use of readily available methods to predict malaria and diarrhoeal diseases in Mozambique.
 40212578	Clinical and Laboratory Predictors of Poor Outcomes in Pediatric Cerebral Malaria in Nigeria.
 40211927	Research Advances on Molecular Mechanisms of Complement Regulatory Factor Vitronectin-Mediated Immune Escape of Pathogens.
 40211789	Malaria infection confounds inflammation-adjusted micronutrient biomarker concentrations in children and women in Malawi: a secondary analysis of the 2015/2016 Malawi micronutrient survey.
@@ -9994,6 +9997,3 @@
 36751768	Dispersion routes of the main vectors of human malaria in the Americas: Genetic evidence from the mitochondrial COI gene.
 36751765	An investigation of the efficacy of different statistical models in malaria forecasting in the semi-arid regions of Gujarat, India.
 36751738	Eliminating malaria, tuberculosis & HIV/AIDS in South-East Asia: Why cross-border is so critical.
-36751683	Placental Parasitic Infections and Pregnancy Outcomes Among Women Delivering at a Tertiary Hospital in Northern Tanzania.
-36751682	Characterisation of Malaria Diagnosis Data in High and Low Endemic Areas of Tanzania.
-36751680	Factors Associated with Uptake of Intermittent Preventive Treatment for Malaria During Pregnancy. Analysis of Data from the Tanzania 2015-2016 Demographic Health Survey and Malaria Indicator Survey.
