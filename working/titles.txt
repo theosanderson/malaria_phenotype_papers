@@ -1,3 +1,5 @@
+40215237	Gaps in protection to Anopheles exposure in high malaria endemic regencies of Papua Province, Indonesia.
+40215168	Systemic 4-1BB stimulation augments extrafollicular memory B cell formation and recall responses during Plasmodium infection.
 40214640	Plasmodium falciparum infection induces T cell tolerance that is associated with decreased disease severity upon re-infection.
 40214319	Lagged Effects of Rainfall on Malaria: A Case Study of Meghalaya.
 40214148	Infectious disease forecasting to support public health: use of readily available methods to predict malaria and diarrhoeal diseases in Mozambique.
@@ -78,7 +80,7 @@
 40191019	Current Developments in Malaria Vaccination: A Concise Review on Implementation, Challenges, and Future Directions.
 40190521	Prevalence and factors associated with second trimester pregnancy loss among women admitted at a National Referral Hospital in Uganda: a cross-sectional study.
 40189569	Unveiling malaria vectors: species complex and surveillance insights from Sundergarh, Odisha, India.
-40188876	Sacred codes: preservation, permutation and expression.
+40188876	Sacred codes: Preservation, permutation and expression.
 40188566	Immunostimulant effect of heat-inactivated Mycobacterium bovis in mice challenged with vector-borne pathogens.
 40188335	Asymptomatic malaria reservoirs are the last challenge in the elimination in Cambodia.
 40188328	Preferential transmission of minority and drug-resistant clones in polyclonal infections in Mali.
@@ -9995,5 +9997,3 @@
 36751771	Vaccine against malaria: A ground-breaking step towards elimination in India.
 36751769	The case report of a non-resident Indian with Plasmodium ovale curtisi from Kerala, India.
 36751768	Dispersion routes of the main vectors of human malaria in the Americas: Genetic evidence from the mitochondrial COI gene.
-36751765	An investigation of the efficacy of different statistical models in malaria forecasting in the semi-arid regions of Gujarat, India.
-36751738	Eliminating malaria, tuberculosis & HIV/AIDS in South-East Asia: Why cross-border is so critical.
