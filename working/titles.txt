@@ -1,3 +1,8 @@
+40217281	Explainable AI for enhanced accuracy in malaria diagnosis using ensemble machine learning models.
+40216754	Mean daily temperatures predict the thermal limits of malaria transmission better than hourly rate summation.
+40216665	Unveiling Prospective Therapeutic Potential of Conserved Hypothetical Plasmodium falciparum Proteins by Using Integrated Proteo Genomic Annotation and In-Silico Therapeutic Discovery Approach.
+40215989	Accelerating domestic investments to end AIDS in Africa.
+40215987	Protecting Africa's children from extreme risk: a runway of sustainability for PEPFAR programmes.
 40215237	Gaps in protection to Anopheles exposure in high malaria endemic regencies of Papua Province, Indonesia.
 40215168	Systemic 4-1BB stimulation augments extrafollicular memory B cell formation and recall responses during Plasmodium infection.
 40214640	Plasmodium falciparum infection induces T cell tolerance that is associated with decreased disease severity upon re-infection.
@@ -9992,8 +9997,3 @@
 36755272	Delayed diagnosis of bacterial cervical lymphadenitis in the tropics: a case report.
 36753561	Anti-merozoite antibodies induce natural killer cell effector function and are associated with immunity against malaria.
 36753081	[Obstacles to malaria elimination in Guapi-Cauca, Colombia].
-36752565	Genome-wide association study identifies novel candidate malaria resistance genes in Cameroon.
-36752355	Multi-target molecular dynamic simulations reveal glutathione-S-transferase as the most favorable drug target of knipholone in Plasmodium falciparum.
-36751771	Vaccine against malaria: A ground-breaking step towards elimination in India.
-36751769	The case report of a non-resident Indian with Plasmodium ovale curtisi from Kerala, India.
-36751768	Dispersion routes of the main vectors of human malaria in the Americas: Genetic evidence from the mitochondrial COI gene.
