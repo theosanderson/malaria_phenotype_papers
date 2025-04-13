@@ -1,3 +1,9 @@
+40221722	Population genetic structure analysis of Anopheles kleini in the Republic of Korea based on the mitochondrial COI gene.
+40221675	Factors associated with knowledge on HIV, TB and malaria among pregnant women and their perception of access to RDTs for HIV, TB and malaria in Savannakhet Province, Lao PDR.
+40221058	A review on quinolines: New green synthetic methods and bioactive potential.
+40219818	Investigating Pfk13 mutations in Plasmodium falciparum natural populations from two malaria-endemic areas of Cameroon.
+40218580	Black Phosphorous-Based Surface Plasmon Resonance Biosensor for Malaria Diagnosis.
+40218350	The Prevalence and Genetic Diversity of Avian Malaria in Wild Birds in the Republic of Korea.
 40217281	Explainable AI for enhanced accuracy in malaria diagnosis using ensemble machine learning models.
 40216754	Mean daily temperatures predict the thermal limits of malaria transmission better than hourly rate summation.
 40216665	Unveiling Prospective Therapeutic Potential of Conserved Hypothetical Plasmodium falciparum Proteins by Using Integrated Proteo Genomic Annotation and In-Silico Therapeutic Discovery Approach.
@@ -256,7 +262,7 @@
 40121016	Mortality in children and adolescents in Western Democratic Republic of Congo: retrospective analysis of verbal autopsy and demographic data from the Kimpese Health and Demographic Surveillance System.
 40120919	Polish travellers on the move: A study of knowledge of travel health and associated practices among polish travellers abroad.
 40120896	Unveiling role of HSP70 genes for development and survival of Indian malaria vector Anopheles culicifacies.
-40120759	Kinetics of the Alethia® Malaria LAMP positivity during Post-treatment Follow-up of Patients with imported Malaria.
+40120759	Re: Kinetics of the Alethia® malaria loop-mediated isothermal amplification (LAMP) positivity during post-treatment follow-up of patients with imported malaria.
 40120754	The non-artemisinin antimalarial drugs under development: a review.
 40120669	Biosynthesis of silver nanoparticles using soil actinobacterium Streptomyces anthocyanicus and investigation of their larvicidal potentials against Culex quinquefasciatus Aedes aegypti, and Anopheles stephensi.
 40120597	Immunogenicity and safety of an Escherichia coli-produced bivalent human papillomavirus vaccine (Cecolin) in girls aged 9-14 years in Ghana and Bangladesh: a randomised, controlled, open-label, non-inferiority, phase 3 trial.
@@ -9991,9 +9997,3 @@
 36759650	Detection of a reduced susceptibility to chlorfenapyr in the malaria vector Anopheles gambiae contrasts with full susceptibility in Anopheles funestus across Africa.
 36759044	Enteric fever masquerading as Crohn's disease in a child with abdominal tuberculosis.
 36758933	Better health through better housing - Current impact and future prospects of randomized trials.
-36758417	Artificial intelligence-based tools applied to pathological diagnosis of microbiological diseases.
-36756241	Ebola outbreak in Guinea, 2021: Clinical care of patients with Ebola virus disease.
-36755367	Cross-reactivity of SARS-CoV-2 with other pathogens, especially dengue virus: A historical perspective.
-36755272	Delayed diagnosis of bacterial cervical lymphadenitis in the tropics: a case report.
-36753561	Anti-merozoite antibodies induce natural killer cell effector function and are associated with immunity against malaria.
-36753081	[Obstacles to malaria elimination in Guapi-Cauca, Colombia].
