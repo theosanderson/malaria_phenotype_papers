@@ -1,3 +1,4 @@
+40223077	Prevalence and epidemiological characteristics of asymptomatic malaria in Sucre, Venezuela: a 2022 cross-sectional study.
 40221722	Population genetic structure analysis of Anopheles kleini in the Republic of Korea based on the mitochondrial COI gene.
 40221675	Factors associated with knowledge on HIV, TB and malaria among pregnant women and their perception of access to RDTs for HIV, TB and malaria in Savannakhet Province, Lao PDR.
 40221058	A review on quinolines: New green synthetic methods and bioactive potential.
@@ -9996,4 +9997,3 @@
 36759860	Evaluating a community engagement model for malaria elimination in Haiti: lessons from the community health council project (2019-2021).
 36759650	Detection of a reduced susceptibility to chlorfenapyr in the malaria vector Anopheles gambiae contrasts with full susceptibility in Anopheles funestus across Africa.
 36759044	Enteric fever masquerading as Crohn's disease in a child with abdominal tuberculosis.
-36758933	Better health through better housing - Current impact and future prospects of randomized trials.
