@@ -1,3 +1,9 @@
+40227533	A Comparative Study of Diamond Nucleic Acid Dye and SYBR Green I in Detecting Plasmodium falciparum.
+40227034	Novel Plasmodium falciparum Kelch13 polymorphisms in Cameroon with structural and physicochemical impact.
+40227011	Hybrid Molecules as Efficient Drugs against Multidrug-Resistant Malaria Parasites.
+40226221	Unmasking Hepatitis A: A Case Study of Atypical Presentation in a Returning Traveler From Egypt.
+40225210	Epidemiology of glucose-6-phosphate dehydrogenase deficiency in 10 malaria-endemic countries in sub-Saharan Africa: a systematic review.
+40223817	Aptamers as innovative tools for malaria diagnosis and treatment: advances and future perspectives.
 40223343	Combination Therapy of Oncolytic Newcastle Virus and Lenalidomide Enhanced Cytotoxicity in Prostate Cancer Cells.
 40223077	Prevalence and epidemiological characteristics of asymptomatic malaria in Sucre, Venezuela: a 2022 cross-sectional study.
 40221722	Population genetic structure analysis of Anopheles kleini in the Republic of Korea based on the mitochondrial COI gene.
@@ -9991,9 +9997,3 @@
 36761022	Plasmodium sporozoites require the protein B9 to invade hepatocytes.
 36760749	Expanding the scope of novel 1,2,3-triazole derivatives as new antiparasitic drug candidates.
 36760520	Combined chemical transformation and biological transformation of artemisinin: A facile approach to diverse artemisinin derivatives.
-36760507	CRISPR-Cas13 in malaria parasite: Diagnosis and prospective gene function identification.
-36760290	Marine organisms as potential sources of natural products for the prevention and treatment of malaria.
-36759908	Laboratory-based efficacy evaluation of Bacillus thuringiensis var. israelensis and temephos larvicides against larvae of Anopheles stephensi in ethiopia.
-36759905	Elevated plasma interleukin-8 as a risk factor for mortality in children presenting with cerebral malaria.
-36759860	Evaluating a community engagement model for malaria elimination in Haiti: lessons from the community health council project (2019-2021).
-36759650	Detection of a reduced susceptibility to chlorfenapyr in the malaria vector Anopheles gambiae contrasts with full susceptibility in Anopheles funestus across Africa.
