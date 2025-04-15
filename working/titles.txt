@@ -1,3 +1,7 @@
+40228852	Design of a randomised, placebo-controlled, double-blind multicentre study assessing the effect of colchicine on the incidence of knee or hip replacements in symptomatic knee or hip osteoarthritis: the ECHO trial.
+40228810	Optimization and Characterization of N-Acetamide Indoles as Antimalarials That Target PfATP4.
+40228701	Unveiling the mystery of the genus Tiliacora: A holistic view on the ethnomedicinal uses, phytochemical richness and pharmacological potentials.
+40228568	Development and validation of novel RT-PCR assay for molecular diagnostic of viral variants using SARS-CoV-2 as a case study.
 40228135	Reconsidering indoor residual spraying coverage targets: A retrospective analysis of high-resolution programmatic malaria control data.
 40227533	A Comparative Study of Diamond Nucleic Acid Dye and SYBR Green I in Detecting Plasmodium falciparum.
 40227034	Novel Plasmodium falciparum Kelch13 polymorphisms in Cameroon with structural and physicochemical impact.
@@ -9993,7 +9997,3 @@
 36763053	Screening for bilayer-active and likely cytotoxic molecules reveals bilayer-mediated regulation of cell function.
 36762770	Correction to: Combatting malaria disease among gold miners: a qualitative research within the Malakit project.
 36761894	Identification of novel Plasmodium vivax proteins associated with protection against clinical malaria.
-36761767	Similarities and differences of chemical compositions and physical and functional properties of adjuvant system 01 and army liposome formulation with QS21.
-36761470	Synthesis and characterisation of new antimalarial fluorinated triazolopyrazine compounds.
-36761022	Plasmodium sporozoites require the protein B9 to invade hepatocytes.
-36760749	Expanding the scope of novel 1,2,3-triazole derivatives as new antiparasitic drug candidates.
