@@ -1,3 +1,9 @@
+40230966	Feasibility and acceptability of a digital tool to support community-based screening for COVID-19 and other priority medical conditions across rural and peri-urban communities in Guinea.
+40230879	Changes and heterogeneity in quality-amenable excess mortality in Mexico: a systematic analysis for the years 2012, 2018, and 2021.
+40230878	Does use of domestic insecticides undermine public health control strategies?
+40230548	How much could health worker absenteeism impact health outcomes? A modeling study of malaria in Kenya.
+40230442	Immunogenicity of PvVir14-derived peptides to improve the serological diagnosis of Plasmodium vivax infection.
+40230200	Influenza A hemagglutinin virus-like particles confer protection against influenza B virus infection.
 40228852	Design of a randomised, placebo-controlled, double-blind multicentre study assessing the effect of colchicine on the incidence of knee or hip replacements in symptomatic knee or hip osteoarthritis: the ECHO trial.
 40228810	Optimization and Characterization of N-Acetamide Indoles as Antimalarials That Target PfATP4.
 40228701	Unveiling the mystery of the genus Tiliacora: A holistic view on the ethnomedicinal uses, phytochemical richness and pharmacological potentials.
@@ -6080,6 +6086,7 @@
 38102310	Structural definition of babesial RAP-1 proteins identifies a novel protein superfamily across Apicomplexa.
 38101834	Assessment of the Global Fund-supported procurement and supply chain reforms at the Ethiopian Pharmaceuticals Supply Agency: a mixed-methods study.
 38101534	Immune tolerance caused by repeated P. falciparum infection against SE36 malaria vaccine candidate antigen and the resulting limited polymorphism.
+40231272	A full-STAC remedy for global digital health transformation: open standards, technologies, architectures and content.
 38100310	Plasmodium falciparum merozoite surface protein 1 as asexual blood stage malaria vaccine candidate.
 38099974	Genetic characterization and description of Leishmania (Leishmania) ellisi sp. nov.: a new human-infecting species from the USA.
 38099863	Risk factors for mortality in an African pediatric emergency department: case of Sourô Sanou Hospital, a prospective, cross-sectional study.
@@ -9990,10 +9997,3 @@
 36766567	Use of Envelope Domain III Protein for the Detection of IgG Type Antibodies Specific to Zika Virus by Indirect ELISA.
 36766509	Computer-Aided Diagnosis System for Blood Diseases Using EfficientNet-B3 Based on a Dynamic Learning Algorithm.
 36765345	Notification of malaria cases in the Brazilian Amazon Basin from 2010 to 2020: an analysis of the reporting times.
-36765317	Malaria patient spectrum representation in therapeutic clinical trials of uncomplicated malaria: a scoping review of the literature.
-36765180	Natural killer cells adapt to malaria exposures.
-36763907	Structure-Based Optimization of Protease-Inhibitor Interactions to Enhance Specificity of Human Stefin-A against Falcipain-2 from the Plasmodium falciparum 3D7 Strain.
-36763526	Fast-Killing Tyrosine Amide ((S)-SW228703) with Blood- and Liver-Stage Antimalarial Activity Associated with the Cyclic Amine Resistance Locus (PfCARL).
-36763053	Screening for bilayer-active and likely cytotoxic molecules reveals bilayer-mediated regulation of cell function.
-36762770	Correction to: Combatting malaria disease among gold miners: a qualitative research within the Malakit project.
-36761894	Identification of novel Plasmodium vivax proteins associated with protection against clinical malaria.
