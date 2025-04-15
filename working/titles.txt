@@ -1,3 +1,4 @@
+40228135	Reconsidering indoor residual spraying coverage targets: A retrospective analysis of high-resolution programmatic malaria control data.
 40227533	A Comparative Study of Diamond Nucleic Acid Dye and SYBR Green I in Detecting Plasmodium falciparum.
 40227034	Novel Plasmodium falciparum Kelch13 polymorphisms in Cameroon with structural and physicochemical impact.
 40227011	Hybrid Molecules as Efficient Drugs against Multidrug-Resistant Malaria Parasites.
@@ -9996,4 +9997,3 @@
 36761470	Synthesis and characterisation of new antimalarial fluorinated triazolopyrazine compounds.
 36761022	Plasmodium sporozoites require the protein B9 to invade hepatocytes.
 36760749	Expanding the scope of novel 1,2,3-triazole derivatives as new antiparasitic drug candidates.
-36760520	Combined chemical transformation and biological transformation of artemisinin: A facile approach to diverse artemisinin derivatives.
