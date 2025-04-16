@@ -1,3 +1,13 @@
+40237102	Determinants of the use of insecticide-treated nets and intermittent preventive treatment of malaria among pregnant women in Angola.
+40237051	Ab-initio Molecular Dynamics and Density Functional Theory Study of Amodiaquine Analogues as Potential Inhibitors of β-haematin Crystallization.
+40236626	Genetic diversity of Plasmodium falciparum in people living with HIV in Ogbomoso, Nigeria: Implications for malaria transmission and treatment.
+40236429	Towards an open analysis ecosystem for Plasmodium genomic epidemiology.
+40236408	Understudied anophelines may sustain residual transmission during the dry season in a pre-elimination setting in southern Zambia.
+40236387	Very low prevalence of validated kelch13 mutations and absence of hrp2/3 double gene deletions in South African malaria-eliminating districts (2022-2024).
+40236022	Genetic surveillance of Plasmodium-Anopheles compatibility markers during Anopheles stephensi associated malaria outbreak.
+40235719	Cost and cost effectiveness of geospatial planning and delivery tools added to standard health campaigns in Luapula Province, Zambia.
+40235373	[Malaria elimination strategy and joint prevention and control of malaria across China-Myanmar border areas: an overview].
+40235372	[Risk of and response to cross-border importation and secondary transmission of malaria].
 40234957	Evaluation of seasonal malaria chemoprevention implementation in the Upper East region of Northern Ghana.
 40234946	The impact of a humanitarian crisis on the magnitude of malaria in Tigray, Northern Ethiopia from 2014 to 2024.
 40234938	Projected uptake of sulfadoxine-pyrimethamine for perennial malaria chemoprevention in children under 2 years of age in nine sub-Saharan African countries: an epidemiologically-based 5-year forecast analysis.
@@ -9987,13 +9997,3 @@
 36776427	Mapping and characterizing areas with high levels of malaria in pregnancy in Brazil: A spatiotemporal analysis.
 36776424	Prevalence of glucose 6-phosphate dehydrogenase deficiency in highly malaria-endemic municipalities in the Brazilian Amazon: A region-wide screening study.
 36776283	Adverse Drug Reactions during COVID-19 Treatment: A Comprehensive Analysis Focused on Hospitalized Patients, with the Use of a Survey in Cuba in 2020.
-36775045	Structural and genomic analysis of single nucleotide polymorphisms in human host factor endothelial protein C receptor (EPCR) reveals complex interplay with malaria parasites.
-36774478	Stakeholder perspectives on a door-to-door intervention to increase community engagement for malaria elimination in Zanzibar.
-36774466	Malaria Frontline Project: strategic approaches to improve malaria control program leveraging experiences from Kano and Zamfara States, Nigeria, 2016-2019.
-36773811	Management of imported malaria in the emergency department: Adequacy compared to guidelines, and impact of the SARS-CoV-2 pandemic.
-36773528	IFNγ, TNFα polymorphisms and IFNγ serum levels are associated with the clearance of drug-resistant P. falciparum in Malian children.
-36773296	A spatial map of antennal-expressed ionotropic receptors in the malaria mosquito.
-36773062	Preparation of polyclonal anti-Schistosoma mansoni cysteine protease antibodies for early diagnosis.
-36772825	Adapting international clinical trials during COVID-19 and beyond.
-36772541	Malaria Detection Using Advanced Deep Learning Architecture.
-36770864	Bioactive Clerodane Diterpenoids from the Leaves of Casearia coriacea Vent.
