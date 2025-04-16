@@ -1,3 +1,4 @@
+40237572	Exploring the Impact of Polysaccharide-Based Nanoemulsions in Drug Delivery.
 40237102	Determinants of the use of insecticide-treated nets and intermittent preventive treatment of malaria among pregnant women in Angola.
 40237051	Ab-initio Molecular Dynamics and Density Functional Theory Study of Amodiaquine Analogues as Potential Inhibitors of β-haematin Crystallization.
 40236626	Genetic diversity of Plasmodium falciparum in people living with HIV in Ogbomoso, Nigeria: Implications for malaria transmission and treatment.
@@ -9996,4 +9997,3 @@
 36776799	Field evaluation of the novel One Step Malaria Pf and Pf/Pv rapid diagnostic tests and the proportion of HRP-2 gene deletion identified on samples collected in the Pwani region, Tanzania.
 36776427	Mapping and characterizing areas with high levels of malaria in pregnancy in Brazil: A spatiotemporal analysis.
 36776424	Prevalence of glucose 6-phosphate dehydrogenase deficiency in highly malaria-endemic municipalities in the Brazilian Amazon: A region-wide screening study.
-36776283	Adverse Drug Reactions during COVID-19 Treatment: A Comprehensive Analysis Focused on Hospitalized Patients, with the Use of a Survey in Cuba in 2020.
