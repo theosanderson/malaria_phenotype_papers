@@ -1,3 +1,11 @@
+40234957	Evaluation of seasonal malaria chemoprevention implementation in the Upper East region of Northern Ghana.
+40234946	The impact of a humanitarian crisis on the magnitude of malaria in Tigray, Northern Ethiopia from 2014 to 2024.
+40234938	Projected uptake of sulfadoxine-pyrimethamine for perennial malaria chemoprevention in children under 2 years of age in nine sub-Saharan African countries: an epidemiologically-based 5-year forecast analysis.
+40234878	Do long-lasting insecticidal nets retain their efficacy after three years of usage in Afghanistan? Findings from a study on survivorship, physical integrity, insecticidal activity and wash resistance.
+40234522	Impact of age, HIV1, sickle-cell genotypes, and interferon-gamma gene upstream variants on malaria disease outcomes in a longitudinal pediatric cohort.
+40234440	Recent perspectives in clinical development of malaria vaccines.
+40234435	Risk analysis for outpatient experimental infection as a pathway for affordable RSV vaccine development.
+40233724	Concomitant Splenic Tuberculosis and Epstein-Barr Virus-Related T-Cell Leukemia/Lymphoma in a 28-Year-Old Pregnant Woman in South Sudan.
 40233443	Tartrolon E rapidly blocks Toxoplasma gondii capacity to invade host cells.
 40233359	Marine Guanidine Alkaloids Inhibit Malaria Parasites Development in In Vitro, In Vivo and Ex Vivo Assays.
 40233045	Effect of knowledge of sulfadoxine-pyrimethamine (SP) as prophylaxis for malaria on its uptake for intermittent preventive treatment of malaria in pregnancy (IPTp): Application of inverse probability weighted regression adjustment (IPWRA) technique.
@@ -9989,11 +9997,3 @@
 36772825	Adapting international clinical trials during COVID-19 and beyond.
 36772541	Malaria Detection Using Advanced Deep Learning Architecture.
 36770864	Bioactive Clerodane Diterpenoids from the Leaves of Casearia coriacea Vent.
-36770840	3-Arylidene-2-oxindoles as Potent NRH:Quinone Oxidoreductase 2 Inhibitors.
-36770729	Generation of Aurachin Derivatives by Whole-Cell Biotransformation and Evaluation of Their Antiprotozoal Properties.
-36769203	Editorial: Special Issue on the "Molecular Biology of Disease Vectors".
-36768950	Differential Effect of Extracellular Vesicles Derived from Plasmodium falciparum-Infected Red Blood Cells on Monocyte Polarization.
-36768882	Characterizing the Specific Recognition of Xanthurenic Acid by GEP1 and GEP1-GCα Interactions in cGMP Signaling Pathway in Gametogenesis of Malaria Parasites.
-36766640	Performance Analysis of Deep Learning Algorithms in Diagnosis of Malaria Disease.
-36766633	High Plasma Levels of Neopterin Are Associated with Increased Mortality among Children with Severe Malaria in Benin.
-36766620	Robust Image Processing Framework for Intelligent Multi-Stage Malaria Parasite Recognition of Thick and Thin Smear Images.
