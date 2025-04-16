@@ -1,3 +1,6 @@
+40233443	Tartrolon E rapidly blocks Toxoplasma gondii capacity to invade host cells.
+40233359	Marine Guanidine Alkaloids Inhibit Malaria Parasites Development in In Vitro, In Vivo and Ex Vivo Assays.
+40233045	Effect of knowledge of sulfadoxine-pyrimethamine (SP) as prophylaxis for malaria on its uptake for intermittent preventive treatment of malaria in pregnancy (IPTp): Application of inverse probability weighted regression adjustment (IPWRA) technique.
 40230966	Feasibility and acceptability of a digital tool to support community-based screening for COVID-19 and other priority medical conditions across rural and peri-urban communities in Guinea.
 40230879	Changes and heterogeneity in quality-amenable excess mortality in Mexico: a systematic analysis for the years 2012, 2018, and 2021.
 40230878	Does use of domestic insecticides undermine public health control strategies?
@@ -1492,7 +1495,7 @@
 39700132	Public communication and outreach by mosquito programs in the United States.
 39699542	Dengue Mimickers: Which Clinical Conditions Can Resemble Dengue Fever?
 39699139	DIAGNOSTIC INVESTIGATION OF AMERICAN ROBINS (TURDUS MIGRATORIUS) WITH FATAL ETHYLENE GLYCOL TOXICOSIS AND CONCURRENT PLASMODIUM SPP. INFECTION WITH RETROSPECTIVE REVIEW OF 44 YEARS OF DIAGNOSTIC DATA.
-39699125	Impact of late rainy season indoor residual spraying on holoendemic malaria transmission: a cohort study in northern Zambia.
+39699125	Impact of Late-Rainy Season Indoor Residual Spraying on Holoendemic Malaria Transmission: A Cohort Study in Northern Zambia.
 39697211	Case report: Malaria and hepatitis E coinfection-first experience with such imported entity in Serbia.
 39696874	Subnational mapping of anaemia and aetiologic factors in the West and Central African region.
 39696847	A stage structured model for mosquito suppression with immigration.
@@ -2224,7 +2227,7 @@
 39451197	The Role of Soluble CD163 (sCD163) in Human Physiology and Pathophysiology.
 39451051	'Show me the money': An analysis of US global health funding from 1995 to 2019.
 39450984	Travel to malaria-endemic areas: using digital geo-location to assess potential exposure risks and health behaviours.
-39450553	An Expression Quantitative Trait Locus of Fc Gamma Receptor Genes is Associated with Anti-Malarial IgG Responses and Infection Levels in Burkinabe Families.
+39450553	An Expression Quantitative Trait Locus of Fc Gamma Receptor Genes Is Associated With Antimalarial IgG Responses and Infection Levels in Burkinabe Families.
 39450524	Current or recent malaria infection is associated with elevated inflammation-adjusted ferritin concentrations in pre-school children: a secondary analysis of the BRINDA database.
 39450309	A histomorphometric study to evaluate the therapeutic effects of biosynthesized silver nanoparticles on the kidneys infected with Plasmodium chabaudi.
 39450180	Exploring the naturally acquired response to Pvs47 gametocyte antigen.
@@ -2236,7 +2239,7 @@
 39448552	Power, data and social accountability: defining a community-led monitoring model for strengthened health service delivery.
 39448193	Plasmodium proteases and their role in development of Malaria vaccines.
 39448191	Advances in protease inhibition-based chemotherapy: A decade of insights from Malaria research.
-39447003	CpG-adjuvanted virus-like particle vaccine induces protective immunity against Leishmania donovani infection.
+39447003	CpG-Adjuvanted Virus-like Particle Vaccine Induces Protective Immunity Against Leishmania donovani Infection.
 39446698	Development and longevity of naturally acquired antibody and memory B cell responses against Plasmodium vivax infection.
 39446670	Locally Acquired (Autochthonous) Mosquito-Transmitted Plasmodium vivax Malaria - Saline County, Arkansas, September 2023.
 39445826	The Plasmodium falciparum histone methyltransferase PfSET10 is dispensable for the regulation of antigenic variation and gene expression in blood-stage parasites.
@@ -9994,6 +9997,3 @@
 36766640	Performance Analysis of Deep Learning Algorithms in Diagnosis of Malaria Disease.
 36766633	High Plasma Levels of Neopterin Are Associated with Increased Mortality among Children with Severe Malaria in Benin.
 36766620	Robust Image Processing Framework for Intelligent Multi-Stage Malaria Parasite Recognition of Thick and Thin Smear Images.
-36766567	Use of Envelope Domain III Protein for the Detection of IgG Type Antibodies Specific to Zika Virus by Indirect ELISA.
-36766509	Computer-Aided Diagnosis System for Blood Diseases Using EfficientNet-B3 Based on a Dynamic Learning Algorithm.
-36765345	Notification of malaria cases in the Brazilian Amazon Basin from 2010 to 2020: an analysis of the reporting times.
