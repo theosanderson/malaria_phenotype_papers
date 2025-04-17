@@ -1,3 +1,7 @@
+40242433	Integrating One Health research in Sarawak, Malaysia: Addressing emerging and re-emerging infectious disease through international collaboration.
+40241753	CR1 variants contribute to FSGS susceptibility across multiple populations.
+40241390	Emergence and Rising Prevalence of Artemisinin Partial Resistance Marker Kelch13 P441L in a Low Malaria Transmission Setting in Southern Zambia.
+40241387	Genomic Analysis Reveals a New Cryptic Taxon Within the Anopheles gambiae Complex With a Distinct Insecticide Resistance Profile in the Coast of East Africa.
 40241183	Prevalence of antimalaria drug resistance-conferring mutations associated with sulphadoxine-pyrimethamineine-resistant Plasmodium falciparum in East Africa: a systematic review and meta-analysis.
 40241173	Use of the Malaria Protein VAR2CSA for the Detection of Small Extracellular Vesicles to Diagnose Adenocarcinoma.
 40241053	The burden and diagnostic challenges of subclinical Plasmodium falciparum infections in Southern Ghana.
@@ -9993,7 +9997,3 @@
 36782196	Understanding work-related travel and its relation to malaria occurrence in Thailand using geospatial maximum entropy modelling.
 36782162	Quantification of parasite clearance in Plasmodium knowlesi infections.
 36782045	Adipokinetic hormone signaling in the malaria vector Anopheles gambiae facilitates Plasmodium falciparum sporogony.
-36781728	Finding Rearrangements in Nanopore DNA Reads with LAST and dnarrange.
-36780896	The Impact of Antenatal Azithromycin and Monthly Sulfadoxine-Pyrimethamine on Maternal Malaria during Pregnancy and Fetal Growth: A Randomized Controlled Trial.
-36780872	The Aedes aegypti peritrophic matrix controls arbovirus vector competence through HPx1, a heme-induced peroxidase.
-36780562	PbAP2-FG2 and PbAP2R-2 function together as a transcriptional repressor complex essential for Plasmodium female development.
