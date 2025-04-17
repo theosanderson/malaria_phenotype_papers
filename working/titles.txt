@@ -1,3 +1,12 @@
+40241183	Prevalence of antimalaria drug resistance-conferring mutations associated with sulphadoxine-pyrimethamineine-resistant Plasmodium falciparum in East Africa: a systematic review and meta-analysis.
+40241173	Use of the Malaria Protein VAR2CSA for the Detection of Small Extracellular Vesicles to Diagnose Adenocarcinoma.
+40241053	The burden and diagnostic challenges of subclinical Plasmodium falciparum infections in Southern Ghana.
+40241014	Malaria misdiagnosis substantially contributes to the underestimation of global human brucellosis incidence.
+40241010	Applying novel Plasmodium Vivax serological exposure markers to quantify residual malaria transmission in the Philippines through repeated health facility surveys: the SMaRT study protocol.
+40240726	Silicon carbide and zirconium nitride-based surface plasmon resonance sensors for detecting Serratia marcescens and Micrococcus lysodeikticus.
+40240603	Re-adenylation by TENT5A enhances efficacy of SARS-CoV-2 mRNA vaccines.
+40240504	Transmissibility of a new Plasmodium falciparum 3D7 bank for use in malaria volunteer infection studies evaluating transmission blocking interventions.
+40240469	Defining the genetics of the widely used G3 strain of the mosquito, Anopheles gambiae.
 40238288	Influence of CYP2C8 Polymorphism on the Exposure to Chloroquine in Patients with Malaria by Plasmodium vivax-A Preliminary Study.
 40238281	Disease Conditions and Health Information Needs Among People Who Inject Drugs: Engendering Research to Policy and Interventions Initiatives.
 40238251	Comparative Research of Antioxidant, Antimicrobial, Antiprotozoal and Cytotoxic Activities of Edible Suillus sp. Fruiting Body Extracts.
@@ -9988,12 +9997,3 @@
 36780896	The Impact of Antenatal Azithromycin and Monthly Sulfadoxine-Pyrimethamine on Maternal Malaria during Pregnancy and Fetal Growth: A Randomized Controlled Trial.
 36780872	The Aedes aegypti peritrophic matrix controls arbovirus vector competence through HPx1, a heme-induced peroxidase.
 36780562	PbAP2-FG2 and PbAP2R-2 function together as a transcriptional repressor complex essential for Plasmodium female development.
-36780430	Genetic Characterization of Trypanosoma cruzi I Populations from an Oral Chagas Disease Outbreak in Venezuela: Natural Resistance to Nitroheterocyclic Drugs.
-36779801	Assessment of Bio-Based Materials as a Sustainable and Scalable Alternative for Detection of Plasmodium spp. (Haemospororida: Plasmodiidae) Sporozoites in Field Deployable Testing.
-36779191	A zone-of-inhibition assay to screen for humoral antimicrobial activity in mosquito hemolymph.
-36778886	Current understanding of the immune potential of B-cell subsets in malarial pathogenesis.
-36778504	Plasmodium ARK2-EB1 axis drives the unconventional spindle dynamics, scaffold formation and chromosome segregation of sexual transmission stages.
-36778461	A Drug Repurposing Approach Reveals Targetable Epigenetic Pathways in Plasmodium vivax Hypnozoites.
-36778235	Antigenic diversity in malaria parasites is maintained on extrachromosomal DNA.
-36778067	Health and economic burden due to malaria in Peru over 30 years (1990-2019): Findings from the global burden of diseases study 2019.
-36777671	A novel multiplex qPCR assay for clinical diagnosis of non-human malaria parasites-Plasmodium knowlesi and Plasmodium cynomolgi.
