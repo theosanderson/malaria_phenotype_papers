@@ -1,3 +1,9 @@
+40248722	Targeting of arachidonic acid-modulated autophagy to enhance the sensitivity of ROS1 (+) or ALK (+) non-small cell lung cancer to crizotinib therapy.
+40248577	[Malaria control in French Guiana: What are the challenges in this last endemic French territory in 2024?].
+40248575	[Submicroscopic Plasmodium spp. Infections in Febrile Patients in Togo].
+40248092	Spiraea prunifolia var. simpliciflora leaves ameliorate inflammatory responses and oxidative stress in PPE/LPS-induced chronic obstructive pulmonary disease mouse model.
+40247897	A machine learning approach to predicting inpatient mortality among pediatric acute gastroenteritis patients in Kenya.
+40247647	Exploring the consequences of housing insecurity on HIV treatment outcomes: Qualitative insights from Kisumu, Kenya.
 40247375	[Effect of low-dose primaquine treatment on Plasmodium vivax recurrence and transmission-blocking activity in southwest Ethiopia: a longitudinal cohort study.
 40247263	A roadmap of priority evidence gaps for the co-implementation of malaria vaccines and perennial malaria chemoprevention.
 40247186	Global, regional and national burden and time trends of malaria in children and young adolescents under 15 years from 1990 to 2021: a worldwide observational study.
@@ -9991,9 +9997,3 @@
 36790811	Seroprevalence of Antibodies to SARS-CoV-2 in Rural Households in Eastern Uganda, 2020-2022.
 36790168	Antibodies to repeat-containing antigens in Plasmodium falciparum are exposure-dependent and short-lived in children in natural malaria infections.
 36789658	Rising cases of Dengue and Malaria in Flood Affected Areas of Pakistan: A Major Threat to the Country's Healthcare System.
-36789530	Rapid range shifts in African Anopheles mosquitoes over the last century.
-36789389	In silico anti-SARS-CoV-2, antiplasmodial, antioxidant, and antimicrobial activities of crude extracts and homopterocarpin from heartwood of Pterocarpus macrocarpus Kurz.
-36789332	Parasite detection and quantification in avian blood is dependent on storage medium and duration.
-36788700	The Prevalence of Blood Borne Diseases in Blood Donors of Peshawar, Khyber Pakhtunkhwa, Pakistan.
-36788608	Proof-of-concept study for a long-acting formulation of ivermectin injected in cattle as a complementary malaria vector control tool.
-36788578	Metabolic responses in blood-stage malaria parasites associated with increased and decreased sensitivity to PfATP4 inhibitors.
