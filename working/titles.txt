@@ -1,3 +1,13 @@
+40247375	[Effect of low-dose primaquine treatment on Plasmodium vivax recurrence and transmission-blocking activity in southwest Ethiopia: a longitudinal cohort study.
+40247263	A roadmap of priority evidence gaps for the co-implementation of malaria vaccines and perennial malaria chemoprevention.
+40247186	Global, regional and national burden and time trends of malaria in children and young adolescents under 15 years from 1990 to 2021: a worldwide observational study.
+40247054	Disparate co-evolution and prevalence of sulfadoxine and pyrimethamine resistance alleles and haplotypes at dhfr and dhps genes across Africa.
+40246698	WIMANET: The Power of a Network in Wildlife Malaria Research.
+40246632	Human antibodies against Anopheles salivary proteins: emerging biomarkers of mosquito and malaria exposure.
+40246180	Biological evaluation as antimalarial of two families of biscationic compounds featuring two different sulphur linkers.
+40246164	Alba protein-mediated gene and protein regulation in protozoan parasites.
+40245769	Meeting report: Expert consultation on late arresting replication competent (LARC) malaria sporozoite vaccine research & development.
+40245667	The hygiene hypothesis of crime: Examining the link between disgust-related diseases and crime incidence.
 40245013	Assessing the environmental and climatic influences on the incidence of severe typhoid in Kampala, Uganda.
 40244986	Identification of visible and near-infrared signature peaks for arboviruses and Plasmodium falciparum.
 40243929	Protective Vaccination of Mice Against Blood-Stage Malaria Impacts Hepatic Expression of Genes Encoding Acute-Phase Proteins and IL-6 Family Members.
@@ -104,7 +114,7 @@
 40204412	What works for anemia reduction among women of reproductive age? Synthesized findings from the exemplars in anemia project.
 40204410	Drivers of anemia reduction among women of reproductive age in Uganda: a country case study.
 40204409	What works for reducing stunting in low-income and middle-income countries? Cumulative learnings from the Global Stunting Exemplars Project.
-40204186	Macrophage Migration Inhibitory Factor Contributes to Adverse Outcomes of Experimental Gestational Malaria Across Pregnancy Stages.
+40204186	Macrophage Migration Inhibitory Factor Contributes to Adverse Outcomes of Experimental Gestational Malaria across Pregnancy Stages.
 40204083	Evaluation of saliva collected by the Self-Lollisponge® device for diagnosis of malaria in children.
 40203831	Natural products chlorotonils exert a complex antibacterial mechanism and address multiple targets.
 40202965	Fighting tuberculosis hand in hand: A call to engage communities affected by TB as essential partners in research.
@@ -9987,13 +9997,3 @@
 36788700	The Prevalence of Blood Borne Diseases in Blood Donors of Peshawar, Khyber Pakhtunkhwa, Pakistan.
 36788608	Proof-of-concept study for a long-acting formulation of ivermectin injected in cattle as a complementary malaria vector control tool.
 36788578	Metabolic responses in blood-stage malaria parasites associated with increased and decreased sensitivity to PfATP4 inhibitors.
-36788545	In vitro and in vivo antiplasmodial activities of leaf extracts from Sonchus arvensis L.
-36788541	Malaria profile and socioeconomic predictors among under-five children: an analysis of 11 sub-Saharan African countries.
-36788363	Cerebral malaria-using the retina to study the brain.
-36788274	Identifying inhibitors of β-haematin formation with activity against chloroquine-resistant Plasmodium falciparum malaria parasites via virtual screening approaches.
-36787548	The Prevalence of Transfusion-Transmitted Infection Markers among Blood Donors at Saudi Hospital, Makkah.
-36787321	Prevalence of asymptomatic malaria infection by microscopy and its determinants among residents of Ido-Ekiti, Southwestern Nigeria.
-36787308	Cytokine response in asymptomatic and symptomatic Plasmodium falciparum infections in children in a rural area of south-eastern Gabon.
-36787259	IL-10-producing Th1 cells possess a distinct molecular signature in malaria.
-36786651	Global Metabolomic Profiling of Host Red Blood Cells Infected with Babesia divergens Reveals Novel Antiparasitic Target Pathways.
-36786146	Retrospective Review of Chromane Analogues as Anti-protozoal Leads: A Decade's Worth of Evolution.
