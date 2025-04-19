@@ -1,3 +1,4 @@
+40249735	Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium.
 40248722	Targeting of arachidonic acid-modulated autophagy to enhance the sensitivity of ROS1 (+) or ALK (+) non-small cell lung cancer to crizotinib therapy.
 40248577	[Malaria control in French Guiana: What are the challenges in this last endemic French territory in 2024?].
 40248575	[Submicroscopic Plasmodium spp. Infections in Febrile Patients in Togo].
@@ -9996,4 +9997,3 @@
 36791077	Institutionalization of limited obstetric ultrasound leading to increased antenatal, skilled delivery, and postnatal service utilization in three regions of Ethiopia: A pre-post study.
 36790811	Seroprevalence of Antibodies to SARS-CoV-2 in Rural Households in Eastern Uganda, 2020-2022.
 36790168	Antibodies to repeat-containing antigens in Plasmodium falciparum are exposure-dependent and short-lived in children in natural malaria infections.
-36789658	Rising cases of Dengue and Malaria in Flood Affected Areas of Pakistan: A Major Threat to the Country's Healthcare System.
