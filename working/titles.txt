@@ -1,3 +1,11 @@
+40251568	MALDI-TOF mass spectrometry combined with machine learning algorithms to identify protein profiles related to malaria infection in human sera from Côte d'Ivoire.
+40251559	Daytime and public space exposure to Anopheles funestus bites in Western Province, Zambia: implications for malaria surveillance and control.
+40251537	Pre-referral injectable artesunate and outcomes of childhood severe malaria at a secondary health facility in North-central Nigeria: a cross-sectional study.
+40251530	Estimating the potential impact of surveillance test-and-treat posts to reduce malaria in border regions in sub-Saharan Africa: a modelling study.
+40251402	Optimization of SgRNA expression with RNA pol III regulatory elements in Anopheles stephensi.
+40251382	Fitness compatibility and dengue virus Inhibition in a Bangladeshi strain of Aedes aegypti infected with the Wolbachia strain wAlbB.
+40251276	Distinct evolutionary regimes across domains of the Plasmodium falciparum CSP gene.
+40250762	Association between gestational age specific weight gain in pregnancy and risk of adverse perinatal outcomes: A secondary analysis of the INTERBIO-21(st) Fetal Study.
 40249735	Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium.
 40248722	Targeting of arachidonic acid-modulated autophagy to enhance the sensitivity of ROS1 (+) or ALK (+) non-small cell lung cancer to crizotinib therapy.
 40248577	[Malaria control in French Guiana: What are the challenges in this last endemic French territory in 2024?].
@@ -9989,11 +9997,3 @@
 36792576	A human antibody epitope map of Pfs230D1 derived from analysis of individuals vaccinated with a malaria transmission-blocking vaccine.
 36792575	Potent transmission-blocking monoclonal antibodies from naturally exposed individuals target a conserved epitope on Plasmodium falciparum Pfs230.
 36792574	Highly potent, naturally acquired human monoclonal antibodies against Pfs48/45 block Plasmodium falciparum transmission to mosquitoes.
-36792569	X marks the shot against malaria.
-36792034	A Practical Guide to Adjust Micronutrient Biomarkers for Inflammation Using the BRINDA Method.
-36792022	Artemether-lumefantrine, mefloquine and atovaquone-proguanil in the treatment of uncomplicated Plasmodium falciparum malaria in travellers: A retrospective comparative study of efficacy and treatment failures.
-36791149	Germline protein, Cup, non-cell autonomously limits migratory cell fate in Drosophila oogenesis.
-36791102	Seasonal dynamics of Anopheles stephensi and its implications for mosquito detection and emergent malaria control in the Horn of Africa.
-36791077	Institutionalization of limited obstetric ultrasound leading to increased antenatal, skilled delivery, and postnatal service utilization in three regions of Ethiopia: A pre-post study.
-36790811	Seroprevalence of Antibodies to SARS-CoV-2 in Rural Households in Eastern Uganda, 2020-2022.
-36790168	Antibodies to repeat-containing antigens in Plasmodium falciparum are exposure-dependent and short-lived in children in natural malaria infections.
