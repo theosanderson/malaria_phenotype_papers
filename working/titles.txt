@@ -1,3 +1,7 @@
+40253476	Advances in the recombinase polymerase amplification platform for urogenital schistosomiasis diagnosis (ShDraI-RPA) towards implementation at the point-of-care.
+40253461	Determinants of retinopathy and short-term neurological outcomes after cerebral malaria.
+40253329	Urban malaria in sub-Saharan Africa: a scoping review of epidemiologic studies.
+40252672	Effect of a novel house design (star home) on indoor malaria mosquito abundance in rural Tanzania: secondary outcomes of an open-label, household, randomised controlled trial.
 40251568	MALDI-TOF mass spectrometry combined with machine learning algorithms to identify protein profiles related to malaria infection in human sera from Côte d'Ivoire.
 40251559	Daytime and public space exposure to Anopheles funestus bites in Western Province, Zambia: implications for malaria surveillance and control.
 40251537	Pre-referral injectable artesunate and outcomes of childhood severe malaria at a secondary health facility in North-central Nigeria: a cross-sectional study.
@@ -9993,7 +9997,3 @@
 36793432	Squaramide Tethered Clindamycin, Chloroquine, and Mortiamide Hybrids: Design, Synthesis, and Antimalarial Activity.
 36793009	Cytotoxicity of the methanol extracts and compounds of Brucea antidysenterica (Simaroubaceae) towards multifactorial drug-resistant human cancer cell lines.
 39076603	Strengthening capacity-building in malaria and schistosomiasis control under China-Africa cooperation: Assessing a case study of Burkina Faso.
-36792622	Towards environmental detection, quantification, and molecular characterization of Anopheles stephensi and Aedes aegypti from experimental larval breeding sites.
-36792576	A human antibody epitope map of Pfs230D1 derived from analysis of individuals vaccinated with a malaria transmission-blocking vaccine.
-36792575	Potent transmission-blocking monoclonal antibodies from naturally exposed individuals target a conserved epitope on Plasmodium falciparum Pfs230.
-36792574	Highly potent, naturally acquired human monoclonal antibodies against Pfs48/45 block Plasmodium falciparum transmission to mosquitoes.
