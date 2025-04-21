@@ -1,3 +1,5 @@
+40257726	Advancing Understanding of Cerebrovascular Hemodynamic Perturbations in Pediatric Cerebral Malaria Using a Modified Critical Closing Pressure Evaluation- A Prospective, Observational Study.
+40257030	Innovations in Antimalarial Drug Discovery: New Targets and Leads.
 40256582	First Malaria Vaccine RTS, S: A Step toward the Eradication of Malaria.
 40255466	An eco-epidemiological model for malaria with Microsporidia MB as bio-control agent.
 40255344	Mapping residual malaria transmission in Vietnam.
@@ -9995,5 +9997,3 @@
 36795503	Arthropod-borne diseases among travellers arriving in Europe from Africa, 2015 to 2019.
 36795314	Thrombotic microangiopathy after kidney transplantation: lessons from a transplant tourist.
 36795050	Characterizing the Blood-Stage Antimalarial Activity of Tafenoquine in Healthy Volunteers Experimentally Infected With Plasmodium falciparum.
-36794679	The Antimalarial Activity of Tafenoquine in Falciparum Malaria.
-36793714	Editorial: Puzzle pieces from malaria vaccine clinical trials.
