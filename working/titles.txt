@@ -1,3 +1,7 @@
+40261423	Formononetin exerts synergistic action with artesunate against multi-drug-resistant P. falciparum arresting ring-to-schizont transition by inducing reactive oxygen species.
+40261068	Gametocyte production and transmission fitness of African and Asian Plasmodium falciparum isolates with differential susceptibility to artemisinins.
+40260906	OMIP-114: A 36-Color Spectral Flow Cytometry Panel for Detailed Analysis of T Cell Activation and Regulation in Small Human Blood Volumes.
+40260847	Incident Stroke in Pediatric Sickle Cell Anemia Despite Overall Improved Transcranial Doppler Velocity in a Ugandan Hydroxyurea Trial: Antecedent and Ongoing Risks.
 40260409	Determinants of Insecticide-Treated Net Utilization for Malaria Prevention Among Under-Five Children in The Gambia: Evidence From National Survey.
 40260212	Neuroprotective and antimalarial effects of Juglans regia leaf extracts in a murine model of cerebral malaria.
 40259380	Does washing insecticide-treated nets 20 times for experimental hut evaluations provide a suitable proxy for their end-of-life performance under household conditions?
@@ -9993,7 +9997,3 @@
 36802396	Adherence to the test, treat and track strategy for malaria control among prescribers, Mfantseman Municipality, Central Region, Ghana.
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
 36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
-36800986	Malaria amongst children under five in sub-Saharan Africa: a scoping review of prevalence, risk factors and preventive interventions.
-36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
-36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
-36799808	What is the role of autoantibodies in post-artesunate delayed hemolysis?
