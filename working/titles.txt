@@ -1,3 +1,5 @@
+40260409	Determinants of Insecticide-Treated Net Utilization for Malaria Prevention Among Under-Five Children in The Gambia: Evidence From National Survey.
+40260212	Neuroprotective and antimalarial effects of Juglans regia leaf extracts in a murine model of cerebral malaria.
 40259380	Does washing insecticide-treated nets 20 times for experimental hut evaluations provide a suitable proxy for their end-of-life performance under household conditions?
 40259337	Risk factors associated with pain episodes among sickle cell patients that visited Mulago National Referral Hospital-Uganda.
 40259187	The Role of Medical Mistrust in Vaccination Decisions in Rural, Indigenous Namibian Communities.
@@ -9995,5 +9997,3 @@
 36800498	Structures of Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT) Isoforms and Their Interactions with Chloroquine.
 36799842	Recently outbreak of malaria in current world: species, etiology, life cycle, transmission, symptoms, vaccination, diagnostic tests, treatment, and complications.
 36799808	What is the role of autoantibodies in post-artesunate delayed hemolysis?
-36799121	Using a Bioactive Eremophila-Derived Serrulatane Scaffold to Generate a Unique Carbamate Library for Anti-infective Evaluations.
-36798510	Diversity, distribution, and methodological considerations of haemosporidian infections among Galliformes in Alaska.
