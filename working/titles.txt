@@ -1,3 +1,10 @@
+40259380	Does washing insecticide-treated nets 20 times for experimental hut evaluations provide a suitable proxy for their end-of-life performance under household conditions?
+40259337	Risk factors associated with pain episodes among sickle cell patients that visited Mulago National Referral Hospital-Uganda.
+40259187	The Role of Medical Mistrust in Vaccination Decisions in Rural, Indigenous Namibian Communities.
+40258976	Spatial regulation of chrysosplenetin on amino acid homeostasis linked to artemisinin resistance in Plasmodium berghei K173 based on targeted metabolomics.
+40258934	Nanofiber encapsulation of Pseudomonas aeruginosa for the sustained release of mosquito larvicides.
+40258711	Insecticide-treated nets distribution campaign: Physical integrity, usage and sustainable disposal of end-of-life insecticide-treated nets under operational settings in Odisha, India.
+40258635	Lessons learned from the COVID-19 pandemic: opportunities and challenges to leverage investments in HIV, tuberculosis and malaria for pandemic preparedness and response.
 40258307	Antiparasitic activity of Eryngium bourgatii Gouan: Fractionation and isolation of constituents from roots and aerial parts.
 40258055	Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data.
 40257942	Metahemoglobinemia secundaria al uso de primaquina en un caso pediátrico de malaria.
@@ -9990,10 +9997,3 @@
 36799808	What is the role of autoantibodies in post-artesunate delayed hemolysis?
 36799121	Using a Bioactive Eremophila-Derived Serrulatane Scaffold to Generate a Unique Carbamate Library for Anti-infective Evaluations.
 36798510	Diversity, distribution, and methodological considerations of haemosporidian infections among Galliformes in Alaska.
-36798298	Transmissibility of clinically relevant atovaquone-resistant Plasmodium falciparum by anopheline mosquitoes.
-36798264	Ex vivo RSA and Pfkelch13 targeted-amplicon deep sequencing reveal parasites susceptibility to artemisinin in Senegal, 2017.
-36798251	Seroreversion to Chlamydia trachomatis Pgp3 antigen among children in a hyperendemic region of Amhara, Ethiopia.
-36798191	Plasmodium ARK2-EB1 axis drives the unconventional spindle dynamics, scaffold formation and chromosome segregation of sexual transmission stages.
-38516334	Exploring how space, time, and sampling impact our ability to measure genetic structure across Plasmodium falciparum populations.
-36797290	Native structure of mosquito salivary protein uncovers domains relevant to pathogen transmission.
-36795547	Malaria in Children: Updates on Management and Prevention.
