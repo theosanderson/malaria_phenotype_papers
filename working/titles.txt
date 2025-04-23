@@ -1,3 +1,5 @@
+40264637	Health Service-Related Determinants of Health-Seeking Behavior during Malaria Fever in a High-Risk Region of Nepal.
+40264146	Decline in malaria test positivity rates following capacity building and archiving of malaria rapid diagnostic test cassettes in Oyo State, Nigeria: a retrospective review of records.
 40263419	Computer aided study on cyclic tetrapeptide based ligands as potential inhibitors of Proplasmepsin IV.
 40263231	Advancing antimalarial drug discovery: ensemble machine learning models for predicting PfPK6 inhibitor activity.
 40263027	Potential and pitfalls of using identity-by-descent for malaria genomic surveillance.
@@ -9995,5 +9997,3 @@
 36807538	Metabolic engineering of the anthocyanin biosynthetic pathway in Artemisia annua and relation to the expression of the artemisinin biosynthetic pathway.
 36806491	Spatial and Temporal Diversity Variation in the Anopheles Communities in Malaria-Endemic Regions of Colombia.
 36805693	How Zambia reduced inequalities in under-five mortality rates over the last two decades: a mixed-methods study.
-36805673	PCR-RFLP assays for the identification of Anopheles (Diptera: Culicidae) species circulating in Honduras.
-36805620	Development and comparative evaluation of SARS-CoV-2 S-RBD and N based ELISA tests in various African endemic settings.
