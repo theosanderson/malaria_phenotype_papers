@@ -76,6 +76,7 @@
 40237051	Ab-initio Molecular Dynamics and Density Functional Theory Study of Amodiaquine Analogues as Potential Inhibitors of β-haematin Crystallization.
 40236626	Genetic diversity of Plasmodium falciparum in people living with HIV in Ogbomoso, Nigeria: Implications for malaria transmission and treatment.
 40236429	Towards an open analysis ecosystem for Plasmodium genomic epidemiology.
+40236427	Age-specific immunity to rotavirus infection and the risk of disease before and after rotavirus vaccine introduction in the United Kingdom: an observational, seroepidemiological study.
 40236408	Understudied anophelines may sustain residual transmission during the dry season in a pre-elimination setting in southern Zambia.
 40236387	Very low prevalence of validated kelch13 mutations and absence of hrp2/3 double gene deletions in South African malaria-eliminating districts (2022-2024).
 40236022	Genetic surveillance of Plasmodium-Anopheles compatibility markers during Anopheles stephensi associated malaria outbreak.
@@ -9996,4 +9997,3 @@
 36802523	Pyrido-Dibemequine Metabolites Exhibit Improved Druglike Features, Inhibit Hemozoin Formation in Plasmodium falciparum, and Synergize with Clinical Antimalarials.
 36802396	Adherence to the test, treat and track strategy for malaria control among prescribers, Mfantseman Municipality, Central Region, Ghana.
 36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
-36801374	The effect of interleukin-6 signaling on severe malaria: A Mendelian randomization analysis.
