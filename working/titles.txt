@@ -1,3 +1,7 @@
+40266201	The 2024 Annual Meeting of the Essential Programmes on Immunization Managers in Central Africa: A Peer Learning Platform.
+40266105	Navigating the Road to Immunization Equity: Systematic Review of Challenges in Introducing New Vaccines into Sub-Saharan Africa's Health Systems.
+40265952	Plasmodium falciparum Kelch-13 artemisinin partial resistance markers in Fort Portal, Western Uganda, 2024.
+40265614	The effect of environment and in utero HIV exposure on neurodevelopment in infants.
 40264637	Health Service-Related Determinants of Health-Seeking Behavior during Malaria Fever in a High-Risk Region of Nepal.
 40264146	Decline in malaria test positivity rates following capacity building and archiving of malaria rapid diagnostic test cassettes in Oyo State, Nigeria: a retrospective review of records.
 40263419	Computer aided study on cyclic tetrapeptide based ligands as potential inhibitors of Proplasmepsin IV.
@@ -9993,7 +9997,3 @@
 36809473	Coronavirus Disease 2019 Convalescent Plasma Outpatient Therapy to Prevent Outpatient Hospitalization: A Meta-Analysis of Individual Participant Data From 5 Randomized Trials.
 36809247	Health worker compliance with severe malaria treatment guidelines in the context of implementing pre-referral rectal artesunate in the Democratic Republic of the Congo, Nigeria, and Uganda: An operational study.
 36808528	A genome-wide map of DNA replication at single-molecule resolution in the malaria parasite Plasmodium falciparum.
-36808125	Design of a stabilized non-glycosylated Pfs48/45 antigen enables a potent malaria transmission-blocking nanoparticle vaccine.
-36807538	Metabolic engineering of the anthocyanin biosynthetic pathway in Artemisia annua and relation to the expression of the artemisinin biosynthetic pathway.
-36806491	Spatial and Temporal Diversity Variation in the Anopheles Communities in Malaria-Endemic Regions of Colombia.
-36805693	How Zambia reduced inequalities in under-five mortality rates over the last two decades: a mixed-methods study.
