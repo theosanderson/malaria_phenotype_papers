@@ -1,3 +1,17 @@
+40263419	Computer aided study on cyclic tetrapeptide based ligands as potential inhibitors of Proplasmepsin IV.
+40263231	Advancing antimalarial drug discovery: ensemble machine learning models for predicting PfPK6 inhibitor activity.
+40263027	Potential and pitfalls of using identity-by-descent for malaria genomic surveillance.
+40263025	Liver-stage malaria transcriptomes: what you don't know can kill you.
+40262841	Stratified vector control and proactive cross border collaboration for sustaining malaria elimination in Yunnan, China.
+40262840	Learning from China's journey to achieve malaria elimination.
+40262839	Anopheles larval control deserves a greater priority: lessons in malaria elimination from China.
+40262832	Stratified sustainable vector control strategies and measures for malaria control and elimination in China: a 70 year journey.
+40262830	Lessons from failure to success on malaria elimination in the Huai River Basin in China.
+40262817	Long term monitoring and adaptive strategies: lessons from Hainan's malaria elimination and prevention efforts.
+40262604	Program Evaluation of Community Case Management with Reactive Test and Treat for Malaria in a High-Transmission Setting.
+40262572	Application of a Weighted Absolute Percentage Error-Based Method for Calculating the Aggregate Accuracy of Reported Malaria Surveillance Data.
+40262570	Associations between Organ Dysfunction Scoring Systems and Dysregulated Host Responses in Adults with Severe Infection in Uganda: A Prospective Cohort Study.
+40262567	CCM and RTAT Malaria Interventions.
 40261423	Formononetin exerts synergistic action with artesunate against multi-drug-resistant P. falciparum arresting ring-to-schizont transition by inducing reactive oxygen species.
 40261068	Gametocyte production and transmission fitness of African and Asian Plasmodium falciparum isolates with differential susceptibility to artemisinins.
 40260906	OMIP-114: A 36-Color Spectral Flow Cytometry Panel for Detailed Analysis of T Cell Activation and Regulation in Small Human Blood Volumes.
@@ -9983,17 +9997,3 @@
 36805693	How Zambia reduced inequalities in under-five mortality rates over the last two decades: a mixed-methods study.
 36805673	PCR-RFLP assays for the identification of Anopheles (Diptera: Culicidae) species circulating in Honduras.
 36805620	Development and comparative evaluation of SARS-CoV-2 S-RBD and N based ELISA tests in various African endemic settings.
-36805325	In-hospital mortality risk stratification in children aged under 5 years with pneumonia with or without pulse oximetry: A secondary analysis of the Pneumonia REsearch Partnership to Assess WHO REcommendations (PREPARE) dataset.
-36804959	Interplay between liver and blood stages of Plasmodium infection dictates malaria severity via γδ T cells and IL-17-promoted stress erythropoiesis.
-36804382	Genomic framework for malaria parasites: challenging but necessary.
-36803987	Status of malaria in pregnancy services in Madagascar 2010-2021: a scoping review.
-36803897	Meeting Summary: Global Vaccine and Immunization Research Forum, 2021.
-36803871	A novel high throughput plate-based method for 2-PE quantification in novel multidose vaccines (R21 malaria, Covishield and Covovax) and combination vaccines (Hexavalent).
-36803858	Malaria in pregnancy (MiP) studies assessing the clinical performance of highly sensitive rapid diagnostic tests (HS-RDT) for Plasmodium falciparum detection.
-36803572	Drug discovery for parasitic diseases: powered by technology, enabled by pharmacology, informed by clinical science.
-36803541	Assessment of artemisinin tolerance in Plasmodium falciparum clinical isolates in children with uncomplicated malaria in Ghana.
-36803441	Imported diseases in travellers presenting to the emergency department after a stay in a malaria-endemic country: a retrospective observational study.
-36803018	Glucose 6 phosphate dehydrogenase deficiency quantitative test in dried blood spot- a potential marker for adult unknown G6PD deficiency.
-36802523	Pyrido-Dibemequine Metabolites Exhibit Improved Druglike Features, Inhibit Hemozoin Formation in Plasmodium falciparum, and Synergize with Clinical Antimalarials.
-36802396	Adherence to the test, treat and track strategy for malaria control among prescribers, Mfantseman Municipality, Central Region, Ghana.
-36801925	Portable and cost-effective genetic detection and characterization of Plasmodium falciparum hrp2 using the MinION sequencer.
