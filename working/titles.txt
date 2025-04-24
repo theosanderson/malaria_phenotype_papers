@@ -1,3 +1,6 @@
+40268761	USAID's Role in Saving Children's Lives: Past Legacy and Future Directions.
+40268600	Holding hands to halt malaria: stronger together through heterotypic antibody interactions.
+40267640	Quinine-chalcone hybrids as potent inhibitors of P-glycoprotein with apoptotic effects on EBC-1 cells.
 40267394	Regulatory T cell memory: implications for malaria.
 40267218	FcγR binding differentially contributes to protection by two human monoclonal antibodies targeting Plasmodium falciparum circumsporozoite protein.
 40266808	Screening the Resistance of Male Aedes aegypti and Anopheles coluzzii to Insecticides in the Context of Using Genetic Control Tools in Burkina Faso.
@@ -9994,6 +9997,3 @@
 36812492	Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4.
 36812293	An in silico quest for next-generation antimalarial drugs by targeting Plasmodium falciparum hexose transporter protein: a multi-pronged approach.
 36812236	Effects of anti-malarial prophylaxes on maternal transfer of Immunoglobulin-G (IgG) and association to immunity against Plasmodium falciparum infections among children in a Ugandan birth cohort.
-36811628	Factors associated with delay in seeking healthcare for imported malaria: a retrospective study in a French hospital.
-36810640	MosChito rafts as effective and eco-friendly tool for the delivery of a Bacillus thuringiensis-based insecticide to Aedes albopictus larvae.
-36810637	A non-canonical sensing pathway mediates Plasmodium adaptation to amino acid deficiency.
