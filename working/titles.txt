@@ -1,3 +1,8 @@
+40270325	Placental and Cord Blood DNA Methylation Changes Associated With Gestational Diabetes Mellitus in a Marginalized Population: The Untold Role of Saturated Fats.
+40270077	Ethnobotanical study of plants used for traditional control of mosquitoes and other arthropod pests in the Ghibe valley, southwest Ethiopia.
+40270022	Plasmodium cynomolgi: potential emergence of new zoonotic malaria in Southeast Asia.
+40269892	Off-grid field-deployable molecular diagnostic platform for malaria surveillance.
+40269836	Enhancing safety of rapid and accurate malaria diagnosis in patients at risk for viral haemorrhagic fever.
 40268761	USAID's Role in Saving Children's Lives: Past Legacy and Future Directions.
 40268600	Holding hands to halt malaria: stronger together through heterotypic antibody interactions.
 40267640	Quinine-chalcone hybrids as potent inhibitors of P-glycoprotein with apoptotic effects on EBC-1 cells.
@@ -9992,8 +9997,3 @@
 36814301	A non-randomized controlled trial to assess the protective effect of SMC in the context of high parasite resistance in Uganda.
 36814250	International border malaria transmission in the Ethiopian district of Lare, Gambella region: implications for malaria spread into South Sudan.
 36812625	The use of video job-aids to improve the quality of seasonal malaria chemoprevention delivery.
-36812544	The potential of digital molecular diagnostics for infectious diseases in sub-Saharan Africa.
-36812503	Real-time, spatial decision support to optimize malaria vector control: The case of indoor residual spraying on Bioko Island, Equatorial Guinea.
-36812492	Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4.
-36812293	An in silico quest for next-generation antimalarial drugs by targeting Plasmodium falciparum hexose transporter protein: a multi-pronged approach.
-36812236	Effects of anti-malarial prophylaxes on maternal transfer of Immunoglobulin-G (IgG) and association to immunity against Plasmodium falciparum infections among children in a Ugandan birth cohort.
