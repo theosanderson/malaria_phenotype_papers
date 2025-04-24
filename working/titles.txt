@@ -1,3 +1,5 @@
+40272573	Mothers and mosquitoes: climate change contributes to the spread of vector-borne pathogens posing a substantial threat to pregnant women.
+40270756	Prevention and control of schistosomiasis in the Philippines from a health education perspective.
 40270325	Placental and Cord Blood DNA Methylation Changes Associated With Gestational Diabetes Mellitus in a Marginalized Population: The Untold Role of Saturated Fats.
 40270077	Ethnobotanical study of plants used for traditional control of mosquitoes and other arthropod pests in the Ghibe valley, southwest Ethiopia.
 40270022	Plasmodium cynomolgi: potential emergence of new zoonotic malaria in Southeast Asia.
@@ -224,6 +226,7 @@
 40196676	A systematic review of climate-change driven range shifts in mosquito vectors.
 40196582	PTRAMP, CSS and Ripr form a conserved complex required for merozoite invasion of Plasmodium species into erythrocytes.
 40196515	The origin, invasion history and resistance architecture of Anopheles stephensi in Africa.
+40196468	Lutzomyia longipalpis salivary proteins elicit human innate and adaptive immune responses detrimental to Leishmania parasites.
 40196244	Distribution of non-falciparum malaria among symptomatic malaria patients in Dschang, West Region of Cameroon.
 40196243	A Probabilistic Synthesis of Malaria Epidemiology: Exposure, Infection, Parasite Densities, and Detection.
 40195356	The mosquitocidal activity of isoxazoline derivatives afoxolaner, lotilaner, and fluralaner are not affected by mosquito sugar or antibiotic treatment.
@@ -312,7 +315,7 @@
 40162260	Highly multiplex molecular inversion probe panel in Plasmodium falciparum targeting common SNPs approximates whole genome sequencing assessments for selection and relatedness.
 40162245	Cambodian Plasmodium vivax parasites with reduced hemoglobin digestion display delayed clearance upon artesunate treatment.
 40162126	Sex of household head and trends in uptake of sulfadoxine-pyrimethamine intermittent preventive treatment for malaria during pregnancy: insights from secondary data in sub-Saharan Africa.
-40161849	Population genomics of Anopheles darlingi , the principal South American malaria vector mosquito.
+40161849	Population genomics of Anopheles darlingi, the principal South American malaria vector mosquito.
 40161781	Suspension physics govern the multiscale dynamics of blood flow in sickle cell disease.
 40161752	A Conditional Cas9 System for Stage-Specific Gene Editing in P. falciparum.
 40161381	Evaluating the technical feasibility of serological testing and treatment for Plasmodium vivax in mobile at-risk of malaria Cambodian populations.
@@ -9994,6 +9997,3 @@
 36815176	[Anopheles gambiae s.l. larval habitats and resistance mechanisms in Kribi, Cameroon].
 36815059	Antimicrobial use among paediatric inpatients in a Nigerian tertiary hospital: A three-year point prevalence survey.
 36814437	Individual and Contextual Factors Associated With Malaria Among Children 6-59 Months in Burkina Faso.
-36814301	A non-randomized controlled trial to assess the protective effect of SMC in the context of high parasite resistance in Uganda.
-36814250	International border malaria transmission in the Ethiopian district of Lare, Gambella region: implications for malaria spread into South Sudan.
-36812625	The use of video job-aids to improve the quality of seasonal malaria chemoprevention delivery.
