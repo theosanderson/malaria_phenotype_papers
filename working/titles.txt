@@ -1,3 +1,6 @@
+40276557	Prevalence and Health System Determinants Of Uptake Of Three Or More Doses Of Sulphadoxine Pyrimethamine For Intermittent Preventive Treatment Of Malaria During Pregnancy.
+40276411	Contribution to the Cross-Border Public Health of Mosquito Control Programs Applied in Evros Prefecture, Greece (2015-2018).
+40275545	The Owl Monkey (Aotus spp.) as an Animal Research Model-Part 1: Taxonomy, Geographic Distribution, Anatomy, and Behavior.
 40275318	When health data go dark: the importance of the DHS Program and imagining its future.
 40275316	Correction: Understanding malaria treatment patronage from informal healthcare providers in Nigerian urban settlements: insights from community members and providers.
 40275018	Host biomarkers and parasite biomass are associated with severe malaria in Mozambican children: a case-control study.
@@ -312,6 +315,7 @@
 40166801	Prevalence of malaria and Schistosoma mansoni coinfection in sub Saharan Africa: A systematic review and meta-analysis.
 40166253	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos while reducing their lifespan and malaria parasite burden.
 40165925	Spatiotemporal Analysis of the Distribution of Waterborne Diseases in Children Under 5 Years of Age From 2018 to 2022 in the Lemba Health Zone in Kinshasa, DR Congo: A Retrospective and Observational Analysis.
+40165463	Sealgamide: An Antitrypanosomal Lipopeptide Isolated from a Marine Okeania sp. Cyanobacterium.
 40164958	Temporal Patterns of Haplotypic and Allelic Diversity Reflect the Changing Selection Landscape of the Malaria Parasite Plasmodium falciparum.
 40164831	Parasite and vector circadian clocks mediate efficient malaria transmission.
 40163813	The genetic trail of the invasive mosquito species Aedes koreicus from the east to the west of Northern Italy.
@@ -9993,7 +9997,3 @@
 36824743	Direct long read visualization reveals metabolic interplay between two antimalarial drug targets.
 36824555	Silent Bowels From a Silent Bite: A Rare Case of Paralytic Ileus Complicating Plasmodium falciparum Infection.
 36823600	Public health determinants of child malaria mortality: a surveillance study within Siaya County, Western Kenya.
-36823266	Assessment of the drugability of initial malaria infection through miniaturized sporozoite assays and high-throughput screening.
-36823144	Malaria-driven adaptation of MHC class I in wild bonobo populations.
-36822514	A simple alkali lysis method for Plasmodium falciparum DNA extraction from filter paper blood samples.
-36821622	Prediction of improved antimalarial chemotherapy of artesunate-mefloquine in combination with mefloquine sensitive and resistant Plasmodium falciparum malaria.
