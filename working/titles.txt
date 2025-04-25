@@ -1,3 +1,10 @@
+40278782	Phylogeographic Patterns and Genetic Diversity of Anopheles stephensi: Implications for Global Malaria Transmission.
+40278767	Combating Malaria: Targeting the Ubiquitin-Proteasome System to Conquer Drug Resistance.
+40278765	Baseline Seroprevalence of Arboviruses in Liberia Using a Multiplex IgG Immunoassay.
+40278762	A Narrative Review on the Prevalence of Plasmodium falciparum Resistance Mutations to Antimalarial Drugs in Rwanda.
+40278599	Oviposition Deterrence and Larvicidal Activity of Propyl Ether Dillapiole and Piperidyl Dillapiole Against Aedes (Stegomyia) aegypti (Diptera: Culicidae).
+40278292	Recent Advances in Research on Inhibitory Effects of Seaweed Extracts Against Parasites.
+40277833	Correlation of Inflammatory Biomarkers and IgG4 Antibodies with Malaria in Cameroon's Buea Municipality Children.
 40276557	Prevalence and Health System Determinants Of Uptake Of Three Or More Doses Of Sulphadoxine Pyrimethamine For Intermittent Preventive Treatment Of Malaria During Pregnancy.
 40276411	Contribution to the Cross-Border Public Health of Mosquito Control Programs Applied in Evros Prefecture, Greece (2015-2018).
 40275545	The Owl Monkey (Aotus spp.) as an Animal Research Model-Part 1: Taxonomy, Geographic Distribution, Anatomy, and Behavior.
@@ -9990,10 +9997,3 @@
 36827107	Salt-Tolerant Plants as Sources of Antiparasitic Agents for Human Use: A Comprehensive Review.
 36825701	Parasite Metalo-aminopeptidases as Targets in Human Infectious Diseases.
 36825129	The impact of faith-based organizations on maternal and child health care outcomes in Africa: taking stock of research evidence.
-36824972	Monitoring transmission intensity of trachoma with serology.
-36824880	An Optimized GATK4 Pipeline for Plasmodium falciparum Whole Genome Sequencing Variant Calling and Analysis.
-36824860	Early Treatment, Inflammation and Post-COVID Conditions.
-36824754	Comparative transcriptomics reveal differential gene expression in Plasmodium vivax geographical isolates and implications on erythrocyte invasion mechanisms.
-36824743	Direct long read visualization reveals metabolic interplay between two antimalarial drug targets.
-36824555	Silent Bowels From a Silent Bite: A Rare Case of Paralytic Ileus Complicating Plasmodium falciparum Infection.
-36823600	Public health determinants of child malaria mortality: a surveillance study within Siaya County, Western Kenya.
