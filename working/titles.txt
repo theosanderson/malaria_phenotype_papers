@@ -1,3 +1,5 @@
+40273186	The cost-effectiveness of interventions used for the screening, diagnosis and management of anaemia in pregnancy: A systematic review.
+40273149	A decline in the coverage and utilization of long-lasting insecticidal nets in Southern Ethiopia: A repeated cross-sectional study.
 40272573	Mothers and mosquitoes: climate change contributes to the spread of vector-borne pathogens posing a substantial threat to pregnant women.
 40270756	Prevention and control of schistosomiasis in the Philippines from a health education perspective.
 40270325	Placental and Cord Blood DNA Methylation Changes Associated With Gestational Diabetes Mellitus in a Marginalized Population: The Untold Role of Saturated Fats.
@@ -9995,5 +9997,3 @@
 36815641	Effects of Active Compounds of Nigella sativa in COVID-19: A Narrative Review.
 36815177	[Neuromeningeal cryptococcosis in an HIV-negative patient with pulmonary tuberculosis in the Infectious and tropical diseases department of the University teaching hospital Point G of Bamako, Mali].
 36815176	[Anopheles gambiae s.l. larval habitats and resistance mechanisms in Kribi, Cameroon].
-36815059	Antimicrobial use among paediatric inpatients in a Nigerian tertiary hospital: A three-year point prevalence survey.
-36814437	Individual and Contextual Factors Associated With Malaria Among Children 6-59 Months in Burkina Faso.
