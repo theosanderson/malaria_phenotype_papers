@@ -1,3 +1,12 @@
+40275318	When health data go dark: the importance of the DHS Program and imagining its future.
+40275316	Correction: Understanding malaria treatment patronage from informal healthcare providers in Nigerian urban settlements: insights from community members and providers.
+40275018	Host biomarkers and parasite biomass are associated with severe malaria in Mozambican children: a case-control study.
+40274861	Detection of a sympatric cryptic species mimicking Aedes albopictus (Diptera: Culicidae) in dengue and Chikungunya endemic forest villages of Tripura, India, posing a daunting challenge for vector research.
+40274854	A CRISPR homing screen finds a chloroquine resistance transporter-like protein of the Plasmodium oocyst essential for mosquito transmission of malaria.
+40274841	PfRH5 vaccine; from the bench to the vial.
+40274683	Acral necrosis in a 62-year-old female after travelling to Equatorial Guinea.
+40274531	Performance of a novel P. falciparum rapid diagnostic test in areas of widespread hrp2/3 gene deletion.
+40274286	Prospective observational study to assess the feasibility and safety of appropriate Plasmodium vivax radical cure with tafenoquine or primaquine after quantitative G6PD testing during pilot implementation in Thailand.
 40273186	The cost-effectiveness of interventions used for the screening, diagnosis and management of anaemia in pregnancy: A systematic review.
 40273149	A decline in the coverage and utilization of long-lasting insecticidal nets in Southern Ethiopia: A repeated cross-sectional study.
 40272573	Mothers and mosquitoes: climate change contributes to the spread of vector-borne pathogens posing a substantial threat to pregnant women.
@@ -9988,12 +9997,3 @@
 36823144	Malaria-driven adaptation of MHC class I in wild bonobo populations.
 36822514	A simple alkali lysis method for Plasmodium falciparum DNA extraction from filter paper blood samples.
 36821622	Prediction of improved antimalarial chemotherapy of artesunate-mefloquine in combination with mefloquine sensitive and resistant Plasmodium falciparum malaria.
-36821467	Joint distribution of child mortality and wealth across 30 sub-Saharan African countries over 2000-2019.
-36820809	The enemy within: lipid asymmetry in intracellular parasite-host interactions.
-36820149	In Vitro Antiplasmodial, Cytotoxicity, and Antioxidant Activities of Lophira lanceolata (Ochnaceae): A Cameroonian Plant Commonly Used to Treat Malaria.
-36818806	A Retrospective Study on the Burden of Malaria in Northeastern Ethiopia from 2015 to 2020: Implications for Pandemic Preparedness.
-36816715	[International travels with children].
-36816585	Microwaves can kill malaria parasites non-thermally.
-36815641	Effects of Active Compounds of Nigella sativa in COVID-19: A Narrative Review.
-36815177	[Neuromeningeal cryptococcosis in an HIV-negative patient with pulmonary tuberculosis in the Infectious and tropical diseases department of the University teaching hospital Point G of Bamako, Mali].
-36815176	[Anopheles gambiae s.l. larval habitats and resistance mechanisms in Kribi, Cameroon].
