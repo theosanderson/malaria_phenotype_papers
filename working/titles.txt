@@ -1,3 +1,5 @@
+40279404	Clone tracking through repeated malaria identifies high-fidelity memory CD4 T cell responses.
+40279316	Exploration of the pattern, clinical presentation and outcome of children with renal diseases: A 14-year retrospective study at a teaching hospital in Ghana.
 40278782	Phylogeographic Patterns and Genetic Diversity of Anopheles stephensi: Implications for Global Malaria Transmission.
 40278767	Combating Malaria: Targeting the Ubiquitin-Proteasome System to Conquer Drug Resistance.
 40278765	Baseline Seroprevalence of Arboviruses in Liberia Using a Multiplex IgG Immunoassay.
@@ -9995,5 +9997,3 @@
 36827158	Phytochemical Investigation of Three Cystoseira Species and Their Larvicidal Activity Supported with In Silico Studies.
 36827135	Isolation and Characterization of NpCI, a New Metallocarboxypeptidase Inhibitor from the Marine Snail Nerita peloronta with Anti-Plasmodium falciparum Activity.
 36827107	Salt-Tolerant Plants as Sources of Antiparasitic Agents for Human Use: A Comprehensive Review.
-36825701	Parasite Metalo-aminopeptidases as Targets in Human Infectious Diseases.
-36825129	The impact of faith-based organizations on maternal and child health care outcomes in Africa: taking stock of research evidence.
