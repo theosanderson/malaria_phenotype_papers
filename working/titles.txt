@@ -360,7 +360,7 @@
 40155111	Advancing maternal and perinatal health through clinical trials: key insights from a WHO global consultation.
 40155089	Recent advances in chemistry, biochemistry, and nutrition of dates palm fruit (Phoenix dactylifera L.) cultivars.
 40154969	Health system effectiveness of symptomatic malaria case management in Papua New Guinea.
-40154619	Artesunate enhances the efficacy of Enzalutamide in advanced prostate cancer.
+40154619	Artesunate enhances the efficacy of enzalutamide in advanced prostate cancer.
 40154019	The roles of vitamin C in infectious diseases: A comprehensive review.
 40153391	Parasitaemia and fever in uncomplicated Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis.
 40153171	An Overview of Isavuconazole Clinical Use: A Multicentre Analysis of Indications, Exposure and Hepatic Safety.
