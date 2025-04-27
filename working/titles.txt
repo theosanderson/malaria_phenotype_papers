@@ -1,3 +1,8 @@
+40287078	Plasmodium falciparum genetic diversity and multiplicity of infection in northern and southern Ghana assessed by amplicon sequencing.
+40286894	Longitudinal population analysis of Plasmodium falciparum apical membrane antigen-1 in Indian field isolates.
+40286803	Safety and efficacy of single-dose primaquine to interrupt Plasmodium falciparum malaria transmission in children compared with adults: a systematic review and individual patient data meta-analysis.
+40286802	The effect of disease transmission on time-aggregated treatment efficacy estimates: a critical analysis of factors influencing the RTS,S and R21 malaria vaccine phase 3 trials.
+40286801	Balancing safety and efficacy: new insights on primaquine for malaria transmission blocking.
 40285393	Plasmodium berghei Radiation-Attenuated Sporozoite-Immunized Mice Require Infectious Sporozoite Challenge to Maintain Protective Immunity.
 40284697	Molecular Identification of Anopheles (Diptera: Culicidae) Species in Native Communities of a Northeastern Region of Peru.
 40284563	Current Risks and Prevention Strategies Against Vector-Borne Diseases in Cyprus.
@@ -9992,8 +9997,3 @@
 36835685	Insecticides for Mosquito Control: Improving and Validating Methods to Strengthen the Evidence Base.
 36835678	DNA Barcoding of Morphologically Characterized Mosquitoes Belonging to the Genus Mansonia from the Atlantic Forest and Brazilian Savanna.
 36835023	Towards Arginase Inhibition: Hybrid SAR Protocol for Property Mapping of Chlorinated N-arylcinnamamides.
-36834793	Human Cytochrome P450 1, 2, 3 Families as Pharmacogenes with Emphases on Their Antimalarial and Antituberculosis Drugs and Prevalent African Alleles.
-36834443	WebGIS-Based Real-Time Surveillance and Response System for Vector-Borne Infectious Diseases.
-36834293	Species Composition, Seasonal Abundance, and Biting Behavior of Malaria Vectors in Rural Conhane Village, Southern Mozambique.
-36833980	Web Geographic Information System: A Support Tool for the Study, Evaluation, and Monitoring of Foci of Malaria Transmission in Mexico.
-36833271	High Levels of Diversity in Anopheles Subgenus Kerteszia Revealed by Species Delimitation Analyses.
