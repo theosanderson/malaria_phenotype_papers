@@ -1,3 +1,21 @@
+40285393	Plasmodium berghei Radiation-Attenuated Sporozoite-Immunized Mice Require Infectious Sporozoite Challenge to Maintain Protective Immunity.
+40284697	Molecular Identification of Anopheles (Diptera: Culicidae) Species in Native Communities of a Northeastern Region of Peru.
+40284563	Current Risks and Prevention Strategies Against Vector-Borne Diseases in Cyprus.
+40283815	Modelling an Optimal Climate-Driven Malaria Transmission Control Strategy to Optimise the Management of Malaria in Mberengwa District, Zimbabwe: A Multi-Method Study Protocol.
+40283058	Alterations in von Willebrand Factor Levels in Patients with Malaria: A Systematic Review and Meta-Analysis of Disease Severity.
+40282967	A Systematic Review and Meta-Analysis of MIP-1α and MIP-1β Chemokines in Malaria in Relation to Disease Severity.
+40282392	GC Content in Nuclear-Encoded Genes and Effective Number of Codons (ENC) Are Positively Correlated in AT-Rich Species and Negatively Correlated in GC-Rich Species.
+40281603	Malaria mortality in Brazil: an age-period cohort study.
+40281409	Evaluation of different ecological regions for cultivation of best quality Bupleurum: a case study from Shanxi, China.
+40281042	CSP ubiquitylation favours Plasmodium berghei survival during early liver stage infection.
+40280999	Assessing insecticide susceptibility status of Anopheles mosquitoes in Gondar zuria district, Northwest Ethiopia.
+40280899	A suppression-modification gene drive for malaria control targeting the ultra-conserved RNA gene mir-184.
+40280604	A cross-sectional study assessing mercury exposure and poisoning among workers in informal gold mines in French Guiana.
+40280600	Malaria is poised for a devastating comeback in Africa's "worst moment in 25 years".
+40280145	Aetiologies, neuroradiological features, and risk factors for mortality and long-term neurosequelae of febrile coma in Malawian children: a prospective cohort study.
+40280144	The aetiologies, mortality, and disability of non-traumatic coma in African children: a systematic review and meta-analysis.
+40279976	Involution-based efficient autoencoder for denoising histopathological images with enhanced hybrid feature extraction.
+40279768	Advancing N,N'-disubstituted diamines in antimalarial drug development: Structure-activity relationships and mechanistic studies.
 40279404	Clone tracking through repeated malaria identifies high-fidelity memory CD4 T cell responses.
 40279316	Exploration of the pattern, clinical presentation and outcome of children with renal diseases: A 14-year retrospective study at a teaching hospital in Ghana.
 40278782	Phylogeographic Patterns and Genetic Diversity of Anopheles stephensi: Implications for Global Malaria Transmission.
@@ -360,7 +378,6 @@
 40155111	Advancing maternal and perinatal health through clinical trials: key insights from a WHO global consultation.
 40155089	Recent advances in chemistry, biochemistry, and nutrition of dates palm fruit (Phoenix dactylifera L.) cultivars.
 40154969	Health system effectiveness of symptomatic malaria case management in Papua New Guinea.
-40154619	Artesunate enhances the efficacy of enzalutamide in advanced prostate cancer.
 40154019	The roles of vitamin C in infectious diseases: A comprehensive review.
 40153391	Parasitaemia and fever in uncomplicated Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis.
 40153171	An Overview of Isavuconazole Clinical Use: A Multicentre Analysis of Indications, Exposure and Hepatic Safety.
@@ -9980,20 +9997,3 @@
 36834293	Species Composition, Seasonal Abundance, and Biting Behavior of Malaria Vectors in Rural Conhane Village, Southern Mozambique.
 36833980	Web Geographic Information System: A Support Tool for the Study, Evaluation, and Monitoring of Foci of Malaria Transmission in Mexico.
 36833271	High Levels of Diversity in Anopheles Subgenus Kerteszia Revealed by Species Delimitation Analyses.
-36833109	Empanelment of the Population to the Primary Medical Care Institution of Sri Lanka: A Mixed-Methods Study on Outcomes and Challenges.
-36832247	Prevalence of Schistosoma haematobium and Intestinal Helminth Infections among Nigerian School Children.
-36830571	The Immunogenicity of a VLP-based Malaria Vaccine Targeting CSP in Pregnant and Neonatal Mice.
-36829293	γδ T-cell-mediated immune responses to malaria.
-36829231	Correction: Anti-malaria drug artesunate prevents development of amyloid-β pathology in mice by upregulating PICALM at the blood-brain barrier.
-36829200	Women attending antenatal care as a sentinel surveillance population for malaria in Geita region, Tanzania: feasibility and acceptability to women and providers.
-36828985	Pathogens, reservoirs, and vectors involved in the transmission of vector-borne and zoonotic diseases in a Colombian region.
-36828535	Diagnostic Accuracy of a Thick Blood Smear Compared to qPCR for Malaria Associated with Pregnancy in Colombia.
-36828512	Civil Engineering and Malaria Risk: A Descriptive Study in a Rural Area of Cubal, Angola.
-36828459	Antimicrobial Compounds from Skin Secretions of Species That Belong to the Bufonidae Family.
-36828342	Viral, Bacterial, Metabolic, and Autoimmune Causes of Severe Acute Encephalopathy in Sub-Saharan Africa: A Multicenter Cohort Study.
-36827904	The economic impacts of house screening against malaria transmission: Experimental evidence from eastern Zambia.
-36827423	Tribal Malaria in India: An Analysis of Malaria Incidence and Mortality over 20-Year Period (2000-2020).
-36827266	Optimizing hierarchical tree dissection parameters using historic epidemiologic data as 'ground truth'.
-36827158	Phytochemical Investigation of Three Cystoseira Species and Their Larvicidal Activity Supported with In Silico Studies.
-36827135	Isolation and Characterization of NpCI, a New Metallocarboxypeptidase Inhibitor from the Marine Snail Nerita peloronta with Anti-Plasmodium falciparum Activity.
-36827107	Salt-Tolerant Plants as Sources of Antiparasitic Agents for Human Use: A Comprehensive Review.
