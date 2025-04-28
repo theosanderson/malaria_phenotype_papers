@@ -1,3 +1,11 @@
+40293231	Evidence for a model of conformational change by the Plasmodium falciparum circumsporozoite protein during sporozoite development in the mosquito host through the use of camelid single-domain antibodies.
+40292493	Clinical and parasitological efficacy of artesunate and sulfadoxine-pyrimethamine (AS+SP) for the treatment of uncomplicated falciparum malaria in different transmission settings in India.
+40292055	Kidney Toxicity Studies in Mice (BALB/C) Recurrently Infected with Plasmodium berghei and Treated With either Artemether plus Lumefantrine (AL) or Artesunate plus Amodiaquine (AA).
+40291661	Structural basis of multitasking by the apicoplast DNA polymerase from Plasmodium falciparum.
+40291553	Neuropsychological and behavioral benefits of virtual cognitive rehabilitation training among pediatric population surviving malaria: A systematic review and meta-analysis.
+40290972	Allosteric Inhibitors of Cell-Cycle-Regulated Methyltransferase for Novel Antibiotic Development.
+40290900	Gut microbiota influences Plasmodium falciparum malaria susceptibility.
+40290205	Bradycardia in Severe Plasmodium vivax Malaria.
 40289738	Identification of Potential Inhibitors of Plasmodium falciparum L-lactate dehydrogenase (PfLDH) from Selected African Compound Libraries: Virtual Screening, MM-GBSA, and Molecular Dynamics Studies.
 40289608	On flexible inverse probability of treatment and intensity weighting: Informative censoring, variable selection, and weight trimming.
 40289539	Non-State Actors: The Increasing Role of Non-Governmental Organizations in Global Health Law.
@@ -9989,11 +9997,3 @@
 36841756	Adherence to severe malaria treatment guidelines in children at a Ugandan regional hospital: a baseline assessment for a malaria treatment quality improvement project.
 36841398	Genetic variations of Plasmodium falciparum circumsporozoite protein and the impact on interactions with human immunoproteins and malaria vaccine efficacy.
 36841199	Activation of complement-like antiparasitic responses in Anopheles mosquitoes.
-36840586	Malaria Molecular Surveillance in the Peruvian Amazon with a Novel Highly Multiplexed Plasmodium falciparum AmpliSeq Assay.
-36840311	Antimalarial and Cytotoxic Activity of Native Plants Used in Cabo Verde Traditional Medicine.
-36840251	Ferula sinkiangensis (Chou-AWei, Chinese Ferula): Traditional Uses, Phytoconstituents, Biosynthesis, and Pharmacological Activities.
-36839814	Antiparasitic Meroterpenoids Isolated from Memnoniella dichroa CF-080171.
-36839591	The Complexity of Interferon Signaling in Host Defense against Protozoan Parasite Infection.
-36839571	A Systematic Review of Apicomplexa Looking into Epigenetic Pathways and the Opportunity for Novel Therapies.
-36839519	A Review of Major Patents on Potential Malaria Vaccine Targets.
-36839479	Leishmania major-Infected Phlebotomus duboscqi Sand Fly Bites Enhance Mast Cell Degranulation.
