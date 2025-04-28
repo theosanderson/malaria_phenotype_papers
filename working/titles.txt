@@ -1,3 +1,7 @@
+40289738	Identification of Potential Inhibitors of Plasmodium falciparum L-lactate dehydrogenase (PfLDH) from Selected African Compound Libraries: Virtual Screening, MM-GBSA, and Molecular Dynamics Studies.
+40289608	On flexible inverse probability of treatment and intensity weighting: Informative censoring, variable selection, and weight trimming.
+40289539	Non-State Actors: The Increasing Role of Non-Governmental Organizations in Global Health Law.
+40289332	Glycated albumin and fructosamine do not improve accuracy of glycaemic control assessment in patients with conditions reported to affect HbA(1c) reliability.
 40289121	Prevalence of Anopheles stephensi in Horn of Africa: a systematic review and meta-analysis.
 40289119	Interaction of predatory macroinvertebrate communities with malaria vectors in aquatic habitats of three climatic zones in Burkina Faso.
 40288672	Identification of therapeutics against PfPK6 protein of Plasmodium falciparum: Structure and Deep Learning approach.
@@ -9993,7 +9997,3 @@
 36839571	A Systematic Review of Apicomplexa Looking into Epigenetic Pathways and the Opportunity for Novel Therapies.
 36839519	A Review of Major Patents on Potential Malaria Vaccine Targets.
 36839479	Leishmania major-Infected Phlebotomus duboscqi Sand Fly Bites Enhance Mast Cell Degranulation.
-36839438	Pathogenesis of Anemia in Canine Babesiosis: Possible Contribution of Pro-Inflammatory Cytokines and Chemokines-A Review.
-36838701	Antimalarial Activity of Tri- and Tetra-Substituted Anilino Pyrazoles.
-36838674	An Undefined Interaction between Polyamines and Heat Shock Proteins Leads to Cellular Protection in Plasmodium falciparum and Proliferating Cells in Various Organisms.
-36838223	TORCH Congenital Syndrome Infections in Central America's Northern Triangle.
