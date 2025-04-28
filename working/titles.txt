@@ -1,3 +1,12 @@
+40289121	Prevalence of Anopheles stephensi in Horn of Africa: a systematic review and meta-analysis.
+40289119	Interaction of predatory macroinvertebrate communities with malaria vectors in aquatic habitats of three climatic zones in Burkina Faso.
+40288672	Identification of therapeutics against PfPK6 protein of Plasmodium falciparum: Structure and Deep Learning approach.
+40288552	Host Factors Influencing Sexual Differentiation and Transmission of Plasmodium: A Comprehensive Review.
+40288551	Dexrazoxane as a viable microsporidia control agent in Anopheles gambiae.
+40288430	Malaria risk perceptions and barriers for effective prophylaxis among sub-Saharan African `visiting friends and relatives´ travellers in Hamburg, Germany.
+40288396	Incidence rates of malaria, meningitis, and mortality in children younger than 5 years: a prospective cohort study in Ghana and Kenya before the roll-out of the RTS,S/AS01(E) malaria vaccine from 2016 to 2022.
+40288377	Safety of RTS,S/AS01(E) malaria vaccine up to 1 year after the third dose in Ghana, Kenya, and Malawi (EPI-MAL-003): a phase 4 cohort event monitoring study.
+40288157	Moving beyond discovery science to a mechanistic understanding of human malaria.
 40287078	Plasmodium falciparum genetic diversity and multiplicity of infection in northern and southern Ghana assessed by amplicon sequencing.
 40286894	Longitudinal population analysis of Plasmodium falciparum apical membrane antigen-1 in Indian field isolates.
 40286803	Safety and efficacy of single-dose primaquine to interrupt Plasmodium falciparum malaria transmission in children compared with adults: a systematic review and individual patient data meta-analysis.
@@ -9988,12 +9997,3 @@
 36838701	Antimalarial Activity of Tri- and Tetra-Substituted Anilino Pyrazoles.
 36838674	An Undefined Interaction between Polyamines and Heat Shock Proteins Leads to Cellular Protection in Plasmodium falciparum and Proliferating Cells in Various Organisms.
 36838223	TORCH Congenital Syndrome Infections in Central America's Northern Triangle.
-36837917	Constituents of the Stem Bark of Trichilia monadelpha (Thonn.) J. J. De Wilde (Meliaceae) and Their Antibacterial and Antiplasmodial Activities.
-36837900	Breynia cernua: Chemical Profiling of Volatile Compounds in the Stem Extract and Its Antioxidant, Antibacterial, Antiplasmodial and Anticancer Activity In Vitro and In Silico.
-36837770	Cycloguanil and Analogues Potently Target DHFR in Cancer Cells to Elicit Anti-Cancer Activity.
-36837460	The Problem of Antimalarial-Drug Abuse by the Inhabitants of Ghana.
-36836413	Questionnaire-Based Analysis of Adverse Events and Compliance with Malaria Chemoprophylaxis in Taiwan.
-36836337	Entomopathogenic Fungi as a Potential Management Tool for the Control of Urban Malaria Vector, Anopheles stephensi (Diptera: Culicidae).
-36835685	Insecticides for Mosquito Control: Improving and Validating Methods to Strengthen the Evidence Base.
-36835678	DNA Barcoding of Morphologically Characterized Mosquitoes Belonging to the Genus Mansonia from the Atlantic Forest and Brazilian Savanna.
-36835023	Towards Arginase Inhibition: Hybrid SAR Protocol for Property Mapping of Chlorinated N-arylcinnamamides.
