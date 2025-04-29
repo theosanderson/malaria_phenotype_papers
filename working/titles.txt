@@ -1,3 +1,5 @@
+40297676	Phylogenetic taxonomy of the Zambian Anopheles coustani group using a mitogenomics approach.
+40297444	Geographical Heterogeneity in Antimalarial Resistance Markers Revealed by Genomic Surveillance in Angola, 2023.
 40296150	Green synthesis of PEGylated iron oxide nanoparticles of Eriobotrya japonica leaves extract in combination with B3, against Plasmodium falciparum 3D7 strain.
 40296022	Stable Plasmodium falciparum merozoite surface protein-1 allelic diversity despite decreasing parasitaemia in children with multiple malaria infections.
 40295646	Computational identification of aspartic protease inhibitors for antimalarial drug development against Plasmodium Vivax.
@@ -9995,5 +9997,3 @@
 36845157	Rickettsia parkeri hijacks tick hemocytes to manipulate cellular and humoral transcriptional responses.
 36844760	Assessing the spatiotemporal malaria transmission intensity with heterogeneous risk factors: A modeling study in Cambodia.
 36844658	'Malaria Has Spoilt It': Malaria, Neuropsychiatric Complications, and Insanity in ex-Servicemen in Post-First World War Britain.
-36844613	Rare Thelazia californiensis infant ocular infestation.
-36844405	Editorial: Emerging mosquito-borne diseases and novel biocontrol strategies.
