@@ -1,3 +1,8 @@
+40296150	Green synthesis of PEGylated iron oxide nanoparticles of Eriobotrya japonica leaves extract in combination with B3, against Plasmodium falciparum 3D7 strain.
+40296022	Stable Plasmodium falciparum merozoite surface protein-1 allelic diversity despite decreasing parasitaemia in children with multiple malaria infections.
+40295646	Computational identification of aspartic protease inhibitors for antimalarial drug development against Plasmodium Vivax.
+40295615	Author Correction: Anopheles mosquito fauna, blood meal sources and transmission intensity from high and moderate malaria endemic areas of Ethiopia.
+40294866	Which trial do we need? A randomised controlled study to compare the protective efficacy of early post-exposure discontinuation versus standard atovaquone-proguanil malaria prophylaxis in a human Plasmodium falciparum challenge model.
 40294418	Impact of the COVID-19 Pandemic on Antibiotic Resistant Infection Burden in U.S. Hospitals : Retrospective Cohort Study of Trends and Risk Factors.
 40294075	Deposition of complement regulators on the surface of Plasmodium falciparum merozoites depends on the immune status of the host.
 40294042	The first validation of the Functional Assessment of Cancer Therapy Hepatobiliary (FACT-Hep) for evaluating health-related quality of life (HRQOL) in patients with advanced-stage intrahepatic cholangiocarcinoma (biliary tract cancer).
@@ -9992,8 +9997,3 @@
 36844658	'Malaria Has Spoilt It': Malaria, Neuropsychiatric Complications, and Insanity in ex-Servicemen in Post-First World War Britain.
 36844613	Rare Thelazia californiensis infant ocular infestation.
 36844405	Editorial: Emerging mosquito-borne diseases and novel biocontrol strategies.
-36844403	Diagnosis of cerebral malaria: Tools to reduce Plasmodium falciparum associated mortality.
-36844021	Genetic diversity of Plasmodium vivax isolates from pregnant women in the Western Brazilian Amazon: a prospective cohort study.
-36844012	Novel Plasmodium vivax genomes from Brazil identify targets for studies on drug resistance, transmission networks, and parasite evolution.
-36844008	Population-based genomic study of Plasmodium vivax malaria in seven Brazilian states and across South America.
-36843374	A Short Review of Antimalarial Compounds with Sulfonamide Moiety.
