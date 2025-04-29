@@ -1,3 +1,8 @@
+40294418	Impact of the COVID-19 Pandemic on Antibiotic Resistant Infection Burden in U.S. Hospitals : Retrospective Cohort Study of Trends and Risk Factors.
+40294075	Deposition of complement regulators on the surface of Plasmodium falciparum merozoites depends on the immune status of the host.
+40294042	The first validation of the Functional Assessment of Cancer Therapy Hepatobiliary (FACT-Hep) for evaluating health-related quality of life (HRQOL) in patients with advanced-stage intrahepatic cholangiocarcinoma (biliary tract cancer).
+40294029	Regulation of diel locomotor activity and retinal responses of Anopheles stephensi by ingested histamine and serotonin is temperature- and infection-dependent.
+40294026	Proceedings of the second annual dengue endgame summit: A call to action.
 40293231	Evidence for a model of conformational change by the Plasmodium falciparum circumsporozoite protein during sporozoite development in the mosquito host through the use of camelid single-domain antibodies.
 40292493	Clinical and parasitological efficacy of artesunate and sulfadoxine-pyrimethamine (AS+SP) for the treatment of uncomplicated falciparum malaria in different transmission settings in India.
 40292055	Kidney Toxicity Studies in Mice (BALB/C) Recurrently Infected with Plasmodium berghei and Treated With either Artemether plus Lumefantrine (AL) or Artesunate plus Amodiaquine (AA).
@@ -9992,8 +9997,3 @@
 36844012	Novel Plasmodium vivax genomes from Brazil identify targets for studies on drug resistance, transmission networks, and parasite evolution.
 36844008	Population-based genomic study of Plasmodium vivax malaria in seven Brazilian states and across South America.
 36843374	A Short Review of Antimalarial Compounds with Sulfonamide Moiety.
-36842543	CRISPR/Cas advancements for genome editing, diagnosis, therapeutics, and vaccine development for Plasmodium parasites, and genetic engineering of Anopheles mosquito vector.
-36842196	Malarial and intestinal parasitic co-infections in indigenous populations of the Brazilian Amazon rainforest.
-36841756	Adherence to severe malaria treatment guidelines in children at a Ugandan regional hospital: a baseline assessment for a malaria treatment quality improvement project.
-36841398	Genetic variations of Plasmodium falciparum circumsporozoite protein and the impact on interactions with human immunoproteins and malaria vaccine efficacy.
-36841199	Activation of complement-like antiparasitic responses in Anopheles mosquitoes.
