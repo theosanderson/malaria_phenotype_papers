@@ -1,3 +1,6 @@
+40298772	Impact of dengue virus infection on the cytoadherence of Plasmodium vivax-infected erythrocytes.
+40298402	mGem: Decoding transmicrobe messaging-the growing impact of extracellular vesicles.
+40298333	Vector incrimination studies of lymphatic filariasis in rural areas of endemic Datia district of Madhya Pradesh, India.
 40297676	Phylogenetic taxonomy of the Zambian Anopheles coustani group using a mitogenomics approach.
 40297444	Geographical Heterogeneity in Antimalarial Resistance Markers Revealed by Genomic Surveillance in Angola, 2023.
 40296150	Green synthesis of PEGylated iron oxide nanoparticles of Eriobotrya japonica leaves extract in combination with B3, against Plasmodium falciparum 3D7 strain.
@@ -9994,6 +9997,3 @@
 36847467	Plasmodium vivax blood stage invasion pathways: Contribution of omics technologies in deciphering molecular and cellular mechanisms.
 36846776	Retrospective analysis of Plasmodium vivax genomes from a pre-elimination China inland population in the 2010s.
 36846665	Galinsoga parviflora (Cav.): A comprehensive review on ethnomedicinal, phytochemical and pharmacological studies.
-36845157	Rickettsia parkeri hijacks tick hemocytes to manipulate cellular and humoral transcriptional responses.
-36844760	Assessing the spatiotemporal malaria transmission intensity with heterogeneous risk factors: A modeling study in Cambodia.
-36844658	'Malaria Has Spoilt It': Malaria, Neuropsychiatric Complications, and Insanity in ex-Servicemen in Post-First World War Britain.
