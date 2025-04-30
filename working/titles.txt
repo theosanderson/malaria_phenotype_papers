@@ -1,3 +1,6 @@
+40301628	Nanobody-mediated targeting of Plasmodium falciparum PfPIMMS43 can block malaria transmission in mosquitoes.
+40301570	A noninferiority cluster randomised evaluation of a broflanilide indoor residual spraying insecticide, VECTRON T500, for malaria vector control in Tanzania.
+40301403	Unveiling mismatch of RTS S AS01 and R21 Matrix M malaria vaccines haplotype among Ethiopian Plasmodium falciparum clinical isolates.
 40299948	Feasibility and effectiveness of tailored interventions for two populations at high-risk of malaria in Senegal: Koranic school children and gold miners.
 40299875	Retrospective analysis of malaria prevalence over ten years (2015-2024) at Bichena Primary Hospital, Amhara Region, Ethiopia.
 40298772	Impact of dengue virus infection on the cytoadherence of Plasmodium vivax-infected erythrocytes.
@@ -30,7 +33,7 @@
 40289121	Prevalence of Anopheles stephensi in Horn of Africa: a systematic review and meta-analysis.
 40289119	Interaction of predatory macroinvertebrate communities with malaria vectors in aquatic habitats of three climatic zones in Burkina Faso.
 40288672	Identification of therapeutics against PfPK6 protein of Plasmodium falciparum: Structure and Deep Learning approach.
-40288552	Host Factors Influencing Sexual Differentiation and Transmission of Plasmodium: A Comprehensive Review.
+40288552	Host factors influencing sexual differentiation and transmission of Plasmodium: A comprehensive review.
 40288551	Dexrazoxane as a viable microsporidia control agent in Anopheles gambiae.
 40288430	Malaria risk perceptions and barriers for effective prophylaxis among sub-Saharan African `visiting friends and relatives´ travellers in Hamburg, Germany.
 40288396	Incidence rates of malaria, meningitis, and mortality in children younger than 5 years: a prospective cohort study in Ghana and Kenya before the roll-out of the RTS,S/AS01(E) malaria vaccine from 2016 to 2022.
@@ -499,7 +502,7 @@
 40121016	Mortality in children and adolescents in Western Democratic Republic of Congo: retrospective analysis of verbal autopsy and demographic data from the Kimpese Health and Demographic Surveillance System.
 40120919	Polish travellers on the move: A study of knowledge of travel health and associated practices among polish travellers abroad.
 40120896	Unveiling role of HSP70 genes for development and survival of Indian malaria vector Anopheles culicifacies.
-40120759	Re: Kinetics of the Alethia® malaria loop-mediated isothermal amplification (LAMP) positivity during post-treatment follow-up of patients with imported malaria.
+40120759	Kinetics of the Alethia® malaria loop-mediated isothermal amplification (LAMP) positivity during post-treatment follow-up of patients with imported malaria.
 40120754	The non-artemisinin antimalarial drugs under development: a review.
 40120669	Biosynthesis of silver nanoparticles using soil actinobacterium Streptomyces anthocyanicus and investigation of their larvicidal potentials against Culex quinquefasciatus Aedes aegypti, and Anopheles stephensi.
 40120597	Immunogenicity and safety of an Escherichia coli-produced bivalent human papillomavirus vaccine (Cecolin) in girls aged 9-14 years in Ghana and Bangladesh: a randomised, controlled, open-label, non-inferiority, phase 3 trial.
@@ -9994,6 +9997,3 @@
 36847896	Defining species-specific and conserved interactions of apical membrane protein 1 during erythrocyte invasion in malaria to inform multi-species vaccines.
 36847573	Coimmunization with Preerythrocytic Antigens alongside Circumsporozoite Protein Can Enhance Sterile Protection against Plasmodium Sporozoite Infection.
 36847534	miR-34c-3p Regulates Protein Kinase A Activity Independent of cAMP by Dicing prkar2b Transcripts in Theileria annulata-Infected Leukocytes.
-36847501	Single-Cell Transcriptomics To Define Plasmodium falciparum Stage Transition in the Mosquito Midgut.
-36847498	Mucin Protein of Aedes aegypti Interacts with Dengue Virus 2 and Influences Viral Infection.
-36847467	Plasmodium vivax blood stage invasion pathways: Contribution of omics technologies in deciphering molecular and cellular mechanisms.
