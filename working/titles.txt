@@ -1,3 +1,5 @@
+40299948	Feasibility and effectiveness of tailored interventions for two populations at high-risk of malaria in Senegal: Koranic school children and gold miners.
+40299875	Retrospective analysis of malaria prevalence over ten years (2015-2024) at Bichena Primary Hospital, Amhara Region, Ethiopia.
 40298772	Impact of dengue virus infection on the cytoadherence of Plasmodium vivax-infected erythrocytes.
 40298402	mGem: Decoding transmicrobe messaging-the growing impact of extracellular vesicles.
 40298333	Vector incrimination studies of lymphatic filariasis in rural areas of endemic Datia district of Madhya Pradesh, India.
@@ -9995,5 +9997,3 @@
 36847501	Single-Cell Transcriptomics To Define Plasmodium falciparum Stage Transition in the Mosquito Midgut.
 36847498	Mucin Protein of Aedes aegypti Interacts with Dengue Virus 2 and Influences Viral Infection.
 36847467	Plasmodium vivax blood stage invasion pathways: Contribution of omics technologies in deciphering molecular and cellular mechanisms.
-36846776	Retrospective analysis of Plasmodium vivax genomes from a pre-elimination China inland population in the 2010s.
-36846665	Galinsoga parviflora (Cav.): A comprehensive review on ethnomedicinal, phytochemical and pharmacological studies.
