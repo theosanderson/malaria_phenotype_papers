@@ -1,3 +1,4 @@
+40304242	Targeting Apicomplexan Parasites: Structural and Functional Characterization of Cryptosporidium Thioredoxin Reductase as a Novel Drug Target.
 40303014	Analytic Approaches in Genomic Epidemiological Studies of Parasitic Protozoa.
 40302739	Nowcasting Vector Mosquito Abundance and Determining Its Association With Malaria Epidemics in South Korea.
 40301628	Nanobody-mediated targeting of Plasmodium falciparum PfPIMMS43 can block malaria transmission in mosquitoes.
@@ -9996,4 +9997,3 @@
 36848892	Results from a Knowledge, Attitudes, and Practices Survey in Two Malaria Transmission Foci of Santo Domingo, Dominican Republic.
 36848890	The Importance of Local Context in National Malaria Elimination Efforts.
 36848855	Bisbenzylisoquinolines from Cissampelos pareira L. as antimalarial agents: Molecular docking, pharmacokinetics analysis, and molecular dynamic simulation studies.
-36848551	Leishmania allelic selection during experimental sand fly infection correlates with mutational signatures of oxidative DNA damage.
