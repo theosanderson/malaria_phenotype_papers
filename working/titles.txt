@@ -1,3 +1,5 @@
+40303014	Analytic Approaches in Genomic Epidemiological Studies of Parasitic Protozoa.
+40302739	Nowcasting Vector Mosquito Abundance and Determining Its Association With Malaria Epidemics in South Korea.
 40301628	Nanobody-mediated targeting of Plasmodium falciparum PfPIMMS43 can block malaria transmission in mosquitoes.
 40301570	A noninferiority cluster randomised evaluation of a broflanilide indoor residual spraying insecticide, VECTRON T500, for malaria vector control in Tanzania.
 40301403	Unveiling mismatch of RTS S AS01 and R21 Matrix M malaria vaccines haplotype among Ethiopian Plasmodium falciparum clinical isolates.
@@ -8092,6 +8094,7 @@
 37492413	The case for levetiracetam to be included in essential medicine lists.
 37491541	Defining the role of host biomarkers in the diagnosis and prognosis of the severity of childhood pneumonia: a prospective cohort study.
 37491295	Prescription patterns and compliance with World Health Organization recommendations for the management of uncomplicated and severe malaria: A prospective, real-world study in sub-Saharan Africa.
+40303721	A Maximum Entropy Model of the Distribution of Dengue Serotype in Mexico.
 37490746	Impact of the Introduction of a Package of Diagnostic Tools, Diagnostic Algorithm, and Training and Communication on Outpatient Acute Fever Case Management at 3 Diverse Sites in Uganda: Results of a Randomized Controlled Trial.
 37490744	Advancing Access to Diagnostic Tools Essential for Universal Health Coverage and Antimicrobial Resistance Prevention: An Overview of Trials in Sub-Saharan Africa.
 37490743	Synthesis and Meta-analysis of 3 Randomized Trials Conducted in Burkina Faso, Ghana, and Uganda Comparing the Effects of Point-of-Care Tests and Diagnostic Algorithms Versus Routine Care on Antibiotic Prescriptions and Clinical Outcomes in Ambulatory Patients <18 Years of Age With Acute Febrile Illness.
@@ -8229,6 +8232,7 @@
 37443329	Efficacy of partial spraying of SumiShield, Fludora Fusion and Actellic against wild populations of Anopheles gambiae s.l. in experimental huts in Tiassalé, Côte d'Ivoire.
 37443274	A longitudinal transcriptomic analysis from unfed to post-engorgement midguts of adult female Ixodes scapularis.
 37443070	Analysis of the relapse of imported Plasmodium vivax and Plasmodium ovale in five provinces of China.
+40303700	Flying Syringes for Emerging Enzootic Virus Screening: Proof of Concept for the Development of Noninvasive Xenosurveillance Tools Based on Tsetse Flies.
 37441813	Artesunate alleviates intestinal ischemia/reperfusion induced acute lung injury via up-regulating AKT and HO-1 signal pathway in mice.
 37441673	The Progress Towards National Malaria Elimination: The Experience of Oman.
 37441658	Hypoglycaemia in non-diabetic pregnancy.
@@ -9993,7 +9997,3 @@
 36848890	The Importance of Local Context in National Malaria Elimination Efforts.
 36848855	Bisbenzylisoquinolines from Cissampelos pareira L. as antimalarial agents: Molecular docking, pharmacokinetics analysis, and molecular dynamic simulation studies.
 36848551	Leishmania allelic selection during experimental sand fly infection correlates with mutational signatures of oxidative DNA damage.
-36847920	Beauty and the beast: host microRNA-155 versus SARS-CoV-2.
-36847896	Defining species-specific and conserved interactions of apical membrane protein 1 during erythrocyte invasion in malaria to inform multi-species vaccines.
-36847573	Coimmunization with Preerythrocytic Antigens alongside Circumsporozoite Protein Can Enhance Sterile Protection against Plasmodium Sporozoite Infection.
-36847534	miR-34c-3p Regulates Protein Kinase A Activity Independent of cAMP by Dicing prkar2b Transcripts in Theileria annulata-Infected Leukocytes.
