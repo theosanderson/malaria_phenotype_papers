@@ -1,3 +1,6 @@
+40307848	Phytochemical screening and repellence potencies of bioactive molecules of plant extracts derived from Ocimum suave, Ocimum americanum and Eucalyptus citriodora against Anopheles gambiae.
+40307776	Factors associated with malaria in pregnancy among women attending ANC Clinic in Kwadaso Municipality, Ghana: a health facility based cross-sectional study.
+40306496	ANTIMALARIAL ACTIVITIES AND LIPID PROFILE OF ETHANOLIC EXTRACT OF Ficus sur Forssk (described by Peter Forsskål) IN Plasmodium berghei INFECTED ALBINO RATS.
 40305871	Ammunition Ship Explosions in Papua New Guinea and Solomon Islands, 1944 and 1945.
 40305837	Malaria Among Members of the U.S. Armed Forces, 2024.
 40305823	The Discovery of Chloramphenicol Treatment for Both Scrub Typhus and Typhoid Fever.
@@ -9994,6 +9997,3 @@
 36849945	ATP2B4 regulatory genetic variants are associated with mild malaria.
 36849883	The needs and opportunities for housing improvement for malaria control in southern Tanzania.
 36849605	Author Correction: Mechanochemical tuning of a kinesin motor essential for malaria parasite transmission.
-36849589	Publisher Correction: Population size estimation of seasonal forest-going populations in southern Lao PDR.
-36849407	Afebrile Plasmodium Knowlesi Severe Malaria With A Fatal Outcome.
-36849257	In Vitro Testing of Trichomonas vaginalis Drug Susceptibility: Evaluation of Minimal Lethal Concentrations for Metronidazole and Tinidazole That Correspond With Treatment Failure.
