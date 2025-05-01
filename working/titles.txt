@@ -1,3 +1,8 @@
+40305871	Ammunition Ship Explosions in Papua New Guinea and Solomon Islands, 1944 and 1945.
+40305837	Malaria Among Members of the U.S. Armed Forces, 2024.
+40305823	The Discovery of Chloramphenicol Treatment for Both Scrub Typhus and Typhoid Fever.
+40305569	Metagenomic analysis evidences a core virome in Anopheles darlingi from three contrasting Colombian ecoregions.
+40305556	Baseline assessment of front-line health system capacity in vector-borne disease surveillance and response in Papua New Guinea.
 40304242	Targeting Apicomplexan Parasites: Structural and Functional Characterization of Cryptosporidium Thioredoxin Reductase as a Novel Drug Target.
 40303014	Analytic Approaches in Genomic Epidemiological Studies of Parasitic Protozoa.
 40302739	Nowcasting Vector Mosquito Abundance and Determining Its Association With Malaria Epidemics in South Korea.
@@ -9992,8 +9997,3 @@
 36849589	Publisher Correction: Population size estimation of seasonal forest-going populations in southern Lao PDR.
 36849407	Afebrile Plasmodium Knowlesi Severe Malaria With A Fatal Outcome.
 36849257	In Vitro Testing of Trichomonas vaginalis Drug Susceptibility: Evaluation of Minimal Lethal Concentrations for Metronidazole and Tinidazole That Correspond With Treatment Failure.
-36849091	Insight into molecular diagnosis for antimalarial drug resistance of Plasmodium falciparum parasites: A review.
-36848976	Seaweed Sargassum wightii mediated preparation of TiO(2) nanoparticles, larvicidal activity against malaria and filariasis vectors, and its effect on non-target organisms.
-36848892	Results from a Knowledge, Attitudes, and Practices Survey in Two Malaria Transmission Foci of Santo Domingo, Dominican Republic.
-36848890	The Importance of Local Context in National Malaria Elimination Efforts.
-36848855	Bisbenzylisoquinolines from Cissampelos pareira L. as antimalarial agents: Molecular docking, pharmacokinetics analysis, and molecular dynamic simulation studies.
