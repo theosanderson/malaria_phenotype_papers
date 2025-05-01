@@ -1,3 +1,8 @@
+40309556	Determinants and Prevalence of Paediatrics Return Visits to the Emergency Department in a Tertiary Hospital in Southeast Nigeria: A Retrospective Study.
+40309553	Knowledge, acceptance and willingness to pay for malaria vaccine among residents of a semi-urban community in Kaduna State, North-western Nigeria.
+40309407	Female Genital Schistosomiasis (FGS) in a Nonendemic Setting: Retrospective Case-Notes Review of Schistosoma haematobium-Positive FGS Cases at the Hospital for Tropical Diseases, London, With a Pragmatic Clinical Pathway for Nonendemic Settings.
+40309036	Transcriptome profiling of intrahepatocytic Plasmodium and their host hepatocytes based on the infection phase and the zonation of the liver.
+40308778	Scoping review of ethnobotanical studies on Piliostigma thonningii (Schumach.) Milne-Redh. in Sub-Saharan Africa.
 40307848	Phytochemical screening and repellence potencies of bioactive molecules of plant extracts derived from Ocimum suave, Ocimum americanum and Eucalyptus citriodora against Anopheles gambiae.
 40307776	Factors associated with malaria in pregnancy among women attending ANC Clinic in Kwadaso Municipality, Ghana: a health facility based cross-sectional study.
 40306496	ANTIMALARIAL ACTIVITIES AND LIPID PROFILE OF ETHANOLIC EXTRACT OF Ficus sur Forssk (described by Peter Forsskål) IN Plasmodium berghei INFECTED ALBINO RATS.
@@ -9992,8 +9997,3 @@
 36851608	Prevalence of Barmah Forest Virus, Chikungunya Virus and Ross River Virus Antibodies among Papua New Guinea Military Personnel before 2019.
 36851527	Immunogenicity of Wild Type and Mutant Hepatitis B Surface Antigen Virus-like Particles (VLPs) in Mice with Pre-Existing Immunity against the Wild Type Vector.
 36851323	B-Cell Epitope Mapping of the Plasmodium falciparum Malaria Vaccine Candidate GMZ2.6c in a Naturally Exposed Population of the Brazilian Amazon.
-36851021	High-Dose Primaquine Induces Proximal Tubular Degeneration and Ventricular Cardiomyopathy Linked to Host Cells Mitochondrial Dysregulation.
-36850016	Multinomial logistic regression analysis of the determinants of anaemia severity among children aged 6-59 months in Ghana: new evidence from the 2019 Malaria Indicator Survey.
-36849945	ATP2B4 regulatory genetic variants are associated with mild malaria.
-36849883	The needs and opportunities for housing improvement for malaria control in southern Tanzania.
-36849605	Author Correction: Mechanochemical tuning of a kinesin motor essential for malaria parasite transmission.
