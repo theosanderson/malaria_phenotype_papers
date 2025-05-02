@@ -1,3 +1,6 @@
+40312382	Field evaluation of the Bioline Malaria Ag P.f/Pan rapid diagnostic test: causes of microscopy discordance and performance in Uganda.
+40312291	Impact of hepatitis B virus infection in patients with plasmodium parasites in selected health facilities in Accra, Ghana.
+40311664	Fever in travelers returning from tropical and subtropical areas: a hospital-based study of factors affecting investigations and diagnoses in children and adults.
 40310678	Health Education Campaign to Improve Malaria Knowledge, Prevention, and Treatment Behaviors in Rural East Nusa Tenggara Province, Indonesia: Protocol for a Cluster-Assigned Quasi-Experimental Study.
 40310570	Treating sickle cell disease in resource-limited sub-saharan Africa: recent strategies and recommendations in addressing the gaps for the provision of evidenced based management.
 40309556	Determinants and Prevalence of Paediatrics Return Visits to the Emergency Department in a Tertiary Hospital in Southeast Nigeria: A Retrospective Study.
@@ -373,7 +376,7 @@
 40181373	Projection of future malaria prevalence in the upper river region of The Gambia.
 40181130	Detection of pathogens associated with acute febrile illness in children under five years of age in rural Tanzania.
 40180790	Correction: Ceramicines U-Z from Chisocheton ceramicus and structure-antimalarial activity relationship study.
-40180218	From Escar to Diagnosis: A Case Report on Scrub Typhus causing multiorgan failure in a Returning Traveler.
+40180218	From eschar to diagnosis: A case report on scrub typhus causing multi-organ failure in a returning traveller.
 40179277	Development of Next-Generation Antimalarial Acridones with Radical Cure Potential.
 40177895	Different historical approaches to leprosy in the Asia-Pacific.
 40177806	Detection and molecular characterization of dengue among patients suspected of having malaria in Timika, Central Papua, Indonesia.
@@ -9994,6 +9997,3 @@
 36852796	Ferrocene Derivatives as New Generation of Antimalarial Agents: Opportunity or Illusion?
 36852365	Effectiveness of Using Nucleic Acid Amplification Test to Screen Blood Donors for Hepatitis B, Hepatitis C, and HIV: A Tertiary Care Hospital Experience From Pakistan.
 36852307	A campaign of mass drug administration with artemisinin-piperaquine to antimalaria in Trobriand Islands.
-36852070	Antimalarial activity of the 80%methanol extract and solvent fractions of Cucumis ficifolius A. rich roots against Plasmodium berghei in mice.
-36851627	Alphaviruses Detected in Mosquitoes in the North-Eastern Regions of South Africa, 2014 to 2018.
-36851608	Prevalence of Barmah Forest Virus, Chikungunya Virus and Ross River Virus Antibodies among Papua New Guinea Military Personnel before 2019.
