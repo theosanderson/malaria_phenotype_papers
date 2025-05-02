@@ -1,3 +1,6 @@
+40313773	Larval habitat diversity, physicochemical characteristics and their effect on the larval density of malaria vectors in the city of Accra, Ghana.
+40313403	A Rare Case of Hypoparathyroidism With Basal Ganglia Calcification in a 17-year-old Epileptic Patient Presenting With Falciparum Malaria, Thrombocytopenia and Anemia.
+40313304	Advance Warning and Response Systems in Kenya: A Scoping Review.
 40312382	Field evaluation of the Bioline Malaria Ag P.f/Pan rapid diagnostic test: causes of microscopy discordance and performance in Uganda.
 40312291	Impact of hepatitis B virus infection in patients with plasmodium parasites in selected health facilities in Accra, Ghana.
 40311664	Fever in travelers returning from tropical and subtropical areas: a hospital-based study of factors affecting investigations and diagnoses in children and adults.
@@ -9994,6 +9997,3 @@
 36853304	Atractylodin and β-eudesmol from Atractylodes lancea (Thunb.) DC. Inhibit Cholangiocarcinoma Cell Proliferation by Downregulating the Notch Signaling Pathway.
 36853190	7-N-Substituted-3-oxadiazole Quinolones with Potent Antimalarial Activity Target the Cytochrome bc(1) Complex.
 36852995	Cerebral Malaria Is Regulated by Host-Mediated Changes in Plasmodium Gene Expression.
-36852796	Ferrocene Derivatives as New Generation of Antimalarial Agents: Opportunity or Illusion?
-36852365	Effectiveness of Using Nucleic Acid Amplification Test to Screen Blood Donors for Hepatitis B, Hepatitis C, and HIV: A Tertiary Care Hospital Experience From Pakistan.
-36852307	A campaign of mass drug administration with artemisinin-piperaquine to antimalaria in Trobriand Islands.
