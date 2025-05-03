@@ -1,3 +1,7 @@
+40316999	A tale of two parasites: a glimpse into the RNA methylome of patient-derived Plasmodium falciparum and Plasmodium vivax isolates.
+40316970	Acceptability of dihydroartemisinin-piperaquine as malaria intermittent preventive treatment for pregnant women living with HIV in Southern Mozambique.
+40316890	Bilaterally Substituted Terphenyl Molecules Efficiently Inhibit the Interaction between a Protein and a Fully Buried α-Helix in the Malaria Parasite Motor System.
+40316617	Impact of CYP2D6, MAOA, and UGT2B7 genetic variants on recurrence of Plasmodium Vivax in the Brazilian Amazon.
 40315381	Leukocyte Depletion in Dried Blood Spot Cards Enables Enrichment of Parasite DNA for Improved Sequencing.
 40315207	Integrating community health workers to sustain malaria services in the Greater Mekong Subregion: Findings from implementer case studies.
 40313773	Larval habitat diversity, physicochemical characteristics and their effect on the larval density of malaria vectors in the city of Accra, Ghana.
@@ -9993,7 +9997,3 @@
 36855157	Enrichment of phenotype among biological forms of Anopheles stephensi Liston through establishment of isofemale lines.
 36855105	Feeding rates of malaria vectors from a prototype attractive sugar bait station in Western Province, Zambia: results of an entomological validation study.
 36854625	Alleviating the burden of malaria with gene drive technologies? A biocentric analysis of the moral permissibility of modifying malaria mosquitoes.
-36854526	Artesunate Exhibits Synergy With Cisplatin and Cytotoxicity for Upper Tract and Bladder Urothelial Carcinoma Cells.
-36854249	TCR-signals downstream adversely correlate with the survival signals of memory CD8(+) T cells under homeostasis.
-36854028	Targeting prolyl-tRNA synthetase via a series of ATP-mimetics to accelerate drug discovery against toxoplasmosis.
-36853304	Atractylodin and β-eudesmol from Atractylodes lancea (Thunb.) DC. Inhibit Cholangiocarcinoma Cell Proliferation by Downregulating the Notch Signaling Pathway.
