@@ -1,3 +1,5 @@
+40315381	Leukocyte Depletion in Dried Blood Spot Cards Enables Enrichment of Parasite DNA for Improved Sequencing.
+40315207	Integrating community health workers to sustain malaria services in the Greater Mekong Subregion: Findings from implementer case studies.
 40313773	Larval habitat diversity, physicochemical characteristics and their effect on the larval density of malaria vectors in the city of Accra, Ghana.
 40313403	A Rare Case of Hypoparathyroidism With Basal Ganglia Calcification in a 17-year-old Epileptic Patient Presenting With Falciparum Malaria, Thrombocytopenia and Anemia.
 40313304	Advance Warning and Response Systems in Kenya: A Scoping Review.
@@ -9995,5 +9997,3 @@
 36854249	TCR-signals downstream adversely correlate with the survival signals of memory CD8(+) T cells under homeostasis.
 36854028	Targeting prolyl-tRNA synthetase via a series of ATP-mimetics to accelerate drug discovery against toxoplasmosis.
 36853304	Atractylodin and β-eudesmol from Atractylodes lancea (Thunb.) DC. Inhibit Cholangiocarcinoma Cell Proliferation by Downregulating the Notch Signaling Pathway.
-36853190	7-N-Substituted-3-oxadiazole Quinolones with Potent Antimalarial Activity Target the Cytochrome bc(1) Complex.
-36852995	Cerebral Malaria Is Regulated by Host-Mediated Changes in Plasmodium Gene Expression.
