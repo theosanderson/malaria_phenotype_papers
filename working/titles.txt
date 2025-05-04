@@ -1,3 +1,6 @@
+40319301	Adherence to anti-malarials among patients diagnosed with malaria in East Africa: a systematic review and meta-analysis.
+40318264	A promising strategy to disrupt Plasmodium falciparum metabolic resilience by targeting G6PD: Virtual screening for potential inhibitors against malaria.
+40317875	The ATM Kinase Inhibitor AZD0156 is a Potent Inhibitor of Plasmodium Phosphatidylinositol 4-Kinase (PI4Kβ) and is an Attractive Candidate for Medicinal Chemistry Optimisation Ag….
 40316999	A tale of two parasites: a glimpse into the RNA methylome of patient-derived Plasmodium falciparum and Plasmodium vivax isolates.
 40316970	Acceptability of dihydroartemisinin-piperaquine as malaria intermittent preventive treatment for pregnant women living with HIV in Southern Mozambique.
 40316890	Bilaterally Substituted Terphenyl Molecules Efficiently Inhibit the Interaction between a Protein and a Fully Buried α-Helix in the Malaria Parasite Motor System.
@@ -19,7 +22,7 @@
 40308778	Scoping review of ethnobotanical studies on Piliostigma thonningii (Schumach.) Milne-Redh. in Sub-Saharan Africa.
 40307848	Phytochemical screening and repellence potencies of bioactive molecules of plant extracts derived from Ocimum suave, Ocimum americanum and Eucalyptus citriodora against Anopheles gambiae.
 40307776	Factors associated with malaria in pregnancy among women attending ANC Clinic in Kwadaso Municipality, Ghana: a health facility based cross-sectional study.
-40306496	ANTIMALARIAL ACTIVITIES AND LIPID PROFILE OF ETHANOLIC EXTRACT OF Ficus sur Forssk (described by Peter Forsskål) IN Plasmodium berghei INFECTED ALBINO RATS.
+40306496	Antimalarial activities and lipid profile of ethanolic extract of Ficus sur Forssk (described by Peter Forsskål) in Plasmodium berghei infected albino rats.
 40305871	Ammunition Ship Explosions in Papua New Guinea and Solomon Islands, 1944 and 1945.
 40305837	Malaria Among Members of the U.S. Armed Forces, 2024.
 40305823	The Discovery of Chloramphenicol Treatment for Both Scrub Typhus and Typhoid Fever.
@@ -9994,6 +9997,3 @@
 36857851	Key cytokines and hematological parameters in patients with uncomplicated falciparum malaria in Hodeidah, Yemen.
 36856523	Prospects of chitinase in sustainable farming and modern biotechnology: an update on recent progress and challenges.
 36856421	Novel Transmission-Blocking Antimalarials Identified by High-Throughput Screening of Plasmodium berghei Ookluc.
-36855157	Enrichment of phenotype among biological forms of Anopheles stephensi Liston through establishment of isofemale lines.
-36855105	Feeding rates of malaria vectors from a prototype attractive sugar bait station in Western Province, Zambia: results of an entomological validation study.
-36854625	Alleviating the burden of malaria with gene drive technologies? A biocentric analysis of the moral permissibility of modifying malaria mosquitoes.
