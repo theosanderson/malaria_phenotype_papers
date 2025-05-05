@@ -1,3 +1,8 @@
+40320558	Spatial variation and multilevel determinants of malaria infection among pregnant women in Sub-Saharan Africa: using malaria indicator surveys.
+40320532	Bringing malaria diagnosis and treatment closer to the people: economic rationale for expanding malaria community case management to all ages in a rural district in Madagascar.
+40319932	In vitro antiplasmodial activity and cytotoxicity of three Ziziphus (Rhamnaceae) species from South Africa.
+40319619	Health-Related Quality of Life in Children With Sickle Cell Anemia in Malaria-Endemic Regions: The Impact of Disease States and Malaria Prevention Strategies.
+40319575	N,N'-bridged heterocyclic bis-iminium salts as potent antimalarial agents against multi-resistant Plasmodium falciparum.
 40319301	Adherence to anti-malarials among patients diagnosed with malaria in East Africa: a systematic review and meta-analysis.
 40318264	A promising strategy to disrupt Plasmodium falciparum metabolic resilience by targeting G6PD: Virtual screening for potential inhibitors against malaria.
 40317875	The ATM Kinase Inhibitor AZD0156 is a Potent Inhibitor of Plasmodium Phosphatidylinositol 4-Kinase (PI4Kβ) and is an Attractive Candidate for Medicinal Chemistry Optimisation Ag….
@@ -68,7 +73,7 @@
 40288672	Identification of therapeutics against PfPK6 protein of Plasmodium falciparum: Structure and Deep Learning approach.
 40288552	Host factors influencing sexual differentiation and transmission of Plasmodium: A comprehensive review.
 40288551	Dexrazoxane as a viable microsporidia control agent in Anopheles gambiae.
-40288430	Malaria risk perceptions and barriers for effective prophylaxis among sub-Saharan African `visiting friends and relatives´ travellers in Hamburg, Germany.
+40288430	Malaria risk perceptions and barriers for effective prophylaxis among sub-Saharan African 'visiting friends and relatives' travellers in Hamburg, Germany.
 40288396	Incidence rates of malaria, meningitis, and mortality in children younger than 5 years: a prospective cohort study in Ghana and Kenya before the roll-out of the RTS,S/AS01(E) malaria vaccine from 2016 to 2022.
 40288377	Safety of RTS,S/AS01(E) malaria vaccine up to 1 year after the third dose in Ghana, Kenya, and Malawi (EPI-MAL-003): a phase 4 cohort event monitoring study.
 40288157	Moving beyond discovery science to a mechanistic understanding of human malaria.
@@ -9992,8 +9997,3 @@
 36859621	Antimalarial activity assay of artesunate-3-chloro-4(4-chlorophenoxy) aniline in vitro and in mice models.
 36859408	Neurologic Care of Forcibly Displaced Persons: Emerging Issues in Neurology.
 36859263	Identifying individual, household and environmental risk factors for malaria infection on Bioko Island to inform interventions.
-36859238	A snapshot of the prevalence of dihydropteroate synthase-431V mutation and other sulfadoxine-pyrimethamine resistance markers in Plasmodium falciparum isolates in Nigeria.
-36858568	Evaluation of Malarial Var2CSA-Displaying Baculovirus Vector in Transduction Efficiency in Human Cancer Cells.
-36857851	Key cytokines and hematological parameters in patients with uncomplicated falciparum malaria in Hodeidah, Yemen.
-36856523	Prospects of chitinase in sustainable farming and modern biotechnology: an update on recent progress and challenges.
-36856421	Novel Transmission-Blocking Antimalarials Identified by High-Throughput Screening of Plasmodium berghei Ookluc.
