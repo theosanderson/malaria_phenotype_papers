@@ -1,3 +1,10 @@
+40322417	Severe Malaria Infection Concurrent With Autoimmune Hemolytic Anemia and Acute Cytomegalovirus Infection: A Case Report.
+40322333	Synthesis and antiplasmodial activity of 6H,13H-pyrazino[1,2-a;4,5-a']diindole analogues substituted with basic side chains.
+40321780	Successful insertion and expression of a tetracycline transactivator in Anopheles stephensi associated with increased egg production and decreased hatching rate.
+40321766	A machine learning framework to identify complex physicochemical features of B cell epitopes.
+40321759	FocaL mass drug Administration for Plasmodium vivax Malaria Elimination (FLAME): study protocol for an open-label cluster randomized controlled trial in Peru.
+40321757	Effect of controlled human Plasmodium falciparum infection on B cell subsets in individuals with different levels of malaria immunity.
+40321290	Neutralizing Antibody Responses After mRNA COVID-19 Booster Vaccination are Unaffected by Parasitemia in a Malaria-Endemic Setting.
 40320558	Spatial variation and multilevel determinants of malaria infection among pregnant women in Sub-Saharan Africa: using malaria indicator surveys.
 40320532	Bringing malaria diagnosis and treatment closer to the people: economic rationale for expanding malaria community case management to all ages in a rural district in Madagascar.
 40319932	In vitro antiplasmodial activity and cytotoxicity of three Ziziphus (Rhamnaceae) species from South Africa.
@@ -46,6 +53,7 @@
 40298333	Vector incrimination studies of lymphatic filariasis in rural areas of endemic Datia district of Madhya Pradesh, India.
 40297676	Phylogenetic taxonomy of the Zambian Anopheles coustani group using a mitogenomics approach.
 40297444	Geographical Heterogeneity in Antimalarial Resistance Markers Revealed by Genomic Surveillance in Angola, 2023.
+40297410	Maternal HIV retesting during pregnancy and postpartum among high-risk populations in Kenya, South Africa, and Ukraine: Cost-effectiveness of preventing vertical transmission.
 40296150	Green synthesis of PEGylated iron oxide nanoparticles of Eriobotrya japonica leaves extract in combination with B3, against Plasmodium falciparum 3D7 strain.
 40296022	Stable Plasmodium falciparum merozoite surface protein-1 allelic diversity despite decreasing parasitaemia in children with multiple malaria infections.
 40295646	Computational identification of aspartic protease inhibitors for antimalarial drug development against Plasmodium Vivax.
@@ -1164,7 +1172,6 @@
 39895759	Zinc from an Essential Element to an Antiparasitic Therapeutic Agent.
 39894870	Utilisation of an in vivo malaria model to provide functional proof for RhopH1/CLAG essentiality and conserved orthology with P. falciparum.
 39893911	Evaluation of gestational nonpersistent pesticide exposure with newborn size and gestational length in rural Ghana using a novel time-varying extension of multiple informant models.
-39893526	Tropical Infections and Acute Kidney Injury.
 39893463	Voices from the Amazon: exploring implementor and user perceptions of non-invasive malaria diagnostics in Peru.
 39893422	Gender characteristics, social determinants, and seasonal patterns of malaria incidence, relapse, and mortality in Sistan and Baluchistan province and other province of Iran: A systematic review and meta-analysis.
 39893367	Controlled human malaria infection: overview and potential application in the evaluation of transmission-blocking interventions in malaria-endemic areas.
@@ -9990,10 +9997,3 @@
 36861067	Aptamer-based nanotrains and nanoflowers as quinine delivery systems.
 36860770	Drought correlates with reduced infection complexity and possibly prevalence in a decades-long study of the lizard malaria parasite Plasmodium mexicanum.
 36860650	LC-MS Analysis, Computational Investigation, and Antimalarial Studies of Azadirachta indica Fruit.
-36860632	The Emergence of Travel-related Infections in Critical Care Units.
-36860282	Prevalence of Plasmodium falciparum gametocytaemia in asymptomatic school children before and after treatment with dihydroartemisinin-piperaquine (DP).
-36860220	Deltamethrin Poisoning Mimicking Organophosphate Poisoning: A Case Report.
-36860205	Genetic characterization of Strongyloides fuelleborni infecting free-roaming African vervets (Chlorocebus aethiops sabaeus) on the Caribbean island of St. Kitts.
-36859621	Antimalarial activity assay of artesunate-3-chloro-4(4-chlorophenoxy) aniline in vitro and in mice models.
-36859408	Neurologic Care of Forcibly Displaced Persons: Emerging Issues in Neurology.
-36859263	Identifying individual, household and environmental risk factors for malaria infection on Bioko Island to inform interventions.
