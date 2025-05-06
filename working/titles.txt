@@ -1,3 +1,6 @@
+40325474	Nurses' knowledge and willingness to recommend malaria vaccination to caregivers of under-5 in Nigeria: a nationwide survey.
+40325041	Elicitation of liver-stage immunity by nanoparticle immunogens displaying P. falciparum CSP-derived antigens.
+40324611	Artificial intelligence (AI) in point-of-care testing.
 40322417	Severe Malaria Infection Concurrent With Autoimmune Hemolytic Anemia and Acute Cytomegalovirus Infection: A Case Report.
 40322333	Synthesis and antiplasmodial activity of 6H,13H-pyrazino[1,2-a;4,5-a']diindole analogues substituted with basic side chains.
 40321780	Successful insertion and expression of a tetracycline transactivator in Anopheles stephensi associated with increased egg production and decreased hatching rate.
@@ -9994,6 +9997,3 @@
 36862652	Plasmodium schizogony, a chronology of the parasite's cell cycle in the blood stage.
 36861630	Prevention of indigenous malaria cases by strengthening migration surveillance at village level in Purbalingga Regency, Central Java Province, Indonesia.
 36861307	Severe Malaria and Academic Achievement.
-36861067	Aptamer-based nanotrains and nanoflowers as quinine delivery systems.
-36860770	Drought correlates with reduced infection complexity and possibly prevalence in a decades-long study of the lizard malaria parasite Plasmodium mexicanum.
-36860650	LC-MS Analysis, Computational Investigation, and Antimalarial Studies of Azadirachta indica Fruit.
