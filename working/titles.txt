@@ -1,3 +1,4 @@
+40327058	Anti-Parasitics with a Triple Threat: Targeting Parasite Enzymes, the Proton Motive Force, and Host Cell-Mediated Killing.
 40326408	Assessing the bio-efficacy of mosquito nets in Santchou and Bertoua 1 year after the mass distribution campaign of 2019.
 40326084	Recent Advances in Diagnostics and Therapeutic Interventions for Drug-Resistant Malaria.
 40325474	Nurses' knowledge and willingness to recommend malaria vaccination to caregivers of under-5 in Nigeria: a nationwide survey.
@@ -188,7 +189,7 @@
 40258635	Lessons learned from the COVID-19 pandemic: opportunities and challenges to leverage investments in HIV, tuberculosis and malaria for pandemic preparedness and response.
 40258307	Antiparasitic activity of Eryngium bourgatii Gouan: Fractionation and isolation of constituents from roots and aerial parts.
 40258055	Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data.
-40257942	Metahemoglobinemia secundaria al uso de primaquina en un caso pediátrico de malaria.
+40257942	[Primaquine-induced methemoglobinemia in a child treated for malaria].
 40257726	Advancing Understanding of Cerebrovascular Hemodynamic Perturbations in Pediatric Cerebral Malaria Using a Modified Critical Closing Pressure Evaluation- A Prospective, Observational Study.
 40257030	Innovations in Antimalarial Drug Discovery: New Targets and Leads.
 40256582	First Malaria Vaccine RTS, S: A Step toward the Eradication of Malaria.
@@ -9996,4 +9997,3 @@
 36864514	Sub-microscopic Plasmodium falciparum parasitaemia, dihydropteroate synthase (dhps) resistance mutations to sulfadoxine-pyrimethamine, transmission intensity and risk of malaria infection in pregnancy in Mount Cameroon Region.
 36864430	Larval habitat stability and productivity in two sites in Southern Ghana.
 36862755	The salivary protein Saglin facilitates efficient midgut colonization of Anopheles mosquitoes by malaria parasites.
-36862652	Plasmodium schizogony, a chronology of the parasite's cell cycle in the blood stage.
