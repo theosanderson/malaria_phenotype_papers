@@ -1,3 +1,5 @@
+40326408	Assessing the bio-efficacy of mosquito nets in Santchou and Bertoua 1 year after the mass distribution campaign of 2019.
+40326084	Recent Advances in Diagnostics and Therapeutic Interventions for Drug-Resistant Malaria.
 40325474	Nurses' knowledge and willingness to recommend malaria vaccination to caregivers of under-5 in Nigeria: a nationwide survey.
 40325041	Elicitation of liver-stage immunity by nanoparticle immunogens displaying P. falciparum CSP-derived antigens.
 40324611	Artificial intelligence (AI) in point-of-care testing.
@@ -1534,7 +1536,7 @@
 39780394	Contribution of Travelers to Plasmodium Vivax Malaria in South West Delhi, India: Cross-Sectional Survey.
 39780210	A blended learning approach for capacity strengthening to improve the quality of integrated HIV, TB, and malaria services during antenatal and postnatal care in LMICs: a feasibility study.
 39780170	A combined school survey and reactive case detection reveals minimal local transmission of malaria in the Highlands Region of Papua New Guinea.
-39779557	An Outline on benzimidazole Containing Marketed Drugs with Proton Pump Inhibitor and H(1) Receptor Antagonist Activities.
+39779557	An Outline on Benzimidazole Containing Marketed Drugs with Proton Pump Inhibitor and H(1) Receptor Antagonist Activities.
 39779386	Parasite infections: how inflammation alters brain function.
 39779356	Predictors of hypocalcemia among children admitted in the Emergency Pediatric Unit of the University of Maiduguri Teaching Hospital, Maiduguri, Nigeria.
 39778640	A systematic review of Aspilia africana (Pers.) C.D. adams traditional medicinal uses, phytoconstituents, bioactivities, and toxicities.
@@ -9995,5 +9997,3 @@
 36864430	Larval habitat stability and productivity in two sites in Southern Ghana.
 36862755	The salivary protein Saglin facilitates efficient midgut colonization of Anopheles mosquitoes by malaria parasites.
 36862652	Plasmodium schizogony, a chronology of the parasite's cell cycle in the blood stage.
-36861630	Prevention of indigenous malaria cases by strengthening migration surveillance at village level in Purbalingga Regency, Central Java Province, Indonesia.
-36861307	Severe Malaria and Academic Achievement.
