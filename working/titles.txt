@@ -1,3 +1,4 @@
+40327660	Environmental risk factors for chronic kidney disease of non-traditional causes in tropical coastal areas: A systematic review and meta-analysis.
 40327058	Anti-Parasitics with a Triple Threat: Targeting Parasite Enzymes, the Proton Motive Force, and Host Cell-Mediated Killing.
 40326408	Assessing the bio-efficacy of mosquito nets in Santchou and Bertoua 1 year after the mass distribution campaign of 2019.
 40326084	Recent Advances in Diagnostics and Therapeutic Interventions for Drug-Resistant Malaria.
@@ -9996,4 +9997,3 @@
 36864888	Pattern of admissions and outcome in the children emergency department of a tertiary health institution in Southwestern Nigeria: A four-year review.
 36864514	Sub-microscopic Plasmodium falciparum parasitaemia, dihydropteroate synthase (dhps) resistance mutations to sulfadoxine-pyrimethamine, transmission intensity and risk of malaria infection in pregnancy in Mount Cameroon Region.
 36864430	Larval habitat stability and productivity in two sites in Southern Ghana.
-36862755	The salivary protein Saglin facilitates efficient midgut colonization of Anopheles mosquitoes by malaria parasites.
