@@ -1,3 +1,8 @@
+40331266	Cutaneous leishmaniasis in Afghanistan.
+40331174	Emerging Autochthonous Transmission of Travel-Associated Vector-Borne Infections in the Continental United States.
+40330288	Genetic insights in infectious diseases: Insights from a case report and implications for personalized medicine.
+40330178	Impact of Global Climate-Change on Ecology of Anopheles Mosquitoes: A Systematic Review.
+40329887	Effect of a Blood Meal on Plasmodium Oocyst Growth Using the Enema Injection Method.
 40328951	Age structure and parity status determination of Afrotropical malaria vectors using MALDI-TOF MS.
 40328526	Chasing the Mystery of the Etiology of Acute Kidney Injury in Pediatric Severe Malaria.
 40328245	Characterization of Malaria Outbreak in Marsabit County, Kenya, March 2024.
@@ -9992,8 +9997,3 @@
 36867378	A novel pharmacological mechanism of anti-cancer drugs that induce pyroptosis.
 36867305	Ancestry, diversity, and genetics of health-related traits in African-derived communities (quilombos) from Brazil.
 36865611	Severe Malaria in an Adult Patient from Low-Endemic Area in Flores Island, East Nusa Tenggara.
-36865392	Concurrent Dengue-Malaria Infection: The Importance of Acute Febrile Illness in Endemic Zones.
-36865172	New tuberculosis vaccines in India: Modelling the potential health and economic impacts of adolescent/adult vaccination with M72/AS01 (E) and BCG-revaccination.
-36865135	Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar.
-36865132	Detecting temporal and spatial malaria patterns from first antenatal care visits.
-36864926	Pf7: an open dataset of Plasmodium falciparum genome variation in 20,000 worldwide samples.
