@@ -1,3 +1,7 @@
+40328951	Age structure and parity status determination of Afrotropical malaria vectors using MALDI-TOF MS.
+40328526	Chasing the Mystery of the Etiology of Acute Kidney Injury in Pediatric Severe Malaria.
+40328245	Characterization of Malaria Outbreak in Marsabit County, Kenya, March 2024.
+40328242	Enhancing Primaquine Adherence for Plasmodium vivax Malaria: A Cluster-Randomized Controlled Trial in Myanmar.
 40327660	Environmental risk factors for chronic kidney disease of non-traditional causes in tropical coastal areas: A systematic review and meta-analysis.
 40327058	Anti-Parasitics with a Triple Threat: Targeting Parasite Enzymes, the Proton Motive Force, and Host Cell-Mediated Killing.
 40326408	Assessing the bio-efficacy of mosquito nets in Santchou and Bertoua 1 year after the mass distribution campaign of 2019.
@@ -19,6 +23,7 @@
 40319575	N,N'-bridged heterocyclic bis-iminium salts as potent antimalarial agents against multi-resistant Plasmodium falciparum.
 40319301	Adherence to anti-malarials among patients diagnosed with malaria in East Africa: a systematic review and meta-analysis.
 40318264	A promising strategy to disrupt Plasmodium falciparum metabolic resilience by targeting G6PD: Virtual screening for potential inhibitors against malaria.
+28722942	Relapsing Fever.
 40317875	The ATM Kinase Inhibitor AZD0156 is a Potent Inhibitor of Plasmodium Phosphatidylinositol 4-Kinase (PI4Kβ) and is an Attractive Candidate for Medicinal Chemistry Optimisation Ag….
 40316999	A tale of two parasites: a glimpse into the RNA methylome of patient-derived Plasmodium falciparum and Plasmodium vivax isolates.
 40316970	Acceptability of dihydroartemisinin-piperaquine as malaria intermittent preventive treatment for pregnant women living with HIV in Southern Mozambique.
@@ -207,7 +212,7 @@
 40251402	Optimization of SgRNA expression with RNA pol III regulatory elements in Anopheles stephensi.
 40251382	Fitness compatibility and dengue virus Inhibition in a Bangladeshi strain of Aedes aegypti infected with the Wolbachia strain wAlbB.
 40251276	Distinct evolutionary regimes across domains of the Plasmodium falciparum CSP gene.
-40250762	Association between gestational age specific weight gain in pregnancy and risk of adverse perinatal outcomes: A secondary analysis of the INTERBIO-21(st) Fetal Study.
+40250762	Association between gestational age-specific weight gain in pregnancy and risk of adverse perinatal outcomes: a secondary analysis of the INTERBIO-21st Fetal Study.
 40249735	Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium.
 40248722	Targeting of arachidonic acid-modulated autophagy to enhance the sensitivity of ROS1 (+) or ALK (+) non-small cell lung cancer to crizotinib therapy.
 40248577	[Malaria control in French Guiana: What are the challenges in this last endemic French territory in 2024?].
@@ -394,6 +399,7 @@
 40187617	MicroRNAs in sickle cell disease: A comprehensive review.
 40187465	Falcipain-2: A review on structurally diverse non-peptide inhibitors.
 40187114	CYP1A2 contributes to the metabolism of mefloquine: Exploration using in vitro metabolism and physiologically-based pharmacokinetic modelling.
+35593798	Duffy Blood Group System.
 40186328	China's approach to malaria control and elimination: Adaptive management and policy capacity building.
 40186233	Estimating malaria antigen dynamics and the time to negativity of next-generation malaria rapid diagnostic tests.
 40185976	Malaria parasites undergo a rapid and extensive metamorphosis after invasion of the host erythrocyte.
@@ -8156,7 +8162,6 @@
 37489384	Identifying Health-Related Conditions Associated with Tinnitus in Young Adults.
 37489265	Multifaceted Spindle Cell/Sclerosing Rhabdomyosarcoma With Role of Immunohistochemistry in Avoiding Misdiagnosis: A Multi-Institutional Study of 45 Distinct Tumors.
 37487563	Case Report: A Case of Bone Marrow Necrosis and Hyperinflammation in a 10-Year-Old Boy after Plasmodium falciparum Infection.
-28722942	Relapsing Fever.
 37487212	A Zebra Among the Horses: Clinical Implications of Malaria in the United States.
 37486920	Alignment of multiple metabolomics LC-MS datasets from disparate diseases to reveal fever-associated metabolites.
 37486913	Enhancement of VGG16 model with multi-view and spatial dropout for classification of mosquito vectors.
@@ -9133,7 +9138,6 @@
 37150188	Gavi unveils malaria vaccine plans.
 37150086	Network pharmacology and molecular docking combined with widely targeted metabolomics to elucidate the potential compounds and targets of Euphorbia helioscopia seeds for the treatment of pulmonary fibrosis.
 37149980	Exploring the potential of antimalarial nanocarriers as a novel therapeutic approach.
-35593798	Duffy Blood Group System.
 37149600	Spatio-temporal analysis of malaria incidence and its risk factors in North Namibia.
 37149066	Antiparasitic properties of 4-nerolidylcatechol from Pothomorphe umbellata (L.) Miq. (Piperaceae) in vitro and in mice models with either prepatent or patent Schistosoma mansoni infections.
 37148884	Dual-pharmacophore artezomibs hijack the Plasmodium ubiquitin-proteasome system to kill malaria parasites while overcoming drug resistance.
@@ -9993,7 +9997,3 @@
 36865135	Strong isolation by distance and evidence of population microstructure reflect ongoing Plasmodium falciparum transmission in Zanzibar.
 36865132	Detecting temporal and spatial malaria patterns from first antenatal care visits.
 36864926	Pf7: an open dataset of Plasmodium falciparum genome variation in 20,000 worldwide samples.
-36864915	Socioepidemiological macro-determinants associated with the cumulative incidence of bacterial meningitis: A focus on the African Meningitis Belt.
-36864888	Pattern of admissions and outcome in the children emergency department of a tertiary health institution in Southwestern Nigeria: A four-year review.
-36864514	Sub-microscopic Plasmodium falciparum parasitaemia, dihydropteroate synthase (dhps) resistance mutations to sulfadoxine-pyrimethamine, transmission intensity and risk of malaria infection in pregnancy in Mount Cameroon Region.
-36864430	Larval habitat stability and productivity in two sites in Southern Ghana.
