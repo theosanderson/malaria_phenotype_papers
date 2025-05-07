@@ -1,3 +1,7 @@
+40332958	Diflubenzuron Did Not Affect the Abilities of the Backswimmer Buenoa tarsalis to Survive and Prey Upon Larvae of Aedes aegypti.
+40332871	Species Composition, Ecological Preferences, and Chromosomal Polymorphism of Malaria Mosquitoes of the Crimean Peninsula and the Black Sea Coast of the Caucasus.
+40332798	Testosterone Modulates Oxidative Stress in a Sexually Dimorphic Manner in CBA/Ca Mice Infected with Plasmodium berghei ANKA.
+40332403	The MHC (Major Histocmpatibility Complex) Exceptional Molecules of Birds and Their Relationship to Diseases.
 40331266	Cutaneous leishmaniasis in Afghanistan.
 40331174	Emerging Autochthonous Transmission of Travel-Associated Vector-Borne Infections in the Continental United States.
 40330288	Genetic insights in infectious diseases: Insights from a case report and implications for personalized medicine.
@@ -9993,7 +9997,3 @@
 36869034	Variable microtubule architecture in the malaria parasite.
 36868319	The decrease in plasma cholesterol during Plasmodium falciparum infections is not caused by cholesterol utilization by the parasites but by an infection-induced acute-phase response.
 36868216	Public Health Challenges in the Context of the Global Spread of Mpox Infections.
-36867578	Revisiting the morphology of Lamproderma reveals incongruities among the taxonomic characteristics of higher classifications of Myxomycetes.
-36867378	A novel pharmacological mechanism of anti-cancer drugs that induce pyroptosis.
-36867305	Ancestry, diversity, and genetics of health-related traits in African-derived communities (quilombos) from Brazil.
-36865611	Severe Malaria in an Adult Patient from Low-Endemic Area in Flores Island, East Nusa Tenggara.
