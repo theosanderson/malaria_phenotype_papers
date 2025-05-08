@@ -1,3 +1,8 @@
+40337867	Phenotype and function of IL-10-producing NK cells in individuals with malaria experience.
+40337849	Sample-sparing multiplexed antibody Fc biomarker discovery using a reconfigurable integrated microfluidic platform.
+40337467	Establishing and sustaining women-led vector control groups: community perspectives from Misungwi and Ilemela districts, Mwanza, Tanzania.
+40336838	Multi-omics insights into the response of the gut microbiota and metabolites to albendazole deworming in captive Rhinopithecus brelichi.
+40336454	Epidemiology of Intracellular Bacterial Pathogens Rickettsia Spp., Borrelia Spp., Coxiella Spp., and Bartonella Spp. in West Africa from 2000 to 2023: A Systematic Review.
 40336121	Integrating local malaria molecular monitoring into regular malaria indicator surveys on Bioko Island: high association between urban communities and low-density infections.
 40336102	Splenic infarction in a paediatric patient with Plasmodium vivax malaria from Ethiopia: a case report.
 40336085	Effectiveness of family health education in malaria elimination programmes: a scoping review.
@@ -72,8 +77,8 @@
 40307848	Phytochemical screening and repellence potencies of bioactive molecules of plant extracts derived from Ocimum suave, Ocimum americanum and Eucalyptus citriodora against Anopheles gambiae.
 40307776	Factors associated with malaria in pregnancy among women attending ANC Clinic in Kwadaso Municipality, Ghana: a health facility based cross-sectional study.
 40306496	Antimalarial activities and lipid profile of ethanolic extract of Ficus sur Forssk (described by Peter Forsskål) in Plasmodium berghei infected albino rats.
-40305871	Ammunition Ship Explosions in Papua New Guinea and Solomon Islands, 1944 and 1945.
-40305837	Malaria Among Members of the U.S. Armed Forces, 2024.
+40305871	Ammunition ship explosions in Papua New Guinea and Solomon Islands, 1944 and 1945.
+40305837	Malaria among members of the U.S. Armed Forces, 2024.
 40305823	The Discovery of Chloramphenicol Treatment for Both Scrub Typhus and Typhoid Fever.
 40305569	Metagenomic analysis evidences a core virome in Anopheles darlingi from three contrasting Colombian ecoregions.
 40305556	Baseline assessment of front-line health system capacity in vector-borne disease surveillance and response in Papua New Guinea.
@@ -9992,8 +9997,3 @@
 36877567	Updating the Data on Malaria Vectors in Malaysia: Protocol for a Scoping Review.
 36877173	Structure-Based Design of Bisubstrate Tetracycline Destructase Inhibitors That Block Flavin Redox Cycling.
 36877065	The Use of the Antigenically Variable Major Surface Protein 2 in the Establishment of Superinfection during Natural Tick Transmission of Anaplasma marginale in Southern Ghana.
-36876838	Metallopeptidases as Key Virulence Attributes of Clinically Relevant Protozoa: New Discoveries, Perspectives, and Frontiers of Knowledge.
-36876062	Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches.
-36875524	Rosette formation by Plasmodium vivax gametocytes favors the infection in Anopheles aquasalis.
-36875425	Malaria knowledge, attitude, and practice among communities involved in a seasonal malaria chemoprevention study in Nanyumbu and Masasi districts, Tanzania.
-36875126	A tool for evaluating heterogeneity in avidity of polyclonal antibodies.
