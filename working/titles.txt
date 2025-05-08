@@ -1,3 +1,10 @@
+40336121	Integrating local malaria molecular monitoring into regular malaria indicator surveys on Bioko Island: high association between urban communities and low-density infections.
+40336102	Splenic infarction in a paediatric patient with Plasmodium vivax malaria from Ethiopia: a case report.
+40336085	Effectiveness of family health education in malaria elimination programmes: a scoping review.
+40336079	Erema po otjindjumba? Highlighting cultural models and knowledge gaps of malaria in rural Namibian pastoralists.
+40335906	Allelic variation in a cluster of epsilon glutathione S-transferase genes contributes to DDT and pyrethroid resistance in the major African malaria vector Anopheles funestus.
+40335470	Characterising acute and chronic care needs: insights from the Global Burden of Disease Study 2019.
+40335414	Decoding the Minimal Translation System of the Plasmodium falciparum Apicoplast: Essential tRNA-modifying Enzymes and Their Roles in Organelle Maintenance.
 40334619	Microbial dysbiosis fuels STING-driven autoinflammation through cyclic dinucleotides.
 40334298	Enhanced slime mould algorithm with chaotic and orthogonal optimization-based learning for improved severity prediction accuracy in malaria patient outcomes.
 40334250	The plant matrix of Artemisia annua L. for the treatment of malaria: Pharmacodynamic and pharmacokinetic studies.
@@ -9990,10 +9997,3 @@
 36875524	Rosette formation by Plasmodium vivax gametocytes favors the infection in Anopheles aquasalis.
 36875425	Malaria knowledge, attitude, and practice among communities involved in a seasonal malaria chemoprevention study in Nanyumbu and Masasi districts, Tanzania.
 36875126	A tool for evaluating heterogeneity in avidity of polyclonal antibodies.
-36874000	Therapeutic potential of artemisinin and its derivatives in managing kidney diseases.
-36873877	Editorial: Current research on serological analyses of infectious diseases.
-36872344	Association of G6PD status and haemolytic anaemia in patients receiving anti-malarial agents: a systematic review and meta-analysis.
-36872343	Effects of the COVID-19 pandemic on general health and malaria control in Ghana: a qualitative study with mothers and health care professionals.
-36872039	The role of biologics in pediatric food allergy and eosinophilic gastrointestinal disorders.
-36871259	Assessing trainee critical thinking skills using a novel interactive online learning tool.
-36870976	The spatial signature of Plasmodium vivax and Plasmodium falciparum infections: quantifying the clustering of infections in cross-sectional surveys and cohort studies.
