@@ -1,3 +1,12 @@
+40334619	Microbial dysbiosis fuels STING-driven autoinflammation through cyclic dinucleotides.
+40334298	Enhanced slime mould algorithm with chaotic and orthogonal optimization-based learning for improved severity prediction accuracy in malaria patient outcomes.
+40334250	The plant matrix of Artemisia annua L. for the treatment of malaria: Pharmacodynamic and pharmacokinetic studies.
+40334203	A comparison of all-cause and HIV cause-specific mortality among children under 5 years of age before and during COVID-19 in Kenya, 2018-2022.
+40333915	Comparing the diagnostic accuracy of the newly introduced and existing malaria tests in Northwest Ethiopia.
+40333861	Exploring barriers and facilitators in implementation fidelity of malaria screening intervention at Nepal-India border point-of-entry health desks-A mixed method study.
+40333793	Recent Progress in Thiazole, Thiosemicarbazone, and Semicarbazone Derivatives as Antiparasitic Agents Against Trypanosomatids and Plasmodium spp.
+40333746	Performance of BIOCREDIT Pf/Pv lactate dehydrogenase-based malaria rapid diagnostic test among pregnant women with suspected malaria infection in Bahir Dar City Administration, northwest Ethiopia.
+40333649	Co-developing a comprehensive disease policy model with stakeholders: The case of malaria during pregnancy.
 40332958	Diflubenzuron Did Not Affect the Abilities of the Backswimmer Buenoa tarsalis to Survive and Prey Upon Larvae of Aedes aegypti.
 40332871	Species Composition, Ecological Preferences, and Chromosomal Polymorphism of Malaria Mosquitoes of the Crimean Peninsula and the Black Sea Coast of the Caucasus.
 40332798	Testosterone Modulates Oxidative Stress in a Sexually Dimorphic Manner in CBA/Ca Mice Infected with Plasmodium berghei ANKA.
@@ -9988,12 +9997,3 @@
 36872039	The role of biologics in pediatric food allergy and eosinophilic gastrointestinal disorders.
 36871259	Assessing trainee critical thinking skills using a novel interactive online learning tool.
 36870976	The spatial signature of Plasmodium vivax and Plasmodium falciparum infections: quantifying the clustering of infections in cross-sectional surveys and cohort studies.
-36870966	Accuracy of diagnosis among clinical malaria patients: comparing microscopy, RDT and a highly sensitive quantitative PCR looking at the implications for submicroscopic infections.
-36870358	Hydroxyurea with dose escalation for primary stroke risk reduction in children with sickle cell anaemia in Tanzania (SPHERE): an open-label, phase 2 trial.
-36870122	Alpha-galactosylceramide as adjuvant induces protective cell-mediated immunity against Leishmania mexicana infection in vaccinated BALB/c mice.
-36869776	Gene expression reveals immune response strategies of naïve Hawaiian honeycreepers experimentally infected with introduced avian malaria.
-36869438	Biological functions and structural biology of Plasmodium falciparum autophagy-related proteins: The under-explored options for novel antimalarial drug design.
-36869137	Rickettsia felis DNA recovered from a child who lived in southern Africa 2000 years ago.
-36869034	Variable microtubule architecture in the malaria parasite.
-36868319	The decrease in plasma cholesterol during Plasmodium falciparum infections is not caused by cholesterol utilization by the parasites but by an infection-induced acute-phase response.
-36868216	Public Health Challenges in the Context of the Global Spread of Mpox Infections.
