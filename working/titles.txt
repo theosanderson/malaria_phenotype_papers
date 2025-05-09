@@ -1,3 +1,17 @@
+40341638	HIV-tuberculosis co-infection in conflict zones of Nigeria.
+40341172	Impact of dhps mutations on sulfadoxine-pyrimethamine protective efficacy and implications for malaria chemoprevention.
+40341020	Leishmania sand fly-transmission is disrupted by Delftia tsuruhatensis TC1 bacteria.
+40340804	Detection of novel Plasmodium falciparum haplotypes under treatment pressure in paediatric severe malaria.
+40340798	The impact of mass screening and treatment interventions on malaria incidence and prevalence: a retrospective analysis of a malaria elimination programme in eastern Myanmar, and systematic review and meta-analysis.
+40340795	Socio-economic inequalities in malaria prevalence among under-five children in Ghana between 2016 and 2019: a decomposition analysis.
+40340660	Operational evaluation of the deployment of Malaria/CRP Duo and Dengue Duo rapid diagnostic tests for the management of febrile illness by village malaria workers in rural Cambodia.
+40340274	Identification of New Candidate Inhibitors Able to Prevent Erythrocyte Invasion in Malaria by Drug Screening.
+40340169	Malaria parasite phenotypic heterogeneity and the power of single-cell technologies.
+40339873	Ten eudesmane sesquiterpenoids from Dobinea delavayi and their antimalarial and lipid-lowering activities.
+40339481	The role of red cell exchange in the management of malaria in 2024.
+40339230	Hydroxychloroquine can reduce fetal growth restriction in a dexamethasone-induced rat model.
+40339136	Delayed mating in the malaria vector Anopheles funestus compared to Anopheles arabiensis (Diptera: Culicidae).
+40339062	Versatile Imidazole Scaffold with Potent Activity against Multiple Apicomplexan Parasites.
 40337867	Phenotype and function of IL-10-producing NK cells in individuals with malaria experience.
 40337849	Sample-sparing multiplexed antibody Fc biomarker discovery using a reconfigurable integrated microfluidic platform.
 40337467	Establishing and sustaining women-led vector control groups: community perspectives from Misungwi and Ilemela districts, Mwanza, Tanzania.
@@ -79,7 +93,7 @@
 40306496	Antimalarial activities and lipid profile of ethanolic extract of Ficus sur Forssk (described by Peter Forsskål) in Plasmodium berghei infected albino rats.
 40305871	Ammunition ship explosions in Papua New Guinea and Solomon Islands, 1944 and 1945.
 40305837	Malaria among members of the U.S. Armed Forces, 2024.
-40305823	The Discovery of Chloramphenicol Treatment for Both Scrub Typhus and Typhoid Fever.
+40305823	The discovery of chloramphenicol treatment for both scrub typhus and typhoid fever.
 40305569	Metagenomic analysis evidences a core virome in Anopheles darlingi from three contrasting Colombian ecoregions.
 40305556	Baseline assessment of front-line health system capacity in vector-borne disease surveillance and response in Papua New Guinea.
 40304242	Targeting Apicomplexan Parasites: Structural and Functional Characterization of Cryptosporidium Thioredoxin Reductase as a Novel Drug Target.
@@ -9983,17 +9997,3 @@
 36880488	Accelerating the prevention, control and elimination of communicable diseases through integration and optimization of the support from Gavi and Global Fund: A vision for the Eastern Mediterranean Region.
 36880049	A novel nano-iron supplement versus standard treatment for iron deficiency anaemia in children 6-35 months (IHAT-GUT trial): a double-blind, randomised, placebo-controlled non-inferiority phase II trial in The Gambia.
 36879291	Medicinal plant-derived mtDNA via nanovesicles induces the cGAS-STING pathway to remold tumor-associated macrophages for tumor regression.
-36879278	Predictors of optimal uptake of intermittent preventive treatment of malaria in pregnancy using sulfadoxine-pyrimethamine and outcome of pregnancy in selected health facilities: a cross-sectional study in Northern Ghana.
-36879244	Senna occidentalis (L.) Link root extract inhibits Plasmodium growth in vitro and in mice.
-36879237	Integrated malaria prevention in low- and middle-income countries: a systematic review.
-36878637	Endemic Burkitt lymphoma avatar mouse models for exploring inter-patient tumor variation and testing targeted therapies.
-36878625	The first detection of avian haemosporidia from Culicoides biting midges in Japan, with notes on potential vector species and the transmission cycle.
-36878215	Malaria Paradoxes of the U.S. Civil War.
-36878214	Creating and Validating Ligase Primers to Detect Single Nucleotide Polymorphisms Associated with Atovaquone Resistance in Plasmodium falciparum.
-36877890	Dehydration and self-cell cleaning by a single cell drives the formation of fruiting body of Lamproderma columbinum (Myxomycetes).
-36877835	Modeling malaria elimination with changing landscapes, climate, and potentially invasive vectors.
-36877739	Structure and function of Plasmodium actin II in the parasite mosquito stages.
-36877726	Health itinerary-related survival of children under-five with severe malaria or bloodstream infection, DR Congo.
-36877567	Updating the Data on Malaria Vectors in Malaysia: Protocol for a Scoping Review.
-36877173	Structure-Based Design of Bisubstrate Tetracycline Destructase Inhibitors That Block Flavin Redox Cycling.
-36877065	The Use of the Antigenically Variable Major Surface Protein 2 in the Establishment of Superinfection during Natural Tick Transmission of Anaplasma marginale in Southern Ghana.
