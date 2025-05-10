@@ -1,3 +1,10 @@
+40346720	Ownership and utilization of mosquito bed net among pregnant women in Ghana: a national population-based survey.
+40346676	Overcoming practical challenges to pilot Sierra Leone's first school-based distribution of piperonyl butoxide-synergist ITNs: findings from a 2023 assessment in Kono district.
+40346610	Using non-insecticidal traps indoors can complement insecticide-treated nets to target insecticide-resistant malaria vectors.
+40346057	Molecular epidemiology of Ascaris lumbricoides following multiple rounds of community-wide treatment.
+40345974	Structural and Functional Characterization of the 28 kDa Structured Core of BmSA1, the Major Surface Antigen of Babesia Microti.
+40345886	Complementary therapeutic use of exercise in malaria's neurocognitive sequelae.
+40345689	Metabolic syndrome among a Ghanaian cohort living with HIV initiated on dolutegravir in a real-world setting: a prospective study.
 40343952	Costs and cost-effectiveness of community health worker programs focussed on HIV, TB and malaria infectious diseases in low- and middle-income countries (2015-2024): A scoping literature review.
 40343740	Plasmodium falciparum isolates: ex vivo drug response.
 40343341	PTRAMP, CSS and Ripr form a conserved complex required for merozoite invasion of Plasmodium species into erythrocytes.
@@ -9990,10 +9997,3 @@
 36891266	Hydroalcoholic extract of Buxus sempervirens shows antiproliferative effect on melanoma, colorectal carcinoma and prostate cancer cells by affecting the autophagic flow.
 36890564	Correction: Impact of sugarcane irrigation on malaria vector Anopheles mosquito fauna, abundance and seasonality in Arjo-Didessa, Ethiopia.
 36890552	Seasonal assessment on the effects of time of night, temperature and humidity on the biting profile of Anopheles farauti in north Queensland, Australia using a population naive to malaria vector control pressures.
-36890544	Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.
-36890523	Geographical origin of Plasmodium vivax in the Hainan Island, China: insights from mitochondrial genome.
-36890296	Toxicity of insecticidal plant oils on the larval and adult stages of a major malaria vector (Anopheles gambiae Giles 1920).
-36890112	Bioguided Fractionation and Isolation of an Antiplasmodial Saponin from the Roots of Nauclea xanthoxylon (A.Chev.) Aubrév. (Rubiaceae).
-36889222	Impact of a free care policy on routine health service volumes during a protracted Ebola virus disease outbreak in the Democratic Republic of Congo.
-36888809	Malaria in the eco-epidemiological region of the Colombian Caribbean, 1960-2019.
-36888782	Study of karyotype and constitutive heterochromatin of Mansonia spp. (Diptera: Culicidae) in the area surrounding the Jirau Hydroelectric Dam, Rondônia, Brazil.
