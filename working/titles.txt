@@ -1,3 +1,13 @@
+40343952	Costs and cost-effectiveness of community health worker programs focussed on HIV, TB and malaria infectious diseases in low- and middle-income countries (2015-2024): A scoping literature review.
+40343740	Plasmodium falciparum isolates: ex vivo drug response.
+40343341	PTRAMP, CSS and Ripr form a conserved complex required for merozoite invasion of Plasmodium species into erythrocytes.
+40343034	Epidemiology of Relapsing and Falciparum Malaria in the Highlands of Cameroon: An Integrated Community Survey of Human Infection and Vector Abundance.
+40343031	Metagenomic analysis reveals extreme complexity of Plasmodium spp. infections in high transmission in West Africa.
+40343030	PvGAP: Development of a globally-applicable, highly-multiplexed microhaplotype amplicon panel for Plasmodium vivax.
+40343024	Acute Epstein Barr Virus is a risk factor for severe malaria in infants under 24 months.
+40343013	The role of Seasonal Malaria Chemoprevention in the effect of Azithromycin on Child Mortality: A Secondary Analysis of the CHAT Cluster Randomized Clinical Trial.
+40342870	Re-emergence of Crimean Congo hemorrhagic fever virus in Kedougou, south-eastern Senegal in 2023: Epidemiological and zoological investigations of the first symptomatic human case.
+40342740	Leptospirosis in humans and animals in Malaysia: A review from 1976 to 2023.
 40341638	HIV-tuberculosis co-infection in conflict zones of Nigeria.
 40341172	Impact of dhps mutations on sulfadoxine-pyrimethamine protective efficacy and implications for malaria chemoprevention.
 40341020	Leishmania sand fly-transmission is disrupted by Delftia tsuruhatensis TC1 bacteria.
@@ -279,7 +289,7 @@
 40243929	Protective Vaccination of Mice Against Blood-Stage Malaria Impacts Hepatic Expression of Genes Encoding Acute-Phase Proteins and IL-6 Family Members.
 40243759	Trihydroxyflavanone isolated from Dipteryx lacunifera Ducke (Fabaceae) as a potential antimalarial drug: An in silico and in vitro approach.
 40243285	Association between Maternal HIV and Adverse Birth Outcomes in the Era of Universal Antiretroviral Therapy in Malawi.
-40243252	N-substituted Bridged Azaozonides as Promising Antimalarial Agents.
+40243252	N-Substituted Bridged Azaozonides as Promising Antimalarial Agents.
 40243121	Effects of chloroquine and hydroxychloroquine on bone health (Review).
 40242433	Integrating One Health research in Sarawak, Malaysia: Addressing emerging and re-emerging infectious disease through international collaboration.
 40241753	CR1 variants contribute to FSGS susceptibility across multiple populations.
@@ -9987,13 +9997,3 @@
 36889222	Impact of a free care policy on routine health service volumes during a protracted Ebola virus disease outbreak in the Democratic Republic of Congo.
 36888809	Malaria in the eco-epidemiological region of the Colombian Caribbean, 1960-2019.
 36888782	Study of karyotype and constitutive heterochromatin of Mansonia spp. (Diptera: Culicidae) in the area surrounding the Jirau Hydroelectric Dam, Rondônia, Brazil.
-36888694	Cytoplasmic isoleucyl tRNA synthetase as an attractive multistage antimalarial drug target.
-36882935	Incorporation of Trifluoromethyltriazoline in the Side Chain of 4-Aminoquinolines: Synthesis and Evaluation as Antiplasmodial Agents.
-36882806	Cattle feeding tendency of Anopheles mosquitoes and their infection rates in Aradum village, North Wollo, Ethiopia: an implication for animal-based malaria control strategies.
-36882754	Asymptomatic Plasmodium falciparum carriage and clinical disease: a 5-year community-based longitudinal study in The Gambia.
-36882230	Acceptability and usability of a paediatric HIV screening tool in high-volume outpatient settings in Malawi, perspectives from caregivers and healthcare workers.
-36881629	Standing genetic variation and chromosome differences drove rapid ecotype formation in a major malaria mosquito.
-36881034	Effect of Intrapartum Azithromycin vs Placebo on Neonatal Sepsis and Death: A Randomized Clinical Trial.
-36880488	Accelerating the prevention, control and elimination of communicable diseases through integration and optimization of the support from Gavi and Global Fund: A vision for the Eastern Mediterranean Region.
-36880049	A novel nano-iron supplement versus standard treatment for iron deficiency anaemia in children 6-35 months (IHAT-GUT trial): a double-blind, randomised, placebo-controlled non-inferiority phase II trial in The Gambia.
-36879291	Medicinal plant-derived mtDNA via nanovesicles induces the cGAS-STING pathway to remold tumor-associated macrophages for tumor regression.
