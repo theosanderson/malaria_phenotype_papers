@@ -1,3 +1,6 @@
+40347218	A strategy for the development of receptor-containing antibodies targeting malaria variant surface antigens.
+40347047	Integrating Urea-based Units into Porphyrinic Covalent Organic Framework for Efficient Artemisinin Photosynthesis.
+40346757	Itaconate Has Limited Protective Effects in Experimental Malaria Models.
 40346720	Ownership and utilization of mosquito bed net among pregnant women in Ghana: a national population-based survey.
 40346676	Overcoming practical challenges to pilot Sierra Leone's first school-based distribution of piperonyl butoxide-synergist ITNs: findings from a 2023 assessment in Kono district.
 40346610	Using non-insecticidal traps indoors can complement insecticide-treated nets to target insecticide-resistant malaria vectors.
@@ -9994,6 +9997,3 @@
 36893173	Study protocol for development of an options assessment toolkit (OAT) for national malaria programs in Asia Pacific to determine best combinations of vivax radical cure for their given contexts.
 36892015	Surveillance of avian malaria and related haemoparasites in common terns (Sterna hirundo) on the Atlantic coast of South America.
 36891802	[First malaria vaccine recommended by WHO].
-36891266	Hydroalcoholic extract of Buxus sempervirens shows antiproliferative effect on melanoma, colorectal carcinoma and prostate cancer cells by affecting the autophagic flow.
-36890564	Correction: Impact of sugarcane irrigation on malaria vector Anopheles mosquito fauna, abundance and seasonality in Arjo-Didessa, Ethiopia.
-36890552	Seasonal assessment on the effects of time of night, temperature and humidity on the biting profile of Anopheles farauti in north Queensland, Australia using a population naive to malaria vector control pressures.
