@@ -1,10 +1,13 @@
-40347218	A strategy for the development of receptor-containing antibodies targeting malaria variant surface antigens.
-40347047	Integrating Urea-based Units into Porphyrinic Covalent Organic Framework for Efficient Artemisinin Photosynthesis.
-40346757	Itaconate Has Limited Protective Effects in Experimental Malaria Models.
+40350582	Diagnosis On-Demand: Field Evaluation of Microfluidic Paper Device for the Detection of Asymptomatic Malaria.
+40350476	CRISPR/Cas9-engineering of Kell null erythrocytes to unveil host targeted irresistible antimalarial.
+40350417	Assessment of the in vitro activity and selectivity of Artemisia afra and Artemisia annua aqueous extracts against artemisinin-resistant Plasmodium falciparum.
 40348888	A molecular network analysis and in silico docking of beta-eudesmol, atractylodin and hinesol in patients with advance stage intrahepatic cholangiocarcinoma.
 40348700	Kidney Replacement Therapy for Children With Acute Kidney Injury Due to Severe Malaria: A Review of Available Services in Selected African Countries.
 40348697	Analysis of Serum Creatinine Data from Long-tailed and Rhesus Macaques to Assess Malaria-associated Acute Kidney Injury.
 40348079	Antimalarial drug efficacy and resistance: Insights from northern Uganda.
+40347218	A strategy for the development of receptor-containing antibodies targeting malaria variant surface antigens.
+40347047	Integrating Urea-based Units into Porphyrinic Covalent Organic Framework for Efficient Artemisinin Photosynthesis.
+40346757	Itaconate Has Limited Protective Effects in Experimental Malaria Models.
 40346720	Ownership and utilization of mosquito bed net among pregnant women in Ghana: a national population-based survey.
 40346676	Overcoming practical challenges to pilot Sierra Leone's first school-based distribution of piperonyl butoxide-synergist ITNs: findings from a 2023 assessment in Kono district.
 40346610	Using non-insecticidal traps indoors can complement insecticide-treated nets to target insecticide-resistant malaria vectors.
@@ -106,7 +109,7 @@
 40312291	Impact of hepatitis B virus infection in patients with plasmodium parasites in selected health facilities in Accra, Ghana.
 40311664	Fever in travelers returning from tropical and subtropical areas: a hospital-based study of factors affecting investigations and diagnoses in children and adults.
 40310678	Health Education Campaign to Improve Malaria Knowledge, Prevention, and Treatment Behaviors in Rural East Nusa Tenggara Province, Indonesia: Protocol for a Cluster-Assigned Quasi-Experimental Study.
-40310570	Treating sickle cell disease in resource-limited sub-saharan Africa: recent strategies and recommendations in addressing the gaps for the provision of evidenced based management.
+40310570	Treating sickle cell disease in resource-limited sub-Saharan Africa: recent strategies and recommendations in addressing the gaps for the provision of evidence-based management.
 40309556	Determinants and Prevalence of Paediatrics Return Visits to the Emergency Department in a Tertiary Hospital in Southeast Nigeria: A Retrospective Study.
 40309553	Knowledge, acceptance and willingness to pay for malaria vaccine among residents of a semi-urban community in Kaduna State, North-western Nigeria.
 40309407	Female Genital Schistosomiasis (FGS) in a Nonendemic Setting: Retrospective Case-Notes Review of Schistosoma haematobium-Positive FGS Cases at the Hospital for Tropical Diseases, London, With a Pragmatic Clinical Pathway for Nonendemic Settings.
@@ -9994,6 +9997,3 @@
 36895563	Malaria and leishmaniasis: Updates on co-infection.
 36895438	Assessing the variability in experimental hut trials evaluating insecticide-treated nets against malaria vectors.
 36894982	Novel Plasmodium falciparum k13 gene polymorphisms from Kisii County, Kenya during an era of artemisinin-based combination therapy deployment.
-36894964	Severe malaria in Gabon: epidemiological, clinical and laboratory features in Amissa Bongo Hospital of Franceville.
-36894653	Machine learning for accurate estimation of fetal gestational age based on ultrasound images.
-36894624	Analysis of sequence diversity in Plasmodium falciparum glutamic acid-rich protein (PfGARP), an asexual blood stage vaccine candidate.
