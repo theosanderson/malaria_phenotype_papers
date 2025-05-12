@@ -1,3 +1,8 @@
+40353796	Cell-Based Progression of Spiroindoline Phenotypic Hits Leads to the Identification of Compounds with Diverging Parasitological Profiles against the Human Malaria Parasite Plasmodium falciparum.
+40353743	Biochemical basis of endogenous bioluminescent springtail Lobella sauteri (Collembola).
+40352769	Green Synthesis of Cymodocea serrulata Zinc Oxide Nanoparticles for Sustainable Antibacterial, and Mosquito Control and their  Toxicity to non-target Organisms.
+40352628	Previously Undiagnosed Disease "X" in the Democratic Republic of the Congo: Malaria's Potential Role in the Outbreak.
+40352237	Community-based intervention in mosquito control strategy: A systematic review.
 40350582	Diagnosis On-Demand: Field Evaluation of Microfluidic Paper Device for the Detection of Asymptomatic Malaria.
 40350476	CRISPR/Cas9-engineering of Kell null erythrocytes to unveil host targeted irresistible antimalarial.
 40350417	Assessment of the in vitro activity and selectivity of Artemisia afra and Artemisia annua aqueous extracts against artemisinin-resistant Plasmodium falciparum.
@@ -9992,8 +9997,3 @@
 36898498	The insecticidal activity of essential oil constituents against pyrethroid-resistant Anopheles funestus (Diptera: Culicidae).
 36897874	Combined effect of physico-chemical and microbial quality of breeding habitat water on oviposition of malarial vector Anopheles subpictus.
 36896967	Effectiveness of Intermittent Screening and Treatment of Malaria in Pregnancy on Maternal and Birth Outcomes in Selected Districts in Rwanda: A Cluster Randomized Controlled Trial.
-36896902	DihydrofolateReductase (DHFR) Inhibitors: A Comprehensive Review.
-36895880	Elevation of artemisinin content by co-transformation of artemisinin biosynthetic pathway genes and trichome-specific transcription factors in Artemisia annua.
-36895563	Malaria and leishmaniasis: Updates on co-infection.
-36895438	Assessing the variability in experimental hut trials evaluating insecticide-treated nets against malaria vectors.
-36894982	Novel Plasmodium falciparum k13 gene polymorphisms from Kisii County, Kenya during an era of artemisinin-based combination therapy deployment.
