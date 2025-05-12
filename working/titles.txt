@@ -1,10 +1,10 @@
+40347218	A strategy for the development of receptor-containing antibodies targeting malaria variant surface antigens.
+40347047	Integrating Urea-based Units into Porphyrinic Covalent Organic Framework for Efficient Artemisinin Photosynthesis.
+40346757	Itaconate Has Limited Protective Effects in Experimental Malaria Models.
 40348888	A molecular network analysis and in silico docking of beta-eudesmol, atractylodin and hinesol in patients with advance stage intrahepatic cholangiocarcinoma.
 40348700	Kidney Replacement Therapy for Children With Acute Kidney Injury Due to Severe Malaria: A Review of Available Services in Selected African Countries.
 40348697	Analysis of Serum Creatinine Data from Long-tailed and Rhesus Macaques to Assess Malaria-associated Acute Kidney Injury.
 40348079	Antimalarial drug efficacy and resistance: Insights from northern Uganda.
-40347218	A strategy for the development of receptor-containing antibodies targeting malaria variant surface antigens.
-40347047	Integrating Urea-based Units into Porphyrinic Covalent Organic Framework for Efficient Artemisinin Photosynthesis.
-40346757	Itaconate Has Limited Protective Effects in Experimental Malaria Models.
 40346720	Ownership and utilization of mosquito bed net among pregnant women in Ghana: a national population-based survey.
 40346676	Overcoming practical challenges to pilot Sierra Leone's first school-based distribution of piperonyl butoxide-synergist ITNs: findings from a 2023 assessment in Kono district.
 40346610	Using non-insecticidal traps indoors can complement insecticide-treated nets to target insecticide-resistant malaria vectors.
