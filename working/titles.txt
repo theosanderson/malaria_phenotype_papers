@@ -1,3 +1,7 @@
+40348888	A molecular network analysis and in silico docking of beta-eudesmol, atractylodin and hinesol in patients with advance stage intrahepatic cholangiocarcinoma.
+40348700	Kidney Replacement Therapy for Children With Acute Kidney Injury Due to Severe Malaria: A Review of Available Services in Selected African Countries.
+40348697	Analysis of Serum Creatinine Data from Long-tailed and Rhesus Macaques to Assess Malaria-associated Acute Kidney Injury.
+40348079	Antimalarial drug efficacy and resistance: Insights from northern Uganda.
 40347218	A strategy for the development of receptor-containing antibodies targeting malaria variant surface antigens.
 40347047	Integrating Urea-based Units into Porphyrinic Covalent Organic Framework for Efficient Artemisinin Photosynthesis.
 40346757	Itaconate Has Limited Protective Effects in Experimental Malaria Models.
@@ -9993,7 +9997,3 @@
 36894964	Severe malaria in Gabon: epidemiological, clinical and laboratory features in Amissa Bongo Hospital of Franceville.
 36894653	Machine learning for accurate estimation of fetal gestational age based on ultrasound images.
 36894624	Analysis of sequence diversity in Plasmodium falciparum glutamic acid-rich protein (PfGARP), an asexual blood stage vaccine candidate.
-36893971	Comparative efficacy of sulphadoxine-pyrimethamine and dihydroartemisinin-piperaquine against malaria infection during late-stage pregnancy in mice.
-36893173	Study protocol for development of an options assessment toolkit (OAT) for national malaria programs in Asia Pacific to determine best combinations of vivax radical cure for their given contexts.
-36892015	Surveillance of avian malaria and related haemoparasites in common terns (Sterna hirundo) on the Atlantic coast of South America.
-36891802	[First malaria vaccine recommended by WHO].
