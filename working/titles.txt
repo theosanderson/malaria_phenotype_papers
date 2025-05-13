@@ -1,3 +1,8 @@
+40357264	Modelling health outcomes of a decade of HIV, malaria and tuberculosis initiatives, Malawi.
+40356943	Determinants of Long-Lasting Insecticide-Treated Bed Net Utilization Among Pregnant Women in Gechi District, Buno Bedele Zone South West Ethiopia: A Community-Based Cross-Sectional Study.
+40356920	Corrigendum: Adeno-associated virus as an effective malaria booster vaccine following adenovirus priming.
+40356815	Mitigating climate change impacts on health: a comparative analysis of strategies in Saudi Arabia and Lebanon.
+40356391	Deciphering Plasmodium Condensin Core Subunits of Structural Maintenance of Chromosomes 2 (SMC2) as a Putative Drug Target for Antimalarial Drug.
 40355632	Genome wide population genetics and molecular surveillance of insecticide resistance in Anopheles stephensi mosquitoes from Awash Sebat Kilo in Ethiopia.
 40355315	Acute Kidney Injury in Non-falciparum Malaria.
 40355266	Malaria morbidity, mortality and associated costs in Indonesia: analysis of the National Health Insurance claim dataset.
@@ -9992,8 +9997,3 @@
 36901269	Resistance to Pyrethroids in the Malaria Vector Anopheles albimanus in Two Important Villages in the Soconusco Region of Chiapas, Mexico, 2022.
 36899977	Polyclonal Antibody Generation against PvTRAg for the Development of a Diagnostic Assay for Plasmodium vivax.
 36899594	A study on anti-malaria drugs using degree-based topological indices through QSPR analysis.
-36899431	Distribution of Anopheles gambiae thioester-containing protein 1 alleles along malaria transmission gradients in The Gambia.
-36899429	Laboratory evaluation of the efficacy of deltamethrin-laced attractive toxic sugar bait formulation on Anopheles stephensi.
-36899381	Two decades of capacity building to support global malaria control and elimination: retrospective and prospective international trainings in Jiangsu Institute of Parasitic Diseases, China, 2002-2021.
-36899358	Gaps in research and capacity development for malaria surveillance and response in the Asia-Pacific: meeting report.
-36899155	Evolutionary honing in and mutational replacement: how long-term directed mutational responses to specific environmental pressures are possible.
