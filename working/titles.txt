@@ -1,3 +1,4 @@
+40358391	A case of Plasmodium falciparum malaria presenting 13 years after leaving an endemic area.
 40357264	Modelling health outcomes of a decade of HIV, malaria and tuberculosis initiatives, Malawi.
 40356943	Determinants of Long-Lasting Insecticide-Treated Bed Net Utilization Among Pregnant Women in Gechi District, Buno Bedele Zone South West Ethiopia: A Community-Based Cross-Sectional Study.
 40356920	Corrigendum: Adeno-associated virus as an effective malaria booster vaccine following adenovirus priming.
@@ -9996,4 +9997,3 @@
 36901291	Spatio-Temporal Bayesian Models for Malaria Risk Using Survey and Health Facility Routine Data in Rwanda.
 36901269	Resistance to Pyrethroids in the Malaria Vector Anopheles albimanus in Two Important Villages in the Soconusco Region of Chiapas, Mexico, 2022.
 36899977	Polyclonal Antibody Generation against PvTRAg for the Development of a Diagnostic Assay for Plasmodium vivax.
-36899594	A study on anti-malaria drugs using degree-based topological indices through QSPR analysis.
