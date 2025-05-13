@@ -1,3 +1,6 @@
+40354416	Can audit and feedback improve health service readiness and delivery outcomes in a low-resource setting? Effectiveness results of the IDEAs strategy from central Mozambique.
+40354414	Reversible host cell surface remodelling limits immune recognition and maximizes survival of Plasmodium falciparum gametocytes.
+40354311	Mathematical modeling of malaria vaccination with seasonality and immune feedback.
 40353796	Cell-Based Progression of Spiroindoline Phenotypic Hits Leads to the Identification of Compounds with Diverging Parasitological Profiles against the Human Malaria Parasite Plasmodium falciparum.
 40353743	Biochemical basis of endogenous bioluminescent springtail Lobella sauteri (Collembola).
 40352769	Green Synthesis of Cymodocea serrulata Zinc Oxide Nanoparticles for Sustainable Antibacterial, and Mosquito Control and their  Toxicity to non-target Organisms.
@@ -9994,6 +9997,3 @@
 36899110	Hyperreflective spots in cerebral malaria.
 36898988	The Skp1-Cullin1-FBXO1 complex is a pleiotropic regulator required for the formation of gametes and motile forms in Plasmodium berghei.
 36898744	International modified Delphi study on malaria preventive behaviour: new themes, contexts and framework for future research on Plasmodium knowlesi malaria.
-36898498	The insecticidal activity of essential oil constituents against pyrethroid-resistant Anopheles funestus (Diptera: Culicidae).
-36897874	Combined effect of physico-chemical and microbial quality of breeding habitat water on oviposition of malarial vector Anopheles subpictus.
-36896967	Effectiveness of Intermittent Screening and Treatment of Malaria in Pregnancy on Maternal and Birth Outcomes in Selected Districts in Rwanda: A Cluster Randomized Controlled Trial.
