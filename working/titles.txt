@@ -1,3 +1,16 @@
+40365269	Point-of-Care Evaluation of Malaria Rapid Diagnostic Test (mRDT) for Detection of Plasmodium falciparum Among Children Under 5 Years of Age Attending Panyadoli Health Center III in Kiryandongo Refugee Settlement, Mid-Western Uganda.
+40365044	Enhancing IPTp-SP uptake: Community and stakeholder recommendations for improving access and utilisation - insights from a study in Bayelsa-Nigeria.
+40364975	From Colonization to High Production and Plasmodium vivax Infection of Anopheles darlingi and Anopheles deaneorum: a Platform for Malaria Research.
+40362203	Extracellular Vesicle Abundance, but Not a High Aggregation-Prone Peptide Cargo, Is Associated with Dihydroartemisinin Exposure in Plasmodium falciparum.
+40361133	Exploring the prevalence and association between nutritional status and asymptomatic malaria in Rwanda among under-5 children: a cross-sectional analysis.
+40360769	Malnutrition exacerbates pathogenesis of Lutzomyia longipalpis sand fly-transmitted Leishmania donovani.
+40360721	Modelling species distribution of Anopheles gambiae s.l. in Osun state using random forest modeling approach.
+40360613	Genetic diversity and natural selection of Plasmodium falciparum Pf41 vaccine candidate in clinical isolates from Senegal.
+40360328	Plasma Neutrophil Gelatinase-Associated Lipocalin as a Biomarker of Kidney Injury and Potential Predictor of Hypoxic Brain Injury in Severe Plasmodium falciparum Malaria: Insights From India.
+40359919	Urogenital Schistosomiasis Is Associated with an Increased Risk of Plasmodium falciparum Infection in Burkina Faso.
+40359916	Clinical Trial Sites and Malaria Incidence Mismatch.
+40359817	Non-specific effects of routine vaccinations on child survival between 12-59 months of age in Jigawa, Nigeria: A secondary analysis of the INSPIRING Jigawa trial.
+40359186	Targeting tumor-associated genes, immune response, and circulating tumor cells in intrahepatic cholangiocarcinoma: Therapeutic potential of Atractylodes lancea (Thunb.) DC.
 40358391	A case of Plasmodium falciparum malaria presenting 13 years after leaving an endemic area.
 40357264	Modelling health outcomes of a decade of HIV, malaria and tuberculosis initiatives, Malawi.
 40356943	Determinants of Long-Lasting Insecticide-Treated Bed Net Utilization Among Pregnant Women in Gechi District, Buno Bedele Zone South West Ethiopia: A Community-Based Cross-Sectional Study.
@@ -9984,16 +9997,3 @@
 36909482	Coping with drug resistant tuberculosis alongside COVID-19 and other stressors in Zimbabwe: a qualitative study.
 36908639	Molecular Surveillance of Malaria Using the PF AmpliSeq Custom Assay for Plasmodium falciparum Parasites from Dried Blood Spot DNA Isolates from Peru.
 36908393	Impact of helminthiasis on gestational anemia in low- and middle-income countries: a systematic review and meta-analysis of more than 19,000 women.
-36907541	Synthesis, characterization, antioxidant and antiparasitic activities new naphthyl-thiazole derivatives.
-36907290	Identification of three members of the multidomain adhesion CCp family in Babesia gibsoni.
-36906823	Hydroxyurea for children with sickle cell disease in sub-Saharan Africa: A summary of the evidence, opportunities, and challenges.
-36906144	Structures of calmodulin-melittin complexes show multiple binding modes lacking classical anchoring interactions.
-36906121	Ultra-short course, high-dose primaquine to prevent Plasmodium vivax infection following uncomplicated pediatric malaria: A randomized, open-label, non-inferiority trial of early versus delayed treatment.
-36905751	Childhood Nephrotic Syndrome in Africa: Epidemiology, Treatment Trends, and Outcomes.
-36904003	Phenanthroindolizidine Alkaloids Secondary Metabolites Diversity in Medicinally Viable Plants of the Genus Tylophora.
-36903635	Bioactive Molecules Derived from Plants in Managing Dengue Vector Aedes aegypti (Linn.).
-36902324	Status Quo and Future Perspectives of Molecular and Genomic Studies on the Genus Biomphalaria-The Intermediate Snail Host of Schistosoma mansoni.
-36902060	Isocorydine Ameliorates IL-6 Expression in Bone Marrow-Derived Macrophages and Acute Lung Injury Induced by Lipopolysaccharide.
-36901291	Spatio-Temporal Bayesian Models for Malaria Risk Using Survey and Health Facility Routine Data in Rwanda.
-36901269	Resistance to Pyrethroids in the Malaria Vector Anopheles albimanus in Two Important Villages in the Soconusco Region of Chiapas, Mexico, 2022.
-36899977	Polyclonal Antibody Generation against PvTRAg for the Development of a Diagnostic Assay for Plasmodium vivax.
