@@ -1,3 +1,8 @@
+40366579	Chemical composition, insecticidal activity and non-target effects of Sphagneticola trilobata (L.) Pruski essential oil against immature stages (egg, larvae and pupae) of dengue, filariasis, malaria vectors and four natural predators.
+40366227	Experiences of Young Women Living in Kibra, Kenya, on HIV Risk and Sexual Violence: A Descriptive Study.
+40366167	Assessing the sequencing success and analytical specificity of a targeted amplicon deep sequencing workflow for genotyping the foodborne parasite Cyclospora.
+40366119	Placental Malaria Induces Oxidative Stress in Human Syncytiotrophoblast.
+40365988	Determinants of Malaria Vaccine Acceptance: A Systematic Review and Meta-Analysis of Awareness, Acceptance, Hesitancy, and Willingness to Pay.
 40365269	Point-of-Care Evaluation of Malaria Rapid Diagnostic Test (mRDT) for Detection of Plasmodium falciparum Among Children Under 5 Years of Age Attending Panyadoli Health Center III in Kiryandongo Refugee Settlement, Mid-Western Uganda.
 40365044	Enhancing IPTp-SP uptake: Community and stakeholder recommendations for improving access and utilisation - insights from a study in Bayelsa-Nigeria.
 40364975	From Colonization to High Production and Plasmodium vivax Infection of Anopheles darlingi and Anopheles deaneorum: a Platform for Malaria Research.
@@ -9992,8 +9997,3 @@
 36910314	Entomological survey of malaria vectors in Dashtestan County, South of Iran.
 36910309	Expression of the Fab enzymes (Fab I and Fab Z) from Plasmodium falciparum after exposure to Artemisia afra plant extracts and drugs screening.
 36910307	P fmdr 1 and kelch 13 genes distribution among children that are 5 years and below in Akure, Nigeria.
-36909626	Comparison of Epstein-Barr virus and Kaposi's sarcoma-associated herpesvirus viral load in peripheral blood mononuclear cells and oral fluids of HIV-negative individuals aged 3 to 89 years from Uganda.
-36909484	Babesia divergens egress from host cells is orchestrated by essential and druggable kinases and proteases.
-36909482	Coping with drug resistant tuberculosis alongside COVID-19 and other stressors in Zimbabwe: a qualitative study.
-36908639	Molecular Surveillance of Malaria Using the PF AmpliSeq Custom Assay for Plasmodium falciparum Parasites from Dried Blood Spot DNA Isolates from Peru.
-36908393	Impact of helminthiasis on gestational anemia in low- and middle-income countries: a systematic review and meta-analysis of more than 19,000 women.
