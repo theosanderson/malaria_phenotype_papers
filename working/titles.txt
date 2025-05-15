@@ -1,3 +1,5 @@
+40371277	Sports injury and illness incidence at the 2021 Summer Universiade: a retrospective study of 6,500 athletes from 113 countries/regions.
+40370584	Dihydroartemisinin-piperaquine versus sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria in pregnancy: a systematic review and individual participant data meta-analysis.
 40369344	A modular mRNA vaccine platform encoding antigen-presenting capsid virus-like particles enhances the immunogenicity of the malaria antigen Pfs25.
 40369090	PI3-kinase has multiple functions in asexual blood stages of Plasmodium falciparum.
 40368280	Mosquito sex determination: recent advances and applications.
@@ -136,7 +138,7 @@
 40319301	Adherence to anti-malarials among patients diagnosed with malaria in East Africa: a systematic review and meta-analysis.
 40318264	A promising strategy to disrupt Plasmodium falciparum metabolic resilience by targeting G6PD: Virtual screening for potential inhibitors against malaria.
 28722942	Relapsing Fever.
-40317875	The ATM Kinase Inhibitor AZD0156 is a Potent Inhibitor of Plasmodium Phosphatidylinositol 4-Kinase (PI4Kβ) and is an Attractive Candidate for Medicinal Chemistry Optimisation Ag….
+40317875	The ATM Kinase Inhibitor AZD0156 Is a Potent Inhibitor of Plasmodium Phosphatidylinositol 4-Kinase (PI4Kβ) and Is an Attractive Candidate for Medicinal Chemistry Optimization Against Malaria.
 40316999	A tale of two parasites: a glimpse into the RNA methylome of patient-derived Plasmodium falciparum and Plasmodium vivax isolates.
 40316970	Acceptability of dihydroartemisinin-piperaquine as malaria intermittent preventive treatment for pregnant women living with HIV in Southern Mozambique.
 40316890	Bilaterally Substituted Terphenyl Molecules Efficiently Inhibit the Interaction between a Protein and a Fully Buried α-Helix in the Malaria Parasite Motor System.
@@ -9995,5 +9997,3 @@
 36913959	Effect of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine with and without azithromycin versus monthly sulfadoxine-pyrimethamine on adverse pregnancy outcomes in Africa: a double-blind randomised, partly placebo-controlled trial.
 36913922	Quantitative Polymerase Chain Reaction from Malaria Rapid Diagnostic Tests to Detect Borrelia crocidurae, the Agent of Tick-Borne Relapsing Fever, in Febrile Patients in Senegal.
 36913921	Lateral Flow Recombinase Polymerase Amplification Assays for the Detection of Human Plasmodium Species.
-36912708	Climate change and the displaced person: how vectors and climate are changing the landscape of infectious diseases among displaced and migrant populations.
-36912026	Malaria vaccines.
