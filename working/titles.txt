@@ -1,3 +1,6 @@
+40369344	A modular mRNA vaccine platform encoding antigen-presenting capsid virus-like particles enhances the immunogenicity of the malaria antigen Pfs25.
+40369090	PI3-kinase has multiple functions in asexual blood stages of Plasmodium falciparum.
+40368280	Mosquito sex determination: recent advances and applications.
 40367293	Prevalence and determinants of anemia among pregnant women attending maternal and child health clinics at Sukuta Health Center, The Gambia: An institutional-based cross-sectional study.
 40367238	Allosteric modulation of Plasmodium falciparum Isoleucyl tRNA synthetase by South African natural compounds.
 40367150	Advancing Early Warning Systems for Malaria: Progress, challenges, and future directions - A scoping review.
@@ -9994,6 +9997,3 @@
 36913921	Lateral Flow Recombinase Polymerase Amplification Assays for the Detection of Human Plasmodium Species.
 36912708	Climate change and the displaced person: how vectors and climate are changing the landscape of infectious diseases among displaced and migrant populations.
 36912026	Malaria vaccines.
-36910690	Malaria Control by Mass Drug Administration With Artemisinin Plus Piperaquine on Grande Comore Island, Union of Comoros.
-36910464	The anti-inflammatory activity of the compounds isolated from Dichroa febrifuga leaves.
-36910375	Frequency of transfusion transmissible infections among blood donors of Rawalpindi District, Pakistan.
