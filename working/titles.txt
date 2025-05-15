@@ -1,3 +1,6 @@
+40367293	Prevalence and determinants of anemia among pregnant women attending maternal and child health clinics at Sukuta Health Center, The Gambia: An institutional-based cross-sectional study.
+40367238	Allosteric modulation of Plasmodium falciparum Isoleucyl tRNA synthetase by South African natural compounds.
+40367150	Advancing Early Warning Systems for Malaria: Progress, challenges, and future directions - A scoping review.
 40366579	Chemical composition, insecticidal activity and non-target effects of Sphagneticola trilobata (L.) Pruski essential oil against immature stages (egg, larvae and pupae) of dengue, filariasis, malaria vectors and four natural predators.
 40366227	Experiences of Young Women Living in Kibra, Kenya, on HIV Risk and Sexual Violence: A Descriptive Study.
 40366167	Assessing the sequencing success and analytical specificity of a targeted amplicon deep sequencing workflow for genotyping the foodborne parasite Cyclospora.
@@ -9994,6 +9997,3 @@
 36910690	Malaria Control by Mass Drug Administration With Artemisinin Plus Piperaquine on Grande Comore Island, Union of Comoros.
 36910464	The anti-inflammatory activity of the compounds isolated from Dichroa febrifuga leaves.
 36910375	Frequency of transfusion transmissible infections among blood donors of Rawalpindi District, Pakistan.
-36910314	Entomological survey of malaria vectors in Dashtestan County, South of Iran.
-36910309	Expression of the Fab enzymes (Fab I and Fab Z) from Plasmodium falciparum after exposure to Artemisia afra plant extracts and drugs screening.
-36910307	P fmdr 1 and kelch 13 genes distribution among children that are 5 years and below in Akure, Nigeria.
