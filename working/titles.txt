@@ -1,3 +1,24 @@
+40377840	The status of malaria, challenges and opportunities to end malaria: an editorial.
+40377772	Endocytic Activity by Apicomplexa Parasites.
+40377111	Medicinal Chemistry Progression of Sapanisertib, the Anticancer and Dual Plasmodium Phosphatidylinositol 4-Kinase Beta and cGMP-Dependent Protein Kinase Inhibitor, for Malaria.
+40377043	Phytochemical and Antiplasmodial Comparative Analysis of Leaf and Stem Bark Extracts of Combretum micranthum G.Don and Combretum adenogonium Steud. ex A.Rich.
+40376507	Global Assistance and the Cascade of Malaria Prevention and Control - Sub-Saharan Africa, 2011-2022.
+40376505	Impact of Implementation Interruptions of 1,7-Malaria Reactive Community-Based Testing and Response Approach on Malaria Control Efforts - Southern Tanzania.
+40376504	Risk Factors for Imported Severe Malaria Cases - China, 2019-2023.
+40376503	Malaria Ends with Us - Time to Reinvest, Reimagine, and Reignite.
+40376502	Application of Remote Sensing Methods in Predicting the Dynamics of Anopheles sinensis - Anhui Province, China, 2019-2023.
+40376501	China's Malaria R&D Innovations: A Scoping Review from 2013-2023.
+40376415	New therapeutic strategies for malaria.
+40375936	Unlocking the potential of Artemisia annua for artemisinin production: current insights and emerging strategies.
+40375909	Plasmodium vivax Infections in Duffy-Negative Individuals: A Paradigm Shift in Indian Malaria Epidemiology.
+40375892	Diagnostic testing and the evolution of detection avoidance by pathogens.
+40375659	Comment on "Rising Cases of Dengue and Malaria in Flood Affected Areas".
+40374819	Bio-inspired Synthesis, Characterization, and Biomedical Applications of Optimized Ceiba pentandra Silver Nanoparticles.
+40374751	An automated multi parameter neural architecture discovery framework using ChatGPT in the backend.
+40374463	Animal Models of Malaria-Associated Acute Kidney Injury.
+40374137	Characterisation of bacterial symbionts of the Anopheles funestus group from KwaZulu-Natal Province, South Africa.
+40374101	Evaluating the effect of new antimalarial N-89 for gametocytes in P. berghei-infected mice.
+40374046	Acute Toxicity Study of Ethanol Extract of Potentilla freyniana Bornm Rhizome in Rats.
 40371277	Sports injury and illness incidence at the 2021 Summer Universiade: a retrospective study of 6,500 athletes from 113 countries/regions.
 40370584	Dihydroartemisinin-piperaquine versus sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria in pregnancy: a systematic review and individual participant data meta-analysis.
 40369344	A modular mRNA vaccine platform encoding antigen-presenting capsid virus-like particles enhances the immunogenicity of the malaria antigen Pfs25.
@@ -9976,24 +9997,3 @@
 36920711	The use of Traditional Medicines for Sexual Enhancement in Northern Nigeria.
 36920200	Effects of Low-Level Persistent Infection on Maintenance of Immunity by CD4 T Cell Subsets and Th1 Cytokines.
 36919909	Human Polo-like Kinase Inhibitors as Antiplasmodials.
-36919344	Recent Advances in the Discovery of Antiparasitic Drugs for Chagas Disease and Malaria.
-36919202	Interplay among malnutrition, chemoprevention, and the risk of malaria in young Ugandan children: Longitudinal pharmacodynamic and growth analysis.
-36919074	Exploring the Immunodominant Epitopes of SARS-CoV-2 Nucleocapsid Protein as Exposure Biomarker.
-36918876	Knowledge, attitudes and practices of infection prevention and control among healthcare workers during the COVID 19 pandemic: a descriptive cross-sectional study in three Nigerian states.
-36918126	Genetic diversity and natural selection of rif gene (PF3D7_1254800) in the Plasmodium falciparum global populations.
-36918040	Liver cancer antiproliferative activity of a new nor-cucurbitacin from Mareya micrantha Müll. Arg.
-36918035	Host shift and natural long-distance dispersal to an oceanic island of a host-specific parasite.
-36916944	Efavirenz-Based Antiretroviral Therapy but Not Pregnancy Increased Unbound Piperaquine Exposure in Women during Malaria Chemoprevention.
-36916920	Molecular Markers of Sulfadoxine-Pyrimethamine Resistance in Samples from Children with Uncomplicated Plasmodium falciparum at Three Sites in Angola in 2019.
-36916164	Plasmodium falciparum adapts its investment into replication versus transmission according to the host environment.
-36915558	Spatio-temporal analysis of environmental and climatic factors impacts on malaria morbidity in Ondo State, Nigeria.
-36915368	Sodium Glucose Cotransporter 2 (SGLT2) Inhibitors and CKD: Are You a #Flozinator?
-36915177	China's innovation and research contribution to combating neglected diseases: a secondary analysis of China's public research data.
-36915131	Fine-scale spatial distribution of deltamethrin resistance and population structure of Anopheles funestus and Anopheles arabiensis populations in Southern Mozambique.
-36915098	Species composition and insecticide resistance in malaria vectors in Ellibou, southern Côte d'Ivoire and first finding of Anopheles arabiensis in Côte d'Ivoire.
-36914649	Non-falciparum malaria infection and IgG seroprevalence among children under 15 years in Nigeria, 2018.
-36914064	Differentiation between Bulinus truncatus and Bulinus hexaploidus by morphological characters, chromosomal study and compatibility with Schistosoma haematobium.
-36913960	Can we reduce malaria in pregnancy and improve birth outcomes?
-36913959	Effect of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine with and without azithromycin versus monthly sulfadoxine-pyrimethamine on adverse pregnancy outcomes in Africa: a double-blind randomised, partly placebo-controlled trial.
-36913922	Quantitative Polymerase Chain Reaction from Malaria Rapid Diagnostic Tests to Detect Borrelia crocidurae, the Agent of Tick-Borne Relapsing Fever, in Febrile Patients in Senegal.
-36913921	Lateral Flow Recombinase Polymerase Amplification Assays for the Detection of Human Plasmodium Species.
