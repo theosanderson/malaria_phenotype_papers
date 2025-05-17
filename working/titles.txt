@@ -1,3 +1,6 @@
+40378337	Ouhanamide, an Antiparasitic Linear Lipopeptide from a Marine Okeania sp. Cyanobacterium.
+40378147	Larval surveys reveal breeding site preferences of malaria vector Anopheles spp. in Zanzibar City.
+40378106	Genome-wide association studies on malaria in Sub-Saharan Africa: A scoping review.
 40377840	The status of malaria, challenges and opportunities to end malaria: an editorial.
 40377772	Endocytic Activity by Apicomplexa Parasites.
 40377111	Medicinal Chemistry Progression of Sapanisertib, the Anticancer and Dual Plasmodium Phosphatidylinositol 4-Kinase Beta and cGMP-Dependent Protein Kinase Inhibitor, for Malaria.
@@ -9994,6 +9997,3 @@
 39816821	Using qPCR to compare the detection of Plasmodium vivax oocysts and sporozoites in Anopheles farauti mosquitoes between two DNA extraction methods.
 36920996	Exploring the structural basis to develop efficient multi-epitope vaccines displaying interaction with HLA and TAP and TLR3 molecules to prevent NIPAH infection, a global threat to human health.
 36920721	Regulatory and policy considerations for the implementation of gene drive-modified mosquitoes to prevent malaria transmission.
-36920711	The use of Traditional Medicines for Sexual Enhancement in Northern Nigeria.
-36920200	Effects of Low-Level Persistent Infection on Maintenance of Immunity by CD4 T Cell Subsets and Th1 Cytokines.
-36919909	Human Polo-like Kinase Inhibitors as Antiplasmodials.
