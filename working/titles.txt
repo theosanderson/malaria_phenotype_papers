@@ -1,3 +1,9 @@
+40380221	A non-randomized, open-label study to assess the impact of rounds of mass drug administration with artemisinin-piperaquine plus primaquine on malaria in São Tomé Island.
+40380185	First large-scale assessment of pyrethroid resistance in Anopheles darlingi (Diptera: Culicidae) in Brazil (2021-2024): a crucial step in informing decision-making in malaria control.
+40380146	Consistency and reproducibility of independent feedings using blood from two consecutive days at varying Plasmodium falciparum gametocyte densities based on both direct membrane feeding assay and direct skin feeding assay.
+40380136	Efficacy of artemisinin-based combination therapy (ACT) in people living with HIV (PLHIV) diagnosed with uncomplicated Plasmodium falciparum malaria in Africa: a WWARN systematic review.
+40379932	scRNA-seq reveals transcriptional plasticity of var gene expression in Plasmodium falciparum for host immune avoidance.
+40379677	A Plasmodium LARC GAP provides preerythrocytic, stage and species transcending protection in mice.
 40378337	Ouhanamide, an Antiparasitic Linear Lipopeptide from a Marine Okeania sp. Cyanobacterium.
 40378147	Larval surveys reveal breeding site preferences of malaria vector Anopheles spp. in Zanzibar City.
 40378106	Genome-wide association studies on malaria in Sub-Saharan Africa: A scoping review.
@@ -254,6 +260,7 @@
 40280899	A suppression-modification gene drive for malaria control targeting the ultra-conserved RNA gene mir-184.
 40280604	A cross-sectional study assessing mercury exposure and poisoning among workers in informal gold mines in French Guiana.
 40280600	Malaria is poised for a devastating comeback in Africa's "worst moment in 25 years".
+40280398	Molecular docking, toxicity study and in vitro antimalarial evaluation of pyrazole substituted 1,3,5-triazine derivatives.
 40280145	Aetiologies, neuroradiological features, and risk factors for mortality and long-term neurosequelae of febrile coma in Malawian children: a prospective cohort study.
 40280144	The aetiologies, mortality, and disability of non-traumatic coma in African children: a systematic review and meta-analysis.
 40279976	Involution-based efficient autoencoder for denoising histopathological images with enhanced hybrid feature extraction.
@@ -9990,10 +9997,3 @@
 36925159	Vector control and malaria in humanitarian emergencies: the limitations and the needs.
 36924862	Antiplasmodial activity of the bulbs of Fritillaria cirrhosa D.Don (Syn: Fritillaria roylei Hook.): UPLC-IM-Q-TOF-MS/MS-based biochemometric approach for the identification of marker compounds.
 36923862	Senna singueana (Delile) lock: Ethnomedicinal uses and medicinal properties.
-36923394	Fostering research integrity in sub-Saharan Africa: challenges, opportunities, and recommendations.
-36923173	The Clinical and Laboratory Profiles of Immunocompetent Patients With Short-Duration Fever With Neutropenia in a Tertiary Care Hospital in Pune, India.
-36922855	The interplay between malaria vectors and human activity accounts for high residual malaria transmission in a Burkina Faso village with universal ITN coverage.
-36874585	Risk factor-based screening compared to universal screening for gestational diabetes mellitus in marginalized Burman and Karen populations on the Thailand-Myanmar border: An observational cohort.
-39816821	Using qPCR to compare the detection of Plasmodium vivax oocysts and sporozoites in Anopheles farauti mosquitoes between two DNA extraction methods.
-36920996	Exploring the structural basis to develop efficient multi-epitope vaccines displaying interaction with HLA and TAP and TLR3 molecules to prevent NIPAH infection, a global threat to human health.
-36920721	Regulatory and policy considerations for the implementation of gene drive-modified mosquitoes to prevent malaria transmission.
