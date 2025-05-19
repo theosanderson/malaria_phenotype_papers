@@ -1,3 +1,9 @@
+40382590	Two decades of insecticide resistance in Benin: a retrospective analysis of evolution and drivers.
+40382473	Thermostable lamprey variable lymphocyte receptor antibody for detection of Plasmodium falciparum histidine rich protein-2.
+40382209	Hyperkalemia in Pediatric Severe Malaria.
+40382149	A fluorescence-based assay for measuring aminopropyltransferase activity.
+40381934	Impact of malaria in pregnancy on infant neurodevelopment and malaria susceptibility during the first year of life in Kinshasa, the Democratic Republic of the Congo.
+40381412	Resistance to apicoplast translational inhibitors in Plasmodium.
 40380221	A non-randomized, open-label study to assess the impact of rounds of mass drug administration with artemisinin-piperaquine plus primaquine on malaria in São Tomé Island.
 40380185	First large-scale assessment of pyrethroid resistance in Anopheles darlingi (Diptera: Culicidae) in Brazil (2021-2024): a crucial step in informing decision-making in malaria control.
 40380146	Consistency and reproducibility of independent feedings using blood from two consecutive days at varying Plasmodium falciparum gametocyte densities based on both direct membrane feeding assay and direct skin feeding assay.
@@ -9991,9 +9997,3 @@
 36927373	Anopheles rufipes implicated in malaria transmission both indoors and outdoors alongside Anopheles funestus and Anopheles arabiensis in rural south-east Zambia.
 36926684	Phytofabrication and characterization of Alchornea cordifolia silver nanoparticles and evaluation of antiplasmodial, hemocompatibility and larvicidal potential.
 36925177	The impact of community delivery of intermittent preventive treatment of malaria in pregnancy on its coverage in four sub-Saharan African countries (Democratic Republic of the Congo, Madagascar, Mozambique, and Nigeria): a quasi-experimental multicentre evaluation.
-36925175	The impact of alternative delivery strategies for novel tuberculosis vaccines in low-income and middle-income countries: a modelling study.
-36925174	Vector control for malaria prevention during humanitarian emergencies: a systematic review and meta-analysis.
-36925162	Community delivery of malaria chemoprevention in pregnancy.
-36925159	Vector control and malaria in humanitarian emergencies: the limitations and the needs.
-36924862	Antiplasmodial activity of the bulbs of Fritillaria cirrhosa D.Don (Syn: Fritillaria roylei Hook.): UPLC-IM-Q-TOF-MS/MS-based biochemometric approach for the identification of marker compounds.
-36923862	Senna singueana (Delile) lock: Ethnomedicinal uses and medicinal properties.
