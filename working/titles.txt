@@ -1,3 +1,6 @@
+40383794	A shared inflammatory signature across severe malaria syndromes manifested by transcriptomic, proteomic and metabolomic analyses.
+40383756	Spatial and temporal variation of malaria incidence in children under 10 years in a pyrethroid-resistant vector area in southern Benin.
+40383398	Anopheles mosquito exposure is associated with age, gender and bed net use in areas in Uganda experiencing varying malaria transmission intensity.
 40382590	Two decades of insecticide resistance in Benin: a retrospective analysis of evolution and drivers.
 40382473	Thermostable lamprey variable lymphocyte receptor antibody for detection of Plasmodium falciparum histidine rich protein-2.
 40382209	Hyperkalemia in Pediatric Severe Malaria.
@@ -33,7 +36,7 @@
 40374463	Animal Models of Malaria-Associated Acute Kidney Injury.
 40374137	Characterisation of bacterial symbionts of the Anopheles funestus group from KwaZulu-Natal Province, South Africa.
 40374101	Evaluating the effect of new antimalarial N-89 for gametocytes in P. berghei-infected mice.
-40374046	Acute Toxicity Study of Ethanol Extract of Potentilla freyniana Bornm Rhizome in Rats.
+40374046	Acute toxicity study of ethanol extract of Potentilla freyniana Bornm rhizome in rats.
 40371277	Sports injury and illness incidence at the 2021 Summer Universiade: a retrospective study of 6,500 athletes from 113 countries/regions.
 40370584	Dihydroartemisinin-piperaquine versus sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria in pregnancy: a systematic review and individual participant data meta-analysis.
 40369344	A modular mRNA vaccine platform encoding antigen-presenting capsid virus-like particles enhances the immunogenicity of the malaria antigen Pfs25.
@@ -9994,6 +9997,3 @@
 36927839	Potent acyl-CoA synthetase 10 inhibitors kill Plasmodium falciparum by disrupting triglyceride formation.
 36927770	In silico analysis to identify miR-1271-5p/PLCB4 (phospholipase C Beta 4) axis mediated oxaliplatin resistance in metastatic colorectal cancer.
 36927440	Effectiveness of community case management of malaria on severe malaria and inpatient malaria deaths in Zambia: a dose-response study using routine health information system data.
-36927373	Anopheles rufipes implicated in malaria transmission both indoors and outdoors alongside Anopheles funestus and Anopheles arabiensis in rural south-east Zambia.
-36926684	Phytofabrication and characterization of Alchornea cordifolia silver nanoparticles and evaluation of antiplasmodial, hemocompatibility and larvicidal potential.
-36925177	The impact of community delivery of intermittent preventive treatment of malaria in pregnancy on its coverage in four sub-Saharan African countries (Democratic Republic of the Congo, Madagascar, Mozambique, and Nigeria): a quasi-experimental multicentre evaluation.
