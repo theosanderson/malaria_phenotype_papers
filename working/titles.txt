@@ -1,3 +1,7 @@
+40387615	Integrated Phenotypic and Genotypic Approaches for Accurate Diagnosis of G6PD Deficiency: Implications for Drug Safety in Thailand.
+40386403	An Essential Adaptor for Apicoplast Fission and Inheritance in Malaria Parasites.
+40385991	Migrant women's experience of antenatal care in an urban and rural setting in north and North-West Thailand: A cross sectional survey.
+40385718	PERCEPTION OF HEALTH CARE WORKERS ON ARTIFICIAL INTELLIGENCE BASED MALARIA DIAGNOSIS IN SOUTHWESTERN NIGERIA.
 40384498	Changes in cytoforms of Simulium damnosum sensu lato (Diptera: Simuliidae) and onchocerciasis transmission zones in northern Cameroon with possible implications for onchocerciasis transmission elimination.
 40384445	Predictors of iron status among preschool-age children in Malawi: insights from a micronutrient survey.
 40384354	A Comprehensive Review of Antimicrobial Drugs: Mechanisms of Action and Specific Targets in Microorganisms.
@@ -9993,7 +9997,3 @@
 36931472	Mechanistic insights into immunopathogenesis of murine cerebral malaria: Cues from "young" C57BL/6J and BALB/c mice.
 36931276	Cryo-EM structures of anti-malarial antibody L9 with circumsporozoite protein reveal trimeric L9 association and complete 27-residue epitope.
 36931118	Current development of β-carboline derived potential antimalarial scaffolds.
-36930997	Developing an archaeology of malaria. A critical review of current approaches and a discussion on ways forward.
-36930554	Guidelines on epidemics in Mexico. Historical perspective.
-36928885	Development of an ectopic huLiver model for Plasmodium liver stage infection.
-36928838	Repellent Screening of Selected Plant Essential Oils Against Dengue Fever Mosquitoes Using Behavior Bioassays.
