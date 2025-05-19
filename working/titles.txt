@@ -1,3 +1,8 @@
+40384498	Changes in cytoforms of Simulium damnosum sensu lato (Diptera: Simuliidae) and onchocerciasis transmission zones in northern Cameroon with possible implications for onchocerciasis transmission elimination.
+40384445	Predictors of iron status among preschool-age children in Malawi: insights from a micronutrient survey.
+40384354	A Comprehensive Review of Antimicrobial Drugs: Mechanisms of Action and Specific Targets in Microorganisms.
+40384115	An entomological investigation in dengue affected areas during transmission season in district Haridwar, Uttarakhand, India.
+40384064	Developing an Explainable Artificial Intelligence System for the Mobile-Based Diagnosis of Febrile Diseases Using Random Forest, LIME, and GPT.
 40383794	A shared inflammatory signature across severe malaria syndromes manifested by transcriptomic, proteomic and metabolomic analyses.
 40383756	Spatial and temporal variation of malaria incidence in children under 10 years in a pyrethroid-resistant vector area in southern Benin.
 40383398	Anopheles mosquito exposure is associated with age, gender and bed net use in areas in Uganda experiencing varying malaria transmission intensity.
@@ -9992,8 +9997,3 @@
 36930554	Guidelines on epidemics in Mexico. Historical perspective.
 36928885	Development of an ectopic huLiver model for Plasmodium liver stage infection.
 36928838	Repellent Screening of Selected Plant Essential Oils Against Dengue Fever Mosquitoes Using Behavior Bioassays.
-36928796	Evolution of research funding for neglected tropical diseases in Brazil, 2004-2020.
-36928686	The claudin-like apicomplexan microneme protein is required for gliding motility and infectivity of Plasmodium sporozoites.
-36927839	Potent acyl-CoA synthetase 10 inhibitors kill Plasmodium falciparum by disrupting triglyceride formation.
-36927770	In silico analysis to identify miR-1271-5p/PLCB4 (phospholipase C Beta 4) axis mediated oxaliplatin resistance in metastatic colorectal cancer.
-36927440	Effectiveness of community case management of malaria on severe malaria and inpatient malaria deaths in Zambia: a dose-response study using routine health information system data.
