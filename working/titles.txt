@@ -1,3 +1,10 @@
+40391538	Bioassay directed antiplasmodial constituents from Clerodendrum infortunatum L. (Lamiaceae), an ethnomedicinal plant of Assam.
+40391391	Diagnosis of Plasmodium falciparum malaria at very low parasitaemias using a commercially available LAMP assay and RDT.
+40391255	Knowledge Attitudes and Practices Regarding Malaria and HIV in People Living in Rural Ghana.
+40391130	How do study participants want to be informed about study results: Findings from a malaria trial in Cambodia, Ethiopia, Pakistan, and Indonesia.
+40391122	The 1922 Zionist launch of sustainable malaria control and an examination of the education which enabled that control.
+40390775	Coinheritance of polymorphic alleles of PIEZO1, G6PD and HBB enhances protection against malaria.
+40390773	Resurgence of Plasmodium vivax malaria in French Guiana (2023-2024): a multifactorial crisis in the Amazonian region-response to Salazar et al.
 40390136	Human IgG responses to Anopheles gambiae immunogenic salivary proteins in urban and rural populations of Burkina Faso: biomarkers of exposure to malaria vector bites.
 40389940	Correction: Efficacy and safety of ayurvedic intervention (Sarpgandha Mishran) vs. amlodipine for stage‑i primary hypertension‑ study protocol for a prospective double‑dummy, double‑blind, placebo‑controlled randomized clinical trial.
 40389650	The fast-evolving FIKK kinase family of Plasmodium falciparum can be inhibited by a single compound.
@@ -203,6 +210,7 @@
 40312382	Field evaluation of the Bioline Malaria Ag P.f/Pan rapid diagnostic test: causes of microscopy discordance and performance in Uganda.
 40312291	Impact of hepatitis B virus infection in patients with plasmodium parasites in selected health facilities in Accra, Ghana.
 40311664	Fever in travelers returning from tropical and subtropical areas: a hospital-based study of factors affecting investigations and diagnoses in children and adults.
+40311147	Redox Homeostasis within the Drug-Resistant Malarial Parasite Digestive Vacuole.
 40310678	Health Education Campaign to Improve Malaria Knowledge, Prevention, and Treatment Behaviors in Rural East Nusa Tenggara Province, Indonesia: Protocol for a Cluster-Assigned Quasi-Experimental Study.
 40310570	Treating sickle cell disease in resource-limited sub-Saharan Africa: recent strategies and recommendations in addressing the gaps for the provision of evidence-based management.
 40309556	Determinants and Prevalence of Paediatrics Return Visits to the Emergency Department in a Tertiary Hospital in Southeast Nigeria: A Retrospective Study.
@@ -9989,11 +9997,3 @@
 36933966	India-EMBO Lecture Course: understanding malaria from molecular epidemiology, population genetics, and evolutionary perspectives.
 36932813	Malaria prevention using antibodies: A promising approach to passive protection.
 36932704	Residual malaria transmission and the role of Anopheles arabiensis and Anopheles melas in central Senegal.
-36932676	Red blood cell lingering modulates hematocrit distribution in the microcirculation.
-36932435	Effects of maternal antenatal treatment with two doses of azithromycin added to monthly sulfadoxine-pyrimethamine for the prevention of low birth weight in Burkina Faso: an open-label randomized controlled trial.
-36932400	Trends of insecticide resistance monitoring in mainland Tanzania, 2004-2020.
-36932389	A review of efficacy and safety of Ugandan anti-malarial plants with application of RITAM score.
-36932384	Using antenatal care as a platform for malaria surveillance data collection: study protocol.
-36932372	Laboratory evaluation of the miniature direct-on-blood PCR nucleic acid lateral flow immunoassay (mini-dbPCR-NALFIA), a simplified molecular diagnostic test for Plasmodium.
-36932347	Accounting for complex intracluster correlations in longitudinal cluster randomized trials: a case study in malaria vector control.
-36932278	Epidemiology and clinical presentation of community-acquired Staphylococcus aureus bacteraemia in children under 5 years of age admitted to the Manhiça District Hospital, Mozambique, 2001-2019.
