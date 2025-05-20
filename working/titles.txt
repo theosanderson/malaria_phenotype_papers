@@ -1,3 +1,4 @@
+40388419	Supporting evidence-based decisions about the geographic and demographic extensions of seasonal malaria chemoprevention in Benin: A modelling study.
 40387615	Integrated Phenotypic and Genotypic Approaches for Accurate Diagnosis of G6PD Deficiency: Implications for Drug Safety in Thailand.
 40386403	An Essential Adaptor for Apicoplast Fission and Inheritance in Malaria Parasites.
 40385991	Migrant women's experience of antenatal care in an urban and rural setting in north and North-West Thailand: A cross sectional survey.
@@ -9996,4 +9997,3 @@
 36931665	Analysis of national and subnational prevalence of adolescent pregnancy and changes in the associated sexual behaviours and sociodemographic determinants across three decades in Ghana, 1988-2019.
 36931472	Mechanistic insights into immunopathogenesis of murine cerebral malaria: Cues from "young" C57BL/6J and BALB/c mice.
 36931276	Cryo-EM structures of anti-malarial antibody L9 with circumsporozoite protein reveal trimeric L9 association and complete 27-residue epitope.
-36931118	Current development of β-carboline derived potential antimalarial scaffolds.
