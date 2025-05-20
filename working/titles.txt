@@ -1,3 +1,6 @@
+40390136	Human IgG responses to Anopheles gambiae immunogenic salivary proteins in urban and rural populations of Burkina Faso: biomarkers of exposure to malaria vector bites.
+40389940	Correction: Efficacy and safety of ayurvedic intervention (Sarpgandha Mishran) vs. amlodipine for stage‑i primary hypertension‑ study protocol for a prospective double‑dummy, double‑blind, placebo‑controlled randomized clinical trial.
+40389650	The fast-evolving FIKK kinase family of Plasmodium falciparum can be inhibited by a single compound.
 40388419	Supporting evidence-based decisions about the geographic and demographic extensions of seasonal malaria chemoprevention in Benin: A modelling study.
 40387615	Integrated Phenotypic and Genotypic Approaches for Accurate Diagnosis of G6PD Deficiency: Implications for Drug Safety in Thailand.
 40386403	An Essential Adaptor for Apicoplast Fission and Inheritance in Malaria Parasites.
@@ -990,6 +993,7 @@
 40025552	Assessing fitness costs in malaria parasites: a comprehensive review and implications for drug resistance management.
 40025519	Factors affecting community participation in drone-based larviciding using Bacillus thuringiensis var. israelensis (Bti) for bio-control of malaria vectors in Rwanda.
 40025493	Access and usage of malaria control measures by women of reproductive age in Mopeia Mozambique.
+40025470	Efficacy and safety of ayurvedic intervention (Sarpgandha Mishran) vs amlodipine for Stage-I primary hypertension- study protocol for a prospective Double-Dummy, Double-Blind, placebo-controlled Randomized Clinical Trial.
 40025068	Harnessing engineered symbionts to combat concurrent malaria and arboviruses transmission.
 40024560	A review of the genotoxic effects of antiparasitic drugs on parasites and their hosts.
 40024454	Toxicological assessment of standardized Artemisia roxburghiana wall. ex Besser aqueous leaf extract to acute and subacute exposure in Albino mice.
@@ -9993,7 +9997,3 @@
 36932372	Laboratory evaluation of the miniature direct-on-blood PCR nucleic acid lateral flow immunoassay (mini-dbPCR-NALFIA), a simplified molecular diagnostic test for Plasmodium.
 36932347	Accounting for complex intracluster correlations in longitudinal cluster randomized trials: a case study in malaria vector control.
 36932278	Epidemiology and clinical presentation of community-acquired Staphylococcus aureus bacteraemia in children under 5 years of age admitted to the Manhiça District Hospital, Mozambique, 2001-2019.
-36931922	Actin subversion for productive Plasmodium hepatocyte invasion.
-36931665	Analysis of national and subnational prevalence of adolescent pregnancy and changes in the associated sexual behaviours and sociodemographic determinants across three decades in Ghana, 1988-2019.
-36931472	Mechanistic insights into immunopathogenesis of murine cerebral malaria: Cues from "young" C57BL/6J and BALB/c mice.
-36931276	Cryo-EM structures of anti-malarial antibody L9 with circumsporozoite protein reveal trimeric L9 association and complete 27-residue epitope.
