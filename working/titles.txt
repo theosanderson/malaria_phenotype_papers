@@ -1,3 +1,5 @@
+40396699	The Owl Monkey (Aotus spp.) as an Animal Research Model. Part 3: Research Use and Diseases.
+40396655	Recognizing post malaria neurological syndrome in travellers: insights from three cases.
 40395990	Metamorphosis and development of malaria parasites in the liver are regulated by unconventional autophagy.
 40394903	Micronutrient Powders Combined With Malaria Chemoprevention to Improve Anaemia and Cognitive Function in Early Childhood in Mali: A Cluster-Randomised Trial.
 40394720	Cardiac Imaging in Patients With Tropical Diseases. A Scientific Statement of the European Association of Cardiovascular Imaging (EACVI) of the ESC and the Cardiovascular Imaging Department of the Brazilian Society of Cardiology (DICSBC).
@@ -9995,5 +9997,3 @@
 36941226	[Contribution of hematology analyzers (Sysmex XN-Series) in the rapid diagnosis of malaria: case reports].
 36940579	Effect of liquiritigenin on chloroquine accumulation in digestive vacuole leading to apoptosis-like death of chloroquine-resistant P. falciparum.
 36939832	Repeat Ivermectin Mass Drug Administrations for Malaria Control II: Protocol for a Double-blind, Cluster-Randomized, Placebo-Controlled Trial for the Integrated Control of Malaria.
-36939394	CD4 T Cell-Dependent and -Independent Roles for IFN-γ in Blood-Stage Malaria.
-36939048	Trophic preferences of Anopheles coluzzii (Diptera: Culicidae): what implications for malaria vector control in Benin?
