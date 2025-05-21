@@ -1,3 +1,5 @@
+40395990	Metamorphosis and development of malaria parasites in the liver are regulated by unconventional autophagy.
+40394903	Micronutrient Powders Combined With Malaria Chemoprevention to Improve Anaemia and Cognitive Function in Early Childhood in Mali: A Cluster-Randomised Trial.
 40394720	Cardiac Imaging in Patients With Tropical Diseases. A Scientific Statement of the European Association of Cardiovascular Imaging (EACVI) of the ESC and the Cardiovascular Imaging Department of the Brazilian Society of Cardiology (DICSBC).
 40394552	Forecasting malaria cases using climate variability in Sierra Leone.
 40394474	Genome-wide cataloging and orthology analysis of long noncoding RNA expression in three species of Anopheles mosquito.
@@ -7653,6 +7655,7 @@
 37723449	Tracking the geographical origin of Plasmodium falciparum causing a rare severe case of malaria imported into Palestine, a zero-indigenous case area.
 37722671	Identification of and Structural Insights into Hit Compounds Targeting N-Myristoyltransferase for Cryptosporidium Drug Development.
 37722662	Provider and User Acceptability of Integrated Treatment for the Control of Malaria and Helminths in Saraya, South-Eastern Senegal.
+40395314	INPP5D inhibits anti-malarial immunity by promoting IRF3 degradation through selective autophagy.
 37722077	Bis-6-amidino-benzothiazole Derivative that Cures Experimental Stage 1 African Trypanosomiasis with a Single Dose.
 37720337	AIDMAN: An AI-based object detection system for malaria diagnosis from smartphone thin-blood-smear images.
 37720224	Chemically augmented malaria sporozoites display an altered immunogenic profile.
@@ -9994,6 +9997,3 @@
 36939832	Repeat Ivermectin Mass Drug Administrations for Malaria Control II: Protocol for a Double-blind, Cluster-Randomized, Placebo-Controlled Trial for the Integrated Control of Malaria.
 36939394	CD4 T Cell-Dependent and -Independent Roles for IFN-γ in Blood-Stage Malaria.
 36939048	Trophic preferences of Anopheles coluzzii (Diptera: Culicidae): what implications for malaria vector control in Benin?
-36939023	A censored quantile regression approach for relative survival analysis: Relative survival quantile regression.
-36938853	Antimalarial activity and sensitization of chrysosplenetin against artemisinin-resistant genotype Plasmodium berghei K173 potentially via dual-mechanism of maintaining host P-glycoprotein homeostasis mediated by NF-κB p52 or PXR/CAR signaling pathways and regulating heme/haemozoin metabolism.
-36937606	Open Clinical Trial of Sambiloto (Andrographis paniculata) Ethanolic Extract Capsules in Treatment of Malaria Patients in Batubara District, Indonesia.
