@@ -1,3 +1,6 @@
+40392232	A novel SUN1-ALLAN complex coordinates segregation of the bipartite MTOC across the nuclear envelope during rapid closed mitosis in Plasmodium berghei.
+40392201	Neurofilament light chain as a biomarker for neuronal injury in CNS infections.
+40392067	The Owl Monkey (Aotus spp.) as an Animal Research Model. Part 2: Physiology, Immunology, Reproduction, and Environmental Requirements.
 40391538	Bioassay directed antiplasmodial constituents from Clerodendrum infortunatum L. (Lamiaceae), an ethnomedicinal plant of Assam.
 40391391	Diagnosis of Plasmodium falciparum malaria at very low parasitaemias using a commercially available LAMP assay and RDT.
 40391255	Knowledge Attitudes and Practices Regarding Malaria and HIV in People Living in Rural Ghana.
@@ -9994,6 +9997,3 @@
 36935051	Environmental and socio-economic determinants of the occurrence of malaria clusters in Colombia.
 36934179	Bio-efficacy of insecticidal molecule emodin against dengue, filariasis, and malaria vectors.
 36934088	SARS-CoV-2 spike-ferritin-nanoparticle adjuvanted with ALFQ induces long-lived plasma cells and cross-neutralizing antibodies.
-36933966	India-EMBO Lecture Course: understanding malaria from molecular epidemiology, population genetics, and evolutionary perspectives.
-36932813	Malaria prevention using antibodies: A promising approach to passive protection.
-36932704	Residual malaria transmission and the role of Anopheles arabiensis and Anopheles melas in central Senegal.
