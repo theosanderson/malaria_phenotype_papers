@@ -1,3 +1,5 @@
+40401974	Nitazoxanide and tizoxanide demonstrate high levels of in vitro activity against metronidazole-susceptible and metronidazole-resistant Trichomonas vaginalis clinical isolates.
+40401914	Imaging the lifecycle of Microsporidia sp. MB in Anopheles coluzzii from western Burkina Faso reveals octosporogony.
 40400174	Total Synthesis, Configuration, and Antiplasmodium Activity of Fusarihexin D and E and Analogues.
 40400169	Seroprevalence of Dengue, Zika, and Chikungunya Viruses in Humans and Co-located Macaques in Thailand and Cambodia.
 40400076	Investigating the potential sibling species status of Anopheles fluviatilis in Gadchiroli (Maharastra).
@@ -9995,5 +9997,3 @@
 36946433	Antimalarial Imidazopyridines Incorporating an Intramolecular Hydrogen Bonding Motif: Medicinal Chemistry and Mechanistic Studies.
 36945444	Naturally-acquired and Vaccine-induced Human Monoclonal Antibodies to Plasmodium vivax Duffy Binding Protein Inhibit Invasion of Plasmodium knowlesi (PvDBPOR) Transgenic Parasites.
 36945434	Functional profiling of the Toxoplasma genome during acute mouse infection.
-36945313	[Progressive myoclonic epilepsy in the department of neurology of the University Teaching hospital Point "G"].
-36945014	Mapping current and future thermal limits to suitability for malaria transmission by the invasive mosquito Anopheles stephensi.
