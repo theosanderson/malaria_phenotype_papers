@@ -1,3 +1,14 @@
+40399982	Current update on malaria in pregnancy: a systematic review.
+40399941	Seasonal malaria chemoprevention in northern Mozambique: a cost-effectiveness analysis.
+40399900	Assessment of factors affecting infant mortality in Sudan: application of generalized additive model.
+40399670	In vivo screen of Plasmodium targets for mosquito-based malaria control.
+40399526	These malaria drugs treat the mosquitoes - not the people.
+40399522	Antimalarial-treated bed nets could stop parasites developing in mosquitoes.
+40399511	A randomized controlled trial combining house screening and insecticide-treated nets reduces malaria transmission in northwestern Ethiopia.
+40398985	Molecular identification of anopheline mosquitoes in goat farms of Menoreh Highland, Kulon Progo, Yogyakarta.
+40398947	Sulfadoxine-pyrimethamine alone or with azithromycin for the intermittent preventive treatment of malaria in pregnancy: protocol for a systematic review and meta-analysis.
+40398681	Clinical decision support system to guide antimicrobial selection: a narrative review from 2019 to 2023.
+40398604	MULTIPLE, REDUNDANT CARBOXYLIC ACID TRANSPORTERS SUPPORT MITOCHONDRIAL METABOLISM IN PLASMODIUM FALCIPARUM.
 40396699	The Owl Monkey (Aotus spp.) as an Animal Research Model. Part 3: Research Use and Diseases.
 40396655	Recognizing post malaria neurological syndrome in travellers: insights from three cases.
 40395990	Metamorphosis and development of malaria parasites in the liver are regulated by unconventional autophagy.
@@ -9986,14 +9997,3 @@
 36943870	Design of a stabilized RBD enables potently neutralizing SARS-CoV-2 single-component nanoparticle vaccines.
 36943831	Demand creation for HIV testing services: A systematic review and meta-analysis.
 36942761	Insecticide resistance compromises the control of Aedes aegypti in Bangladesh.
-36942408	Parasite and host kinases as targets for antimalarials.
-36941908	Systematic Review of Safety of RTS,S with AS01 and AS02 Adjuvant Systems Using Data from Randomized Controlled Trials in Infants, Children, and Adults.
-36941701	Insights into the elimination of vivax malaria in China.
-36941616	Anti-malarial drug use, appropriateness and associated factors among children under-five with febrile illnesses presenting to a tertiary health facility: a cross sectional study.
-36941587	The diversity of Plasmodium falciparum isolates from asymptomatic and symptomatic school-age children in Kinshasa Province, Democratic Republic of Congo.
-36941562	A deeper insight into the sialome of male and female Culex quinquefasciatus mosquitoes.
-36941394	Erythrocyte miRNA-92a-3p interactions with PfEMP1 as determinants of clinical malaria.
-36941291	Malaria hotspots and climate change trends in the hyper-endemic malaria settings of Mizoram along the India-Bangladesh borders.
-36941226	[Contribution of hematology analyzers (Sysmex XN-Series) in the rapid diagnosis of malaria: case reports].
-36940579	Effect of liquiritigenin on chloroquine accumulation in digestive vacuole leading to apoptosis-like death of chloroquine-resistant P. falciparum.
-36939832	Repeat Ivermectin Mass Drug Administrations for Malaria Control II: Protocol for a Double-blind, Cluster-Randomized, Placebo-Controlled Trial for the Integrated Control of Malaria.
