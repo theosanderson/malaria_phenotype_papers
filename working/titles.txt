@@ -1,3 +1,6 @@
+40400174	Total Synthesis, Configuration, and Antiplasmodium Activity of Fusarihexin D and E and Analogues.
+40400169	Seroprevalence of Dengue, Zika, and Chikungunya Viruses in Humans and Co-located Macaques in Thailand and Cambodia.
+40400076	Investigating the potential sibling species status of Anopheles fluviatilis in Gadchiroli (Maharastra).
 40399982	Current update on malaria in pregnancy: a systematic review.
 40399941	Seasonal malaria chemoprevention in northern Mozambique: a cost-effectiveness analysis.
 40399900	Assessment of factors affecting infant mortality in Sudan: application of generalized additive model.
@@ -9994,6 +9997,3 @@
 36945434	Functional profiling of the Toxoplasma genome during acute mouse infection.
 36945313	[Progressive myoclonic epilepsy in the department of neurology of the University Teaching hospital Point "G"].
 36945014	Mapping current and future thermal limits to suitability for malaria transmission by the invasive mosquito Anopheles stephensi.
-36943870	Design of a stabilized RBD enables potently neutralizing SARS-CoV-2 single-component nanoparticle vaccines.
-36943831	Demand creation for HIV testing services: A systematic review and meta-analysis.
-36942761	Insecticide resistance compromises the control of Aedes aegypti in Bangladesh.
