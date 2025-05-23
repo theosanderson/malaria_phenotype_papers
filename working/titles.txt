@@ -1,3 +1,7 @@
+40406565	Haematological abnormalities as diagnostic indicators of malaria in returning travellers: a retrospective study at Mohamed V Military Instruction Hospital.
+40406564	Fortuitous discovery of a microfilaria of the genus Loa loa during a routine blood smear at the Hematology Laboratory of the Mohamed V Military Instruction Hospital in Rabat: a case report.
+40406465	Chemical propulsion of hemozoin crystal motion in malaria parasites.
+40405864	An improved multiplex RT-quantitative PCR assay can reveal sex-specific activity of transmission-blocking drugs on ex vivo gametocytes from Plasmodium falciparum asymptomatic infections.
 40405294	Medication errors in malaria management in children: insights from pharmacovigilance data in the Democratic Republic of Congo.
 40405204	Prevalence, awareness, treatment-seeking behaviours and its implications in the control of malaria in Dumbu community, Donga-Mantung Division, North West Region, Cameroon.
 40405144	Malaria control among Myanmar migrants in Thailand: a qualitative study of healthcare providers.
@@ -9993,7 +9997,3 @@
 36952482	Investment case for primary health care in low- and middle-income countries: A case study of Kenya.
 36951994	Weight-related malaria treatment failure with artemether-lumefantrine.
 36951885	HU for SCA in Africa: associated malaria benefit.
-36950502	Biology and epidemiology of Plasmodium falciparum and Plasmodium vivax gametocyte carriage: Implication for malaria control and elimination.
-36950143	A highly contiguous, scaffold-level nuclear genome assembly for the fever tree (Cinchona pubescens Vahl) as a novel resource for Rubiaceae research.
-36949425	Multilevel proportional odds modeling of anaemia prevalence among under five years old children in Ethiopia.
-36949382	Tile-based microscopic image processing for malaria screening using a deep learning approach.
