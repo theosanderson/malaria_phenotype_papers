@@ -1,3 +1,12 @@
+40405294	Medication errors in malaria management in children: insights from pharmacovigilance data in the Democratic Republic of Congo.
+40405204	Prevalence, awareness, treatment-seeking behaviours and its implications in the control of malaria in Dumbu community, Donga-Mantung Division, North West Region, Cameroon.
+40405144	Malaria control among Myanmar migrants in Thailand: a qualitative study of healthcare providers.
+40404982	Structural elucidation of full-length Pfs48/45 in complex with potent monoclonal antibodies isolated from a naturally exposed individual.
+40404927	Unstable laboratory Wolbachia strain w-Anga is negatively correlated with Plasmodium falciparum in wild malaria vectors.
+40404702	Adjusting vector surveillance for human behaviors reveals Anopheles funestus drove a resurgence in malaria despite IRS with clothianidin in Uganda.
+40404548	Elevating uric acid as an antimalarial target.
+40404104	Asymptomatic school children and adults are important for the human infectious reservoir for Plasmodium falciparum malaria in an area of low endemicity in The Gambia.
+40403476	Babesia bigemina enolase binds to plasminogen and contains conserved B-cell epitopes that induce neutralizing antibodies in cattle.
 40402942	Susceptibility profile of Anopheles and target site resistance mechanism against organophosphates in Cameroon.
 40402931	Correction: An antibody screen of a Plasmodium vivax antigen library identifies novel merozoite proteins associated with clinical protection.
 40402846	T-follicular helper cell profiles differ by malaria antigen and for children compared to adults.
@@ -9988,12 +9997,3 @@
 36950143	A highly contiguous, scaffold-level nuclear genome assembly for the fever tree (Cinchona pubescens Vahl) as a novel resource for Rubiaceae research.
 36949425	Multilevel proportional odds modeling of anaemia prevalence among under five years old children in Ethiopia.
 36949382	Tile-based microscopic image processing for malaria screening using a deep learning approach.
-36949289	Impact of MiraNet® long-lasting insecticidal net against Anopheles arabiensis wild population of Northern Tanzania.
-36949175	Parasites as potential targets for cancer immunotherapy.
-36948531	Effect of community health worker home visits on antenatal care and institutional delivery: an analysis of secondary outcomes from a cluster randomised trial in Mali.
-36948209	Accelerating Cryptic Pocket Discovery Using AlphaFold.
-36948075	Identification and characterisation of the tegument-expressed aldehyde dehydrogenase SmALDH_312 of Schistosoma mansoni, a target of disulfiram.
-36947859	A bispecific inhibitor of complement and coagulation blocks activation in complementopathy models via a novel mechanism.
-36947546	Nuclease activity of Plasmodium falciparum Alba family protein PfAlba3.
-36946739	Additive Therapy of Plasmodium berghei-Induced Experimental Cerebral Malaria via Dihydroartemisinin Combined with Rapamycin and Atorvastatin.
-36946497	Plant pollen as a resource affecting the development and survival of the mosquitoes Anopheles quadrimaculatus and Culex quinquefasciatus (Diptera: Culicidae).
