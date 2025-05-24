@@ -1,3 +1,6 @@
+40408421	Mortality rates in a cohort of infants attending immunization clinics in Uganda (2017-2019).
+40408399	Serological evidence and factors associated to liver damage in malaria-typhoid infected patients consulting in two health facilities, Yaoundé-Cameroon.
+40408344	Factors associated with health decision-making autonomy on own healthcare among Tanzanian women: A 2022-2023 demographic health survey study.
 40406565	Haematological abnormalities as diagnostic indicators of malaria in returning travellers: a retrospective study at Mohamed V Military Instruction Hospital.
 40406564	Fortuitous discovery of a microfilaria of the genus Loa loa during a routine blood smear at the Hematology Laboratory of the Mohamed V Military Instruction Hospital in Rabat: a case report.
 40406465	Chemical propulsion of hemozoin crystal motion in malaria parasites.
@@ -9994,6 +9997,3 @@
 36958020	Chikungunya Outbreak in Country with Multiple Vectorborne Diseases, Djibouti, 2019-2020.
 36958009	Effects of Seasonal Conditions on Abundance of Malaria Vector Anopheles stephensi Mosquitoes, Djibouti, 2018-2021.
 36952515	Investigating discriminating concentrations for monitoring susceptibility to broflanilide and cross resistance to other insecticide classes in Anopheles gambiae sensu lato, using the new WHO bottle bioassay method.
-36952482	Investment case for primary health care in low- and middle-income countries: A case study of Kenya.
-36951994	Weight-related malaria treatment failure with artemether-lumefantrine.
-36951885	HU for SCA in Africa: associated malaria benefit.
