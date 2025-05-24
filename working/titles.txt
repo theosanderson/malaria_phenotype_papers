@@ -1,3 +1,10 @@
+40410846	Community perception and preventive practices regarding malaria in low-endemicity regions on Indonesian Kalimantan border adjacent to high-endemicity zoonotic malaria in Malaysian Borneo.
+40410577	β-hydroxybutyrate inhibits Plasmodium falciparum development and confers protection against malaria in mice.
+40410576	A ketogenic diet halts malaria parasite growth.
+40410509	A multi-omic meta-analysis reveals novel mechanisms of insecticide resistance in malaria vectors.
+40410154	PfPPM2 signalling regulates asexual division and sexual conversion of human malaria parasite Plasmodium falciparum.
+40410006	Acute Kidney Injury in Severe Malaria: A Serious Complication Driven by Hemolysis.
+40409742	A Dendrimer-Based Dual Delivery System for Artesunate and Fluconazole: Effective Malaria Treatment in a Murine Model of Plasmodium berghei.
 40408421	Mortality rates in a cohort of infants attending immunization clinics in Uganda (2017-2019).
 40408399	Serological evidence and factors associated to liver damage in malaria-typhoid infected patients consulting in two health facilities, Yaoundé-Cameroon.
 40408344	Factors associated with health decision-making autonomy on own healthcare among Tanzanian women: A 2022-2023 demographic health survey study.
@@ -9990,10 +9997,3 @@
 36960081	Drug Development Strategies for Malaria: With the Hope for New Antimalarial Drug Discovery-An Update.
 36959655	Association between malaria and household air pollution interventions in a predominantly rural area of Ghana.
 36959634	Effect of iron fortification on anaemia and risk of malaria among Ghanaian pre-school children with haemoglobinopathies and different ABO blood groups.
-36959593	In vitro activity of rhinacanthin analogues against drug resistant Plasmodium falciparum isolates from Northeast Thailand.
-36959462	Evaluation of a point-of-care haemozoin assay (Gazelle device) for rapid detection of Plasmodium knowlesi malaria.
-36958824	Characterisation of the OTU domain deubiquitinase complement of Toxoplasma gondii.
-36958024	Blackwater Fever Treated with Steroids in Nonimmune Patient, Italy.
-36958020	Chikungunya Outbreak in Country with Multiple Vectorborne Diseases, Djibouti, 2019-2020.
-36958009	Effects of Seasonal Conditions on Abundance of Malaria Vector Anopheles stephensi Mosquitoes, Djibouti, 2018-2021.
-36952515	Investigating discriminating concentrations for monitoring susceptibility to broflanilide and cross resistance to other insecticide classes in Anopheles gambiae sensu lato, using the new WHO bottle bioassay method.
