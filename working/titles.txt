@@ -1,3 +1,6 @@
+40416139	Anti-ethylene Diamine Tetra-Acetate (EDTA)-Induced Pseudothrombocytopenia in a Nigerian Middle-Aged Man.
+40415878	Serendipity in Emergency Diagnostics: Near Miss of a Loa loa Case in a Swiss Hospital.
+40415188	Prognosis of isolated hyperparasitemia in adults with imported severe malaria.
 40414891	Assessment of Plasmodium vivax transmission and asymptomatic carriage risk among artisanal gold miners in western French Guiana, 2014-2020.
 40414866	Impact of indoor residual spraying on malaria incidence in Ugandan prisons: an interrupted time series analysis.
 40414860	Prevalence of malaria and associated risk factors among febrile under-five refugee children attending Panyadoli Health Centre III, Kiryandongo District, Mid-western Uganda.
@@ -9994,6 +9997,3 @@
 36962326	Most common reasons for primary care visits in low- and middle-income countries: A systematic review.
 36962318	Impact of mass distribution of insecticide-treated nets in Mozambique, 2012 to 2025: Estimates of child lives saved using the Lives Saved Tool.
 36962314	What Africa can do to accelerate and sustain progress against malaria.
-36962305	Model-informed target product profiles of long-acting-injectables for use as seasonal malaria prevention.
-36962300	Long-term effects of increased adoption of artemisinin combination therapies in Burkina Faso.
-36962263	House design and risk of malaria, acute respiratory infection and gastrointestinal illness in Uganda: A cohort study.
