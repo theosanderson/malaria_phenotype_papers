@@ -1,3 +1,8 @@
+40414891	Assessment of Plasmodium vivax transmission and asymptomatic carriage risk among artisanal gold miners in western French Guiana, 2014-2020.
+40414866	Impact of indoor residual spraying on malaria incidence in Ugandan prisons: an interrupted time series analysis.
+40414860	Prevalence of malaria and associated risk factors among febrile under-five refugee children attending Panyadoli Health Centre III, Kiryandongo District, Mid-western Uganda.
+40414409	Small for Gestational Age sub-groups have differential morbidity, growth and neurodevelopment at age 2: the INTERBIO-21(st) Newborn Study.
+40414141	Response to comments on "Spontaneous splenic rupture: A rare complication of concurrent malaria and dengue infections - A case report".
 40413489	Timeliness of malaria treatment in children under five years in Uganda: an analysis of 2016 demographic health survey data.
 40413486	Sublethal insecticide exposure of larvae affects the blood-feeding behaviour of adult mosquitoes.
 40413449	Assessing the impact of building footprint dataset choice for health programme planning: a case study of indoor residual spraying (IRS) in Zambia.
@@ -9992,8 +9997,3 @@
 36962305	Model-informed target product profiles of long-acting-injectables for use as seasonal malaria prevention.
 36962300	Long-term effects of increased adoption of artemisinin combination therapies in Burkina Faso.
 36962263	House design and risk of malaria, acute respiratory infection and gastrointestinal illness in Uganda: A cohort study.
-36962259	Malaria prevalence, knowledge and associated factors among household heads in Maygaba town, Ethiopia.
-36962234	Change in childbearing intention, use of contraception, unwanted pregnancies, and related adverse events during the COVID-19 pandemic: Results from a panel study in rural Burkina Faso.
-36962186	Beyond eves and cracks: An interdisciplinary study of socio-spatial variation in urban malaria transmission in Ethiopia.
-36962174	Rethinking human resources and capacity building needs for malaria control and elimination in Africa.
-36962153	Household modifications after the indoor residual spraying (IRS) campaign in Mozambique reduce the actual spray coverage and efficacy.
