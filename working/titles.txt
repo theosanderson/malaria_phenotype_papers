@@ -1,3 +1,10 @@
+40413489	Timeliness of malaria treatment in children under five years in Uganda: an analysis of 2016 demographic health survey data.
+40413486	Sublethal insecticide exposure of larvae affects the blood-feeding behaviour of adult mosquitoes.
+40413449	Assessing the impact of building footprint dataset choice for health programme planning: a case study of indoor residual spraying (IRS) in Zambia.
+40412858	Logistics of the malaria vaccine roll-out in Nigeria.
+40412814	Impact of proactive malaria community case management (proCCM) on parasite prevalence and incidence from 2021 to 2023: a randomised controlled trial in Chadiza District, Eastern Province, Zambia.
+40412793	Efficacy of essential oil from Maranta arundinacea L. against immature stages of dengue, filariasis, and malaria vectors and four mosquito predators.
+40412380	The critical role of PSAC channel in malaria parasite survival is driven home by phenotypic screening under relevant nutrient levels.
 40411405	Enhancing schistosomiasis drug discovery approaches with optimized proteasome substrates.
 40410846	Community perception and preventive practices regarding malaria in low-endemicity regions on Indonesian Kalimantan border adjacent to high-endemicity zoonotic malaria in Malaysian Borneo.
 40410577	β-hydroxybutyrate inhibits Plasmodium falciparum development and confers protection against malaria in mice.
@@ -9990,10 +9997,3 @@
 36962186	Beyond eves and cracks: An interdisciplinary study of socio-spatial variation in urban malaria transmission in Ethiopia.
 36962174	Rethinking human resources and capacity building needs for malaria control and elimination in Africa.
 36962153	Household modifications after the indoor residual spraying (IRS) campaign in Mozambique reduce the actual spray coverage and efficacy.
-36962146	Country ownership in global health.
-36962129	Perspectives of frontline health workers on transition from development assistance for health in Ghana: A qualitative study.
-36961831	Neither the African-Centric S47 Nor P72 Variant of TP53 Is Associated With Reduced Risk of Febrile Malaria in a Malian Cohort Study.
-36961624	Surface proteome of plasma extracellular vesicles as mechanistic and clinical biomarkers for malaria.
-36960929	Impact assessment of Intensified Malaria Control Project in transitioning a high malaria-endemic district to a low-endemic district: an epidemiological aspect.
-36960081	Drug Development Strategies for Malaria: With the Hope for New Antimalarial Drug Discovery-An Update.
-36959655	Association between malaria and household air pollution interventions in a predominantly rural area of Ghana.
