@@ -1,3 +1,13 @@
+40423557	Improving Molecular Epidemiological Surveillance of Strongyloidiasis Upon Differentiation of Strongyloides fuelleborni fuelleborni From Strongyloides stercoralis.
+40423371	Progress and Prospects of Triazoles in Advanced Therapies for Parasitic Diseases.
+40423367	Changes in Malaria Patterns in Comoros from 2010 to 2021: A Comparative Study with Sub-Saharan Africa.
+40423363	Changes in Lipid Profile Secondary to Asymptomatic Malaria in Migrants from Sub-Saharan Africa: A Retrospective Analysis of a 2010-2022 Cohort.
+40423355	Navigating the Parasitic Landscape: Insights into Infection Patterns and Public Health Strategies in West Africa.
+40422810	The Enigma of Sponge-Derived Terpenoid Isothiocyanate-Thiocyanate Pairs: A Biosynthetic Proposal.
+40422662	Behavioral manipulation of Ixodes scapularis by Ehrlichia muris eauclairensis: implications for tick-borne disease transmission.
+40422178	The PfK13 G533S mutation confers artemisinin partial resistance in multiple genetic backgrounds of Plasmodium falciparum.
+40422078	Ficolin-1 in pediatric Plasmodium falciparum malaria and its possible role in parasite clearance and anemia.
+40421683	Design and Analysis of a Novel Nanoscale 2D Photonic Crystal Structure for Enhanced Multi-Disorder Biosensing.
 40420468	Unsuspected Malaria Infection in a Case with Pancytopenia.
 40420292	Natural products as transmission-blocking agents against malaria: a comprehensive review of bioactive compounds and their therapeutic potential.
 40420173	Does mass chloroquine treatment have any role in the elimination of Plasmodium vivax ?
@@ -9987,13 +9997,3 @@
 36962655	Accuracy of computer-aided chest X-ray in community-based tuberculosis screening: Lessons from the 2016 Kenya National Tuberculosis Prevalence Survey.
 36962612	Global estimates of pregnancies at risk of Plasmodium falciparum and Plasmodium vivax infection in 2020 and changes in risk patterns since 2000.
 36962609	Rethinking malaria: Governance lessons from other disease programs.
-36962596	Approaches to quantify the contribution of multiple anemia risk factors in children and women from cross-sectional national surveys.
-36962591	Improving the efficiency of scale-up and deployment of community health workers in Mali: A geospatial analysis.
-36962582	Stratification of malaria incidence in Papua New Guinea (2011-2019): Contribution towards a sub-national control policy.
-36962553	Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.
-36962517	Protective efficacy of holed and aging PBO-pyrethroid synergist-treated nets on malaria infection prevalence in north-western Tanzania.
-36962505	Evaluating the impact of COVID-19 pandemic on complicated malaria admissions and outcomes in the paediatric Ho Teaching Hospital of the Volta Region of Ghana.
-36962502	India may need an additional metric to assess the endemicity of malaria in low surveillance districts.
-36962481	Rethinking district-level governance of malaria in Ghana: A narrative review.
-36962472	Financing malaria.
-36962465	Impact of the Liberian National Community Health Assistant Program on childhood illness care in Grand Bassa County, Liberia.
