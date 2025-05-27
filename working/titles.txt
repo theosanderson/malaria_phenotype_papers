@@ -1,3 +1,11 @@
+40420292	Natural products as transmission-blocking agents against malaria: a comprehensive review of bioactive compounds and their therapeutic potential.
+40420173	Does mass chloroquine treatment have any role in the elimination of Plasmodium vivax ?
+40420124	Social determinants of malaria in low- and middle-income countries: a mixed-methods systematic review.
+40420055	Spatiotemporal analysis of Anopheles gambiae larval sites and malaria transmission in Djilakh, Central Senegal.
+40420045	"I heard at home. The leader came by to inform". The role of community leaders and community distributors in promoting uptake of seasonal malaria chemoprevention in Nampula Province, Mozambique: a qualitative study.
+40419780	HaloPROTAC3 does not trigger the degradation of the halotagged parasitophorous vacuole membrane protein UIS4 during Plasmodium liver stage development.
+40419698	Greenness assessment and phototoxicity of rose bengal and methylene blue on immature aquatic stages of malaria vector Anopheles pharoensis.
+40419535	An insight into the salivary gland content of the human body louse, Pediculus humanus.
 40417749	Highlighting the Therapeutic Potential of an Underexplored Target: Human Dihydroorotate Dehydrogenase in Cancer, Rheumatoid Arthritis and Sclerosis.
 40416139	Anti-ethylene Diamine Tetra-Acetate (EDTA)-Induced Pseudothrombocytopenia in a Nigerian Middle-Aged Man.
 40415878	Serendipity in Emergency Diagnostics: Near Miss of a Loa loa Case in a Swiss Hospital.
@@ -9989,11 +9997,3 @@
 36962472	Financing malaria.
 36962465	Impact of the Liberian National Community Health Assistant Program on childhood illness care in Grand Bassa County, Liberia.
 36962454	Community-based house improvement for malaria control in southern Malawi: Stakeholder perceptions, experiences, and acceptability.
-36962431	qPCR in a suitcase for rapid Plasmodium falciparum and Plasmodium vivax surveillance in Ethiopia.
-36962426	Performance of highly sensitive and conventional rapid diagnostic tests for clinical and subclinical Plasmodium falciparum infections, and hrp2/3 deletion status in Burundi.
-36962413	Contribution of genetic factors to high rates of neonatal hyperbilirubinaemia on the Thailand-Myanmar border.
-36962405	Rethinking integrated service delivery for malaria.
-36962392	Caregivers' perception of risk for malaria, helminth infection and malaria-helminth co-infection among children living in urban and rural settings of Senegal: A qualitative study.
-36962359	Seroprevalence of SARS-CoV-2 in four states of Nigeria in October 2020: A population-based household survey.
-36962326	Most common reasons for primary care visits in low- and middle-income countries: A systematic review.
-36962318	Impact of mass distribution of insecticide-treated nets in Mozambique, 2012 to 2025: Estimates of child lives saved using the Lives Saved Tool.
