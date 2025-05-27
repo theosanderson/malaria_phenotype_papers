@@ -1,3 +1,4 @@
+40420468	Unsuspected Malaria Infection in a Case with Pancytopenia.
 40420292	Natural products as transmission-blocking agents against malaria: a comprehensive review of bioactive compounds and their therapeutic potential.
 40420173	Does mass chloroquine treatment have any role in the elimination of Plasmodium vivax ?
 40420124	Social determinants of malaria in low- and middle-income countries: a mixed-methods systematic review.
@@ -9996,4 +9997,3 @@
 36962481	Rethinking district-level governance of malaria in Ghana: A narrative review.
 36962472	Financing malaria.
 36962465	Impact of the Liberian National Community Health Assistant Program on childhood illness care in Grand Bassa County, Liberia.
-36962454	Community-based house improvement for malaria control in southern Malawi: Stakeholder perceptions, experiences, and acceptability.
