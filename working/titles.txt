@@ -1,3 +1,8 @@
+40424562	Long lived liver-resident memory T cells of biased specificities for abundant sporozoite antigens drive malaria protection by radiation-attenuated sporozoite vaccination.
+40424291	Where environment and malaria intersect: Exploring the spatio-temporal footprints of Plasmodium falciparum in Tanzania.
+40424286	Estimating multiplicity of infection, haplotype frequencies, and linkage disequilibria from multi-allelic markers for molecular disease surveillance.
+40424284	Expression, purification and preliminary pharmacological characterization of the Plasmodium falciparum membrane-bound pyrophosphatase type 1.
+40424190	Household clustering and seasonal genetic variation of Plasmodium falciparum at the community-level in The Gambia.
 40423557	Improving Molecular Epidemiological Surveillance of Strongyloidiasis Upon Differentiation of Strongyloides fuelleborni fuelleborni From Strongyloides stercoralis.
 40423371	Progress and Prospects of Triazoles in Advanced Therapies for Parasitic Diseases.
 40423367	Changes in Malaria Patterns in Comoros from 2010 to 2021: A Comparative Study with Sub-Saharan Africa.
@@ -9992,8 +9997,3 @@
 36962711	Malaria outbreak facilitated by engagement in activities near swamps following increased rainfall and limited preventive measures: Oyam District, Uganda.
 36962710	Acceptability and associated factors of indoor residual spraying for malaria control by households in Luangwa district of Zambia: A multilevel analysis.
 36962706	Community access to rectal artesunate for malaria (CARAMAL): A large-scale observational implementation study in the Democratic Republic of the Congo, Nigeria and Uganda.
-36962689	Management of febrile illness in rural Guinea over a seven-year period: A retrospective study.
-36962688	Predictors of iron deficiency anaemia among children aged 6-59 months in Tanzania: Evidence from the 2015-16 TDHS-MIS cross-sectional household survey.
-36962655	Accuracy of computer-aided chest X-ray in community-based tuberculosis screening: Lessons from the 2016 Kenya National Tuberculosis Prevalence Survey.
-36962612	Global estimates of pregnancies at risk of Plasmodium falciparum and Plasmodium vivax infection in 2020 and changes in risk patterns since 2000.
-36962609	Rethinking malaria: Governance lessons from other disease programs.
