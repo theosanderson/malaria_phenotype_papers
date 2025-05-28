@@ -1,3 +1,10 @@
+40426142	Multiplex LC-MS/MS assay for simultaneous quantification of artesunate and its active metabolite dihydroartemisinin with pyronaridine, proguanil, cycloguanil, and clindamycin in pharmacokinetic studies.
+40426109	Malaria and anaemia prevalence and associated factors among pregnant women initiating antenatal care in two regions in Ghana: an analytical cross-sectional study.
+40425819	Mapping tuberculosis prevalence in Africa using a Bayesian geospatial analysis.
+40425726	Genetic surveillance reveals low but sustained malaria transmission with clonal replacement in Sao Tome and Principe.
+40425493	[The future is already here and the wave is coming: progress and challenges in the research and application of artificial intelligence-empowered malaria control programmes].
+40425368	Mosquito-borne pathogens … Now Rickettsias?
+40425003	The Relationship Between Malaria and Pain: A Mini-Review.
 40424562	Long lived liver-resident memory T cells of biased specificities for abundant sporozoite antigens drive malaria protection by radiation-attenuated sporozoite vaccination.
 40424291	Where environment and malaria intersect: Exploring the spatio-temporal footprints of Plasmodium falciparum in Tanzania.
 40424286	Estimating multiplicity of infection, haplotype frequencies, and linkage disequilibria from multi-allelic markers for molecular disease surveillance.
@@ -9990,10 +9997,3 @@
 36962806	First cases of SARS-CoV-2 infection and secondary transmission in Kisumu, Kenya.
 36962798	Rare disease patients in India are rarely involved in international orphan drug trials.
 36962778	Factors associated with the uptake of Intermittent Preventive Treatment (IPTp-SP) for malaria in pregnancy: Further analysis of the 2018 Nigeria Demographic and Health Survey.
-36962736	Resurgence of malaria in Uganda despite sustained indoor residual spraying and repeated long lasting insecticidal net distributions.
-36962734	Asymptomatic malaria and nurturing factors in lowlands of Ethiopia: A community based cross-sectional study.
-36962718	Assessing the effectiveness of malaria interventions at the regional level in Ghana using a mathematical modelling application.
-36962713	Knowledge, attitudes, and practices of Anopheles mosquito control through insecticide treated nets and community-based health programs to prevent malaria in East Sumba Island, Indonesia.
-36962711	Malaria outbreak facilitated by engagement in activities near swamps following increased rainfall and limited preventive measures: Oyam District, Uganda.
-36962710	Acceptability and associated factors of indoor residual spraying for malaria control by households in Luangwa district of Zambia: A multilevel analysis.
-36962706	Community access to rectal artesunate for malaria (CARAMAL): A large-scale observational implementation study in the Democratic Republic of the Congo, Nigeria and Uganda.
