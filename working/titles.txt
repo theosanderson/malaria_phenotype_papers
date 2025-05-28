@@ -1,3 +1,5 @@
+40434644	Host complement C3 promotes malaria transmission by killing symbiotic bacteria in the mosquito midgut.
+40434490	Technological Advancements in Mosquito Repellents: Challenges and Opportunities in Plant-Based Repellents.
 40433670	The role of periostin (OSF-2) in the cytoadherence phenomena mediated by malaria parasites.
 40433665	Overexpression in Plasmodium falciparum of an intrinsically disordered protein segment of PfUT impairs the parasite's proteostasis and reduces its growth rate.
 40433647	The intersection of geography and sociocultural factors in malaria epidemiology: A study of 6 years (2018-2023) surveillance data from three districts of Maharashtra, India, with diverse landscape.
@@ -1735,7 +1737,7 @@
 39824704	Genome-scale, functional screen of Plasmodium sexual replication.
 39823475	Implementation outcomes of 1-3-7 focus investigation for malaria in a low transmission setting in Southern Province, Zambia: A mixed methods study.
 39823400	Roll out and prospects of the malaria vaccine R21/Matrix-M.
-39823287	Performance of ChatGPT-4o in the diagnostic workup of fever among returning travelers requiring hospitalization: a validation study.
+39823287	Performance of ChatGPT-4o in the diagnostic workup of fever among returning travellers requiring hospitalization: a validation study.
 39820027	Structural characterization of the ACDC domain from ApiAP2 proteins, a potential molecular target against apicomplexan parasites.
 39820011	A mixed methods study investigating factors affecting adherence to Plasmodium vivax malaria primaquine radical cure regimens among migrants along the Myanmar-Thailand border.
 39819965	Transmission of transgenic mosquito-killing fungi during copulation.
@@ -9995,5 +9997,3 @@
 36966327	The five continuum of care criteria that should accompany rectal artesunate interventions: lessons learned from an implementation study in Malawi.
 36966272	Modelling to inform next-generation medical interventions for malaria prevention and treatment.
 36965546	Neuroprotection by Alstonia boonei De Wild., Anacardium occidentale L., Azadirachta indica A.Juss. and Mangifera indica L.
-36964548	The effect of the COVID-19 lockdown on malaria transmission in South Africa.
-36964494	Season, storage and extraction method impact on the phytochemical profile of Terminalia ivorensis.
