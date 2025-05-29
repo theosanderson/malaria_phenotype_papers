@@ -1,3 +1,9 @@
+40437585	Prevalence of Plasmodium falciparum parasites with pfhrp2 exon 2 gene deletion in symptomatic malaria patients across Ghana in 2021.
+40437536	Blood feeding patterns of malaria mosquitoes collected using pit shelters and clay pots in the West Gojjam zone of Ethiopia.
+40437509	Co-design of a routine clinical review to improve the safety of high dose radical cure treatment for Plasmodium vivax malaria: findings from Cambodia and Ethiopia.
+40436967	Transcriptome analysis reveals a de novo DNA element that may interact with chromatin-associated proteins in Plasmodium berghei during erythrocytic development.
+40436834	Estimating small area population from health intervention campaign surveys and partially observed settlement data.
+40436748	Detection of haemosporidian parasite lineages from wild bird carcasses collected in eastern Japan.
 40435229	Mendelian randomisation and infection: pitfalls and promises.
 40435171	Subnational tailoring of malaria interventions for strategic planning and prioritization: Experience and perspectives of five malaria programs.
 40434644	Host complement C3 promotes malaria transmission by killing symbiotic bacteria in the mosquito midgut.
@@ -82,7 +88,7 @@
 40410509	A multi-omic meta-analysis reveals novel mechanisms of insecticide resistance in malaria vectors.
 40410154	PfPPM2 signalling regulates asexual division and sexual conversion of human malaria parasite Plasmodium falciparum.
 40410006	Acute Kidney Injury in Severe Malaria: A Serious Complication Driven by Hemolysis.
-40409742	A Dendrimer-Based Dual Delivery System for Artesunate and Fluconazole: Effective Malaria Treatment in a Murine Model of Plasmodium berghei.
+40409742	A dendrimer-based dual delivery system for artesunate and fluconazole: Effective malaria treatment in a murine model of Plasmodium berghei.
 40408421	Mortality rates in a cohort of infants attending immunization clinics in Uganda (2017-2019).
 40408399	Serological evidence and factors associated to liver damage in malaria-typhoid infected patients consulting in two health facilities, Yaoundé-Cameroon.
 40408344	Factors associated with health decision-making autonomy on own healthcare among Tanzanian women: A 2022-2023 demographic health survey study.
@@ -9991,9 +9997,3 @@
 36970448	Widespread occurrence of copy number variants and fixation of pyrethroid target site resistance in Anopheles gambiae (s.l.) from southern Côte d'Ivoire.
 36969319	Pakistan's healthcare preparedness after the NIH warned of a new diphtheria strain and Covid-19 variation.
 36968961	Absence of Malaria-Associated Coagulopathy in Asymptomatic Plasmodium falciparum Infection: Results From a Cross-sectional Study in the Ashanti Region, Ghana.
-36968287	Antibody seropositivity and endemicity of chikungunya and Zika viruses in Nigeria.
-36968112	Serological surveillance on potential Plasmodium vivax exposure risk in a post-elimination setting.
-36967389	Durability of long-lasting insecticidal nets (LLINs) in Ethiopia.
-36967019	Preliminary insight into the potential antiplasmodial activity and cytotoxicity of Bufo bufo and Incilius alvarius poison.
-36966369	[POST-ARTEMISININ DELAYED HEMOLYSIS AFTER TREATMENT OF MALARIA].
-36966327	The five continuum of care criteria that should accompany rectal artesunate interventions: lessons learned from an implementation study in Malawi.
