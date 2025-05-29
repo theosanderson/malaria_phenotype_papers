@@ -1,3 +1,10 @@
+40439744	Thalassemia traits may modulate protective mir-155 levels in dengue infection.
+40439576	Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024.
+40439506	High Prevalence of Artemisinin-Resistant Plasmodium falciparum, Southeastern Sudan.
+40439429	Application of a high-resolution melt assay for monitoring SARS-CoV-2 variants in Burkina Faso and Kenya.
+40439411	Efficacy of RTS,S/AS01E only seen in baseline parasitemic and not baseline aparasitemic Plasmodium falciparum-exposed, drug-treated Kenyan adults.
+40439354	Clinical Manifestations, Risk Factors, and Disease Burden of Rickettsiosis, Cambodia, 2007-2020.
+40439172	Novel Phylogeographic Structure of Avian Haemosporidians in a Widely Distributed Host.
 40437585	Prevalence of Plasmodium falciparum parasites with pfhrp2 exon 2 gene deletion in symptomatic malaria patients across Ghana in 2021.
 40437536	Blood feeding patterns of malaria mosquitoes collected using pit shelters and clay pots in the West Gojjam zone of Ethiopia.
 40437509	Co-design of a routine clinical review to improve the safety of high dose radical cure treatment for Plasmodium vivax malaria: findings from Cambodia and Ethiopia.
@@ -9990,10 +9997,3 @@
 36973412	Malaria is increasing in Indigenous and artisanal mining areas in the Brazilian Amazon.
 36972695	Case Report: Severe Optic Neuritis after Multiple Episodes of Malaria in a Traveler to Africa.
 36972302	The duplicated P450s CYP6P9a/b drive carbamates and pyrethroids cross-resistance in the major African malaria vector Anopheles funestus.
-36972236	An evaluation of LLIN ownership, access, and use during the Magude project in southern Mozambique.
-36971069	Electrochemical Determination of Chloroquine Phosphate in Real Samples Using a Diresorcinate-1,10-phenanthrolinecobalt(II)-Modified Glassy Carbon Electrode.
-36970842	Identification of new oxospiro chromane quinoline-carboxylate antimalarials that arrest parasite growth at ring stage.
-36970494	The impact of sustained malaria control in the Loreto region of Peru: a retrospective, observational, spatially-varying interrupted time series analysis of the PAMAFRO program.
-36970448	Widespread occurrence of copy number variants and fixation of pyrethroid target site resistance in Anopheles gambiae (s.l.) from southern Côte d'Ivoire.
-36969319	Pakistan's healthcare preparedness after the NIH warned of a new diphtheria strain and Covid-19 variation.
-36968961	Absence of Malaria-Associated Coagulopathy in Asymptomatic Plasmodium falciparum Infection: Results From a Cross-sectional Study in the Ashanti Region, Ghana.
