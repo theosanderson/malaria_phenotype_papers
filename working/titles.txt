@@ -1,3 +1,8 @@
+40440790	Recent research frontiers of heterocycles as antifungal Agents: Insights from the past five years.
+40440696	25 Years of Digital Health Toward Universal Health Coverage in Low- and Middle-Income Countries: Rapid Systematic Review.
+40440628	Healthcare-seeking behaviour of fever cases in Magude district, southern Mozambique: A qualitative study.
+40440378	Researchers question Abbott's rapid malaria tests.
+40440338	Spatial interpolation of health and demographic variables: Predicting malaria indicators with and without covariates.
 40439744	Thalassemia traits may modulate protective mir-155 levels in dengue infection.
 40439576	Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024.
 40439506	High Prevalence of Artemisinin-Resistant Plasmodium falciparum, Southeastern Sudan.
@@ -9992,8 +9997,3 @@
 36974933	In silico modeling revealed phytomolecules derived from Cymbopogon citratus (DC.) leaf extract as promising candidates for malaria therapy.
 36974526	Molecular Targets and Signaling Pathways in Cholangiocarcinoma: A Systematic Review.
 36974014	[Malaria control knowledge and behaviors and their influencing factors among residents in Banlao Township, Cangyuan County, Yunnan Province].
-36974013	[Establishment and preliminary evaluation of a fluorescent recombinase-aided amplification/CRISPR-Cas12a system for rapid detection of Plasmodium falciparum].
-36974009	[Temporal trends in disease burden of major human parasitic diseases in China from 1990 to 2019].
-36973412	Malaria is increasing in Indigenous and artisanal mining areas in the Brazilian Amazon.
-36972695	Case Report: Severe Optic Neuritis after Multiple Episodes of Malaria in a Traveler to Africa.
-36972302	The duplicated P450s CYP6P9a/b drive carbamates and pyrethroids cross-resistance in the major African malaria vector Anopheles funestus.
