@@ -1,3 +1,11 @@
+40442793	Heterogeneous malaria transmission patterns in southeastern Tanzania driven by socio-economic and environmental factors.
+40442675	Spatiotemporal patterns and climate-induced macroeconomic burden of malaria in sub-Saharan Africa.
+40442603	De novo assembly of plasmodium interspersed repeat (pir) genes from Plasmodium vivax RNAseq data suggests geographic conservation of sub-family transcription.
+40442398	In vitro and in silico evaluation of fluorinated diphenylamine chalcone derivatives as potential antimalarial and anticancer agents.
+40442265	Exploring the metabolic and cuticular mechanisms of increased pyrethroid resistance in Anopheles gambiae S.l populations from Ghana.
+40441860	Commentary: Navigating symptom and diagnostic overlap in pneumonia and malaria: insights from the field from the PERCH Study.
+40441679	First-in-human safety, tolerability, pharmacokinetics and pilot food-effect study of the candidate antimalarial compound MMV367.
+40441141	Unraveling an enhancer-silencer regulatory element showing epistatic interaction with a variant that escaped genome-wide association studies.
 40440790	Recent research frontiers of heterocycles as antifungal Agents: Insights from the past five years.
 40440696	25 Years of Digital Health Toward Universal Health Coverage in Low- and Middle-Income Countries: Rapid Systematic Review.
 40440628	Healthcare-seeking behaviour of fever cases in Magude district, southern Mozambique: A qualitative study.
@@ -9989,11 +9997,3 @@
 36977132	Surveillance and Control of Malaria Vectors in Hainan Province, China from 1950 to 2021: A Retrospective Review.
 36976731	Sensitivity and Uncertainty Analysis for Two-stream Capture-Recapture Methods in Disease Surveillance.
 36976115	Autokeras Approach: A Robust Automated Deep Learning Network for Diagnosis Disease Cases in Medical Images.
-36976018	Significance of Plasmodium berghei Amino Acid Transporter 1 in Food Vacuole Functionality and Its Association with Cerebral Pathogenesis.
-36975958	Genetic Diversity and Population Structure of Anopheles funestus in Western Kenya Based on Mitochondrial DNA Marker COII.
-36975916	Evidence of Transmission of Plasmodium vivax 210 and Plasmodium vivax 247 by Anopheles gambiae and An. coluzzii, Major Malaria Vectors in Benin/West Africa.
-36975906	Mosquito-Borne Diseases and Their Control Strategies: An Overview Focused on Green Synthesized Plant-Based Metallic Nanoparticles.
-36975584	Effective Coverage in Health Systems: Evolution of a Concept.
-36974933	In silico modeling revealed phytomolecules derived from Cymbopogon citratus (DC.) leaf extract as promising candidates for malaria therapy.
-36974526	Molecular Targets and Signaling Pathways in Cholangiocarcinoma: A Systematic Review.
-36974014	[Malaria control knowledge and behaviors and their influencing factors among residents in Banlao Township, Cangyuan County, Yunnan Province].
