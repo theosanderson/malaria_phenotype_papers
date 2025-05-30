@@ -1,3 +1,4 @@
+40444450	Ring hemorrhages in the central nervous system of severely anemic cynomolgus monkeys.
 40442793	Heterogeneous malaria transmission patterns in southeastern Tanzania driven by socio-economic and environmental factors.
 40442675	Spatiotemporal patterns and climate-induced macroeconomic burden of malaria in sub-Saharan Africa.
 40442603	De novo assembly of plasmodium interspersed repeat (pir) genes from Plasmodium vivax RNAseq data suggests geographic conservation of sub-family transcription.
@@ -9996,4 +9997,3 @@
 36977133	Nucleic Acid Prevalence of Zoonotic Babesia in Humans, Animals and Questing Ticks, a Systematic Review and Meta-Analysis.
 36977132	Surveillance and Control of Malaria Vectors in Hainan Province, China from 1950 to 2021: A Retrospective Review.
 36976731	Sensitivity and Uncertainty Analysis for Two-stream Capture-Recapture Methods in Disease Surveillance.
-36976115	Autokeras Approach: A Robust Automated Deep Learning Network for Diagnosis Disease Cases in Medical Images.
