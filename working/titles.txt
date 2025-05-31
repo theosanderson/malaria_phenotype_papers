@@ -1,3 +1,8 @@
+40446146	Indoleamine 2,3-Dioxygenase and Tryptophan Catabolism: Key Players in Immunosuppression and Intracellular Parasite Survival Mechanisms.
+40446075	Identification of a large anion channel required for digestive vacuole acidification and amino acid export in Plasmodium falciparum.
+40446072	Phenome-wide association study and functional annotation of hemoglobin A1c-associated variants in African populations.
+40445535	The brain shock index: repurposing the Lindegaard ratio for detecting cerebral hypoperfusion in children with cerebral malaria.
+40445171	Severe imported Plasmodium falciparum malaria with hyperparasitaemia: evaluation of determinants of critical disease in adult returning travellers.
 40444450	Ring hemorrhages in the central nervous system of severely anemic cynomolgus monkeys.
 40442793	Heterogeneous malaria transmission patterns in southeastern Tanzania driven by socio-economic and environmental factors.
 40442675	Spatiotemporal patterns and climate-induced macroeconomic burden of malaria in sub-Saharan Africa.
@@ -9992,8 +9997,3 @@
 36977181	Reactive Case Detection Strategy for Malaria Control and Elimination: A 12 Year Systematic Review and Meta-Analysis from 25 Malaria-Endemic Countries.
 36977180	Environmental Factors Linked to Reporting of Active Malaria Foci in Thailand.
 36977172	Zika, Flavivirus and Malaria Antibody Cocirculation in Nigeria.
-36977163	Modeling Sustained Transmission of Wolbachia among Anopheles Mosquitoes: Implications for Malaria Control in Haiti.
-36977150	Effects of Age, Gender and Soil-Transmitted Helminth Infection on Prevalence of Plasmodium Infection among Population Living in Bata District, Equatorial Guinea.
-36977133	Nucleic Acid Prevalence of Zoonotic Babesia in Humans, Animals and Questing Ticks, a Systematic Review and Meta-Analysis.
-36977132	Surveillance and Control of Malaria Vectors in Hainan Province, China from 1950 to 2021: A Retrospective Review.
-36976731	Sensitivity and Uncertainty Analysis for Two-stream Capture-Recapture Methods in Disease Surveillance.
