@@ -1,3 +1,9 @@
+40450347	The limitations of mobile phone data for measuring movement patterns of populations at risk of malaria.
+40449870	Identifying antimalarials that disrupt malaria parasite transmission when fed to the mosquito.
+40449854	Design and synthesis of hydroxychloroquine-sugar conjugates as promising antimalarial agents.
+40449598	The Hematin-dihydroartemisinin Adduct Mobilizes a Potent Mechanism to Suppress β-hematin Crystallization.
+40449281	Malaria vaccine acceptance and associated factors in cameroon: A nationwide cross-sectional survey.
+40448437	Effect of Salinity on Mosquito (Aedes) Oviposition Preference and Survival of Larvae: A Laboratory-based Study.
 40448113	An integrative review of the combined use of mathematical and statistical models for estimating malaria transmission parameters.
 40448074	Effect of a mobile phone-based interactive voice response on common childhood illnesses in Ghana: a quasi-experimental study.
 40447017	Rapid detection of zoonotic malaria using room-temperature stable and ready-to-use colorimetric LAMP reagents.
@@ -9991,9 +9997,3 @@
 36983859	Plasmodium vivax MSP1-42 kD Variant Proteins Detected Naturally Induced IgG Antibodies in Patients Regardless of the Infecting Parasite Phenotype in Mesoamerica.
 36983251	Ogilvie Syndrome and Acute Kidney Injury: A Rare Complication of Cesarean Section and Preeclampsia.
 36981465	Exploring Knowledge about Fang Traditional Medicine: An Informal Health Seeking Behaviour for Medical or Cultural Afflictions in Equatorial Guinea.
-36980901	Genetic Diversity in the mtDNA of Physarum polycephalum.
-36979396	Compounds Inhibiting Noppera-bo, a Glutathione S-transferase Involved in Insect Ecdysteroid Biosynthesis: Novel Insect Growth Regulators.
-36979393	Cysteine Residues in Region 6 of the Plasmodium yoelii Erythrocyte-Binding-like Ligand That Are Related to Its Localization and the Course of Infection.
-36978912	Antioxidant, Anti-Inflammatory and Anti-Diabetic Activities of Tectona grandis Methanolic Extracts, Fractions, and Isolated Compounds.
-36874567	The genome sequence of the malaria mosquito, Anopheles funestus, Giles, 1900.
-36978056	PET-PCR reveals low parasitaemia and submicroscopic malarial infections in Honduran Moskitia.
