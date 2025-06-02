@@ -2256,7 +2256,7 @@
 39662988	Malaria: Drug resistance and fragile health systems are hindering progress, WHO warns.
 39662974	Inequalities in uptake of childhood vaccination in England, 2019-23: longitudinal study.
 39661824	Molecular test for screening malaria-infected blood donors to maximise recipient safety in Acre State, a Brazilian endemic area.
-39661643	Plasmodium falciparum African PfCRT Mutant Isoforms Conducive to Piperaquine Resistance are Infrequent and Impart a Major Fitness Cost.
+39661643	Plasmodium falciparum African PfCRT Mutant Isoforms Conducive to Piperaquine Resistance Are Infrequent and Impart a Major Fitness Cost.
 39661611	Leptospira seroprevalence and associated risk factors among slaughterhouse workers in Western Bahr El Ghazal State, South Sudan.
 39661587	Rethinking village malaria workers in Cambodia: Perspectives from the communities, programme managers, and international stakeholders.
 39661549	Primaquine treatment for P. ovale infection in migrants with G6PD deficiency.
@@ -2875,7 +2875,7 @@
 39450524	Current or recent malaria infection is associated with elevated inflammation-adjusted ferritin concentrations in pre-school children: a secondary analysis of the BRINDA database.
 39450309	A histomorphometric study to evaluate the therapeutic effects of biosynthesized silver nanoparticles on the kidneys infected with Plasmodium chabaudi.
 39450180	Exploring the naturally acquired response to Pvs47 gametocyte antigen.
-39449682	Elevated levels of PDGF-BB and VEGF are associated with a decreased risk of readmission or death in children with severe malarial anemia.
+39449682	Elevated Levels of PDGF-BB and VEGF Are Associated With a Decreased Risk of Readmission or Death in Children With Severe Malarial Anemia.
 39449652	Role of C-C chemokine receptor type 5 in pathogenesis of malaria and its severe forms.
 39448997	The predictive capacity of biomarkers for clinical pulmonary oedema in patients with severe falciparum malaria is low: a prospective observational study.
 39448894	Exploring the longitudinal expression dynamics of midguts in adult female Amblyomma americanum ticks.
