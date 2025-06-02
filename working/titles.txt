@@ -1,3 +1,9 @@
+40452084	Co-infection of COVID-19 with Malaria and Dengue -A Hospital based Study in Kathmandu, Nepal.
+40452062	Dynamics of vector competence for dengue virus type 2 in rural and urban populations of Aedes albopictus: implications for infectious disease control.
+40452013	Performance of malaria rapid diagnostic test, microscopy, polymerase chain reaction, and histopathology to diagnose malaria among pregnant and parturient women using peripheral, placental, and cord blood, and placental biopsy in Majang Zone of Gambella Region, Southwest Ethiopia.
+40451519	Identification of pan-flavivirus compounds from drug repurposing.
+40450979	Mechanism of Dihydroartemisinin in activating macrophages to enhance host resistance to malaria.
+40450579	Optimization of Tambjamines Active against Multiple Stages of Malaria Parasites.
 40450347	The limitations of mobile phone data for measuring movement patterns of populations at risk of malaria.
 40449870	Identifying antimalarials that disrupt malaria parasite transmission when fed to the mosquito.
 40449854	Design and synthesis of hydroxychloroquine-sugar conjugates as promising antimalarial agents.
@@ -9991,9 +9997,3 @@
 36985500	Natural Plasmodium falciparum Infection Stimulates Human Antibodies to MSP1 Epitopes Identified in Mice Infection Models upon Non-Natural Modified Peptidomimetic Vaccination.
 36985278	The Tubulin Superfamily in Apicomplexan Parasites.
 36985270	Prioritization of Microorganisms Isolated from the Indian Ocean Sponge Scopalina hapalia Based on Metabolomic Diversity and Biological Activity for the Discovery of Natural Products.
-36985217	Contrasting Patterns of Asaia Association with Pyrethroid Resistance Escalation between the Malaria Vectors Anopheles funestus and Anopheles gambiae.
-36985137	Avian Malaria Parasites Modulate Gut Microbiome Assembly in Canaries.
-36984883	Phytochemicals Identification and Bioactive Compounds Estimation of Artemisia Species Grown in Saudia Arabia.
-36983859	Plasmodium vivax MSP1-42 kD Variant Proteins Detected Naturally Induced IgG Antibodies in Patients Regardless of the Infecting Parasite Phenotype in Mesoamerica.
-36983251	Ogilvie Syndrome and Acute Kidney Injury: A Rare Complication of Cesarean Section and Preeclampsia.
-36981465	Exploring Knowledge about Fang Traditional Medicine: An Informal Health Seeking Behaviour for Medical or Cultural Afflictions in Equatorial Guinea.
