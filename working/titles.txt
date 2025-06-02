@@ -1,3 +1,9 @@
+40453844	Sacha inchi (Plukenetia volubilis) seed oil alleviates Plasmodium berghei infection in mice by reducing proinflammatory cytokine levels and inhibiting parasite growth.
+40453738	From bites to bytes: understanding how and why individual malaria risk varies using artificial intelligence and causal inference.
+40453732	Current Status of Cancer Diagnosis and Treatment in Nigeria.
+40452612	Biochemistry of Heat Shock Proteins From Human Intracellular Protozoan Parasites as Diagnostic and Therapeutic Biomarkers.
+40452276	Preventive interventions and diagnostic testing compliance in the management of tropical infections among patients with sickle cell disease in Tanzania.
+40452273	Emerging Plasmodium falciparum K13 gene mutation to artemisinin-based combination therapies and partner drugs among malaria-infected population in sub-Saharan Africa.
 40452084	Co-infection of COVID-19 with Malaria and Dengue -A Hospital based Study in Kathmandu, Nepal.
 40452062	Dynamics of vector competence for dengue virus type 2 in rural and urban populations of Aedes albopictus: implications for infectious disease control.
 40452013	Performance of malaria rapid diagnostic test, microscopy, polymerase chain reaction, and histopathology to diagnose malaria among pregnant and parturient women using peripheral, placental, and cord blood, and placental biopsy in Majang Zone of Gambella Region, Southwest Ethiopia.
@@ -9991,9 +9997,3 @@
 36986377	Low Prevalence of Plasmodium falciparum Histidine-Rich Protein 2 and 3 Gene Deletions-A Multiregional Study in Central and West Africa.
 36986323	Glucose-6-Phosphate Dehydrogenase (G6PD) Measurement Using Biosensors by Community-Based Village Malaria Workers and Hospital Laboratory Staff in Cambodia: A Quantitative Study.
 36986320	Pioneer Use of Antimalarial Transdermal Combination Therapy in Rodent Malaria Model.
-36986296	Analysis of Fifty Years of Severe Malaria Worldwide Research.
-36985700	Antileishmanial and Antiplasmodial Activities of Secondary Metabolites from the Root of Antrocaryon klaineanum Pierre (Anacardiaceae).
-36985570	Cripowellins Pause Plasmodium falciparum Intraerythrocytic Development at the Ring Stage.
-36985500	Natural Plasmodium falciparum Infection Stimulates Human Antibodies to MSP1 Epitopes Identified in Mice Infection Models upon Non-Natural Modified Peptidomimetic Vaccination.
-36985278	The Tubulin Superfamily in Apicomplexan Parasites.
-36985270	Prioritization of Microorganisms Isolated from the Indian Ocean Sponge Scopalina hapalia Based on Metabolomic Diversity and Biological Activity for the Discovery of Natural Products.
