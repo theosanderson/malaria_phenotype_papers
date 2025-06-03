@@ -1,3 +1,5 @@
+40459702	Hemophagocytic lymphohistiocytosis in people living with HIV-a single centre experience.
+40459245	The Potential Role of Monocyte-Derived Macrophages in Preventing Malarial Parasitemic Recrudescence in a Mouse Model.
 40458503	A comprehensive review of cerebral malaria.
 40458493	Role of microbiota in host-Plasmodium interaction.
 40458179	Molecular and clinical profiles of T2DM, dyslipidemia, and periodontitis: insights into inflammatory and metabolic dysregulation.
@@ -9995,5 +9997,3 @@
 36991438	Diagnostic performance of NxTek(™) Eliminate Malaria-Pf test for the detection of Plasmodium falciparum in school children with asymptomatic malaria.
 36991411	Perception and awareness towards malaria vaccine policy implementation in Nigeria by health policy actors.
 36991404	Pre-referral rectal artesunate is no "magic bullet" in weak health systems.
-36991403	Improving social justice in observational studies: protocol for the development of a global and Indigenous STROBE-equity reporting guideline.
-36991394	Post introduction evaluation of the malaria vaccine implementation programme in Ghana, 2021.
