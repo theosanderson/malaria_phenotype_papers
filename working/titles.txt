@@ -1,3 +1,5 @@
+40455756	Using a quality improvement approach to improve reporting of malaria deaths in Namutumba District, Eastern Uganda, 2022-2023.
+40455742	Heterochromatin de novo formation and maintenance in Plasmodium falciparum.
 40453844	Sacha inchi (Plukenetia volubilis) seed oil alleviates Plasmodium berghei infection in mice by reducing proinflammatory cytokine levels and inhibiting parasite growth.
 40453738	From bites to bytes: understanding how and why individual malaria risk varies using artificial intelligence and causal inference.
 40453732	Current Status of Cancer Diagnosis and Treatment in Nigeria.
@@ -9995,5 +9997,3 @@
 36986583	Vitamin E TPGS-Based Nanomedicine, Nanotheranostics, and Targeted Drug Delivery: Past, Present, and Future.
 36986434	Recent Advances in the Development of Adenovirus-Vectored Vaccines for Parasitic Infections.
 36986377	Low Prevalence of Plasmodium falciparum Histidine-Rich Protein 2 and 3 Gene Deletions-A Multiregional Study in Central and West Africa.
-36986323	Glucose-6-Phosphate Dehydrogenase (G6PD) Measurement Using Biosensors by Community-Based Village Malaria Workers and Hospital Laboratory Staff in Cambodia: A Quantitative Study.
-36986320	Pioneer Use of Antimalarial Transdermal Combination Therapy in Rodent Malaria Model.
