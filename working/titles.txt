@@ -1,3 +1,10 @@
+40457494	Plasmodium falciparum malaria runs a more severe course in splenectomized patients at comparable levels of parasitemia: a retrospective matched case-control study.
+40457392	Influence of genetic factors of humans, mosquitoes and parasites, on the evolution of Plasmodium falciparum infections, malaria transmission and genetic control methods: a review of the literature.
+40457250	Navigating converging pathways of co-infection: an integrated epidemiological insight into hepatitis B and malaria among pregnant women in the middle belt of Ghana.
+40457247	Perceptions and practices of household heads toward malaria: a community based cross sectional study in Southwest Ethiopia.
+40456882	Rapid evaporative ionisation mass spectrometry can age field caught Anopheles gambiae malaria vectors.
+40456832	Computational approaches in drug chemistry leveraging python powered QSPR study of antimalaria compounds by using artificial neural networks.
+40456390	Infectious uveitis: Epidemiology, etiology, diagnostic test performance and treatment.
 40455756	Using a quality improvement approach to improve reporting of malaria deaths in Namutumba District, Eastern Uganda, 2022-2023.
 40455742	Heterochromatin de novo formation and maintenance in Plasmodium falciparum.
 40453844	Sacha inchi (Plukenetia volubilis) seed oil alleviates Plasmodium berghei infection in mice by reducing proinflammatory cytokine levels and inhibiting parasite growth.
@@ -9990,10 +9997,3 @@
 36990624	Endemic or regionally limited parasitic and fungal infections in haematopoietic stem-cell transplantation recipients: a Worldwide Network for Blood and Marrow Transplantation (WBMT) Review.
 36990255	Plasmodium Iron-Sulfur [Fe-S] cluster assembly protein Dre2 as a plausible target of Artemisinin: Mechanistic insights derived in a prokaryotic heterologous system.
 36989322	Serum anti-erythropoietin antibodies among pregnant women with Plasmodium falciparum malaria and anaemia: A case-control study in northern Ghana.
-36988415	Clinical evaluation of BioFire® multiplex-PCR panel for acute undifferentiated febrile illnesses in travellers: a prospective multicentre study.
-36987993	Accelerating action to reduce anemia: Review of causes and risk factors and related data needs.
-36987595	Coronavirus Disease 2019 Convalescent Plasma Utilization in the United States: Data From the National Inpatient Sample.
-36986868	Derivatives of Amaryllidaceae Alkaloid Ambelline as Selective Inhibitors of Hepatic Stage of Plasmodium berghei Infection In Vitro.
-36986583	Vitamin E TPGS-Based Nanomedicine, Nanotheranostics, and Targeted Drug Delivery: Past, Present, and Future.
-36986434	Recent Advances in the Development of Adenovirus-Vectored Vaccines for Parasitic Infections.
-36986377	Low Prevalence of Plasmodium falciparum Histidine-Rich Protein 2 and 3 Gene Deletions-A Multiregional Study in Central and West Africa.
