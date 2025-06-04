@@ -1,3 +1,13 @@
+40463965	Elimination of intra-hepatocytic malaria parasites is driven by non-canonical autophagy but not nitric oxide production.
+40463829	Expansion of the Plasmodium falciparum Kelch13 R622I Mutation in Northwest Ethiopia.
+40463611	Trials and tribulations: Developing an artificial intelligence for screening malaria parasite from peripheral blood smears.
+40463602	Determinants of outcomes of childhood severe Malaria: A multi-centric study.
+40463554	Quantifying the role of importation on sustained malaria transmission in a low-to-moderate burden region of Southwest Uganda.
+40463542	Slowing the spread of treatment failure to artemisinin-based combination therapies in Uganda.
+40463507	The interplay between species and locations shapes vector fleas microbial communities in plague foci: pathogens rather than symbionts?
+40463147	Virus-like particle vaccines targeting a key epitope in circumsporozoite protein provide sterilizing immunity against malaria.
+40463039	Mechanistic Insights into the Plasmodium Phosphatase UIS2 in eIF2α Dephosphorylation via Integrated Structure-Based Modeling.
+40463034	Natural killer cell function in children with severe malaria differs according to malaria transmission intensity.
 40461818	Anti-sporozoite monoclonal antibody for malaria prevention: secondary efficacy outcome of a phase 2 randomized trial.
 40461532	Cryptic absence and genetic variation of Plasmodium falciparum PfHRP2 and PfHRP3 from isolates in Papua, Indonesia.
 40461484	Chromosome-scale genome assembly and annotation of two geographically distinct strains of malaria vector Anopheles albimanus.
@@ -9987,13 +9997,3 @@
 36996716	Falcipains: Biochemistry, target validation and structure-activity relationship studies of inhibitors as antimalarials.
 36996035	Same, same but different: Exploring Plasmodium cell division during liver stage development.
 36994923	Zinc supplementation for preventing mortality, morbidity, and growth failure in children aged 6 months to 12 years.
-36993981	Plasmodium falciparum infection coinciding with the malaria vaccine candidate BK-SE36 administration interferes with the immune responses in Burkinabe children.
-36993979	Exploring SARS-CoV-2 and Plasmodium falciparum coinfection in human erythrocytes.
-36993973	Brain endothelial cells exposure to malaria parasites links type I interferon signalling to antigen presentation, immunoproteasome activation, endothelium disruption, and cellular metabolism.
-36993971	P2RX7 signaling drives the differentiation of Th1 cells through metabolic reprogramming for aerobic glycolysis.
-36993678	Frequency-dependent ecological interactions increase the prevalence, and shape the distribution, of pre-existing drug resistance.
-36993674	Alpha globin gene copy number and incident ischemic stroke risk among Black Americans.
-36993606	Atlas of Plasmodium falciparum intraerythrocytic development using expansion microscopy.
-36993272	Development of a Plasmodium vivax biobank for functional ex vivo assays.
-36993196	Asymptomatic and submicroscopic malaria infections in sugar cane and rice development areas of Ethiopia.
-36993192	Lineage-informative microhaplotypes for spatio-temporal surveillance of Plasmodium vivax malaria parasites.
