@@ -1,3 +1,5 @@
+40460097	Factors affecting integration of an early warning system for antimalarial drug resistance within a routine surveillance system in a pre-elimination setting in Sub-Saharan Africa.
+40460079	Gut microbiota composition differences are associated with geographic location and age in malaria-endemic regions of Rwanda.
 40459702	Hemophagocytic lymphohistiocytosis in people living with HIV-a single centre experience.
 40459245	The Potential Role of Monocyte-Derived Macrophages in Preventing Malarial Parasitemic Recrudescence in a Mouse Model.
 40458503	A comprehensive review of cerebral malaria.
@@ -270,6 +272,11 @@
 40369344	A modular mRNA vaccine platform encoding antigen-presenting capsid virus-like particles enhances the immunogenicity of the malaria antigen Pfs25.
 40369090	PI3-kinase has multiple functions in asexual blood stages of Plasmodium falciparum.
 40368280	Mosquito sex determination: recent advances and applications.
+30000766	Primaquine.
+30000538	Atovaquone and Proguanil.
+30000213	Mefloquine.
+30000209	Hydroxychloroquine.
+30000205	Chloroquine.
 40367293	Prevalence and determinants of anemia among pregnant women attending maternal and child health clinics at Sukuta Health Center, The Gambia: An institutional-based cross-sectional study.
 40367238	Allosteric modulation of Plasmodium falciparum Isoleucyl tRNA synthetase by South African natural compounds.
 40367150	Advancing Early Warning Systems for Malaria: Progress, challenges, and future directions - A scoping review.
@@ -1041,10 +1048,6 @@
 40086801	The 'Health-2-Go' programme's impact on all-cause mortality and clinic utilisation for children 5 and under: a retrospective cohort analysis of an iCCM intervention in Ghana's Barekese Subdistrict.
 40086773	Vaccines for International Travelers: Current Status and Recent Developments.
 40086604	Third-generation analogues of Guttiferone A.
-30000766	Primaquine.
-30000538	Atovaquone and Proguanil.
-30000213	Mefloquine.
-30000205	Chloroquine.
 40085439	Sustained activation induced cytidine deaminase (AID) expression in B cells following Plasmodium falciparum malaria infection in Kenyan children.
 40085245	Complete Genome Sequence, Biological Activities, and Metabolomic Profiles of Mangrove-Derived Streptomyces sp. SM1P.
 40084210	Malaria and missed school days: exploring school absenteeism patterns and local strategies in Odisha, India.
@@ -4139,7 +4142,6 @@
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. Leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
 30000752	Atovaquone.
-30000209	Hydroxychloroquine.
 39003571	Structure-function analysis of nucleotide housekeeping protein HAM1 from human malaria parasite Plasmodium falciparum.
 39003498	The C-terminal region of the Plasmodium berghei gamete surface 184-kDa protein Pb184 contributes to fertilization and male gamete binding to the residual body.
 39003288	Asymptomatic malaria and predictors among migrant farmworkers East Shewa zone Oromia Ethiopia.
@@ -9995,5 +9997,3 @@
 36992247	Tetanus and Diphtheria Seroprotection among Children Younger Than 15 Years in Nigeria, 2018: Who Are the Unprotected Children?
 36991487	The CARAMAL study could not assess the effectiveness of rectal artesunate in treating suspected severe malaria.
 36991438	Diagnostic performance of NxTek(™) Eliminate Malaria-Pf test for the detection of Plasmodium falciparum in school children with asymptomatic malaria.
-36991411	Perception and awareness towards malaria vaccine policy implementation in Nigeria by health policy actors.
-36991404	Pre-referral rectal artesunate is no "magic bullet" in weak health systems.
