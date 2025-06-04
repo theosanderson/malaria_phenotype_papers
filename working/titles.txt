@@ -1,3 +1,4 @@
+40465260	Maternal HIV retesting during pregnancy and postpartum among high-risk populations in Kenya, South Africa, and Ukraine: Cost-effectiveness of preventing vertical transmission.
 40463965	Elimination of intra-hepatocytic malaria parasites is driven by non-canonical autophagy but not nitric oxide production.
 40463829	Expansion of the Plasmodium falciparum Kelch13 R622I Mutation in Northwest Ethiopia.
 40463611	Trials and tribulations: Developing an artificial intelligence for screening malaria parasite from peripheral blood smears.
@@ -9996,4 +9997,3 @@
 36997012	Residual malaria transmission: Magnitude and drivers of persistent Plasmodium infections despite high coverage of control interventions in Burkina Faso, West Africa.
 36996716	Falcipains: Biochemistry, target validation and structure-activity relationship studies of inhibitors as antimalarials.
 36996035	Same, same but different: Exploring Plasmodium cell division during liver stage development.
-36994923	Zinc supplementation for preventing mortality, morbidity, and growth failure in children aged 6 months to 12 years.
