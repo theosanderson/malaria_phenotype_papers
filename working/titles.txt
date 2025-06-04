@@ -1,3 +1,11 @@
+40461818	Anti-sporozoite monoclonal antibody for malaria prevention: secondary efficacy outcome of a phase 2 randomized trial.
+40461532	Cryptic absence and genetic variation of Plasmodium falciparum PfHRP2 and PfHRP3 from isolates in Papua, Indonesia.
+40461484	Chromosome-scale genome assembly and annotation of two geographically distinct strains of malaria vector Anopheles albimanus.
+40460815	Malaria-Associated Mortality in the 19th Century.
+40460814	Intravenous Fluid Bolus Resuscitation Increases Mortality Risk in Malawian Children with Cerebral Malaria.
+40460611	Antiplasmodial effect of benzimidazole-pyrazole derivative against Plasmodium berghei infection in mice model.
+40460588	Post-mortem study of endemic human coronaviruses (HCoV-NL63, OC43, 229E and HKU-1) in deaths of children under five in low- and middle-income countries: Findings from the Child Health and Mortality Prevention Surveillance (CHAMPS) study.
+40460517	The Thienopyrimidinone Gamhépathiopine Targets the Q(O) Site of Plasmodium falciparum Cytochrome b.
 40460097	Factors affecting integration of an early warning system for antimalarial drug resistance within a routine surveillance system in a pre-elimination setting in Sub-Saharan Africa.
 40460079	Gut microbiota composition differences are associated with geographic location and age in malaria-endemic regions of Rwanda.
 40459702	Hemophagocytic lymphohistiocytosis in people living with HIV-a single centre experience.
@@ -9989,11 +9997,3 @@
 36993272	Development of a Plasmodium vivax biobank for functional ex vivo assays.
 36993196	Asymptomatic and submicroscopic malaria infections in sugar cane and rice development areas of Ethiopia.
 36993192	Lineage-informative microhaplotypes for spatio-temporal surveillance of Plasmodium vivax malaria parasites.
-36993116	Epidemiology of malaria from a low-prevalence Indian state: A single-center study.
-36993083	Assessment of frontline health workers in providing services for malaria elimination in the tribal district of Mandla, Madhya Pradesh.
-36993017	Etiology of new-onset seizures in adult patients of different age groups presenting to the emergency department in North India and their outcomes.
-36992881	Editorial: Novel strategies for controlling mosquito-borne diseases.
-36992298	Determinants of Chikungunya and O'nyong-Nyong Virus Specificity for Infection of Aedes and Anopheles Mosquito Vectors.
-36992247	Tetanus and Diphtheria Seroprotection among Children Younger Than 15 Years in Nigeria, 2018: Who Are the Unprotected Children?
-36991487	The CARAMAL study could not assess the effectiveness of rectal artesunate in treating suspected severe malaria.
-36991438	Diagnostic performance of NxTek(™) Eliminate Malaria-Pf test for the detection of Plasmodium falciparum in school children with asymptomatic malaria.
