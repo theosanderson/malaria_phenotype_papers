@@ -1,3 +1,11 @@
+40468325	Enhanced data quality to improve malaria surveillance in Papua, Indonesia.
+40468310	Medicinal plants traditionally used for management of malaria in rural communities of Uganda.
+40468209	The economic burden and catastrophic health expenditures among children with sickle cell anaemia on households in malaria-endemic areas: insights from Uganda and Malawi.
+40467738	Effects of indoor cooking with liquefied petroleum gas versus solid biomass on mosquito and fly density in households.
+40467616	Androgens inhibit protective CD8(+) T cell responses against pre-erythrocytic malaria parasites in mice.
+40467393	Acute Kidney Injury in Severe Malaria: A New Dawn.
+40466596	Combination astragaloside IV and artesunate preserves blood-brain barrier integrity by modulating astrocytes and tight junction proteins in Plasmodium yoelii infection.
+40466595	Three Asparagine insertions in the K13-propeller led to Plasmodiumfalciparum becoming resistant to multiple antimalarial drugs.
 40465896	Use of Brazilian flora as the main source of new antimalarials: a systematic review.
 40465684	Application of ConvNeXt with transfer learning and data augmentation for malaria parasite detection in resource-limited settings using microscopic images.
 40465260	Maternal HIV retesting during pregnancy and postpartum among high-risk populations in Kenya, South Africa, and Ukraine: Cost-effectiveness of preventing vertical transmission.
@@ -9989,11 +9997,3 @@
 37000891	Formation of ER-lumenal intermediates during export of Plasmodium proteins containing transmembrane-like hydrophobic sequences.
 37000890	Acceptability and perceived barriers to reactive focal mass drug administration in the context of a malaria elimination program in Magude district, Southern Mozambique: A qualitative study.
 36999849	Influence of mosquito-borne biological agents on health risks among soldiers and military personnel.
-36999404	A Water-Soluble Polymer-Lumefantrine Conjugate for the Intravenous Treatment of Severe Malaria.
-36999258	Plasmodium Ovale Malaria: Endemic Areas in Indonesia.
-36998616	Artesunate inhibits airway remodeling in asthma via the MAPK signaling pathway.
-36997953	Investigating rapid diagnostic testing in Kenya's health system, 2018-2020: validating non-reporting in routine data using a health facility service assessment survey.
-36997790	The synergistic effect of climatic factors on malaria transmission: a predictive approach for northeastern states of India.
-36997768	Therapeutic perspective for children and young adults living with thalassemia and sickle cell disease.
-36997532	Cryo-tomography reveals rigid-body motion and organization of apicomplexan invasion machinery.
-36997087	Maturation of the malarial phosphatidylserine decarboxylase is mediated by high affinity binding to anionic phospholipids.
