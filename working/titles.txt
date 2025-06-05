@@ -1,3 +1,11 @@
+40470219	Are Environmental volatiles contributing to Insecticide resistance in Anopheles Mosquitoes in Ghana?
+40470198	"After a long day of play, I get tired and forget to unfurl my bednet": a qualitative study exploring factors affecting insecticide-treated bednet use among school-aged children in eastern.
+40469989	Review of the ethnobotany, phytochemistry, pharmacology, and toxicity studies of the genus Adenia.
+40469775	An assessment of interobserver agreement on lesion size, morphology and clinical phenotype in cutaneous leishmaniasis caused by Leishmania aethiopica in Ethiopia.
+40469542	Review on progress, challenges, and recommendations for implementing the One Health approach in the Eastern Mediterranean Region.
+40469401	COVID-19 knowledge, attitude, and practice in combating TB and COVID-19 in Cameroon.
+40469036	Just Say NO to CD36 Expression: A Regulatory Pathway With Implications in Many Chronic Diseases.
+40468804	Bovistols E and F, New bis-Sesquiterpenes Isolated From Psathyrella microrhiza CF-117891.
 40468325	Enhanced data quality to improve malaria surveillance in Papua, Indonesia.
 40468310	Medicinal plants traditionally used for management of malaria in rural communities of Uganda.
 40468209	The economic burden and catastrophic health expenditures among children with sickle cell anaemia on households in malaria-endemic areas: insights from Uganda and Malawi.
@@ -9989,11 +9997,3 @@
 37006809	Bifidobacterium longum Administration Diminishes Parasitemia and Inflammation During Plasmodium berghei Infection in Mice.
 37004637	Large DNA fragment knock-in and sequential gene editing in Plasmodium falciparum: a preliminary study using suicide-rescue-based CRISPR/Cas9 system.
 37004584	Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
-37004489	Transcriptomic analysis of albendazole resistance in human diarrheal parasite Giardia duodenalis.
-37004429	Malaria temporal dynamic clustering for surveillance and intervention planning.
-37002357	Congenital Chagas Disease.
-37001539	Getting health back on the highest political agenda-the UN High-level Meetings on health in 2023.
-37001025	Synthesis and Characterization of Phenylalanine Amides Active against Mycobacterium abscessus and Other Mycobacteria.
-37000891	Formation of ER-lumenal intermediates during export of Plasmodium proteins containing transmembrane-like hydrophobic sequences.
-37000890	Acceptability and perceived barriers to reactive focal mass drug administration in the context of a malaria elimination program in Magude district, Southern Mozambique: A qualitative study.
-36999849	Influence of mosquito-borne biological agents on health risks among soldiers and military personnel.
