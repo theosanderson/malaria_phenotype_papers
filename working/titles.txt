@@ -1,3 +1,5 @@
+40465896	Use of Brazilian flora as the main source of new antimalarials: a systematic review.
+40465684	Application of ConvNeXt with transfer learning and data augmentation for malaria parasite detection in resource-limited settings using microscopic images.
 40465260	Maternal HIV retesting during pregnancy and postpartum among high-risk populations in Kenya, South Africa, and Ukraine: Cost-effectiveness of preventing vertical transmission.
 40463965	Elimination of intra-hepatocytic malaria parasites is driven by non-canonical autophagy but not nitric oxide production.
 40463829	Expansion of the Plasmodium falciparum Kelch13 R622I Mutation in Northwest Ethiopia.
@@ -5792,6 +5794,7 @@
 38429196	Comparative evaluation of rapid plasma reagin and ELISA with Treponema pallidum hemagglutination assay for the detection of syphilis in blood donors: a single center experience.
 38428566	Lycopene possess an antimalarial effect on chloroquine-resistant malaria and its hematological aberrations in murine model.
 38428508	Structural and functional comparisons of salivary α-glucosidases from the mosquito vectors Aedes aegypti, Anopheles gambiae, and Culex quinquefasciatus.
+40466199	Preventing malaria spread in the US.
 38427625	Role of riboflavin deficiency in malaria pathophysiology.
 38427618	Preventing zoonotic and zooanthroponotic disease transmission at wild great ape sites: Recommendations from qualitative research at Bwindi Impenetrable National Park.
 38427079	A dot-blot ELISA preliminary evaluation using PvMSP1-42 recombinant protein as antigen for serological diagnosis of Plasmodium vivax infection in Thailand.
@@ -9994,6 +9997,3 @@
 36997768	Therapeutic perspective for children and young adults living with thalassemia and sickle cell disease.
 36997532	Cryo-tomography reveals rigid-body motion and organization of apicomplexan invasion machinery.
 36997087	Maturation of the malarial phosphatidylserine decarboxylase is mediated by high affinity binding to anionic phospholipids.
-36997012	Residual malaria transmission: Magnitude and drivers of persistent Plasmodium infections despite high coverage of control interventions in Burkina Faso, West Africa.
-36996716	Falcipains: Biochemistry, target validation and structure-activity relationship studies of inhibitors as antimalarials.
-36996035	Same, same but different: Exploring Plasmodium cell division during liver stage development.
