@@ -1,3 +1,6 @@
+40471099	Decreasing antimicrobial resistance in representative UK livestock species was associated with reduced total sales of antimicrobials in the last decade.
+40470930	Multi-system dysregulation in placental malaria contributes to adverse perinatal outcomes in mice.
+40470909	Causes of death in Magellanic penguins Spheniscus magellanicus in southern Brazil.
 40470219	Are Environmental volatiles contributing to Insecticide resistance in Anopheles Mosquitoes in Ghana?
 40470198	"After a long day of play, I get tired and forget to unfurl my bednet": a qualitative study exploring factors affecting insecticide-treated bednet use among school-aged children in eastern.
 40469989	Review of the ethnobotany, phytochemistry, pharmacology, and toxicity studies of the genus Adenia.
@@ -9994,6 +9997,3 @@
 37009056	The next generation of malaria treatments: the great expectations.
 37007492	Corrigendum: Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches.
 37007221	Utilization of Insecticide-Treated Nets in Households for Under-5 Children and Associated Factors in East Mesekan District, Gurage Zone, Southern Ethiopia.
-37006809	Bifidobacterium longum Administration Diminishes Parasitemia and Inflammation During Plasmodium berghei Infection in Mice.
-37004637	Large DNA fragment knock-in and sequential gene editing in Plasmodium falciparum: a preliminary study using suicide-rescue-based CRISPR/Cas9 system.
-37004584	Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
