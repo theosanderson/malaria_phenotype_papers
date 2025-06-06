@@ -1,3 +1,11 @@
+40476243	Tri-metallic (Au-Pt-Ag) nanofluids: unveiling synergistic anti-malarial, cytotoxic, and antioxidant potentials through experimental and computational approaches.
+40476012	Diagnostic accuracy of PfHRP2-based malaria rapid diagnostic tests and antigenemia persistence in Kenyan children from a holoendemic region: implications for case management and surveillance.
+40475615	Identification of α-azacyclic acetamide-based inhibitors of P. falciparum Na (+) pump ( Pf ATP4) with fast-killing asexual blood-stage antimalarial activity by phenotypic screening.
+40475371	Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis Overlay Associated with Self-Medication of Sulfadoxine-Pyrimethamine Overdose in a Patient with HIV/AIDS Infection: A Case Report.
+40475147	Understanding the Epidemiology of Malaria in Zanzibar through Molecular and Serological Analysis of Samples collected during Reactive Case Detection.
+40474981	From malaria fighter to diabetes guardian: the emerging role of artesunate in treating diabetes and diabetic complications.
+40474822	Association Between CD55 Polymorphisms and Susceptibility to Uncomplicated Malaria Imported from Africa in a Chinese Han Population.
+40474617	Cholesterol: My Story My Song.
 40474285	Anopheles hyrcanus (Diptera: Culicidae): yet another invasive mosquito species in Germany.
 40474164	Clinicians' experience with quinine-based treatment of malaria in the first trimester of pregnancy in Ghana: a phenomenological study.
 40474067	Molecular markers of reduced behavioral sensitivity to transfluthrin in Anopheles gambiae s.s. from Western Kenya.
@@ -9989,11 +9997,3 @@
 37015081	Analyzing Spatial and Temporal Patterns of Designated Malaria Risk Areas in Nepal from 2018 to 2021.
 37014920	Conditional permeabilization of the P. falciparum plasma membrane in infected cells links cation influx to reduced membrane integrity.
 37014773	Imported malaria and its implication to achievement of malaria-free Bhutan.
-37014087	Memory CD8+ T cell-mediated protection against liver-stage malaria.
-37013559	Toxic effects of 70% ethanol extract of Moringa stenopetala leaf (Baker f.) Cufod. (Moringaceae) on fetus and placenta of pregnant Wistar rats.
-37013531	Plasmodium falciparum gametocytes display global chromatin remodelling during sexual differentiation.
-37013335	Will the malaria vaccine be accepted in Pakistan after the COVID-19 experience?
-37013168	A Response to the Article "A Retrospective Study on the Burden of Malaria in Northeastern Ethiopia from 2015 to 2020: Implications for Pandemic Preparedness" [Letter].
-37013163	Evaluation of the Anti-Malarial Activity of the Crude Root Extract and Solvent Fraction of Sesamum indicum (Fabaceae).
-37012669	Modelling the impact and cost-effectiveness of non-governmental organizations on HIV and HCV transmission among people who inject drugs in Ukraine.
-37011804	Evaluation of the mosquito larvicidal potential and comparative assessment of the juice of Lantana camara Linn and Ocimum gratissimum Linn.
