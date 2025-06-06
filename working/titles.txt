@@ -1,3 +1,5 @@
+40476664	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
+40476362	Divergent plastid genomes in the deepest-branching apicomplexan parasites.
 40476243	Tri-metallic (Au-Pt-Ag) nanofluids: unveiling synergistic anti-malarial, cytotoxic, and antioxidant potentials through experimental and computational approaches.
 40476012	Diagnostic accuracy of PfHRP2-based malaria rapid diagnostic tests and antigenemia persistence in Kenyan children from a holoendemic region: implications for case management and surveillance.
 40475615	Identification of α-azacyclic acetamide-based inhibitors of P. falciparum Na (+) pump ( Pf ATP4) with fast-killing asexual blood-stage antimalarial activity by phenotypic screening.
@@ -9995,5 +9997,3 @@
 37015228	A Plasmodium falciparum lysophospholipase regulates host fatty acid flux via parasite lipid storage to enable controlled asexual schizogony.
 37015200	Factors Associated with Mortality and Long-Term Outcomes of Pediatric Acute Kidney Injury in a Resource Limited Setting.
 37015081	Analyzing Spatial and Temporal Patterns of Designated Malaria Risk Areas in Nepal from 2018 to 2021.
-37014920	Conditional permeabilization of the P. falciparum plasma membrane in infected cells links cation influx to reduced membrane integrity.
-37014773	Imported malaria and its implication to achievement of malaria-free Bhutan.
