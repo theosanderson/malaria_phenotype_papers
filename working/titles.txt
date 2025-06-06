@@ -1,3 +1,5 @@
+40472397	Neophytadiene: Biological activities and drug development prospects.
+40471930	Clinical profile and treatment outcomes of acute lymphoblastic leukemia among children attending at the University of Gondar comprehensive specialized hospital and Tikur Anbessa Specialized Hospital in Ethiopia.
 40471099	Decreasing antimicrobial resistance in representative UK livestock species was associated with reduced total sales of antimicrobials in the last decade.
 40470930	Multi-system dysregulation in placental malaria contributes to adverse perinatal outcomes in mice.
 40470909	Causes of death in Magellanic penguins Spheniscus magellanicus in southern Brazil.
@@ -9995,5 +9997,3 @@
 37009844	The Parasite Reduction Ratio (PRR) Assay Version 2: Standardized Assessment of Plasmodium falciparum Viability after Antimalarial Treatment In Vitro.
 37009496	Targeting plasmodium α-tubulin-1 to block malaria transmission to mosquitoes.
 37009056	The next generation of malaria treatments: the great expectations.
-37007492	Corrigendum: Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches.
-37007221	Utilization of Insecticide-Treated Nets in Households for Under-5 Children and Associated Factors in East Mesekan District, Gurage Zone, Southern Ethiopia.
