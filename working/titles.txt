@@ -1,3 +1,4 @@
+40478884	Coaching visits and supportive supervision for primary care facilities to improve malaria service data quality in Ghana: An intervention case study.
 40476664	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
 40476362	Divergent plastid genomes in the deepest-branching apicomplexan parasites.
 40476243	Tri-metallic (Au-Pt-Ag) nanofluids: unveiling synergistic anti-malarial, cytotoxic, and antioxidant potentials through experimental and computational approaches.
@@ -9996,4 +9997,3 @@
 37015266	Effect of passive and active ventilation on malaria mosquito house entry and human comfort: an experimental study in rural Gambia.
 37015228	A Plasmodium falciparum lysophospholipase regulates host fatty acid flux via parasite lipid storage to enable controlled asexual schizogony.
 37015200	Factors Associated with Mortality and Long-Term Outcomes of Pediatric Acute Kidney Injury in a Resource Limited Setting.
-37015081	Analyzing Spatial and Temporal Patterns of Designated Malaria Risk Areas in Nepal from 2018 to 2021.
