@@ -1,3 +1,15 @@
+40481572	Addressing the burden of leptospirosis in Africa.
+40481567	Climate change and malaria control: a call to urgent action from Africa's frontlines.
+40481536	Effects of Plasmodium berghei infection on the expression of salivary gland immune-related genes in the Anopheles stephensi mosquito.
+40481427	High throughput screening for human disease associated-pathogens and antimicrobial resistance genes in migratory birds at ten habitat sites in China.
+40481090	Spatial distribution and population structure of the invasive Anopheles stephensi in Kenya from 2022 to 2024.
+40480923	Novel knockdown resistance mutations in human lice: artifacts or emerging resistance?
+40480922	Malaria-associated liver dysfunction: a forgotten challenge.
+40480921	Parasite-resistant variants in African genomes: implications for global genetic medicine.
+40480662	Understanding stakeholders' perceptions of the impact of extractive industries on adolescent health and well-being in Mozambique: a qualitative study.
+40480661	Spatial and spatio-temporal analysis for malaria hotspot identification: a scoping review protocol.
+40480411	RATIONAL SYNTHESIS, ACTIVITY AND MECHANISM INSIGHTS OF A NEW AMINOQUINOLINE SALT AGAINST MALARIA PARASITES: IN VITRO AND IN VIVO APPROACHES.
+40480224	Antimalarial drug artemisinin stabilizes PfRACK1 binding to the ribosome.
 40478884	Coaching visits and supportive supervision for primary care facilities to improve malaria service data quality in Ghana: An intervention case study.
 40476664	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
 40476362	Divergent plastid genomes in the deepest-branching apicomplexan parasites.
@@ -16,7 +28,7 @@
 40473700	Role of malaria exposure and off-target responses on RTS,S/AS02(A) vaccine immunogenicity and protection in Mozambican children.
 40473456	Plasmodium interspecies fertilisation: rare or underexplored.
 40473225	Protective effects of artesunate on the neurovascular unit by regulating PDGFRβ signaling in experimental cerebral malaria.
-40473127	Exploring the Insecticidal and Antimalarial Potentials of Pseudomonas aeruginosa Azurin: A Promising Alternative for Integrated Malaria Control.
+40473127	Exploring the insecticidal and antimalarial potentials of Pseudomonas aeruginosa azurin: A promising alternative for integrated malaria control.
 40472965	Epidemiology of plasmodium spp. gametocyte carriage in Delhi, India.
 40472397	Neophytadiene: Biological activities and drug development prospects.
 40471930	Clinical profile and treatment outcomes of acute lymphoblastic leukemia among children attending at the University of Gondar comprehensive specialized hospital and Tikur Anbessa Specialized Hospital in Ethiopia.
@@ -9985,15 +9997,3 @@
 37019918	Identification of two insecticide resistance markers in Ethiopian Anopheles stephensi mosquitoes using a multiplex amplicon sequencing assay.
 37019801	Statin and aspirin use in parasitic infections as a potential therapeutic strategy: A narrative review.
 37019632	Antenatal care and adherence to intermittent preventive treatment for malaria during pregnancy with sulfadoxine-pyrimethamine in Gambia: an examination of Demographic and Health Survey data 2019-2020.
-37019435	Evaluation of Antimalarial Activity of Ethanolic Extract of Annona muricata L.: An in vivo and an in silico Approach.
-37018842	Targeting Aminoacyl tRNA Synthetases for Antimalarial Drug Development.
-37018283	High prevalence of malaria in pregnancy among women attending antenatal care at a large referral hospital in northwestern Uganda: A cross-sectional study.
-37017600	SID: a new carbohydrate blood group system based on a well-characterized but still mysterious antigen of great pathophysiologic interest.
-37017525	Chromobacterium Biopesticide Exposure Does Not Select for Resistance in Aedes Mosquitoes.
-37017236	Abnormalities of Kidney Function in Acute Malarial and non-Malarial Infections.
-37017234	Confidence in COVID-19 vaccine effectiveness and safety and its effect on vaccine uptake in Tanzania: A community-based cross-sectional study.
-37017102	Trained immunity from the perspective of Plasmodium infection.
-37016392	Dihydroartemisinin-piperaquine or sulphadoxine-pyrimethamine for the chemoprevention of malaria in children with sickle cell anaemia in eastern and southern Africa (CHEMCHA): a protocol for a multi-centre, two-arm, double-blind, randomised, placebo-controlled superiority trial.
-37015266	Effect of passive and active ventilation on malaria mosquito house entry and human comfort: an experimental study in rural Gambia.
-37015228	A Plasmodium falciparum lysophospholipase regulates host fatty acid flux via parasite lipid storage to enable controlled asexual schizogony.
-37015200	Factors Associated with Mortality and Long-Term Outcomes of Pediatric Acute Kidney Injury in a Resource Limited Setting.
