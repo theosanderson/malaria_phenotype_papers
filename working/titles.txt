@@ -1,3 +1,5 @@
+40483339	Repurposing of quinine as an antifungal antibiotic: Identification of molecular targets in Candida albicans.
+40482859	Evaluation of Attractive Targeted Sugar Baits, a new outdoor vector control strategy against malaria: results from a cluster randomised open-label parallel arm controlled trial in Southwestern Mali.
 40481572	Addressing the burden of leptospirosis in Africa.
 40481567	Climate change and malaria control: a call to urgent action from Africa's frontlines.
 40481536	Effects of Plasmodium berghei infection on the expression of salivary gland immune-related genes in the Anopheles stephensi mosquito.
@@ -29,7 +31,7 @@
 40473456	Plasmodium interspecies fertilisation: rare or underexplored.
 40473225	Protective effects of artesunate on the neurovascular unit by regulating PDGFRβ signaling in experimental cerebral malaria.
 40473127	Exploring the insecticidal and antimalarial potentials of Pseudomonas aeruginosa azurin: A promising alternative for integrated malaria control.
-40472965	Epidemiology of plasmodium spp. gametocyte carriage in Delhi, India.
+40472965	Epidemiology of Plasmodium spp. gametocyte carriage in Delhi, India.
 40472397	Neophytadiene: Biological activities and drug development prospects.
 40471930	Clinical profile and treatment outcomes of acute lymphoblastic leukemia among children attending at the University of Gondar comprehensive specialized hospital and Tikur Anbessa Specialized Hospital in Ethiopia.
 40471099	Decreasing antimicrobial resistance in representative UK livestock species was associated with reduced total sales of antimicrobials in the last decade.
@@ -9995,5 +9997,3 @@
 37020052	Identification of Potential Drug Targets in Erythrocyte Invasion Pathway of Plasmodium falciparum.
 37020042	Wakodecaline C, new tetrahydrofuran-fused decalin metabolite isolated from fungus Pyrenochaetopsis sp. RK10-F058.
 37019918	Identification of two insecticide resistance markers in Ethiopian Anopheles stephensi mosquitoes using a multiplex amplicon sequencing assay.
-37019801	Statin and aspirin use in parasitic infections as a potential therapeutic strategy: A narrative review.
-37019632	Antenatal care and adherence to intermittent preventive treatment for malaria during pregnancy with sulfadoxine-pyrimethamine in Gambia: an examination of Demographic and Health Survey data 2019-2020.
