@@ -1,3 +1,6 @@
+40484966	A household randomized-control trial of insecticide-treated screening for malaria control in unimproved houses in Tanzania.
+40484941	Household practices and infrastructure associated with high Plasmodium falciparum infection rates among children under five years old in Northern Uganda.
+40484933	Integrating machine learning and spatial clustering for malaria case prediction in Brazil's Legal Amazon.
 40483339	Repurposing of quinine as an antifungal antibiotic: Identification of molecular targets in Candida albicans.
 40482859	Evaluation of Attractive Targeted Sugar Baits, a new outdoor vector control strategy against malaria: results from a cluster randomised open-label parallel arm controlled trial in Southwestern Mali.
 40481572	Addressing the burden of leptospirosis in Africa.
@@ -9994,6 +9997,3 @@
 37021639	Future antimalarials from Artemisia? A rationale for natural product mining against drug-refractory Plasmodium stages.
 37021322	The relative effect of climate variability on malaria incidence after scale-up of interventions in western Kenya: A time-series analysis of monthly incidence data from 2008 to 2019.
 37020422	Malaria, a laboratory view.
-37020052	Identification of Potential Drug Targets in Erythrocyte Invasion Pathway of Plasmodium falciparum.
-37020042	Wakodecaline C, new tetrahydrofuran-fused decalin metabolite isolated from fungus Pyrenochaetopsis sp. RK10-F058.
-37019918	Identification of two insecticide resistance markers in Ethiopian Anopheles stephensi mosquitoes using a multiplex amplicon sequencing assay.
