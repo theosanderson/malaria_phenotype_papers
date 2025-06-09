@@ -1,3 +1,5 @@
+40485561	Exploring Antimalarial Activity of Drugs using Weighted Atomic Vectors and Artificial Intelligence.
+40485557	Larvicidal activity, biochemical impact and chemical composition of Juniperus phoenicea essential oil on the vector of avian malaria Culiseta longiareolata.
 40484966	A household randomized-control trial of insecticide-treated screening for malaria control in unimproved houses in Tanzania.
 40484941	Household practices and infrastructure associated with high Plasmodium falciparum infection rates among children under five years old in Northern Uganda.
 40484933	Integrating machine learning and spatial clustering for malaria case prediction in Brazil's Legal Amazon.
@@ -9995,5 +9997,3 @@
 37022501	Effect of ultraviolet LED and trap height on catches of host-seeking anopheline mosquitoes by using a low-cost passive light trap in northeast Brazil.
 37022426	CMOS Spectrophotometric Microsystem for Malaria Detection.
 37021639	Future antimalarials from Artemisia? A rationale for natural product mining against drug-refractory Plasmodium stages.
-37021322	The relative effect of climate variability on malaria incidence after scale-up of interventions in western Kenya: A time-series analysis of monthly incidence data from 2008 to 2019.
-37020422	Malaria, a laboratory view.
