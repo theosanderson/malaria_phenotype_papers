@@ -1,3 +1,20 @@
+40488904	Avian haemosporidian parasite prevalence and diversity in two populations of the American kestrel (Falco sparverius).
+40488755	Does climate change influence the spread of malaria in Benin? Insights from ecological niche modeling for surveillance efforts.
+40488614	Advances in transmission-blocking vaccines against Plasmodium falciparum and Plasmodium vivax.
+40488521	A dynamic barrier: remodeling of the nuclear envelope during closed mitosis in malaria parasites.
+40488301	Empowering public health: Leveraging AI for early detection, treatment, and disease prevention in communities - A scoping review.
+40487895	The impact of the malaria centre program on malaria incidence in Papua Province.
+40487864	Mechanisms Underlying the Therapeutic Effects of Brucea javanica in Cervical Cancer Treatment Based on Network Pharmacology and Molecular Docking.
+40487800	From sixty-four percent hyperparasitemia to recovery: Managing severe falciparum malaria and delayed hemolytic anemia.
+40487438	Correlative humoral and cellular immunity to genetically attenuated malaria parasites in humans.
+40487130	Educational Case: Malaria.
+40486992	Evaluating the impact of the Malakit intervention on malaria transmission in the Guiana Shield: a mathematical modelling study.
+40486677	Global, regional, and national burden of glucose-6-phosphate dehydrogenase (G6PD) deficiency from 1990 to 2021: a systematic analysis of the global burden of disease study 2021.
+40486644	The diagnostic significance of neutrophil-to-lymphocyte ratio and platelet-to-lymphocyte ratio in malaria: insights and implications - a narrative review.
+40486642	Iron deficiency anemia in pregnancy and related complications with specific insight in Rivers State, Nigeria: a narrative review.
+40486599	Thalassemia in Sub-Saharan Africa: epidemiology, diagnosis, and management - a narrative review.
+40486260	A Five-Year Trend of Malaria Parasitemia with Coverage and Use of the Major Control Interventions in Itang District, Gambella Region, Western Ethiopia (2017-2021).
+40486259	Anti-Malarial Activity of Nano Tannic Acid MgO Extract Alone and Combined with Chloroquine against Plasmodium berghei.
 40485561	Exploring Antimalarial Activity of Drugs using Weighted Atomic Vectors and Artificial Intelligence.
 40485557	Larvicidal activity, biochemical impact and chemical composition of Juniperus phoenicea essential oil on the vector of avian malaria Culiseta longiareolata.
 40484966	A household randomized-control trial of insecticide-treated screening for malaria control in unimproved houses in Tanzania.
@@ -842,6 +859,7 @@
 40196676	A systematic review of climate-change driven range shifts in mosquito vectors.
 40196582	PTRAMP, CSS and Ripr form a conserved complex required for merozoite invasion of Plasmodium species into erythrocytes.
 40196515	The origin, invasion history and resistance architecture of Anopheles stephensi in Africa.
+40196468	Human sand fly challenge elicits saliva-specific innate and T(H)1-polarized immunity that promotes Leishmania killing.
 40196244	Distribution of non-falciparum malaria among symptomatic malaria patients in Dschang, West Region of Cameroon.
 40196243	A Probabilistic Synthesis of Malaria Epidemiology: Exposure, Infection, Parasite Densities, and Detection.
 40195356	The mosquitocidal activity of isoxazoline derivatives afoxolaner, lotilaner, and fluralaner are not affected by mosquito sugar or antibiotic treatment.
@@ -9979,21 +9997,3 @@
 37026304	Ocular conjunctival microbiome profiling in dry eye disease: A case control pilot study.
 37026228	A rare case of complicated malaria presenting as warm autoimmune hemolytic anemia.
 37026218	Socioeconomic determinants of malaria prevalence among under five children in Uganda: Evidence from 2018-19 Uganda Malaria Indicator Survey.
-37026216	Chemical constituents and strong larvicidal activity of Solanum xanthocarpum among selected plants extracts against the malaria, filaria, and dengue vectors.
-37026215	Dried blood spots: a robust tool for malaria surveillance in countries targeting elimination.
-37026104	Malaria among the elderly in five communities of Osun East district, Southwest Nigeria: Prevalence and association with non-communicable diseases.
-37025605	Antiplasmodial, Antioxidant and Cytotoxicity Activity of Ethanol and Aqueous Extracts of Khaya grandifoliola Stem Bark.
-37025316	Accounting for Potential Unmeasured Confounding in the Association between Influenza vaccination and COVID-19 Hospitalization: Sensitivity Analysis Using E-value Method.
-37024969	How socioeconomic status affected the access to health facilities and malaria diagnosis in children under five years: findings from 19 sub-Saharan African countries.
-37024950	Digitally managed larviciding as a cost-effective intervention for urban malaria: operational lessons from a pilot in São Tomé and Príncipe guided by the Zzapp system.
-37024868	Whole sporozoite immunization with Plasmodium falciparum strain NF135 in a randomized trial.
-37024834	Severe malaria in children and adolescents in Southeast Gabon.
-37024317	The brain-kidney-retinal axis in severe falciparum malaria.
-37024242	Automated Long-Term Monitoring of the Heat-Seeking Behavior of Mosquitoes.
-37024241	Key Features and Considerations for Using Automated Long-Term Monitoring of Heat-Seeking Behavior of Mosquitoes.
-37024154	Trends in Reported Babesiosis Cases - United States, 2011-2019.
-37023172	Circulation of West Nile virus in mosquitoes approximate to the migratory bird stopover in West Coast Malaysia.
-37023013	Spatial analysis of malaria hotspots in Dilla sub-watershed: Western Ethiopia.
-37022501	Effect of ultraviolet LED and trap height on catches of host-seeking anopheline mosquitoes by using a low-cost passive light trap in northeast Brazil.
-37022426	CMOS Spectrophotometric Microsystem for Malaria Detection.
-37021639	Future antimalarials from Artemisia? A rationale for natural product mining against drug-refractory Plasmodium stages.
