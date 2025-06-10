@@ -1,3 +1,7 @@
+40490844	Babesia microti (Babesiidae, Piroplasmida) infection in a Chinese traveler returning from the United States of America.
+40490768	Inter-cluster contamination: a semivariance analysis of community effect ranges of malaria vector control interventions in a four-armed malaria trial in Muleba, Tanzania.
+40490749	Eliminating malaria in Nigeria: insights from Egypt's success and pathways to sustainable eradication.
+40490548	Insights into platelet factor 4-derived peptide macrocycles; the mechanistic basis of their rapid and selective antiplasmodial actions.
 40489852	Climate change and medical laboratory operations: Impacts, challenges, and adaptation strategies: A narrative review.
 40489474	Performance of a smartphone-based malaria screener in detecting malaria in people living with Sickle cell disease.
 40488904	Avian haemosporidian parasite prevalence and diversity in two populations of the American kestrel (Falco sparverius).
@@ -9993,7 +9997,3 @@
 37029167	Glycosylated nanoparticle-based PfCSP vaccine confers long-lasting antibody responses and sterile protection in mouse malaria model.
 37029122	Safe drugs with high potential to block malaria transmission revealed by a spleen-mimetic screening.
 37028468	Evolution of Plasmodium falciparum antimalarial drug resistance markers post-adoption of artemisinin-based combination therapies in Yaounde, Cameroon.
-37027391	Immunological characterization of a VIR protein family member (VIR-14) in Plasmodium vivax-infected subjects from different epidemiological regions in Africa and South America.
-37027349	Vaccination coverage and breakthrough infections of COVID-19 during the second wave among staff of selected medical institutions in India.
-37026483	Characterization of the dual role of Plasmodium falciparum DNA methyltransferase in regulating transcription and translation.
-37026304	Ocular conjunctival microbiome profiling in dry eye disease: A case control pilot study.
