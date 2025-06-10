@@ -1,3 +1,4 @@
+40492615	Strategic Approach to Enhancing Diagnostic Precision: Optimizing Panel Size for HBV and HCV Viral Load Monitoring Kits.
 40492072	Understanding Plasmodium vivax recurrent infections using an amplicon deep sequencing assay, PvAmpSeq, identity-by-descent and model-based classification.
 40491810	Hilar Bile Duct Granuloma Misdiagnosed As Hilar Cholangiocarcinoma: A Case Report.
 40491572	Assessment on the prevalence of malaria and its associated risk factors in individuals visiting the health centers in the wetlands of Bahir Dar Zuria District, Northwestern Ethiopia.
@@ -9996,4 +9997,3 @@
 37030087	Tropical infections as occupational diseases among young volunteers in social projects.
 37030083	Plasmodium falciparum rhoptry neck protein 4 has conserved regions mediating interactions with receptors on human erythrocytes and hepatocyte membrane.
 37030000	Population Genomic Evidence of Adaptive Response during the Invasion History of Plasmodium falciparum in the Americas.
-37029625	Antiplasmodial and anticancer activities of xanthones isolated from Garcinia bancana Miq.
