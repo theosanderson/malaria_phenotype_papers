@@ -1,3 +1,10 @@
+40492072	Understanding Plasmodium vivax recurrent infections using an amplicon deep sequencing assay, PvAmpSeq, identity-by-descent and model-based classification.
+40491810	Hilar Bile Duct Granuloma Misdiagnosed As Hilar Cholangiocarcinoma: A Case Report.
+40491572	Assessment on the prevalence of malaria and its associated risk factors in individuals visiting the health centers in the wetlands of Bahir Dar Zuria District, Northwestern Ethiopia.
+40491475	Covalent inhibition of Plasmodium falciparum Ubc13 impairs global protein synthesis.
+40491429	Chloroquine induces eryptosis in P. falciparum-infected red blood cells and the release of extracellular vesicles with a unique protein profile.
+40491412	Environmental and geographical factors influence malaria transmission in KwaZulu-Natal province, South Africa.
+40491306	Flagellins as Vaccine Adjuvants and Cancer Immunotherapy: Recent Advances and Future Prospects.
 40490844	Babesia microti (Babesiidae, Piroplasmida) infection in a Chinese traveler returning from the United States of America.
 40490768	Inter-cluster contamination: a semivariance analysis of community effect ranges of malaria vector control interventions in a four-armed malaria trial in Muleba, Tanzania.
 40490749	Eliminating malaria in Nigeria: insights from Egypt's success and pathways to sustainable eradication.
@@ -9990,10 +9997,3 @@
 37030083	Plasmodium falciparum rhoptry neck protein 4 has conserved regions mediating interactions with receptors on human erythrocytes and hepatocyte membrane.
 37030000	Population Genomic Evidence of Adaptive Response during the Invasion History of Plasmodium falciparum in the Americas.
 37029625	Antiplasmodial and anticancer activities of xanthones isolated from Garcinia bancana Miq.
-37029480	Antiprotozoal drugs: challenges and opportunities.
-37029433	Genotyping of Anopheles mosquito blood meals reveals nonrandom human host selection: implications for human-to-mosquito Plasmodium falciparum transmission.
-37029411	Malaria transmission pattern across the Sahelian, humid savanna, highland and forest eco-epidemiological settings in Cameroon.
-37029370	Malaria control and elimination in Kenya: economy-wide benefits and regional disparities.
-37029167	Glycosylated nanoparticle-based PfCSP vaccine confers long-lasting antibody responses and sterile protection in mouse malaria model.
-37029122	Safe drugs with high potential to block malaria transmission revealed by a spleen-mimetic screening.
-37028468	Evolution of Plasmodium falciparum antimalarial drug resistance markers post-adoption of artemisinin-based combination therapies in Yaounde, Cameroon.
