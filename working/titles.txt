@@ -1,3 +1,10 @@
+40495220	Determining mosquito age using surface-enhanced Raman spectroscopy and artificial neural networks: insights into the influence of origin and sex.
+40495138	Improving the utilization of insecticide-treated nets for malaria prevention among pregnant women, lactating mothers and children in Sierra Leone: a commentary.
+40495116	Prevalence of malaria and its associated factors among adults living in Samre Woreda, Tigray, Ethiopia, 2023/24: a community-based cross-sectional study.
+40494546	MOLECULAR SURVEY OF HAEMOSPORIDIAN PARASITES IN HAWKS, FALCONS, AND OWLS (ACCIPITRIFORMES, FALCONIFORMES, STRIGIFORMES) FROM MINNESOTA AND NORTH DAKOTA, WITH REMARKS ON THE PHYLOGENETIC RELATIONSHIPS OF HAEMOSPORIDIANS IN NORTH AMERICAN RAPTORS.
+40494320	Radiological Findings in Imported Schistosomiasis at an International Health Unit in Barcelona, Spain.
+40494225	Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 17-21 February 2025.
+40494146	Phagocytes of the forest: Are myxomycetes defensive mutualists for host plants?
 40493822	Malaria after liver transplantation: Report of two cases and a review of published cases.
 40493675	Plasmodium falciparum expresses fewer var genes at lower levels during asymptomatic dry season infections than clinical malaria cases.
 40492615	Strategic Approach to Enhancing Diagnostic Precision: Optimizing Panel Size for HBV and HCV Viral Load Monitoring Kits.
@@ -37,7 +44,7 @@
 40484941	Household practices and infrastructure associated with high Plasmodium falciparum infection rates among children under five years old in Northern Uganda.
 40484933	Integrating machine learning and spatial clustering for malaria case prediction in Brazil's Legal Amazon.
 40483339	Repurposing of quinine as an antifungal antibiotic: Identification of molecular targets in Candida albicans.
-40482859	Evaluation of Attractive Targeted Sugar Baits, a new outdoor vector control strategy against malaria: results from a cluster randomised open-label parallel arm controlled trial in Southwestern Mali.
+40482859	Evaluation of Attractive Targeted Sugar Baits, a new outdoor vector control strategy against malaria: Results from a cluster randomised open-label parallel arm controlled trial in Southwestern Mali.
 40481572	Addressing the burden of leptospirosis in Africa.
 40481567	Climate change and malaria control: a call to urgent action from Africa's frontlines.
 40481536	Effects of Plasmodium berghei infection on the expression of salivary gland immune-related genes in the Anopheles stephensi mosquito.
@@ -9990,10 +9997,3 @@
 37033548	National Malaria Control Program in Bangladesh: 2007-2010.
 36974127	The ability of Anopheles funestus and A. arabiensis to penetrate LLINs and its effect on their mortality.
 37032389	Phylogenomics revealed migration routes and adaptive radiation timing of Holarctic malaria mosquito species of the Maculipennis Group.
-37032366	Determinants of malaria infections among children in refugee settlements in Uganda during 2018-2019.
-37032336	Development of insecticide-impregnated polyester/cotton blend fabric and assessment of their repellent characteristics against Cimex lectularius and dengue vectors Aedes albopictus and Aedes aegypti.
-37031729	Novel inhibitors of Rickettsia prowazekii methionine aminopeptidase from the Malaria Box.
-37031071	How can the complex epidemiology of malaria in India impact its elimination?
-37030471	Antimalarials and amphotericin B interact synergistically and are new options to treat cryptococcosis.
-37030438	Formulation and Scale-Up of Fast-Dissolving Lumefantrine Nanoparticles for Oral Malaria Therapy.
-37030087	Tropical infections as occupational diseases among young volunteers in social projects.
