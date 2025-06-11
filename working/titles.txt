@@ -1,3 +1,7 @@
+40498492	The Black Prisoners of Stateville: Race, Research, and Reckoning at the Dawn of Precision Medicine.
+40498130	Performances of Malaria PfHRP2 and the Combined PfHRP2/pLDH Based Rapid Diagnostic Tests among Children Under Five Years of Age in a High Seasonal Malaria Transmission Area in Burkina Faso.
+40497983	Neuronal Damage in Murine Experimental Cerebral Malaria, Implications for Neuronal Repair and Sequelae.
+40497684	ZIF-8 with encapsulated dihydroartemisinin in a drug delivery system for protection against Plasmodium berghei ANKA-induced experimental cerebral malaria in C57BL/6N mice.
 40496711	The Association Between Malaria Parasite Geometrical Mean and Clinical Spectrum of Severe Disease in a High-Transmission Setting in Eastern Uganda: A Cross-Sectional Study.
 40496148	Towards Addressing COVID-19 Vaccine Wastage in Cameroon: Challenges and Way Forward.
 40495916	Malaria transmission, insecticide resistance and efficacy of insecticide-treated nets in Belabo and Ouami, two localities of the East Region of Cameroon.
@@ -9993,7 +9997,3 @@
 37037444	Treponemal Antibody Seroprevalence Using a Multiplex Bead Assay from Samples Collected during the 2018 Nigeria HIV/AIDS Indicator and Impact Survey: Searching for Yaws in Nigeria.
 37037443	Serological Markers of Exposure to Plasmodium falciparum and Plasmodium vivax Infection in Southwestern Ethiopia.
 37037442	Countrywide Mortality Surveillance for Action in Mozambique: Results from a National Sample-Based Vital Statistics System for Mortality and Cause of Death.
-37036890	Overestimation of school-based deworming coverage resulting from school-based reporting.
-37036365	Plasmodium Parasite Malate-Quinone Oxidoreductase Functionally Complements a Yeast Deletion Mutant of Mitochondrial Malate Dehydrogenase.
-37036362	Activation of the Plasmodium Egress Effector Subtilisin-Like Protease 1 Is Mediated by Plasmepsin X Destruction of the Prodomain.
-37035974	Association of smoking and alcohol use with rifampin-resistant TB treatment outcomes.
