@@ -1,3 +1,5 @@
+40493822	Malaria after liver transplantation: Report of two cases and a review of published cases.
+40493675	Plasmodium falciparum expresses fewer var genes at lower levels during asymptomatic dry season infections than clinical malaria cases.
 40492615	Strategic Approach to Enhancing Diagnostic Precision: Optimizing Panel Size for HBV and HCV Viral Load Monitoring Kits.
 40492072	Understanding Plasmodium vivax recurrent infections using an amplicon deep sequencing assay, PvAmpSeq, identity-by-descent and model-based classification.
 40491810	Hilar Bile Duct Granuloma Misdiagnosed As Hilar Cholangiocarcinoma: A Case Report.
@@ -9995,5 +9997,3 @@
 37030471	Antimalarials and amphotericin B interact synergistically and are new options to treat cryptococcosis.
 37030438	Formulation and Scale-Up of Fast-Dissolving Lumefantrine Nanoparticles for Oral Malaria Therapy.
 37030087	Tropical infections as occupational diseases among young volunteers in social projects.
-37030083	Plasmodium falciparum rhoptry neck protein 4 has conserved regions mediating interactions with receptors on human erythrocytes and hepatocyte membrane.
-37030000	Population Genomic Evidence of Adaptive Response during the Invasion History of Plasmodium falciparum in the Americas.
