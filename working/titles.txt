@@ -1,3 +1,8 @@
+40496711	The Association Between Malaria Parasite Geometrical Mean and Clinical Spectrum of Severe Disease in a High-Transmission Setting in Eastern Uganda: A Cross-Sectional Study.
+40496148	Towards Addressing COVID-19 Vaccine Wastage in Cameroon: Challenges and Way Forward.
+40495916	Malaria transmission, insecticide resistance and efficacy of insecticide-treated nets in Belabo and Ouami, two localities of the East Region of Cameroon.
+40495573	Autochthonous cases of malaria in central Anatolia.
+40495437	Genetic diversity and spatiotemporal population structure of Anopheles sinensis in the Republic of Korea based on the mitochondrial cytochrome c oxidase subunit I (COI) marker.
 40495220	Determining mosquito age using surface-enhanced Raman spectroscopy and artificial neural networks: insights into the influence of origin and sex.
 40495138	Improving the utilization of insecticide-treated nets for malaria prevention among pregnant women, lactating mothers and children in Sierra Leone: a commentary.
 40495116	Prevalence of malaria and its associated factors among adults living in Samre Woreda, Tigray, Ethiopia, 2023/24: a community-based cross-sectional study.
@@ -5642,6 +5647,7 @@
 38519002	Biomolecular interactions between Plasmodium and human host: A basis of targeted antimalarial therapy.
 38518861	Plasmodium falciparum heat shock proteins as antimalarial drug targets: An update.
 38518834	Prevalence and genetic diversity of simian malaria in wild macaque populations across Thailand: Implications for human health.
+40497078	The intersectional impact of climate change and gender inequalities in Africa.
 38517977	Size-dependent self-avoidance enables superdiffusive migration in macroscopic unicellulars.
 38517746	Quantification of sporozoite expelling by Anopheles mosquitoes infected with laboratory and naturally circulating P. falciparum gametocytes.
 38517190	A nanochitosan-D-galactose formulation increases the accumulation of primaquine in the liver.
@@ -9991,9 +9997,3 @@
 37036365	Plasmodium Parasite Malate-Quinone Oxidoreductase Functionally Complements a Yeast Deletion Mutant of Mitochondrial Malate Dehydrogenase.
 37036362	Activation of the Plasmodium Egress Effector Subtilisin-Like Protease 1 Is Mediated by Plasmepsin X Destruction of the Prodomain.
 37035974	Association of smoking and alcohol use with rifampin-resistant TB treatment outcomes.
-37035014	A Systematic Review of Ethnobotanical, Phytochemical, and Ethnopharmacological Studies of Urtica simensis (Stinging Nettle).
-37034766	Real-time PCR detection of mixed Plasmodium ovale curtisi and wallikeri species infections in human and mosquito hosts.
-37034306	Digital dashboards with paradata can improve data quality where disease surveillance relies on real-time data collection.
-37033548	National Malaria Control Program in Bangladesh: 2007-2010.
-36974127	The ability of Anopheles funestus and A. arabiensis to penetrate LLINs and its effect on their mortality.
-37032389	Phylogenomics revealed migration routes and adaptive radiation timing of Holarctic malaria mosquito species of the Maculipennis Group.
