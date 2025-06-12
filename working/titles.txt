@@ -1,3 +1,6 @@
+40501454	Evaluating the Antiplasmodial Activity of Picrasma javanica Stem Bark Extract and Its Synergy With Artesunate in Rodent Malaria Models.
+40501281	Deadliest Animals with the Thinnest Wings: Near-Infrared Properties of Tropical Mosquitoes.
+40501143	The Molecular Properties of Honey Bee Acetylcholinesterase Reveal Opportunities to Avoid Off-Target Effects in Insecticide Discovery.
 40500871	Molecular analysis supports at least two putative species within Anopheles pseudopunctipennis s.l. on the American mainland.
 40500474	Taste Masking of Primaquine Phosphate: A Comparative Evaluation of Three Taste Masking Agents.
 40500441	RIFINs displayed on malaria-infected erythrocytes bind KIR2DL1 and KIR2DS1.
@@ -9994,6 +9997,3 @@
 37039163	Looking back to move forward: A travel rule underlined by the current pandemic.
 37039024	Systems biology of disease tolerance to malaria.
 37038945	Atovaquone-proguanil for treating uncomplicated Plasmodium falciparum malaria.
-37038942	Factors associated with malaria and arboviral disease in patients with imported febrile syndrome: a retrospective cohort study.
-37038509	Bionomics of Anopheles culicifacies Sensu Lato in two Malaria Endemic Districts of Central Gujarat, India.
-37038505	Phytochemical Composition and Bioassay on Iranian Teucrium Polium Extracts against Anopheles Stephensi (Diptera: Culicidae).
