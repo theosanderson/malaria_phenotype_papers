@@ -1,3 +1,12 @@
+40504040	Antiprotozoal activity of highly substituted pyrazole and pyrimidine derivates.
+40503710	Spectrophotometric analysis of artesunate injections available in community pharmacies in Northern and Western Uganda.
+40503635	Digital PCR reveals high PvDBP1 but not PvEBP/DBP2 and PvRBP2b copies in Plasmodium vivax from Duffy-negative Individuals in Central Africa.
+40503613	Priming or Boosting P. falciparum Transmission Blocking Responses with Recombinant Vaccines or Gametocyte Extract.
+40503385	Editorial: Advancement in malaria treatment.
+40502756	Host-Derived Geranylgeraniol Shields Intraerythrocytic Stages of Malaria Parasites from Fosmidomycin.
+40502747	Identification of cross-stage, cross-species malaria CD8+ T cell antigens.
+40502588	Integrating mobility, travel survey, and malaria case data to understand drivers of malaria importation to Zanzibar, 2022-2023.
+40502331	An Assessment of Endothelial Markers in Patients with Uncomplicated Malaria in Jazan Province, Saudi Arabia.
 40501454	Evaluating the Antiplasmodial Activity of Picrasma javanica Stem Bark Extract and Its Synergy With Artesunate in Rodent Malaria Models.
 40501281	Deadliest Animals with the Thinnest Wings: Near-Infrared Properties of Tropical Mosquitoes.
 40501143	The Molecular Properties of Honey Bee Acetylcholinesterase Reveal Opportunities to Avoid Off-Target Effects in Insecticide Discovery.
@@ -9988,12 +9997,3 @@
 37041454	Ultrasensitive Reverse Transcriptase Loop-Mediated Isothermal Amplification (US-LAMP)-Based Detection of Malaria Infection from Dried Blood Spots.
 37041319	New antimalarial fusarochromanone analogs produced by the fungal strain Fusarium sp. FKI-9521.
 37041228	Single-cell RNA sequencing deciphers the mechanism of sepsis-induced liver injury and the therapeutic effects of artesunate.
-37040830	Foetidumins A-D, and other chemical constituents from Helichrysum foetidum (L.) Moench (Asteraceae) with antiparasite activity.
-37040366	Receiving antenatal care components and associated factors in Northwestern Tanzania.
-37040223	Quality assurance of malaria rapid diagnostic tests: An aid in malaria elimination.
-37039449	Lanostane triterpenoids from artificially cultivated fruiting bodies of Ganoderma cf. mastoporum.
-37039225	Trend of malaria incidences and its association with rainfall in Kalahandi District of Odisha, India.
-37039188	Malaria hemozoin: A target for point-of-care diagnosis.
-37039163	Looking back to move forward: A travel rule underlined by the current pandemic.
-37039024	Systems biology of disease tolerance to malaria.
-37038945	Atovaquone-proguanil for treating uncomplicated Plasmodium falciparum malaria.
