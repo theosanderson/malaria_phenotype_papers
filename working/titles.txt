@@ -1,3 +1,10 @@
+40500871	Molecular analysis supports at least two putative species within Anopheles pseudopunctipennis s.l. on the American mainland.
+40500474	Taste Masking of Primaquine Phosphate: A Comparative Evaluation of Three Taste Masking Agents.
+40500441	RIFINs displayed on malaria-infected erythrocytes bind KIR2DL1 and KIR2DS1.
+40500310	Mapping and quantifying travel time to define health facility catchment areas in Blantyre city in Malawi.
+40499608	Enzymatic mechanisms of insecticide resistance in Anopheles sp mosquitoes: Implications for malaria vector control in Indonesia.
+40499514	Evolutionary medicine in action: Sickle hemoglobin fuels tumor progression.
+40498943	Co-occurrence of malaria and Chagas disease in the Brazilian Amazon: the need for integrated health surveillance.
 40498492	The Black Prisoners of Stateville: Race, Research, and Reckoning at the Dawn of Precision Medicine.
 40498130	Performances of Malaria PfHRP2 and the Combined PfHRP2/pLDH Based Rapid Diagnostic Tests among Children Under Five Years of Age in a High Seasonal Malaria Transmission Area in Burkina Faso.
 40497983	Neuronal Damage in Murine Experimental Cerebral Malaria, Implications for Neuronal Repair and Sequelae.
@@ -9990,10 +9997,3 @@
 37038942	Factors associated with malaria and arboviral disease in patients with imported febrile syndrome: a retrospective cohort study.
 37038509	Bionomics of Anopheles culicifacies Sensu Lato in two Malaria Endemic Districts of Central Gujarat, India.
 37038505	Phytochemical Composition and Bioassay on Iranian Teucrium Polium Extracts against Anopheles Stephensi (Diptera: Culicidae).
-37038199	Neglected tropical diseases risk correlates with poverty and early ecosystem destruction.
-37038195	Seroprevalence of viral and bacterial pathogens among malaria patients in an endemic area of southern Venezuela.
-37038187	Genome-wide association testing in malaria studies in the presence of overdominance.
-37038137	Molecular epidemiology of potential candidate markers for chloroquine resistance in imported Plasmodium vivax malaria cases in Iran.
-37037444	Treponemal Antibody Seroprevalence Using a Multiplex Bead Assay from Samples Collected during the 2018 Nigeria HIV/AIDS Indicator and Impact Survey: Searching for Yaws in Nigeria.
-37037443	Serological Markers of Exposure to Plasmodium falciparum and Plasmodium vivax Infection in Southwestern Ethiopia.
-37037442	Countrywide Mortality Surveillance for Action in Mozambique: Results from a National Sample-Based Vital Statistics System for Mortality and Cause of Death.
