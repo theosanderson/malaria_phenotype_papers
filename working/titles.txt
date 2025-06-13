@@ -1,3 +1,14 @@
+40511437	Five-year Trends in Various Communicable Diseases Reported under the Integrated Disease Surveillance Program during 2014-2019 in Puducherry.
+40511394	Testing indoor residual spraying coverage targets for malaria control, Bioko, Equatorial Guinea.
+40511162	Unveiling the Potential of Algal Secondary Metabolites in Natural Mosquito Repellence: A Review.
+40511125	Clinicohematological Profile of Pancytopenia Patients in Tertiary Care Hospital.
+40510868	Integration of sentinel surveillance and climate factors to accelerate malaria elimination in a changing climate of Senegal.
+40510840	Supercritical CO(2) extraction of artemisinin from Artemisia annua plant and the biotechnological production of artemisinin precursors: A dual-focus review.
+40510753	RDT performance through high-throughput bead-based antigen detection during malaria school survey in Senegal.
+40510034	Factors Associated With Teenage Pregnancy in Tanzania: Analysis of the 2022 Tanzania Demographic and Health Survey and Malaria Indicator Survey.
+40509541	Livestock and avermectins in sub-Saharan Africa: a restricted systematic review of the impacts on productivity and documentation of resistance.
+40509333	Design, Synthesis and Antiplasmodial Activities of a Library of Fluorine-Based 3-Benzylmenadiones.
+40508084	Leveraging the Polymorphism of the Merozoite Surface Protein 2 (MSP2) to Engineer Molecular Tools for Predicting Malaria Episodes in a Community.
 40506783	Identification of pathogens causing fever in returning travelers using next-generation sequencing.
 40506728	Plasmodium falciparum multidrug resistance 1 gene polymorphisms associated with outcomes after anti-malarial treatment.
 40506722	Piloting the options assessment toolkit with national malaria programme leaders from the Asia-Pacific countries: a meeting report.
@@ -9986,14 +9997,3 @@
 37054677	Natural killer cells: Warriors against malaria.
 37054559	Design, synthesis and evaluation of novel pyrrole-hydroxybutenolide hybrids as promising antiplasmodial and anti-inflammatory agents.
 37053493	Optimal control and cost-effectiveness analysis of age-structured malaria model with asymptomatic carrier and temperature variability.
-37053271	Sulfonylpiperazine compounds prevent Plasmodium falciparum invasion of red blood cells through interference with actin-1/profilin dynamics.
-37053161	Ribosome heterogeneity and specialization of Plasmodium parasites.
-37051778	Vegetative cell fusion and a new stage in the life cycle of the Aphelida (Opisthosporidia).
-37049935	Role of Stereochemistry on the Biological Activity of Nature-Inspired 3-Br-Acivicin Isomers and Derivatives.
-37049902	Modulatory Effects of Atractylodin and β-Eudesmol on Human Cytochrome P450 Enzymes: Potential Drug-Drug Interactions.
-37049762	Rational Design and Lead Optimisation of Potent Antimalarial Quinazolinediones and Their Cytotoxicity against MCF-7.
-37048057	Cerebral Malaria Model Applying Human Brain Organoids.
-37047683	Distinctive Kaposi Sarcoma-Associated Herpesvirus Serological Profile during Acute Plasmodium falciparum Malaria Episodes.
-37046281	Community knowledge, attitude and practices regarding zoonotic viral haemorrhagic fevers in five geo-ecological zones in Tanzania.
-37046220	Correction: Anti-inflammatory effect of naringin and sericin combination on human peripheral blood mononuclear cells (hPBMCs) from patient with psoriasis.
-37045885	Chemical composition and repellent activity of essential oils of Tithonia diversifolia (Asteraceae) leaves against the bites of Anopheles coluzzii.
