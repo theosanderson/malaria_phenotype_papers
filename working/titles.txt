@@ -1,3 +1,10 @@
+40506783	Identification of pathogens causing fever in returning travelers using next-generation sequencing.
+40506728	Plasmodium falciparum multidrug resistance 1 gene polymorphisms associated with outcomes after anti-malarial treatment.
+40506722	Piloting the options assessment toolkit with national malaria programme leaders from the Asia-Pacific countries: a meeting report.
+40506709	Impact of health education intervention on the patients' adherence to malaria artemisinin-based combination therapy in Kamuli District, Uganda.
+40506703	Performance of molecular inversion probe DR23K and Paragon MAD(4)HatTeR Amplicon sequencing panels for detection of Plasmodium falciparum mutations associated with antimalarial drug resistance.
+40506088	Enhancing learning from evaluations in newborn and child health.
+40505328	Malaria vaccine implementation in Nigeria: Addressing the coverage challenges within the national immunization program for high impact.
 40504929	Rethinking jaundice.
 40504905	A metabolite-based resistance mechanism against malaria.
 40504848	Integrative computational and experimental approaches for identifying potent antimalarials by targeting falcipain-2 of Plasmodium falciparum.
@@ -9990,10 +9997,3 @@
 37046281	Community knowledge, attitude and practices regarding zoonotic viral haemorrhagic fevers in five geo-ecological zones in Tanzania.
 37046220	Correction: Anti-inflammatory effect of naringin and sericin combination on human peripheral blood mononuclear cells (hPBMCs) from patient with psoriasis.
 37045885	Chemical composition and repellent activity of essential oils of Tithonia diversifolia (Asteraceae) leaves against the bites of Anopheles coluzzii.
-37045879	Factors hindering coverage of targeted mass treatment with primaquine in a malarious township of northern Myanmar in 2019-2020.
-37043542	Genomic analysis of two phlebotomine sand fly vectors of Leishmania from the New and Old World.
-37042866	Epilepsy in Niger: An overview of the current situation.
-37042534	Building Integrated Testing Programs for Infectious Diseases.
-37042518	Modeling the Impact of a Highly Potent Plasmodium falciparum Transmission-Blocking Monoclonal Antibody in Areas of Seasonal Malaria Transmission.
-37042251	Profiling the imported human malaria in Sarawak, Malaysia in 2011-2019.
-37041799	Elevated Levels of Procoagulant Microvesicles and Tissue-Factor Bearing Microvesicles in Malaria Patients.
