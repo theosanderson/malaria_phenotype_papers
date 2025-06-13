@@ -1,3 +1,4 @@
+40512247	Optimized prism-based surface plasmon resonance sensor for malaria detection: role of 2D nanomaterials for an enhancement in sensitivity and accuracy.
 40511437	Five-year Trends in Various Communicable Diseases Reported under the Integrated Disease Surveillance Program during 2014-2019 in Puducherry.
 40511394	Testing indoor residual spraying coverage targets for malaria control, Bioko, Equatorial Guinea.
 40511162	Unveiling the Potential of Algal Secondary Metabolites in Natural Mosquito Repellence: A Review.
@@ -9996,4 +9997,3 @@
 37054839	Metagenomic analysis reveals indole signaling effect on microbial community in sequencing batch reactors: Quorum sensing inhibition and antibiotic resistance enrichment.
 37054677	Natural killer cells: Warriors against malaria.
 37054559	Design, synthesis and evaluation of novel pyrrole-hydroxybutenolide hybrids as promising antiplasmodial and anti-inflammatory agents.
-37053493	Optimal control and cost-effectiveness analysis of age-structured malaria model with asymptomatic carrier and temperature variability.
