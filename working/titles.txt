@@ -1,3 +1,7 @@
+40512986	Revisiting Plasmodium falciparum P-type ATPase 4 in malarial: ADMET, mutation effect, and molecular simulation studies of potential inhibitors.
+40512720	Knockdown-resistance (kdr) mutations in Indian Aedes aegypti populations: Lack of recombination among haplotypes bearing V1016G, F1534C, and F1534L kdr alleles.
+40512696	Missed opportunities for digital health data use in healthcare decision-making: A cross-sectional digital health landscape assessment in Homa Bay county, Kenya.
+40512580	Sense-Making During the RTS,S Malaria Vaccine Pilot Implementation in Ghana.
 40512247	Optimized prism-based surface plasmon resonance sensor for malaria detection: role of 2D nanomaterials for an enhancement in sensitivity and accuracy.
 40511437	Five-year Trends in Various Communicable Diseases Reported under the Integrated Disease Surveillance Program during 2014-2019 in Puducherry.
 40511394	Testing indoor residual spraying coverage targets for malaria control, Bioko, Equatorial Guinea.
@@ -9993,7 +9997,3 @@
 37055834	Infection of the malaria vector Anopheles coluzzii with the entomopathogenic bacteria Chromobacterium anophelis sp. nov. IRSSSOUMB001 reduces larval survival and adult reproductive potential.
 37055809	User fee exemption and malaria treatment-seeking for children under five in a Cameroonian health district: a cross-sectional study.
 37055610	Babesia duncani multi-omics identifies virulence factors and drug targets.
-37055132	Genetic studies of heat stress regulation in goat during hot climatic condition.
-37054839	Metagenomic analysis reveals indole signaling effect on microbial community in sequencing batch reactors: Quorum sensing inhibition and antibiotic resistance enrichment.
-37054677	Natural killer cells: Warriors against malaria.
-37054559	Design, synthesis and evaluation of novel pyrrole-hydroxybutenolide hybrids as promising antiplasmodial and anti-inflammatory agents.
