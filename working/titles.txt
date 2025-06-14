@@ -1,3 +1,7 @@
+40514714	Comprehensive analysis of molecular markers linked to antimalarial drug resistance in Plasmodium falciparum in Northern, Northeastern and Eastern Uganda.
+40514700	Phenotypic and genotypic insecticide resistance profiles of main malaria vectors in Kwale county, coastal Kenya.
+40514561	An atypical Arp2/3 complex is required for Plasmodium DNA segregation and malaria transmission.
+40514190	Distinguishing the overlapping features of severe multi-inflammatory syndrome in children from severe dengue, scrub typhus and other endemic tropical infections-a comparative study from a tertiary care pediatric intensive care unit.
 40512986	Revisiting Plasmodium falciparum P-type ATPase 4 in malarial: ADMET, mutation effect, and molecular simulation studies of potential inhibitors.
 40512720	Knockdown-resistance (kdr) mutations in Indian Aedes aegypti populations: Lack of recombination among haplotypes bearing V1016G, F1534C, and F1534L kdr alleles.
 40512696	Missed opportunities for digital health data use in healthcare decision-making: A cross-sectional digital health landscape assessment in Homa Bay county, Kenya.
@@ -112,7 +116,7 @@
 40480921	Parasite-resistant variants in African genomes: implications for global genetic medicine.
 40480662	Understanding stakeholders' perceptions of the impact of extractive industries on adolescent health and well-being in Mozambique: a qualitative study.
 40480661	Spatial and spatio-temporal analysis for malaria hotspot identification: a scoping review protocol.
-40480411	RATIONAL SYNTHESIS, ACTIVITY AND MECHANISM INSIGHTS OF A NEW AMINOQUINOLINE SALT AGAINST MALARIA PARASITES: IN VITRO AND IN VIVO APPROACHES.
+40480411	Rational synthesis, activity and mechanism insights of a new aminoquinoline salt against malaria parasites: in vitro and in vivo approaches.
 40480224	Antimalarial drug artemisinin stabilizes PfRACK1 binding to the ribosome.
 40478884	Coaching visits and supportive supervision for primary care facilities to improve malaria service data quality in Ghana: An intervention case study.
 40476664	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
@@ -9993,7 +9997,3 @@
 37056783	Induction of antigen specific intrahepatic CD8+ T cell responses by a secreted heat shock protein based gp96-Ig-PfCA malaria vaccine.
 37056663	Private sector antimalarial sales a decade after "test and treat": A cross-sectional study of drug shop clients in rural Uganda.
 37056033	Plasmodium falciparum-Induced Autoimmune Hemolytic Anemia in a Pregnant Patient with Sickle Cell Disease.
-37055836	High vector diversity and malaria transmission dynamics in five sentinel sites in Cameroon.
-37055834	Infection of the malaria vector Anopheles coluzzii with the entomopathogenic bacteria Chromobacterium anophelis sp. nov. IRSSSOUMB001 reduces larval survival and adult reproductive potential.
-37055809	User fee exemption and malaria treatment-seeking for children under five in a Cameroonian health district: a cross-sectional study.
-37055610	Babesia duncani multi-omics identifies virulence factors and drug targets.
