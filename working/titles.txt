@@ -1,3 +1,4 @@
+40518540	Efficacy of chloroquine with primaquine for uncomplicated Plasmodium vivax malaria without G6PD testing in Northwest Ethiopia: a one-arm in vivo prospective therapeutic efficacy study.
 40517226	Multiple micronutrient supplementation for maternal anemia prevention (MMS-MAP): an individually randomized trial of higher-dose iron (60 mg, 45 mg) compared to low-dose iron (30 mg) in multiple micronutrient supplements in pregnancy.
 40514714	Comprehensive analysis of molecular markers linked to antimalarial drug resistance in Plasmodium falciparum in Northern, Northeastern and Eastern Uganda.
 40514700	Phenotypic and genotypic insecticide resistance profiles of main malaria vectors in Kwale county, coastal Kenya.
@@ -9996,4 +9997,3 @@
 37058963	Increased neutrophil derived chemokines (CXCL10 and CCL2) in human trichinellosis as possible serological markers of the polarization of the immune response against the parasite.
 37057821	Malarial Pigment Hemozoin in Neutrophils: A Manifestation of Severe Malaria.
 37056783	Induction of antigen specific intrahepatic CD8+ T cell responses by a secreted heat shock protein based gp96-Ig-PfCA malaria vaccine.
-37056663	Private sector antimalarial sales a decade after "test and treat": A cross-sectional study of drug shop clients in rural Uganda.
