@@ -1,3 +1,13 @@
+40522511	Molecular survey of Anaplasmataceae agents, piroplasmids and haemosporidians in seabirds (Procellariiformes and Sphenisciformes) rescued on the Brazilian coast.
+40521732	Theoretical and Molecular Investigation of Bioactive Compounds as Potential Inhibitors of Plasmodium falciparum.
+40521344	Lysine targeting covalent inhibitors of malarial kinase PfCLK3.
+40520960	Computational study of phytochemicals from Khaya grandifoliola (WELW) as potential inhibitors of the Plasmodium falciparum transketolase and putative antimalarial agents.
+40520685	A LC-MS/MS Assay for Quantification of Amodiaquine and Desethylamodiaquine in Dried Blood Spots on Filter Paper.
+40520329	Acute eosinophilic pneumonia associated with mefloquine prophylaxis: A case report.
+40520249	Stage specific immune responses to schistosomes may explain conflicting results in malaria-schistosome coinfection studies.
+40519859	Economic burden of malaria on developing countries: A mini review.
+40519805	Prevalence of molecular markers associated with Plasmodium falciparum resistance to chloroquine and sulphadoxine/pyrimethamine in three malaria endemic local areas of Benue State, Nigeria.
+40519803	Malaria and associated factors among pregnant women in Sekyere East District Ghana: a cross-sectional survey.
 40518540	Efficacy of chloroquine with primaquine for uncomplicated Plasmodium vivax malaria without G6PD testing in Northwest Ethiopia: a one-arm in vivo prospective therapeutic efficacy study.
 40517226	Multiple micronutrient supplementation for maternal anemia prevention (MMS-MAP): an individually randomized trial of higher-dose iron (60 mg, 45 mg) compared to low-dose iron (30 mg) in multiple micronutrient supplements in pregnancy.
 40514714	Comprehensive analysis of molecular markers linked to antimalarial drug resistance in Plasmodium falciparum in Northern, Northeastern and Eastern Uganda.
@@ -44,7 +54,7 @@
 40502331	An Assessment of Endothelial Markers in Patients with Uncomplicated Malaria in Jazan Province, Saudi Arabia.
 40501454	Evaluating the Antiplasmodial Activity of Picrasma javanica Stem Bark Extract and Its Synergy With Artesunate in Rodent Malaria Models.
 40501281	Deadliest Animals with the Thinnest Wings: Near-Infrared Properties of Tropical Mosquitoes.
-40501143	The Molecular Properties of Honey Bee Acetylcholinesterase Reveal Opportunities to Avoid Off-Target Effects in Insecticide Discovery.
+40501143	The Molecular Properties of Honey Bee Acetylcholinesterase Reveal Opportunities to Avoid Off-Target Effects in Insecticide Discovery.
 40500871	Molecular analysis supports at least two putative species within Anopheles pseudopunctipennis s.l. on the American mainland.
 40500474	Taste Masking of Primaquine Phosphate: A Comparative Evaluation of Three Taste Masking Agents.
 40500441	RIFINs displayed on malaria-infected erythrocytes bind KIR2DL1 and KIR2DS1.
@@ -9987,13 +9997,3 @@
 37061547	Structural and immunological differences in Plasmodium falciparum sexual stage transmission-blocking vaccines comprised of Pfs25-EPA nanoparticles.
 37061442	The nutrient games - Plasmodium metabolism during hepatic development.
 37061211	Therapeutic response to artemisinin combination therapies among individuals with Plasmodium falciparum single infection vs mixed Plasmodium species infections: a retrospective posthoc analysis in Kisumu County, western Kenya.
-37060305	Antimalarial drugs: what's new in the patents?
-37060070	Characterizing the Wolbachia infection in field-collected Culicidae mosquitoes from Hainan Province, China.
-37060041	The ability of Interleukin-10 to negate haemozoin-related pro-inflammatory effects has the potential to restore impaired macrophage function associated with malaria infection.
-37060004	Malaria therapeutics: are we close enough?
-37059998	Developing African arbovirus networks and capacity strengthening in arbovirus surveillance and response: findings from a virtual workshop.
-37059457	Ghana approves Oxford's malaria vaccine for children aged 5 to 36 months.
-37059244	Towards a better understanding of commonly used medicinal plants from Turkiye: Detailed phytochemical screening and biological activity studies of two Teucrium L. species with in vitro and in silico approach.
-37058963	Increased neutrophil derived chemokines (CXCL10 and CCL2) in human trichinellosis as possible serological markers of the polarization of the immune response against the parasite.
-37057821	Malarial Pigment Hemozoin in Neutrophils: A Manifestation of Severe Malaria.
-37056783	Induction of antigen specific intrahepatic CD8+ T cell responses by a secreted heat shock protein based gp96-Ig-PfCA malaria vaccine.
