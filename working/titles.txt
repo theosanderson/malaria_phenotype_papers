@@ -1,3 +1,5 @@
+40522967	Safety of RTS,S/AS01E vaccine for malaria in African children aged 5 to 17 months: A systematic review and meta-analysis of randomized controlled trials.
+40522921	Inter-agency collaboration to support the COVID-19 response and maintain malaria services in Guinea and Sierra Leone: A social network analysis.
 40522511	Molecular survey of Anaplasmataceae agents, piroplasmids and haemosporidians in seabirds (Procellariiformes and Sphenisciformes) rescued on the Brazilian coast.
 40521732	Theoretical and Molecular Investigation of Bioactive Compounds as Potential Inhibitors of Plasmodium falciparum.
 40521344	Lysine targeting covalent inhibitors of malarial kinase PfCLK3.
@@ -9995,5 +9997,3 @@
 37061695	Mosquito bites and stage-specific antibody responses against Plasmodium falciparum in southern Ghana.
 37061668	Outcomes of childhood severe malaria: a comparative of study pre-COVID-19 and COVID-19 periods.
 37061547	Structural and immunological differences in Plasmodium falciparum sexual stage transmission-blocking vaccines comprised of Pfs25-EPA nanoparticles.
-37061442	The nutrient games - Plasmodium metabolism during hepatic development.
-37061211	Therapeutic response to artemisinin combination therapies among individuals with Plasmodium falciparum single infection vs mixed Plasmodium species infections: a retrospective posthoc analysis in Kisumu County, western Kenya.
