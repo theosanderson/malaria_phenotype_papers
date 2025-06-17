@@ -1,3 +1,4 @@
+40526071	Clinically applicable parasite viability assay for rapid assessment of antimalarial pharmacodynamic endpoints.
 40525408	Cethromycin pharmacokinetics and pharmacodynamics for single dose cure of Plasmodium berghei liver stages.
 40524903	A Global Systematic Review on the Potential of Metal-Based Nanoparticles in the Fight Against Mosquito Vectors.
 40524831	Different age, different blood parasites - Acrocephalus species and their haemosporidian parasites during autumn migration in Central Europe.
@@ -9996,4 +9997,3 @@
 37067215	[Domestic Malaria Cases in Kayseri Province].
 37066213	Antimalarial Drug Resistance Profiling of Plasmodium falciparum Infections in India Using Next-Generation Sequencing.
 37066167	Insulin-like peptides regulate oogenesis by stimulating ovarian ecdysteroid production in the Indian malaria mosquito Anopheles stephensi.
-37065311	The Intersection Between Malaria Treatment and Chemoprophylaxis and Their Potential Adverse Dermatologic Manifestations: A Narrative Review.
