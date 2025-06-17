@@ -1,3 +1,7 @@
+40525408	Cethromycin pharmacokinetics and pharmacodynamics for single dose cure of Plasmodium berghei liver stages.
+40524903	A Global Systematic Review on the Potential of Metal-Based Nanoparticles in the Fight Against Mosquito Vectors.
+40524831	Different age, different blood parasites - Acrocephalus species and their haemosporidian parasites during autumn migration in Central Europe.
+40524798	Effect of intermittent preventive treatment during pregnancy with sulfadoxine-pyrimethamine on maternal gestational weight gain in low-income and middle-income countries: a systematic review and individual participant data meta-analysis of randomised clinical trials.
 40524269	Nanobiosensors for revolutionizing parasitic infections diagnosis: a critical review to improve global health with an update on future challenges prospect.
 40523953	Malaria: past, present, and future.
 40522967	Safety of RTS,S/AS01E vaccine for malaria in African children aged 5 to 17 months: A systematic review and meta-analysis of randomized controlled trials.
@@ -9993,7 +9997,3 @@
 37066213	Antimalarial Drug Resistance Profiling of Plasmodium falciparum Infections in India Using Next-Generation Sequencing.
 37066167	Insulin-like peptides regulate oogenesis by stimulating ovarian ecdysteroid production in the Indian malaria mosquito Anopheles stephensi.
 37065311	The Intersection Between Malaria Treatment and Chemoprophylaxis and Their Potential Adverse Dermatologic Manifestations: A Narrative Review.
-37065111	Transcriptome profile of halofuginone resistant and sensitive strains of Eimeria tenella.
-37064813	Autophagy in protists and their hosts: When, how and why?
-37063994	Changes of Cinchona distribution over the past two centuries in the northern Andes.
-37061695	Mosquito bites and stage-specific antibody responses against Plasmodium falciparum in southern Ghana.
