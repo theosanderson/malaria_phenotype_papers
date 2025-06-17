@@ -1,3 +1,5 @@
+40524269	Nanobiosensors for revolutionizing parasitic infections diagnosis: a critical review to improve global health with an update on future challenges prospect.
+40523953	Malaria: past, present, and future.
 40522967	Safety of RTS,S/AS01E vaccine for malaria in African children aged 5 to 17 months: A systematic review and meta-analysis of randomized controlled trials.
 40522921	Inter-agency collaboration to support the COVID-19 response and maintain malaria services in Guinea and Sierra Leone: A social network analysis.
 40522511	Molecular survey of Anaplasmataceae agents, piroplasmids and haemosporidians in seabirds (Procellariiformes and Sphenisciformes) rescued on the Brazilian coast.
@@ -9995,5 +9997,3 @@
 37064813	Autophagy in protists and their hosts: When, how and why?
 37063994	Changes of Cinchona distribution over the past two centuries in the northern Andes.
 37061695	Mosquito bites and stage-specific antibody responses against Plasmodium falciparum in southern Ghana.
-37061668	Outcomes of childhood severe malaria: a comparative of study pre-COVID-19 and COVID-19 periods.
-37061547	Structural and immunological differences in Plasmodium falciparum sexual stage transmission-blocking vaccines comprised of Pfs25-EPA nanoparticles.
