@@ -1,3 +1,9 @@
+40528261	A Practical Approach to Malaria Diagnosis in Non-Endemic Regions: Evaluating Simple Clinical and Laboratory Predictors in Travelers Returning from Endemic Regions.
+40528257	Evaluation of the effectiveness of Aquatain, Bacillus thuringiensis var. israelensis, and Temephos on Anopheles arabiensis and Anopheles stephensi larvae in the laboratory and field settings.
+40527727	Targeting Oncofoetal Chondroitin Sulphate Allows Identification of Tumour-Derived Extracellular Vesicles.
+40527529	Acceptability and feasibility of glucose-6-phosphate dehydrogenase (G6PD) testing using SD Biosensor by village malaria workers in Cambodia: a qualitative study.
+40527405	Intense rainfalls and floods reshape malaria transmission in Niger.
+40527304	Malaria Parasitemia after Mass Distribution of Azithromycin to Prevent Child Mortality in Burkina Faso: Results from a Cluster Randomized Trial.
 40526781	Breaking down malaria outbreak: A multidisciplinary approach in a border village of French Guiana.
 40526071	Clinically applicable parasite viability assay for rapid assessment of antimalarial pharmacodynamic endpoints.
 40525408	Cethromycin pharmacokinetics and pharmacodynamics for single dose cure of Plasmodium berghei liver stages.
@@ -9991,9 +9997,3 @@
 37068249	The human malaria parasite Plasmodium falciparum can sense environmental changes and respond by antigenic switching.
 37068227	The mitochondrion of Plasmodium falciparum is required for cellular acetyl-CoA metabolism and protein acetylation.
 37068085	Predicting adherence to postdischarge malaria chemoprevention in Malawian pre-school children: A prognostic multivariable analysis.
-37068071	Altitude, not potential larval habitat availability, explains pronounced variation in Plasmodium falciparum infection prevalence in the western Kenya highlands.
-37067430	Chemogenomic Profiling of a Plasmodium falciparum Transposon Mutant Library Reveals Shared Effects of Dihydroartemisinin and Bortezomib on Lipid Metabolism and Exported Proteins.
-37067421	Comprehensive framework for integrated action on the prevention, diagnosis, and management of anemia: An introduction.
-37067216	[Outbreaks Due to Parasites: Examples from the World and Türkiye].
-37067215	[Domestic Malaria Cases in Kayseri Province].
-37066213	Antimalarial Drug Resistance Profiling of Plasmodium falciparum Infections in India Using Next-Generation Sequencing.
