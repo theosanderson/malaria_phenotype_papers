@@ -1,3 +1,4 @@
+40530979	[Therapeutic effectiveness and safety of artemether lumefantrine for the treatment of uncomplicated Plasmodium falciparum malaria in children aged 5 to 15 years in three epidemiological strata of malaria in Niger].
 40530307	Therapeutic potential of betaine and its derivatives in cancer treatment: a comprehensive review.
 40529700	The global implications of U.S. withdrawal from WHO and the USAID shutdown: challenges and strategic policy considerations.
 40528680	Synthesis of Chirally Chimeric Protein Nanoparticle Vaccines via Mirror-Image Spy Chemistry.
@@ -9996,4 +9997,3 @@
 37068848	Cost of introducing and delivering malaria vaccine (RTS,S/AS01(E)) in areas of seasonal malaria transmission, Mali and Burkina Faso.
 37068755	Opportunities for Improving Outcomes in Severe Malaria: The Role of Blood Glucose Monitoring.
 37068754	Drug Use Practices and Self-Treatment for Suspected Malaria in Ibadan, Nigeria.
-37068752	Pernicious Plasmodium vivax as a Historical Cause of Malarial Cachexia?
