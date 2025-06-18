@@ -1,3 +1,7 @@
+40530307	Therapeutic potential of betaine and its derivatives in cancer treatment: a comprehensive review.
+40529700	The global implications of U.S. withdrawal from WHO and the USAID shutdown: challenges and strategic policy considerations.
+40528680	Synthesis of Chirally Chimeric Protein Nanoparticle Vaccines via Mirror-Image Spy Chemistry.
+40528450	Applications of virus-like particles in the prevention of protozoan parasite infection.
 40528261	A Practical Approach to Malaria Diagnosis in Non-Endemic Regions: Evaluating Simple Clinical and Laboratory Predictors in Travelers Returning from Endemic Regions.
 40528257	Evaluation of the effectiveness of Aquatain, Bacillus thuringiensis var. israelensis, and Temephos on Anopheles arabiensis and Anopheles stephensi larvae in the laboratory and field settings.
 40527727	Targeting Oncofoetal Chondroitin Sulphate Allows Identification of Tumour-Derived Extracellular Vesicles.
@@ -9993,7 +9997,3 @@
 37068755	Opportunities for Improving Outcomes in Severe Malaria: The Role of Blood Glucose Monitoring.
 37068754	Drug Use Practices and Self-Treatment for Suspected Malaria in Ibadan, Nigeria.
 37068752	Pernicious Plasmodium vivax as a Historical Cause of Malarial Cachexia?
-37068750	Temporal Trends of Blood Glucose in Children with Cerebral Malaria.
-37068249	The human malaria parasite Plasmodium falciparum can sense environmental changes and respond by antigenic switching.
-37068227	The mitochondrion of Plasmodium falciparum is required for cellular acetyl-CoA metabolism and protein acetylation.
-37068085	Predicting adherence to postdischarge malaria chemoprevention in Malawian pre-school children: A prognostic multivariable analysis.
