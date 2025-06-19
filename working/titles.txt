@@ -1,3 +1,6 @@
+40533728	Stroke incidence, presentation, and outcomes in malaria: a review of current evidence.
+40533388	Sex-specific transcriptome dynamics of Anopheles gambiae during embryonic development.
+40532803	Investigation of the antimalarial efficacy of Ilex umbellulata (Wall.) Loes. bark against Plasmodium falciparum using in-vitro whole-cell assays, GC-MS, LC-ToF-MS, and multi-step computational studies.
 40532041	A novel ABC fractional-order mathematical model for malaria transmission dynamics incorporating treatment-seeking behavior.
 40531988	Spermidine is a key polyamine required by intracellular parasites for survival within host erythrocytes.
 40531971	Phylogenetics and genomic variation of Hepatocystis isolated from shotgun sequencing of wild primate hosts.
@@ -9994,6 +9997,3 @@
 37072430	Plasmepsin X activates the PCRCR complex of Plasmodium falciparum by processing PfRh5 for erythrocyte invasion.
 37071200	Pharmacological activation of PIEZO1 in human red blood cells prevents Plasmodium falciparum invasion.
 37070464	A Diagnostic Accuracy Study to Evaluate Standard Rapid Diagnostic Test (RDT) Alone to Safely Rule Out Imported Malaria in Children Presenting to UK Emergency Departments.
-37069854	Malaria parasite prevalence in Sub-Saharan African migrants screened in Sweden: a cross-sectional study.
-37069625	Artemisinin derivatives induce oxidative stress leading to DNA damage and caspase-mediated apoptosis in Theileria annulata-transformed cells.
-37069603	Vector competence of Anopheles stephensi for O'nyong-nyong virus: a risk for global virus spread.
