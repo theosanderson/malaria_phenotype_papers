@@ -1,3 +1,5 @@
+40536410	Sweeps in Space: Leveraging Geographic Data to Identify Beneficial Alleles in Anopheles gambiae.
+40536096	Efficacy and mechanism of action of cipargamin as an antibabesial drug candidate.
 40535364	A Case of Plasmodium vivax-Induced Stress Cardiomyopathy Managed With Extracorporeal Membrane Oxygenation.
 40535314	Radiomic identification of anemia features in monochromatic conjunctiva photographs in school-age children.
 40535009	The microbiota, the malarial parasite, and the mice-a three-sided relationship.
@@ -9995,5 +9997,3 @@
 37074181	Development of a Novel Enzyme-Linked Immunosorbent Assay and Lateral Flow Test System for Improved Serodiagnosis of Visceral Leishmaniasis in Different Areas of Endemicity.
 37073654	Advances in Drug Discovery based on Genomics, Proteomics and Bioinformatics in Malaria.
 37073152	Role of Nanomedicines in Controlling Malaria: A Review.
-37072800	Cross-sectional survey in Central African Republic finds mortality 4-times higher than UN statistics: how can we not know the Central African Republic is in such an acute humanitarian crisis?
-37072795	Keeping the momentum: suggestions for treatment policy updates in the final push to eliminate malaria in India.
