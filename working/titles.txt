@@ -1,3 +1,7 @@
+40535364	A Case of Plasmodium vivax-Induced Stress Cardiomyopathy Managed With Extracorporeal Membrane Oxygenation.
+40535314	Radiomic identification of anemia features in monochromatic conjunctiva photographs in school-age children.
+40535009	The microbiota, the malarial parasite, and the mice-a three-sided relationship.
+40534707	Machine learning reveals immediate disruption in mosquito flight when exposed to Olyset nets.
 40533728	Stroke incidence, presentation, and outcomes in malaria: a review of current evidence.
 40533388	Sex-specific transcriptome dynamics of Anopheles gambiae during embryonic development.
 40532803	Investigation of the antimalarial efficacy of Ilex umbellulata (Wall.) Loes. bark against Plasmodium falciparum using in-vitro whole-cell assays, GC-MS, LC-ToF-MS, and multi-step computational studies.
@@ -6821,6 +6825,7 @@
 38157022	Relative importance of VECTRI model parameters in the malaria disease transmission and prevalence.
 38156320	SARS-CoV-2 decreases malaria severity in co-infected rodent models.
 38156001	Comparative analysis of codon usage patterns of Plasmodium helical interspersed subtelomeric (PHIST) proteins.
+40535552	Supplementing routine hospital surveillance of malaria to capture excess mortality and epidemiological trends: a five-year observational study.
 40191606	Malaria parasite burden and heterogeneity of risk factors among Central African Republic refugees: a cross-sectional study in the Gado-Badzere refugee camp in Eastern Cameroon.
 38155768	Visual and thermal stimuli modulate mosquito-host contact with implications for improving malaria vector control tools.
 38155300	In silico prediction and in vitro assessment of novel heterocyclics with antimalarial activity.
@@ -9992,8 +9997,3 @@
 37073152	Role of Nanomedicines in Controlling Malaria: A Review.
 37072800	Cross-sectional survey in Central African Republic finds mortality 4-times higher than UN statistics: how can we not know the Central African Republic is in such an acute humanitarian crisis?
 37072795	Keeping the momentum: suggestions for treatment policy updates in the final push to eliminate malaria in India.
-37072759	Availability of malaria diagnostic tests, anti-malarial drugs, and the correctness of treatment: a systematic review and meta-analysis.
-37072433	Population dynamics and drug resistance mutations in Plasmodium falciparum on the Bijagós Archipelago, Guinea-Bissau.
-37072430	Plasmepsin X activates the PCRCR complex of Plasmodium falciparum by processing PfRh5 for erythrocyte invasion.
-37071200	Pharmacological activation of PIEZO1 in human red blood cells prevents Plasmodium falciparum invasion.
-37070464	A Diagnostic Accuracy Study to Evaluate Standard Rapid Diagnostic Test (RDT) Alone to Safely Rule Out Imported Malaria in Children Presenting to UK Emergency Departments.
