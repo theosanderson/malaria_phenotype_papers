@@ -1,3 +1,6 @@
+40540179	Bacterial community composition and diversity associated with developmental stages of Anopheles subpictus.
+40539550	An accessible 3D HepG2/C3A liver spheroid model supporting the complete intrahepatocytic lifecycle of Plasmodium falciparum.
+40538425	Time of Emergence and Future Projections of Extremes of Malaria Infections in Africa.
 40537767	A survey of indoor and outdoor Anopheles density, species composition and circumsporozoite rate of malaria vectors on the Bijagós Archipelago, Guinea-Bissau.
 40537756	In vitro activity and in vivo efficacy of omadacycline against Plasmodium species.
 40537755	Gender-related factors affecting community malaria-related perceptions and practices in Migori County, Kenya.
@@ -9994,6 +9997,3 @@
 37076740	Optimal Interruption of P. vivax Malaria Transmission Using Mass Drug Administration.
 37076197	Improving coverage of antenatal iron and folic acid supplementation and malaria prophylaxis through targeted information and home deliveries in Côte d'Ivoire: a cluster randomised controlled trial.
 37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the controlled human malaria infection model.
-37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
-37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
-37074868	Changes in Population Immunity Against Infection and Severe Disease From Severe Acute Respiratory Syndrome Coronavirus 2 Omicron Variants in the United States Between December 2021 and November 2022.
