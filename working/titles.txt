@@ -1,3 +1,10 @@
+40537767	A survey of indoor and outdoor Anopheles density, species composition and circumsporozoite rate of malaria vectors on the Bijagós Archipelago, Guinea-Bissau.
+40537756	In vitro activity and in vivo efficacy of omadacycline against Plasmodium species.
+40537755	Gender-related factors affecting community malaria-related perceptions and practices in Migori County, Kenya.
+40537708	Spectrum of movement disorders in Malaria: a systematic review of case reports, case series, and cohort studies.
+40537227	Prevalence and determinants of hypertension among adults of reproductive age in Tanzania: analysis of a cross-sectional Demographic and Health Survey.
+40537144	Acute Plasmodium yoelii 17XNL Infection During BCG Vaccination Limits T Cell Responses and Mycobacterial Growth Inhibition.
+40537059	Climatic and ecological factors responsible for distribution of Phlebotomine sandflies and occurrence of cutaneous leishmaniasis, in Himachal Pradesh, India.
 40536410	Sweeps in Space: Leveraging Geographic Data to Identify Beneficial Alleles in Anopheles gambiae.
 40536096	Efficacy and mechanism of action of cipargamin as an antibabesial drug candidate.
 40535364	A Case of Plasmodium vivax-Induced Stress Cardiomyopathy Managed With Extracorporeal Membrane Oxygenation.
@@ -2092,7 +2099,7 @@
 39809136	Selection of combination adjuvants for enhanced immunogenicity of a recombinant CelTOS vaccine against Plasmodium falciparum.
 39808827	Blood Transfusions for Chronic Malaria Anemia in Prisoners of War on the Thai-Burma Railway 1943-1945.
 39808782	Susceptibility of temephos against Aedes aegypti and Anopheles stephensi mosquito larvae in Dehradun of Uttarakhand, India.
-39808780	Application of Artificial Intelligence for quantifying Plasmodium berghei in blood samples from infected mice.
+39808780	Application of artificial intelligence for quantifying Plasmodium berghei in blood samples of infected mice.
 39808636	The malaria parasite PP1 phosphatase controls the initiation of the egress pathway of asexual blood-stages by regulating the rounding-up of the vacuole.
 39808626	Exploring cooking fuel choices among Ghanaian women of reproductive age: A socio-economic analysis from a statistical mechanics perspective.
 39808111	Stereospecific Resistance to N2-Acyl Tetrahydro-β-carboline Antimalarials Is Mediated by a PfMDR1 Mutation That Confers Collateral Drug Sensitivity.
@@ -3340,7 +3347,7 @@
 39374246	Quality of care and post-discharge morbidity among children diagnosed with severe malaria in rural Uganda: A prospective cohort study.
 39373748	Determination of the role of miR-451a on Plasmodium falciparum red blood cell stages, oxidative stress, and proteomic profiling.
 39373634	Interchromosomal segmental duplication drives translocation and loss of P. falciparum histidine-rich protein 3.
-39373250	Accelerating the fight towards malaria elimination: bridging gaps to achieve health equity in India.
+39373250	Accelerating the fight towards malaria elimination: Bridging gaps to achieve health equity in India.
 39373249	Spatial analysis and mapping of malaria endemic-prone areas using environmental risk factors and spatial multi criteria decision analysis in the Northern Zone of Plateau State, Nigeria.
 39373229	Bridging the gaps: prioritizing research strategies for enhanced malaria control and elimination.
 39373225	Characterization of Anopheles mosquito breeding habitats for malaria vector control in Mazowe and Shamva districts, Zimbabwe.
@@ -9990,10 +9997,3 @@
 37075452	Malaria and environmental, socioeconomics and public health conditions in the municipality of São Félix do Xingu, Pará, Eastern Amazon, Brazil: An ecological and cross-sectional study.
 37075451	Lea Ferreira Camillo-Coura (★1932 †2023) Always first.
 37074868	Changes in Population Immunity Against Infection and Severe Disease From Severe Acute Respiratory Syndrome Coronavirus 2 Omicron Variants in the United States Between December 2021 and November 2022.
-37074847	Infections and mental diseases: from tuberculosis to COVID-19.
-37074531	Human granzyme B binds Plasmodium falciparum Hsp70-x and mediates antiplasmodial activity in vitro.
-37074472	Cuscuta reflexa Possess Potent Inhibitory Activity Against Human Malaria Parasite: An In Vitro and In Vivo Study.
-37074313	Dengue and zika seropositivity, burden, endemicity, and cocirculation antibodies in Nigeria.
-37074181	Development of a Novel Enzyme-Linked Immunosorbent Assay and Lateral Flow Test System for Improved Serodiagnosis of Visceral Leishmaniasis in Different Areas of Endemicity.
-37073654	Advances in Drug Discovery based on Genomics, Proteomics and Bioinformatics in Malaria.
-37073152	Role of Nanomedicines in Controlling Malaria: A Review.
