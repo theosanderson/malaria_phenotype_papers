@@ -1,3 +1,4 @@
+40540516	Salience and perceptions of epidemic-prone diseases in two communities: Findings from freelisting interviews in Khartoum State, Sudan.
 40540179	Bacterial community composition and diversity associated with developmental stages of Anopheles subpictus.
 40539550	An accessible 3D HepG2/C3A liver spheroid model supporting the complete intrahepatocytic lifecycle of Plasmodium falciparum.
 40538425	Time of Emergence and Future Projections of Extremes of Malaria Infections in Africa.
@@ -9996,4 +9997,3 @@
 37076896	Burden of mosquito-borne diseases across rural versus urban areas in Cameroon between 2002 and 2021: prospective for community-oriented vector management approaches.
 37076740	Optimal Interruption of P. vivax Malaria Transmission Using Mass Drug Administration.
 37076197	Improving coverage of antenatal iron and folic acid supplementation and malaria prophylaxis through targeted information and home deliveries in Côte d'Ivoire: a cluster randomised controlled trial.
-37075916	Baseline TGF-β correlates with protection after immunization with Plasmodium falciparum sporozoites in the controlled human malaria infection model.
