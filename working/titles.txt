@@ -1,9 +1,11 @@
+40545470	Genetic diversity within Strongyloides fuelleborni: Mitochondrial genome analysis reveals a clear African and Asian division.
+40545411	Preventing the establishment of invasive exotic mosquitoes.
+40544253	Characterization and abundance of malaria vectors in Sakassou, Central Côte d'Ivoire.
 40543976	Estimating the potential malaria morbidity and mortality avertable by the US President's Malaria Initiative in 2025: a geospatial modelling analysis.
 40543959	Reinforcing resilience: confronting the consequences of global malaria aid cuts in Africa.
+40543589	Functional insights into Plasmodium actin depolymerizing factor interactions with phosphoinositides.
 40543556	Screening G6PD mutation in blood donors by Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry with high-throughput and multiple targets.
 40543404	Exploiting the potential of preparative multimodal chromatography resins for increasing selectivity in an orthogonal purification step.
-40544253	Characterization and abundance of malaria vectors in Sakassou, Central Côte d'Ivoire.
-40543589	Functional insights into Plasmodium actin depolymerizing factor interactions with phosphoinositides.
 40542408	Antimalarial drug prescriptions and clinical outcomes of febrile children in Arba Minch City, South Ethiopia.
 40541167	Host-like conditions validate nutrient transport as an antimalarial drug target.
 40540516	Salience and perceptions of epidemic-prone diseases in two communities: Findings from freelisting interviews in Khartoum State, Sudan.
@@ -9995,5 +9997,3 @@
 37080622	SARS-CoV-2 seroprevalence and living conditions in Bamako (Mali): a cross-sectional multistage household survey after the first epidemic wave, 2020.
 37080596	Effects of a Small-Molecule Perforin Inhibitor in a Mouse Model of CD8 T Cell-Mediated Neuroinflammation.
 37079901	Design, Rationalization, and Automation of a Catalytic Sensing Mechanism for Homogeneous SERS Biosensors.
-37079536	Predicting microbe organisms using data of living micro forms of life and hybrid microbes classifier.
-37079382	Mycobacterium tuberculosis Gene Expression Associated With Fluoroquinolone Resistance and Efflux Pump Inhibition.
