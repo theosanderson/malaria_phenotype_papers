@@ -1,9 +1,9 @@
-40544253	Characterization and abundance of malaria vectors in Sakassou, Central Côte d'Ivoire.
 40543976	Estimating the potential malaria morbidity and mortality avertable by the US President's Malaria Initiative in 2025: a geospatial modelling analysis.
 40543959	Reinforcing resilience: confronting the consequences of global malaria aid cuts in Africa.
-40543589	Functional insights into Plasmodium actin depolymerizing factor interactions with phosphoinositides.
 40543556	Screening G6PD mutation in blood donors by Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry with high-throughput and multiple targets.
 40543404	Exploiting the potential of preparative multimodal chromatography resins for increasing selectivity in an orthogonal purification step.
+40544253	Characterization and abundance of malaria vectors in Sakassou, Central Côte d'Ivoire.
+40543589	Functional insights into Plasmodium actin depolymerizing factor interactions with phosphoinositides.
 40542408	Antimalarial drug prescriptions and clinical outcomes of febrile children in Arba Minch City, South Ethiopia.
 40541167	Host-like conditions validate nutrient transport as an antimalarial drug target.
 40540516	Salience and perceptions of epidemic-prone diseases in two communities: Findings from freelisting interviews in Khartoum State, Sudan.
