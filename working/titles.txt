@@ -1,3 +1,8 @@
+40553524	Plasmodium vivax Malaria Presenting with Acute Respiratory Distress Syndrome: A Case Series.
+40553485	Optimizing Transcranial Doppler Screening for Stroke Prevention in Young African Children with Sickle Cell Disease.
+40553266	Curdlan: a microbial biopolymer of multifarious applications for a sustainable environment.
+40552966	A Vaccine to Block Plasmodium falciparum Transmission.
+40552965	Blocking Human-to-Mosquito Transmission of Plasmodium falciparum - A New Path to Malaria Elimination?
 40551553	Changing malaria epidemiology in a small island developing state and the implications for global health.
 40551263	Significant variations in tolerance to clothianidin and pirimiphos-methyl in Anopheles gambiae and Anopheles funestus populations during a dramatic malaria resurgence despite sustained indoor residual spraying in Uganda.
 40551231	Functional characterization of transcriptional enhancers in an Anopheles genetic locus controlling natural resistance to the malaria parasite, Plasmodium falciparum.
@@ -9992,8 +9997,3 @@
 37085271	The WHO's 75th anniversary: WHO at a pivotal moment in history.
 37084957	Designing a multi-epitope chimeric protein from different potential targets: A potential vaccine candidate against Plasmodium.
 37084013	Impact of high human genetic diversity in Africa on immunogenicity and efficacy of RTS,S/AS01 vaccine.
-37083479	Analysis of genome instability and implications for the consequent phenotype in Plasmodium falciparum containing mutated MSH2-1 (P513T).
-37083317	Effects of proactive vs fixed community health care delivery on child health and access to care: a cluster randomised trial secondary endpoint analysis.
-37082835	A sting in the tail-are antibodies against the C-terminus of Plasmodium falciparum circumsporozoite protein protective?
-37082831	Molecular and functional properties of human Plasmodium falciparum CSP C-terminus antibodies.
-37082717	How the corona pandemic affects the global fight against tuberculosis and how to react.
