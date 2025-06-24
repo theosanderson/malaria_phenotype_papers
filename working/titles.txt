@@ -1,3 +1,16 @@
+40551553	Changing malaria epidemiology in a small island developing state and the implications for global health.
+40551263	Significant variations in tolerance to clothianidin and pirimiphos-methyl in Anopheles gambiae and Anopheles funestus populations during a dramatic malaria resurgence despite sustained indoor residual spraying in Uganda.
+40551231	Functional characterization of transcriptional enhancers in an Anopheles genetic locus controlling natural resistance to the malaria parasite, Plasmodium falciparum.
+40551195	Technologies for the point-of-care diagnosis of malaria: a scoping review.
+40550622	China's malaria elimination: the role of determination and collective will.
+40549065	The effect of chloroquine on cervical cancer via the PI3K/AKT/MDM2 pathway.
+40548744	Under conditions of high wall shear stress, several PfEBA and PfRH ligands are important for malaria Plasmodium falciparum blood-stage growth.
+40548718	Arylmethylamino steroid compound 1o interferes with Plasmodium falciparum's hemoglobin metabolism.
+40548143	Assessing the efficacy of 3D window double screens (3D-WDS) in reducing malaria transmission in northeastern Tanzania: Study protocol for a two-arm cluster-randomised controlled trial.
+40547467	Evaluating ECAMM-based training efficacy for malaria microscopists in Hunan Province, China.
+40547076	Emergence of Anopheles stephensi as a malaria vector in Sudan.
+40546959	Osteoprotegerin and its ligands RANKL and TRAIL in falciparum, vivax, and knowlesi malaria.
+40546849	Geo-temporal study of clinical malaria in an endemic zone in southern Mali: The case of the Kolondieba health district from 2019 to 2021.
 40545470	Genetic diversity within Strongyloides fuelleborni: Mitochondrial genome analysis reveals a clear African and Asian division.
 40545411	Preventing the establishment of invasive exotic mosquitoes.
 40544253	Characterization and abundance of malaria vectors in Sakassou, Central Côte d'Ivoire.
@@ -187,7 +200,7 @@
 40480411	Rational synthesis, activity and mechanism insights of a new aminoquinoline salt against malaria parasites: in vitro and in vivo approaches.
 40480224	Antimalarial drug artemisinin stabilizes PfRACK1 binding to the ribosome.
 40478884	Coaching visits and supportive supervision for primary care facilities to improve malaria service data quality in Ghana: An intervention case study.
-40476664	Genome structural variants shape adaptive success of an invasive urban malaria vector Anopheles stephensi.
+40476664	Genome Structural Variants Shape Adaptive Success of an Invasive Urban Malaria Vector Anopheles stephensi.
 40476362	Divergent plastid genomes in the deepest-branching apicomplexan parasites.
 40476243	Tri-metallic (Au-Pt-Ag) nanofluids: unveiling synergistic anti-malarial, cytotoxic, and antioxidant potentials through experimental and computational approaches.
 40476012	Diagnostic accuracy of PfHRP2-based malaria rapid diagnostic tests and antigenemia persistence in Kenyan children from a holoendemic region: implications for case management and surveillance.
@@ -9984,16 +9997,3 @@
 37082835	A sting in the tail-are antibodies against the C-terminus of Plasmodium falciparum circumsporozoite protein protective?
 37082831	Molecular and functional properties of human Plasmodium falciparum CSP C-terminus antibodies.
 37082717	How the corona pandemic affects the global fight against tuberculosis and how to react.
-37082350	Global Stability of a Time-delayed Malaria Model with Standard Incidence Rate.
-37082191	Antiplasmodial, Antioxidant, and Cytotoxic Activity of Bridelia micrantha a Cameroonian Medicinal Plant Used for the Treatment of Malaria.
-37082177	Culture and transfection: Two major bottlenecks in understanding Plasmodium vivax biology.
-37082139	Escape from oncogene-induced senescence is controlled by POU2F2 and memorized by chromatin scars.
-37081955	Corrigendum: Digitizing tuberculosis treatment monitoring in Wuhan city, China, 2020-2021: Impact on medication adherence.
-37081851	Anti-schistosomal immunity to core xylose/fucose in N-glycans.
-37081532	Overcoming insecticide resistance in Anopheles mosquitoes by using faster-acting solid forms of deltamethrin.
-37081458	Prevalence of haemosporidia in Asian Glossy Starling with discovery of misbinding of Haemoproteus-specific primer to Plasmodium genera in Sarawak, Malaysian Borneo.
-37080831	Modelling the relative cost-effectiveness of the RTS,S/AS01 malaria vaccine compared to investment in vector control or chemoprophylaxis.
-37080740	Artificial Intelligence in Point-of-Care Testing.
-37080622	SARS-CoV-2 seroprevalence and living conditions in Bamako (Mali): a cross-sectional multistage household survey after the first epidemic wave, 2020.
-37080596	Effects of a Small-Molecule Perforin Inhibitor in a Mouse Model of CD8 T Cell-Mediated Neuroinflammation.
-37079901	Design, Rationalization, and Automation of a Catalytic Sensing Mechanism for Homogeneous SERS Biosensors.
