@@ -1,3 +1,8 @@
+40554730	Mathematical modelling and optimal control of malaria transmission with antimalarial drug and insecticide resistance.
+40554576	Impact of layered behavioral, socio-economic and school-based interventions on selected behavioral and biomarker indicators among adolescent girls and young women in Uganda.
+40554525	From need to neglect: Exploring psychological barriers to preventive interventions in pregnancy.
+40554477	Potential role of proprietary patent medicine vendors in primary eye and ear care: A mixed methods study in northern Nigeria.
+40554394	Prevalence of malaria parasites among blood donors in two hospitals in Enugu metropolis, Nigeria.
 40553524	Plasmodium vivax Malaria Presenting with Acute Respiratory Distress Syndrome: A Case Series.
 40553485	Optimizing Transcranial Doppler Screening for Stroke Prevention in Young African Children with Sickle Cell Disease.
 40553266	Curdlan: a microbial biopolymer of multifarious applications for a sustainable environment.
@@ -5737,7 +5742,6 @@
 38537842	Dichroa febrifuga Lour.: A review of its botany, traditional use, phytochemistry, pharmacological activities, toxicology, and progress in reducing toxicity.
 38537686	Ultrasensitive malaria detection system for Anopheles mosquito field surveillance using droplet digital PCR.
 38537337	Design, synthesis and Anti-Plasmodial activity of Mortiamide-Lugdunin conjugates.
-38537135	First Report of White Mucus Disease Caused by Fuligo gyrosa on Agrocybe chaxingu in China.
 38537079	Amino acid supplementation confers protection to red blood cells before Plasmodium falciparum bystander stress.
 38537036	Characterisation of the merozoite thrombospondin related anonymous protein (MTRAP) of Plasmodium berghei as a transmission-blocking antigen.
 38536856	Factors associated with the uptake of intermittent preventive treatment for malaria during pregnancy in Cameroon: An analysis of data from the 2018 Cameroon Demographic and Health Survey.
@@ -9993,7 +9997,3 @@
 37086737	Tracking antimalarial drug resistance using mosquito blood meals: a cross-sectional study.
 37086730	A new Director for the Global Malaria Programme.
 37085893	Socio-demographic and economic inequity in the use of insecticide-treated bed nets during pregnancy: a survey-based case study of four sub-Saharan African countries with a high burden of malaria.
-37085872	Cardiotoxicity of chloroquine and hydroxychloroquine through mitochondrial pathway.
-37085271	The WHO's 75th anniversary: WHO at a pivotal moment in history.
-37084957	Designing a multi-epitope chimeric protein from different potential targets: A potential vaccine candidate against Plasmodium.
-37084013	Impact of high human genetic diversity in Africa on immunogenicity and efficacy of RTS,S/AS01 vaccine.
