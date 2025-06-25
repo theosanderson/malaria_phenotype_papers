@@ -1,3 +1,16 @@
+40559742	Persistence of Untreated Bed Nets in the Retail Market in Tanzania: A Cross-Sectional Survey.
+40559741	Similar Microsatellite Allelic Distribution Between Anopheles darlingi Population Collected by Human Landing Catch or Mosquito Magnet Traps in French Guiana.
+40559739	Effectiveness of Pyrethroid-Piperonyl Butoxide Nets Versus Standard Pyrethroid-Only Nets in Preventing Malaria in Children Under 10 Years Living in Kisantu Health Zone, Democratic Republic of the Congo.
+40559738	Deltamethrin Selection Drives Transcriptomic Changes in Detoxification, Immune, and Cuticle Genes in Aedes aegypti.
+40559720	Screening and Diagnosis Access for Neglected and Tropical Parasitic Diseases in Italy: A National Survey.
+40559561	Beyond Mosquitoes: A Review of Pediatric Vector-Borne Diseases Excluding Malaria and Arboviral Infections.
+40559545	Patterns and Determinants of Imported Malaria near the Argentina-Bolivia Border, 1977-2009.
+40559542	The Global Prevalence of and Factors Associated with Parasitic Coinfection in People Living with Viruses: A Systematic Review and Meta-Analysis.
+40559528	A High-Throughput Inhibitor Screen Targeting CLAG3 Export and Membrane Insertion on Human Erythrocytes Infected with Malaria Parasites.
+40559523	Novel Insight into Culicoides (Diptera: Ceratopogonidae) Host Preferences and the First Evidence of Avian Haemosporidian Parasites in Biting Midges in Slovakia.
+40559007	New Insights into the Biology, Ecology, and Management of Mosquitoes.
+40558976	Assessment of Entomopathogenic Fungi Activity from the Fiocruz Amazônia Collection in Anopheles aquasalis Mosquitoes.
+40558503	GCN5 Is a Master Regulator of Gene Expression in the Malaria Parasite Plasmodium falciparum.
 40556018	Correction: A roadmap of priority evidence gaps for the co-implementation of malaria vaccines and perennial malaria chemoprevention.
 40555763	Mosquito-targeted malaria control.
 40554730	Mathematical modelling and optimal control of malaria transmission with antimalarial drug and insecticide resistance.
@@ -9984,16 +9997,3 @@
 37090522	Current observations on shifts in malaria vector biting behavior and changing vulnerability to malaria transmission in contrasting ecosystems in Western Kenya.
 37090061	Perceptions of sulphadoxine-pyrimethamine use among pregnant women in sub-Saharan Africa: a scoping review.
 37089824	Comparative assessment of hepatoprotective properties of Artesunate and flavonoids from Artemisia annua on acetaminophen and carbon tetrachloride-induced cytotoxicity in primary mice hepatocytes.
-37089787	Effects of public health emergencies of international concern on disease control: a systematic review.
-37089331	Seasonal and spatial variations of malaria transmissions in northwest Ethiopia: Evaluating climate and environmental effects using generalized additive model.
-37088828	Impacts of dual active-ingredient bed nets on the behavioural responses of pyrethroid resistant Anopheles gambiae determined by room-scale infrared video tracking.
-37088361	First molecular documented case of a rarely reported parasite: Plasmodium knowlesi infection in Denmark in a traveller returning from Malaysian Borneo.
-37088154	Characterization of Plasmodium falciparum prohibitins as novel targets to block infection in humans by impairing the growth and transmission of the parasite.
-37088092	Ferric carboxymaltose versus standard-of-care oral iron to treat second-trimester anaemia in Malawian pregnant women: a randomised controlled trial.
-37087726	Identification of starvation-mimetic bioactive phytocomponent from Withania somnifera using in-silico molecular modelling and flow cytometry-based analysis for the management of malaria.
-37087510	Prevalence, trends and associated factors of malaria in the Shai-Osudoku District Hospital, Ghana.
-37087435	PCR-confirmed malaria among children presenting with a decreased level of consciousness in Angola: a prospective, observational study.
-37087160	Artesunate versus quinine: the controlled trials watershed.
-37086937	Upregulation of IL-33, CCL2, and CXCL16 levels in Brazilian pregnant women infected by Toxoplasma gondii.
-37086747	RTS,S/AS01 malaria vaccine-proven safe and effective?
-37086737	Tracking antimalarial drug resistance using mosquito blood meals: a cross-sectional study.
