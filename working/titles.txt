@@ -1,3 +1,5 @@
+40556018	Correction: A roadmap of priority evidence gaps for the co-implementation of malaria vaccines and perennial malaria chemoprevention.
+40555763	Mosquito-targeted malaria control.
 40554730	Mathematical modelling and optimal control of malaria transmission with antimalarial drug and insecticide resistance.
 40554576	Impact of layered behavioral, socio-economic and school-based interventions on selected behavioral and biomarker indicators among adolescent girls and young women in Uganda.
 40554525	From need to neglect: Exploring psychological barriers to preventive interventions in pregnancy.
@@ -9995,5 +9997,3 @@
 37086937	Upregulation of IL-33, CCL2, and CXCL16 levels in Brazilian pregnant women infected by Toxoplasma gondii.
 37086747	RTS,S/AS01 malaria vaccine-proven safe and effective?
 37086737	Tracking antimalarial drug resistance using mosquito blood meals: a cross-sectional study.
-37086730	A new Director for the Global Malaria Programme.
-37085893	Socio-demographic and economic inequity in the use of insecticide-treated bed nets during pregnancy: a survey-based case study of four sub-Saharan African countries with a high burden of malaria.
