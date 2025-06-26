@@ -1,3 +1,17 @@
+40568768	Climate and human-driven changes in malaria vector distribution in China: implications for Anopheles species management.
+40568136	The Consortium for Genomic Diversity, Ancestry, and Health in Colombia (CÓDIGO): building local capacity in genomics, bioinformatics, and precision medicine.
+40568120	A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1's role in ap2-g activation.
+40567700	Smart waste management and classification system using advanced IoT and AI technologies.
+40567037	Plasmodium falciparum acetyltransferase GCN5 acts as a dual regulator of essential glycolytic enzyme phosphoglycerate mutase.
+40566754	Babesia Infections in Reservoir Hosts and the Possibility of Human Babesiosis in Ghana.
+40566354	Behavioral Consequences Among Survivors of Cerebral Malaria and Acceptability to Different Disciplinary Methods.
+40566329	Climate Change and the Rise of Emerging and Re-Emerging Infectious Diseases in Africa: A Literature Review.
+40566250	The Effectiveness of Indoor Residual Spraying for Malaria Control in Sub-Saharan Africa: A Systematic Protocol Review and Meta-Analysis.
+40565463	Modeling and Exploring Stillbirth Risks in Northern Pakistan.
+40564933	The Plasmodium falciparum RING Finger Protein PfRNF1 Forms an Interaction Network with Regulators of Sexual Development.
+40564791	Encephalitis Unraveled: The Unlikely Encounter of Sickle Cell Disease and Cerebral Malaria in a Teenager.
+40563989	Malaria Vaccines and Global Equity: A Scoping Review of Current Progress and Future Directions.
+40563506	The Role of LAIR1 as a Regulatory Receptor of Antitumor Immune Cell Responses and Tumor Cell Growth and Expansion.
 40562737	Genomic Deletion of PfHRP2 and PfHRP3 in Plasmodium falciparum Strains, Ethiopia, 2009.
 40562734	Plasmodium knowlesi Malaria in Persons Returning to Israel from Thailand, 2023.
 40562207	Malaria control and elimination in Vanuatu and Papua New Guinea: Multidisciplinary and collaborative research with island communities, 1985-2024.
@@ -231,7 +245,7 @@
 40480224	Antimalarial drug artemisinin stabilizes PfRACK1 binding to the ribosome.
 40478884	Coaching visits and supportive supervision for primary care facilities to improve malaria service data quality in Ghana: An intervention case study.
 40476664	Genome Structural Variants Shape Adaptive Success of an Invasive Urban Malaria Vector Anopheles stephensi.
-40476362	Divergent plastid genomes in the deepest-branching apicomplexan parasites.
+40476362	Divergent Plastid Genomes in the Deepest-Branching Apicomplexan Parasites.
 40476243	Tri-metallic (Au-Pt-Ag) nanofluids: unveiling synergistic anti-malarial, cytotoxic, and antioxidant potentials through experimental and computational approaches.
 40476012	Diagnostic accuracy of PfHRP2-based malaria rapid diagnostic tests and antigenemia persistence in Kenyan children from a holoendemic region: implications for case management and surveillance.
 40475615	Identification of α-azacyclic acetamide-based inhibitors of P. falciparum Na (+) pump ( Pf ATP4) with fast-killing asexual blood-stage antimalarial activity by phenotypic screening.
@@ -8725,6 +8739,7 @@
 37524976	Decoding the impact of nuclear organization on antigenic variation in parasites.
 37524606	The Characteristic of Recurrent Malaria Episode: An Observational Study in Timika Papua.
 37524553	PARIST study protocol: a phase I/II randomised, controlled clinical trial to assess the feasibility, safety and effectiveness of paracetamol in resolving acute kidney injury in children with severe malaria.
+40568406	Prevalence of Plasmodium Falciparum Gametocytes among Malaria Positive Cases at Korogwe District Hospital: The Use of Molecular Techniques in Comparison with Light Microscopy.
 37523515	Codetection of Plasmodium falciparum in Children Hospitalized With Dengue Fever in the Dominican Republic.
 37523402	Epidemiology of malaria, schistosomiasis, and geohelminthiasis amongst children 3-15 years of age during the dry season in Northern Cameroon.
 37523385	PTEX helps efficiently traffic haemoglobinases to the food vacuole in Plasmodium falciparum.
@@ -9982,18 +9997,3 @@
 37095766	Incidence, causes, and risk factors of stillbirth in an Amazonian context: Saint Laurent du Maroni maternity ward 2016-2021.
 37095480	Perennial malaria chemoprevention with and without malaria vaccination to reduce malaria burden in young children: a modelling analysis.
 37094808	Wind-assisted high-altitude dispersal of mosquitoes and other insects in East Africa.
-37094786	Design, Implementation, and Coordination of Malaria Therapeutic Efficacy Studies in Nigeria in 2018.
-37094783	Association between Livestock Ownership and Malaria Incidence in South-Central Ethiopia: A Cohort Study.
-39816843	Molecular detection and quantification of Plasmodium vivax DNA in blood pellet and plasma samples from patients in Senegal.
-37094110	Structure-Activity Relationships Reveal Beneficial Selectivity Profiles of Inhibitors Targeting Acetylcholinesterase of Disease-Transmitting Mosquitoes.
-37093800	Transport of antibody into the skin is only partially dependent upon the neonatal Fc-receptor.
-37093779	Monoclonal antibody: future of malaria control and prevention.
-37093647	Simultaneous adjunctive treatment of malaria and its coevolved genetic disorder sickle cell anemia.
-37093000	Comparative Susceptibility of Plasmodium ovale and Plasmodium falciparum Field Isolates to Reference and Lead Candidate Antimalarial Drugs in Ghana.
-37092310	Plasmodium infection and dysbiosis: A new paradigm in the host-parasite interaction.
-37092107	A world free of malaria: It is time for Africa to actively champion and take leadership of elimination and eradication strategies.
-37091858	Asymptomatic Plasmodium Infection and Associated Factors in Selected Districts of the Kaffa Zone, Southwest Ethiopia: A Cross-Sectional Study.
-37091678	Anti-phosphatidylserine antibody levels are low in multigravid pregnant women in a malaria-endemic area in Nigeria, and do not correlate with anti-VAR2CSA antibodies.
-37091061	Co-infection of COVID-19 and parasitic diseases: A systematic review.
-37090679	Synthetic lethality of Mycobacterium tuberculosis NADH dehydrogenases is due to impaired NADH oxidation.
-37090677	High-throughput phenogenotyping of Mycobacteria tuberculosis clinical strains reveals bacterial determinants of treatment outcomes.
