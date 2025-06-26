@@ -1,3 +1,4 @@
+40560998	Core-shell microcapsules compatible with routine injection enable prime/boost immunization against malaria with a single shot.
 40559742	Persistence of Untreated Bed Nets in the Retail Market in Tanzania: A Cross-Sectional Survey.
 40559741	Similar Microsatellite Allelic Distribution Between Anopheles darlingi Population Collected by Human Landing Catch or Mosquito Magnet Traps in French Guiana.
 40559739	Effectiveness of Pyrethroid-Piperonyl Butoxide Nets Versus Standard Pyrethroid-Only Nets in Preventing Malaria in Children Under 10 Years Living in Kisantu Health Zone, Democratic Republic of the Congo.
@@ -255,7 +256,6 @@
 40469775	An assessment of interobserver agreement on lesion size, morphology and clinical phenotype in cutaneous leishmaniasis caused by Leishmania aethiopica in Ethiopia.
 40469542	Review on progress, challenges, and recommendations for implementing the One Health approach in the Eastern Mediterranean Region.
 40469401	COVID-19 knowledge, attitude, and practice in combating TB and COVID-19 in Cameroon.
-40469036	Just Say NO to CD36 Expression: A Regulatory Pathway With Implications in Many Chronic Diseases.
 40468804	Bovistols E and F, New bis-Sesquiterpenes Isolated From Psathyrella microrhiza CF-117891.
 40468325	Enhanced data quality to improve malaria surveillance in Papua, Indonesia.
 40468310	Medicinal plants traditionally used for management of malaria in rural communities of Uganda.
