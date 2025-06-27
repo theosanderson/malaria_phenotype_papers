@@ -1,3 +1,6 @@
+40571279	Corrigendum to 'Kinetics of the Alethia® Malaria LAMP positivity during Post-treatment Follow-up of Patients with imported Malaria' [Clinical Microbiology and Infection journal. Volume 31, Issue 6, June 2025, Pages 1069-1070].
+40571064	Novel compounds from Gentiana purpurea L. and their anti-plasmodial evaluation.
+40570747	The success of toll-like receptor 4 based vaccine adjuvants.
 40570391	Multi-pathogen wastewater surveillance in Malawi: An assessment of culture-based, RT-PCR, and long-read metagenomics methods with multiple ongoing outbreaks.
 40570199	Elevated suPAR levels, organ dysfunction and death in children hospitalized with malaria: considerations for use as a risk stratification tool.
 40570150	From skin to sequence: pan-species detection and speciation of Leishmania.
@@ -21,7 +24,7 @@
 40562737	Genomic Deletion of PfHRP2 and PfHRP3 in Plasmodium falciparum Strains, Ethiopia, 2009.
 40562734	Plasmodium knowlesi Malaria in Persons Returning to Israel from Thailand, 2023.
 40562207	Malaria control and elimination in Vanuatu and Papua New Guinea: Multidisciplinary and collaborative research with island communities, 1985-2024.
-40562206	Method for deletion of variant surface antigen genes at subtelomeric region of plasmodium falciparum.
+40562206	Method for deletion of variant surface antigen genes at subtelomeric region of Plasmodium falciparum.
 40560998	Core-shell microcapsules compatible with routine injection enable prime/boost immunization against malaria with a single shot.
 40559742	Persistence of Untreated Bed Nets in the Retail Market in Tanzania: A Cross-Sectional Survey.
 40559741	Similar Microsatellite Allelic Distribution Between Anopheles darlingi Population Collected by Human Landing Catch or Mosquito Magnet Traps in French Guiana.
@@ -9994,6 +9997,3 @@
 37098510	Treatment of uncomplicated Plasmodium vivax with chloroquine plus radical cure with primaquine without G6PDd testing is safe in Arba Minch, Ethiopia: assessment of clinical and parasitological response.
 37098222	JA-Regulated AaGSW1-AaYABBY5/AaWRKY9 Complex Regulates Artemisinin Biosynthesis in Artemisia annua.
 37098163	Symptoms of illness during travel and risk factors for non-adherence to malaria prophylaxis-a cross-sectional study in travellers from Germany.
-37098050	All hands on deck: Malaria control urgently needs workable public-private-philanthropic partnerships (PPPP).
-37098016	Increased malaria incidence following irrigation practices in the Endorheic Rift Valley Basin of Sidama Region, Ethiopia.
-37097895	Fixing molecular complexes in BioPAX standards to enrich interactions and detect redundancies using semantic web technologies.
