@@ -1,3 +1,8 @@
+40570391	Multi-pathogen wastewater surveillance in Malawi: An assessment of culture-based, RT-PCR, and long-read metagenomics methods with multiple ongoing outbreaks.
+40570199	Elevated suPAR levels, organ dysfunction and death in children hospitalized with malaria: considerations for use as a risk stratification tool.
+40570150	From skin to sequence: pan-species detection and speciation of Leishmania.
+40570066	Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa.
+40570028	Attractive targeted sugar baits for malaria control in western Kenya (ATSB-Kenya) - Effect of ATSBs on epidemiologic and entomologic indicators: A Phase III, open-label, cluster-randomised, controlled trial.
 40569209	Community health workers identify children requiring health center admission in Northern Uganda: prehospital risk prediction using vital signs and advanced point-of-care tests.
 40568768	Climate and human-driven changes in malaria vector distribution in China: implications for Anopheles species management.
 40568136	The Consortium for Genomic Diversity, Ancestry, and Health in Colombia (CÓDIGO): building local capacity in genomics, bioinformatics, and precision medicine.
@@ -9992,8 +9997,3 @@
 37098050	All hands on deck: Malaria control urgently needs workable public-private-philanthropic partnerships (PPPP).
 37098016	Increased malaria incidence following irrigation practices in the Endorheic Rift Valley Basin of Sidama Region, Ethiopia.
 37097895	Fixing molecular complexes in BioPAX standards to enrich interactions and detect redundancies using semantic web technologies.
-37097173	Nutrient Limitation Mimics Artemisinin Tolerance in Malaria.
-37096453	Geospatial modelling of lymphatic filariasis and malaria co-endemicity in Nigeria.
-37096145	Examining the Early Distribution of the Artemisinin-Resistant Plasmodium falciparum kelch13 R561H Mutation in Areas of Higher Transmission in Rwanda.
-37095766	Incidence, causes, and risk factors of stillbirth in an Amazonian context: Saint Laurent du Maroni maternity ward 2016-2021.
-37095480	Perennial malaria chemoprevention with and without malaria vaccination to reduce malaria burden in young children: a modelling analysis.
