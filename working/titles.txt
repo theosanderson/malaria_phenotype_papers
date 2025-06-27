@@ -1,3 +1,6 @@
+40576765	Historical analysis of the directors of university institutes of pharmacology in Germany and Austria in the period 1918-1963.
+40576381	Chromosomal inversions and their potential impact on the evolution of arboviral vector Aedes aegypti.
+40576352	Pulling the Drug Out From Underneath: Ethical Considerations in the Discontinuation of the Antimalarial Quinidine.
 40575910	Plasmodium falciparum malaria in six travellers returning from Zanzibar to Italy, December 2023 to February 2025: a case series.
 40575543	Remote Sensing and GIS-Based Study to Predict Risk Zones for Mosquito-Borne Diseases in Cuttack District, Odisha, India.
 40574872	Regional variation and epidemiological insights in malaria underestimation in Cameroon.
@@ -9994,6 +9997,3 @@
 37102486	A Quinquennial Review on Recent Advancements and Developments in Search of Anti-malarial Agents.
 37102339	Knockdown of Anopheles dirus far upstream element-binding protein gene lower oocyst numbers of Plasmodium vivax.
 37101295	Retinal imaging technologies in cerebral malaria: a systematic review.
-37101269	An archetypes approach to malaria intervention impact mapping: a new framework and example application.
-37101146	Application of mathematical modelling to inform national malaria intervention planning in Nigeria.
-37100721	Extending the range of Plasmodium falciparum transmission blocking antibodies.
