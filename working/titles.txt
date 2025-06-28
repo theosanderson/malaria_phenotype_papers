@@ -1,3 +1,5 @@
+40578841	Genetic markers at the crossroads: toll-like receptor polymorphisms and Plasmodium vivax malaria parasitological aspects from the Brazil-French Guiana border.
+40578380	Unveiling the incidences and trends of alveolar echinococcosis in Europe: a systematic review from the KNOW-PATH project.
 40577132	RAP proteins regulate apicoplast noncoding RNA processing in Plasmodium falciparum.
 40577062	Repurposing sulfonamide-scaffolds for enhanced and sustainable malaria therapy.
 40576765	Historical analysis of the directors of university institutes of pharmacology in Germany and Austria in the period 1918-1963.
@@ -527,7 +529,7 @@
 40398985	Molecular identification of anopheline mosquitoes in goat farms of Menoreh Highland, Kulon Progo, Yogyakarta.
 40398947	Sulfadoxine-pyrimethamine alone or with azithromycin for the intermittent preventive treatment of malaria in pregnancy: protocol for a systematic review and meta-analysis.
 40398681	Clinical decision support system to guide antimicrobial selection: a narrative review from 2019 to 2023.
-40398604	MULTIPLE, REDUNDANT CARBOXYLIC ACID TRANSPORTERS SUPPORT MITOCHONDRIAL METABOLISM IN PLASMODIUM FALCIPARUM.
+40398604	Multiple, redundant carboxylic acid transporters support mitochondrial metabolism in Plasmodium falciparum.
 40396699	The Owl Monkey (Aotus spp.) as an Animal Research Model. Part 3: Research Use and Diseases.
 40396655	Recognizing post malaria neurological syndrome in travellers: insights from three cases.
 40395990	Metamorphosis and development of malaria parasites in the liver are regulated by unconventional autophagy.
@@ -9995,5 +9997,3 @@
 37104305	Permethrin-treated baby wraps for the prevention of malaria in children: Protocol for a double-blind, randomized placebo-controlled controlled trial in western Uganda.
 37104019	Serological Cross-Reaction between Six Thiadiazine by Indirect ELISA Test and Their Antimicrobial Activity.
 37103994	Spatiotemporal and Seasonal Trends of Class A and B Notifiable Infectious Diseases in China: Retrospective Analysis.
-37103365	Marine-Derived Lead Fascaplysin: Pharmacological Activity, Total Synthesis, and Structural Modification.
-37102486	A Quinquennial Review on Recent Advancements and Developments in Search of Anti-malarial Agents.
