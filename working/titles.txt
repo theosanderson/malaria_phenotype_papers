@@ -1,3 +1,5 @@
+40577132	RAP proteins regulate apicoplast noncoding RNA processing in Plasmodium falciparum.
+40577062	Repurposing sulfonamide-scaffolds for enhanced and sustainable malaria therapy.
 40576765	Historical analysis of the directors of university institutes of pharmacology in Germany and Austria in the period 1918-1963.
 40576381	Chromosomal inversions and their potential impact on the evolution of arboviral vector Aedes aegypti.
 40576352	Pulling the Drug Out From Underneath: Ethical Considerations in the Discontinuation of the Antimalarial Quinidine.
@@ -145,6 +147,13 @@
 40519803	Malaria and associated factors among pregnant women in Sekyere East District Ghana: a cross-sectional survey.
 40518540	Efficacy of chloroquine with primaquine for uncomplicated Plasmodium vivax malaria without G6PD testing in Northwest Ethiopia: a one-arm in vivo prospective therapeutic efficacy study.
 40517226	Multiple micronutrient supplementation for maternal anemia prevention (MMS-MAP): an individually randomized trial of higher-dose iron (60 mg, 45 mg) compared to low-dose iron (30 mg) in multiple micronutrient supplements in pregnancy.
+30000766	Primaquine.
+30000752	Atovaquone.
+30000538	Atovaquone and Proguanil.
+30000533	Artesunate.
+30000442	Permethrin.
+30000209	Hydroxychloroquine.
+30000205	Chloroquine.
 40514714	Comprehensive analysis of molecular markers linked to antimalarial drug resistance in Plasmodium falciparum in Northern, Northeastern and Eastern Uganda.
 40514700	Phenotypic and genotypic insecticide resistance profiles of main malaria vectors in Kwale county, coastal Kenya.
 40514561	An atypical Arp2/3 complex is required for Plasmodium DNA segregation and malaria transmission.
@@ -600,11 +609,7 @@
 40369344	A modular mRNA vaccine platform encoding antigen-presenting capsid virus-like particles enhances the immunogenicity of the malaria antigen Pfs25.
 40369090	PI3-kinase has multiple functions in asexual blood stages of Plasmodium falciparum.
 40368280	Mosquito sex determination: recent advances and applications.
-30000766	Primaquine.
-30000538	Atovaquone and Proguanil.
 30000213	Mefloquine.
-30000209	Hydroxychloroquine.
-30000205	Chloroquine.
 40367293	Prevalence and determinants of anemia among pregnant women attending maternal and child health clinics at Sukuta Health Center, The Gambia: An institutional-based cross-sectional study.
 40367238	Allosteric modulation of Plasmodium falciparum Isoleucyl tRNA synthetase by South African natural compounds.
 40367150	Advancing Early Warning Systems for Malaria: Progress, challenges, and future directions - A scoping review.
@@ -2572,7 +2577,6 @@
 39656701	Assessing species composition and insecticide resistance of Anopheles gambiae complex members in three coastal health districts of Côte d'Ivoire.
 39656696	Association of COVID-19-related perceptions and experiences with depression and anxiety in Ugandan caregivers of young children with malaria and iron deficiency: A cross-sectional study.
 39656683	Protecting the most vulnerable: The urgent need to include HIV-exposed children in malaria chemoprevention strategies.
-30000442	Permethrin.
 39673767	Maternal health planning and prioritization in Chad: developing a supportive tool.
 39673632	Correction to: The expansion of an invasive malaria vector: Anopheles stephensi emergence in Arba Minch town in the southern Rift Valley of Ethiopia.
 39673260	Seasonal fluctuation of insecticide resistance mutation frequencies in field populations of Anopheles and Culex species in Korea.
@@ -3354,7 +3358,6 @@
 39402380	Generation of a new DiCre expressing parasite strain for functional characterization of Plasmodium falciparum genes in blood stages.
 39402081	Computational approach for decoding malaria drug targets from single-cell transcriptomics and finding potential drug molecule.
 39401504	Safety and efficacy of iron supplementation with 3 months of daily ferrous sulphate in children living with HIV and mild-to-moderate anaemia in Uganda: a double-blind, randomised, placebo-controlled trial.
-30000533	Artesunate.
 39400985	Anti-Malarial Activity of Amentoflavone Isolated from Leaf of Calophyllum Tomentosum Wight.
 39400962	Exploring the Antimalarial Potential of Entandrophragma Utile and Melochia Umbellata Extracts.
 39400721	Relationship between red blood cell polymorphisms and effectiveness of seasonal malaria chemoprevention in 2020 in Dangassa, Mali.
@@ -4470,7 +4473,6 @@
 39005341	Identification of mCMQ069, a novel antimalarial with potential for a single-dose cure and/or 28-day chemoprevention.
 39004192	In vitro, in vivo and in silico antiplasmodial profiling of the aqueous extract of Hibiscus asper HOOK F. Leaf (Malvaceae).
 39004030	Synergic effects and possible mechanism of emodin and stilbene glycosides on colorectal cancer.
-30000752	Atovaquone.
 39003571	Structure-function analysis of nucleotide housekeeping protein HAM1 from human malaria parasite Plasmodium falciparum.
 39003498	The C-terminal region of the Plasmodium berghei gamete surface 184-kDa protein Pb184 contributes to fertilization and male gamete binding to the residual body.
 39003288	Asymptomatic malaria and predictors among migrant farmworkers East Shewa zone Oromia Ethiopia.
@@ -9995,5 +9997,3 @@
 37103994	Spatiotemporal and Seasonal Trends of Class A and B Notifiable Infectious Diseases in China: Retrospective Analysis.
 37103365	Marine-Derived Lead Fascaplysin: Pharmacological Activity, Total Synthesis, and Structural Modification.
 37102486	A Quinquennial Review on Recent Advancements and Developments in Search of Anti-malarial Agents.
-37102339	Knockdown of Anopheles dirus far upstream element-binding protein gene lower oocyst numbers of Plasmodium vivax.
-37101295	Retinal imaging technologies in cerebral malaria: a systematic review.
