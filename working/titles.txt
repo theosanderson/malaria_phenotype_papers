@@ -1,3 +1,11 @@
+40590022	Molecular Prevalence and Identification of Zoonotic Plasmodium spp., Including Plasmodium knowlesi, Plasmodium cynomolgi, and Plasmodium inui, in Long-Tailed Macaques (Macaca fascicularis) of Southern Thailand.
+40589812	Acute respiratory infections and its associated risk factors among children aged 6-59 months in Ghana: a multinomial regression analysis of the 2022 demographic and health survey.
+40589474	"From the river to the sea, Palestine will be free" - a chant that hampers the very foundation of malaria elimination around the world.
+40589437	Investigations of amination reactions on an antimalarial 1,2,4-triazolo[4,3-a]pyrazine scaffold.
+40588993	A Comprehensive Review on the Pharmacokinetics and Bioanalysis of Piperaquine.
+40588593	High-resolution map of the Plasmodium falciparum genome reveals MORC/ApiAP2-mediated links between distant, functionally related genes.
+40588071	Antimalarial Potentials, Toxicological Impacts, and Gas Chromatography-Mass Spectrometric Analysis of Ethanol Extract of Spondias mombin Linn.
+40587974	Potential Candidates of Natural Antioxidants From Herbs for Treating Lung Disorders: Focus on Redox Balance and Natural Products.
 40586491	Invasive and native mosquitoes in Europe, including Poland, as vectors transmitting pathogens - implications for wellbeing of Armed Forces.
 40585515	Outcomes and factors associated with severe malaria-related anaemia in paediatric patients in northern Nigeria.
 40585511	A health facility-based assessment of the ancillary benefit for prevention of anaemia at term of intermittent preventive therapy with sulfadoxine-pyrimethamine in pregnancy.
@@ -9989,11 +9997,3 @@
 37111431	Novel Experimental Mouse Model to Study Malaria-Associated Acute Kidney Injury.
 37111408	Pathogenesis of Cerebral Malaria: New Trends and Insights for Developing Adjunctive Therapies.
 37111366	Curcumin and Its Derivatives as Potential Antimalarial and Anti-Inflammatory Agents: A Review on Structure-Activity Relationship and Mechanism of Action.
-37111135	Correlation of Cytokines with Parasitic Infections, Undernutrition and Micronutrient Deficiency among Schoolchildren in Rural Tanzania: A Cross-Sectional Study.
-37110591	Computational Exploration of Licorice for Lead Compounds against Plasmodium vivax Duffy Binding Protein Utilizing Molecular Docking and Molecular Dynamic Simulation.
-37110346	Pediatric Malaria with Respiratory Distress: Prognostic Significance of Point-of-Care Lactate.
-37110135	In Vitro Evaluation Reveals Effect and Mechanism of Artemether against Toxoplasma gondii.
-37108709	Sickle Cell Hemoglobin Genotypes Affect Malaria Parasite Growth and Correlate with Exosomal miR-451a and let-7i-5p Levels.
-37108438	Changes in K(+) Concentration as a Signaling Mechanism in the Apicomplexa Parasites Plasmodium and Toxoplasma.
-37108334	Prenyl Transferases Regulate Secretory Protein Sorting and Parasite Morphology in Toxoplasma gondii.
-37108083	Structure-Based Design and Pharmacophore-Based Virtual Screening of Combinatorial Library of Triclosan Analogues Active against Enoyl-Acyl Carrier Protein Reductase of Plasmodium falciparum with Favourable ADME Profiles.
