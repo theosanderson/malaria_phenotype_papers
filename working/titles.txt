@@ -1,3 +1,20 @@
+40586491	Invasive and native mosquitoes in Europe, including Poland, as vectors transmitting pathogens - implications for wellbeing of Armed Forces.
+40585515	Outcomes and factors associated with severe malaria-related anaemia in paediatric patients in northern Nigeria.
+40585511	A health facility-based assessment of the ancillary benefit for prevention of anaemia at term of intermittent preventive therapy with sulfadoxine-pyrimethamine in pregnancy.
+40585102	CYP2B6 * 6 single nucleotide polymorphism among patients with uncomplicated malaria in Adjumani district, Uganda: implications on efficacy of artemether-lumefantrine.
+40584362	IFN‑γ Production in Memory CD4 (+) T Cells in Response to MSP1(19) Antigen and Its Correlation with Anemia and Thrombocytopenia in Pediatric Vivax Malaria.
+40583778	Apocynin may alleviate side effects of autophagy-blocked radiotherapy through antioxidant effects.
+40583642	Strengthening Research Ethics Capacity in West Africa, 2015-2024.
+40582470	Investigation of the viral causes of febrile jaundice in Burkina Faso through metagenomic sequencing.
+40582050	Habitat drivers and predicted distribution shifts of Anopheles coluzzii under climate change: Results from the systematic review.
+40587574	TLR9 gene polymorphism -1237T/C (rs5743836) is associated with low IgG antibody response against PvCSP variants in symptomatic P. vivax infections in Venezuela.
+40587572	Malaria prevention in the age of climate change: A community survey in rural Senegal.
+40587449	Dengue diagnosis and impact on clinical management: A literature review.
+40586966	Traditional medicine meets modern science: Halofuginone's role in combating autoimmune diseases.
+40586818	Characterization of the malaria parasite Plasmodium falciparum Tepsin homolog.
+40581744	Economic value of pre-travel health interventions for communicable diseases in international travellers.
+40580989	Implications of progressive lung damage and post-tuberculosis sequelae for the health benefits of prompt tuberculosis treatment in high HIV prevalence settings: a mathematical modelling analysis.
+40579769	Impact of the COVID-19 pandemic on TB epidemiology.
 40578841	Genetic markers at the crossroads: toll-like receptor polymorphisms and Plasmodium vivax malaria parasitological aspects from the Brazil-French Guiana border.
 40578380	Unveiling the incidences and trends of alveolar echinococcosis in Europe: a systematic review from the KNOW-PATH project.
 40577132	RAP proteins regulate apicoplast noncoding RNA processing in Plasmodium falciparum.
@@ -189,7 +206,7 @@
 40504840	Community surveys of the prevalence, distribution, and coinfection of helminth and protozoan infections in semiurban and rural areas of Gabon, Central Africa.
 40504833	Factors associated with recurrent malaria episodes among children under five at Kayunga Regional Referral Hospital in Kayunga District, Central Uganda.
 40504790	Imported malaria in Cabo Verde (2010-2024): Risks to post-elimination stability.
-40504040	Antiprotozoal activity of highly substituted pyrazole and pyrimidine derivates.
+40504040	Antiprotozoal Activity of Highly Substituted Pyrazole and Pyrimidine Derivatives.
 40503710	Spectrophotometric analysis of artesunate injections available in community pharmacies in Northern and Western Uganda.
 40503635	Digital PCR reveals high PvDBP1 but not PvEBP/DBP2 and PvRBP2b copies in Plasmodium vivax from Duffy-negative Individuals in Central Africa.
 40503613	Priming or Boosting P. falciparum Transmission Blocking Responses with Recombinant Vaccines or Gametocyte Extract.
@@ -9980,20 +9997,3 @@
 37108438	Changes in K(+) Concentration as a Signaling Mechanism in the Apicomplexa Parasites Plasmodium and Toxoplasma.
 37108334	Prenyl Transferases Regulate Secretory Protein Sorting and Parasite Morphology in Toxoplasma gondii.
 37108083	Structure-Based Design and Pharmacophore-Based Virtual Screening of Combinatorial Library of Triclosan Analogues Active against Enoyl-Acyl Carrier Protein Reductase of Plasmodium falciparum with Favourable ADME Profiles.
-37108071	Microvascular Environment Influences Brain Microvascular Heterogeneity: Relative Roles of Astrocytes and Oligodendrocytes for the EPCR Expression in the Brain Endothelium.
-37106350	Reactive surveillance and response strategies for malaria elimination in Myanmar: a literature review.
-37105620	Recombinant expression and characterization of GSTd3 from a resistant population of Anopheles arabiensis and comparison of DDTase activity with GSTe2.
-37104477	Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia.
-37104473	Urban malaria may be spreading via the wind-here's why that's important.
-37104360	Synthesis of Qualitative Evidence on Malaria in Pregnancy, 2005-2022: A Systematic Review.
-37104342	Evaluating COVID-19-Related Disruptions to Effective Malaria Case Management in 2020-2021 and Its Potential Effects on Malaria Burden in Sub-Saharan Africa.
-37104341	A Multi-Species Simulation of Mosquito Disease Vector Development in Temperate Australian Tidal Wetlands Using Publicly Available Data.
-37104336	Genetic Diversity of Plasmodium vivax Field Isolates from the Thai-Myanmar Border during the Period of 2006-2016.
-37104327	The Promise and Challenge of Genetic Biocontrol Approaches for Malaria Elimination.
-37104326	Point-of-Care Diagnosis of Malaria Using a Simple, Purification-Free DNA Extraction Method Coupled with Loop-Mediated Isothermal Amplification-Lateral Flow.
-37104321	Feasibility and Acceptability of a Strategy Deploying Multiple First-Line Artemisinin-Based Combination Therapies for Uncomplicated Malaria in the Health District of Kaya, Burkina Faso.
-37104316	Association between Rhesus Blood Groups and Malaria Infection: A Systematic Review and Meta-Analysis.
-37104310	Drug Resistance Molecular Markers of Plasmodium falciparum and Severity of Malaria in Febrile Children in the Sentinel Site for Malaria Surveillance of Melen in Gabon: Additional Data from the Plasmodium Diversity Network African Network.
-37104305	Permethrin-treated baby wraps for the prevention of malaria in children: Protocol for a double-blind, randomized placebo-controlled controlled trial in western Uganda.
-37104019	Serological Cross-Reaction between Six Thiadiazine by Indirect ELISA Test and Their Antimicrobial Activity.
-37103994	Spatiotemporal and Seasonal Trends of Class A and B Notifiable Infectious Diseases in China: Retrospective Analysis.
