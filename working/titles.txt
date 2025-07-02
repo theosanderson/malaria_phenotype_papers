@@ -1,7 +1,8 @@
+40592953	Functional characterisation of components in two Plasmodium falciparum Cullin-RING-Ligase complexes.
+40592757	Azithromycin as adjunctive treatment for uncomplicated severe acute malnutrition (AMOUR): study protocol for a double-masked randomised controlled trial.
 40591906	A human monoclonal antibody targeting α-Gal ameliorates experimental cutaneous leishmaniasis.
 40591878	Exploring Plant-Derived Natural Products Against Plasmodium falciparum Malaria Causative Agent by Targeting Protein Kinase 5: Insights Into Computational Approaches.
 40590713	Targeting anemia-induced CD71(+) reticulocytes protects mice from Plasmodium infection.
-40590600	Severe Bilateral Glossopharyngeal Neuralgia Managed With Nerve Blocks Following Plasmodium falciparum Malaria Infection Treated With Mefloquine.
 40590022	Molecular Prevalence and Identification of Zoonotic Plasmodium spp., Including Plasmodium knowlesi, Plasmodium cynomolgi, and Plasmodium inui, in Long-Tailed Macaques (Macaca fascicularis) of Southern Thailand.
 40589812	Acute respiratory infections and its associated risk factors among children aged 6-59 months in Ghana: a multinomial regression analysis of the 2022 demographic and health survey.
 40589474	"From the river to the sea, Palestine will be free" - a chant that hampers the very foundation of malaria elimination around the world.
@@ -5769,6 +5770,7 @@
 38562542	Investigating the Presence of Falsified and Poor-Quality Fixed-Dose Combination Artemether-Lumefantrine Pharmaceutical Dosage Forms in Kumasi, Ghana.
 38562219	Epstein - Barr Virus Salivary Shedding in Patients with Acute Infectious Diseases: A Pilot Study.
 38562204	Age-group associations of schistosomiasis prevalence from trial data, Côte d'Ivoire, Kenya and the United Republic of Tanzania.
+40590600	Severe Bilateral Glossopharyngeal Neuralgia Managed With Nerve Blocks Following Plasmodium falciparum Malaria Infection Treated With Mefloquine.
 38560593	Food insecurity and associated health and social determinants among older adults in Ghana: Analysis of the WHO's study on global AGEing and adult health (SAGE), 2014-2015.
 38560466	Variation and trade-offs in life history traits of the protist parasite Monocystis perplexa (Apicomplexa) in its earthworm host Amynthas agrestis.
 38560365	Audit of essential medicine listing and registration status of medicines on standard treatment guidelines in Kenya, Tanzania and Uganda: Case study of malaria, tuberculosis, hypertension and type 2 diabetes mellitus.
@@ -9995,5 +9997,3 @@
 37112866	Thrombophilia and Immune-Related Genetic Markers in Long COVID.
 37112704	A Critical Review on Human Malaria and Schistosomiasis Vaccines: Current State, Recent Advancements, and Developments.
 37111735	Predicting Hydroxychloroquine Clearance in Healthy and Diseased Populations Using a Physiologically Based Pharmacokinetic Approach.
-37111706	Establishment of an Antiplasmodial Vaccine Based on PfRH5-Encoding RNA Replicons Stabilized by Cationic Liposomes.
-37111647	Antiplasmodial Activity of Hydroalcoholic Extract from Jucá (Libidibia ferrea) Pods.
