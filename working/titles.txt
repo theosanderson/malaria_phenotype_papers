@@ -1,3 +1,45 @@
+40600283	Epidemiology of malaria in Chhattisgarh, India: a surveillance data analysis, 2015-2023.
+40599445	Effect of Three Insect Growth Regulators on The Avian Malaria Vector-Culiseta longiareolata Larvae- Field Population.
+40598611	Widespread distribution of Aedes aegypti larvae, a potential risk of arbovirus transmission in the Grand Lomé health region, Togo, West Africa.
+40598575	Role of mast cell-derived exosomes in exacerbating neuronal injury of experimental cerebral malaria.
+40598570	A sialic acid-binding protein in Toxoplasma gondii contains a conserved globular domain in apicomplexan parasites.
+40598517	Assessing the gap between policy and practice: community health workers' contributions to nutrition services in Sub-Saharan Africa.
+40598505	Characterizing the larval habitats of the main malaria vector, Anopheles stephensi, in southern Iran.
+40598502	Evaluating the biological quality of mass-reared Anopheles arabiensis males irradiated as pupae or as adults.
+40598452	Evaluating Sri Lanka's malaria re-establishment prevention using IHR and JEE frameworks.
+40598386	Development of a new wealth index for South Sudan: association between household wealth and malaria prevention practices in the context of seasonal malaria chemoprevention in Northern Bahr el Ghazal, South Sudan.
+40598204	Sibling species composition and feeding pattern of malaria vectors in indoor-sprayed and non-sprayed districts of Lira and Kole, northern Uganda.
+40598187	Artemisinin and partner drug resistance markers in Plasmodium falciparum from Tanzanian paediatric malaria patients, 2016-2022.
+40598178	Single low dose primaquine to block the transmission of Plasmodium falciparum-proposed stand-alone and ACT-adapted regimens.
+40598172	Trends of malaria incidence, prevalence, mortality, and disability-adjusted life years in Eastern Africa region from 1990 to 2021: a systematic analysis from Global Burden of Disease 2021 study.
+40598170	Modelling the effects of precipitation and temperature on malaria incidence in coastal and western Kenya.
+40598164	Assessing the accuracy of the recording and reporting of malaria rapid diagnostic test results in four African countries: methods and key results.
+40597760	Provider cost estimation of leptospirosis at district general hospital Monaragala, Sri Lanka.
+40597736	Forecasting tuberculosis in Ethiopia using deep learning: progress toward sustainable development goal evidence from global burden of disease 1990-2021.
+40597727	Distribution of Anopheles gambiae s.l siblings, insecticide resistance and prevalence of markers of resistance (Kdr & Ace-1) in Edea and Buea: forest region of Cameroon.
+40597647	Genomic surveillance reveals geographical heterogeneity and differences in known and novel insecticide resistance mechanisms in Anopheles arabiensis across Kenya.
+40597624	Comprehensive genomic study of Plasmodium falciparum in Sierra leone: genetic variation and resistance patterns.
+40597597	An insight into the draft genome of the Oriental rat flea, Xenopsylla cheopis, together with its Wolbachia endosymbiont.
+40597580	Genome assembly and annotation of Babesia rossi, a protozoan parasite for canine babesiosis.
+40597346	Neonatal and congenital malaria (NCM): a case series in the Tigray region, northern Ethiopia.
+40597339	Assessing Anopheles species collection techniques in a low malaria transmission area: implications for vector surveillance and control.
+40597291	Assessing the community-level impact of group antenatal care on uptake of intermittent preventive treatment for malaria in pregnancy in Atlantique Department, Benin, 2021-2023: a cluster randomized controlled trial.
+40597261	Phylogenetic taxonomy of the Zambian Anopheles coustani group using a mitogenomics approach.
+40597115	Evaluation of the Wondfo G6PD/Hb Test for glucose-6-phosphate dehydrogenase deficiency: preliminary performance, matrix equivalence, and usability.
+40596648	A comprehensive overview of the burden, prevention, and therapeutic aspects of arboviral diseases in India.
+40596524	Assessment of the infectivity of malaria parasites from asymptomatic school children to Anopheles gambiae mosquitoes in a high transmission area in Ghana.
+40596118	Biotransformation of medicarpin from homopterocarpin by Aspergillus niger and its biological characterization.
+40595893	Prevalence and clinical impact of severe anaemia in referral hospitals in southern Benin.
+40595844	Deep learning-based automated detection and multiclass classification of soil-transmitted helminths and Schistosoma mansoni eggs in fecal smear images.
+40595312	Future global distribution and climatic suitability of Anopheles stephensi.
+40595308	Pre-exposure prophylaxis knowledge as a mediator between eligibility and intention to use among voluntary counselling and testing clients, Thailand.
+40595144	Development and validation of a multiplex PCR assay with melt curve analysis for detecting simian Plasmodium in wild Macaca fascicularis.
+40595098	Assessments of Anopheles arabiensis behaviour around bed nets using partial adhesive treatments.
+40594579	First detection and entomological characterisation of invasive malaria vector Anopheles stephensi in sympatry with other vectors in Gayi Southern Niger Republic.
+40594221	Global trends, health inequalities, and projections in the burden of neglected tropical diseases and malaria from 1990 to 2021.
+40594106	Caveolin-1 inhibits the proliferation and invasion of lung adenocarcinoma via EGFR degradation.
+40593971	Mitogenomes of mosquito species of Harris County in Texas.
+40593530	Characterizing trachoma elimination using serology.
 40592953	Functional characterisation of components in two Plasmodium falciparum Cullin-RING-Ligase complexes.
 40592757	Azithromycin as adjunctive treatment for uncomplicated severe acute malnutrition (AMOUR): study protocol for a double-masked randomised controlled trial.
 40591906	A human monoclonal antibody targeting α-Gal ameliorates experimental cutaneous leishmaniasis.
@@ -9955,45 +9997,3 @@
 37127669	Plasmodium falciparum kelch13 polymorphisms identified after treatment failure with artemisinin-based combination therapy in Niger.
 37127633	Coverage of intermittent preventive treatment of malaria in infants after four years of implementation in Sierra Leone.
 37127600	Prevalence of G6PD deficiency and diagnostic accuracy of a G6PD point-of-care test among a population at risk of malaria in Myanmar.
-37127597	Comparative assessment of the bacterial communities associated with Anopheles darlingi immature stages and their breeding sites in the Brazilian Amazon.
-37127276	Why Did Black Soldiers Historically Have More Pneumonia Than White Soldiers in the U.S. Army?
-37127270	Declining Age-Specific Seroprevalence and Seroconversion Rates in Plasmodium falciparum from 2009 to 2018 Documents Progress toward Malaria Elimination in Southern Zambia.
-37127264	Investigation of Four Cases of Stevens-Johnson Syndrome among Participants in a Mass Drug Administration Campaign with Sulfadoxine-Pyrimethamine and Primaquine in Haiti, 2020.
-37126728	Advanced Nitric Oxide Generating Nanomedicine for Therapeutic Applications.
-37126705	Direct tests of cytochrome c and c(1) functions in the electron transport chain of malaria parasites.
-37126484	Impact of COVID-19 pandemic and anti-pandemic measures on tuberculosis, viral hepatitis, HIV/AIDS and malaria-A systematic review.
-37126065	The Critical Role of Disease and Non-Battle Injuries in Soldiers Isolated on Pacific Islands During the Second World War.
-37125449	Status of Blood Levels of Superoxide Dismutase in Patients with Malaria: A Systematic Review and Meta-Analysis.
-37124936	Perceived Health System Challenges of Implementing Cross-Border Malaria Preventive Measures at Ports of Entry in KwaZulu-Natal.
-37124906	Applying Intervention-Mapping Approach to Develop a Health-Related Intervention and Malaria Prevention for International Students.
-37124770	Born too soon in a resource-limited setting: A 10-year mixed methods review of a special care baby unit for refugees and migrants on the Myanmar-Thailand border.
-37124090	Population structure and invasion history of Aedes aegypti (Diptera: Culicidae) in Southeast Asia and Australasia.
-37124088	Insecticide resistance management strategies for public health control of mosquitoes exhibiting polygenic resistance: A comparison of sequences, rotations, and mixtures.
-37124034	Characterization of anti-erythrocyte and anti-platelet antibodies in hemolytic anemia and thrombocytopenia induced by Plasmodium spp. and Babesiaspp. infection in mice.
-37123939	Malaria prevalence in Pakistan: A systematic review and meta-analysis (2006-2021).
-37123576	Pelvic Ultrasound Imaging-Based Prevalence of Gynecological Morbidity in a Population of Asymptomatic Reproductive-Age Women Attending a Healthcare Outreach Program in the Andaman and Nicobar Islands of India.
-37122755	Editorial: Interactions between COVID-19 and malaria.
-37122742	The influence of high glucose conditions on macrophages and its effect on the autophagy pathway.
-37122725	Characterization of a novel Plasmodium falciparum merozoite surface antigen and potential vaccine target.
-37122550	Dimeric polyphenols to pave the way for new antimalarial drugs.
-37122241	Effect of α(+) Thalassemia on the Severity of Plasmodium falciparum Malaria in Different Sickle Cell Genotypes in Indian Adults: A Hospital-Based Study.
-37121914	Association between vitamin D status and eryptosis-results from the German National Cohort Study.
-37121862	The role of long noncoding RNAs in malaria parasites.
-37121409	New antiprotozoal sesquiterpene derivatives from Dorema glabrum Fisch & C.A.Mey.
-37120518	CDC light traps underestimate the protective efficacy of an indoor spatial repellent against bites from wild Anopheles arabiensis mosquitoes in Tanzania.
-37119859	Bioactivity assays and phytochemical analysis upon Alcea glabrata; focusing on xanthine oxidase inhibitory and antimalarial properties.
-37119244	Evaluation of quantitative point-of-care test for measurement of glucose-6-phosphate dehydrogenase enzyme activity in Malaysia.
-37118968	A linked physiologically based pharmacokinetic model for hydroxychloroquine and metabolite desethylhydroxychloroquine in SARS-CoV-2(-)/(+) populations.
-37118819	Bispecific T cell-engager targeting oncofetal chondroitin sulfate induces complete tumor regression and protective immune memory in mice.
-37118364	RNA sequencing in Artemisia annua L explored the genetic and metabolic responses to hardly soluble aluminum phosphate treatment.
-37117399	pWCP is a widely distributed and highly conserved Wolbachia plasmid in Culex pipiens and Culex quinquefasciatus mosquitoes worldwide.
-37117261	Ancient DNA suggests anaemia and low bone mineral density as the cause for porotic hyperostosis in ancient individuals.
-37116732	Molecular and cellular effects of in vivo chronic intravascular hemolysis and anti-inflammatory therapeutic approaches.
-39816817	Identification of an in vitro artemisinin-resistant Plasmodium falciparum kelch13 R515K mutant parasite in Senegal.
-37116195	Antimalarial potential, LC-MS secondary metabolite profiling and computational studies of Zingiber officinale.
-37115773	Mathematical modeling of the performance of wild and transgenic mosquitoes in malaria transmission.
-37112979	Virulence Profiles of Wild-Type, P.1 and Delta SARS-CoV-2 Variants in K18-hACE2 Transgenic Mice.
-37112878	Antibody Response to the SARS-CoV-2 Spike and Nucleocapsid Proteins in Patients with Different COVID-19 Clinical Profiles.
-37112866	Thrombophilia and Immune-Related Genetic Markers in Long COVID.
-37112704	A Critical Review on Human Malaria and Schistosomiasis Vaccines: Current State, Recent Advancements, and Developments.
-37111735	Predicting Hydroxychloroquine Clearance in Healthy and Diseased Populations Using a Physiologically Based Pharmacokinetic Approach.
