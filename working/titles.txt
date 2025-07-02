@@ -1,3 +1,7 @@
+40591906	A human monoclonal antibody targeting α-Gal ameliorates experimental cutaneous leishmaniasis.
+40591878	Exploring Plant-Derived Natural Products Against Plasmodium falciparum Malaria Causative Agent by Targeting Protein Kinase 5: Insights Into Computational Approaches.
+40590713	Targeting anemia-induced CD71(+) reticulocytes protects mice from Plasmodium infection.
+40590600	Severe Bilateral Glossopharyngeal Neuralgia Managed With Nerve Blocks Following Plasmodium falciparum Malaria Infection Treated With Mefloquine.
 40590022	Molecular Prevalence and Identification of Zoonotic Plasmodium spp., Including Plasmodium knowlesi, Plasmodium cynomolgi, and Plasmodium inui, in Long-Tailed Macaques (Macaca fascicularis) of Southern Thailand.
 40589812	Acute respiratory infections and its associated risk factors among children aged 6-59 months in Ghana: a multinomial regression analysis of the 2022 demographic and health survey.
 40589474	"From the river to the sea, Palestine will be free" - a chant that hampers the very foundation of malaria elimination around the world.
@@ -6,6 +10,11 @@
 40588593	High-resolution map of the Plasmodium falciparum genome reveals MORC/ApiAP2-mediated links between distant, functionally related genes.
 40588071	Antimalarial Potentials, Toxicological Impacts, and Gas Chromatography-Mass Spectrometric Analysis of Ethanol Extract of Spondias mombin Linn.
 40587974	Potential Candidates of Natural Antioxidants From Herbs for Treating Lung Disorders: Focus on Redox Balance and Natural Products.
+40587574	TLR9 gene polymorphism -1237T/C (rs5743836) is associated with low IgG antibody response against PvCSP variants in symptomatic P. vivax infections in Venezuela.
+40587572	Malaria prevention in the age of climate change: A community survey in rural Senegal.
+40587449	Dengue diagnosis and impact on clinical management: A literature review.
+40586966	Traditional medicine meets modern science: Halofuginone's role in combating autoimmune diseases.
+40586818	Characterization of the malaria parasite Plasmodium falciparum Tepsin homolog.
 40586491	Invasive and native mosquitoes in Europe, including Poland, as vectors transmitting pathogens - implications for wellbeing of Armed Forces.
 40585515	Outcomes and factors associated with severe malaria-related anaemia in paediatric patients in northern Nigeria.
 40585511	A health facility-based assessment of the ancillary benefit for prevention of anaemia at term of intermittent preventive therapy with sulfadoxine-pyrimethamine in pregnancy.
@@ -15,11 +24,6 @@
 40583642	Strengthening Research Ethics Capacity in West Africa, 2015-2024.
 40582470	Investigation of the viral causes of febrile jaundice in Burkina Faso through metagenomic sequencing.
 40582050	Habitat drivers and predicted distribution shifts of Anopheles coluzzii under climate change: Results from the systematic review.
-40587574	TLR9 gene polymorphism -1237T/C (rs5743836) is associated with low IgG antibody response against PvCSP variants in symptomatic P. vivax infections in Venezuela.
-40587572	Malaria prevention in the age of climate change: A community survey in rural Senegal.
-40587449	Dengue diagnosis and impact on clinical management: A literature review.
-40586966	Traditional medicine meets modern science: Halofuginone's role in combating autoimmune diseases.
-40586818	Characterization of the malaria parasite Plasmodium falciparum Tepsin homolog.
 40581744	Economic value of pre-travel health interventions for communicable diseases in international travellers.
 40580989	Implications of progressive lung damage and post-tuberculosis sequelae for the health benefits of prompt tuberculosis treatment in high HIV prevalence settings: a mathematical modelling analysis.
 40579769	Impact of the COVID-19 pandemic on TB epidemiology.
@@ -9993,7 +9997,3 @@
 37111735	Predicting Hydroxychloroquine Clearance in Healthy and Diseased Populations Using a Physiologically Based Pharmacokinetic Approach.
 37111706	Establishment of an Antiplasmodial Vaccine Based on PfRH5-Encoding RNA Replicons Stabilized by Cationic Liposomes.
 37111647	Antiplasmodial Activity of Hydroalcoholic Extract from Jucá (Libidibia ferrea) Pods.
-37111562	Estimation of Pediatric Dosage of Antimalarial Drugs, Using Pharmacokinetic and Physiological Approach.
-37111431	Novel Experimental Mouse Model to Study Malaria-Associated Acute Kidney Injury.
-37111408	Pathogenesis of Cerebral Malaria: New Trends and Insights for Developing Adjunctive Therapies.
-37111366	Curcumin and Its Derivatives as Potential Antimalarial and Anti-Inflammatory Agents: A Review on Structure-Activity Relationship and Mechanism of Action.
