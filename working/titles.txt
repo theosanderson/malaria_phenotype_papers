@@ -1,3 +1,4 @@
+40600945	Insect repellents.
 40600283	Epidemiology of malaria in Chhattisgarh, India: a surveillance data analysis, 2015-2023.
 40599445	Effect of Three Insect Growth Regulators on The Avian Malaria Vector-Culiseta longiareolata Larvae- Field Population.
 40598611	Widespread distribution of Aedes aegypti larvae, a potential risk of arbovirus transmission in the Grand Lomé health region, Togo, West Africa.
@@ -9996,4 +9997,3 @@
 37127688	Plasmodium falciparum gametocyte carriage in longitudinally monitored incident infections is associated with duration of infection and human host factors.
 37127669	Plasmodium falciparum kelch13 polymorphisms identified after treatment failure with artemisinin-based combination therapy in Niger.
 37127633	Coverage of intermittent preventive treatment of malaria in infants after four years of implementation in Sierra Leone.
-37127600	Prevalence of G6PD deficiency and diagnostic accuracy of a G6PD point-of-care test among a population at risk of malaria in Myanmar.
