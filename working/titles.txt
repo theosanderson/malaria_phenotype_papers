@@ -91,6 +91,7 @@
 40571279	Corrigendum to 'Kinetics of the Alethia® Malaria LAMP positivity during Post-treatment Follow-up of Patients with imported Malaria' [Clinical Microbiology and Infection journal. Volume 31, Issue 6, June 2025, Pages 1069-1070].
 40571064	Novel compounds from Gentiana purpurea L. and their anti-plasmodial evaluation.
 40570747	The success of toll-like receptor 4 based vaccine adjuvants.
+39441945	Tinospora.
 40570391	Multi-pathogen wastewater surveillance in Malawi: An assessment of culture-based, RT-PCR, and long-read metagenomics methods with multiple ongoing outbreaks.
 40570199	Elevated suPAR levels, organ dysfunction and death in children hospitalized with malaria: considerations for use as a risk stratification tool.
 40570150	From skin to sequence: pan-species detection and speciation of Leishmania.
@@ -3624,7 +3625,6 @@
 39341268	New Malaria vaccine a boon to Endemic regions - Doubling efficacy rates, at lower cost.
 39341265	Aphrodisiac activity of aqueous extract of Anthonotha macrophylla (P. Beauv) leaves in paroxetine-induced sexual dysfunction male Wistar rats.
 39341110	Red blood cell passage through deformable interendothelial slits in the spleen: Insights into splenic filtration and hemodynamics.
-39441945	Tinospora.
 39340709	Anti-glomerular basement membrane disease complicated by malaria during pregnancy with successful maternal and fetal outcomes: a case report.
 39340117	Correction: Cao et al. Effective Functional Immunogenicity of a DNA Vaccine Combination Delivered via In Vivo Electroporation Targeting Malaria Infection and Transmission. Vaccines 2022, 10, 1134.
 39339162	Pharmacokinetic Models of Tafenoquine: Insights for Optimal Malaria Treatment Strategies.
