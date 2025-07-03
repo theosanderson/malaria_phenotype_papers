@@ -1,3 +1,7 @@
+40607809	IFNγ-inducible Gbp4 and Irgb6 contribute to experimental cerebral malaria pathology in the olfactory bulb.
+40607278	Prevalence and associated factors of malaria among febrile patients at two sites with different transmission intensities, Northwest Ethiopia.
+40607277	Asymptomatic/submicroscopic Plasmodium vivax infection: A systematic review and META-analysis on the hidden challenge for preventing re-establishment of malaria transmission.
+40607139	Nanoplasmonics biosensors: At the frontiers of biomedical diagnostics.
 40606252	Comments on "Early Activation of Lung CD8+ T Cells After Immunization with Live Plasmodium berghei Malaria Sporozites".
 40606065	Bacterial contaminants in stored blood and blood products at Zomba Central Hospital Blood Bank: assessing the possible risk of post-transfusion sepsis in a resource-limited setting.
 40605692	Impairment of Lipoylation Mediated by Bromooctanoate Targets Eukaryotic Amidotransferases.
@@ -9993,7 +9997,3 @@
 37132734	Dirofilaria immitis is endemic in rural areas of the Brazilian Amazonas state capital, Manaus.
 37132169	Robust rank-based meta-analyses for two-sample designs with application to platelet counts of malaria infection data.
 37131988	Antagonistic antimalarial properties of a methoxyamino chalcone derivative and 3-hydroxypyridinones in combination with dihydroartemisinin against Plasmodium falciparum.
-37131941	Collaborations between product development partnerships and the World Health Organization.
-37131838	Malaria surveillance reveals parasite relatedness, signatures of selection, and correlates of transmission across Senegal.
-37131813	Structure guided mimicry of an essential P. falciparum receptor-ligand complex enhances cross neutralizing antibodies.
-37131712	Metabolism of host lysophosphatidylcholine in Plasmodium falciparum-infected erythrocytes.
