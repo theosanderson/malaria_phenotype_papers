@@ -1,3 +1,13 @@
+40606252	Comments on "Early Activation of Lung CD8+ T Cells After Immunization with Live Plasmodium berghei Malaria Sporozites".
+40606065	Bacterial contaminants in stored blood and blood products at Zomba Central Hospital Blood Bank: assessing the possible risk of post-transfusion sepsis in a resource-limited setting.
+40605692	Impairment of Lipoylation Mediated by Bromooctanoate Targets Eukaryotic Amidotransferases.
+40605086	Assessment of mosquito larval source management practices for malaria elimination in South West Ethiopia people regional state: a mixed study design approach.
+40605055	Linking Anopheles bionomics and human behaviour in the Lao PDR.
+40604785	Rethinking malaria elimination: a perspective on challenges and solutions in Angola.
+40604667	Inequity in the use of long-lasting insecticidal nets before and after nationwide mass distribution campaign in 48 districts of Uganda: VERSE toolkit analysis.
+40604515	Socioeconomic, demographic and environmental factors associated with under-five mortality among children in Kenya: analysis of the 2022 Kenya demographic and health survey.
+40604391	Evidence of microbiome contribution to the escalation of pyrethroid resistance in the major malaria vectors Anopheles gambiae s.s. and Anopheles funestus s.s.
+40604095	Knowledge of malaria diagnosis and prevention linking awareness of low transmission to eradication efforts.
 40604051	Adolescent sexuality education, sexual debut, and associated factors in Nigerian public secondary schools.
 40603939	A paternal lactate dehydrogenase critically enhances male gametogenesis and malaria transmission.
 40602809	Global, regional, and national characteristics of the main causes of increased disease burden due to the covid-19 pandemic: time-series modelling analysis of global burden of disease study 2021.
@@ -67,7 +77,7 @@
 40586491	Invasive and native mosquitoes in Europe, including Poland, as vectors transmitting pathogens - implications for wellbeing of Armed Forces.
 40585515	Outcomes and factors associated with severe malaria-related anaemia in paediatric patients in northern Nigeria.
 40585511	A health facility-based assessment of the ancillary benefit for prevention of anaemia at term of intermittent preventive therapy with sulfadoxine-pyrimethamine in pregnancy.
-40585102	CYP2B6 * 6 single nucleotide polymorphism among patients with uncomplicated malaria in Adjumani district, Uganda: implications on efficacy of artemether-lumefantrine.
+40585102	CYP2B6*6 single nucleotide polymorphism among patients with uncomplicated malaria in Adjumani district, Uganda: implications on efficacy of artemether-lumefantrine.
 40584362	IFN‑γ Production in Memory CD4 (+) T Cells in Response to MSP1(19) Antigen and Its Correlation with Anemia and Thrombocytopenia in Pediatric Vivax Malaria.
 40583778	Apocynin may alleviate side effects of autophagy-blocked radiotherapy through antioxidant effects.
 40583642	Strengthening Research Ethics Capacity in West Africa, 2015-2024.
@@ -9987,13 +9997,3 @@
 37131838	Malaria surveillance reveals parasite relatedness, signatures of selection, and correlates of transmission across Senegal.
 37131813	Structure guided mimicry of an essential P. falciparum receptor-ligand complex enhances cross neutralizing antibodies.
 37131712	Metabolism of host lysophosphatidylcholine in Plasmodium falciparum-infected erythrocytes.
-37131679	Chronic exposure of mosquito larvae to pesticide residues endangers a new generation of agrochemicals repurposed for malaria prevention.
-37131663	Enhancing the efficacy of neonicotinoids against mosquitoes and overcoming resistance issues.
-37131488	Epididymal bilharzia simulating a testicular tumor: A case report.
-37131226	Malaria prevalence in Mauritania: a systematic review and meta-analysis.
-37131225	Molecular investigation of malaria-infected patients in Djibouti city (2018-2021).
-37130502	Heat-shock responses: systemic and essential ways of malaria parasite survival.
-37130472	Biological activity of 1,2,3-triazole-2-amino-1,4-naphthoquinone derivatives and their evaluation as therapeutic strategy for malaria control.
-37130129	An Sfi1-like centrin-interacting centriolar plaque protein affects nuclear microtubule homeostasis.
-37130061	An analysis of the inclusion of ear and hearing care in national health policies, strategies and plans.
-37129519	Impact, healthcare utilization and costs of travel-associated mosquito-borne diseases in international travellers: a prospective study.
