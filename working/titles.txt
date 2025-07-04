@@ -1,3 +1,11 @@
+40611351	CRISPR technologies for the control and study of malaria-transmitting anopheline mosquitoes.
+40611287	Computational analysis of luteolin, apigenin and their derivatives from Allophylus africanus as potential inhibitors of plasmepsin II a malaria target.
+40611197	The effect of eave and window modifications on house entry behavior of Anopheles gambiae.
+40610666	Diagnosing P. simium zoonotic malaria infection in the Rio de Janeiro Atlantic forest, Brazil.
+40610045	Malaria and helminths co-infection-Effects on anaemia, iron and folate deficiencies in paediatric population in Ghana.
+40609856	Assessing the impact of the Wolbachia-based control of malaria.
+40609560	Evaluating the impact of two decades of USAID interventions and projecting the effects of defunding on mortality up to 2030: a retrospective impact evaluation and forecasting analysis.
+40609287	Nonsurgical Neurological Emergencies in Children: A Cross-Sectional Study of Prevalence, Diagnosis, and Management.
 40608974	New xanthone from Cratoxylum glaucum Korth. leaves exhibited in vitro antiplasmodial activity against Plasmodium falciparum.
 40608830	Anticoagulant therapy and altered tissue factor expression protect against experimental placental and cerebral malaria.
 40608824	TNF signaling mediates cellular immune function and promotes malaria parasite killing in the mosquito Anopheles gambiae.
@@ -185,7 +193,7 @@
 40543976	Estimating the potential malaria morbidity and mortality avertable by the US President's Malaria Initiative in 2025: a geospatial modelling analysis.
 40543959	Reinforcing resilience: confronting the consequences of global malaria aid cuts in Africa.
 40543589	Functional insights into Plasmodium actin depolymerizing factor interactions with phosphoinositides.
-40543556	Screening G6PD mutation in blood donors by Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry with high-throughput and multiple targets.
+40543556	Screening G6PD Mutations in Blood Donors by Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry with High-Throughput and Multiple Targets.
 40543404	Exploiting the potential of preparative multimodal chromatography resins for increasing selectivity in an orthogonal purification step.
 40542408	Antimalarial drug prescriptions and clinical outcomes of febrile children in Arba Minch City, South Ethiopia.
 40541167	Host-like conditions validate nutrient transport as an antimalarial drug target.
@@ -9989,11 +9997,3 @@
 37139879	[Rising temperatures and the threat of malaria in Europe: an unwelcome return?].
 37139385	Early effects of COVID-19 on maternal and child health service disruption in Mozambique.
 37138871	Polymorphisms in the MBL2 gene are associated with the plasma levels of MBL and the cytokines IL-6 and TNF-α in severe COVID-19.
-37138837	Antibacterial Activity Against Multidrug-Resistant Clinical Isolates of Nine Plants from Chencha, Southern Ethiopia.
-37138513	Utility of rapid chromatographic Immunoassay to rule out typhoid Fever among malaria negative patients.
-37138259	Study on the use and effectiveness of malaria preventive measures reported by employees of chinese construction companies in Western Africa in 2021.
-37137935	Association between ovalocytosis and Plasmodium infection: a systematic review and meta-analysis.
-37137917	Author Correction: Model-based assessment of Chikungunya and O'nyong-nyong virus circulation in Mali in a serological cross-reactivity context.
-37134097	Apolipoprotein E genetic variation, atherogenic index and cardiovascular disease risk assessment in an African population: An analysis of HIV and malaria patients in Ghana.
-37134083	Metagenomic next-generation sequencing to characterize potential etiologies of non-malarial fever in a cohort living in a high malaria burden area of Uganda.
-37133893	The boundary problem: Defining and delineating the community in field trials with gene drive organisms.
