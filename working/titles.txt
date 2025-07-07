@@ -1,3 +1,8 @@
+40620806	Optimized Midgut Tissue Dissociation of Mosquitoes and Sandflies for High-Quality Single-Cell RNA Sequencing.
+40620755	Drug Resistance of Imported P. falciparum and P. vivax Isolates - China, 2021-2023.
+40620464	Bibliometric and Visualized Analysis of Artemisinin and Its Derivatives in Cancer.
+40620209	Genomic evidence of spatially structured gene flow and divergent insecticide resistance backgrounds of the malaria vector Anopheles funestus in Tanzania.
+40619727	Effectiveness of Long-Lasting Insecticide-Impregnated Bed Nets in Controlling Phlebotomus argentipes in Sri Lanka: A Cluster Randomized Controlled Trial.
 40619431	The global burden of climate-sensitive diseases in Brazil: the national and subnational estimates and analysis, 1990-2017.
 40619429	Malaria recrudescence after artemether-lumefantrine treatment in travellers- a hospital-based observational study and literature review.
 40618766	The case for optimal investment in combating HIV, tuberculosis, and malaria: a global modelling study.
@@ -323,7 +328,7 @@
 40503613	Priming or Boosting P. falciparum Transmission Blocking Responses with Recombinant Vaccines or Gametocyte Extract.
 40503385	Editorial: Advancement in malaria treatment.
 40502756	Host-Derived Geranylgeraniol Shields Intraerythrocytic Stages of Malaria Parasites from Fosmidomycin.
-40502747	Identification of cross-stage, cross-species malaria CD8+ T cell antigens.
+40502747	Identification of cross-stage, cross-species malaria CD8(+) T cell antigens.
 40502588	Integrating mobility, travel survey, and malaria case data to understand drivers of malaria importation to Zanzibar, 2022-2023.
 40502331	An Assessment of Endothelial Markers in Patients with Uncomplicated Malaria in Jazan Province, Saudi Arabia.
 40501454	Evaluating the Antiplasmodial Activity of Picrasma javanica Stem Bark Extract and Its Synergy With Artesunate in Rodent Malaria Models.
@@ -9992,8 +9997,3 @@
 37149066	Antiparasitic properties of 4-nerolidylcatechol from Pothomorphe umbellata (L.) Miq. (Piperaceae) in vitro and in mice models with either prepatent or patent Schistosoma mansoni infections.
 37148884	Dual-pharmacophore artezomibs hijack the Plasmodium ubiquitin-proteasome system to kill malaria parasites while overcoming drug resistance.
 37148699	Phytochemical profiling of Symplocos tanakana Nakai and S. sawafutagi Nagam. leaf and identification of their antioxidant and anti-diabetic potential.
-37148042	Neuropsychiatric Aspects of Parasitic Infections-A Review.
-37147685	Predictors of caregiver adherence to administration of amodiaquine during delivery of seasonal malaria chemoprevention in Nigeria, Burkina Faso, Chad, and Togo.
-37147455	Correction to: Novel development of Lecanicillium lecanii-based granules as a platform against malarial vector Anopheles culicifacies.
-37147351	Deletion of MIF gene from live attenuated LdCen(-/-) parasites enhances protective CD4(+) T cell immunity.
-37147317	Malaria, climate variability, and interventions: modelling transmission dynamics.
