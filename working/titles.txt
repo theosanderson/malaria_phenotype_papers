@@ -1,3 +1,5 @@
+40622675	Drimane sesquiterpenoids from cultures of basidiomycete Ganoderma subresinosum.
+40622546	Innate Immune Response to Helminth Infections.
 40620806	Optimized Midgut Tissue Dissociation of Mosquitoes and Sandflies for High-Quality Single-Cell RNA Sequencing.
 40620755	Drug Resistance of Imported P. falciparum and P. vivax Isolates - China, 2021-2023.
 40620464	Bibliometric and Visualized Analysis of Artemisinin and Its Derivatives in Cancer.
@@ -9995,5 +9997,3 @@
 37149980	Exploring the potential of antimalarial nanocarriers as a novel therapeutic approach.
 37149600	Spatio-temporal analysis of malaria incidence and its risk factors in North Namibia.
 37149066	Antiparasitic properties of 4-nerolidylcatechol from Pothomorphe umbellata (L.) Miq. (Piperaceae) in vitro and in mice models with either prepatent or patent Schistosoma mansoni infections.
-37148884	Dual-pharmacophore artezomibs hijack the Plasmodium ubiquitin-proteasome system to kill malaria parasites while overcoming drug resistance.
-37148699	Phytochemical profiling of Symplocos tanakana Nakai and S. sawafutagi Nagam. leaf and identification of their antioxidant and anti-diabetic potential.
