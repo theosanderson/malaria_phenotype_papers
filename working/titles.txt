@@ -1,3 +1,5 @@
+40623036	Loss of serine/threonine protein phosphatase 6 severely impairs sexual stage development in malaria parasite Plasmodium berghei.
+40622970	Understanding the determinants of treated bed net use in Ethiopia: A machine learning classification approach using PMA Ethiopia 2023 survey data.
 40622675	Drimane sesquiterpenoids from cultures of basidiomycete Ganoderma subresinosum.
 40622546	Innate Immune Response to Helminth Infections.
 40620806	Optimized Midgut Tissue Dissociation of Mosquitoes and Sandflies for High-Quality Single-Cell RNA Sequencing.
@@ -9995,5 +9997,3 @@
 37150188	Gavi unveils malaria vaccine plans.
 37150086	Network pharmacology and molecular docking combined with widely targeted metabolomics to elucidate the potential compounds and targets of Euphorbia helioscopia seeds for the treatment of pulmonary fibrosis.
 37149980	Exploring the potential of antimalarial nanocarriers as a novel therapeutic approach.
-37149600	Spatio-temporal analysis of malaria incidence and its risk factors in North Namibia.
-37149066	Antiparasitic properties of 4-nerolidylcatechol from Pothomorphe umbellata (L.) Miq. (Piperaceae) in vitro and in mice models with either prepatent or patent Schistosoma mansoni infections.
