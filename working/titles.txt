@@ -1,3 +1,5 @@
+40625816	Knowledge, attitudes, and practices regarding malaria in rural Uganda: a cross-sectional study.
+40625259	Delivery of malaria services during a pandemic: lessons from COVID-19 in Nigeria.
 40624634	Utility of rapid diagnostic tests and microscopy to detect malaria in health facilities across the Solomon Islands.
 40624365	Genomic analysis of Plasmodium vivax field isolates circulating in sub-Saharan Africa.
 40624161	A whole blood assay for antibody dependent phagocytosis of Plasmodium falciparum infected erythrocytes.
@@ -3543,7 +3545,7 @@
 39388683	Forecasting malaria dynamics based on causal relations between control interventions, climatic factors, and disease incidence in western Kenya.
 39386977	Coevolutionary Analysis of the Pfs47-P47Rec Complex: A Bioinformatics Approach.
 39386635	A genome-wide CRISPR screen in Anopheles mosquito cells identifies essential genes and required components of clodronate liposome function.
-39386571	Identification of the drug/metabolite transporter 1 as a marker of quinine resistance in a NF54×Cam3.II P. falciparum genetic cross.
+39386571	Plasmodium falciparum quinine resistance is multifactorial and includes a role for the drug/metabolite transporters PfCRT and DMT1.
 39386451	Biochemical Characterization and Inhibitor Discovery for Pf Sir2A - New Tricks for An Old Enzyme.
 39386442	Mean daily temperatures can predict the thermal limits of malaria transmission better than rate summation.
 39385763	Antibodies to specific domains of Plasmodium falciparum erythrocyte membrane protein-1 and its relationship with protection from severe malarial anemia: A prospective study among Ghanaian children.
@@ -9995,5 +9997,3 @@
 37153151	Naturally acquired antibody response to Plasmodium falciparum and Plasmodium vivax among indigenous Orang Asli communities in Peninsular Malaysia.
 37151707	Antimicrobial activity in Asterceae: The selected genera characterization and against multidrug resistance bacteria.
 37151678	In vivo antimalarial activity of the 80% methanolic crude fruit extract of Lagenaria siceraria (Molina) Standl. against Plasmodium berghei infected mice.
-37151169	Mechanistic Role of Tempol: Synthesis, Catalysed Reactions and Therapeutic Potential.
-37150885	Accumulation of Neutrophil Phagocytic Antibody Features Tracks With Naturally Acquired Immunity Against Malaria in Children.
