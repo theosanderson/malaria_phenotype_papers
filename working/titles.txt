@@ -1,3 +1,8 @@
+40627786	Natural product-mediated reaction hijacking mechanism validates Plasmodium aspartyl-tRNA synthetase as an antimalarial drug target.
+40627779	Prevalence of Leishmania infection in refugee camps: A serological and molecular study in Gambella and Benishangul-Gumuz, Ethiopia.
+40627776	Essential role for PfHSP40 in asexual replication and thermotolerance of malaria parasites.
+40627662	Analyzing determinants of social practices in infectious diseases among Indigenous and Afro-Colombian communities: A participatory diagnosis of malaria, tuberculosis, and leishmaniasis in Colombia.
+40627625	Fetal hemoglobin enables malaria parasite growth in sickle cells but augments production of transmission stage parasites.
 40627280	Prophylactic and Curative Potency of Xylopia aethiopica "(Dunal) A. Rich." Leaf Extract on Mice Malaria Parasite (Plasmodium berghei).
 40627272	What are the Main Diagnoses in Hospitalized Patients in Madagascar ? A Sentinel Surveillance in 18 Hospitals from 2014 to 2018.
 40626728	The Plasmodium falciparum homolog of Vps16 interacts with the core members of the Vps-C tethering complex.
@@ -9992,8 +9997,3 @@
 37155823	From the Spectroscopic Reassessment of Authentic Alkaloid Samples to the Molecular Networking-Guided Discovery of Criophylline-Related Analogues from Callichilia inaequalis.
 37155680	Modeling the impact of xenointoxication in dogs to halt Trypanosoma cruzi transmission.
 37154745	Amplicon Deep Sequencing Reveals Multiple Genetic Events Lead to Treatment Failure with Atovaquone-Proguanil in Plasmodium falciparum.
-37154740	Molecular docking and antimalarial evaluation of hybrid para-aminobenzoic acid 1,3,5 triazine derivatives via inhibition of Pf-DHFR.
-37154686	Phenotypic Screens Identify Genetic Factors Associated with Gametocyte Development in the Human Malaria Parasite Plasmodium falciparum.
-37153774	Ethnobotanical uses, phytochemistry and biological activity of the genus Euclea: A review.
-37153566	Single-sex schistosomiasis: a mini review.
-37153544	Endothelial ACKR1 is induced by neutrophil contact and down-regulated by secretion in extracellular vesicles.
