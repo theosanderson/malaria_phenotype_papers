@@ -1,3 +1,10 @@
+40631413	Remoscope: a label-free imaging cytometer for malaria diagnostics.
+40631167	Machine learning enables de novo multi-epitope design of plasmodium falciparum circumsporozoite protein to target trimeric L9 antibody.
+40630588	Impact of intermittent preventive treatment of malaria in pregnancy with sulfadoxine-pyrimethamine on sexually transmitted and reproductive tract infections: results from a randomised trial in Uganda.
+40630530	hmmibd-rs: An enhanced hmmIBD implementation for parallelizable identity-by-descent detection from large-scale Plasmodium genomic data.
+40630523	High connectivity and low differentiation of Plasmodium falciparum parasite populations in a setting with high seasonal migration.
+40630522	Challenging the notion of Aedes aegypti as the primary chikungunya virus vector: insights from Kédougou, Southeastern Senegal.
+40630499	DAPCy: a Python package for the discriminant analysis of principal components method for population genetic analyses.
 40629452	Toxicity of ivermectin to bed bugs (Cimex hemipterus) and risk factors associated with infestation in Kwale County, coastal Kenya.
 40629396	Variations in haematological and inflammatory biomarkers and their association with Plasmodium falciparum malaria: a cross-sectional comparative study at a clinic in Ghana.
 40629364	Hidden reservoirs of infection: prevalence and risk factors of asymptomatic malaria in a high-endemic region of Zambia.
@@ -9990,10 +9997,3 @@
 37159600	Biodiversity and Spatial Distribution of Mosquitoes (Diptera: Culicidae) in Kurdistan Province, Western Iran.
 37159582	Spatial modelling of malaria prevalence associated with geographical factors in Houet province of Burkina Faso, West Africa.
 37158866	What can be learned from the residual efficacy of three formulations of insecticides (pirimiphos-methyl, clothianidin and deltamethrin mixture, and clothianidin alone) in large-scale in community trial in North Benin, West Africa?
-37158864	Community engagement processes in low- and middle-income countries health research settings: a systematic review of the literature.
-37158750	Sensitive Detection of Asymptomatic and Symptomatic Malaria with Seven Novel Parasite-Specific LAMP Assays and Translation for Use at Point-of-Care.
-37158739	Susceptibility of Ugandan Plasmodium falciparum Isolates to the Antimalarial Drug Pipeline.
-37158666	Cladosporin, A Highly Potent Antimalaria Drug?
-37158217	Mobilizing resources with an investment case to mitigate cross-border malaria transmission and achieve malaria elimination in South Africa.
-37157838	Haematological factors and anaemia in acute malaria: A prospective hospital-based cross-sectional observational study.
-37156765	Plasmodium falciparum has evolved multiple mechanisms to hijack human immunoglobulin M.
