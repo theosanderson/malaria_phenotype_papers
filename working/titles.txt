@@ -1,3 +1,6 @@
+40636615	Assessment of Malaria Burden and Community Response to Control and Management Programs.
+40636072	The benefit of virtual cognitive training in pediatric cerebral malaria depends on numerous influencing factors that should be included in the analysis.
+40635523	Genetic epidemiology of Plasmodium falciparum chloroquine resistance in coastal, North and Far North areas of Cameroon.
 40635025	High exposure to malaria vector bites despite high use of bednets in a setting of seasonal malaria in southwestern Mali: the urgent need for outdoor vector control strategies.
 40635005	The economic burden of malaria in Africa: a systematic review of cost of illness studies.
 40634851	Malaria vector diversity, transmission and insecticide resistance in Island communities along the Volta lake in Southern Ghana.
@@ -9994,6 +9997,3 @@
 37160332	Anopheles Larval Rearing.
 37160331	Considerations for Rearing and Maintaining Anopheles in the Laboratory.
 37160330	Anopheles Egg Collection, Disinfection, and Hatching.
-37160329	Anopheles Pupa Collection and Sex Identification.
-37160282	Acceptability, Feasibility, Drug Safety, and Effectiveness of a Pilot Mass Drug Administration with a Single Round of Sulfadoxine-Pyrimethamine Plus Primaquine and Indoor Residual Spraying in Communities with Malaria Transmission in Haiti, 2018.
-37160281	Safety and Immunogenicity of Radiation-Attenuated PfSPZ Vaccine in Equatoguinean Infants, Children, and Adults.
