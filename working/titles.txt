@@ -1,3 +1,8 @@
+40635025	High exposure to malaria vector bites despite high use of bednets in a setting of seasonal malaria in southwestern Mali: the urgent need for outdoor vector control strategies.
+40635005	The economic burden of malaria in Africa: a systematic review of cost of illness studies.
+40634851	Malaria vector diversity, transmission and insecticide resistance in Island communities along the Volta lake in Southern Ghana.
+40633944	Investigating the relationship between Pfkelch13 mutations and response to artemisinin-based treatment for uncomplicated falciparum malaria: a protocol for a systematic review and individual patient data meta-analysis.
+40633203	Amitriptyline inhibits Plasmodium development in infected red blood cells by modulating sphingolipid metabolism and glucose uptake.
 40632789	"I want to help my body": Acceptability of malaria chemoprevention among children with sickle cell anaemia and their caregivers in Malawi and Uganda.
 40631666	Optimisation of freeze substitution protocols for the examination of malaria parasite structure by volumetric electron microscopy.
 40631413	Remoscope: a label-free imaging cytometer for malaria diagnostics.
@@ -9992,8 +9997,3 @@
 37160329	Anopheles Pupa Collection and Sex Identification.
 37160282	Acceptability, Feasibility, Drug Safety, and Effectiveness of a Pilot Mass Drug Administration with a Single Round of Sulfadoxine-Pyrimethamine Plus Primaquine and Indoor Residual Spraying in Communities with Malaria Transmission in Haiti, 2018.
 37160281	Safety and Immunogenicity of Radiation-Attenuated PfSPZ Vaccine in Equatoguinean Infants, Children, and Adults.
-37160273	Test-Treat-Track-Test-Treat Strategy for Control of Schistosomiasis in Two Low-Prevalence Villages in Northwestern Tanzania.
-37160247	Long-acting parenteral drug delivery systems for the treatment of chronic diseases.
-37160237	Susceptibility of Southeast Asian Plasmodium falciparum isolates to P218.
-37160134	Plasmodium vivax infection alters the peripheral immunoregulatory network of CD4 T follicular cells and B cells.
-37159899	Prevalence of amoebiasis and associated risk factors among population in Duhok city, Kurdistan Region, Iraq.
