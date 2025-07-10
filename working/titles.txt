@@ -1,3 +1,5 @@
+40637765	Design of novel imidazo[1,2-a]pyrimidines as Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors using fragment-based and other integrated in silico approaches.
+40637713	Epitope and HLA specificity of human TCRs against Plasmodium falciparum circumsporozoite protein.
 40636615	Assessment of Malaria Burden and Community Response to Control and Management Programs.
 40636072	The benefit of virtual cognitive training in pediatric cerebral malaria depends on numerous influencing factors that should be included in the analysis.
 40635523	Genetic epidemiology of Plasmodium falciparum chloroquine resistance in coastal, North and Far North areas of Cameroon.
@@ -177,7 +179,7 @@
 40577132	RAP proteins regulate apicoplast noncoding RNA processing in Plasmodium falciparum.
 40577062	Repurposing sulfonamide-scaffolds for enhanced and sustainable malaria therapy.
 40576765	Historical analysis of the directors of university institutes of pharmacology in Germany and Austria in the period 1918-1963.
-40576381	Chromosomal inversions and their potential impact on the evolution of arboviral vector Aedes aegypti.
+40576381	Chromosomal Inversions and Their Potential Impact on the Evolution of Arboviral Vector Aedes aegypti.
 40576352	Pulling the Drug Out From Underneath: Ethical Considerations in the Discontinuation of the Antimalarial Quinidine.
 40575910	Plasmodium falciparum malaria in six travellers returning from Zanzibar to Italy, December 2023 to February 2025: a case series.
 40575543	Remote Sensing and GIS-Based Study to Predict Risk Zones for Mosquito-Borne Diseases in Cuttack District, Odisha, India.
@@ -9995,5 +9997,3 @@
 37161379	1-3-7 surveillance and response approach in malaria elimination: China's practice and global adaptions.
 37160333	Anopheles Adult Anesthesia, Feeding, and Sex Separation.
 37160332	Anopheles Larval Rearing.
-37160331	Considerations for Rearing and Maintaining Anopheles in the Laboratory.
-37160330	Anopheles Egg Collection, Disinfection, and Hatching.
