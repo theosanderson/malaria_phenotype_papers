@@ -1,3 +1,7 @@
+40643935	Leucocytozoon Prevalence Differs by Sex in Louisiana Wild Turkeys (Meleagris gallopavo).
+40643248	Perfect vs practical: utilizing hematology thin smears for the diagnosis of Plasmodium and Babesia.
+40643183	Limited access to clean water and sanitation in Mopeia, Mozambique: a description in the context of a cholera outbreak.
+40643161	Functional Phenotyping of MMV Pandemic Response Box Identifies Stage and Mechanism-Specific Inhibitors against Blood Stage Plasmodium falciparum.
 40642064	Vaccine-induced responses to R21/Matrix-M - an analysis of samples from a phase 1b age de-escalation, dose-escalation trial.
 40642055	Impact of artificial intelligence and digital technology-based diagnostic tools for communicable and non-communicable diseases in Africa.
 40641815	Brainstorm: A Case of Granulomatous Encephalitis.
@@ -1077,7 +1081,7 @@
 40266201	The 2024 Annual Meeting of the Essential Programmes on Immunization Managers in Central Africa: A Peer Learning Platform.
 40266105	Navigating the Road to Immunization Equity: Systematic Review of Challenges in Introducing New Vaccines into Sub-Saharan Africa's Health Systems.
 40265952	Plasmodium falciparum Kelch-13 artemisinin partial resistance markers in Fort Portal, Western Uganda, 2024.
-40265614	The effect of environment and in utero HIV exposure on neurodevelopment in infants.
+40265614	The effect of environment and in-utero HIV exposure on neurodevelopment in infants.
 40264637	Health Service-Related Determinants of Health-Seeking Behavior during Malaria Fever in a High-Risk Region of Nepal.
 40264146	Decline in malaria test positivity rates following capacity building and archiving of malaria rapid diagnostic test cassettes in Oyo State, Nigeria: a retrospective review of records.
 40263419	Computer aided study on cyclic tetrapeptide based ligands as potential inhibitors of Proplasmepsin IV.
@@ -9993,7 +9997,3 @@
 37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
 37167211	Investigating insecticide susceptibility status of adult mosquitoes against some class of insecticides in Osogbo metropolis, Osun State, Nigeria.
 37167085	Plasma after both SARS-CoV-2 boosted vaccination and COVID-19 potently neutralizes BQ.1.1 and XBB.1.
-37166116	The Plasmodium falciparum apicoplast cysteine desulfurase provides sulfur for both iron-sulfur cluster assembly and tRNA modification.
-37165325	Influence of the sickle cell trait on Plasmodium falciparum infectivity from naturally infected gametocyte carriers.
-37164513	Differential impact of dual-active ingredient long-lasting insecticidal nets on primary malaria vectors: a secondary analysis of a 3-year, single-blind, cluster-randomised controlled trial in rural Tanzania.
-37164365	Association between inequalities in human resources for health and all cause and cause specific mortality in 172 countries and territories, 1990-2019: observational study.
