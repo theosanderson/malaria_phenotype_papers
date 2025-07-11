@@ -1,3 +1,8 @@
+40642064	Vaccine-induced responses to R21/Matrix-M - an analysis of samples from a phase 1b age de-escalation, dose-escalation trial.
+40642055	Impact of artificial intelligence and digital technology-based diagnostic tools for communicable and non-communicable diseases in Africa.
+40641815	Brainstorm: A Case of Granulomatous Encephalitis.
+40641687	Symmetrical Peripheral Gangrene Associated with Plasmodium Vivax Malaria: A case report with a brief review of literature.
+40641488	Haemosporidian Infection Risk Variation Across an Urban Gradient in a Songbird.
 40640876	A 3D culture model facilitates mass production of in vitro Plasmodium falciparum haemolymph-like sporozoites.
 40640866	Characteristics of malaria vector populations and transmission before a randomised controlled trial assessing the efficacy of next-generation insecticide-treated nets in Côte d'Ivoire.
 40640604	Daily briefing: The first malaria treatment for babies wins approval.
@@ -9992,8 +9997,3 @@
 37165325	Influence of the sickle cell trait on Plasmodium falciparum infectivity from naturally infected gametocyte carriers.
 37164513	Differential impact of dual-active ingredient long-lasting insecticidal nets on primary malaria vectors: a secondary analysis of a 3-year, single-blind, cluster-randomised controlled trial in rural Tanzania.
 37164365	Association between inequalities in human resources for health and all cause and cause specific mortality in 172 countries and territories, 1990-2019: observational study.
-37164364	Australian Defence Force Global Health Engagement through malaria and other vectorborne disease programmes in the Pacific and Southeast Asia.
-37163950	Recent developments in antimalarial activities of 4-aminoquinoline derivatives.
-37163812	Influence of amino acid size at the P3 position of N-Cbz-tripeptide Michael acceptors targeting falcipain-2 and rhodesain for the treatment of malaria and human african trypanosomiasis.
-37163114	Two decades of molecular surveillance in Senegal reveal changes in known drug resistance mutations associated with historical drug use and seasonal malaria chemoprevention.
-37162984	Social network and household exposure explain the use of malaria prevention measures in rural communities of Meghalaya, India.
