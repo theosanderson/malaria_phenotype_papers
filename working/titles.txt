@@ -1,3 +1,11 @@
+40646656	Trend of malaria parasites infection in Ethiopia along an international border: a Bayesian spatio-temporal study.
+40646577	Genomic investigation of a non-travel Plasmodium falciparum case linked to imported malaria in China's post-elimination era.
+40646527	Caveola-vesicle complexes of Plasmodium vivax and Plasmodium cynomolgi: large-scale aggregation and structure of PHIST-positive vesicles in late schizont-infected red blood cells.
+40646447	Increased heterozygosity and balancing selection in isofemale generations of Anopheles stephensi under laboratory conditions.
+40646441	Acute undifferentiated febrile illness in a traveler returning from Burkina Faso, West Africa to Puducherry, India- a case report.
+40646175	Author Correction: A comprehensive overview of the burden, prevention, and therapeutic aspects of arboviral diseases in India.
+40645886	Novel techniques for disrupting malaria transmission.
+40645354	"A Novel Prophylactic Strategy to Enhance Immunity inPlasmodium bergheiInfected Mice: Combining Mefloquine and Ultra-Diluted Malarial Antigen.
 40644448	Testing the feasibility and utility of an executive function battery for use with primary school-aged students in Malawi.
 40643935	Leucocytozoon Prevalence Differs by Sex in Louisiana Wild Turkeys (Meleagris gallopavo).
 40643248	Perfect vs practical: utilizing hematology thin smears for the diagnosis of Plasmodium and Babesia.
@@ -9989,11 +9997,3 @@
 37170175	Imported severe Plasmodium falciparum infection in the first trimester of pregnancy complicated by post-artemisinin delayed hemolysis and intrauterine fetal death, a case report.
 37169919	Chloroquine resistance evolution in Plasmodium falciparum is mediated by the putative amino acid transporter AAT1.
 37168860	mRNA vaccines: a new opportunity for malaria, tuberculosis and HIV.
-37168772	An automated neural network-based stage-specific malaria detection software using dimension reduction: The malaria microscopy classifier.
-37168098	Wing morphology variations in Culicoides circumscriptus from France.
-37167988	Evidence-based antenatal interventions to reduce the incidence of small vulnerable newborns and their associated poor outcomes.
-38898967	A Study of Childhood Malaria trends at the University of Port Harcourt Teaching Hospital: 2006 - 2018.
-37167551	Spatial repellency and attractancy responses of some chemical lures against Aedes albopictus (Diptera: Culicidae) and Anopheles minimus (Diptera: Culicidae) using the high-throughput screening system.
-37167335	Semi-field evaluation of a volatile transfluthrin-based intervention reveals efficacy as a spatial repellent and evidence of other modes of action.
-37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
-37167211	Investigating insecticide susceptibility status of adult mosquitoes against some class of insecticides in Osogbo metropolis, Osun State, Nigeria.
