@@ -1,3 +1,4 @@
+40644448	Testing the feasibility and utility of an executive function battery for use with primary school-aged students in Malawi.
 40643935	Leucocytozoon Prevalence Differs by Sex in Louisiana Wild Turkeys (Meleagris gallopavo).
 40643248	Perfect vs practical: utilizing hematology thin smears for the diagnosis of Plasmodium and Babesia.
 40643183	Limited access to clean water and sanitation in Mopeia, Mozambique: a description in the context of a cholera outbreak.
@@ -1437,7 +1438,7 @@
 40140057	Mathematical modelling and analysis of the adaptive dynamics in mosquito populations: uniform persistence of malaria infection.
 40139269	New compound, new hope: The potential of MED6-189 in the fight against malaria.
 40138707	Fungal-derived methyldeoxaphomins target Plasmodium falciparum segregation through the inhibition of PfActin1.
-40138574	Artemether-Lumefantrine treatment selects Plasmodium falciparum multidrug resistance 1 (pfmdr1) increased copy number among African malaria infections.
+40138574	Artemether-Lumefantrine Treatment Selects Plasmodium falciparum Multidrug Resistance 1 (pfmdr1) Increased Copy Number Among African Malaria Infections.
 40138457	Anopheles mosquito survival and pharmacokinetic modeling show the mosquitocidal activity of nitisinone.
 40137817	The Comparative Performance of Klypson 500WG and 2GARD-WP Sprayed on Different Wall Surfaces Against Anopheles gambiae s.l. in Lower Moshi, Northern Tanzania.
 40137716	Genetic Diversity of Potential Drug Resistance Markers in Plasmodium vivax Isolates from Panama, Mesoamerica.
@@ -1943,7 +1944,7 @@
 39949258	Malaria microscopy: a challenge in malaria elimination.
 39948798	Postpartum pituitary necrosis and hypopituitarism, a sequela of severe falciparum malaria in pregnancy - a case report.
 39948562	Determination of the residual efficacy of broflanilide (VECTRON™ T500) insecticide for indoor residual spraying in a semi-field setting in Ethiopia.
-39948431	RNA-Seq analysis in macrophages infected with Trypanosoma cruzi: focus on TLR2 and TLR7, iron metabolism, and extracellular matrix biosynthesis.
+39948431	RNA Sequence Analysis in Macrophages Infected With Trypanosoma cruzi: Focus on TLR2 and TLR7, Iron Metabolism, and Extracellular Matrix Biosynthesis.
 39947818	Cross-sectional evaluation of host biomarkers for guiding antibiotic use in bacterial and non-bacterial acute febrile illness in low- and middle-income tropical settings.
 39947799	Design, synthesis, antimalarial activity, and in-silico studies of new benzimidazole/pyridine hybrids as dihydrofolate reductase inhibitors.
 39947389	Zinc pyrithione inhibits blood-stage parasites of Plasmodium falciparum and its combinatorial effect with dihydro-artemisinin and chloroquine in culture.
@@ -9996,4 +9997,3 @@
 37167335	Semi-field evaluation of a volatile transfluthrin-based intervention reveals efficacy as a spatial repellent and evidence of other modes of action.
 37167332	Correction to: The Rapid and Spontaneous Postpartum Clearance of Plasmodium falciparum Is Related to Expulsion of the Placenta.
 37167211	Investigating insecticide susceptibility status of adult mosquitoes against some class of insecticides in Osogbo metropolis, Osun State, Nigeria.
-37167085	Plasma after both SARS-CoV-2 boosted vaccination and COVID-19 potently neutralizes BQ.1.1 and XBB.1.
