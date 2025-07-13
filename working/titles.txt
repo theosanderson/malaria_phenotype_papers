@@ -1,3 +1,11 @@
+40652282	Performance and usability evaluation of three LDH-based malaria rapid diagnostic tests in Kédougou, Senegal.
+40652249	Factors associated with hospitalizations due to severe malaria in the non-endemic Brazilian region: a case-control study in the extra-Amazon Region from 2011 to 2019.
+40652195	A review on the ethnomedicinal plants used for the traditional treatment of malaria in the Mayurbhanj district of Odisha, India.
+40651249	Uncertainty-guided attention learning for malaria parasite detection in thick blood smears.
+40650822	Genetic Diversity and Phylogenetic Relatedness of Cameroonian Plasmodium falciparum Isolates and Comparative Analysis with Global Populations.
+40650477	Subtle stressors-Strong responses. Consistent negative effects of avian blood parasites on phenotypic and demographic traits across songbirds.
+40649756	Tracking Drug Resistance in Plasmodium falciparum: Genetic Diversity of Key Resistance Markers in Brazilian Malaria Hotspots.
+40649396	Phytochemical Screening and Biological Activities of Lippia multiflora Moldenke.
 40646656	Trend of malaria parasites infection in Ethiopia along an international border: a Bayesian spatio-temporal study.
 40646577	Genomic investigation of a non-travel Plasmodium falciparum case linked to imported malaria in China's post-elimination era.
 40646527	Caveola-vesicle complexes of Plasmodium vivax and Plasmodium cynomolgi: large-scale aggregation and structure of PHIST-positive vesicles in late schizont-infected red blood cells.
@@ -9989,11 +9997,3 @@
 37172592	Human nuclear hormone receptor activity contributes to malaria parasite liver stage development.
 37171174	NMR Fingerprints of Formyl Phloroglucinol Meroterpenoids and Their Application to the Investigation of Eucalyptus gittinsii subsp. gittinsii.
 37170560	Rare presentation of gallbladder schistosomiasis: a case report.
-37170467	Monitoring antimalarial drug-resistance markers in Somalia.
-37170462	Antimalarial effect of synthetic endoperoxide on synchronized Plasmodium chabaudi infected mice.
-37170461	Genetic diversity of Plasmodium falciparum erythrocyte membrane protein 1 in field isolates from central Myanmar.
-37170269	In vitro anti-plasmodial activity of three selected medicinal plants that are used in local traditional medicine in Amhara region of Ethiopia.
-37170228	Clinicians' satisfaction with laboratory services and associated factors at public health facilities in Northeast Ethiopia.
-37170175	Imported severe Plasmodium falciparum infection in the first trimester of pregnancy complicated by post-artemisinin delayed hemolysis and intrauterine fetal death, a case report.
-37169919	Chloroquine resistance evolution in Plasmodium falciparum is mediated by the putative amino acid transporter AAT1.
-37168860	mRNA vaccines: a new opportunity for malaria, tuberculosis and HIV.
