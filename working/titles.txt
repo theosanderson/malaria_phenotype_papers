@@ -1,3 +1,4 @@
+40653693	Evidence of established populations of Anopheles mosquitoes (Diptera, Culicidae) in the Turks and Caicos Islands.
 40653493	Physical and insecticidal durability of PermaNet(®) 3.0 and Olyset(®) plus piperonyl butoxide-synergist insecticide-treated nets in Sierra Leone: results of durability monitoring from 2020 to 2023.
 40653491	Evaluating malaria reactive surveillance and response strategies in northeast Cambodia: a mixed-methods study.
 40652826	Pharmacokinetics and metabolism of artemisinin (ART) in Plasmodium yoelii: ART-heme adduct as a potential biomarker for its resistance.
@@ -9996,4 +9997,3 @@
 37173105	Cross-sectional health centre and community-based evaluation of the impact of pneumococcal and malaria vaccination on antibiotic prescription and usage, febrile illness and antimicrobial resistance in young children in Malawi: the IVAR study protocol.
 37172785	Reduced plasma cholesterol in Plasmodium falciparum infection: A meta-analysis.
 37172709	The most prominent modulated Annexins during parasitic infections.
-37172603	The shared ethical framework to allocate scarce medical resources: a lesson from COVID-19.
