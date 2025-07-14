@@ -1,3 +1,6 @@
+40653493	Physical and insecticidal durability of PermaNet(®) 3.0 and Olyset(®) plus piperonyl butoxide-synergist insecticide-treated nets in Sierra Leone: results of durability monitoring from 2020 to 2023.
+40653491	Evaluating malaria reactive surveillance and response strategies in northeast Cambodia: a mixed-methods study.
+40652826	Pharmacokinetics and metabolism of artemisinin (ART) in Plasmodium yoelii: ART-heme adduct as a potential biomarker for its resistance.
 40652282	Performance and usability evaluation of three LDH-based malaria rapid diagnostic tests in Kédougou, Senegal.
 40652249	Factors associated with hospitalizations due to severe malaria in the non-endemic Brazilian region: a case-control study in the extra-Amazon Region from 2011 to 2019.
 40652195	A review on the ethnomedicinal plants used for the traditional treatment of malaria in the Mayurbhanj district of Odisha, India.
@@ -9994,6 +9997,3 @@
 37172785	Reduced plasma cholesterol in Plasmodium falciparum infection: A meta-analysis.
 37172709	The most prominent modulated Annexins during parasitic infections.
 37172603	The shared ethical framework to allocate scarce medical resources: a lesson from COVID-19.
-37172592	Human nuclear hormone receptor activity contributes to malaria parasite liver stage development.
-37171174	NMR Fingerprints of Formyl Phloroglucinol Meroterpenoids and Their Application to the Investigation of Eucalyptus gittinsii subsp. gittinsii.
-37170560	Rare presentation of gallbladder schistosomiasis: a case report.
