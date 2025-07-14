@@ -1,3 +1,8 @@
+40657315	Indirect Benefits of Seasonal Malaria Chemoprevention for Non-Malarial Pediatric Infections and Routine Antibiotic Use in Real-World Programmatic Settings: A Pre-Post Study Using Positive and Negative Controls.
+40655418	Rapid and Multiplex Diagnosis of Malaria Using Chelex-100 Extraction and LAMP-MS Assay.
+40654975	Biting time of day in malaria mosquitoes is modulated by nutritional status.
+40654658	Classification of outcomes in antimalarial therapeutic efficacy studies with Aster.
+40654506	Artesunate improves cryopreserved yak sperm quality by activating SOD1 antioxidant pathway.
 40653693	Evidence of established populations of Anopheles mosquitoes (Diptera, Culicidae) in the Turks and Caicos Islands.
 40653493	Physical and insecticidal durability of PermaNet(®) 3.0 and Olyset(®) plus piperonyl butoxide-synergist insecticide-treated nets in Sierra Leone: results of durability monitoring from 2020 to 2023.
 40653491	Evaluating malaria reactive surveillance and response strategies in northeast Cambodia: a mixed-methods study.
@@ -9992,8 +9997,3 @@
 37173754	Evaluation of Long-lasting insecticidal nets (LLINs) for malaria control in an endemic area in Brazil.
 37173726	Post-malarial neurological syndrome in a Gambian adult residing in the Gambia: a case report and a review of literature.
 37173361	Characterization of Duffy Binding Protein II-specific CD4(+)T cell responses in Plasmodium vivax patients.
-37173329	Cytoprotective autophagy as a pro-survival strategy in ART-resistant malaria parasites.
-37173317	Modelling the impact of interventions on imported, introduced and indigenous malaria infections in Zanzibar, Tanzania.
-37173105	Cross-sectional health centre and community-based evaluation of the impact of pneumococcal and malaria vaccination on antibiotic prescription and usage, febrile illness and antimicrobial resistance in young children in Malawi: the IVAR study protocol.
-37172785	Reduced plasma cholesterol in Plasmodium falciparum infection: A meta-analysis.
-37172709	The most prominent modulated Annexins during parasitic infections.
