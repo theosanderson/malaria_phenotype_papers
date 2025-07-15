@@ -1,3 +1,11 @@
+40662142	Do dietary habits and iron-folic acid intake make a difference? Factors associated with anemia in pregnancy: a multi-center cross-sectional study.
+40662088	Blood Donor Serological Screening in Makkah, Saudi Arabia: A 7-Year Retrospective Study on Transfusion-Transmitted Infections.
+40661968	Majority of the erythrocyte binding proteins of the Pvfam "a" family of Plasmodium vivax interact with Basigin to assist parasite entry into the host cell.
+40661967	CD8(+) T cells promote tubule-interstitial damage in malaria-induced acute kidney injury.
+40661555	Malaria parasite population genomics during an elimination program in Eastern Myanmar.
+40661319	A Rare Presentation of Plasmodium vivax Malaria: Pancytopenia due to Hemophagocytic Syndrome in a Pregnant Woman.
+40661278	Building contextually-relevant training programs for scientific development: process and lessons learned in implementing two iterations of a faculty enrichment program in applied malaria modeling.
+40660998	[The prevention and treatment of epidemic diseases in Weisheng Bao].
 40660279	Efficacy of artemether-lumefantrine, artesunate-amodiaquine, dihydroartemisinin-piperaquine and artesunate-pyronaridine for the treatment of uncomplicated Plasmodium falciparum malaria in Mozambique, 2022.
 40660121	Socioeconomic and geographical disparities in disability distribution among Tanzanian population: insights from the 2022 demographic and health survey and malaria indicator survey.
 40660064	Oral administration of Bacillus subtilis spores expressing Staphylococcus aureus IsdB induces mucosal immune responses in mice.
@@ -9989,11 +9997,3 @@
 37180169	TLR7 modulates extramedullary splenic erythropoiesis in P. yoelii NSM-infected mice through the regulation of iron metabolism of macrophages with IFN-γ.
 37179741	Severe Malaria with a Rare Tetrad of Blackwater Fever, Acute Renal Failure, Disseminated Intravascular Coagulopathy, and Acute Acalculous Cholecystitis.
 37179447	Blood-feeding adaptations and virome assessment of the poultry red mite Dermanyssus gallinae guided by RNA-seq.
-37179429	Projecting malaria elimination in Thailand using Bayesian hierarchical spatiotemporal models.
-37179349	Efficacy and safety of pyronaridine-artesunate versus artemether-lumefantrine in the treatment of acute uncomplicated malaria in children in South-West Nigeria: an open-labelled randomized controlled trial.
-37179329	The oral microbiota is a reservoir for antimicrobial resistance: resistome and phenotypic resistance characteristics of oral biofilm in health, caries, and periodontitis.
-37179012	Clinical evaluation of commercial SARS-CoV-2 serological assays in a malaria endemic setting.
-37178744	A modern look at the development of intrauterine pneumonia in premature newborns: Literature review.
-37178448	Therapeutical Utilization and Repurposing of Artemisinin and Its Derivatives: A Narrative Review.
-37177783	Catch bonds in sickle cell disease: Shear-enhanced adhesion of red blood cells to laminin.
-37176870	Potential Plant-Based New Antiplasmodial Agent Used in Papua Island, Indonesia.
