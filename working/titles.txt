@@ -1,3 +1,13 @@
+40665320	Investing in traditional medicine: leveraging evidence and innovative research to strengthen the fight against malaria in Nigeria.
+40665230	The resurgence of malaria in Northern Iran in 2023: a wake-up call.
+40665227	Malaria associated pathogenesis of chronic kidney disease (MAP-CKD): a prospective study of children hospitalized with severe malaria.
+40665206	Plasmodium simium: birth and evolution of a zoonotic malaria parasite species.
+40664972	Fighting malaria as a patient and scientist.
+40664727	Automated multi-model framework for malaria detection using deep learning and feature fusion.
+40664687	Marked heterogeneity in malaria infection rate in a Malian longitudinal cohort.
+40664431	Essential aid made fully visible: understanding the proCHW financing landscape analysing accessible donor data sources.
+40664217	Systems analysis of clinical malaria reveals proteomic perturbation and innate-adaptive crosstalk linked to disease severity.
+40664184	Plasmodium falciparum Kelch13 Variants and Histidine-Rich Protein 2/3 Deletions in Central Ethiopia, 2023.
 40663613	A population genetic analysis of the nematode Strongyloides stercoralis in Asia shows that human infection is not a zoonosis from dogs.
 40663592	Engaging communities in the control of arboviral diseases: insights from the African region.
 40662956	Analysis of recognized occupational infectious diseases in Germany between 2018 and 2023.
@@ -324,7 +334,7 @@
 40544253	Characterization and abundance of malaria vectors in Sakassou, Central Côte d'Ivoire.
 40543976	Estimating the potential malaria morbidity and mortality avertable by the US President's Malaria Initiative in 2025: a geospatial modelling analysis.
 40543959	Reinforcing resilience: confronting the consequences of global malaria aid cuts in Africa.
-40543589	Functional insights into Plasmodium actin depolymerizing factor interactions with phosphoinositides.
+40543589	Functional insights into Plasmodium actin-depolymerizing factor interactions with phosphoinositides.
 40543556	Screening G6PD Mutations in Blood Donors by Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry with High-Throughput and Multiple Targets.
 40543404	Exploiting the potential of preparative multimodal chromatography resins for increasing selectivity in an orthogonal purification step.
 40542408	Antimalarial drug prescriptions and clinical outcomes of febrile children in Arba Minch City, South Ethiopia.
@@ -9987,13 +9997,3 @@
 37189054	Frequency of pleural effusion in dengue patients by severity, age and imaging modality: a systematic review and meta-analysis.
 37187685	Malaria as Potential Aetiology and Treatment Complicating Factor in DLBCL Patient: A Case Report.
 37187601	Socio-economic predictors of uptake of malaria interventions among pregnant women and mothers of under 5 children in Oyo State, Nigeria: a cross-sectional study.
-37187502	Thrombocytopenia a predictor of malaria: how far?
-39376595	Molecular diagnosis and genotyping of Orientia tsutsugamushi in Maesot and Chiangrai, Thailand.
-37186359	Immunisation used for offensive and defensive purposes during the Second World War.
-37186167	Impact of the microbiome on mosquito-borne diseases.
-37184269	Cerebral Malaria and Cytotoxic Lesions of the Corpus Callosum.
-37182583	The Landscape of Parasitic Infections in the United States.
-37182516	Medicinal and mechanistic overview of artemisinin in the treatment of human diseases.
-37182424	Elevated brain derived neurotrophic factor in plasma and interleukin-6 levels in cerebrospinal fluid in meningitis compared to cerebral malaria.
-37182106	Neurogenetic identification of mosquito sensory neurons.
-37181692	Knowledge, attitude, and adherence to malaria control guidelines and the prevalence of Plasmodium species infection in localities across transmission and ecological zones in Cameroon.
