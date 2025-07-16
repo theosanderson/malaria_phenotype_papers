@@ -1,3 +1,5 @@
+40668067	Tafenoquine Disrupts Intraerythrocytic Stages of Malaria Parasites by Inhibiting Nonclassical Pathways of β-Hematin Nucleation and Growth.
+40667864	Severe Malaria in Travelers-Time to Create a Specific Definition.
 40667286	Plasmodium falciparum DNA repair dynamics reveal unique roles for TLS polymerases and PfRad51 in genome diversification.
 40667256	Glycosylation of Plasmodium falciparum TRAP is essential for infection of mosquito salivary glands.
 40667196	Evolutionary trade-offs between functional and immune selection shape multigene families in pathogens.
@@ -9995,5 +9997,3 @@
 37193494	Performance of PfHRP2-RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
 37193492	Correction: Performance of PfHRP2‑RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
 37193450	Morbidity Pattern Among Adult Patients at the National Health Insurance Scheme Clinic of a Tertiary Hospital, Southwest Nigeria.
-37193245	Isolation and identification of microbiota of Culex quinquefasciatus for their application as paratransgenic tools in vector control.
-37193108	Two cases of COVID-19 presenting with severe malaria: a clinical challenge (case report).
