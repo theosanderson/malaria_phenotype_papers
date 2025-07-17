@@ -1,3 +1,9 @@
+40671035	"They tossed me up like a ball": informal settlement residents' experiences in accessing healthcare in Kampala, Uganda.
+40670970	Comparative immunological study of Plasmodium knowlesi infections in humans and macaques: insights into cytokine dynamics.
+40670924	High daily dose Short COurse PrimaquinE after G6PD testing for the radical cure of Plasmodium vivax malaria in Indonesia and Papua New Guinea: the SCOPE implementation study protocol.
+40670274	The apicoplast transportome of the malaria parasite.
+40670079	Global, regional, and national burden of neglected tropical diseases and malaria, 1990-2021.
+40669759	Extracellular Vesicles in Malaria Pathogenesis and Therapy: Emerging Insights and Future Perspectives.
 40669099	Development of a multi-epitope vaccine candidate targeting blood-stage of malaria through immunoinformatics approach.
 40668067	Tafenoquine Disrupts Intraerythrocytic Stages of Malaria Parasites by Inhibiting Nonclassical Pathways of β-Hematin Nucleation and Growth.
 40667864	Severe Malaria in Travelers-Time to Create a Specific Definition.
@@ -65,7 +71,7 @@
 40646441	Acute undifferentiated febrile illness in a traveler returning from Burkina Faso, West Africa to Puducherry, India- a case report.
 40646175	Author Correction: A comprehensive overview of the burden, prevention, and therapeutic aspects of arboviral diseases in India.
 40645886	Novel techniques for disrupting malaria transmission.
-40645354	"A Novel Prophylactic Strategy to Enhance Immunity inPlasmodium bergheiInfected Mice: Combining Mefloquine and Ultra-Diluted Malarial Antigen.
+40645354	A novel prophylactic strategy to enhance immunity inPlasmodium bergheiinfectedmice: Combining mefloquine and ultra-diluted malarial antigen.
 40644448	Testing the feasibility and utility of an executive function battery for use with primary school-aged students in Malawi.
 40643935	Leucocytozoon Prevalence Differs by Sex in Louisiana Wild Turkeys (Meleagris gallopavo).
 40643248	Perfect vs practical: utilizing hematology thin smears for the diagnosis of Plasmodium and Babesia.
@@ -9991,9 +9997,3 @@
 37196007	Prevalence, intensity and associated risk factors of soil-transmitted helminth infections among individuals living in Bata district, Equatorial Guinea.
 37195999	Distinct immune responses associated with vaccination status and protection outcomes after malaria challenge.
 37195995	Reconsideration of importance of the point mutation L982W in the voltage-sensitive sodium channel of the pyrethroid resistant Aedes aegypti (L.)(Diptera: Culicidae) in Vietnam.
-37195979	Spatial variation and attributable risk factors of anaemia among young children in Uganda: Evidence from a nationally representative survey.
-37195964	Intervention reducing malaria parasite load in vector mosquitoes: No impact on Plasmodium falciparum extrinsic incubation period and the survival of Anopheles gambiae.
-37194608	Integrating and coordinating programs for the management of anemia across the life course.
-37194452	Oplodiol and nitidine as potential inhibitors of Plasmodium falciparum dihydrofolate reductase: insights from a computational study.
-37193494	Performance of PfHRP2-RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
-37193492	Correction: Performance of PfHRP2‑RDT for malaria diagnosis during the first year of life in a high malaria transmission area in Burkina Faso.
