@@ -1,3 +1,4 @@
+40673760	Identification of novel compounds with prophylactic activity against hypnozoites using a Plasmodium cynomolgi in vitro model.
 40672955	Development of high affinity antibodies to Plasmodium falciparum merozoite and sporozoite antigens during infancy and adulthood.
 40672911	Effects of vector control interventions on spatio-temporal changes of falciparum malaria risk in children aged 2-10 in sub-Saharan African regions during 2011-2020.
 40672838	Malaria in China: a discourse-historical perspective.
@@ -9996,4 +9997,3 @@
 37198392	Detection of dengue virus infection in children presenting with fever in Hawassa, southern Ethiopia.
 37198165	Structural basis of epitope selectivity and potent protection from malaria by PfCSP antibody L9.
 37197802	Advances in malaria pharmacology and the online guide to MALARIA PHARMACOLOGY: IUPHAR review 38.
-37197657	High opsonic phagocytosis activity and growth inhibition of merozoites are associated with RON4 antibody levels and protect against febrile malaria in Ghanaian children.
