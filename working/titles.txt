@@ -1,3 +1,11 @@
+40672955	Development of high affinity antibodies to Plasmodium falciparum merozoite and sporozoite antigens during infancy and adulthood.
+40672911	Effects of vector control interventions on spatio-temporal changes of falciparum malaria risk in children aged 2-10 in sub-Saharan African regions during 2011-2020.
+40672838	Malaria in China: a discourse-historical perspective.
+40672192	Navigating parasite antigen genetic diversity in the design of Plasmodium vivax serological exposure markers for malaria.
+40671938	Design and simulation of a graphene-integrated SPR biosensor for malaria detection.
+40671816	The pattern of gene amplification of members of the Plasmodium vivax erythrocyte binding-like proteins family across the Amazon rainforest.
+40671811	Knowledge, Perspectives, and Risks Perceptions on Gene Drive and Genetically Modified Mosquitoes for Malaria Control among African Stakeholders: A Scoping Review Protocol.
+40671714	Warmer temperature accelerates reproductive senescence in mosquitoes.
 40671035	"They tossed me up like a ball": informal settlement residents' experiences in accessing healthcare in Kampala, Uganda.
 40670970	Comparative immunological study of Plasmodium knowlesi infections in humans and macaques: insights into cytokine dynamics.
 40670924	High daily dose Short COurse PrimaquinE after G6PD testing for the radical cure of Plasmodium vivax malaria in Indonesia and Papua New Guinea: the SCOPE implementation study protocol.
@@ -9989,11 +9997,3 @@
 37198165	Structural basis of epitope selectivity and potent protection from malaria by PfCSP antibody L9.
 37197802	Advances in malaria pharmacology and the online guide to MALARIA PHARMACOLOGY: IUPHAR review 38.
 37197657	High opsonic phagocytosis activity and growth inhibition of merozoites are associated with RON4 antibody levels and protect against febrile malaria in Ghanaian children.
-37197459	Inhibition of Thiamine Diphosphate-Dependent Enzymes by Triazole-Based Thiamine Analogues.
-37197082	Low Allelic Variation of Plasmodium falciparum msp-1 and msp-2 among Gold Miners in Central Kalimantan Province, Indonesia.
-37196765	Plasmodium parasitophorous vacuole membrane protein Pfs16 promotes malaria transmission by silencing mosquito immunity.
-37196703	In silico screening, synthesis, and antimalarial evaluation of PABA substituted 1,3,5-triazine derivatives as Pf-DHFR inhibitors.
-37196581	The association between female newborn and placental malaria infection: A case-control study.
-37196007	Prevalence, intensity and associated risk factors of soil-transmitted helminth infections among individuals living in Bata district, Equatorial Guinea.
-37195999	Distinct immune responses associated with vaccination status and protection outcomes after malaria challenge.
-37195995	Reconsideration of importance of the point mutation L982W in the voltage-sensitive sodium channel of the pyrethroid resistant Aedes aegypti (L.)(Diptera: Culicidae) in Vietnam.
