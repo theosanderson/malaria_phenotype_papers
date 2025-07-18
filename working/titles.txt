@@ -1,3 +1,5 @@
+40674494	Vaccination to mitigate climate-driven disruptions to malaria control in Madagascar.
+40674292	Prevalence of malaria, anemia and associated factors among school children in Hawassa city, Sidama, Ethiopia.
 40673760	Identification of novel compounds with prophylactic activity against hypnozoites using a Plasmodium cynomolgi in vitro model.
 40672955	Development of high affinity antibodies to Plasmodium falciparum merozoite and sporozoite antigens during infancy and adulthood.
 40672911	Effects of vector control interventions on spatio-temporal changes of falciparum malaria risk in children aged 2-10 in sub-Saharan African regions during 2011-2020.
@@ -9995,5 +9997,3 @@
 37199265	Chemical library design, QSAR modeling and molecular dynamics simulations of naturally occurring coumarins as dual inhibitors of MAO-B and AChE.
 37198702	Malaria vaccines: the 60-year journey of hope and final success-lessons learned and future prospects.
 37198392	Detection of dengue virus infection in children presenting with fever in Hawassa, southern Ethiopia.
-37198165	Structural basis of epitope selectivity and potent protection from malaria by PfCSP antibody L9.
-37197802	Advances in malaria pharmacology and the online guide to MALARIA PHARMACOLOGY: IUPHAR review 38.
