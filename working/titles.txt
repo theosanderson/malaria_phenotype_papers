@@ -1,3 +1,4 @@
+40679401	Shared host, distinct invaders: metabolomic footprints of plasmodium and babesia in host red cells.
 40678814	Global trends of positive deviance research in public health: A bibliometric analysis (1976-2024).
 40678795	Bringing to light unnoticed data on the genetic and host diversity of ungulate Plasmodium.
 40678545	In silico improvement of affinity for highly protective anti-malarial antibodies.
@@ -9996,4 +9997,3 @@
 37206261	Red blood cell alloantibodies in paediatric transfusion in sub-Saharan Africa: A new cohort and literature review.
 37205786	Optical Coherence Tomography and Optical Coherence Tomography Angiography in Neglected Diseases.
 37205645	Community-level impacts of the coronavirus pandemic on malaria prevention and health-seeking behaviours in rural Benin: A mixed methods study.
-37205465	Diversity of the bacterial and viral communities in the tropical horse tick, Dermacentor nitens in Colombia.
