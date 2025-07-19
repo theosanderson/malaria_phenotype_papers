@@ -1,3 +1,6 @@
+40680208	Bio-guided investigation of nine Niger's ethnomedicinal plants reveals nature-derived antimalarial chemical pharmacophores for drug discovery.
+40680098	Evaluating the cost of malaria elimination by Anopheles gambiae precision guided SIT in the Upper River region, The Gambia.
+40680058	Optimization and Characterization of the Antimalarial Activity of N-Aryl Acetamides that are Susceptible to Mutations in ROM8 and CSC1.
 40679401	Shared host, distinct invaders: metabolomic footprints of plasmodium and babesia in host red cells.
 40678814	Global trends of positive deviance research in public health: A bibliometric analysis (1976-2024).
 40678795	Bringing to light unnoticed data on the genetic and host diversity of ungulate Plasmodium.
@@ -9994,6 +9997,3 @@
 37208148	Mosquito Larvae and Pupae Transport from the Field.
 37208120	Mapping malaria incidence using routine health facility surveillance data in Uganda.
 37207628	Proteasome inhibitors: The next generation of antimalarial drugs?
-37206261	Red blood cell alloantibodies in paediatric transfusion in sub-Saharan Africa: A new cohort and literature review.
-37205786	Optical Coherence Tomography and Optical Coherence Tomography Angiography in Neglected Diseases.
-37205645	Community-level impacts of the coronavirus pandemic on malaria prevention and health-seeking behaviours in rural Benin: A mixed methods study.
