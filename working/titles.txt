@@ -1,3 +1,12 @@
+40682435	Identification of chemosensory protein inhibitors as a potential strategy to combat pyrethroid resistance in Anopheles gambiae.
+40682169	A power analysis framework to aid the design of robust semi-field vector control experiments.
+40682129	Evaluation of anti-malarial treatment for elimination of malaria in South West Ethiopia: a concurrent triangulation design for prompt decision.
+40682081	Preliminary assessment of serum endocan as a biomarker of disease severity in Plasmodium falciparum and Plasmodium vivax malaria.
+40681807	Rising prevalence of Plasmodium falciparum Artemisinin partial resistance mutations in Ethiopia.
+40681790	Comparative Characterization of Plasmodium falciparum Small Heat Shock Proteins and Their Inhibition by Quercetin (3,3',4',5,7-Pentahydroxyflavone).
+40681482	Characterisation of between-cluster heterogeneity in malaria cluster randomised trials to inform future sample size calculations.
+40680759	Tracking development assistance for health, 1990-2030: historical trends, recent cuts, and outlook.
+40680501	Antimalarial drug resistance and drug discovery: learning from the past to innovate the future.
 40680208	Bio-guided investigation of nine Niger's ethnomedicinal plants reveals nature-derived antimalarial chemical pharmacophores for drug discovery.
 40680098	Evaluating the cost of malaria elimination by Anopheles gambiae precision guided SIT in the Upper River region, The Gambia.
 40680058	Optimization and Characterization of the Antimalarial Activity of N-Aryl Acetamides that are Susceptible to Mutations in ROM8 and CSC1.
@@ -9988,12 +9997,3 @@
 37209696	Microscopic Evidence of Malaria Infection in Visceral Tissue from Medici Family, Italy.
 37209680	Human scent guides mosquito thermotaxis and host selection under naturalistic conditions.
 37209670	Similar Prevalence of Plasmodium falciparum and Non-P. falciparum Malaria Infections among Schoolchildren, Tanzania(1).
-37209378	The Determinants of Utilisation of Herbal Medicine Among Pregnant Women in the Asante Akim North District, Ghana.
-37208735	Isoliensinine from Cissampelos pariera rhizomes exhibits potential gametocytocidal and anti-malarial activities against Plasmodium falciparum clinical isolates.
-37208733	Assessment of precision in growth inhibition assay (GIA) using human anti-PfRH5 antibodies.
-37208708	Anti-malarial resistance in Mozambique: Absence of Plasmodium falciparum Kelch 13 (K13) propeller domain polymorphisms associated with resistance to artemisinins.
-37208382	Ivermectin metabolites reduce Anopheles survival.
-37208365	EB1 decoration of microtubule lattice facilitates spindle-kinetochore lateral attachment in Plasmodium male gametogenesis.
-37208148	Mosquito Larvae and Pupae Transport from the Field.
-37208120	Mapping malaria incidence using routine health facility surveillance data in Uganda.
-37207628	Proteasome inhibitors: The next generation of antimalarial drugs?
