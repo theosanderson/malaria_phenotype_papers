@@ -1,3 +1,9 @@
+40684198	Bridging urban-rural disparities in malaria care during pregnancy in Senegal: evidence from household and health facility surveys.
+40684150	COVID-19 infection and its association with severe malaria & dengue: an epidemiological study from Southern India.
+40683950	FMRP regulation of STAT3-MYC signaling is critical for adult hippocampal neurogenesis and cognitive flexibility.
+40683235	Increased reproductive cancer risks following early-life dichlorodiphenyltrichloroethane (DDT) exposure: Evidence from a historical population-based study in Taiwan (1952-1957).
+40682862	An insight into the role of artificial intelligence in combating malaria: recent developments.
+40682513	Host preferences, Bloodmeal sources, and Gonotrophic cycles of Anopheles gambiae complex mosquitoes in Rural Southwestern Nigeria.
 40682435	Identification of chemosensory protein inhibitors as a potential strategy to combat pyrethroid resistance in Anopheles gambiae.
 40682169	A power analysis framework to aid the design of robust semi-field vector control experiments.
 40682129	Evaluation of anti-malarial treatment for elimination of malaria in South West Ethiopia: a concurrent triangulation design for prompt decision.
@@ -9991,9 +9997,3 @@
 37212590	Generating Genetically Modified Plasmodium berghei Sporozoites.
 37210961	Developing population identification tool based on polymorphism of rDNA for traditional Chinese medicine: Artemisia annua L.
 37210920	Vanadium compounds as antiparasitic agents: An approach to their mechanisms of action.
-37210535	The first year of the COVID-19 pandemic in humanitarian settings: epidemiology, health service utilization, and health care seeking behavior in Bangui and surrounding areas, Central African Republic.
-37210520	Adherence to 14-day radical cure for Plasmodium vivax malaria in Papua, Indonesia: a mixed-methods study.
-37209974	Hair concentrations of anti-malarials in returned travellers-the HAIR study: Proof of principle analysis.
-37209696	Microscopic Evidence of Malaria Infection in Visceral Tissue from Medici Family, Italy.
-37209680	Human scent guides mosquito thermotaxis and host selection under naturalistic conditions.
-37209670	Similar Prevalence of Plasmodium falciparum and Non-P. falciparum Malaria Infections among Schoolchildren, Tanzania(1).
