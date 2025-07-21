@@ -1,3 +1,5 @@
+40685916	The Duffy antigen: A narrative review of testing, epidemiology, neutrophil counts and clinical consequences.
+40685763	Combating Drug-Resistant Protozoal Infections: A Review of Emerging Therapeutics.
 40685354	Combining blood meal analysis and parasite detection yields a more comprehensive understanding of insect host feeding patterns.
 40684812	Killing of Anopheles stephensi mosquitoes by selective triketone 4-hydroxyphenylpyruvate dioxygenase inhibitors depends on a high protein meal.
 40684780	DDT: last mile in the global phase-out of its use for disease vector control?
@@ -9995,5 +9997,3 @@
 37214770	Migrants in transit across Central America and the potential spread of chloroquine resistant malaria-a call for action.
 37214733	Chemical Composition and Antiplasmodial Activity of the Essential Oil of Rhododendron subarcticum Leaves from Nunavik, Québec, Canada.
 37213951	A Surge in Malaria Cases in the Eastern Health Region of Saudi Arabia During the COVID-19 Pandemic.
-37213267	Identifying and Managing Vector-Borne Diseases in Migrants and Recent Travelers in the Emergency Department.
-37213266	Recent Advances in Imported Malaria Pathogenesis, Diagnosis, and Management.
