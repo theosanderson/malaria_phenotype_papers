@@ -1,3 +1,18 @@
+40689642	Host sphingolipids support Plasmodium berghei liver stage development.
+40689586	Concentration-Response Analysis of the Combination of Pyronaridine and Piperaquine on Corrected QT Interval From a Randomized, Double-Blind, Placebo-Controlled Study in Healthy Adults of African Sub-Saharan Origin.
+40689270	Wonder drugs and where to use them: a forecast of ivermectin's impact on malaria in Africa.
+40689214	Ethnobotanical Study of Medicinal Herbs Used by the Luguru Tribe Against Various Human Ailments in Morogoro Rural District, Tanzania.
+40689184	In vitro and in silico investigations of Propolis-derived phytochemicals as potential inhibitors of Plasmodium falciparum.
+40689035	Factors contributing to mosquito-borne disease: A systematic review in the Middle East and North Africa (MENA) region.
+40688966	Missed Until Critical: Unravelling the Mystery of Persistent Hemolysis With a Definitive Diagnosis of Babesiosis.
+40688822	Microbial Spectrum of Acute Encephalitis Syndrome With Special Reference to Non-Japanese Encephalitis Cases.
+40688182	Rodent malaria parasites detected in the invasive Rattus rattus in Gabon.
+40687925	Infectious disease research in forcibly displaced populations: A systematic review in low- and middle-income host countries.
+40687159	Prevalence of rheumatoid factor in asymptomatic chronic hepatitis B surface carriers in the context of endemic malaria: cross-sectional study at University Hospital of Cocody, Abidjan, Côte d'Ivoire.
+40686847	Evolution of tandem repeats in putative circumsporozoite protein to enhance its function: A recent and exclusive event in Plasmodium vivax in India.
+40686689	Evaluation of health impacts of a disability-inclusive graduation programme among ultra-poor people with disabilities in Uganda: secondary analysis of a cluster randomized trial.
+40686432	Mosquito-Borne Infections in International Travelers.
+40686419	Translation of a Human-Based Malaria-on-a-Chip Phenotypic Disease Model for In Vivo Applications.
 40685916	The Duffy antigen: A narrative review of testing, epidemiology, neutrophil counts and clinical consequences.
 40685763	Combating Drug-Resistant Protozoal Infections: A Review of Emerging Therapeutics.
 40685354	Combining blood meal analysis and parasite detection yields a more comprehensive understanding of insect host feeding patterns.
@@ -9982,18 +9997,3 @@
 37219373	A novel Modulator of Ring Stage Translation (MRST) gene alters artemisinin sensitivity in Plasmodium falciparum.
 37219047	Integration and application of new approach methodologies in assessing the developmental hazards: Case study with an antimalarial drug.
 37219006	OMIP-93: A 41-color high parameter panel to characterize various co-inhibitory molecules and their ligands in the lymphoid and myeloid compartment in mice.
-37218197	Recent Updates on Interaction Studies and Drug Delivery of Antimalarials with Serum Albumin Proteins.
-37218195	Therapeutic Application of Pineapple: A Review.
-37217984	Performance of the procedure for ultra-rapid extraction and loop-mediated isothermal amplification (PURE-LAMP) method to detect malaria in Haiti.
-37217235	A shared agenda for gender and COVID-19 research: priorities based on broadening engagement in science.
-37217004	A pitfall of cognitive bias during the pandemic: Two cases of Plasmodium falciparum malaria coinfected or misdiagnosed with COVID-19.
-37216996	The glycobiology of plasmodium falciparum: New approaches and recent advances.
-37216290	Plasmodium falciparum Eukaryotic Translation Initiation Factor 3 is Stabilized by Quinazoline-Quinoline Bisubstrate Inhibitors.
-37216080	Delayed Hemolysis With Parenteral Artesunate.
-37215882	Correlates of haemoglobin level in mothers of children under two years in Nanton district: A cross-sectional study from Ghana.
-37215766	Mosquito repellent fabric: Development and characterization of peppermint and garlic mixture finish on knitted fabric to examine mosquito repellency.
-37215099	Is TNF alpha a mediator in the co-existence of malaria and type 2 diabetes in a malaria endemic population?
-37214835	Malaria, gastrointestinal parasite infection and nutritional status among febrile children In Accra, Ghana.
-37214770	Migrants in transit across Central America and the potential spread of chloroquine resistant malaria-a call for action.
-37214733	Chemical Composition and Antiplasmodial Activity of the Essential Oil of Rhododendron subarcticum Leaves from Nunavik, Québec, Canada.
-37213951	A Surge in Malaria Cases in the Eastern Health Region of Saudi Arabia During the COVID-19 Pandemic.
