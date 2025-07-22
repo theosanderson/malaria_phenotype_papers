@@ -1,3 +1,6 @@
+40690497	Distribution and determinants of COVID-19 seroprevalence in a hard-to-access health district in Mali.
+40690473	Thrombocytopenia in patients with Plasmodium vivax in Colombia is associated with anti-phosphatidylserine autoantibodies and IL-6, IFNγ, IL-10 and TGF-β.
+40690438	A scoping review of community knowledge in malaria prevention and control programmes.
 40689642	Host sphingolipids support Plasmodium berghei liver stage development.
 40689586	Concentration-Response Analysis of the Combination of Pyronaridine and Piperaquine on Corrected QT Interval From a Randomized, Double-Blind, Placebo-Controlled Study in Healthy Adults of African Sub-Saharan Origin.
 40689270	Wonder drugs and where to use them: a forecast of ivermectin's impact on malaria in Africa.
@@ -9994,6 +9997,3 @@
 37220111	Effect of milk protein and whey permeate in large quantity lipid-based nutrient supplement on linear growth and body composition among stunted children: A randomized 2 × 2 factorial trial in Uganda.
 37219776	Simulation of the potential impact of climate change on malaria incidence using artificial neural networks (ANNs).
 37219610	Escaping the enemy's bullets: an update on how malaria parasites evade host immune response.
-37219373	A novel Modulator of Ring Stage Translation (MRST) gene alters artemisinin sensitivity in Plasmodium falciparum.
-37219047	Integration and application of new approach methodologies in assessing the developmental hazards: Case study with an antimalarial drug.
-37219006	OMIP-93: A 41-color high parameter panel to characterize various co-inhibitory molecules and their ligands in the lymphoid and myeloid compartment in mice.
