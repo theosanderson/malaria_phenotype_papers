@@ -1,3 +1,6 @@
+40693372	The Role of Hydroxychloroquine in the Management of Rheumatic Disorders: A Comprehensive Review.
+40693034	Undetected Plasmodium malariae and P. ovale infections in HRP2 RDT-positive children with uncomplicated malaria in Nanoro, Burkina Faso.
+40692795	R21/Matrix-M malaria vaccine drives diverse immune responses in pre-exposed adults: insights from a phase IIb controlled human malaria infection trial.
 40690497	Distribution and determinants of COVID-19 seroprevalence in a hard-to-access health district in Mali.
 40690473	Thrombocytopenia in patients with Plasmodium vivax in Colombia is associated with anti-phosphatidylserine autoantibodies and IL-6, IFNγ, IL-10 and TGF-β.
 40690438	A scoping review of community knowledge in malaria prevention and control programmes.
@@ -422,7 +425,7 @@
 40547076	Emergence of Anopheles stephensi as a malaria vector in Sudan.
 40546959	Osteoprotegerin and its ligands RANKL and TRAIL in falciparum, vivax, and knowlesi malaria.
 40546849	Geo-temporal study of clinical malaria in an endemic zone in southern Mali: The case of the Kolondieba health district from 2019 to 2021.
-40545470	Genetic diversity within Strongyloides fuelleborni: Mitochondrial genome analysis reveals a clear African and Asian division.
+40545470	Genetic diversity within Strongyloides fuelleborni: mitochondrial genome analysis reveals a clear African and Asian division.
 40545411	Preventing the establishment of invasive exotic mosquitoes.
 40544253	Characterization and abundance of malaria vectors in Sakassou, Central Côte d'Ivoire.
 40543976	Estimating the potential malaria morbidity and mortality avertable by the US President's Malaria Initiative in 2025: a geospatial modelling analysis.
@@ -9994,6 +9997,3 @@
 37221182	Plasmodium sporozoite search strategy to locate hotspots of blood vessel invasion.
 37221018	Seasonal Malaria Chemoprevention Drug Levels and Drug Resistance Markers in Children With or Without Malaria in Burkina Faso: A Case-Control Study.
 37220241	Gas-Phase Studies of Hypoxanthine-Guanine-(Xanthine) Phosphoribosyltransferase (HG(X)PRT) Substrates.
-37220111	Effect of milk protein and whey permeate in large quantity lipid-based nutrient supplement on linear growth and body composition among stunted children: A randomized 2 × 2 factorial trial in Uganda.
-37219776	Simulation of the potential impact of climate change on malaria incidence using artificial neural networks (ANNs).
-37219610	Escaping the enemy's bullets: an update on how malaria parasites evade host immune response.
