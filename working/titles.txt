@@ -1,3 +1,22 @@
+40699058	Population structure of Anopheles (Kerteszia) bellator in the Brazilian Atlantic Forest.
+40698943	Analysis of Fc-dependent effector functions of anti-malaria circumsporozoite protein antibodies.
+40698612	Eco-Friendly Synthesis of Silver Nanoparticles and Its Larvicidal Property Against Malaria, Filariasis, and Dengue Vectors.
+40698064	Dihydroartemisinin ameliorates hemarthrosis-induced cartilage degeneration by suppressing chondrocyte senescence via activation of Keap1-Nrf2 signaling pathway.
+40698045	Vector Abundance and Genetic Diversity of Anopheles Mosquitoes Collected in a Laboratory-Office Complex in Vom, Nigeria: Implications for Vector Control.
+40698034	HIV-1 Drug Resistance in Children and Implications for Pediatric Treatment Strategies: A Systematic Review and Meta-analysis.
+40697816	Plasma protein biomarkers of Plasmodium falciparum infection in pregnant women: a high-throughput proteomics study.
+40696427	Overreliance on Plasmodium 18S rRNA gene for malaria molecular diagnosis-inferences from systematic review.
+40696137	Iron homeostasis and cytokine responses in Gabonese children with febrile illness.
+40695881	Community engagement in promoting malaria vaccine uptake for children Under-Five.
+40695401	Establishment of a visual mixed-dye loop mediated isothermal amplification assay for detecting Plasmodium knowlesi.
+40695269	Using Electroencephalography to Assess Coma Etiology in Children with Retinopathy-Negative Cerebral Malaria.
+40695195	Sulfadoxine derivatization through multicomponent reactions to obtain new antiplasmodial compounds.
+40695081	Polymorphisms of the CYP2D6 gene and its relationship with Plasmodium vivax relapses after chloroquine-primaquine treatment in Turbo, Colombia.
+40695027	Screening mycosporine-like amino acids (MAAs) as potential inhibitors of a malaria-associated cysteine protease falcipain-2.
+40694928	Mirroring rarity of ectopic adult Schistosoma haematobium worms in a Sudanese patient.
+40694583	Outbreak of cutaneous leishmaniasis amongst militia members in a non-endemic district under conflict in the lowlands of Somali Region caused by Leishmania tropica, Eastern Ethiopia.
+40694565	A chaperonin complex regulates organelle proteostasis in malaria parasites.
+40694003	Targeting Plasmodium Glutathione S-transferases to Overcome Antimalaria Drug Resistance in Southern Africa.
 40693372	The Role of Hydroxychloroquine in the Management of Rheumatic Disorders: A Comprehensive Review.
 40693034	Undetected Plasmodium malariae and P. ovale infections in HRP2 RDT-positive children with uncomplicated malaria in Nanoro, Burkina Faso.
 40692795	R21/Matrix-M malaria vaccine drives diverse immune responses in pre-exposed adults: insights from a phase IIb controlled human malaria infection trial.
@@ -368,6 +387,7 @@
 40570066	Examining the overlap in lymphatic filariasis prevalence and malaria insecticide-treated net access-use in endemic Africa.
 40570028	Attractive targeted sugar baits for malaria control in western Kenya (ATSB-Kenya) - Effect of ATSBs on epidemiologic and entomologic indicators: A Phase III, open-label, cluster-randomised, controlled trial.
 40569209	Community health workers identify children requiring health center admission in Northern Uganda: prehospital risk prediction using vital signs and advanced point-of-care tests.
+40568770	Design, Synthesis, Antimicrobial, and Antimalarial Evaluation of Quinoline Hydrazone Derivatives: Insight through Density Functional Theory Analysis, Molecular Docking, and Absorption, Distribution, Metabolism, Excretion, and Toxicity Predictions.
 40568768	Climate and human-driven changes in malaria vector distribution in China: implications for Anopheles species management.
 40568136	The Consortium for Genomic Diversity, Ancestry, and Health in Colombia (CÓDIGO): building local capacity in genomics, bioinformatics, and precision medicine.
 40568120	A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1's role in ap2-g activation.
@@ -408,7 +428,7 @@
 40554477	Potential role of proprietary patent medicine vendors in primary eye and ear care: A mixed methods study in northern Nigeria.
 40554394	Prevalence of malaria parasites among blood donors in two hospitals in Enugu metropolis, Nigeria.
 40553524	Plasmodium vivax Malaria Presenting with Acute Respiratory Distress Syndrome: A Case Series.
-40553485	Optimizing Transcranial Doppler Screening for Stroke Prevention in Young African Children with Sickle Cell Disease.
+40553485	Optimizing Transcranial Doppler Screening for Stroke Prevention in Young African Children With Sickle Cell Disease.
 40553266	Curdlan: a microbial biopolymer of multifarious applications for a sustainable environment.
 40552966	A Vaccine to Block Plasmodium falciparum Transmission.
 40552965	Blocking Human-to-Mosquito Transmission of Plasmodium falciparum - A New Path to Malaria Elimination?
@@ -9977,23 +9997,3 @@
 37228009	A conformational epitope in placental malaria vaccine antigen VAR2CSA: What does it teach us?
 37227504	Mosquito gene targeted RNAi studies for vector control.
 37227253	Fostering innovation to solve the biomechanics of microbe-host interactions: Focus on the adhesive forces underlying Apicomplexa parasite biology.
-37226561	Importance of Balanced Attention Toward Coronavirus Disease 2019 and Neglected Tropical Diseases.
-37226272	Poor performance of malaria rapid diagnostic tests for the detection of Plasmodium malariae among returned international travellers in China.
-37226196	Molecular drivers of insecticide resistance in the Sahelo-Sudanian populations of a major malaria vector Anopheles coluzzii.
-37225557	Regulatory T cells in parasite infections: susceptibility, specificity and specialisation.
-37224836	Lancet Commission on synergies between universal health coverage, health security, and health promotion.
-39816832	Infection with soil-transmitted helminths and their impact on coinfections.
-37224167	A qualitative study of health workers' perspectives on malaria case identification and management among pregnant women in Savelugu Municipality, Ghana.
-37223898	Analysis of Postdischarge Interventions for Children Treated for Moderate or Severe Wasting, Growth Faltering or Failure, or Edema: A Systematic Review.
-37223876	An old foe on peculiar paths: severe falciparum malaria in a Syrian refugee, possibly infected during migrant smuggling from Türkiye to Germany.
-37223718	The Influence of Cytochrome P450 Polymorphisms on Pharmacokinetic Profiles and Treatment Outcomes Among Malaria Patients in Sub-Saharan Africa: A Systematic Review.
-37223113	Corrigendum to "Persistently high proportions of plasmodium-infected Anopheles funestus mosquitoes in two villages in the Kilombero valley, South-Eastern Tanzania" [Parasite Epidemiology and Control 18 (2022) e00264].
-37223061	A case of atypical vivax malaria with a global review of reports on myriads of morpho-variations in parasitized red blood cells.
-37222623	Nonbacterial Microflora in Wastewater Treatment Plants: an Underappreciated Potential Source of Pathogens.
-37222435	An overview on the antimalarial activity of 1,2,4-trioxanes, 1,2,4-trioxolanes and 1,2,4,5-tetraoxanes.
-37222353	Acceptability of short message service (SMS) as a tool for malaria treatment adherence in the Brazilian Amazon: a qualitative study.
-37222351	Malaria and COVID-19 coinfection in a non-malaria-endemic area in Brazil.
-37221466	Phase 1 trial to model primary, secondary, and tertiary dengue using a monovalent vaccine.
-37221182	Plasmodium sporozoite search strategy to locate hotspots of blood vessel invasion.
-37221018	Seasonal Malaria Chemoprevention Drug Levels and Drug Resistance Markers in Children With or Without Malaria in Burkina Faso: A Case-Control Study.
-37220241	Gas-Phase Studies of Hypoxanthine-Guanine-(Xanthine) Phosphoribosyltransferase (HG(X)PRT) Substrates.
