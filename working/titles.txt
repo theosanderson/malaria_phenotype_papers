@@ -4955,7 +4955,7 @@
 38968216	Drug resistance markers in Plasmodium vivax isolates from a Kanchanaburi province, Thailand between January to May 2023.
 38968107	Flp/FRT-mediated disruption of ptex150 and exp2 in Plasmodium falciparum sporozoites inhibits liver-stage development.
 38967233	Fixing the Achilles Heel of Pfizer's Paxlovid for COVID-19 Treatment.
-38967082	Immunological Activity of Vaccine Systems Containing Liposomal Nanocarriers against Protozoan-Induced Diseases: A Systematic Review.
+38967082	Immunological Activity of Vaccine Systems Containing Liposomal Nanocarriers against Protozoan-induced Diseases: A Systematic Review.
 38966997	DNA sequence and chromatin differentiate sequence-specific transcription factor binding in the human malaria parasite Plasmodium falciparum.
 38966694	Applying 'timeliness' to the screening and prevention of TB in household contacts of pulmonary TB patients.
 38965974	Investigating the effectiveness of web-based HIV self-test distribution and linkage to HIV treatment and PrEP among groups at elevated risk of HIV in Viet Nam provinces: a mixed-methods analysis of implementation from pilot to scale-up.
