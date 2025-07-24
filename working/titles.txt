@@ -1,3 +1,9 @@
+40704226	CHIP toolkit: Social mapping and transect walk for childhood infection and pollution - A comparative study across four cities (Jaipur, Jakarta, Antofagasta, and Istanbul).
+40704022	The impact of weather and extreme events on malaria transmission in the Brazilian Amazon: a case-crossover and population-based study.
+40703883	Modelling the Effect of Indoor Residual Spraying on Malaria Transmission in Nassarawa State, North-central Nigeria.
+40703871	Comparison of diagnostic accuracy of ultra-sensitive and conventional rapid diagnostic tests for malaria in asymptomatic pregnant women at a tertiary hospital in North-Central Nigeria.
+40703713	Search continues: Exploring immunoinformatics platforms for designing an effective multiepitope malaria vaccine candidate.
+40702654	A NOVEL HENNEGUYA (MYXOSPOREA) FROM THE GILLS OF GREEN SUNFISH, LEPOMIS CYANELLUS (CENTRARCHIFORMES: CENTRARCHIDAE), FROM THE BLACK RIVER (WHITE RIVER DRAINAGE) OF ARKANSAS.
 40702540	Conceptualization of gender in published malaria and gender research: a systematic descriptive review.
 40702525	Self-medication for malaria and associated factors in Kakumiro District, Uganda, August 2023: implications for malaria management and mortality prevention.
 40702459	Individual and community-level correlates of optimal doses of sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria during pregnancy in Tanzania: a multilevel analysis of the 2022 national survey.
@@ -9991,9 +9997,3 @@
 37233033	Mosquito Blood Feeding Prevention Using an Extra-Low DC Voltage Charged Cloth.
 37232495	Chemo-proteomics in antimalarial target identification and engagement.
 37232456	Development of Antiplasmodial Peptide-Drug Conjugates Using a Human Protein-Derived Cell-Penetrating Peptide with Selectivity for Infected Cells.
-37231516	Correction: Genetic variations in human ATP2B4 gene alter Plasmodium falciparum in vitro growth in RBCs from Gambian adults.
-37231429	Evaluation of the protective efficacy of Olyset®Plus ceiling net on reducing malaria prevalence in children in Lake Victoria Basin, Kenya: study protocol for a cluster-randomized controlled trial.
-37231336	Use of artesunate in the treatment of severe imported malaria in France: review of the effectiveness and real-life safety in two French university hospitals.
-37231184	Holobiont perspectives on tripartite interactions among microbiota, mosquitoes, and pathogens.
-37230159	Characterisation of Anopheles species composition and genetic diversity in Meghalaya, northeast India, using molecular identification tools.
-37229438	Decrease on malaria clinical cases from 2017 to 2019 in Franceville, Southeast Gabon, Central Africa.
