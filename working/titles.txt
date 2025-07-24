@@ -1,3 +1,10 @@
+40702540	Conceptualization of gender in published malaria and gender research: a systematic descriptive review.
+40702525	Self-medication for malaria and associated factors in Kakumiro District, Uganda, August 2023: implications for malaria management and mortality prevention.
+40702459	Individual and community-level correlates of optimal doses of sulfadoxine-pyrimethamine for intermittent preventive treatment of malaria during pregnancy in Tanzania: a multilevel analysis of the 2022 national survey.
+40702415	Suboptimal distribution and utilization of antenatal care given bed Nets undermine pregnant women's protection in Benin: a prospective field study.
+40702267	JAK/STAT inhibition protects glucocorticoid receptor knockout mice from lethal malaria-induced hypoglycemia and hyperinflammation.
+40702179	Driving a protective allele of the mosquito FREP1 gene to combat malaria.
+40701686	Cerebral malaria.
 40700693	Ivermectin against Malaria - Good News in Bad Times.
 40700688	Ivermectin to Control Malaria - A Cluster-Randomized Trial.
 40700449	A community-based vector control intervention "Slash and Clear" implemented in two onchocerciasis-endemic foci in South Sudan.
@@ -9990,10 +9997,3 @@
 37231184	Holobiont perspectives on tripartite interactions among microbiota, mosquitoes, and pathogens.
 37230159	Characterisation of Anopheles species composition and genetic diversity in Meghalaya, northeast India, using molecular identification tools.
 37229438	Decrease on malaria clinical cases from 2017 to 2019 in Franceville, Southeast Gabon, Central Africa.
-37229304	In vivo antiplasmodial activities of stem bark extracts of Avicennia marina in Plasmodium berghei-infected mice.
-37228733	Making districts functional for universal health coverage attainment: lessons from Ghana.
-37228664	A review of malaria molecular markers for drug resistance in Plasmodium falciparum and Plasmodium vivax in China.
-37228427	Acetaminophen as Renoprotective Treatment in a Patient With Severe Malaria.
-37228109	Hematological abnormalities and associated factors among metabolic syndrome patients at the University of Gondar comprehensive specialized hospital, Northwest Ethiopia.
-37228070	Effect of voluntary human mobility restrictions on vector-borne diseases during the COVID-19 pandemic in Japan: A descriptive epidemiological study using a national database (2016 to 2021).
-37228010	Malaria and typhoid fever among patients presenting with febrile illnesses in Ga West Municipality, Ghana.
