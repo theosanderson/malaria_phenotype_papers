@@ -1,3 +1,7 @@
+40711456	Characterizing the quick-killing mechanism of action of azithromycin analogs against malaria parasites.
+40711076	Leishmaniasis: Vector-Host-Pathogen Interactions in Health and Disease.
+40711074	Epidemiological Profile and Risk Factors for Malaria in Rural Communities Before the Operationalization of the Singrobo-Ahouaty Dam, Southern Côte d'Ivoire.
+40711054	Evaluation of Social and Clinical Factors Associated with Adverse Drug Reactions Among Children with Drug-Resistant Tuberculosis in Pakistan.
 40709175	Temporal TCR dynamics and epitope diversity mark recovery in severe COVID-19 patients.
 40709108	Prevalence of Transfusion-Transmitted Infections and Its Association With Blood Groups Among Blood Donors at the Blood Bank of a Tertiary Care Center.
 40708054	Micro-scale genetic structure and genetic variation of Neotricula aperta (Gastropoda: Pomatiopsidae), the intermediate host of Schistosoma mekongi (Digenea: Schistosomatidae) in Champasak Province, Laos.
@@ -9993,7 +9997,3 @@
 37236222	Tafenoquine and artemisinin-based combination therapy for vivax malaria: end of the road or just the beginning?
 37236221	Tafenoquine co-administered with dihydroartemisinin-piperaquine for the radical cure of Plasmodium vivax malaria (INSPECTOR): a randomised, placebo-controlled, efficacy and safety study.
 37236024	Regulation of protein prenylation.
-37236020	Recent developments in antimalarial drug discovery.
-37235333	Inter-Population Genetic Diversity and Clustering of Merozoite Surface Protein-1 (pkmsp-1) of Plasmodium knowlesi Isolates from Malaysia and Thailand.
-37235326	Putative Contribution of 8-Aminoquinolines to Preventing Recrudescence of Malaria.
-37235292	Anopheles funestus Populations across Africa Are Broadly Susceptible to Neonicotinoids but with Signals of Possible Cross-Resistance from the GSTe2 Gene.
