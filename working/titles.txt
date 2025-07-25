@@ -1,3 +1,5 @@
+40705807	Whole blood transcriptomics analysis of Indonesians reveals translocated and pathogenic microbiota in blood.
+40705496	Seroprevalence of Rift Valley and Crimean-Congo Hemorrhagic Fever Viruses, Benin, 2022-2023.
 40704226	CHIP toolkit: Social mapping and transect walk for childhood infection and pollution - A comparative study across four cities (Jaipur, Jakarta, Antofagasta, and Istanbul).
 40704022	The impact of weather and extreme events on malaria transmission in the Brazilian Amazon: a case-crossover and population-based study.
 40703883	Modelling the Effect of Indoor Residual Spraying on Malaria Transmission in Nassarawa State, North-central Nigeria.
@@ -9995,5 +9997,3 @@
 37233473	Marine Invertebrates: A Promissory Still Unexplored Source of Inhibitors of Biomedically Relevant Metallo Aminopeptidases Belonging to the M1 and M17 Families.
 37233085	Integrated Plan of Insecticide Resistance Surveillance in Mosquito Vectors in France.
 37233033	Mosquito Blood Feeding Prevention Using an Extra-Low DC Voltage Charged Cloth.
-37232495	Chemo-proteomics in antimalarial target identification and engagement.
-37232456	Development of Antiplasmodial Peptide-Drug Conjugates Using a Human Protein-Derived Cell-Penetrating Peptide with Selectivity for Infected Cells.
