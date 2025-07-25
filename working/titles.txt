@@ -1,3 +1,5 @@
+40709175	Temporal TCR dynamics and epitope diversity mark recovery in severe COVID-19 patients.
+40709108	Prevalence of Transfusion-Transmitted Infections and Its Association With Blood Groups Among Blood Donors at the Blood Bank of a Tertiary Care Center.
 40708054	Micro-scale genetic structure and genetic variation of Neotricula aperta (Gastropoda: Pomatiopsidae), the intermediate host of Schistosoma mekongi (Digenea: Schistosomatidae) in Champasak Province, Laos.
 40708012	How to use learning curves to evaluate the sample size for malaria prediction models developed using machine learning algorithms.
 40707999	Identification of a moxidectin dose for 4- to 11-year-old children to support registration and potential use for onchocerciasis elimination: results of an open-label pharmacokinetic and safety study.
@@ -9995,5 +9997,3 @@
 37235333	Inter-Population Genetic Diversity and Clustering of Merozoite Surface Protein-1 (pkmsp-1) of Plasmodium knowlesi Isolates from Malaysia and Thailand.
 37235326	Putative Contribution of 8-Aminoquinolines to Preventing Recrudescence of Malaria.
 37235292	Anopheles funestus Populations across Africa Are Broadly Susceptible to Neonicotinoids but with Signals of Possible Cross-Resistance from the GSTe2 Gene.
-37234785	Editorial: Broadening our understanding of the impact of infections on the developing central nervous system - from basic to clinical sciences.
-37234473	The economic costs of malaria in pregnancy: evidence from four sub-Saharan countries.
