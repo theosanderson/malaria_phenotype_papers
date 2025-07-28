@@ -1,3 +1,14 @@
+40715565	Polycyclitol Derivatives Restore Long- Term Memory Via cdk5/p25 Activation of Tau Signaling in Experimental Cerebral Malaria.
+40715479	New benzoyl sesquiterpenoid, aoganolide, produced by Talaromyces sp. KTF-0021 strain (laeA-introduced mutant of FKI-5759 strain).
+40715250	Analysis of a mathematical model for malaria using data-driven approach.
+40715246	Antimalarial activity of root extract of Tephrosia villosa L. Pers. (Fabaceae) on Plasmodium berghei-infected mice.
+40715184	Comparative analysis of machine learning models for malaria detection using validated synthetic data: a cost-sensitive approach with clinical domain knowledge integration.
+40715105	Malaria bivalent viral vectored vaccine protects against Plasmodium falciparum and vivax and blocks parasite transmission.
+40715087	An all-in-one pipeline for the in vitro discovery and in vivo testing of Plasmodium falciparum malaria transmission blocking drugs.
+40714671	Case series of spontaneous splenic rupture in patients with malaria: A rare surgical emergency in non-traumatic cases.
+40714063	Bitter Leaf (Vernonia amygdalina) and Siam Weed (Chromolaena odorata) Aqueous Extracts Alleviate Testicular Damage Induced by Plasmodium berghei in Male Mice via Modulation of Oxidative Stress Pathways.
+40713723	Development and application of an LC-MS/MS method for quantification of fosmidomycin in human and rat plasma.
+40712615	Clinical impact and cost-effectiveness of the WHO-recommended advanced HIV disease package of care.
 40711456	Characterizing the quick-killing mechanism of action of azithromycin analogs against malaria parasites.
 40711076	Leishmaniasis: Vector-Host-Pathogen Interactions in Health and Disease.
 40711074	Epidemiological Profile and Risk Factors for Malaria in Rural Communities Before the Operationalization of the Singrobo-Ahouaty Dam, Southern Côte d'Ivoire.
@@ -72,7 +83,7 @@
 40685916	The Duffy antigen: A narrative review of testing, epidemiology, neutrophil counts and clinical consequences.
 40685763	Combating Drug-Resistant Protozoal Infections: A Review of Emerging Therapeutics.
 40685354	Combining blood meal analysis and parasite detection yields a more comprehensive understanding of insect host feeding patterns.
-40684812	Killing of Anopheles stephensi mosquitoes by selective triketone 4-hydroxyphenylpyruvate dioxygenase inhibitors depends on a high protein meal.
+40684812	Killing of Anopheles stephensi mosquitoes by selective triketone inhibitors of 4-hydroxyphenylpyruvate dioxygenase depends on a high protein meal.
 40684780	DDT: last mile in the global phase-out of its use for disease vector control?
 40684736	Non-typhoidal Salmonella combination vaccines: clinical development plan and regulatory considerations.
 40684198	Bridging urban-rural disparities in malaria care during pregnancy in Senegal: evidence from household and health facility surveys.
@@ -9986,14 +9997,3 @@
 37242305	Mechanism of Immune Evasion in Mosquito-Borne Diseases.
 37240201	Enhanced Mouse Susceptibility to Endotoxin Shock after Plasmodium yoelii Infection Is Correlated with Increased Serum Levels of Lipopolysaccharide Soluble Receptors.
 37239962	Structure of Leishmania donovani 6-Phosphogluconate Dehydrogenase and Inhibition by Phosphine Gold(I) Complexes: A Potential Approach to Leishmaniasis Treatment.
-37238706	Favorable Preclinical Pharmacological Profile of a Novel Antimalarial Pyrrolizidinylmethyl Derivative of 4-amino-7-chloroquinoline with Potent In Vitro and In Vivo Activities.
-37238673	The Role of Spermidine and Its Key Metabolites in Important, Pathogenic Human Viruses and in Parasitic Infections Caused by Plasmodium falciparum and Trypanosoma brucei.
-37237418	Seeing malaria through the eyes of affected communities: using photovoice to document local knowledge on zoonotic malaria causation and prevention practices among rural communities exposed to Plasmodium knowlesi malaria in Northern Borneo Island.
-37237307	Ex vivo RSA and pfkelch13 targeted-amplicon deep sequencing reveal parasites susceptibility to artemisinin in Senegal, 2017.
-37237283	Pharmacopeial quality of artemether-lumefantrine anti-malarial agents in Uganda.
-37237022	Mapping digital health ecosystems in Africa in the context of endemic infectious and non-communicable diseases.
-37236665	Uptake of four or more doses of sulfadoxine pyrimethamine for intermittent preventive treatment of malaria during pregnancy in Zambia: findings from the 2018 malaria in pregnancy survey.
-37236355	Structure of complex III with bound antimalarial agent CK-2-68 provides insights into selective inhibition of Plasmodium cytochrome bc(1) complexes.
-37236222	Tafenoquine and artemisinin-based combination therapy for vivax malaria: end of the road or just the beginning?
-37236221	Tafenoquine co-administered with dihydroartemisinin-piperaquine for the radical cure of Plasmodium vivax malaria (INSPECTOR): a randomised, placebo-controlled, efficacy and safety study.
-37236024	Regulation of protein prenylation.
