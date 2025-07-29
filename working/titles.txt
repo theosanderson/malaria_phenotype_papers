@@ -1,3 +1,7 @@
+40721828	Preclinic evaluation of the safety of potential anticovid-19 phytomedicine: SAYE PLUS impacts on Wistar rat biochemical and histopathological parameters in sub-chronic toxicity study.
+40721790	Subnational introduction of the RTS,S/AS01(E) malaria vaccine into routine immunization: experience and lessons from the three pilot countries.
+40721752	Seroprevalence of dengue virus infection among febrile patients visiting healthcare facilities in the selected districts of Afar region, Northeast Ethiopia.
+40721039	Optimizing Laboratory Blood Feeding Success of Anopheles maculatus: Effects of Pre-Feeding Preparation and Cues.
 40720671	Effects of Combined Lipid-Based Nutrient Supplements and Malaria Preventive Treatment during Pregnancy on Malaria, Maternal Nutrition, and Birth Outcomes: A Scoping Review.
 40720548	Heterogeneous impacts for malaria control from larviciding across villages and considerations for monitoring and evaluation.
 40720544	The plasmepsin-piperaquine paradox persists.
@@ -9993,7 +9997,3 @@
 31334971	Antiparasitic Drugs.
 37245219	Knowledge and Compliance with Malaria National Treatment Guidelines among Primary Health Care Workers in a Rural Area in Northern Nigeria.
 37244997	Sociodemographic factors associated with anemia among reproductive age women in Mali; evidenced by Mali malaria indicator survey 2021: spatial and multilevel mixed effect model analysis.
-37244916	Generation of a mutator parasite to drive resistome discovery in Plasmodium falciparum.
-37244404	The influence of manure-based organic fertilisers on the oviposition behaviour of Anopheles arabiensis.
-37244277	The threat of the Anti-Homsexuality Act in Uganda.
-37243282	Association of Polymorphisms of IL-6 Pathway Genes (IL6, IL6R and IL6ST) with COVID-19 Severity in an Amazonian Population.
