@@ -1,3 +1,5 @@
+40728767	Balancing sensitivity and specificity: investigating the effect of age delay and critical illness events on the number of threshold alarms.
+40728637	Identification of transcriptomic sepsis endotypes in sub-Saharan Africa: derivation, validation, and global alignment in two Ugandan cohorts.
 40727823	Phenotypic Screening of the MMV Global Health Priority Box Identifies Selective Compounds with Anti- Activity.
 40727445	Impact of environmental factors on the bionomics of Anopheles mosquito vectors of zoonotic malaria: A narrative review.
 40727086	Combined effect of methanolic extracts of Senna occidentalis (Fabaceae) and Khaya senegalensis (Meliaceae) collected in the far-north region (Cameroon) on adults of Anopheles gambiae senso stricto GILES 1902.
@@ -9995,5 +9997,3 @@
 37254297	The optimal strategy of incompatible insect technique (IIT) using Wolbachia and the application to malaria control.
 37254163	Correction: Molecular investigation of malaria-infected patients in Djibouti city (2018-2021).
 37254141	Socioeconomic and geographical inequalities in health care coverage in Mozambique: a repeated cross-sectional study of the 2015 and 2018 national surveys.
-37254079	Routine health check-ups for adolescents in Mwanza City, Tanzania: stakeholders' recommendations on its content, venue, and mode of delivery.
-37253833	Molecular identification of Phlebotomus kandelakii apyrase and assessment of the immunogenicity of its recombinant protein in BALB/c mice.
