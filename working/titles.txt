@@ -1,3 +1,15 @@
+40720671	Effects of Combined Lipid-Based Nutrient Supplements and Malaria Preventive Treatment during Pregnancy on Malaria, Maternal Nutrition, and Birth Outcomes: A Scoping Review.
+40720548	Heterogeneous impacts for malaria control from larviciding across villages and considerations for monitoring and evaluation.
+40720544	The plasmepsin-piperaquine paradox persists.
+40720541	Impact of co-infection with Plasmodium berghei ANKA in Leishmania major-parasitized mice on immune modulation and cutaneous leishmaniasis.
+40720539	Field evaluation of Standard Q Filariasis Antigen Test for Lymphatic Filariasis (LF) during a pre-transmission assessment survey in Sierra Leone, 2022.
+40720352	Ookluc: A Plasmodium berghei Line for Identifying Transmission-blocking Compounds.
+40719751	Repertoire, function, and structure of serological antibodies induced by the R21/Matrix-M malaria vaccine.
+40718588	An expanded method for malaria parasite genetic surveillance using targeted nanopore sequencing.
+40717945	Analysis of a syndromic surveillance system for infectious diseases of the 31st summer World University Games in Chengdu, China.
+40717771	Malaria-derived hemozoin skews dendritic cell responses to bacterial infections by reducing interferon gene-transcription by SWI/SNF-NuRD.
+40717722	Mitigation of Malaria in Sub-Saharan Africa through Vaccination: A Budding Road Map for Global Malaria Eradication.
+40717585	Association of a novel IgG3 allele with malaria in children from the Sepik region of Papua New Guinea.
 40715565	Polycyclitol Derivatives Restore Long- Term Memory Via cdk5/p25 Activation of Tau Signaling in Experimental Cerebral Malaria.
 40715479	New benzoyl sesquiterpenoid, aoganolide, produced by Talaromyces sp. KTF-0021 strain (laeA-introduced mutant of FKI-5759 strain).
 40715250	Analysis of a mathematical model for malaria using data-driven approach.
@@ -1101,7 +1113,7 @@
 40337849	Sample-sparing multiplexed antibody Fc biomarker discovery using a reconfigurable integrated microfluidic platform.
 40337467	Establishing and sustaining women-led vector control groups: community perspectives from Misungwi and Ilemela districts, Mwanza, Tanzania.
 40336838	Multi-omics insights into the response of the gut microbiota and metabolites to albendazole deworming in captive Rhinopithecus brelichi.
-40336454	Epidemiology of Intracellular Bacterial Pathogens Rickettsia Spp., Borrelia Spp., Coxiella Spp., and Bartonella Spp. in West Africa from 2000 to 2023: A Systematic Review.
+40336454	Epidemiology of Intracellular Bacterial Pathogens Rickettsia spp., Borrelia spp., Coxiella spp., and Bartonella spp. in West Africa from 2000 to 2023: A Systematic Review.
 40336121	Integrating local malaria molecular monitoring into regular malaria indicator surveys on Bioko Island: high association between urban communities and low-density infections.
 40336102	Splenic infarction in a paediatric patient with Plasmodium vivax malaria from Ethiopia: a case report.
 40336085	Effectiveness of family health education in malaria elimination programmes: a scoping review.
@@ -9985,15 +9997,3 @@
 37244404	The influence of manure-based organic fertilisers on the oviposition behaviour of Anopheles arabiensis.
 37244277	The threat of the Anti-Homsexuality Act in Uganda.
 37243282	Association of Polymorphisms of IL-6 Pathway Genes (IL6, IL6R and IL6ST) with COVID-19 Severity in an Amazonian Population.
-37243117	Vaccines against Tuberculosis: Where Are We Now?
-37243095	IgG4 Antibodies Induced by Repeated Vaccination May Generate Immune Tolerance to the SARS-CoV-2 Spike Protein.
-37242558	The Genus Dacryodes Vahl.: Ethnobotany, Phytochemistry and Biological Activities.
-37242412	Comparative study of Plasmodium falciparum msp-1 and msp-2 Genetic Diversity in Isolates from Rural and Urban Areas in the South of Brazzaville, Republic of Congo.
-37242401	Plasmodium falciparum Chloroquine-pfcrt Resistant Haplotypes in Brazilian Endemic Areas Four Decades after CQ Withdrawn.
-37242399	Role of the European Pharmacist in the Implementation of the Latest WHO Guidelines for Malaria.
-37242362	Identification of Trichomonas vaginalis 5-Nitroimidazole Resistance Targets.
-37242359	Assessing the Operational Feasibility of Integrating Point-of-Care G6PD Testing into Plasmodium vivax Malaria Management in Vietnam.
-37242320	A Review of the Current Status of G6PD Deficiency Testing to Guide Radical Cure Treatment for Vivax Malaria.
-37242305	Mechanism of Immune Evasion in Mosquito-Borne Diseases.
-37240201	Enhanced Mouse Susceptibility to Endotoxin Shock after Plasmodium yoelii Infection Is Correlated with Increased Serum Levels of Lipopolysaccharide Soluble Receptors.
-37239962	Structure of Leishmania donovani 6-Phosphogluconate Dehydrogenase and Inhibition by Phosphine Gold(I) Complexes: A Potential Approach to Leishmaniasis Treatment.
