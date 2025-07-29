@@ -1,7 +1,28 @@
+40727823	Phenotypic Screening of the MMV Global Health Priority Box Identifies Selective Compounds with Anti- Activity.
+40727445	Impact of environmental factors on the bionomics of Anopheles mosquito vectors of zoonotic malaria: A narrative review.
+40727086	Combined effect of methanolic extracts of Senna occidentalis (Fabaceae) and Khaya senegalensis (Meliaceae) collected in the far-north region (Cameroon) on adults of Anopheles gambiae senso stricto GILES 1902.
+40726979	Exploring the P. falciparum antigens associated with reduced risk of malaria in pregnancy.
+40726977	IDO1-AhR axis increases T regulatory cells in Plasmodium vivax malaria infection.
+40726899	Human mobility, garimpos and spatiotemporal malaria transmission in the Yanomami Indigenous Territory: a retrospective observational study.
+40725924	Addressing health issues and accessibility in Elttondoub village, Sudan: Perspectives from community leaders.
+40725369	Assessment of BG-Pro (Biogent AG) and Silver Bullet 2.1 (Lumin8) UV-Light Traps Efficiency for Surveillance of Malaria Vectors in Western Kenya.
+40724874	Preclinical Evaluation of Repurposed Antimalarial Artemisinins for the Treatment of Malignant Peripheral Nerve Sheath Tumors.
+40724741	From Aid to Impact: The Cost-Effectiveness of Global Health Aid in Sub-Saharan Africa and the Evolving Role of Microinsurance.
+40724110	Effectiveness and Efficacy of Long-Lasting Insecticidal Nets for Malaria Control in Africa: Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+40723909	Emerging Molecular Mechanisms in Malaria Pathogenesis and Novel Therapeutic Approaches: A Focus on P. falciparum Malaria.
+40722582	Analytical and Clinical Validation of the ConfiSign HIV Self-Test for Blood-Based HIV Screening.
+40722180	Profiling HIV1-host protein-protein interaction networks in patient-derived exosome proteins: impact on pathophysiology and innate immune pathways.
+40722106	Incriminating vectors of deer malaria (Plasmodium odocoilei) at a Florida deer farm.
+40722086	Emergence of urban malaria and the associated risk factors: a case-control study in Mutare city, Zimbabwe.
 40721828	Preclinic evaluation of the safety of potential anticovid-19 phytomedicine: SAYE PLUS impacts on Wistar rat biochemical and histopathological parameters in sub-chronic toxicity study.
 40721790	Subnational introduction of the RTS,S/AS01(E) malaria vaccine into routine immunization: experience and lessons from the three pilot countries.
 40721752	Seroprevalence of dengue virus infection among febrile patients visiting healthcare facilities in the selected districts of Afar region, Northeast Ethiopia.
 40721039	Optimizing Laboratory Blood Feeding Success of Anopheles maculatus: Effects of Pre-Feeding Preparation and Cues.
+40716799	Assessing the quality of antimalarial drugs in Equatorial Guinea: a follow-up study.
+40716624	Reemergence of Oropouche in the Brazilian Amazon: A phylodynamic and phylogenetic analysis.
+40716594	Breast Milk Bisphenol Concentrations in Canada and South Africa and Associations with Body Size among South African Infants.
+40716444	Identifying genomic surveillance gaps in Africa for the global public health response to West Nile virus: a systematic review.
+40716091	Traction force generation in Plasmodium sporozoites is modulated by a surface adhesin.
 40720671	Effects of Combined Lipid-Based Nutrient Supplements and Malaria Preventive Treatment during Pregnancy on Malaria, Maternal Nutrition, and Birth Outcomes: A Scoping Review.
 40720548	Heterogeneous impacts for malaria control from larviciding across villages and considerations for monitoring and evaluation.
 40720544	The plasmepsin-piperaquine paradox persists.
@@ -9976,24 +9997,3 @@
 37254141	Socioeconomic and geographical inequalities in health care coverage in Mozambique: a repeated cross-sectional study of the 2015 and 2018 national surveys.
 37254079	Routine health check-ups for adolescents in Mwanza City, Tanzania: stakeholders' recommendations on its content, venue, and mode of delivery.
 37253833	Molecular identification of Phlebotomus kandelakii apyrase and assessment of the immunogenicity of its recombinant protein in BALB/c mice.
-37253765	Characterization of lab-based swarms of Anopheles gambiae mosquitoes using 3D-video tracking.
-37253570	[Progress of researches on antimalarial peptides].
-37253559	[The role of the Global Fund to Fight AIDS, Tuberculosis and Malaria in the development of global health and its collaboration with China].
-37253558	[Regular assessment is an effective approach to maintaining the capacity of prevention of re-establishment from imported malaria in China].
-37253396	Pharmacokinetic and metabolite profile of orally administered anemoside B4 in rats with an improved exposure in formulations of rectal suppository.
-37252557	Clinico-Serological Profile of Infective Causes of Acute Hepatitis in Children Admitted to a Tertiary Care Centre.
-37250706	minSNPs: an R package for the derivation of resolution-optimised SNP sets from microbial genomic data.
-37250687	Accelerating towards P. vivax elimination with a novel serological test-and-treat strategy: a modelling case study in Brazil.
-37250680	The SPIN framework to control and prevent the Marburg virus disease outbreak in Equatorial Guinea.
-37249423	Plasmodium falciparum GAP40 Plays an Essential Role in Merozoite Invasion and Gametocytogenesis.
-37249408	A Chemical Proteomic Strategy Reveals Inhibitors of Lipoate Salvage in Bacteria and Parasites.
-37248616	The new malaria vaccine: A complementary approach, not a replacement for existing measures.
-37248260	Perceptions and acceptability of the controlled human malaria infection (CHMI) model in The Gambia: a qualitative study.
-37247760	Long-read genome assembly and gene model annotations for the rodent malaria parasite Plasmodium yoelii 17XNL.
-37247702	Distinct biogeographic processes and areas of endemism contributed differentially to Plasmodium and Parahaemoproteus community assembly on Marajó Island.
-37246557	Host phylogeny and seasonality shapes avian haemosporidian prevalence in a Brazilian biodiverse and dry forest: the Caatinga.
-37246535	Understanding the spatial non-stationarity in the relationships between malaria incidence and environmental risk factors using Geographically Weighted Random Forest: A case study in Rwanda.
-37246323	Green Synthesis of Molecules for the Treatment of Neglected Diseases.
-31334971	Antiparasitic Drugs.
-37245219	Knowledge and Compliance with Malaria National Treatment Guidelines among Primary Health Care Workers in a Rural Area in Northern Nigeria.
-37244997	Sociodemographic factors associated with anemia among reproductive age women in Mali; evidenced by Mali malaria indicator survey 2021: spatial and multilevel mixed effect model analysis.
