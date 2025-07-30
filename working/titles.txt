@@ -1,3 +1,13 @@
+40730954	Power and sample size considerations for test-negative design with bias correction: a case study on the world first malaria vaccine.
+40730828	Novel insecticide resistance mutations associated with variable PBO synergy in Anopheles gambiae s.l. from the Democratic Republic of Congo.
+40730759	Bisquinoline as a promising scaffold in anti-infective drug discovery: the current state of the art and future prospects.
+40730633	Biochemical and biophysical characterization of Plasmodium falciparum glucose regulated protein 170.
+40730533	[Progress of researches on mechanisms underlying immune escape of Plasmodium].
+40730532	[Application of health education during the progress towards malaria elimination in China: a review].
+40730459	Discovery of Structurally Diverse γ-Pyrone-Type Diterpenoids Produced by the Fungus Mariannaea sp. FKR-1011 from Zamami Island.
+40729719	MalNet-DAF: Dual-Attentive Fusion Deep Learning Model for Malaria Parasite Classification.
+40729099	Therapeutic Effects of Isopropyltoluene (p-Cymene) Alone and in Combination with Quinine Against Malaria Infection Through Modulation of Inflammation and Oxidative Stress.
+40729064	Evaluating the Cytotoxic Potential of 3-(2-(3,4 dimethoxyphenyl)-2-oxoethylidene) indolin-2-one) (RAJI) on Triple Negative Breast Cancer Cells.
 40728767	Balancing sensitivity and specificity: investigating the effect of age delay and critical illness events on the number of threshold alarms.
 40728637	Identification of transcriptomic sepsis endotypes in sub-Saharan Africa: derivation, validation, and global alignment in two Ugandan cohorts.
 40727823	Phenotypic Screening of the MMV Global Health Priority Box Identifies Selective Compounds with Anti- Activity.
@@ -7999,6 +8009,7 @@
 37940706	Simultaneous targeted amplicon deep sequencing and library preparation for a time and cost-effective universal parasite diagnostic sequencing approach.
 37940203	The contribution of active case detection to malaria elimination in Thailand.
 37939823	Nanoliposomal Trachyspermum ammi (L) sprague essential oil for effective control of malaria mosquito larvae, Anopheles stephensi Liston.
+40729176	Prophylaxis Failure and Successful Management of Delayed-Onset Malaria with Renal Complications: A Case Report with Oral Artemether-Lumefantrine Treatment.
 37939204	Determinants of Aedes mosquito larval ecology in a heterogeneous urban environment- a longitudinal study in Bengaluru, India.
 37939186	Mapping the genomic landscape of multidrug resistance in Plasmodium falciparum and its impact on parasite fitness.
 37939134	NK cell-induced damage to P.falciparum-infected erythrocytes requires ligand-specific recognition and releases parasitophorous vacuoles that are phagocytosed by monocytes in the presence of immune IgG.
@@ -9986,14 +9997,3 @@
 37259413	Nornidulin, A New Inhibitor of Plasmodium falciparum Malate: Quinone Oxidoreductase (PfMQO) from Indonesian Aspergillus sp. BioMCC f.T.8501.
 37259110	Unusual clinical spectra of childhood severe malaria during malaria epidemic in eastern Uganda: a prospective study.
 37258746	Integrating nutrition assessments and seasonal malaria chemoprevention: Results from a mixed-methods feasibility study in Guinea.
-37258262	Prevalence and molecular analysis of glucose-6-phosphate dehydrogenase deficiency in Chin State, Myanmar.
-37258261	Determinant of parasite clearance and density on uncomplicated falciparum malaria infections in malaria-endemic area of Lampung Province, Indonesia.
-37257960	An impedance based microfluidic sensor for evaluation of individual red blood cell solute permeability.
-37257055	Plasmodium-Resistant Indole Diterpenoid Biosynthesis Gene Cluster Derived from Aspergillus oryzae Was Activated by Exogenous P450 Gene Ast B.
-37256889	Pooled prevalence and risk factors of malaria among children aged 6-59 months in 13 sub-Saharan African countries: A multilevel analysis using recent malaria indicator surveys.
-37256314	Vitamin C-rich juice co-administration with artemether-lumefantrine ameliorates oxido-inflammatory responses in Plasmodium berghei-infected mice.
-37254540	Biomimetic Nanovaccines: a Novel Approach in Immunization.
-37254528	Recent Advances in Drug Discovery for Parasitic Diseases.
-37254297	The optimal strategy of incompatible insect technique (IIT) using Wolbachia and the application to malaria control.
-37254163	Correction: Molecular investigation of malaria-infected patients in Djibouti city (2018-2021).
-37254141	Socioeconomic and geographical inequalities in health care coverage in Mozambique: a repeated cross-sectional study of the 2015 and 2018 national surveys.
