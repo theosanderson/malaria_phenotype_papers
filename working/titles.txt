@@ -1,3 +1,14 @@
+40735349	Transfusion-transmitted Plasmodium spp. infections and safety challenges for malaria in the Indian subcontinent: a systematic review.
+40733679	An mRNA Vaccine Expressing Blood-Stage Malaria Antigens Induces Complete Protection Against Lethal Plasmodium yoelii.
+40733224	Bioactive Cyclopeptide Alkaloids and Ceanothane Triterpenoids from Ziziphus mauritiana Roots: Antiplasmodial Activity, UHPLC-MS/MS Molecular Networking, ADMET Profiling, and Target Prediction.
+40732722	Temporal Parasitemia Trends Predict Risk and Timing of Experimental Cerebral Malaria in Mice Infected by Plasmodium berghei ANKA.
+40732699	Molecular and Microscopic Challenges in Detecting Plasmodium cynomolgi Co-Infections with Plasmodium vivax: A Case Report.
+40732696	Growth Inhibition and Additive Effect to Antimalarial Drugs of Brucea javanica Extracts on Asexual Blood-Stage Plasmodium falciparum.
+40732306	Synthetic Analogs of the Alkaloid Cassiarin A with Enhanced Antimalarial Activity.
+40732293	Anti-Infective Properties, Cytotoxicity, and In Silico ADME Parameters of Novel 4'-(Piperazin-1-yl)benzanilides.
+40732245	Antimalarial Drug Repurposing of Epirubicin and Pelitinib in Combination with Artemether and Lumefantrine.
+40732129	In Silico Approach for Early Antimalarial Drug Discovery: De Novo Design of Virtual Multi-Strain Antiplasmodial Inhibitors.
+40731324	Malaria vector control strategies in Pakistan: a scoping review.
 40730954	Power and sample size considerations for test-negative design with bias correction: a case study on the world first malaria vaccine.
 40730828	Novel insecticide resistance mutations associated with variable PBO synergy in Anopheles gambiae s.l. from the Democratic Republic of Congo.
 40730759	Bisquinoline as a promising scaffold in anti-infective drug discovery: the current state of the art and future prospects.
@@ -9986,14 +9997,3 @@
 37265396	A dual paper-based nucleic acid extraction method from blood in under ten minutes for point-of-care diagnostics.
 37264975	N2'-Branched Acyclic Nucleoside Phosphonates Containing 9-Deazahypoxanthine as Inhibitors of Plasmodium falciparum 6-Oxopurine Phosphoribosyltransferase.
 37264462	Residual insecticide surface treatment for preventing malaria: a systematic review protocol.
-37264067	Natural vectors of Plasmodium knowlesi and other primate, avian and ungulate malaria parasites in Narathiwat Province, Southern Thailand.
-37263994	No evidence of sustained nonzoonotic Plasmodium knowlesi transmission in Malaysia from modelling malaria case data.
-37263547	Artemisinin reduces acute ovarian ischemia-reperfusion injury in rats.
-37263545	Microarray patches for managing infections at a global scale.
-37260388	A Candidate Bacterial-Type Amino Acid Decarboxylase Is Essential for Male Gamete Exflagellation and Mosquito Transmission of the Malaria Parasite.
-37260274	A case of fever in a returning traveler.
-37260234	Temporal Analysis of Malaria Cases in the Brazilian Yanomami Pediatric Population: A Retrospective Ecologic Study From 2003 to 2022.
-37259506	Synthesis, biological evaluation, and computational investigation of ethyl 2,4,6-trisubstituted-1,4-dihydropyrimidine-5-carboxylates as potential larvicidal agents against Anopheles arabiensis.
-37259413	Nornidulin, A New Inhibitor of Plasmodium falciparum Malate: Quinone Oxidoreductase (PfMQO) from Indonesian Aspergillus sp. BioMCC f.T.8501.
-37259110	Unusual clinical spectra of childhood severe malaria during malaria epidemic in eastern Uganda: a prospective study.
-37258746	Integrating nutrition assessments and seasonal malaria chemoprevention: Results from a mixed-methods feasibility study in Guinea.
