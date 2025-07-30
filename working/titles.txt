@@ -1,3 +1,9 @@
+40736912	A cross-sectional survey of malaria in asymptomatic and symptomatic individuals in an endemic area of Northcentral Nigeria.
+40736900	Current Approaches in Genome Assembly of Human Fungal Pathogens.
+40736255	Electroencephalogram Features Distinguish Cases of Cerebral Malaria Among Malawian Children With Fever and Coma.
+40736225	BinaxNOW vs malaria: A diagnostic showdown: Design and implementation of a verification strategy across 4 academic hospitals in an area with low malaria prevalence.
+40736186	Applications and limitations of pluripotent stem cell-derived liver organoids.
+40735917	Loss of the starvation-and-light fruitbody formation trigger in the myxomycete Physarum roseum.
 40735349	Transfusion-transmitted Plasmodium spp. infections and safety challenges for malaria in the Indian subcontinent: a systematic review.
 40733679	An mRNA Vaccine Expressing Blood-Stage Malaria Antigens Induces Complete Protection Against Lethal Plasmodium yoelii.
 40733224	Bioactive Cyclopeptide Alkaloids and Ceanothane Triterpenoids from Ziziphus mauritiana Roots: Antiplasmodial Activity, UHPLC-MS/MS Molecular Networking, ADMET Profiling, and Target Prediction.
@@ -1950,7 +1956,7 @@
 40049310	The rising proportion of Plasmodium ovale spp. in imported malaria in Anhui Province, China: A retrospective propensity score-matched case-control study.
 40049189	Antimicrobials in serious illness and end-of-life care: lifting the veil of silence.
 40048801	A progress report in advancements of heterocyclic compounds as novel antimalarial agents over the last 5 years.
-40048639	Chemical targeting of prolyl-tRNA synthetase stalls ovarian development and kills malaria vectors.
+40048639	Chemical Targeting of Prolyl-tRNA Synthetase Stalls Ovarian Development and Kills Malaria Vectors.
 40048437	Unveiling the silent threat: Investigating asymptomatic plasmodium infections in Gorgora, Ethiopia through microscopy and loop-mediated isothermal amplification.
 40047195	Mapping malaria in Thailand: A Bayesian spatio-temporal analysis of national surveillance data.
 40047173	Household storm damage limits use of and access to insecticide treated bednets in Mozambique.
@@ -2168,7 +2174,7 @@
 39965915	Para-infective opsoclonus-myoclonus syndrome due to malaria in a returning traveller.
 39964989	Coverage and contextual factors associated with insecticide-treated net use among women of reproductive age in Nigeria: evidence from the 2021 malaria indicator survey data.
 39964912	Post-artesunate delayed hemolysis in African children with severe malaria: incidence, medical impact and prevention.
-39963714	G6PD deficiency is associated with an increased risk of acute kidney injury independent of hemolytic complications in children with severe malaria.
+39963714	Glucose-6-Phosphate Dehydrogenase Deficiency Is Associated With Increased Risk of Acute Kidney Injury Independent of Hemolytic Complications in Children With Severe Malaria.
 39963702	Choice of Drug for Malaria Prevention During Pregnancy Does Not Affect Infant Serologic Responses to Plasmodium falciparum Erythrocyte Membrane Proteins 1.
 39963646	Malaria-Associated Spontaneous Splenic Rupture With Coagulopathy and Hemodynamic Compromise: A Case Report.
 39963459	Bioactive polyketides from cultures of the entomopathogenic fungus Hypocrella luteola TBRC-BCC 76666.
@@ -2243,7 +2249,7 @@
 39938801	Stabilized designs of the malaria adhesin protein PvRBP2b for use as a potential diagnostic for Plasmodium vivax.
 39938314	Intention to receive new vaccines post-COVID-19 pandemic among adults and health workers in Lusaka, Zambia.
 39937058	Host Response Stratification in Malarial and Non-malarial Sepsis: A Prospective, Multicenter Analysis From Uganda.
-39936828	Prevalence of Plasmodium falciparum drug resistance markers pfcrt K76T and pfaat1 S258L in southern Rwanda, 2010 to 2023.
+39936828	Prevalence of Plasmodium falciparum Drug Resistance Markers pfcrt K76T and pfaat1 S258L in Southern Rwanda, 2010 to 2023.
 39936553	Prevalence of Malaria among Apparently Healthy Blood Donors at Tertiary Health-care Center in Northeastern Tribal Region of India.
 39935744	Lack of sex- and gender-disaggregated data in diagnostics: findings from a scoping review of five tracer conditions.
 39934889	Building evidences in Public Health Emergency Preparedness ("BePHEP" Project)-a systematic review.
@@ -3771,6 +3777,7 @@
 39423185	The economic cost of malaria in Brazil from the perspective of the public health system.
 39423091	MOIRE: a software package for the estimation of allele frequencies and effective multiplicity of infection from polyallelic data.
 39422781	Only incandescent light significantly decreases feeding of Anopheles funestus s.s. (Diptera: Culicidae) mosquitoes under laboratory conditions.
+39422259	Vaccines for Global Health: Progress and Challenges.
 39420728	Morphological Characterization of Culex Quinquefasciatus (Diptera: Culicidae) Pupae in the Eastern Province of Saudi Arabia.
 39420408	Recruitment of pregnant and breastfeeding women in pharmacokinetic studies: strategies, opportunities, barriers, and recommendations.
 39420395	A study on the effectiveness of (+)-usnic acid as oral toxic sugar bait against adult male and female Anopheles gambiae.
@@ -9990,10 +9997,3 @@
 37267284	Effects of bacterial composition and aquatic habitat metabolites on malaria vector larval availability in irrigated and non-irrigated sites of Homa Bay county, western Kenya.
 37266836	Automatic Classification of Antimalarial Herbal Drugs Exposed to Ultraviolet Radiation from Unexposed Ones Using Laser-Induced Autofluorescence with Chemometric Techniques.
 37266647	Knowledge, attitudes, and practices (KAP) during the malaria elimination phase: A household-based cross-sectional survey.
-37266375	Antimalarial potential of Moringa oleifera Lam. (Moringaceae): A review of the ethnomedicinal, pharmacological, toxicological, and phytochemical evidence.
-37265679	Rectal artesunate for severe malaria, implementation research, Zambia.
-37265674	Supply-chain factors and antimicrobial stewardship.
-37265668	Plasmodium 18S Ribosomal RNA Biomarker Clearance After Food and Drug Administration-Approved Antimalarial Treatment in Controlled Human Malaria Infection Trials.
-37265396	A dual paper-based nucleic acid extraction method from blood in under ten minutes for point-of-care diagnostics.
-37264975	N2'-Branched Acyclic Nucleoside Phosphonates Containing 9-Deazahypoxanthine as Inhibitors of Plasmodium falciparum 6-Oxopurine Phosphoribosyltransferase.
-37264462	Residual insecticide surface treatment for preventing malaria: a systematic review protocol.
