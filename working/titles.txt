@@ -1,3 +1,7 @@
+40739232	Larvicidal and adulticidal effects of Ethiopian medicinal plants against Anopheles gambiae (Diptera: Culicidae).
+40738902	Virus-like particle vaccines targeting a key epitope in circumsporozoite protein provide sterilizing immunity against malaria.
+40738901	The status of ownership and utilization of long-lasting insecticidal treated nets in war-torn Tigray, Ethiopia.
+40738657	Peri-Rolandic and Occipital Sparing Cortical Edema: A Prevalent MRI Finding in Pediatric Patients with Cerebral Malaria.
 40737098	Correction to 'A scalable CRISPR-Cas9 gene editing system facilitates CRISPR screens in the malaria parasite Plasmodium berghei'.
 40737060	The In2Care® EaveTubes improved protection against malaria vectors in a small-scale field study at Kagera Sugar Ltd, Missenyi, Tanzania.
 40736912	A cross-sectional survey of malaria in asymptomatic and symptomatic individuals in an endemic area of Northcentral Nigeria.
@@ -9993,7 +9997,3 @@
 37269630	Genomic analysis of Indian isolates of Plasmodium falciparum: Implications for drug resistance and virulence factors.
 37268984	Detection of Plasmodium simium gametocytes in non-human primates from the Brazilian Atlantic Forest.
 37268968	Insecticide resistance of Anopheles sinensis after elimination of malaria in Henan Province, China.
-37268775	Natural killer cells and antibodies versus malaria.
-37268224	Mechanistic investigation of direct photodegradation of chloroquine phosphate under simulated sunlight.
-37268002	Epigenetic Regulation and Chromatin Remodeling in Malaria Parasites.
-37267860	Epitope specific antibodies to N- and C cytoplasmic domains of the Plasmodium falciparum chloroquine resistance transporter (PfCRT) differentiate native and post-translationally modified variant.
