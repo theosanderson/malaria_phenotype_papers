@@ -1,3 +1,7 @@
+40741113	Sigmoid Schistosomiasis Granuloma Manifested as a Large Painless Supra-Pubic Mass: A Case Report.
+40740306	Epidemiology, Characteristics, and Treatment Outcomes of Mycoplasma pneumoniae Pneumonia in Hospitalized Adults: A 5-Year Retrospective Cohort Study.
+40739592	Influence of the physicochemical characteristics of mosquito breeding sites in domestic environments on the distributions of Anopheles, Aedes and Culex mosquitoes in Benin.
+40739505	Prevalence of Plasmodium falciparum parasites harbouring chloroquine-resistant but not artemisinin-resistant alleles in Busia County, Western Kenya.
 40739232	Larvicidal and adulticidal effects of Ethiopian medicinal plants against Anopheles gambiae (Diptera: Culicidae).
 40738902	Virus-like particle vaccines targeting a key epitope in circumsporozoite protein provide sterilizing immunity against malaria.
 40738901	The status of ownership and utilization of long-lasting insecticidal treated nets in war-torn Tigray, Ethiopia.
@@ -221,7 +225,7 @@
 40667196	Evolutionary trade-offs between functional and immune selection shape multigene families in pathogens.
 40667127	On the use of generative models for evolutionary inference of malaria vectors from genomic data.
 40667075	OocystMeter, a machine-learning algorithm to count and measure Plasmodium oocysts, reveals clustering patterns in the Anopheles midgut.
-40667046	Signatures of selection and mechanisms of insecticide resistance in Ugandan Anopheles funestus : Insights from embedding translational genomics into the LLINEUP cluster randomised trial.
+40667046	Signatures of selection and mechanisms of insecticide resistance in Ugandan Anopheles funestus: Insights from embedding translational genomics into the LLINEUP cluster randomised trial.
 40667006	Spatially-explicit genomics of An. gambiae s.l uncovers fine-scale population structure and mechanisms of insecticide resistance.
 40666837	Rapid detection of G6PD deficiency SNPs using a novel amplicon-based MinION Sequencing Assay.
 40666482	Acridone Prodrugs with Enhanced Dual-Stage Antimalarial Efficacy.
@@ -1012,7 +1016,7 @@
 40396655	Recognizing post malaria neurological syndrome in travellers: insights from three cases.
 40395990	Metamorphosis and development of malaria parasites in the liver are regulated by unconventional autophagy.
 40394903	Micronutrient Powders Combined With Malaria Chemoprevention to Improve Anaemia and Cognitive Function in Early Childhood in Mali: A Cluster-Randomised Trial.
-40394720	Cardiac Imaging in Patients With Tropical Diseases. A Scientific Statement of the European Association of Cardiovascular Imaging (EACVI) of the ESC and the Cardiovascular Imaging Department of the Brazilian Society of Cardiology (DICSBC).
+40394720	Cardiac imaging in patients with tropical diseases-a scientific statement of the European Association of Cardiovascular Imaging (EACVI) of the European Society of Cardiology and the Cardiovascular Imaging Department of the Brazilian Society of Cardiology (DICSBC).
 40394552	Forecasting malaria cases using climate variability in Sierra Leone.
 40394474	Genome-wide cataloging and orthology analysis of long noncoding RNA expression in three species of Anopheles mosquito.
 40394223	Isolation and validation of antimalarial compounds from Phyllanthus emblica leaves for new antimalarial drug development.
@@ -9993,7 +9997,3 @@
 37269963	Combined polymorphisms involving the IgG heavy chain and Fc gamma receptors among Fulani and non-Fulani in Benin: implications for the natural protection of young Fulani against Plasmodium falciparum malaria infections.
 37269941	Short-course, high-dose primaquine regimens for the treatment of liver-stage vivax malaria in children.
 37269868	Association between domesticated animal ownership and Plasmodium falciparum parasite prevalence in the Democratic Republic of the Congo: a national cross-sectional study.
-37269671	Tetrahydrobenzo[h]quinoline derivatives as a novel chemotype for dual antileishmanial-antimalarial activity graced with antitubercular activity: Design, synthesis and biological evaluation.
-37269630	Genomic analysis of Indian isolates of Plasmodium falciparum: Implications for drug resistance and virulence factors.
-37268984	Detection of Plasmodium simium gametocytes in non-human primates from the Brazilian Atlantic Forest.
-37268968	Insecticide resistance of Anopheles sinensis after elimination of malaria in Henan Province, China.
