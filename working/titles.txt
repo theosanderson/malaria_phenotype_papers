@@ -1,3 +1,6 @@
+40742293	Ferrocenyl Quinoline-Benzimidazole Hybrids: A Multistage Strategy to Combat Drug-Resistant Malaria.
+40742185	Pathogenesis of brain injury in cerebral malaria: emerging mechanisms and implications for intervention.
+40741950	Fractional curative killing of pyronaridine or artesunate combinations with tafenoquine, 4-aminoquinolines, or azithromycin in a murine malaria-luciferase model.
 40741113	Sigmoid Schistosomiasis Granuloma Manifested as a Large Painless Supra-Pubic Mass: A Case Report.
 40740306	Epidemiology, Characteristics, and Treatment Outcomes of Mycoplasma pneumoniae Pneumonia in Hospitalized Adults: A 5-Year Retrospective Cohort Study.
 40739592	Influence of the physicochemical characteristics of mosquito breeding sites in domestic environments on the distributions of Anopheles, Aedes and Culex mosquitoes in Benin.
@@ -9994,6 +9997,3 @@
 37270589	Clinical isolates of uncomplicated falciparum malaria from high and low malaria transmission areas show distinct pfcrt and pfmdr1 polymorphisms in western Ethiopia.
 37270545	Area-specific covid-19 effects on health services utilization in the Democratic Republic of the Congo using routine health information system data.
 37269964	Molecular insights into artemisinin resistance in Plasmodium falciparum: An updated review.
-37269963	Combined polymorphisms involving the IgG heavy chain and Fc gamma receptors among Fulani and non-Fulani in Benin: implications for the natural protection of young Fulani against Plasmodium falciparum malaria infections.
-37269941	Short-course, high-dose primaquine regimens for the treatment of liver-stage vivax malaria in children.
-37269868	Association between domesticated animal ownership and Plasmodium falciparum parasite prevalence in the Democratic Republic of the Congo: a national cross-sectional study.
