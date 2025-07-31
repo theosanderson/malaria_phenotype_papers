@@ -1,3 +1,5 @@
+40737098	Correction to 'A scalable CRISPR-Cas9 gene editing system facilitates CRISPR screens in the malaria parasite Plasmodium berghei'.
+40737060	The In2Care® EaveTubes improved protection against malaria vectors in a small-scale field study at Kagera Sugar Ltd, Missenyi, Tanzania.
 40736912	A cross-sectional survey of malaria in asymptomatic and symptomatic individuals in an endemic area of Northcentral Nigeria.
 40736900	Current Approaches in Genome Assembly of Human Fungal Pathogens.
 40736255	Electroencephalogram Features Distinguish Cases of Cerebral Malaria Among Malawian Children With Fever and Coma.
@@ -5061,6 +5063,7 @@
 38964338	Still time to contain artemisinin resistance in Africa.
 38963678	A morphological and molecular approach to investigating infectious disease in early medieval Iberia: The necropolis of La Olmeda (Palencia, Spain).
 38963319	Comparative proteomics uncovers low asparagine content in Plasmodium tRip-KO proteins.
+38963104	Cyclodextrins as a Strategy for Enhancing Solubility of Therapeutic Agents for Neglected Tropical Diseases: A Systematic Review.
 38962997	Lipid droplet dynamics are essential for the development of the malaria parasite Plasmodium falciparum.
 38962557	bistro: An R package for vector bloodmeal identification by short tandem repeat overlap.
 38962528	Antimalarial and Immunomodulatory Activities of Tithonia diversifolia (Asteraceae) Leave Flafonoids-Rich Extract Used in Cameroonian Traditional Medecine.
@@ -9994,6 +9997,3 @@
 37268224	Mechanistic investigation of direct photodegradation of chloroquine phosphate under simulated sunlight.
 37268002	Epigenetic Regulation and Chromatin Remodeling in Malaria Parasites.
 37267860	Epitope specific antibodies to N- and C cytoplasmic domains of the Plasmodium falciparum chloroquine resistance transporter (PfCRT) differentiate native and post-translationally modified variant.
-37267284	Effects of bacterial composition and aquatic habitat metabolites on malaria vector larval availability in irrigated and non-irrigated sites of Homa Bay county, western Kenya.
-37266836	Automatic Classification of Antimalarial Herbal Drugs Exposed to Ultraviolet Radiation from Unexposed Ones Using Laser-Induced Autofluorescence with Chemometric Techniques.
-37266647	Knowledge, attitudes, and practices (KAP) during the malaria elimination phase: A household-based cross-sectional survey.
