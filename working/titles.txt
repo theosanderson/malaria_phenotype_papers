@@ -1,3 +1,10 @@
+40745331	The β-triketone, nitisinone, kills insecticide-resistant mosquitoes through cuticular uptake.
+40745298	Morbidity and health seeking behavior among children and adolescents (0-19 years): a household survey assessment in Northwestern Tanzania.
+40745204	Malaria infection prevalence and diagnostic performance of the Abbott Bioline Malaria Ag P.f/Pan rapid test in rural populations of Central Cameroon.
+40744614	High-content phenotypic screening reveals natural product bioactives that disrupt mosquito activity, development and serotonergic signaling.
+40744421	Antimalarial Activity of Hydroalcoholic Extract and Fractions from Gnidia stenophylla Roots: In-Vitro Effects on P. falciparum and In-Vivo Suppression in P. berghei-Infected Mice.
+40744006	Plasmodium falciparum Genomic Surveillance Reveals a Diversity of Kelch 13 Mutations in Zambia.
+40744004	High Prevalence of Molecular Markers Associated with Artemisinin, Sulfadoxine, and Pyrimethamine Resistance in Northern Namibia.
 40743475	Visualization of FDA Adverse Drug Reaction Reports: Development and Usability Study of the VisDrugs Web Server.
 40743371	Cryo-EM structure of endogenous Plasmodium falciparum Pfs230 and Pfs48/45 fertilization complex.
 40743342	Cheap drug could make human blood toxic to mosquitoes.
@@ -1365,7 +1372,6 @@
 40270022	Plasmodium cynomolgi: potential emergence of new zoonotic malaria in Southeast Asia.
 40269892	Off-grid field-deployable molecular diagnostic platform for malaria surveillance.
 40269836	Enhancing safety of rapid and accurate malaria diagnosis in patients at risk for viral haemorrhagic fever.
-40268761	USAID's Role in Saving Children's Lives: Past Legacy and Future Directions.
 40268600	Holding hands to halt malaria: stronger together through heterotypic antibody interactions.
 40267640	Quinine-chalcone hybrids as potent inhibitors of P-glycoprotein with apoptotic effects on EBC-1 cells.
 40267394	Regulatory T cell memory: implications for malaria.
@@ -9991,9 +9997,3 @@
 37274361	Malaria: An Overview.
 37273838	Assessment of the Knowledge, Prevalence, and Control Strategies of Malaria Among Households in Sunyani Municipality, Bono Region, Ghana.
 37273537	Time series analysis of survival and oviposition cycle duration of Anopheles funestus (Giles) in Mozambique.
-37272999	The larval midgut of Anopheles, Aedes, and Toxorhynchites mosquitoes (Diptera, Culicidae): a comparative approach in morphophysiology and evolution.
-37272775	Copper-Catalyzed Synthesis of Pyrrolo[1,2-c]quinazolines and Pyrrolo[2,1-a]isoquinolines and Antiplasmodial Evaluation.
-37272704	Rhoptry neck protein 4 plays important roles during Plasmodium sporozoite infection of the mammalian liver.
-37272224	A meta-analysis reveals that dragonflies and damselflies can provide effective biological control of mosquitoes.
-37272217	Functions of double-negative B cells in autoimmune diseases, infections, and cancers.
-37271818	BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators.
