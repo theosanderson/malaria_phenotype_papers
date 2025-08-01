@@ -1,3 +1,7 @@
+40747512	In Vitro Antimalarial Activity of Chloroquine-Crocus Sativus Conjugated to Chitosan Nanocomposits against 3D7 and K1 Strains of Plasmodium falciparum.
+40747496	Managing Acute Kidney Injury in Severe Falciparum Malaria: Insights from a Challenging Case.
+40746561	Red pulp macrophages clear parasites, while marginal metallophilic and marginal zone macrophages support CD4(+) T cell activation during Plasmodium yoelii infection.
+40746445	Vector-borne infectious diseases in pregnancy in the era of climate change: A focus on mosquito- and tick-borne pathogens (Review).
 40745331	The β-triketone, nitisinone, kills insecticide-resistant mosquitoes through cuticular uptake.
 40745298	Morbidity and health seeking behavior among children and adolescents (0-19 years): a household survey assessment in Northwestern Tanzania.
 40745204	Malaria infection prevalence and diagnostic performance of the Abbott Bioline Malaria Ag P.f/Pan rapid test in rural populations of Central Cameroon.
@@ -3116,7 +3120,7 @@
 39659700	Evaluation of the Antibacterial and Antioxidant Properties of Chemical Constituents of the Roots of Woodfordia uniflora: An Integrated Approach of Experimental and Computational Study.
 39658783	Prevalence and attributable health burdens of vector-borne parasitic infectious diseases of poverty, 1990-2021: findings from the Global Burden of Disease Study 2021.
 39658487	The type 2 immune response in gut homeostasis and parasite transmission in malaria.
-39658125	The Frequency and Incidence of QT Prolongation with Extended Use of Bedaquiline or Delamanid in a Large, Multi-Country MDR/RR-TB Cohort.
+39658125	The Frequency and Incidence of QT Prolongation With Extended Use of Bedaquiline or Delamanid in a Large, Multi-Country Multidrug-Resistant/Rifampicin-Resistant Tuberculosis Cohort.
 39658124	Plasmodium knowlesi Infection Is Associated With Elevated Circulating Biomarkers of Brain Injury and Endothelial Activation.
 39657997	Drug Interaction Studies of Cabamiquine:Ganaplacide Combination against Hepatic Plasmodium berghei.
 39657379	Insecticide chlorfenapyr confers induced toxicity in human cells through mitochondria-dependent pathways of apoptosis.
@@ -9993,7 +9997,3 @@
 37276438	Appraisal of Fungus-Derived Xanthoquinodins as Broad-Spectrum Anti-Infectives Targeting Phylogenetically Diverse Human Pathogens.
 37275290	A cross-sectional study on factors associated with health care seeking for acute respiratory infection and fever in children under-five in Zambia.
 37275182	Evidence for "Whole Family Approach" in accelerating uptake of COVID-19 and routine immunizations among integrated primary health services in Nigeria.
-37274532	Using Typhoid Conjugate Vaccines to Prevent Disease, Promote Health Equity, and Counter Drug-Resistant Typhoid Fever.
-37274361	Malaria: An Overview.
-37273838	Assessment of the Knowledge, Prevalence, and Control Strategies of Malaria Among Households in Sunyani Municipality, Bono Region, Ghana.
-37273537	Time series analysis of survival and oviposition cycle duration of Anopheles funestus (Giles) in Mozambique.
