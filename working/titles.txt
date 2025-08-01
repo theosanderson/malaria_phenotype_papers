@@ -1,3 +1,8 @@
+40743475	Visualization of FDA Adverse Drug Reaction Reports: Development and Usability Study of the VisDrugs Web Server.
+40743371	Cryo-EM structure of endogenous Plasmodium falciparum Pfs230 and Pfs48/45 fertilization complex.
+40743342	Cheap drug could make human blood toxic to mosquitoes.
+40743314	Multitask deep learning for the emulation and calibration of an agent-based malaria transmission model.
+40743245	Comparative analysis of Egypt's malaria elimination strategies and implementation science: Pathways to achieve malaria-free status for other African countries.
 40742293	Ferrocenyl Quinoline-Benzimidazole Hybrids: A Multistage Strategy to Combat Drug-Resistant Malaria.
 40742185	Pathogenesis of brain injury in cerebral malaria: emerging mechanisms and implications for intervention.
 40741950	Fractional curative killing of pyronaridine or artesunate combinations with tafenoquine, 4-aminoquinolines, or azithromycin in a murine malaria-luciferase model.
@@ -9992,8 +9997,3 @@
 37272224	A meta-analysis reveals that dragonflies and damselflies can provide effective biological control of mosquitoes.
 37272217	Functions of double-negative B cells in autoimmune diseases, infections, and cancers.
 37271818	BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators.
-37271388	A rapid systematic scoping review of research on the impacts of water contaminated by chemicals on very young children.
-37270766	KNOWLEDGE, ATTITUDES, AND PRACTICES TOWARD MALARIA AND ANTIMALARIAL MASS DRUG ADMINISTRATION AMONG HEADS OF HOUSEHOLDS IN VILLAGES ON GRANDE COMORE ISLAND, THE COMOROS.
-37270589	Clinical isolates of uncomplicated falciparum malaria from high and low malaria transmission areas show distinct pfcrt and pfmdr1 polymorphisms in western Ethiopia.
-37270545	Area-specific covid-19 effects on health services utilization in the Democratic Republic of the Congo using routine health information system data.
-37269964	Molecular insights into artemisinin resistance in Plasmodium falciparum: An updated review.
