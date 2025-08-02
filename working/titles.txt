@@ -1,3 +1,5 @@
+40748991	CYP2B6*6 single nucleotide polymorphism among patients with uncomplicated malaria in Adjumani district, Uganda: Implications on efficacy of artemether-lumefantrine.
+40748809	FPGA-based Medical Image Processing Using Hardware-Software Co-design Approach.
 40747512	In Vitro Antimalarial Activity of Chloroquine-Crocus Sativus Conjugated to Chitosan Nanocomposits against 3D7 and K1 Strains of Plasmodium falciparum.
 40747496	Managing Acute Kidney Injury in Severe Falciparum Malaria: Insights from a Challenging Case.
 40746561	Red pulp macrophages clear parasites, while marginal metallophilic and marginal zone macrophages support CD4(+) T cell activation during Plasmodium yoelii infection.
@@ -9995,5 +9997,3 @@
 37276879	The silent threat of submicroscopic Plasmodium infections during pregnancy.
 37276878	Prevalence of and risk factors for microscopic and submicroscopic malaria infections in pregnancy: a systematic review and meta-analysis.
 37276438	Appraisal of Fungus-Derived Xanthoquinodins as Broad-Spectrum Anti-Infectives Targeting Phylogenetically Diverse Human Pathogens.
-37275290	A cross-sectional study on factors associated with health care seeking for acute respiratory infection and fever in children under-five in Zambia.
-37275182	Evidence for "Whole Family Approach" in accelerating uptake of COVID-19 and routine immunizations among integrated primary health services in Nigeria.
