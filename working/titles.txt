@@ -1,3 +1,12 @@
+40751449	CD47-mediated selective accumulation of mature Ly49h+ NK cells to the brain associates with the pathogenesis of cerebral malaria in mice.
+40751436	Plasmodium falciparum Parasitemia Does Not Diminish Neutralizing Antibody Responses After mRNA COVID-19 Booster Vaccination in HIV-infected Adults.
+40751217	Insecticide resistance status and high frequency of kdr mutations in Aedes aegypti in Tegucigalpa, Honduras.
+40751165	Prevalence and determinants of malaria among children aged 6-59 months in Tanzania: a nationwide cross-sectional study.
+40750887	Bayesian spatio-temporal modeling and prediction of malaria cases in Tanzania mainland (2016-2023): unveiling associations with climate and intervention factors.
+40750634	Impact of asymptomatic malaria infection on children's growth in rural Malawi.
+40750511	Safeguarding malaria control gains in Africa through 'species sanitation' and structural resilience.
+40749952	Content Analysis of Malaria-related Health Information Published in Online Travel Blogs.
+40749883	Intermediate forest cover and malaria risk in an Amazon deforestation frontier.
 40748991	CYP2B6*6 single nucleotide polymorphism among patients with uncomplicated malaria in Adjumani district, Uganda: Implications on efficacy of artemether-lumefantrine.
 40748809	FPGA-based Medical Image Processing Using Hardware-Software Co-design Approach.
 40747512	In Vitro Antimalarial Activity of Chloroquine-Crocus Sativus Conjugated to Chitosan Nanocomposits against 3D7 and K1 Strains of Plasmodium falciparum.
@@ -498,6 +507,7 @@
 40582050	Habitat drivers and predicted distribution shifts of Anopheles coluzzii under climate change: Results from the systematic review.
 40581744	Economic value of pre-travel health interventions for communicable diseases in international travellers.
 40580989	Implications of progressive lung damage and post-tuberculosis sequelae for the health benefits of prompt tuberculosis treatment in high HIV prevalence settings: a mathematical modelling analysis.
+40579884	West Nile Virus positivity amongst Canadian blood donors and effectiveness of off-season screening.
 40579769	Impact of the COVID-19 pandemic on TB epidemiology.
 40578841	Genetic markers at the crossroads: toll-like receptor polymorphisms and Plasmodium vivax malaria parasitological aspects from the Brazil-French Guiana border.
 40578380	Unveiling the incidences and trends of alveolar echinococcosis in Europe: a systematic review from the KNOW-PATH project.
@@ -9987,13 +9997,3 @@
 37279274	The parasite intraerythrocytic cycle and human circadian cycle are coupled during malaria infection.
 37279239	A comparison of the attractiveness of flowering plant blossoms versus attractive targeted sugar baits (ATSBs) in western Kenya.
 37277818	Does vitamin D reduce the mortality rate of Plasmodium infection?: a systematic review and meta-analysis.
-37277533	Sexual differentiation in human malaria parasites is regulated by competition between phospholipid metabolism and histone methylation.
-37277359	The relationships between microbiome diversity and epidemiology in domestic species of malaria-mediated mosquitoes of Korea.
-37277341	Monitoring transmission intensity of trachoma with serology.
-37277334	Author Correction: Glycosylated nanoparticle-based PfCSP vaccine confers long-lasting antibody responses and sterile protection in mouse malaria model.
-37277110	Role of Human Twin Studies to Identify Genetic Linkage of Malaria Pathogenesis and Outcomes.
-37277107	The Threat of Vector-Borne Diseases in Sierra Leone.
-37277106	Spatial Clustering and Risk Factors for Malaria Infections and Marker of Recent Exposure to Plasmodium falciparum from a Household Survey in Artibonite, Haiti.
-37276879	The silent threat of submicroscopic Plasmodium infections during pregnancy.
-37276878	Prevalence of and risk factors for microscopic and submicroscopic malaria infections in pregnancy: a systematic review and meta-analysis.
-37276438	Appraisal of Fungus-Derived Xanthoquinodins as Broad-Spectrum Anti-Infectives Targeting Phylogenetically Diverse Human Pathogens.
