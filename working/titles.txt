@@ -1,3 +1,7 @@
+40753217	Deletion of target gene (histidine-rich protein 2/3) for Plasmodium falciparum rapid diagnostic tests in Amhara region, Ethiopia: a cross-sectional study.
+40753215	The chemosensory world of mosquitoes: olfactory receptors and their role in blocking mosquito-borne disease transmission.
+40752641	A Dual In vitro and In silico Approach to Evaluate 1,4-Naphthoquinone-1,2,3-triazole Hybrids Against Atovaquone-Resistant Malaria.
+40752571	Polymerase Chain Reaction Fails to Detect Mixed Malaria Infections in Siblings from Ethiopia.
 40751449	CD47-mediated selective accumulation of mature Ly49h+ NK cells to the brain associates with the pathogenesis of cerebral malaria in mice.
 40751436	Plasmodium falciparum Parasitemia Does Not Diminish Neutralizing Antibody Responses After mRNA COVID-19 Booster Vaccination in HIV-infected Adults.
 40751217	Insecticide resistance status and high frequency of kdr mutations in Aedes aegypti in Tegucigalpa, Honduras.
@@ -86,7 +90,7 @@
 40721828	Preclinic evaluation of the safety of potential anticovid-19 phytomedicine: SAYE PLUS impacts on Wistar rat biochemical and histopathological parameters in sub-chronic toxicity study.
 40721790	Subnational introduction of the RTS,S/AS01(E) malaria vaccine into routine immunization: experience and lessons from the three pilot countries.
 40721752	Seroprevalence of dengue virus infection among febrile patients visiting healthcare facilities in the selected districts of Afar region, Northeast Ethiopia.
-40721039	Optimizing Laboratory Blood Feeding Success of Anopheles maculatus: Effects of Pre-Feeding Preparation and Cues.
+40721039	Optimizing laboratory blood feeding success of Anopheles maculatus: Effects of pre-feeding preparation and cues.
 40716799	Assessing the quality of antimalarial drugs in Equatorial Guinea: a follow-up study.
 40716624	Reemergence of Oropouche in the Brazilian Amazon: A phylodynamic and phylogenetic analysis.
 40716594	Breast Milk Bisphenol Concentrations in Canada and South Africa and Associations with Body Size among South African Infants.
@@ -9993,7 +9997,3 @@
 37280591	Composition of Anopheles species and bionomic characteristics over the peak malaria transmission season in Bandarban, Bangladesh.
 37280560	Mosquito bed net use and associated factors among pregnant women in Rwanda: a nationwide survey.
 37279432	Effectiveness of dihydroartemisinin-piperaquine after 10 years as treatment for vivax malaria in Indonesia.
-37279422	Artemisinin-based combination therapy successfully treated two hyperparasitaemic Plasmodium falciparum cases.
-37279274	The parasite intraerythrocytic cycle and human circadian cycle are coupled during malaria infection.
-37279239	A comparison of the attractiveness of flowering plant blossoms versus attractive targeted sugar baits (ATSBs) in western Kenya.
-37277818	Does vitamin D reduce the mortality rate of Plasmodium infection?: a systematic review and meta-analysis.
