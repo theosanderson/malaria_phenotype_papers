@@ -1,3 +1,6 @@
+40753440	New record of Anopheles superpictus (Diptera: Culicidae) in central Italy (Tuscany): resting adults and evidence of natural breeding sites.
+40753415	Intermittent preventive treatment, malaria, HIV, hepatitis and pregnancy outcomes in Nigerian women: a cross-sectional study in two healthcare facilities.
+40753412	Vector surveillance of avian Plasmodium and West Nile virus in Culex mosquitoes from Doñana, a UNESCO World Heritage Site.
 40753217	Deletion of target gene (histidine-rich protein 2/3) for Plasmodium falciparum rapid diagnostic tests in Amhara region, Ethiopia: a cross-sectional study.
 40753215	The chemosensory world of mosquitoes: olfactory receptors and their role in blocking mosquito-borne disease transmission.
 40752641	A Dual In vitro and In silico Approach to Evaluate 1,4-Naphthoquinone-1,2,3-triazole Hybrids Against Atovaquone-Resistant Malaria.
@@ -9994,6 +9997,3 @@
 37282392	Toll-like receptor 2-mediated downstream cytokine levels as determinant of malaria pathogenesis.
 37280686	Variability in white blood cell count during uncomplicated malaria and implications for parasite density estimation: a WorldWide Antimalarial Resistance Network individual patient data meta-analysis.
 37280626	Predicting the risk of malaria re-introduction in countries certified malaria-free: a systematic review.
-37280591	Composition of Anopheles species and bionomic characteristics over the peak malaria transmission season in Bandarban, Bangladesh.
-37280560	Mosquito bed net use and associated factors among pregnant women in Rwanda: a nationwide survey.
-37279432	Effectiveness of dihydroartemisinin-piperaquine after 10 years as treatment for vivax malaria in Indonesia.
