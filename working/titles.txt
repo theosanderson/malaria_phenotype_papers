@@ -1,3 +1,5 @@
+40755013	The contribution of minimally invasive tissue sampling compared to antemortem-derived cause of death determination among inpatient child deaths: the minimally invasive tissue sampling in Malawi study.
+40754696	The Effect of Larval Exposure to Plastic Pollution on the Gut Microbiota of the Major Malaria Vector Anopheles arabiensis Patton (Diptera: Culicidae).
 40754589	A literature review on the role of Culicoides in the transmission of avian blood parasites in Europe.
 40754341	A just war on bugs? Ethical differences between antimalarial resistance and antibacterial resistance.
 40753850	Plasmodium yoelii infection regulates M1 macrophage polarization and function through TLR7/STAT3 signaling pathway.
@@ -9995,5 +9997,3 @@
 37284173	Optimal Combinations of Control Strategies and Cost-Effectiveness Analysis of Dynamics of Endemic Malaria Transmission Model.
 37284030	Bioassay-Guided Isolation of Antiplasmodial Compounds from Hypericum lanceolatum Lam. (Hypericaceae) and Their Cytotoxicity and Molecular Docking.
 37284013	mHealth in Sub-Saharan Africa and Europe: Context of current health, healthcare status, and demographic structure.
-37283226	Chronic pain is no more prevalent in people living with HIV than in their uninfected counterparts in South Africa.
-37282915	[Properties of new exotic traditional Chinese medicinal Vernonia amygdalina leaves:a literature research].
