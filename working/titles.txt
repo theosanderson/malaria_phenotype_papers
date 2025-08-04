@@ -1,3 +1,6 @@
+40754589	A literature review on the role of Culicoides in the transmission of avian blood parasites in Europe.
+40754341	A just war on bugs? Ethical differences between antimalarial resistance and antibacterial resistance.
+40753850	Plasmodium yoelii infection regulates M1 macrophage polarization and function through TLR7/STAT3 signaling pathway.
 40753440	New record of Anopheles superpictus (Diptera: Culicidae) in central Italy (Tuscany): resting adults and evidence of natural breeding sites.
 40753415	Intermittent preventive treatment, malaria, HIV, hepatitis and pregnancy outcomes in Nigerian women: a cross-sectional study in two healthcare facilities.
 40753412	Vector surveillance of avian Plasmodium and West Nile virus in Culex mosquitoes from Doñana, a UNESCO World Heritage Site.
@@ -12,7 +15,7 @@
 40750887	Bayesian spatio-temporal modeling and prediction of malaria cases in Tanzania mainland (2016-2023): unveiling associations with climate and intervention factors.
 40750634	Impact of asymptomatic malaria infection on children's growth in rural Malawi.
 40750511	Safeguarding malaria control gains in Africa through 'species sanitation' and structural resilience.
-40749952	Content Analysis of Malaria-related Health Information Published in Online Travel Blogs.
+40749952	Content analysis of malaria-related health information published in online travel blogs.
 40749883	Intermediate forest cover and malaria risk in an Amazon deforestation frontier.
 40748991	CYP2B6*6 single nucleotide polymorphism among patients with uncomplicated malaria in Adjumani district, Uganda: Implications on efficacy of artemether-lumefantrine.
 40748809	FPGA-based Medical Image Processing Using Hardware-Software Co-design Approach.
@@ -133,7 +136,7 @@
 40707999	Identification of a moxidectin dose for 4- to 11-year-old children to support registration and potential use for onchocerciasis elimination: results of an open-label pharmacokinetic and safety study.
 40706999	A Timeline of Reckoning: Tracking the Historical Rise of Antimicrobial Resistance Across HIV, TB, and Malaria.
 40706961	Glycoprotein VI is a receptor for the PF4/anti-PF4 IgG complex and contributes to platelet activation in HIT.
-40706701	The specificity of RNA packaging in isometric RNA plant viruses is principally determined by replication.
+40706701	The Specificity of RNA Packaging in Isometric RNA Plant Viruses is Principally Determined by Replication.
 40706610	Unifying forces to strengthen pandemic preparedness: a call for a Global Pandemic Risk Observatory.
 40705807	Whole blood transcriptomics analysis of Indonesians reveals translocated and pathogenic microbiota in blood.
 40705496	Seroprevalence of Rift Valley and Crimean-Congo Hemorrhagic Fever Viruses, Benin, 2022-2023.
@@ -9994,6 +9997,3 @@
 37284013	mHealth in Sub-Saharan Africa and Europe: Context of current health, healthcare status, and demographic structure.
 37283226	Chronic pain is no more prevalent in people living with HIV than in their uninfected counterparts in South Africa.
 37282915	[Properties of new exotic traditional Chinese medicinal Vernonia amygdalina leaves:a literature research].
-37282392	Toll-like receptor 2-mediated downstream cytokine levels as determinant of malaria pathogenesis.
-37280686	Variability in white blood cell count during uncomplicated malaria and implications for parasite density estimation: a WorldWide Antimalarial Resistance Network individual patient data meta-analysis.
-37280626	Predicting the risk of malaria re-introduction in countries certified malaria-free: a systematic review.
