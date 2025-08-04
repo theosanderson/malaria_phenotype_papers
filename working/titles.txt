@@ -1,3 +1,8 @@
+40757896	[Successful Treatment of Two Cases of Plasmodium falciparum Malaria that Developed Recrudescence after Artemether-Lumefantrine Therapy].
+40757681	False-Positive Malaria Rapid Diagnostic Test Likely Due to African Tick Bite Fever: A Case Report.
+40756346	Artemisiae Annuae Herba: from anti-malarial legacy to emerging anti-cancer potential.
+40756261	Diagnostic value of full blood count derived systemic inflammatory biomarkers in malaria infection.
+40756165	Prospective cohort study to evaluate Lassa fever incidence, symptoms and coinfection with malaria in West Africa: the Enable Lassa Research Programme ('ENABLE 1.5') - study protocol.
 40755013	The contribution of minimally invasive tissue sampling compared to antemortem-derived cause of death determination among inpatient child deaths: the minimally invasive tissue sampling in Malawi study.
 40754696	The Effect of Larval Exposure to Plastic Pollution on the Gut Microbiota of the Major Malaria Vector Anopheles arabiensis Patton (Diptera: Culicidae).
 40754589	A literature review on the role of Culicoides in the transmission of avian blood parasites in Europe.
@@ -9992,8 +9997,3 @@
 37286249	The current landscape of software tools for the climate-sensitive infectious disease modelling community.
 37286245	The effect of extreme temperature and precipitation on cause-specific deaths in rural Burkina Faso: a longitudinal study.
 37286021	Identification of a long noncoding RNA required for temperature induced expression of stage-specific rRNA in malaria parasites.
-37285379	PfCRT mutations conferring piperaquine resistance in falciparum malaria shape the kinetics of quinoline drug binding and transport.
-37284905	Toxoplasma Gondii Importin α Shows Weak Auto-Inhibition.
-37284173	Optimal Combinations of Control Strategies and Cost-Effectiveness Analysis of Dynamics of Endemic Malaria Transmission Model.
-37284030	Bioassay-Guided Isolation of Antiplasmodial Compounds from Hypericum lanceolatum Lam. (Hypericaceae) and Their Cytotoxicity and Molecular Docking.
-37284013	mHealth in Sub-Saharan Africa and Europe: Context of current health, healthcare status, and demographic structure.
