@@ -1,3 +1,6 @@
+40758729	Artesunate regulates malignant progression of breast cancer cells via lncRNA TUG1/miR-145-5p/HOXA5 axis.
+40758687	Performance characteristics and potential public health impact of improved pre-erythrocytic malaria vaccines targeting childhood burden.
+40758660	Correction: Detection through the use of RT-MqPCR of asymptomatic reservoirs of malaria in samples of patients from the indigenous Comarca of Guna Yala, Panama: Essential method to achieve the elimination of malaria.
 40757896	[Successful Treatment of Two Cases of Plasmodium falciparum Malaria that Developed Recrudescence after Artemether-Lumefantrine Therapy].
 40757681	False-Positive Malaria Rapid Diagnostic Test Likely Due to African Tick Bite Fever: A Case Report.
 40756346	Artemisiae Annuae Herba: from anti-malarial legacy to emerging anti-cancer potential.
@@ -111,7 +114,7 @@
 40716091	Traction force generation in Plasmodium sporozoites is modulated by a surface adhesin.
 40720671	Effects of Combined Lipid-Based Nutrient Supplements and Malaria Preventive Treatment during Pregnancy on Malaria, Maternal Nutrition, and Birth Outcomes: A Scoping Review.
 40720548	Heterogeneous impacts for malaria control from larviciding across villages and considerations for monitoring and evaluation.
-40720544	The plasmepsin-piperaquine paradox persists.
+40720544	The plasmepsin-piperaquine paradox persists in Plasmodium falciparum.
 40720541	Impact of co-infection with Plasmodium berghei ANKA in Leishmania major-parasitized mice on immune modulation and cutaneous leishmaniasis.
 40720539	Field evaluation of Standard Q Filariasis Antigen Test for Lymphatic Filariasis (LF) during a pre-transmission assessment survey in Sierra Leone, 2022.
 40720352	Ookluc: A Plasmodium berghei Line for Identifying Transmission-blocking Compounds.
@@ -9994,6 +9997,3 @@
 37287037	Genetic variants of TLR4, including the novel variant, rs5030719, and related genes are associated with susceptibility to clinical malaria in African children.
 37287012	Preclinical studies of toxicity and anti-cholangiocarcinoma activity of the standardized capsule formulation of Atractylodes lancea (Thunb.) DC.
 37286568	A mosquito AgTRIO mRNA vaccine contributes to immunity against malaria.
-37286249	The current landscape of software tools for the climate-sensitive infectious disease modelling community.
-37286245	The effect of extreme temperature and precipitation on cause-specific deaths in rural Burkina Faso: a longitudinal study.
-37286021	Identification of a long noncoding RNA required for temperature induced expression of stage-specific rRNA in malaria parasites.
