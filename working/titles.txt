@@ -1,3 +1,10 @@
+40762096	Fluctuating Warm and Humid Conditions Differentially Impact Immunity and Development in the Malaria Vector Anopheles stephensi.
+40761548	First molecular detection of zoonotic Plasmodium knowlesi, Plasmodium cynomolgi, and Plasmodium inui in Assamese macaques from northern Thailand.
+40761423	United States aid cut: alternatives for sustainable financing for health.
+40760710	Malaria and determinants of health: a scoping review of malaria vulnerabilities in Southeast Asia.
+40760706	First report of a Plasmodium malariae SSU rRNA gene variant in Africa associated with reduced amplification by nested PCR.
+40760569	Behavioral health interventions in malaria control: Efficacy and implementation.
+40760496	Web-based models to inform health policy: A scoping review.
 40760068	Unraveling global malaria incidence and mortality using machine learning and artificial intelligence-driven spatial analysis.
 40760026	Pantothenate regulates feeding and reproduction in the malaria vector Anopheles stephensi, with patterns dependent on supplementation scheme and parental nutrition.
 40759976	Risk factor for gametocyte carriage and gametocytemia in Plasmodium vivax and Plasmodium falciparum.
@@ -3652,7 +3659,7 @@
 39492850	Estimating the impact of imported malaria on local transmission in a near elimination setting: a case study from Bhutan.
 39492784	Hormones in malaria infection: influence on disease severity, host physiology, and therapeutic opportunities.
 39492781	Household satisfaction with health services and response strategies to malaria in mountain communities of Uganda.
-39492774	An Overview on Antifilarial Efficacy of Heterocyclic Motifs Encompassing Synthetic Strategies, SAR, and Commercialized Medications.
+39492774	An Overview on Antifilarial Efficacy of Heterocyclic Motifs Encompassing Synthetic Strategies, SAR and Commercialized Medications.
 39492717	Insecticide-treated bednets and chemoprophylaxis reduce malaria mortality and parasite prevalence.
 39492491	Biomarker of Anopheles exposure in Ghanaian children with haemoglobin S and C.
 39491156	Unravelling the Influence of Host Genetic Factors on Malaria Susceptibility in Asian Populations.
@@ -9990,10 +9997,3 @@
 37291578	Community engagement among forest goers in a malaria prophylaxis trial: implementation challenges and implications.
 37291561	A mixed methods study assessing the adoption potential of a saliva-based malaria rapid test in the Democratic Republic of Congo.
 37291425	Targeted and whole-genome sequencing reveal a north-south divide in P. falciparum drug resistance markers and genetic structure in Mozambique.
-37291191	Broad anti-pathogen potential of DEAD box RNA helicase eIF4A-targeting rocaglates.
-37289832	Polyketide- and Terpenoid-Derived Metabolites Produced by a Marine-Derived Fungus, Peroneutypa sp.
-37289500	Imported cases of malaria in Brazil from South American countries: a retrospective ecological study from 2009 to 2022.
-37289129	[Resistance of Plasmodium falciparum to antimalarial drugs].
-37289128	[Malaria].
-37288779	Molecular modelling, docking and network analysis of phytochemicals from Haritaki churna: role of protein cross-talks for their action.
-37288763	Artesunate does not affect oocyte maturation and early embryo development of bovine.
