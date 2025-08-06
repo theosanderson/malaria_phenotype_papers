@@ -1,3 +1,14 @@
+40766679	A novel locus associated with decreased susceptibility of Plasmodium falciparum to lumefantrine and dihydroartemisinin has emerged and spread in Uganda.
+40766566	Cell-specific responses of Anopheles gambiae fat body to blood feeding and infection at a single nuclei resolution.
+40766538	CD44 cross-linking promotes Plasmodium falciparum invasion.
+40766536	Advantages of outcrossing in Plasmodium falciparum : insights from genetic crosses using fluorescent labelled parasites.
+40766253	Cell-specific responses of Anopheles gambiae fat body to blood feeding and infection at a single nuclei resolution.
+40765987	Na we go shine: women's wellbeing, agency, and health seeking behaviours in southeastern Nigeria.
+40765711	Comparative Analysis of Initial Full Blood Count Parameters in Adults Infected With Plasmodium falciparum for Classification of Disease Severity and Previous Exposure Across Endemic (Gabon) and Nonendemic (Germany) Settings.
+40765595	Underlying Chronic Lymphocytic Leukemia in a Case of Vivax Malaria With Thrombocytopenia: A Case Report.
+40765338	Dual Role of Host Toll-Like Receptor 3 in Parasitic Diseases.
+40765081	Hybrids/Conjugates/Chimera Drugs-Antimicrobial Hybrids: Antibiotics, Antifungals, Antituberculars, Antimalarials.
+40764911	Public health surveillance of tropical diseases in Madagascar: a scoping review of population burden, intervention strategies, and health system responses.
 40764298	Microhaplotype deep sequencing assays to capture Plasmodium vivax infection lineages.
 40762096	Fluctuating Warm and Humid Conditions Differentially Impact Immunity and Development in the Malaria Vector Anopheles stephensi.
 40761548	First molecular detection of zoonotic Plasmodium knowlesi, Plasmodium cynomolgi, and Plasmodium inui in Assamese macaques from northern Thailand.
@@ -9986,14 +9997,3 @@
 37292908	Measuring changes in Plasmodium falciparum census population size in response to sequential malaria control interventions.
 37292739	Accelerated prime-and-trap vaccine regimen in mice using repRNA-based CSP malaria vaccine.
 37292711	Malaria Transmission Intensity and Parasitemia during the Three-Dose RTS,S/AS01 Vaccination Series do not Reduce Magnitude of Antibody Response nor Efficacy Against the First Case of Malaria.
-37292709	Parasite proteostasis and artemisinin resistance.
-37292635	Amino acid supplementation confers protection to red blood cells prior to Plasmodium falciparum bystander stress.
-37292610	Anopheles salivary apyrase regulates blood meal hemostasis and drives malaria parasite transmission.
-37292018	Co-trimoxazole prophylaxis for children who are HIV-exposed and uninfected: a systematic review.
-37291700	Plasmodium falciparum COQ2 gene encodes a functional 4-hydroxybenzoate polyprenyltransferase.
-37291664	What are the pathways between poverty and malaria in sub-Saharan Africa? A systematic review of mediation studies.
-37291657	Why is Babesia not killed by artemisinin like Plasmodium?
-37291620	Finding the fragments: community-based epidemic surveillance in Sudan.
-37291584	Correction: 1-3-7 surveillance and response approach in malaria elimination: China's practice and global adaptions.
-37291578	Community engagement among forest goers in a malaria prophylaxis trial: implementation challenges and implications.
-37291561	A mixed methods study assessing the adoption potential of a saliva-based malaria rapid test in the Democratic Republic of Congo.
