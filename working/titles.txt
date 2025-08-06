@@ -1,3 +1,4 @@
+40764298	Microhaplotype deep sequencing assays to capture Plasmodium vivax infection lineages.
 40762096	Fluctuating Warm and Humid Conditions Differentially Impact Immunity and Development in the Malaria Vector Anopheles stephensi.
 40761548	First molecular detection of zoonotic Plasmodium knowlesi, Plasmodium cynomolgi, and Plasmodium inui in Assamese macaques from northern Thailand.
 40761423	United States aid cut: alternatives for sustainable financing for health.
@@ -9996,4 +9997,3 @@
 37291584	Correction: 1-3-7 surveillance and response approach in malaria elimination: China's practice and global adaptions.
 37291578	Community engagement among forest goers in a malaria prophylaxis trial: implementation challenges and implications.
 37291561	A mixed methods study assessing the adoption potential of a saliva-based malaria rapid test in the Democratic Republic of Congo.
-37291425	Targeted and whole-genome sequencing reveal a north-south divide in P. falciparum drug resistance markers and genetic structure in Mozambique.
