@@ -1,3 +1,5 @@
+40767864	Risk of mortality in systemic lupus erythematosus patients in Indonesia: A retrospective cohort study.
+40767696	Monitoring of deep lymphocyte phenotypes in the blood and bronchoalveolar lavage fluid of patients with severe malaria-associated acute respiratory distress syndrome.
 40766679	A novel locus associated with decreased susceptibility of Plasmodium falciparum to lumefantrine and dihydroartemisinin has emerged and spread in Uganda.
 40766566	Cell-specific responses of Anopheles gambiae fat body to blood feeding and infection at a single nuclei resolution.
 40766538	CD44 cross-linking promotes Plasmodium falciparum invasion.
@@ -9995,5 +9997,3 @@
 37293453	One hundred years after the death of the writer and novelist Giovanni Verga (1922) and his relationship with public health: a glimpse of the past in the era of the SARS-CoV-2 (COVID-19) pandemic.
 37293082	PfAP2-MRP DNA-binding protein is a master regulator of parasite pathogenesis during malaria parasite blood stages.
 37292908	Measuring changes in Plasmodium falciparum census population size in response to sequential malaria control interventions.
-37292739	Accelerated prime-and-trap vaccine regimen in mice using repRNA-based CSP malaria vaccine.
-37292711	Malaria Transmission Intensity and Parasitemia during the Three-Dose RTS,S/AS01 Vaccination Series do not Reduce Magnitude of Antibody Response nor Efficacy Against the First Case of Malaria.
