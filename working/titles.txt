@@ -1,3 +1,7 @@
+40768733	Malaria. Reply.
+40768732	Malaria.
+40768539	Time series analysis of malaria in pregnancy, using wavelet and SARIMAX models.
+40768510	A model-informed target product profile for population modification gene drives for malaria control.
 40767864	Risk of mortality in systemic lupus erythematosus patients in Indonesia: A retrospective cohort study.
 40767696	Monitoring of deep lymphocyte phenotypes in the blood and bronchoalveolar lavage fluid of patients with severe malaria-associated acute respiratory distress syndrome.
 40766679	A novel locus associated with decreased susceptibility of Plasmodium falciparum to lumefantrine and dihydroartemisinin has emerged and spread in Uganda.
@@ -9993,7 +9997,3 @@
 37298992	Targeting Myeloperoxidase Activity and Neutrophil ROS Production to Modulate Redox Process: Effect of Ellagic Acid and Analogues.
 37298256	Roles of Virtual Screening and Molecular Dynamics Simulations in Discovering and Understanding Antimalarial Drugs.
 37296286	Unraveling anticancer potential of a novel serine protease inhibitor from marine yeast Candida parapsilosis ABS1 against colorectal and breast cancer cells.
-37294835	coiaf: Directly estimating complexity of infection with allele frequencies.
-37293453	One hundred years after the death of the writer and novelist Giovanni Verga (1922) and his relationship with public health: a glimpse of the past in the era of the SARS-CoV-2 (COVID-19) pandemic.
-37293082	PfAP2-MRP DNA-binding protein is a master regulator of parasite pathogenesis during malaria parasite blood stages.
-37292908	Measuring changes in Plasmodium falciparum census population size in response to sequential malaria control interventions.
