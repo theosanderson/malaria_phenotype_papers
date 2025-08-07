@@ -1,3 +1,12 @@
+40771825	Microglia exhibit a dynamic response, modulating inducible nitric oxide synthase expression and the production of pro-inflammatory cytokines during experimental cerebral malaria.
+40771493	Adherence to a dietary approach to stop hypertension (DASH) and associated factors among hypertensive patients on follow-up at public hospitals in Southwest Ethiopia: a non-pharmacological approach.
+40771229	Public health facility vulnerabilities, preparedness, and health outcomes for Plasmodium falciparum and dengue virus-infected children under 5 years with acute febrile illnesses in Western Kenya.
+40771171	A comprehensive review of artesunate-induced organ toxicity: mechanisms, resistance, biomarkers, and protective strategies.
+40771054	Knowledge, attitude, and practice (KAP) of yellow fever among community members in four districts after an outbreak in the Savannah Region, Ghana.
+40770720	Time-of-day of infection: impact on liver stage malaria parasites in untreated and drug-treated hosts.
+40770656	Slide positivity, trends, and risk factors of febrile Plasmodium vivax malaria along the Thailand-Myanmar border, 2018-2023.
+40770641	Current and future temperature suitability for autochthonous transmission of malaria in Canada.
+40770357	Diversity of anopheline species and malaria transmission dynamics in high-altitude areas of western Cameroon.
 40770271	The dissemination potential of Microsporidia MB in Anopheles arabiensis mosquitoes is modulated by temperature.
 40770132	Prevalence, risk and protective factors of postpartum depression and anxiety symptoms in the Allada district, Benin.
 40769972	Plasmodium falciparum egress disrupts endothelial junctions and activates JAK-STAT signaling in a microvascular 3D blood-brain barrier model.
@@ -9988,12 +9997,3 @@
 37306042	Conformational change of Plasmodium TRAP is essential for sporozoite migration and transmission.
 37305421	Novel systems to study vector-pathogen interactions in malaria.
 37305154	Prevalence of malaria parasitaemia among pregnant women at booking in Nigeria.
-37305151	Symptomatic and asymptomatic malaria prevalence and its determinant factors in pastoral communities of Waghemira Zone, Northeast Ethiopia: A community-based cross-sectional study.
-37304721	Machine learning enhances prediction of plants as potential sources of antimalarials.
-37304490	Blood Donation Screening of Transfusion-Transmissible Viral Infection Using Two Different Nucleic Acid Testing (NAT) Platforms: A Single Tertiary Care Oncology Centre Experience.
-37304125	Universal coverage and utilization of free long-lasting insecticidal nets for malaria prevention in Ghana: a cross-sectional study.
-37303154	Severe malaria-related disability in Ethiopian children from the perspectives of caregivers: an interpretive description study.
-37303066	Medicinal plants used for treatment of malaria by indigenous communities of Tororo District, Eastern Uganda.
-37303047	Characteristics of molecular markers associated with chloroquine resistance in Plasmodium vivax strains from vivax malaria cases in Yunnan Province, China.
-37302957	Protein disulfide isomerases - a way to tackle malaria.
-37301591	Spatio-temporal patterns of malaria in Nepal from 2005 to 2018: A country progressing towards malaria elimination.
