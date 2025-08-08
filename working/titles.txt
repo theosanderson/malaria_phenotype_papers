@@ -1,3 +1,7 @@
+40779307	Establishing a Multicenter Active Adverse Events Following Immunization Sentinel Surveillance Network Across 22 Tertiary Care Hospitals in India: Protocol for a Prospective Observational Study.
+40779056	Larvicidal and Pupicidal Activity of Neonicotinoid Insecticide Imidacloprid against Southern House Mosquito, Culex Quinquefasciatus (Say) (Diptera: Culicidae).
+40778966	The Impact of Environmental Factors and Host Migration on Avian Haemosporidians Prevalence: A Molecular Survey in Southern Iran.
+40778727	Improved Bicyclic Pyrrolidine Analogues Inhibit Toxoplasma gondii Growth In Vitro and Cure Infection In Vivo.
 40778167	Understanding Malaria Treatment Adherence in Rwanda: Implications for Artemisinin Resistance.
 40778156	Epidemiological Insights and Duffy Binding Protein Evolution of Plasmodium vivax in Duffy-Negative Cameroonians.
 40778117	Artemisinin Partial Resistance Mutations in Zanzibar and Tanzania Suggest Regional Spread and African Origins, 2023.
@@ -9993,7 +9997,3 @@
 37312125	The association of intimate Partner violence and decision making power on nutritional status of married women in Ethiopia: a multilevel mixed-effect analysis.
 37312065	Ethiopian Plasmodium vivax hypnozoites formation dynamics and their susceptibility to reference antimalarial drugs.
 37310935	Testing for SARS-CoV-2 in resource-limited settings: A cost analysis study of diagnostic tests using different Ag-RDTs and RT-PCR technologies in Mozambique.
-37310872	The Dantu blood group prevents parasite growth in vivo: Evidence from a controlled human malaria infection study.
-37310810	MEPicides: α,β-unsaturated Fosmidomycin N-Acyl Analogs as Efficient Inhibitors of Plasmodium falciparum 1-Deoxy-d-xylulose-5-phosphate reductoisomerase.
-37310511	Towards malaria elimination: analysis of travel history and case forecasting using the SARIMA model in Limpopo Province.
-37310126	Clinical characteristics of platelet-mediated killing circulating parasite of major human malaria.
