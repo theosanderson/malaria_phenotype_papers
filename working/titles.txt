@@ -1,3 +1,7 @@
+40773569	Losing protection.
+40773524	Risk factors for contracting malaria in six wards of Mudzi District, Zimbabwe: A case control-study.
+40773441	Do monetary incentives encourage local communities to collect and upload mosquito sound data using smartphones? A case study in the Democratic Republic of the Congo.
+40773432	Inequalities in disease burden and care quality of neglected tropical diseases and malaria, 1990-2021: Findings from the 2021 Global Burden of Disease Study.
 40771825	Microglia exhibit a dynamic response, modulating inducible nitric oxide synthase expression and the production of pro-inflammatory cytokines during experimental cerebral malaria.
 40771493	Adherence to a dietary approach to stop hypertension (DASH) and associated factors among hypertensive patients on follow-up at public hospitals in Southwest Ethiopia: a non-pharmacological approach.
 40771229	Public health facility vulnerabilities, preparedness, and health outcomes for Plasmodium falciparum and dengue virus-infected children under 5 years with acute febrile illnesses in Western Kenya.
@@ -9993,7 +9997,3 @@
 37307282	Spatial dynamics of malaria transmission.
 37306942	Chemical Characterization of Different Extracts from Artemisia annua and Their Antioxidant, Enzyme Inhibitory and Anti-Inflammatory Properties.
 37306461	Whole-Mount Fluorescence In Situ Hybridization to Study Spermatogenesis in the Anopheles Mosquito.
-37306242	Association between interleukin-27 gene polymorphisms and Plasmodium falciparum Malaria.
-37306042	Conformational change of Plasmodium TRAP is essential for sporozoite migration and transmission.
-37305421	Novel systems to study vector-pathogen interactions in malaria.
-37305154	Prevalence of malaria parasitaemia among pregnant women at booking in Nigeria.
