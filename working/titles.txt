@@ -1,3 +1,10 @@
+40778167	Understanding Malaria Treatment Adherence in Rwanda: Implications for Artemisinin Resistance.
+40778156	Epidemiological Insights and Duffy Binding Protein Evolution of Plasmodium vivax in Duffy-Negative Cameroonians.
+40778117	Artemisinin Partial Resistance Mutations in Zanzibar and Tanzania Suggest Regional Spread and African Origins, 2023.
+40777964	Spatio-temporal characterization of malaria prevalence in a peri-urban resource limited setting of Western Kenya Highlands.
+40777955	Factors associated with acute kidney injury and outcomes in patients with malaria in a district hospital in Rwanda.
+40777931	The relationship between gender and cultural beliefs of malaria into typhoid progression among rural rice farmers in Central Kenya.
+40775719	Refining malaria diagnosis in high-transmission areas: a dual-approach with rapid diagnostic tests (RDTs) and dbPCR-NALFIA.
 40775352	Multiple first-line therapeutic strategies to mitigate artemisinin resistance: cost analysis of a pilot study from a health system perspective in Kaya health district, Burkina Faso.
 40775350	Genetic polymorphism of msp2 in Plasmodium falciparum isolates among asymptomatic malaria infections from two ecological settings in Cameroon.
 40774865	BioMalPar at 21 - a coming of age for malaria research and interventions.
@@ -9990,10 +9997,3 @@
 37310810	MEPicides: α,β-unsaturated Fosmidomycin N-Acyl Analogs as Efficient Inhibitors of Plasmodium falciparum 1-Deoxy-d-xylulose-5-phosphate reductoisomerase.
 37310511	Towards malaria elimination: analysis of travel history and case forecasting using the SARIMA model in Limpopo Province.
 37310126	Clinical characteristics of platelet-mediated killing circulating parasite of major human malaria.
-37309000	Increased peripartum mortality associated with maternal subclinical malaria in Mozambique.
-37308594	Two transporters enable chloroquine resistance in malaria.
-37308503	Genome-wide genetic variation and molecular surveillance of drug resistance in Plasmodium falciparum isolates from asymptomatic individuals in Ouélessébougou, Mali.
-37308472	Mechanism of small molecule inhibition of Plasmodium falciparum myosin A informs antimalarial drug design.
-37308102	Capacity Building in Pediatric Critical Care-Global Health Research and Education: The Blantyre Experience.
-37307522	Improving outcomes for children with malaria, diarrhoea and pneumonia in Mozambique: A cluster randomised controlled trial of the inSCALE technology innovation.
-37307519	Improving community health worker treatment for malaria, diarrhoea, and pneumonia in Uganda through inSCALE community and mHealth innovations: A cluster randomised controlled trial.
