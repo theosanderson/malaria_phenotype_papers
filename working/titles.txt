@@ -1,3 +1,8 @@
+40775352	Multiple first-line therapeutic strategies to mitigate artemisinin resistance: cost analysis of a pilot study from a health system perspective in Kaya health district, Burkina Faso.
+40775350	Genetic polymorphism of msp2 in Plasmodium falciparum isolates among asymptomatic malaria infections from two ecological settings in Cameroon.
+40774865	BioMalPar at 21 - a coming of age for malaria research and interventions.
+40774109	Antimalarial spirooxindole alkaloids with a rare 6/5/5/6/6 polycyclic skeleton from the fungus Penicillium citrinum YSC-1 isolated from a medicinal plant.
+40773895	Distinct STING-IRF3 activation determines IL-35(+) Breg differentiation in rodent malaria.
 40773569	Losing protection.
 40773524	Risk factors for contracting malaria in six wards of Mudzi District, Zimbabwe: A case control-study.
 40773441	Do monetary incentives encourage local communities to collect and upload mosquito sound data using smartphones? A case study in the Democratic Republic of the Congo.
@@ -461,7 +466,7 @@
 40615805	Malaria prophylaxis stock-outs and birth- and maternal outcomes in Zimbabwe.
 40615615	Comparative mitochondrial genome and phylogenetic analysis of malaria mosquitoes Anopheles hyrcanus and Anopheles messeae.
 40615061	Metabolic disruptions in P. vivax malaria: Insights from four antimalarial treatment regimens.
-40614930	Global assessment of partial artemisinin resistance: Multicenter trial across Kenya, Peru, and Thailand in patients with uncomplicated Plasmodium falciparum malaria.
+40614930	Global assessment of partial artemisinin resistance: multicenter trial across Kenya, Peru, and Thailand in patients with uncomplicated Plasmodium falciparum malaria.
 40614661	Gene expression profile of immune response markers associated with long COVID and its clinical aspects in a cohort from northern Brazil.
 40614121	Deciphering the family of ankyrin repeat-containing proteins of Plasmodium falciparum: a structural and functional perspective.
 40613554	Synthesis, biological evaluation, and molecular modelling studies of novel Ethyl 3-benzoyl-6,8-dichloroindolizine-1-carboxylates against malaria vector Anopheles arabiensis.
@@ -9992,8 +9997,3 @@
 37308102	Capacity Building in Pediatric Critical Care-Global Health Research and Education: The Blantyre Experience.
 37307522	Improving outcomes for children with malaria, diarrhoea and pneumonia in Mozambique: A cluster randomised controlled trial of the inSCALE technology innovation.
 37307519	Improving community health worker treatment for malaria, diarrhoea, and pneumonia in Uganda through inSCALE community and mHealth innovations: A cluster randomised controlled trial.
-37307435	Histidine-rich protein II nanoparticle delivery of heme iron load drives endothelial inflammation in cerebral malaria.
-37307293	Symptomatic malaria enhances protection from reinfection with homologous Plasmodium falciparum parasites.
-37307282	Spatial dynamics of malaria transmission.
-37306942	Chemical Characterization of Different Extracts from Artemisia annua and Their Antioxidant, Enzyme Inhibitory and Anti-Inflammatory Properties.
-37306461	Whole-Mount Fluorescence In Situ Hybridization to Study Spermatogenesis in the Anopheles Mosquito.
