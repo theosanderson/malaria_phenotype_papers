@@ -1,3 +1,5 @@
+40779626	Identifying a next-generation antimalarial trioxolane in a landscape of artemisinin partial resistance.
+40779606	Malaria, urogenital schistosomiasis and co-infection and nutritional status of school children in Ondo state.
 40779307	Establishing a Multicenter Active Adverse Events Following Immunization Sentinel Surveillance Network Across 22 Tertiary Care Hospitals in India: Protocol for a Prospective Observational Study.
 40779056	Larvicidal and Pupicidal Activity of Neonicotinoid Insecticide Imidacloprid against Southern House Mosquito, Culex Quinquefasciatus (Say) (Diptera: Culicidae).
 40778966	The Impact of Environmental Factors and Host Migration on Avian Haemosporidians Prevalence: A Molecular Survey in Southern Iran.
@@ -9995,5 +9997,3 @@
 37312932	The αTSR Domain of Plasmodium Circumsporozoite Protein Bound Heparan Sulfates and Elicited High Titers of Sporozoite Binding Antibody After Displayed by Nanoparticles.
 37312220	Assessment of genetic polymorphisms associated with malaria antifolate resistance among the population of Libreville, Gabon.
 37312125	The association of intimate Partner violence and decision making power on nutritional status of married women in Ethiopia: a multilevel mixed-effect analysis.
-37312065	Ethiopian Plasmodium vivax hypnozoites formation dynamics and their susceptibility to reference antimalarial drugs.
-37310935	Testing for SARS-CoV-2 in resource-limited settings: A cost analysis study of diagnostic tests using different Ag-RDTs and RT-PCR technologies in Mozambique.
