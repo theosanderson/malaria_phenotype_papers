@@ -1,3 +1,10 @@
+40781533	Community acceptance of Ivermectin mass drug administration for malaria in Southern Thailand.
+40781450	(1)H, (15)N and (13)C backbone resonance assignments of flap endonuclease from Plasmodium falciparum.
+40781311	The burden of malaria in East Africa: prevalence, risk factors, and control strategies.
+40780972	Parasite genome organization: come together, right now!
+40780722	Indications for hospitalisation and predictors of 30-day re-admission of patients with sickle cell disease in Uganda: a retrospective study.
+40780494	Molecular and phylogenetic insights into haemosporidian parasites in wild bird populations of Northeast Thailand.
+40780492	The role of emergency departments in the treatment of imported severe and uncomplicated malaria - a retrospective monocentric observational study in a German university hospital.
 40779626	Identifying a next-generation antimalarial trioxolane in a landscape of artemisinin partial resistance.
 40779606	Malaria, urogenital schistosomiasis and co-infection and nutritional status of school children in Ondo state.
 40779307	Establishing a Multicenter Active Adverse Events Following Immunization Sentinel Surveillance Network Across 22 Tertiary Care Hospitals in India: Protocol for a Prospective Observational Study.
@@ -32,7 +39,7 @@
 40770271	The dissemination potential of Microsporidia MB in Anopheles arabiensis mosquitoes is modulated by temperature.
 40770132	Prevalence, risk and protective factors of postpartum depression and anxiety symptoms in the Allada district, Benin.
 40769972	Plasmodium falciparum egress disrupts endothelial junctions and activates JAK-STAT signaling in a microvascular 3D blood-brain barrier model.
-40769443	Toxicological Evaluation of Shanzhu Tiqusan, a Garcinia mangostana Pericarp-Based Preparation: Acute and Chronic Oral Safety Assessment in Rats.
+40769443	Toxicological evaluation of Shanzhu Tiqusan, a Garcinia mangostana pericarp-based preparation: Acute and chronic oral safety assessment in rats.
 40768733	Malaria. Reply.
 40768732	Malaria.
 40768539	Time series analysis of malaria in pregnancy, using wavelet and SARIMAX models.
@@ -9990,10 +9997,3 @@
 37315826	Update on the susceptibility to chloroquine of Plasmodium falciparum in Honduras.
 37314965	Plasmodium GPI-anchored micronemal antigen is essential for parasite transmission through the mosquito host.
 37314903	Multi-Disease Detection Using a Prism-Based Surface Plasmon Resonance Sensor: A TMM and FEM Approach.
-37314602	Identification and validation of the first EST-SSR markers based on transcriptome of Anopheles darlingi, the primary transmitter of malaria in Brazil.
-37314349	Antiplasmodial Activity Evaluation of a Bestatin-Related Aminopeptidase Inhibitor, Phebestin.
-37314336	No Association between the Plasmodium vivax crt-o MS334 or In9pvcrt Polymorphisms and Chloroquine Failure in a Pre-Elimination Clinical Cohort from Malaysia with a Large Clonal Expansion.
-37313769	Plasmodium structure of Intoshia linei (Orthonectida).
-37312932	The αTSR Domain of Plasmodium Circumsporozoite Protein Bound Heparan Sulfates and Elicited High Titers of Sporozoite Binding Antibody After Displayed by Nanoparticles.
-37312220	Assessment of genetic polymorphisms associated with malaria antifolate resistance among the population of Libreville, Gabon.
-37312125	The association of intimate Partner violence and decision making power on nutritional status of married women in Ethiopia: a multilevel mixed-effect analysis.
