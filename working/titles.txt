@@ -1,3 +1,4 @@
+40783841	Contact Dynamics of Cytoadhering Plasmodium falciparum-Infected Erythrocytes in Flow.
 40783535	Seasonal abundance and climatic determinants of Anopheles vectors in Sri Lanka: its implications in the malaria post-elimination era.
 40783499	Worldwide genetic diversity of Plasmodium vivax Pv47 is consistent with natural selection by anopheline mosquitoes.
 40783477	Vector-borne diseases and their role in COVID-19 dynamics and death rates: focus on India.
@@ -9996,4 +9997,3 @@
 37321567	Dihydroartemisinin Disrupts Zinc Homeostasis in Plasmodium falciparum To Potentiate Its Antimalarial Action via Pyknosis.
 37321109	Development of diphenylmethylpiperazine hybrids of chloroquinoline and triazolopyrimidine using Petasis reaction as new cysteine proteases inhibitors for malaria therapeutics.
 39816809	Proteome-wide comparison of tertiary protein structures reveals molecular mimicry in Plasmodium-human interactions.
-37317948	The feasibility of novel point-of-care diagnostics for febrile illnesses at health centres in Southeast Asia: a mixed-methods study.
