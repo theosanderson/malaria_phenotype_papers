@@ -1,3 +1,10 @@
+40783535	Seasonal abundance and climatic determinants of Anopheles vectors in Sri Lanka: its implications in the malaria post-elimination era.
+40783499	Worldwide genetic diversity of Plasmodium vivax Pv47 is consistent with natural selection by anopheline mosquitoes.
+40783477	Vector-borne diseases and their role in COVID-19 dynamics and death rates: focus on India.
+40783405	Changes in susceptibility of Plasmodium falciparum to antimalarial drugs in Uganda over time: 2019-2024.
+40783106	A bio-guided investigation of Mitragyna inermis (Willd) O. Kuntze (Rubiaceae) unveils natural product isolates with potent cross-activity against sensitive and multidrug resistant Plasmodium falciparum strains in vitro.
+40783040	Phytochemical analysis and evaluation of antiplasmodial and cytotoxic activities of Wrightia dubia and Wrightia pubescens traditionally used for malaria treatment in Southeast Asia.
+40782493	Phenotypic screens reveal Plasmodium falciparum genetic factors associated with infection of sickle-trait cells.
 40781533	Community acceptance of Ivermectin mass drug administration for malaria in Southern Thailand.
 40781450	(1)H, (15)N and (13)C backbone resonance assignments of flap endonuclease from Plasmodium falciparum.
 40781311	The burden of malaria in East Africa: prevalence, risk factors, and control strategies.
@@ -9990,10 +9997,3 @@
 37321109	Development of diphenylmethylpiperazine hybrids of chloroquinoline and triazolopyrimidine using Petasis reaction as new cysteine proteases inhibitors for malaria therapeutics.
 39816809	Proteome-wide comparison of tertiary protein structures reveals molecular mimicry in Plasmodium-human interactions.
 37317948	The feasibility of novel point-of-care diagnostics for febrile illnesses at health centres in Southeast Asia: a mixed-methods study.
-37317169	Arsinothricin Inhibits Plasmodium falciparum Proliferation in Blood and Blocks Parasite Transmission to Mosquitoes.
-37317119	Bacterial Microbiota from Lab-Reared and Field-Captured Anopheles darlingi Midgut and Salivary Gland.
-37316814	Comparison of Epstein-Barr virus and Kaposi's sarcoma-associated herpesvirus viral load in peripheral blood mononuclear cells and oral fluids of HIV-negative individuals aged 3-89 years from Uganda.
-37316679	High endemicity of Opisthorchis viverrini infection among people in northern Cambodia confirmed by adult worm expulsion.
-37315826	Update on the susceptibility to chloroquine of Plasmodium falciparum in Honduras.
-37314965	Plasmodium GPI-anchored micronemal antigen is essential for parasite transmission through the mosquito host.
-37314903	Multi-Disease Detection Using a Prism-Based Surface Plasmon Resonance Sensor: A TMM and FEM Approach.
