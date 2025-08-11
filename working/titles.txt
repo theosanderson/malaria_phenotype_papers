@@ -1,3 +1,4 @@
+40785237	Exploration of Fluorinated Peptoid-Based Histone Deacetylase Inhibitors as Dual-Stage Antiplasmodial Agents.
 40784935	Human papillomavirus (HPV) genotype distribution in Malaysia: A systematic review.
 40783841	Contact Dynamics of Cytoadhering Plasmodium falciparum-Infected Erythrocytes in Flow.
 40783535	Seasonal abundance and climatic determinants of Anopheles vectors in Sri Lanka: its implications in the malaria post-elimination era.
@@ -253,6 +254,7 @@
 40698045	Vector Abundance and Genetic Diversity of Anopheles Mosquitoes Collected in a Laboratory-Office Complex in Vom, Nigeria: Implications for Vector Control.
 40698034	HIV-1 Drug Resistance in Children and Implications for Pediatric Treatment Strategies: A Systematic Review and Meta-analysis.
 40697816	Plasma protein biomarkers of Plasmodium falciparum infection in pregnant women: a high-throughput proteomics study.
+40696994	A Computationally Efficient Method to Generate Plausible Conformers for Ensemble Docking and Binding Free Energy Calculations.
 40696427	Overreliance on Plasmodium 18S rRNA gene for malaria molecular diagnosis-inferences from systematic review.
 40696137	Iron homeostasis and cytokine responses in Gabonese children with febrile illness.
 40695881	Community engagement in promoting malaria vaccine uptake for children Under-Five.
@@ -9995,5 +9997,3 @@
 37323401	A Liquid Chromatography High-Resolution Tandem Mass Spectrometry Method to Quantify QS-21 Adjuvant and Its Degradation Products in Liposomal Drug Formulations.
 37322481	Histone modification analysis reveals common regulators of gene expression in liver and blood stage merozoites of Plasmodium parasites.
 37322097	Effect of COVID-19 pandemic on inpatient service utilization and patient outcomes in Uganda.
-37321567	Dihydroartemisinin Disrupts Zinc Homeostasis in Plasmodium falciparum To Potentiate Its Antimalarial Action via Pyknosis.
-37321109	Development of diphenylmethylpiperazine hybrids of chloroquinoline and triazolopyrimidine using Petasis reaction as new cysteine proteases inhibitors for malaria therapeutics.
