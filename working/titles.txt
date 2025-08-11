@@ -1,3 +1,6 @@
+40788442	Exploring the Potential of miRNA-92a-3p as Lead for Sequence-Based Therapies for Malaria.
+40787560	Addressing the malaria crisis among children in Uganda: the urgent need for vaccination and strategic action.
+40785957	Epidemiology of reportable infectious diseases in the Najran Health Cluster.
 40785237	Exploration of Fluorinated Peptoid-Based Histone Deacetylase Inhibitors as Dual-Stage Antiplasmodial Agents.
 40784935	Human papillomavirus (HPV) genotype distribution in Malaysia: A systematic review.
 40783841	Contact Dynamics of Cytoadhering Plasmodium falciparum-Infected Erythrocytes in Flow.
@@ -59,7 +62,7 @@
 40766679	A novel locus associated with decreased susceptibility of Plasmodium falciparum to lumefantrine and dihydroartemisinin has emerged and spread in Uganda.
 40766566	Cell-specific responses of Anopheles gambiae fat body to blood feeding and infection at a single nuclei resolution.
 40766538	CD44 cross-linking promotes Plasmodium falciparum invasion.
-40766536	Advantages of outcrossing in Plasmodium falciparum : insights from genetic crosses using fluorescent labelled parasites.
+40766536	Advantages of outcrossing in Plasmodium falciparum: insights from genetic crosses using fluorescent labelled parasites.
 40766253	Cell-specific responses of Anopheles gambiae fat body to blood feeding and infection at a single nuclei resolution.
 40765987	Na we go shine: women's wellbeing, agency, and health seeking behaviours in southeastern Nigeria.
 40765711	Comparative Analysis of Initial Full Blood Count Parameters in Adults Infected With Plasmodium falciparum for Classification of Disease Severity and Previous Exposure Across Endemic (Gabon) and Nonendemic (Germany) Settings.
@@ -6356,6 +6359,7 @@
 38562542	Investigating the Presence of Falsified and Poor-Quality Fixed-Dose Combination Artemether-Lumefantrine Pharmaceutical Dosage Forms in Kumasi, Ghana.
 38562219	Epstein - Barr Virus Salivary Shedding in Patients with Acute Infectious Diseases: A Pilot Study.
 38562204	Age-group associations of schistosomiasis prevalence from trial data, Côte d'Ivoire, Kenya and the United Republic of Tanzania.
+40786663	Frequency-Dependent Ecological Interactions Increase the Prevalence, and Shape the Distribution, of Preexisting Drug Resistance.
 40590600	Severe Bilateral Glossopharyngeal Neuralgia Managed With Nerve Blocks Following Plasmodium falciparum Malaria Infection Treated With Mefloquine.
 38560593	Food insecurity and associated health and social determinants among older adults in Ghana: Analysis of the WHO's study on global AGEing and adult health (SAGE), 2014-2015.
 38560466	Variation and trade-offs in life history traits of the protist parasite Monocystis perplexa (Apicomplexa) in its earthworm host Amynthas agrestis.
@@ -9993,7 +9997,3 @@
 37324161	Magnitude and patterns of severe Plasmodium vivax monoinfection in Vietnam: a 4-year single-center retrospective study.
 37323745	Time Trend and Prevalence Analysis of Transfusion Transmitted Infections among Blood Donors: A Retrospective Study from 2001 to 2016.
 37323727	Trends and Pattern of Diseases Under Integrated Disease Surveillance Project in Jodhpur, Rajasthan: A Retrospective Observational Study.
-37323661	Performance of SNP barcodes to determine genetic diversity and population structure of Plasmodium falciparum in Africa.
-37323401	A Liquid Chromatography High-Resolution Tandem Mass Spectrometry Method to Quantify QS-21 Adjuvant and Its Degradation Products in Liposomal Drug Formulations.
-37322481	Histone modification analysis reveals common regulators of gene expression in liver and blood stage merozoites of Plasmodium parasites.
-37322097	Effect of COVID-19 pandemic on inpatient service utilization and patient outcomes in Uganda.
