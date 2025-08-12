@@ -1,3 +1,15 @@
+40791723	Antibody responses to SG6, AgSAP, and SAMSP1 following Anopheline salivary exposure.
+40791681	Varying Malaria Rapid Diagnostic Test Accuracy by Regional Transmission Level and Demographics in Tanzania.
+40791573	Can hair concentrations of artemether-lumefantrine be used as a tool to retrospectively determine drug exposure during malaria treatment?
+40791414	Computational Prioritization of T Cell Epitopes to Overcome HLA Restriction and Antigenic Diversity in Plasmodium falciparum.
+40791395	The Human Chk1 Inhibitor CHIR-124 Shows Multistage Activity Against Plasmodium falciparum via Dual Inhibition of Pf Ark1 and Hemozoin Formation.
+40791393	5' untranslated regions tune Toxoplasma translation.
+40791362	An atlas of positive selection in the genomes of major malaria vectors.
+40791317	The molecular basis of coordinated antigen switching enabling chronic infection by human malaria parasites.
+40791280	Penicillium-Derived Inhibitors of Plasmodium falciparum Lactate Dehydrogenase (PfLDH): A Computational Approach for Novel Antimalarial Therapy Development.
+40791271	Experiences and perceptions about vaccines and reporting of adverse events following immunisation: a qualitative study among mothers in Northern Ghana.
+40791240	Global, regional, and national anemia burden among women of reproductive age (15-49 years) from 1990 to 2021: an analysis of the Global Burden of Disease Study 2021.
+40791171	Standard operating protocol for malaria management.
 40790052	Antimalarial drug resistance and population structure of Plasmodium falciparum in Mozambique using genomic surveillance at health facilities in 2021 and 2022.
 40789905	Fractional-order model of malaria incorporating treatment and prevention strategies.
 40789802	CRISPR/Cas technologies in pancreatic cancer research and therapeutics: recent advances and future outlook.
@@ -9985,15 +9997,3 @@
 37328856	Utilization of insecticide-treated nets and associated factors among childbearing women in Northern Nigeria.
 37328849	World Hepatitis day 2021 -screening and vaccination against Hepatitis B virus in Accra, Ghana.
 37328808	Investigating the etiology of acute febrile illness: a prospective clinic-based study in Uganda.
-37328419	[Use of traditional medicines among conventional medicine practitioners in Burkina Faso].
-37327857	Prepandemic cross-reactive humoral immunity to SARS-CoV-2 in Africa: Systematic review and meta-analysis.
-37327810	Ganaplacide plus lumefantrine solid dispersion formulation: considerations for development and rollout.
-37327809	Ganaplacide (KAF156) plus lumefantrine solid dispersion formulation combination for uncomplicated Plasmodium falciparum malaria: an open-label, multicentre, parallel-group, randomised, controlled, phase 2 trial.
-37327738	A comparison of Illumina and PacBio methods to build tick salivary gland transcriptomes confirms large expression of lipocalins and other salivary protein families that are not represented in available tick genomes.
-37327530	A systematic review and meta-analysis of changes in interleukin-8 levels in malaria infection.
-37327529	Influence of trem-1 gene polymorphisms on cytokine levels during malaria by Plasmodium vivax in a frontier area of the Brazilian Amazon.
-37327340	A Plasmodium membrane receptor platform integrates cues for egress and invasion in blood forms and activation of transmission stages.
-37327217	Correction: Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi.
-37327209	Transmission-blocking activity of antimalarials for Plasmodium vivax malaria in Anopheles darlingi.
-37326808	The "parasite detoxification hypothesis": lead exposure potentially changes the ecological interaction from parasitism to mutualism.
-37325319	Climate variability, socio-economic conditions and vulnerability to malaria infections in Mozambique 2016-2018: a spatial temporal analysis.
