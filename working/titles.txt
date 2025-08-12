@@ -1,3 +1,5 @@
+40793958	Drug Repurposing Patent Applications January-March 2025.
+40793757	Long-term survival of Babesia microti and Borrelia burgdorferi in C3H/HeJ mice and their effect on Lyme arthritis and babesiosis manifestations.
 40791723	Antibody responses to SG6, AgSAP, and SAMSP1 following Anopheline salivary exposure.
 40791681	Varying Malaria Rapid Diagnostic Test Accuracy by Regional Transmission Level and Demographics in Tanzania.
 40791573	Can hair concentrations of artemether-lumefantrine be used as a tool to retrospectively determine drug exposure during malaria treatment?
@@ -9995,5 +9997,3 @@
 37329848	Stepwise in vitro screening of MMV pathogen box compounds against Plasmodium falciparum to identify potent antimalarial candidates.
 37329228	Genetic Profiling of Plasmodium ovale wallikeri Relapses With Microsatellite Markers and Whole-Genome Sequencing.
 37328856	Utilization of insecticide-treated nets and associated factors among childbearing women in Northern Nigeria.
-37328849	World Hepatitis day 2021 -screening and vaccination against Hepatitis B virus in Accra, Ghana.
-37328808	Investigating the etiology of acute febrile illness: a prospective clinic-based study in Uganda.
