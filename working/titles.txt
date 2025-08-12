@@ -1,3 +1,6 @@
+40790052	Antimalarial drug resistance and population structure of Plasmodium falciparum in Mozambique using genomic surveillance at health facilities in 2021 and 2022.
+40789905	Fractional-order model of malaria incorporating treatment and prevention strategies.
+40789802	CRISPR/Cas technologies in pancreatic cancer research and therapeutics: recent advances and future outlook.
 40788925	Population genomics of Aedes albopictus across remote Pacific islands for genetic biocontrol considerations.
 40788442	Exploring the Potential of miRNA-92a-3p as Lead for Sequence-Based Therapies for Malaria.
 40787560	Addressing the malaria crisis among children in Uganda: the urgent need for vaccination and strategic action.
@@ -9994,6 +9997,3 @@
 37327209	Transmission-blocking activity of antimalarials for Plasmodium vivax malaria in Anopheles darlingi.
 37326808	The "parasite detoxification hypothesis": lead exposure potentially changes the ecological interaction from parasitism to mutualism.
 37325319	Climate variability, socio-economic conditions and vulnerability to malaria infections in Mozambique 2016-2018: a spatial temporal analysis.
-37324796	Mapping Malaria Vector Habitats in West Africa: Drone Imagery and Deep Learning Analysis for Targeted Vector Surveillance.
-37324161	Magnitude and patterns of severe Plasmodium vivax monoinfection in Vietnam: a 4-year single-center retrospective study.
-37323745	Time Trend and Prevalence Analysis of Transfusion Transmitted Infections among Blood Donors: A Retrospective Study from 2001 to 2016.
