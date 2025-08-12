@@ -1,3 +1,4 @@
+40788925	Population genomics of Aedes albopictus across remote Pacific islands for genetic biocontrol considerations.
 40788442	Exploring the Potential of miRNA-92a-3p as Lead for Sequence-Based Therapies for Malaria.
 40787560	Addressing the malaria crisis among children in Uganda: the urgent need for vaccination and strategic action.
 40785957	Epidemiology of reportable infectious diseases in the Najran Health Cluster.
@@ -9996,4 +9997,3 @@
 37324796	Mapping Malaria Vector Habitats in West Africa: Drone Imagery and Deep Learning Analysis for Targeted Vector Surveillance.
 37324161	Magnitude and patterns of severe Plasmodium vivax monoinfection in Vietnam: a 4-year single-center retrospective study.
 37323745	Time Trend and Prevalence Analysis of Transfusion Transmitted Infections among Blood Donors: A Retrospective Study from 2001 to 2016.
-37323727	Trends and Pattern of Diseases Under Integrated Disease Surveillance Project in Jodhpur, Rajasthan: A Retrospective Observational Study.
