@@ -1,3 +1,9 @@
+40796540	Both inhibitory and activating KIRs recognize RIFINs: a dual-edged mechanism of NK cell control in malaria.
+40796211	Therapeutic efficacy monitoring of pyronaridine-artesunate (Pyramax®) in treating uncomplicated Plasmodium falciparum malaria in Gia Lai province, Vietnam from 2022 to 2023.
+40795871	An adjuvant database for preclinical evaluation of vaccines and immunotherapeutics.
+40795863	Is Gene Drive Research Losing Traction?
+40795812	An Anthropological Analysis of Acceptability and Feasibility of Expanding Community-Based Malaria Management to All Ages in Madagascar: Levels and Challenges for National Scale-Up.
+40795573	AI-driven diagnosis of Lassa fever: Evidence from Nigerian clinical records.
 40795429	Small phenolic inhibitors of PfATP6, a Plasmodium falciparum calcium ATPase, as prototype antimalarials.
 40795111	Progress towards malaria elimination: insights from Cambodia's mobile malaria workers during the COVID-19 pandemic.
 40794684	Physical integrity and residual bio-efficacy of PBO-pyrethroid synergist-treated and pyrethroid-only LLINs after 1.5 years of field use in Western Kenya.
@@ -102,7 +108,7 @@
 40760068	Unraveling global malaria incidence and mortality using machine learning and artificial intelligence-driven spatial analysis.
 40760026	Pantothenate regulates feeding and reproduction in the malaria vector Anopheles stephensi, with patterns dependent on supplementation scheme and parental nutrition.
 40759976	Risk factor for gametocyte carriage and gametocytemia in Plasmodium vivax and Plasmodium falciparum.
-40759288	Recombinant Expression and Purification of Plasmodium Heme Detoxification Protein in E. coli: Challenges and Discoveries.
+40759288	Recombinant expression and purification of Plasmodium heme detoxification protein in E. coli: Challenges and discoveries.
 40758729	Artesunate regulates malignant progression of breast cancer cells via lncRNA TUG1/miR-145-5p/HOXA5 axis.
 40758687	Performance characteristics and potential public health impact of improved pre-erythrocytic malaria vaccines targeting childhood burden.
 40758660	Correction: Detection through the use of RT-MqPCR of asymptomatic reservoirs of malaria in samples of patients from the indigenous Comarca of Guna Yala, Panama: Essential method to achieve the elimination of malaria.
@@ -121,7 +127,7 @@
 40753412	Vector surveillance of avian Plasmodium and West Nile virus in Culex mosquitoes from Doñana, a UNESCO World Heritage Site.
 40753217	Deletion of target gene (histidine-rich protein 2/3) for Plasmodium falciparum rapid diagnostic tests in Amhara region, Ethiopia: a cross-sectional study.
 40753215	The chemosensory world of mosquitoes: olfactory receptors and their role in blocking mosquito-borne disease transmission.
-40752641	A Dual In vitro and In silico Approach to Evaluate 1,4-Naphthoquinone-1,2,3-triazole Hybrids Against Atovaquone-Resistant Malaria.
+40752641	A dual In vitro and In silico approach to evaluate 1,4-naphthoquinone-1,2,3-triazole hybrids against atovaquone-resistant malaria.
 40752571	Polymerase chain reaction fails to detect mixed malaria infections in siblings from Ethiopia.
 40751449	CD47-mediated selective accumulation of mature Ly49h+ NK cells to the brain associates with the pathogenesis of cerebral malaria in mice.
 40751436	Plasmodium falciparum Parasitemia Does Not Diminish Neutralizing Antibody Responses After mRNA COVID-19 Booster Vaccination in HIV-infected Adults.
@@ -9991,9 +9997,3 @@
 37330477	A systematic review of mixed studies on malaria in Colombia 1980-2022: what the "bifocal vision" discovers.
 37330475	Therapeutic efficacy of pyronaridine-artesunate (Pyramax(®)) against uncomplicated Plasmodium falciparum infection at Hamusit Health Centre, Northwest Ethiopia.
 37330469	A framework for stakeholder engagement in the adoption of new anti-malarial treatments in Africa: a case study of Nigeria.
-37330107	Bioactivity of select essential oil constituents against life stages of Anopheles arabiensis (Diptera: Culicidae).
-37330106	Crude saliva of Amblyomma cajennense sensu stricto (Acari: Ixodidae) reduces locomotor activity and increases the hemocyte number in the females of Aedes aegypti (Diptera: Culicidae).
-37330040	Diversity of trypanosome species in small ruminants, dogs and pigs from three sleeping sickness foci of the south of Chad.
-37330027	Genetic diversity and molecular evolution of Plasmodium vivax Duffy Binding Protein and Merozoite Surface Protein-1 in northwestern Thailand.
-37329986	Therapeutic activity of eugenol towards mitigation of anaemia and oxidative organ damage caused by Plasmodium berghei.
-37329897	Temporal trends in, and risk factors for, HIV seroconversion among female sex workers accessing Zimbabwe's national sex worker programme, 2009-19: a retrospective cohort analysis of routinely collected HIV testing data.
