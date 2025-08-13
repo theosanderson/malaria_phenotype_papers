@@ -1,3 +1,6 @@
+40795429	Small phenolic inhibitors of PfATP6, a Plasmodium falciparum calcium ATPase, as prototype antimalarials.
+40795111	Progress towards malaria elimination: insights from Cambodia's mobile malaria workers during the COVID-19 pandemic.
+40794684	Physical integrity and residual bio-efficacy of PBO-pyrethroid synergist-treated and pyrethroid-only LLINs after 1.5 years of field use in Western Kenya.
 40793958	Drug Repurposing Patent Applications January-March 2025.
 40793757	Long-term survival of Babesia microti and Borrelia burgdorferi in C3H/HeJ mice and their effect on Lyme arthritis and babesiosis manifestations.
 40791723	Antibody responses to SG6, AgSAP, and SAMSP1 following Anopheline salivary exposure.
@@ -287,7 +290,7 @@
 40694928	Mirroring rarity of ectopic adult Schistosoma haematobium worms in a Sudanese patient.
 40694583	Outbreak of cutaneous leishmaniasis amongst militia members in a non-endemic district under conflict in the lowlands of Somali Region caused by Leishmania tropica, Eastern Ethiopia.
 40694565	A chaperonin complex regulates organelle proteostasis in malaria parasites.
-40694003	Targeting Plasmodium Glutathione S-transferases to Overcome Antimalaria Drug Resistance in Southern Africa.
+40694003	Targeting Plasmodium glutathione S-transferases to overcome antimalaria drug resistance in Southern Africa.
 40693372	The Role of Hydroxychloroquine in the Management of Rheumatic Disorders: A Comprehensive Review.
 40693034	Undetected Plasmodium malariae and P. ovale infections in HRP2 RDT-positive children with uncomplicated malaria in Nanoro, Burkina Faso.
 40692795	R21/Matrix-M malaria vaccine drives diverse immune responses in pre-exposed adults: insights from a phase IIb controlled human malaria infection trial.
@@ -9994,6 +9997,3 @@
 37330027	Genetic diversity and molecular evolution of Plasmodium vivax Duffy Binding Protein and Merozoite Surface Protein-1 in northwestern Thailand.
 37329986	Therapeutic activity of eugenol towards mitigation of anaemia and oxidative organ damage caused by Plasmodium berghei.
 37329897	Temporal trends in, and risk factors for, HIV seroconversion among female sex workers accessing Zimbabwe's national sex worker programme, 2009-19: a retrospective cohort analysis of routinely collected HIV testing data.
-37329848	Stepwise in vitro screening of MMV pathogen box compounds against Plasmodium falciparum to identify potent antimalarial candidates.
-37329228	Genetic Profiling of Plasmodium ovale wallikeri Relapses With Microsatellite Markers and Whole-Genome Sequencing.
-37328856	Utilization of insecticide-treated nets and associated factors among childbearing women in Northern Nigeria.
