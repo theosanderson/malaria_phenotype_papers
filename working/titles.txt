@@ -1,3 +1,9 @@
+40802220	Psychometric evaluation of the EQ-5D-Y-3L in Ethiopian pediatric inpatients: comparing self and proxy reports.
+40801984	Evaluating the Oxidative Stress Reducing Potentials of Sub-Fractions of Capsicum Frutescens L. Aqueous Extract on Early Established Plasmodium in Mice.
+40801835	Thiazole substitution of a labile amide bond-a new option toward antiplasmodial pantothenamide-mimics.
+40801616	Plasmodium falciparum Subtilisin-like Domain-Containing Protein (PfSDP), a Cross-Stage Antigen, Elicits Short-Lived Antibody Response Following Natural Infection with Plasmodium falciparum.
+40801595	NR2F6 as a Disease Driver and Candidate Therapeutic Target in Experimental Cerebral Malaria.
+40801039	Targeting mucosal immunity in malaria control: the underexplored role of IgA.
 40799921	The spatial heterogeneity of malaria transmission: An entomological investigation in a highly endemic setting of Burkina Faso.
 40799786	Efficacy of Focal Primaquine Mass Administration for Eliminating Plasmodium vivax Malaria in Northern Myanmar: A Cluster-Randomized Trial.
 40799761	Highly conserved Plasmodium vivax genomes in Duffy-negative individuals from Sudan.
@@ -9991,9 +9997,3 @@
 37337774	Artemannuols A-C, novel sesquiterpenoid-flavonol hybrids with antihepatoma activity from Artemisia annua.
 37337659	Malaria Is Associated with Diminished Levels of Ascorbic Acid: A Systematic Review and Meta-Analysis.
 37337263	Bridging the gap in knowledge and use of antibiotics among pediatric caregivers: comparing two educational interventions.
-37337221	Estimating malaria transmission risk through surveillance of human-vector interactions in northern Ghana.
-37337209	Public health impact of the spread of Anopheles stephensi in the WHO Eastern Mediterranean Region countries in Horn of Africa and Yemen: need for integrated vector surveillance and control.
-37336906	Malaria surveillance, outbreak investigation, response and its determinant factors in Waghemra Zone, Northeast Ethiopia: unmatched case-control study.
-37336887	Structural basis for DARC binding in reticulocyte invasion by Plasmodium vivax.
-37336700	Extraordinary parasite multiplication rates in human malaria infections.
-37336067	Exploring N-myristoyltransferase as a promising drug target against parasitic neglected tropical diseases.
