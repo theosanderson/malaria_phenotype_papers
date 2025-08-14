@@ -1,3 +1,8 @@
+40804418	Comparative analysis of the use of Community Health Workers while deploying the Attractive Targeted Sugar Bait (ATSB) for malaria control in Western Province, Zambia.
+40804388	Malaria-malnutrition interaction: prevalence, risk factors, and the impact of intermittent preventive therapy for malaria on nutritional status of school-age children in Muheza, Tanga, Tanzania - A cross-sectional survey and a randomized controlled open-label trial.
+40804304	A Pan-Amazonian dataset integrating 20 years of respiratory, cardiovascular, zoonotic and vector-borne disease cases and landscape changes.
+40804158	A nonclassical pathway of β-hematin crystal nucleation enables its suppression by antimalarials.
+40804022	A multivalent peptide vaccine against malaria, targeting Plasmodium CSP and mosquito AgTRIO.
 40802860	Artemisinin Partial Resistance Mutations in Zanzibar and Tanzania Suggest Regional Spread and African Origins, 2023.
 40802820	Galectin-3 did not associate with malaria-related insulin resistance in diabetic and non-diabetic respondents at a Ghanaian General Hospital.
 40802705	Acceptability, feasibility and fidelity of an expanded role for community health workers for malaria elimination in Myanmar: A mixed-method study.
@@ -278,7 +283,7 @@
 40708012	How to use learning curves to evaluate the sample size for malaria prediction models developed using machine learning algorithms.
 40707999	Identification of a moxidectin dose for 4- to 11-year-old children to support registration and potential use for onchocerciasis elimination: results of an open-label pharmacokinetic and safety study.
 40706999	A Timeline of Reckoning: Tracking the Historical Rise of Antimicrobial Resistance Across HIV, TB, and Malaria.
-40706961	Glycoprotein VI is a receptor for the PF4/anti-PF4 IgG complex and contributes to platelet activation in HIT.
+40706961	Glycoprotein VI is a receptor for the PF4/anti-PF4 IgG complex and contributes to platelet activation in heparin-induced thrombocytopenia (HIT).
 40706701	The Specificity of RNA Packaging in Isometric RNA Plant Viruses is Principally Determined by Replication.
 40706610	Unifying forces to strengthen pandemic preparedness: a call for a Global Pandemic Risk Observatory.
 40705807	Whole blood transcriptomics analysis of Indonesians reveals translocated and pathogenic microbiota in blood.
@@ -4571,7 +4576,7 @@
 39208861	[Severe complicated malaria caused by Plasmodium falciparum in a female traveler returning from Zanzibar].
 39208744	Development of peptoid-based heteroaryl-decorated histone deacetylase (HDAC) inhibitors with dual-stage antiplasmodial activity.
 39208643	Cd loop fusion enhances the immunogenicity and the potential transmission blocking activity of Plasmodium falciparum generative cell specific 1 (GCS1) antigen.
-39208451	Circulating immune complexes and G6PD deficiency predict readmissions for blackwater fever and severe anemia in children with severe malaria in Eastern Uganda.
+39208451	Circulating Immune Complexes and Glucose-6-Phosphate Dehydrogenase Deficiency Predict Recurrent Blackwater Fever in Ugandan Children With Severe Malaria.
 39208123	Laboratory evaluation of the regeneration time, efficacy and wash-resistance of PermaNet Dual (a deltamethrin-chlorfenapyr net) against susceptible and pyrethroid-resistant strains of Anopheles gambiae sensu lato.
 39208072	Dramatic resurgence of malaria after 7 years of intensive vector control interventions in Eastern Uganda.
 39207167	A multistage Plasmodium CRL4(WIG1) ubiquitin ligase is critical for the formation of functional microtubule organization centers in microgametocytes.
@@ -4602,6 +4607,7 @@
 39194289	Slow clearance of histidine-rich protein-2 in Gabonese with uncomplicated malaria.
 39194263	Onametostat, a PfPRMT5 inhibitor, exhibits antimalarial activity to Plasmodium falciparum.
 39194209	Dose-fractionation studies of a Plasmodium phosphatidylinositol 4-kinase inhibitor in a humanized mouse model of malaria.
+39193725	Immune Complexes in Blackwater Fever and Severe Malarial Anemia: New Insights From Old Forgotten Friends.
 39193724	Hybrid Diffusion Model for Stable, Affinity-Driven, Receptor-Aware Peptide Generation.
 39193502	The immune factors involved in the rapid clearance of bacteria from the midgut of the tick Ixodes ricinus.
 39192639	From Traditional Use to Modern Evidence: The Medicinal Chemistry of Antimalarials from Genus Artemisia.
@@ -9991,9 +9997,3 @@
 37339835	Coinfections of malaria and sexually transmitted and reproductive tract infections in pregnancy in sub-Saharan Africa: a systematic review and individual participant data meta-analysis protocol.
 37339765	Case Report: Severe Plasmodium vivax Malaria after Splenectomy.
 37339764	Mortality by Admission Diagnosis in Children 1-60 Months of Age Admitted to a Tertiary Care Government Hospital in Malawi.
-37339762	Health, Economic, and Social Impacts of Substandard and Falsified Medicines in Low- and Middle-Income Countries: A Systematic Review of Methodological Approaches.
-37339759	Plasmodium falciparum with pfhrp2/3 Deletion Not Detected in a 2018-2021 Malaria Longitudinal Cohort Study in Kinshasa Province, Democratic Republic of the Congo.
-37339597	Mosquito biology: Scents and selectability.
-37339122	Selection for insecticide resistance can promote Plasmodium falciparum infection in Anopheles.
-37338381	Activity of Ivermectin and Its Metabolites against Asexual Blood Stage Plasmodium falciparum and Its Interactions with Antimalarial Drugs.
-37338318	Is the presence of mosquitoes an indicator of poor environmental sanitation?
