@@ -1,3 +1,12 @@
+40810137	Guanine derivatives as promising candidates for the development of purine-based antimalarial drugs.
+40809063	Glucose-functionalized redox-responsive dihydroartemisinin prodrug nanosystem for targeted malaria therapy.
+40808288	Geographic variation and diversity of bacterial endosymbionts in Asian citrus psyllid, Diaphorina citri, from Iran.
+40808285	Computational Drug Repositioning for Targeting PfEMP1: Potential Therapeutics for Cerebral Malaria in Plasmodium falciparum.
+40808199	Enhanced Anticancer Activity of Atractylodin-Loaded Poly(lactic-co-glycolic Acid) Nanoparticles Against Cholangiocarcinoma.
+40807887	Measuring Asymmetric Ionic Current Waveform Through Micropores for Detecting Reduced Red Blood Cell Deformability Due to Plasmodium falciparum Infection.
+40804746	Malaria-anemia comorbidity and its determinants among pregnant women in high- and moderate-malaria-risk countries in Sub-Saharan Africa.
+40804728	Relating household entomological measures to individual malaria risk.
+40804656	Identifying malaria epidemic periods in Togo by health district and target group: a generalised additive model approach.
 40804418	Comparative analysis of the use of Community Health Workers while deploying the Attractive Targeted Sugar Bait (ATSB) for malaria control in Western Province, Zambia.
 40804388	Malaria-malnutrition interaction: prevalence, risk factors, and the impact of intermittent preventive therapy for malaria on nutritional status of school-age children in Muheza, Tanga, Tanzania - A cross-sectional survey and a randomized controlled open-label trial.
 40804304	A Pan-Amazonian dataset integrating 20 years of respiratory, cardiovascular, zoonotic and vector-borne disease cases and landscape changes.
@@ -5652,6 +5661,10 @@
 38824066	Arthropod promoters for genetic control of disease vectors.
 38823647	AlbuMAX supplemented media induces the formation of transmission-competent P. falciparum gametocytes.
 38823569	Ganopyrone A, a highly rearranged lanostane triterpenoid with antimalarial activity from artificially cultivated fruiting bodies of Ganoderma colossus.
+40809585	Estimating the under-five malaria risk in Uganda based on the nearest neighbour matched analysis technique.
+40809577	Relationship between calcium-to-magnesium ratio and malaria parasite density among children with uncomplicated malaria infection.
+40809575	Malaria Control Programme in Nigeria: uptake of prevention strategies - a systematic review.
+40809559	Effect of Socio-economic factors on malaria prevalence in a Peri-urban setting in Vihiga County, Western Kenya Highlands.
 38822466	Intense malarial transmission during the dry season in irrigated rice-growing areas: a case study in Sakassou, Côte d'Ivoire.
 38822431	Correction: Malaria epidemiology, surveillance and response for elimination in Lao PDR.
 38821330	Might procalcitonin help predict imported falciparum malaria in children?
@@ -9984,16 +9997,3 @@
 37348379	A model for malaria treatment evaluation in the presence of multiple species.
 37347767	Singapore's 5 decades of dengue prevention and control-Implications for global dengue control.
 37347274	The environmental impact of the sugar industry waste in Sudan.
-37346807	The devastating impact of illegal mining on indigenous health: a focus on malaria in the Brazilian Amazon.
-37345936	Plasmodium falciparum CRK4 links early mitotic events to the onset of S-phase during schizogony.
-37344867	Effects of vegetation densities on the performance of attractive targeted sugar baits (ATSBs) for malaria vector control: a semi-field study.
-37344580	Pyrethroid-treated bed nets impair blood feeding performance in insecticide resistant mosquitoes.
-37343009	National and subnational burden of under-5, infant, and neonatal mortality in Ethiopia, 1990-2019: Findings from the Global Burden of Disease Study 2019.
-37341543	Antibody to Plasmodium falciparum Variant Surface Antigens, var Gene Transcription, and ABO Blood Group in Children With Severe or Uncomplicated Malaria.
-37340531	Diagnostic capacity for cutaneous fungal diseases in the African continent.
-37340440	Course of Plasmodium infection studied using 2D-COS on human erythrocytes.
-37340364	Hemoglobinopathies, merozoite surface protein-2 gene polymorphisms, and acquisition of Epstein Barr virus among infants in Western Kenya.
-37340324	Real-life effectiveness of anti-malarial treatment regimens: what are we aiming for?
-37339835	Coinfections of malaria and sexually transmitted and reproductive tract infections in pregnancy in sub-Saharan Africa: a systematic review and individual participant data meta-analysis protocol.
-37339765	Case Report: Severe Plasmodium vivax Malaria after Splenectomy.
-37339764	Mortality by Admission Diagnosis in Children 1-60 Months of Age Admitted to a Tertiary Care Government Hospital in Malawi.
