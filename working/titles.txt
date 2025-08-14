@@ -1,3 +1,6 @@
+40802860	Artemisinin Partial Resistance Mutations in Zanzibar and Tanzania Suggest Regional Spread and African Origins, 2023.
+40802820	Galectin-3 did not associate with malaria-related insulin resistance in diabetic and non-diabetic respondents at a Ghanaian General Hospital.
+40802705	Acceptability, feasibility and fidelity of an expanded role for community health workers for malaria elimination in Myanmar: A mixed-method study.
 40802220	Psychometric evaluation of the EQ-5D-Y-3L in Ethiopian pediatric inpatients: comparing self and proxy reports.
 40801984	Evaluating the Oxidative Stress Reducing Potentials of Sub-Fractions of Capsicum Frutescens L. Aqueous Extract on Early Established Plasmodium in Mice.
 40801835	Thiazole substitution of a labile amide bond-a new option toward antiplasmodial pantothenamide-mimics.
@@ -9822,6 +9825,7 @@
 31869103	Malaria Prophylaxis.
 37393257	Significant number of Plasmodium vivax mono-infections by PCR misidentified as mixed infections (P. vivax/P. falciparum) by microscopy and rapid diagnostic tests: malaria diagnostic challenges in Ethiopia.
 37392730	Identifying sensitive windows of prenatal household air pollution on birth weight and infant pneumonia risk to inform future interventions.
+40802744	Scrub Typhus among Febrile Patients Admitted to the Department of Medicine in a Tertiary Care Centre: A Descriptive Cross-sectional Study.
 37392389	Epigenetically regulated RNA-binding proteins signify malaria hypnozoite dormancy.
 37392377	Facile Access to Structurally Diverse Antimalarial Indoles Using a One-Pot A(3) Coupling and Domino Cyclization Approach.
 37392364	Identification of Commercial Antimalarial Herbal Drugs Using Laser-Induced Autofluorescence Technique and Multivariate Algorithms.
@@ -9993,7 +9997,3 @@
 37339122	Selection for insecticide resistance can promote Plasmodium falciparum infection in Anopheles.
 37338381	Activity of Ivermectin and Its Metabolites against Asexual Blood Stage Plasmodium falciparum and Its Interactions with Antimalarial Drugs.
 37338318	Is the presence of mosquitoes an indicator of poor environmental sanitation?
-37337909	Screening the medicine for malaria venture's Pandemic Response Box to identify novel inhibitors of Candida albicans and Candida auris biofilm formation.
-37337774	Artemannuols A-C, novel sesquiterpenoid-flavonol hybrids with antihepatoma activity from Artemisia annua.
-37337659	Malaria Is Associated with Diminished Levels of Ascorbic Acid: A Systematic Review and Meta-Analysis.
-37337263	Bridging the gap in knowledge and use of antibiotics among pediatric caregivers: comparing two educational interventions.
