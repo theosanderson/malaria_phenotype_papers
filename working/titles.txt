@@ -1,3 +1,10 @@
+40815163	Discovery of sporogeny in the malaria transmission-blocking symbiont of Anopheles mosquitoes.
+40814135	Cinchona bark and quinine as psychiatric treatments in Portugal, 1700-1900.
+40814090	Measuring growth, resistance, and recovery after artemisinin treatment of Plasmodium falciparum in a single semi-high-throughput assay.
+40814068	The emerging role of Imatinib in malaria management: a review of evidence and future directions.
+40813797	Inequity in the transmission of malaria infection among children and adolescents: a cohort study in rural Guinea.
+40813714	"We witnessed medicines help our children, then we became proud": experiences and acceptability of seasonal malaria chemoprevention in Aweil, South Sudan.
+40813537	GSDME-dependent astrocyte pyroptosis promotes the progression of neuroinflammation in experimental cerebral malaria.
 40813172	Climate-related challenges to brain health: A European perspective review.
 40813102	Single low-dose primaquine for malaria control in Africa: a systematic review of safety, efficacy and implementation barriers.
 40812518	Antiplasmodial activity of tambjamines, dihydro-β-agarofurans and pyrroloazepines derived from Australian plant and marine species.
@@ -2200,6 +2207,7 @@
 40037748	Complicated malaria caused by Plasmodium falciparum with parasitemia >50.
 40037124	In vitro evaluation of multi-protein chimeric antigens in effectively clearing the blood stage of Plasmodium falciparum.
 40036694	Hereditary Pyropoikilocytosis as a Modifier of Sickle Cell Disease Severity.
+40036593	Effects of the COVID-19 pandemic on TB outcomes in the United States: a Bayesian analysis.
 40036563	Malaria chemoprophylaxis provision in the UK: a call to evaluate the cost-effectiveness and equity implications of universal provision.
 40036207	Submicroscopic malaria in pregnancy and associated adverse pregnancy events: A case-cohort study of 4,352 women on the Thailand-Myanmar border.
 40036198	First report of Matryoshka RNA virus in an African-European migrant bird.
@@ -9989,11 +9997,3 @@
 37352945	Marmesin isolated from Celtis durandii Engl. root bioactive fraction inhibits β-hematin formation and contributes to antiplasmodial activity.
 37352369	A malaria parasite phospholipase facilitates efficient asexual blood stage egress.
 37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
-37350735	Studying the health benefits of improved housing in rural Tanzania: challenges and progress.
-37349819	Anopheles vector distribution and malaria transmission dynamics in Gbêkê region, central Côte d'Ivoire.
-37349789	Performance of a novel melting curve-based qPCR assay for malaria parasites in routine clinical practice in non-endemic setting.
-37349771	Incidence and mortality trends of neglected tropical diseases and malaria in China and ASEAN countries from 1990 to 2019 and its association with the socio-demographic index.
-37349497	A type II protein arginine methyltransferase regulates merozoite invasion in Plasmodium falciparum.
-37349311	Multiplexed ddPCR-amplicon sequencing reveals isolated Plasmodium falciparum populations amenable to local elimination in Zanzibar, Tanzania.
-37348949	Expanding the Role of Women in Vector Control: Case Studies From Madagascar, Rwanda, and Zambia.
-37348801	Polymorphism analysis of drug resistance markers in Plasmodium falciparum isolates from Benin.
