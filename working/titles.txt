@@ -1,3 +1,10 @@
+40813172	Climate-related challenges to brain health: A European perspective review.
+40813102	Single low-dose primaquine for malaria control in Africa: a systematic review of safety, efficacy and implementation barriers.
+40812518	Antiplasmodial activity of tambjamines, dihydro-β-agarofurans and pyrroloazepines derived from Australian plant and marine species.
+40811722	The transmission blocking activity of artemisinin-combination, non-artemisinin, and 8-aminoquinoline antimalarial therapies: A pooled analysis of individual participant data.
+40811667	Manuscript title: Cytokines Associated With Moderate and Severe Adverse Events During a Sporozoite Malaria Vaccine Trial with Controlled Human Malaria Infection.
+40811478	Novel Inhibitors of Plasmodium Phosphatidylinositol 4-kinase IIIβ with Low Propensity for Resistance: Life Cycle Stage Activity and In Vivo Efficacy in a Humanized Mouse Malaria Infection Model.
+40811430	The colonial response to the development of disease in Ghana and Côte d'Ivoire (ca. 1900-1955): A comparative analysis of British and French colonial health policies.
 40810137	Guanine derivatives as promising candidates for the development of purine-based antimalarial drugs.
 40809063	Glucose-functionalized redox-responsive dihydroartemisinin prodrug nanosystem for targeted malaria therapy.
 40808288	Geographic variation and diversity of bacterial endosymbionts in Asian citrus psyllid, Diaphorina citri, from Iran.
@@ -9990,10 +9997,3 @@
 37349311	Multiplexed ddPCR-amplicon sequencing reveals isolated Plasmodium falciparum populations amenable to local elimination in Zanzibar, Tanzania.
 37348949	Expanding the Role of Women in Vector Control: Case Studies From Madagascar, Rwanda, and Zambia.
 37348801	Polymorphism analysis of drug resistance markers in Plasmodium falciparum isolates from Benin.
-37348666	Host biomarkers for early identification of severe imported Plasmodium falciparum malaria.
-37348640	Expression and copper binding studies of a Plasmodium falciparum protein with Cox19 copper binding motifs.
-37348620	Quantification of Plasmodium falciparum HRP-2 as an alternative method to [(3)H]hypoxanthine incorporation to measure the parasite reduction ratio in vitro.
-37348521	Independent SARS-CoV-2 staff testing protected academic and health-care institutions in northwest London.
-37348379	A model for malaria treatment evaluation in the presence of multiple species.
-37347767	Singapore's 5 decades of dengue prevention and control-Implications for global dengue control.
-37347274	The environmental impact of the sugar industry waste in Sudan.
