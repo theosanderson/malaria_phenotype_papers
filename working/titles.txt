@@ -42,14 +42,12 @@
 40799754	Parasite Population Dynamics Shape pfhrp2 and pfhrp3 Deletion Patterns in the Peruvian Amazon.
 40799456	Mapping climate change-driven epidemics.
 40799379	Overview of antimicrobial resistance mitigation efforts in Benin 2024.
-40799291	Molecular Mechanisms of Drug-Induced Hemolysis in G6PD Deficiency: Mechanistic Insights.
 40798923	Liver function tests among children with moderate acute malnutrition: A secondary analysis of a randomized trial from Burkina Faso.
 40797720	Dual-band polarization-independent maze-shaped absorber based on graphene for terahertz biomedical sensing.
 40797258	Community readiness and acceptance for the implementation of the malaria vaccine among caretakers of at-risk children in sub-Saharan Africa: a systematic review and meta-analysis.
 40797249	Resilience of long-lasting insecticidal net distribution system on the Thai-Myanmar border: pre, during, and post COVID-19 pandemic insights.
 40797246	Correction: Assessment of the in vitro activity and selectivity of Artemisia afra and Artemisia annua aqueous extracts against artemisinin-resistant Plasmodium falciparum.
 40797224	Ecological drivers of malaria vector habitat and transmission over 1 year of long-lasting insecticidal net intervention in Côte d'Ivoire.
-40796540	Both inhibitory and activating KIRs recognize RIFINs: a dual-edged mechanism of NK cell control in malaria.
 40796211	Therapeutic efficacy monitoring of pyronaridine-artesunate (Pyramax®) in treating uncomplicated Plasmodium falciparum malaria in Gia Lai province, Vietnam from 2022 to 2023.
 40795871	An adjuvant database for preclinical evaluation of vaccines and immunotherapeutics.
 40795863	Is Gene Drive Research Losing Traction?
@@ -9997,3 +9995,5 @@
 37352998	Ivermectin as a novel malaria control tool: Getting ahead of the resistance curse.
 37352945	Marmesin isolated from Celtis durandii Engl. root bioactive fraction inhibits β-hematin formation and contributes to antiplasmodial activity.
 37352369	A malaria parasite phospholipase facilitates efficient asexual blood stage egress.
+37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
+37350735	Studying the health benefits of improved housing in rural Tanzania: challenges and progress.
