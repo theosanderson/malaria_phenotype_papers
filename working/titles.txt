@@ -2208,6 +2208,7 @@
 40037748	Complicated malaria caused by Plasmodium falciparum with parasitemia >50.
 40037124	In vitro evaluation of multi-protein chimeric antigens in effectively clearing the blood stage of Plasmodium falciparum.
 40036694	Hereditary Pyropoikilocytosis as a Modifier of Sickle Cell Disease Severity.
+40036593	Effects of the COVID-19 pandemic on TB outcomes in the United States: a Bayesian analysis.
 40036563	Malaria chemoprophylaxis provision in the UK: a call to evaluate the cost-effectiveness and equity implications of universal provision.
 40036207	Submicroscopic malaria in pregnancy and associated adverse pregnancy events: A case-cohort study of 4,352 women on the Thailand-Myanmar border.
 40036198	First report of Matryoshka RNA virus in an African-European migrant bird.
@@ -9996,4 +9997,3 @@
 37352998	Ivermectin as a novel malaria control tool: Getting ahead of the resistance curse.
 37352945	Marmesin isolated from Celtis durandii Engl. root bioactive fraction inhibits β-hematin formation and contributes to antiplasmodial activity.
 37352369	A malaria parasite phospholipase facilitates efficient asexual blood stage egress.
-37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
