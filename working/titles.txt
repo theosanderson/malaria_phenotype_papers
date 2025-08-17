@@ -1,3 +1,4 @@
+40819103	Prevalence and trends of transfusion transmitted infections among blood donors in a tertiary care hospital of Assam.
 40816670	Identification of Malaria Vulnerable Zones in North East Region of India: Spatiotemporal Assessment through Geographical Information System and Self-Organizing Maps.
 40815163	Discovery of sporogeny in the malaria transmission-blocking symbiont of Anopheles mosquitoes.
 40814135	Cinchona bark and quinine as psychiatric treatments in Portugal, 1700-1900.
@@ -9996,4 +9997,3 @@
 37352945	Marmesin isolated from Celtis durandii Engl. root bioactive fraction inhibits β-hematin formation and contributes to antiplasmodial activity.
 37352369	A malaria parasite phospholipase facilitates efficient asexual blood stage egress.
 37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
-37350735	Studying the health benefits of improved housing in rural Tanzania: challenges and progress.
