@@ -1,5 +1,9 @@
+40820204	Evaluation of serum electrolytes and kidney function among untreated malaria (Plasmodium falciparum) patients in health centers, Konso zone, South Ethiopia.
+40819997	Evaluation of 1(st) WHO anti-malaria reference reagent for competition ELISA harmonisation and development of ADAMSEL analytical platform.
+40819812	Seasonal variations in child mortality during the 2014-2015 Ebola epidemic in Sierra Leone.
+40819650	Malaria resurgence in Africa: confronting the challenges.
 40819103	Prevalence and trends of transfusion transmitted infections among blood donors in a tertiary care hospital of Assam.
-40816670	Identification of Malaria Vulnerable Zones in North East Region of India: Spatiotemporal Assessment through Geographical Information System and Self-Organizing Maps.
+40816670	Identification of malaria vulnerable zones in North East Region of India: Spatiotemporal assessment through geographical information system and self-organizing maps.
 40815163	Discovery of sporogeny in the malaria transmission-blocking symbiont of Anopheles mosquitoes.
 40814135	Cinchona bark and quinine as psychiatric treatments in Portugal, 1700-1900.
 40814090	Measuring growth, resistance, and recovery after artemisinin treatment of Plasmodium falciparum in a single semi-high-throughput assay.
@@ -64,7 +68,6 @@
 40791573	Can hair concentrations of artemether-lumefantrine be used as a tool to retrospectively determine drug exposure during malaria treatment?
 40791414	Computational Prioritization of T Cell Epitopes to Overcome HLA Restriction and Antigenic Diversity in Plasmodium falciparum.
 40791395	The Human Chk1 Inhibitor CHIR-124 Shows Multistage Activity Against Plasmodium falciparum via Dual Inhibition of Pf Ark1 and Hemozoin Formation.
-40791393	5' untranslated regions tune Toxoplasma translation.
 40791362	An atlas of positive selection in the genomes of major malaria vectors.
 40791317	The molecular basis of coordinated antigen switching enabling chronic infection by human malaria parasites.
 40791280	Penicillium-Derived Inhibitors of Plasmodium falciparum Lactate Dehydrogenase (PfLDH): A Computational Approach for Novel Antimalarial Therapy Development.
@@ -343,7 +346,6 @@
 40695195	Sulfadoxine derivatization through multicomponent reactions to obtain new antiplasmodial compounds.
 40695081	Polymorphisms of the CYP2D6 gene and its relationship with Plasmodium vivax relapses after chloroquine-primaquine treatment in Turbo, Colombia.
 40695027	Screening mycosporine-like amino acids (MAAs) as potential inhibitors of a malaria-associated cysteine protease falcipain-2.
-40694928	Mirroring rarity of ectopic adult Schistosoma haematobium worms in a Sudanese patient.
 40694583	Outbreak of cutaneous leishmaniasis amongst militia members in a non-endemic district under conflict in the lowlands of Somali Region caused by Leishmania tropica, Eastern Ethiopia.
 40694565	A chaperonin complex regulates organelle proteostasis in malaria parasites.
 40694003	Targeting Plasmodium glutathione S-transferases to overcome antimalaria drug resistance in Southern Africa.
@@ -685,7 +687,6 @@
 40584362	IFN‑γ Production in Memory CD4 (+) T Cells in Response to MSP1(19) Antigen and Its Correlation with Anemia and Thrombocytopenia in Pediatric Vivax Malaria.
 40583778	Apocynin may alleviate side effects of autophagy-blocked radiotherapy through antioxidant effects.
 40583642	Strengthening Research Ethics Capacity in West Africa, 2015-2024.
-40582470	Investigation of the viral causes of febrile jaundice in Burkina Faso through metagenomic sequencing.
 40582050	Habitat drivers and predicted distribution shifts of Anopheles coluzzii under climate change: Results from the systematic review.
 40581744	Economic value of pre-travel health interventions for communicable diseases in international travellers.
 40580989	Implications of progressive lung damage and post-tuberculosis sequelae for the health benefits of prompt tuberculosis treatment in high HIV prevalence settings: a mathematical modelling analysis.
@@ -2749,7 +2750,6 @@
 39850332	Severe knowlesi malaria with acute neurocognitive impairment: A case report.
 39850152	A Rare Case of Locally Acquired Malaria in Lebanon: A Public Health Concern.
 39849946	Emoquine-1: A Hybrid Molecule Efficient against Multidrug-Resistant Plasmodium Parasites, Including the Artemisinin-Resistant Quiescent Stage, and Also Active In Vivo.
-39849754	Identification of tea resources with high accumulation of 1-O-galloyl-6-O-luteoyl-α-D-glucose and comprehensive dissection of its variation.
 39849545	Understanding malaria treatment patronage from informal healthcare providers in Nigerian urban settlements: insights from community members and providers.
 39849377	Metabolic resistance to pyrethroids with possible involvement of non-coding ribonucleic acids in Anopheles funestus, the major malaria vector in western Kenya.
 39849289	A novel genotype of Babesia microti-like group in Ixodes montoyanus ticks parasitizing the Andean bear (Tremarctos ornatus) in Ecuador.
@@ -5148,7 +5148,6 @@
 39013662	Malaria endemicity linked to shorter telomeres in leukocytes.
 39013661	BioMalPar XX: looking back on, and forward from, 20 years of malaria research.
 39013660	A breath of fresh air: impact of insect-borne protozoan parasites on the respiratory system.
-39013438	Near-Term Quantum Classification Algorithms Applied to Antimalarial Drug Discovery.
 39013389	A Legacy of Impact in Global Health.
 39013375	Evaluation of the International Task Force for Disease Eradication: A Review of Past Deliberations.
 39012884	Correction: Untangling population structure and genetic diversity of reticulocyte binding protein 2b (PvRBP2b) erythrocytic stage vaccine candidate in worldwide Plasmodium vivax isolates.
@@ -9997,3 +9996,4 @@
 37352945	Marmesin isolated from Celtis durandii Engl. root bioactive fraction inhibits β-hematin formation and contributes to antiplasmodial activity.
 37352369	A malaria parasite phospholipase facilitates efficient asexual blood stage egress.
 37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
+37350735	Studying the health benefits of improved housing in rural Tanzania: challenges and progress.
