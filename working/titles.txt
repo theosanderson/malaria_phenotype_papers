@@ -1,3 +1,14 @@
+40824641	Biannual Mass Azithromycin Distributions for Preschool Children and Malaria Parasitemia: A Secondary Analysis of the MORDOR Cluster Randomized Trial.
+40824459	Know your enemy: understanding mosquito biology to advance malaria elimination in Africa.
+40823868	Frequencies of molecular markers of drug resistance in the context of two different Seasonal Malaria Chemoprevention (SMC) treatment regimens in the Koulikoro health district, Mali.
+40823867	Synergistic activity of RSL3 and Pyrimethamine to inhibit the proliferation of Plasmodium falciparum.
+40823845	Plasmodium falciparum PP1 phosphatase is a key regulator of malaria parasite transmission.
+40822987	Enhanced Antimalarial Efficacy of Annona muricata Leaf Extract Combined With Artesunate, Chloroquine, and Pyrimethamine in Plasmodium berghei-Infected ICR Mice.
+40822274	Impact of asymptomatic infections on malaria transmission dynamics.
+40821941	Dual role of lactate in human health and disease.
+40821401	Convergence of diabetic ketoacidosis, acute pancreatitis, and malaria: A case report.
+40821390	Corrigendum to "The Wildlife Malaria Research network (WIMANET): Meeting report on the 1st WIMANET workshop" [Int. J. Parasitol: Parasites and Wildlife 25 (2024) 100989].
+40821228	Impact of the ABO and Rh Blood Groups on Malaria Incidence, Recurrence, and Severity Among a Moroccan Military Contingent in the Central African Republic.
 40820204	Evaluation of serum electrolytes and kidney function among untreated malaria (Plasmodium falciparum) patients in health centers, Konso zone, South Ethiopia.
 40819997	Evaluation of 1(st) WHO anti-malaria reference reagent for competition ELISA harmonisation and development of ADAMSEL analytical platform.
 40819812	Seasonal variations in child mortality during the 2014-2015 Ebola epidemic in Sierra Leone.
@@ -9986,14 +9997,3 @@
 32491525	Methylene Blue.
 37356002	Plasmodium knowlesi circumsporozoite protein: genetic characterisation and predicted antigenicity of the central repeat region.
 37355866	Clinicopathological Study of Chronic Kidney Disease of Unknown Etiology in Odisha.
-37355627	El Niño and other climatic drivers of epidemic malaria in Ethiopia: new tools for national health adaptation plans.
-37355605	Pharmacokinetics of ivermectin metabolites and their activity against Anopheles stephensi mosquitoes.
-37354510	Spectrum of Disorders associated with Tetany.
-37353790	An active and targeted survey reveals asymptomatic malaria infections among high-risk populations in Mondulkiri, Cambodia.
-37353572	GATS tag system is compatible with biotin labelling methods for protein analysis.
-37353536	The potential of phenothiazinium dyes as cytotoxicity markers in cisplatin-treated cells.
-37352998	Ivermectin as a novel malaria control tool: Getting ahead of the resistance curse.
-37352945	Marmesin isolated from Celtis durandii Engl. root bioactive fraction inhibits β-hematin formation and contributes to antiplasmodial activity.
-37352369	A malaria parasite phospholipase facilitates efficient asexual blood stage egress.
-37350957	Thermoneutrality and severe malaria: investigating the effect of warmer environmental temperatures on the inflammatory response and disease progression.
-37350735	Studying the health benefits of improved housing in rural Tanzania: challenges and progress.
