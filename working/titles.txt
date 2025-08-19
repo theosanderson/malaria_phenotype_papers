@@ -1,3 +1,6 @@
+40828051	Discovery of an Atypical Arp2/3 Complex in Malaria Parasites Sheds New Light on Nuclear Actin.
+40827872	How CYP2D6 polymorphism modulates the community-wide risk of Plasmodium vivax infection: a panel study in Amazonian Brazil.
+40827852	Benchmarking and optimization of methods for the detection of identity-by-descent in high-recombining Plasmodium falciparum genomes.
 40827277	Severe Plasmodium Falciparum Malaria Mimicking Thrombotic Thrombocytopenic Purpura (TTP): A Case Report From China.
 40826989	Cationic Lipid Stearylamine Displays Fast-Acting Antimalarial Action Against In Vitro Blood Stages of Chloroquine Susceptible and Resistant Plasmodium falciparum Strains.
 40826493	Vaccine-induced antibodies to a C-terminal Plasmodium falciparum circumsporozoite protein epitope are associated with protection.
@@ -9994,6 +9997,3 @@
 37363222	Impact of precipitation on the prevalence of schistosomiasis mekongi in Lao PDR: Structural equation modelling using Earth observation satellite data.
 37362277	Early infectious diseases identification based on complex probabilistic hesitant fuzzy N-soft information.
 37362219	Requirements for market entry of gene drive-modified mosquitoes for control of vector-borne diseases: analogies to other biologic and biotechnology products.
-37361719	A fractional-order mathematical model for malaria and COVID-19 co-infection dynamics.
-37361492	Updates on Malaria Epidemiology and Prevention Strategies.
-37361409	Simulation of optimal dose regimens of photoactivated curcumin for antimicrobial resistance pneumonia in COVID-19 patients: A modeling approach.
