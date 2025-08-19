@@ -69,6 +69,7 @@
 40795863	Is Gene Drive Research Losing Traction?
 40795812	An Anthropological Analysis of Acceptability and Feasibility of Expanding Community-Based Malaria Management to All Ages in Madagascar: Levels and Challenges for National Scale-Up.
 40795573	AI-driven diagnosis of Lassa fever: Evidence from Nigerian clinical records.
+36580567	
 40795429	Small phenolic inhibitors of PfATP6, a Plasmodium falciparum calcium ATPase, as prototype antimalarials.
 40795111	Progress towards malaria elimination: insights from Cambodia's mobile malaria workers during the COVID-19 pandemic.
 40794684	Physical integrity and residual bio-efficacy of PBO-pyrethroid synergist-treated and pyrethroid-only LLINs after 1.5 years of field use in Western Kenya.
@@ -3454,7 +3455,6 @@
 39613572	Retraction notice to "Synthesize palladium nanoparticles from the macroalgae Sargassum fusiforme: An eco-friendly tool in the fight against plasmodium falciparum?" [Sci. Total Environ. 857 Part 3, (2023) 159517].
 39613430	Magnitude and associated factors of delayed treatment seeking among patients with malaria in Andabet district, Northwest Ethiopia, 2022: a multicentre institution-based cross-sectional study.
 39612702	Freshwater ecosystem transitions due to artisanal sand mining in Rwanda, Africa.
-36580567	
 39611847	The dynamin-related protein PfDyn2 is essential for both apicoplast and mitochondrial fission in Plasmodium falciparum.
 39611671	The silent threat: Unveiling climate change's water and health challenges in Bangladesh.
 39610980	AmpC β-lactamases detected in Southeast Asian Escherichia coli and Klebsiella pneumoniae.
