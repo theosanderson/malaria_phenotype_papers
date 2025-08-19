@@ -1,3 +1,7 @@
+40827277	Severe Plasmodium Falciparum Malaria Mimicking Thrombotic Thrombocytopenic Purpura (TTP): A Case Report From China.
+40826989	Cationic Lipid Stearylamine Displays Fast-Acting Antimalarial Action Against In Vitro Blood Stages of Chloroquine Susceptible and Resistant Plasmodium falciparum Strains.
+40826493	Vaccine-induced antibodies to a C-terminal Plasmodium falciparum circumsporozoite protein epitope are associated with protection.
+40826461	Urban malaria and population mobility in sub-Saharan Africa: systematic review and meta-analysis.
 40826163	Susceptibility of the invasive malaria vector Anopheles stephensi in Ethiopia to novel chemical insecticides and insect growth regulator.
 40826063	Climate-driven malaria mortality among children in malaria-endemic areas of Uganda.
 40826047	Integrating vulnerability and hazard in malaria risk mapping: the elimination context of Senegal.
@@ -936,7 +940,6 @@
 40495138	Improving the utilization of insecticide-treated nets for malaria prevention among pregnant women, lactating mothers and children in Sierra Leone: a commentary.
 40495116	Prevalence of malaria and its associated factors among adults living in Samre Woreda, Tigray, Ethiopia, 2023/24: a community-based cross-sectional study.
 40494546	MOLECULAR SURVEY OF HAEMOSPORIDIAN PARASITES IN HAWKS, FALCONS, AND OWLS (ACCIPITRIFORMES, FALCONIFORMES, STRIGIFORMES) FROM MINNESOTA AND NORTH DAKOTA, WITH REMARKS ON THE PHYLOGENETIC RELATIONSHIPS OF HAEMOSPORIDIANS IN NORTH AMERICAN RAPTORS.
-40494320	Radiological Findings in Imported Schistosomiasis at an International Health Unit in Barcelona, Spain.
 40494225	Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 17-21 February 2025.
 40494146	Phagocytes of the forest: Are myxomycetes defensive mutualists for host plants?
 40493822	Malaria after liver transplantation: Report of two cases and a review of published cases.
@@ -9994,6 +9997,3 @@
 37361719	A fractional-order mathematical model for malaria and COVID-19 co-infection dynamics.
 37361492	Updates on Malaria Epidemiology and Prevention Strategies.
 37361409	Simulation of optimal dose regimens of photoactivated curcumin for antimicrobial resistance pneumonia in COVID-19 patients: A modeling approach.
-37360388	Antileishmanial evaluation of triazole-butenolide conjugates: design, synthesis, in vitro screening, SAR and in silico ADME predictions.
-37359709	Garcinia kola: a critical review on chemistry and pharmacology of an important West African medicinal plant.
-37359425	Engineering Innovative Interfaces for Point-of-Care Diagnostics.
