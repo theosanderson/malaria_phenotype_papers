@@ -131,6 +131,7 @@
 40778966	The Impact of Environmental Factors and Host Migration on Avian Haemosporidians Prevalence: A Molecular Survey in Southern Iran.
 40778727	Improved Bicyclic Pyrrolidine Analogues Inhibit Toxoplasma gondii Growth In Vitro and Cure Infection In Vivo.
 40778167	Understanding Malaria Treatment Adherence in Rwanda: Implications for Artemisinin Resistance.
+40778160	Effective Aerosol Inoculation of Dose-Escalated Seasonal Influenza H3N2 Virus in Controlled Human Infection Model.
 40778156	Epidemiological Insights and Duffy Binding Protein Evolution of Plasmodium vivax in Duffy-Negative Cameroonians.
 40778117	Artemisinin Partial Resistance Mutations in Zanzibar and Tanzania Suggest Regional Spread and African Origins, 2023.
 40777964	Spatio-temporal characterization of malaria prevalence in a peri-urban resource limited setting of Western Kenya Highlands.
@@ -9996,4 +9997,3 @@
 37363251	The pathology of co-infection with Usutu virus and Plasmodium spp. in naturally infected Eurasian blackbirds (Turdus merula).
 37363222	Impact of precipitation on the prevalence of schistosomiasis mekongi in Lao PDR: Structural equation modelling using Earth observation satellite data.
 37362277	Early infectious diseases identification based on complex probabilistic hesitant fuzzy N-soft information.
-37362219	Requirements for market entry of gene drive-modified mosquitoes for control of vector-borne diseases: analogies to other biologic and biotechnology products.
