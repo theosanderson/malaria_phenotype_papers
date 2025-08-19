@@ -1,3 +1,10 @@
+40826163	Susceptibility of the invasive malaria vector Anopheles stephensi in Ethiopia to novel chemical insecticides and insect growth regulator.
+40826063	Climate-driven malaria mortality among children in malaria-endemic areas of Uganda.
+40826047	Integrating vulnerability and hazard in malaria risk mapping: the elimination context of Senegal.
+40825879	Integrated structural biology of the native malarial translation machinery and its inhibition by an antimalarial drug.
+40825489	Differential expression of miRNAs dictates the susceptibility/resistance during malaria pathogenesis.
+40824944	Characterization of experimental cerebral malaria by volumetric MRI A comparative study across the sexes.
+40824883	Net ownership, utilization and malaria burden in the context of Piperonyl butoxide-LLINs intervention in western Kenya.
 40824641	Biannual Mass Azithromycin Distributions for Preschool Children and Malaria Parasitemia: A Secondary Analysis of the MORDOR Cluster Randomized Trial.
 40824459	Know your enemy: understanding mosquito biology to advance malaria elimination in Africa.
 40823868	Frequencies of molecular markers of drug resistance in the context of two different Seasonal Malaria Chemoprevention (SMC) treatment regimens in the Koulikoro health district, Mali.
@@ -9990,10 +9997,3 @@
 37360388	Antileishmanial evaluation of triazole-butenolide conjugates: design, synthesis, in vitro screening, SAR and in silico ADME predictions.
 37359709	Garcinia kola: a critical review on chemistry and pharmacology of an important West African medicinal plant.
 37359425	Engineering Innovative Interfaces for Point-of-Care Diagnostics.
-37358202	Splenic Small Cell Lymphoma with Presumed Secondary Immune-Mediated Hemolytic Anemia in an African Penguin (Spheniscus demersus).
-37357390	Basic Nitrogen (BaN) Is a Key Property of Antimalarial Chemical Space.
-37356628	Asymptomatic Plasmodium falciparum infection evades triggering a host transcriptomic response.
-37356261	Polymorphisms in Toll-Like receptors genes and their associations with immunological parameters in Plasmodium vivax malaria in the Brazil-French Guiana Border.
-32491525	Methylene Blue.
-37356002	Plasmodium knowlesi circumsporozoite protein: genetic characterisation and predicted antigenicity of the central repeat region.
-37355866	Clinicopathological Study of Chronic Kidney Disease of Unknown Etiology in Odisha.
