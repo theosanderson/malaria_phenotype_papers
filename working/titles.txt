@@ -1,3 +1,17 @@
+40832728	Genital schistosomiasis in non-endemic settings, a clinical perspective.
+40832631	mRNA-LNP vaccine encoding the Plasmodium vivax circumsporozoite protein is highly immunogenic and confers protection in mice.
+40832414	Clonal Transmission of Emerging Novel Plasmodium falciparum Kelch13 Mutations and Increasing Complexity of Infection in Libreville, Gabon, 2021-2023.
+40832372	Using transportability methods to map the local effectiveness of mass drug administration for malaria in Senegal.
+40832308	Metabolic reprogramming and gut microbiota ecology drive divergent Plasmodium vivax infection outcomes in Anopheles darlingi.
+40832278	Recombinant proteasome provides new avenues for anti-malarial drug development.
+40832060	Notified Vector-Borne Diseases - China, 2005-2024.
+40831619	Comparative Analysis of Intestinal Parasitic Infections and Risk Factors Affected by the Pandemic Among Primary Schoolchildren in the Provinces of Manzini and Lubombo, Kingdom of Eswatini: A Follow-Up Study in 2019 and 2022.
+40831596	Physiological, environmental, and life-history drivers of haemosporidian infections in non-passerine birds from a rehabilitation center.
+40830903	Imported plasmodium ovale malaria from Côte d'Ivoire: a case report.
+40830884	Experimental hut resting and entrance behaviour of Anopheles darlingi from Zungarococha, a malaria endemic community in Loreto, Northern Peruvian Amazon.
+40830879	Prevalence of Plasmodium falciparum plasmepsin2/3 gene duplication in Africa and Asia: a systematic review and meta-analysis.
+40830868	Subnational malaria burden in Sindh, Pakistan: over a decade of evidence for tailored strategies.
+40830840	Targeting invasion-associated proteins PfSUB2 and PfTRAMP in Plasmodium falciparum: identification of potential inhibitors via molecular docking.
 40830670	Mini-review and situation report on the role and usefulness of nuclear medicine imaging for malaria.
 40830592	Systems approach identifies monocyte imbalance in symptomatic and asymptomatic P. vivax malaria.
 40830178	Linking abiotic conditions to mosquito assemblage structure in bromeliads.
@@ -9983,17 +9997,3 @@
 37373481	Toward Overcoming Pyrethroid Resistance in Mosquito Control: The Role of Sodium Channel Blocker Insecticides.
 37373382	Posttranslational Modification of Human Cytochrome CYP4F11 by 4-Hydroxynonenal Impairs ω-Hydroxylation in Malaria Pigment Hemozoin-Fed Monocytes: The Role in Malaria Immunosuppression.
 37372897	Applying Machine Learning to Healthcare Operations Management: CNN-Based Model for Malaria Diagnosis.
-37371556	Potent GST Ketosteroid Isomerase Activity Relevant to Ecdysteroidogenesis in the Malaria Vector Anopheles gambiae.
-37370516	Haemosporidian Parasites of White-Breasted Waterhens (Amaurornis phoenicurus), with a Report and Molecular Characterization of Haemoproteus gallinulae in Thailand.
-37370169	The MTego trap: a potential tool for monitoring malaria and arbovirus vectors.
-37370073	Promptness in seeking treatment from Village Health workers for children under five years with malaria, diarrhoea and pneumonia in rural southwestern Uganda.
-37370061	In vitro antiplasmodial activity and toxicological profile of extracts, fractions and chemical constituents of leaves and stem bark from Dacryodes edulis (Burseraceae).
-37369862	Prevalence and proportion estimate of asymptomatic Plasmodium infection in Asia: a systematic review and meta-analysis.
-37369403	Supply-side and demand-side factors influencing uptake of malaria testing services in the community: lessons for scale-up from a post-hoc analysis of a cluster randomised, community-based trial in western Kenya.
-37368820	Travel-Related Diagnoses Among U.S. Nonmigrant Travelers or Migrants Presenting to U.S. GeoSentinel Sites - GeoSentinel Network, 2012-2021.
-37368728	Bias-Corrected CMIP5 Projections for Climate Change and Assessments of Impact on Malaria in Senegal under the VECTRI Model.
-37368714	Evaluation of an Innovative Point-of-Care Rapid Diagnostic Test for the Identification of Imported Malaria Parasites in China.
-37368710	Clinical and Parasitological Profiles of Gestational, Placental and Congenital Malaria in Northwestern Colombia.
-37368707	A Systematic Review and Meta-Analysis of the Proportion Estimates of Disseminated Intravascular Coagulation (DIC) in Malaria.
-37368676	Toxins from Animal Venoms as a Potential Source of Antimalarials: A Comprehensive Review.
-37368617	Novel Essential Oils Blend as a Repellent and Toxic Agent against Disease-Transmitting Mosquitoes.
