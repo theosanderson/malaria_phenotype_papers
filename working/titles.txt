@@ -1,3 +1,11 @@
+40830670	Mini-review and situation report on the role and usefulness of nuclear medicine imaging for malaria.
+40830592	Systems approach identifies monocyte imbalance in symptomatic and asymptomatic P. vivax malaria.
+40830178	Linking abiotic conditions to mosquito assemblage structure in bromeliads.
+40830136	Complex travelling wave solutions of fractional nonlinear coupled malaria model: bifurcation, chaos, and multistability.
+40829583	High Prevalence, Genetic Diversity and Temporal Differentiation of Plasmodium vivax in a Remote Hard-to-Reach Community from the Peruvian Amazon Region.
+40829582	Geographical Risk of Disease Mortality during the US Civil War.
+40829581	Emerging Resistance in Anopheles stephensi Larvae to the Larvicide Temephos in Chennai, India.
+40829546	Diabetes driven effects on incidence and mortality of breast cancer: A meta-analysis.
 40828941	Unveiling the Nanomorphological Architecture of Malaria Vectors' Wings via Minkowski and Multifractal Formalisms.
 40828853	Triple-band highly sensitive terahertz metamaterial absorber for biomedical sensing applications.
 40828792	Regular Plasmodium falciparum importation onto Bioko Island, Equatorial Guinea, hampers malaria elimination from the island.
@@ -88,7 +96,7 @@
 40796211	Therapeutic efficacy monitoring of pyronaridine-artesunate (Pyramax®) in treating uncomplicated Plasmodium falciparum malaria in Gia Lai province, Vietnam from 2022 to 2023.
 40795871	An adjuvant database for preclinical evaluation of vaccines and immunotherapeutics.
 40795863	Is Gene Drive Research Losing Traction?
-40795812	An Anthropological Analysis of Acceptability and Feasibility of Expanding Community-Based Malaria Management to All Ages in Madagascar: Levels and Challenges for National Scale-Up.
+40795812	An Anthropological Analysis of Acceptability and Feasibility of Expanding Community-Based Malaria Management to All Ages in Madagascar: Levers and Challenges for National Scale-Up.
 40795573	AI-driven diagnosis of Lassa fever: Evidence from Nigerian clinical records.
 36580567	
 40795429	Small phenolic inhibitors of PfATP6, a Plasmodium falciparum calcium ATPase, as prototype antimalarials.
@@ -9989,11 +9997,3 @@
 37368707	A Systematic Review and Meta-Analysis of the Proportion Estimates of Disseminated Intravascular Coagulation (DIC) in Malaria.
 37368676	Toxins from Animal Venoms as a Potential Source of Antimalarials: A Comprehensive Review.
 37368617	Novel Essential Oils Blend as a Repellent and Toxic Agent against Disease-Transmitting Mosquitoes.
-37367368	Ovary Dissection Is a Sensitive Measure of Sterility in Anopheles gambiae Exposed to the Insect Growth Regulator Pyriproxyfen.
-37367359	Effects of Temperature and Nutrition during the Larval Period on Life History Traits in an Invasive Malaria Vector Anopheles stephensi.
-37366629	Nonsense-mediated decay machinery in Plasmodium falciparum is inefficient and non-essential.
-37366613	SHIP1 modulates antimalarial immunity by bridging the crosstalk between type I IFN signaling and autophagy.
-37365785	Virtual Screening of Flavonoids against Plasmodium vivax Duffy Binding Protein Utilizing Molecular Docking and Molecular Dynamic Simulation.
-37365602	Predictors of mosquito bed net use among children under-fives in Ghana: a multilevel analysis of the 2019 malaria indicator survey.
-37365595	Comparing field-collected versus remotely-sensed variables to model malaria risk in the highlands of western Uganda.
-37365258	Fetal sex and risk of pregnancy-associated malaria in Plasmodium falciparum-endemic regions: a meta-analysis.
