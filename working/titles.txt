@@ -1,3 +1,7 @@
+40828941	Unveiling the Nanomorphological Architecture of Malaria Vectors' Wings via Minkowski and Multifractal Formalisms.
+40828853	Triple-band highly sensitive terahertz metamaterial absorber for biomedical sensing applications.
+40828792	Regular Plasmodium falciparum importation onto Bioko Island, Equatorial Guinea, hampers malaria elimination from the island.
+40828749	The story of elimination of visceral leishmaniasis (kala-azar) in India-Challenges towards sustainment.
 40828051	Discovery of an Atypical Arp2/3 Complex in Malaria Parasites Sheds New Light on Nuclear Actin.
 40827872	How CYP2D6 polymorphism modulates the community-wide risk of Plasmodium vivax infection: a panel study in Amazonian Brazil.
 40827852	Benchmarking and optimization of methods for the detection of identity-by-descent in high-recombining Plasmodium falciparum genomes.
@@ -18,6 +22,7 @@
 40823867	Synergistic activity of RSL3 and Pyrimethamine to inhibit the proliferation of Plasmodium falciparum.
 40823845	Plasmodium falciparum PP1 phosphatase is a key regulator of malaria parasite transmission.
 40822987	Enhanced Antimalarial Efficacy of Annona muricata Leaf Extract Combined With Artesunate, Chloroquine, and Pyrimethamine in Plasmodium berghei-Infected ICR Mice.
+40822947	Factors associated with hypertension among patients with type 2 diabetes: evidence from a resource-limited setting-Southern Ethiopia.
 40822274	Impact of asymptomatic infections on malaria transmission dynamics.
 40821941	Dual role of lactate in human health and disease.
 40821401	Convergence of diabetic ketoacidosis, acute pancreatitis, and malaria: A case report.
@@ -72,12 +77,14 @@
 40799754	Parasite Population Dynamics Shape pfhrp2 and pfhrp3 Deletion Patterns in the Peruvian Amazon.
 40799456	Mapping climate change-driven epidemics.
 40799379	Overview of antimicrobial resistance mitigation efforts in Benin 2024.
+40799291	Molecular Mechanisms of Drug-Induced Hemolysis in G6PD Deficiency: Mechanistic Insights.
 40798923	Liver function tests among children with moderate acute malnutrition: A secondary analysis of a randomized trial from Burkina Faso.
 40797720	Dual-band polarization-independent maze-shaped absorber based on graphene for terahertz biomedical sensing.
 40797258	Community readiness and acceptance for the implementation of the malaria vaccine among caretakers of at-risk children in sub-Saharan Africa: a systematic review and meta-analysis.
 40797249	Resilience of long-lasting insecticidal net distribution system on the Thai-Myanmar border: pre, during, and post COVID-19 pandemic insights.
 40797246	Correction: Assessment of the in vitro activity and selectivity of Artemisia afra and Artemisia annua aqueous extracts against artemisinin-resistant Plasmodium falciparum.
 40797224	Ecological drivers of malaria vector habitat and transmission over 1 year of long-lasting insecticidal net intervention in Côte d'Ivoire.
+40796540	Both inhibitory and activating KIRs recognize RIFINs: a dual-edged mechanism of NK cell control in malaria.
 40796211	Therapeutic efficacy monitoring of pyronaridine-artesunate (Pyramax®) in treating uncomplicated Plasmodium falciparum malaria in Gia Lai province, Vietnam from 2022 to 2023.
 40795871	An adjuvant database for preclinical evaluation of vaccines and immunotherapeutics.
 40795863	Is Gene Drive Research Losing Traction?
@@ -94,6 +101,7 @@
 40791573	Can hair concentrations of artemether-lumefantrine be used as a tool to retrospectively determine drug exposure during malaria treatment?
 40791414	Computational Prioritization of T Cell Epitopes to Overcome HLA Restriction and Antigenic Diversity in Plasmodium falciparum.
 40791395	The Human Chk1 Inhibitor CHIR-124 Shows Multistage Activity Against Plasmodium falciparum via Dual Inhibition of Pf Ark1 and Hemozoin Formation.
+40791393	5' untranslated regions tune Toxoplasma translation.
 40791362	An atlas of positive selection in the genomes of major malaria vectors.
 40791317	The molecular basis of coordinated antigen switching enabling chronic infection by human malaria parasites.
 40791280	Penicillium-Derived Inhibitors of Plasmodium falciparum Lactate Dehydrogenase (PfLDH): A Computational Approach for Novel Antimalarial Therapy Development.
@@ -323,7 +331,7 @@
 40715105	Malaria bivalent viral vectored vaccine protects against Plasmodium falciparum and vivax and blocks parasite transmission.
 40715087	An all-in-one pipeline for the in vitro discovery and in vivo testing of Plasmodium falciparum malaria transmission blocking drugs.
 40714671	Case series of spontaneous splenic rupture in patients with malaria: A rare surgical emergency in non-traumatic cases.
-40714063	Bitter Leaf (Vernonia amygdalina) and Siam Weed (Chromolaena odorata) Aqueous Extracts Alleviate Testicular Damage Induced by Plasmodium berghei in Male Mice via Modulation of Oxidative Stress Pathways.
+40714063	Bitter leaf (Vernonia amygdalina) and siam weed (Chromolaena odorata) aqueous extracts alleviate testicular damage induced by Plasmodium berghei in male mice via modulation of oxidative stress pathways.
 40713723	Development and application of an LC-MS/MS method for quantification of fosmidomycin in human and rat plasma.
 40712615	Clinical impact and cost-effectiveness of the WHO-recommended advanced HIV disease package of care.
 40711456	Characterizing the quick-killing mechanism of action of azithromycin analogs against malaria parasites.
@@ -373,6 +381,7 @@
 40695195	Sulfadoxine derivatization through multicomponent reactions to obtain new antiplasmodial compounds.
 40695081	Polymorphisms of the CYP2D6 gene and its relationship with Plasmodium vivax relapses after chloroquine-primaquine treatment in Turbo, Colombia.
 40695027	Screening mycosporine-like amino acids (MAAs) as potential inhibitors of a malaria-associated cysteine protease falcipain-2.
+40694928	Mirroring rarity of ectopic adult Schistosoma haematobium worms in a Sudanese patient.
 40694583	Outbreak of cutaneous leishmaniasis amongst militia members in a non-endemic district under conflict in the lowlands of Somali Region caused by Leishmania tropica, Eastern Ethiopia.
 40694565	A chaperonin complex regulates organelle proteostasis in malaria parasites.
 40694003	Targeting Plasmodium glutathione S-transferases to overcome antimalaria drug resistance in Southern Africa.
@@ -714,6 +723,7 @@
 40584362	IFN‑γ Production in Memory CD4 (+) T Cells in Response to MSP1(19) Antigen and Its Correlation with Anemia and Thrombocytopenia in Pediatric Vivax Malaria.
 40583778	Apocynin may alleviate side effects of autophagy-blocked radiotherapy through antioxidant effects.
 40583642	Strengthening Research Ethics Capacity in West Africa, 2015-2024.
+40582470	Investigation of the viral causes of febrile jaundice in Burkina Faso through metagenomic sequencing.
 40582050	Habitat drivers and predicted distribution shifts of Anopheles coluzzii under climate change: Results from the systematic review.
 40581744	Economic value of pre-travel health interventions for communicable diseases in international travellers.
 40580989	Implications of progressive lung damage and post-tuberculosis sequelae for the health benefits of prompt tuberculosis treatment in high HIV prevalence settings: a mathematical modelling analysis.
@@ -944,6 +954,7 @@
 40495138	Improving the utilization of insecticide-treated nets for malaria prevention among pregnant women, lactating mothers and children in Sierra Leone: a commentary.
 40495116	Prevalence of malaria and its associated factors among adults living in Samre Woreda, Tigray, Ethiopia, 2023/24: a community-based cross-sectional study.
 40494546	MOLECULAR SURVEY OF HAEMOSPORIDIAN PARASITES IN HAWKS, FALCONS, AND OWLS (ACCIPITRIFORMES, FALCONIFORMES, STRIGIFORMES) FROM MINNESOTA AND NORTH DAKOTA, WITH REMARKS ON THE PHYLOGENETIC RELATIONSHIPS OF HAEMOSPORIDIANS IN NORTH AMERICAN RAPTORS.
+40494320	Radiological Findings in Imported Schistosomiasis at an International Health Unit in Barcelona, Spain.
 40494225	Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 17-21 February 2025.
 40494146	Phagocytes of the forest: Are myxomycetes defensive mutualists for host plants?
 40493822	Malaria after liver transplantation: Report of two cases and a review of published cases.
@@ -2776,6 +2787,7 @@
 39850332	Severe knowlesi malaria with acute neurocognitive impairment: A case report.
 39850152	A Rare Case of Locally Acquired Malaria in Lebanon: A Public Health Concern.
 39849946	Emoquine-1: A Hybrid Molecule Efficient against Multidrug-Resistant Plasmodium Parasites, Including the Artemisinin-Resistant Quiescent Stage, and Also Active In Vivo.
+39849754	Identification of tea resources with high accumulation of 1-O-galloyl-6-O-luteoyl-α-D-glucose and comprehensive dissection of its variation.
 39849545	Understanding malaria treatment patronage from informal healthcare providers in Nigerian urban settlements: insights from community members and providers.
 39849377	Metabolic resistance to pyrethroids with possible involvement of non-coding ribonucleic acids in Anopheles funestus, the major malaria vector in western Kenya.
 39849289	A novel genotype of Babesia microti-like group in Ixodes montoyanus ticks parasitizing the Andean bear (Tremarctos ornatus) in Ecuador.
@@ -5173,6 +5185,7 @@
 39013662	Malaria endemicity linked to shorter telomeres in leukocytes.
 39013661	BioMalPar XX: looking back on, and forward from, 20 years of malaria research.
 39013660	A breath of fresh air: impact of insect-borne protozoan parasites on the respiratory system.
+39013438	Near-Term Quantum Classification Algorithms Applied to Antimalarial Drug Discovery.
 39013389	A Legacy of Impact in Global Health.
 39013375	Evaluation of the International Task Force for Disease Eradication: A Review of Past Deliberations.
 39012884	Correction: Untangling population structure and genetic diversity of reticulocyte binding protein 2b (PvRBP2b) erythrocytic stage vaccine candidate in worldwide Plasmodium vivax isolates.
@@ -9984,16 +9997,3 @@
 37365602	Predictors of mosquito bed net use among children under-fives in Ghana: a multilevel analysis of the 2019 malaria indicator survey.
 37365595	Comparing field-collected versus remotely-sensed variables to model malaria risk in the highlands of western Uganda.
 37365258	Fetal sex and risk of pregnancy-associated malaria in Plasmodium falciparum-endemic regions: a meta-analysis.
-37365194	Cytokine profiles in adults with imported malaria.
-37364863	Prevalence and Predictors of COVID-19 Long-Term Symptoms: A Cohort Study from the Amazon Basin.
-37364860	The Impact of Household and Community Indoor Residual Spray Coverage with Fludora Fusion in a High Malaria Transmission Setting in Northern Zambia.
-37364859	Malaria-Related Psychosocial Factors, Past Antenatal Care-Seeking Behaviors, and Future Antenatal Care-Seeking Intentions by Maternal Age in Malawi and Democratic Republic of the Congo.
-37364858	Natural Infection of Nyssorhynchus darlingi and Nyssorhynchus benarrochi B with Plasmodium during the Dry Season in the Understudied Low-Transmission Setting of Datem del Marañon Province, Amazonian Peru.
-37364566	The evening crepuscular host-seeking activity of Anopheles mosquitoes in northeast Brazil.
-37364179	A synthetic lure for Anopheles gambiae (Diptera: Culicidae) based on the attractive plant Parthenium hysterophorus.
-37363899	Common predators and factors influencing their abundance in Anopheles funestus aquatic habitats in rural south-eastern Tanzania.
-37363896	Baseline malarial and nutritional profile of children under seasonal malaria chemoprevention coverage in the health district of Nanoro, Burkina Faso.
-37363565	Dreadful infectious disease outbreaks threaten flood-ravaged pakistan: short communication.
-37363251	The pathology of co-infection with Usutu virus and Plasmodium spp. in naturally infected Eurasian blackbirds (Turdus merula).
-37363222	Impact of precipitation on the prevalence of schistosomiasis mekongi in Lao PDR: Structural equation modelling using Earth observation satellite data.
-37362277	Early infectious diseases identification based on complex probabilistic hesitant fuzzy N-soft information.
