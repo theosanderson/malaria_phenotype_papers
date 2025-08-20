@@ -1,3 +1,5 @@
+40833410	Identification of broadly inhibitory anti-PfEMP1 antibodies by mass spectrometry sequencing of plasma IgG from a malaria-exposed child.
+40833301	The new administration in the USA: impact of policy changes in development assistance on low- and middle-income countries, with the example of Nepal.
 40832728	Genital schistosomiasis in non-endemic settings, a clinical perspective.
 40832631	mRNA-LNP vaccine encoding the Plasmodium vivax circumsporozoite protein is highly immunogenic and confers protection in mice.
 40832414	Clonal Transmission of Emerging Novel Plasmodium falciparum Kelch13 Mutations and Increasing Complexity of Infection in Libreville, Gabon, 2021-2023.
@@ -9995,5 +9997,3 @@
 37375033	Molecular Investigation Confirms Myotis Genus Bats as Common Hosts of Polychromophilus in Brazil.
 37374974	Visiting Molecular Mimicry Once More: Pathogenicity, Virulence, and Autoimmunity.
 37373481	Toward Overcoming Pyrethroid Resistance in Mosquito Control: The Role of Sodium Channel Blocker Insecticides.
-37373382	Posttranslational Modification of Human Cytochrome CYP4F11 by 4-Hydroxynonenal Impairs ω-Hydroxylation in Malaria Pigment Hemozoin-Fed Monocytes: The Role in Malaria Immunosuppression.
-37372897	Applying Machine Learning to Healthcare Operations Management: CNN-Based Model for Malaria Diagnosis.
