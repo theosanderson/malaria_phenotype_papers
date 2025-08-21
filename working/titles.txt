@@ -1,3 +1,11 @@
+40835944	Growth and development of two predator species fed a diet of genetically engineered mosquitoes.
+40835932	Genetic surveillance of Plasmodium-Anopheles compatibility markers during Anopheles stephensi associated malaria outbreak.
+40835929	Effects of temperature and nutrition stress on Anopheles stephensi, an Indian urban malaria vector.
+40835928	Concordance of data on key malaria indicators between DHIS2 and source documents, and influencing factors at public primary health facilities in eastern Uganda: a mixed methods study.
+40835917	Occupations at high risk for malaria in Zanzibar: a case-control study, may-august 2023.
+40835687	Diversity and spatiotemporal distribution of mosquitoes (Diptera: Culicidae) with emphasis on disease vectors across agroecological areas of Kerala, India.
+40835565	Unravelling a kinase inhibitor's elusive antimalarial mode of action.
+40835051	Discovery of dopamine D1 receptor antagonists from Stephania epigaea using label-free cell phenotypic assays.
 40834042	Age-structured malaria model with temperature-dependent dynamics and optimal control analysis within a partial differential equation framework.
 40833986	Modelling the impact of climatic and environmental variables on malaria incidence in Tanzania: Implications for achieving the WHO's 2030 Targets.
 40833410	Identification of broadly inhibitory anti-PfEMP1 antibodies by mass spectrometry sequencing of plasma IgG from a malaria-exposed child.
@@ -9989,11 +9997,3 @@
 37376655	Detection of Zika Virus in Aedes aegypti and Aedes albopictus Mosquitoes Collected in Urban Forest Fragments in the Brazilian Amazon.
 37376086	Plant Extracts as a Source of Natural Products with Potential Antimalarial Effects: An Update from 2018 to 2022.
 37375730	Antiplasmodial, Trypanocidal, and Genotoxicity In Vitro Assessment of New Hybrid α,α-Difluorophenylacetamide-statin Derivatives.
-37375534	Effectiveness of Intermittent Preventive Treatment with Sulfadoxine-Pyrimethamine in Pregnancy: Low Coverage and High Prevalence of Plasmodium falciparum dhfr-dhps Quintuple Mutants as Major Challenges in Douala, an Urban Setting in Cameroon.
-37375506	Nondestructive Methods of Pathogen Detection: Importance of Mosquito Integrity in Studies of Disease Transmission and Control.
-37375493	Babesia divergens Shows Equal Predilection for Human ABO Blood Types in an In Vitro Erythrocyte Preference Assay.
-37375481	Using Serological Markers for the Surveillance of Plasmodium vivax Malaria: A Scoping Review.
-37375252	Two New Cytotoxic Sesquiterpene-Amino Acid Conjugates and a Coumarin-Glucoside from Crossostephium chinense.
-37375100	Regulatory Functions of Hypoxia in Host-Parasite Interactions: A Focus on Enteric, Tissue, and Blood Protozoa.
-37375081	Respiratory Distress Complicating Falciparum Malaria Imported to Berlin, Germany: Incidence, Burden, and Risk Factors.
-37375033	Molecular Investigation Confirms Myotis Genus Bats as Common Hosts of Polychromophilus in Brazil.
