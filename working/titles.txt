@@ -1,3 +1,5 @@
+40834042	Age-structured malaria model with temperature-dependent dynamics and optimal control analysis within a partial differential equation framework.
+40833986	Modelling the impact of climatic and environmental variables on malaria incidence in Tanzania: Implications for achieving the WHO's 2030 Targets.
 40833410	Identification of broadly inhibitory anti-PfEMP1 antibodies by mass spectrometry sequencing of plasma IgG from a malaria-exposed child.
 40833301	The new administration in the USA: impact of policy changes in development assistance on low- and middle-income countries, with the example of Nepal.
 40832728	Genital schistosomiasis in non-endemic settings, a clinical perspective.
@@ -9995,5 +9997,3 @@
 37375100	Regulatory Functions of Hypoxia in Host-Parasite Interactions: A Focus on Enteric, Tissue, and Blood Protozoa.
 37375081	Respiratory Distress Complicating Falciparum Malaria Imported to Berlin, Germany: Incidence, Burden, and Risk Factors.
 37375033	Molecular Investigation Confirms Myotis Genus Bats as Common Hosts of Polychromophilus in Brazil.
-37374974	Visiting Molecular Mimicry Once More: Pathogenicity, Virulence, and Autoimmunity.
-37373481	Toward Overcoming Pyrethroid Resistance in Mosquito Control: The Role of Sodium Channel Blocker Insecticides.
