@@ -1,3 +1,11 @@
+40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
+40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
+40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
+40841475	David Nabarro obituary: global-health leader who fought malnutrition, malaria, Ebola and COVID-19.
+40840760	Proteomic Insight into the Ontogeny of Blood-Meal Digestion in the tick Ixodes ricinus.
+40840727	The Role and Mechanism of Artemisia Annua L. in Cancer Treatment.
+40840698	Metatranscriptomic profiling of the bacterial and fungal microbiota of field-collected Anopheles darlingi from Colombia: Community composition and functional insights.
+40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
 40839929	Integrated computational strategies for the identification of Plasmodium falciparum dihydrofolate reductase inhibitors.
 40839784	Impact of two dual active ingredient long-lasting insecticidal nets on pregnancy birth outcomes in Benin.
 40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
@@ -9989,11 +9997,3 @@
 37381013	Evaluation of a multiphasic parasite clearance profile after treatment of experimental human infection with the investigational anti-malarial M5717 using segmented mixed effect models.
 37381000	The oral repellent - science fiction or common sense? Insects, vector-borne diseases, failing strategies, and a bold proposition.
 37380835	Battling a health crisis in the Amazon.
-37380683	In search of a vaccine for Plasmodium vivax malaria.
-37380682	Malaria: highlights from research.
-37380681	The challenges facing scientists in the elimination of malaria.
-37380680	Can malaria researchers slow the spread of drug resistance?
-37380679	Monoclonal antibodies show promise for malaria prevention.
-37380678	The next frontier for malaria vaccination.
-37380677	How genetically modified mosquitoes could eradicate malaria.
-37380676	Malaria's modelling problem.
