@@ -1,3 +1,6 @@
+40839929	Integrated computational strategies for the identification of Plasmodium falciparum dihydrofolate reductase inhibitors.
+40839784	Impact of two dual active ingredient long-lasting insecticidal nets on pregnancy birth outcomes in Benin.
+40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40837717	Prevalence and Factors Associated With the Informal Market for Medicines in Benin: A Community-Based Cross-Sectional Study.
 40837713	Poor-tasting pediatric medicines: part 2. Exploring caregiver and healthcare provider values and preferences for a novel taste-blocker product to improve acceptability.
 40837658	Willingness of secondary school adolescents to get vaccinated against Malaria: a cross-sectional study in Enugu, South-East Nigeria.
@@ -9994,6 +9997,3 @@
 37380678	The next frontier for malaria vaccination.
 37380677	How genetically modified mosquitoes could eradicate malaria.
 37380676	Malaria's modelling problem.
-37380653	Development of a human malaria-on-a-chip disease model for drug efficacy and off-target toxicity evaluation.
-37380189	CDC reports locally acquired malaria in two US states.
-37380180	Stalled global progress on preventable maternal deaths needs renewed focus and action.
