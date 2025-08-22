@@ -1,3 +1,4 @@
+40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
 40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
@@ -9996,4 +9997,3 @@
 37382765	Current advances in nanodrug delivery systems for malaria prevention and treatment.
 37382681	Could Mathematics be the Key to Unlocking the Mysteries of Multiple Sclerosis?
 37382251	Acceptance, availability, and feasibility of RTS, S/AS01 malaria vaccine: A review.
-37381847	Why did foraging, horticulture and pastoralism persist after the Neolithic transition? The oasis theory of agricultural intensification.
