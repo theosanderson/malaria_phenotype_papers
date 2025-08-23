@@ -1,3 +1,12 @@
+40846229	Artemisinin toxicity in HepG2 liver carcinoma cells is linked to protein network in host and molecular interactions with cellular drug targets.
+40846054	Dynamic Regulation of RNA m(6)A Methylation in the Ribonucleoprotein Complexes in Apicomplexan and Kinetoplastid Parasites.
+40845953	Indigenous Plasmodium vivax Upsurge in the Eastern Mediterranean, Western Pacific, and South East Asia Regions - Beyond the Constant Culpability of Climate Change, COVID-19, and Armed Conflicts.
+40845886	Efficacy of non-pyrethroid indoor residual spraying or intensive behaviour change communication in combination with long-lasting insecticidal nets for malaria control in west Africa: a pragmatic, cluster-randomised, controlled trial.
+40845885	Evidence-based decision making for malaria elimination applying the Freedom From Infection statistical framework in five malaria eliminating countries: an observational study.
+40845873	Can behaviour change communication improve malaria control?
+40845872	The road to malaria elimination: why a robust surveillance system is imperative.
+40845863	Efficacies of artemether-lumefantrine, artesunate-amodiaquine, dihydroartemisinin-piperaquine, and artesunate-pyronaridine for the treatment of uncomplicated Plasmodium falciparum malaria in children aged 6 months to 10 years in Uganda: a randomised, open-label, phase 4 clinical trial.
+40845861	Diversifying antimalarial treatment for uncomplicated Plasmodium falciparum malaria in Uganda.
 40845150	Mutant allele formation and inheritance during Cas9/guide RNA-mediated gene drive in a population modification mosquito strain for human malaria control.
 40845002	Assessing ITN textile preferences: A comparative study of polyethylene and polyester nets across different settings in Burkina Faso.
 40844991	Emerging challenges for mosquito-borne disease control and the promise of symbiont-based transmission-blocking strategies.
@@ -14,9 +23,9 @@
 40840727	The Role and Mechanism of Artemisia Annua L. in Cancer Treatment.
 40840698	Metatranscriptomic profiling of the bacterial and fungal microbiota of field-collected Anopheles darlingi from Colombia: Community composition and functional insights.
 40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
-40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40839929	Integrated computational strategies for the identification of Plasmodium falciparum dihydrofolate reductase inhibitors.
 40839784	Impact of two dual active ingredient long-lasting insecticidal nets on pregnancy birth outcomes in Benin.
+40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40837717	Prevalence and Factors Associated With the Informal Market for Medicines in Benin: A Community-Based Cross-Sectional Study.
 40837713	Poor-tasting pediatric medicines: part 2. Exploring caregiver and healthcare provider values and preferences for a novel taste-blocker product to improve acceptability.
 40837658	Willingness of secondary school adolescents to get vaccinated against Malaria: a cross-sectional study in Enugu, South-East Nigeria.
@@ -9988,12 +9997,3 @@
 37383669	India could harness public-private partnerships to achieve malaria elimination.
 37383667	Quantifying spatial heterogeneity of malaria in the endemic Papua region of Indonesia: Analysis of epidemiological surveillance data.
 37383666	Moving beyond dashboards to generate data for public good-Authors' reply.
-37383665	Strengthening malaria microscopy using artificial intelligence-based approaches in India.
-37383664	Artificial intelligence for malaria: Bridging the gap for real world usage.
-37383661	Truenat® for Plasmodium sub-microscopic infections: Miles to go….
-37383659	Truenat: An affordable and user-friendly option for screening of sub-microscopic Plasmodium infections in low resource countries.
-37383658	National Institute of Malaria Research-Malaria Dashboard (NIMR-MDB): A digital platform for analysis and visualization of epidemiological data.
-37383573	Exploring the strategies for upgrading the rural unqualified health practitioners in West Bengal, India: A knowledge, attitude and practices assessment-based approach.
-37383547	Supervised administration of primaquine may enhance adherence to radical cure for P. vivax malaria in India.
-37383527	Magnitude of Malaria-Typhoid Fever Coinfection in Febrile Patients at Arba Minch General Hospital in Southern Ethiopia.
-37383291	2030 - Countdown to malaria elimination in India and southeast Asia.
