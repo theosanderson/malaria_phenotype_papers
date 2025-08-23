@@ -2,6 +2,9 @@
 40847608	Lycopene Mitigates Malaria-Induced Reactive Oxygen and Nitrogen Species and Oxidative Damage in Mice Brain and Lungs.
 40847346	Between-and within-socioeconomic groups temporal inequality in the uptake of malaria prevention strategies among pregnant women and under-five children in Ghana (2003-2022).
 40847278	Diabetes and metabolic syndrome in adults with malaria and associations with severe disease: results from two tertiary hospitals in Cameroon.
+40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
+40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
+40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
 40846229	Artemisinin toxicity in HepG2 liver carcinoma cells is linked to protein network in host and molecular interactions with cellular drug targets.
 40846054	Dynamic Regulation of RNA m(6)A Methylation in the Ribonucleoprotein Complexes in Apicomplexan and Kinetoplastid Parasites.
 40845953	Indigenous Plasmodium vivax Upsurge in the Eastern Mediterranean, Western Pacific, and South East Asia Regions - Beyond the Constant Culpability of Climate Change, COVID-19, and Armed Conflicts.
@@ -18,9 +21,6 @@
 40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
-40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
-40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
-40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
 40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
 40841475	David Nabarro obituary: global-health leader who fought malnutrition, malaria, Ebola and COVID-19.
 40840760	Proteomic Insight into the Ontogeny of Blood-Meal Digestion in the tick Ixodes ricinus.
