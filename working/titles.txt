@@ -1,3 +1,7 @@
+40845150	Mutant allele formation and inheritance during Cas9/guide RNA-mediated gene drive in a population modification mosquito strain for human malaria control.
+40845002	Assessing ITN textile preferences: A comparative study of polyethylene and polyester nets across different settings in Burkina Faso.
+40844991	Emerging challenges for mosquito-borne disease control and the promise of symbiont-based transmission-blocking strategies.
+40844983	Comparison of the composition and antiplasmodial activity of Artemisia annua teas using an untargeted metabolomic approach.
 40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
@@ -10,9 +14,9 @@
 40840727	The Role and Mechanism of Artemisia Annua L. in Cancer Treatment.
 40840698	Metatranscriptomic profiling of the bacterial and fungal microbiota of field-collected Anopheles darlingi from Colombia: Community composition and functional insights.
 40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
+40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40839929	Integrated computational strategies for the identification of Plasmodium falciparum dihydrofolate reductase inhibitors.
 40839784	Impact of two dual active ingredient long-lasting insecticidal nets on pregnancy birth outcomes in Benin.
-40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40837717	Prevalence and Factors Associated With the Informal Market for Medicines in Benin: A Community-Based Cross-Sectional Study.
 40837713	Poor-tasting pediatric medicines: part 2. Exploring caregiver and healthcare provider values and preferences for a novel taste-blocker product to improve acceptability.
 40837658	Willingness of secondary school adolescents to get vaccinated against Malaria: a cross-sectional study in Enugu, South-East Nigeria.
@@ -24,10 +28,10 @@
 40835932	Genetic surveillance of Plasmodium-Anopheles compatibility markers during Anopheles stephensi associated malaria outbreak.
 40835929	Effects of temperature and nutrition stress on Anopheles stephensi, an Indian urban malaria vector.
 40835928	Concordance of data on key malaria indicators between DHIS2 and source documents, and influencing factors at public primary health facilities in eastern Uganda: a mixed methods study.
-40835917	Occupations at high risk for malaria in Zanzibar: a case-control study, may-august 2023.
 40835687	Diversity and spatiotemporal distribution of mosquitoes (Diptera: Culicidae) with emphasis on disease vectors across agroecological areas of Kerala, India.
 40835565	Unravelling a kinase inhibitor's elusive antimalarial mode of action.
 40835051	Discovery of dopamine D1 receptor antagonists from Stephania epigaea using label-free cell phenotypic assays.
+40835917	Occupations at high risk for malaria in Zanzibar: a case-control study, may-august 2023.
 40834042	Age-structured malaria model with temperature-dependent dynamics and optimal control analysis within a partial differential equation framework.
 40833986	Modelling the impact of climatic and environmental variables on malaria incidence in Tanzania: Implications for achieving the WHO's 2030 Targets.
 40833410	Identification of broadly inhibitory anti-PfEMP1 antibodies by mass spectrometry sequencing of plasma IgG from a malaria-exposed child.
@@ -365,7 +369,7 @@
 40721039	Optimizing laboratory blood feeding success of Anopheles maculatus: Effects of pre-feeding preparation and cues.
 40716799	Assessing the quality of antimalarial drugs in Equatorial Guinea: a follow-up study.
 40716624	Reemergence of Oropouche in the Brazilian Amazon: A phylodynamic and phylogenetic analysis.
-40716594	Breast Milk Bisphenol Concentrations in Canada and South Africa and Associations with Body Size among South African Infants.
+40716594	Breast milk bisphenol concentrations in Canada and South Africa and associations with body size among South African infants.
 40716444	Identifying genomic surveillance gaps in Africa for the global public health response to West Nile virus: a systematic review.
 40716091	Traction force generation in Plasmodium sporozoites is modulated by a surface adhesin.
 40720671	Effects of Combined Lipid-Based Nutrient Supplements and Malaria Preventive Treatment during Pregnancy on Malaria, Maternal Nutrition, and Birth Outcomes: A Scoping Review.
@@ -9993,7 +9997,3 @@
 37383547	Supervised administration of primaquine may enhance adherence to radical cure for P. vivax malaria in India.
 37383527	Magnitude of Malaria-Typhoid Fever Coinfection in Febrile Patients at Arba Minch General Hospital in Southern Ethiopia.
 37383291	2030 - Countdown to malaria elimination in India and southeast Asia.
-37383038	Village malaria workers for the community-based management of vivax malaria.
-37382765	Current advances in nanodrug delivery systems for malaria prevention and treatment.
-37382681	Could Mathematics be the Key to Unlocking the Mysteries of Multiple Sclerosis?
-37382251	Acceptance, availability, and feasibility of RTS, S/AS01 malaria vaccine: A review.
