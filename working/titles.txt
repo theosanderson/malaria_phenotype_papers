@@ -1,3 +1,8 @@
+40849467	Bionomics of Anopheles stephensi across the urban-rural landscapes of Eastern Ethiopia.
+40849185	Advances in malaria detection.
+40849034	Efficacy and gametocyte carriage in Plasmodium falciparum cases treated with artemether-lumefantrine alone versus with single-dose primaquine in Ethiopia: a randomized controlled study.
+40848966	NOX2-induced oxidative stress triggers cardiac hypercontractility during severe malaria.
+40848733	Climate-smart public health for global health resilience.
 40847646	Integrated vector management for malaria control: a review of approaches and effectiveness.
 40847608	Lycopene Mitigates Malaria-Induced Reactive Oxygen and Nitrogen Species and Oxidative Damage in Mice Brain and Lungs.
 40847346	Between-and within-socioeconomic groups temporal inequality in the uptake of malaria prevention strategies among pregnant women and under-five children in Ghana (2003-2022).
@@ -108,6 +113,7 @@
 40819650	Malaria resurgence in Africa: confronting the challenges.
 40819103	Prevalence and trends of transfusion transmitted infections among blood donors in a tertiary care hospital of Assam.
 40816670	Identification of malaria vulnerable zones in North East Region of India: Spatiotemporal assessment through geographical information system and self-organizing maps.
+40816339	Immunisation in pregnancy - Weighing the unknown to balance benefits and risks impacting women, offspring, and development.
 40815163	Discovery of sporogeny in the malaria transmission-blocking symbiont of Anopheles mosquitoes.
 40814135	Cinchona bark and quinine as psychiatric treatments in Portugal, 1700-1900.
 40814090	Measuring growth, resistance, and recovery after artemisinin treatment of Plasmodium falciparum in a single semi-high-throughput assay.
@@ -417,7 +423,7 @@
 40708054	Micro-scale genetic structure and genetic variation of Neotricula aperta (Gastropoda: Pomatiopsidae), the intermediate host of Schistosoma mekongi (Digenea: Schistosomatidae) in Champasak Province, Laos.
 40708012	How to use learning curves to evaluate the sample size for malaria prediction models developed using machine learning algorithms.
 40707999	Identification of a moxidectin dose for 4- to 11-year-old children to support registration and potential use for onchocerciasis elimination: results of an open-label pharmacokinetic and safety study.
-40706999	A Timeline of Reckoning: Tracking the Historical Rise of Antimicrobial Resistance Across HIV, TB, and Malaria.
+40706999	A timeline of reckoning: Tracking the historical rise of antimicrobial resistance across HIV, TB, and malaria.
 40706961	Glycoprotein VI is a receptor for the PF4/anti-PF4 IgG complex and contributes to platelet activation in heparin-induced thrombocytopenia (HIT).
 40706701	The Specificity of RNA Packaging in Isometric RNA Plant Viruses is Principally Determined by Replication.
 40706610	Unifying forces to strengthen pandemic preparedness: a call for a Global Pandemic Risk Observatory.
@@ -9991,9 +9997,3 @@
 37387598	Acute necrotizing pancreatitis in a patient with severe falciparum malaria and SARS-CoV-2 coinfection.
 37387133	PlasmoFAB: a benchmark to foster machine learning for Plasmodium falciparum protein antigen candidate prediction.
 37385921	Developing kinase inhibitors for malaria: an opportunity or liability?
-37385350	Coenzyme Q10 exhibits anti-inflammatory and immune-modulatory thereby decelerating the occurrence of experimental cerebral malaria.
-37385251	Controlling genetic heterogeneity in gene-edited hematopoietic stem cells by single-cell expansion.
-37385107	Multi-omics dissection of stage-specific artemisinin tolerance mechanisms in Kelch13-mutant Plasmodium falciparum.
-37384799	The exception that proves the rule: Virulence gene expression at the onset of Plasmodium falciparum blood stage infections.
-37384790	High transmission efficiency of the simian malaria vectors and population expansion of their parasites Plasmodium cynomolgi and Plasmodium inui.
-37384559	Malaria: Burden and Challenges of Eradication.
