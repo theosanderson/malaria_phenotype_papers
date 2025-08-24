@@ -961,6 +961,7 @@
 40519805	Prevalence of molecular markers associated with Plasmodium falciparum resistance to chloroquine and sulphadoxine/pyrimethamine in three malaria endemic local areas of Benue State, Nigeria.
 40519803	Malaria and associated factors among pregnant women in Sekyere East District Ghana: a cross-sectional survey.
 40518540	Efficacy of chloroquine with primaquine for uncomplicated Plasmodium vivax malaria without G6PD testing in Northwest Ethiopia: a one-arm in vivo prospective therapeutic efficacy study.
+40518023	Protoberberine alkaloids from Berberis pruinosa and their antimalarial activities.
 40517226	Multiple micronutrient supplementation for maternal anemia prevention (MMS-MAP): an individually randomized trial of higher-dose iron (60 mg, 45 mg) compared to low-dose iron (30 mg) in multiple micronutrient supplements in pregnancy.
 30000766	Primaquine.
 30000752	Atovaquone.
@@ -9996,4 +9997,3 @@
 37388365	Bioprospection of Selected Plant Secondary Metabolites as Modulators of the Proteolytic Activity of Plasmodium falciparum Plasmepsin V.
 37387598	Acute necrotizing pancreatitis in a patient with severe falciparum malaria and SARS-CoV-2 coinfection.
 37387133	PlasmoFAB: a benchmark to foster machine learning for Plasmodium falciparum protein antigen candidate prediction.
-37385921	Developing kinase inhibitors for malaria: an opportunity or liability?
