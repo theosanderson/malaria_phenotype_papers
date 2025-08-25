@@ -1,3 +1,5 @@
+40851117	Use of Routine Health Data to Monitor Malaria Intervention Effectiveness: A Scoping Review.
+40850662	Genetic control strategies for population suppression in the Anopheles gambiae complex: a review of current technologies.
 40850017	Antiplasmodial activity of pentyloxyamide-based histone deacetylase inhibitors against Plasmodium falciparum parasites.
 40849766	Effective Strategies in Disease Control and Prevention: A Systematic Review.
 40849467	Bionomics of Anopheles stephensi across the urban-rural landscapes of Eastern Ethiopia.
@@ -10,9 +12,6 @@
 40847346	Between-and within-socioeconomic groups temporal inequality in the uptake of malaria prevention strategies among pregnant women and under-five children in Ghana (2003-2022).
 40847278	Diabetes and metabolic syndrome in adults with malaria and associations with severe disease: results from two tertiary hospitals in Cameroon.
 40845885	Evidence-based decision making for malaria elimination applying the Freedom From Infection statistical framework in five malaria eliminating countries: an observational study.
-40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
-40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
-40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
 40846229	Artemisinin toxicity in HepG2 liver carcinoma cells is linked to protein network in host and molecular interactions with cellular drug targets.
 40846054	Dynamic Regulation of RNA m(6)A Methylation in the Ribonucleoprotein Complexes in Apicomplexan and Kinetoplastid Parasites.
 40845953	Indigenous Plasmodium vivax Upsurge in the Eastern Mediterranean, Western Pacific, and South East Asia Regions - Beyond the Constant Culpability of Climate Change, COVID-19, and Armed Conflicts.
@@ -28,6 +27,7 @@
 40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
+40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
 40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
 40841475	David Nabarro obituary: global-health leader who fought malnutrition, malaria, Ebola and COVID-19.
 40840760	Proteomic Insight into the Ontogeny of Blood-Meal Digestion in the tick Ixodes ricinus.
@@ -36,6 +36,8 @@
 40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
 40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40835917	Occupations at high risk for malaria in Zanzibar: a case-control study, may-august 2023.
+40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
+40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
 40839929	Integrated computational strategies for the identification of Plasmodium falciparum dihydrofolate reductase inhibitors.
 40839784	Impact of two dual active ingredient long-lasting insecticidal nets on pregnancy birth outcomes in Benin.
 40837717	Prevalence and Factors Associated With the Informal Market for Medicines in Benin: A Community-Based Cross-Sectional Study.
@@ -828,7 +830,7 @@
 40573931	Orally Dissolving Film-Based Influenza Vaccines Confer Superior Protection Compared to the Oral Administration of Inactivated Influenza Virus.
 40573173	PLASMOpred: A Machine Learning-Based Web Application for Predicting Antimalarial Small Molecules Targeting the Apical Membrane Antigen 1-Rhoptry Neck Protein 2 Invasion Complex.
 40572194	Avian Haemosporidian Parasites in Three Wild Columbids from Germany.
-40571279	Corrigendum to  [Clin Microbiol Infect J 31 (6) (2025) 1069-1070].
+40571279	Corrigendum to "Kinetics of the Alethia® Malaria LAMP positivity during Post-treatment Follow-up of Patients with imported Malaria" [Clin Microbiol Infect J 31 (6) (2025) 1069-1070].
 40571064	Novel compounds from Gentiana purpurea L. and their anti-plasmodial evaluation.
 40570747	The success of toll-like receptor 4 based vaccine adjuvants.
 39441945	Tinospora.
@@ -9995,5 +9997,3 @@
 37389381	[Overview of infectious and non-infectious diseases in French Guiana in 2022].
 37389378	[Reflections on the tribune "Mayotte, a malaria-free island at last?" by J.-F. Lepère, L. Collet, et al.].
 37389376	[Mayotte, a malaria-free island at last?].
-37388931	Population screening for glucose-6-phosphate dehydrogenase deficiency using quantitative point-of-care tests: a systematic review.
-37388365	Bioprospection of Selected Plant Secondary Metabolites as Modulators of the Proteolytic Activity of Plasmodium falciparum Plasmepsin V.
