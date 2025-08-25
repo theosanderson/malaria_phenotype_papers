@@ -1,3 +1,4 @@
+40853332	Harnessing the Potential of mRNA Vaccines Against Infectious Diseases.
 40852579	Computationally guided optimization of the antimalarial activity and physicochemical properties of 2,4-diaminopyrimidines.
 40852444	Comparative performance of the InBios SCoV-2 Detect (TM) IgG ELISA and the in-house KWTRP ELISA in detecting SARS-CoV-2 spike IgG antibodies in Kenyan populations.
 40851117	Use of Routine Health Data to Monitor Malaria Intervention Effectiveness: A Scoping Review.
@@ -14,6 +15,9 @@
 40847346	Between-and within-socioeconomic groups temporal inequality in the uptake of malaria prevention strategies among pregnant women and under-five children in Ghana (2003-2022).
 40847278	Diabetes and metabolic syndrome in adults with malaria and associations with severe disease: results from two tertiary hospitals in Cameroon.
 40845885	Evidence-based decision making for malaria elimination applying the Freedom From Infection statistical framework in five malaria eliminating countries: an observational study.
+40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
+40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
+40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
 40846229	Artemisinin toxicity in HepG2 liver carcinoma cells is linked to protein network in host and molecular interactions with cellular drug targets.
 40846054	Dynamic Regulation of RNA m(6)A Methylation in the Ribonucleoprotein Complexes in Apicomplexan and Kinetoplastid Parasites.
 40845953	Indigenous Plasmodium vivax Upsurge in the Eastern Mediterranean, Western Pacific, and South East Asia Regions - Beyond the Constant Culpability of Climate Change, COVID-19, and Armed Conflicts.
@@ -29,7 +33,6 @@
 40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
-40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
 40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
 40841475	David Nabarro obituary: global-health leader who fought malnutrition, malaria, Ebola and COVID-19.
 40840760	Proteomic Insight into the Ontogeny of Blood-Meal Digestion in the tick Ixodes ricinus.
@@ -38,8 +41,6 @@
 40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
 40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40835917	Occupations at high risk for malaria in Zanzibar: a case-control study, may-august 2023.
-40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
-40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
 40839929	Integrated computational strategies for the identification of Plasmodium falciparum dihydrofolate reductase inhibitors.
 40839784	Impact of two dual active ingredient long-lasting insecticidal nets on pregnancy birth outcomes in Benin.
 40837717	Prevalence and Factors Associated With the Informal Market for Medicines in Benin: A Community-Based Cross-Sectional Study.
@@ -9996,4 +9997,3 @@
 37391476	Automatic identification of medically important mosquitoes using embedded learning approach-based image-retrieval system.
 37390511	New 4-(N-cinnamoylbutyl)aminoacridines as potential multi-stage antiplasmodial leads.
 37389992	Cytotoxicity of human antibodies targeting the circumsporozoite protein is amplified by 3D substrate and correlates with protection.
-37389381	[Overview of infectious and non-infectious diseases in French Guiana in 2022].
