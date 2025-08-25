@@ -1,3 +1,5 @@
+40850017	Antiplasmodial activity of pentyloxyamide-based histone deacetylase inhibitors against Plasmodium falciparum parasites.
+40849766	Effective Strategies in Disease Control and Prevention: A Systematic Review.
 40849467	Bionomics of Anopheles stephensi across the urban-rural landscapes of Eastern Ethiopia.
 40849185	Advances in malaria detection.
 40849034	Efficacy and gametocyte carriage in Plasmodium falciparum cases treated with artemether-lumefantrine alone versus with single-dose primaquine in Ethiopia: a randomized controlled study.
@@ -7,6 +9,7 @@
 40847608	Lycopene Mitigates Malaria-Induced Reactive Oxygen and Nitrogen Species and Oxidative Damage in Mice Brain and Lungs.
 40847346	Between-and within-socioeconomic groups temporal inequality in the uptake of malaria prevention strategies among pregnant women and under-five children in Ghana (2003-2022).
 40847278	Diabetes and metabolic syndrome in adults with malaria and associations with severe disease: results from two tertiary hospitals in Cameroon.
+40845885	Evidence-based decision making for malaria elimination applying the Freedom From Infection statistical framework in five malaria eliminating countries: an observational study.
 40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
 40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
 40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
@@ -14,7 +17,6 @@
 40846054	Dynamic Regulation of RNA m(6)A Methylation in the Ribonucleoprotein Complexes in Apicomplexan and Kinetoplastid Parasites.
 40845953	Indigenous Plasmodium vivax Upsurge in the Eastern Mediterranean, Western Pacific, and South East Asia Regions - Beyond the Constant Culpability of Climate Change, COVID-19, and Armed Conflicts.
 40845886	Efficacy of non-pyrethroid indoor residual spraying or intensive behaviour change communication in combination with long-lasting insecticidal nets for malaria control in west Africa: a pragmatic, cluster-randomised, controlled trial.
-40845885	Evidence-based decision making for malaria elimination applying the Freedom From Infection statistical framework in five malaria eliminating countries: an observational study.
 40845873	Can behaviour change communication improve malaria control?
 40845872	The road to malaria elimination: why a robust surveillance system is imperative.
 40845863	Efficacies of artemether-lumefantrine, artesunate-amodiaquine, dihydroartemisinin-piperaquine, and artesunate-pyronaridine for the treatment of uncomplicated Plasmodium falciparum malaria in children aged 6 months to 10 years in Uganda: a randomised, open-label, phase 4 clinical trial.
@@ -9995,5 +9997,3 @@
 37389376	[Mayotte, a malaria-free island at last?].
 37388931	Population screening for glucose-6-phosphate dehydrogenase deficiency using quantitative point-of-care tests: a systematic review.
 37388365	Bioprospection of Selected Plant Secondary Metabolites as Modulators of the Proteolytic Activity of Plasmodium falciparum Plasmepsin V.
-37387598	Acute necrotizing pancreatitis in a patient with severe falciparum malaria and SARS-CoV-2 coinfection.
-37387133	PlasmoFAB: a benchmark to foster machine learning for Plasmodium falciparum protein antigen candidate prediction.
