@@ -1,3 +1,5 @@
+40852579	Computationally guided optimization of the antimalarial activity and physicochemical properties of 2,4-diaminopyrimidines.
+40852444	Comparative performance of the InBios SCoV-2 Detect (TM) IgG ELISA and the in-house KWTRP ELISA in detecting SARS-CoV-2 spike IgG antibodies in Kenyan populations.
 40851117	Use of Routine Health Data to Monitor Malaria Intervention Effectiveness: A Scoping Review.
 40850662	Genetic control strategies for population suppression in the Anopheles gambiae complex: a review of current technologies.
 40850017	Antiplasmodial activity of pentyloxyamide-based histone deacetylase inhibitors against Plasmodium falciparum parasites.
@@ -184,7 +186,7 @@
 40791681	Varying Malaria Rapid Diagnostic Test Accuracy by Regional Transmission Level and Demographics in Tanzania.
 40791573	Can hair concentrations of artemether-lumefantrine be used as a tool to retrospectively determine drug exposure during malaria treatment?
 40791414	Computational Prioritization of T Cell Epitopes to Overcome HLA Restriction and Antigenic Diversity in Plasmodium falciparum.
-40791395	The Human Chk1 Inhibitor CHIR-124 Shows Multistage Activity Against Plasmodium falciparum via Dual Inhibition of Pf Ark1 and Hemozoin Formation.
+40791395	The Human Chk1 Inhibitor CHIR-124 Shows Multistage Activity Against Plasmodium falciparum via Dual Inhibition of PfArk1 and Hemozoin Formation.
 40791393	5' untranslated regions tune Toxoplasma translation.
 40791362	An atlas of positive selection in the genomes of major malaria vectors.
 40791317	The molecular basis of coordinated antigen switching enabling chronic infection by human malaria parasites.
@@ -9995,5 +9997,3 @@
 37390511	New 4-(N-cinnamoylbutyl)aminoacridines as potential multi-stage antiplasmodial leads.
 37389992	Cytotoxicity of human antibodies targeting the circumsporozoite protein is amplified by 3D substrate and correlates with protection.
 37389381	[Overview of infectious and non-infectious diseases in French Guiana in 2022].
-37389378	[Reflections on the tribune "Mayotte, a malaria-free island at last?" by J.-F. Lepère, L. Collet, et al.].
-37389376	[Mayotte, a malaria-free island at last?].
