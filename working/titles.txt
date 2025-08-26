@@ -1,3 +1,8 @@
+40855152	The impacts of indoor residual spraying with bendiocarb and pirimiphos-methyl on allelic frequencies of kdr and ace-1 mutations in central Senegal.
+40854843	Machine-learning-based artificial intelligence tools for the diagnosis of tropical fevers: a systematic review and meta-analysis protocol of diagnostic test accuracy.
+40854510	Larvicidal mechanism of the rare sesquiterpene ishwarol B from Piper alatipetiolatum (Piperaceae) against Aedes aegypti, Anopheles darlingi, and Culex quinquefasciatus (Culicidae): oxidative damage, defense enzyme modulation, and acetylcholinesterase inhibition.
+40854418	A low-cost house eave screening technique complements insecticide-treated nets in reducing indoor human exposure to the bites of Anopheles mosquitoes in a malaria endemic area of South forested Cameroon: results from a pilot study.
+40854415	The ethnomedicinal, pharmacological, and phytochemical potential of Ferula sinkiangensis K.M.Shen: An updated and comprehensive review.
 40854136	De novo rates of a Trypanosoma-resistant mutation in two human populations.
 40854132	Flavin-deficient erythrocytes offer protection against malaria parasites.
 40853975	Remapping parasite landscapes: Nationwide prevalence, intensity and risk factors of schistosomiasis and soil-transmitted helminthiasis in Rwanda.
@@ -9992,8 +9997,3 @@
 40802744	Scrub Typhus among Febrile Patients Admitted to the Department of Medicine in a Tertiary Care Centre: A Descriptive Cross-sectional Study.
 37392389	Epigenetically regulated RNA-binding proteins signify malaria hypnozoite dormancy.
 37392377	Facile Access to Structurally Diverse Antimalarial Indoles Using a One-Pot A(3) Coupling and Domino Cyclization Approach.
-37392364	Identification of Commercial Antimalarial Herbal Drugs Using Laser-Induced Autofluorescence Technique and Multivariate Algorithms.
-37392071	Swarming and mate selection in Anopheles gambiae mosquitoes (Diptera: Culicidae).
-37392010	Contraception and intersection with HIV services in 11 high HIV burden sub-Saharan African countries: Results from the population-based HIV Impact Assessment cross-sectional studies conducted from 2015 to 2018.
-37391770	Malaria rapid diagnostic tests reliably detect asymptomatic Plasmodium falciparum infections in school-aged children that are infectious to mosquitoes.
-37391703	How many mosquito nets are needed to maintain universal coverage: an update.
