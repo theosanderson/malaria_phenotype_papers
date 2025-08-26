@@ -15,8 +15,8 @@
 40850662	Genetic control strategies for population suppression in the Anopheles gambiae complex: a review of current technologies.
 40850017	Antiplasmodial activity of pentyloxyamide-based histone deacetylase inhibitors against Plasmodium falciparum parasites.
 40849766	Effective Strategies in Disease Control and Prevention: A Systematic Review.
-40849467	Bionomics of Anopheles stephensi across the urban-rural landscapes of Eastern Ethiopia.
 40849034	Efficacy and gametocyte carriage in Plasmodium falciparum cases treated with artemether-lumefantrine alone versus with single-dose primaquine in Ethiopia: A randomized controlled study.
+40849467	Bionomics of Anopheles stephensi across the urban-rural landscapes of Eastern Ethiopia.
 40849185	Advances in malaria detection.
 40848966	NOX2-induced oxidative stress triggers cardiac hypercontractility during severe malaria.
 40848733	Climate-smart public health for global health resilience.
@@ -43,7 +43,6 @@
 40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
-40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
 40841475	David Nabarro obituary: global-health leader who fought malnutrition, malaria, Ebola and COVID-19.
 40840760	Proteomic Insight into the Ontogeny of Blood-Meal Digestion in the tick Ixodes ricinus.
 40840727	The Role and Mechanism of Artemisia Annua L. in Cancer Treatment.
@@ -51,6 +50,7 @@
 40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
 40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40835917	Occupations at high risk for malaria in Zanzibar: a case-control study, may-august 2023.
+40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
 40839929	Integrated computational strategies for the identification of Plasmodium falciparum dihydrofolate reductase inhibitors.
 40839784	Impact of two dual active ingredient long-lasting insecticidal nets on pregnancy birth outcomes in Benin.
 40837717	Prevalence and Factors Associated With the Informal Market for Medicines in Benin: A Community-Based Cross-Sectional Study.
