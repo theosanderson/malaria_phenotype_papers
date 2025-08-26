@@ -1,3 +1,8 @@
+40854136	De novo rates of a Trypanosoma-resistant mutation in two human populations.
+40854132	Flavin-deficient erythrocytes offer protection against malaria parasites.
+40853975	Remapping parasite landscapes: Nationwide prevalence, intensity and risk factors of schistosomiasis and soil-transmitted helminthiasis in Rwanda.
+40853961	Effects of recombination on multi-drug resistance evolution in Plasmodium falciparum malaria.
+40853945	Making MALDI-TOF MS for entomological parameters accessible: A practical guide for in-house library creation.
 40853332	Harnessing the Potential of mRNA Vaccines Against Infectious Diseases.
 40852579	Computationally guided optimization of the antimalarial activity and physicochemical properties of 2,4-diaminopyrimidines.
 40852444	Comparative performance of the InBios SCoV-2 Detect (TM) IgG ELISA and the in-house KWTRP ELISA in detecting SARS-CoV-2 spike IgG antibodies in Kenyan populations.
@@ -6,8 +11,8 @@
 40850017	Antiplasmodial activity of pentyloxyamide-based histone deacetylase inhibitors against Plasmodium falciparum parasites.
 40849766	Effective Strategies in Disease Control and Prevention: A Systematic Review.
 40849467	Bionomics of Anopheles stephensi across the urban-rural landscapes of Eastern Ethiopia.
+40849034	Efficacy and gametocyte carriage in Plasmodium falciparum cases treated with artemether-lumefantrine alone versus with single-dose primaquine in Ethiopia: A randomized controlled study.
 40849185	Advances in malaria detection.
-40849034	Efficacy and gametocyte carriage in Plasmodium falciparum cases treated with artemether-lumefantrine alone versus with single-dose primaquine in Ethiopia: a randomized controlled study.
 40848966	NOX2-induced oxidative stress triggers cardiac hypercontractility during severe malaria.
 40848733	Climate-smart public health for global health resilience.
 40847646	Integrated vector management for malaria control: a review of approaches and effectiveness.
@@ -9992,8 +9997,3 @@
 37392010	Contraception and intersection with HIV services in 11 high HIV burden sub-Saharan African countries: Results from the population-based HIV Impact Assessment cross-sectional studies conducted from 2015 to 2018.
 37391770	Malaria rapid diagnostic tests reliably detect asymptomatic Plasmodium falciparum infections in school-aged children that are infectious to mosquitoes.
 37391703	How many mosquito nets are needed to maintain universal coverage: an update.
-37391644	Prevalence and genetic diversity of avian haemosporidian parasites in islands within a mega hydroelectric dam in the Brazilian Amazon.
-37391538	Spatio-temporal modelling of routine health facility data for malaria risk micro-stratification in mainland Tanzania.
-37391476	Automatic identification of medically important mosquitoes using embedded learning approach-based image-retrieval system.
-37390511	New 4-(N-cinnamoylbutyl)aminoacridines as potential multi-stage antiplasmodial leads.
-37389992	Cytotoxicity of human antibodies targeting the circumsporozoite protein is amplified by 3D substrate and correlates with protection.
