@@ -1,3 +1,9 @@
+40859255	TLR9/NF-κB-mediated dendritic cell activation by neutrophil extracellular traps drives pathogenesis in experimental cerebral malaria.
+40858567	Multiplex bead assays enable integrated serological surveillance and reveal cross-pathogen vulnerabilities in Zambezia Province, Mozambique.
+40858492	Harnessing Drosophila melanogaster for biomedical innovation in Africa: Trends, challenges, and opportunities.
+40858453	Arthropod adiponectin receptor-like proteins and microbial persistence.
+40858177	Congenital malaria in Nigeria: A systematic review and meta-analysis.
+40858122	Analysis of Confirmed Leptospirosis Cases in Hawai'i Identifies Spatial and Environmental Patterns of Incidence.
 40857622	A "Pandemic-Proof" Methodology for Outbreak Detection Adapted From COVID-19's Impact on Notifications of Infectious Diseases in the Netherlands: Surveillance Study.
 40856908	Cardimyxobolus iriomotensis n. sp. (Cnidaria: Myxosporea: Ortholineidae) parasitic in gill filaments of Rhinogobius species (Gobiiformes: Gobiidae) in Japan.
 40856888	Yemen's Malaria Crisis and its Implications for the GCC (Gulf Cooperation Council) Countries.
@@ -9991,9 +9997,3 @@
 37398027	Plasmodium falciparum infection of human erythroblasts induces transcriptional changes associated with dyserythropoiesis.
 37398018	Interplay between nutrient transporters ensures fertility in the malaria mosquito Anopheles gambiae.
 37397989	Wolbachia-induced inhibition of O'nyong nyong virus in Anopheles mosquitoes is mediated by Toll signaling and modulated by cholesterol.
-37396933	Trends of the Global, Regional and National Incidence, Mortality, and Disability-Adjusted Life Years of Malaria, 1990-2019: An Analysis of the Global Burden of Disease Study 2019.
-37396392	Tripartite interactions comprising yeast-endobacteria systems in the gut of vector mosquitoes.
-37396335	Chronic infection by atypical Toxoplasma gondii strain induces disturbance in microglia population and altered behaviour in mice.
-37396303	A conserved epitope in VAR2CSA is targeted by a cross-reactive antibody originating from Plasmodium vivax Duffy binding protein.
-37396200	Phenotypic resistance to pyrethroid associated to metabolic mechanism in Vgsc-L995F-resistant Anopheles gambiae malaria mosquitoes.
-37396152	Diabetes mellitus: Preventive and curative therapies with aqueous extract of Rytigynia senegalensis Blume (Rubiaceae) in Wistar rats.
