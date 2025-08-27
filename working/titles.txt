@@ -1,3 +1,12 @@
+40864340	As the planet warms, women pay the price: the climate change and reproductive health crisis.
+40864121	Polyparasitic Infections: Associated Factors and Effect on the Haemoglobin Level of Children Living in Lambaréné Remote and Surrounding Rural Areas from Gabon-A Cross-Sectional Study.
+40862206	Atypical Presentation of Blastocystis-Related Dysentery in an HIV-Infected Patient.
+40861575	Emergent Cesarean Section Due to Malaria: A Perioperative Challenge.
+40861480	Hybrid Capsule Network for precise and interpretable detection of malaria parasites in blood smear images.
+40860931	Covering water containers is a strong preventive measure for the reduction of asymptomatic malaria towards the end of the rainy season.
+40860451	Building Climate Resilience in Health Systems: A Climate Vulnerability and Capacity Assessment in a rural hospital in Chad.
+40860334	Prevalance and risk factors of congenital malaria in Osogbo, Southwestern Nigeria.
+40860064	Point-of-care biosensors for infectious disease diagnosis: recent updates and prospects.
 40859351	Understanding the traits underlying vaccine-driven virulence evolution in malaria parasites.
 40859255	TLR9/NF-κB-mediated dendritic cell activation by neutrophil extracellular traps drives pathogenesis in experimental cerebral malaria.
 40858567	Multiplex bead assays enable integrated serological surveillance and reveal cross-pathogen vulnerabilities in Zambezia Province, Mozambique.
@@ -17,6 +26,15 @@
 40854510	Larvicidal mechanism of the rare sesquiterpene ishwarol B from Piper alatipetiolatum (Piperaceae) against Aedes aegypti, Anopheles darlingi, and Culex quinquefasciatus (Culicidae): oxidative damage, defense enzyme modulation, and acetylcholinesterase inhibition.
 40854418	A low-cost house eave screening technique complements insecticide-treated nets in reducing indoor human exposure to the bites of anopheles mosquitoes in a malaria endemic area of south forested Cameroon: results from a pilot study.
 40854415	The ethnomedicinal, pharmacological, and phytochemical potential of Ferula sinkiangensis K.M.Shen: An updated and comprehensive review.
+40849467	Bionomics of Anopheles stephensi across the urban-rural landscapes of Eastern Ethiopia.
+40847608	Lycopene Mitigates Malaria-Induced Reactive Oxygen and Nitrogen Species and Oxidative Damage in Mice Brain and Lungs.
+40847346	Between-and within-socioeconomic groups temporal inequality in the uptake of malaria prevention strategies among pregnant women and under-five children in Ghana (2003-2022).
+40847278	Diabetes and metabolic syndrome in adults with malaria and associations with severe disease: results from two tertiary hospitals in Cameroon.
+40845002	Assessing ITN textile preferences: A comparative study of polyethylene and polyester nets across different settings in Burkina Faso.
+40844991	Emerging challenges for mosquito-borne disease control and the promise of symbiont-based transmission-blocking strategies.
+40844983	Comparison of the composition and antiplasmodial activity of Artemisia annua teas using an untargeted metabolomic approach.
+40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
+40833301	The new administration in the USA: impact of policy changes in development assistance on low- and middle-income countries, with the example of Nepal.
 40855152	The impacts of indoor residual spraying with bendiocarb and pirimiphos-methyl on allelic frequencies of kdr and ace-1 mutations in central Senegal.
 40854136	De novo rates of a Trypanosoma-resistant mutation in two human populations.
 40854132	Flavin-deficient erythrocytes offer protection against malaria parasites.
@@ -31,14 +49,10 @@
 40850017	Antiplasmodial activity of pentyloxyamide-based histone deacetylase inhibitors against Plasmodium falciparum parasites.
 40849766	Effective Strategies in Disease Control and Prevention: A Systematic Review.
 40849034	Efficacy and gametocyte carriage in Plasmodium falciparum cases treated with artemether-lumefantrine alone versus with single-dose primaquine in Ethiopia: A randomized controlled study.
-40849467	Bionomics of Anopheles stephensi across the urban-rural landscapes of Eastern Ethiopia.
 40849185	Advances in malaria detection.
 40848966	NOX2-induced oxidative stress triggers cardiac hypercontractility during severe malaria.
 40848733	Climate-smart public health for global health resilience.
 40847646	Integrated vector management for malaria control: a review of approaches and effectiveness.
-40847608	Lycopene Mitigates Malaria-Induced Reactive Oxygen and Nitrogen Species and Oxidative Damage in Mice Brain and Lungs.
-40847346	Between-and within-socioeconomic groups temporal inequality in the uptake of malaria prevention strategies among pregnant women and under-five children in Ghana (2003-2022).
-40847278	Diabetes and metabolic syndrome in adults with malaria and associations with severe disease: results from two tertiary hospitals in Cameroon.
 40845886	Efficacy of non-pyrethroid indoor residual spraying or intensive behaviour change communication in combination with long-lasting insecticidal nets for malaria control in west Africa: a pragmatic, cluster-randomised, controlled trial.
 40845885	Evidence-based decision making for malaria elimination applying the Freedom From Infection statistical framework in five malaria eliminating countries: an observational study.
 40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
@@ -52,9 +66,6 @@
 40845863	Efficacies of artemether-lumefantrine, artesunate-amodiaquine, dihydroartemisinin-piperaquine, and artesunate-pyronaridine for the treatment of uncomplicated Plasmodium falciparum malaria in children aged 6 months to 10 years in Uganda: a randomised, open-label, phase 4 clinical trial.
 40845861	Diversifying antimalarial treatment for uncomplicated Plasmodium falciparum malaria in Uganda.
 40845150	Mutant allele formation and inheritance during Cas9/guide RNA-mediated gene drive in a population modification mosquito strain for human malaria control.
-40845002	Assessing ITN textile preferences: A comparative study of polyethylene and polyester nets across different settings in Burkina Faso.
-40844991	Emerging challenges for mosquito-borne disease control and the promise of symbiont-based transmission-blocking strategies.
-40844983	Comparison of the composition and antiplasmodial activity of Artemisia annua teas using an untargeted metabolomic approach.
 40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
@@ -65,7 +76,6 @@
 40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
 40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
 40835917	Occupations at high risk for malaria in Zanzibar: a case-control study, may-august 2023.
-40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
 40839929	Integrated computational strategies for the identification of Plasmodium falciparum dihydrofolate reductase inhibitors.
 40839784	Impact of two dual active ingredient long-lasting insecticidal nets on pregnancy birth outcomes in Benin.
 40837717	Prevalence and Factors Associated With the Informal Market for Medicines in Benin: A Community-Based Cross-Sectional Study.
@@ -85,7 +95,6 @@
 40834042	Age-structured malaria model with temperature-dependent dynamics and optimal control analysis within a partial differential equation framework.
 40833986	Modelling the impact of climatic and environmental variables on malaria incidence in Tanzania: Implications for achieving the WHO's 2030 Targets.
 40833410	Identification of broadly inhibitory anti-PfEMP1 antibodies by mass spectrometry sequencing of plasma IgG from a malaria-exposed child.
-40833301	The new administration in the USA: impact of policy changes in development assistance on low- and middle-income countries, with the example of Nepal.
 40832728	Genital schistosomiasis in non-endemic settings, a clinical perspective.
 40832631	mRNA-LNP vaccine encoding the Plasmodium vivax circumsporozoite protein is highly immunogenic and confers protection in mice.
 40832414	Clonal Transmission of Emerging Novel Plasmodium falciparum Kelch13 Mutations and Increasing Complexity of Infection in Libreville, Gabon, 2021-2023.
@@ -9988,12 +9997,3 @@
 37399772	Carbohydrate derivatives fight against malaria parasite as anti-plasmodial agents.
 31855356	Chloroquine.
 37399221	Potential hidden Plasmodium vivax malaria reservoirs from low parasitemia Duffy-negative Ethiopians: Molecular evidence.
-37399022	Convalescent Plasma Versus Hyperimmune Immunoglobulins.
-37398749	Unusual Presentation and Difficult to Diagnose: A Case of Malaria With Negative Thick and Thin Giemsa Stain Smear Tests.
-37398491	Tracking SARS-CoV-2 seropositivity in rural communities using blood-fed mosquitoes.
-37398288	Mapping the genomic landscape of multidrug resistance in Plasmodium falciparum and its impact on parasite fitness.
-37398131	CRISPR-mediated germline mutagenesis for genetic sterilization of Anopheles gambiae males.
-37398112	First report of Anopheles stephensi in Southern Ethiopia.
-37398106	Comparative chemical genomics in Babesia species identifies the alkaline phosphatase phoD as a novel determinant of resistance.
-37398027	Plasmodium falciparum infection of human erythroblasts induces transcriptional changes associated with dyserythropoiesis.
-37398018	Interplay between nutrient transporters ensures fertility in the malaria mosquito Anopheles gambiae.
