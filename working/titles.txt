@@ -1,3 +1,4 @@
+40857622	A "Pandemic-Proof" Methodology for Outbreak Detection Adapted From COVID-19's Impact on Notifications of Infectious Diseases in the Netherlands: Surveillance Study.
 40856908	Cardimyxobolus iriomotensis n. sp. (Cnidaria: Myxosporea: Ortholineidae) parasitic in gill filaments of Rhinogobius species (Gobiiformes: Gobiidae) in Japan.
 40856888	Yemen's Malaria Crisis and its Implications for the GCC (Gulf Cooperation Council) Countries.
 40855944	Voltage Switching on a Dual Nano-Electrospray/Atmospheric Pressure Chemical Ionization Platform Provides Higher Discrimination Power for Malaria Detection via Direct Infusion Mass Spectrometry.
@@ -8,7 +9,7 @@
 40855152	The impacts of indoor residual spraying with bendiocarb and pirimiphos-methyl on allelic frequencies of kdr and ace-1 mutations in central Senegal.
 40854843	Machine-learning-based artificial intelligence tools for the diagnosis of tropical fevers: a systematic review and meta-analysis protocol of diagnostic test accuracy.
 40854510	Larvicidal mechanism of the rare sesquiterpene ishwarol B from Piper alatipetiolatum (Piperaceae) against Aedes aegypti, Anopheles darlingi, and Culex quinquefasciatus (Culicidae): oxidative damage, defense enzyme modulation, and acetylcholinesterase inhibition.
-40854418	A low-cost house eave screening technique complements insecticide-treated nets in reducing indoor human exposure to the bites of Anopheles mosquitoes in a malaria endemic area of South forested Cameroon: results from a pilot study.
+40854418	A low-cost house eave screening technique complements insecticide-treated nets in reducing indoor human exposure to the bites of anopheles mosquitoes in a malaria endemic area of south forested Cameroon: results from a pilot study.
 40854415	The ethnomedicinal, pharmacological, and phytochemical potential of Ferula sinkiangensis K.M.Shen: An updated and comprehensive review.
 40854136	De novo rates of a Trypanosoma-resistant mutation in two human populations.
 40854132	Flavin-deficient erythrocytes offer protection against malaria parasites.
@@ -9996,4 +9997,3 @@
 37396303	A conserved epitope in VAR2CSA is targeted by a cross-reactive antibody originating from Plasmodium vivax Duffy binding protein.
 37396200	Phenotypic resistance to pyrethroid associated to metabolic mechanism in Vgsc-L995F-resistant Anopheles gambiae malaria mosquitoes.
 37396152	Diabetes mellitus: Preventive and curative therapies with aqueous extract of Rytigynia senegalensis Blume (Rubiaceae) in Wistar rats.
-37394159	Curcumin or quercetin loaded nutriosomes as oral adjuvants for malaria infections.
