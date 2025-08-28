@@ -1,3 +1,14 @@
+40867035	Diagnosis and Management of Imported Malaria in the Emergency Department.
+40867024	Theileria luwenshuni and Novel Babesia spp. Infections in Humans, Yunnan Province, China.
+40867022	CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela.
+40866995	Structural features of outdoor latrines influence the abundance of Anopheles gambiae s.l. and Culex quinquefasciatus in a village in Kisumu County, western Kenya.
+40866892	Factors associated with HIV infection among adolescents and young people in Mozambique: sub-analysis of immunization, malaria and HIV/AIDS indicator survey in Mozambique-IMASIDA 2015.
+40866335	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos reducing their lifespan and malaria burden.
+40866281	Volatile pyrethroid spatial repellents for preventing mosquito bites: a systematic review and meta-analysis.
+40865892	Plasmodium vivax microgametes in a Colombian malaria case: A diagnostic challenge.
+40865781	Captopril reduces liver cytotoxicity in a murine model of Plasmodium chabaudi infection.
+40865741	Genetic diversity and natural selection of cell-traversal protein for ookinetes and sporozoites (CelTOS) in Plasmodium falciparum isolates from Vietnam.
+40865529	Human monoclonal antibodies targeting A35 protect from death caused by mpox.
 40865112	[Evaluación de costos y resultados de la Campaña de Erradicación de la Malaria en Colombia entre 1957 y 1969].
 40864340	As the planet warms, women pay the price: the climate change and reproductive health crisis.
 40864121	Polyparasitic Infections: Associated Factors and Effect on the Haemoglobin Level of Children Living in Lambaréné Remote and Surrounding Rural Areas from Gabon-A Cross-Sectional Study.
@@ -72,7 +83,7 @@
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
 40841475	David Nabarro obituary: global-health leader who fought malnutrition, malaria, Ebola and COVID-19.
 40840760	Proteomic Insight into the Ontogeny of Blood-Meal Digestion in the tick Ixodes ricinus.
-40840727	The Role and Mechanism of Artemisia Annua L. in Cancer Treatment.
+40840727	The role and mechanism of Artemisia annua L. in cancer treatment.
 40840698	Metatranscriptomic profiling of the bacterial and fungal microbiota of field-collected Anopheles darlingi from Colombia: Community composition and functional insights.
 40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
 40839677	Facilitators and barriers of Community Case management of Malaria implementation in Homabay, Busia and Kakamega Counties, Kenya.
@@ -9986,14 +9997,3 @@
 37405803	First US Malaria Cases in 20 Years Prompt CDC Advisory.
 37405659	Antibody Display Technology (ADbody) to Present Challenging and Unstable Target Proteins on Antibodies.
 37405268	Evaluation of chalcone derivatives for their role as antiparasitic and neuroprotectant in experimentally induced cerebral malaria mouse model.
-37403869	Perillyl alcohol modulates activation, permeability and integrity of human brain endothelial cells induced by Plasmodium falciparum.
-37403183	Seasonal malaria chemoprevention in Africa and China's upgraded role as a contributor: a scoping review.
-37403099	Seasonal variations of intensity of avian malaria infection in the Thousand Island Lake System, China.
-37402342	Purine containing carbonucleoside phosphonate analogues as novel chemotype for Plasmodium falciparum Inhibition.
-37401589	[Advances in abscisic acid biosynthesis].
-37400831	A semi-field evaluation in Thailand of the use of human landing catches (HLC) versus human-baited double net trap (HDN) for assessing the impact of a volatile pyrethroid spatial repellent and pyrethroid-treated clothing on Anopheles minimus landing.
-37400805	Evaluation of community-based vector surveillance system for routine entomological monitoring under low malaria vector densities and high bed net coverage in western Kenya.
-37400569	Correction: Hyperreflective spots in cerebral malaria.
-37400439	A PPP-type pseudophosphatase is required for the maintenance of basal complex integrity in Plasmodium falciparum.
-37399772	Carbohydrate derivatives fight against malaria parasite as anti-plasmodial agents.
-31855356	Chloroquine.
