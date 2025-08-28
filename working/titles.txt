@@ -1,3 +1,22 @@
+40874193	Trajectory of Plasmodium falciparum Molecular Markers of Amodiaquine Resistance in São Tomé and Príncipe.
+40874185	Malaria Incidence in US Military Families Is Related to Service Member's Birthplace.
+40874017	Pilot implementation of intermittent preventive treatment with dihydroartemisinin-piperaquine to prevent adverse birth outcomes in Papua, Indonesia: a mixed-method evaluation.
+40873004	Prevalence of the Main Human Genetic Variants Related to Resistance to Malaria in a Population of the Colombian Pacific Coast.
+40872863	Year-Long Antibody Response to the EuCorVac-19 SARS-CoV-2 Vaccine in Healthy Filipinos.
+40872329	Paid Organ Donation: Case Report and Review of the Literature on Health Implications for Kidney Donors and Recipients.
+40872278	Acute Rickettsiosis Triggering Plasmodium vivax Relapse in a Returned Traveler: A Case Report and Clinical Review of Travel-Related Coinfections.
+40872266	Molecular Surveillance of Plasmodium spp. Infection in Neotropical Primates from Bahia and Minas Gerais, Brazil.
+40871363	Pharmacologic Inhibition of Erythrocyte Ferroportin Expression Exacerbates Plasmodium Infection.
+40871066	Harnessing Phytonanotechnology to Tackle Neglected Parasitic Diseases: Focus on Chagas Disease and Malaria.
+40869828	Health Inequalities in Primary Care: A Comparative Analysis of Climate Change-Induced Expansion of Waterborne and Vector-Borne Diseases in the SADC Region.
+40869002	Application of Multiplatform Mass Spectrometry to the Study of Babesia divergens Metabolism and the Pathogenesis of Human Babesiosis.
+40868984	Angiotensin-Converting Enzyme Inhibition and/or Angiotensin Receptor Blockade Modulate Cytokine Profiles and Improve Clinical Outcomes in Experimental COVID-19 Infection.
+40868848	Severe Malaria Due to Plasmodium falciparum in an Immunocompetent Young Adult: Rapid Progression to Multiorgan Failure.
+40868031	Ivermectin Identified Using a High-Throughput Screening System Exhibits Anti-Clonorchis sinensis Activity in Rats.
+40867741	Molecular Screening of Plasmodium spp. in Free-Living Ring-Tailed Coatis (Nasua nasua) and Nine-Banded Armadillos (Dasypus novemcinctus) in the Peruvian Amazon.
+40867063	Imported Malaria and Congenital Acquisition in Infant, Portugal, 2024.
+40867043	Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024 (Response).
+40867042	Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024.
 40867035	Diagnosis and Management of Imported Malaria in the Emergency Department.
 40867024	Theileria luwenshuni and Novel Babesia spp. Infections in Humans, Yunnan Province, China.
 40867022	CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela.
@@ -9978,22 +9997,3 @@
 37408730	Anopheles sampling collections in the health districts of Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) between 2016 and 2018.
 37408058	Baseline characterization of entomological drivers of malaria transmission in Namibia: a targeted operational entomological surveillance strategy.
 37408026	Anopheles diversity, biting behaviour and transmission potential in forest and farm environments of Gia Lai province, Vietnam.
-37407994	Retraction Note: Molecular detection and quantification of Plasmodium falciparum gametocytes carriage in used RDTs in malaria elimination settings in northern Senegal.
-37407966	A multilevel Bayesian Markov Chain Monte Carlo Poisson modelling of factors associated with components of antenatal care offered to pregnant women in Nigeria.
-37407962	Prevalence and risk factors determinants of the non-use of insecticide-treated nets in an endemic area for malaria: analysis of data from Cameroon.
-37407494	Formation of free oocysts in Anopheles mosquitoes injected with Plasmodium ookinetes.
-37406792	In vitro and in vivo antimalarial activity of green synthesized silver nanoparticles using Sargassum tenerrimum - a marine seaweed.
-37406791	A self-sustaining system to reduce migration of Anopheles stephensi in East Africa.
-37406519	Recent developments in the synthesis of hybrid antimalarial drug discovery.
-37406344	Unique Properties of Apicomplexan Mitochondria.
-37406192	From contigs towards chromosomes: automatic improvement of long read assemblies (ILRA).
-37406181	Imported Malaria in Children: A Study Over an 11-Year Period in Brussels.
-37406109	A confinable female-lethal population suppression system in the malaria vector, Anopheles gambiae.
-37406097	Coordination of apicoplast transcription in a malaria parasite by internal and host cues.
-37405994	Combining isothermal recombinase polymerase amplification with lateral flow assay for diagnosis of P. cynomolgi malaria infection.
-37405978	Starting at the community: Treatment-seeking pathways of children with suspected severe malaria in Uganda.
-37405848	The LW blood group system: not just "tagging along" with D.
-37405832	Determinants of sugar-induced influx in the mammalian fructose transporter GLUT5.
-37405803	First US Malaria Cases in 20 Years Prompt CDC Advisory.
-37405659	Antibody Display Technology (ADbody) to Present Challenging and Unstable Target Proteins on Antibodies.
-37405268	Evaluation of chalcone derivatives for their role as antiparasitic and neuroprotectant in experimentally induced cerebral malaria mouse model.
