@@ -20,12 +20,12 @@
 40860334	Prevalance and risk factors of congenital malaria in Osogbo, Southwestern Nigeria.
 40860064	Point-of-care biosensors for infectious disease diagnosis: recent updates and prospects.
 40859351	Understanding the traits underlying vaccine-driven virulence evolution in malaria parasites.
-40859255	TLR9/NF-κB-mediated dendritic cell activation by neutrophil extracellular traps drives pathogenesis in experimental cerebral malaria.
-40858567	Multiplex bead assays enable integrated serological surveillance and reveal cross-pathogen vulnerabilities in Zambezia Province, Mozambique.
 40858492	Harnessing Drosophila melanogaster for biomedical innovation in Africa: Trends, challenges, and opportunities.
 40858453	Arthropod adiponectin receptor-like proteins and microbial persistence.
 40858177	Congenital malaria in Nigeria: A systematic review and meta-analysis.
 40858122	Analysis of Confirmed Leptospirosis Cases in Hawai'i Identifies Spatial and Environmental Patterns of Incidence.
+40859255	TLR9/NF-κB-mediated dendritic cell activation by neutrophil extracellular traps drives pathogenesis in experimental cerebral malaria.
+40858567	Multiplex bead assays enable integrated serological surveillance and reveal cross-pathogen vulnerabilities in Zambezia Province, Mozambique.
 40857622	A "Pandemic-Proof" Methodology for Outbreak Detection Adapted From COVID-19's Impact on Notifications of Infectious Diseases in the Netherlands: Surveillance Study.
 40856908	Cardimyxobolus iriomotensis n. sp. (Cnidaria: Myxosporea: Ortholineidae) parasitic in gill filaments of Rhinogobius species (Gobiiformes: Gobiidae) in Japan.
 40856888	Yemen's Malaria Crisis and its Implications for the GCC (Gulf Cooperation Council) Countries.
@@ -34,7 +34,6 @@
 40855809	Salvage Structures, Known as Iron Chelating Agents, Acquired from the Nature and Matured in the Labs.
 40855528	Potential of microRNAs as diagnostic markers for distinguishing malaria severity in samples from an Indian cohort.
 40855460	Physiologically based pharmacokinetic modelling to predict artemether and lumefantrine exposure in neonates weighing less than 5 kg treated with artemether-lumefantrine to supplement the clinical data from the CALINA study.
-40854843	Machine-learning-based artificial intelligence tools for the diagnosis of tropical fevers: a systematic review and meta-analysis protocol of diagnostic test accuracy.
 40854510	Larvicidal mechanism of the rare sesquiterpene ishwarol B from Piper alatipetiolatum (Piperaceae) against Aedes aegypti, Anopheles darlingi, and Culex quinquefasciatus (Culicidae): oxidative damage, defense enzyme modulation, and acetylcholinesterase inhibition.
 40854418	A low-cost house eave screening technique complements insecticide-treated nets in reducing indoor human exposure to the bites of anopheles mosquitoes in a malaria endemic area of south forested Cameroon: results from a pilot study.
 40854415	The ethnomedicinal, pharmacological, and phytochemical potential of Ferula sinkiangensis K.M.Shen: An updated and comprehensive review.
@@ -48,6 +47,7 @@
 40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
 40833301	The new administration in the USA: impact of policy changes in development assistance on low- and middle-income countries, with the example of Nepal.
 40855152	The impacts of indoor residual spraying with bendiocarb and pirimiphos-methyl on allelic frequencies of kdr and ace-1 mutations in central Senegal.
+40854843	Machine-learning-based artificial intelligence tools for the diagnosis of tropical fevers: a systematic review and meta-analysis protocol of diagnostic test accuracy.
 40854136	De novo rates of a Trypanosoma-resistant mutation in two human populations.
 40854132	Flavin-deficient erythrocytes offer protection against malaria parasites.
 40853975	Remapping parasite landscapes: Nationwide prevalence, intensity and risk factors of schistosomiasis and soil-transmitted helminthiasis in Rwanda.
