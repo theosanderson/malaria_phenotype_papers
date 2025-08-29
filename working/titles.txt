@@ -1,3 +1,11 @@
+40877931	Access versus utilization: determinants of insecticide-treated net non-use in Myanmar.
+40877866	Do women attending antenatal clinics who use only intermittent preventive treatment (IPTp) have higher Plasmodium falciparum prevalence compared to those who used both IPTp and slept under insecticide-treated nets?
+40877864	Assessing the external validity of mobile phone surveys for monitoring ITN coverage indicators: a comparison with household surveys in Tanzania.
+40877450	A longitudinal study examining determinants of essential health services during the COVID-19 pandemic in regional referral hospitals across Uganda.
+40877256	Epigenetically conferred ring-stage survival in Plasmodium falciparum against artemisinin treatment.
+40876593	A comparative analysis reveals electrogenic properties of PfCRT and pendrin.
+40876371	Synthesis, characterization, inhibition of β-hematin formation, lipophilicity, and antimalarial activity of metal-amodiaquine complexes.
+40876356	In vitro screening of the open-access Pandemic Response Box reveals ESI-09 as a compound with activity against Echinococcus multilocularis.
 40875901	Carbon Metabolism of Intracellular Parasitic Protists.
 40875642	Incidence, risk factors and outcomes of preterm live births in a tertiary health facility in Ghana.
 40874193	Trajectory of Plasmodium falciparum Molecular Markers of Amodiaquine Resistance in São Tomé and Príncipe.
@@ -34,6 +42,7 @@
 40857622	A "Pandemic-Proof" Methodology for Outbreak Detection Adapted From COVID-19's Impact on Notifications of Infectious Diseases in the Netherlands: Surveillance Study.
 40855528	Potential of microRNAs as diagnostic markers for distinguishing malaria severity in samples from an Indian cohort.
 40855460	Physiologically based pharmacokinetic modelling to predict artemether and lumefantrine exposure in neonates weighing less than 5 kg treated with artemether-lumefantrine to supplement the clinical data from the CALINA study.
+40854843	Machine-learning-based artificial intelligence tools for the diagnosis of tropical fevers: a systematic review and meta-analysis protocol of diagnostic test accuracy.
 40853975	Remapping parasite landscapes: Nationwide prevalence, intensity and risk factors of schistosomiasis and soil-transmitted helminthiasis in Rwanda.
 40853961	Effects of recombination on multi-drug resistance evolution in Plasmodium falciparum malaria.
 40853945	Making MALDI-TOF MS for entomological parameters accessible: A practical guide for in-house library creation.
@@ -72,7 +81,6 @@
 40844983	Comparison of the composition and antiplasmodial activity of Artemisia annua teas using an untargeted metabolomic approach.
 40841541	Enhanced detection of malaria infected red blood cells through phase driven classification.
 40833301	The new administration in the USA: impact of policy changes in development assistance on low- and middle-income countries, with the example of Nepal.
-40854843	Machine-learning-based artificial intelligence tools for the diagnosis of tropical fevers: a systematic review and meta-analysis protocol of diagnostic test accuracy.
 40854136	De novo rates of a Trypanosoma-resistant mutation in two human populations.
 40854132	Flavin-deficient erythrocytes offer protection against malaria parasites.
 40852579	Computationally guided optimization of the antimalarial activity and physicochemical properties of 2,4-diaminopyrimidines.
@@ -82,16 +90,16 @@
 40850017	Antiplasmodial activity of pentyloxyamide-based histone deacetylase inhibitors against Plasmodium falciparum parasites.
 40849766	Effective Strategies in Disease Control and Prevention: A Systematic Review.
 40849034	Efficacy and gametocyte carriage in Plasmodium falciparum cases treated with artemether-lumefantrine alone versus with single-dose primaquine in Ethiopia: A randomized controlled study.
-40849185	Advances in malaria detection.
 40848966	NOX2-induced oxidative stress triggers cardiac hypercontractility during severe malaria.
+40849185	Advances in malaria detection.
 40848733	Climate-smart public health for global health resilience.
 40847646	Integrated vector management for malaria control: a review of approaches and effectiveness.
+40846229	Artemisinin toxicity in HepG2 liver carcinoma cells is linked to protein network in host and molecular interactions with cellular drug targets.
 40845886	Efficacy of non-pyrethroid indoor residual spraying or intensive behaviour change communication in combination with long-lasting insecticidal nets for malaria control in west Africa: a pragmatic, cluster-randomised, controlled trial.
 40845885	Evidence-based decision making for malaria elimination applying the Freedom From Infection statistical framework in five malaria eliminating countries: an observational study.
 40842007	Insights from LLIN post-distribution monitoring surveys in the malaria transmission foci of the Dominican Republic: implications for quantification and distribution strategies.
 40841669	Aspartyl protease inhibition interferes with Plasmodium falciparum asexual blood-stage and early gametocyte development.
 40841612	Urban malaria in Accra, Ghana: transmission risk and influence of irrigated vegetable farms.
-40846229	Artemisinin toxicity in HepG2 liver carcinoma cells is linked to protein network in host and molecular interactions with cellular drug targets.
 40846054	Dynamic Regulation of RNA m(6)A Methylation in the Ribonucleoprotein Complexes in Apicomplexan and Kinetoplastid Parasites.
 40845953	Indigenous Plasmodium vivax Upsurge in the Eastern Mediterranean, Western Pacific, and South East Asia Regions - Beyond the Constant Culpability of Climate Change, COVID-19, and Armed Conflicts.
 40845873	Can behaviour change communication improve malaria control?
@@ -9989,11 +9997,3 @@
 37414210	Prostration and the prognosis of death in African children with severe malaria.
 37414209	RNA aptamers developed against tRip: A preliminary approach targeting tRNA entry in Plasmodium.
 37414067	Moving seasonal malaria chemoprevention out of its geographical isolation.
-37414066	Causal chemoprophylactic activity of cabamiquine against Plasmodium falciparum in a controlled human malaria infection: a randomised, double-blind, placebo-controlled study in the Netherlands.
-37414059	Bioassay-Guided Isolation and Identification of Antiplasmodial Compounds from the Stem Bark of Clausena excavata.
-37413986	Quantifying differences in iron deficiency-attributable anemia during pregnancy and postpartum.
-37413887	Asymptomatic but infectious - The silent driver of pathogen transmission. A pragmatic review.
-37410764	Patterns and trends of in-hospital mortality due to non-communicable diseases and injuries in Tanzania, 2006-2015.
-37409812	Point-of-care Ultrasound to Assess Hemodynamic Contributors to Acute Kidney Injury in Pediatric Patients With Cerebral Malaria: A Pilot Study.
-37409745	Contributions of declining mortality, overall and from HIV, TB and malaria, to reduced health inequality and inequity across countries.
-37408730	Anopheles sampling collections in the health districts of Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) between 2016 and 2018.
