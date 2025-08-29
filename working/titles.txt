@@ -1,3 +1,7 @@
+40879808	Safety and efficacy of an intramuscular bivalent vaccine against influenza and Streptococcus pneumoniae infections in mice.
+40879690	Stability of Difference Equations with Interspecific Density Dependence, Competition, and Maturation Delays.
+40879382	A catalog of proteins released from Asaia bogorensis under two growth conditions.
+40879170	Label-Free HPLC Method to Evaluate Neuraminidase Activity in Biological Fluids Containing the Newcastle Disease Virus.
 40878474	Assessment of adherence to the National Malaria Guidelines in treatment management of malaria among children under five in integrated community case management in the DRC.
 40877931	Access versus utilization: determinants of insecticide-treated net non-use in Myanmar.
 40877866	Do women attending antenatal clinics who use only intermittent preventive treatment (IPTp) have higher Plasmodium falciparum prevalence compared to those who used both IPTp and slept under insecticide-treated nets?
@@ -7,6 +11,7 @@
 40876593	A comparative analysis reveals electrogenic properties of PfCRT and pendrin.
 40876371	Synthesis, characterization, inhibition of β-hematin formation, lipophilicity, and antimalarial activity of metal-amodiaquine complexes.
 40876356	In vitro screening of the open-access Pandemic Response Box reveals ESI-09 as a compound with activity against Echinococcus multilocularis.
+40864121	Polyparasitic Infections: Associated Factors and Effect on the Haemoglobin Level of Children Living in Lambaréné Remote and Surrounding Rural Areas from Gabon-A Cross-Sectional Study.
 40875901	Carbon Metabolism of Intracellular Parasitic Protists.
 40875642	Incidence, risk factors and outcomes of preterm live births in a tertiary health facility in Ghana.
 40874193	Trajectory of Plasmodium falciparum Molecular Markers of Amodiaquine Resistance in São Tomé and Príncipe.
@@ -37,8 +42,11 @@
 40865781	Captopril reduces liver cytotoxicity in a murine model of Plasmodium chabaudi infection.
 40865741	Genetic diversity and natural selection of cell-traversal protein for ookinetes and sporozoites (CelTOS) in Plasmodium falciparum isolates from Vietnam.
 40865529	Human monoclonal antibodies targeting A35 protect from death caused by mpox.
+40859351	Understanding the traits underlying vaccine-driven virulence evolution in malaria parasites.
 40859255	TLR9/NF-κB-mediated dendritic cell activation by neutrophil extracellular traps drives pathogenesis in experimental cerebral malaria.
+40858567	Multiplex bead assays enable integrated serological surveillance and reveal cross-pathogen vulnerabilities in Zambezia Province, Mozambique.
 40857622	A "Pandemic-Proof" Methodology for Outbreak Detection Adapted From COVID-19's Impact on Notifications of Infectious Diseases in the Netherlands: Surveillance Study.
+40856888	Yemen's Malaria Crisis and its Implications for the GCC (Gulf Cooperation Council) Countries.
 40855528	Potential of microRNAs as diagnostic markers for distinguishing malaria severity in samples from an Indian cohort.
 40855460	Physiologically based pharmacokinetic modelling to predict artemether and lumefantrine exposure in neonates weighing less than 5 kg treated with artemether-lumefantrine to supplement the clinical data from the CALINA study.
 40854843	Machine-learning-based artificial intelligence tools for the diagnosis of tropical fevers: a systematic review and meta-analysis protocol of diagnostic test accuracy.
@@ -50,7 +58,6 @@
 40866335	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos reducing their lifespan and malaria burden.
 40865112	Costs and impact of the Malaria Eradication Campaign in Colombia, 1957-1969.
 40864340	As the planet warms, women pay the price: the climate change and reproductive health crisis.
-40864121	Polyparasitic Infections: Associated Factors and Effect on the Haemoglobin Level of Children Living in Lambaréné Remote and Surrounding Rural Areas from Gabon-A Cross-Sectional Study.
 40862206	Atypical Presentation of Blastocystis-Related Dysentery in an HIV-Infected Patient.
 40861575	Emergent Cesarean Section Due to Malaria: A Perioperative Challenge.
 40861480	Hybrid Capsule Network for precise and interpretable detection of malaria parasites in blood smear images.
@@ -58,15 +65,12 @@
 40860451	Building Climate Resilience in Health Systems: A Climate Vulnerability and Capacity Assessment in a rural hospital in Chad.
 40860334	Prevalance and risk factors of congenital malaria in Osogbo, Southwestern Nigeria.
 40860064	Point-of-care biosensors for infectious disease diagnosis: recent updates and prospects.
-40859351	Understanding the traits underlying vaccine-driven virulence evolution in malaria parasites.
 40858492	Harnessing Drosophila melanogaster for biomedical innovation in Africa: Trends, challenges, and opportunities.
 40858453	Arthropod adiponectin receptor-like proteins and microbial persistence.
 40858177	Congenital malaria in Nigeria: A systematic review and meta-analysis.
 40858122	Analysis of Confirmed Leptospirosis Cases in Hawai'i Identifies Spatial and Environmental Patterns of Incidence.
 40855152	The impacts of indoor residual spraying with bendiocarb and pirimiphos-methyl on allelic frequencies of kdr and ace-1 mutations in central Senegal.
-40858567	Multiplex bead assays enable integrated serological surveillance and reveal cross-pathogen vulnerabilities in Zambezia Province, Mozambique.
 40856908	Cardimyxobolus iriomotensis n. sp. (Cnidaria: Myxosporea: Ortholineidae) parasitic in gill filaments of Rhinogobius species (Gobiiformes: Gobiidae) in Japan.
-40856888	Yemen's Malaria Crisis and its Implications for the GCC (Gulf Cooperation Council) Countries.
 40855944	Voltage Switching on a Dual Nano-Electrospray/Atmospheric Pressure Chemical Ionization Platform Provides Higher Discrimination Power for Malaria Detection via Direct Infusion Mass Spectrometry.
 40855856	Identification of long noncoding RNAs (lncRNAs) and co-transcriptional analysis of mRNAs and lncRNAs in transcriptomes of Anopheles gambiae.
 40855809	Salvage Structures, Known as Iron Chelating Agents, Acquired from the Nature and Matured in the Labs.
@@ -2328,7 +2332,7 @@
 40068656	Stroke from Infection.
 40068219	From Bites to Bytes: Evaluating User Engagement and Mosquito Bite Exposure Patterns with the Bite Diary Smartphone Application.
 40067800	Characterizing the genetic diversity and population structure of Plasmodium knowlesi in Aceh Province, Indonesia.
-40067333	Carcinogenic parasites: Insights into the epidemiology and possible mechanisms of cancer.
+40067333	Carcinogenic parasites: insights into the epidemiology and possible mechanisms of cancer.
 40067319	A Cryptic Loop that Modulates Protein-Protein Interaction: Implications in PfAMA1-PfRON2 Late-stage Binding Event.
 40067220	HEALTH ASSESSMENT OF GOLDEN-MANTLED HOWLER MONKEYS (ALOUATTA PALLIATA PALLIATA) IN DRY FOREST FROM THE NORTH PACIFIC COAST, COSTA RICA.
 40066598	Plasmodium falciparum histidine-rich protein 2/3 gene deletions and repeat motifs in Chhattisgarh, India (2017-2018).
@@ -4143,7 +4147,7 @@
 39442869	On the necessity of accounting for age structure in human malaria transmission modeling.
 39441986	Targeting PfCLK3 with Covalent Inhibitors: A Novel Strategy for Malaria Treatment.
 39441862	A novel broad-spectrum antibacterial and anti-malarial Anopheles gambiae Cecropin promotes microbial clearance during pupation.
-39441622	Terminalia ivorensis demonstrates antioxidant properties and alters proliferation, genomic instability and migration of human colon cancer cells in vitro.
+39441622	Terminalia ivorensis demonstrates antioxidant properties and alters proliferation, genomic instability, and migration of human colon cancer cells in vitro.
 39440556	Current trends to design antimalarial drugs targeting N-myristoyltransferase.
 39440516	An Uncommon Case of Plasmodium vivax Malaria with Disseminated Intravascular Coagulation: Rare Case Report with Review of Literature.
 39440419	A bHLH transcription factor AaMYC2-type positively regulates glandular trichome density and artemisinin biosynthesis in Artemisia annua.
@@ -9993,7 +9997,3 @@
 37415348	Malaria diagnosis using a combined system of a simple and fast extraction method with a lyophilised Dual-LAMP assay in a non-endemic setting.
 37415281	Genetic variants causing G6PD deficiency: Clinical and biochemical data support new WHO classification.
 37415250	Development of microsatellite markers for the invasive mosquito Aedes koreicus.
-37415179	Effectiveness of the Gratuité user fee exemption policy on utilization and outcomes of maternal, newborn and child health services in conflict-affected districts of Burkina Faso from 2013 to 2018: a pre-post analysis.
-37414792	Detecting temporal and spatial malaria patterns from first antenatal care visits.
-37414210	Prostration and the prognosis of death in African children with severe malaria.
-37414209	RNA aptamers developed against tRip: A preliminary approach targeting tRNA entry in Plasmodium.
