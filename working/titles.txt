@@ -1,3 +1,4 @@
+40878474	Assessment of adherence to the National Malaria Guidelines in treatment management of malaria among children under five in integrated community case management in the DRC.
 40877931	Access versus utilization: determinants of insecticide-treated net non-use in Myanmar.
 40877866	Do women attending antenatal clinics who use only intermittent preventive treatment (IPTp) have higher Plasmodium falciparum prevalence compared to those who used both IPTp and slept under insecticide-treated nets?
 40877864	Assessing the external validity of mobile phone surveys for monitoring ITN coverage indicators: a comparison with household surveys in Tanzania.
@@ -9996,4 +9997,3 @@
 37414792	Detecting temporal and spatial malaria patterns from first antenatal care visits.
 37414210	Prostration and the prognosis of death in African children with severe malaria.
 37414209	RNA aptamers developed against tRip: A preliminary approach targeting tRNA entry in Plasmodium.
-37414067	Moving seasonal malaria chemoprevention out of its geographical isolation.
