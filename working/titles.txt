@@ -1,3 +1,4 @@
+40884464	Vaccine adjuvants as stand-alone immunoprophylaxis in strategies for 100-day rapid responses to future pandemics.
 40884133	Imported and non-travel related cases of malaria in Europe - a ten-year analytic retrospective review.
 40884048	Sialyl-T Antigen: A Novel Red Blood Cell Determinant for Plasmodium falciparum Invasion.
 40883900	Development and validation of dot-ELISA on modified cellulose filter paper: a simplified novel approach.
@@ -8,6 +9,20 @@
 40882884	ETIOLOGIES OF ACUTE FEBRILE ILLNESS AMONG HOSPITALIZED PATIENTS: A RETROSPECTIVE HOSPITAL-BASED STUDY IN MOGADISHU, SOMALIA.
 40882861	First detection of Nyssorhynchus rondoniensis (Diptera: Culicidae) in southern Venezuela and its infection with Plasmodium falciparum.
 40882647	Estimated unit costs of anaemia interventions for women of reproductive age in 193 UN member states: a costing study.
+40875642	Incidence, risk factors and outcomes of preterm live births in a tertiary health facility in Ghana.
+40872863	Year-Long Antibody Response to the EuCorVac-19 SARS-CoV-2 Vaccine in Healthy Filipinos.
+40872329	Paid Organ Donation: Case Report and Review of the Literature on Health Implications for Kidney Donors and Recipients.
+40872278	Acute Rickettsiosis Triggering Plasmodium vivax Relapse in a Returned Traveler: A Case Report and Clinical Review of Travel-Related Coinfections.
+40872266	Molecular Surveillance of Plasmodium spp. Infection in Neotropical Primates from Bahia and Minas Gerais, Brazil.
+40871363	Pharmacologic Inhibition of Erythrocyte Ferroportin Expression Exacerbates Plasmodium Infection.
+40871066	Harnessing Phytonanotechnology to Tackle Neglected Parasitic Diseases: Focus on Chagas Disease and Malaria.
+40869828	Health Inequalities in Primary Care: A Comparative Analysis of Climate Change-Induced Expansion of Waterborne and Vector-Borne Diseases in the SADC Region.
+40869002	Application of Multiplatform Mass Spectrometry to the Study of Babesia divergens Metabolism and the Pathogenesis of Human Babesiosis.
+40868984	Angiotensin-Converting Enzyme Inhibition and/or Angiotensin Receptor Blockade Modulate Cytokine Profiles and Improve Clinical Outcomes in Experimental COVID-19 Infection.
+40868848	Severe Malaria Due to Plasmodium falciparum in an Immunocompetent Young Adult: Rapid Progression to Multiorgan Failure.
+40868031	Ivermectin Identified Using a High-Throughput Screening System Exhibits Anti-Clonorchis sinensis Activity in Rats.
+40867741	Molecular Screening of Plasmodium spp. in Free-Living Ring-Tailed Coatis (Nasua nasua) and Nine-Banded Armadillos (Dasypus novemcinctus) in the Peruvian Amazon.
+40866892	Factors associated with HIV infection among adolescents and young people in Mozambique: sub-analysis of immunization, malaria and HIV/AIDS indicator survey in Mozambique-IMASIDA 2015.
 40882319	A novel intron variant is associated with emerging pfdhps mutant haplotypes in West and Central African Plasmodium falciparum.
 40882194	Developing a Health Education Program for the Prevention and Control of Infectious Diseases Culturally Adapted to Ethnic and Rural Communities: Co-Design Study Using Participatory Audiovisual Methods.
 40882151	Can India-Africa Synergies Accelerate Malaria Elimination? A Perspective on South-South Collaboration.
@@ -25,28 +40,19 @@
 40876593	A comparative analysis reveals electrogenic properties of PfCRT and pendrin.
 40876371	Synthesis, characterization, inhibition of β-hematin formation, lipophilicity, and antimalarial activity of metal-amodiaquine complexes.
 40876356	In vitro screening of the open-access Pandemic Response Box reveals ESI-09 as a compound with activity against Echinococcus multilocularis.
+40866995	Structural features of outdoor latrines influence the abundance of Anopheles gambiae s.l. and Culex quinquefasciatus in a village in Kisumu County, western Kenya.
+40866335	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos reducing their lifespan and malaria burden.
+40864340	As the planet warms, women pay the price: the climate change and reproductive health crisis.
 40864121	Polyparasitic Infections: Associated Factors and Effect on the Haemoglobin Level of Children Living in Lambaréné Remote and Surrounding Rural Areas from Gabon-A Cross-Sectional Study.
+40855856	Identification of long noncoding RNAs (lncRNAs) and co-transcriptional analysis of mRNAs and lncRNAs in transcriptomes of Anopheles gambiae.
 40877931	Access versus utilization: determinants of insecticide-treated net non-use in Myanmar.
 40877450	A longitudinal study examining determinants of essential health services during the COVID-19 pandemic in regional referral hospitals across Uganda.
 40877256	Epigenetically conferred ring-stage survival in Plasmodium falciparum against artemisinin treatment.
 40875901	Carbon Metabolism of Intracellular Parasitic Protists.
-40875642	Incidence, risk factors and outcomes of preterm live births in a tertiary health facility in Ghana.
 40874193	Trajectory of Plasmodium falciparum Molecular Markers of Amodiaquine Resistance in São Tomé and Príncipe.
 40874185	Malaria Incidence in US Military Families Is Related to Service Member's Birthplace.
 40874017	Pilot implementation of intermittent preventive treatment with dihydroartemisinin-piperaquine to prevent adverse birth outcomes in Papua, Indonesia: a mixed-method evaluation.
 40873004	Prevalence of the Main Human Genetic Variants Related to Resistance to Malaria in a Population of the Colombian Pacific Coast.
-40872863	Year-Long Antibody Response to the EuCorVac-19 SARS-CoV-2 Vaccine in Healthy Filipinos.
-40872329	Paid Organ Donation: Case Report and Review of the Literature on Health Implications for Kidney Donors and Recipients.
-40872278	Acute Rickettsiosis Triggering Plasmodium vivax Relapse in a Returned Traveler: A Case Report and Clinical Review of Travel-Related Coinfections.
-40872266	Molecular Surveillance of Plasmodium spp. Infection in Neotropical Primates from Bahia and Minas Gerais, Brazil.
-40871363	Pharmacologic Inhibition of Erythrocyte Ferroportin Expression Exacerbates Plasmodium Infection.
-40871066	Harnessing Phytonanotechnology to Tackle Neglected Parasitic Diseases: Focus on Chagas Disease and Malaria.
-40869828	Health Inequalities in Primary Care: A Comparative Analysis of Climate Change-Induced Expansion of Waterborne and Vector-Borne Diseases in the SADC Region.
-40869002	Application of Multiplatform Mass Spectrometry to the Study of Babesia divergens Metabolism and the Pathogenesis of Human Babesiosis.
-40868984	Angiotensin-Converting Enzyme Inhibition and/or Angiotensin Receptor Blockade Modulate Cytokine Profiles and Improve Clinical Outcomes in Experimental COVID-19 Infection.
-40868848	Severe Malaria Due to Plasmodium falciparum in an Immunocompetent Young Adult: Rapid Progression to Multiorgan Failure.
-40868031	Ivermectin Identified Using a High-Throughput Screening System Exhibits Anti-Clonorchis sinensis Activity in Rats.
-40867741	Molecular Screening of Plasmodium spp. in Free-Living Ring-Tailed Coatis (Nasua nasua) and Nine-Banded Armadillos (Dasypus novemcinctus) in the Peruvian Amazon.
 40867063	Imported Malaria and Congenital Acquisition in Infant, Portugal, 2024.
 40867043	Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024 (Response).
 40867042	Nosocomial Transmission of Plasmodium falciparum Malaria, Spain, 2024.
@@ -70,11 +76,7 @@
 40853961	Effects of recombination on multi-drug resistance evolution in Plasmodium falciparum malaria.
 40853945	Making MALDI-TOF MS for entomological parameters accessible: A practical guide for in-house library creation.
 40853332	Harnessing the Potential of mRNA Vaccines Against Infectious Diseases.
-40866995	Structural features of outdoor latrines influence the abundance of Anopheles gambiae s.l. and Culex quinquefasciatus in a village in Kisumu County, western Kenya.
-40866892	Factors associated with HIV infection among adolescents and young people in Mozambique: sub-analysis of immunization, malaria and HIV/AIDS indicator survey in Mozambique-IMASIDA 2015.
-40866335	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos reducing their lifespan and malaria burden.
 40865112	Costs and impact of the Malaria Eradication Campaign in Colombia, 1957-1969.
-40864340	As the planet warms, women pay the price: the climate change and reproductive health crisis.
 40862206	Atypical Presentation of Blastocystis-Related Dysentery in an HIV-Infected Patient.
 40861575	Emergent Cesarean Section Due to Malaria: A Perioperative Challenge.
 40861480	Hybrid Capsule Network for precise and interpretable detection of malaria parasites in blood smear images.
@@ -89,7 +91,6 @@
 40855152	The impacts of indoor residual spraying with bendiocarb and pirimiphos-methyl on allelic frequencies of kdr and ace-1 mutations in central Senegal.
 40856908	Cardimyxobolus iriomotensis n. sp. (Cnidaria: Myxosporea: Ortholineidae) parasitic in gill filaments of Rhinogobius species (Gobiiformes: Gobiidae) in Japan.
 40855944	Voltage Switching on a Dual Nano-Electrospray/Atmospheric Pressure Chemical Ionization Platform Provides Higher Discrimination Power for Malaria Detection via Direct Infusion Mass Spectrometry.
-40855856	Identification of long noncoding RNAs (lncRNAs) and co-transcriptional analysis of mRNAs and lncRNAs in transcriptomes of Anopheles gambiae.
 40855809	Salvage Structures, Known as Iron Chelating Agents, Acquired from the Nature and Matured in the Labs.
 40854510	Larvicidal mechanism of the rare sesquiterpene ishwarol B from Piper alatipetiolatum (Piperaceae) against Aedes aegypti, Anopheles darlingi, and Culex quinquefasciatus (Culicidae): oxidative damage, defense enzyme modulation, and acetylcholinesterase inhibition.
 40854418	A low-cost house eave screening technique complements insecticide-treated nets in reducing indoor human exposure to the bites of anopheles mosquitoes in a malaria endemic area of south forested Cameroon: results from a pilot study.
@@ -9996,4 +9997,3 @@
 37418497	Repurposing the Medicines for Malaria Venture's COVID Box to discover potent inhibitors of Toxoplasma gondii, and in vivo efficacy evaluation of almitrine bismesylate (MMV1804175) in chronically infected mice.
 37418335	Malaria among members of the U.S. Armed Forces, 2013-2022.
 37417368	Relative expression of key genes involved in nucleic acids methylation in Anopheles gambiae sensu stricto.
-37417315	Vaccination during pregnancy: A golden opportunity to embrace.
