@@ -1,3 +1,9 @@
+40883829	Predicting current habitat suitability for intermediate snail hosts of urogenital and intestinal schistosomiasis in the Lower Shire Valley floodplain of southern Malawi.
+40883796	Survey on the disease spectrum of Chinese patients at the outpatient clinic of the 30th Chinese medical aid team in Guinea.
+40883793	Genetic polymorphism of circumsporozoite protein of Plasmodium falciparum isolates in children in Brazzaville, Republic of Congo.
+40882884	ETIOLOGIES OF ACUTE FEBRILE ILLNESS AMONG HOSPITALIZED PATIENTS: A RETROSPECTIVE HOSPITAL-BASED STUDY IN MOGADISHU, SOMALIA.
+40882861	First detection of Nyssorhynchus rondoniensis (Diptera: Culicidae) in southern Venezuela and its infection with Plasmodium falciparum.
+40882647	Estimated unit costs of anaemia interventions for women of reproductive age in 193 UN member states: a costing study.
 40882319	A novel intron variant is associated with emerging pfdhps mutant haplotypes in West and Central African Plasmodium falciparum.
 40882194	Developing a Health Education Program for the Prevention and Control of Infectious Diseases Culturally Adapted to Ethnic and Rural Communities: Co-Design Study Using Participatory Audiovisual Methods.
 40882151	Can India-Africa Synergies Accelerate Malaria Elimination? A Perspective on South-South Collaboration.
@@ -9991,9 +9997,3 @@
 37417171	Impact of COVID-19 lockdown during 2020 on the occurrence of vector-borne diseases in India.
 37417170	Design and validation of multiplex polymerase chain reaction as a diagnostic tool for Plasmodium species.
 37417168	Studies on the breeding potential and entomological indices of dengue vector Aedes aegypti and Aedes albopictus in the district Ghaziabad of Uttar Pradesh, India.
-37417164	Malaria vector sibling species distribution in different endemic districts of Punjab, India.
-37417163	Assessment of knowledge about malaria and LLIN ownership and its use in Bankura, West Bengal, India.
-37417162	Particulate and non-particle adjuvants in Leishmaniasis vaccine designs: A review.
-37417034	The paucity of pediatric emergency medicine fellowship training programs in Africa.
-37416864	What are the challenges and the possible solutions to fight Malaria in the Democratic Republic of Congo?
-37415760	Clinical characteristics of malaria in COVID-19: A systematic review of case reports.
