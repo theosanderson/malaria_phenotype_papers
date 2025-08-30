@@ -16,15 +16,15 @@
 40879382	A catalog of proteins released from Asaia bogorensis under two growth conditions.
 40879170	Label-Free HPLC Method to Evaluate Neuraminidase Activity in Biological Fluids Containing the Newcastle Disease Virus.
 40878474	Assessment of adherence to the National Malaria Guidelines in treatment management of malaria among children under five in integrated community case management in the DRC.
-40877931	Access versus utilization: determinants of insecticide-treated net non-use in Myanmar.
 40877866	Do women attending antenatal clinics who use only intermittent preventive treatment (IPTp) have higher Plasmodium falciparum prevalence compared to those who used both IPTp and slept under insecticide-treated nets?
 40877864	Assessing the external validity of mobile phone surveys for monitoring ITN coverage indicators: a comparison with household surveys in Tanzania.
-40877450	A longitudinal study examining determinants of essential health services during the COVID-19 pandemic in regional referral hospitals across Uganda.
-40877256	Epigenetically conferred ring-stage survival in Plasmodium falciparum against artemisinin treatment.
 40876593	A comparative analysis reveals electrogenic properties of PfCRT and pendrin.
 40876371	Synthesis, characterization, inhibition of β-hematin formation, lipophilicity, and antimalarial activity of metal-amodiaquine complexes.
 40876356	In vitro screening of the open-access Pandemic Response Box reveals ESI-09 as a compound with activity against Echinococcus multilocularis.
 40864121	Polyparasitic Infections: Associated Factors and Effect on the Haemoglobin Level of Children Living in Lambaréné Remote and Surrounding Rural Areas from Gabon-A Cross-Sectional Study.
+40877931	Access versus utilization: determinants of insecticide-treated net non-use in Myanmar.
+40877450	A longitudinal study examining determinants of essential health services during the COVID-19 pandemic in regional referral hospitals across Uganda.
+40877256	Epigenetically conferred ring-stage survival in Plasmodium falciparum against artemisinin treatment.
 40875901	Carbon Metabolism of Intracellular Parasitic Protists.
 40875642	Incidence, risk factors and outcomes of preterm live births in a tertiary health facility in Ghana.
 40874193	Trajectory of Plasmodium falciparum Molecular Markers of Amodiaquine Resistance in São Tomé and Príncipe.
@@ -49,7 +49,6 @@
 40867035	Diagnosis and Management of Imported Malaria in the Emergency Department.
 40867024	Theileria luwenshuni and Novel Babesia spp. Infections in Humans, Yunnan Province, China.
 40867022	CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela.
-40866892	Factors associated with HIV infection among adolescents and young people in Mozambique: sub-analysis of immunization, malaria and HIV/AIDS indicator survey in Mozambique-IMASIDA 2015.
 40866281	Volatile pyrethroid spatial repellents for preventing mosquito bites: a systematic review and meta-analysis.
 40865892	Plasmodium vivax microgametes in a Colombian malaria case: A diagnostic challenge.
 40865781	Captopril reduces liver cytotoxicity in a murine model of Plasmodium chabaudi infection.
@@ -68,6 +67,7 @@
 40853945	Making MALDI-TOF MS for entomological parameters accessible: A practical guide for in-house library creation.
 40853332	Harnessing the Potential of mRNA Vaccines Against Infectious Diseases.
 40866995	Structural features of outdoor latrines influence the abundance of Anopheles gambiae s.l. and Culex quinquefasciatus in a village in Kisumu County, western Kenya.
+40866892	Factors associated with HIV infection among adolescents and young people in Mozambique: sub-analysis of immunization, malaria and HIV/AIDS indicator survey in Mozambique-IMASIDA 2015.
 40866335	Dietary L-3,4-dihydroxyphenylalanine (L-DOPA) augments cuticular melanization in Anopheles mosquitos reducing their lifespan and malaria burden.
 40865112	Costs and impact of the Malaria Eradication Campaign in Colombia, 1957-1969.
 40864340	As the planet warms, women pay the price: the climate change and reproductive health crisis.
