@@ -1,3 +1,7 @@
+40884133	Imported and non-travel related cases of malaria in Europe - a ten-year analytic retrospective review.
+40884048	Sialyl-T Antigen: A Novel Red Blood Cell Determinant for Plasmodium falciparum Invasion.
+40883900	Development and validation of dot-ELISA on modified cellulose filter paper: a simplified novel approach.
+40883881	Implementing TB preventive therapy: lessons from a large-scale initiative in India.
 40883829	Predicting current habitat suitability for intermediate snail hosts of urogenital and intestinal schistosomiasis in the Lower Shire Valley floodplain of southern Malawi.
 40883796	Survey on the disease spectrum of Chinese patients at the outpatient clinic of the 30th Chinese medical aid team in Guinea.
 40883793	Genetic polymorphism of circumsporozoite protein of Plasmodium falciparum isolates in children in Brazzaville, Republic of Congo.
@@ -9993,7 +9997,3 @@
 37418335	Malaria among members of the U.S. Armed Forces, 2013-2022.
 37417368	Relative expression of key genes involved in nucleic acids methylation in Anopheles gambiae sensu stricto.
 37417315	Vaccination during pregnancy: A golden opportunity to embrace.
-37417172	Early virus clearance of SARS-CoV-2 among co-infection with malaria.
-37417171	Impact of COVID-19 lockdown during 2020 on the occurrence of vector-borne diseases in India.
-37417170	Design and validation of multiplex polymerase chain reaction as a diagnostic tool for Plasmodium species.
-37417168	Studies on the breeding potential and entomological indices of dengue vector Aedes aegypti and Aedes albopictus in the district Ghaziabad of Uttar Pradesh, India.
