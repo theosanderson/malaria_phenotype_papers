@@ -1,3 +1,10 @@
+40882319	A novel intron variant is associated with emerging pfdhps mutant haplotypes in West and Central African Plasmodium falciparum.
+40882194	Developing a Health Education Program for the Prevention and Control of Infectious Diseases Culturally Adapted to Ethnic and Rural Communities: Co-Design Study Using Participatory Audiovisual Methods.
+40882151	Can India-Africa Synergies Accelerate Malaria Elimination? A Perspective on South-South Collaboration.
+40881730	In vitro evaluation of cytotoxicity and release kinetics of green-synthesised Azadirachta indica silver nanoparticles.
+40881307	Benzo-ring modification on Malaria Box hit MMV008138: effects on antimalarial potency and microsomal stability.
+40880933	Determinants of anemia among children under five in Eastern Uganda: a community-based cross-sectional study.
+40880889	Challenges to Malaria Elimination in Ethiopia by 2030: A Review.
 40879808	Safety and efficacy of an intramuscular bivalent vaccine against influenza and Streptococcus pneumoniae infections in mice.
 40879690	Stability of Difference Equations with Interspecific Density Dependence, Competition, and Maturation Delays.
 40879382	A catalog of proteins released from Asaia bogorensis under two growth conditions.
@@ -115,7 +122,6 @@
 40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
-40841475	David Nabarro obituary: global-health leader who fought malnutrition, malaria, Ebola and COVID-19.
 40840760	Proteomic Insight into the Ontogeny of Blood-Meal Digestion in the tick Ixodes ricinus.
 40840727	The role and mechanism of Artemisia annua L. in cancer treatment.
 40840698	Metatranscriptomic profiling of the bacterial and fungal microbiota of field-collected Anopheles darlingi from Colombia: Community composition and functional insights.
@@ -9991,9 +9997,3 @@
 37417034	The paucity of pediatric emergency medicine fellowship training programs in Africa.
 37416864	What are the challenges and the possible solutions to fight Malaria in the Democratic Republic of Congo?
 37415760	Clinical characteristics of malaria in COVID-19: A systematic review of case reports.
-37415756	Prevalence of malaria: A 7-year trend analysis from a tertiary care center, Puducherry.
-37415751	Prevalence of histidine-rich protein 2 deletion among the Plasmodium falciparum isolates from Kolkata.
-37415677	Magnitude and factors influencing pastoralist women's maternity waiting home utilization in Teltelle district, Ethiopia: A cross-sectional study.
-37415348	Malaria diagnosis using a combined system of a simple and fast extraction method with a lyophilised Dual-LAMP assay in a non-endemic setting.
-37415281	Genetic variants causing G6PD deficiency: Clinical and biochemical data support new WHO classification.
-37415250	Development of microsatellite markers for the invasive mosquito Aedes koreicus.
