@@ -1,3 +1,8 @@
+40886013	Drug-drug interaction between dolutegravir and artemether-lumefantrine in HIV and malaria mono- and co-infections: a pharmacogenetic analysis from Ghana.
+40885647	Tissue-dependent protection mechanisms of antibodies targeting Plasmodium sporozoites.
+40885572	Using big picture trends for global health.
+40885517	Mapping Plasmodium falciparum mutations in Africa: A critical review of emerging drug resistance and implications for malaria control.
+40885344	New approach methodologies for assessing developmental toxicity of pharmaceuticals: Case Examples and Future Directions.
 40884835	Covalent Irreversible Inhibitors of Tetracycline Destructases.
 40884464	Vaccine adjuvants as stand-alone immunoprophylaxis in strategies for 100-day rapid responses to future pandemics.
 40884133	Imported and non-travel related cases of malaria in Europe - a ten-year analytic retrospective review.
@@ -67,7 +72,6 @@
 40865529	Human monoclonal antibodies targeting A35 protect from death caused by mpox.
 40859351	Understanding the traits underlying vaccine-driven virulence evolution in malaria parasites.
 40859255	TLR9/NF-κB-mediated dendritic cell activation by neutrophil extracellular traps drives pathogenesis in experimental cerebral malaria.
-40858567	Multiplex bead assays enable integrated serological surveillance and reveal cross-pathogen vulnerabilities in Zambezia Province, Mozambique.
 40857622	A "Pandemic-Proof" Methodology for Outbreak Detection Adapted From COVID-19's Impact on Notifications of Infectious Diseases in the Netherlands: Surveillance Study.
 40856888	Yemen's Malaria Crisis and its Implications for the GCC (Gulf Cooperation Council) Countries.
 40855528	Potential of microRNAs as diagnostic markers for distinguishing malaria severity in samples from an Indian cohort.
@@ -90,6 +94,7 @@
 40858177	Congenital malaria in Nigeria: A systematic review and meta-analysis.
 40858122	Analysis of Confirmed Leptospirosis Cases in Hawai'i Identifies Spatial and Environmental Patterns of Incidence.
 40855152	The impacts of indoor residual spraying with bendiocarb and pirimiphos-methyl on allelic frequencies of kdr and ace-1 mutations in central Senegal.
+40858567	Multiplex bead assays enable integrated serological surveillance and reveal cross-pathogen vulnerabilities in Zambezia Province, Mozambique.
 40856908	Cardimyxobolus iriomotensis n. sp. (Cnidaria: Myxosporea: Ortholineidae) parasitic in gill filaments of Rhinogobius species (Gobiiformes: Gobiidae) in Japan.
 40855944	Voltage Switching on a Dual Nano-Electrospray/Atmospheric Pressure Chemical Ionization Platform Provides Higher Discrimination Power for Malaria Detection via Direct Infusion Mass Spectrometry.
 40855809	Salvage Structures, Known as Iron Chelating Agents, Acquired from the Nature and Matured in the Labs.
@@ -9992,8 +9997,3 @@
 37421981	AaWRKY6 contributes to artemisinin accumulation during growth in Artemisia annua.
 37420265	Temporal and spatial analysis of Plasmodium falciparum genomics reveals patterns of parasite connectivity in a low-transmission district in Southern Province, Zambia.
 37420214	An optimized GATK4 pipeline for Plasmodium falciparum whole genome sequencing variant calling and analysis.
-37420038	Nanoliposomes containing three essential oils from the Artemisia genus as effective larvicides against Aedes aegypti and Anopheles stephensi.
-37419642	Efficacy of antimalarial herbal medicines used by communities in malaria affected regions globally: a protocol for systematic review and evidence and gap map.
-37419638	Protocol for a cluster randomised placebo-controlled trial of adjunctive ivermectin mass drug administration for malaria control on the Bijagós Archipelago of Guinea-Bissau: the MATAMAL trial.
-37418497	Repurposing the Medicines for Malaria Venture's COVID Box to discover potent inhibitors of Toxoplasma gondii, and in vivo efficacy evaluation of almitrine bismesylate (MMV1804175) in chronically infected mice.
-37418335	Malaria among members of the U.S. Armed Forces, 2013-2022.
