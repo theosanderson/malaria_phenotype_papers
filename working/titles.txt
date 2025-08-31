@@ -1,3 +1,4 @@
+40884835	Covalent Irreversible Inhibitors of Tetracycline Destructases.
 40884464	Vaccine adjuvants as stand-alone immunoprophylaxis in strategies for 100-day rapid responses to future pandemics.
 40884133	Imported and non-travel related cases of malaria in Europe - a ten-year analytic retrospective review.
 40884048	Sialyl-T Antigen: A Novel Red Blood Cell Determinant for Plasmodium falciparum Invasion.
@@ -9996,4 +9997,3 @@
 37419638	Protocol for a cluster randomised placebo-controlled trial of adjunctive ivermectin mass drug administration for malaria control on the Bijagós Archipelago of Guinea-Bissau: the MATAMAL trial.
 37418497	Repurposing the Medicines for Malaria Venture's COVID Box to discover potent inhibitors of Toxoplasma gondii, and in vivo efficacy evaluation of almitrine bismesylate (MMV1804175) in chronically infected mice.
 37418335	Malaria among members of the U.S. Armed Forces, 2013-2022.
-37417368	Relative expression of key genes involved in nucleic acids methylation in Anopheles gambiae sensu stricto.
