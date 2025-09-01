@@ -1,3 +1,5 @@
+40888793	Correction to: Electroencephalogram Features Distinguish Cases of Cerebral Malaria Among Malawian Children With Fever and Coma.
+40888461	Generalist Malaria Parasites and Host Imprinting: Unveiling Transcriptional Memory.
 40888016	Genetic diversity and phylogeographic structure of Anopheles kochi, Anopheles maculatus, and Anopheles vagus: ITS2-based analysis of highland transboundary populations in the Menoreh Hills, Java, Indonesia.
 40888006	Country-Level Canine Leishmaniosis Risk: A Literature Review, 2019-2023.
 40887648	Congenital malaria in a neonate born in a malaria-endemic area: a case report.
@@ -5,6 +7,7 @@
 40886013	Drug-drug interaction between dolutegravir and artemether-lumefantrine in HIV and malaria mono- and co-infections: a pharmacogenetic analysis from Ghana.
 40885517	Mapping Plasmodium falciparum mutations in Africa: A critical review of emerging drug resistance and implications for malaria control.
 40885344	New approach methodologies for assessing developmental toxicity of pharmaceuticals: Case Examples and Future Directions.
+40883829	Predicting current habitat suitability for intermediate snail hosts of urogenital and intestinal schistosomiasis in the Lower Shire Valley floodplain of southern Malawi.
 40879690	Stability of Difference Equations with Interspecific Density Dependence, Competition, and Maturation Delays.
 40885647	Tissue-dependent protection mechanisms of antibodies targeting Plasmodium sporozoites.
 40885572	Using big picture trends for global health.
@@ -16,7 +19,6 @@
 40882884	ETIOLOGIES OF ACUTE FEBRILE ILLNESS AMONG HOSPITALIZED PATIENTS: A RETROSPECTIVE HOSPITAL-BASED STUDY IN MOGADISHU, SOMALIA.
 40882861	First detection of Nyssorhynchus rondoniensis (Diptera: Culicidae) in southern Venezuela and its infection with Plasmodium falciparum.
 40882647	Estimated unit costs of anaemia interventions for women of reproductive age in 193 UN member states: a costing study.
-40877931	Access versus utilization: determinants of insecticide-treated net non-use in Myanmar.
 40877450	A longitudinal study examining determinants of essential health services during the COVID-19 pandemic in regional referral hospitals across Uganda.
 40877256	Epigenetically conferred ring-stage survival in Plasmodium falciparum against artemisinin treatment.
 40875642	Incidence, risk factors and outcomes of preterm live births in a tertiary health facility in Ghana.
@@ -33,7 +35,6 @@
 40868031	Ivermectin Identified Using a High-Throughput Screening System Exhibits Anti-Clonorchis sinensis Activity in Rats.
 40867741	Molecular Screening of Plasmodium spp. in Free-Living Ring-Tailed Coatis (Nasua nasua) and Nine-Banded Armadillos (Dasypus novemcinctus) in the Peruvian Amazon.
 40866892	Factors associated with HIV infection among adolescents and young people in Mozambique: sub-analysis of immunization, malaria and HIV/AIDS indicator survey in Mozambique-IMASIDA 2015.
-40883829	Predicting current habitat suitability for intermediate snail hosts of urogenital and intestinal schistosomiasis in the Lower Shire Valley floodplain of southern Malawi.
 40883796	Survey on the disease spectrum of Chinese patients at the outpatient clinic of the 30th Chinese medical aid team in Guinea.
 40883793	Genetic polymorphism of circumsporozoite protein of Plasmodium falciparum isolates in children in Brazzaville, Republic of Congo.
 40882319	A novel intron variant is associated with emerging pfdhps mutant haplotypes in West and Central African Plasmodium falciparum.
@@ -47,8 +48,6 @@
 40879382	A catalog of proteins released from Asaia bogorensis under two growth conditions.
 40879170	Label-Free HPLC Method to Evaluate Neuraminidase Activity in Biological Fluids Containing the Newcastle Disease Virus.
 40878474	Assessment of adherence to the National Malaria Guidelines in treatment management of malaria among children under five in integrated community case management in the DRC.
-40877866	Do women attending antenatal clinics who use only intermittent preventive treatment (IPTp) have higher Plasmodium falciparum prevalence compared to those who used both IPTp and slept under insecticide-treated nets?
-40877864	Assessing the external validity of mobile phone surveys for monitoring ITN coverage indicators: a comparison with household surveys in Tanzania.
 40876593	A comparative analysis reveals electrogenic properties of PfCRT and pendrin.
 40876371	Synthesis, characterization, inhibition of β-hematin formation, lipophilicity, and antimalarial activity of metal-amodiaquine complexes.
 40876356	In vitro screening of the open-access Pandemic Response Box reveals ESI-09 as a compound with activity against Echinococcus multilocularis.
@@ -57,6 +56,9 @@
 40864340	As the planet warms, women pay the price: the climate change and reproductive health crisis.
 40864121	Polyparasitic Infections: Associated Factors and Effect on the Haemoglobin Level of Children Living in Lambaréné Remote and Surrounding Rural Areas from Gabon-A Cross-Sectional Study.
 40855856	Identification of long noncoding RNAs (lncRNAs) and co-transcriptional analysis of mRNAs and lncRNAs in transcriptomes of Anopheles gambiae.
+40877931	Access versus utilization: determinants of insecticide-treated net non-use in Myanmar.
+40877866	Do women attending antenatal clinics who use only intermittent preventive treatment (IPTp) have higher Plasmodium falciparum prevalence compared to those who used both IPTp and slept under insecticide-treated nets?
+40877864	Assessing the external validity of mobile phone surveys for monitoring ITN coverage indicators: a comparison with household surveys in Tanzania.
 40875901	Carbon Metabolism of Intracellular Parasitic Protists.
 40874193	Trajectory of Plasmodium falciparum Molecular Markers of Amodiaquine Resistance in São Tomé and Príncipe.
 40874185	Malaria Incidence in US Military Families Is Related to Service Member's Birthplace.
@@ -9995,5 +9997,3 @@
 37424116	Effects of exogenous indole-3-acetic acid on the density of trichomes, expression of artemisinin biosynthetic genes, and artemisinin biosynthesis in Artemisia annua.
 37423162	Atypical network topologies enhance the reductive capacity of pathogen thiol antioxidant defense networks.
 37422504	Geo-epidemiology of malaria incidence in the Vhembe District to guide targeted elimination strategies, South-Africa, 2015-2018: a local resurgence.
-37422502	Estimating vaccine coverage in conflict settings using geospatial methods: a case study in Borno state, Nigeria.
-37422086	Locally acquired malaria: An impending crisis for the United States blood supply?
