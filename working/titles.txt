@@ -1,3 +1,6 @@
+40892845	Antimalarial and neuroprotective effects of ethanolic extracts of the five-flower remedy in an experimental cerebral malaria model.
+40892844	A divergent cyclic nucleotide binding protein promotes Plasmodium ookinete infection of the mosquito.
+40891855	Malaria in the department of Meta, eastern Colombia: 2017-2021.
 40891443	Deciphering the molecular targets of Plasmodium and Anopheline interactions for malaria control.
 40890849	Molecular containment of iron source inhibits larval survival of Schistosoma mansoni and egg-laying behavior of the female adult worms via ovarian atrophy.
 40890777	Patterns of patent and sub-patent Plasmodium falciparum infections in household members of children under seasonal malaria chemoprevention coverage in the health district of Nanoro, Burkina Faso.
@@ -10,13 +13,17 @@
 40888461	Generalist Malaria Parasites and Host Imprinting: Unveiling Transcriptional Memory.
 40888016	Genetic diversity and phylogeographic structure of Anopheles kochi, Anopheles maculatus, and Anopheles vagus: ITS2-based analysis of highland transboundary populations in the Menoreh Hills, Java, Indonesia.
 40888006	Country-Level Canine Leishmaniosis Risk: A Literature Review, 2019-2023.
-40887104	Seroprevalence of transfusion-transmitted infections among blood donors in India: A systematic review and meta-analysis.
 40887648	Congenital malaria in a neonate born in a malaria-endemic area: a case report.
+40887104	Seroprevalence of transfusion-transmitted infections among blood donors in India: A systematic review and meta-analysis.
+40886013	Drug-drug interaction between dolutegravir and artemether-lumefantrine in HIV and malaria mono- and co-infections: a pharmacogenetic analysis from Ghana.
+40883796	Survey on the disease spectrum of Chinese patients at the outpatient clinic of the 30th Chinese medical aid team in Guinea.
+40883793	Genetic polymorphism of circumsporozoite protein of Plasmodium falciparum isolates in children in Brazzaville, Republic of Congo.
 40885517	Mapping Plasmodium falciparum mutations in Africa: A critical review of emerging drug resistance and implications for malaria control.
 40885344	New approach methodologies for assessing developmental toxicity of pharmaceuticals: Case Examples and Future Directions.
 40883829	Predicting current habitat suitability for intermediate snail hosts of urogenital and intestinal schistosomiasis in the Lower Shire Valley floodplain of southern Malawi.
+40880933	Determinants of anemia among children under five in Eastern Uganda: a community-based cross-sectional study.
+40880889	Challenges to Malaria Elimination in Ethiopia by 2030: A Review.
 40879690	Stability of Difference Equations with Interspecific Density Dependence, Competition, and Maturation Delays.
-40886013	Drug-drug interaction between dolutegravir and artemether-lumefantrine in HIV and malaria mono- and co-infections: a pharmacogenetic analysis from Ghana.
 40885647	Tissue-dependent protection mechanisms of antibodies targeting Plasmodium sporozoites.
 40885572	Using big picture trends for global health.
 40884835	Covalent Irreversible Inhibitors of Tetracycline Destructases.
@@ -43,15 +50,11 @@
 40868031	Ivermectin Identified Using a High-Throughput Screening System Exhibits Anti-Clonorchis sinensis Activity in Rats.
 40867741	Molecular Screening of Plasmodium spp. in Free-Living Ring-Tailed Coatis (Nasua nasua) and Nine-Banded Armadillos (Dasypus novemcinctus) in the Peruvian Amazon.
 40866892	Factors associated with HIV infection among adolescents and young people in Mozambique: sub-analysis of immunization, malaria and HIV/AIDS indicator survey in Mozambique-IMASIDA 2015.
-40883796	Survey on the disease spectrum of Chinese patients at the outpatient clinic of the 30th Chinese medical aid team in Guinea.
-40883793	Genetic polymorphism of circumsporozoite protein of Plasmodium falciparum isolates in children in Brazzaville, Republic of Congo.
 40882319	A novel intron variant is associated with emerging pfdhps mutant haplotypes in West and Central African Plasmodium falciparum.
 40882194	Developing a Health Education Program for the Prevention and Control of Infectious Diseases Culturally Adapted to Ethnic and Rural Communities: Co-Design Study Using Participatory Audiovisual Methods.
 40882151	Can India-Africa Synergies Accelerate Malaria Elimination? A Perspective on South-South Collaboration.
 40881730	In vitro evaluation of cytotoxicity and release kinetics of green-synthesised Azadirachta indica silver nanoparticles.
 40881307	Benzo-ring modification on Malaria Box hit MMV008138: effects on antimalarial potency and microsomal stability.
-40880933	Determinants of anemia among children under five in Eastern Uganda: a community-based cross-sectional study.
-40880889	Challenges to Malaria Elimination in Ethiopia by 2030: A Review.
 40879808	Safety and efficacy of an intramuscular bivalent vaccine against influenza and Streptococcus pneumoniae infections in mice.
 40879382	A catalog of proteins released from Asaia bogorensis under two growth conditions.
 40879170	Label-Free HPLC Method to Evaluate Neuraminidase Activity in Biological Fluids Containing the Newcastle Disease Virus.
@@ -9994,6 +9997,3 @@
 37428720	Diagnostic performance of PfHRP2/pLDH malaria rapid diagnostic tests in elimination setting, northwest Ethiopia.
 37428074	The Plasmodium Lactate/H(+) Transporter PfFNT Is Essential and Druggable In Vivo.
 37427863	Antimalarial Agents Derived from Metal-Amodiaquine Complexes with Activity in Multiple Stages of the Plasmodium Life Cycle.
-37427562	A proposed method of grading malaria chemoprevention efficacy.
-37426806	Antiprotozoal activity of natural products from Nigerien plants used in folk medicine.
-37426306	Status of the Multidrug Resistance-1 Gene of Plasmodium falciparum in Four Malaria Epidemiological Strata, Two Decades after the Abolition of Chloroquine as First-Line Treatment for Uncomplicated Malaria in Cameroon.
