@@ -1,14 +1,15 @@
+40889466	Cloning, expression and purification of AsSGU protein and its immunogenic response analysis as target candidate for transmission blocking vaccine against malaria.
 40888793	Correction to: Electroencephalogram Features Distinguish Cases of Cerebral Malaria Among Malawian Children With Fever and Coma.
 40888461	Generalist Malaria Parasites and Host Imprinting: Unveiling Transcriptional Memory.
 40888016	Genetic diversity and phylogeographic structure of Anopheles kochi, Anopheles maculatus, and Anopheles vagus: ITS2-based analysis of highland transboundary populations in the Menoreh Hills, Java, Indonesia.
 40888006	Country-Level Canine Leishmaniosis Risk: A Literature Review, 2019-2023.
-40887648	Congenital malaria in a neonate born in a malaria-endemic area: a case report.
 40887104	Seroprevalence of transfusion-transmitted infections among blood donors in India: A systematic review and meta-analysis.
-40886013	Drug-drug interaction between dolutegravir and artemether-lumefantrine in HIV and malaria mono- and co-infections: a pharmacogenetic analysis from Ghana.
+40887648	Congenital malaria in a neonate born in a malaria-endemic area: a case report.
 40885517	Mapping Plasmodium falciparum mutations in Africa: A critical review of emerging drug resistance and implications for malaria control.
 40885344	New approach methodologies for assessing developmental toxicity of pharmaceuticals: Case Examples and Future Directions.
 40883829	Predicting current habitat suitability for intermediate snail hosts of urogenital and intestinal schistosomiasis in the Lower Shire Valley floodplain of southern Malawi.
 40879690	Stability of Difference Equations with Interspecific Density Dependence, Competition, and Maturation Delays.
+40886013	Drug-drug interaction between dolutegravir and artemether-lumefantrine in HIV and malaria mono- and co-infections: a pharmacogenetic analysis from Ghana.
 40885647	Tissue-dependent protection mechanisms of antibodies targeting Plasmodium sporozoites.
 40885572	Using big picture trends for global health.
 40884835	Covalent Irreversible Inhibitors of Tetracycline Destructases.
@@ -9996,4 +9997,3 @@
 37424150	Search for novel Plasmodium falciparum PfATP4 inhibitors from the MMV Pandemic Response Box through a virtual screening approach.
 37424116	Effects of exogenous indole-3-acetic acid on the density of trichomes, expression of artemisinin biosynthetic genes, and artemisinin biosynthesis in Artemisia annua.
 37423162	Atypical network topologies enhance the reductive capacity of pathogen thiol antioxidant defense networks.
-37422504	Geo-epidemiology of malaria incidence in the Vhembe District to guide targeted elimination strategies, South-Africa, 2015-2018: a local resurgence.
