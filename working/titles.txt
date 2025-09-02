@@ -1,3 +1,8 @@
+40890777	Patterns of patent and sub-patent Plasmodium falciparum infections in household members of children under seasonal malaria chemoprevention coverage in the health district of Nanoro, Burkina Faso.
+40890766	Shrinking the malaria map in Indonesia: progress of subnational control, elimination, and future strategies.
+40890748	Malaria care-seeking behaviours and infection prevalence among short-term Myanmar migrants in Thailand.
+40890743	Contributions of health education and social mobilization in the implementation of a malaria control programme using long-lasting insecticidal nets.
+40890570	DeepSEA: an alignment-free explainable approach to annotate antimicrobial resistance proteins.
 40889466	Cloning, expression and purification of AsSGU protein and its immunogenic response analysis as target candidate for transmission blocking vaccine against malaria.
 40888793	Correction to: Electroencephalogram Features Distinguish Cases of Cerebral Malaria Among Malawian Children With Fever and Coma.
 40888461	Generalist Malaria Parasites and Host Imprinting: Unveiling Transcriptional Memory.
@@ -9992,8 +9997,3 @@
 37426306	Status of the Multidrug Resistance-1 Gene of Plasmodium falciparum in Four Malaria Epidemiological Strata, Two Decades after the Abolition of Chloroquine as First-Line Treatment for Uncomplicated Malaria in Cameroon.
 37425547	Plasmodium vivax Presenting With Septic Shock and Disseminated Intravascular Coagulation (DIC): A Case Report.
 37424773	A chromosomal reference genome sequence for the malaria mosquito, Anopheles gambiae, Giles, 1902, Ifakara strain.
-37424519	Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.
-37424286	Real-time imaging of nanobubble ultrasound contrast agent flow, extravasation, and diffusion through an extracellular matrix using a microfluidic model.
-37424150	Search for novel Plasmodium falciparum PfATP4 inhibitors from the MMV Pandemic Response Box through a virtual screening approach.
-37424116	Effects of exogenous indole-3-acetic acid on the density of trichomes, expression of artemisinin biosynthetic genes, and artemisinin biosynthesis in Artemisia annua.
-37423162	Atypical network topologies enhance the reductive capacity of pathogen thiol antioxidant defense networks.
