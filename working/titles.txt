@@ -1,3 +1,5 @@
+40900633	Efficacy of a Multimodal Ayurveda Regimen in the Management of Primary Knee Osteoarthritis: Protocol for an Open-Label Randomized Controlled Trial.
+40900278	Designing a multi-epitope vaccine against the midgut-specific fibrinogen-related protein 1(FREP1) of Anopheles stephensi to enhance protection against the malaria parasite: a step beyond traditional vaccine development approaches.
 40899182	A meta-population model of malaria with asymptomatic cases, transmission blocking drugs, migration and screening.
 40899176	Vaccination and combined optimal control measures for malaria prevention and spread mitigation.
 40899170	Optimizing MDA and antimalarial treatment in the presence of drug resistance for effective malaria control.
@@ -9995,5 +9997,3 @@
 37439872	Towards model-informed precision dosing of piperacillin: multicenter systematic external evaluation of pharmacokinetic models in critically ill adults with a focus on Bayesian forecasting.
 37439063	Implementation and resource needs for long-acting PrEP in low- and middle-income countries: a scoping review.
 37438859	The burden of malaria in sub-Saharan Africa and its association with development assistance for health and governance: An exploration of the GBD 2019 study.
-37438774	Assessing the acceptability and feasibility of reactive drug administration for malaria elimination in a Plasmodium vivax predominant setting: a qualitative study in two provinces in Thailand.
-37438491	A versatile Plasmodium falciparum reporter line expressing NanoLuc enables highly sensitive multi-stage drug assays.
