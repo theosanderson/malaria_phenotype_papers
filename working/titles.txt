@@ -1,3 +1,8 @@
+40899182	A meta-population model of malaria with asymptomatic cases, transmission blocking drugs, migration and screening.
+40899176	Vaccination and combined optimal control measures for malaria prevention and spread mitigation.
+40899170	Optimizing MDA and antimalarial treatment in the presence of drug resistance for effective malaria control.
+40898656	Wolbachia Infection in Iranian Malaria Vectors: Prevalence and Biocontrol Implications.
+40898584	Sex Dependent and Sjögren Disease Like Immune Responses Against Phosphoantigens in Balb/C Mice.
 40898228	Anopheles species associated with malaria transmission in gold-mining areas of northwest Colombia.
 40898208	MALDI-TOF MS for identification of Afro-tropical secondary malaria vectors.
 40898135	Strengthening country ownership of national antimalarial policymaking: insights from Laos, Pakistan and the Solomon Islands.
@@ -9992,8 +9997,3 @@
 37438859	The burden of malaria in sub-Saharan Africa and its association with development assistance for health and governance: An exploration of the GBD 2019 study.
 37438774	Assessing the acceptability and feasibility of reactive drug administration for malaria elimination in a Plasmodium vivax predominant setting: a qualitative study in two provinces in Thailand.
 37438491	A versatile Plasmodium falciparum reporter line expressing NanoLuc enables highly sensitive multi-stage drug assays.
-37438065	Evaluation framework study assessing the role, applicability and adherence to good practice of planning support tools for allocation of development aid for health in low-income and middle-income countries.
-37437853	A mosquito-specific antennal protein is critical for the attraction to human odor in the malaria vector Anopheles gambiae.
-37437014	Vaccination with Plasmodium vivax Duffy-binding protein inhibits parasite growth during controlled human malaria infection.
-37436531	Can insecticide resistance increase malaria transmission? A genetics-epidemiology mathematical modeling approach.
-37436274	Molecular diversity of genes related to biological rhythms (period and timeless) and insecticide resistance (Na V and ace-1) in Anopheles darlingi.
