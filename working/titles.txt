@@ -28,6 +28,7 @@
 40890748	Malaria care-seeking behaviours and infection prevalence among short-term Myanmar migrants in Thailand.
 40890743	Contributions of health education and social mobilization in the implementation of a malaria control programme using long-lasting insecticidal nets.
 40890570	DeepSEA: an alignment-free explainable approach to annotate antimicrobial resistance proteins.
+40890290	Environmental contaminants drive insecticide resistance in Anopheles mosquitoes in Ghana.
 40888016	Genetic diversity and phylogeographic structure of Anopheles kochi, Anopheles maculatus, and Anopheles vagus: ITS2-based analysis of highland transboundary populations in the Menoreh Hills, Java, Indonesia.
 40889466	Cloning, expression and purification of AsSGU protein and its immunogenic response analysis as target candidate for transmission blocking vaccine against malaria.
 40888793	Correction to: Electroencephalogram Features Distinguish Cases of Cerebral Malaria Among Malawian Children With Fever and Coma.
@@ -9996,4 +9997,3 @@
 37437014	Vaccination with Plasmodium vivax Duffy-binding protein inhibits parasite growth during controlled human malaria infection.
 37436531	Can insecticide resistance increase malaria transmission? A genetics-epidemiology mathematical modeling approach.
 37436274	Molecular diversity of genes related to biological rhythms (period and timeless) and insecticide resistance (Na V and ace-1) in Anopheles darlingi.
-37436219	Incidence of malaria among indigenous people associated with the presence of artisanal mining.
