@@ -1,3 +1,6 @@
+40903486	Correction: Computational identification of aspartic protease inhibitors for antimalarial drug development against Plasmodium Vivax.
+40903008	The source-sink dynamics of Plasmodium vivax may undermine malaria elimination efforts in the Amazon: an epidemiological and population genomic study.
+40902808	Targeting the intra-erythrocytic life cycle of Plasmodium falciparum unveils antimalarial drug discovery starting points from Drymaria cordata and Macaranga monandra.
 40902335	Robust evaluation of vaccine effects based on estimation of vaccine efficacy curve.
 40902112	A fatal case report of Plasmodium falciparum malaria complicated by acute subdural hematoma.
 40901843	The relationship between expelled eggs, morbidity and age in a Schistosoma mansoni endemic setting in Uganda: Implications for current elimination policies.
@@ -182,7 +185,7 @@
 40847646	Integrated vector management for malaria control: a review of approaches and effectiveness.
 40846229	Artemisinin toxicity in HepG2 liver carcinoma cells is linked to protein network in host and molecular interactions with cellular drug targets.
 40846054	Dynamic Regulation of RNA m(6)A Methylation in the Ribonucleoprotein Complexes in Apicomplexan and Kinetoplastid Parasites.
-40845953	Indigenous Plasmodium vivax Upsurge in the Eastern Mediterranean, Western Pacific, and South East Asia Regions - Beyond the Constant Culpability of Climate Change, COVID-19, and Armed Conflicts.
+40845953	Indigenous Plasmodium vivax upsurge in the Eastern Mediterranean, Western Pacific, and South East Asia regions - beyond the constant culpability of climate change, COVID-19, and armed conflicts.
 40845886	Efficacy of non-pyrethroid indoor residual spraying or intensive behaviour change communication in combination with long-lasting insecticidal nets for malaria control in west Africa: a pragmatic, cluster-randomised, controlled trial.
 40845885	Evidence-based decision making for malaria elimination applying the Freedom From Infection statistical framework in five malaria eliminating countries: an observational study.
 40845873	Can behaviour change communication improve malaria control?
@@ -9994,6 +9997,3 @@
 37446602	Structural Optimization of BIPPO Analogs as Potent Antimalarials.
 37446261	Expression, Purification, and Characterization of Plasmodium vivax Lactate Dehydrogenase from Bacteria without Codon Optimization.
 37444730	Anomaly Detection in Endemic Disease Surveillance Data Using Machine Learning Techniques.
-37444156	Knowledge about Asymptomatic Malaria and Acceptability of Using Artemisia afra Tea among Health Care Workers (HCWs) in Yaoundé, Cameroon: A Cross-Sectional Survey.
-37444150	Generalized Linear Models to Forecast Malaria Incidence in Three Endemic Regions of Senegal.
-37443329	Efficacy of partial spraying of SumiShield, Fludora Fusion and Actellic against wild populations of Anopheles gambiae s.l. in experimental huts in Tiassalé, Côte d'Ivoire.
