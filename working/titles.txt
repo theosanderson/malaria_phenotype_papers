@@ -25,6 +25,7 @@
 40898208	MALDI-TOF MS for identification of Afro-tropical secondary malaria vectors.
 40898135	Strengthening country ownership of national antimalarial policymaking: insights from Laos, Pakistan and the Solomon Islands.
 40898090	Assessing immunization coverage in Southern togo: implications for perennial malaria chemoprevention delivery.
+40898089	Challenging the notion of Aedes aegypti as the primary chikungunya virus vector: insights from Kédougou, Southeastern Senegal.
 40897705	A combined designed CSP and Pfs48/45 infection and transmission blocking vaccine for malaria.
 40896417	β-Carboline: a privileged scaffold from nature for potential antimalarial activity.
 40896267	Hematological Profiles of Adults Coinfected With HIV and Malaria Receiving Highly Active Antiretroviral Therapy at Bonga Gebretsadik Shawo General Hospital, Southwest Ethiopia: A Comparative Cross-Sectional Study.
@@ -9996,4 +9997,3 @@
 37446846	Design, Synthesis and Evaluation of Praziquantel Analogues and New Molecular Hybrids as Potential Antimalarial and Anti-Schistosomal Agents.
 37446602	Structural Optimization of BIPPO Analogs as Potent Antimalarials.
 37446261	Expression, Purification, and Characterization of Plasmodium vivax Lactate Dehydrogenase from Bacteria without Codon Optimization.
-37444730	Anomaly Detection in Endemic Disease Surveillance Data Using Machine Learning Techniques.
