@@ -1,3 +1,16 @@
+40902335	Robust evaluation of vaccine effects based on estimation of vaccine efficacy curve.
+40902112	A fatal case report of Plasmodium falciparum malaria complicated by acute subdural hematoma.
+40901843	The relationship between expelled eggs, morbidity and age in a Schistosoma mansoni endemic setting in Uganda: Implications for current elimination policies.
+40901832	Cadinapyridine sesquiterpene alkaloids from Artemisia annua and in vitro cytotoxicity and antiplasmodial activities.
+40901740	Emerging lipid nanoparticle systems capable of efficient intramuscular RNA delivery.
+40901526	Editorial: Ancient diseases and medical care: paleopathological insights, volume II.
+40901436	Antiplasmodial and immunomodulatory activities of dichloromethane extract of Stachytarpheta jamaicensis in Plasmodium berghei infected mice.
+40901435	Unravelling therapeutic potentials of Solanum anomalum fruits: antiplasmodial, hepatoprotective, and anti-oxidative stress activities, semi-purification, GC-MS, and in silico profiling.
+40901424	Bioactive profiling, larvicidal and pupicidal activities of Crateva adansonii against two developmental stages of malaria vector, Anopheles gambiae.
+40901417	Overview of the host immune response to P. falciparum malaria.
+40901410	Parasites of poultry in Nigeria from 1980 to 2022: a review.
+40901172	Cross-continental immunity: unraveling hematological markers of HIV in Africa and Russia- a perspective.
+40900904	The Prevalence of Malaria Among Pregnant Women at a Tertiary Care Hospital in Somalia: A Cross-Sectional Study.
 40900633	Efficacy of a Multimodal Ayurveda Regimen in the Management of Primary Knee Osteoarthritis: Protocol for an Open-Label Randomized Controlled Trial.
 40900278	Designing a multi-epitope vaccine against the midgut-specific fibrinogen-related protein 1(FREP1) of Anopheles stephensi to enhance protection against the malaria parasite: a step beyond traditional vaccine development approaches.
 40899182	A meta-population model of malaria with asymptomatic cases, transmission blocking drugs, migration and screening.
@@ -9984,16 +9997,3 @@
 37444156	Knowledge about Asymptomatic Malaria and Acceptability of Using Artemisia afra Tea among Health Care Workers (HCWs) in Yaoundé, Cameroon: A Cross-Sectional Survey.
 37444150	Generalized Linear Models to Forecast Malaria Incidence in Three Endemic Regions of Senegal.
 37443329	Efficacy of partial spraying of SumiShield, Fludora Fusion and Actellic against wild populations of Anopheles gambiae s.l. in experimental huts in Tiassalé, Côte d'Ivoire.
-37443274	A longitudinal transcriptomic analysis from unfed to post-engorgement midguts of adult female Ixodes scapularis.
-37443070	Analysis of the relapse of imported Plasmodium vivax and Plasmodium ovale in five provinces of China.
-40303700	Flying Syringes for Emerging Enzootic Virus Screening: Proof of Concept for the Development of Noninvasive Xenosurveillance Tools Based on Tsetse Flies.
-37441813	Artesunate alleviates intestinal ischemia/reperfusion induced acute lung injury via up-regulating AKT and HO-1 signal pathway in mice.
-37441673	The Progress Towards National Malaria Elimination: The Experience of Oman.
-37441658	Hypoglycaemia in non-diabetic pregnancy.
-37441122	Determination of knowledge, attitude, and practice of Chinese and local people toward malaria prevention in Kano State, Nigeria.
-37440995	Current and future opportunities of autodissemination of pyriproxyfen approach for malaria vector control in urban and rural Africa.
-37440491	A systematic review on maternal-to-infant transfer of drugs through breast milk during the treatment of malaria, tuberculosis, and neglected tropical diseases.
-37440412	Macrophages drive KSHV B cell latency.
-37439872	Towards model-informed precision dosing of piperacillin: multicenter systematic external evaluation of pharmacokinetic models in critically ill adults with a focus on Bayesian forecasting.
-37439063	Implementation and resource needs for long-acting PrEP in low- and middle-income countries: a scoping review.
-37438859	The burden of malaria in sub-Saharan Africa and its association with development assistance for health and governance: An exploration of the GBD 2019 study.
