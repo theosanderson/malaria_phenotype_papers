@@ -1,3 +1,5 @@
+40906856	Burkina Faso halts plan to fight malaria with transgenic mosquitoes.
+40906723	Application of Sterile Insect Technique (SIT) for Aedes albopictus (Skuse, 1895) in Sri Lanka: Dose optimization, mating competitiveness and release ratios.
 40905563	PlasmoDocking: A User-Friendly Open-Source Web Tool for Virtual Screening Targeting Plasmodium falciparum Enzymes.
 40903486	Correction: Computational identification of aspartic protease inhibitors for antimalarial drug development against Plasmodium Vivax.
 40903008	The source-sink dynamics of Plasmodium vivax may undermine malaria elimination efforts in the Amazon: an epidemiological and population genomic study.
@@ -9995,5 +9997,3 @@
 37448326	Reduced incidence of respiratory, gastrointestinal and malaria infections among children during the COVID-19 pandemic in Western Kenya: An analysis of facility-based and weekly diaries data.
 37447182	Effects of Daily Zinc Alone or in Combination with Other Nutrient Supplements on the Risk of Malaria Parasitaemia: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
 37446870	Synthesis and Characterization of Dimeric Artesunate Glycerol Monocaprylate Conjugate and Formulation of Nanoemulsion Preconcentrate.
-37446846	Design, Synthesis and Evaluation of Praziquantel Analogues and New Molecular Hybrids as Potential Antimalarial and Anti-Schistosomal Agents.
-37446602	Structural Optimization of BIPPO Analogs as Potent Antimalarials.
