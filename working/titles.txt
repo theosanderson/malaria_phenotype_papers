@@ -1,3 +1,6 @@
+40907971	Vector Control, Pest Management, Resistance, RepellentsEvaluation of fruit sjuice preferences by Aedes, Anopheles, and Culex mosquito (Diptera: Culicidae) species for the development of effective attractive toxic sugar baits.
+40907477	Efficacy of Spatial Repellents in Malaria Prevention: A Meta-Analysis of Randomized Controlled Trials.
+40907219	Investigation of a cryptic ligand binding site on Plasmodium falciparum Hsp90.
 40906856	Burkina Faso halts plan to fight malaria with transgenic mosquitoes.
 40906723	Application of Sterile Insect Technique (SIT) for Aedes albopictus (Skuse, 1895) in Sri Lanka: Dose optimization, mating competitiveness and release ratios.
 40905563	PlasmoDocking: A User-Friendly Open-Source Web Tool for Virtual Screening Targeting Plasmodium falciparum Enzymes.
@@ -9994,6 +9997,3 @@
 37450301	Evaluation and Forecasting Analysis of the Association of Conditional Cash Transfer With Child Mortality in Latin America, 2000-2030.
 37449844	Systemic host inflammation induces stage-specific transcriptomic modification and slower maturation in malaria parasites.
 37448654	Increasing incidence of Plasmodium ovale and persistent reporting of Plasmodium vivax in imported malaria cases: an analysis of 9-year surveillance data in four areas of China.
-37448326	Reduced incidence of respiratory, gastrointestinal and malaria infections among children during the COVID-19 pandemic in Western Kenya: An analysis of facility-based and weekly diaries data.
-37447182	Effects of Daily Zinc Alone or in Combination with Other Nutrient Supplements on the Risk of Malaria Parasitaemia: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
-37446870	Synthesis and Characterization of Dimeric Artesunate Glycerol Monocaprylate Conjugate and Formulation of Nanoemulsion Preconcentrate.
