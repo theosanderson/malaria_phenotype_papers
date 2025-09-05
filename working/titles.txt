@@ -1,3 +1,11 @@
+40909850	Model reduction and analysis: A case study of a malaria control model.
+40909703	Transfection of the free-living alga Chromera velia enables direct comparisons with its parasitic apicomplexan relative, Toxoplasma gondii.
+40909691	Plasmodium ARK1 regulates spindle formation during atypical mitosis and forms a divergent chromosomal passenger complex.
+40909583	Chromatin state dynamics during the Plasmodium falciparum intraerythrocytic development cycle.
+40909536	Early-evening biting by Anopheles stephensi in Southern Ethiopia: A Challenge for Bed Net Use as Vector Control in Africa.
+40909234	How can the ethical conduct of verbal autopsies be enhanced? Lessons from Southeast Asia.
+40909038	Hepatitis A-Induced Fulminant Hepatic Failure Linked to Autoimmune Hepatitis in a Child Amidst Diagnostic Challenges of Dengue and Malaria.
+40909016	Variation in Gene Expression Across Infection Status and Elevation in a Hawaiian Honeycreeper.
 40907971	Vector Control, Pest Management, Resistance, RepellentsEvaluation of fruit sjuice preferences by Aedes, Anopheles, and Culex mosquito (Diptera: Culicidae) species for the development of effective attractive toxic sugar baits.
 40907477	Efficacy of Spatial Repellents in Malaria Prevention: A Meta-Analysis of Randomized Controlled Trials.
 40907219	Investigation of a cryptic ligand binding site on Plasmodium falciparum Hsp90.
@@ -9989,11 +9997,3 @@
 37454114	pH-dependence of the Plasmodium falciparum chloroquine resistance transporter is linked to the transport cycle.
 37452392	Anopheles mosquito diversity, entomological indicators of malaria transmission and challenges of morphological identification in southwestern Ethiopia.
 37452123	Molecular detection of human Plasmodium species using a multiplex real time PCR.
-37452073	Drug resistance profiling of asymptomatic and low-density Plasmodium falciparum malaria infections on Ngodhe island, Kenya, using custom dual-indexing next-generation sequencing.
-37452051	Distinct evolution of type I glutamine synthetase in Plasmodium and its species-specific requirement.
-37451760	Avian Malaria in wild birds from a wildlife rehabilitation center in Central Portugal.
-37450497	Malaria infection and its association with socio-demographics, long lasting insecticide nets usage and hematological parameters among adolescent patients in rural Southwestern Nigeria.
-37450491	Differing taxonomic responses of mosquito vectors to anthropogenic land-use change in Latin America and the Caribbean.
-37450301	Evaluation and Forecasting Analysis of the Association of Conditional Cash Transfer With Child Mortality in Latin America, 2000-2030.
-37449844	Systemic host inflammation induces stage-specific transcriptomic modification and slower maturation in malaria parasites.
-37448654	Increasing incidence of Plasmodium ovale and persistent reporting of Plasmodium vivax in imported malaria cases: an analysis of 9-year surveillance data in four areas of China.
