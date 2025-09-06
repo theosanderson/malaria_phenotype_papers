@@ -1,3 +1,5 @@
+40913647	Testis-specific serine/threonine kinase 3 regulates the size of sperm reservoir in Anopheles stephensi.
+40913555	Vinyl-DNADetect Probes to Assess DNA Proliferation in Plasmodium Parasites using Inverse-Electron-Demand Diels-Alder Click Reactions.
 40912530	Rising tide of Vector-Borne Diseases in Europe - Surveillance, Clinical Awareness, and Public Health Preparedness.
 40911970	From pan-active to parasite-selective antiparasitic agents: A scaffold hopping approach.
 40911861	Design, Synthesis, and Evaluation of Triazolyl Quinoline Derivatives as Potential Antimalarial Agents.
@@ -9995,5 +9997,3 @@
 37456750	Editorial: Antimalarial chemotherapy in the XXIst century, volume II.
 37456558	Characterising the intensity of insecticide resistance: A novel framework for analysis of intensity bioassay data.
 37456151	Factors Associated with Acute Kidney Injury among Children with Severe Malaria at Kiryandongo General Hospital, Uganda.
-37455103	[Epidemiological characteristics of imported malaria cases after malaria elimination in Yixing City of Jiangsu Province].
-37455092	[Risk predictive models of healthcare-seeking delay among imported malaria patients in Jiangsu Province based on the machine learning].
