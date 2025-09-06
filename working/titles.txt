@@ -1,3 +1,6 @@
+40911970	From pan-active to parasite-selective antiparasitic agents: A scaffold hopping approach.
+40911861	Design, Synthesis, and Evaluation of Triazolyl Quinoline Derivatives as Potential Antimalarial Agents.
+40911532	Prevalence of Helicobacter pylori, Salmonella typhi, Plasmodium falciparum, and Toxoplasma gondii infections and levels of liver function markers among Hepatitis B Virus infected Ghanaians: A cross-sectional study in the Greater Accra Region.
 40911334	Early U.S. military immunization against tetanus and diphtheria: historical context and current importance.
 40911315	Updated global distribution of Plasmodium vivax circumsporozoite protein variants and their correlation with vector susceptibility: A systematic review and meta-analysis.
 40911282	Potential high arbovirus exposure in INDOPACOM during U.S. service member deployment or exercises in Papua New Guinea.
@@ -98,7 +101,7 @@
 40884133	Imported and non-travel related cases of malaria in Europe - a ten-year analytic retrospective review.
 40884048	Sialyl-T Antigen: A Novel Red Blood Cell Determinant for Plasmodium falciparum Invasion.
 40883881	Implementing TB preventive therapy: lessons from a large-scale initiative in India.
-40882884	ETIOLOGIES OF ACUTE FEBRILE ILLNESS AMONG HOSPITALIZED PATIENTS: A RETROSPECTIVE HOSPITAL-BASED STUDY IN MOGADISHU, SOMALIA.
+40882884	Etiologies of acute febrile illness among hospitalized patients: A retrospective hospital-based study in Mogadishu, Somalia.
 40882861	First detection of Nyssorhynchus rondoniensis (Diptera: Culicidae) in southern Venezuela and its infection with Plasmodium falciparum.
 40882647	Estimated unit costs of anaemia interventions for women of reproductive age in 193 UN member states: a costing study.
 40877450	A longitudinal study examining determinants of essential health services during the COVID-19 pandemic in regional referral hospitals across Uganda.
@@ -9994,6 +9997,3 @@
 37455103	[Epidemiological characteristics of imported malaria cases after malaria elimination in Yixing City of Jiangsu Province].
 37455092	[Risk predictive models of healthcare-seeking delay among imported malaria patients in Jiangsu Province based on the machine learning].
 37454671	Simian malaria: a narrative review on emergence, epidemiology and threat to global malaria elimination.
-37454658	12 countries to get first doses of malaria vaccine.
-30855917	Plasmodium vivax Malaria.
-37454212	Validation of a method for the dry preservation and rehydration of Anopheles gambiae sensu lato for parity analysis to assess the impact of vector control measures in the field.
