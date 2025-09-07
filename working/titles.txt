@@ -1,3 +1,8 @@
+40914236	Effects of artesunate-loaded nanoparticles on Plasmodium berghei treatment in a mouse model.
+40914235	Can malaria rapid diagnostic tests be used to detect simian malaria?
+40914233	Residual Malaria Transmission in Western Burkina Faso: Vector Behavior, Insecticide Resistance, and the Efficacy Limits of Next-Generation LLINs.
+40914138	Hierarchical nanotopographies and fractal fingerprints of Anopheles mosquito wing surfaces.
+40913957	1,2,4-Triazole amides: Design, synthesis, characterisation, in vitro and in silico evaluation against blood stage parasites of Plasmodium falciparum.
 40913647	Testis-specific serine/threonine kinase 3 regulates the size of sperm reservoir in Anopheles stephensi.
 40913555	Vinyl-DNADetect Probes to Assess DNA Proliferation in Plasmodium Parasites using Inverse-Electron-Demand Diels-Alder Click Reactions.
 40912530	Rising tide of Vector-Borne Diseases in Europe - Surveillance, Clinical Awareness, and Public Health Preparedness.
@@ -9992,8 +9997,3 @@
 37457953	The delayed bloodstream clearance of Plasmodium falciparum parasites after M5717 treatment is attributable to the inability to modify their red blood cell hosts.
 37457831	The Plasmodium falciparum exported J domain proteins fine-tune human and malarial Hsp70s: pathological exploitation of proteostasis machinery.
 37457573	An intelligent detection method for plasmodium based on self-supervised learning and attention mechanism.
-37456919	Characterizing antibody responses to mosquito salivary antigens of the Southeast Asian vectors of malaria and dengue with a human challenge model of controlled exposure: a protocol.
-37456906	Targeted amplicon deep sequencing of ama1 and mdr1 to track within-host P. falciparum diversity throughout treatment in a clinical drug trial.
-37456750	Editorial: Antimalarial chemotherapy in the XXIst century, volume II.
-37456558	Characterising the intensity of insecticide resistance: A novel framework for analysis of intensity bioassay data.
-37456151	Factors Associated with Acute Kidney Injury among Children with Severe Malaria at Kiryandongo General Hospital, Uganda.
