@@ -1,3 +1,27 @@
+40923747	Exploring the Effect of Malaria on Biochemical Parameters Among Sudanese Patients with Complicated Falciparum Malaria.
+40923647	Impact of NLRP1 Met1154Val and IL1B variants on gestational malaria: an unexplored role of NLRP1 in inflammasome activation by Plasmodium spp.
+40923578	Prevalence, Associated Factors, and Prognosis of Acute Kidney Injury in Severe Malaria Among Sub-Saharan Africans.
+40923470	Investigation of Antiparasitic Effect of Juniperus communis L. Fruits Extracts.
+40923380	Navigating power, participation, and priorities: critical reflections for Global Financing Facility new strategy.
+40922950	Human Blood Index of Anopheles arabiensis in Ethiopia: A Systematic Review and Meta-Analysis.
+40922607	Malaria signs, symptoms, prevention knowledge and its associated factors among rural Ethiopians.
+40922028	Malaria amidst the COVID-19 pandemic in Gabon: an application of autoregressive integrated moving average (ARIMA) models within an interrupted time series (ITS) framework to hospital-based data.
+40921612	Attitudes to malaria vaccination in children: what can be learned from their consistency with the temporal dynamics of COVID-19 vaccination intention? A prospective cohort study in rural Senegal (July 2020-November 2023).
+40921463	The resurgence of malaria in Africa is an avoidable crisis-here's what we must do.
+40921413	Identification of α-Azacyclic Acetamide-Based Inhibitors of P. falciparum Na(+) Pump (PfATP4) with Fast-Killing Asexual Blood-Stage Antimalarial Activity by Phenotypic Screening.
+40921080	Structure-Activity Relationships of 3-Hydroxypropanamidines (HPAs) with Potent In Vivo Antimalarial Activity.
+40921030	Tandem Mass Spectrometry and Bio-Guided Isolation of Secondary Metabolites With Antiplasmodial Activity From Dalbergia miscolobium Bark.
+40921001	Exploring Natural Coumarins in Antiprotozoal Drug Discovery: A Comprehensive Review.
+40920915	A review of Leishmania infections in American Phlebotomine sand flies - Are those that transmit leishmaniasis anthropophilic or anthropportunists?★.
+40920690	In Vitro Intraluminal Gel Infusion: An Advanced Approach for Microscopic Analysis of Human Resistance Arteries.
+40919226	Airport/seaport and autochthonous malaria in Europe from 1969 to 2022: A systematic review.
+40918582	Management of a Pregnant Woman With Malaria, Stillbirth, and a 12 × 11-cm Amoebic Liver Abscess in a Burundian Hospital: A Case Report.
+40918102	Cord blood innate-like T cell responses in neonates born to healthy women and women living with HIV.
+40917784	Morphometric analysis and immunobiological investigation of Indigofera oblongifolia on the infected lung with Plasmodium chabaudi.
+40917417	Reasons for low long-lasting insecticide-treated net use and repurposing: qualitative study from southern Ethiopia.
+40917103	Insecticidal Activities of Plants Extract Against Malaria Vectors in Hadiya Zone, Ethiopia.
+40916428	Advances in Artemisinin-based Therapies: Innovations in Synthesis, Drug Delivery, and Expanding Therapeutic Applications.
+40915500	Computational investigation of mutations in PfCRT and PfDHFR proteins for Emerging Resistance of Plasmodium falciparum to Antimalarial drugs.
 40914236	Effects of artesunate-loaded nanoparticles on Plasmodium berghei treatment in a mouse model.
 40914235	Can malaria rapid diagnostic tests be used to detect simian malaria?
 40914233	Residual Malaria Transmission in Western Burkina Faso: Vector Behavior, Insecticide Resistance, and the Efficacy Limits of Next-Generation LLINs.
@@ -9973,27 +9997,3 @@
 37463914	Author Correction: A mosquito lipoxin/lipocalin complex mediates innate immune priming in Anopheles gambiae.
 37463785	Using routine health data to evaluate the impact of indoor residual spraying on malaria transmission in Madagascar.
 37463201	The role of Plasmodium V-ATPase in vacuolar physiology and antimalarial drug uptake.
-37463164	Usability of pulse oximeters used by community health and primary care workers as screening tools for severe illness in children under five in low resource settings: A cross-sectional study in Cambodia, Ethiopia, South Sudan, and Uganda.
-37462313	[A Marginal Case of Malaria: An Interesting Malaria Story of Cameroon Origin].
-37461621	Accelerated prime-and-trap vaccine regimen in mice using repRNA-based CSP malaria vaccine.
-37461595	Single-cell quantitative bioimaging of P. berghei liver stage translation.
-37461578	Clinical and Immunological Outcomes of HIV-Exposed Uninfected and HIV-Unexposed Uninfected Children in the First 24 Months of Life in Western Kenya.
-37461554	CLIPB4 is a central node in the protease network that regulates humoral immunity in Anopheles gambiae mosquitoes.
-37461533	Complexity of Plasmodium falciparum infection and genetic variations associated with differences in parasite clearance time in two Malian villages.
-37461346	Potential Drugs in COVID-19 Management.
-37461279	An ordinary malaria? Intermittent fever in Denmark, 1826-1886.
-37461113	Heterogeneity in health funding and disparities in health outcome: a comparison between high focus and non-high focus states in India.
-37461081	Reduced polymorphism of Plasmodium vivax early transcribed membrane protein (PvETRAMP) 11.2.
-37460787	Determinants of splenic preservation among patients with sickle cell disease in North-Eastern Nigeria.
-37460245	Embedding Aboriginal cultural governance, capacity, perspectives and leadership into a local Public Health Unit Incident Command System during COVID-19 in New South Wales, Australia.
-37459385	A comprehensive approach to optimizing malaria prevention in pregnant women: evaluating the efficacy, cost-effectiveness, and resistance of IPTp-SP and IPTp-DP.
-37459017	Do climatic and socioeconomic factors explain population vulnerability to malaria? Evidence from a national survey, India.
-37458601	Engineered Gut Symbiotic Bacterium-Mediated RNAi for Effective Control of Anopheles Mosquito Larvae.
-37458412	Inhibition of Cysteine Proteases via Thiol-Michael Addition Explains the Anti-SARS-CoV-2 and Bioactive Properties of Arteannuin B.
-37458405	First report of Culicoides caucoliberensis in Spain: Exploring molecular phylogeny, host-feeding behaviour and avian haemosporidian parasites.
-37458074	Conjugated carbon monoxide-releasing molecules have broad-spectrum antimicrobial activity.
-37458002	Glutaraldehyde modified red blood cells delivering artesunate to the liver as a dual therapeutic and prophylactic antimalaria strategy.
-37457963	Roles of the RON3 C-terminal fragment in erythrocyte invasion and blood-stage parasite proliferation in Plasmodium falciparum.
-37457953	The delayed bloodstream clearance of Plasmodium falciparum parasites after M5717 treatment is attributable to the inability to modify their red blood cell hosts.
-37457831	The Plasmodium falciparum exported J domain proteins fine-tune human and malarial Hsp70s: pathological exploitation of proteostasis machinery.
-37457573	An intelligent detection method for plasmodium based on self-supervised learning and attention mechanism.
