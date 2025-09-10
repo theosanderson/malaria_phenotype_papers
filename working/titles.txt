@@ -8114,7 +8114,6 @@
 38108809	Atlas of Plasmodium falciparum intraerythrocytic development using expansion microscopy.
 38108558	Two avian Plasmodium species trigger different transcriptional responses on their vector Culex pipiens.
 38108431	Mosquito-borne diseases in India over the past 50 years and their Global Public Health Implications: A Systematic Review.
-38108429	A Survey on Mosquito Control Knowledge and Insecticide Use in New Orleans, La, 2020-2021.
 38108082	The problem of antimalarial resistance and its implications for drug discovery.
 38107179	Naphthyl bearing 1,3,4-thiadiazoleacetamides targeting the parasitic folate pathway as anti-infectious agents: in silico, synthesis, and biological approach.
 38106223	Characterizing mobility patterns and malaria risk factors in semi-nomadic populations of Northern Kenya.
@@ -9997,3 +9996,4 @@
 37465667	Immunogenomic profile at baseline predicts host susceptibility to clinical malaria.
 37465315	Anti-infectives Developed as Racemic Drugs in the 21st Century: Norm or Exception?
 37465183	Malaria Risk Perception and Preventive Behaviors Among Elementary School Students, Southwest Ethiopia. Generalized Structural Equation Model.
+37464429	An evaluation of truncated birth histories for the rapid measurement of fertility and child survival.
