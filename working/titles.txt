@@ -1,3 +1,4 @@
+40925110	In vitro antiplasmodial activities of extract and fractions from Lepidobotrys staudtii against sensitive and resistant blood-stage parasites of Plasmodium falciparum.
 40925053	The role of Denisovan paleohabitats in shaping modern human genetic resistance to viral, bacterial, and parasitic infections.
 40923747	Exploring the Effect of Malaria on Biochemical Parameters Among Sudanese Patients with Complicated Falciparum Malaria.
 40923647	Impact of NLRP1 Met1154Val and IL1B variants on gestational malaria: an unexplored role of NLRP1 in inflammasome activation by Plasmodium spp.
@@ -122,7 +123,7 @@
 40885647	Tissue-dependent protection mechanisms of antibodies targeting Plasmodium sporozoites.
 40885572	Using big picture trends for global health.
 40885517	Mapping Plasmodium falciparum mutations in Africa: A critical review of emerging drug resistance and implications for malaria control.
-40885344	New approach methodologies for assessing developmental toxicity of pharmaceuticals: Case Examples and Future Directions.
+40885344	New approach methodologies for assessing developmental toxicity of pharmaceuticals: Case examples and future directions.
 40883829	Predicting current habitat suitability for intermediate snail hosts of urogenital and intestinal schistosomiasis in the Lower Shire Valley floodplain of southern Malawi.
 40881730	In vitro evaluation of cytotoxicity and release kinetics of green-synthesised Azadirachta indica silver nanoparticles.
 40880933	Determinants of anemia among children under five in Eastern Uganda: a community-based cross-sectional study.
@@ -9996,4 +9997,3 @@
 37464429	An evaluation of truncated birth histories for the rapid measurement of fertility and child survival.
 37463969	Human blood neutrophils generate ROS through FcγR-signaling to mediate protection against febrile P. falciparum malaria.
 37463914	Author Correction: A mosquito lipoxin/lipocalin complex mediates innate immune priming in Anopheles gambiae.
-37463785	Using routine health data to evaluate the impact of indoor residual spraying on malaria transmission in Madagascar.
