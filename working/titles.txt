@@ -1,3 +1,4 @@
+40925053	The role of Denisovan paleohabitats in shaping modern human genetic resistance to viral, bacterial, and parasitic infections.
 40923747	Exploring the Effect of Malaria on Biochemical Parameters Among Sudanese Patients with Complicated Falciparum Malaria.
 40923647	Impact of NLRP1 Met1154Val and IL1B variants on gestational malaria: an unexplored role of NLRP1 in inflammasome activation by Plasmodium spp.
 40923578	Prevalence, Associated Factors, and Prognosis of Acute Kidney Injury in Severe Malaria Among Sub-Saharan Africans.
@@ -21,7 +22,7 @@
 40917417	Reasons for low long-lasting insecticide-treated net use and repurposing: qualitative study from southern Ethiopia.
 40917103	Insecticidal Activities of Plants Extract Against Malaria Vectors in Hadiya Zone, Ethiopia.
 40916428	Advances in Artemisinin-based Therapies: Innovations in Synthesis, Drug Delivery, and Expanding Therapeutic Applications.
-40915500	Computational investigation of mutations in PfCRT and PfDHFR proteins for Emerging Resistance of Plasmodium falciparum to Antimalarial drugs.
+40915500	Computational investigation of mutations in PfCRT and PfDHFR proteins for emerging resistance of Plasmodium falciparum to antimalarial drugs.
 40914236	Effects of artesunate-loaded nanoparticles on Plasmodium berghei treatment in a mouse model.
 40914235	Can malaria rapid diagnostic tests be used to detect simian malaria?
 40914233	Residual Malaria Transmission in Western Burkina Faso: Vector Behavior, Insecticide Resistance, and the Efficacy Limits of Next-Generation LLINs.
@@ -9996,4 +9997,3 @@
 37463969	Human blood neutrophils generate ROS through FcγR-signaling to mediate protection against febrile P. falciparum malaria.
 37463914	Author Correction: A mosquito lipoxin/lipocalin complex mediates innate immune priming in Anopheles gambiae.
 37463785	Using routine health data to evaluate the impact of indoor residual spraying on malaria transmission in Madagascar.
-37463201	The role of Plasmodium V-ATPase in vacuolar physiology and antimalarial drug uptake.
