@@ -1,3 +1,5 @@
+40932647	Historical evolution of the epidemiology of Malaria in Spain and Europe. Future perspectives.
+40932284	Acetyl-CoA synthetase mutations affect the susceptibility of Plasmodium falciparum to antimalarial drugs.
 40931749	Post-trial access practices in conducted clinical trials for Malaria, Tuberculosis, and Neglected Tropical Diseases (NTDs) across Sub-Saharan African countries:  A quantitative study.
 40931344	Correction: Ecological drivers of malaria vector habitat and transmission over 1 year of long-lasting insecticidal net intervention in Côte d'Ivoire.
 40931024	Metagenomic complexity of high, seasonal transmission of Plasmodium spp. in asymptomatic carriers in Northern Sahelian Ghana.
@@ -9995,5 +9997,3 @@
 37467874	Bird species with wider geographical ranges have higher blood parasite diversity but not prevalence across the African-Eurasian flyway.
 37467691	The immunity modulation of transforming growth factor-β in malaria and other pathological process.
 37467665	Inflammatory profiles in febrile children with moderate and severe malnutrition presenting at-hospital in Uganda are associated with increased mortality.
-34033323	OSHA Bloodborne Pathogen Standards.
-37467182	Assessing afebrile malaria and bed-net use in a high-burden region of India: Findings from multiple rounds of mass screening.
