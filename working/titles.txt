@@ -1,3 +1,4 @@
+40931749	Post-trial access practices in conducted clinical trials for Malaria, Tuberculosis, and Neglected Tropical Diseases (NTDs) across Sub-Saharan African countries:  A quantitative study.
 40931344	Correction: Ecological drivers of malaria vector habitat and transmission over 1 year of long-lasting insecticidal net intervention in Côte d'Ivoire.
 40931024	Metagenomic complexity of high, seasonal transmission of Plasmodium spp. in asymptomatic carriers in Northern Sahelian Ghana.
 40930929	[Diagnosis of non-autoimmune hemolysis in the adult].
@@ -9996,4 +9997,3 @@
 37467665	Inflammatory profiles in febrile children with moderate and severe malnutrition presenting at-hospital in Uganda are associated with increased mortality.
 34033323	OSHA Bloodborne Pathogen Standards.
 37467182	Assessing afebrile malaria and bed-net use in a high-burden region of India: Findings from multiple rounds of mass screening.
-37467002	First Ever Malaria Vaccine to Be Distributed in Africa.
