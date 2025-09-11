@@ -1,3 +1,6 @@
+40931344	Correction: Ecological drivers of malaria vector habitat and transmission over 1 year of long-lasting insecticidal net intervention in Côte d'Ivoire.
+40931024	Metagenomic complexity of high, seasonal transmission of Plasmodium spp. in asymptomatic carriers in Northern Sahelian Ghana.
+40930929	[Diagnosis of non-autoimmune hemolysis in the adult].
 40929367	Febrile temperature augments ring-stage Plasmodium falciparum adhesion to brain endothelial cells.
 40929023	Determinants of access to insecticide-treated nets in Sub-Saharan Africa: A multilevel cross-country analysis using 29 DHS data.
 40928987	Conserved multiepitopes in Plasmodium falciparum STEVORs enable rational design of a fusion antigen vaccine construct with broad immunogenicity.
@@ -9994,6 +9997,3 @@
 34033323	OSHA Bloodborne Pathogen Standards.
 37467182	Assessing afebrile malaria and bed-net use in a high-burden region of India: Findings from multiple rounds of mass screening.
 37467002	First Ever Malaria Vaccine to Be Distributed in Africa.
-37466070	Retrospective evaluation of an integrated molecular-epidemiological approach to cyclosporiasis outbreak investigations - United States, 2021.
-37465789	Self-Medication Practices During the COVID-19 Pandemic Among the Adult Population in the Eastern Region of the Kingdom of Saudi Arabia.
-37465667	Immunogenomic profile at baseline predicts host susceptibility to clinical malaria.
