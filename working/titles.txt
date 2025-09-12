@@ -1,3 +1,6 @@
+40938322	Prevalence of resistance markers of artemisinin, partner drugs, and sulfadoxine-pyrimethamine in Nanyumbu and Masasi Districts, Tanzania between 2020 and 2021.
+40938117	Inhibition of the assembly of Plasmodium Hsp70-1 and Hsp40 complex blocks DNA replication by destabilizing ribonucleotide reductase subunit-2.
+40937646	Ethnopharmacology and Therapeutic Value of Clematis brachiata Thunb. (Family: Ranunculaceae): A Narrative Review.
 40937545	Antiplasmodial activity of Gracilaria sp. ethanol extract against Plasmodium falciparum.
 40937113	Impact of climate change on malaria transmission in Africa: A scoping review of literature.
 40937110	Epidemiology of malaria in pregnant women attending antenatal consultation in Dschang, West Cameroon.
@@ -9994,6 +9997,3 @@
 37474930	Effect of malaria prevention education on bed net utilization, incidence of malaria and treatment seeking among school-aged children in Southern Ethiopia; cluster randomized controlled trial.
 37474844	Antimalarial Activities of a Therapeutic Combination of Azadirachta indica, Mangifera indica and Morinda lucida Leaves: A Molecular View of its Activity on Plasmodium falciparum Proteins.
 37474653	mRNA vaccine against malaria tailored for liver-resident memory T cells.
-37474234	Effectiveness and safety of intermittent preventive treatment with dihydroartemisinin-piperaquine or artesunate-amodiaquine for reducing malaria and related morbidities in schoolchildren in Tanzania: a randomised controlled trial.
-37474216	Targeting malaria control to schoolchildren.
-37473798	Antiplasmodial and interferon-gamma-modulating activities of the aqueous extract of stone breaker (Phyllanthus niruri Linn.) in malaria infection.
