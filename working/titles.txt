@@ -1,3 +1,9 @@
+40934287	Diagnostic performance of hemozoin-based magneto-optical detection assay and RDT: a prospective observational study.
+40934205	Low prevalence of helminth infection in Ugandan children hospitalized with severe malaria.
+40934175	Prevalence of asymptomatic non-falciparum and falciparum malaria in the 2014-15 Rwanda Demographic Health Survey.
+40933276	Clinical Findings in Migrants With Asymptomatic Plasmodium Infections.
+40933040	Principles of the Africa health workforce investment charter to stimulate sustainable health workforce investments.
+40932854	Characterization of co-infections of haemosporidian parasites in Swinhoe's pheasant (Lophura swinhoii): Utilizing nanopore sequencing for species-level detection and mitochondrial-genome analysis.
 40932647	Historical evolution of the epidemiology of Malaria in Spain and Europe. Future perspectives.
 40932284	Acetyl-CoA synthetase mutations affect the susceptibility of Plasmodium falciparum to antimalarial drugs.
 40931749	Post-trial access practices in conducted clinical trials for Malaria, Tuberculosis, and Neglected Tropical Diseases (NTDs) across Sub-Saharan African countries:  A quantitative study.
@@ -9991,9 +9997,3 @@
 37469527	Sibling Species Composition and Susceptibility Status of Anopheles gambiae s.l. to Insecticides Used for Indoor Residual Spraying in Eastern Uganda.
 37469515	Guianensin, a Simulium guianense salivary protein, has broad anti-hemostatic and anti-inflammatory properties.
 37468917	Molecular epidemiology of non-falciparum Plasmodium infections in three different areas of the Ivory Coast.
-37468559	Bird community effects on avian malaria infections.
-37468470	Hearing of malaria mosquitoes is modulated by a beta-adrenergic-like octopamine receptor which serves as insecticide target.
-37468046	Artificial intelligence, machine learning and deep learning: Potential resources for the infection clinician.
-37467874	Bird species with wider geographical ranges have higher blood parasite diversity but not prevalence across the African-Eurasian flyway.
-37467691	The immunity modulation of transforming growth factor-β in malaria and other pathological process.
-37467665	Inflammatory profiles in febrile children with moderate and severe malnutrition presenting at-hospital in Uganda are associated with increased mortality.
