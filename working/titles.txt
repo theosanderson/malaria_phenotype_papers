@@ -1,3 +1,9 @@
+40936005	Designing reaction-cross-diffusion systems with Turing and wave instabilities.
+40935497	Identifying hotspots of malaria incidence and mortality for tailored interventions in Cameroon using routine data from 2011 to 2021: A Bayesian space-time variability modeling.
+40935289	Towards model-informed precision dosing of intravenous linezolid: a multicentre external evaluation of pharmacokinetic models in critically ill adults.
+40935005	High-Sensitivity Detection of Asymptomatic Malaria in High-Risk Thai Populations Using Droplet Digital PCR.
+40935000	Bulk identification of Anophelinae larvae from fishponds using DNA metabarcoding.
+40934904	US Malaria Casualties and Chemoprophylaxis during the Vietnam War.
 40934287	Diagnostic performance of hemozoin-based magneto-optical detection assay and RDT: a prospective observational study.
 40934205	Low prevalence of helminth infection in Ugandan children hospitalized with severe malaria.
 40934175	Prevalence of asymptomatic non-falciparum and falciparum malaria in the 2014-15 Rwanda Demographic Health Survey.
@@ -9991,9 +9997,3 @@
 37471441	A screen of drug-like molecules identifies chemically diverse electron transport chain inhibitors in apicomplexan parasites.
 37471337	Prevalence and distribution of Plasmodium vivax Duffy Binding Protein gene duplications in Sudan.
 37471336	Malaria diagnosis in rural healthcare facilities and treatment-seeking behavior in malaria endemic settings in western Kenya.
-37471056	In Vitro Investigation Unveiling New Insights into the Antimalarial Mechanism of Chloroquine: Role in Perturbing Nucleation Events during Heme to β-Hematin Transformation.
-37470040	Impact of Plasmodium falciparum infection on DNA methylation of circulating immune cells.
-37469921	An Evaluation of Malaria Surveillance System in Punjab, India, 2020.
-37469527	Sibling Species Composition and Susceptibility Status of Anopheles gambiae s.l. to Insecticides Used for Indoor Residual Spraying in Eastern Uganda.
-37469515	Guianensin, a Simulium guianense salivary protein, has broad anti-hemostatic and anti-inflammatory properties.
-37468917	Molecular epidemiology of non-falciparum Plasmodium infections in three different areas of the Ivory Coast.
