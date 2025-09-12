@@ -1,3 +1,7 @@
+40937545	Antiplasmodial activity of Gracilaria sp. ethanol extract against Plasmodium falciparum.
+40937113	Impact of climate change on malaria transmission in Africa: A scoping review of literature.
+40937110	Epidemiology of malaria in pregnant women attending antenatal consultation in Dschang, West Cameroon.
+40936635	Post-discharge experiences of Malaria patients in a Vhembe district village, South Africa.
 40936005	Designing reaction-cross-diffusion systems with Turing and wave instabilities.
 40935497	Identifying hotspots of malaria incidence and mortality for tailored interventions in Cameroon using routine data from 2011 to 2021: A Bayesian space-time variability modeling.
 40935289	Towards model-informed precision dosing of intravenous linezolid: a multicentre external evaluation of pharmacokinetic models in critically ill adults.
@@ -9993,7 +9997,3 @@
 37474234	Effectiveness and safety of intermittent preventive treatment with dihydroartemisinin-piperaquine or artesunate-amodiaquine for reducing malaria and related morbidities in schoolchildren in Tanzania: a randomised controlled trial.
 37474216	Targeting malaria control to schoolchildren.
 37473798	Antiplasmodial and interferon-gamma-modulating activities of the aqueous extract of stone breaker (Phyllanthus niruri Linn.) in malaria infection.
-37473441	An artesunate pharmacometric model to explain therapeutic responses in falciparum malaria.
-37471441	A screen of drug-like molecules identifies chemically diverse electron transport chain inhibitors in apicomplexan parasites.
-37471337	Prevalence and distribution of Plasmodium vivax Duffy Binding Protein gene duplications in Sudan.
-37471336	Malaria diagnosis in rural healthcare facilities and treatment-seeking behavior in malaria endemic settings in western Kenya.
