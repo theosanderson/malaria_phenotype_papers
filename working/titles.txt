@@ -1,3 +1,6 @@
+40940649	Correction: Household practices and infrastructure associated with high Plasmodium falciparum infection rates among children under five years old in Northern Uganda.
+40940259	The bite that binds: mosquito saliva mediates TLR2-driven flavivirus infection.
+40939425	The emerging roles of ACKR1/Duffy antigen beyond malaria.
 40938890	Status and prospects of seasonal malaria chemoprevention among children in Sahelian countries: A systematic review and meta-analysis.
 40938322	Prevalence of resistance markers of artemisinin, partner drugs, and sulfadoxine-pyrimethamine in Nanyumbu and Masasi Districts, Tanzania between 2020 and 2021.
 40938117	Inhibition of the assembly of Plasmodium Hsp70-1 and Hsp40 complex blocks DNA replication by destabilizing ribonucleotide reductase subunit-2.
@@ -58,7 +61,7 @@
 40915500	Computational investigation of mutations in PfCRT and PfDHFR proteins for emerging resistance of Plasmodium falciparum to antimalarial drugs.
 40914236	Effects of artesunate-loaded nanoparticles on Plasmodium berghei treatment in a mouse model.
 40914235	Can malaria rapid diagnostic tests be used to detect simian malaria?
-40914233	Residual Malaria Transmission in Western Burkina Faso: Vector Behavior, Insecticide Resistance, and the Efficacy Limits of Next-Generation LLINs.
+40914233	Residual malaria transmission in Western Burkina Faso: Vector Behavior, insecticide resistance, and the efficacy limits of next-generation LLINs.
 40914138	Hierarchical nanotopographies and fractal fingerprints of Anopheles mosquito wing surfaces.
 40913957	1,2,4-Triazole amides: Design, synthesis, characterisation, in vitro and in silico evaluation against blood stage parasites of Plasmodium falciparum.
 40913647	Testis-specific serine/threonine kinase 3 regulates the size of sperm reservoir in Anopheles stephensi.
@@ -9994,6 +9997,3 @@
 37475165	Diversity of 'simple' multicellular eukaryotes: 45 independent cases and six types of multicellularity.
 37475067	[Medicinal evolution and modern research progress on Mume Fructus].
 37474966	Plasmodium falciparum drug resistance-associated mutations in isolates from children living in endemic areas of Burkina Faso.
-37474956	Correction: The ability of Interleukin-10 to negate haemozoin-related pro-inflammatory effects has the potential to restore impaired macrophage function associated with malaria infection.
-37474930	Effect of malaria prevention education on bed net utilization, incidence of malaria and treatment seeking among school-aged children in Southern Ethiopia; cluster randomized controlled trial.
-37474844	Antimalarial Activities of a Therapeutic Combination of Azadirachta indica, Mangifera indica and Morinda lucida Leaves: A Molecular View of its Activity on Plasmodium falciparum Proteins.
