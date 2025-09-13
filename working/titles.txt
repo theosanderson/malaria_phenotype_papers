@@ -1,3 +1,6 @@
+40943352	Artemisinin and Its Derivatives from Molecular Mechanisms to Clinical Applications: New Horizons Beyond Antimalarials.
+40942079	In-Depth Exploration of Chemical Constituents from Justicia procumbens L. Through UHPLC-Q-Exactive Orbitrap Mass Spectrometry.
+40941364	Hemoparasites in Wild Birds: A Systematic Review of Their Ecology and Clinical Implications.
 40940649	Correction: Household practices and infrastructure associated with high Plasmodium falciparum infection rates among children under five years old in Northern Uganda.
 40940259	The bite that binds: mosquito saliva mediates TLR2-driven flavivirus infection.
 40939425	The emerging roles of ACKR1/Duffy antigen beyond malaria.
@@ -9994,6 +9997,3 @@
 37476140	Optic Disc Elevation Secondary to Cerebral Malaria Resolves Completely With Mannitol Administration and Corresponds to Clinical Improvement.
 37476056	A multivalent Plasmodium falciparum circumsporozoite protein-based nanoparticle malaria vaccine elicits a robust and durable antibody response against the junctional epitope and the major repeats.
 37475793	HBV Infection Is an Intermediate-Risk Disease, Whereas Anaemia Is a Mild-to-Moderate Public Health Problem in Young Ghanaian Adults: A Four-Year Retrospective Analysis of Students' Medical Records.
-37475165	Diversity of 'simple' multicellular eukaryotes: 45 independent cases and six types of multicellularity.
-37475067	[Medicinal evolution and modern research progress on Mume Fructus].
-37474966	Plasmodium falciparum drug resistance-associated mutations in isolates from children living in endemic areas of Burkina Faso.
