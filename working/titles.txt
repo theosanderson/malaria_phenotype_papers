@@ -1,3 +1,7 @@
+40945889	EXPOSURE TO ENVIRONMENTAL (CHEMICAL AND BIOLOGICAL) HAZARDS AND CHILDREN UNDERNUTRITION: A SCOPING REVIEW.
+40945879	Toxicity Profile, Antiplasmodial and Gametocytocidal Properties of Erigeron bonariensis L. (anc. Conyza bonariensis (L.) Cronquist).
+40945876	Characterization of genes involved in hemoglobin degradation in Plasmodium vivax isolates from Chennai, India and species of non-human primate malaria.
+40945324	4-substituted (1,2,5-oxadiazol-3-yl)benzamides and -benzene sulfonamides as antiplasmodial agents.
 40944917	Highly divergent apicomplexan cytoskeletons provide additional models for actin biology.
 40944645	Self-Assembling Antioxidant Nanoparticles Increase Survival and Reduce Disease Symptoms of Severe Malaria.
 40943352	Artemisinin and Its Derivatives from Molecular Mechanisms to Clinical Applications: New Horizons Beyond Antimalarials.
@@ -71,7 +75,6 @@
 40913957	1,2,4-Triazole amides: Design, synthesis, characterisation, in vitro and in silico evaluation against blood stage parasites of Plasmodium falciparum.
 40913647	Testis-specific serine/threonine kinase 3 regulates the size of sperm reservoir in Anopheles stephensi.
 40913555	Vinyl-DNADetect Probes to Assess DNA Proliferation in Plasmodium Parasites using Inverse-Electron-Demand Diels-Alder Click Reactions.
-40912530	Rising tide of Vector-Borne Diseases in Europe - Surveillance, Clinical Awareness, and Public Health Preparedness.
 40911970	From pan-active to parasite-selective antiparasitic agents: A scaffold hopping approach.
 40911861	Design, Synthesis, and Evaluation of Triazolyl Quinoline Derivatives as Potential Antimalarial Agents.
 40911532	Prevalence of Helicobacter pylori, Salmonella typhi, Plasmodium falciparum, and Toxoplasma gondii infections and levels of liver function markers among Hepatitis B Virus infected Ghanaians: A cross-sectional study in the Greater Accra Region.
@@ -9994,6 +9997,3 @@
 37479498	Cost-effectiveness of community-based distribution of intermittent preventive treatment of malaria in pregnancy in Madagascar, Mozambique, Nigeria, and the Democratic Republic of Congo.
 37478957	Synthesis and activity of β-carboline antimalarials targeting the Plasmodium falciparum heat shock 90 protein.
 37478413	Methanol and acetone extracts from the leaves of selected aromatic plants affect survival of field collected Anopheles arabiensis (Diptera: Culicidae) from Kisumu, Kenya.
-37478118	Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital.
-37476548	Plasmodium falciparum FIKK 9.1 kinase modeling to screen and identify potent antimalarial agents from chemical library.
-37476140	Optic Disc Elevation Secondary to Cerebral Malaria Resolves Completely With Mannitol Administration and Corresponds to Clinical Improvement.
