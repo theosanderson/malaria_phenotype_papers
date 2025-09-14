@@ -1,3 +1,4 @@
+40944917	Highly divergent apicomplexan cytoskeletons provide additional models for actin biology.
 40944645	Self-Assembling Antioxidant Nanoparticles Increase Survival and Reduce Disease Symptoms of Severe Malaria.
 40943352	Artemisinin and Its Derivatives from Molecular Mechanisms to Clinical Applications: New Horizons Beyond Antimalarials.
 40942079	In-Depth Exploration of Chemical Constituents from Justicia procumbens L. Through UHPLC-Q-Exactive Orbitrap Mass Spectrometry.
@@ -9996,4 +9997,3 @@
 37478118	Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital.
 37476548	Plasmodium falciparum FIKK 9.1 kinase modeling to screen and identify potent antimalarial agents from chemical library.
 37476140	Optic Disc Elevation Secondary to Cerebral Malaria Resolves Completely With Mannitol Administration and Corresponds to Clinical Improvement.
-37476056	A multivalent Plasmodium falciparum circumsporozoite protein-based nanoparticle malaria vaccine elicits a robust and durable antibody response against the junctional epitope and the major repeats.
