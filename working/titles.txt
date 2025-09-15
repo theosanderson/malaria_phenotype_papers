@@ -1,3 +1,5 @@
+40947390	Do microbes mediate rhythmic malaria parasite-mosquito vector interactions?
+40946829	A multidimensional space-time geospatial analysis for examining the spatial trends of vector-borne diseases: 20 years of malaria in Kenya.
 40946313	The major role of the REL2/NF-κB pathway in the regulation of midgut bacterial homeostasis in the malaria vector Anopheles gambiae.
 40946223	Targeting Plasmodium falciparum Single-Stranded DNA-Binding Protein: Discovery of New Scaffold Compounds Effective against Drug-Sensitive and Artemisinin-Resistant Strains.
 40945889	EXPOSURE TO ENVIRONMENTAL (CHEMICAL AND BIOLOGICAL) HAZARDS AND CHILDREN UNDERNUTRITION: A SCOPING REVIEW.
@@ -23,7 +25,7 @@
 40936005	Designing reaction-cross-diffusion systems with Turing and wave instabilities.
 40935497	Identifying hotspots of malaria incidence and mortality for tailored interventions in Cameroon using routine data from 2011 to 2021: A Bayesian space-time variability modeling.
 40935289	Towards model-informed precision dosing of intravenous linezolid: a multicentre external evaluation of pharmacokinetic models in critically ill adults.
-40935005	High-Sensitivity Detection of Asymptomatic Malaria in High-Risk Thai Populations Using Droplet Digital PCR.
+40935005	High-sensitivity detection of asymptomatic malaria in high-risk Thai populations using droplet digital PCR.
 40935000	Bulk identification of Anophelinae larvae from fishponds using DNA metabarcoding.
 40934904	US Malaria Casualties and Chemoprophylaxis during the Vietnam War.
 40934287	Diagnostic performance of hemozoin-based magneto-optical detection assay and RDT: a prospective observational study.
@@ -9995,5 +9997,3 @@
 37480777	Smartphone-integrated colorimetric and microfluidic paper-based analytical devices for the trace-level detection of permethrin.
 37480030	Can the performance of pyrethroid-chlorfenapyr nets be reduced when combined with pyrethroid-piperonyl butoxide (PBO) nets?
 37479899	Growth bound and threshold dynamic for nonautonomous nondensely defined evolution problems.
-37479499	War-related sexual and gender-based violence in Tigray, Northern Ethiopia: a community-based study.
-37479498	Cost-effectiveness of community-based distribution of intermittent preventive treatment of malaria in pregnancy in Madagascar, Mozambique, Nigeria, and the Democratic Republic of Congo.
