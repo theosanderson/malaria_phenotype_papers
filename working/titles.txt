@@ -1,3 +1,11 @@
+40951905	The Role of Mathematical Modelling in Predicting and Controlling Infectious Disease Outbreaks in Underserved Settings: A Systematic Review and Meta-Analysis.
+40951274	A common DNA deletion altering the 3'UTR of mdr1 is associated with reduced mefloquine susceptibility in P. vivax parasites from Cambodian patients.
+40951120	Shortening the Journey to Cure: A Quasi-experimental Trial Comparing Seven-Day and 14-Day Primaquine Radical Therapy for Vivax Malaria.
+40951026	Assessing Physicians' Adherence to the 2023 Sudan Malaria Case Management Protocol.
+40950785	Reduced Offspring Viability Is Associated With Long-Term Stability of a Narrow Avian Hybrid Zone.
+40950582	Unraveling the HIV-malaria interactions: a bibliometric analysis of global research trends and emerging insights.
+40949602	Panoramic view of diversity and function of cuticular proteins in insects and mosquitoes biology.
+40949058	Issues associated with malaria self-medication in sub-Saharan Africa: A systematic literature review and meta-analysis.
 40947390	Do microbes mediate rhythmic malaria parasite-mosquito vector interactions?
 40946829	A multidimensional space-time geospatial analysis for examining the spatial trends of vector-borne diseases: 20 years of malaria in Kenya.
 40946313	The major role of the REL2/NF-κB pathway in the regulation of midgut bacterial homeostasis in the malaria vector Anopheles gambiae.
@@ -2820,9 +2828,9 @@
 39955042	Macoligophones A-I, prenylated acetophenone dimers and monomers from Maclurodendron oligophlebium.
 39955031	Identifying thiourea-based hybrids of quinazoline and oxospirochromane as inhibitors of Plasmodium cysteine proteases arresting the parasitic growth at the early trophozoite stage.
 39953870	Preventing malaria by administering a monoclonal antibody.
-39953858	Toxic Epidermal Necrolysis and its possible association with chloroquine: A rare case report in a three-year-old child.
+39953858	Toxic epidermal necrolysis and its possible association with chloroquine: A rare case report in a three-year-old child.
 39953857	Molecular Docking and Pharmacokinetic Properties of Chrysin, Indole-3-carbinol, and Curcumin in the Biological Context of Plasmodium falciparum 3D7.
-39953856	Gorakhpur experience of Japanese Encephalitis Management: A Successful One Health Approach.
+39953856	Gorakhpur, India experience of Japanese encephalitis management: A successful One Health approach.
 39953625	Small bowel obstruction due to ascariasis in a child from southern Ethiopia: a case report.
 39953558	Impact of the intensity of infection in birds on Plasmodium development within Culex pipiens mosquitoes.
 39953553	Unravelling the mode of action of the Tres Cantos Antimalarial Set (TCAMS): investigating the mechanism of potent antimalarial compounds potentially targeting the human serotonin receptor.
@@ -2897,8 +2905,8 @@
 39925660	Exposure to copper metal enhances the tolerance of An. gambiae s.s. over multiple generations while reducing both fertility and fecundity in this primary malaria vector .
 39925376	Evaluation of the transmission-blocking potential of Plasmodium vivax antigen Pvg37 using transgenic rodent parasites and clinical isolates.
 39924859	Guianensin, a Blackfly Salivary Protein, Inhibits the Lectin Pathway of Complement.
-39924851	Transmission Indices of Malaria in Anopheles Mosquitoes in an agrarian community adjourning Osogbo, Southwestern, Nigeria.
-39924844	Role of climatic factors on the perennial malaria cases in Kalahandi district of Odisha, Eastern India.
+39924851	Transmission indices of malaria in Anopheles mosquitoes in an agrarian community adjourning Osogbo, Southwestern Nigeria.
+39924844	Role of climatic factors on the perennial malaria cases in Kalahandi district of Odisha, eastern India.
 39923782	WHO world malaria report 2024.
 39923751	Transmitted blood infections and emerging vector-borne diseases in blood donors in northern Portugal.
 39923546	Whole-genome sieve analysis: Identification of protective malaria antigens by leveraging allele-specific vaccine efficacy.
@@ -3194,7 +3202,7 @@
 39836973	Incorporating Community Case Management in Risk-Based Surveillance for Malaria Elimination in the Dominican Republic.
 39836705	Emergence of SARS-CoV-2 subgenomic RNAs that enhance viral fitness and immune evasion.
 39836698	Mortality among 5 to 19-year-olds in rural Mali.
-39836042	Recent Trends and Perspectives on Malaria Relapse: A Mini Review.
+39836042	Recent trends and perspectives on malaria relapse: A mini review.
 39835311	Determining the risk factors of malaria and anemia in children between 6 and 59 months using the joint generalized linear mixed model on the 2021 Nigeria Malaria Indicator Survey dataset.
 39835275	Plasmodium falciparum transcription factor AP2-06B is mutated at high frequency in Southeast Asia but does not associate with drug resistance.
 39834837	Editorial: Novel pharmacological targets and strategies to treat neglected global diseases (NGDs): an LMIC perspective.
@@ -3336,7 +3344,7 @@
 39793851	Artesunate-induced anaemia: A case report of a pharmacological complication to consider.
 39793595	A new RH5.1/Matrix-M candidate malaria vaccine: a promising finding to boost malaria elimination in Africa.
 39792907	Situational analysis of malaria in Cabo Verde: From endemic control to elimination, history, cases data and challenges ahead.
-39792449	Lectin Microarray Analysis of Salivary Gland Glycoproteins from the Arboviral Vector Aedes aegypti and the Malaria Vector Anopheles stephensi.
+39792449	Lectin microarray analysis of salivary gland glycoproteins from arboviral vector Aedes aegypti and malaria vector Anopheles stephensi.
 39791740	The Ivermectin Related Compound Moxidectin Can Target Apicomplexan Importin α and Limit Growth of Malarial Parasites.
 39790775	Doctors' knowledge, practices, challenges, and limitations regarding disclosure of bad news: A multicentre study from Pakistan.
 39789650	Human migrations, anthropogenic changes, and insect-borne diseases in Latin America.
@@ -3768,7 +3776,7 @@
 39637118	Characterization of human exposure to Anopheles and Aedes bites using antibody-based biomarkers in rural zone of Cameroon.
 39636874	Fungi from Anopheles darlingi Root, 1926, larval breeding sites in the Brazilian Amazon.
 39636817	Copy number variants underlie major selective sweeps in insecticide resistance genes in Anopheles arabiensis.
-39636259	Prevalence and seasonal patterns of vector borne diseases in patients presenting with acute febrile illness in a tertiary care hospital in Puducherry- a prospective observational study.
+39636259	Prevalence and seasonal patterns of vector-borne diseases in patients presenting with acute febrile illness in a tertiary care hospital in Puducherry, India: A prospective observational study.
 39636094	PfMORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, Plasmodium falciparum.
 39635131	Red blood cell signaling is functionally conserved in Plasmodium invasion.
 39634199	Exploration of iron deficiency anemia and its associated factors among pregnant women seeking antenatal care in public health facilities of southwestern Ethiopia. A mixed study.
@@ -4536,7 +4544,7 @@
 39373249	Spatial analysis and mapping of malaria endemic-prone areas using environmental risk factors and spatial multi criteria decision analysis in the Northern Zone of Plateau State, Nigeria.
 39373229	Bridging the gaps: prioritizing research strategies for enhanced malaria control and elimination.
 39373225	Characterization of Anopheles mosquito breeding habitats for malaria vector control in Mazowe and Shamva districts, Zimbabwe.
-39373224	Intercalating compounds alongside DNA helicase Q1 Plasmodium falciparum 3D7: Assessments of the Pharmacokinetic Properties Prediction of ADME.
+39373224	Intercalating compounds alongside DNA helicase Q1 Plasmodium falciparum 3D7: Assessments of pharmacokinetic properties prediction of ADME.
 39373161	Evaluation of the In2care Mosquito Station against Culex quinquefasciatus mosquitoes (Diptera: Culicidae) under semifield conditions.
 39372941	Bionomics and distribution of malaria vectors in Kisumu city, Western Kenya: Implications for urban malaria transmission.
 39372934	Rapid phenotypic and genotypic change in a laboratory schistosome population.
@@ -9989,11 +9997,3 @@
 37484595	Prevalence of tuberculosis/COVID-19 co-infection and factors associated with SARS-CoV-2 infection in pulmonary tuberculosis patients at a respiratory diseases center: a cross-sectional study.
 37484560	Is structural hybridization invoking new dimensions for antimalarial drug discovery research?
 37484481	Characterisation of human exposure to nocturnal biting by malaria and arbovirus vectors in a rural community in Chókwè district, southern Mozambique.
-37483711	Biological activities of 4H-thiochromen-4-one 1,1-dioxide derivatives against tropical disease parasites: A target-based drug design approach.
-37482133	Genome-wide binding sites of Plasmodium falciparum mini chromosome maintenance protein MCM6 show new insights into parasite DNA replication.
-37482049	A systematic review and meta-analysis of inflammatory biomarkers associated with malaria infection and disease severity.
-37481347	Designing an effective malaria vaccine targeting Plasmodium vivax Duffy-binding protein.
-37481258	Unusually Divergent Ubiquitin Genes and Proteins in Plasmodium Species.
-37480777	Smartphone-integrated colorimetric and microfluidic paper-based analytical devices for the trace-level detection of permethrin.
-37480030	Can the performance of pyrethroid-chlorfenapyr nets be reduced when combined with pyrethroid-piperonyl butoxide (PBO) nets?
-37479899	Growth bound and threshold dynamic for nonautonomous nondensely defined evolution problems.
