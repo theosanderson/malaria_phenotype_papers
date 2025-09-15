@@ -1,3 +1,4 @@
+40946313	The major role of the REL2/NF-κB pathway in the regulation of midgut bacterial homeostasis in the malaria vector Anopheles gambiae.
 40946223	Targeting Plasmodium falciparum Single-Stranded DNA-Binding Protein: Discovery of New Scaffold Compounds Effective against Drug-Sensitive and Artemisinin-Resistant Strains.
 40945889	EXPOSURE TO ENVIRONMENTAL (CHEMICAL AND BIOLOGICAL) HAZARDS AND CHILDREN UNDERNUTRITION: A SCOPING REVIEW.
 40945879	Toxicity Profile, Antiplasmodial and Gametocytocidal Properties of Erigeron bonariensis L. (anc. Conyza bonariensis (L.) Cronquist).
@@ -9996,4 +9997,3 @@
 37479899	Growth bound and threshold dynamic for nonautonomous nondensely defined evolution problems.
 37479499	War-related sexual and gender-based violence in Tigray, Northern Ethiopia: a community-based study.
 37479498	Cost-effectiveness of community-based distribution of intermittent preventive treatment of malaria in pregnancy in Madagascar, Mozambique, Nigeria, and the Democratic Republic of Congo.
-37478957	Synthesis and activity of β-carboline antimalarials targeting the Plasmodium falciparum heat shock 90 protein.
