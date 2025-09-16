@@ -1,3 +1,7 @@
+40956579	Preterm Birth and Malaria Susceptibility in Offspring of Uninfected Multigravid Women.
+40956368	Mosquito-based transmission-blocking vaccine candidates for malaria: progress, challenges, and innovations.
+40956360	Differential susceptibility of human placental trophoblasts to Trypanosoma cruzi infection.
+40955902	Prevalence of Dehydration and Use of Oral Electrolytes in Diabetic Adults and Older Adults with Nondiarrheal Conditions: A Retrospective, Real-world, Database Study.
 40955282	Biodiversity threats and socio-ecological dynamics in Chebera Churchura National Park: A One Health approach.
 40954459	Interplay of obesity and parasitic infection: current evidence of immunogenesis, tumorigenesis and leptin receptor involvement.
 40954307	Erythrocyte invasion in malaria: from molecular mechanisms to rational vaccines.
@@ -9993,7 +9997,3 @@
 37489446	Serum Metabolome Signatures Characterizing Co-Infection of Plasmodium falciparum and HBV in Pregnant Women.
 37489384	Identifying Health-Related Conditions Associated with Tinnitus in Young Adults.
 37489265	Multifaceted Spindle Cell/Sclerosing Rhabdomyosarcoma With Role of Immunohistochemistry in Avoiding Misdiagnosis: A Multi-Institutional Study of 45 Distinct Tumors.
-37487563	Case Report: A Case of Bone Marrow Necrosis and Hyperinflammation in a 10-Year-Old Boy after Plasmodium falciparum Infection.
-37487212	A Zebra Among the Horses: Clinical Implications of Malaria in the United States.
-37486920	Alignment of multiple metabolomics LC-MS datasets from disparate diseases to reveal fever-associated metabolites.
-37486913	Enhancement of VGG16 model with multi-view and spatial dropout for classification of mosquito vectors.
