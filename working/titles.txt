@@ -1,3 +1,4 @@
+40955282	Biodiversity threats and socio-ecological dynamics in Chebera Churchura National Park: A One Health approach.
 40954459	Interplay of obesity and parasitic infection: current evidence of immunogenesis, tumorigenesis and leptin receptor involvement.
 40954307	Erythrocyte invasion in malaria: from molecular mechanisms to rational vaccines.
 40954071	It is time to increase Africa's governmental representation on the governing board of the global fund to fight AIDS, tuberculosis and malaria.
@@ -9996,4 +9997,3 @@
 37487212	A Zebra Among the Horses: Clinical Implications of Malaria in the United States.
 37486920	Alignment of multiple metabolomics LC-MS datasets from disparate diseases to reveal fever-associated metabolites.
 37486913	Enhancement of VGG16 model with multi-view and spatial dropout for classification of mosquito vectors.
-37485444	Association between hemoglobin variants and laboratory outcomes in patients infected with P. falciparum from South West Uganda.
