@@ -1,3 +1,5 @@
+40953056	Re-evaluating malarial retinopathy to improve its diagnostic accuracy in paediatric cerebral malaria: A retrospective study.
+40953010	HLA-G 14 bp polymorphism: Implications and its associated risk to malaria severity among iron-fortified Ghanaian infants and young children.
 40951905	The Role of Mathematical Modelling in Predicting and Controlling Infectious Disease Outbreaks in Underserved Settings: A Systematic Review and Meta-Analysis.
 40951274	A common DNA deletion altering the 3'UTR of mdr1 is associated with reduced mefloquine susceptibility in P. vivax parasites from Cambodian patients.
 40951120	Shortening the Journey to Cure: A Quasi-experimental Trial Comparing Seven-Day and 14-Day Primaquine Radical Therapy for Vivax Malaria.
@@ -9995,5 +9997,3 @@
 37484730	Modeling the Effect of Climate Change on the Distribution of Main Malaria Vectors in an Endemic Area, Southeastern Iran.
 37484599	A roadmap for the digital management of long-lasting insecticide-treated mosquito nets (LLINs) distribution campaigns in the Democratic Republic of Congo.
 37484595	Prevalence of tuberculosis/COVID-19 co-infection and factors associated with SARS-CoV-2 infection in pulmonary tuberculosis patients at a respiratory diseases center: a cross-sectional study.
-37484560	Is structural hybridization invoking new dimensions for antimalarial drug discovery research?
-37484481	Characterisation of human exposure to nocturnal biting by malaria and arbovirus vectors in a rural community in Chókwè district, southern Mozambique.
