@@ -1,3 +1,7 @@
+40954459	Interplay of obesity and parasitic infection: current evidence of immunogenesis, tumorigenesis and leptin receptor involvement.
+40954307	Erythrocyte invasion in malaria: from molecular mechanisms to rational vaccines.
+40954071	It is time to increase Africa's governmental representation on the governing board of the global fund to fight AIDS, tuberculosis and malaria.
+40953585	Potential paediatric tuberculosis incidence and deaths resulting from interruption in programmes supported by international health aid, 2025-34: a mathematical modelling study.
 40953056	Re-evaluating malarial retinopathy to improve its diagnostic accuracy in paediatric cerebral malaria: A retrospective study.
 40953010	HLA-G 14 bp polymorphism: Implications and its associated risk to malaria severity among iron-fortified Ghanaian infants and young children.
 40951905	The Role of Mathematical Modelling in Predicting and Controlling Infectious Disease Outbreaks in Underserved Settings: A Systematic Review and Meta-Analysis.
@@ -9993,7 +9997,3 @@
 37486920	Alignment of multiple metabolomics LC-MS datasets from disparate diseases to reveal fever-associated metabolites.
 37486913	Enhancement of VGG16 model with multi-view and spatial dropout for classification of mosquito vectors.
 37485444	Association between hemoglobin variants and laboratory outcomes in patients infected with P. falciparum from South West Uganda.
-37485364	Preclinical evaluations of Pfs25-EPA and Pfs230D1-EPA in AS01 for a vaccine to reduce malaria transmission.
-37484730	Modeling the Effect of Climate Change on the Distribution of Main Malaria Vectors in an Endemic Area, Southeastern Iran.
-37484599	A roadmap for the digital management of long-lasting insecticide-treated mosquito nets (LLINs) distribution campaigns in the Democratic Republic of Congo.
-37484595	Prevalence of tuberculosis/COVID-19 co-infection and factors associated with SARS-CoV-2 infection in pulmonary tuberculosis patients at a respiratory diseases center: a cross-sectional study.
