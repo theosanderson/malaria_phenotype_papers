@@ -1,3 +1,5 @@
+40956864	The Promises and Prospects of Long-Acting Therapeutics for Treatment and Prevention of Infectious Diseases.
+40956667	Protocol for genomic surveillance of Plasmodium falciparum antigens using amplicon-based PacBio long-read sequencing.
 40956579	Preterm Birth and Malaria Susceptibility in Offspring of Uninfected Multigravid Women.
 40956368	Mosquito-based transmission-blocking vaccine candidates for malaria: progress, challenges, and innovations.
 40956360	Differential susceptibility of human placental trophoblasts to Trypanosoma cruzi infection.
@@ -9995,5 +9997,3 @@
 37490738	Viewpoint: Antimicrobial Resistance Diagnostics Use Accelerator: Qualitative Research on Adherence to Prescriptions.
 37489900	Global analysis of putative phospholipases in Plasmodium falciparum reveals an essential role of the phosphoinositide-specific phospholipase C in parasite maturation.
 37489446	Serum Metabolome Signatures Characterizing Co-Infection of Plasmodium falciparum and HBV in Pregnant Women.
-37489384	Identifying Health-Related Conditions Associated with Tinnitus in Young Adults.
-37489265	Multifaceted Spindle Cell/Sclerosing Rhabdomyosarcoma With Role of Immunohistochemistry in Avoiding Misdiagnosis: A Multi-Institutional Study of 45 Distinct Tumors.
