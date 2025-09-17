@@ -1,3 +1,5 @@
+40959483	Plant-Derived Natural Product-Based Nanoformulations for Healthcare Application.
+40959382	In-silico novel thioredoxin-interacting protein inhibitors from Syzygium aromaticum and Terminalia chebula and their validations to combat arsenic-Induced toxicity in Vero cells.
 40957640	GLP-1 receptor agonists risk becoming another story of global health inequity-what can we learn from the response to HIV/AIDS?
 40957509	Formulation, characterization, anti-bacterial, anti-inflammatory, anti-cancer, and cytotoxicity assessment of collagen/gelatin-based hydrogels as controlled drug release agents.
 40956864	The Promises and Prospects of Long-Acting Therapeutics for Treatment and Prevention of Infectious Diseases.
@@ -9995,5 +9997,3 @@
 37490744	Advancing Access to Diagnostic Tools Essential for Universal Health Coverage and Antimicrobial Resistance Prevention: An Overview of Trials in Sub-Saharan Africa.
 37490743	Synthesis and Meta-analysis of 3 Randomized Trials Conducted in Burkina Faso, Ghana, and Uganda Comparing the Effects of Point-of-Care Tests and Diagnostic Algorithms Versus Routine Care on Antibiotic Prescriptions and Clinical Outcomes in Ambulatory Patients <18 Years of Age With Acute Febrile Illness.
 37490742	A Randomized Trial to Assess the Impact of a Package of Diagnostic Tools and Diagnostic Algorithm on Antibiotic Prescriptions for the Management of Febrile Illnesses Among Children and Adolescents in Primary Health Facilities in Burkina Faso.
-37490741	A Qualitative Assessment of a Training and Communication Intervention on Antibiotic Prescription Practices Among Health Workers and Outpatients at Public Health Facilities in Uganda.
-37490738	Viewpoint: Antimicrobial Resistance Diagnostics Use Accelerator: Qualitative Research on Adherence to Prescriptions.
