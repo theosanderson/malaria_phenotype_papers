@@ -1,3 +1,5 @@
+40957640	GLP-1 receptor agonists risk becoming another story of global health inequity-what can we learn from the response to HIV/AIDS?
+40957509	Formulation, characterization, anti-bacterial, anti-inflammatory, anti-cancer, and cytotoxicity assessment of collagen/gelatin-based hydrogels as controlled drug release agents.
 40956864	The Promises and Prospects of Long-Acting Therapeutics for Treatment and Prevention of Infectious Diseases.
 40956667	Protocol for genomic surveillance of Plasmodium falciparum antigens using amplicon-based PacBio long-read sequencing.
 40956579	Preterm Birth and Malaria Susceptibility in Offspring of Uninfected Multigravid Women.
@@ -323,7 +325,7 @@
 40844434	C1'-Branched Acyclic Nucleoside Phosphonates as Inhibitors of Plasmodium Falciparum 6-Oxopurine Phosphoribosyltransferase.
 40843420	Evaluation and analysis of theoretical knowledge proficiency and practical skills among parasitic disease practitioners in Hainan province: a cross-sectional survey.
 40842146	Molecular identification of Anopheles moghulensis (Diptera; Culicidae) in Iran: overcoming morphological misidentification.
-40840760	Proteomic Insight into the Ontogeny of Blood-Meal Digestion in the tick Ixodes ricinus.
+40840760	Proteomic Insight Into the Ontogeny of Blood-Meal Digestion in the Tick Ixodes ricinus.
 40840727	The role and mechanism of Artemisia annua L. in cancer treatment.
 40840698	Metatranscriptomic profiling of the bacterial and fungal microbiota of field-collected Anopheles darlingi from Colombia: Community composition and functional insights.
 40840407	Screening and hit evaluation of a microbial metabolite library against the pathogenic Plasmodium falciparum and Toxoplasma gondii parasites.
@@ -9995,5 +9997,3 @@
 37490742	A Randomized Trial to Assess the Impact of a Package of Diagnostic Tools and Diagnostic Algorithm on Antibiotic Prescriptions for the Management of Febrile Illnesses Among Children and Adolescents in Primary Health Facilities in Burkina Faso.
 37490741	A Qualitative Assessment of a Training and Communication Intervention on Antibiotic Prescription Practices Among Health Workers and Outpatients at Public Health Facilities in Uganda.
 37490738	Viewpoint: Antimicrobial Resistance Diagnostics Use Accelerator: Qualitative Research on Adherence to Prescriptions.
-37489900	Global analysis of putative phospholipases in Plasmodium falciparum reveals an essential role of the phosphoinositide-specific phospholipase C in parasite maturation.
-37489446	Serum Metabolome Signatures Characterizing Co-Infection of Plasmodium falciparum and HBV in Pregnant Women.
